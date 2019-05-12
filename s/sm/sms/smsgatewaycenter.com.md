@@ -1,72 +1,124 @@
-> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184509id_/https%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512145132id_/https%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of SMS Gateway Center
 
-This privacy statement discloses the privacy practices forSmsGatewayCenter.com.
+This privacy statement discloses the privacy practices for SmsGatewayCenter.com. 
 
-We want to build your trust and confidence in the Internet bypromoting the use of fair information practices. We arecommitted to your privacy and are disclosing our informationpractices in this company statement.
+We want to build your trust and confidence in the Internet by promoting the use of fair information practices. We are committed to your privacy and are disclosing our information practices in this company statement. 
 
-This Privacy Policy lets you know how your personal informationis processed and used. We promise that we will take steps to useyour personal information only in ways that are compatible withthis Privacy Policy. The following policies are only in effectfor the Web pages, newsletters, discussion lists and opt-inannouncement lists owned and operated by SmsGatewayCenter.com.
+This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by SmsGatewayCenter.com. 
 
 ### Collecting Information
 
-Every computer connected to the Internet is given a domain nameand a set of numbers that serve as that computer's “InternetProtocol” IP address. When a visitor requests a page from anyWeb site within the SmsGatewayCenter.com Network, our Web serversautomatically recognize that visitor's domain name and IPaddress. The domain name and IP address reveal nothing personalabout you other than the IP address from which you have accessedour site. We use this information to examine our traffic inaggregate, but do not collect and evaluate this information forindividuals. Our Web servers do not record e-mail addresses ofthe visitors.
+Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's “Internet Protocol” IP address. When a visitor requests a page from any Web site within the SmsGatewayCenter.com Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. 
 
 ### Use of Cookies 
 
-From time to time, SmsGatewayCenter.com or its advertisers may send a“cookie” to your computer. A cookie is a small piece of datathat is sent to your browser from a web server and stored onyour computer's hard drive. A cookie can not read data off yourhard disk or read cookie files created by other sites. Cookiesdo not damage your system. We use cookies to identify whichareas of SmsGatewayCenter.com Network of Web pages you have visited, sothe next time you visit, those pages may be readily accessible.Our advertisers may also use cookies to ascertain how many timesyou have seen an advertisement. We and our advertisers may usethis information to better personalize the content, banners, andpromotions that you see on our site.
+From time to time, SmsGatewayCenter.com or its advertisers may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can not read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of SmsGatewayCenter.com Network of Web pages you have visited, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you have seen an advertisement. We and our advertisers may use this information to better personalize the content, banners, and promotions that you see on our site. 
 
-You can choose whether to accept cookies by changing thesettings of your browser. You can reset your browser to refuseall cookies, or allow your browser to show you when a cookie isbeing sent. If you choose not to accept these cookies, yourexperience at our site and other Web sites may be diminished andsome features may not work as intended.
+You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended. 
 
 ### Information Request 
 
-We may also request your e-mail address or mailing address forthe purposes of conducting a survey or to provide additionalservices (for example, subscriptions to e-mail newsletters,announcement lists or information about seminars) Whenever werequest the identity of a visitor, we will clearly indicate thepurpose of the inquiry before the information is requested. Wemaintain a strict “No-Spam” policy, that means that we do notintend to sell, rent, or otherwise give your e-mail address to athird-party, without your consent.
+We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars) Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict “No-Spam” policy, that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent. 
 
-In addition, SmsGatewayCenter.com will not send you email that you havenot agreed to receive. We may from time to time send e-mailannouncing new SmsGatewayCenter.com products and services. If you chooseto supply your postal address in an online form, you may receivemailings from other reputable, third-party companies.
+In addition, SmsGatewayCenter.com will not send you email that you have not agreed to receive. We may from time to time send e-mail announcing new SmsGatewayCenter.com products and services. If you choose to supply your postal address in an online form, you may receive mailings from other reputable, third-party companies. 
 
-If you choose to purchase something online, we need to know yourname, e-mail address, mailing address, credit card number, andexpiration date. This allows us to process and fulfill yourorder and to notify you of your order status. This informationmay also be used by us to notify you of related product andservices, but will not be shared or sold to third parties forany purpose.
+If you choose to purchase something online, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services, but will not be shared or sold to third parties for any purpose. 
 
 ### Disclose of Information to Outside Third Parties 
 
-SmsGatewayCenter.com will disclose personal information when required bylaw or in the good-faith belief that such action is necessaryto:   
-1\. Conform to the edicts of the law or comply witha legal process served on SmsGatewayCenter.com  
-2\. Protect anddefend the rights or property of SmsGatewayCenter.com, or visitors toSmsGatewayCenter.com  
-3\. Identify persons who may be violating thelaw, the legal notice, or the rights of third parties,   
-4\. Cooperate with the investigations of purported unlawfulactivities. SmsGatewayCenter.com uses reasonable precautions to keep theinformation disclosed to us secure. However, we are notresponsible for any breach of security or for any actions of anythird parties which receive the information. SmsGatewayCenter.com alsolinks to a wide variety of other sites and containsadvertisements of third parties. We are not responsible fortheir privacy policies or how they treat information about theirusers.
+SmsGatewayCenter.com will disclose personal information when required by law or in the good-faith belief that such action is necessary to:   
+1\. Conform to the edicts of the law or comply with a legal process served on SmsGatewayCenter.com  
+2\. Protect and defend the rights or property of SmsGatewayCenter.com, or visitors to SmsGatewayCenter.com  
+3\. Identify persons who may be violating the law, the legal notice, or the rights of third parties,   
+4\. Cooperate with the investigations of purported unlawful activities. SmsGatewayCenter.com uses reasonable precautions to keep the information disclosed to us secure. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. SmsGatewayCenter.com also links to a wide variety of other sites and contains advertisements of third parties. We are not responsible for their privacy policies or how they treat information about their users.
 
 ### Correction/Updating Personal Information 
 
-If a user's personally identifiable information changes (such asyour email address), we will endeavour to provide a way tocorrect, update or remove that user's personal data provided tous. Please email information to sales at SmsGatewayCenter.com
+If a user's personally identifiable information changes (such as your email address), we will endeavour to provide a way to correct, update or remove that user's personal data provided to us. Please email information to sales at SmsGatewayCenter.com 
 
 ### Newsletter
 
-If a user wishes to subscribe to our newsletter or emailupdates, we ask for contact information such as first name andemail address. This information is only used to send out theinformation requested. Names collected are not used at thistime. Out of respect for the privacy of our users we present theoption to not receive these types of communications. Please seeour choice and opt-out below.
+If a user wishes to subscribe to our newsletter or email updates, we ask for contact information such as first name and email address. This information is only used to send out the information requested. Names collected are not used at this time. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. <https://www.smsgatewaycenter.com/manage-subscription.html>
 
 ### Choice/Opt-out
 
-Users who no longer wish to receive our newsletter orpromotional materials may opt-out of receiving thesecommunications by sending an email to contact@SmsGatewayCenter.com.  
-Users of our site are always notified when their information isbeing collected by any outside parties. We do this so our userscan make an informed choice as to whether they should proceedwith services that require an outside party, or not.
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by sending an email to contact@SmsGatewayCenter.com.  
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
 ### Information Collection and Use 
 
-SmsGatewayCenter.com is the sole owner of the information collected onthis site. We will not sell, share, or rent this information toothers in ways different from what is disclosed in thisstatement. SmsGatewayCenter.com presently collects information from itsusers at different points on its website as follows.
+SmsGatewayCenter.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SmsGatewayCenter.com presently collects information from its users at different points on its website as follows. 
 
 ### Sharing Information 
 
-We will share aggregated demographic information with ourpartners and advertisers if requested. This is not linked to anypersonal information that can identify any individual person orcomputer.
+We will share aggregated demographic information with our partners and advertisers if requested. This is not linked to any personal information that can identify any individual person or computer. 
 
-We may partner with another party to provide specific services.When the user signs up for these services, we will share names,or other contact information that is necessary for the thirdparty to provide these services. If you do not want yourpersonal information shared, please email support@SmsGatewayCenter.comwith your request.
+We may partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. If you do not want your personal information shared, please email support@SmsGatewayCenter.com with your request. 
 
-The parties listed above are not allowed to use personallyidentifiable information except for the purpose of providingthese services.
+The parties listed above are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 ### Surveys & Contests 
 
-From time-to-time our site may request information from usersvia surveys or contests. Participation in these surveys orcontests is completely voluntary and the user therefore has achoice whether or not to disclose this information. Informationrequested may include contact information (such as name andshipping address), and demographic information (such as zipcode, age level). Contact information will be used to notify thewinners and award prizes. Survey information will be used forpurposes of monitoring or improving the use and satisfaction ofthis site.
+From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 ### Your Consent To This Agreement 
 
-By using our Web site, you consent to the collection and use ofinformation by SmsGatewayCenter.com as specified above. If we decide tochange our privacy policy, we will post those changes on thispage so that you are always aware of what information wecollect, how we use it, and under what circumstances we discloseit.
+By using our Web site, you consent to the collection and use of information by SmsGatewayCenter.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-© Copyright 2010-2017 Popular Softtech & Marketing Pvt Ltd.
+© Copyright 2010-2019 Popular Softtech & Marketing Pvt Ltd.
 
 All Rights Reserved. Privacy Policy.
+
+#### Special SMS Pricing
+
+[](https://www.smsgatewaycenter.com/promotional-sms-pricing.html "Special Promotinal SMS Pricing for NTC Gateway")
+
+#### OBAAS - CRM, Online Accounting, Billing and Invoicing Software
+
+[](https://obaas.com/ "OBAAS - CRM, Online Accounting, Billing and Invoicing Software")
+
+#### SMS Pricing
+
+  * [Transactional SMS Pricing](https://www.smsgatewaycenter.com/transactional-sms-pricing.html "Transactional SMS Pricing")
+  * [One Time Password SMS Pricing](https://www.smsgatewaycenter.com/otp-sms-pricing.html "One Time Password SMS Pricing")
+  * [Promotional SMS Pricing](https://www.smsgatewaycenter.com/promotional-sms-pricing.html "Promotional SMS Pricing")
+  * [Community Opt-in SMS Pricing](https://www.smsgatewaycenter.com/community-optin-sms-pricing.html "Community Opt-in SMS Pricing")
+  * [International SMS Pricing](https://www.smsgatewaycenter.com/international-sms-pricing.html "International SMS Pricing")
+  * [Dedicated Long Code SMS Pricing](https://www.smsgatewaycenter.com/site/dedicated-long-code-sms-pricing/)
+  * [Short Code SMS Pricing](https://www.smsgatewaycenter.com/shortcode-pricing.html "Short Code SMS Pricing")
+  * [Long Code SMS Pricing](https://www.smsgatewaycenter.com/longcode-pricing.html "Long Code SMS Pricing")
+  * [Voice Calls Pricing](https://www.smsgatewaycenter.com/voice-calls-pricing.html)
+  * [Missed Call Pricing](https://www.smsgatewaycenter.com/missed-call-notification-pricing.html "Missed Call Pricing")
+  * [Email Marketing Pricing](https://www.smsgatewaycenter.com/email-marketing-pricing.html "Email Marketing Pricing")
+
+
+
+#### Services
+
+  * [Transactional SMS](https://www.smsgatewaycenter.com/transactional-sms.html "Transactional SMS")
+  * [Complete OTP SMS Infrastructure](https://www.smsgatewaycenter.com/site/one-time-password-code-generator-2-factor-otp-authentication/ "Complete OTP SMS Infrastructure")
+  * [One Time Password Verification SMS](https://www.smsgatewaycenter.com/site/otp-sms-time-password-verification-sms/ "One Time Password Verification SMS")
+  * [Promotional SMS](https://www.smsgatewaycenter.com/promotional-sms.html "Promotional SMS")
+  * [Community SMS / Optin SMS](https://www.smsgatewaycenter.com/community-optin-sms.html "Community SMS / Optin SMS")
+  * [Toll Free SMS](https://www.smsgatewaycenter.com/toll-free-sms.html "Toll Free SMS")
+  * [Short Code SMS](https://www.smsgatewaycenter.com/short-code-sms-services.html "Short Code SMS")
+  * [Long Code SMS](https://www.smsgatewaycenter.com/long-code-sms-services.html "Long Code SMS")
+  * [Voice Calls](https://www.smsgatewaycenter.com/voice-calls.html)
+  * [Missed Call Notification](https://www.smsgatewaycenter.com/missed-call-notification.html "Missed Call Notification")
+  * [Email Marketing Campaign](https://www.smsgatewaycenter.com/email-marketing-campaign.html "Email Marketing Campaign")
+  * [Free SMS Campaign Database](https://www.smsgatewaycenter.com/site/sms-campaign-database/ "Free SMS Campaign Database")
+  * [Quiz SMS](https://www.smsgatewaycenter.com/quiz-sms/ "Quiz SMS")
+  * [2 Factor Authentication via Missed Call](https://www.smsgatewaycenter.com/site/2-factor-authentication-missed-call/ "2 Factor Authentication via Missed Call")
+
+
+
+#### SMS Business Opportunities
+
+  * [Bulk SMS Reseller Program](https://www.smsgatewaycenter.com/bulk-sms-reseller-gateway.html "Bulk SMS Reseller Program")
+  * [SMS Reseller FAQ](https://www.smsgatewaycenter.com/reseller-faq.html "SMS Reseller FAQ")
+
+
+
+#### Bulk SMS Know-how
