@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidekyoto.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191602id_/https%3A//www.insidekyoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidekyoto.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512211552id_/https%3A//www.insidekyoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Kyoto
 
