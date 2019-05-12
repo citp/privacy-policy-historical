@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsday.co.zw privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018044935id_/https%3A//www.newsday.co.zw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.co.zw privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512143206id_/https%3A//www.newsday.co.zw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsDay Zimbabwe
 
