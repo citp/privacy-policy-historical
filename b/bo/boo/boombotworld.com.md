@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boombotworld.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228060410id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombotworld.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512224849id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.*
 
 # Ninja Kiwi
 
