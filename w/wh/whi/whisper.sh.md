@@ -1,99 +1,105 @@
-> *The following text is extracted and transformed from the whisper.sh privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193325id_/https%3A//whisper.sh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whisper.sh privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513000033id_/http%3A//whisper.sh/privacy) for the most accurate reproduction.*
 
-# Privacy - Whisper
+# Whisper Privacy Policy
 
-Updated 2015-05-22
+## PRIVACY POLICY
 
-WhisperText, Inc (" **WhisperText** ," " **we** " or " **us** ") is committed to being a safe place for our users to anonymously share their innermost thoughts, secrets, and feelings. That’s why we place so much focus on protecting your privacy and personal information.
+Updated: 2019-01-15
 
-This Privacy Policy covers the WhisperText website (" **Site** ") and any WhisperText application or service (" **Services** "). It explains how our Site or Services collect, use, protect, and disclose personal information, Usage data, and Message data (we define these last two terms below). Please note that we are not responsible for the privacy practices of, or content on, third party services or other properties to which our Site or the Services link, or into which our Services are embedded or incorporated (e.g., Whisper embeds).
+This Privacy Policy explains how we (MediaLab.AI) collect, use and share your information when you use our website, mobile application and other online products and services (we call all these the "Services") or when you otherwise interact with us.
 
-## What Information We Collect
+We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy or providing you with additional notice (such as adding a statement to our homepage or sending you a notification).
 
-### Personal Information and Anonymity
+If you have any questions about this Privacy Policy, please contact us at: [support@media-lab.ai](mailto:support@media-lab.ai)
 
-We collect very little information that could be used to identify you personally. A non-unique username is randomly assigned to you that you may change at any time. If you change your username, please be sure to create a username that doesn’t disclose any personally identifying information. If you decide to invite your friends to use the Services via our “invite friends” feature, you will also need to reveal your cell phone number to your friend when you send the invitation. No mobile number or email address is ever stored on our servers.
+## HOW WE COLLECT AND USE INFORMATION
 
-Our goal is to provide you with a tool that allows you to express yourself while remaining anonymous to the community. However, please keep in mind that your whispers will be publicly viewable, so if you want to preserve your anonymity you should not include any personal information in your whispers. In addition, when you allow us to collect latitude and longitude location information from your device by enabling locations services, your general location (e.g., town) and proximity to other users when you post, will also be publicly viewable. Therefore, even if you do not include personal information in your whispers, your use of the Services may still allow others, over time, to make a determination as to your identity based on the content of your whispers as well as your general location. For instance, if you work in a small organization and post whispers about your working experience, it is possible that at some point a co-worker will be able to identify you. This is part of the nature of the Services, and we encourage you to be careful and avoid including details that may be used by others to identify you.
+### INFORMATION YOU PROVIDE TO US
 
-### Usage Data
+  * Account Information: When you use our mobile application, a username will be randomly assigned to you that you may change or delete at any time. Your username is publicly displayed when you interact with the Services, such as when you post a whisper or send a chat message to another user. Please keep in mind that if your username contains your real name or is the same as how you identify yourself on other online services, people who see it may determine your identity. We may also ask you for, or you may choose to provide, additional information, such as age or gender, that will be associated with your Whisper account. 
 
-We automatically collect usage information. This doesn’t tell us who a user is, though. It just lets us collect information about how people access and use our Services. This collected information is called Usage Data. We gather it so we can get a better portrait of how our users are interacting with the Site and Services so that we can continue to improve the user experience over time.
+  * User Content: When you interact with the Services, we collect the information and content you create. For example, we collect the text and/or image content of your whispers, replies, and chat messages. All whispers and replies are public and are publicly displayed (for information about deletion of whispers, please see “Your Choices” below). They may be viewed, shared and modified by our users, us and others for commercial or personal purposes (consistent with the rights and licenses in our [**Terms of Use**](https://web.archive.org/terms)). Please keep in mind that if you include information that could identify you in the text or image of a whisper, people who see it may determine your identity. MediaLab does not post chat messages publicly but, as with any message that you send via any service, the recipient might do so. 
 
-Here are a few examples of Usage Data:
+  * Other Information: You may provide other information directly to us. For example, we may collect information when you fill out a form, update your account, interact with the Services, apply for a job at our company, communicate with us via third-party social media sites, request customer support or otherwise communicate with us. 
 
-When you download and use our Services, we automatically collect information about the type of device you’re using, the operating system version on your device and your IP Address. Or if you’re using the Site, we automatically collect information about your operating system, web browser, Internet Service Provider (ISP), and your network-enabled machine’s Internet Protocol (IP) address, as well as the pages you view, and the time and length of your visit. This data helps us analyze trends and user behaviors, manage the site, and enhance or update our Services. In other words, it helps us give you a better experience by understanding and reacting to the ways that users interact with the Services and Site.
 
-While you’re downloading or using our mobile applications or Services, we may ask for, access, or track location-based information such as device-provided latitude or longitude, if you have location services enabled for the application. One reason for doing this is to help you explore postings in your area or for us to determine how many postings come from a particular area. If you are using an Android device, our Services may continue to run in the background. In this instance, your device may also periodically send us location information. However, giving us permission to access or track any location-based data is absolutely voluntary. In fact, you may freely opt into or opt out of location-based portions of our Services at any time using the app- or device-level settings on iOS or the device-level settings on Android. However, please bear in mind that, even if you have disabled location services, we may still determine your city, state, and country location based on your IP address (but not your exact location).
 
-### Chat Data
 
-When you use our Services to send or receive chat messages, we and our service providers may process and store your chat messages, and related information, including message recipient, timestamp and other log data (" **Chat Data** ") to provide the Services.
+### OTHER INFORMATION WE COLLECT WHEN YOU USE THE SERVICES
 
-### Cookies
+  * Location Information: Many features of the Services will not work unless you provide us with some information about your location. If you consent to the collection of location information (e.g. if you permit your mobile device to send us your latitude and longitude), we will collect and use this information both while you are directly using the Services and in the “background” (i.e. at times when you are not directly using the Services), so that we can tailor your interactions and experiences with the Services and to provide more relevant advertising to you on our Services and other websites and mobile applications. For example, we or our advertising partners may show you whispers from people around you or places you frequently visit, notifications of things happening around you in real time, or advertisements from businesses near your location. If you do not permit your mobile device to provide us with location information, or location information is not available from your device for technical reasons, we may use your IP address or information about the WiFi SSID from which you access the Services to determine an approximate geographic location for your device. For more details about how you may control the collection of location information, please see "Your Choices" below.
 
-Like many other websites, our Site uses cookies. These are small, removable data files that your web browser stores to help identify your computer and browser when you visit a website. They can also have the added benefit of speeding up your access to sites. We don’t use cookies to collect personal information. Instead, we use them to improve the quality of our Site and Services. Our Site is not designed to respond to “do not track” signals received from browsers.
+  * Usage Information: We collect information about your use of the Services, including access times, pages and whispers viewed, user and whisper interactions (e.g. hearts, flags and replies) and other information about your interactions with us, the Services and other users. We use this information to, among other things, personalize your experience, provide and improve the Services, and monitor and analyze use of the Services.
 
-Most web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to let you know when a cookie is being sent.
+  * Device Information: We collect information about the device you use to access our Services, which may include the hardware model, operating system and version, browser type and language, IP address, unique device identifiers and mobile network information. Among other things, we use this information to customize the Service for your device, to provide customer service and support, to deliver the products and services you request, to deliver notifications, for user safety, and for analytics and authentication. 
 
-Some of the Service Providers (we define this below) that we work with may use their own cookies in connection with the services they perform on our behalf. We don’t have access or control over these cookies. The use of cookies by these third parties isn’t covered by our Privacy Policy. You should review the applicable third party privacy policy for sites who link to our embed our content.
+  * Information Collected by Cookies and Other Tracking Technologies: Like most websites and applications, we and our service providers use cookies, web beacons and other technologies to collect information. Cookies are small data files stored on your hard drive or in device memory that help us and our service providers to, among other things, improve our Services and your experience by seeing which areas and features of our Services are popular. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
-## How We May Use Your Information
+  * Log Information: We collect information in our log files when you use the Services. This includes, among other things, your browser and device type, language, access times, pages viewed, your IP address, and the URL you visited before navigating to our websites. We use log information to provide, understand, and improve our Services. 
 
-We use the information that we collect from you for internal purposes. This includes offering you access to the Site and Services, letting you know when we have new products or Services, and communicating with you in other ways.
 
-We will not share your information except in the cases explained below.
 
-## How We May Disclose Your Information
 
-WhisperText is committed to the privacy and security of your information, including preserving your anonymity; however, there are a few cases when we will be unable to do so. Here are a few situations where we may disclose the information that we collect from you.
+## HOW WE SHARE INFORMATION
 
-### First, we respect the Law
+When you use the Services, certain information may be shared with other users and the public. For example:
 
-This means that we may disclose information such as your created whispers, Chat Data, IP address, and your location, if known, if we have a good faith belief it is necessary to comply with applicable laws, regulations, legal processes (such as a subpoena or court order) or enforceable governmental requests. If you want to learn more about how we do that, please review our [Law Enforcement Response Guide](https://web.archive.org/legal).
+  * Any whisper posted to the Services is public and, as a result, others may be able to see your username at the time the whisper was posted, the text and image contents of your whisper and the geographic location in which you posted your whisper. 
 
-### Second, we expect you to respect the Law as well
+  * When you use Whisper's chat messaging function to directly contact another user, the recipient of your chat message will see your username and the contents of your message. The recipient may also choose to disclose your chat messages to others. 
 
-Whisper is not a place to harbor criminals. You must not use the Site or Services to plan, incite, promote, or showcase any criminal act is strictly prohibited. This includes statements revealing plans or actions around human trafficking, sexual exploitation, or predation. These types of behaviors are against our mission, constitute a breach of our Terms of Service, and more importantly, are illegal. If you engage in any illegal activity we may be required, or choose to, share the information we may have about you with the appropriate authorities.
+  * If you post any User Content to the Services, other Whisper users may be able to see certain information related to your location. For example, other users may be able to see whether you are or were within a certain proximity of their current location or if you frequent similar locations. 
 
-### Third, we don't want anybody to be harmed
+  * If you invite others to try Whisper via SMS, email or otherwise, those individuals may see your name, phone number, email address or other contact information. 
 
-Whisper is meant to be a safe place. There may be situations where we may need to disclose the information we may have about you for the greater good, such as if we see suicidal statements or statements that involve the intent to harm oneself or others, or learn information about missing children, or threats to the community.
 
-### We may also share your information for technical reasons
 
-From time to time, we may establish business relationships with other businesses but will only do so if we believe they are trustworthy. We carefully vet these relationships to confirm that these service providers have privacy practices that are consistent with ours. These service providers may include companies that provide us with services such as hosting and maintenance, customer relationship management, push notifications, and data storage and management.
 
-We give service providers only the information that’s necessary for them to perform services on our behalf. What’s more, each service provider must agree to use security procedures and practices that are reasonable and appropriate for the information involved. This is another way that we work to protect your information from unauthorized access, use, or disclosure. Also, we prohibit our service providers from using your information in any manner that is not specified by us.
+We may also share information as follows or as otherwise described in this Privacy Policy:
 
-In addition, we may use and disclose certain Usage Data to third parties. This Usage Data doesn’t identify individual users. We use mobile analytics software to help us better understand how our Services work on your device. This software may only record information usage information, such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded. But we do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app. This essentially only covers what you do, but not who does it. We may also partner with universities or other research institutions or scientists to use the limited information we have in anonymous, controlled research studies.
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf; 
 
-### Affiliates and Corporate Transactions
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Whisper or others; 
 
-We may share the information that we collect from you with businesses that control, are controlled by, or are under common control with WhisperText. This also means that if WhisperText is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer such information in connection with that particular transaction.
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; 
 
-### Information Security
+  * Between and among Whisper, and its current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; 
 
-WhisperText is committed to protecting the security of your personal information and Message Data. This is why we employ security measures designed to protect your personal information from unauthorized access (for instance we encrypt private messages). Regardless of our efforts, however, no data transmission over the Internet or other network, including any of WhisperText’s services, can be guaranteed to be 100% secure. We will do our part, but we can’t and don’t guarantee the security of any information you transmit on or through the Site or Services. Thus, any information you transmit is sent at your own risk.
+  * If we have a good faith belief that disclosing the information is necessary to comply with a law, regulation, legal process, or governmental request; and 
 
-### Protecting Children's Privacy
+  * With your consent or at your direction. 
 
-We do not knowingly collect any personal information from children under the age of 17. You must be over the age of 17 to use our Site and Services. If we determine you are under 17 we may in our discretion decide to ban you from the Services.
 
-### Your Information may be maintained outside of your jurisdiction
 
-Please be advised that we process and store all information in the United States or other countries where our service providers may be based. This may be important to you, as the laws of the United States or such other countries may not be as protective of your personal information as the laws of your jurisdiction.
 
-### Deleting your account
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-Upon your request, we delete your account. You may make such request by emailing [info@whisper.sh](mailto:info@whisper.sh).
+## SOCIAL SHARING FEATURES
 
-### Opting Out of Push Notifications
+The Services may offer social sharing features and other integrated tools, which let you share whispers with other media. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-You are free to opt out of push notifications from our Services at any time. To turn off notifications, be sure that you have those settings turned off both in the Whisper settings and in the settings on your mobile device.
+## ADVERTISING AND ANALYTICS SERVICES
 
-### Changes to the Privacy Policy
+To perform analytics and deliver relevant content and advertising, we may allow others to collect information about how you use our Services. For example, these entities may use cookies, device identifiers and similar technologies to collect information about your computer or device, the content that interests you, the places you visit, and the time you spend using different parts of our Services.
 
-We may periodically change this Privacy Policy. If we decide to make material changes to this Privacy Policy, we’ll inform you here or by posting a prominent notice on the homepage of our Site. Any changes become effective when we post them on the Site. The date of any new posting is indicated by the “Last Updated” date in the revised Privacy Policy. By continuing to use the Site, you agree to be bound by the revised Privacy Policy.
+For more information about online advertising, or to opt out of having your web browsing information used by participating companies for behavioral advertising purposes, please visit the **[Digital Advertising Alliance Consumer Choice Page](http://www.aboutads.info/choices/)** , the **[Trust Arc Preference Manager](https://preferences-mgr.truste.com/)** , the **[Google Ad Settings Page](https://adssettings.google.com/)** and the **[Facebook Ad Choices Page](https://facebook.com/ads/ad_choices)**. Your mobile device also may include a feature (“Limit Ad Tracking” on iOS or “Opt out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through our mobile application used for behavioral advertising purposes.
 
-If you have questions or concerns about this Privacy Policy, please e-mail them to [info@whisper.sh](mailto:info@whisper.sh). Please do not email us any sensitive information.
+## YOUR CHOICES
+
+### ACCOUNT INFORMATION AND WHISPERS
+
+Your whispers remain public so long as you or we do not delete them from the Services. You may choose to delete your individual whispers at any time, and we will then remove them from the Services. However, it is important to note that your deleted whispers may remain in storage in our systems for a limited period of time for legal, business, safety, or system backup reasons, and they may remain accessible in cached and archived pages of the Services or elsewhere if others have chosen to copy or save them. Search engines and other sites may also index and cache content on our Services. You may have to contact these thid-party sites or search engines directly to delete your cached information, subject to their policies and procedures. 
+
+If you wish to delete your account, please contact us by using the “Email Support” link in settings from inside the application, but note that we may retain certain information as required by law, for legitimate business purposes or for the safety of Whisper (including its users) and others. We may also retain cached or archived copies of information about you for a certain period of time. 
+
+### LOCATION INFORMATION
+
+When you first download or open any of our mobile applications or access certain features of the Services, you will be asked to consent to the collection of location information from your mobile device or platform. If you consent to the collection of this information but later wish to withdraw your consent, you may do so at any time by either changing the settings on your mobile device or deleting our mobile application. For more information about disabling location information on your mobile device, please refer to our [**FAQs**](http://support.whisper.sh/). 
+
+### COOKIES
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. 
+
+## WHERE INFORMATION IS PROCESSED
+
+MediaLab is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
