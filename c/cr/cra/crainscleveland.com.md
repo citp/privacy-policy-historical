@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222122546id_/https%3A//www.crainscleveland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainscleveland.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512192645id_/https%3A//www.crainscleveland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Crain's Cleveland Business
 
@@ -6,7 +6,7 @@
 
 _Effective starting: May 25, 2018_
 
-**_  Crain's Cleveland Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 700 West Saint Clair Avenue, Suite 310, Cleveland, Ohio 44113.  We can be reached by e-mail at [](https://web.archive.org/cdn-cgi/l/email-protection#95b0a2f7b0a2f7b0a7a5f7e7f4fbf1caf0f8f4fcf9b0a7a5b0a2f1b0a2f1) or by telephone at 877-824-9373. **
+**_  Crain's Cleveland Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 700 West Saint Clair Avenue, Suite 310, Cleveland, Ohio 44113.  We can be reached by e-mail at [](mailto:) or by telephone at 877-824-9373. **
 
 **What this Privacy Policy covers**
 
@@ -219,9 +219,9 @@ We collect information globally and primarily store that information in the Unit
 
 **California Residents.**
 
-Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [](https://web.archive.org/cdn-cgi/l/email-protection#46637124637124637476243427282219232b272f2a637476637122637122)or call 877-824-9373. **   **
+Under California law, California resident users may opt-out of the disclosure of personal information to third parties for the third parties’ direct marketing purposes.  You may contact us for such information or to opt-out of the sharing of your personal information with third parties for marketing purposes as detailed above at any time by sending an e-mail stating this preference and including your full name and e-mail address to [](mailto:)or call 877-824-9373. **   **
 
-**Notice to End Users**
+**Notice to End Usersc**
 
 Some of our products are provided to you for use by organizations, such as your employer. Where the Products are made available to you through an organization, that organization is the administrator of the Products and is responsible for the accounts and/or Products over which it has control. If this is the case, please direct your data privacy questions to your employer, as your use of the Products is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy. 
 
@@ -239,13 +239,13 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 **Contact Us**
 
-Your information is controlled by Crain Communications Inc.  If you have questions or concerns about how your information is handled, please direct your inquiry to Crain Communications Inc, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representative.
+Your information is controlled by Crain Communications Inc.  If you have questions or concerns about how your information is handled, please direct your inquiry to Crain Communications Inc, which we have appointed to be responsible for facilitating such inquiries or, if you are a resident of the European Economic Area, please contact our EU Representativex.
 
 General Counsel  
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e544548415d6d4e5f4c4443034e4240)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4f4d56495e5c46575a534f7f5c4d5e5651115c5052)
 
 313-446-6000
 
@@ -255,4 +255,4 @@ Crain Communications Limited
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e797958e9186849e8f828b97a78495868e89c984888a)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dfdffe4fbeceef4e5e8e1fdcdeeffece4e3a3eee2e0)
