@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cibeg.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301064930id_/https%3A//www.cibeg.com/English/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cibeg.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512231549id_/https%3A//www.cibeg.com/English/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CIB - Privacy Policy
 
