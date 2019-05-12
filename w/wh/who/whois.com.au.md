@@ -1,176 +1,61 @@
-> *The following text is extracted and transformed from the whois.com.au privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218233555id_/http%3A//whois.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.com.au privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512101109id_/https%3A//www.vodien.com.au/terms/privacy) for the most accurate reproduction.*
 
-# Whois® Policies and Procedures - Privacy | Whois.com.au
+# 
 
-### Privacy Policy
+## Sharing
 
-#### Whois® values your privacy.
+Disclosure of Customer Information 
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.whois.com.au)
+Vodien will not disclose its customers' personal information with third parties, with the exception of the following reasons: 
 
-**Effective on April 6, 2010**
+  * To provide service to the registered account user 
+  * To cooporate with law enforcement agencies via legal processes such as current judicial proceedings, court orders and warrants that Vodien determines in its sole discretion to be legitimate and compliable 
+  * To safeguard the legitimate interests of Vodien and its customers 
 
-This privacy statement describes how Whois Pty.Ltd. collects and uses the personal information you provide on our Web site: [www.whois.com.au](http://www.whois.com.au/ "whois"). 
 
-It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 
+In any event, whereby Vodien is obliged to disclose customer data in adherence to the served legal process(es), Vodien may disclose any forms of User Information to the respective Law Enforcement Agency without prior consent or notification to the customer. Any interactions between Vodien and the Officials will not be divulged, in order to protect Vodien's legal interests. 
 
-Whois Pty. Ltd is a licensee of the TRUSTe Privacy Program. 
+Business Transitions 
 
-TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. 
+In the event Vodien Internet Solutions goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
 
-This privacy statement covers the Web site www.whois.com.au. 
+Choice/Opt-out 
 
-Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [marketing@vodien.com](mailto:marketing@vodien.com). We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at 1300 863 436 to opt-out. 
 
-If you have questions or concerns regarding this statement, you should first contact our Privacy Officer at [privacy@whois.com.au](mailto:privacy@whois.com.au). 
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe")  
+Links 
 
+This Web site contains links to other sites. Please be aware that we, Vodien Internet Solutions, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+Surveys & Contests 
 
-**Collection and Use of Personal Information**
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as postal code). Contact information will be shared with the contest/survey sponsors and used to notify the winners and award prizes. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
 
-We collect the following personal information from you:
+Chat Rooms, Message Boards, and Public Forums 
 
-  * Contact Information such as name, email address, mailing address, phone number.
-  * Billing Information such as credit card number, and billing address.
-  * Unique Identifiers such as user name, account number, password.
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
 
+Advertisements via Third-Party Vendors 
 
+  * Third-party vendors, including Google, show your ads on sites on the internet. 
+  * Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. 
+  * Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
-We also collect the following information from you:
 
-  * Information about your business such as company name, company size, business type.
-  * As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
+Updating/Deleting/Deactivating Personal Information 
 
+If a user's personally identifiable information changes (such as postal code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at [support@vodien.com](mailto:support@vodien.com). 
 
-We use this information to:
+Notification of Changes 
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Administer your account
-  * Respond to your questions and concerns
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
+Contact Information 
 
+Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com). 
 
-**Information Sharing**
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. 
-
-We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. 
-
-These companies are authorized to use your personal information only as necessary to provide these services to us.  
-
-
-We may also disclose your personal information:
-
-  * as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Whois Pty. Ltd. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so. 
-
-
-
-**Cookies and Other Tracking Technologies**  
-
-
-We may use cookies, for example, to keep track of your preferences and profile information. 
-
-Cookies are also used to collect general usage and volume statistical information that does not include personal information.  
-
-
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
-
-**Domain Registrations in the .au and the WHOIS databases.**
-
-When a .au domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. 
-
-The public WHOIS service is a standard feature of domain name systems around the world. 
-
-Please see auDA's WHOIS policy at <http://www.auda.org.au/policies/auda-2006-06/> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data.  
-
-
-**_Web beacons_**
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. 
-
-This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
-
-_**Links to Other Web Sites**_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Whois Pty. Ltd. 
-
-If you submit personal information to any of those sites, your information is governed by their privacy statements. 
-
-We encourage you to carefully read the privacy statement of any Web site you visit.   
-
-
-**Security**
-
-All credit card transactions for domain names(Registrations, Renewals and Transfers), Security Certificates, and Domain Verification products are fulfilled on a secure server with High grade AES-256 256 bit encryption with GeoTrust EVSSL certification. 
-
-All credit card transactions for url forwarding, search engine optimisation, adwords management, webhosting, or email based products are fulfilled using the [PayPal](https://www.paypal.com/au/mrb/pal=6WTAL3TDKTXHS "PayPal") Australia system, where clients can choose to pay with either a Credit Card or with their PayPal account. 
-
-We try to take a balanced and appropriate response to protect against any unauthorized access. 
-
-We secure our internet site at whois.com.au with the assistance of the [McAfee SECURE](http://www.mcafeesecure.com/AffiliateClick.sa?affId=54906&r=/us/technology-intro.jsp "McAfee SECURE") program. 
-
-We maintain an active program of analysis and adjustment in line with current recognised security practices. 
-
-[](https://www.scanalert.com/RatingVerify?ref=www.whois.com.au)
-
-**Liveperson**  
-
-
-We use the LivePerson interactive chat service to efficiently assist multiple customers simultaneously with domain name and webhosting queries. 
-
-In addition we use the service to maintain a visual representation of our website visitors in real time, allowing us to help our clients faster with their queries regarding specific topics. 
-
-**Correcting and Updating Your Personal Information  
-**
-
-To review and update your personal information to ensure it is accurate, please login to your account and ensure your details are up to date, or contact us at ([support@whois.com.au](mailto:support@whois.com.au))  
-
-
-**Notification of Privacy Statement Changes**  
-
-
-We may update this privacy statement to reflect changes to our information practices. 
-
-If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, or by means of a notice on our homepage. 
-
-We encourage you to periodically review this page for the latest information on our privacy practices.  
-
-
-**Contact Information  
-**
-
-You can contact us by writing or email us at the addresses below:  
-
-
-Our office is located at:
-
-The Tomorrow Studio.  
-Level 1/ 193 Wakefield Street.  
-Adelaide. South Australia 5000.
-
-Please send any mail to:
-
-Whois Pty Ltd.  
-P.O. Box 946.   
-Blackwood, South Australia, 5051  
-
-
-Contact us by email at:
-
-[support@whois.com.au](mailto:support@whois.com.au)
-
-Contact us by telephone:
-
-+61 04084 94647  
-
+_The above stated Privacy Policy is correct as of 6th of April 2018._
