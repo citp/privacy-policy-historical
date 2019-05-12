@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the adventureinyou.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617051123id_/https%3A//www.adventureinyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventureinyou.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512053137id_/https%3A//www.adventureinyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventure In You
 
 **Effective: November 2016**
 
-**Last Updated: April 23rd 2018**
-
-**Adventure in You PTE. LTD**. (‘Adventureinyou.com’, ‘AIY’ ‘we’, ‘us’, ‘company”, ‘website’ and/or ‘our’) is committed to protecting your privacy.
+ **Adventure in You PTE. LTD**. (‘Adventureinyou.com’, ‘AIY’ ‘we’, ‘us’, ‘company”, ‘website’ and/or ‘our’) is committed to protecting your privacy.
 
 This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a ‘User’) of the website (‘Site’, ‘Service’). This privacy policy applies to the Site and all products and services offered by the company.
 
@@ -41,9 +39,15 @@ We will only use any information that we collect from you in accordance with thi
 
 ## COOKIES & 3rd PARTY ADVERTISEMENTS
 
-The Service uses cookies to ensure that you get the most out of the Service. Cookies are small amounts of information in the form of text files which we store on your computer. Cookies allow us to monitor usage of the service, improve the Service’s usability and to personalise the content for you.
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-If you do not wish us to install cookies on your computer for these purposes, you may change the settings on your internet browser to reject cookies. For more information about how to do this please consult the “Help” section of your browser. Please note that if you do set your browser to reject cookies, you may not be able to use all of the features of the Service. If you prevent us from placing cookies, you may not be able to use the Service to place an order.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+
+ **For European Economic Area Residents**
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at contact @ adventureinyou.com and contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
 We authorize analytics partners (such as Google Analytics) to help analyze usage and traffic for our Services. As an example, we may use analytics partners to analyze and measure, in the aggregate, the number of unique visitors to our Services.
 
@@ -53,7 +57,7 @@ Google’s use of the DoubleClick cookie enables it and its partners to serve ad
 
 You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings.
 
-The cookies of other third-party vendors or ad networks may also be used to serve ads on this site or the companion app. In addition, advertisers whose advertisements appear on the Service may use and place cookies on your computer and we have no control over this. Please consult the terms and conditions and privacy policy of such third party advertisers to find out how they collect and use your personal data and to establish whether they use cookies and what they may use them for.
+In addition, advertisers whose advertisements appear on the Service may use and place cookies on your computer and we have no control over this. Please consult the terms and conditions and privacy policy of such third party advertisers to find out how they collect and use your personal data and to establish whether they use cookies and what they may use them for.
 
 ## HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?
 
@@ -124,3 +128,5 @@ By using this Site, you signify your acceptance of this policy.
 If you do not agree to this policy, please do not use our Site.
 
 Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+ **Last Updated: December 4th 2018**
