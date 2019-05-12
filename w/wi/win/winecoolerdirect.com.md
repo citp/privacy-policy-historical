@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208013144id_/https%3A//www.winecoolerdirect.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winecoolerdirect.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512160639id_/https%3A//www.winecoolerdirect.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Security & Privacy
+# privacy-policy
 
 The Privacy Information was last updated September 13, 2017.
 
@@ -16,7 +16,7 @@ Suite #100 
 
 Chico, California 95928 
 
-We can be reached online through our online Customer Service center. We can be contacted by phone at 1-877-607-2517, which is our customer service call center.
+We can be reached online through our online Customer Service center. We can be contacted by phone at 1-855-846-9766, which is our customer service call center.
 
 ### Transaction Security
 
@@ -40,7 +40,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ### Do Not Track Information
 
-Living Direct Inc. automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience.
+Build.com Inc. automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience.
 
 ### Emails and newsletters
 
@@ -56,7 +56,7 @@ From time to time, we may notify you of special offers based on your purchasing 
 
   * Logging into your account and editing your "Change Billing Info"
   * Sending an email to customerservice@livingdirect.com
-  * Contacting us by phone at 1-877-607-2517. Representatives in our call center can also alter your subscription preferences.
+  * Contacting us by phone at 1-855-846-9766. Representatives in our call center can also alter your subscription preferences.
 
 
 
@@ -68,7 +68,11 @@ Information about our customers is an important part of our business, and we are
 
 Our site includes third-party advertising and links to other Web sites. Information about your browsing behavior may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
 
-If you wish to opt out from receiving interest-based advertising, click here and follow the instructions. Please note, because our opt-out is cookie-based, you
+If you wish to opt out from receiving interest-based advertising, click here and follow the instructions. Please note, because our opt-out is cookie-based, your browser must be set to accept third party cookies. 
+
+Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog.
+
+To opt-out of receiving our direct mail or catalogs, you may send us an email at catalog@livingdirect.com or call us at 1-855-846-9766.
 
 ### Conditions of use, notices, and revisions
 
