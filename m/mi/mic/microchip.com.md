@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microchip.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006055434id_/http%3A//microchip.com/about-us/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microchip.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512054044id_/https%3A//www.microchip.com/about-us/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Microchip Technology
 
