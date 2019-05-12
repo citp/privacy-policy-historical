@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217151606id_/https%3A//www.diodes.com/about/corporate-info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512023751id_/https%3A//www.diodes.com/about/corporate-info/legal/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Diodes Incorporated
 
