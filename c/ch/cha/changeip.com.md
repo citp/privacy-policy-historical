@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129151913id_/http%3A//www.changeip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeip.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512172519id_/https%3A//www.changeip.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Change IP
 
@@ -55,4 +55,4 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 Thank you for letting us protect your privacy, security and freedom.   
-[Feel free to Contact Us if you have any questions.](https://web.archive.org/web/20181129151913id_/http%3A//www.changeip.com/contact-us.php)
+[Feel free to Contact Us if you have any questions.](https://web.archive.org/web/20190512172519id_/https%3A//www.changeip.com/contact-us.php)
