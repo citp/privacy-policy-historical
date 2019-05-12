@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229223525id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512222133id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Paperpile
 
@@ -6,7 +6,7 @@ We, Paperpile LLC, build productivity software to help you manage your academic 
 
 If you do not agree with this Policy, do not access or use our Services. 
 
-_Updated 05/22/2018_
+_Updated 01/11/2019_
 
 ## Outline
 
@@ -168,7 +168,19 @@ Here is a summary of some ways to access and control your information:
 
 We may transfer your information to countries other than the one in which you live. We deploy the following safeguards if we transfer information originating from the European Union or Switzerland to other countries not deemed adequate under applicable data protection law:
 
-**EU-US Privacy Shield and Swiss-US Privacy Shield** : We are currently in the process of being certified under the EU-US Privacy Shield and Swiss-US Privacy Shield. 
+Paperpile LLC complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Paperpile has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
+
+Under the EU-US and Swiss-US Privacy Shield Frameworks, we are responsible for the processing of information about you we receive from the EU and Switzerland and onward transfers to a third party acting as an agent on our behalf. We comply with the Privacy Shield Principles for such onward transfers and remain liable in accordance with the Privacy Shield Principles if third-party agents that we engage to process such information about you on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+
+To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+If you are a resident of a European country participating in the Privacy Shield and you have not received timely response to your concern, or we have not addressed your concern to your satisfaction, you may seek further assistance, at no cost to you, from JAMS (<https://www.jamsadr.com/eu-us-privacy-shield>), which is an independent dispute resolution body in the United States.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/) including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.
+
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
 
 **European Union Model Clauses** : In certain cases, we will transfer information from the EU in accordance with the European Commission-approved Standard Contractual Clauses, a copy of which can be obtained at <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087>.
 
