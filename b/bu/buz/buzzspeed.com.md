@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzspeed.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019003326id_/http%3A//buzzspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzspeed.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512074015id_/https%3A//buzzspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
