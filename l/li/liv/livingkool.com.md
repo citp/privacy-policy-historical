@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128234306id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingkool.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512133608id_/https%3A//www.livingkool.com/privacy-policy) for the most accurate reproduction.*
 
 # Living Kool - Daily Deals, Things to Do Dubai Privacy Policy
 
