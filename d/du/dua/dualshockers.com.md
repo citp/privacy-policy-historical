@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230050904id_/https%3A//www.dualshockers.com/about-dualshockers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512113515id_/https%3A//www.dualshockers.com/about-dualshockers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
