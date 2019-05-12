@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226075105id_/https%3A//www.joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofbaking.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512053258id_/https%3A//joyofbaking.com/other/privacypolicy.html) for the most accurate reproduction.*
 
 # Joyofbaking.com Privacy Policy
 
@@ -6,7 +6,7 @@ Updated May 24, 2018 for GDPR compliance.
 
 For each visitor to our Web page, our Web servers automatically recognizes only the consumer's IP address, but not the e-mail address (where possible). We make no attempt to identify individual users. We do not share this data with anyone outside of Joyofbaking.com. Data from this collection is aggregated and then deleted every few days. 
 
-We collect the e-mail addresses of those who communicate with us via e-mail and subscribe to our email feed. We do not share these e-mail addresses with anyone outside of Joyofbaking.com. We use FeedBurner a division of Google to manage our email list. At the bottom of our emails we have an opt out link which you may use if you no long wish to receive emails from us. Alternatively you can send us an email [here](https://web.archive.org/web/20181226075105id_/https%3A//www.joyofbaking.com/other/emailstephanie.html) to get removed from our list. For further information on Feedburner consult the privacy policy of:
+We collect the e-mail addresses of those who communicate with us via e-mail and subscribe to our email feed. We do not share these e-mail addresses with anyone outside of Joyofbaking.com. We use FeedBurner a division of Google to manage our email list. At the bottom of our emails we have an opt out link which you may use if you no long wish to receive emails from us. Alternatively you can send us an email [here](https://web.archive.org/web/20190512053258id_/https%3A//joyofbaking.com/other/emailstephanie.html) to get removed from our list. For further information on Feedburner consult the privacy policy of:
 
   
 [ Google](http://www.google.com/privacy.html).
@@ -52,4 +52,4 @@ With respect to Advertising: To try and bring you offers that are of interest to
 
 We use third-party companies to serve ads and collect non-personally identifiable information ( _e.g.,_ the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
-If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20181226075105id_/https%3A//www.joyofbaking.com/other/emailstephanie.html).
+If you feel that this site is not following its stated information policy, you may contact us by [clicking here](https://web.archive.org/web/20190512053258id_/https%3A//joyofbaking.com/other/emailstephanie.html).
