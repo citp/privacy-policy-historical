@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010162001id_/https%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512055951id_/https%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
 
 # RunningAHEAD
 
@@ -68,7 +68,7 @@ We may utilize third party service providers and services to analyze and provide
 
 ## IS INFORMATION THAT I SUBMIT TO THE PUBLIC AREAS OF THE SERVICE PRIVATE?
 
-Any information (including training logs, routes, and photographs) that you share in the public areas of the Service is available to all members and users, and any information that you share with a group within the Service is available to all members and users who are members of the group. Additionally, any information that you permit us to make available to Facebook is available to Facebook members and users. Any information that you make publicly available or otherwise disclose to others is not protected or treated as confidential, can be used in any manner, and is not subject to this Privacy Policy. If you wish to keep any information private or proprietary, do not submit it to the public or group areas of the Service. WE HAVE NO RESPONSIBILITY OR LIABILITY IF YOUR INFORMATION OR IDENTIFY IS MISUSED OR STOLEN, OR IF YOU SUFFER HARM AS A RESULT OF YOUR VOLUNTARY DISCLOSURES. 
+Any information (including training logs, routes, and photographs) that you share in the public areas of the Service is available to all members and users, and any information that you share with a group within the Service is available to all members and users who are members of the group. Any information that you make publicly available or otherwise disclose to others is not protected or treated as confidential, can be used in any manner, and is not subject to this Privacy Policy. If you wish to keep any information private or proprietary, do not submit it to the public or group areas of the Service. WE HAVE NO RESPONSIBILITY OR LIABILITY IF YOUR INFORMATION OR IDENTIFY IS MISUSED OR STOLEN, OR IF YOU SUFFER HARM AS A RESULT OF YOUR VOLUNTARY DISCLOSURES. 
 
 ## DOES RUNNINGAHEAD COLLECT INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE?
 
