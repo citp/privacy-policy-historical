@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostinghub.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905162949id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinghub.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512101029id_/https%3A//www.webhostinghub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Hosting Hub
 
