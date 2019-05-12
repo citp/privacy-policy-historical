@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029162340id_/http%3A//agilitycms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilitycms.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513004634id_/https%3A//agilitycms.com/privacy-policy) for the most accurate reproduction.*
 
 # Agility CMS | Privacy Policy
 
@@ -43,6 +43,10 @@ If you are a registered user of an Agility website and have supplied your email 
 Agility discloses potentially personal and personal information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Agility’s behalf or to provide services available at Agility’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Agility’s websites, you consent to the transfer of such information to them. Agility will not rent or sell potentially personal and personal information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Agility discloses potentially personal and personal information only in response to a subpoena, court order or other governmental request, or when Agility believes in good faith that disclosure is reasonably necessary to protect the property or rights of Agility, third parties or the public at large.
 
 **Also,** if Agility, or substantially all of its assets were acquired, or in the unlikely event that Agility goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Agility may continue to use your personal information as set forth in this policy.
+
+**GDPR**
+
+Information on our approach to the General Data Protection Regulation (GDPR) can be [found here](https://web.archive.org/gdpr).
 
 **Privacy Policy Changes**
 
