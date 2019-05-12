@@ -1,160 +1,101 @@
-> *The following text is extracted and transformed from the easypeasyandfun.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081200id_/http%3A//www.easypeasyandfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypeasyandfun.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512201012id_/https%3A//www.easypeasyandfun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Peasy and Fun
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## Who we are
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Our website address is: https://www.easypeasyandfun.com (Easy Peasy and Fun). The website is owned by Andreja Vučajnk s.p, Slovenia. We value your privacy and understand that your privacy is of critical importance.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.  
-**When do we collect information?**
+This Privacy Policy describes what information we collect from you via the website and how we use and disclose such information.
 
-We collect information from you when you subscribe to a newsletter or enter information on our site.
+## What personal data we collect and why we collect it
 
-**How do we use your information?**
+### Email for Newsletter
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**Short:** If you choose to receive email updates from Easy Peasy and Fun, you can change your mind and unsubscribe at any time by clicking the unsubscribe link that is included in every email. We won’t sell your data an will keep it secure.
 
-**•** To send periodic emails regarding your order or other products and services.
+**Detailed:** Easy Peasy and Fun offers a newsletter service, where we send 1-3 weekly updates to your email address. The subscription to our newsletter is voluntary and we only collect your email address for the purpose of sending out newsletter communication. If you subscribe to our newsletter service you will get regular email updates with our arty and crafty ideas and what we are up to (or on occasion curated ideas from other creative blogs and websites).
 
-  
-**How do we protect visitor information?**
+We use MailerLite to manage our email marketing subscriber list and to send emails to our subscribers. MailerLite is a third-party provider, which may process your data using industry standard technologies to help us monitor and improve our newsletter.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+MailerLite’s privacy policy is available at <https://www.mailerlite.com/privacy-policy>.
 
-We use regular Malware Scanning.
+You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of each newsletter.
 
-We do not use an SSL certificate
+### Cookies
 
-**•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+**What is a cookie?**
 
-  
-**Do we use ‘cookies’?**
+A cookie is a file containing an identifier, a string of letters and numbers. The webs server sends the file to the browser and the browser stores the file. The file is then set back to the server each time the browser requests a page from the server.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Some cookies will expire at the end of the user session, when the user closes the browser. Persistent cookies will be stored by a web browser and will remain valid until their expiry date, unless user deletes them before the expiry date.
 
-**We use cookies to:**
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+What do we use the cookies for?
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+  * authentication (to identify you when you visit our website and as you navigate the website)
+  * personalization (if you so choose)
+  * security
+  * advertising (to display advertising and serve ads relevant to you)
+  * analysis (to help us analyse the use and performance of our website and services)
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
-However, you can still place orders .
 
-**Third Party Disclosure**
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+#### Cookies when leaving comments on the website
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Comments
 
-**Third party links**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. Leaving your email address in comments section is optional.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**Google**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+### Accounts on website
 
-We use Google AdSense Advertising on our website.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-**We have implemented the following:**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**•** Demographics and Interests Reporting
+### Advertising
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+Easy Peasy and Fun is affiliated with Mediavine for the purpose of running ads on this website.
 
-_Opting out:_
+> [GDPR](https://www.mediavine.com/gdpr/)
 
- _Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
+### Affiliate Links
 
-**California Online Privacy Protection Act**
+We sometimes use affiliate links to recommend products.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+### Embedded content from other websites
 
-**According to CalOPPA we agree to the following:**
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Users can visit our site anonymously
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+## Who we share your data with
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+## How long we retain your data
 
-Users will be notified of any privacy policy changes:
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**•** On our Privacy Policy Page
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Users are able to change their personal information:
+## What rights you have over your data
 
-**•** By emailing us
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**How does our site handle do not track signals?**
+## Where we send your data
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+Visitor comments may be checked through an automated spam detection service.
 
-**Does our site allow third party behavioral tracking?**
+## Your contact information
 
-It’s also important to note that we allow third party behavioral tracking
+You can contact us at info@easypeasyandfun.com (by contacting us, you give us permission to use your email address and data provided in the email to communicate with you).
 
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-**•** Within 1 business day
-
-We will notify the users via in site notification
-
-**•** Within 1 business day
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-**•** Send information, respond to inquiries, and/or other requests or questions.
-
-**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-**To be in accordance with CANSPAM we agree to the following:**
-
-**•** NOT use false, or misleading subjects or email addresses
-
-**•** Identify the message as an advertisement in some reasonable way
-
-**•** Include the physical address of our business or site headquarters
-
-**•** Monitor third party email marketing services for compliance, if one is used.
-
-**•** Honor opt-out/unsubscribe requests quickly
-
-**•** Allow users to unsubscribe by using the link at the bottom of each email
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-**•** Follow the instructions at the bottom of each email.
-
-and we will promptly remove you from **ALL** correspondence.  
-
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-www.easypeasyandfun.com
-
-Last Edited on 2015-03-29
+Effective as of May 25, 2018
