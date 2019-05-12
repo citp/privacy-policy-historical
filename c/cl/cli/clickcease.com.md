@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clickcease.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903161557id_/https%3A//www.clickcease.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcease.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512061856id_/https%3A//www.clickcease.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ClickCease
 
 #### Purpose and who we are
 
-The purpose of this Privacy Policy is to describe how Karniboo Technologies Limited dba ClickCease.com (“ClickCease”, “us”, “we”, or “our”) collects, uses and shares information about you through our website. Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a0a08130c1b19033a1916131911191f1b091f54191517).
+The purpose of this Privacy Policy is to describe how Karniboo Technologies Limited dba ClickCease.com (“ClickCease”, “us”, “we”, or “our”) collects, uses and shares information about you through our website. Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6e1e1c07180f0d172e0d02070d050d0b0f1d0b400d0103).
 
 ClickCease is a limited liability company established under the laws of Israel with a principal place of business at HaArba'a St 18, Tel Aviv-Yafo, Israel. If you reside or are located in the European Economic Area (“EEA”) ClickCease is the data controller of all Personally Identifiable Information (as described below) collected via our website, as set out in this Privacy Policy.
 
@@ -20,7 +20,7 @@ This Privacy Policy covers information we collect from you through our Site. Som
 
 #### What You Agree to by Using Our Site
 
-Please understand that by submitting any Personally Identifiable Information to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with this Privacy Policy, and as permitted or required by law. If you do not agree with these terms, please do not provide any Personally Identifiable Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personally Identifiable Information, we may not be able to provide you with the services that can be offered on our Site. Consent can be withdrawn at any time by sending a request to remove consent or deleting your account to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfcfee5faedeff5ccefe0e5efe7efe9edffe9a2efe3e1). Please note that we may also rely on legitimate interests or fulfilment of a contract to continue processing your Personally Identifiable Information.
+Please understand that by submitting any Personally Identifiable Information to us, you consent and agree that we may collect, use and disclose such Personally Identifiable Information in accordance with this Privacy Policy, and as permitted or required by law. If you do not agree with these terms, please do not provide any Personally Identifiable Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personally Identifiable Information, we may not be able to provide you with the services that can be offered on our Site. Consent can be withdrawn at any time by sending a request to remove consent or deleting your account to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0a0a2b9a6b1b3a990b3bcb9b3bbb3b5b1a3b5feb3bfbd). Please note that we may also rely on legitimate interests or fulfilment of a contract to continue processing your Personally Identifiable Information.
 
 #### What Information We Collect
 
@@ -62,7 +62,7 @@ If you reside or are located in the EEA, we keep your Personally Identifiable In
 
 #### International Transfer of Personally Identifiable Information
 
-We transfer your personal data from within the EEA to locations outside the EEA. ClickCease is located in the Israel and is involved in processing your Personally Identifiable Information there. International data transfers to ClickCease are safeguarded with EU Commission certified standard data protection contract clauses that can be found in [here](http://docs.clickcease.com/pricing-privacy-and-terms/the-clickcease-roadmap-to-gdpr-compliance). The safeguards for international data transfers to ClickCease’s sub-processors are set out in ClickCease’s list of sub-processors in <http://docs.clickcease.com/pricing-privacy-and-terms/the-clickcease-roadmap-to-gdpr-compliance>.
+We transfer your personal data from within the EEA to locations outside the EEA. ClickCease is located in the Israel and is involved in processing your Personally Identifiable Information there. International data transfers to ClickCease are safeguarded with EU Commission certified standard data protection contract clauses that can be found in [here](http://docs.clickcease.com/pricing-privacy-and-terms/the-clickcease-roadmap-to-gdpr-compliance). The safeguards for international data transfers to ClickCease’s sub-processors are set out in ClickCease’s list of sub-processors in <http://docs.clickcease.com/pricing-privacy-and-terms/clickcease-sub-processors>.
 
 #### Confidentiality & Security of Personally Identifiable Information
 
@@ -98,7 +98,7 @@ On occasion we include links to third parties on this website. Where we provide 
 
 #### Updating or Deleting Your Personally Identifiable Information
 
-If you would like information in relation to your rights or would like to exercise any of them, you may also contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2757554e5146445e67444b4e444c44424654420944484a). If you reside or are located in the EEA, you have the right to request that we:
+If you would like information in relation to your rights or would like to exercise any of them, you may also contact us via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9c9e859a8d8f95ac8f80858f878f898d9f89c28f8381). If you reside or are located in the EEA, you have the right to request that we:
 
   * provide access to any Personally Identifiable Information we hold about you;
 
@@ -123,8 +123,11 @@ When you email us with a request, we may ask that you provide us with informatio
 
 #### Questions and Complaints
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e9999b809f888a90a98a85808a828a8c889a8cc78a8684).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ceceef5eafdffe5dcfff0f5fff7fff9fdeff9b2fff3f1).
 
 #### Changing Our Privacy Policy
 
 Please note that we review our privacy practices from time to time, and that these practices are subject to change. Any change, update, or modification will be effective immediately upon posting on our website. We will notify you of any material change to this Privacy Policy by posting a notice on our website’s homepage for a reasonable period of time following such update, and by changing the effective date (located at the bottom of this page). Be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy.
+
+By further browsing this website you consent to our privacy policy. We use cookies to improve our services. Learn more about cookies and similar technologies [here](https://www.clickcease.com/privacy.html).  
+
