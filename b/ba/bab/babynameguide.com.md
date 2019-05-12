@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614222634id_/http%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynameguide.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512175046id_/https%3A//www.babynameguide.com/policy.html) for the most accurate reproduction.*
 
 # Baby Name Guide - Privacy Policy
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms of Use**
 
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.babynameguide.com/terms.html>. 
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.babynameguide.com/terms.html>. 
 
 **Your Consent**
 
@@ -76,7 +76,7 @@ This policy was last modified on 04/26/18
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.babynameguide.com  
+https://www.babynameguide.com  
 135 Lentz Rd  
 Latrobe, PA 15650  
 United States  
