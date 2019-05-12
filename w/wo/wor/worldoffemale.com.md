@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoffemale.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612123649id_/http%3A//www.worldoffemale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoffemale.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512061302id_/https%3A//www.worldoffemale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,6 +50,6 @@ We understand that young children are susceptible to providing personal details 
 
 The right to change the privacy policy is exclusively reserved by the website. If we make some alterations in the original privacy policy, we will keep you updated.  If you persist with the site after the revised policy has been implemented, it implies that you agree with the new privacy policy.
 
-Please Read our [Terms Of Use](http://www.worldoffemale.com/terms/)
+Please Read our [Terms Of Use](https://www.worldoffemale.com/terms/)
 
 Thank you for reading the privacy policy and we sincerely hope you will abide by it.
