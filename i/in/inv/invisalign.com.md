@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623165054id_/https%3A//www.invisalign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512050652id_/https%3A//www.invisalign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Invisalign
 
@@ -139,6 +139,6 @@ Arlandaweg 161
 The Netherlands  
 [Privacy@aligntech.com](mailto:%20privacy@aligntech.com)
 
-You may also contact the Align local entity that is responsible for the use of your Personal Information. Details are available [here](https://www.invisalign.com/SiteCollectionImages/Align_Technology_Operations_2015.pdf).
+You may also contact the Align local entity that is responsible for the use of your Personal Information. Details are available [here](https://web.archive.org/SiteCollectionImages/Align_Technology_Operations.pdf).
 
-Last updated December 7, 2016
+Last updated, February, 2019
