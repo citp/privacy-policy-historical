@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitachi-payments.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi-payments.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy and Summary : Hitachi in India
 
@@ -47,7 +47,7 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
 This document, "About Personal Information Protection", establishes the handling of all personal information by Hitachi in the company activities.
 
-  * [Scope](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#scope)
+  * [Scope](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#scope)
 
 
 
@@ -59,7 +59,7 @@ Hitachi protects and manages the personal information with the greatest care and
   2. Information provided by person to Hitachi through any method other than the above.
 
 
-  * [Personal information](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#definition)
+  * [Personal information](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#definition)
 
 
 
@@ -70,7 +70,7 @@ Hitachi protects and manages the personal information with the greatest care and
   3. When required to do so for business activities in which Hitachi is co-operating with Hitachi group companies, Hitachi may provide such group companies with personal information such as names, workplace or home addresses, telephone numbers, fax numbers, e-mail addresses, etc.
 
 
-  * [Details](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#purpose)
+  * [Details](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#purpose)
 
 
 
@@ -78,7 +78,7 @@ Hitachi protects and manages the personal information with the greatest care and
 
 When a person wants to request to disclose, correct, add, delete, stop usage, stop provision to a third party, or notify the purpose of usage of his/her personal information (hereinafter referred to as "disclose and so on") held by Hitachi, or wants to raise complaints, the person is requested to follow the predefined procedures to make such request.
 
-  * [Details](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#contact)
+  * [Details](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#contact)
 
 
 
@@ -86,7 +86,7 @@ When a person wants to request to disclose, correct, add, delete, stop usage, st
 
 For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.
 
-  * [Details](https://web.archive.org/web/20181228074534id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#inquiry)
+  * [Details](https://web.archive.org/web/20190512104726id_/http%3A//www.hitachi.co.in/utility/privacy/index2.html#inquiry)
 
 
 
