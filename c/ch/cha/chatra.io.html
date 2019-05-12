@@ -1,33 +1,87 @@
-<!--The following is the downloaded HTML source of the chatra.io privacy policy that was archived on 2017-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170520194104id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chatra.io privacy policy that was archived on 2019-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190512145226id_/https%3A//chatra.io/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" style="" class=" hiddenscroll chrome webkit"><head>
-    
-<meta charset="UTF-8">
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" class=" chrome webkit"><head>
+    <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="/_css/style.css">
+<link rel="stylesheet" href="/_css/style.css?2">
 
-<script type="text/javascript" async="" src="https://loader.wisepops.com/default/index/get-loader?user_id=23625"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://call.chatra.io/chatra.js"></script><script src="/_js/head.js"></script>
+<link rel="icon" type="image/png" href="/favicon.ico">
 
-<link rel="shortcut icon" href="/favicon.ico">
 
-<script>
+
+
+<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    (function () {
+        var queryString = location.search.substr(1);
+        var queryParams = {};
+
+        queryString.split('&').forEach(function(part) {
+            var param = part.split("=");
+            queryParams[param[0]] = decodeURIComponent(param[1]);
+        });
+
+        var integration = {};
+
+        if (queryParams.utm_source) {
+            if (queryParams.utm_source.indexOf('logo') == 0 && queryParams.utm_campaign) {
+                var index = queryParams.utm_campaign.indexOf('_');
+                var source = queryParams.utm_campaign.substr(index == -1? 0: index+1);
+
+                integration['Source'] = 'Chat Logo';
+                integration['Source Host'] = '['+source+'](http://'+source+')';
+
+                window.ChatraIntegration = integration;
+            }
+            else if (queryParams.utm_source.indexOf('transcripts') == 0) {
+                integration['Source'] = 'Transcripts Logo';
+
+                window.ChatraIntegration = integration;
+            }
+        }
+    })();
+
     window.ChatraSetup = {
-      language: (document.documentElement && document.documentElement.lang) || 'en'
+      language: (document.documentElement && document.documentElement.lang) || 'en',
+      colors: {
+          buttonBg: '#1b9dfc'
+      }
     };
 
-    ChatraID = 'hX8ihkAcyHK93ue99';
-    (function(d) {
-        var n = d.getElementsByTagName('script')[0],
-            s = d.createElement('script');
+    (function(d, w, c) {
+        w.ChatraID = 'hX8ihkAcyHK93ue99';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
         s.async = true;
-        s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
-            + '//call.chatra.io/chatra.js';
-        n.parentNode.insertBefore(s, n);
-    })(document);
-</script>
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script><script async="" src="https://call.chatra.io/chatra.js"></script>
 
+<style>
+/*iframe[class^="yeps-frame"] {
+    width: 50vw !important;
+    border-top-right-radius: 10px;
+}*/
+</style>
+
+<!-- Yeps {literal} -->
+<script>
+    (function (y, e, p) {
+        e.YepsID = 'ipQeAvXNez7aAi4xF';
+        var s = y.createElement('script');
+        e[p] = e[p] || function() {
+                (e[p].q = e[p].q || []).push(arguments);
+            };
+        s.async = true;
+        s.src = 'https://widget.yeps.io/yeps.js';
+        if (y.head) y.head.appendChild(s);
+    })(document, window, 'Yeps');
+</script><script async="" src="https://widget.yeps.io/yeps.js"></script>
+<!-- /Yeps {/literal} -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -41,15 +95,27 @@
 </script>
 
 
+<!-- Global site tag (gtag.js) - AdWords: 953215326 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-953215326"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-	
-	
-	<meta property="og:site_name" content="··· Chatra live chat software">
-	<meta property="og:title" content="··· Chatra Privacy Policy">
-	<meta property="og:description" content="Privacy policy for Chatra live chat software. Learn about information collection and the way we use it. Questions? Concerns? We are here to help!">
-	
-	<meta name="description" content="Privacy policy for Chatra live chat software. Learn about information collection and the way we use it. Questions? Concerns? We are here to help!">
-    <title>··· Chatra Privacy Policy</title>
+    gtag('config', 'AW-953215326');
+</script>
+
+
+    <link rel="canonical" href="https://chatra.io/privacy-policy/">
+
+    <meta name="robots" content="noindex">
+
+    <meta property="og:site_name" content="··· Chatra - Privacy Policy ">
+    <meta property="og:title" content="··· Chatra - Privacy Policy ">
+    <meta property="og:description" content="Chatra - Privacy Policy ">
+
+    <meta name="description" content="Chatra Data Processing Amendment (DPA)">
+    <title>··· Chatra - Privacy Policy </title>
 <style type="text/css"></style></head>
 <body class="paper-bg">
 
@@ -67,23 +133,28 @@
         <div class="header__menu nav">
             <ul class="header-menu">
                 <li class="header-menu__item">
-                    <a class="header-link " href="/plans/">Plans &amp; Features</a>
+                    <a class="header-link " href="/plans/">
+                        Plans &amp; Features                    </a>
                 </li><!--
 
              --><li class="header-menu__item">
-                    <a class="header-link " href="/vs-others/">Compare</a>
+                    <a class="header-link " href="/vs-others/">
+                        Compare                    </a>
                 </li><!--
 
              --><li class="header-menu__item">
-                    <a class="header-link " href="/help/">Help &amp; Docs</a>
+                    <a class="header-link " href="/help/">
+                        Help &amp; Docs                    </a>
                 </li><!--
 
              --><li class="header-menu__item">
-                    <a class="header-link " href="/reviews/">Reviews</a>
+                    <a class="header-link " href="/books/">
+                        Books                    </a>
                 </li><!--
 
              --><li class="header-menu__item">
-                    <a class="header-link " href="/about-us/">About us</a>
+                    <a class="header-link " href="/about-us/">
+                        About us                    </a>
                 </li>
 
 
@@ -95,220 +166,667 @@
         </div>
 
         <div class="header__actions">
-            <form class="header-form js-analytics-form" action="https://app.chatra.io/" data-action="Sign up #header">
+            <form class="header-form js-analytics-form js-partner-id-form" action="https://app.chatra.io/" data-action="Sign up #header">
                 <span class="header-form__text text-muted">
-                    Don’t have an account?&nbsp;
-                </span>
+                   Don’t have an account?                </span>
 
-                <input type="email" name="enroll" class="header-form__input form-control js-analytics-label" placeholder="Your email">
-
-								
-
+                <input type="email" name="enroll" class="header-form__input form-control" placeholder="Your email">
 
                 <button type="submit" class="header-form__submit btn btn-info">
-                    Sign up
-                </button>
+                    Sign up                </button>
             </form>
 
             <a class="header-link header-link--blue" href="https://app.chatra.io/">
-                <i class="glyphicon glyphicon-log-in"></i> Sign in
-            </a>
+                <i class="glyphicon glyphicon-log-in"></i>   Sign in            </a>
         </div>
     </div>
 </nav>
 
 
 <div class="container navbar-compensate">
-    <h1>Privacy Policy</h1>
-    <p>Updated: April 8, 2017</p>
+    <h1>Chatra - Privacy Policy </h1>
+    <p>Updated: May 26, 2018</p>
 
     <div class="paper">
         <div class="paper__inner">
-            <p>Roger Wilco LLC (“chatra”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of <a href="/">http://chatra.io/</a> (the “Site”). This Privacy Policy applies only to information that you provide to us through the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our chatra Terms of Service, accessible at <a href="/terms-of-service/">http://chatra.io/terms-of-service/</a>.
 
-            </p><p>As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
-            </p><h2>Information Collection and Use</h2>
 
-            <p>Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of the Site (together, the “Service”) and to enable users to enjoy and easily navigate the Service.
 
-            </p><h4><br>Personally Identifiable Information</h4>
+            <p>
+                Roger Wilco LLC (“Chatra”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users using Chatra software applications, application programming interfaces, Chatra Webhooks, communication services, networks, and websites, including, but not limited to chatra.io and app.chatra.io (the “Site”).
+            </p>
+
+            <p>
+                This Privacy Policy applies only to information that you provide to us through the Site.
+                This Privacy Policy may be updated from time to time.
+                We will notify you of any material changes by posting the new Privacy Policy on the chatra.io.
+                You are advised to consult this policy regularly for any changes.
+                Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Chatra Terms of Service, accessible at https://chatra.io/terms-of-service/.
+            </p>
+
+            <p>
+                As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+            </p>
+
+            <p>
+                In addition to this Privacy Policy, we have a separate <a href="https://chatra.io/dpa/">Data Processing Amendment</a> that contains further information for customers and service providers.
+            </p>
+
+            <p>
+                We use the term “customers” for individuals and businesses who have signed up for a Chatra account, and handle information received from them under the terms of the Chatra Data Processing Amendment.
+            </p>
+
+            <p>
+                “End users” refers to individuals using goods and services provided by Chatra customers. For example, individuals who use Chatra when seeking assistance for a particular product or service via live chat are likely to be end users.
+            </p>
+
+            <p>
+                “End user data” (which describes data about end users of Chatra customers) includes but is not limited to first names, last names, phone numbers and email addresses. It’s only used by us to identify you to Chatra customers so they can provide you with customer service, ensuring that they’re able to help you in the way(s) you require.
+            </p>
+
+            <p>
+                For more information on how we process data on behalf of Chatra customers, please see our <a href="https://chatra.io/dpa/">Data Processing Amendment</a>.
+            </p>
+
+
+
+            <h2>
+                Information Collection and Use
+            </h2>
+
+            <p>
+                Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of the Site (together, the “Service”) and to enable users to enjoy and easily navigate the Service.
+            </p>
+
+            <h3>
+                Personally Identifiable Information
+            </h3>
 
             <ol>
-                <li>In the course of using the Service, we may ask you to provide us with, or grant us access to, or permission to obtain, certain personally identifiable information that can be used to contact or identify you; personally identifiable information may include, but is not limited to, your name, company name, email address, postal address, phone number, profile photo, and credit card number and other billing information (“Personal Information”).
+                <li>
+                    In the course of using the Service, we may ask you to provide us with, or grant us access to, or permission to obtain, certain personally identifiable information that can be used to contact or identify you; personally identifiable information may include, but is not limited to, your name, company name, email address, postal address, phone number, profile photo, and credit card number and other billing information (“Personal Information”).
+                </li>
 
-                </li><li>We collect Personal Information in connection with your registration to join our Service. You can register to join via the Site or by logging into your account with certain third party social networking sites (“SNS”) (including, but not limited, to Facebook) via our Site. If you decide to register by logging into an SNS via our Site, we will obtain the Personal Information you have provided to the SNS (such as your “real” name, profile picture, email address and other information you make publicly available via the applicable SNS) from the account you have with such SNS and use that information to create your Account and you will become a Member; the information we obtain may depend on the privacy settings you have with the SNS.
-                </li><li>We also collect the other information that you provide as part of registration and personalization of your Account (e.g., without limitation, zip code (on its own) history of purchases you make via the Site and individual preferences) (“Non-Identifying Information”).
+                <li>
+                    We also collect the other information that you provide as part of registration and personalization of your Account (e.g., without limitation, zip code (on its own) history of purchases you make via the Site and individual preferences) (“Non-Identifying Information”).
+                </li>
+                <li>
+                    We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
+                </li>
+                <li>
+                    Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Chatra Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+                </li>
+                <li>
+                    We may also use your Personal Information to contact you with chatra newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See “Changing or Deleting Information,” below.)
+                </li>
+            </ol>
 
-                </li><li>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
 
-                </li><li>Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other chatra Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+            <h3>
+                Log Data
+            </h3>
 
-                </li><li>We also use your Personal Information to contact you with chatra newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. (See “Changing or Deleting Information,” below.)
-            </li></ol>
+            <p>
+                When you visit the Site, whether as a Member or a non-registered user just browsing (any of these, a “chatra User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data (besides IP) as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+            </p>
 
-            <h4><br>Log Data</h4>
 
-            <p>When you visit the Site, whether as a Member or a non-registered user just browsing (any of these, a “chatra User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
-            </p><h2>Cookies</h2>
 
-            <p>Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information and preferences for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by chatra Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+            <h3>
+                Cookies
+            </h3>
 
-            </p><h2>Web Beacons</h2>
+            <p>
+                Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information and preferences for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Chatra Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+            </p>
 
-            <p>We also use “web beacons”, “pixel tags”, “clear GIFs” or similar means (individually or collectively “Web Beacons”) on our Site. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site, to deliver branded services and to generate statistics about how our Site is used.
+            <p>
+                To ensure the functionality of our chat software and to allow the identification of users when they return to our Site, we save user identification token and other information to the local storage and/or cookie in your browser.
+            </p>
 
-            </p><h2>Phishing</h2>
+            <p>
+                This includes, but is not limited to, the persisted state, machine state, session ID as well as chat statistics, URLs visited on our website, an individual user ID, the name of the user, the email-address and the number of visits. These tokens are stored locally and are not shared with third parties. By default this information is stored indefinitely.
+            </p>
 
-            <p>Identity theft and the practice currently known as “phishing” are of great concern to chatra. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+            <p>
+                These cookies/local storage entries have key-value storage names that differ from session to session.
+            </p>
 
-            </p><h2>Information Sharing &amp; Disclosure</h2>
 
-            <h4>Your logo on the Site</h4>
+            <h3>
+                List of Cookies
+            </h3>
 
-            <p>Subject to your approval, we may also feature your company logo, company name and testimonial on the homepage or any other pages of the Site.
 
-            </p><h4><br>SNS</h4>
 
-            <p>As a Member, you may link your Account with certain SNSs where you have an existing account with the SNSs. In these instances, with your permission and on your behalf, we will share your Account information with the applicable SNS. Through use of such SNSs’ APIs, as stated above, we also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS in connection with your linking of accounts, the Personal Information an SNS has about you is obtained by the SNS independent of our Service. Other services, including the SNSs, follow different rules regarding the use or disclosure of the Personal Information you submit to them. We encourage you to read the privacy policies or statements of the other services you use.
+            <p>
+            </p><table class="table table-bordered">
 
-            </p><h4><br>Aggregate Information &amp; Non-Identifying Information</h4>
+                <tbody><tr><th class="bg-primary">Website Name</th>
+                <th class="bg-primary">Cookie</th>
+                <th class="bg-primary">Purpose</th>
+                <th class="bg-primary">Storage Duration</th>
 
-            <p>We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
 
-            </p><h4><br>Service Providers</h4>
+                </tr><tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
 
-            <p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processing, product production, shipment services, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+                    <td>
+                        Google Analytics (_ga)
+                    </td>
 
-            </p><h4><br>Compliance with Laws &amp; Law Enforcement</h4>
+                    <td>
+                        Collects information about how visitors use our sites
+                    </td>
 
-            <p>Chatra cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of chatra or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+                    <td>
+                        2 years
+                    </td>
+                </tr>
 
-            </p><h4><br>Business Transfers</h4>
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
+                    <td>
+                        Google Analytics (_gat)
+                    </td>
+                    <td>
+                        Collects information about how visitors use our sites
+                    </td>
+                    <td>
+                        1 min
+                    </td>
+                </tr>
 
-            <p>Chatra may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
+                    <td>
+                        Google Analytics (_gid)
+                    </td>
+                    <td>
+                        Collects information about how visitors use our sites
+                    </td>
+                    <td>
+                        24 hours
+                    </td>
+                </tr>
 
-            </p><h2>Changing or Deleting Your Information</h2>
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
+                    <td>
+                        Google Analytics (_utma)
+                    </td>
+                    <td>
+                        Determines unique visitors and pageviews
+                    </td>
+                    <td>
+                        2 years
+                    </td>
+                </tr>
 
-            <p>All Members may review, update or correct the Personal Information in their registration profile by contacting us or via the account section of the Site. If you would like us to delete your Account in our system, please contact us at support@chatra.io with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
+                    <td>
+                        Google Analytics (_utmb)
+                    </td>
+                    <td>
+                        Establishes and continues a user session
+                    </td>
+                    <td>
+                        30 min
+                    </td>
+                </tr>
 
-            </p><h2>Security</h2>
 
-            <p>Chatra is very concerned with safeguarding your information. The security of your personal information is important to us. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io
+                    </td>
+                    <td>
+                        Google Analytics (_utmz)
+                    </td>
+                    <td>
+                        Stores the type of referral used by the visitor
+                    </td>
+                    <td>
+                        6 months
+                    </td>
+                </tr>
 
-            </p><h2>International Transfer</h2>
+                <tr>
+                    <td>
+                        chatra.io, app.chatra.io, chat.chatra.io
+                    </td>
+                    <td>
+                        chatra.*
+                    </td>
+                    <td>
+                        Ensures the functionality of our chat software
+                    </td>
+                    <td>
 
-            <p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, chatra transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-			
-			
-			
-			
-			</p><h2>Users outside of the U.S.</h2>
-			
-			<p><b>Important Information for Users Outside of the U.S. – Transfer of Data</b></p>
+                    </td>
+                </tr>
 
-			<p>WE PRIMARILY STORE DATA ABOUT YOU, INCLUDING PRIVATE INFORMATION, ON SERVERS LOCATED AND OPERATED WITHIN THE UNITED STATES. IF YOU RESIDE OUTSIDE OF THE UNITED STATES, IN ORDER TO PROVIDE AND OPERATE THE SERVICES, WE MAY SEND AND STORE YOUR PRIVATE INFORMATION (ALSO COMMONLY REFERRED TO AS PERSONAL DATA) OUTSIDE OF THE COUNTRY WHERE YOU RESIDE OR ARE LOCATED, TO THE UNITED STATES. THEREFORE, OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION IS SUBJECT TO THE UNITED STATES' LAWS RELATED TO PRIVACY AND USE OF PERSONAL DATA AND INFORMATION. THESE LAWS, INCLUDING WHAT IS DETERMINED TO BE "PERSONAL DATA AND/OR INFORMATION," ARE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE APPLICABLE TO YOU IN YOUR COUNTRY OF RESIDENCE. BY ACCEPTING THE TERMS OF THIS PRIVACY POLICY, YOU ACKNOWLEDGE, AGREE AND CONSENT TO (1) THE TRANSFER TO AND PROCESSING OF PRIVATE INFORMATION ON SERVERS LOCATED OUTSIDE OF THE COUNTRY WHERE YOU RESIDE, (2) OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION AS DESCRIBED HEREIN AND IN ACCORDANCE WITH THE LAWS OF THE UNITED STATES THAT MAY BE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE IN YOUR COUNTRY AND (3) THAT YOU ARE TAKING A RISK BY USING THE SERVICES. IF YOUR PERSONAL INFORMATION IS TRANSFERRED FROM THE EUROPEAN ECONOMIC AREA TO CHATRA LOCATED IN THE UNITED STATES, PLEASE SEE THE PRIVACY SHIELD SECTION BELOW.
-			</p>
-			
-			<h2><p>EU-US Privacy Shield</p></h2>
-			<p><b>Chatra's commitment to comply with the Privacy Shield Principles</b></p>
 
-			<p>Chatra is a participant in the Privacy Shield and has self-certified to the Privacy Shield framework. Chatra confirms it commitment to comply with the EU-US Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Chatra has certified that it adheres to each of the Privacy Shield Principles: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
-			</p>
-			
-			<p><b>Accountability for onward transfers</b></p>
 
-			<p>Chatra's accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Chatra remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Chatra proves that it is not responsible for the event giving rise to the damage.
-			</p>
+                <tr>
+                    <td>
+                        chatra.io
+                    </td>
+                    <td>
+                        Disqus (__jid)
+                    </td>
+                    <td>
+                        Authentication for commenting
+                    </td>
+                    <td>
+                        2 years
+                    </td>
+                </tr>
 
-			<p><b>Right of access</b></p>
 
-			<p>You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles.
-			</p>
+                <tr>
+                    <td>
+                        chatra.io
+                    </td>
+                    <td>
+                        Disqus (event.gif)
+                    </td>
+                    <td>
+                        Authentication for commenting
+                    </td>
+                    <td>
+                        2 years
+                    </td>
+                </tr>
 
-			<p><b>Resolution of disputes and complaint mechanism</b></p>
 
-			<p>In compliance with the Privacy Shield Principles, Chatra commits to resolve complaints about your privacy and our collection or use of your personal information. If European Union citizens have any queries related to the processing of your personal information under the Privacy Shield framework, we encourage you to contact us directly in the first instance at: info@chatra.io or Chatra Privacy, 76 S. Park St. San Francisco, CA 94107.
-			</p>
+                <tr>
+                    <td>
+                        chatra.io
+                    </td>
+                    <td>
+                        Facebook (tr)
+                    </td>
+                    <td>
+                        Advertising pixel for prospecting and retargeting
+                    </td>
+                    <td>
+                        180 days
+                    </td>
+                </tr>
 
-			<p><b>Independent recourse mechanism</b></p>
+                <tr>
+                    <td>
+                        chatra.io
+                    </td>
+                    <td>
+                        partnerId
+                    </td>
+                    <td>
+                        Determines the ID of Chatra referring partner (if any)
+                    </td>
+                    <td>
+                        30 days
+                    </td>
+                </tr>
 
-			<p>Chatra has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
-			</p>
 
-			<p><b>Binding arbitration</b></p>
+                <tr>
+                    <td>
+                        Chatra.io, app.chatra.io, chat.chatra.io
+                    </td>
+                    <td>
+                        galaxy-sticky
+                    </td>
+                    <td>
+                        Load balancer cookie that connects you to a correct chatra server
+                    </td>
+                    <td>
+                        Till the browser is closed
+                    </td>
+                </tr>
+            </tbody></table>
 
-			<p>As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
-			</p>
 
-			<p><b>Enforcement</b></p>
+            <p></p>
 
-			<p>Chatra is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Disclosure of EU personal data to public authorities and law enforcement agencies Chatra may be required to share your personal information in response to lawful by public authorities, including to meet national security and law enforcement requirements.
-			</p>
-			
-			
-			<h2>Do not track signals.</h2>
 
-			<p>You may have implemented a "do not track" signal through your browser. As there currently is no fixed standard for do not track signals, we currently do not respond to do not track signals from your web browser.
-			</p>
-			
-			
-			
-			
 
-            <h2>Links to Other Sites</h2>
+            <h3>
+                End user cookies
+            </h3>
 
-            <p>Our Site contains links to other websites. If you choose to click on a third party link, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+            <p>
+                To ensure the functionality of our chat software and to allow the identification of end users when they return to your Site, we save user identification token and other information to the local storage and/or cookie in your end user browser.
+            </p>
 
-            </p><h2>Our Policy Toward Children</h2>
+            <p>
+                This includes, but is not limited to the persisted state, machine state, session ID as well as chat statistics, URLs visited on your website, an individual user ID, the name of the user, the email-address and the number of visits. These tokens are stored locally and are not shared with third parties. By default this information is stored indefinitely.
+            </p>
 
-            <p>This Site is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@chatra.io. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+            <p>
+                These cookies/local storage entries have key-value storage names that differ from session to session.
+            </p>
 
-			
-			
-			
-			
-			
-			
 
-            </p><h2>Contacting Chatra</h2>
 
-            <p>If you have any questions about these Terms, please contact Chatra at:
+            <h3>
+                Web Beacons
+            </h3>
 
-            </p><p>Roger Wilco LLC,<br>
-            Millen, White, Zelano &amp; Branigan, Jeff Cohen<br>
-            2200 Clarendon Blvd., Suite 1400A<br>
-            Arlington, VA 22201<br>
-            1-703-243-6333<br><br>
-            <a href="mailto:info@chatra.io">info@chatra.io</a>
-        </p></div>
+            <p>
+                We also use “web beacons”, “pixel tags”, “clear GIFs” or similar means (individually or collectively “Web Beacons”) on our Site. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site, to deliver branded services and to generate statistics about how our Site is used.
+            </p>
+
+
+
+            <h3>
+                Phishing
+            </h3>
+
+            <p>
+                Identity theft and the practice currently known as “phishing” are of great concern to Chatra. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+            </p>
+
+
+
+            <h2>
+                Information Sharing &amp; Disclosure
+            </h2>
+
+            <h3>
+                Your logo on the Site
+            </h3>
+
+            <p>
+                Subject to your approval, we may also feature your company logo, company name and testimonial on the homepage or any other pages of the Site.
+
+            </p>
+
+
+            <h3>
+                Aggregate Information &amp; Non-Identifying Information
+            </h3>
+            <p>
+                We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+            </p>
+
+
+            <h3>
+                Service Providers
+            </h3>
+
+
+            <p>
+                We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, payment processing, product production, shipment services, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+                For more information check our <a href="https://chatra.io/dpa/">Data Processing Amendment</a>.
+
+            </p>
+
+
+            <h3>
+                Compliance with Laws &amp; Law Enforcement
+            </h3>
+
+            <p>
+                Chatra cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Chatra or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+            </p>
+
+
+            <h3>
+                Business Transfers
+            </h3>
+
+            <p>
+                Chatra may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+            </p>
+
+
+            <h3>
+                Changing or Deleting Your Information
+            </h3>
+
+            <p>
+                All Members may review, update or correct the Personal Information in their account by contacting us or via the account section of the Site. If you would like us to delete your Account in our system, please contact us at support@chatra.io with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+            </p>
+
+
+
+            <h3>
+                Security
+            </h3>
+
+            <p>
+                Chatra is very concerned with safeguarding your information. The security of your personal information is important to us. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+            </p>
+
+
+            <h3>
+                International Transfer
+            </h3>
+
+            <p>
+                Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Chatra transfers Personal Information to the United States or European Union and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+            </p>
+
+
+            <h3>
+                Users outside of the U.S.
+            </h3>
+
+            <p>
+                Important Information for Users Outside of the U.S. – Transfer of Data
+            </p>
+
+
+            <p>
+                WE PRIMARILY STORE DATA ABOUT YOU, INCLUDING PRIVATE INFORMATION, ON SERVERS LOCATED AND OPERATED WITHIN THE UNITED STATES AND EUROPEAN UNION. IF YOU RESIDE OUTSIDE OF THE UNITED STATES, IN ORDER TO PROVIDE AND OPERATE THE SERVICES, WE MAY SEND AND STORE YOUR PRIVATE INFORMATION (ALSO COMMONLY REFERRED TO AS PERSONAL DATA) OUTSIDE OF THE COUNTRY WHERE YOU RESIDE OR ARE LOCATED, TO THE UNITED STATES OR EUROPEAN UNION. THEREFORE, OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION IS SUBJECT TO THE UNITED STATES' LAWS RELATED TO PRIVACY AND USE OF PERSONAL DATA AND INFORMATION. THESE LAWS, INCLUDING WHAT IS DETERMINED TO BE "PERSONAL DATA AND/OR INFORMATION," ARE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE APPLICABLE TO YOU IN YOUR COUNTRY OF RESIDENCE. BY ACCEPTING THE TERMS OF THIS PRIVACY POLICY, YOU ACKNOWLEDGE, AGREE AND CONSENT TO (1) THE TRANSFER TO AND PROCESSING OF PRIVATE INFORMATION ON SERVERS LOCATED OUTSIDE OF THE COUNTRY WHERE YOU RESIDE, (2) OUR COLLECTION AND USE OF YOUR PRIVATE INFORMATION AS DESCRIBED HEREIN AND IN ACCORDANCE WITH THE LAWS OF THE UNITED STATES THAT MAY BE DIFFERENT AND MAY BE LESS PROTECTIVE THAN THOSE IN YOUR COUNTRY AND (3) THAT YOU ARE TAKING A RISK BY USING THE SERVICES. IF YOUR PERSONAL INFORMATION IS TRANSFERRED FROM THE <b>EUROPEAN ECONOMIC AREA</b> TO CHATRA LOCATED IN THE UNITED STATES, PLEASE SEE THE PROCESSING AND USE OF EU RESIDENTS DATA SECTION BELOW.
+            </p>
+
+
+            <h2>
+                Processing and use of EU residents data
+            </h2>
+
+            <p>
+                We store and process personal information of European Union Residents (both customers and end users) in accordance with GDPR regulation. Personal information is primarily stored by Chatra on servers located within European Union (Germany). See section “service providers” to learn about sub-contractors we use to process your data.
+            </p>
+
+            <p>
+                If your data is transferred to the United States, the transfer happens in accordance with EU-US and Swiss-US Privacy shield outlined below.
+            </p>
+
+
+
+            <h2>
+              EU-US and Swiss-US Privacy Shield
+            </h2>
+
+            <h2>
+                Chatra's commitment to comply with the Privacy Shield Principles
+            </h2>
+
+            <p>
+                Chatra complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.
+            </p>
+
+            <p>
+                Chatra has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>
+            </p>
+
+            <p>
+                Chatra has certified that it adheres to each of the Privacy Shield Principles: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+            </p>
+
+
+
+            <h3>
+                Accountability for onward transfers
+            </h3>
+
+            <p>
+                Chatra's accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Chatra remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Chatra proves that it is not responsible for the event giving rise to the damage.
+            </p>
+
+
+            <h3>
+                Right of access
+            </h3>
+
+            <p>
+                You have a legal right to request the personal information about you held by us. On request, we will provide you with a copy of this information. You also have a right to correct, amend or delete such personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. If you would like to exercise these rights please contact Chatra at support@chatra.io
+            </p>
+
+
+            <h3>
+                Resolution of disputes and complaint mechanism
+            </h3>
+
+            <p>
+                In compliance with the Privacy Shield Principles, Chatra commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Chatra  at:<br>
+                <b>info@chatra.io</b>
+            </p>
+
+            <p>
+                Chatra has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="https://www.bbb.org/EU-privacy-shield/for-eu-consumers">www.bbb.org/EU-privacy-shield/for-eu-consumers</a> for more information and to file a complaint. This service is provided free of charge to you.
+            </p>
+
+
+            <h3>
+                Binding arbitration
+            </h3>
+
+            <p>
+                If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a>
+            </p>
+
+
+
+            <h3>
+                Enforcement
+            </h3>
+
+
+            <p>
+                Chatra is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). We may be required to disclose personal data to public authorities and law enforcement agencies in response to lawful request by public authorities, including to meet national security and law enforcement requirements.
+            </p>
+
+
+
+            <h3>
+                Do not track signals
+            </h3>
+
+            <p>
+                You may have implemented a "do not track" signal through your browser. As there currently is no fixed standard for do not track signals, we currently do not respond to do not track signals from your web browser.
+            </p>
+
+
+            <h3>
+                Links to Other Sites
+            </h3>
+
+
+            <p>
+                Our Site contains links to other websites. If you choose to click on a third party link, you will be directed to that third party’s website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+            </p>
+
+
+
+            <h3>
+                Our Policy Toward Children
+            </h3>
+
+            <p>
+                This Site is not directed to persons under 18. We do not knowingly collect personally identifiable information from children under 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@chatra.io. If we become aware that a child under 16 has provided us with Personal Information, we will delete such information from our files.
+            </p>
+
+
+
+            <h3>
+                Contacting Chatra
+            </h3>
+
+            <p>
+                If you have any questions about these Terms, please contact Chatra at:
+            </p>
+
+            <p>
+                Roger Wilco LLC,<br>
+                Millen, White, Zelano &amp; Branigan<br>
+                Attn: Jeff Cohen<br>
+                2200 Clarendon Blvd., Suite 1400A<br>
+                Arlington, VA 22201<br>
+                1-703-232-1443<br>
+                info@chatra.io
+            </p>
+
+
+            <p>
+                Our representative in the European Union can be contacted by <a href="mailto:euprivacy@chatra.io">email</a>.
+            </p>
+
+
+
+        </div>
     </div>
 
 </div>
 
 <div class="footer">
     <div class="container">
-        <span class="footer__fff"><i class="glyphicon glyphicon-thumbs-up"></i> 2017, Chatra</span>
+        <span class="footer__fff"><i class="glyphicon glyphicon-thumbs-up"></i> 2019, Chatra</span>
         <ul class="footer-nav">
-            <li class="footer-nav__item"><a href="/partner/" class="footer__fff">Affiliate program</a></li>
-            <li class="footer-nav__item"><a href="/terms-of-service/" class="footer__fff">Terms of service</a></li>
-            <li class="footer-nav__item is-active"><a href="/privacy-policy/" class="footer__fff">Privacy policy</a></li>
-            <li class="footer-nav__item"><a href="/about-us/" class="footer__fff">About us</a></li>
-            <li class="footer-nav__item"><a href="/contact-us/" class="footer__fff">Contact us</a></li>
+            <li class="footer-nav__item">
+                <a href="/partner/" class="footer__fff">Affiliate program</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="/apps/" class="footer__fff">Apps</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="/terms-of-service/" class="footer__fff">Terms of service</a>
+            </li>
+
+            <li class="footer-nav__item is-active">
+                <a href="/privacy-policy/" class="footer__fff">Privacy policy</a>
+            </li>
+
+            <li class="footer-nav__item">
+                <a href="/dpa/" class="footer__fff">DPA</a>
+            </li>
+
+            <li class="footer-nav__item">
+                <a href="/gdpr/" class="footer__fff">GDPR</a>
+            </li>
+
+            <!--<li class="footer-nav__item">
+                <a href="/about-us/" class="footer__fff">About us</a>
+            </li>-->
+
+            <li class="footer-nav__item">
+                <a href="/contact-us/" class="footer__fff">Contact us</a>
+            </li>
         </ul>
     </div>
 </div>
 
 
 
-<script src="/_js/script.js"></script>
+<script src="/_js/script.js?v=2"></script>
 
-<!--VK -->
-<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=sU81t9Kkv0b2W8AkjMWIbPirevkbP8ETSeIQor5f5Pm*tVoSXu4hdjQ2n2sgeFSVpj5y/s9BzOg57RarrRfM5MVUTyodtm2RoNMztVQfXIUUWe1uDXeKbT1S5ZWunRt1NikkbDGBGyb7XR68DcfaTBNBN9fuugEJ4ASUaU13UgI-';</script>
-
-<!--VK since 040915-->
-<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=h3pVlhffxr3fh9BpaOOElYD7tWNuB0Nbv3EGn5D9C/K5qOv6zPrvkceTZNM2z2/ZfyUKKe*p7JevMHxgOVGKKIcwfEzf*nmoI7OSr4uBG4R9NOirLafjNUzRS5sgjHa1mN9h*d8YvgilLyi/G7SdjwkEygG3LvrfPhKzoMAI9g8-';</script>
 
 <!--FB -->
 <script>(function() {
@@ -327,18 +845,30 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 
- <script type="text/javascript">
-(function() {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;
-s.src = document.location.protocol + '//loader.wisepops.com/default/index/get-loader?user_id=23625';
-var s2 = document.getElementsByTagName('script')[0];s2.parentNode.insertBefore(s, s2);})();
-</script>    
 
 
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=681394691906844&amp;ev=PixelInitialized" /></noscript>
 
 
 
+<script type="text/javascript">
+    _linkedin_partner_id = "594769";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+    (function(){var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=594769&fmt=gif" />
+</noscript>
 
 
-<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+
+
+
 </body></html>
