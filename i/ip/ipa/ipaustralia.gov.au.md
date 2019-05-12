@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925042810id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512220105id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | IP Australia
 
 Our privacy policy summarises how we handle your personal information.
 
-If you do not find the information you are looking for here, please read the full 
-
- 
+If you do not find the information you are looking for here, please read the full [privacy policy.](https://web.archive.org/files/ipa-privacy-policypdf)
 
 You should read this policy if you are:
 
@@ -65,8 +63,22 @@ We encourage individuals to examine each website's privacy policy.
 
 Our [website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy-policy/website-usage) has more information about clickstream data, clicktails, cookies, tools used, email addresses and linking to external websites.
 
-### More information
+## Privacy Impact Assessments
 
-  * [Website usage and information policy](https://web.archive.org/about-us/agency-overview/privacy-policy/website-usage)
+The [Privacy (Australian Government Agencies – Governance) APP Code 2017 (Cth)](https://www.oaic.gov.au/privacy-law/privacy-registers/privacy-codes/privacy-australian-government-agencies-governance-app-code-2017) (APP Code) requires that all Australian Government agencies, including IP Australia, conduct a Privacy Impact Assessment (PIA) for each high privacy risk project.
 
+The table below lists the PIAs completed by IP Australia since the APP Code came into effect on 1 July 2018.
 
+**Privacy Impact Assessment**
+
+| 
+
+**Date**  
+  
+---|---  
+  
+Privacy Impact Assessment for TM-Link – Release 1
+
+| 
+
+July 2018
