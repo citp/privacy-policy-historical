@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909055740id_/https%3A//japancrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512145806id_/https%3A//www.japancrate.com/privacy-policy) for the most accurate reproduction.*
 
-# Japan Crate - Japanese Candy Delivered Monthly
+# Japanese Candy Box Subscription | Japan Crate
 
 WEBSITE PRIVACY POLICY EFFECTIVE DATE: May 24, 2018
 
