@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111102110id_/http%3A//www.siliconsolar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconsolar.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512100011id_/http%3A//www.siliconsolar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Solar Energy Privacy Policy Shop Solar
 
