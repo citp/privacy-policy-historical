@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bvibe.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219051001id_/http%3A//bvibe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bvibe.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513211913id_/https%3A//www.bvibe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | b-Vibe
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which bvibe.com collects, uses, maintains and discloses information collected from Users (each, a “User”) of the [bvibe.com](http://bvibe.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by bvibe.com.
+This Privacy Policy governs the manner in which bvibe.com collects, uses, maintains and discloses information collected from Users (each, a “User”) of the [bvibe.com](https://www.bvibe.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by bvibe.com.
 
 **Personal Identification Information**
 
@@ -22,16 +22,16 @@ Our Site may use “cookies” to enhance User experience. User web browser plac
 
 **How We Use Collected Information**
 
-bvibe.com may collect and use User personal information for the following purposes:
+bbvibe.com may collect and use User personal information for the following purposes:
 
   * \- To improve customer service. Information you provide helps us respond to your customer service requests and needs more efficiently.
   * \- To personalize user experience.  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * \- To improve our Site.  
-We may use feedback you provide to improve our products and ser-vices.
+We may use feedback you provide to improve our products and services.
   * \- To run a promotion, contest, survey or to send Users information they agreed to receive about topics we think will be of interest to them.
   * \- To send periodic emails.  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their in-quiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include instructions on how to unsubscribe at the bottom of each email.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include instructions on how to unsubscribe at the bottom of each email.
 
 
 
@@ -45,7 +45,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Compliance With Children’s Online Privacy Protection Act**
 
-Protecting the privacy of the very young is especially important. For that rea-son, we never collect or maintain information at our Site from those we actu-ally know are under 13, and no part of our website is structured to attract anyone under 13.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Changes To This Privacy Policy**
 
