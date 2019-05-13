@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927012459id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513230304id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Out of Milk - Privacy
 
@@ -10,7 +10,7 @@ Data are processed by the Bonial International GmbH (“ **we** ” or “ **us*
 represented by CEO Maximilian Biller   
 Hussitenstraße 32-33   
 13355 Berlin   
-Email: [datenschutz@bonial.de](mailto:datenschutz@bonial.de)
+Email: [dataprotection@outofmilk.com](mailto:dataprotection@outofmilk.com)
 
 as service provider in the sense of the German Telemedia Act (TMG) and data controller in terms of the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (Data Protection Regulation, “GDPR”). The term "OOM" in this document means www.outofmilk.com and the various apps OOM, each including all available services, contents and functionalities. Specific parts of OOM are hereinafter referred to as "online services".
 
@@ -184,7 +184,7 @@ Bonial International GmbH
 Data Protection Officer   
 Hussitenstraße 32-33  
 13355 Berlin  
-Email: [datenschutz@bonial.de](mailto:datenschutz@bonial.de)
+Email: [dataprotectionofficer@outofmilk.com](mailto:dataprotectionofficer@outofmilk.com)
 
   1. **Right of access (art. 15 GDPR) and right to rectification (art. 16 GDPR)**
 
