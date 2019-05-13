@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtravelbliss.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618174511id_/http%3A//worldtravelbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelbliss.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513235001id_/http%3A//worldtravelbliss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World Travel Bliss
+# Privacy Policy
 
 Net 90, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -13,19 +13,19 @@ We only collect personal information that is relevant to the purpose of our webs
 1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
 2\. Automatic Information:  
-We receive and store certain types of information whenever you interact with us. Net 90, LLC and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Net 90, LLC cookie information, and the page you requested. Net 90, LLC uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+We receive and store certain types of information whenever you interact with us. Net 90, LLC and its authorized agents automatically receive and record certain “traffic data�? on their server logs from your browser including your IP address, Net 90, LLC cookie information, and the page you requested. Net 90, LLC uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 Net 90, LLC may collect and, on any page, display the total counts that page has been viewed.  
 Many companies offer programs that help you to visit websites anonymously. While Net 90, LLC will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 E-mail Communications
 
-Net 90, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ”Sharing Your Information” section below. Net 90, LLC may send out e-mails with WorldTravelBliss.com – related news, products, offers, surveys or promotions.
+Net 90, LLC is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the �?Sharing Your Information�? section below. Net 90, LLC may send out e-mails with WorldTravelBliss.com – related news, products, offers, surveys or promotions.
 
 Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Net 90, LLC cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Net 90, LLC’s coolest features.
+The �?help�? portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Net 90, LLC’s coolest features.
 
 Third Party Advertising – Ad Choices
 
@@ -45,7 +45,7 @@ Syndication: Net 90, LLC allows for the RSS syndication of all of its public con
 
 With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-If you would like to know more about the information gathering practices and “opt-out” procedures of our third-party ad servers, please contact us at [info@netninety.com](mailto://info@netninety.com "Opt Out Procedures").
+If you would like to know more about the information gathering practices and “opt-out” procedures of our third-party ad servers, please contact us at [info@netninety.com](mailto://netninety.com/ "Opt Out Procedures").
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
