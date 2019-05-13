@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127041826id_/https%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513105854id_/http%3A//www.bchydro.com/siteinfo/privacy.html%3FWT.ac%3Dhp_footer_privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,7 +23,7 @@ In addition, when you visit our website, the web server collects a small amount 
 
 ### Cookies
 
-bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose "remember me" on the log in form (and this is completely optional). You may delete the cookie by clearing if from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.
+bchydro.com uses both persistent and session cookies. These are files that your web browser stores on your computer. The persistent cookie remains on your computer after your session is completed. It does not store any personally identifiable information. It stores a unique identifier so we may track our website visitors at an aggregate level; a persistent cookie is also used to remember you next time you visit but only if you choose "remember me" on the log in form (and this is completely optional). You may delete the cookie by clearing it from your browser. The session cookie remains only when you are logged into bchydro.com. It enables the website to know who you are when moving from one web page to the next. This cookie automatically gets erased when you log out or close your browser.
 
 ### Contests & Surveys
 
