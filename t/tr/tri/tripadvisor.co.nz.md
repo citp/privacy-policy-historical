@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.co.nz privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110102457id_/https%3A//tripadvisor.mediaroom.com/nz-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.co.nz privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513024503id_/https%3A//tripadvisor.mediaroom.com/nz-privacy-policy) for the most accurate reproduction.*
 
 # NZ Press Center | Resources
 
