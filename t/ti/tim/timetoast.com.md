@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010004919id_/https%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513132602id_/https%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Timetoast timelines
 
@@ -32,7 +32,7 @@ We also collect some information automatically:
   * **Usage Information:** We collect information about your usage of our Website such as page views and actions taken on the site such as signing in, editing a resource such as a timeline etc. We use this information to get a sense of how people use the Website and to identify content on the Website that is popular. 
   * **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to understand, for example, how many people visit our Website from a particular geographic location. 
   * **Stored Information:** We may access information stored on your device, for example when you upload an image to our Website. 
-  * **Information from Cookies:** A cookie is a string of information that a wesite stores on a vistor's computer, and that the visitor's browser provides to the website each time the visitor returns. Timetoast uses cookies to help us identify and track visitors, usage, and access performance for our Website and to deliver targetted ads. 
+  * **Information from Cookies:** A cookie is a string of information that a website stores on a vistor's computer, and that the visitor's browser provides to the website each time the visitor returns. Timetoast uses cookies to help us identify and track visitors, usage, and access performance for our Website and to deliver targetted ads. 
 
 
 
