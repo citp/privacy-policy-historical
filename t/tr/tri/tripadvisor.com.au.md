@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.com.au privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110103258id_/https%3A//tripadvisor.mediaroom.com/au-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.au privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513024743id_/https%3A//tripadvisor.mediaroom.com/au-privacy-policy) for the most accurate reproduction.*
 
 # AU Press Center | Resources
 
