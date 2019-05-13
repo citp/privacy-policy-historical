@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodle.org privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215094651id_/https%3A//moodle.org/admin/tool/policy/view.php%3Fpolicyid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodle.org privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513045143id_/https%3A//moodle.org/admin/tool/policy/view.php%3Fpolicyid%3D1) for the most accurate reproduction.*
 
 # Policies and agreements
 
