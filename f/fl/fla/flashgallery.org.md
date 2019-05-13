@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226130924id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513083230id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is of utmost importance to us here at flashgallery.propertymonster.us. Rest assured that any information you provide will only be used in accordance with this privacy statement.   
+Your privacy is of utmost importance to us here at www.flashgallery.org. Rest assured that any information you provide will only be used in accordance with this privacy statement.   
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used. 
 
 ### Collection and Use of Information
@@ -26,4 +26,4 @@ Our site may contain links to other websites of interest. However, once you use 
 
 ### Privacy Contact Information
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us directly at info [*] flashgallery.propertymonster.us. 
+Should you have any questions, concerns, or comments about our privacy policy, please contact us directly at info [*] flashgallery.org. 
