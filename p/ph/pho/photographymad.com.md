@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2018-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180106034225id_/https%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513021945id_/https%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Photography Mad
 
