@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elektormagazine.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909094040id_/https%3A//www.elektormagazine.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elektormagazine.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513203258id_/https%3A//www.elektormagazine.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elektor Magazine
 
@@ -123,7 +123,7 @@ Elektor International Media B.V. has taken appropriate technical and organisatio
 
 **7\. Cookies**  
 Elektor International Media B.V. uses cookies, fingerprints (or similar techniques) and social media plug-ins on its websites and mobile applications. Some of these are essential for the websites and mobile applications to work, others serve to provide you with a better, faster and safer user experience.  
-Cookies are small information files that are stored on the hard disk of your computer or mobile device via your browser. For more information, please refer to the cookie statement [http://www.elektormagazine.com/cookies](https://www.elektormagazine.com/widgets/cookie-statement?).
+Cookies are small information files that are stored on the hard disk of your computer or mobile device via your browser. For more information, please refer to the cookie statement [elektormagazine.com/cookies](https://www.elektormagazine.com/pages/cookie-statement). 
 
 **8\. Accessing, improving and transferring your data?**  
 If you want to see the information that has been recorded about you at Elektor International Media B.V., you can make a request for inspection. This request can be sent via [elektormagazine.com/my-privacy](http://www.elektormagazine.com/my-privacy).  
@@ -146,3 +146,5 @@ Elektor International Media B.V. regularly checks whether it complies with this 
 attn. legal department  
 P.O. Box 11  
 6114 ZG Susteren
+
+[Terms of business](https://www.elektormagazine.com/pages/Terms-of-Business)
