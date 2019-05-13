@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917081256id_/https%3A//www.banfflakelouise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513131538id_/https%3A//www.banfflakelouise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Banff & Lake Louise Tourism
 
@@ -88,7 +88,7 @@ We ask for your express consent for some purposes and may not be able to provide
 
 In cases that do not involve sensitive personal information, we may rely on “opt-out” consent. 
 
-The amount and type of personal information collected by the Company shall be limited to what is necessary to fulfill the identified purpose. Personal information shall only be used or disclosed for the purposes for which it is collected. Exceptions may be made with the consent of the individual or if authorized or required by law. 
+The amount and type of personal information collected by the Company shall be limited to what is necessary to fulfil the identified purpose. Personal information shall only be used or disclosed for the purposes for which it is collected. Exceptions may be made with the consent of the individual or if authorized or required by law. 
 
 Personal information collected by the Company or on behalf of the Company will be sent to the Company’s head office in Banff and will be subject to the laws of Canada. 
 
