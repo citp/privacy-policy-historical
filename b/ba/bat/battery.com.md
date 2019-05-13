@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927084400id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513215901id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Battery Ventures
 
