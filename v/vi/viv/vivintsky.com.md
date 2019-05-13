@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivintsky.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815201912id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivintsky.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513095515id_/http%3A//www.vivint.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Learn More About Vivint's Updated Privacy Policy
 
@@ -52,7 +52,7 @@ We may share your information with marketing and advertising partners who supple
 We may share information about you and your use of our Services with third party utilities and other providers, to allow you to participate in energy savings programs. With your consent, we allow these utilities access to our Services to change your system settings as required for participation in the energy savings programs. 
 
   
-We may also share anonymized or de-identified information about you or your use of Vivint’s products and services with third parties, as well as aggregated and anonymous information, for any number of purposes, including without limitation the improvement of the products and services we provide. However, except as noted in this Privacy 
+We may also share anonymized or de-identified information about you or your use of Vivint’s products and services with third parties, as well as aggregated and anonymous information, for any number of purposes, including without limitation the improvement of the products and services we provide. However, except as noted in this Privacy Policy, we will not share personally identifying information about you without your consent. 
 
   
 We may share your information with third parties in the following situations: 
