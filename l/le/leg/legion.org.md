@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the legion.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226100014id_/https%3A//www.legion.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legion.org privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513124759id_/https%3A//www.legion.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Legion
 
 **The American Legion**  
  **Privacy Policy**
 
-_Effective May 28, 2015_
+ _Effective May 28, 2015_
 
 The American Legion knows you care about your privacy. This Privacy Policy ("Privacy Policy," “Policy,” or Agreement) explains how The American Legion National Headquarters (“The American Legion,” “we,” “our,” or “us”) collect, use, share, and secure your personal information.
 
-**THE AMERICAN LEGION PRIVACY POLICY OVERVIEW**
+ **THE AMERICAN LEGION PRIVACY POLICY OVERVIEW**
 
 1\. **This Privacy Policy Is An Agreement Between You And The American Legion**
 
@@ -27,7 +27,7 @@ Modifications to the Policy are effective upon our posting of the amended Policy
 
 4\. **Who Is Eligible To Use The Services?**
 
-Because of the nature of our business, our Services are not directed to minors. Consistent with the Children’s Online Privacy Protection Act of 1998 (COPPA), The American Legion does not knowingly collect personally identifiable information from children under the age of 13 without parental consent. If we learn that personally identifiable information of a child under the age of 13 has been submitted via or appears on or within Services, The American Legion will take all action necessary to comply with our responsibilities under applicable legal requirements, which may include deletion of any such information. 
+Because of the nature of our business, our Services are not directed to minors. Consistent with the Children’s Online Privacy Protection Act of 1998 (COPPA), The American Legion does not knowingly collect personally identifiable information from children under the age of 13 without parental consent. If we learn that personally identifiable information of a child under the age of 13 has been submitted via or appears on or within Services, The American Legion will take all action necessary to comply with our responsibilities under applicable legal requirements, which may include deletion of any such information.
 
 **HOW WE COLLECT & USE YOUR INFORMATION**
 
@@ -107,7 +107,7 @@ K. **_Do Not Track_**
 
 The American Legion does not currently employ a process for automatically responding to “Do Not Track” (DNT) signals sent by web browsers, mobile devices, or other mechanisms that may provide consumers a choice regarding the collection of Personally Identifiable Information about an individual consumer’s online activities. As is commonly the case with many other mobile applications and websites, third parties (e.g., advertisers) may be able to collect Personally Identifiable Information about your online activities over time and across different websites or online services when you use Services.
 
-**HOW WE SHARE YOUR INFORMATION**
+ **HOW WE SHARE YOUR INFORMATION**
 
 1\. **How Does The American Legion Share My Information With Others?**
 
@@ -147,7 +147,7 @@ G. **_Protection Of The American Legion And Others_**
 
 The American Legion fully cooperates with law enforcement agencies in identifying those who may use our Services for illegal activities, and may in its sole discretion disclose Personally Identifiable Information or other information to satisfy any law, regulation, subpoena, proceeding, or government request, or in connection with civil litigation. The American Legion reserves the right to release Personally Identifiable Information or other information about users who The American Legion has reason to believe are engaged in illegal activities or are otherwise in violation of our The American Legion Terms & Conditions of Use, with or without a subpoena, warrant, or court order, if The American Legion believes, in its sole discretion, that such disclosure is necessary or appropriate to operate Services, or to protect the rights or property of The American Legion, its affiliates, or any of their officers, directors, or employees, agents, third party content providers, suppliers, sponsors, or licensors. The American Legion also reserves the right to report to law enforcement agencies any activities The American Legion reasonably believes, in its sole discretion, to be unlawful.
 
-**HOW WE PROTECT YOUR INFORMATOIN**
+ **HOW WE PROTECT YOUR INFORMATOIN**
 
 1\. **How Does The American Legion Secure My Information?**
 
@@ -165,7 +165,7 @@ Yes. In the event you are asked to create a Services Account, your online accoun
 
 You do. The American Legion welcomes you to contact us regarding whether: (i) The American Legion is keeping information about you, (ii) the accuracy of the information The American Legion is keeping, (iii) how The American Legion is using your information or sharing your information with others, (iv) to update or delete your information, or (v) to opt-out of the collection and use of your information. Please contact us specifying the details of your request by sending an email to The American Legion at [privacy@legion.org](mailto:privacy@legion.org) or using the contact information provided below. Please note we may require proof of your identity before we provide you with the requested information. Please also note that if you choose to delete your information or opt-out of the collection and use of your information, certain Services may no longer be available to you, and The American Legion may terminate your access to Services and any contracts you may have with us related to Services.
 
-**ADDITIONAL PROVISIONS REGARDING THE SERVICES AND YOUR INFORMATION**
+ **ADDITIONAL PROVISIONS REGARDING THE SERVICES AND YOUR INFORMATION**
 
 1\. **Does This Privacy Policy Apply To Third Party Websites?**
 
@@ -187,7 +187,7 @@ This Privacy Policy and the privacy practices of The American Legion are made un
 
 All requests, questions, or concerns about your information or this Privacy Policy should be directed to The American Legion’s Privacy Officer via the following contact information:
 
-_Attn: Mark Seavey_  
+ _Attn: Mark Seavey_  
  _The American Legion_  
  _700 N. Pennsylvania St._  
  _P.O. Box 1055_  
@@ -196,4 +196,4 @@ _Attn: Mark Seavey_
  _Fax: (317) 630-1223_  
  _Email:[privacy@legion.org](mailto:privacy@legion.org)_
 
-**_I have read all provisions of this Privacy Policy, I understand them, and I agree to be bound by them. I confirm and warrant that I have all the rights, power and authority necessary to enter into this Privacy Policy on behalf of myself or the applicable entity. I agree to comply with all terms in this Agreement in full._**
+ ** _I have read all provisions of this Privacy Policy, I understand them, and I agree to be bound by them. I confirm and warrant that I have all the rights, power and authority necessary to enter into this Privacy Policy on behalf of myself or the applicable entity. I agree to comply with all terms in this Agreement in full._**
