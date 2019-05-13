@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201725id_/https%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513173042id_/https%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Startups.co.uk: Starting a business advice and business ideas
+# Privacy policy | Startups.co.uk
 
 **You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, profiling (including the use of custom and lookalike/similar audiences), and direct marketing.   At any time, you can exercise your rights by emailing us at **[**dataprotection@mvfglobal.com**](mailto:dataprotection@mvfglobal.com) **.   For further details about our processing and your rights, please see below.**
 
