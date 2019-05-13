@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixilart.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228015450id_/https%3A//www.pixilart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixilart.net privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513145548id_/https%3A//www.pixilart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pixilart
 
