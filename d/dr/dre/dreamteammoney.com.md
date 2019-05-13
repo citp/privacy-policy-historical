@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamteammoney.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111085949id_/http%3A//www.dreamteammoney.com/index.php%3Fautocom%3Dpages%26do%3Dshow%26id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamteammoney.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514015538id_/http%3A//www.dreamteammoney.com/index.php%3Fautocom%3Dpages%26do%3Dshow%26id%3D8) for the most accurate reproduction.*
 
 # Page: Privacy Policy
 
