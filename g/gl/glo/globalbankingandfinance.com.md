@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920121439id_/https%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513220200id_/https%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy
+# Privacy & Cookies Policy | Global Banking & Finance Review
 
 **Effective July 1st 2018**
 
@@ -16,13 +16,15 @@ In this Policy, the following terms shall have the following meanings:
 
  **“Personal data”**  means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data. In this case, it means personal data that you give to us via our Site. This definition shall, where applicable, incorporate the definitions provided in the General Data Protection Regulation 2016/679 (“GDPR”); and
 
- **“We/Us/Our”**  means GBAF Publications Ltd, a company registered in England and Wales under company number 07403411, whose registered office address is at Unit 2, 7 Tarves Way, Greenwich, London, England, SE10 9JP.
+ **“We/Us/Our”**  means GBAF Publications Ltd, a company registered in England and Wales under company number 07403411, whose registered office address is at Alpha House, 100 Borough High Street, London, Greater London  SE1 1LB United Kingdom.
 
  **2.    Information About Us**
 
 2.1 We own and operate this Site.
 
-2.2 Our main point of contact for data protection related queries is Sreejith Nair who can be contacted by email at [Sreejith@gbafmag.com](mailto:Sreejith@gbafmag.com), or by post at Unit 2, 7 Tarves Way, Greenwich, London, England, SE10 9JP.
+2.2 Our main point of contact for data protection related queries is Sreejith Nair who can be contacted by email at [Sreejith@gbafmag.com](mailto:Sreejith@gbafmag.com), or by post at Alpha House, 100 Borough High Street, London, Greater London  SE1 1LB United Kingdom.
+
+2.3 GBAF Publications Ltd is registered at Data Protection Register –  our ICO Registration Number is **  ZA518218**
 
  **3\. What Does This Policy Cover?**
 
@@ -73,6 +75,8 @@ This Privacy Policy applies only to your use of our Site.  Our Site may contain
 5.2 If you provide us with the personal data of any other person when using our Site, it is your responsibility to ensure you have gained consent from that person to transfer their personal data to us.
 
 5.3 Please note our Site may ask you for payment details, such as billing information or credit or debit card information, however all payments made on our Site will go through a third party processor such as PayPal or Realex and as such, we shall have no access to this data. A separate contractual relationship shall be created between you and the payment processor on their terms and conditions and we cannot be held liable for any errors, actions, omissions or incorrect charges that may be made by them.
+
+5.4 Please be aware that if you opt in to receiving job alerts we will use your email address to send periodic emails relevant to positions you are looking for.
 
  **6\. How Do We Use Your Data?**
 
@@ -156,8 +160,10 @@ You have the right to ask for a copy of any of your personal data held by us (wh
 
  **14\. Contacting Us**
 
-If you have any questions about our Site or this Privacy Policy, please contact us by email at [info@gbafmag.com](mailto:info@gbafmag.com), by telephone on 0208 1443511, or by post at Unit 2, 7 Tarves Way, London, England, SE10 9JP. Please ensure that your query is clear, particularly if it is a request for information about the data we hold about you (as under section 12, above).
+If you have any questions about our Site or this Privacy Policy, please contact us by email at [info@gbafmag.com](mailto:info@gbafmag.com), by telephone on 0208 1443511, or by post at Alpha House, 100 Borough High Street, London, Greater London  SE1 1LB United Kingdom. Please ensure that your query is clear, particularly if it is a request for information about the data we hold about you (as under section 12, above).
 
  **15\. Changes to Our Privacy Policy**
 
 We may change this Privacy Policy from time to time (for example, if the law changes). Any changes will be immediately posted on our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
+
+We use cookies to enhance your visit, personalise our content, social media features, ads & to analyse our traffic. You consent to our cookies if you continue to use our website. Accept Reject [Read More](https://www.globalbankingandfinance.com/privacy-policy/)
