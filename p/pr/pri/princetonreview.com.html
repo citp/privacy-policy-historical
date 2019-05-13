@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2018-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180928010122id_/https%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the princetonreview.com privacy policy that was archived on 2019-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190513153142id_/https%3A//www.princetonreview.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" style=""><head>
 	<title>The Princeton Review Privacy Policy | The Princeton Review</title>
@@ -19,9 +19,9 @@
 	
 	<link href="/bundles/third-party.css?v=U9VaT_-HDtLXr_8LmOmAd7tj8iJZit6b_i6hVdMED8M1" rel="stylesheet">
 
-	<link href="/bundles/base.css?v=H0k6IB6cgNp5WW-6ARBitfP0tltokO3HCsbHcwDTdb41" rel="stylesheet">
+	<link href="/bundles/base.css?v=tLvPj1QLcx9jvNSweQBMQIicbt9nbxXVVmZtakoRtxY1" rel="stylesheet">
 
-	<link href="/bundles/www.css?v=MoQBofUVM1aRdgw8eyt6G88tAB-4FE-91MMxt49RQTo1" rel="stylesheet">
+	<link href="/bundles/www.css?v=8NnLfPruJ-8_pnlpDS0mYHs6eKFmOzclm60ie-NbGdk1" rel="stylesheet">
 
 
 	
@@ -30,8 +30,6 @@
   
 
 
-
-	
 
 	<!--[if lt IE 9]>
 		<link href="/Content/Styles/unbundled/ie.css" rel="stylesheet" />
@@ -45,7 +43,7 @@
 	
 	<script src="/content/scripts/unbundled/localforage.nopromises.min.js"></script>
 
-	<script src="/bundles/misc.js?v=hdoa1KBrzjKPrt-CORuDGAk7QXXsEFwbmlAcPQulooE1"></script>
+	<script src="/bundles/misc.js?v=CX07lFk4T3fgog_HXrts9VyRcyNuM-wFDLTsiuCQN9w1"></script>
 
 	<script type="text/javascript">
 		$.cookie.defaults = {
@@ -96,11 +94,43 @@
 		<script>
 			var OneSignal = window.OneSignal || [];
 		</script>
+		<script>
+		//www first hit session cookie
+		if (window.location.pathname === '/') {
+			var value = 0;
+			if (!$.cookie('wwwHt'))
+				$.cookie('wwwHt', 1);
+			else {
+				value = Number($.cookie('wwwHt'));
+				value++;
+				$.cookie("wwwHt", value);
+			}
+		}
 
+		//redirect to secure cookie
+		if (($.cookie('uId') || $.cookie('uId-rem')) && window.location.pathname === '/') {
+
+			//if page hit is first session, add redirect cookie
+			if ($.cookie('wwwHt') == 1 && isNaN($.cookie('wwwHt')) == false) {
+				$.cookie('direct', 1);
+			}
+
+			//if direct exist or has purphased items, go to secure only once
+			if ($.cookie('direct') == 1 && isNaN($.cookie('direct')) == false && !$.cookie('pi')) {
+				document.location = 'https://secure.princetonreview.com/account';
+				$.cookie('direct', 2);
+			}
+
+			if ($.cookie('pi') == 1 && isNaN($.cookie('pi')) == false && !$.cookie('direct')) {
+				document.location = 'https://secure.princetonreview.com/account';
+				$.cookie('pi', 2)
+			}
+		}
+		</script>
 
 </head>
 
-<body id="tpr-dynamiccontent" style="" class="viewport-lg">
+<body id="tpr-dynamiccontent" style="">
 		<!-- Google Tag Manager -->
 		<noscript>
 			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WXNTM" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -116,6 +146,54 @@
 	<!--[if lte IE 9]>
 		<div class="alert alert-danger" role="alert"><strong style="font-size:32px;">Unsupported Browser</strong><br />It looks like you're using Internet Explorer 9 or below, which isn't fully compatible with this website. If you are unable to update to a later version, please try the most recent version of Chrome or Firefox.</div>
 	<![endif]-->
+	
+	
+		<div class="widget-container hidden-xs hidden-sm">
+			<div class="recent-viewed-box" style="display:none;">
+				<ul>
+					<li class="text-right">
+						<div class="btn btn-default btn-xs hide-recent-box" style="border-radius: 50px; margin-bottom:5px;">X</div>
+					</li>
+					<li>
+						<h5 class="text-white" style="background-color: #003f5f;padding: 10px;margin-bottom: 0px;"><b>Recently<br>viewed<br>courses</b></h5>
+					</li>
+					<li style=" background-color: white; text-align: center;">
+						<hr style=" margin-top: 0px;margin-bottom: 0px;">
+					</li>
+				</ul>
+				<div class="r-courses-container"></div>
+				<ul>
+					<li style=" background-color:#fff; text-align: center;"></li>
+					<li class="up-top" style=" background-color:#000; text-align: center; color:#fff;display:none;">
+						<h5 style="color: white;padding: 8px;">
+							<a href="javascript:$.tpr.global.scrollPageToTop();void(0);" style="color:#fff">
+								<b>TOP</b><span><i class="fa fa-arrow-up" style="background-color:#000;color:#fff;"></i></span>
+							</a>
+						</h5>
+					</li>
+				</ul>
+			</div>
+			<div class="recently-viewed" style="display: none;">
+				<div class="widget-tab">
+					<h3>Recently viewed</h3>
+				</div>
+				<ul class="viewed-list">
+				</ul>
+			</div>
+			<div class="find-dream-container" style="display: none;">
+				<div class="text-right">
+					<div class="hide-find-dream btn btn-default btn-xs">X</div>
+				</div>
+				<div class="find-dream-banner" onclick="location.href = '/college-education?ceid=global-widget';">
+					<div style="padding: 10px 10px 5px 10px;">
+						<p>Find Your <span>Dream School</span></p>
+					</div>
+					<div class="text-center">
+						<a class="btn btn-sm btn-square">Search Now</a>
+					</div>
+				</div>
+			</div>
+		</div>
 
 	
 
@@ -139,58 +217,60 @@
 								<a href="#" role="application" aria-label="College Prep">College Prep</a>
 								<div class="sub-nav">
 									<div class="container">
-										<div class="row 37104-1">
+										<div class="row">
 											<div class="col-sm-10 col-sm-10-narrow">
 												<div class="row">
 													<div class="col-sm-3 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/sat-test-prep?ceid=nav">SAT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/sat-test-prep?ceid=nav">SAT Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/college/sat-ultimate2-course-online?ceid=nav" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/college/sat-ultimate2-course?ceid=nav">In-Person</a></li>
-															<li><a href="https://www.princetonreview.com/college/sat-selfguided-course?ceid=nav">Self-Paced Plus</a></li>
+															<li><a href="https://www.princetonreview.com/college/sat-honors-course?ceid=nav" style="font-weight: 600; color: #ff2998;">1400+ Course</a></li>
+															<li><a href="https://www.princetonreview.com/college/sat-ultimate2-course?ceid=nav">Ultimate Course</a></li>
+															<li><a href="https://www.princetonreview.com/college/sat-selfguided-course?ceid=nav">SAT &amp; ACT Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/college/sat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/college/free-sat-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/college-advice?ceid=nav">Advice</a></li>
-															<li><a href="https://www.princetonreview.com/college/psat-test-prep?ceid=nav">PSAT</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-3 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/act-test-prep?ceid=nav">ACT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/act-test-prep?ceid=nav">ACT Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/college/act-ultimate2-course-online?ceid=nav" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/college/act-ultimate2-course?ceid=nav">In-Person</a></li>
-															<li><a href="https://www.princetonreview.com/college/act-selfguided-course?ceid=nav">Self-Paced Plus</a></li>
+															<li><a href="https://www.princetonreview.com/college/act-honors-course?ceid=nav" style="font-weight: 600; color: #ff2998;">31+ Course</a></li>
+															<li><a href="https://www.princetonreview.com/college/act-ultimate2-course?ceid=nav">Ultimate Course</a></li>
+															<li><a href="https://www.princetonreview.com/college/act-selfguided-course?ceid=nav">SAT &amp; ACT Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/college/act-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/college/free-act-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/college-advice?ceid=nav">Advice</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-3 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/ap-test-prep?ceid=nav">AP</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/college/ap-test-prep?ceid=nav-tp">AP</a></div>
 														<hr>
 														<ul>
+															<li><a href="https://www.princetonreview.com/college/ap-test-prep?ceid=nav-cc">Cram Course</a></li>
 															<li><a href="https://www.princetonreview.com/college/ap-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/college-advice?ceid=nav">Advice</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-3 icon-me">
 														<div class="sub-nav-category">Homework Help</div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/academic-tutoring?ceid=nav">Find a Tutor</a></li>
-															<li><a href="https://www.princetonreview.com/academic-tutoring/pricing?ceid=nav">Pricing  </a></li>
+															<li><a href="https://www.princetonreview.com/academic-tutoring/pricing?ceid=nav">Pricing</a></li>
 															<li><a href="https://www.princetonreview.com/academic-tutoring/how-it-works?ceid=nav">How it Works</a></li>
 															<li><a href="https://www.princetonreview.com/academic-tutoring/subjects?ceid=nav">See All Subjects</a></li>
 															<li><a href="https://www.princetonreview.com/academic-tutoring/tutor-search?ceid=nav&amp;reg=1">Try a Free Session</a></li>
 														</ul>
+														<div class="icon-me">
+															<div class="sub-nav-category" style="font-size: 95%;">Institutional Partnerships</div>
+															<hr>
+															<ul>
+																<li><a href="https://www.princetonreview.com/k12/partnerships?ceid=nav">K-12 Schools</a></li>
+															</ul>
+														</div>
 													</div>
 													<div class="col-sm-3 icon-me">
 														<div class="sub-nav-category">More</div>
 														<hr>
 														<ul>
 															<li><a href="https://www.princetonreview.com/college/sat_subject-tutoring-course?ceid=nav">SAT Subjects</a></li>
+															<li><a href="https://www.princetonreview.com/college/psat-tutoring-course?ceid=nav">PSAT</a></li>
 															<li><a href="https://www.princetonreview.com/k12/ssat-tutoring-course?ceid=nav">SSAT</a></li>
 															<li><a href="https://www.princetonreview.com/k12/shsat-tutoring-course?ceid=nav">SHSAT</a></li>
 															<li><a href="https://www.princetonreview.com/k12/isee-tutoring-course?ceid=nav">ISEE</a></li>
@@ -226,73 +306,72 @@
 								<a href="#" role="application" aria-label="Graduate Prep">Graduate Prep</a>
 								<div class="sub-nav">
 									<div class="container">
-										<div class="row 37104-1">
+										<div class="row">
 											<div class="col-sm-10">
 												<div class="row">
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/mcat-test-prep?ceid=nav">MCAT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/mcat-test-prep?ceid=nav">MCAT Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/medical/mcat-ultimate-course?ceid=nav-lol" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/medical/mcat-ultimate-course?ceid=nav-ip">In-Person</a></li>
+															<li><a href="https://www.princetonreview.com/medical/mcat-guarantee?ceid=nav" style="font-weight: 600; color: #ff2998;">510+ Course</a></li>
+															<li><a href="https://www.princetonreview.com/medical/mcat-ultimate-course?ceid=nav">Ultimate Course</a></li>
+															<li><a href="https://www.princetonreview.com/medical/mcat-strategy-course?ceid=nav">Strategy Course</a></li>
 															<li><a href="https://www.princetonreview.com/medical/mcat-selfguided-course?ceid=nav">Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/medical/mcat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/medical/free-mcat-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/med-school-advice?ceid=nav">Advice</a></li>
+															<li><a href="https://www.princetonreview.com/medical/mcat-immersion-course?ceid=nav">Summer Immersion</a></li>
+															<li style="position: relative;"><a href="https://www.princetonreview.com/mcat-book?ceid=nav">MCAT Books</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/law/lsat-test-prep?ceid=nav">LSAT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/law/lsat-test-prep?ceid=nav">LSAT Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/law/lsat-ultimate-course-online?ceid=nav" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/law/lsat-ultimate-course?ceid=nav">In-Person</a></li>
+															<li><a href="https://www.princetonreview.com/law/lsat-ultimate-course?ceid=nav" style="font-weight: 600; color: #ff2998;">Ultimate Course</a></li>
+															<li><a href="https://www.princetonreview.com/law/lsat-fundamentals-course?ceid=nav">Fundamentals</a></li>
 															<li><a href="https://www.princetonreview.com/law/lsat-selfguided-course?ceid=nav">Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/law/lsat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/law/free-lsat-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/law-school-advice?ceid=nav">Advice</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/grad/gre-test-prep?ceid=nav">GRE</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/grad/gre-test-prep?ceid=nav">GRE Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/grad/gre-ultimate-course-online?ceid=nav" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/grad/gre-ultimate-course?ceid=nav">In-Person</a></li>
+															<li><a href="https://www.princetonreview.com/grad/gre-ultimate-course?ceid=nav" style="font-weight: 600; color: #ff2998;">Ultimate Course</a></li>
 															<li><a href="https://www.princetonreview.com/grad/gre-selfguided-course?ceid=nav">Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/grad/gre-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/grad/gre-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/grad-school-advice?ceid=nav">Advice</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/business/gmat-test-prep?ceid=nav">GMAT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/business/gmat-test-prep?ceid=nav">GMAT Home</a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/business/gmat-ultimate-course-online?ceid=nav" style="font-weight: 600; color: #ff2998;">LiveOnline</a></li>
-															<li><a href="https://www.princetonreview.com/business/gmat-ultimate-course?ceid=nav">In-Person</a></li>
-															<li><a href="https://www.princetonreview.com/business/gmat-selfguided-course?ceid=nav">Self-Paced</a></li>
+															<li><a href="https://www.princetonreview.com/business/gmat-ultimate-course?ceid=nav" style="font-weight: 600; color: #ff2998;">Ultimate Course</a></li>
+															<li><a href="https://www.princetonreview.com/business/gmat-connect-course?ceid=nav">Self-Paced</a></li>
 															<li><a href="https://www.princetonreview.com/business/gmat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/business/gmat-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/business-school-advice?ceid=nav">Advice</a></li>
 
 														</ul>
 													</div>
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/dat-tutoring-course?ceid=nav">DAT</a></div>
+														<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/dat-test-prep?ceid=nav">DAT Home</a></div>
 														<hr>
 														<ul>
+															<li><a href="https://www.princetonreview.com/medical/dat-ultimate-course?ceid=nav" style="font-weight: 600; color: #ff2998;">Ultimate Course</a></li>
+															<li class="dat-fundamentals-link" style="display: none;"><a href="https://www.princetonreview.com/medical/dat-fundamentals-course?ceid=nav">Fundamentals</a></li>
 															<li><a href="https://www.princetonreview.com/medical/dat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/medical/free-dat-practice-test?ceid=nav">Free Tests and Events</a></li>
-															<li><a href="https://www.princetonreview.com/med-school-advice?ceid=nav">Advice</a></li>
 														</ul>
+														<div class="icon-me">
+															<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/oat-tutoring-course?ceid=nav">OAT</a></div>
+															<hr>
+															<ul>
+																<li><a href="https://www.princetonreview.com/medical/oat-tutoring-course?ceid=nav">Private Tutoring</a></li>
+															</ul>
+														</div>
 													</div>
 													<div class="col-sm-2 icon-me">
-														<div class="sub-nav-category"><a href="https://www.princetonreview.com/medical/oat-tutoring-course?ceid=nav">OAT</a></div>
+														<div class="sub-nav-category"><a style="position: relative;" href="https://www.princetonreview.com/usmle-test-prep?ceid=nav-tp">USMLE<span style="position: absolute; top: 0; background: #F4DA22; color: #000; font-size: 60%; margin-left: 2px;" class="badge">NEW</span></a></div>
 														<hr>
 														<ul>
-															<li><a href="https://www.princetonreview.com/medical/oat-tutoring-course?ceid=nav">Private Tutoring</a></li>
-															<li><a href="https://www.princetonreview.com/med-school-advice?ceid=nav">Advice</a></li>
+															<li><a href="https://www.princetonreview.com/usmle-test-prep?ceid=nav">Test Pack</a></li>
 														</ul>
 													</div>
 												</div>
@@ -329,7 +408,7 @@
 															<li><a href="https://www.princetonreview.com/college-rankings/best-colleges?ceid=nav">Rankings &amp; Ratings</a></li>
 															<li><a href="https://www.princetonreview.com/majors?ceid=nav">Majors &amp; Careers</a></li>
 															<li><a href="https://www.princetonreview.com/college-advice?ceid=nav">Advice</a></li>
-															<li><a href="https://www.princetonreview.com/college-admissions/college-counseling?reg=1&amp;ceid=nav">Get a Free Consultation</a></li>
+															<li><a href="https://the-princeton-review.appointlet.com/s/initial-consultation-college-admissions-coach">Get a Free Consultation</a></li>
 														</ul>
 													</div>
 													<div class="col-sm-3 icon-me">
@@ -398,10 +477,10 @@
 														<div class="sub-nav-category">Graduate School</div>
 														<hr>
 														<ul>
+															<li><a href="https://www.princetonreview.com/medical/mcat-tutoring-course?ceid=nav">MCAT</a></li>
 															<li><a href="https://www.princetonreview.com/grad/gre-tutoring-course?ceid=nav">GRE</a></li>
 															<li><a href="https://www.princetonreview.com/business/gmat-tutoring-course?ceid=nav">GMAT</a></li>
 															<li><a href="https://www.princetonreview.com/law/lsat-tutoring-course?ceid=nav">LSAT</a></li>
-															<li><a href="https://www.princetonreview.com/medical/mcat-tutoring-course?ceid=nav">MCAT</a></li>
 															<li><a href="https://www.princetonreview.com/medical/dat-tutoring-course?ceid=nav">DAT</a></li>
 															<li><a href="https://www.princetonreview.com/medical/oat-tutoring-course?ceid=nav">OAT</a></li>
 														</ul>
@@ -422,18 +501,19 @@
 									</div>
 								</div>
 							</li>
-							<li id="aboutus" style="" class="visible-lg">
-								<a class="no-hover ab35915-0" href="https://www.princetonreview.com/corporate/about-us?ceid=nav" role="application" aria-label="About">About</a>
+							
+							<li id="nav-featured">
+								<a class="no-hover" href="https://www.princetonreview.com/test-anxiety?ceid=nav" role="application" aria-label="TEST-SUCCESS">TEST-SUCCESS</a>
 							</li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li><p class="text-primary hidden-md"><a href="tel:1-800-273-8439">1-800-273-8439</a></p></li>
-								<li id="salePlaceholderHeaderLink" style="display: none;">
+								<li id="salePlaceholderHeaderLink">
 									<div style="width:35px;">&nbsp;</div>
 								</li>
 								<li><a style="color:black;" href="https://secure.princetonreview.com/purchase/cart"><i class="fa fa-shopping-cart fa-2x" aria-hidden="true"></i><span id="cartItemsCount" class="hidden-xs badge badge-danger" style="margin-left:2px"></span></a></li>
 								<li>
-									<a href="#" id="siteSearchHref" style=""><i class="fa fa-search fa-2x" aria-hidden="true"></i> </a>
+									<a class="hidden-xs" href="#" id="siteSearchHref"><i class="fa fa-search fa-2x" aria-hidden="true"></i> </a>
 									<div class="sub-nav-search">
 										<div class="container">
 											<div>
@@ -447,14 +527,15 @@
 										</div>
 									</div>
 								</li>
-								<li id="signInItem" class="signInItem3" style=""><a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/signin/?modal=1">Sign In</a></li>
-								<li id="registerItem" class="signInItem3" style=""><a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/register/?modal=1" data-height="650" data-register="1">Sign Up</a></li>
+								<li id="signInItem" class="signInItem3" style="display:none;"><a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/signin/?modal=1">Sign In</a></li>
+								<li id="registerItem" class="signInItem3" style="display:none;"><a href="#" data-toggle="modal" data-target="#actionModal" data-url="https://secure.princetonreview.com/account/register/?modal=1" data-height="650" data-register="1">Sign Up</a></li>
 							<li class="nav-account-link myAccountItem3" style="display:none;">
 								<a href="#" role="application" aria-label="My Account">My Account <i class="fa fa-caret-down"></i></a>
 								<div class="sub-nav-account">
 									<ul>
 										<li><a href="https://secure.princetonreview.com/account">Home</a></li>
 										<li><a href="https://secure.princetonreview.com/account/planner">School Planner</a></li>
+										<li><a href="https://secure.princetonreview.com/account/orders">Order History</a></li>
 										<li><a href="https://secure.princetonreview.com/account/settings">Settings</a></li>
 									</ul>
 									<hr>
@@ -489,89 +570,85 @@
 					<a class="top-nav-phone" href="tel:18775327630"><i class="fa fa-phone fa-2x" aria-hidden="true"></i><span>1-877-532-7630</span></a>
 				</li>
 				<li>
-					<a href="#" class="nav-level-2 down">Test Prep<i class="fa fa-minus" style="display:none;" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i></a>
+					<a href="#" class="nav-level-2">College Prep</a>
 					<ul>
-						<li><a href="https://www.princetonreview.com/college/sat-test-prep">SAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/college/act-test-prep">ACT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/medical/mcat-test-prep">MCAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/grad/gre-test-prep">GRE<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/business/gmat-test-prep">GMAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/law/lsat-test-prep">LSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/college/ap-tutoring-course">AP Exams<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+						<li><a href="https://www.princetonreview.com/college/sat-test-prep">SAT</a></li>
+						<li><a href="https://www.princetonreview.com/college/act-test-prep">ACT</a></li>
+						<li><a href="https://www.princetonreview.com/college/ap-tutoring-course">AP Exams</a></li>
+						<li><a href="https://www.princetonreview.com/college/sat_subject-test-prep">SAT Subjects</a></li>
+						<li><a href="https://www.princetonreview.com/college/psat-test-prep">PSAT</a></li>
 						<li>
-							<a href="#" class="nav-level-2 mobile-nav-view-more-1 down">View More<i class="fa fa-minus" style="display:none;" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i></a>
+							<a href="#" class="nav-level-2 mobile-nav-view-more-1">View More</a>
 							<ul>
-								<li><a href="https://www.princetonreview.com/college/sat_subject-test-prep">SAT Subjects<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/medical/dat-tutoring">DAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/medical/oat-test-prep">OAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/ssat-test-prep">SSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/shsat-test-prep">SHSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/isee-test-prep">ISEE<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/toefl-test-prep">TOEFL<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+								<li><a href="https://www.princetonreview.com/k12/ssat-test-prep">SSAT</a></li>
+								<li><a href="https://www.princetonreview.com/k12/isee-test-prep">ISEE</a></li>
+								<li><a href="https://www.princetonreview.com/k12/shsat-test-prep">SHSAT</a></li>
+								<li><a href="https://www.princetonreview.com/k12/toefl-test-prep">TOEFL</a></li>
 							</ul>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="#" class="nav-level-2 down">Private Tutoring<i class="fa fa-minus" style="display:none;" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i></a>
+					<a href="#" class="nav-level-2">Graduate Prep</a>
 					<ul>
-						<li><a href="https://www.princetonreview.com/college/sat-tutoring-course">SAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/college/act-tutoring-course">ACT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/medical/mcat-tutoring-course">MCAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/grad/gre-tutoring-course">GRE<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/business/gmat-tutoring-course">GMAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/law/lsat-tutoring-course">LSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/college/ap-tutoring-course">AP Exams<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+						<li><a href="https://www.princetonreview.com/medical/mcat-test-prep">MCAT</a></li>
+						<li><a href="https://www.princetonreview.com/law/lsat-test-prep">LSAT</a></li>
+						<li><a href="https://www.princetonreview.com/grad/gre-test-prep">GRE</a></li>
+						<li><a href="https://www.princetonreview.com/business/gmat-test-prep">GMAT</a></li>
+						<li><a href="https://www.princetonreview.com/medical/dat-test-prep">DAT</a></li>
+						<li><a href="https://www.princetonreview.com/medical/oat-tutoring-course">OAT</a></li>
+						<li><a href="https://www.princetonreview.com/usmle-test-prep">USMLE <sup><span class="text-cta bold small">NEW</span></sup></a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="#" class="nav-level-2">Private Tutoring </a>
+					<ul>
+						<li><a href="https://www.princetonreview.com/college/sat-tutoring-course">SAT</a></li>
+						<li><a href="https://www.princetonreview.com/college/act-tutoring-course">ACT</a></li>
+						<li><a href="https://www.princetonreview.com/medical/mcat-tutoring-course">MCAT</a></li>
+						<li><a href="https://www.princetonreview.com/law/lsat-tutoring-course">LSAT</a></li>
+						<li><a href="https://www.princetonreview.com/grad/gre-tutoring-course">GRE</a></li>
+						<li><a href="https://www.princetonreview.com/business/gmat-tutoring-course">GMAT</a></li>
+						<li><a href="https://www.princetonreview.com/college/ap-tutoring-course">AP Exams</a></li>
 						<li>
-							<a href="#" class="nav-level-2 mobile-nav-view-more-2 down">View More<i class="fa fa-minus" style="display:none;" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i></a>
+							<a href="#" class="nav-level-2 mobile-nav-view-more-2">View More</a>
 							<ul>
-								<li><a href="https://www.princetonreview.com/college/psat-test-prep">PSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/college/sat_subject-tutoring-course">SAT Subjects<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/medical/dat-tutoring-course">DAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/medical/oat-tutoring-course">OAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/ssat-tutoring-course">SSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/shsat-tutoring-course">SHSAT<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/isee-tutoring-course">ISEE<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-								<li><a href="https://www.princetonreview.com/k12/toefl-tutoring-course">TOEFL<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+								<li><a href="https://www.princetonreview.com/college/psat-tutoring-course">PSAT</a></li>
+								<li><a href="https://www.princetonreview.com/k12/ssat-tutoring-course">SSAT</a></li>
+								<li><a href="https://www.princetonreview.com/k12/isee-tutoring-course">ISEE</a></li>
+								<li><a href="https://www.princetonreview.com/k12/shsat-tutoring-course">SHSAT</a></li>
+								<li><a href="https://www.princetonreview.com/k12/toefl-tutoring-course">TOEFL</a></li>
 							</ul>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="#" class="nav-level-2 down">Admission Counseling<i class="fa fa-minus" style="display:none;" aria-hidden="true"></i><i class="fa fa-plus" aria-hidden="true"></i></a>
+					<a href="#" class="nav-level-2">Admission Counseling</a>
 					<ul>
-						<li><a href="https://www.princetonreview.com/college-admissions/college-counseling">College<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-						<li><a href="https://www.princetonreview.com/med-school-admissions/med-school-counseling">Medical School<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+						<li><a href="https://www.princetonreview.com/college-admissions/college-counseling">College</a></li>
+						<li><a href="https://www.princetonreview.com/med-school-admissions/med-school-counseling">Medical School</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="https://www.princetonreview.com/academic-tutoring">Homework Help<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
-				</li>
-				
-				<li class="33294-0" style="">
-					<a href="/college-education">Find Colleges<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
-				</li>
-				<li class="33294-1" style="display:none;">
-					<a href="/college-education">College Search<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
-				</li>
-				<li class="33294-2" style="display:none;">
-					<a href="/college-education">College Finder<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
-				</li>
-				<li class="33294-3" style="display:none;">
-					<a href="/college-education">College Information<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
+					<a href="https://www.princetonreview.com/test-anxiety">TEST-SUCCESS</a>
 				</li>
 				<li>
-					<a href="https://www.princetonreview.com/grad-school">Find a Grad School<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
+					<a href="https://www.princetonreview.com/academic-tutoring">Homework Help</a>
 				</li>
 				<li>
-					<a href="https://www.princetonreview.com/college-major-search">Majors, Programs, Careers<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
+					<a href="#" class="nav-level-2">Explore Colleges</a>
+					<ul>
+						<li><a href="/college-education">Find Colleges</a></li>
+						<li><a href="https://www.princetonreview.com/grad-school">Find a Grad School</a></li>
+						<li><a href="https://www.princetonreview.com/college-major-search">Majors, Programs, Careers</a></li>
+					</ul>
 				</li>
 				<li>
-					<a href="https://www.princetonreview.com/corporate/about-us">About Us<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a>
+					<a href="https://www.princetonreview.com/k12/partnerships">Institutional Partnerships</a>
 				</li>
-				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/planner">School Planner<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/settings">Settings<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
-				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/signout" style="color:#D0021B;">Sign Out<i class="fa fa-chevron-right" aria-hidden="true" 0=""></i></a></li>
+				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/planner">School Planner</a></li>
+				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/settings">Settings</a></li>
+				<li class="myAccountItem-mobile" style="display:none;"><a href="https://secure.princetonreview.com/account/signout" style="color:#D0021B;">Sign Out</a></li>
 			</ul>
 		</nav>
 	</div>
@@ -597,32 +674,47 @@
 			}
 		});
 
-		//about us
-		if ((typeof ($.cookie('uId')) == "undefined" && typeof ($.cookie('uId-rem')) == "undefined")) {
-			$('#aboutus').addClass("visible-lg");
-			$('#aboutus').show();
+		
+		var isCanada = $.tpr.geo.geoInfo()["Country"];
+		if (isCanada && isCanada == "CA") {
+			$('.dat-fundamentals-link').show();
+		}
+
+		
+		if ($('.desktop-ribbon-content').length > 0) {
+
+			if ($(window).width() >= 768) {
+				var cssClasses = '.navbar-fixed-top, #mobilenav, .tp-search, #failureResult, #successResult';
+
+				if ($('#successResultMsg').html() != "" || $('#failureResultMsg').html() != "") {
+					cssClasses = '.navbar-fixed-top, #mobilenav, #failureResult, #successResult';
+				}
+
+				$(cssClasses).animate({ 'margin-top': '40px' }, 500);
+			}
+
+			var clicked = false;
+			$('.desktop-ribbon-content .fa-times').click(function () {
+				$('#homepageTopBanner .desktop-ribbon-content').slideUp();
+				$('.navbar-fixed-top, .tp-search, #mobilenav, #failureResult, #successResult').animate({ 'margin-top': 0 }, 400);
+				clicked = true;
+			});
+
+			//mobilenav
+			$(window).on('resize', function () {
+				if ($(window).width() < 768) {
+					$('#mobilenav, #failureResult, #successResult').css('margin-top', '0');
+				}
+				else {
+					if (!clicked)
+						$('#mobilenav, .navbar-fixed-top, #failureResult, #successResult').css('margin-top', '40px');
+				}
+			});
+
 		}
 	});
 </script>
 
-	<script>
-	
-
-	
-	if ($(window).width() >= 768)
-		$('#siteSearchHref').show();
-	</script>
-	<script>
-		$('.33294-0').show();
-	</script>
-	<script>
-			if ($(window).width() < 768)
-				$('.33290-0').show();
-			else {
-				
-				$('.33290-1').show();
-			}
-	</script>
 
 <!-- validation -->
 
@@ -721,7 +813,7 @@ BEGIN-->
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-			<p class="disclaimer-copy" style="margin-top: 45px; font-size: 10px;"></p>
+			<p class="disclaimer-copy"></p>
 		</div>
 	</div>
 </div>
@@ -752,35 +844,6 @@ BEGIN-->
 </script>
 
 <!-- footer -->
-
-<div class="hero-ratecard" style="display:none;">
-    <div class="container">
-        <div class="row">
-            <span class="h1">Why The Princeton Review?</span>
-            <div class="col-sm-6 col-md-3">
-                <img src="/Content/Images/Icons/icon_productprep.png" alt="Product Prep">
-                <h2>Productive Preparation</h2>
-                <p>We know that great scores take work. That's why we design our courses to be efficient, targeted and strategic so you make the most of every minute you spend prepping.</p>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img src="/Content/Images/Icons/icon_qualitycontent.png" alt="Quality Content">
-                <h2>Quality Content &amp; Delivery</h2>
-                <p>Our experts know how to design lessons based on how you're learning. That means we don't just record classroom lessons and put them in our Self-Paced prep—we design lessons FOR Self-Paced.</p>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img src="/Content/Images/Icons/icon_engagingteachers.png" alt="Engaging Teachers">
-                <h2>Engaging Teachers</h2>
-                <p>We love our teachers, and so will you. We look for proven expertise and a sense of humor, and that's BEFORE we put them through 40 hours of training!</p>
-            </div>
-            <div class="col-sm-6 col-md-3">
-                <img src="/Content/Images/Icons/icon_guarantee.png" alt="Better Scores">
-                <h2>Better Scores</h2>
-                <p>We <a href="/legal/guarantee-better-scores" id="guaranteeLink" target="_blank">guarantee</a> you’ll get higher scores and have an exceptional test prep experience. If you don’t, we’ll refund your tuition or let you prep again for free.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="footer">
 	<div class="footer-top">
 		<div class="container">
@@ -818,7 +881,7 @@ BEGIN-->
 							<div class="col-sm-4 col-lg-3">
 								<div class="footer-item hidden-print">
 									<p class="category">Register Book</p>
-									<form id="registerBookForm_2" novalidate="novalidate">
+									<form id="registerBookForm_2">
 										<div class="input-group">
 											<input type="text" class="form-control no-float" placeholder="Enter ISBN-13 #" id="txtISBN13_2" name="txtISBN13_2" data-val-required="ISBN # is required" data-val="true" data-msg-maxlength="Please enter a valid ISBN-13 # only, no spaces or dashes" data-rule-maxlength="13" data-msg-minlength="Please enter a valid ISBN-13 # only, no spaces or dashes" data-rule-minlength="13">
 											<span class="input-group-btn">
@@ -881,16 +944,14 @@ BEGIN-->
 				</ul>
 			</div>
 			<div class="footer-list-container">
-				<p class="category">K-12 &amp; Community Partnerships</p>
+				<p class="category">Institutional Partnerships</p>
 				<ul>
-					<li><a href="https://www.princetonreview.com/college-readiness">College Readiness</a></li>
-					<li><a href="https://www.princetonreview.com/college-readiness/test-prep">Test Prep</a></li>
-					<li><a href="https://www.princetonreview.com/college-readiness/professional-development">Professional Development</a></li>
-					<li><a href="https://www.princetonreview.com/college-readiness/online-tutoring">Online Tutoring</a></li>
-					<li><a href="https://www.princetonreview.com/k12/ssat-test-prep">SSAT</a></li>
-					<li><a href="https://www.princetonreview.com/k12/shsat-test-prep">SHSAT</a></li>
-					<li><a href="https://www.princetonreview.com/k12/isee-test-prep">ISEE</a></li>
-					<li><a href="https://www.princetonreview.com/k12/toefl-test-prep">TOEFL</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships">K-12 Home</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships/tutor-com">Tutor.com</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships/test-prep">Test Prep</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships/professional-development">Professional Development</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships/early-edge-up-next">Early Edge &amp; Up Next</a></li>
+					<li><a href="https://www.princetonreview.com/k12/partnerships/about-us">About Us</a></li>
 				</ul>
 			</div>
 
@@ -925,11 +986,11 @@ BEGIN-->
 	<div class="footer-bottom hidden-print">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-9">
-					<p class="footer-copy">©2018 TPR Education IP Holdings, LLC. All Rights Reserved. The Princeton Review is not affiliated with Princeton University</p>
+				<div class="col-md-8">
+					<p class="footer-copy">©2019 TPR Education IP Holdings, LLC. All Rights Reserved. The Princeton Review is not affiliated with Princeton University</p>
 				</div>
-				<div class="col-md-3">
-					<p class="footer-privacy"><a href="https://www.princetonreview.com/privacy">Privacy</a> | <a href="https://www.princetonreview.com/terms">Terms of Use</a> | <a href="https://www.princetonreview.com/site-map">Site Map</a></p>
+				<div class="col-md-4">
+					<p class="footer-privacy"><a href="https://www.princetonreview.com/privacy">Privacy Policy</a> | <a href="https://www.princetonreview.com/terms">Terms of Use</a> | <a href="https://www.princetonreview.com/site-map">Site Map</a></p>
 				</div>
 				<div class="col-md-9 col-sm-8">
 					<div class="footer-social-icons">
@@ -989,14 +1050,14 @@ BEGIN-->
 		</script>
 	<script src="/bundles/jquery-validate.js?v=UP89ylIjlxdqligtAuAkIAKVErH8TPQ-a5eYwvuE_z01"></script>
 
-	<script src="/bundles/jquery-validate-unobtrusive.js?v=XVu-4cdjWsSYrjSOX5BN3G6AzRWYHUlXkpCbD4Wa6tI1"></script>
+	<script src="/bundles/jquery-validate-unobtrusive.js?v=0b6n4OpldcVQ0sW-_CpMVnjvKFGfnpn1F22cG4LhQdI1"></script>
 
-	<script src="/bundles/bootstrap.js?v=a-fxzmstP39WqwuVhJaYfon74XVThcxWvf_swztkhfY1"></script>
+	<script src="/bundles/bootstrap.js?v=-JmkwpzGYjuWO_9LNheUaCY25DeIoDgRf86gWOIiCy41"></script>
 
 	<script src="/bundles/newsbox.js?v=0v37ZrSWjPABvjmRTXDlo_avckp6CfcMdL8MmszGF2o1"></script>
 
 
-	<script type="text/javascript">
+		<script type="text/javascript">
 		
 		$.tpr.logging.logCurrentPageView();
 		
@@ -1008,12 +1069,17 @@ BEGIN-->
 		});
 
 		$.tpr.ads.init({
-			showAds: true
+			showAds: true,
 		});
 
 		
-		$.tpr.global.initZipCodeInput('z');
-
+			$.tpr.global.initZipCodeInput('z');
+		
+		if ($.tpr.global.isLocalStorageAvailable() && window.self === window.top) {
+			$.tpr.global.initRecentWidget();
+			$.tpr.global.initMarketingWidgets();
+		}
+		
 		$.tpr.user.init({
 			apiUrl: 'https://tpr-api.princetonreview.com'
 		});
@@ -1022,7 +1088,7 @@ BEGIN-->
 			secureUrl: 'https://secure.princetonreview.com',
 			wwwUrl: 'https://www.princetonreview.com'
 		});
-	</script>
+		</script>
 
 	
 	
@@ -1033,18 +1099,6 @@ BEGIN-->
 	
 
 
-
-	<script>
-		try {
-			if ('serviceWorker' in navigator) {
-				navigator.serviceWorker.getRegistrations().then(function(registrations) {
-					for(let registration of registrations) {
-						registration.unregister()
-					} })
-			}
-		}
-		catch (e) {}
-	</script>
 
 		<script>
 			if ($.cookie('ref'))
