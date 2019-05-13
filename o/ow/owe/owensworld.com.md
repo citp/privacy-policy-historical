@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owensworld.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218110613id_/http%3A//www.owensworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owensworld.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513202016id_/https%3A//www.owensworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | | Owens World
 
@@ -51,7 +51,7 @@ Google may use the Data collected to contextualize and personalize the ads of it
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 ### Content commenting
 
@@ -65,7 +65,7 @@ Disqus is a content commenting service provided by Big Heads Labs Inc.
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://docs.disqus.com/help/30/)
+Place of processing : USA – [Privacy Policy](https://docs.disqus.com/help/30/)
 
 ### Interaction with external social networks and platforms
 
@@ -80,7 +80,7 @@ Depending on the configuration, this service can display widgets belonging to th
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
+Place of processing : USA – [Privacy Policy](https://www.addthis.com/privacy/privacy-policy)
 
 #### Facebook Like button and social widgets (Facebook)
 
@@ -88,7 +88,7 @@ The Facebook Like button and social widgets are services allowing interaction wi
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+Place of processing : USA – [Privacy Policy](https://www.facebook.com/privacy/explanation.php)
 
 ## Additional information about Data collection and processing
 
