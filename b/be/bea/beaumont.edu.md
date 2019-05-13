@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703052901id_/https%3A//www.beaumont.org/patients-families/patients-rights-privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513163559id_/https%3A//www.beaumont.org/patients-families/patients-rights-privacy/privacy) for the most accurate reproduction.*
 
 # Beaumont Health | Privacy Policy
 
@@ -64,7 +64,3 @@ This site is provided by Beaumont on an “as is” basis. Beaumont makes no rep
 ###  **Your consent**
 
 By using our website, you consent to the collection and use of the information discussed above. Changes in this policy will be posted on this page so that you may always be aware of what information is being collected, how it is being used, and under what circumstances it is being disclosed.
-
-###  **Tell us what you think**
-
-Beaumont welcomes your questions and comments, about privacy or about any other subject. Please send your email to ****[**webmaster@beaumont.org**](mailto:webmaster@beaumont.org).
