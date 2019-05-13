@@ -1,14 +1,27 @@
-> *The following text is extracted and transformed from the carminashoemaker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190710id_/https%3A//www.carminashoemaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carminashoemaker.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513051947id_/https%3A//www.carminashoemaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Carmina Shoemaker
+
+[ Print ](https://web.archive.org/ecommerce/users/policies.cfm)
 
 **What information do we  collect and when do we collect it? **
 
 At Carmina Shoemaker the type of information that we collect may be personal information such as your name, address, e-mail, etc. We collect this information when we ask you to provide your details in order that you may take part in our promotions or when you first place an order and register as a client. We will ask you to give your authorization actively  in order to e-mail our Newsletter, offers or seasonal catalogue to you. In addition, when you visit our website, we collect clickstream tracking data (server address, domain name, etc.) This information helps us to statistically improve our service. 
 
- **
+In cases where the User provides his card number in order to proceed to provide the requested services, it is reported that this data is transmitted directly to the payment gateway provider who is the one who proceeds to securely store said data in your servers. To exercise your rights you can contact this provider under the terms established in their privacy policies. The user is informed that Alta Zapatería Balear S.L. does not have access at any time to the card data provided, and that the transmission of this data is necessary for the provision of the card payment service.
 
- **How do we use it?**
+The User's contact information may be used to inform you, even electronically, of offers, unless you have marked the option included in the form to avoid this type of information. In accordance with the provisions of Law 34/2002, of July 11, on Services of the Information Society and Electronic Commerce, in the event that the User wishes to stop receiving informative communications from Alta Zapatería Balear SL. You can request the cancellation of the service by sending an email to the email address detailed in the Identification section.
+
+Alta Zapatería Balear S.L. has adopted the necessary technical and organizational measures to guarantee the confidentiality, security and integrity of the personal data provided, as well as to prevent its alteration, loss, treatment or unauthorized access, in accordance with the level of protection according to the protection legislation of data.
+
+In order to keep your personal information updated, the User must inform of any change that occurs with respect to them, otherwise Alta Zapatería Balear SL. cannot answer for its veracity, not being liable for damages that may result from this in the provision of services.
+
+  
+
+
+**
+
+**How do we use it?**
 
 **
 
@@ -58,7 +71,28 @@ A cookie is a small quantity of data transferred by the website you are visitin
 
 Carmina Shoemaker would ask minors’ parents and guardians to be aware that their children could conceivably visit our website, and it is therefore advisable that they warn them not to provide any personal information on any website without your prior consent. Carmina Shoemaker is always concerned about children’s safety. 
 
- **Accessing, correcting and eliminating your  data. **
+The User can send a letter to the Alta Zapatería Balear SL address. (Calle Bernguer d'Anoia 60 2º 07300) of Inca or through email info@carminashoemaker.com, with the reference "Data Protection", attaching a photocopy of your identity document, at any time and free of charge, to:
+
+-        Revoke the consents granted.
+
+-        Access your personal data.
+
+-        Rectify inaccurate or incomplete data.
+
+-        Request the deletion of your data when, among other reasons, the data is no longer necessary for the purposes that were collected.
+
+-        Get from Alta Zapatería Balear S.L. the limitation of data processing when any of the conditions provided in the data protection regulations are met.
+
+-         Request the portability of your data.
+
+-        You are informed of the existence of the right of opposition.
+
+At the same time the user can complain to the Spanish Agency for Data Protection (www.agpd.es) when it considers that the rights that are recognized by the applicable data protection regulations have been violated.
+
+  
+
+
+**Accessing, correcting and eliminating your  data. **
 
 You may access, eliminate or correct your personal data at any time and the use we make of that data. If you wish to exercise any of these rights, send us an e-mail to info@carminashoemaker.com or a letter by ordinary post to CARMINA SHOEMAKER Crta.Palma-Alcudia, Km.30,300 , 07300 (Inca-Mallorca).
 
@@ -93,3 +127,13 @@ By using this website you consent to the terms of this Privacy Policy and to ou
 **
 
 This privacy policy does not extend to the operation of the entire Internet which is beyond our control. This online privacy policy applies only to the information collected through our website.
+
+ **How long will Carmina treat personal data?**
+
+The User's data will be kept as long as they are necessary for the provision of the requested services and, once this service is finished, your data will be kept for the legally required periods for possible liabilities derived from the service provided.
+
+In the case of Registered Users, the processing of the data will be maintained until the request for the withdrawal of the created account.  
+
+
+  
+
