@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105151id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatson.ae privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100216id_/http%3A//whatson.ae/dubai/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - What's On Dubai
 
-This Privacy Policy governs the manner in which Motivate Publishing collects, uses, maintains and discloses information collected from users (each, a “User”) of the Motivatepublishing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Motivate Publishing.
+This Privacy Policy governs the manner in which Motivate Media Group collects, uses, maintains and discloses information collected from users (each, a “User”) of the Motivatepublishing.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Motivate Media Group.
 
 ### Personal identification information
 
@@ -53,7 +53,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Motivate Publishing
+Motivate Media Group
 
 Motivate Head Office  
 34th Floor, Media One Tower  
@@ -62,5 +62,3 @@ PO Box 2331
 Dubai, UAE  
 Tel: +971 4 427 3000  
 digital@motivate.ae
-
-This document was last updated on May 1st 2018
