@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myloancare.in privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115150515id_/https%3A//www.myloancare.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myloancare.in privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513094708id_/https%3A//www.myloancare.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MyLoanCare.in
 
-My Finance Care Advisors Pvt. Ltd. (hereinafter referred to as “MyLoanCare.in or we/ our”) understands the privacy and confidentiality of its customers who have shared their personal information with us. It’s our top most priority to keep the information secure and avoid misuse of customer’s personal details.
+MyLoanCare Ventures Pvt Ltd. (hereinafter referred to as “MyLoanCare.in or we/ our and including [www.myloancare.in](https://www.myloancare.in/) and MyLoanCare mobile app”) understands the privacy and confidentiality of its customers who have shared their personal information with us. It’s our top most priority to keep the information secure and avoid misuse of customer’s personal details.
 
 Please find below the type of information we may collect from you and it’s usage for the services offered to you via our website and our business partners. This privacy policy is applicable to our current and existing and future customers. By visiting our website and registering with us, you agree to this privacy policy. 
 
-By registering online at MyLoanCare.in, you allow MyLoanCare and its business partners to get in touch with you via phone call, email or sms. The purpose of contacting you is to offer you our services for the product you have chosen, informing you about our new products, tell you about promotional offers running at MyLoanCare.in, or by its business partners and linked third parties. Under this policy, you authorize us to make contact with you for the above mentioned purposes even if your number is registered under DND/DNC/NCPR services. This authorization is valid until your account is deactivated by either you or us.
+By registering online at MyLoanCare or using our mobile app, you allow MyLoanCare and its business partners to get in touch with you via phone call, email or sms. The purpose of contacting you is to offer you our services for the product you have chosen, informing you about our new products, tell you about promotional offers running at MyLoanCare.in, or by its business partners and linked third parties. Under this policy, you authorize us to make contact with you for the above mentioned purposes even if your number is registered under DND/DNC/NCPR services. This authorization is valid until your account is deactivated by either you or us.
 
 #### Personal Information
 
@@ -61,6 +61,14 @@ MyLoanCare.in provides links to other websites. The privacy of the information p
 
 MyLoanCare.in uses ad agencies or third party advertising companies to provide ads when you are using our website. These companies do not use your personal information except the details about your visit to our website so as to offer ads on our websites as well as on other websites about the services that you may like.
 
-#### Contact Us
+#### Contact Us with Questions or Concerns or For Grievance Redressal
 
-In case of any query, complaint, feedback and comments with regard to this privacy policy or any other policy then you can write us at [care@myloancare.in.](mailto:care@myloancare.in)
+If you have grievance or complaint, questions, comments, concerns or feedback in relation to the processing of information or regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to [care@myloancare.in.](mailto:care@myloancare.in) The name and contact details of the Grievance Officer is Mr. Santosh Kumar, MyLoanCare, MyLoanCare Ventures Pvt Ltd, B-38, Sector – 32, Industrial Area, Gurgaon 122003 India. 
+
+Notice
+
+The effective date of this Policy, as stated below, indicates the last time this Policy was revised or materially changed.
+
+Effective Date
+
+March 14, 2018
