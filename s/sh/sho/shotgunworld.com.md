@@ -1,88 +1,140 @@
-> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531192002id_/http%3A//www.shotgunworld.com/bbs/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shotgunworld.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513132655id_/https%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
 
-# Shotgunworld.com • User Control Panel • Privacy policy
+# 
 
-**Privacy Policy**  
-Effective August 22, 2011  
-Shotgunworld LLC is the operator of [www.shotgunworld.com](http://www.shotgunworld.com/). As part of its business Shotgunworld LLC gathers personally identifiable information on its websites as well as anonymous data regarding the website and your activities on the site. Shotgunworld LLC takes its privacy obligations very seriously.   
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).   
+## Privacy Policy
 
+Last updated: May 15, 2018
 
-**What Information Do We Collect?**  
-When you visit our Web site you may provide us with two types of information: personal information (name, email address and mailing address) you knowingly choose to disclose that is collected on an individual basis (for example in your forums profile) and Web site use information collected on an aggregate basis as you and others browse our Web site   
-Whenever Shotgunworld LLC collects personally identifiable about you, it reserves the right to use that information for marketing Shotgunworld LLC and its various activities. This is true in both the unpaid and paid sections of the Shotgunworld LLC site. Shotgunworld LLC shall use the personally identifiable data collected to undertake a variety of marketing activities including, but not limited to, email, direct mail, site personalization, telephone marketing and other digital and traditional methods of advertising and communication. Shotgunworld LLC does not sell or "monetize" data to 3rd parties. Shotgunworld LLC, however, does and will send marketing messages on behalf of its sponsors and partners. It will do so without giving any of your personally identifiable information to those sponsors and partners for their own use. 
+This Privacy Policy describes how Outdoor Hub, LLC d/b/a Carbon Media and its subsidiaries and corporate affiliates (collectively "Carbon Media", "we", "us" or "our") collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the "Site"), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor. 
 
-**Personal Information You Choose to Provide**  
-Registration Information.  
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of [www.shotgunworld.com](http://www.shotgunworld.com/) register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see [www.shotgunworld.com](http://www.shotgunworld.com/) servicing your needs and interests.   
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
+QUICK LINKS
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.  
+Click on one of the links below to jump to the listed section:
 
-
-**Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers, and ad serving companies may also use small technology or pieces of code to determine which advertisements and promotions users have seen and how users responded to them.  
-
-
-**How Do We Use the Information That You Provide to Us?**  
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).   
-From time to time, Shotgunworld LLC will allow its Sponsors or marketing partners to offer Shotgunworld LLC site visitors an opportunity to "opt-in" to receive marketing information directly from that Sponsor or marketing partner. In such cases, on the registration page, an "opt-in" question will appear clearly explaining that by checking the box you agree to share your personally identifiable information with that particular Sponsor or marketing partner. If there is not a Sponsor "opt-in" question on a registration form, Shotgunworld LLC will not give any of the data collected to any Sponsor or partner. 
-
-**Tell-A-Friend**  
-If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friends name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Shotgunworld LLC stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.   
-Your friend may contact us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com) to request that we remove this information from our database.  
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners use cookies that originate from their sites. We have no access or control over those cookies. 
 
-**How Do We Use Information We Collect from Cookies?**  
-As you use our Web site, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web servers log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not store any personal information that you provided to us in your cookies.   
+###  1\. Information we collect
 
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-**Sharing Information with Third Parties**  
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-
-**Widgets**  
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
-
-**Facebook Connect**  
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-**Blogs/Forums**  
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
-
-**Notice of New Services and Changes**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).   
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests.
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement).
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your "Content"). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.  
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
 
-**How Do We Protect Your Information?**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100 percent secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).   
+
+###  2\. How we use the information we collect
+
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including:
+
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site’s services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com).
 
-**Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by making the change on our member information page or by emailing our Customer Support at [customerservice@shotgunworld.com](mailto:customerservice@shotgunworld.com) or by contacting us by telephone or postal mail at the contact information listed below. 
+###  3\. Cookies, tracking technologies and interest-based advertising
 
-  
-**Certain Disclosures**  
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.  
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose.
 
-Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web sites own rules and policies. Please read over those rules and policies before proceeding. 
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don’t want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below.
 
-**Material Changes to Policy:**  
-Shotgunworld LLC may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, Shotgunworld LLC shall send an email advising of the change to all whose email addresses we have collected and retained pursuant to the terms set forth above. 
+At this time, we do not respond to browser "do not track" signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices).
 
-Shotgunworld LLC  
-c/o Outdoor Hub, LLC  
-30800 Telegraph Road, Ste 4805  
-Bingham Farms, MI 48025  
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google’s Display Network ads. Please visit [Google’s Ad Settings](https://www.google.ca/settings/ads) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google.
 
+### 4\. How we share your information
+
+We may share information we collect about you in the following circumstances.
+
+**Advertising partners**
+
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
+
+**Service Providers**
+
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances.
+
+**Aggregate or de-identified information**
+
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
+
+**With your consent**
+
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
+
+**Business Transactions**
+
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of Carbon Media or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy.
+
+**Other**
+
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+###  5\. How we store and protect personal information
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+###  6\. Links to external content
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use.
+
+###  7\. Children
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information.
+
+###  8\. Accessing or correcting your personal information
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.
+
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed).
+
+###  9\. Your Choices
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.
+
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services.
+
+###  10\. How to contact us
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+[legal@carbonmedia.com](mailto:legal@carbonmedia.com)  
+**Privacy Officer**  
+3290 W. Big Beaver Rd.  
+Suite 500  
+Troy, Michigan 48084 USA 
