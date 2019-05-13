@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoursmap.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053358id_/http%3A//www.hoursmap.com/legal/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoursmap.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513171854id_/https%3A//www.hoursmap.com/legal/legal_privacy.php) for the most accurate reproduction.*
 
 # HoursMap: Explore your neighborhood.
 
