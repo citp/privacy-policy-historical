@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628175642id_/http%3A//travelindex.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelindex.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513211451id_/https%3A//corporate.travelindex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Travelindex Media
+# Privacy Policy – Travelindex – Connecting Travel People
 
 ## Travelindex Privacy Policy
 
