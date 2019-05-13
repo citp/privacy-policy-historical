@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227161026id_/https%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513034658id_/https%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates, Mortgage News and Strategy : The Mortgage Reports
 
@@ -77,7 +77,7 @@ The Site is not structured to attract children. Accordingly, we do not intend to
 
 **CONTACTING US**
 
-If you have any questions or concerns about this Privacy Policy, you may [contact us](http://themortgagereports.com/contact-us/) via email or you can call us at the following number: (866) 240-7180
+If you have any questions or concerns about this Privacy Policy, you may [contact us](https://themortgagereports.com/contact-us/) via email or you can call us at the following number: [(866) 240-7180](tel:+18662407180)
 
 **UPDATES TO THIS PRIVACY POLICY**
 
