@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitsonline.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125053728id_/https%3A//bitsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsonline.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513140501id_/https%3A//bitsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitsonline
 
@@ -70,6 +70,10 @@ We have implemented the following:
   * Interest-based advertising
 
 
+
+**GDPR Compliance**
+
+To stay in contact, we give you the choice to provide us your email address. By exercising that choice, you consent to our use of your email address to stay in touch with you, as provided in our Privacy Policy. If you are entitled to protections under the new General Data Protection Regulation (GDPR), we treat that as consent under Article 7 of the GDPR. You are always entitled to withdraw your consent by following our email directions to unsubscribe.
 
 **Control your interest-based ads**
 
