@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbizcrm.com privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815082700id_/http%3A//www.smallbizcrm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbizcrm.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100841id_/http%3A//www.smallbizcrm.com/privacy-policy) for the most accurate reproduction.*
 
 # SmallBizCRM Privacy policy
 
