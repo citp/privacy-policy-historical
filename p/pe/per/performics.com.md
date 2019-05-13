@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116065243id_/http%3A//www.performics.com/performics-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performics.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513072138id_/https%3A//www.performics.com/performics-privacy-policy) for the most accurate reproduction.*
 
 # Performics Privacy Policy - PerformicsPerformics
 
