@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaininvesting.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721113856id_/https%3A//domaininvesting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaininvesting.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513224627id_/https%3A//domaininvesting.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Domain Investing
 
@@ -15,7 +15,7 @@ If anyone posts something that is malicious or that may be libelous, the Publish
 
 **Links to Other Websites:**
 
-This website contains links to other websites. Top Notch Domains, LLC and Elliot Silver can not be held not responsible for the content or privacy practices of websites that are referenced or linked to in this website. See the **[Disclaimer and Site Terms of Use](https://www.domaininvesting.com/disclaimer)** for more details.
+This website contains links to other websites. Top Notch Domains, LLC and Elliot Silver can not be held not responsible for the content or privacy practices of websites that are referenced or linked to in this website. See the **[Disclaimer and Site Terms of Use](https://domaininvesting.com/disclaimer)** for more details.
 
 **Children Under 18:**  
 The Publisher does not believe this website has any materials that would be objectionable to children under the age of 18. If you find something that you believe is objectionable, please contact the Publisher at once using the contact information below.
@@ -25,3 +25,5 @@ Top Notch Domains, LLC retains the right to alter, modify or change the Privacy 
 
 **How To Contact The Publisher**  
 Should you have other questions or concerns about this, please call (610) 217-1642 or send an email to DomainNames “at” gmail.com.
+
+[](http://ix.biz/di1)
