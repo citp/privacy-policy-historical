@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockfordfosgate.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301132651id_/https%3A//www.rockfordfosgate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfordfosgate.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513225358id_/https%3A//rockfordfosgate.com/privacy-policy) for the most accurate reproduction.*
 
 # Rich Text | Rockford Fosgate ®
 
