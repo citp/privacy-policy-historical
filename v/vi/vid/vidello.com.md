@@ -1,67 +1,218 @@
-> *The following text is extracted and transformed from the vidello.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018090548id_/http%3A//vidello.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidello.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513132300id_/https%3A//vidello.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Vidello - Privacy Policy
 
-**Welcome to VIDELLO.COM (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by VIDELLO (collectively, “Services”) (“Authorized Customers”).  **
+**Our Commitment to Your Privacy**
 
- _Welcome to VIDELLO.COM (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by _VIDELLO_ (collectively, “Services”) (“Authorized Customers”). _
+Welcome to <https://vidello.com/>, a website (the “Site”) operated by Vidello Ltd. (the “Company”).
 
- **“Personally Identifiable Information”  **
+We respect and protect the privacy of our Site users. This Data Protection and Privacy Policy (“Policy”) explains how we collect and use your information and is part of our [Terms of Use](https://vidello.com/terms) when you use our Site.
 
-Prefers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+By using our Site, you consent to our Data Protection and Privacy Policy. If you don’t agree, please don’t use our Site.
 
-**What Personally Identifiable Information is collected?  **
+**Company  
+** “Company” means Vidello Ltd.
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+475 Salisbury House, London Wall, London, 
 
-**What organizations are collecting the information?  **
+United Kingdom, EC2M 5QQ 
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
+**GDPR**
 
-**How does the Site use Personally Identifiable Information?  **
+“GDPR” means that General Data Protection Regulation Act. (This is a law that applies in the European Economic Area (EEA).)
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+**Data Controller**
 
-**With whom may the information may be shared?  **
+“Data Controller” means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. The Company is the Data Controller for the personal data you submit via the Site. 
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.   
-**  
-How is Personally Identifiable Information stored?  **
+**Data Processor**
 
-Personally Identifiable Information collected by VIDELLO is securely stored and is not accessible to third parties or employees of VIDELLO except for use as indicated above. 
+“Data Processor” means any natural or legal person who processes the data on behalf of the Data Controller. 
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?  **
+**Data Subject**
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 
+"Data Subject" is any living individual who is using our Site. 
 
-**Are Cookies Used on the Site?  **
+Our principles for processing personal data subject to the GDPR are:
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
+\- Fairness and lawfulness. When we process personal data, the individual rights of the Data Subjects must be protected. All personal data must be collected and processed in a legal and fair manner.
 
-**How does VIDELLO use login information?  **
+\- Restricted to a specific purpose. The personal data of Data Subject must be processed only for specific purposes.
 
-VIDELLO uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyse trends, administer the Site, track a user’s movement and use, and gather broad demographic information. 
+\- Transparency. The Data Subject must be informed of how his/her data is being collected, processed and used. 
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?  **
+\- Accuracy 
 
-Webvati has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+\- Storage Limitation 
 
-**How does the Site keep Personally Identifiable Information secure?  **
+\- Confidentiality and Integrity 
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+**What information do we collect?**
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?  **
+When you register to use the Service via the Site you'll be asked to provide certain information about you and your business, such as your Name, Business Name, Email, Address, and VAT number. Some of this information is optional.
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at support@vidello.com 
+Our third-party billing service provider will also collect information such as your full name, credit card number, and billing address. 
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?  **
+We and our third-party service providers may collect certain information about your use of our Site. For example, we may collect and/or use:
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+\- Log information (including your IP address, browser type, Internet service provider, referring and exit pages, operating system, dates/time of access, and related data)
 
-**What happens if the Privacy Policy Changes?  **
+\- Information collected by cookies and tracking pixels (as discussed below)
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+\- Web beacons (also called "Internet tags" or "clear gifs"; used to count visitors to our Site and which pages were viewed and links clicked)
 
-**Links:  **
+\- Embedded scripts (code temporarily downloaded onto your device to collect information about your interactions with the Service and thereafter deleted or deactivated) 
 
-VIDELLO.COM contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+**Where do we store your information?**
+
+Your information may be stored in our own servers or in servers owned by third-party cloud storage providers.
+
+Third-party storage providers may not use your information except as provided in this Privacy Policy.
+
+**How do we use your information?**
+
+Information we collect from you might be used:
+
+\- To verify your identity when you return to the Site
+
+\- To notify you about changes to our Site and Services
+
+\- To gather analysis or other information to improve our Site and Services
+
+\- For marketing purposes
+
+\- To personalize ads you see when you visit the Site
+
+\- To respond to your messages and comments
+
+\- To provide customer support
+
+\- For invoicing purposes
+
+**Legal Basis for Collecting and Processing Personal Data**
+
+Our legal basis for collecting and using the personal data described in this Policy depends on the personal data we collect and the specific context in which we collect the information:
+
+\- We need to perform a contract with you.
+
+\- You have given us permission to do so.
+
+\- Processing your personal data is in our legitimate interests.
+
+\- We need to comply with the law.
+
+Please be aware that if you do not provide personal data we may be unable to provide some Services to you.
+
+**Do we use cookies or Tracking Pixels?**
+
+Yes. 
+
+Cookies are small files that include an anonymous unique identifier. Cookies let us recognize your browser and remember certain information about you in order to personalize your experience of our Site.
+
+We also use cookies to compile aggregate data about traffic to our Site so that we can improve our Site and Site.
+
+We may use both persistent and session cookies. Persistent cookies remain on your computer after you close your session and until you delete them; session cookies expire when you close your browser.  
+
+A tracking pixel is a tiny pixel-sized image that allows us to track your Site visits, advertising impressions, and other types of Internet activity. It's also sometimes called a web bug, beacon, or page tag.
+
+**Do we use Google AdWords or other remarketing methods?**
+
+Yes. 
+
+We may use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our Site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. 
+
+Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to our Site. Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the Google Ad Preferences page.
+
+**Do we use Google Analytics?**
+
+**Do we transfer your data to other countries?**
+
+No. Our servers with your data are located in the United Kingdom.
+
+You may request more information about the safeguards that we have put in place in respect of transfers of personal data by [contacting us](https://support.vidello.com/conversation/new).
+
+**How Do We Respond to "Do Not Track" Signals?**
+
+We may track your browsing behavior to better tailor suggestions and information for you. 
+
+Some third-party sites also keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. 
+
+You can opt out of certain tracking by adjusting the settings on your browser. However, many websites (including the Site) may not respond to such signals.
+
+There are also browser extensions that may block tracking. Again, they may not be effective in all cases.
+
+**How long do we store your information?**
+
+**What about links to other websites?**
+
+We may provide links to or compatibility with other websites.  However, we’re not responsible for the privacy practices employed by those websites or the information or content they contain.
+
+**How do we protect your information?**
+
+We use Site-appropriate physical, electronic, and other procedures to safeguard and secure the information we collect. However, please be aware that the Internet is an inherently unsafe environment, and that hackers are constantly working to defeat security measures. 
+
+Thus, we cannot guarantee that your information will not be accessed, disclosed, altered or destroyed, and you accept this risk.
+
+**How can you protect your information?**
+
+We urge you to take steps to keep your personal information safe by not sharing it with others or posting it online. 
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information (PII) for commercial or marketing purposes. 
+
+We may share your PII with third-party processors, which can include:
+
+\- Payment processors
+
+\- Providers of email management and distribution tools
+
+\- Providers of security and fraud prevention services
+
+\- Providers of date aggregation and analytics software
+
+We will, if required by a valid court order, provide your personal information in a civil or criminal proceeding. 
+
+We will not share any PII that we have collected from or regarding you except as described below.
+
+_Information Disclosed in Connection with Business Transactions_
+
+. If we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
+
+_Information Disclosed for Our Protection and the Protection of Others_
+
+. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
+
+**Not Intended for Children**
+
+Our Site is not intended for children under the age of 13. We do not knowingly or specifically collect information from or about children under the age of 13.
+
+If you are under the age of 18, and If our Site publicly displays your content, at any time you can delete or remove your content using the deletion or removal method within our Site. If you have questions about how to remove your content, or you need assistance, you can contact [us here](https://support.vidello.com/conversation/new). Although we offer deletion capability, you should be aware that your removal of your content may not ensure complete or comprehensive remove the content or information posted through the Site, especially if it has been shared by others. Also, there may be circumstances in which the law does not require or allow removal even if requested.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what personal data we hold about you and if you want it to be removed from our systems, [please contact us](https://support.vidello.com/conversation/new).
+
+In certain circumstances, you have the following data protection rights:
+
+\- The right to be informed of your rights
+
+\- The right to access, update or to delete the information we have on you
+
+\- The right of rectification (to correct mistakes)
+
+\- The right to erasure (known as “the right to be forgotten”)
+
+\- The right to restrict processing of your data
+
+\- The right to data portability
+
+\- The right to withdraw consent
+
+If you wish to withdraw your consent to process your personal data, [please contact us](https://support.vidello.com/conversation/new). If you withdraw your consent, this will not make processing which we undertook before you withdrew your consent unlawful.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our Privacy Policy, we will post those changes on this page. We may also, but are not required to, send you an email notice.
+
+If you have questions about our Privacy Policy, please contact us at support@vidello.com
