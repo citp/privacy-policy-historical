@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622224957id_/http%3A//www.easttexasmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100726id_/https%3A//www.easttexasmatters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EastTexasMatters
+# Privacy Policy
 
 **Updated: November 06, 2017**
 
