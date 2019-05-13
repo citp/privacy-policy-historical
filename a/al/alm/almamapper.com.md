@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almamapper.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104131132id_/http%3A//www.almamapper.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almamapper.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513074803id_/http%3A//www.almamapper.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Almamapper Privacy Policy
 
