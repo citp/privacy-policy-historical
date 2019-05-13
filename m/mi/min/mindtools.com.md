@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227132457id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513172525id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Optionally, you can also let us know your job level and whether you work in Lear
 
 We will carefully curate our Newsletters and associated emails to ensure they are relevant to you and proportionate to your expressed interests. We use industry standard tools to understand you and ensure our social media adverts are only shown to people who are likely to be interested in Mind Tools. We have assessed our use of your personal data as having minimal impact on your privacy and we will keep it that way. 
 
-We will not use your name or email address for any other purpose, nor will we pass it on to anyone else. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of any email that we send you.
+We will not use your name or email address for any other purpose, nor will we pass it on to anyone else outside our group companies. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of any email that we send you.
 
 If you'd like to find out more about any of this, please read our full [Privacy Policy](https://www.mindtools.com/privacy-policy) or contact us at [privacy@mindtools.com.](mailto:privacy@mindtools.com)
 
@@ -26,7 +26,7 @@ If you are just browsing the Website, please read our [Cookie Policy](https://ww
 
 Please also see the section below called Information We May Collect About You. We collect the information described out of a legitimate interest which doesn't override your rights, as permitted by Data Protection Law
 
-For the purpose of Data Protection Law, the data controller is Mind Tools Ltd of 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, United Kingdom.
+For the purpose of the General Data Protection Regulation (GDPR) and the Data Protection Act 2018 (the “Act”), the data controller is Mind Tools Ltd of 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, UK
 
 ## Information We May Collect From You
 
@@ -111,7 +111,7 @@ If you purchase paid services through our Website, we request certain informatio
 
 If you purchase paid services through the Mind Tools iOS App, you will be directed to your Apple account for any billing queries, upgrades or cancellations. You can find the iTunes privacy policy [here.](https://www.apple.com/uk/legal/privacy/en-ww/)
 
-In rare cases, we may also disclose personal information to third parties:
+In rare cases, we may also disclose personal information to third parties outside our group companies:
 
   * If Mind Tools Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or to protect the rights, property, or safety of Mind Tools Ltd, our customers, or others. 
@@ -167,4 +167,4 @@ We will be the data controller of your personal data. If you are unhappy with an
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mind Tools Ltd, 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, UK, telephone +44 20 7788 7978 or . (Due to time zone differences, it may take up to 24 hours for us to respond to you).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mind Tools Ltd, 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, UK, telephone +44 20 7788 7978. (Due to time zone differences, it may take up to 24 hours for us to respond to you.)
