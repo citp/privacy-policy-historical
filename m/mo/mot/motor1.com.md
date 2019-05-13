@@ -1,202 +1,399 @@
-> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912090948id_/https%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513041000id_/https%3A//accounts.motorsportnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Motor1.com
+# Privacy policy
 
-## PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MOTORSPORT NETWORK, LLC PRODUCT OR SERVICE.
+[1\. Introduction](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-1)
 
-Motorsport Network, LLC produces and publishes multiple websites, one of them being the Motor1.com Website (this "Website") as well as downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+[2\. What information do we collect?](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-2)
 
-  1. Personal Information Collected Via Our Services
-  2. How We Use and Share Your Personal Information
-  3. Additional Information About Collection of Location Data
-  4. Additional Information About Our Access to Your Contact
-  5. Other Information Collected And Shared Within Our Services
-  6. Other Circumstances When Your Data May Be Shared
-  7. Managing Your Information
-  8. Other Information
+[3\. Protection of children’s personal information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-3)
 
+[4\. Your Rights](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-4)
 
+[5\. How we use your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-5)
 
-### 1\. Personal Information Collected Via Our Services
+[6\. Can I find out what personal information Motorsport Network holds on me?](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-6)
 
-**Information You Provide.**  You may visit and enjoy many elements of our Services without disclosing any personal information about yourself. However, to make use of select, special or enhanced elements of the Services, you will need to share with us certain personal information so those elements may function properly. When you use certain enhanced elements within our Services (e.g., create a profile, register for a promotion, make a purchase, or publish a comment), the personal information we collect may include, but is not limited to:
+[7\. How we disclose your information to third parties](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-7)
 
-  * Full name,
-  * Email address,
-  * Password,
-  * Street address,
-  * Telephone number(s),
-  * Birth date,
-  * Payment card information,
-  * Location data,
-  * Contacts (as stored in your wireless device), and
-  * Other personal data as detailed in this Privacy Policy and data that may be requested from and provided by you.
+[8\. Updating and control of your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-8)
 
+[9\. Third party links and services](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-9)
 
+[10\. Where we store your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-10)
 
-If we collect such information, in most instances, the applicable page(s) or location(s) within the Services will include statements regarding what information is required for the elements of the Services to function properly and functionality for you to submit the requested or required information. In addition to the list above, there may also be opportunities for you to grant permission for use of other of your information in a manner set forth on the applicable page(s) within the Services.
+[11\. Security of your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-11)
 
-### 2\. How We Use and Share Your Personal Information
+[12\. Reporting of security vulnerabilities](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-12)
 
-If you submit personal information to us, or to any third party acting on our behalf, we may use and share your information as set forth in this Privacy Policy and as disclosed when you first submit your information or as permissible under applicable law.
+[13\. Social Media](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-13)
 
-We may use and share your personal information as described in Section 1 as follows:
+[14\. Anti-spam policy](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-14)
 
-  * Use your information to provide services you've requested or provide you with offers, promotions (e.g., a sweepstakes, fantasy game, subscription to goods or services, etc.) or content or add you to our postal mail list;
-  * Use your information to send you electronic communications, including emails about the Website applicable to your interactions with our Website, and about products, services, sponsors, partners and affiliates when you make a purchase, agree to rules or terms, or otherwise engage with our Website, to the extent the sending of such electronic communication is permissible under applicable law;
-  * Use and share your information with one or more race series or related entities, to the extent that you've submitted information or accessed functionality or content that relates specifically to such race series or related entities (e.g., you've asked to receive the newsletter of a race series or you've purchased race series-specific merchandise), so they may learn more about fans like you, add you to the race series' postal mail list and provide better services to you;
-  * Use and share your information with our third-party survey partners to send you periodic surveys to help improve our Services or your experience;
-  * Use and share your information in connection with online loyalty, membership or rewards programs operated from our Services or with a third party from which you may receive goods or services in connection with such a program; or
-  * Use and share your information with permission from you.
+[15\. How to contact us](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-15)
 
+  
 
 
-We may use your personal information:
+### 1\. Introduction
 
-  * For our statistical, research, recordkeeping, and reporting purposes;
-  * For our own marketing purposes;
-  * To personalize and improve your experience; and
-  * To monitor for compliance with our Terms of Service.
+Motorsport Network LLP (“Motorsport Network”, “Us”, “We”, “Our”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.motorsportnetwork.com](https://www.motorsportnetwork.com/).
 
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. postal communications, email, mobile messaging and telephone calls.
 
+Motorsport Network has a portfolio of over 20 brands which operate across motorsport and automotive, all of which are governed by this Privacy Notice. For an up to date list of these brands please visit [www.motorsportnetwork.com/our-brands](https://www.motorsportnetwork.com/our-brands).
 
-We may share personal information:
+We respect your privacy and we are committed to protecting your personal Information as that term is defined in the General Data Protection Regulation (“GDPR) (“Information”). We comply with the principles of the GDPR and aim to maintain consistently high levels of best practice in our processing of your Information.
 
-  * With certain third parties, including service providers, sponsors and promotional partners, so they may help us provide services, offers, promotions or content you’ve requested or otherwise in accordance with the applicable rules of a promotion or terms presented at the time you submit personal information, so the third party can administer the promotion, send you offers or content or add you to their postal mailing list;
-  * Upon notice posted on an applicable location of our Services where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party;
-  * With our subsidiaries and affiliates for their direct marketing purposes;
-  * With third parties, including for their direct marketing purposes;
-  * With service providers that help us operate our business;
-  * With our affiliates and with service providers that help us operate our business;
-  * With government entities as needed to provide our services and where required by law;
-  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
-  * Pursuant to a subpoena, court order, or other legal process;
-  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
-  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
-  * With your consent or as otherwise disclosed at the time of collection.
+And here’s our upfront promise. We know how important it is for you to have control over any communications that you receive from us, so here’s a quick and easy way of opting-out of all marketing communications. BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Otherwise please [click here](mailto:datacontroller@motorsport.com?subject=Opt%20out).
 
+Please read in conjunction with our Terms & Conditions and our Cookie Policy. For these documents, please refer to the original Motorsport Network website you came from, there will be a link in the footer to our Cookie Policy and the Terms & Conditions for that site.
 
+This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a few moments to read and understand the Policy.
 
-### 3\. Additional Information About Collection of Location Data
+By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will update this Policy to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-Location Data We Collect. When you use our Service we may solicit your permission to collect your location data. Please be advised, for some features within our Applications to function we must confirm your current location and therefore some features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g. laptop, smartphone, tablet) and how you are connected to the Internet (e.g. via cable broadband connection, WiFi, etc.). If you enable location services for our Applications, we may collect location data (e.g. zip code) periodically as you use or leave open our Applications. We may also use this data internally or in conjunction with our third party service providers to customize your experience and provide offers that may be relevant to you. Depending on the platform you use to access our Applications (e.g., Apple iOS, Google Android, Windows, etc.) you may be able to control from within the settings on your wireless device or the Application(s) whether location data is collected.
+In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected.
 
-### 4\. Additional Information About Our Access to Your Contacts
+  
 
-Our Access to Your Contacts. When you use our Mobile Games, we may solicit your permission to access your contacts list (e.g., address book) so that we may match individuals from your contacts lists with those participating in our Mobile Games so you can invite your friends to play with and against you. We will not store the information in your contacts list.
 
-### 5\. Other Information Collected And Shared Within Our Services
+### 2\. What information do we collect?
 
-  * _Our Cookies and Web Beacons_
+All your Information will be held and used in accordance with the GDPR where applicable. If you want to know what Information we collect and hold about you, please email us at: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
 
+2.1. Information you voluntarily provide to us
 
+We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:
 
-We use and permit automatic methods such as cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) or similar technologies, alone or in combination with personally identifiable information you choose to provide us. Examples of the information we collect and analyze using such methods include, but is not limited to: personal information as authorized by you, the Internet protocol address used to connect your computer or device to the Internet; email address; login name and password; operating system type, version and computer or device platform; purchase history; the full Uniform Resource Locator clickstream to, on and from our Services, including date and time; and products you viewed or searched. We use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs) and methods used to browse away from a page. We use and may allow certain third parties, such as those who provide services associated with our Services, to access these automatic data collection methods to enable you to use a "shopping cart" while using our Services, to store your preferences and to improve, deliver and customize our Services' content and offerings.
+  * When you register on our website or for a product or service, you may provide us with certain Information including your name, email address, user name, password and demographic Information
+  * If you sign up to our service via a social network we may use the profile Information you enable us to access regarding your interests.
+  * If you sign up to receive a newsletter, a magazine, enter a competition or participate in social networking activities, you may provide us with contact Information (e.g., email, telephone and/or or physical address)
+  * You may provide us with Information in the course of email, customer support interactions and surveys.
 
-  * _Third Party Cookies and Web Beacons; Network Advertisers_
 
 
+Different websites operated by us may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our websites. For more Information, please see the “How We Use Your Information” section of the Policy below.
 
-We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by [clicking here.](http://www.aboutads.info/choices/) If you would like to obtain more information about common industry practices of network advertisers or make choices about their use of your information or find additional opt-out tools operated by advertising industry associations encompassing even more network advertisers, please [click here.](http://www.aboutads.info/)
+2.2. Information we collect through your use of our Website
 
-  * _Social Networking_
+As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our Cookie Policy for more Information.
 
+2.3. Information we receive from third parties
 
+We may also combine online and/or offline Information received from third parties (including other members of our group of companies – [click here](https://www.motorsportnetwork.com/our-brands) for a full list) with your Information. The third party Information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and relevance of the advertising we provide to you.
 
-When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google+) (each and collectively, a "Social Network"), you may have the option to connect your Website, Application, or Mobile Game information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Services activity, your Services comments or the videos you watch on our Services. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services.
+  
 
-  * _Device ID_
 
+### 3\. Protection of children’s personal information
 
+3.1. Our sites and products are not designed for children, but one or two may receive visits by children and young people under the age of 16 and we encourage them to speak to their parents before submitting any personal Information on any of our sites.
 
-When you use our Mobile Application, we or our third-party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third-party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](https://developer.yahoo.com/user-opt-out.html) and follow the instructions.
+3.2. We recommend that parents or guardians supervise young people while they are online.
 
-### 6\. Other Circumstances When Your Data May Be Shared
+3.3. We are dedicated to the protection of children’s and young people’s personal Information and we do not knowingly market to children.
 
-  * _Aggregated Demographic Information._
+3.4. If you are under 16 years of age you should always ask your parent or guardian before:
 
+  
 
 
-We may share aggregated demographic information with third parties. This information is not linked to personal information that can identify you or another individual person.
+  * Responding to anything on any of our sites
+  * Asking us to send anything to you or another young person
+  * Enter a competition or a game online – you must generally be over 16 years of age to enter, but please do check the specific Terms & Conditions for each instance.
+  * Post anything on a bulletin board or any chat room
+  * Offer to agree to buy anything online
 
-  * _Business Transfers._
 
 
+3.5. A parent or guardian may submit a request to [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) to stop any further use of a child or young person’s personal Information or to request that we suppress any Information as far as we are able. Before disclosing Information about a child, we may request that the parent or guardian provide reasonable Information for identification purposes.
 
-As time passes, Motorsport Network, LLC may be sold along with its assets, or other corporate transactions may occur. In such a case, our customer information may be one of the business assets we transfer.
+  
 
-  * _Disclosure for Legal Purposes._
 
+### 4\. Your Rights
 
+4.1 Right to Confirmation
 
-We may be required to share your personal and non-personal information pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose or share your personal and non-personal information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of Terms of Use of any of our Services or as required by law.
+Each data subject has the right to require the controller to confirm whether personal data relating to him or her is being processed. If an affected person wishes to make use of this confirmation right, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
 
-### 7\. Managing Your Information
+4.2 Right to Information
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://www.motorsport.com/login/) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+Any person concerned by the processing of personal data shall have the right at any time to obtain from the data controller information free of charge on the personal data stored about him and a copy of that information. Furthermore, the data subject has the right to be provided with with the following information:
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
+  * the processing purposes
+  * the categories of personal data being processed
+  * the recipients or categories of recipients to whom the personal data have been disclosed or are still being disclosed, in particular to recipients in third countries or to international organizations
+  * if possible, the planned duration for which the personal data are stored or, if that is not possible, the criteria for determining that duration
+  * the existence of a right to rectification or erasure of the personal data concerning him or of limitation of processing by the controller or a right to object to such processing
+  * the existence of a right of appeal to a supervisory authority
+  * if the personal data are not collected from the data subject: All available information about the origin of the data, the existence of automated decision-making including profiling and - at least in these cases - meaningful information on the logic involved and the scope and intended impact of such processing on the data subject
 
-If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may log in, and then click on the applicable left-hand menu option. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call Motorsport Network directly at +1 305 877 30 97.
 
-Remember that when you share information publicly online, it may be indexable by search engines or recorded by others, and any search engine index or record of your information may persist after you delete the information at the original source.
 
-### 8\. Other Information
+In addition, the data subject has a right of access as to whether personal data has been transmitted to a third country or to an international organization. If that is the case, then the data subject has the right to obtain information about the appropriate guarantees in connection with the transfer.
 
-  * _No Spyware or Adware._
+If an affected person wishes to exercise this right to information, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
 
+4.3. Right to Rectification
 
+Any person affected by the processing of personal data has the right granted by the European legislator to demand the immediate correction of inaccurate personal data concerning him / her. Furthermore, the data subject has the right to request the completion of incomplete personal data, including by means of a supplementary declaration, taking into account the purposes of the processing.
 
-We do not install any spyware or adware in connection with our Services, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to or installed on an Internet user's computer or device, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
+If an affected person wishes to exercise this right of rectification, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
 
-  * _Our Security Practices._
+4.4 Right to Cancellation
 
+Any person affected by the processing of personal data shall have the right to require the controller to immediately delete the personal data concerning him, provided that one of the following reasons is satisfied and the processing is not required:
 
+  * The personal data has been collected for such purposes or otherwise processed for which they are no longer necessary.
+  * The data subject withdraws the consent on which the processing was based the data controller lacks any other legal basis for the processing.
+  * The data subject objects to the processing and there are no legitimate reasons for the processing, or the data subject appeals the processing.
+  * The personal data was processed unlawfully.
+  * The deletion of personal data is required to fulfill a legal obligation under Union or national law, to which the controller is subject.
+  * The personal data were collected in relation to information society services.
 
-The account information associated with any of our Services is password protected for your privacy and security. You choose your password for any of our Services so the strength of that password is determined by you. We recommend that you choose a unique password and not share your password with anyone else. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
-  * _Links._
 
+If one of the above reasons is correct and an affected person wishes to arrange for the deletion of personal data held by us, they may, at any time, contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. Our data protection officer or another employee will arrange that the deletion request be fulfilled immediately.
 
+If the personal data have been made public by us and if our company is responsible for deleting personal data as the person responsible, we shall take appropriate measures, including technical ones, taking into account the available technology and the implementation costs to inform other data controllers processing the published personal data that the data subject has requested that these other data controllers delete all links to such personal data or copies or replications of such personal data, as far as the processing is not required. Our data protection officer or another employee will arrange the necessary in individual cases.
 
-Our Services contain links to other websites and products produced by Motorsport Network, LLC, and to websites and products operated by unrelated third parties. In addition, if you click on an advertisement within our Services, you may be directed to a web page within our Services or to a third-party website or product. We are not responsible for the privacy practices of third party websites or products, and we encourage you to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to our Services, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+4.5. Right to Restriction of Processing
 
-  * _Your California Privacy Rights._
+Any person affected by the processing of personal data has the right to require the controller to restrict the processing if one of the following conditions applies:
 
+  * The accuracy of the personal data is contested by the data subject for a period of time that enables the person responsible to verify the accuracy of the personal data.
+  * Processing is unlawful, the data subject refuses to delete the personal data and instead requests the restriction of the use of personal data.
+  * The controller no longer needs the personal data for processing purposes, but the data subject needs them to assert, exercise or defend legal claims.
+  * The data subject has objected to the processing and it is not yet clear whether the legitimate reasons of the person responsible outweigh those of the data subject.
 
 
-If you are a resident of California, pursuant to California Civil Code Section 1798.83, you may request information regarding our disclosure of your personal information to a third party for that party's direct marketing purposes. Any such disclosure made to a third party by us would be otherwise in accordance with the terms of this Privacy Policy. To make such a request please send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com) or write to us at: Motorsport Network, LLC, Privacy Administrator, 5972 NE 4th Avenue Miami, FL 33137, USA.
 
-  * _Special Rules for Children._
+If one of the above conditions is met and an affected person wishes to request the restriction of personal data stored by us, they may at any time contact our data protection officer or another employee of the controller. Our data protection officer or another employee will cause the restriction of processing.
 
+4.6. Data Transferability
 
+Any person affected by the processing of personal data shall have the right to obtain the personal data concerning him or her provided to a controller by the data subject in a structured, common and machine-readable format. It also has the right to transfer this data to another person responsible, without hindrance by the controller, to whom the personal data was provided, provided that the processing is based on the consent or on a contract and processing by means of automated processes, unless the processing is necessary for the performance of a task of public interest or in the exercise of public authority, which has been assigned to the responsible person.
 
-Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+Furthermore, in exercising their right to data portability, the data subject has the right to obtain that the personal data are transmitted directly from one controller to another, insofar as this is technically feasible and if so this does not affect the rights and freedoms of others.
 
-  * _Contact Us Regarding Privacy._
+In order to assert the right of data transferability, the data subject may at any time turn to the data protection officer appointed by us.
 
+4.7. Right to Object
 
+Any person concerned by the processing of personal data shall have the right, for reasons arising from its particular situation, against the processing of personal data relating to it. 
 
-If you have questions or concerns about this Privacy Policy, you can contact us at:
+In the event of an objection, we will no longer process personal data unless we can demonstrate compelling legitimate grounds for processing that outweigh the interests, rights and freedoms of the data subject, or the processing is for the purpose of asserting, exercising or defending legal claims.
 
-**Privacy Administrator**
+If we process personal data in order to operate direct mail, the data subject has the right to object at any time to the processing of personal data for the purposes of such advertising. This also applies to the profiling, as far as it is associated with such direct mail. If the data subject objects to processing for direct marketing purposes, we will no longer process the personal data for these purposes.
 
-**Motorsport Network, LLC**
+In addition, the data subject has the right, for reasons that arise from their particular situation, against the processing of personal data relating to them, which we carry out for scientific or historical research purposes or for statistical purposes, to object, unless such processing is necessary to fulfill a public interest task.
 
-5972 NE 4th Avenue
+In order to exercise the right to object, the data subject can directly contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. The data subject is also free, in the context of the use of information society services, to exercise his right of opposition by means of automated procedures using technical specifications.
 
-Miami, FL 33137
+4.8 Automated Decisions in Individual Cases Including Profiling
 
-USA
+Any person concerned by the processing of personal data shall have the right not to be subject to a decision based solely on automated processing, including profiling, which has a legal effect on it or, in a similar manner, significantly affects it; unless the decision (1) is necessary for the conclusion or performance of a contract between the data subject and the controller, or (2) is permitted by Union or Member State legislation to which the controller is subject, and that legislation provides for appropriate measures to safeguard the rights and freedoms as well as the legitimate interests of the data subject; or (3) with the express consent of the data subject.
 
-**Phone:**  +1 305 507 87 99
+If the decision (1) is required for the conclusion or performance of a contract between the data subject and the controller or (2) it is done with the express consent of the data subject, we shall take appropriate measures to safeguard the rights, freedoms and legitimate interests of the data subject person, including at least the right to obtain the intervention of a person by the controller, to express his / her own position and to contest the decision.
 
-Or send an email to [privacy@motorsport.com](mailto:privacy@motorsport.com)
+If the data subject wishes to enforce automated decision-making rights, they may contact our data protection officer or other data controller at any time.
 
-  * _Notification of Changes._
+4.9 Right to Revoke Consent
 
+Any person affected by the processing of personal data has the right, granted by the European directive and regulatory authority, to revoke consent to the processing of personal data at any time.
 
+If the data subject wishes to assert their right to withdraw consent, they may at any time contact contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
 
-If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications, Mobile Games and Social Games so that you may review the updated policy.
+  
 
-**Last updated and effective date: May 12, 2017.**
+
+### 5\. How we use your information
+
+We will use your Information in the ways described below and as described at the time that the Information is collected.
+
+5.1. To Provide the Services
+
+In general, we use your Information as necessary or appropriate for our business purposes including to:
+
+  * Administer your account where you have opened an account with us
+  * Register you and provide you access to the website or services requested by you
+  * Respond to inquiries or requests that you direct to us
+  * Fulfil your requests for products or services
+  * Send communications and administrative emails about the website or our services
+  * Personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services
+  * Run competitions
+  * Deliver customer services
+  * Other purposes related to any of the above
+
+
+
+5.2. Marketing
+
+Where you have provided us with the appropriate consents, or where the GDPR entitles us to do so, we may send you marketing materials about other products or services offered by Motorsport Network, including products or services offered by our group companies.
+
+In addition, where you have provided us with the appropriate consents, we may also pass your Information for marketing purposes or host messages on behalf of one or more of our group companies or other selected third parties in the following sectors where the Information they provide will be relevant to you: Professional Associations, Automotive, Charity, Education and Training, Recruitment, Business and Leisure Travel, Events, Conferences and Exhibitions, Financial Services, Surveys and Research, Media, Broadcast and Marketing, Publishing and Subscriptions, Business and Information Services, Electronics, computers, Software and AV, Sports and Sportswear, Gaming, Betting, Telecoms and Retail and Partners and Sponsors of Promotions, Events and Competitions.
+
+However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the GDPR and the Privacy and Electronic Communications Regulations 2003, updated 2004 and 2011 are respected.
+
+5.3. Behavioural Advertising – customer-relevant advertising
+
+We believe that advertising is more interesting to you when it is relevant. Accordingly, we may customise the advertisements that you see based upon:
+
+  * The Information you voluntarily provide to us
+  * Geographic location Information, which we may determine through your IP address, from your mobile device, or other ways
+  * Data we receive from third parties
+  * Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our Cookie Policy for further Information.
+  * Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our Cookie Policy. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our Cookie Policy for further Information.
+
+
+
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our Cookie Policy for more details of how to delete cookies.
+
+After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
+
+  
+
+
+### 6\. Can I find out what personal information Motorsport Network holds on me?
+
+Under GDPR you have the right to request a copy of the Information that we hold about you. It will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Motorsport Network, 1 Eton Street, Richmond, TW9 1EF. The statutory time for our response is 1 month but with your help in providing us with relevant Information we endeavour to respond sooner.
+
+If any of the Information that we hold about you is incorrect and you’d like it amended, please email [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) and we’ll review your request.
+
+If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on +44 01604 251 451who will update your details as soon as practically possible.
+
+  
+
+
+### 7\. How we disclose your information to third parties
+
+We may share your Information with third parties as specifically approved by you or under the circumstances described below and in this Policy.
+
+7.1. Disclosure for legal reasons
+
+We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging Information with other companies and organisations for fraud protection and credit risk reduction.
+
+We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organisations act as data processors and are strictly contractually controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.
+
+7.2. Promotions and Sponsors
+
+Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent, or with the terms published at the time your personal data is collected. We are not responsible for the privacy policy or practices of third parties.
+
+When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional Information about the specific privacy practices associated with the Promotion.
+
+7.3. Changes to our Company
+
+In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.
+
+7.4. Message Boards and Chats
+
+We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.
+
+  
+
+
+### 8\. Updating and control of your information
+
+There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences.
+
+8.1. Opting-Out on Receipt of Marketing Communications
+
+When you receive electronic marketing communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in e-mails covering any marketing communication from us.
+
+8.2. Contacting Us
+
+If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you [click here](mailto:datacontroller@motorsport.com?subject=Update%20Information).
+
+Please note that:
+
+  * Even if you delete Information, we may retain your Information in conformance with our data retention policy most specifically for legal and tax reasons and to honour your opt-out requests; and
+  * We do not keep Information longer than we deem necessary.
+  * We are not responsible for updating or removing your Information contained in the lists or databases of third parties who have previously been provided with Information as permitted by this Policy.
+
+  
+
+
+### 9\. Third party links and services
+
+Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the Information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
+
+  
+
+
+### 10\. Where we store your information
+
+The Information that we collect from you may be transferred to, stored and processed at a destination outside the European Economic Area, (all EU countries plus Norway, Iceland and Liechtenstein). Your Information may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers, for instance, for customer service purposes. By submitting Information to us, you agree to this transfer, storing or processing. We will take all reasonable steps necessary, including the use of the Model Contractual Arrangements as approved by the EU, or other contractual means to ensure that your Information is treated securely and in accordance with this Policy and the GDPR. We do not store credit card details nor do we share customer details with any 3rd parties.
+
+  
+
+
+### 11\. Security of your information
+
+We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal Information to comply with the same. However, unfortunately, the transmission of Information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the GDPR. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it.
+
+  
+
+
+### 12\. Reporting of security vulnerabilities
+
+Motorsport Network is committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would appreciate it if you could report it just to us in a responsible manner. Please email us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.
+
+  
+
+
+### 13\. Social Media
+
+13.1. Motorsport Network provides users with the ability to use their social media credentials to sign in to our website(s).
+
+When you create your Motorsport Network account, and authenticate via a third-party service like Twitter or Facebook, you grant permission to the social network to share your user details with us.
+
+Depending on the network this will include
+
+  * Basic account Information included in your public profile such as name and email address required to verify and facilitate your sign in
+  * Other Information that is publically available based upon the privacy settings you have with your social media account.
+  * Any other details you choose to share according to your specific account settings.
+
+
+
+We will be clear when we do request more than just basic account Information from you and request that you should also check what permissions we are asking for before you connect with these apps and services. We want to use this Information to better tailor any content we provide to you.
+
+Social sign-in may be provided by Motorsport Network or a third party
+
+13.2. Social networking sites, such as Facebook, Linked-In, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
+
+13.3. We do not control how your personal Information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the Information they may be sharing. If you do not want your networking sites to share Information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such Information. Motorsport Network is not responsible for how these third party sites may use Information collected from or about you.
+
+  
+
+
+### 14\. Anti-spam policy
+
+Motorsport Network provides exciting and thought-provoking content in our emails and aims to tailor them to the specific needs & interests of our brand audiences. We hope you enjoy receiving and reading them.
+
+Motorsport Network has zero tolerance concerning the sending of unsolicited/bulk commercial email - “spam”. In respect of this policy, please also refer to our full Terms & Conditions and Cookie Policy.
+
+14.1. Automated Spam Filtering: We automatically scan all incoming electronic messages and filter out those that appear to be spam. As no system can be 100% accurate in detecting genuine emails from spam, authentic messages may occasionally be filtered. If you believe this may have happened, please contact the recipient by another means.
+
+14.2. Unwanted messages from Motorsport Network: Any recipient of email communication from us may request, at any time, to unsubscribe. In the unlikely event you are in receipt of email communication from Motorsport Network which could be considered as spam, we encourage you to report it to us by forwarding a copy to us at: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com)
+
+We will fully investigate any reports of abuse.
+
+  
+
+
+### 15\. How to contact us
+
+If you have any questions regarding privacy or this Policy, you may contact us as follows:
+
+Data Protection Officer, Motorsport Network, 1 Eton Street, Richmond, TW9 1EF Email us: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com)
+
+  
+
+
+### Changes to this Policy
+
+We may amend/update this policy by publishing a new version on this web site at any time, so we encourage you to check back regularly to make sure that you are still happy with the terms under which we process your personal data.
+
+_17 May 2018_
