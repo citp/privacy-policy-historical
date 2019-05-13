@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airforums.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027231517id_/http%3A//www.airforums.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airforums.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513100108id_/http%3A//www.airforums.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Airstream Forums
 
