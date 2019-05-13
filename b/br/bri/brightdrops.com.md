@@ -1,39 +1,115 @@
-> *The following text is extracted and transformed from the brightdrops.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613125810id_/http%3A//brightdrops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightdrops.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513140044id_/https%3A//brightdrops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bright Drops
 
-BrightDrops (" **BrightDrops** ") operates BrightDrops.com and may operate other websites. It is BrightDrops policy to respect your privacy regarding any information we may collect while operating our websites.
+Bright Drops found at https://brightdrops.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-### Website Visitors
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-Like most website operators, BrightDrops collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. BrightDrops purpose in collecting non-personally identifying information is to better understand how BrightDrops visitors use its website. From time to time, BrightDrops may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-BrightDrops also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on BrightDrops.com blogs/sites. BrightDrops only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+**Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-### Gathering of Personally-Identifying Information
+**Information We Collect from Others:** We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-Certain visitors to BrightDrops websites choose to interact with BrightDrops in ways that require BrightDrops to gather personally-identifying information. The amount and type of information that BrightDrops gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [BrightDrops.com](http://brightdrops.com/) to provide a username and email address. Those who engage in transactions with BrightDrops are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BrightDrops collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with BrightDrops. BrightDrops does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+**Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-### Aggregated Statistics
+**Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-BrightDrops may collect statistics about the behavior of visitors to its websites. BrightDrops may display this information publicly or provide it to others. However, BrightDrops does not disclose personally-identifying information other than as described below.
+HOW YOUR INFORMATION MAY BE USED
 
-### Protection of Certain Personally-Identifying Information
+We may use the information collected in the following ways:
 
-BrightDrops discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on BrightDrops behalf or to provide services available at BrightDrops websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using BrightDrops websites, you consent to the transfer of such information to them. BrightDrops will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, BrightDrops discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when BrightDrops believes in good faith that disclosure is reasonably necessary to protect the property or rights of BrightDrops, third parties or the public at large. If you are a registered user of an BrightDrops website and have supplied your email address, BrightDrops may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with BrightDrops and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. BrightDrops takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+To operate and maintain the Website;  
+To create your account, identify you as a user of the Website, and customize the Website for your account;  
+To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;  
+To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;  
+To respond to your comments or inquiries;  
+To provide you with user support;  
+To track and measure advertising on the Website;  
+To protect, investigate, and deter against unauthorized or illegal activity.  
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-### Cookies
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. BrightDrops uses cookies to help BrightDrops identify and track visitors, their usage of BrightDrops website, and their website access preferences. BrightDrops visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using BrightDrops websites, with the drawback that certain features of BrightDrops websites may not function properly without the aid of cookies.
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-### Business Transfers
+The Website currently uses the following third-party service providers:
 
-If BrightDrops, or substantially all of its assets, were acquired, or in the unlikely event that BrightDrops goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of BrightDrops may continue to use your personal information as set forth in this policy.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-### Ads
+Convert Kit – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by BrightDrops and does not cover the use of cookies by any advertisers.
+[One Signal](https://onesignal.com/privacy_policy) – this service is used to send you push notifications through your web browser, should you choose. Please refer to One Signal’s privacy policy for further information.
 
-### Privacy Policy Changes
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-Although most changes are likely to be minor, BrightDrops may change its Privacy Policy from time to time, and in BrightDrops sole discretion. BrightDrops encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a BrightDrops.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+ANONYMOUS DATA
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+PUBLICLY VISIBLE INFORMATION
+
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.
+
+You may also choose to link your Facebook, Instagram, and Google Account.
+
+Users may see your username, avatar, profile description and website information.
+
+COOKIES
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+ADVERTISING
+
+**Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above. If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit http://www.networkadvertising.org/managing/opt_out.asp.
+
+**Retargeting Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+Facebook: Opt-out of Facebook remarketing [here](https://www.facebook.com/help/568137493302217)
+
+Google: Opt-out of Google remarketing [here](https://www.facebook.com/help/568137493302217)
+
+Affiliate Program Participation
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Bright Drops is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Amend – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to newsle[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for questions related to this Privacy Policy. 
+
+Last updated: May 2, 2019.
