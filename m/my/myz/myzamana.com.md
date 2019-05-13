@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715235633id_/https%3A//myzamana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513064300id_/https%3A//myzamana.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-Please read below to learn more about our Privacy Policy. Your use of the Website is subject to this Privacy Policy, as well as our [Terms of Service](https://web.archive.org/web/20170715235633id_/https%3A//myzamana.com/terms) and [Community Guidelines](https://web.archive.org/web/20170715235633id_/https%3A//myzamana.com/guidelines).
+Please read below to learn more about our Privacy Policy. Your use of the Website is subject to this Privacy Policy, as well as our [Terms of Service](https://web.archive.org/web/20190513064300id_/https%3A//myzamana.com/terms) and [Community Guidelines](https://web.archive.org/web/20190513064300id_/https%3A//myzamana.com/guidelines).
 
 #### Information We Collect and Use
 
@@ -22,7 +22,7 @@ We may use the information we collect from you in one or more of the following w
   * Allow you to properly use the Website, under the conditions specified in your Settings;
   * Send you communication about the Website, as well as our other products and services;
   * Provide you with advertisements tailored to your profile;
-  * Investigate fraud and infringements of our [Community Guidelines](https://web.archive.org/web/20170715235633id_/https%3A//myzamana.com/guidelines); and
+  * Investigate fraud and infringements of our [Community Guidelines](https://web.archive.org/web/20190513064300id_/https%3A//myzamana.com/guidelines); and
   * Improve customer service based on your feedback and experiences. 
 
 
