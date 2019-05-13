@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearhungry.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029085755id_/https%3A//www.gearhungry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearhungry.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513193644id_/https%3A//www.gearhungry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Gearhungry
 
@@ -33,8 +33,8 @@
   * **Your Rights:** If you are a resident of the European Economic Area (EEA), you have, in accordance with the EU GDPR, certain data protection rights with regard to personal information we hold about you in connection with the site. You have the right to access and control your information and where relevant withdraw your consent to further processing of personal data. You also have the right to correction and deletion of personal data where such data is, as the case may be, inaccurate, incomplete or outdated. You also have the right to object or restrict the processing of certain data if processing of that particular data is illegal or unlawful. You also have the right to permit the portability of transfer of your data to other service providers. ** **
   * **Data Security** : We care about security of your personally identifiable information. Gear Hungry has adopted technical and organizational measures to ensure that personal information submitted on the site is and secure. Our site uses Secure Socket Layer (SSL) encryption technology to protect personal data from unauthorized access, disclosure or acquisition. Nevertheless we do not guarantee that unauthorized third parties will not be able to defeat our security measures and accordingly we do not make any warranty of data security.
   * **Notice of breach** : In the event of personal data breach may result in a great risk to your rights and freedoms, we may as soon as practicable notify you of the breach and provide you with information explaining the nature of the breach, contact information of our data protection officer as well as the likely consequences of that breach.
-  * **Complains and Contact information** : If you have any questions regarding this privacy policy or our data collection and use practices, or need information on how to exercise any of your rights specified herein, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9cac6c7ddc8cadde9ceccc8dbc1dcc7cedbd087cac6c4)
-  * This Policy was last updated on 24th May, 2018
+  * **Complains and Contact information** : If you have any questions regarding this privacy policy or our data collection and use practices, or need information on how to exercise any of your rights specified herein, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f1c10110b1e1c0b3f181a1e0d170a11180d06511c1012)
+  * This Policy was last updated on 24th May, 2019
 
 
 
