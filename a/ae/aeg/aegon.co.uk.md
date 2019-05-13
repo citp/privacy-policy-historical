@@ -1,201 +1,269 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009090717id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513151003id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
 
 # Privacy, data protection and cookies
 
-### How we use your personal information
+### Protecting your personal information
 
-This privacy notice tells you what to expect when the Aegon UK group (we) collects personal information. This applies to:
+Here at Aegon, we’re committed to protecting and respecting your privacy. Looking after the personal information that we collect on our clients, planholders and their dependants/beneficiaries, investors, scheme members, trustees and so on is our top priority and we want you to be confident that your information is in safe hands. So, we’ve developed this Privacy Statement to let you know:
 
-  * Website and mobile portal 
-  * Plan holders
-  * Scheme members
-  * Employers
-  * Trustees
-  * Financial advisors
-  * Recruitment
+  * how and why we collect personal information;
+  * what we do with it;
+  * when and why we share it with other organisations, including the types of organisations involved;
+  * how long we’ll keep it for, and 
+  * the rights and choices you have with regards to your personal information.
 
 
 
-**Personal information we collect**
+Our data security policies mean that we hold all personal information securely and limit access to those who need to see it. We apply extra security to sensitive personal information, such as medical details, which are necessary to administer particular products, such as our Protection products.
 
-We collect information to provide better services to our customers.
+Details of the companies that are part of Aegon Group can be found [here.](https://www.aegon.com/en/Home/About/At-a-glance/)
 
-**Information you give us**
+The use of 'intermediary' throughout this privacy notice can mean either your adviser or your intermediary, as relevant to you.
 
-For example, we’ll ask for personal information to allow us to save your progress if you register to use Retiready. If you then decide to become a customer of Aegon UK, we’ll ask you for personal information to verify your identity.
+### Contact us
 
-**Information we get from your use of our services**
+If you have any questions about this notice or data protection, please contact our Data Protection Officer. 
 
-We may collect information about the tools that you use and how you use them when you visit a website or call our contact centre. This includes:
+**Data Protection Officer,**  
+Aegon, Edinburgh Park,  
+Lochside Crescent,  
+Edinburgh, EH12 9SE
 
-**Device information**
+Email: [dataprotection@aegon.co.uk](mailto:dataprotection@aegon.co.uk)
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers , and mobile network information including phone number). We may associate your device identifiers or phone number to your Aegon UK Account.
+### How and why we obtain personal information about you
 
-**Log information**
+You or someone representing you, for example, your intermediary or your employer, may give us information about you by completing forms (paper versions or through our website, including our online services or social media platforms) or by contacting us by phone, email or otherwise. This includes information you provide when you:
 
-When you use our services or view content provided by Aegon UK, we may automatically collect and store certain information in [server logs(Opens new window)](https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include:
+  * search for a product;
+  * submit an application electronically or otherwise;
+  * call us;
+  * take part in discussion boards or other forms of social media;
+  * enter a competition, promotion or survey, or
+  * when you report a problem with the website. 
 
-  * details of how you used our service, such as which tools you used
-  * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
-  * [Internet protocol address](https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip)
-  * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL
-  * cookies that may uniquely identify your browser
 
 
+Depending on the circumstances, the personal information we gather about you may include:
 
-**Personally-Identifiable Information**
+  * your name;
+  * address;
+  * date of birth;
+  * plan number;
+  * gender;
+  * email address;
+  * phone number;
+  * financial information;
+  * medical information, and 
+  * any further personal information required as part of a product application or which you share through the website.  
 
-We collect certain personally-identifiable information on our site, such as name, gender, telephone number and email address, about online visitors who choose to register on our Site or participate in our offers and programs. We don’t need you to register or provide personally-identifiable information to view our site or access much of its content. But if you register, you may use certain additional features like participating in our interactive communities. Sharing this additional information with us also helps us customise your website experience. In addition, we may use the information you provide us to send you offers and information about Retiready, Aegon UK portfolio of brands and its partners. Here are the ways we collect personally-identifiable information.
 
-**Registration**
 
-To take full advantage of our offers, you may choose to register on our site. In the registration process, we sometimes request certain information (such as your contact information and age) so we can provide you with the communications you request, tailor our Site to better meet your needs and customize our contacts with you.
+You can find additional information on the more common ways we collect personal information and why below:
 
-**Contests, competitions and promotions**
+**Application forms**  
 
-Our site contains notices of contests, competitions and games that you can enter. We use the information you provide to conduct the promotion for example, to contact you if you’re a winner.
+Personal information is collected through our application and enrolment process (for example through our paper application forms and online) to enable us to verify your identity, allow a plan to be set up or to assess any claims that are made. We’ll also use your personal information to provide ongoing administration of your plan, for example to collect and apply contributions to your plan, issue yearly statements and so on. We need this information to carry out our obligations and to provide you with the products and services under the terms of your contract with us. Without this we wouldn’t be able to provide you with a plan.    
 
-**E-mail**
+**Trust based schemes**
 
-When you ask us to send you updates, or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.
+Where you join your employer’s pension scheme with appointed scheme trustees, we'll obtain personal information about you from your employer or the nominated scheme trustees in order to administer the scheme on behalf of the trustees.  Data protection law allows us to obtain your personal data in this way because it is in our legitimate business interests to do so in order to fulfil the contract we have with the trustees of the pension scheme you have joined.
 
-**Contact us**
+**Phone calls  **
 
-If you contact us through the Contact us link on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information.
+We’ll ask you for some personal details to identify you when you call us and to allow us to confirm that you’re the owner or representative of the plan.  
 
-**Shopping**
+We’ll hold details of the call for audit and administration purposes and to enable us to facilitate the contract. The recording of the call will be kept for 16 years and in line with our retention policy so that we can meet our legal obligations when resolving complaints or legal disputes.      
 
-When you purchase products and services from Retiready, we request your billing information so we can fulfill your request. We use your billing information only to send you the products and services you ordered.
+**Information obtained automatically through your use of the website and our tools (including cookies)**
 
-**Other site features**
+This website uses cookies and similar technologies such as tags and pixels to distinguish you from other users of the website. This helps us provide you with a good experience when you browse the website and also helps us to improve the website.  
 
-We offer visitors to our Site various features for their enjoyment, which we change from time to time. We may ask you to submit certain personally-identifiable information, so we can provide you with these features.
+Where selected, our website will collect and use information such as:
 
-**Questionnaires and surveys**
+  * your name, address, National Insurance number, bank details and so on to enable us to set up an Aegon plan and collect payment(s);
+  * your existing savings and retirement goals, where you use our Retiready and myTarget score, goals and lifestyle planner tools; 
+  * your email address, password, security question and answer and phone number where you’ve selected to have digital access to view your plan. 
 
-We may ask our website visitors and purchasers to complete surveys and opinion polls to provide feedback on activities, attitudes and interests. These surveys help us understand the needs of our visitors and purchasers.
 
-**Information collected by automatic means**
 
-We may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain information about visitors to our site, use of our online services, and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our site, emails we send that you open, forward, or click through to our site.
+**Direct marketing**
 
-**Google Analytics Demographic and Interest Reporting**
+If you’ve given us your consent, we may use the information we’ve collected about you to send you marketing offers and news about our products and services using various channels such as mail, phone, email and SMS.  
 
-Aegon receives Demographic and Interest Reports from Google, which include aggregated, non-personally identifiable information about our website traffic regarding visitors’ age, gender, and interests. The reports let Aegon see how many of our users visit over a date range, and how their behaviour varies by attribute (e.g., male vs. female). Information regarding these reports is derived by Google from the DoubleClick third-party cookies. This information will not be used for any purpose other than those set out in this Statement. More information on the [DoubleClick cookie(Opens new window)](https://support.google.com/adsense/answer/2839090?hl=en-GB)
+We’ll ask for your consent when you apply for a plan with us through our application form or when you register online. You can remove your consent at any time by writing to or sending an email to our Data Protection Officer or updating your preferences on your Retiready Account.
 
-We don’t sell personal information or use your personal data for any purposes other than those outlined, unless you authorise it. The [Protecting Your Personal Information (PDF)(Opens new window)](https://www.aegon.co.uk/content/dam/ukpaw/documents/protecting-your-personal-information-uk.pdf) leaflet will give you more detail.
+We won’t sell your personal information to other organisations outside of the Aegon Group for a marketing purpose. 
 
-Aegon Investment Solutions Ltd and Scottish Equitable plc are subsidiary companies of Aegon UK plc. They and other Aegon UK plc subsidiary companies may send you marketing information. Please write to Brand and Marketing Media, Aegon, Edinburgh Park, Edinburgh, EH12 9SE if you don't want to receive this.
+**Competitions**
 
-If we collect medical data, we may use it to assess any claims you make under the plan, and we’ll hold it for as long as we're required to. We may pass it to re-assurers, private investigators, medical professionals and/or healthcare management companies (which would be used to arrange medicals).
+If you enter any competitions, we’ll capture some personal information about you. By supplying these details you’re giving us your consent to contact you to let you know if you’re the winner. Your information won’t be used for any other purpose and will be deleted once the winner has been announced, unless you’ve consented to receiving any marketing material from us.
 
-We may also use publicly available information during the claims validation process.
+**Market research and surveys**
 
-We have policies in place, which means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical details.
+We may use your personal information to contact you to carry out market research, to ask you to complete a survey or to request feedback on the products and services we provide to you (including for a short period of time after you are no longer a customer of Aegon).  Where we contact you for such purpose, you are under no obligation to participate.
 
-We’re legally obliged to make information available to regulatory bodies or authorities such as the Financial Conduct Authority or HM Revenue & Customs (HMRC). We may also have to disclose information to comply with money laundering laws and for other purposes, for example detecting crime.
+Data protection law allows us to contact you in this way because it is in our legitimate business interests to conduct such market research, surveys or feedback requests. Our business interests include our ability to:
 
-We’ll also share permitted relevant information with anyone acting on your behalf (for example a financial adviser) so they can fully carry out their role as agent.
+  * understand our customer needs; 
+  * assess and improve our services and products; 
+  * ensure that we are treating our customers fairly, and
+  * carry out research and analysis on our products and services.
 
-We may also disclose your information to third party organisations who process data on our behalf. This could include processing information outside the European Economic Area (EEA), for example the USA. However, where such processing takes place, appropriate controls are in place to ensure the protection of your information. Those third party organisations may process and store your personal information abroad and may have to disclose it to foreign authorities to help them in their fight against crime and terrorism
 
-We can receive individual planholders' and/or scheme members’ personal information from, and provide it to, employers, trustees and financial advisers, as long as we have the appropriate authority. For example, they can:
 
-  * request statement of benefits
-  * update our records as part of a monthly or yearly renewal of a scheme
-  * change their members’ personal information
-  * get valuations of policy or membership benefits
+Where we collect and use personal information for the above purposes, we only use the minimum data necessary to achieve the relevant purpose.
 
+**Publicly available information**
 
+We may collect and use information about you which has been made publicly available as part of our claims investigation and decision making process.
 
-**How we treat your personal data**
+**Testing purposes**
 
-We fully support and follow the principles of Data Protection, as set out in the Data Protection Act (‘the Act’). We make sure that our staff – and those acting on our behalf – obtain, use and disclose personal data lawfully and correctly. We don’t believe we can operate successfully otherwise. It’s also important in making sure everyone we deal with has confidence in us. This policy operates in all of our offices – both in the UK and overseas.
+We may use your personal information for the purposes of testing our IT systems. Data protection law permits us to use your data in this way because it is in our legitimate business interests to ensure the integrity and functionality of our IT systems however, if we do this, your personal information will be anonymous so that you can’t be identified.
 
-By using appropriate and consistent management and controls, we’ll:
+### Sharing your personal information  ** __**
 
-  * meet our legal obligations to specify what we’re using the personal information for in the Scottish Equitable plc Data Protection Notification particulars, which you can find on the Information Commissioner’s website at [www.ico.org.uk](http://www.ico.org.uk/)
-  * only collect and process information to the extent that we need it to operate or to comply with a legal requirement
-  * make sure the information is accurate and of high quality
-  * apply checks to determine how long the information is held for
-  * make sure that the people we hold information on can fully exercise their rights under the Act
-  * safeguard personal information by taking appropriate technical and organisational security measures
-  * make sure that personal data isn’t transferred outside the EEA without suitable safeguards or agreements are in place
+**Service providers   **
 
+We work with carefully selected service providers that carry out certain functions on our behalf. These include companies that help us with:
 
+  * technology services;
+  * outbound customer communication and scanning of correspondence;
+  * banking and payroll services;
+  * administration of our protection business, and
+  * tracing of customers who we’ve lost contact with. 
 
-**Your rights under the Data Protection Act** You have a number of rights under the Data Protection Act, including:
 
-  * the right to get copies of all the personal data that we hold on you, with only a few exceptions
-  * the right not to receive direct marketing, for example we may provide you with an opt in or opt-out mechanism depending on the requirements of the site’s Jurisdiction and the site. An opt-in mechanism will provide you the opportunity to positively indicate that you would like us to send you future communications and we will not send you any unless you have opted-in. An opt-out mechanism will provide you the opportunity to indicate that you do not want us to send you such further communications, and if you opt-out we will not send you any.
 
+We only share the appropriate level of personal information necessary to enable our suppliers to carry out their services and we require them to keep the information safe and protected at all times. Our suppliers must only act on our instructions and can’t use your personal information for their own purposes. 
 
+**Other organisations and third parties**
 
-Either way, opting-in or opting-out will be up to you and, in addition, if you do not want us to use your personal information for a particular purpose or disclose it to a third party, you may opt out at any time by contacting us as detailed below.
+It’s sometimes necessary to disclose your personal information or to add to it from other sources. These other sources may include past and present employers, the trustees or administrators of a trust or scheme, your intermediary or someone officially acting on your behalf or on behalf of your employer or the trustees (so long as the appropriate authority is in place), as well as those described below.
 
-Specific opt-outs may also be provided at the point of collection or along with the communications to you. Please note though, by opting-out, you may not be able to participate in certain activities on our websites.
+For example, if you’re an employee in a group personal pension or group stakeholder pension scheme, and your employer would like to change the intermediary looking after the scheme, we need to share information with the new intermediary. We’ll only do this if we receive written authorisation from your employer. If you have investments in a broker fund we’d let that broker know your contact details so they can send you statements.
 
-For Aegon UK customers, if you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.
+**Platform accounts set up through your employer**
 
-For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK
+If you have an account(s) set up through your employer, your scheme intermediary may ask us to provide  them with some information about you and your account(s).
 
-### Website and mobile portal
+This is the information given to us to set up and administer your account(s) with Aegon, together with a list of the investments you hold under your account(s) and their value. We’ll only share information where:
 
-Our online services are:
+  * we have an agreement with the scheme intermediary to do this;
+  * the scheme intermediary is providing additional service(s) that may be of benefit to you in relation to your account(s) with Aegon, and
+  * you haven’t opted out of this.
 
-Our website – [aegon.co.uk](http://aegon.co.uk/)  
-Our mobile portal – [retiready.com(Opens new window)](http://www.retiready.co.uk/)
 
-When you visit our website, our web server automatically records the name of your internet service provider, the website from which you visit us, the websites you actually visit and the date and length of your visit.
 
-We may use cookies to follow the preferences of our visitors and optimize our websites accordingly.
+Some examples of these additional services are:
 
-Additional personal data is only stored if volunteered by you, for example registration, email alerts and other site features.
+  * overall scheme design; 
+  * tailored pension planning for you, for example by reference to your age, contributions, fund value and retirement date;
+  * advice on pension areas which may be relevant to you such as the lifetime allowance or the annual allowance; 
+  * communications to you by the scheme intermediary about your account(s);
+  * bespoke financial services such as retirement seminars based on your age, contribution level, guidance and investment reviews, to make sure you’re still on target to meet your retirement goals.
 
-### Social media
 
-We use various social media networks, such as Twitter, LinkedIn, YouTube etc for more detail please see our [social media guidelines](https://www.aegon.co.uk/content/dam/ukpaw/documents/social-media-participation-guidelines.pdf)
 
-### Recruitment
+The scheme intermediary is the person who advises your employer. Employer is the person (including a company or other legal entity) that employs you and gives you initial access to your account(s). 
 
-We operate an online recruitment portal called iRecruitment through our website.
+This includes any subsequent person who employs you and who offers you access to the service we provide to you and your intermediary to manage your investments in your plan(s). This will continue if you leave this employer unless you tell us otherwise.
 
-Aegon UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process.
+**Financial Crime Prevention**
 
-We may use internet and social media searches to perform due diligence on candidates in the course of recruitment. Where we do so, we will comply with all applicable data protection, employment and equality legislation.
+We may disclose your information to credit, fraud and financial crime prevention agencies to enable us to verify your identity (including bank details) and make decisions regarding the ongoing administration of your plan. This will be undertaken during the application or enrolment process and on an ongoing basis. Our enquiries or searches may be recorded and these agencies may supply us with financial and/or other personal information.
 
-We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:
+To protect providers like ourselves and, ultimately, customers and customers’ payments against fraudulent claims and crimes such as money laundering, tax evasion and terrorist financing, we and other providers may use information exchange registers to share information. When we’re dealing with applications we may search these registers.
 
-  * permitted by law or by our regulator
-  * an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks
-  * you’ve given prior consent
-  * we need to share it with companies in the Aegon UK Group as part of the selection and application process
+If a claim is made under your plan, information about you (including details provided on the application and claim form) will be put on the registers so that other insurers can see them if necessary.
 
+If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud, money laundering, tax evasion and terrorist financing, for example, when:
 
+  * recovering debt, and
+  * checking details on proposals and claims for all types of insurance.
 
-We’ll keep your CV and the results of any screening processes for 3 months after the conclusion of the recruitment process. If your application is successful, we’ll keep the information and hold it during your employment.
 
-We will not hold your information any longer than we require to, but we may retain some information (for example relating to HMRC records) for up to 6 years following termination of employment. Our Data Protection Policy means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical data and results of criminal checks.
 
-You have the right to request a copy of the personal data we hold about you. If you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.
+Please contact the Data Protection Officer if you’d like to receive details of the agencies used by Aegon UK.
+
+We and other organisations may access and use the information recorded by credit, fraud, and financial crime agencies from other countries.
+
+**Sharing of special categories of personal information, for example medical information**
+
+If we request medical information from you or a medical practitioner who has cared for you or from other insurers, this will be sufficiently protected.  We may ask for information from other insurers or medical practitioners to check, clarify or expand answers you’ve given us for example, on a claim or application.
+
+So that we can administer your plan, we may need to give your information to others who are, in turn, providing us with information about you, such as reinsurers, medical practitioners, private investigators and healthcare management companies, and access to this type of information is restricted. 
+
+**Additional data sharing obligations**
+
+Other than the circumstances detailed above, we won’t disclose your personal information to any third parties, except:
+
+  * to the extent that we’re required to do so by law, by a government body, by regulatory bodies (such as the Financial Conduct Authority (FCA), Information Commissioner's Office (ICO), The Pensions Regulator), by a law enforcement agency, or for crime prevention purposes (including financial crime protection and credit risk reduction); 
+  * when protecting your interests or the interests of other individuals or for reasons of substantial public interest;
+  * in connection with any legal proceedings (including prospective legal proceedings); 
+  * in order to establish or defend our legal rights;  
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets, or 
+  * if we, or substantially all of our assets, are acquired by a third party, we may disclose your personal data to that third party in connection with the acquisition.
+
+
+
+With your consent, we would also share your information with the Financial or Pensions Ombudsmans or other appropriate persons if the need arises.
+
+### Personal information processed outside of the European Economic Area (EEA)
+
+The personal information that we collect may be transferred to, and stored at a destination outside the European Economic Area (EEA), in connection with the above purposes. 
+
+This could be to other companies within the Aegon Group or to service providers working on our behalf.  Where any such processing takes place, appropriate controls, such as the adoption of agreements containing the appropriate standard clauses, are in place to ensure that your information is protected to the same standard as if it were in the UK.  
+
+### Retention of personal information
+
+In most circumstances, we’ll keep your personal information for the lifetime of your plan or product and up to 16 years after your relationship with us ends, for example, if you move your plan to another provider or you settle your benefits. This is to ensure that we comply with our retention obligations, as set out by the Financial Conduct Authority (FCA) and other regulatory and legislative requirements.   
+
+In very limited circumstances, we’re required to keep some specific information for longer, for example, pension transfer information, but we regularly review our retention obligations to ensure we don’t keep personal information longer that we’re legally obliged to.  
+
+### Your rights
+
+You have a number of rights under the Data Protection laws, including: 
+
+  * the right to request a copy of the personal information we hold on you.  When you request this information, this is known as making a Subject Access Request (SAR). In most cases, this will be free of charge, however in some limited circumstances, for example, repeated requests for further copies, we may apply an administration fee;    
+  * the right to have personal information we hold about you transferred securely to another service provider in electronic form; 
+  * the right to have any inaccurate personal information corrected;
+  * the right to have any out of date personal information deleted once there’s no business need or legal requirement for us to hold it; 
+  * the right to object or restrict some processing, in limited circumstances and only when we don’t have legitimate grounds for processing your personal information; 
+  * the right to object to your personal information being used to send you marketing material.  As mentioned above, we’ll only send you marketing material where you’ve given us your consent to do so.  You can remove your consent at any time, and
+  * the right to ask for a decision to be made manually, where a decision is made using automated means and this adversely impacts you.
+
+
+
+To exercise any of these rights, please contact our Data Protection Officer.  
+
+### Making a complaint
+
+If you believe we haven’t processed your personal information in accordance with our Data Protection obligations, and that you’ve been affected by our non-compliance, you can make a complaint to us by contacting our Data Protection Officer. You also have the right to ask us to escalate your complaint to our Group Data Protection Officer if you don’t think it’s been handled appropriately.  
+
+If you’re not satisfied with our response, you can raise a complaint with the [Information Commissioner’s Office(Opens new window)(Opens new window)(Opens new window)(Opens new window)(Opens new window)(Opens new window)(Opens new window)](https://ico.org.uk/global/contact-us/), the UK’s independent authority set up to enforce the Data Protection Regulations. You can contact them by visiting [ico.org.uk/global/contact-us/(Opens new window)](https://ico.org.uk/global/contact-us/)
+
+### Automated decision-making tools
+
+Where you apply for one of our protection products, for example critical illness, we’ll use an automated decision-making tool during the underwriting process. We’ve built rules into our underwriting engine which will either generate an automated decision or refer to one of our underwriters. We can manually review decisions if requested.  
 
 ### Security
 
 We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
 
-There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/support/search-results.html?searchInput=security&selectArea=%2Fcontent%2Fukpaw%2Fsupport%2Ffaq).
+There are a few simple steps you can take to protect your computer and internet connection – [view our tips here(Opens new window)](http://www.cyberaware.gov.uk/).
 
 We’ve put security policies, rules and technical measures in place to protect the personal data that we have under our control from:
 
-  * unauthorised access
-  * improper use or disclosure
-  * unauthorised modification
-  * unlawful destruction or accidental loss
+  * unauthorised access;
+  * improper use or disclosure;
+  * unauthorised modification, and
+  * unlawful destruction or accidental loss.
 
 
 
-All our employees and data processors who have access to, and are associated with, handling our visitors’ personal data are obliged to respect its confidentiality.
+All our employees and service providers who have access to personal information, are obliged to protect it and keep it confidential.
 
 ### Links
 
@@ -203,4 +271,4 @@ This website may contain links to other websites. If you use the links to leave 
 
 Changes to this privacy statement
 
-We keep our privacy notice under regular review. This privacy statement was last updated on 1 April 2015.
+We keep our privacy notice under regular review. This privacy statement was last updated on 7 January 2019.
