@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seikishi.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301195956id_/http%3A//ww43.seikishi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seikishi.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513052731id_/http%3A//ww43.seikishi.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
