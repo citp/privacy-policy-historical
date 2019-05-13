@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theoutbound.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030759id_/https%3A//www.theoutbound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutbound.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513053036id_/https%3A//www.theoutbound.com/privacy) for the most accurate reproduction.*
 
-# The Outbound Collective - Find adventures around the world
+# The Outbound Collective - Adventures Start Here
 
 Thank you for using The Outbound. We are committed to providing you with the best experience possible. Please reference our [**Privacy Policy**](https://web.archive.org/privacy) and [**Terms of Use**](https://web.archive.org/terms) to learn more. We welcome questions, concerns, and feedback about this policy at: [**support@theoutbound.com**](mailto:support@theoutbound.com).
 
