@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213214006id_/https%3A//www.quest-global.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest-global.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513223435id_/https%3A//www.quest-global.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | QuEST Global
+# Privacy Policy
 
 _Introduction_
 
