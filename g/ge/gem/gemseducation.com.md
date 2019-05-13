@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217105334id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemseducation.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513131054id_/http%3A//www.gemseducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GEMS Education
 
@@ -57,7 +57,7 @@ We use the Information held about you in the following ways:
 
 Yes if…
 
-You specifically request this, such as when you submit information to enquire about jobs or submit a job application through the [GEMS Education Careers page](http://www.gemseducation.com/organisation/careers/ "Search for Careers with GEMS Education") for current or future roles
+You specifically request this, such as when you submit information to enquire about jobs or submit a job application through the [GEMS Education Careers page](https://www.gemseducation.com/organisation/careers/ "Search for Careers with GEMS Education") for current or future roles
 
 We are required to do so to comply with the law or with direction from the courts or other authorities.
 
@@ -129,7 +129,7 @@ Dubai, UAE
 
 **Cookies for Measuring Web Traffic**
 
-The Site uses cookies of a kind commonly referred to as "analytics cookies". We generally use the tool from Google called Google analytics which helps us to understand how many people visit our Site, how often people return to the site, how long they stay, and where on gemseducation.com they tend to go. We use this to try to work out what kind of experience you're having on the site, so we can make it better. These cookies do not allow us to identify you personally. If you would like to read [Google’s privacy policy please click here.](http://www.google.com/policies/privacy/ "Google Privacy Policy")
+The Site uses cookies of a kind commonly referred to as "analytics cookies". We generally use the tool from Google called Google analytics which helps us to understand how many people visit our Site, how often people return to the site, how long they stay, and where on gemseducation.com they tend to go. We use this to try to work out what kind of experience you're having on the site, so we can make it better. These cookies do not allow us to identify you personally. If you would like to read [Google’s privacy policy please click here.](https://www.google.com/policies/privacy/ "Google Privacy Policy")
 
 **Cookies from Social Networks**
 
@@ -137,13 +137,13 @@ Because GEMS Education and GEMS Schools and education initiatives are active on 
 
 When we include these social 'plugins', it gives those sites the flexibility to use cookies. If you haven’t visited these sites, no cookies will be added.
 
-For more information about how Facebook uses cookies, please see their support site [http://www.facebook.com/help/445588775451827](http://www.facebook.com/help/445588775451827. "Facebook Cookies")
+For more information about how Facebook uses cookies, please see their support site [http://www.facebook.com/help/445588775451827](https://www.facebook.com/help/445588775451827. "Facebook Cookies")
 
 You can read more about how Twitter users cookies in their privacy policy <https://twitter.com/privacy>
 
-For more information about ’Add This’, see their privacy policy <http://www.addthis.com/privacy/privacy-policy#.UjdI8cakr6M>
+For more information about ’Add This’, see their privacy policy [http://www.addthis.com/privacy/privacy-policy#.UjdI8cakr6M](https://www.addthis.com/privacy/privacy-policy#.UjdI8cakr6M "Add This Privacy Policy")
 
-For more information about the Google +1 button, see their privacy policy <http://www.google.com/intl/en_uk/+/policy/+1button.html>
+For more information about the Google +1 button, see their privacy policy [http://www.google.com/intl/en_uk/+/policy/+1button.html](https://www.google.com/intl/en_uk/+/policy/+1button.html "Google Plus Privacy Policy")
 
 **Cookies for Content**
 
@@ -155,7 +155,7 @@ For more information about YouTube privacy policy <https://www.youtube.com/user/
 
 Whether the Site is able to set cookies depends on a setting in your web browser. By visiting the Site with cookies enabled, you consent to our use of cookies. If you wish to disable cookies, you can find instructions on how to do so for various popular web browsers by following the links below:
 
-<http://support.apple.com/kb/PH11913>
+[http://support.apple.com/kb/PH11913](https://support.apple.com/kb/PH11913 "Safari Privacy Policy")
 
 If you use a different web browser, please contact the browser maker for instructions on disabling cookies. Please note that, if you disable cookies in your browser, some aspects of the Site, and of other websites, may stop working.
 
