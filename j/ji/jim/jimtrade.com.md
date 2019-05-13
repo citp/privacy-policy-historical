@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511064811id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513062746id_/https%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | JimTrade.com - India's Largest Online Business Directory
 
