@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenamite.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107142942id_/http%3A//www.teenamite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenamite.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513095858id_/http%3A//teenamite.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** teenamite.com
 
