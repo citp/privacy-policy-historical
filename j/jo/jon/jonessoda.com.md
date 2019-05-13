@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826044721id_/http%3A//jonessodatest.myshopify.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonessoda.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513125000id_/http%3A//jonessodatest.myshopify.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jones Soda Co.
 
