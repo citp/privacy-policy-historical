@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the marutisuzukitruevalue.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104165849id_/https%3A//www.marutisuzukitruevalue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutisuzukitruevalue.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513143637id_/https%3A//www.marutisuzukitruevalue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Maruti True Value
+# Privacy Policy | Maruti Suzuki True Value
+
+  1. [Home](https://web.archive.org/web/20190513143637id_/https%3A//)
+  2. Privacy Policy | Maruti Suzuki True Value
+
+
 
 ## Maruti Statement of Privacy
 
