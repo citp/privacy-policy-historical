@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210101352id_/http%3A//www.endemolshine.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513095837id_/http%3A//www.endemolshine.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Endemol Shine Australia
 
