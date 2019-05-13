@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenimax.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_privacy) for the most accurate reproduction.*
 
 # ZeniMax Media Inc
 
 [Terms of Service
 
-](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_terms)
+](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_terms)
 
 [Privacy Policy
 
-](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_privacy)
+](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_privacy)
 
 [Legal Information
 
-](https://web.archive.org/web/20181203062114id_/https%3A//www.zenimax.com/legal_information)
+](https://web.archive.org/web/20190513111202id_/https%3A//www.zenimax.com/legal_information)
 
 [ ](https://www.esrb.org/confirm/zenimax-confirmation.aspx "ESRB PRIVACY CERTIFIED MEMBER CONFIRMATION")
 
