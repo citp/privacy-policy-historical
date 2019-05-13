@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wpp.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231094658id_/https%3A//www.wpp.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wpp.com privacy policy that was archived on 2019-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190513060846id_/https%3A//www.wpp.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js" prefix="og: http://ogp.me/ns#"><head>
     
@@ -10,7 +10,7 @@
 
 <meta name="description" content="We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information. ">
 <meta name="keywords" content="privacy policy, wpp, wpp plc, internet privacy, data, responsibility">
-<meta property="og:title" content="Internet Privacy Policy | WPP"><meta property="og:description" content="We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information. "><meta property="og:url" content="https://www.wpp.com/Privacy-policy">
+<meta property="og:title" content="Internet Privacy Policy | WPP"><meta property="og:description" content="We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information. "><meta property="og:url" content="https://www.wpp.com/privacy-policy/">
 <meta name="twitter:title" content="Internet Privacy Policy | WPP"><meta name="twitter:description" content="We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information. ">
 
     <script>
@@ -18,7 +18,7 @@
             H.className = H.className.replace(/\bno-js\b/, 'js');
         })(document.documentElement)
     </script>
-    <link href="/assets/css/build/style.min.css?modified=20181213015500" media="all" rel="stylesheet" type="text/css">
+    <link href="/assets/css/build/style.min.css?modified=20190304050000" media="all" rel="stylesheet" type="text/css">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
@@ -31,8 +31,105 @@
     <meta name="theme-color" content="#ffffff">
 
     
-    
-<meta name="VIcurrentDateTime" content="636818464190723441">
+<meta name="google-site-verification" content="VdTvWRb2qKcCptn2hh9fou-32DlxJlSUsJR15kimC5o">
+<style>.landing-header--contact a {color:white!important}</style>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-376521-1"></script>
+<script>
+function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+var analytics = getCookie("analytics-cookies");
+
+if (analytics === "yes") {
+	//ga
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments)
+		}, i[r].l = 1 * new Date(); a = s.createElement(o),
+		m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+	ga('create', 'UA-376521-1', 'auto');
+	ga('send', 'pageview');
+	
+	//tag manager
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-376521-1');
+} 
+
+//ga_clicks.js
+if (typeof jQuery != 'undefined') {
+    jQuery(document).ready(function ($) {
+        var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+
+        jQuery('a').on('click', function (event) {
+            var el = jQuery(this);
+            var track = true;
+            var href = (typeof (el.attr('href')) != 'undefined') ? el.attr('href') : "";
+            var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+            if (!href.match(/^javascript:/i)) {
+                var elEv = []; elEv.value = 0, elEv.non_i = false;
+                if (href.match(/^mailto\:/i)) {
+                    elEv.category = "email";
+                    elEv.action = "click";
+                    elEv.label = href.replace(/^mailto\:/i, '');
+                    elEv.loc = href;
+                }
+                else if (href.match(filetypes)) {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    elEv.category = "download";
+                    elEv.action = "click-" + extension[0];
+                    elEv.label = href.replace(/ /g, "-");
+                    elEv.loc = baseHref + href;
+                }
+                else if (href.match(/^https?\:/i) && !isThisDomain) {
+                    elEv.category = "external";
+                    elEv.action = "click";
+                    elEv.label = href.replace(/^https?\:\/\//i, '');
+                    elEv.non_i = true;
+                    elEv.loc = href;
+                }
+                else if (href.match(/^tel\:/i)) {
+                    elEv.category = "telephone";
+                    elEv.action = "click";
+                    elEv.label = href.replace(/^tel\:/i, '');
+                    elEv.loc = href;
+                }
+                else track = false;
+
+                if (track) {
+                    //ga.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
+                  
+                    ga('send', 'event', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i);
+
+                    if (el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function () { location.href = elEv.loc; }, 400);
+                        return false;
+                    }
+                }
+            }
+        });
+    });
+} 
+</script>    
+<meta name="VIcurrentDateTime" content="636933245271435265">
 <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
 
 </head>
@@ -103,12 +200,6 @@
                                 <li class="sub-menu__list-item">
                                     <a href="/about/our-history" target="" class="sub-menu__link  ">Our history</a>
                                 </li>
-                                <li class="sub-menu__list-item">
-                                    <a href="/about/how-we-buy" target="" class="sub-menu__link  ">How we buy</a>
-                                </li>
-                                <li class="sub-menu__list-item">
-                                    <a href="/about/corporate-governance" target="" class="sub-menu__link  ">Corporate governance</a>
-                                </li>
                         </ul>
                     </div>
                         <div class="sub-menu-hotspots">
@@ -119,9 +210,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/featured/work/superunion-and-landor---wpps-radical-evolution" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp_mega_nav_brand-.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP_brand">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Superunion and Landor: WPP’s radical evolution</h2>
+        <a href="/featured/work/isl---the-lyft-luck-machine" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-0419-featured-lyft-luck-machine-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP 0419 Featured Lyft-Luck-Machine-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">ISL: The Lyft Luck Machine</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             
@@ -130,9 +221,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/featured/work/david-the-agency---whopper-neutrality" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-burger-king-whopper-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Burger-King-Whopper-300x169">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">DAVID The Agency: Whopper neutrality</h2>
+        <a href="/featured/work/wunderman-thompson---mac-cosmetics-interactive-experience-centre" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-featured-0419-mac-experience-centre-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP Featured 0419 MAC-Experience-Centre-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Wunderman Thompson: MAC Experience Centre</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             
@@ -163,23 +254,23 @@
                                     <a href="/investors/share-price" target="" class="sub-menu__link  ">Share price</a>
                                 </li>
                                 <li class="sub-menu__list-item">
-                                    <a href="/investors/results-presentations-and-reports" target="" class="sub-menu__link  ">Results presentations and reports</a>
+                                    <a href="/investors/results-presentations-and-reports" target="" class="sub-menu__link  ">Results, presentations and reports</a>
                                 </li>
                                 <li class="sub-menu__list-item">
-                                    <a href="/investors/share-owner-centre" target="" class="sub-menu__link  sub-menu__link--next js-main-nav__link--next">Share owner centre</a>
+                                    <a href="/investors/shareholder-centre" target="" class="sub-menu__link  sub-menu__link--next js-main-nav__link--next">Shareholder centre</a>
                                         <div class="sub-menu sub-menu--level2">
                                             <ul class="sub-menu__list">
                                                 <li class="sub-menu__list-item sub-menu__list-item--top">
                                                     <a href="/investors" target="" class="sub-menu__link sub-menu__link--top js-sub-menu__link--top">Investors</a>
                                                 </li>
                                                 <li class="sub-menu__list-item sub-menu__list-item--back">
-                                                    <a href="/investors/share-owner-centre" target="" class="sub-menu__link sub-menu__link--back js-sub-menu__link--back">SHARE OWNER CENTRE</a>
+                                                    <a href="/investors/shareholder-centre" target="" class="sub-menu__link sub-menu__link--back js-sub-menu__link--back">SHAREHOLDER CENTRE</a>
                                                 </li>
                                                 <li class="sub-menu__list-item sub-menu__list-item sub-menu__list-item--overview">
-                                                    <a href="/investors/share-owner-centre" target="" class="sub-menu__link">Share owner centre home</a>
+                                                    <a href="/investors/shareholder-centre" target="" class="sub-menu__link">Shareholder centre home</a>
                                                 </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/share-owner-meetings" target="" class="sub-menu__link  sub-menu__link--next js-main-nav__link--next">Share owner meetings</a>
+                                                        <a href="/investors/shareholder-centre/shareholder-meetings" target="" class="sub-menu__link  sub-menu__link--next js-main-nav__link--next">Shareholder meetings</a>
                                                             <div class="sub-menu sub-menu--level2">
                                                                 <ul class="sub-menu__list">
                                                                     <li class="sub-menu__list-item sub-menu__list-item--top">
@@ -188,47 +279,47 @@
 
 
                                                                     <li class="sub-menu__list-item sub-menu__list-item--back">
-                                                                        <a href="/investors/share-owner-centre/share-owner-meetings" target="" class="sub-menu__link sub-menu__link--back js-sub-menu__link--back">SHARE OWNER MEETINGS</a>
+                                                                        <a href="/investors/shareholder-centre/shareholder-meetings" target="" class="sub-menu__link sub-menu__link--back js-sub-menu__link--back">SHAREHOLDER MEETINGS</a>
                                                                     </li>
                                                                     <li class="sub-menu__list-item sub-menu__list-item sub-menu__list-item--overview">
-                                                                        <a href="/investors/share-owner-centre/share-owner-meetings" target="" class="sub-menu__link">Share owner meetings home</a>
+                                                                        <a href="/investors/shareholder-centre/shareholder-meetings" target="" class="sub-menu__link">Shareholder meetings home</a>
                                                                     </li>
                                                                         <li class="sub-menu__list-item">
-                                                                            <a href="/investors/share-owner-centre/share-owner-meetings/wpp-agm-2018" target="" class="sub-menu__link ">WPP Annual General Meeting 2018</a>
+                                                                            <a href="/investors/shareholder-centre/shareholder-meetings/wpp-agm-2019" target="" class="sub-menu__link ">WPP Annual General Meeting 2019</a>
                                                                         </li>
                                                                         <li class="sub-menu__list-item">
-                                                                            <a href="/investors/share-owner-centre/share-owner-meetings/historical-agms" target="" class="sub-menu__link ">Historical AGMs</a>
+                                                                            <a href="/investors/shareholder-centre/shareholder-meetings/historical-agms" target="" class="sub-menu__link ">Historical AGMs</a>
                                                                         </li>
                                                                 </ul>
                                                             </div>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/dividends" target="" class="sub-menu__link  ">Dividends</a>
+                                                        <a href="/investors/shareholder-centre/dividends" target="" class="sub-menu__link  ">Dividends</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/credit-ratings" target="" class="sub-menu__link  ">Credit ratings</a>
+                                                        <a href="/investors/shareholder-centre/credit-ratings" target="" class="sub-menu__link  ">Credit ratings</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/share-ownership" target="" class="sub-menu__link  ">Share ownership</a>
+                                                        <a href="/investors/shareholder-centre/share-ownership" target="" class="sub-menu__link  ">Share ownership</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/research-coverage" target="" class="sub-menu__link  ">Research coverage</a>
+                                                        <a href="/investors/shareholder-centre/research-coverage" target="" class="sub-menu__link  ">Research coverage</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/sec-filings" target="" class="sub-menu__link  ">SEC filings</a>
+                                                        <a href="/investors/shareholder-centre/sec-filings" target="" class="sub-menu__link  ">SEC filings</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/stabilisation-at-fca" target="" class="sub-menu__link  ">Stabilisation at FCA</a>
+                                                        <a href="/investors/shareholder-centre/stabilisation-at-fca" target="" class="sub-menu__link  ">Stabilisation at FCA</a>
 
                                                     </li>
                                                     <li class="sub-menu__list-item">
-                                                        <a href="/investors/share-owner-centre/faqs" target="" class="sub-menu__link  ">Share owner FAQs</a>
+                                                        <a href="/investors/shareholder-centre/faqs" target="" class="sub-menu__link  ">Share owner FAQs</a>
 
                                                     </li>
                                             </ul>
@@ -255,6 +346,9 @@
                                         </div>
                                 </li>
                                 <li class="sub-menu__list-item">
+                                    <a href="/investors/corporate-governance" target="" class="sub-menu__link  ">Corporate governance</a>
+                                </li>
+                                <li class="sub-menu__list-item">
                                     <a href="/Contacts#tab-0" target="" class="sub-menu__link  ">Investor contacts</a>
                                 </li>
                         </ul>
@@ -267,9 +361,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/news/2018/12/wpp-presents-strategy-for-growth" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/wpp-interim-results-2018-menu.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP Interim Results 2018">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">WPP presents strategy for growth</h2>
+        <a href="/investors/annual-report-2018" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/annual-report-2018/annual-report-2019--300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="Annual Report 2019 -300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Annual Report 2018</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             &nbsp;
@@ -283,13 +377,13 @@
     </p>
     <div class="sub-menu-hotspots__share-price">
         <p class="sub-menu-hotspots__stock-exchange">LSE</p>
-        <p class="sub-menu-hotspots__share-value">855.00p</p>
-        <p class="sub-menu-hotspots__share-change">+2.00</p>
+        <p class="sub-menu-hotspots__share-value">962.60p</p>
+        <p class="sub-menu-hotspots__share-change">+2.80</p>
     </div>
     <div class="sub-menu-hotspots__share-price">
         <p class="sub-menu-hotspots__stock-exchange">NYSE</p>
-        <p class="sub-menu-hotspots__share-value">$54.27</p>
-        <p class="sub-menu-hotspots__share-change">+0.97</p>
+        <p class="sub-menu-hotspots__share-value">$63.28</p>
+        <p class="sub-menu-hotspots__share-change">+0.47</p>
     </div>
     <p class="sub-menu-hotspots__share-delay">Data is delayed by 15 minutes</p>
 </div>                        </div>
@@ -308,10 +402,7 @@
                                 <a href="/sustainability" class="sub-menu__link">Sustainability home</a>
                             </li>
                                 <li class="sub-menu__list-item">
-                                    <a href="/sustainability/why-sustainability-matters" target="" class="sub-menu__link  ">Why sustainability matters</a>
-                                </li>
-                                <li class="sub-menu__list-item">
-                                    <a href="/sustainability/our-priorities" target="" class="sub-menu__link  ">Our priorities</a>
+                                    <a href="/sustainability/sustainability-and-our-strategy" target="" class="sub-menu__link  ">Sustainability and our strategy</a>
                                 </li>
                                 <li class="sub-menu__list-item">
                                     <a href="/sustainability/sustainability-in-action" target="" class="sub-menu__link  ">Sustainability in action</a>
@@ -332,15 +423,15 @@
                     </div>
                         <div class="sub-menu-hotspots">
                             <p class="tag">
-                                <strong>Reports</strong>
+                                <strong>Resources</strong>
                             </p>
 
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="http://sites.wpp.com/sustainabilityreports/2017/" class="sub-menu-hotspots__link" target="_blank">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp_1218_cocacola_love_story.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP_1218_CocaCola_Love_story">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Sustainability Report 2017/18</h2>
+        <a href="/sustainability/sustainability-report-2018" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/sustainability/wpp-sustainability-report-2018-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Sustainability-Report-2018-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Sustainability Report 2018</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             &nbsp;
@@ -349,9 +440,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="http://sites.wpp.com/probono/2017/" class="sub-menu-hotspots__link" target="_blank">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-1218-probono.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-1218-Probono">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Pro bono work 2017</h2>
+        <a href="/sustainability/sustainability-in-action" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/sustainability/wpp-sustainability-in-action-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Sustainability-in-action-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Sustainability in action</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             &nbsp;
@@ -391,9 +482,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/news/2018/11/wpp-forms-new-creative-data-and-technology-agency-wunderman-thompson" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/news/wpp-1118-wunderman-jwt-300x169/wpp-1118-wunderman-jwt-300x169_1.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="People on a sofa">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">WPP forms new creative, data and technology agency Wunderman Thompson</h2>
+        <a href="/news/2019/04/wpp-named-worlds-most-effective-communications-company--for-the-eighth-successive-year" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/press-releases/wpp-effie-award-2019-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Effie-Award-2019-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">WPP named world’s most effective communications company</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             
@@ -402,9 +493,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/news/2018/11/wpp-agencies-help-sir-david-attenborough-become-the-voice-of-millions-at-critical-un-climate-talks" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/news/wpp-david-attenborough-300x169/wpp-david-attenborough-300x169_1.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="Sir David Attenbrough">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">WPP agencies help Sir David Attenborough become the voice of millions at UN climate talks</h2>
+        <a href="/news/2019/04/wpp-opens-new-campus-in-amsterdam" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/news/wpp-0419-amsterdam-wpp-campus-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="Sir David Attenbrough">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">WPP opens new campus in Amsterdam</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             
@@ -467,9 +558,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="http://sites.wpp.com/sustainabilityreports/2017/our-people/" class="sub-menu-hotspots__link" target="_blank">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-sustainability-mega-nav.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-sustainability-mega-nav">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Sustainability Report 2017/18 – Our people</h2>
+        <a href="/sustainability/sustainability-report-2018" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/sustainability/wpp-sustainability-report-2018-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Sustainability-Report-2018-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Sustainability Report 2018</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             &nbsp;
@@ -478,11 +569,11 @@
 
 
     <div class="sub-menu-hotspots__col">
-        <a href="/-/media/project/wpp/files/sustainability/wpp-uk-gender-pay-gap-report.pdf" class="sub-menu-hotspots__link">
-            <img src="/-/media/project/wpp/images/gender-details-v2.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="UK Gender Pay Gap Report">
+        <a href="/-/media/project/wpp/files/sustainability/wpp-uk-gender-pay-gap-report-2018.pdf" class="sub-menu-hotspots__link">
+            <img src="/-/media/project/wpp/images/careers/wpp-gender-pay-gap-report-2018.png?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-Gender-Pay-Gap-Report-2018">
         </a>
-        <a class="link-download sub-menu-hotspots__link-download" href="/-/media/project/wpp/files/sustainability/wpp-uk-gender-pay-gap-report.pdf" style="color: #000000">
-            Gender Pay Gap Report <em class="sub-menu-hotspots__download-size">PDF 1.6MB</em>
+        <a class="link-download sub-menu-hotspots__link-download" href="/-/media/project/wpp/files/sustainability/wpp-uk-gender-pay-gap-report-2018.pdf" style="color: #000000">
+            UK Gender Pay Gap Report 2018 <em class="sub-menu-hotspots__download-size">PDF 1.2MB</em>
         </a>
     </div>
                         </div>
@@ -512,6 +603,9 @@
                                 <li class="sub-menu__list-item">
                                     <a href="/featured/technology-and-innovation" target="" class="sub-menu__link  ">Technology and innovation</a>
                                 </li>
+                                <li class="sub-menu__list-item">
+                                    <a href="" target="" class="sub-menu__link  "></a>
+                                </li>
                         </ul>
                     </div>
                         <div class="sub-menu-hotspots">
@@ -522,9 +616,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/featured/trends-and-insights/centennials-at-21" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/centennials.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="Centennials">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Centennials at 21</h2>
+        <a href="/featured/trends-and-insights/the-leaders-report" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-featured-0419-leaders-report-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP Featured 0419 Leaders-Report-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">The Leaders’ Report</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             
@@ -533,9 +627,9 @@
 
 
     <article class="sub-menu-hotspots__col">
-        <a href="/featured/work/superunion-and-landor---wpps-radical-evolution" class="sub-menu-hotspots__link" target="">
-                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp_mega_nav_brand-.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP_brand">
-                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">Superunion and Landor: WPP’s radical evolution</h2>
+        <a href="/featured/diversity-and-inclusion/in-conversation-karen-blackett-obe-and-ann-wixley" class="sub-menu-hotspots__link" target="">
+                <img src="/-/media/project/wpp/images/featured/mega-nav/wpp-0419-in-conversation-karen-blackett-obe-and-ann-wixley-300x169.jpg?width=300&amp;height=169" class="sub-menu-hotspots__hotspot-img" alt="WPP-0419-In-conversation-Karen-Blackett-OBE-and-Ann-Wixley-300x169">
+                            <h2 class="sub-menu-hotspots__article-heading" style="color: #000000">In conversation: Karen Blackett OBE and Ann Wixley</h2>
         </a>
         <div class="sub-menu-hotspots__address">
             &nbsp;
@@ -940,7 +1034,7 @@ The Chief Privacy Officer is Vicky Brown. Please send any enquiries by email to 
     </div>
 </div>
 
-<div id="cookie-bar">
+<div id="cookie-bar" style="display: block;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-9 col-lg-10">
@@ -1075,7 +1169,7 @@ The Chief Privacy Officer is Vicky Brown. Please send any enquiries by email to 
                         </li>
                 </ul>
 
-                <p>© WPP plc 1999-2018</p>
+                <p>© WPP plc 1999-2019</p>
             </div>
 
 
