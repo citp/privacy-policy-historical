@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222002833id_/https%3A//www.thedoctorstv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513081559id_/https%3A//www.thedoctorstv.com/privacy-policy) for the most accurate reproduction.*
 
 # The Doctors Privacy Policy | The Doctors TV Show
 
@@ -59,7 +59,7 @@ Note that we may de-identify personal information we have received, turning it i
   * ****Areas of the Web Site with which you interact, advertisements you view, and links you click on within the Web Site;****
   * ****Your Internet Protocol (IP) address, which is a number automatically assigned to your device whenever you access the Internet, or another unique identifier for the device you use to access the Web Site (e.g. Apple’s Identifier for Advertising (IDFA) or Google’s Android Advertising ID (AAID)).   IP address can sometimes be used to derive your general geographic area.****
   * ****Information about your internet connection (e.g., mobile operator, ISP, WiFi connection).****
-  * ****Information collected through[cookies](https://web.archive.org/web/20181222002833id_/https%3A//www.thedoctorstv.com/cookies), [web beacons](https://web.archive.org/web/20181222002833id_/https%3A//www.thedoctorstv.com/web_beacons), and other similar technologies.****
+  * ****Information collected through[cookies](https://web.archive.org/web/20190513081559id_/https%3A//www.thedoctorstv.com/cookies), [web beacons](https://web.archive.org/web/20190513081559id_/https%3A//www.thedoctorstv.com/web_beacons), and other similar technologies.****
   * ******Information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded.******
 
 
