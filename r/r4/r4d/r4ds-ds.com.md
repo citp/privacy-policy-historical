@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r4ds-ds.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112031320id_/http%3A//www.r4ds-ds.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r4ds-ds.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513143054id_/http%3A//www.r4ds-ds.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
