@@ -1,280 +1,218 @@
-> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002015155id_/https%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyinyourstate.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513140555id_/https%3A//www.onlyinyourstate.com/privacy-policy) for the most accurate reproduction.*
 
 # Only In Your State LLC Privacy Policy
 
-Effective date: May 22, 2018
+This privacy policy (" **Privacy Policy** ") describes how information and data is collected from you when you use this online website, mobile website, application, digital service, or any related products, services, sites, features or functionality (each a "Service", collectively the "Services") and how Leaf Group Ltd., including its subsidiaries/affiliates Society 6, LLC, Saatchi Online, Inc., and Well+Good, LLC (" **Leaf Group** ", " **we** ", " **us** ", or " **our** "), uses, shares and manages your information and data. By using any of the Services, you consent to the collection, use, processing, and sharing of your information as described in this Privacy Policy. 
 
-## The Non-Legal Summary
+* Our Privacy Principles
 
-When visiting OnlyInYourState.com, we collect no personally identifiable data about you as a visitor. The only exceptions are 1) when you provide your e-mail address to subscribe to our newsletter, which you can opt out of at any time and 2) when you make a purchase at shop.onlyinyourstate.com, which means we collect your name, address, and email address to deliver your products. We do not sell, misuse, or otherwise jeopardize your data in any way. Our advertisers (Google Adsense, Taboola, and Facebook Audience Network) may use cookies to serve you better ads.
+We are committed to recognizing and respecting your privacy rights by keeping you informed and processing and protecting your personal data in compliance with applicable data protection laws and regulations (" **Data Protection Laws** ").
 
-Find more details below, including how we ensure your rights are protected and that your data is always safe.
+Effective May 25th, 2018, if you are subject to European Union Data Protection Laws (" **EU Users** "), our processing of your personal data will comply with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, known as the General Data Protection Regulation (" **GDPR** ").
 
-## The Official Privacy Policy
+* Information that We Collect from You
 
-Only In Your State LLC (“us”, “we”, or “our”) operates the http://www.onlyinyourstate.com website (the “Service”).
+Account Data You Directly and Voluntarily Provide to Us
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+We may collect and process some or all of the following information you make available to us if you register, download or use the Services, such as your:
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://www.onlyinyourstate.com
+  * Name
+  * Email Address
+  * Mailing Address
+  * Phone Number
+  * Interests
+  * User Name
+  * Password
+  * Other Registration Information
+  * Customer Support or Technical Information you provide when you contact us with questions about your use of the Services and a record of such correspondence
+  * Details of transactions you carry out through the Services, your purchases, and the fulfillment of orders we provide to you
+  * Other information you may provide to us through promotions or surveys
 
-## Definitions
 
-  * **Service**
 
-Service is the http://www.onlyinyourstate.com website operated by Only In Your State LLC
+User Profile Data
 
-  * **Personal Data**
+We may also offer you the option to create a user profile that may be visible to other users of the Services. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile remains private, we will still be able to access and view the information you provide as part of your user profile.
 
-Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+Public Data You Post through the Services
 
-  * **Usage Data**
+If you post information on public areas of the Services, that data may be collected and used by us, other users of the Services, and the public generally, such as reviews, comments, and user content. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
 
-Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+Usage Data We Automatically Collect from You
 
-  * **Cookies**
+In addition to the information you provide to us, the Services may collect and process additional data automatically, this data may include your:
 
-Cookies are small pieces of data stored on your device (computer or mobile device).
+  * **Device Registration Data** (for example, the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type),
+  * **Device Settings** (for example, your language preference)
+  * **Mobile Carrier**
+  * **Information about how you use the Services** (for example, how many times you use the Services each day)
+  * **Requested and Referring URLs**
+  * **Location Data collected through your Device** (including, for example, precise location data such as GPS and WiFi information)
+  * **Information collected through cookies and other tracking technologies** including, but not limited to, your IP address and domain name, your browser version and operating system, traffic data, location data, web logs and other communication data, and the resources that you access
 
-  * **Data Controller**
 
-Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+* How We Use Your Information
 
-For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+In this section, we set out the purposes for which we use personal information that we collect when you use the Services. In relation to EU Users, we are required under applicable Data Protection Laws, to identify the legal bases on which we rely to process the information.
 
-  * **Data Processors (or Service Providers)**
+Providing the Services, Improving the Services, Providing Support, and Communicating With You
 
-Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+We and our service providers may use the data you provide or that is collected through the Services to operate and improve the Services, our other sites, applications, products and services, to contact you from time to time to provide you with important information and notices relating to the Services, and to carry out obligations arising from any agreements between you and us. 
 
-We may use the services of various Service Providers in order to process your data more effectively.
+**Legal Bases:** contract performance, legitimate interests (to correspond with you, to enable us to provide you with the Services and to improve the Services)
 
-  * **Data Subject (or User)**
+Providing Marketing and Promotion Materials
 
-Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+We and our service providers may use the data you provide or that is collected through the Services to provide you with updates, offers, and promotions, where you have chosen to receive these. We may also use your information for marketing our own and our selected business partners’ products and services to you by email and, where required by law, we will ask for your consent at the time we collect your data to conduct any of these types of marketing. If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us.
 
+**Legal Bases:** consent, legitimate interest where consent is not required (to keep you updated with news in relation to our products and services)
 
+Advertising and Third Party Content and Links
 
+The Services may be supported through advertising, and we may work with advertisers and advertising networks to provide advertising through the Services. We may provide these advertisers and advertising networks with the ability to collect data about how you interact with the Services and, if applicable, your mobile device. This data may include the unique device or advertising identifier associated with your device and your precise location data, in order to help analyze and serve targeted advertising on the Services and elsewhere (including third-party sites and applications). In addition, the Services may include third-party content and links to other third-party websites. These advertisers, advertising networks, and third parties may use cookies, pixels, and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user.
 
-## Information Collection And Use
+For information about how tracking works for online advertising purposes you can visit <http://www.aboutads.info/choices> or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit.
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+If you access the Services through a browser, your browser may allow you to adjust your browser settings so that "Do Not Track" requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Services in response to any Do Not Track requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Services.
 
-### Types of Data Collected
+**Legal Bases:** consent, legitimate interest where consent is not required (to enable us to provide you with an experience related to your interests)
 
-#### Personal Data
+Analytics Services
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
+We may also work with third party analytics companies to help us understand how the Services are being used, such as data collection, reporting, ad response measurement, website and mobile application analytics, and to assist with delivery of relevant marketing messages and advertisements.
 
-  * Email address (newsletter subscribers only)
-  * Cookies and Usage Data (Advertisers & Shop only)
-  * Name and Address (Shop only)
+We may use Google Analytics, an analytics service provided by Google or other third party analytics services providers (" **Analytics Services** ") to collect information about your use of the Services. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Services will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Services.
 
+We encourage you to review your device and Services settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain data by the Services by updating your applicable device settings, or you may uninstall the Services. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
 
+**Legal Bases:** legitimate interest where consent is not required (to enable us to provide you with an experience relevant to your interests)
 
-We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+Purchases and Payment Processors
 
-#### Usage Data
+If you make a purchase through the Services, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Services. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
 
-Our advertisers and our shop may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+**Legal Bases:** consent, legitimate interests (to enable us to perform our obligations and provide the Services to you); contract performance
 
-#### Tracking & Cookies Data
+Promotions, Sweepstakes, and Contests
 
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+From time to time, we may host a promotion, sweepstakes, or content on the Services. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+If you wish to unsubscribe from receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can unsubscribe from receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+**Legal Bases:** consent, legitimate interests where consent is not required (to keep you updated with news in relation to our products and services)
 
-Examples of Cookies we use:
+* How Your Information is Shared with Third Parties
 
-  * **Session Cookies.** We use Session Cookies to operate our Service.
-  * **Advertising Cookies.** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+We may share the information you provide or that we collect in some circumstances as follows:
 
+With Advertisers
 
+We may share your information with advertisers, third-party advertising networks and analytics companies who may use it to deliver targeted advertisements to you on the Services or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
 
-## Use of Data
+With Our Company Affiliates
 
-Only In Your State LLC uses the collected data for various purposes:
+We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with the Services, products and other services.
 
-  * To provide and maintain our Service
-  * To notify you about changes to our Service
-  * To allow you to participate in interactive features of our Service when you choose to do so
-  * To provide customer support
-  * To gather analysis or valuable information so that we can improve our Service
-  * To monitor the usage of our Service
-  * To detect, prevent and address technical issues
-  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+With Our Partner Programs
 
+If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Services utilized.
 
+For Marketing Campaigns
 
-## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6aaa3a1a7aa86aaa3a7a0a1b4a9b3b6e8a5a9ab).
 
-If you are from the European Economic Area (EEA), Only In Your State LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+With Our Service Providers
 
-Only In Your State LLC may process your Personal Data because:
+We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
 
-  * You have given us permission to do so
-  * The processing is in our legitimate interests and it’s not overridden by your rights
-  * For payment processing purposes
-  * To comply with the law
+Social Media and Sharing
 
+The Services may use social networking or "share functionality" or may contain links to third-party social media sites or applications that are not owned or controlled by us. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Services. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.
 
+We have no control over, and assume no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. You are subject to the policies of those third parties when and where applicable.
 
-## Retention of Data
+As Required By Law or to Protect Rights and to Comply with Our Policies 
 
-Only In Your State LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if required to do so by law, or if requested in response to a subpoena or court order, we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large, or we believe that you have abused the Services by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our Terms of Use. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 
-Only In Your State LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+Business Transfers or Bankruptcy
 
-## Transfer Of Data
+In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+* Your Rights Under Applicable Data Protection Laws
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+We acknowledge your right to access and control your personal data in accordance with applicable Data Protection Laws. 
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Accessing, Correcting or Deleting Your Information
 
-Only In Your State LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+For EU Users, to request access to or correction of your personal data in accordance with applicable Data Protection Laws, you may send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5a363f3d3b361a363f3b3c3d28352f2a74393537) or a letter to:
 
-## Disclosure Of Data
+Leaf Group Ltd.  
+Attn: Legal Department  
+1655 26th Street  
+Santa Monica, CA 90404  
 
-### Business Transaction
 
-If Only In Your State LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+Please include your registration information you provided through the Services. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account. 
 
-## “Do Not Track” Signals
+For EU Users, if you’d like us to delete information that you have provided through the Services, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d61686a6c614d61686c6b6a7f62787d236e6260) and we will respond in a reasonable time in accordance with applicable Data Protection Laws. Please note that some or all of the information you provided may be required in order for the Services to function properly or may be automatically retained in backup storage or records retention archival storage.
 
-We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+EU Users – Portability of Your Personal Data
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+Data portability is the ability to obtain some of your information in a format you can move from one service provider to another in accordance with applicable Data Protection Laws. Depending on the context and applicable Data Protection Laws, this applies to some of your information, but not to all of your information. For EU Users, should you request it, we will provide you with an electronic file of your basic account information and the information under your sole control in accordance with applicable Data Protection Laws.
 
-## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+California Residents
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Only In Your State LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you are a California resident under the age of 18 and are a registered user of the Services, you may request that we remove content or information about you that you posted on the Services by: (a) submitting a request in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#49252c2e282509252c282f2e3b263c39672a2624); and (b) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if: (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
 
-Only In Your State LLC does not directly hold any personal identifiable information about any users unless they have purchased a product from shop.onlyinyourstate.com (name, address, etc).
+* Transfer of Data Outside Your Country of Residence
 
-In certain circumstances, you have the following data protection rights:
+If you are located outside of the United States and you choose to use the Services or provide your information to us, your data may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Services represents your consent and agreement to these practices. If you do not want your data transferred to or processed or maintained in the United States, you should not use the Services.
 
-  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+EU Users and Swiss Users – Privacy Shield
 
-  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+We comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of:
 
-  * **The right to object.** You have the right to object to our processing of your Personal Data.
+  * Notice
+  * Choice
+  * Accountability for Onward Transfer
+  * Security
+  * Data Integrity and Purpose Limitation
+  * Access
+  * Recourse, Enforcement and Liability
 
-  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
 
-  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
 
-  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Only In Your State LLC relied on your consent to process your personal information.
+If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this Privacy Policy should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#620e0705030e220e07030405100d17124c010d0f).
 
+We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the **BBB EU PRIVACY SHIELD** , a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-Please note that we may ask you to verify your identity before responding to such requests.
+* The Privacy of Children
 
-You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+The Services are not intended for children under age 16. We do not knowingly collect or distribute personal information from or about children under the age of 16. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#670b0200060b270b02060100150812174904080a).
 
-## Service Providers
+Security Measures and Storage Limits
 
-We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+We provide industry-standard physical, electronic, and procedural safeguards to protect personal data we process and maintain. For example, we take reasonable measures to limit access to this data to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor to provide reasonable security for data we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Services and you do so at your own risk.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the information was collected, and any other permissible, related purpose. For example, we may retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired, or to comply with regulatory requirements regarding the retention of such data. When personal data is no longer needed, we either irreversibly anonymize the data (and we may further retain and use the anonymized information) or securely destroy the data.
 
-### Analytics
+* Updates to this Privacy Policy
 
-We may use third-party Service Providers to monitor and analyze the use of our Service.
+We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Services prior to the time the modified privacy policy takes effect. If you continue using the Services after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
 
-  * **Google Analytics**
+* Contact Us
 
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+If you have questions about this Privacy Policy, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#432f2624222f032f26222524312c36336d202c2e) or send a letter to:
 
-You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+Leaf Group Ltd.  
+Attn: Legal Department  
+1655 26th Street  
+Santa Monica, CA 90404  
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
 
-
-
-
-### Advertising
-
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
-
-  * **Google AdSense & DoubleClick Cookie**
-
-Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
-
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
-
-  * **Taboola**
-
-Taboola, as a third party vendor, uses cookies to serve ads on our Service. Taboola’s use of the cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
-
-You may opt out of the use of the Taboola Cookie for interest-based advertising by visiting the Taboola page: <https://www.taboola.com/cookie-policy>
-
-
-
-* Also see: <http://www.aboutads.info/> and [http://www.networkadvertising.org/](https://www.networkadvertising.org/)  
-
-
-### Behavioral Remarketing
-
-Only In Your State LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
-
-  * **Facebook**
-
-Facebook remarketing service is provided by Facebook Inc.
-
-You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
-
-To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
-
-Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.
-
-For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
-
-
-
-
-### Payments
-
-We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
-
-We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
-
-The payment processors we work with are:
-
-  * **PayPal or Shopify**
-
-Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full> and <https://www.shopify.com/legal/privacy>
-
-
-
-
-## Links To Other Sites
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-## Children’s Privacy
-
-Our Service does not address anyone under the age of 18 (“Children”).
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
-
-## Changes To This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-
+We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
