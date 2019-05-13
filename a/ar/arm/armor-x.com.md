@@ -1,36 +1,8 @@
-> *The following text is extracted and transformed from the armor-x.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711060727id_/https%3A//www.armor-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armor-x.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514001907id_/https%3A//www.armor-x.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**ABOUT**
-
-[ About Us](https://www.armor-x.com/about-armorx-armor-x-mount "About Us")
-
-[Trade shows](https://www.armor-x.com/armor-x-mount-trade-shows "Trade shows")
-
-[Where To Buy](https://www.armor-x.com/armor-x-mount-where-to-buy "Where To Buy")
-
-[Contact](https://www.armor-x.com/armor-x-static-contact "Contact")
-
- **HELP**
-
-[ Track Your Order](https://www.armor-x.com/armor-x-track-your-order "Track Your Order")
-
-[Payment](https://www.armor-x.com/payment-armorx-armor-x-mount-armorxmount "Payment")
-
-[Worldwide Delivery](https://www.armor-x.com/armor-x-worldwide-delivery "Worldwide Delivery")
-
-[Privacy Policy](https://www.armor-x.com/privacy-policy "Privacy Policy")
-
-[Return Policy](https://www.armor-x.com/armor-x-return-policy "Return Policy")
-
-[1 Year Warranty](https://www.armor-x.com/armor-x-limited-warranty "1 Year Warranty")
-
-[Limitation Of Liability](https://www.armor-x.com/limitation-of-liability "Limitation Of Liability") 
-
-|  | 
-
- **PRIVACY POLICY**
+**PRIVACY POLICY**
 
 The website is owned and operated by ARMOR-X. Our Privacy Policy was developed to help you understand the type of information we collect on our website and how this information is used. We update this site periodically therefore our policies may change accordingly depending on the nature of these changes.
 
@@ -49,6 +21,4 @@ Your web browser allows you to prevent cookies from being accepted. However, thi
 
 By using this site, you consent to the collection and use of this information by ARMOR-X LIMITED. We do not share or sell any of our customer’s information with anyone and all information you submit to the site will remain secure. We may collect information regarding the pages viewed by our visitors so we can optimize and improve our website experience. We do not knowingly request personally identifiable information from anyone under the age of 13. You may opt to provide your email so we may provide you with product or event information. If you would like to stop receiving these emails, please email us at info@armor-x.com requesting to be removed from the list.
 
-Our website may include links to or from other websites. Our Privacy and Security Policy does not extend to these third party sites. If you have any questions regarding this policy, please email us at info@armor-x.com  
-  
----|---|---
+Our website may include links to or from other websites. Our Privacy and Security Policy does not extend to these third party sites. If you have any questions regarding this policy, please email us at info@armor-x.com
