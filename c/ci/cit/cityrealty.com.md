@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221063154id_/https%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrealty.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513110814id_/https%3A//www.cityrealty.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CityRealty
 
@@ -118,7 +118,7 @@ Back to top
 If for some reason you believe that we have not adhered to the terms of this Privacy Policy, or if you have any questions or comments about this Privacy Policy, please notify us by email at contact@cityrealty.com, and we will do our best to address your concerns and promptly confirm and correct any problems. The email must contain the words Privacy Policy in its subject line. You may also contact us by regular mail at: 
 
 **CityRealty Privacy Policy**  
-275 Seventh Avenue, 20th Floor  
+450 Seventh Avenue, 39th Floor  
 Phone: (212) 755-5544  
 Fax: (212) 755-5545 
 
