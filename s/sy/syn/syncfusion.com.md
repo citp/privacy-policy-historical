@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054728id_/https%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syncfusion.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513094915id_/https%3A//www.syncfusion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Syncfusion
-
-### Privacy Policy
 
 Effective May 24, 2018
 
@@ -64,7 +62,23 @@ This Privacy Policy is subject to change at any time by the updating of this pag
 
 #### Subscription Preferences
 
-Manage the marketing communications you receive from us at any time by accessing and editing your preferences here.
+Manage the marketing communications you receive from us at any time by accessing and editing your preferences [ here.](https://web.archive.org/account/email-preference)
+
+#### Information about the consent to Albacross processing of personal data and Syncfusion controlling personal data via Albacross
+
+Syncfusion obtains your consent to the processing of personal data by Albacross Nordic AB (“Albacross”) on our behalf. Syncfusion obtains your consent for Syncfusion to have such personal data and subsequently use it to help provide support, provide information about products that may interest you, and help provide you the best user experience possible.
+
+Information collected from cookies set in your device that qualify as personal data will be processed by Albacross, a company offering lead identification and ad targeting services with offices in Stockholm and Krakow. Please see below for full contact details.
+
+The purpose for Albacross and Syncfusion to process the personal data is that it enables Albacross to improve a service rendered to us and our website (e.g “Lead Generation” service) by adding data to their database about companies. It also enables Syncfusion to help provide you the best user experience and recommend products.
+
+The data that is collected and used by Albacross to achieve this purpose is information about the IP address from which you visited our website and technical information that enables Albacross to distinguish different visitors from the same IP address. Albacross stores the domain from form input in order to correlate the IP address with your employer.
+
+The data that is collected and used by Syncfusion is used to obtain information about the IP address and companies’ IPs correlated to where you visited our website. Additioanlly the data is used to collect technical information that enables Syncfusion to tell apart different visitors from the same IP-address. Syncfusion stores the domain from form input in order to correlate the IP-address with your employer along with traffic that you went to on the site.
+
+For the full information about our processing of personal information, please keep reading the rest of our privacy policy.
+
+You may at any time withdraw your consent to this processing. Such withdrawal may be made either by contacting us or by contacting Albacross directly.
 
 #### Comments and Questions
 
