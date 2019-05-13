@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904141751id_/http%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levenger.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513053407id_/https%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Security & Privacy - Levenger
 
@@ -13,7 +13,7 @@
 
 
 
-Please note: while it's safe to order online through our Website, we do not recommend that you send a credit card order through an email. Email is not encrypted and is not a secure means to transmit a credit card number. If you'd prefer not to order online, you can call us toll-free anytime, any day, at 800-544-0880.
+Please note: while it's safe to order online through our Website, we do not recommend that you send a credit card order through an email. Email is not encrypted and is not a secure means to transmit a credit card number. If you'd prefer not to order online, you can call us toll-free Mon – Fri 8:00am – 9:00pm & Sat/Sun 9:00am – 5:00pm EST, at 800-544-0880.
 
   
 
