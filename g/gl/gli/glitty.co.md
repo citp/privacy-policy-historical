@@ -1,172 +1,76 @@
-> *The following text is extracted and transformed from the glitty.co privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316040834id_/http%3A//www.glitty.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glitty.co privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513203503id_/http%3A//glitty.reamaze.com/kb/privacy/what-is-your-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Glitty
+# What is your Privacy Policy? - Glitty
 
-### LAST EDITED ON 2015-01-04
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.  
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-##  **What personal information do we collect from the people that visit our website?**
+SECTION 2 - CONSENT
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+How do you get my consent?  
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-##  **When do we collect information?**
+How do I withdraw my consent?  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@glitty.co](mailto:support@glitty.co)
 
-We collect information from you when you place an order, subscribe to a newsletter, fill out a form or enter information on our site.
+SECTION 3 - DISCLOSURE
 
-##  **How do we use your information?**
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
- 
+SECTION 4 - SHOPIFY
 
-       **•**  To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-       **•**  To improve our website in order to better serve you.
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service (<https://www.shopify.com/legal/terms>) or Privacy Statement (<https://www.shopify.com/legal/privacy>).
 
-       **•**  To allow us to better service you in responding to your customer service requests.
+SECTION 5 - THIRD-PARTY SERVICES
 
-       **•**  To administer a contest, promotion, survey or other site feature.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-       **•**  To send periodic emails regarding your order or other products and services.
+Links  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-##  **How do we protect visitor information?**
+SECTION 6 - SECURITY
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.  
- 
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-We use regular Malware Scanning.  
- 
+SECTION 7 - COOKIES
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+SECTION 8 - AGE OF CONSENT
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-##  **Do we use 'cookies'?**
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-  
- **We use cookies to:**
+QUESTIONS AND CONTACT INFORMATION
 
-       **•**  Understand and save user's preferences for future visits.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@glitty.co](mailto:support@glitty.co) or by mail at:  
+Glitty Compliance Officer @ 1-60 Clarey Avenue, Ottawa, Ontario, K2S 4C3, Canada
 
-  
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
-
-If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
-
-However, you can still place orders .
-
-##  **Third Party Disclosure**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-##  **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-##  **Google**
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en   
- 
-
-We use Google AdSense Advertising on our website.
-
-  
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-  
- **We have implemented the following:**
-
-       **•**  Remarketing with Google AdSense
-
-       **•**  Google Display Network Impression Reporting
-
-       **•**  Demographics and Interests Reporting
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
-
-  
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
-
-by mail : hi@glitty.co
-
-##  **COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.  
- 
-
-We do not specifically market to children under 13.
-
-##  **Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
- 
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-       **•**  Within 7 business days
-
-       **•**  Within 1 business day
-
-  
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-##  **CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
- 
-
- **We collect your email address in order to:**
-
-       **•**  Send information, respond to inquiries, and/or other requests or questions.
-
-       **•**  Process orders and to send information and updates pertaining to orders
-
-       **•**  We may also send you additional information related to your product and/or service.
-
-       **•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-  
- **To be accordance with CANSPAM we agree to the following:**
-
-       **•**  NOT use false, or misleading subjects or email addresses
-
-       **•**  Identify the message as an advertisement in some reasonable way
-
-       **•**  Include the physical address of our business or site headquarters
-
-       **•**  Monitor third party email marketing services for compliance, if one is used.
-
-       **•**  Honor opt-out/unsubscribe requests quickly
-
-       **•**  Allow users to unsubscribe by using the link at the bottom of each email
-
-  
- **If at any time you would like to unsubscribe from receiving future emails, you can**
-
-       **•**  Follow the instructions at the bottom of each email.
-
-and we will promptly remove you from  **ALL**  correspondence.
-
-##  **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.  
- 
-
-### Izemmour Glitty
-
-### 1700 Fribourg
-
-### ROUTE DU CHÂTELET 8
-
-### Switzerland
-
-### hi@glitty.co
+* * *
