@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the everycarlisted.com privacy policy that was archived on 2018-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215070235id_/http%3A//www.everycarlisted.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everycarlisted.com privacy policy that was archived on 2019-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190513130247id_/http%3A//everycarlisted.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -32,8 +32,12 @@ $(document).ready(function(){
 </head>
 <body>
 <div class="container white-wrapper">	<div class="row white-wrapper">
-				<div class="text-center" style="padding: 10px 0px 10px 0px;">
-			<a href="https://inbres.com/path/lp.php?trvid=10010&amp;trvx=2e32adb5&amp;ts=everycarlisted&amp;aff_sub=srp" target="_blank" rel="nofollow" class="ale-link" data-aff-sub="srp" data-res="728x90"><img src="/images/ale/ALE_728x90.png" width="728" height="90" class="img-responsive center-block" border="0"></a>
+				<div class="text-center googlead hidden-xs" style="padding: 10px 0px 10px 0px;">
+			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5327438173626551" data-ad-slot="5290121224"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 		</div>
 				<div id="logo" class="col-sm-5">
 			<a href="http://www.everycarlisted.com/">
@@ -354,7 +358,7 @@ $(document).ready(function(){
 	 </div>
 	 <div class="col-xs-12">
 		<p class="text-center">
-			©2018, EveryCarListed.com, LLC  All rights reserved.
+			©2019, EveryCarListed.com, LLC  All rights reserved.
 		</p>
 	 </div>
 	</div>
@@ -395,21 +399,6 @@ $(document).ready(function() {
 		document.location.href = $(this).attr('action');
 	});
 
-	// Auto Loan Express (ALE) click-through
-	$('.ale-link').on('click', function(){
-		$.post(
-			'/link',
-			{
-				aff_sub: $(this).attr('data-aff-sub'),
-				img_res: $(this).attr('data-res'),
-				controller: 'site',
-				action: 'privacy'
-			},
-			function(){ return true; },
-			'json'
-		);
-		return true;
-	});
 });
 
 
