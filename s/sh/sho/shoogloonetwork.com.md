@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoogloonetwork.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821172647id_/http%3A//shoogloonetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoogloonetwork.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513102054id_/http%3A//shoogloonetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shoo Gloo Network
 
