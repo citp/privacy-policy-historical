@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004025746id_/https%3A//foodinsight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513095206id_/https%3A//foodinsight.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - IFIC Foundation - Your Nutrition and Food Safety Resource
-
-[ ](https://web.archive.org/ "Home")
-
-#### Your Nutrition and Food Safety Resource
+# Privacy Policy - IFIC Foundation
 
 The International Food Information Council (IFIC) Foundation respects your privacy. We will only make use of personally identifiable information that you provide to us for purposes of serving you better. The IFIC Foundation gives the user the opportunity to register and sign-up for newsletters, RSS feeds, notification of new publications, confirm event registrations, to save site bookmarks, and other information from the Foundation. The website collects the following information from registered users: name; address; telephone number; e-mail address.
 
