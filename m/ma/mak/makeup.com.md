@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118094323id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513151832id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,6 +170,10 @@ Get more than ever out of your MAKEUP.com. Save your favorite articles for quick
 
   *   * 
 
+
+This sign-up is for US consumers. By registering, you understand and agree that your data will be collected and used subject to our US [privacy policy](https://web.archive.org/web/20190513151832id_/https%3A//www.makeup.com/privacy-policy) and [terms of use](https://web.archive.org/web/20190513151832id_/https%3A//www.makeup.com/terms-and-conditions)
+
+When you use Facebook to login to our site, be advised that your data is governed by Facebook’s privacy policies and terms of use. You can always clear your Facebook history [here](https://www.facebook.com/ads/preferences/?entry_product=education_page)
 
 ## Let's Stay in Touch
 
