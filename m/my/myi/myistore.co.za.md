@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myistore.co.za privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608103739id_/http%3A//www.myistore.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myistore.co.za privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513063835id_/https%3A//www.myistore.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVATE POLICY
+PRIVACY POLICY
 
 This privacy policy sets out how iStore uses and protects any information that you give iStore when you use this website. iStore is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. iStore may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
