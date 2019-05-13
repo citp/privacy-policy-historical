@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the zkoss.org privacy policy that was archived on 2018-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180826071153id_/https%3A//www.zkoss.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zkoss.org privacy policy that was archived on 2019-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190513075212id_/https%3A//www.zkoss.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta property="og:title" content="ZK - Leading Enterprise Java Web Framework">
 	<meta property="og:type" content="website">
@@ -15,7 +16,7 @@
 	<link rel="shortcut icon" type="image/ico" href="/resource/img/favicon.ico">
 	<link rel="bookmark" href="/resource/img/favicon.ico">
 	<link href="https://feeds.feedburner.com/zkoss?format=xml" rel="alternate" type="application/rss+xml" title="ZK RSS FEED">
-	<link rel="stylesheet" type="text/css" href="/less/template?ver=1535267513711">
+	<link rel="stylesheet" type="text/css" href="/less/template?ver=1557374441554">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">	
 
 
@@ -39,17 +40,16 @@
 	width: 130px;
 }
 </style>
-	<script type="text/javascript" src="/resource/js/lib/jquery-1.6.2.min.js"></script>
+	<!-- <script type="text/javascript" src="/resource/js/lib/jquery-1.6.2.min.js" ></script> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
 	
 	
 	<link href="/resource/css/stuck/stuck.css" type="text/css" rel="stylesheet">
 	
+	<link href="//fonts.googleapis.com/css?family=Roboto:300,400,600,700" rel="stylesheet">
+	<link href="/resource/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<style>
-	@media screen and (min-device-width: 100px) and (max-device-width: 1024px){
-		.stuck {
-			display: none;
-		}
-	}
 	</style>
 
 	<!--[if lt IE 8]>
@@ -73,34 +73,36 @@
 <!--[if IE 8]><body id="zbody" class="ie ie8 ie678 ie89"><![endif]-->
 <!--[if gte IE 9]><body id="zbody" class="ie9"><![endif]-->
 <!--[if !IE]>--><body id="zbody" class=""><!--<![endif]-->
-	<div id="banner-advertisement">
-		<div id="banner-close" onclick="javascript:removeBanner();">
+<!-- 	<div id="banner-advertisement">
+		<div id="banner-close" onClick="javascript:removeBanner();">
 		</div>
 		<div id="banner-advertisement-inner">
-			<span>Do you have a question about licensing or support? We can <a href="/support/about/contact" onclick="javascript:clickPricingBanner()">help you!</a></span>
+			<span>Do you have a question about licensing or support? We can <a href="/support/about/contact" onClick="javascript:clickPricingBanner()">help you!</a></span>
 		</div>
-	</div>
+	</div> -->
 	<div id="zk-container">
-		<div id="index-header">
-  <div id="index-header-inner">
+		<div class="index-header-scroll"></div> <!-- add this div to prevent header flashing when scroll over section2 -->
+		<div id="index-header" class="index-header">
+  <div id="index-header-inner" class="index-header-inner">
     <h1 id="zk-logo">
-      <em> <a href="/" rel="canonical" title="ZK Home" name="top"><img width="63" src="/resource/img/template/top_zk_logo.png" title="ZK - Open Source Ajax Java Framework" alt="ZK - Open Source Ajax Java Framework" class="open-source-ajax">ZK - Open Source Java Web Framework</a> </em>
+    	<em>
+	    	<a href="/" rel="canonical" name="top">ZK - Open Source Java Web Framework</a>
+    	</em>
     </h1>
     <div id="reglang-box">
       
 
-<script>var z_n = "null",z_i = "207.241.229.213",z_e = "null";</script>
+<script>var z_n = "null",z_i = "207.241.229.225",z_e = "null";</script>
 
 
+<!-- 	<div class="item item-highlight">
+		<a href="http://forum.zkoss.org/account/signup/?login_provider=local" title="Register">Sign up</a>
+	</div> -->
 	<div class="item">
-		<a href="/zkdownload/zklogin.zul" title="Login">Login</a>
-	</div>
-	<div class="item">
-		<a href="http://forum.zkoss.org/account/signup/?login_provider=local" title="Register">Register</a>
+		<a href="/zkdownload/zklogin.zul">Login</a>
 	</div>
 
 
-     
     </div>
     
 
@@ -110,248 +112,212 @@
   <h5>Navigation Menu</h5>
   </header>
   <ul class="menu new-style">
+  	<li class="menuitem menu-login">
+  		<div class="menuitem-login">
+			
+					<a class="menulink" href="/zkdownload/zklogin.zul" title="Login">Login</a>
+			
+  		</div>
+  	</li>
     <li class="menuitem ">
       <div class="menuitem-right">
-        <a href="/product/" class="menulink">Products</a>
+        <a class="menulink">Products<i class="fa fa-angle-down menu-icon"></i></a>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/product/zk" title="ZK">ZK Framework</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkspreadsheet" title="ZK Spreadsheet">ZK Spreadsheet</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkcharts" title="ZK Charts">ZK Charts</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkpivottable" title="ZK Pivottable">ZK Pivottable</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkthemepack" title="ZK Theme Pack">ZK Theme Pack</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkstudio" title="ZK Studio">ZK Studio</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkcalendar" title="ZK Calendar">ZK Calendar</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkspring" title="ZK Spring">ZK Spring</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/product/zkjsp" title="ZK JSP">ZK JSP</a>
-  <div class="sep"></div>
-</li>
-<!-- 
-<li class="bottom"><a href="/product/ztl" title="ZTL">ZTL</a>
-</li>
- -->
- <li class="bottom"><a href="/product/zats" title="ZATS">ZATS Test</a>
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a></li>
-      </ul></li>
-    <li class="menuitem ">
+      <div class="menuitem-inner">
+      	<div class="menuitem-inner-content">
+      		<div class="menuitem-inner-content-box">
+		      	<div class="left-area left-area-products">
+		      		<h3>CORE FRAMEWORK</h3>
+				    <div class="menuitem-inner-corebutton">
+				        <a href="/product/zk"><img alt="ZK-Framework" src="/resource/img/icons/svg/products/ZK.svg">ZK Framework</a>
+					</div>
+		      	</div>
+		      	<div class="right-area right-area-products">
+			      	<div class="top-area">
+			      		<h3>FEATURED COMPONENTS</h3>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/zkspreadsheet"><img alt="Spreadsheet" src="/resource/img/icons/svg/products/Spreadsheet.svg">ZK Spreadsheet</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/zkcharts"><img alt="ZK Charts" src="/resource/img/icons/svg/products/Charts.svg">ZK Charts</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/zkthemepack"><img alt="ZK Theme Pack" src="/resource/img/icons/svg/products/Themepack.svg">ZK Theme Pack</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/zkpivottable"><img alt="ZK Pivottable" src="/resource/img/icons/svg/products/Pivottable.svg">ZK Pivottable</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/"><img alt="All Products" src="/resource/img/icons/svg/products/All-products.svg">All Products</a>
+						</div>	
+			      	</div>
+			      	<div class="bot-area">
+			      		<h3>TOOLS</h3>
+						<div class="menuitem-inner-button">
+						 	<a class="linkstyle" href="/product/zats"><img alt="ZATS Test" src="/resource/img/icons/svg/products/Testing.svg">ZATS Test</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="/product/zkstudio"><img alt="ZK Studio" src="/resource/img/icons/svg/products/ZK-Studio.svg">ZK Studio</a>
+						</div>
+						<div class="menuitem-inner-button">
+							<a class="linkstyle" href="//plugins.jetbrains.com/plugin/7855-zk" target="blank_"><img alt="IntelliJ IDEA" src="/resource/img/icons/svg/products/Intellij-IDEA.svg">ZK IntelliJ Plugin</a>
+						</div>
+			      	</div>
+		      	</div>
+      		</div>
+      	</div>
+        <div class="touch-close"><a title="Close Menu" href="#"></a></div>
+      </div>
+    </li>
+        <li class="menuitem ">
       <div class="menuitem-right">
-        <a href="/demo/" class="menulink">Demos</a>
+        <a class="menulink">Get Started<i class="fa fa-angle-down menu-icon"></i></a>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/zkdemo/">ZK Framework</a>
-  <div class="sep"></div>
-</li>
-<li><a href="http://zssdemo.zkoss.org/zssdemo">ZK Spreadsheet</a>
-  <div class="sep"></div>
-</li>
-<li><a href="http://www.zkoss.org/zkchartsdemo">ZK Charts</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/zkdemo/application/pivottable">ZK Pivottable</a>
-  <div class="sep"></div>
-</li>
-<li><a href="http://zcal.zkoss.org">ZK Calendar</a>
-  <div class="sep"></div>
-</li>
-<!-- <li><a href="/zkmail/">ZK Web Mail</a>
-  <div class="sep"></div>
-</li> -->
-<li><a href="/zksandbox">ZK Sandbox</a>
-  <div class="sep"></div>
-</li>
-<li class="bottom"><a href="/demo/external">Real World Apps</a>
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
+      <div class="menuitem-inner">
+      	<div class="menuitem-inner-content">
+      		<div class="menuitem-inner-content-box">
+		      	<div class="left-area left-area-getstarted">
+		      		<h3>EXPLORE ZK</h3>
+				    <div class="menuitem-inner-corebutton">
+				        <a href="//www.zkoss.org/zkdemo/"><img alt="ZK Demo" src="/resource/img/icons/svg/GetStarted/Demo.svg">ZK Demo</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="/documentation"><img alt="Build your 1st ZK App" src="/resource/img/icons/svg/GetStarted/Build-your-1st-App.svg">Build your 1st ZK App</a>
+					</div>
+		      	</div>
+		      	<div class="right-area right-area-getstarted">
+		      		 <h3>RESOURCES</h3>
+		      		 <div class="menuitem-inner-list">
+		      			<a href="//forum.zkoss.org/questions/">ZK Forum</a>
+		      			<a href="/zksandbox/">ZK Sandbox</a>
+		      			<a href="//www.zkoss.org/download/zk">ZK Downloads</a>
+		      		</div>
+      			</div>
+      		</div>
+        	<div class="touch-close"><a title="Close Menu" href="#"></a></div>
+        </div>
+      </div>
     </li>
     <li class="menuitem ">
       <div class="menuitem-right">
-        <a href="/download/" class="menulink">Downloads</a>
+        <a class="menulink">Documentation<i class="fa fa-angle-down menu-icon"></i></a>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/download/zk">ZK Framework</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkspreadsheet">ZK Spreadsheet</a>
-  <div class="sep"></div></li>
-  <li><a href="/download/zkcharts">ZK Charts</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkpivottable">ZK Pivottable</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkstudio">ZK Studio</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkcalendar">ZK Calendar</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkspring">ZK Spring</a>
-  <div class="sep"></div></li>
-<li><a href="/download/zkjsp">ZK JSP</a>
-  <div class="sep"></div></li>
-<li class="bottom"><a href="/download/zats">ZATS Test</a></li>
-
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
+      <div class="menuitem-inner">
+      	<div class="menuitem-inner-content">
+      		<div class="menuitem-inner-content-box">
+		      	<div class="left-area left-area-documentation">
+		      		<h3>LEARN ZK</h3>
+				    <div class="menuitem-inner-corebutton">
+				        <a href="/documentation" title="ZK Docs"><img alt="ZK Docs" src="/resource/img/icons/svg/Documentation/Documentation.svg">ZK Documentation</a>
+					</div>
+		      	</div>
+		      	<div class="right-area right-area-documentation">
+		      		<h3>RESOURCES</h3>
+		      		 <div class="menuitem-inner-list">
+		      		 	<a href="/documentation">Build your 1st ZK App</a>
+		      			<a href="//books.zkoss.org/zkessentials-book/master/">ZK Essentials</a>
+		      			<a href="/documentation#References">ZK References</a>
+		      			<a href="/documentation#API">ZK Javadocs</a>
+		      		</div>
+		      		<div class="menuitem-inner-list">
+		      			<a href="/documentation">All Docs</a>
+		      			<a href="/documentation#Small_Talks">Small Talks</a>
+		      			<a href="//blog.zkoss.org/">Blog</a>
+		      		</div>
+		      	</div>
+      		</div>
+      	</div>
+        <div class="touch-close"><a title="Close Menu" href="#"></a></div>
+      </div>
     </li>
     <li class="menuitem ">
       <div class="menuitem-right">
-        <a href="/whyzk/" class="menulink">Why ZK</a>
+        <a class="menulink">Support<i class="fa fa-angle-down menu-icon"></i></a>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/whyzk/TopReasons">Top Reasons</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/whyzk/Features">Features</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/whyzk/zkee">Why ZK EE</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/zk8keyfeaturedemo/">Why ZK 8</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/whyzk/WhosUsing">Who's Using</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/whyzk/casestudies">Case Studies</a>
-  <div class="sep"></div>
-</li>
-<li class="bottom"><a href="/whyzk/Testimonials">Testimonials</a>
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
+      <div class="menuitem-inner">
+      	<div class="menuitem-inner-content">
+      		<div class="menuitem-inner-content-box">
+		      	<div class="left-area left-area-support">
+		      		<h3>GET HELP</h3>
+				    <div class="menuitem-inner-corebutton">
+				        <a href="/support/"><img alt="Support" src="/resource/img/icons/svg/Support/Support.svg">Support</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="/support/training"><img alt="Training" src="/resource/img/icons/svg/Support/Training.svg">Training</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="//forum.zkoss.org/questions/"><img alt="Forum" src="/resource/img/icons/svg/Support/Forum.svg">Forum</a>
+					</div>
+		      	</div>
+		      	<div class="right-area right-area-support">
+		      		<h3>RESOURCES</h3>
+		      		 <div class="menuitem-inner-list">
+		      			<a href="/download/premium">Premium downloads</a>
+		      			<a href="//github.com/zkoss/zk">ZK@Github</a>
+		      		</div>
+		      	</div>
+      		</div>
+      	</div>
+        <div class="touch-close"><a title="Close Menu" href="#"></a></div>
+      </div>
     </li>
-    <li class="menuitem ">
+        <li class="menuitem ">
       <div class="menuitem-right">
-        <a href="/community/" class="menulink">Community</a>
+        <a class="menulink">About<i class="fa fa-angle-down menu-icon"></i></a>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="http://forum.zkoss.org/questions/">Forum</a>
-  <div class="sep"></div>
-</li>
-<li><a href="http://blog.zkoss.org">Blog</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/community/board">Board</a>
-  <div class="sep"></div>
-</li>
-<li><a href="http://tracker.zkoss.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10002">Request Features</a>
-  <div class="sep"></div>
-</li>
-<li class="bottom"><a href="http://tracker.zkoss.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10001">Report Bugs</a>
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
-    </li>
-    <li class="menuitem ">
-      <div class="menuitem-right">
-        <a href="/documentation" class="menulink">Documentation</a>
+      <div class="menuitem-inner">
+      	<div class="menuitem-inner-content">
+      		<div class="menuitem-inner-content-box">
+		      	<div class="left-area">
+		      		<h3>MORE ABOUT ZK</h3>
+				    <div class="menuitem-inner-corebutton">
+				        <a href="/support/about"><img alt="About" src="/resource/img/icons/svg/About/About.svg">About</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="/price/pricing"><img alt="Pricing" src="/resource/img/icons/svg/About/Pricing.svg">Pricing</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="/whyzk/zkee"><img alt="Why ZK EE" src="/resource/img/icons/svg/About/Why-ZK-EE.svg">Why ZK EE</a>
+					</div>
+					<div class="menuitem-inner-corebutton">
+				        <a href="/support/about/contact"><img alt="Contact" src="/resource/img/icons/svg/About/Contact.svg">Contact</a>
+					</div>
+		      	</div>
+      		</div>
+      	</div>
+        <div class="touch-close"><a title="Close Menu" href="#"></a></div>
       </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/documentation">ZK Framework</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkspreadsheet">ZK Spreadsheet</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkcharts">ZK Charts</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkpivottable">ZK Pivottable</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkstudio">ZK Studio</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkcalendar">ZK Calendar</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkspring">ZK Spring</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/documentation/zkjsp">ZK JSP</a>
-  <div class="sep"></div>
-</li>
-<!-- 
-<li class="bottom"><a href="/documentation/ztl">ZTL</a> 
-</li>
--->
-<li class="bottom"><a href="/documentation/zats">ZATS Test</a> 
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
-    </li>
-    <li class="menuitem ">
-      <div class="menuitem-right">
-        <a href="/support/" class="menulink">Support</a>
-      </div>
-      <ul>
-        <li class="round-top"></li>
-        <li class="top"><a href="/support">Support</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/support/training">Training</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/license">License</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/price/pricing">Pricing</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/partner">Partners</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/support/about">About Us</a>
-  <div class="sep"></div>
-</li>
-<li class="bottom"><a href="/support/about/contact">Contact Us</a>
-</li>
-        <li class="round-bottom"></li>
-        <li class="touch-close"><a title="Close Menu" href="#"></a>
-        </li>
-      </ul>
     </li>
   </ul>
   </nav>
 </div>
-    <div id="search-box">
-      <form class="search" id="cse-search-box" action="/doc/searchresult.jsp">
-        <input type="hidden" name="cx" value="008321236477929467003:63kdpeqkkvw"> <input type="hidden" name="cof" value="FORID:11"> <input id="q" name="q" type="text" size="20" value="Search.." autocomplete="off"> <input id="sa" type="submit" name="sa" alt="Search" value="">
-      </form>
+    <div id="search-box" class="fa">
+    	<div class="search-box-right"></div>
+    	<div class="search-box-inner">
+    		<div class="search-box-inner-content">
+		    	<form class="search" id="cse-search-box" action="/doc/searchresult.jsp">
+			        <input type="hidden" name="cx" value="008321236477929467003:63kdpeqkkvw">
+			        <input type="hidden" name="cof" value="FORID:11">
+			        <input id="q" name="q" type="text" size="20" value="Search.." autocomplete="off">
+			        <button id="sa" type="submit" name="sa" value=""></button>
+			        <div class="search-box-right search-box-close"></div>
+		    	</form>
+    		</div>
+    	</div>
+    </div>
+    <div class="hamburger">
+    	<input type="checkbox">
+    	<span class="burger"></span>
+	    <span class="burger"></span>
+	    <span class="burger"></span>
     </div>
   </div>
+</div>
+<div class="cookie-message fade">
+	<div class="cookie-message-cnt">
+		<div>We use cookies to ensure that we give you the best experience on our website.</div>
+		<button>Got it!</button>
+	</div>
 </div>
 		<div id="zk-template">
 			<div id="template-inner">
@@ -601,13 +567,12 @@
 		should be sent to <a href="mailto:info@zkoss.org">info@zkoss.org</a>.
 	</p>
 </div>
-<link rel="stylesheet" type="text/css" href="/less/privacy?v=1535267513713">
+<link rel="stylesheet" type="text/css" href="/less/privacy?v=1557733932102">
 
 
 
 	</div></div> 
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script type="text/javascript" src="/resource/js/page/template.js?v=1535267513713"></script>
+<script type="text/javascript" src="/resource/js/page/template.js?v=1557733932103"></script>
 <script type="text/javascript" src="/resource/js/page/banner.js"></script>
 <!-- Google  -->
 <script src="https://apis.google.com/js/client.js?onload=authorize"></script>
@@ -617,40 +582,17 @@
 <footer id="footer">
 
 
-<div id="footer-sns">
-	<div id="footer-sns-inner">
-		<div id="fb-root"></div>
-		<div id="fb-like" class="social-widget">
-			<fb:like href="http://www.zkoss.org" send="true" width="380" show_faces="false" font="arial"></fb:like>
-		</div>
-		<div class="social-widget">
-			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.zkoss.org" data-via="zkoss">Tweet</a>
-			<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
-		</div>	
-		<div class="social-widget">
-			<div class="g-plusone" data-href="http://www.zkoss.org" data-size="medium" data-count="true"></div>
-		</div>				
-		<div id="sns-items">
-			<ul>
-				<li class="label">Follow us via :</li>
-				<li class="sns-btn rss"><a href="http://feeds.feedburner.com/zkoss" title="ZK RSS">ZK RSS</a></li>
-				<li class="sns-btn stumble"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.zkoss.org&amp;title=ZK" title="StumbleUpon It!">StumbleUpon</a>
-				</li>
-				<li class="sns-btn linkedin"><a href="http://www.linkedin.com/groups?home=&amp;gid=995137" title="ZK LinkedIn Group">ZK LinkedIn Group</a></li>
-				<li class="sns-btn twitter"><a href="http://twitter.com/zkoss" title="ZK Twitter">twitter @zkoss</a></li>
-				<li class="sns-btn googleplus"><a href="http://plus.google.com/104585412568381155743" title="ZK Google plus">google plus @zkoss</a></li>
-				<li class="sns-btn facebook"><a href="http://www.facebook.com/zk.framework" title="ZK Facebook">facebook
-						fan page</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+
 <div id="footer-1">
 	<div id="footer-1-inner">
-		<ul>
-			<li><a href="/product/" class="headline">Products</a>
+		<ul class="product-menu">
+			<li class="footer-list">
+				<a href="/product/" class="headline">Products</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
 			</li>
-			<li class="top"><a href="/product/zk" title="ZK">ZK Framework</a>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/product/zk" title="ZK">ZK Framework</a>
   <div class="sep"></div>
 </li>
 <li><a href="/product/zkspreadsheet" title="ZK Spreadsheet">ZK Spreadsheet</a>
@@ -683,10 +625,17 @@
  -->
  <li class="bottom"><a href="/product/zats" title="ZATS">ZATS Test</a>
 </li>
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/demo/" class="headline">Demos</a></li>
-			<li class="top"><a href="/zkdemo/">ZK Framework</a>
+			<li class="footer-list">
+				<a href="/demo/" class="headline">Demos</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
+			</li>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/zkdemo/">ZK Framework</a>
   <div class="sep"></div>
 </li>
 <li><a href="http://zssdemo.zkoss.org/zssdemo">ZK Spreadsheet</a>
@@ -709,10 +658,17 @@
 </li>
 <li class="bottom"><a href="/demo/external">Real World Apps</a>
 </li>
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/download/" class="headline">Downloads</a>
-			</li><li class="top"><a href="/download/zk">ZK Framework</a>
+			<li class="footer-list">
+				<a href="/download/" class="headline">Downloads</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
+			</li>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/download/zk">ZK Framework</a>
   <div class="sep"></div></li>
 <li><a href="/download/zkspreadsheet">ZK Spreadsheet</a>
   <div class="sep"></div></li>
@@ -730,10 +686,17 @@
   <div class="sep"></div></li>
 <li class="bottom"><a href="/download/zats">ZATS Test</a></li>
 
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/whyzk/" class="headline">Why ZK</a>
-			</li><li class="top"><a href="/whyzk/TopReasons">Top Reasons</a>
+			<li class="footer-list">
+				<a href="/whyzk/" class="headline">Why ZK</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
+			</li>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/whyzk/TopReasons">Top Reasons</a>
   <div class="sep"></div>
 </li>
 <li><a href="/whyzk/Features">Features</a>
@@ -753,17 +716,20 @@
 </li>
 <li class="bottom"><a href="/whyzk/Testimonials">Testimonials</a>
 </li>
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/community/" class="headline">Community</a>
+			<li class="footer-list">
+				<a href="/community/" class="headline">Community</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
 			</li>
-			<li class="top"><a href="http://forum.zkoss.org/questions/">Forum</a>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="http://forum.zkoss.org/questions/">Forum</a>
   <div class="sep"></div>
 </li>
 <li><a href="http://blog.zkoss.org">Blog</a>
-  <div class="sep"></div>
-</li>
-<li><a href="/community/board">Board</a>
   <div class="sep"></div>
 </li>
 <li><a href="http://tracker.zkoss.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10002">Request Features</a>
@@ -771,11 +737,17 @@
 </li>
 <li class="bottom"><a href="http://tracker.zkoss.org/secure/IssueNavigator.jspa?mode=hide&amp;requestId=10001">Report Bugs</a>
 </li>
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/documentation" class="headline">Documentation</a>
+			<li class="footer-list">
+				<a href="/documentation" class="headline">Documentation</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
 			</li>
-			<li class="top"><a href="/documentation">ZK Framework</a>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/documentation">ZK Framework</a>
   <div class="sep"></div>
 </li>
 <li><a href="/documentation/zkspreadsheet">ZK Spreadsheet</a>
@@ -805,11 +777,17 @@
 -->
 <li class="bottom"><a href="/documentation/zats">ZATS Test</a> 
 </li>
+				</ul>
+			</li>
 		</ul>
 		<ul>
-			<li><a href="/support/" class="headline">Support</a>
+			<li class="footer-list">
+				<a href="/support/" class="headline">Support</a>
+				<i class="fa fa-angle-right footer-menu-icon"></i>
 			</li>
-			<li class="top"><a href="/support">Support</a>
+			<li class="menu-inside">
+				<ul>
+					<li class="top"><a href="/support">Support</a>
   <div class="sep"></div>
 </li>
 <li><a href="/support/training">Training</a>
@@ -829,28 +807,36 @@
 </li>
 <li class="bottom"><a href="/support/about/contact">Contact Us</a>
 </li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 </div>
 
 
+<div class="seperator"></div>
+
 <div id="footer-2">
+	<h1 id="zk-footerlogo">
+    	<em>
+	    	<a href="/" rel="canonical" title="ZK Home" name="top">ZK - Open Source Java Web Framework</a>
+    	</em>
+    </h1>
 	<div id="footer-2-inner">
-		<img src="https://sourceforge.net/sflogo.php?group_id=152762&amp;type=1" width="0" height="0" alt="SourceForge" style="float:right;">
 		<div id="footer-txt">
 		  <div class="contacts">
-		  	<a href="/support/about" title="About Us">About Us</a> | 
-            <a href="/support/about/contact" title="Contact Us">Contact Us</a> |
-            <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
           </div>
-		© 2018 Potix Corporation. All rights reserved.<br>
-		ZK is a registered trademark of Potix Corporation.</div>
-		<div id="partners">
-			<div class="txt">Partners :</div>
-			<div class="allpartners"><a href="/partner/" title="ZK Partners">Partners</a></div>
+		<!-- &copy; -->© 2019 Potix Corporation. All rights reserved.<br>
+            <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
 		</div>
 	</div>
+	<div id="footer-newsns">
+		<ul>
+			<li class="sns-btn facebook"><a href="//www.facebook.com/zk.framework" title="ZK Facebook">facebook fan page</a></li><li class="sns-btn linkedin"><a href="//www.linkedin.com/groups?home=&amp;gid=995137" title="ZK LinkedIn Group">ZK LinkedIn Group</a></li><li class="sns-btn twitter"><a href="//twitter.com/zkoss" title="ZK Twitter">twitter @zkoss</a></li>
+		</ul>
+	</div>
 </div>
+
 
 </footer>
 
@@ -859,7 +845,6 @@
 	returnedAfterDownloaded();
 	showBanner(hasPerformedPricing);
 </script>
-</div>
 <div class="sponsors-ossf" style="display: none;">
 	
 	<style>
@@ -893,4 +878,4 @@ var google_remarketing_only = true;
 	
 
 
-</body></html>
+</div></body></html>
