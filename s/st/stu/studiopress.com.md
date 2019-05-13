@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiopress.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205150111id_/https%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiopress.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513232045id_/https%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StudioPress
 
