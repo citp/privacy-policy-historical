@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608085504id_/https%3A//c-point.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-point.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513021028id_/https%3A//c-point.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – C Point
 
-Inspire.Vision iTV and Antechinus® software products are developed by C Point Pty Ltd, incorporated under the Australian Company Number (ACN): 085 516 552, and the Australian Business Number (ABN): 48 085 516 552.
-
-Our postal address is:
-
-**C Point Pty Ltd**  
-11 Pankala Road  
-Para Hills 5096, Adelaide, Australia
-
-We can be reached through our [support tickets](https://c-point.com/getsupport/), or you can reach us by telephone at +618 8396 8353
+We can be reached through our [support tickets](https://c-point.com/getsupport/)
 
 In short:
 
@@ -32,9 +24,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, opening a support ticket, or writing us at the above address.
 
 Customers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
-
-If you feel that this site is not following its stated policy, you may contact us at the above addresses or phone number.  
-
 
   
 
