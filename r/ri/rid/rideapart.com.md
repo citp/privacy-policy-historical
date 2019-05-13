@@ -1,146 +1,399 @@
-> *The following text is extracted and transformed from the rideapart.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009200333id_/http%3A//rideapart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rideapart.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513041000id_/https%3A//accounts.motorsportnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RideApart
+# Privacy policy
 
-This Privacy Policy discloses the privacy practices for _RideApart_ and RideApart Inc., Free sites with free content. For the purposes of this Privacy Policy, unless otherwise noted, all references to “RideApart” include RideApart.com and any and all other wholly owned subsidiaries or whole owned partner websites unless otherwise specified.
+[1\. Introduction](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-1)
 
-In this Privacy Policy, you will find answers to the following questions:
+[2\. What information do we collect?](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-2)
 
-· **Which sites are covered by this policy?**  
-· **What information do we gather about you?**  
-· **What do we do with the information we gather about you?**  
-· **What is our e-mail policy?**  
-· **With whom do we share the information that we gather?**  
-· **Disclosure to successors.**  
-· **How do I change or update my personal information?**  
-· **How do I opt-out from receiving promotional offers?**  
-· **Is my information protected?**  
-· **Other information: Compliance with legal process**  
-· **Other information: Children's Guidelines**  
-· **Other information: Changes to this Privacy Policy**
+[3\. Protection of children’s personal information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-3)
 
-**WHICH SITES ARE COVERED BY THIS POLICY?**  
-This Privacy Policy applies to the following RideApart Web sites:  
-• _RideApart_ (Free Content)
+[4\. Your Rights](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-4)
 
-Please note, our Web sites may contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy of any company before submitting your personal information.
+[5\. How we use your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-5)
 
-**WHAT INFORMATION DO WE GATHER ABOUT YOU?**  
-The information we gather falls into two categories: 1) Personally identifiable information, which includes personal information you voluntarily supply when you order, complete a survey, register for an online discussion, enter a contest or provide your e-mail address and 2) Non-personally identifiable information, which includes tracking information collected as you navigate through our sites.
+[6\. Can I find out what personal information Motorsport Network holds on me?](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-6)
 
-**Personally Identifiable Information**  
-RideApart.com may require that you supply certain personally identifiable information, including a unique e-mail address and demographic information (zip code, age, sex, household income (optional), job industry and job title) in order to complete certain transactions like purchasing from our store or verifying user submitted content. By using RideApart.com, you are agreeing to our Terms of Service.
+[7\. How we disclose your information to third parties](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-7)
 
-**Subscription Registration for our Web sites via Third-Party Tools**  
-To help facilitate RideApart.com subscriptions, we have partnered with PayPal to gather subscription information and fees. Subscription and registration through PayPal is governed by their privacy policy and terms of use which can be viewed on [PayPal's site](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Legal_Hub_full&locale.x=en_US). _RideApart_ is not responsible for the privacy policy of PayPal and encourages you to read their privacy policy before supplying any personal information. RideApart is not responsible for any actions PayPal relating to personal information you have supplied to PayPal. PayPal will be providing us with any subscriber information you have provided in connection with your subscription purchase. Information supplied to us will be governed by this privacy policy.
+[8\. Updating and control of your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-8)
 
-**Paid Products and Services**  
-Some of our products are sold through third party vendors and are governed by their privacy policies. RideApart is not responsible for the privacy policies of third party vendors and encourages you to read their policies before signing up. Additionally, by making a purchase of RideApart products or services through a third party vendor, you expressly grant permission through your action for RideApart to share any personal information with that vendor. Some of our products are sold internally through parent company RideApart Inc., or wholly or partially owned subsidiaries and are thus governed by this privacy policy. By making a purchase from RideApart directly, RideApart still reserves the right to share your personal information with third parties for the strict purposes of processing payments, collections on delinquent payments, or disputes with credit card companies, banks, or third party payment transfer services with whom you have used to make a payment to RideApart.
+[9\. Third party links and services](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-9)
 
-**Contests, Sweepstakes and Special Offers**  
-On occasion, RideApart collects personal information from readers in connection with optional sweepstakes, contests or special offers. If this information is to be shared with a third party other than RideApart, we will notify you at the time of collection. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer.
+[10\. Where we store your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-10)
 
-**Surveys and Market Research**  
-RideApart may collect personal information from readers in connection with voluntary surveys. Data may be collected on our Web sites, on the phone or through the mail. The information you provide in answer to optional survey questions may be shared, but only in the aggregate, with advertisers and partners unless we notify you otherwise at the time of collection.
+[11\. Security of your information](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-11)
 
-All survey data is reported and/or used in aggregate form only, and no personally identifiable information is released. From time to time, we may use different technologies, including cookies, to better understand answers to our surveys. As a panel member, we require that you supply us with your e-mail address and name. Home address and telephone number are optional.
+[12\. Reporting of security vulnerabilities](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-12)
 
-**Special Events and Promotions**  
-We often receive information regarding readers who may attend RideApart Special Events and Promotions. Such information will be used as indicated at the time of collection.
+[13\. Social Media](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-13)
 
-**Links**  
-The RideApart Site contains links to other sites. Please be aware that RideApart is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by RideApart.
+[14\. Anti-spam policy](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-14)
 
-**Non-personally Identifiable Information**  
-In addition to personally identifiable information, we also collect certain non-personally identifiable information through technology and tools, including cookies, Web Beacons and log data. We aggregate and analyze this information in order to learn more about how our Web sites are used.
+[15\. How to contact us](https://accounts.motorsportnetwork.com/legal/privacy-policy#section-15)
 
-**Cookies from Us**  
-As is standard practice on many Web sites, we use “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including RideApart.com, if your computer does not accept cookies from us.
+  
 
-**Third Party Cookies**  
-Some of our business partners may use cookies on our site (for example, advertisers). However, RideApart has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by RideApart only and does not cover the use of cookies by any advertisers.
 
-**Clear Gifs (Web Beacons)**  
-RideApart.com or its Business Partners may elect to use a software technology called clear gifs (a.k.a. Web Beacons/action tags/pixel tags), alone or in conjunction with cookies, to better manage our site and the information gathered. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may alert HellForLeatherMagazine.com’s server about the online movements of Web users. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind that we do not have access to any information collected by the clear gifs used by RideApart’s Business Partners nor any additional related information.
+### 1\. Introduction
 
-**Analytics Technologies**  
-We reserve the right to change the vendors who provide us with usage data.
+Motorsport Network LLP (“Motorsport Network”, “Us”, “We”, “Our”). We are committed to managing your personal information in accordance with current legislation and best practice. Our aim is to be responsible, relevant and secure when using your data. You can find out more about us by visiting [www.motorsportnetwork.com](https://www.motorsportnetwork.com/).
 
-**IP Addresses**  
-RideApart logs Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites.
+Whenever you provide personal information we will treat that information in accordance with this Notice. We endeavour at all times to keep your data accurate and secure, and to honour your data preferences with regard to receipt of direct marketing e.g. postal communications, email, mobile messaging and telephone calls.
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+Motorsport Network has a portfolio of over 20 brands which operate across motorsport and automotive, all of which are governed by this Privacy Notice. For an up to date list of these brands please visit [www.motorsportnetwork.com/our-brands](https://www.motorsportnetwork.com/our-brands).
 
-_WHAT DO WE DO WITH THE INFORMATION WE GATHER ABOUT YOU?_
+We respect your privacy and we are committed to protecting your personal Information as that term is defined in the General Data Protection Regulation (“GDPR) (“Information”). We comply with the principles of the GDPR and aim to maintain consistently high levels of best practice in our processing of your Information.
 
-**Statistical Analysis**  
-RideApart may perform statistical, demographic and marketing analyses of users, and their browsing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our readers. We also use such information to allow advertising to be targeted, in aggregate, to the users for whom such advertising is most pertinent. RideApart.com may share personal information with RideApart Inc., or any other wholly owned subsidiary of RideApart for analysis purposes, including analysis to improve customer relationships.
+And here’s our upfront promise. We know how important it is for you to have control over any communications that you receive from us, so here’s a quick and easy way of opting-out of all marketing communications. BUT please remember that this will remove you from everything you’ve signed up for and you may wish to be more selective and choose which communications you no longer wish to receive, particularly by email or SMS, by clicking on the unsubscribe link provided at the bottom of each and every message we send you. Otherwise please [click here](mailto:datacontroller@motorsport.com?subject=Opt%20out).
 
-**Products and Services from RideApart**  
-From time to time, we may provide readers with information and offers about other products and services offered by RideApart, including premium products and services. This information will only be shared internally.
+Please read in conjunction with our Terms & Conditions and our Cookie Policy. For these documents, please refer to the original Motorsport Network website you came from, there will be a link in the footer to our Cookie Policy and the Terms & Conditions for that site.
 
-**User Generated Content (Including Comments and Reviews)**  
-We offer opportunities for you to engage in public activities on RideApart.com, including submitting comments, recommendations, reader reviews and ratings in a number of areas. Any information you disclose in your submissions, along with your screen name or ID, or any image or photo, becomes public and may be used by RideApart for online and offline promotional or commercial uses in any and all media. If you chose to engage in public activities on the site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+This Privacy Policy (“Policy”) is intended to inform you how we collect, use and disclose your personal data. This Policy is intended to assist you in making informed decisions about your Information when using our website or the services provided by us or our group companies. Please take a few moments to read and understand the Policy.
 
-**EMail Newsletters**  
-If you choose to receive them, RideApart will periodically send you e-mail newsletters or promotional e-mail about services offered by RideApart and its advertisers.
+By using our website and services you consent to our collection and use of your Information as described in this Policy. If we change our Policy and/or procedures, we will update this Policy to keep you aware of what Information we collect, how we use it and under what circumstances we may disclose it. Your continued use of the website or services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of this Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-**WHAT IS OUR E-MAIL POLICY?**  
-RideApart complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [info@rideapart.com](mailto:info@rideapart.com).
+In addition to this Policy, each service offered by us or our group companies may have additional privacy provisions that are specific to the particular service. These supplemental disclosures are made adjacent to the particular service at the time your Information is collected.
 
-**Account and Service-Related Email**  
-RideApart reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
+  
 
-**Promotional Email**  
-If you choose to receive them, RideApart may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.
 
-From time to time, RideApart may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.
+### 2\. What information do we collect?
 
-**Survey Email**  
-We may send you an e-mail inviting you to participate in user surveys, asking for feedback on RideApart.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
+All your Information will be held and used in accordance with the GDPR where applicable. If you want to know what Information we collect and hold about you, please email us at: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. When you visit and use our website or request our services you may provide us with or we may collect your Information such as your postal address, email address and other personal information. You may provide or we may collect this Information in a number of ways:
 
-**Emails From You**  
-If you send us e-mails, you should be aware that information disclosed in e-mails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in e-mails. We will use your e-mail address to respond directly to your questions or comments.
+2.1. Information you voluntarily provide to us
 
-**Email This Article Feature**  
-RideApart.com readers may use this feature to e-mail links to articles (or other content such as slideshows). The e-mail addresses that you supply to this service are saved for your convenience for future articles you may wish to e-mail; these addresses are not used for any other purpose, and will not be shared with any third parties.
+We collect and maintain Information that you voluntarily submit to us during your use of our website or services. For example:
 
-**WITH WHOM DO WE SHARE THE INFORMATION THAT WE GATHER?**  
- _RideApart_  
-RideApart will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.  
- _Service Providers_  
-We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for RideApart, and they may not share or resell this data.
+  * When you register on our website or for a product or service, you may provide us with certain Information including your name, email address, user name, password and demographic Information
+  * If you sign up to our service via a social network we may use the profile Information you enable us to access regarding your interests.
+  * If you sign up to receive a newsletter, a magazine, enter a competition or participate in social networking activities, you may provide us with contact Information (e.g., email, telephone and/or or physical address)
+  * You may provide us with Information in the course of email, customer support interactions and surveys.
 
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
 
-Business Transitions. In the event RideApart goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-**DISCLOSURE TO SUCCESSORS**  
-We may disclose your Personal Information to any successor-in-interest of ours, such as a company that acquires us. In the event RideApart goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred. You will be notified via email or by a notice on our Website of any such change in ownership or control of your Personal Information.
+Different websites operated by us may ask for different pieces of Information. You can choose not to provide us with certain Information, but this may stop you from gaining access to a service or limit the features that you can use on our websites. For more Information, please see the “How We Use Your Information” section of the Policy below.
 
-**HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**  
-Information collected in conjunction with purchasing a subscription package is collected via PayPal. Changes to information used to purchase subscriptions should be made through [PayPal’s website](https://www.paypal.com/). To update any other personal information, for example information used to generate user content, please contact us at info@RideApart.com
+2.2. Information we collect through your use of our Website
 
-**HOW DO I OPT-OUT FROM RECEIVING PROMOTIONAL OFFERS?**  
- _E-mail Promotions_  
-If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail.
+As you use our website, Information may also be passively collected by us through our use of cookies, flash cookies, web beacons, pixels, log files, and other technologies. This Information allows us to deliver more helpful Information, services, tools and advertisements. Please see our Cookie Policy for more Information.
 
-If you experience difficulty with the unsubscribe process, feel free to contact us at [info@rideapart.com](mailto:info@rideapart.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
+2.3. Information we receive from third parties
 
-_Offline Promotions_  
-If, at any time, you prefer not to receive traditional mail or telephone solicitations originated by RideApart and its third party affiliates, please e-mail us at [info@rideapart.com](mailto:info@rideapart.com)
+We may also combine online and/or offline Information received from third parties (including other members of our group of companies – [click here](https://www.motorsportnetwork.com/our-brands) for a full list) with your Information. The third party Information is used for a variety of purposes including to verify other Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and relevance of the advertising we provide to you.
 
-**IS MY INFORMATION PROTECTED?**  
-Data Security: To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
+  
 
-**OTHER INFORMATION: Compliance with Legal Process**  
-We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-**OTHER INFORMATION: Children's Guidelines**  
-COPPA Compliance: RideApart does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
+### 3\. Protection of children’s personal information
 
-**OTHER INFORMATION: Changes to This Policy**  
-This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect and registered users will be notified via e-mail.
+3.1. Our sites and products are not designed for children, but one or two may receive visits by children and young people under the age of 16 and we encourage them to speak to their parents before submitting any personal Information on any of our sites.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us by email at [info@ridepart.com](mailto:info@ridepart.com).
+3.2. We recommend that parents or guardians supervise young people while they are online.
+
+3.3. We are dedicated to the protection of children’s and young people’s personal Information and we do not knowingly market to children.
+
+3.4. If you are under 16 years of age you should always ask your parent or guardian before:
+
+  
+
+
+  * Responding to anything on any of our sites
+  * Asking us to send anything to you or another young person
+  * Enter a competition or a game online – you must generally be over 16 years of age to enter, but please do check the specific Terms & Conditions for each instance.
+  * Post anything on a bulletin board or any chat room
+  * Offer to agree to buy anything online
+
+
+
+3.5. A parent or guardian may submit a request to [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) to stop any further use of a child or young person’s personal Information or to request that we suppress any Information as far as we are able. Before disclosing Information about a child, we may request that the parent or guardian provide reasonable Information for identification purposes.
+
+  
+
+
+### 4\. Your Rights
+
+4.1 Right to Confirmation
+
+Each data subject has the right to require the controller to confirm whether personal data relating to him or her is being processed. If an affected person wishes to make use of this confirmation right, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
+
+4.2 Right to Information
+
+Any person concerned by the processing of personal data shall have the right at any time to obtain from the data controller information free of charge on the personal data stored about him and a copy of that information. Furthermore, the data subject has the right to be provided with with the following information:
+
+  * the processing purposes
+  * the categories of personal data being processed
+  * the recipients or categories of recipients to whom the personal data have been disclosed or are still being disclosed, in particular to recipients in third countries or to international organizations
+  * if possible, the planned duration for which the personal data are stored or, if that is not possible, the criteria for determining that duration
+  * the existence of a right to rectification or erasure of the personal data concerning him or of limitation of processing by the controller or a right to object to such processing
+  * the existence of a right of appeal to a supervisory authority
+  * if the personal data are not collected from the data subject: All available information about the origin of the data, the existence of automated decision-making including profiling and - at least in these cases - meaningful information on the logic involved and the scope and intended impact of such processing on the data subject
+
+
+
+In addition, the data subject has a right of access as to whether personal data has been transmitted to a third country or to an international organization. If that is the case, then the data subject has the right to obtain information about the appropriate guarantees in connection with the transfer.
+
+If an affected person wishes to exercise this right to information, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
+
+4.3. Right to Rectification
+
+Any person affected by the processing of personal data has the right granted by the European legislator to demand the immediate correction of inaccurate personal data concerning him / her. Furthermore, the data subject has the right to request the completion of incomplete personal data, including by means of a supplementary declaration, taking into account the purposes of the processing.
+
+If an affected person wishes to exercise this right of rectification, they can contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
+
+4.4 Right to Cancellation
+
+Any person affected by the processing of personal data shall have the right to require the controller to immediately delete the personal data concerning him, provided that one of the following reasons is satisfied and the processing is not required:
+
+  * The personal data has been collected for such purposes or otherwise processed for which they are no longer necessary.
+  * The data subject withdraws the consent on which the processing was based the data controller lacks any other legal basis for the processing.
+  * The data subject objects to the processing and there are no legitimate reasons for the processing, or the data subject appeals the processing.
+  * The personal data was processed unlawfully.
+  * The deletion of personal data is required to fulfill a legal obligation under Union or national law, to which the controller is subject.
+  * The personal data were collected in relation to information society services.
+
+
+
+If one of the above reasons is correct and an affected person wishes to arrange for the deletion of personal data held by us, they may, at any time, contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. Our data protection officer or another employee will arrange that the deletion request be fulfilled immediately.
+
+If the personal data have been made public by us and if our company is responsible for deleting personal data as the person responsible, we shall take appropriate measures, including technical ones, taking into account the available technology and the implementation costs to inform other data controllers processing the published personal data that the data subject has requested that these other data controllers delete all links to such personal data or copies or replications of such personal data, as far as the processing is not required. Our data protection officer or another employee will arrange the necessary in individual cases.
+
+4.5. Right to Restriction of Processing
+
+Any person affected by the processing of personal data has the right to require the controller to restrict the processing if one of the following conditions applies:
+
+  * The accuracy of the personal data is contested by the data subject for a period of time that enables the person responsible to verify the accuracy of the personal data.
+  * Processing is unlawful, the data subject refuses to delete the personal data and instead requests the restriction of the use of personal data.
+  * The controller no longer needs the personal data for processing purposes, but the data subject needs them to assert, exercise or defend legal claims.
+  * The data subject has objected to the processing and it is not yet clear whether the legitimate reasons of the person responsible outweigh those of the data subject.
+
+
+
+If one of the above conditions is met and an affected person wishes to request the restriction of personal data stored by us, they may at any time contact our data protection officer or another employee of the controller. Our data protection officer or another employee will cause the restriction of processing.
+
+4.6. Data Transferability
+
+Any person affected by the processing of personal data shall have the right to obtain the personal data concerning him or her provided to a controller by the data subject in a structured, common and machine-readable format. It also has the right to transfer this data to another person responsible, without hindrance by the controller, to whom the personal data was provided, provided that the processing is based on the consent or on a contract and processing by means of automated processes, unless the processing is necessary for the performance of a task of public interest or in the exercise of public authority, which has been assigned to the responsible person.
+
+Furthermore, in exercising their right to data portability, the data subject has the right to obtain that the personal data are transmitted directly from one controller to another, insofar as this is technically feasible and if so this does not affect the rights and freedoms of others.
+
+In order to assert the right of data transferability, the data subject may at any time turn to the data protection officer appointed by us.
+
+4.7. Right to Object
+
+Any person concerned by the processing of personal data shall have the right, for reasons arising from its particular situation, against the processing of personal data relating to it. 
+
+In the event of an objection, we will no longer process personal data unless we can demonstrate compelling legitimate grounds for processing that outweigh the interests, rights and freedoms of the data subject, or the processing is for the purpose of asserting, exercising or defending legal claims.
+
+If we process personal data in order to operate direct mail, the data subject has the right to object at any time to the processing of personal data for the purposes of such advertising. This also applies to the profiling, as far as it is associated with such direct mail. If the data subject objects to processing for direct marketing purposes, we will no longer process the personal data for these purposes.
+
+In addition, the data subject has the right, for reasons that arise from their particular situation, against the processing of personal data relating to them, which we carry out for scientific or historical research purposes or for statistical purposes, to object, unless such processing is necessary to fulfill a public interest task.
+
+In order to exercise the right to object, the data subject can directly contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy. The data subject is also free, in the context of the use of information society services, to exercise his right of opposition by means of automated procedures using technical specifications.
+
+4.8 Automated Decisions in Individual Cases Including Profiling
+
+Any person concerned by the processing of personal data shall have the right not to be subject to a decision based solely on automated processing, including profiling, which has a legal effect on it or, in a similar manner, significantly affects it; unless the decision (1) is necessary for the conclusion or performance of a contract between the data subject and the controller, or (2) is permitted by Union or Member State legislation to which the controller is subject, and that legislation provides for appropriate measures to safeguard the rights and freedoms as well as the legitimate interests of the data subject; or (3) with the express consent of the data subject.
+
+If the decision (1) is required for the conclusion or performance of a contract between the data subject and the controller or (2) it is done with the express consent of the data subject, we shall take appropriate measures to safeguard the rights, freedoms and legitimate interests of the data subject person, including at least the right to obtain the intervention of a person by the controller, to express his / her own position and to contest the decision.
+
+If the data subject wishes to enforce automated decision-making rights, they may contact our data protection officer or other data controller at any time.
+
+4.9 Right to Revoke Consent
+
+Any person affected by the processing of personal data has the right, granted by the European directive and regulatory authority, to revoke consent to the processing of personal data at any time.
+
+If the data subject wishes to assert their right to withdraw consent, they may at any time contact contact us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com), or write to us at the address given at the end of this Policy.
+
+  
+
+
+### 5\. How we use your information
+
+We will use your Information in the ways described below and as described at the time that the Information is collected.
+
+5.1. To Provide the Services
+
+In general, we use your Information as necessary or appropriate for our business purposes including to:
+
+  * Administer your account where you have opened an account with us
+  * Register you and provide you access to the website or services requested by you
+  * Respond to inquiries or requests that you direct to us
+  * Fulfil your requests for products or services
+  * Send communications and administrative emails about the website or our services
+  * Personalise and better tailor the features, performance and support of the website and our services for your use; analyse, benchmark and conduct research on user data and user interactions with the website and our services
+  * Run competitions
+  * Deliver customer services
+  * Other purposes related to any of the above
+
+
+
+5.2. Marketing
+
+Where you have provided us with the appropriate consents, or where the GDPR entitles us to do so, we may send you marketing materials about other products or services offered by Motorsport Network, including products or services offered by our group companies.
+
+In addition, where you have provided us with the appropriate consents, we may also pass your Information for marketing purposes or host messages on behalf of one or more of our group companies or other selected third parties in the following sectors where the Information they provide will be relevant to you: Professional Associations, Automotive, Charity, Education and Training, Recruitment, Business and Leisure Travel, Events, Conferences and Exhibitions, Financial Services, Surveys and Research, Media, Broadcast and Marketing, Publishing and Subscriptions, Business and Information Services, Electronics, computers, Software and AV, Sports and Sportswear, Gaming, Betting, Telecoms and Retail and Partners and Sponsors of Promotions, Events and Competitions.
+
+However, be assured that we understand the irritations of unsolicited communications and we are fully committed to ensuring the rights and obligations set out in the GDPR and the Privacy and Electronic Communications Regulations 2003, updated 2004 and 2011 are respected.
+
+5.3. Behavioural Advertising – customer-relevant advertising
+
+We believe that advertising is more interesting to you when it is relevant. Accordingly, we may customise the advertisements that you see based upon:
+
+  * The Information you voluntarily provide to us
+  * Geographic location Information, which we may determine through your IP address, from your mobile device, or other ways
+  * Data we receive from third parties
+  * Your visits to our website or your use of our services (commonly referred to as "Behavioural Advertising"). Please see our Cookie Policy for further Information.
+  * Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and other technologies s in the manner in our Cookie Policy. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Information they collect. Please see our Cookie Policy for further Information.
+
+
+
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our Cookie Policy for more details of how to delete cookies.
+
+After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
+
+  
+
+
+### 6\. Can I find out what personal information Motorsport Network holds on me?
+
+Under GDPR you have the right to request a copy of the Information that we hold about you. It will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Motorsport Network, 1 Eton Street, Richmond, TW9 1EF. The statutory time for our response is 1 month but with your help in providing us with relevant Information we endeavour to respond sooner.
+
+If any of the Information that we hold about you is incorrect and you’d like it amended, please email [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) and we’ll review your request.
+
+If the incorrect Information relates to your magazine subscription, then you can contact the Customer Services team on +44 01604 251 451who will update your details as soon as practically possible.
+
+  
+
+
+### 7\. How we disclose your information to third parties
+
+We may share your Information with third parties as specifically approved by you or under the circumstances described below and in this Policy.
+
+7.1. Disclosure for legal reasons
+
+We may disclose your Information if we are under a duty to disclose or share your Information to comply with any legal obligation or in order to enforce or apply or fulfil our terms and conditions and other agreements or protect the rights, property, or safety of our customers, our group companies or others. This includes exchanging Information with other companies and organisations for fraud protection and credit risk reduction.
+
+We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organisations act as data processors and are strictly contractually controlled in how they may/may not use your Information and we remain responsible for the protection of your Information.
+
+7.2. Promotions and Sponsors
+
+Some or all of the Information collected during a promotion, contest or poll (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the Promotion or for their marketing purposes, but only in conformance with your consent, or with the terms published at the time your personal data is collected. We are not responsible for the privacy policy or practices of third parties.
+
+When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional Information about the specific privacy practices associated with the Promotion.
+
+7.3. Changes to our Company
+
+In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy.
+
+7.4. Message Boards and Chats
+
+We may make message boards, chat rooms, and other interactive forums available as part of our services. You should be aware that any Information which you post to these interactive forums or otherwise choose to make publicly available, may be disclosed and available to all users who have access to that portion of our website or services. By using these interactive forums, you agree that we are not responsible for any Information that you disclose or communicate in such forums, and any disclosures you make are at your own risk.
+
+  
+
+
+### 8\. Updating and control of your information
+
+There are a number of ways in which you can control the collection, use, and sharing of your Information and update your Information and preferences.
+
+8.1. Opting-Out on Receipt of Marketing Communications
+
+When you receive electronic marketing communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in e-mails covering any marketing communication from us.
+
+8.2. Contacting Us
+
+If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences if you [click here](mailto:datacontroller@motorsport.com?subject=Update%20Information).
+
+Please note that:
+
+  * Even if you delete Information, we may retain your Information in conformance with our data retention policy most specifically for legal and tax reasons and to honour your opt-out requests; and
+  * We do not keep Information longer than we deem necessary.
+  * We are not responsible for updating or removing your Information contained in the lists or databases of third parties who have previously been provided with Information as permitted by this Policy.
+
+  
+
+
+### 9\. Third party links and services
+
+Please remember that when you use a link to go from our website to another website or you request a service from a third party, our Policy no longer applies. Your browsing and interaction on any other website or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies. We do not monitor, control, or endorse the Information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to Information collected by us through our website or services and does not apply to these third party websites and third party service providers.
+
+  
+
+
+### 10\. Where we store your information
+
+The Information that we collect from you may be transferred to, stored and processed at a destination outside the European Economic Area, (all EU countries plus Norway, Iceland and Liechtenstein). Your Information may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers, for instance, for customer service purposes. By submitting Information to us, you agree to this transfer, storing or processing. We will take all reasonable steps necessary, including the use of the Model Contractual Arrangements as approved by the EU, or other contractual means to ensure that your Information is treated securely and in accordance with this Policy and the GDPR. We do not store credit card details nor do we share customer details with any 3rd parties.
+
+  
+
+
+### 11\. Security of your information
+
+We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal Information to comply with the same. However, unfortunately, the transmission of Information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the GDPR. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it.
+
+  
+
+
+### 12\. Reporting of security vulnerabilities
+
+Motorsport Network is committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would appreciate it if you could report it just to us in a responsible manner. Please email us at [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com) and we will respond to you as soon as possible. This provides us with an opportunity to work with you and quickly address and resolve any issue. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We’ll keep you informed as we move forward with our investigations.
+
+  
+
+
+### 13\. Social Media
+
+13.1. Motorsport Network provides users with the ability to use their social media credentials to sign in to our website(s).
+
+When you create your Motorsport Network account, and authenticate via a third-party service like Twitter or Facebook, you grant permission to the social network to share your user details with us.
+
+Depending on the network this will include
+
+  * Basic account Information included in your public profile such as name and email address required to verify and facilitate your sign in
+  * Other Information that is publically available based upon the privacy settings you have with your social media account.
+  * Any other details you choose to share according to your specific account settings.
+
+
+
+We will be clear when we do request more than just basic account Information from you and request that you should also check what permissions we are asking for before you connect with these apps and services. We want to use this Information to better tailor any content we provide to you.
+
+Social sign-in may be provided by Motorsport Network or a third party
+
+13.2. Social networking sites, such as Facebook, Linked-In, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
+
+13.3. We do not control how your personal Information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the Information they may be sharing. If you do not want your networking sites to share Information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such Information. Motorsport Network is not responsible for how these third party sites may use Information collected from or about you.
+
+  
+
+
+### 14\. Anti-spam policy
+
+Motorsport Network provides exciting and thought-provoking content in our emails and aims to tailor them to the specific needs & interests of our brand audiences. We hope you enjoy receiving and reading them.
+
+Motorsport Network has zero tolerance concerning the sending of unsolicited/bulk commercial email - “spam”. In respect of this policy, please also refer to our full Terms & Conditions and Cookie Policy.
+
+14.1. Automated Spam Filtering: We automatically scan all incoming electronic messages and filter out those that appear to be spam. As no system can be 100% accurate in detecting genuine emails from spam, authentic messages may occasionally be filtered. If you believe this may have happened, please contact the recipient by another means.
+
+14.2. Unwanted messages from Motorsport Network: Any recipient of email communication from us may request, at any time, to unsubscribe. In the unlikely event you are in receipt of email communication from Motorsport Network which could be considered as spam, we encourage you to report it to us by forwarding a copy to us at: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com)
+
+We will fully investigate any reports of abuse.
+
+  
+
+
+### 15\. How to contact us
+
+If you have any questions regarding privacy or this Policy, you may contact us as follows:
+
+Data Protection Officer, Motorsport Network, 1 Eton Street, Richmond, TW9 1EF Email us: [datacontroller@motorsport.com](mailto:datacontroller@motorsport.com)
+
+  
+
+
+### Changes to this Policy
+
+We may amend/update this policy by publishing a new version on this web site at any time, so we encourage you to check back regularly to make sure that you are still happy with the terms under which we process your personal data.
+
+_17 May 2018_
