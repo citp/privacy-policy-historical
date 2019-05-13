@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108195434id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513111750id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
