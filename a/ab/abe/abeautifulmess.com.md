@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the abeautifulmess.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeautifulmess.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513031040id_/https%3A//abeautifulmess.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - A Beautiful Mess
 
-**Go Daddy Respects Your Privacy**
+**A BEAUTIFUL MESS WEBSITE PRIVACY STATEMENT**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **This document was last updated on May 24, 2018.  **
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS A Beautiful Mess is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.abeautifulmess.com, ](https://shop.abeautifulmess.com/about/falsewww.shop.abeautifulmess.com,)you acknowledge and fully understand A Beautiful Mess’ Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+PARTICIPATING MERCHANT POLICIES Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in A Beautiful Mess services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**Information Collection and Use**
+INFORMATION WE COLLECT
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When you interact with us through the Service, we may collect Personal Data and other information from you, as further described below:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Personal Data That You Provide Through the Service: We collect Personal Data from you when you voluntarily provide such information such as when you register for access to the Service (for example, name and email address), use certain features of the Service, contact us with inquiries or respond to one of our surveys.If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of A Beautiful Mess and the authorized third parties referred to herein located in Israel and/or other countries.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Non-Identifiable or Aggregated Data: When you interact with A Beautiful Mess through the Service, we receive and store certain non-personally identifiable information (for example, geo-location and device ID). Such information, which is collected passively using various technologies, (including Facebook’s analytics and Google Analytics) cannot presently be used to specifically identify you. A Beautiful Mess may store such information itself or such information may be included in databases owned and maintained by A Beautiful Mess’ affiliates, agents or service providers. In addition, we may collect information about your use of our Site and Service such as your IP address, browser information, page visitation history, crash diagnostic reports, device information, computer information, usage pattern information, operating system information, location information, timestamp information and any other anonymous information about the nature and frequency of your use of our Site and Service.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In operating the Service, we may also use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Service gives to your browser when you access the Service. Our cookies help provide additional functionality to the Service and help us analyze Service usage more accurately. For instance, our Service may set a cookie on your browser that allows you to access the Service without needing to remember and then enter a password more than once when you are using the Service. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service’s features.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+OUR USE OF YOUR PERSONAL DATA AND OTHER INFORMATION
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+A Beautiful Mess uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Service, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. A Beautiful Mess and its affiliates (“Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Service to help us improve the content and functionality of the Service, to better understand our users and to improve the Service. A Beautiful Mess and its Related Companies may use this information to communicate with you regarding the Service or to tell you about services (including those of our trusted partners) that we believe will be of interest to you. If we do so, marketing communications we send you will contain instructions permitting you to “opt- out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. Note however that as a user of the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service, such as billing or service notifications. If A Beautiful Mess intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-**Security**
+OUR DISCLOSURE OF YOUR PERSONAL DATA AND OTHER INFORMATION
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+A Beautiful Mess is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-**Updating Your Information**
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Related Companies: We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Agents, Consultants and Related Third Parties: A Beautiful Mess, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Legal Requirements: A Beautiful Mess may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to  _(i)  _comply with a legal obligation,  _(ii)  _protect and defend the rights or property of A Beautiful Mess,  _(iii)  _act in urgent circumstances to protect the personal safety of users of the Service or the public, or  _(iv)  _protect against legal liability.
 
-      iii.      You may call us at: (480) 505-8800
+EXCLUSIONS
 
-       iv.      You may fax us at: (480) 505-8844
+This Privacy Policy does not apply to any Personal Data collected by A Beautiful Mess other than Personal Data collected through the Service. This Privacy Policy shall not apply to any unsolicited information you provide to A Beautiful Mess through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as bulletin boards, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and A Beautiful Mess shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
 
-**Sending Emails**
+CHILDREN
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+A Beautiful Mess does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data through the Service without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to A Beautiful Mess through the Service, please contact us, and we will endeavor to delete that information from our databases.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+LINKS TO OTHER WEB SITES
 
-**Compliance with Laws and Law Enforcement**
+This Privacy Policy applies only to our site and the Service. Our Site and our Service may contain links to other web sites not operated or controlled by A Beautiful Mess (“Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Service do not imply that A Beautiful Mess endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+INTEGRATING THIRD PARTY SERVICES WITHIN THE SERVICE
 
-**Third Party Service Providers**
+You may have the opportunity to access or interact with our Site and Service through Third Party Sites that offer social networking opportunities and products. Consequently, your Personal Data may be shared with those Third Party Sites and their products and those Third Party Websites and products may share your Personal Data with us. If you click on a link to a Third Party Site or product when using our Site or Service, you will leave our Site and Service and go to the Third Party Site or product you selected. If you choose to provide your information directly to Third Party Sites and products, your information will be governed by the policies of those Third Party Sites and products and A Color Story shall have no liability or responsibility for the privacy practices or other actions of any third party website or service.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+SECURITY
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+A Beautiful Mess takes reasonable steps to protect the Personal Data that we collect and maintain. We follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and once we receive it. However, no Internet, email or other electronic transmission is ever fully secure or error free and while we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. If you have any questions about security on our Site or Service, you can send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-**Supplementation of Information**
+By subscribing to email marketing and other promotional communications from Red Velvet Art, LLC d/b/a A Beautiful Mess ,you may receive promotional communications from our subsidiaries and affiliates. You may opt out of these communications at any time by updating your communication preferences.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We use your Individual Information to provide you with emails including promotional offers that may be of interest to you. We may maintain separate email lists for different purposes, and you may be included on more than one such email list. When you receive a promotional communication from us, or one of our subsidiaries or affiliates, you may indicate a preference to stop receiving communications from that particular list by following the unsubscribe instructions provided in the email you receive. Despite your indicated email preferences, we may continue to send you service-related communications, including notices of any updates to our terms of use or privacy policy, which you may not opt out of.
 
-**Contests/Surveys**
+USE OF WEB BEACONS OR GIF FILES
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+A Beautiful Mess pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow A Beautiful Mess to count users who have visited those pages and to deliver co-branded services. A Beautiful Mess may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. A Beautiful Mess prohibits Web beacons from being used to collect or access your personal information.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+ACCESSING WEB ACCOUNT INFORMATION We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-**Tell-A-Friend**
+CHANGES TO THIS STATEMENT A Beautiful Mess has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+CONTACTING US If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d0006321310171307061b14071e1f1701015c111d1f). A Beautiful Mess will use commercially reasonable efforts to promptly respond and resolve any problem or question.
