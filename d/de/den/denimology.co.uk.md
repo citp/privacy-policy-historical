@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denimology.co.uk privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326014521id_/https%3A//denimology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denimology.co.uk privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513235818id_/https%3A//denimology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Denimology
 
