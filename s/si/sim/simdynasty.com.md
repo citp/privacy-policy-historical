@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simdynasty.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Sim Dynasty - Privacy Policy
 
@@ -15,7 +15,7 @@ Sim Dynasty values your privacy and is dedicated to protecting your personal inf
 
 ## Choice
 
-  * How to control the e-mails you receive from us by visiting the [Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page
+  * How to control the e-mails you receive from us by visiting the [Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page
 
 
 
@@ -92,7 +92,7 @@ The companies that serve our advertisements may uses beacon GIFs to help track a
 
 Registration form. You must register to play Sim Dynasty. The form to do so asks for some mandatory information and other information that is optional. We require you to provide your name, e-mail address and Zip code. You must also select a user name and password. If you are joining a dynasty league that requires payment, we require the necessary information for your credit card or PayPal account. We also ask you for your address and telephone number, but this information is optional.
 
-When you register, you can indicate whether or not you want to receive special offers or be contacted about league news. You also have the option to allow other members to see your e-mail address. Owners are only permitted to use these e-mail addresses for offering trades and other Sim Dynasty business. Any use of these addresses for anything other than Sim Dynasty business is strictly prohibited. Violators will receive one warning and then be expelled from the league. Please note that if you choose to reveal your information to other owners, Sim Dynasty is not responsible for violations of this policy. You can always update your contact preferences by visiting the [Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page.
+When you register, you can indicate whether or not you want to receive special offers or be contacted about league news. You also have the option to allow other members to see your e-mail address. Owners are only permitted to use these e-mail addresses for offering trades and other Sim Dynasty business. Any use of these addresses for anything other than Sim Dynasty business is strictly prohibited. Violators will receive one warning and then be expelled from the league. Please note that if you choose to reveal your information to other owners, Sim Dynasty is not responsible for violations of this policy. You can always update your contact preferences by visiting the [Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page.
 
 ## How we use information
 
@@ -108,9 +108,9 @@ Beacon GIFs . The companies we use to place ads on our site may use beacon GIFs 
 
 Registration form . We use the information collected on our registration forms to set up and administer your account. If you sign up for a dynasty league, we will use the credit card or PayPal information you provide to bill you. We will use your e-mail address to send you updates about changes to our policies, to contact you if there is a problem with your account, or to respond to an e-mail you send to us.
 
-Game play. We use your e-mail address to notify you if a player is injured or if you receive a trade offer. When you register you can indicate whether or not you want to receive these notices. You can always change your mind later by visiting the [ Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page.
+Game play. We use your e-mail address to notify you if a player is injured or if you receive a trade offer. When you register you can indicate whether or not you want to receive these notices. You can always change your mind later by visiting the [ Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page.
 
-Marketing offers. We will occasionally use your e-mail address to send you information on other products you might find interesting. If you prefer, when you register you can opt not to receive such e-mails by unchecking the box on the registration page. You can also opt-out of these e-mails at any time by visiting the [Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page.
+Marketing offers. We will occasionally use your e-mail address to send you information on other products you might find interesting. If you prefer, when you register you can opt not to receive such e-mails by unchecking the box on the registration page. You can also opt-out of these e-mails at any time by visiting the [Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page.
 
 ## Who else has access to your information
 
@@ -118,7 +118,7 @@ Service providers are companies we hire to help us administer the Sim Dynasty we
 
 Advertisers. In order to attract advertisers, we provide them with aggregate data about our web site visitors and customers. We never give an outside advertising company any of your personal information.
 
-Other owners. During registration or by visiting the [ Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page, you can allow other owners to see your name and e-mail address. Owners are only allowed to use your e-mail address to make trades offers and conduct similar league business. This policy also applies to any personal information you post on the message board. Violators are not tolerated and will only receive one warning before being expelled from the league. Please note that if you choose to reveal your information to other owners, Sim Dynasty is not responsible for violations of this policy.
+Other owners. During registration or by visiting the [ Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page, you can allow other owners to see your name and e-mail address. Owners are only allowed to use your e-mail address to make trades offers and conduct similar league business. This policy also applies to any personal information you post on the message board. Violators are not tolerated and will only receive one warning before being expelled from the league. Please note that if you choose to reveal your information to other owners, Sim Dynasty is not responsible for violations of this policy.
 
 Exceptional circumstances. Following are a few special situations that may require us to release your personal information to a third party.
 
@@ -131,13 +131,13 @@ Exceptional circumstances. Following are a few special situations that may requi
 
 ## How to control the e-mails you receive from us
 
-The My Profile page. Our customers are very important to us, and we give you full control over how we contact you. The [ Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page allows you to indicate whether you want other owners to see your e-mail address, if you want e-mail updates on player injuries and trade offers, and if you would like to receive occasional offers for other products you might find interesting.
+The My Profile page. Our customers are very important to us, and we give you full control over how we contact you. The [ Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page allows you to indicate whether you want other owners to see your e-mail address, if you want e-mail updates on player injuries and trade offers, and if you would like to receive occasional offers for other products you might find interesting.
 
 Sim Dynasty updates. We use your e-mail address to send you updates about changes to our policies or to contact you if there is a problem with your account. You cannot opt-out of these important announcements while you are a member of Sim Dynasty. If you do not want to receive these e-mails you must cancel your account.
 
 ## How to see and correct the information we have about you
 
-You can see and change the information we have about you by visiting the [Owner Profile](https://web.archive.org/web/20181125042514id_/http%3A//www.simdynasty.com/userpref.jsp) page. Please note that certain information is required in order for you to participate in the game and for auditing and compliance purposes.
+You can see and change the information we have about you by visiting the [Owner Profile](https://web.archive.org/web/20190513032415id_/http%3A//simdynasty.com/userpref.jsp) page. Please note that certain information is required in order for you to participate in the game and for auditing and compliance purposes.
 
 ## How we protect your information
 
