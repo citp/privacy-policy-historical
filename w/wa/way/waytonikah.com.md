@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713165532id_/https%3A//www.waytonikah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytonikah.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514015823id_/https%3A//www.waytonikah.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Online Portal Muslim Matrimony - Waytonikah
 
 www.waytonikah.com is an electronic website targeting to provide premium matrimonial alliance services. We ensure to protect the privacy of the users as per our terms and conditions.
 
