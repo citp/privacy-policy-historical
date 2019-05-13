@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108213755id_/https%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513135035id_/https%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Canada's NDP
 
