@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwaponline.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619062400id_/http%3A//www.iwaponline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwaponline.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514084928id_/https%3A//iwaponline.com/pages/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | IWAP Online
+# Privacy
 
 IWA is committed to protecting the privacy of its members and registered users of the site. The following statement is valid for the IWA group sites: IWAHQ and IWA Publishing.
 
