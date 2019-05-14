@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyrentcars.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218053315id_/https%3A//www.easyrentcars.com/term%3Finfo%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyrentcars.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514210143id_/https%3A//www.easyrentcars.com/term%3Finfo%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Easyrentcar's Privacy Policy |Easyrentcars.com
 
