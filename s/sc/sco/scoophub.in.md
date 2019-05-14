@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoophub.in privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919140612id_/http%3A//scoophub.in/privacy-policy-for-scoophub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoophub.in privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514234016id_/https%3A//scoophub.in/privacy-policy-for-scoophub) for the most accurate reproduction.*
 
 # Privacy Policy - Most Popular - ScoopHub
 
@@ -43,7 +43,7 @@ All the aforementioned ad servers send their links and advertisements to  your 
 
 **Children’s Information**
 
-Parents are requested to keep an eye on the online activities, which children include them in. ScoopHub.in does not allow any visitor under the age of 13. If any parent feels that we have the information of children under the age of 13 years, they are requested to immediately contact us through **[Privacy](http://scoophub.in/privacy-policy-for-scoophub/)** and we will take immediate action to remove such information.
+Parents are requested to keep an eye on the online activities, which children include them in. ScoopHub.in does not allow any visitor under the age of 13. If any parent feels that we have the information of children under the age of 13 years, they are requested to immediately contact us through **[Privacy](https://scoophub.in/privacy-policy-for-scoophub/)** and we will take immediate action to remove such information.
 
 **Privacy Policy is Strictly Observes over the Internet**
 
