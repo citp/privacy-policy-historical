@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411143217id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514134645id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BisectHosting - Quality Minecraft Server Hosting
 
@@ -6,11 +6,13 @@
       
     
                
+    Last Edited on 2018-05-24	
+    		   
     This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
     
     **What personal information do we collect from the people that visit our blog, website or app?**
     
-    When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
+    When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience such as cookies and usage data.
     
     **When do we collect information?**
     
@@ -26,6 +28,8 @@
           • To administer a contest, promotion, survey or other site feature.
           • To quickly process your transactions.
           • To send periodic emails regarding your order or other products and services.
+          • To provide you with updates, special offers and discounts for our goods and services as well as general company information regarding your account.
+          • To prevent fraudulent purchases e.g. Comparing your address with your credit card provider.
     
     **How do we protect visitor information?**
     
@@ -36,6 +40,9 @@
     
     For your convenience we may store your credit card information kept for more than 60 days in order to expedite future orders, and to automate the billing process.
     
+    **How long is data kept for?**
+    
+    Any data collected from you by us is kept until it is requested to be deleted, or is no longer required to prevent fraud.
     
     **Do we use 'cookies'?**
     
@@ -60,6 +67,10 @@
     
     However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
     
+    If you use the payment service PayPal or paysafecard to pay, your information will be stored and kept with them as per their Privacy Policy.
+    
+    Credit card payments are processed using Stripe, of which your card details, name, email address and mailing address are stored, which are required to process your card payments.
+    
     **Third party links**
     
     Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -69,6 +80,17 @@
     Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
     
     We have not enabled Google AdSense on our site but we may do so in the future.
+    
+    **Facebook**
+    
+    We use Facebook analytics to track any purchase made using marketing through their siet. You can learn move about this at the following links:
+    
+    <https://www.facebook.com/help/164968693837950>
+    <https://www.facebook.com/help/568137493302217>
+    
+    **Twitter**
+    
+    We use twitter advertisements to market our services to you, you can opt out of this here: https://support.twitter.com/articles/20170405
     
     **California Online Privacy Protection Act**
     
@@ -93,7 +115,9 @@
     
     When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
     
-    We do not specifically market to children under 13.
+    We do not specifically market to children under 18.
+    
+    We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a childs parent or guardian and you believe your children have provided us with personal data, please contact us via our ticket system. If we are aware of a childs data being stored on our systems without verification or parental consent, we will remove the information from our systems.
     
     **Fair Information Practices**
     
@@ -139,7 +163,7 @@
     44124
     venturenodellc@gmail.com
     
-    Last Edited on 2014-11-02	
+    
       
     
     	
