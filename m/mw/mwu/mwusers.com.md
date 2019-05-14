@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwusers.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111202100id_/http%3A//mwusers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwusers.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514152443id_/http%3A//mwusers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MW Users
 
