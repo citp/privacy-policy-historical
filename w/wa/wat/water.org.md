@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212143504id_/https%3A//water.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514160206id_/https%3A//water.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Water.org
 
@@ -58,7 +58,7 @@ Email is not recognized as a secure medium of communication. For this reason, we
 
 How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database.  To correct or change your contact information, please contact [donorcare@water.org](mailto:donorcare@water.org).
+You may request access to all your personally identifiable information that we collect online and maintain in our database.  To correct or change your contact information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f4b4041405d4c4e5d4a6f584e5b4a5d01405d48).
 
 What About Other Web Sites Linked to Our Web Site?
 
