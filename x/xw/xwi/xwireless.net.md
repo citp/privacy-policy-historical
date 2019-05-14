@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xwireless.net privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112111844id_/http%3A//www.xwireless.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xwireless.net privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514045232id_/http%3A//www.xwireless.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Enterprise Class Bulk SMS Gateway
 
