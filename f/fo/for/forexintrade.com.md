@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexintrade.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111074834id_/http%3A//www.forexintrade.com/gizlilik-politikasi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexintrade.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514073819id_/http%3A//www.forexintrade.com/gizlilik-politikasi) for the most accurate reproduction.*
 
 # Privacy Policy – Forexintrade – Forex Trading
 
