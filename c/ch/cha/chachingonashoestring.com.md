@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629130150id_/http%3A//chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chachingonashoestring.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514123246id_/https%3A//chachingonashoestring.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Cha-Ching on a Shoestring™
 
@@ -94,7 +94,7 @@ If you are a resident of a country in the EEA, you have the rights, among others
 
 If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
 
-You may exercise any of your rights in relation to your personal data by written notice to us by contacting us [here](http://chachingonashoestring.com/contact-us/).
+You may exercise any of your rights in relation to your personal data by written notice to us by contacting us [here](https://chachingonashoestring.com/contact-us/).
 
 **Sale of Business or Assets**
 
