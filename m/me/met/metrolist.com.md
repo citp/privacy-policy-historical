@@ -1,46 +1,63 @@
-> *The following text is extracted and transformed from the metrolist.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111204123id_/http%3A//www.recolorado.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolist.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514083414id_/https%3A//www.ihomefinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | iHomefinder
 
-This website is brought to you by:
+### iHomefinder, Inc. Privacy Policy
 
-REcolorado  
-6455 South Yosemite Street, Suite 500  
-Greenwood Village, CO 80111  
-303.850.9576
+Your privacy is very important to iHomefinder. iHomefinder treats all personal information about you with great respect and takes various measures to protect your privacy and to secure all information about you.
 
-At REcolorado, we are fully committed to the protection and security of any information you provide to us as visitors to our website. We want you to know that we truly respect and will protect your privacy, so you can enjoy using our site in your search for properties in the Denver Colorado area. This is the Privacy Policy for the REcolorado.com website. This Privacy Policy discloses our approach to privacy and how your personal information is collected and used. Your use of our website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. 
+When you visit our website(s) and use various aspects of our IDX Programs, Features and Services, we collect information such as the web browser you are using, your Internet Protocol (IP) address, visit date and time, and referring website. You may visit our website(s) and use various aspects of our IDX Programs, Features, and Services without revealing any additional information. Other aspects of our IDX Programs, Features, Services, and our website(s) may allow you to provide us with personal information so that you can receive MLS® System data and additional information or customer support from iHomefinder.
 
-### What Information We Collect
+All personal information that you voluntarily submit or enter into the iHomefinder system is kept confidential and is used solely by iHomefinder and third parties working on our behalf and bound by our confidentiality agreements. Neither iHomefinder nor any of our third party vendors will release any of your personal information to any other party unless you expressly permit it or if we are required to do so by law, or to establish or exercise our legal rights or defend against legal claims.
 
-Generally speaking, our website is informational. Your “personally identifiable information,” that is, information about you as an individual which would permit someone to contact you, such as your email address, is only provided if you email us with questions or for any other reason. Otherwise, we do not collect any personally identifiable information from you unless you voluntarily provide it.
+iHomefinder's website and programs and/or our clients' websites and third party vendors may provide various features, tools, and links to other websites. Any such features, tools and/or linked websites are not bound by our privacy policy, and iHomefinder cannot assume any responsibility for any of the information gathered when you use or access any of these features, tools or linked websites.
 
-As is the case when you visit most websites, to administer our site, your visit triggers the automatic logging of certain anonymous information about your computer system such as the type of browser you use, the server name and your “IP” (Internet Protocol) address. When your web browser or email application requests a web page or email from another computer using the Internet, it automatically gives that computer your computer’s “address” so it knows where it should send the information. This is called your computer’s “IP address.” This anonymous information does not contain any personally identifiable information.
+Please read the details below to learn more about our privacy policy. iHomefinder reserves the right to modify this Privacy Policy from time to time.
 
-### How We Protect Your Information
+### Information Collection and Use
 
-We also want you to know that we take the security of your information very seriously and that we take appropriate measures to protect the files in our data system. You need to know, however, that due to the open communication nature of the Internet we cannot guarantee that communication between you and us, and between us and you, will be free from unauthorized access by third parties nor can we be responsible for information stolen from our servers by information harvesting software which may have the ability to scrape data.
+iHomefinder collects personal information when you sign up for an account with iHomefinder, when you use various aspects of our IDX Programs, Features and Services, and when you visit our website(s). When you sign up for an account with iHomefinder, we will collect information including, but not limited to, name, address, phone number, email address, and billing information. Once you sign-up for an account with us, you establish a relationship with us and authorize us to collect, record and make use of your personal information in order to provide with MLS® System data and related services.
 
-### Third Party Sites and Applications
+When you use our IDX Programs, Features and Services, and/or our website, we automatically receive and record information on our server logs such as the web browser you are using, your Internet Protocol (IP) address, visit date and time, and referring website. We may also ask for contact information including, but not limited to, name, email address, and phone number. We also collect information on your use of our products so that we may provide the information you request and so that we may improve our products and business practices, contact you, conduct research, and provide reports for our clients. This information may also be utilized for marketing purposes, and to assess trends in lead capture for your account and for broker office statistics. iHomefinder may combine information about you that we have with information we obtain from business partners, including but not limited to our resellers, affiliated website designers and customer support providers, marketing and customer relationship management ("CRM") partners, or other companies.
 
-REcolorado.com uses third party applications. These third party applications may collect information about your interaction with these applications. Your use of these third party applications is subject to their respective Terms and other policies, if applicable. REcolorado.com includes links to other third party websites. These third party websites may collect information about you. Your use of these third party websites is subject to their respective Terms and other policies, if applicable. We are not responsible for the availability of any other site to which this site links. We do not take responsibility for the contents, advertising, products, privacy policies or other material made available through any other site. Please direct your concerns to that other site’s webmaster or appropriate contact. 
+We also collect and use information pursuant to our Cookies policy, below.
 
-### We Do Not Sell or Rent Your Personally Identifiable Information
+### Data Retention
 
-If you provide personally identifiable information to us, please know we do not share your personally identifiable information with third parties for promotional use without your consent. We may, however, have to disclose, transfer, sell or assign any information obtained through this website, or otherwise in our possession, to a third party as a result of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of REcolorado. We may also have to make information obtained through this website, or otherwise in our possession, available to law enforcement personnel and agencies when requested to do so or as required by law.
+iHomefinder will retain your information for as long as your account is active or as needed to provide you services. We will also retain personal data we process on behalf of our clients for as long as needed to provide services to our client. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Cookie Technology
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us. If you have registered for an account, you may log in and update your user settings. You can also update the contact details of your leads at any time. Otherwise, to access, correct, delete your personal information, please contact us as specified below and we will respond to your request within a reasonable timeframe.
 
-Cookie technology is employed when you access our site. The purpose of cookies is for us to track the uses of our site. “Cookies” are small text files sent by Web servers to be stored on the computers of website users. These files often contain personalization settings or unique identifiers, to keep track of your information and to help us understand the movements of users within and between websites. Cookies alone do not personally identify individuals. One may, however disallow receiving cookies at any time through the web browser settings.
+### Information Sharing and Disclosure
 
-### Opting Out of Behavioral Advertising
+iHomefinder does not rent, sell, or share personal information about you, or any data collected via your iHomefinder account, with other people or nonaffiliated companies except to provide MLS® System Data, Products Features or Services you've requested, when we have your permission, or under the following circumstances:
 
-REcolorado adheres to the guidelines of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising, and has implemented opt-out procedures in accordance with those organizations’ programs. Some of our advertising service providers may also be members and offer an opt-out of behavioral advertising. You may want to visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp), which provides information regarding targeted advertising and the opt-out offered by NAI members. You may also want to visit [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), which provides an opt-out by participating companies in the DAA Self-Regulatory Program. If you would like to opt-out of behavioral advertising controlled by REcolorado you may visit the NAI and DAA links provided above. Please note that REcolorado and other companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to be served generic ads while online.
+We provide the information to our partners, including but not limited to office administrators, designer of the website you use, or to the real estate board/MLS® System provider to which you or your agent belong, or any other third party who works on your behalf with an express written agreement, or with iHomefinder under our own confidentiality agreements. Our partners and service providers do not have any independent right to share this information.
 
-### Privacy Statement Changes
+When you visit our website and provide information such as name, email address, and phone number, we in turn provide this information to marketing and CRM partners, so we may follow up with you, utilizing software or services from our partners, to give you more information about our IDX Programs, Features, and Services.
 
-We reserve the right to change or amend our Privacy Policy to address new issues of privacy and information security and to reflect changes to our website or business practices. Any new changes and/or amendments will be posted on this page. Each version of this policy may be identified by its effective date which is located at the top of the page.
+iHomefinder will respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-### Questions About Our Privacy And Information Security Practices?
+iHomefinder will share necessary information in order to investigate or take action regarding suspected illegal activities, situations involving potential threats to the safety of any person, violations of iHomefinder's License Agreement, Terms of Use, DMCA Notice, or as otherwise required by law.
 
-Your visit to this site is subject to both this notice and our Terms of Use, including limitations on damages, arbitration of disputes and application of the law of the State of Colorado. If you have any questions about our privacy practices or procedures, please feel free to email us at [privacy@REcolorado.com](mailto:privacy@REcolorado.com). We will promptly address your inquiry.
+iHomefinder will transfer information about you if iHomefinder is acquired by or merged with another company. In this event, iHomefinder will notify you before information about you is transferred and becomes subject to a different privacy policy.
+
+We also share and disclose information pursuant to our Cookies policy, below.
+
+### Cookies
+
+iHomefinder sets cookies in your browser when you visit our company website, www.ihomefinder.com, and the websites of our clients using our products and services, in order to record aspects of your website visit and to provide you with various data and related services. Our company website uses tracking features from providers including Google AdSense, Google AdWords, and Bing Ads that set a cookie in your browser when you visit our website or click on one of our ads, to record web activity and serve iHomefinder ads to you on other websites across the internet. We also use these Google Analytics features to collect data about web traffic via non-personally identifiable information: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographics and Interest Reporting. Our IDX search tools on client websites use features, via non-personally identifiable information, including lead source tracking (to note the referring marketing campaign for a site visit), and clickstream data analysis (to note consumer patterns in visiting IDX content). When required by a local real estate board or MLS® System, iHomefinder IDX pages can include cookies for ListTrac visit data tools, which may be aggregated with metadata from many IDX websites into analytics reports and advertising profile information, per local real estate board or MLS® System policies and practices.
+
+Third-party vendors, including Google, also use cookies to serve iHomefinder ads across the internet, based on your past visits to [www.ihomefinder.com](https://www.ihomefinder.com/). You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). You can opt out of Bing's use of cookies by visiting [Microsoft personalized ad preferences](https://choice.microsoft.com/en-us/opt-out). You can opt out of Google Analytics by visiting the [Google Analytics Opt-out Browser Add-on page](https://tools.google.com/dlpage/gaoptout/). You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). You can opt out of cookies in your browser by using the settings specific to your browser. By opting out of cookies, some IDX Programs, Features, and Services might not function fully or correctly, and iHomefinder ads might not display on other websites you visit.
+
+### Canada Anti-Spam Law (CASL) Notice
+
+Please note, if you are in Canada, by providing an email address on our website(s), display ads, or in our IDX Programs, Features, and Services, you provide express consent to receive emails from iHomefinder or from iHomefinder clients who are using our IDX Programs, Features, and Services.
+
+### Changes to this Privacy Policy
+
+iHomefinder reserves the right to update this policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your iHomefinder account or by placing a prominent notice on our site.
+
+### Questions and Suggestions
+
+If you have questions or suggestions, you can [contact us](https://www.ihomefinder.com/contact-us/).
