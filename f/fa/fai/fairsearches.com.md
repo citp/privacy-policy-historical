@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairsearches.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820210103id_/https%3A//www.fairsearches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairsearches.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514033040id_/http%3A//www.fairsearches.com/privacy-policy) for the most accurate reproduction.*
 
 # Fairsearches Privacy Policy
 
