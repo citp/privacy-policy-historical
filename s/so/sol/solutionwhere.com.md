@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutionwhere.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111032909id_/http%3A//www.solutionwhere.com/Corp/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionwhere.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514040526id_/http%3A//www.solutionwhere.com/Corp/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
