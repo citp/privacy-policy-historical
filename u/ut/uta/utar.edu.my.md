@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utar.edu.my privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308102023id_/https%3A//www.utar.edu.my/PrivacyNotice_English.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utar.edu.my privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514095240id_/https%3A//www.utar.edu.my/PrivacyNotice_English.jsp) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
