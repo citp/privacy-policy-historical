@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpgtips.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013065328id_/http%3A//www.mmorpgtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpgtips.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514073644id_/https%3A//www.mmorpgtips.com/privacy-policy) for the most accurate reproduction.*
 
 # MMORPG Tips - Privacy Policy & Copyright Notice
 
@@ -12,7 +12,7 @@ When you visit the Site, we automatically collect certain information about your
 
 We collect Device Information using the following technologies:
 
-  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org. 
   * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
   * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
@@ -49,6 +49,3 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 CONTACT US  
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at daneril@freemmorpgguides.com
-
-  
-
