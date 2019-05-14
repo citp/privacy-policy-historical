@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diyandmag.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126131246id_/http%3A//www.diyandmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyandmag.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514075601id_/http%3A//www.diycraftsguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Diy & Crafts Ideas Magazine
 
 Privacy Policy
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.diyandmag.com](http://www.diyandmag.com/)  The following discloses the information gathering and dissemination practices for this Web site.
+We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.diycraftsguide.com](http://www.diycraftsguide.com/)  The following discloses the information gathering and dissemination practices for this Web site.
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -21,4 +21,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad company: Google Adsense. Please check their website for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: info[at]diyandmag[dot]com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: info[at]diycraftsguide[dot]com
