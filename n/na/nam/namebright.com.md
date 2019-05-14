@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030121250id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514063838id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
 
 # NameBright - Privacy Policy
 
@@ -82,4 +82,4 @@ If you have any other questions about this Privacy Policy, the practices of Name
 
 Last Revised: July 05, 2018
 
-Copyright 2008-2018 NameBright.com. All Rights Reserved.
+Copyright 2008-2019 NameBright.com. All Rights Reserved.
