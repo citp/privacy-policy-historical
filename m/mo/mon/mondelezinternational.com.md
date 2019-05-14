@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondelezinternational.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812065806id_/https%3A//www.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondelezinternational.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514102230id_/https%3A//www.mondelezinternational.com/privacy-policy) for the most accurate reproduction.*
 
 # Mondelēz International, Inc. Privacy Policy
 
