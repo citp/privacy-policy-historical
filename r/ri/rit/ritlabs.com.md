@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808105003id_/https%3A//www.ritlabs.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritlabs.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514114634id_/https%3A//www.ritlabs.com/en/privacy) for the most accurate reproduction.*
 
 # Ritlabs, SRL Privacy Policy
 
-Effective Date: 13 July 2018
+Effective Date: 05 January 2019
 
 Ritlabs, SRL (“Ritlabs”) has adopted this privacy policy (hereinafter “Privacy Policy”) to inform you of its collection and use of your personal or personally identifiable information or personal data (hereinafter “personal information”) through the https://www.ritlabs.com website (hereinafter “Website”). Ritlabs values your privacy and has adopted this Privacy Policy in an effort to remain transparent with respect to its collection and use of your personal information.
 
@@ -18,7 +18,7 @@ Ritlabs collects the following personal information from you:
     3. Encryption (TLS) protocol properties and algorithms used; 
     4. Referrer URL; 
     5. Your IP address; 
-    6. Your country obtained from the IP address using a Geolocation database; 
+    6. Your country obtained from the IP address using a geolocation database; 
     7. Your browser software; 
     8. Your operating system; 
     9. Your screen resolution; 
@@ -37,7 +37,24 @@ Ritlabs collects the following personal information from you:
 
 Ritlabs uses session cookies and persistent cookies to collect the information on your use of the website.
 
-In order to determine your country based on your IP address, Ritlabs uses GeoLite Geolocation database, created by MaxMind, available from www.maxmind.com.
+In order to determine your country based on your IP address, Ritlabs uses "GeoIP2 Country" database by MaxMind, available from www.maxmind.com.
+
+Ritlabs collects the following personal information about you from the distributors in order to fulfill an order for Ritlabs software that you have placed via the distributor (we keep this information indefinitely):
+
+  1. Your name; 
+  2. Your company (if any); 
+  3. Your email; 
+  4. Your telephone number; 
+  5. Your fax number (if any); 
+  6. Your postal address (Street address, City, State, Country, Zip or Postal code); 
+  7. Payment type (e.g. by credit card, by wire transfer, etc.). 
+  8. Date and time of your order; 
+  9. Your IP address; 
+  10. Your country obtained from the IP address using a geolocation database; 
+  11. Your browser software; 
+  12. Referrer URL. 
+
+
 
 ### II. How does Ritlabs use this information?
 
@@ -59,7 +76,7 @@ On some pages of the Website, Ritlabs uses the Facebook Pixel, so, when you acce
 
 Ritlabs does not sell or rent or share your personal or personally identifiable information to third parties. Whenever Ritlabs wished to do analytics of its customers or visitors, it depersonalizes all the information collected from You before transferring it to third parties.
 
-Ritlabs may transfer your personal information to share information with its parents, subsidiaries, affiliates, or distributors or to a third party in a sale of the Website, a sale of Ritlabs, or a sale of substantially all of the assets of Ritlabs, notifying you about this. Ritlabs may also transfer your personal information to respond to a duly authorized subpoena or court order, to respond to regulatory requests by government authorities, to protect the safety or security of Ritlabs, the Website, its employees, and its users, and, where necessary, to protect against fraud, false advertising, or the violation of any law, statute, ordinance, regulation, or treaty whether local, state, provincial, national, or international.
+Ritlabs may transfer your personal information to a third party in a sale of the Website, a sale of Ritlabs, or a sale of substantially all of the assets of Ritlabs, notifying you about this. Ritlabs may also transfer your personal information to respond to a duly authorized subpoena or court order, to respond to regulatory requests by government authorities, to protect the safety or security of Ritlabs, the Website, its employees, and its users, and, where necessary, to protect against fraud, false advertising, or the violation of any law, statute, ordinance, regulation, or treaty whether local, state, provincial, national, or international.
 
 ### V. Your consent and How may You cease Ritlabs’ collection and use of your personal information?
 
@@ -86,3 +103,37 @@ You have other rights granted by applicable law.
 ### VII. Notices
 
 All notices required to be made to Ritlabs pursuant to this Privacy Policy may be made in writing to privacy@ritlabs.com. Alternatively, you can send written requests by regular mail to the following address: str. Mihai Eminescu, nr. 42, MD-2012, Chisinau, Republic of Moldova.
+
+Privacy Policy version 1.3.
+
+This information on Google API User Policy for The Bat! Email Client is available on a dedicated page at <https://www.ritlabs.com/en/products/thebat/google-api-data-user-policy.php>.
+
+Effective Date: 25 March 2019
+
+The Bat!, the downloadable computer software to send, receive and categorize electronic mail (email client), uses Google Application Program Interface (API) Services. You can find out more about The Bat! at the links below (at the footer of this page) or at <https://www.ritlabs.com/en/products/thebat/>.
+
+The Bat! is developed by Ritlabs, SRL - a company incorporated under the laws of the Republic of Moldova. You can find out more about Ritlabs at <https://www.ritlabs.com/en/about/>.
+
+The end user downloads The Bat! from Ritlabs' website and runs The Bat! on her/his own computer. The Bat! is a desktop application that runs on the end-user's computer. The Bat! is not a web application.
+
+Ritlabs has obtained authorized client credentials for The Bat! to access Google API Services. Ritlabs keeps these credentials confidential.
+
+The Bat!, while running on the end user's computer, is requesting the following Google user data:
+
+  * Data associated with Google account: the end user's email address, profile information and OpenID - to let The Bat! authenticate the Google account using OAuth authentication mechanism;
+  * Email messages (content) and folder structure stored on end user's Google account - to let The Bat! receive email messages stored on the Google account and store these messages on the end user's computer according to the the folder structure in the Google account; this also allows The Bat! to upload messages, create, edit and delete folders on the end user's Google account;
+  * List of end user contacts in the Google account, i.e. the address book that stores the contact information (name, email, etc.) of the other people - this allows The Bat! to synchronize the end user Google address book with the address book of The Bat! on the end user computer.
+
+
+
+In order to access Google API Services, The Bat! uses the following URLs:
+
+  * `https://mail.google.com/`
+  * `https://accounts.google.com/`
+  * `https://www.googleapis.com/`
+
+
+
+All notices required to be made to Ritlabs pursuant to this Policy may be made in writing to ritlabsmd@gmail.com or administrative@ritlabs.com. Alternatively, you can send written requests by regular mail to the following address: str. Mihai Eminescu, nr. 42, MD-2012, Chisinau, Republic of Moldova.
+
+Policy version 1.1.
