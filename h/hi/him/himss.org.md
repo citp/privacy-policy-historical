@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528211214id_/http%3A//www.himss.org/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514092053id_/https%3A//www.himss.org/about/legal) for the most accurate reproduction.*
 
 # HIMSS Legal | HIMSS
 
@@ -113,7 +113,7 @@ Bertha-Benz-Straße 5
 GERMANY  
 [dpo-Germany@himss.org](mailto:dpo-Germany@himss.org)
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)) or the appropriate data protection supervisory authorities for the non-public sector in Germany [Datenschutzaufsichtsbehörden für den nicht-öffentlichen Bereich](https://www.ldi.nrw.de/mainmenu_Service/submenu_Links/Inhalt2/Aufsichtsbehoerden/Aufsichtsbehoerden.php). We would, however, appreciate the chance to deal with your concerns before you approach the ICO or the German data protection supervisory authorities  so please [contact us](mailto:dpo-Germany@himss.org) in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)) or the appropriate data protection supervisory authorities for the non-public sector in Germany [Datenschutzaufsichtsbehörden für den nicht-öffentlichen Bereich](https://www.ldi.nrw.de/mainmenu_Service/submenu_Links/Inhalt2/Aufsichtsbehoerden/Aufsichtsbehoerden.php). We would, however, appreciate the chance to deal with your concerns before you approach the ICO or the German data protection supervisory authorities  so please [contact us](mailto:dpo-Germany@himss.org) in the first instance.
 
 ### CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES
 
@@ -325,7 +325,7 @@ Necessary for our legitimate interests (to develop our products/services and gro
   
 ### MARKETING
 
-We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a subscription management centre where you can view and edit the number of emails you want to receive from us. You will also be given the option to unsubscribe to all communications on the same subscription centre which is located at: <http://go.himss.org/subscription-management.html>
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising. We have established a subscription management centre where you can view and edit the number of emails you want to receive from us. You will also be given the option to unsubscribe to all communications on the same subscription centre which is located at: [http://go.himss.org/subscription-management.html](https://go.himss.org/subscription-management.html)
 
 ### PROMOTIONAL OFFERS FROM US
 
@@ -339,7 +339,7 @@ We will get your express opt-in consent before we share your personal data with 
 
 ### OPTING OUT
 
-You can ask us or third parties to stop sending you marketing messages at any time by visiting the subscription management centre at <http://go.himss.org/subscription-management.html> and checking or unchecking relevant boxes to adjust your marketing preferences; by following the opt-out links on any marketing message sent to you; or by [contacting us](mailto:dpo-Germany@himss.org) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by visiting the subscription management centre at [http://go.himss.org/subscription-management.html](https://go.himss.org/subscription-management.html) and checking or unchecking relevant boxes to adjust your marketing preferences; by following the opt-out links on any marketing message sent to you; or by [contacting us](mailto:dpo-Germany@himss.org) at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
