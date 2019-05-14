@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbazaar.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222350id_/https%3A//openbazaar.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbazaar.org privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514195515id_/https%3A//openbazaar.org/privacy) for the most accurate reproduction.*
 
 # Privacy | OpenBazaar
 
