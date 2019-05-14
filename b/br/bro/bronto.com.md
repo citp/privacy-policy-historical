@@ -1,152 +1,275 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513061743id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514065148id_/http%3A//content.bronto.com/policies/privacy-statement) for the most accurate reproduction.*
 
-# NetSuite Privacy Statement - Customer Relationship Management - eCommerce Solution
+# Oracle Privacy Policy | Oracle
 
-NetSuite has been [acquired](https://www.oracle.com/corporate/acquisitions/netsuite/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](https://www.oracle.com/legal/privacy/index.html) to view the Oracle Privacy Policy.  Please note that the provisions of NetSuite’s Privacy Statement below will remain active until the policy transition is complete. 
+## Privacy @ Oracle  
+Oracle General Privacy Policy
 
-## NetSuite Privacy Statement
+### 1\. INTRODUCTION
 
-Effective Date: **February 13, 2018**
+This **General Oracle Privacy Policy** (also referred to as the ‘ **Privacy Policy** ’) provides information on the collection, use, sharing and processing of personal information by Oracle Corporation and its affiliates (“Oracle”, “we” or “us”) in connection with your use of Oracle websites, mobile applications, and social media pages that link to this Privacy Policy, your interactions with Oracle during in-person meetings or at Oracle events, and in the context of other offline sales and marketing activities. This Privacy Policy also explains the choices you have in relation to these processing activities. 
 
-In this Privacy Statement (“ **Statement** ”), NetSuite Inc. and its worldwide subsidiaries (collectively, the “ **NetSuite Group** ”), explains how we collect, use, maintain, disclose, and transfer personal information, and the choices you have in relation to our processing of your personal information. We are committed to protecting your privacy in accordance with this Statement. 
+This Privacy Policy was last updated on March 25, 2019. However, the Privacy Policy can change over time, for example to comply with legal requirements or to meet changing business needs. The most up-to-date version can be found on this [website](https://web.archive.org/privacy/). In case there is an important change that we want to highlight to you, we will also inform you in another appropriate way (for example via a pop-up notice or statement of changes on our website). To see the previous version of this Privacy Policy, please click [here](https://web.archive.org/legal/privacy/previous-policy.html).
 
-References in this Statement to “ **we,** ” “ **us** ” or “ **our** ” are references to the NetSuite Group entity that is operating the relevant Website, or providing the applicable Services. Statements referring to “ **you** ” or “ **your** ” are references to the company or individual we are collecting personal information about. Our use of the term Services in this Statement has the same definition as in customer’s applicable Services agreement with us, or the applicable NetSuite Group service (“ **Services** ”).
+As used in this Privacy Policy, ‘personal information’ or ‘personal data’ means information that relates to an identified individual or to an identifiable individual. For example, this could include among other things your name, address, email address, business contact details, or information gathered through your interactions with us via our websites or at events. Personal information is also referred to as ‘ **information about you.** ’ For more detail about the types of information about you that we may process, please refer to Section 4 below.
 
-If you have any questions regarding this Statement, please email us at [Privacy_ww@oracle.com](mailto:privacy_ww@oracle.com) or see the “How to Contact Us” section below. 
+### 2\. SCOPE
 
-#### SCOPE
+This Privacy Policy applies to the processing of personal information by Oracle of:
 
-This Statement applies to the following:
+  * visitors and users of the various Oracle sites, including our websites on [oracle.com](https://www.oracle.com/), computer or mobile software applications and our social media pages that link to this Privacy Policy (collectively referred to as the **sites** );
+  * attendees of Oracle events, such as Oracle OpenWorld;
+  * customers and prospective customers and their representatives;
+  * subscribers to Oracle Magazine and Oracle Profit Magazine;
+  * suppliers and business partners and their representatives.
 
-  * Personal information we collect through all websites operated by the NetSuite Group (“ **Website(s)** ”). You can determine which NetSuite Group entity has responsibility for operating a particular Website by looking in the Contact Us section of the relevant Website.
-  * Personal information we collect about you in the course of doing business with you, such as when you engage with us as a customer, potential customer, vendor, service provider, professional advisor, consultant or other third party in relation to the provision of our Services, and the operation of our business generally. This includes sales, marketing, business contact or registration activities conducted by the NetSuite Group, but does not include any personal information you or your end-users input or upload into the Services. You can determine which NetSuite Group entity has responsibility for processing your Business Data by referring to your relevant Services agreement with us.
 
 
+When interacting with our websites, you also have the ability to link or connect with non-Oracle websites, services, social networks, applications or other features. Enabling these features will lead to other parties than Oracle processing information about you. Oracle does not have any control over these features of other parties. We encourage you to review the privacy policies of these parties before using these features. 
 
-(collectively “ **Business Data** ”).
+### 3\. WHO IS RESPONSIBLE FOR YOUR PERSONAL INFORMATION?
 
-#### OUTSIDE OF SCOPE
+Oracle Corporation and its affiliated entities are responsible for processing your personal information described in this Privacy Policy. A list of Oracle entities is available [here](https://web.archive.org/corporate/contact/global.html). Please select a region and country to view the registered address and contact details of the Oracle entity or entities located in each country.
 
-For personal information our customers and their end-users input or upload into the Services (“ **Customer Data** ”), please refer to the [NetSuite Services Privacy Statement](https://web.archive.org/portal/services-privacy-statement.shtml). As a data processor, we will process all Customer Data strictly on behalf of our customers in accordance with our contractual agreements with them and/or as required or permitted by law. _For purposes of clarity, this Statement does not apply to Customer Data._
+### 4\. WHICH TYPES OF PERSONAL INFORMATION DO WE PROCESS AND FROM WHICH SOURCES?
 
-#### TYPES OF DATA AND COLLECTION METHODS
+Oracle can process information about you collected both offline and online. 
 
-**Information you provide to us through the Websites:** Through your use of the Websites, you may choose to provide us with certain personal information. For example, when you request information, a free product tour, schedule a consultation, use our Chat Now function, subscribe to a mailing list, subscribe to Services, respond to an online survey or otherwise contact us, we usually collect personal information such as your name, e-mail address(es), postal address(es), telephone numbers and any other information you choose to provide. 
+  * **Offline information** about you originates from our interactions with you during in-person meetings or at Oracle events, conferences, workshops or gatherings; 
+  * **Online information** about you originates from your activities on our sites, for example, in relation with your Oracle accounts, (pre-)sales inquiries or subscription to our magazines, or from your interactions with Oracle via electronic communication tools such as email or telephone. Information about you may also be provided by third party sources, such as data aggregators who may not have a relationship with you.
 
-You can opt out of providing information by not entering it when asked. If information is required in order to allow us to respond to your inquiry, you will receive a notice advising you of this. If you do not provide us with some or all of the requested information we may not be able to provide the requested information or Services to you. 
+Online information about you may also originate from the use of cookies and similar technologies (for example, pixel tags and device identifiers) on our sites or sites of third parties. For more information on cookies and similar technologies, please see Section 11 below.
 
-**Information we collect automatically through the Websites:** The Websites also collect certain information by automated means. For example, when you visit a Website, we track certain information about your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of websites from which you link to our Websites, the computer technology you are using and your movements and preferences on our site. 
 
-We use technology that many other websites employ, including, without limitation, “cookies” or small data files stored on your computer’s hard drive, to collect such information. There are persistent cookies and session cookies. In some instances, we use cookies to collect information in connection with future visits from that Website, to recognize you as a previous visitor, or to track your activity on our Websites. If you follow a link to the Website from an affiliate or promotion, we store information about your arrival from that affiliate or promotion in a session cookie. A persistent cookie consists of a text file sent by a web server to web browser, which will be stored by the browser and will remain valid until its set expiry date. 
 
-We do not deliver third party online advertisements on our Websites, but we may use third-party advertising companies to serve ads for our Services when you access and use other websites, based on the information relating to your access to and use of our Websites, as well as information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn how to opt out in desktop and mobile browsers on the particular device on which you are accessing this Privacy Statement, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>. We do not currently respond to browser do-not-track signals. 
 
-In general, you do not need to have cookies turned on to visit our Websites. You can refuse cookies by setting your browser to decline them automatically or to give you the choice of declining or accepting the placement of cookies from the Website. That said, some of our webpages, may require you to accept a mandatory session cookie, which you can delete after you leave the Website. 
+Information about you that Oracle may be collect and process includes:
 
-We also may collect information related to your company, approximate geographic location, or other demographic information that does not personally identify you.  
-To the extent permitted by applicable law, we reserve the right to combine other information as defined above with personal information that you submit.
+  * name and physical address, email addresses, and telephone numbers;
+  * demographic attributes, when tied to personal information that identifies you;
+  * photographs and testimonials;
+  * transactional data, including products and services ordered, financial details and payment methods;
+  * company data such as the name, size and location of the company you work for and your role within the company;
+  * data from surveys and publicly available information, such as social media posts;
+  * unique IDs such as your mobile device identifier or cookie ID on your browser;
+  * IP address and information that may be derived from IP address, such as geographic location;
+  * information about a device you use, such as browser, device type, operating system, the presence or use of "apps", screen resolution, and the preferred language; 
+  * behavioral data of the internet connected computer or device you use when interacting with the sites, such as advertisements clicked or viewed, sites and content areas, date and time of activities or the web search used to locate and navigate to a site;
+  * CEO name linked to the CEO’s company information and activities (for certain Oracle services relating to public company information and activity).
 
-**Information customers and potential customers provide to us:** You may choose to provide personal information when engaging in or conducting business with us. The types of information we may collect include names, email addresses, postal addresses, contact details, job titles, transactional information, financial/billing information, account information, correspondence and any other information you may choose to provide. 
 
-You may also choose to provide personal information, such as contact details and job titles, when you attend sales and marketing events, product demos, take part in surveys, or through other sales and marketing interactions we may have with you. 
 
-**Other information we collect in the course of operating our business:** We also collect information from our vendors, suppliers, service providers, agents, consultants, business partners, professional advisors and other third parties for the purposes of managing and operating our business. For example, we will collect business contact information, financial information and other information necessary to engage third parties and to evaluate their performance. 
+Please note that Oracle does not control the content that you may post to Oracle Communities forums or social networks; in some cases, such content may be publicly available on the Internet. You should carefully consider whether you wish to submit personal information to these forums or social networks and whether you wish to make your profile available to other users, and you should tailor any content you may submit accordingly. 
 
-**Information we collect automatically through the Services:** Our systems may also collect certain information automatically when you use the Services, for example, usage information (such as user activity, configuration of the device, performance metrics data) and log information (such as IP addresses, ISP, browser type, clickstream data, security information, errors and crashes). 
+### 5\. WHY AND HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-#### COLLECTION PURPOSES, USE OF BUSINESS DATA
+We may use personal information for the following purposes:
 
-We will use your personal information for a range of different purposes, including:
+  * to communicate and respond to your requests and inquiries to Oracle;
+  * to deliver functionality on our sites and for their technical and functional management;
+  * to administer subscriptions of Oracle magazine and Profit magazine;
+  * to market our products and services or related products and services, and to tailor our marketing and sales activities to your or your company’s interests;
+  * to engage in transactions with customers, suppliers and business partners and to process orders for Oracle products and services;
+  * to analyze, develop, improve and optimize the use, function and performance of our sites and products and services;
+  * to manage the security of our sites, networks and systems;
+  * to comply with applicable laws and regulations and to operate our business;
 
-  * To respond to your specific inquiry or request and to provide you with information and access to resources that you have requested from us;
-  * To administer, protect, operate and maintain the Websites and our systems;
-  * To improve the navigation and content of our Websites, system administration and security; 
-  * To compile aggregated statistics about the site usage and to better understand the preferences of our site visitors;
-  * To help personalize your experience on our Websites (for example, we may use IP addresses to approximate your general location such as city and state for purposes such as to provide information on local promotions and events); 
-  * To help deliver our Services to our customers and to provide customer service and support;
-  * To process and complete business transactions and send related information, including transaction confirmations and invoices; 
-  * To send information to our customers about their account, technical alerts or updates, and other administrative or service-related communications;
-  * To carry out research and development to improve our Services;
-  * To carry out other legitimate business purposes, as well as other lawful purposes about which we will notify our users and customers.
 
 
+We may also use the names of company CEOs to provide select services to Oracle customers which may include publicly-available information regarding names of company CEOs.
 
-We maintain reasonable procedures to help ensure that personal information we collect and use is reliable for its intended use, accurate, complete, and current.
+These purposes are described below in further detail. 
 
-Additionally, we may collect personal information for marketing purposes such as contacting you to further discuss your interest in our company, the Services we provide and ways we can improve them and to provide information on Services, promotions, and events. You can opt out of receiving marketing emails as explained in the “Your Marketing Options” section below. 
+**To communicate and respond to your requests and inquiries to Oracle**
 
-#### DATA TRANSFERS TO THIRD PARTIES
+If you get in touch with us (such as by submitting contact forms on our sites, attending Oracle events or other occasions, sending an email or by visiting social media platforms), we process information about you to communicate with you and to respond to your requests or other inquiries. We can also process personal information to interact with you on third party social networks. 
 
-We do not sell your personal information to any third parties; however, we may share your personal information with third parties as follows:
+**To deliver functionality on our sites and for their technical and functional management**
 
-  * Within the NetSuite Group of companies consistent with this Statement.
-  * Trusted agents, consultants and service providers to perform business related functions such as service providers that help support the Services.
-  * Business partners, such as system integrators, distributors, and referral partners that are involved in providing Services. For example, if you indicate an interest in a Service, we may share personal information such as your contact information with our business partners.
+When you choose to register with us (such as to make use of our communities), we need to process the personal information provided by you so that we can create and manage a personal account for you. Upon creating your account, we will send you your personal login information. This personal information enables us to administer your account, for example by changing your password for you. 
 
+**To administer subscriptions of Oracle magazine and Profit magazine**
 
+If you subscribe to our magazines (such as “Oracle” or “Profit”), we process information about you to administer your subscription to our magazines (including the renewal process). 
 
-#### OTHER DISCLOSURES
+**To market our products and services or related products and services and to tailor marketing and sales activities**
 
-Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements. 
+Oracle may use information about you to notify you about new product releases and service developments, events, alerts, updates, prices, terms, special offers and associated campaigns and promotions (including via newsletters). Oracle may also use personal information to advertise Oracle's products and services or related products and services, and also to have our distributors, resellers or partners notify you about our products or services or their related products or services (such as via joint sales or product promotions). We do our best to tailor your website visit, marketing experience and our communications to your expressed interests. This happens, for example, if you sign up for an Oracle community or program like the Oracle Partner Network or Oracle Technology Network.
 
-We may disclose your personal information if required to do so by law in order to (for example) respond to a subpoena or request from law enforcement, a court or a government agency, or in the good faith belief that such action is necessary (a) to comply with a legal obligation, (b) to protect or defend our rights, interests or property or that of third parties, (c) to prevent or investigate possible wrongdoing in connection with the site or our Services, (d) to act in urgent circumstances to protect the personal safety of users of the site, our Services or the public; or (e) to protect against legal liability. 
+If you attend an event, Oracle may process information about you gathered in relation to the event and can share information about your attendance with your company. Oracle may also permit designated event partners or conference sponsors to send you up to two communications related to your event attendance. Please note that our partners or conference sponsors may directly request information about you at their conference booths or presentations, and their use of your information that you provide to them will be subject to their privacy policies.
 
-#### DISCLOSURE FOR PROSPECTIVE SALE, MERGER, ACQUISITION OR REORGANIZATION
+We may also process your personal information to post testimonials on our sites, but will first obtain your consent to use your name and testimonial.
 
-We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Also, we reserve the right to fully use and share any information that is not in personally identifiable form (such as statistics and survey results that do not identify you individually by name). 
+**To engage in transactions with customers, suppliers and business partners and to process purchases of our products and services**
 
-#### YOUR CHOICES
+If you place an order for our products and services, or if you provide services to Oracle, our employees, customers or partners as a supplier or business partner, Oracle processes information about you to engage in and administer the relevant transactions (such as by sending invoices and making payments), administer your order, and help you get started and adopt our products and services (e.g., by contacting you to activate your Cloud services credits). If you download products or services from our sites, Oracle uses information about you to confirm certain information about your order (for example, that you did not experience problems in the download process).
 
-If we intend to use your information for a purpose that is materially different from the purposes identified above or if we intend to disclose it to a third party (a non-agent) not previously identified, we will notify you and offer you the opportunity to opt out of such uses and/or disclosures where it involves non-sensitive information or opt-in where sensitive information is involved.
+**To analyze, develop, improve and optimize the use, function and performance of our sites and products and services**
 
-You may choose to change your marketing choices at any time by contacting us at: [support@netsuite.com](mailto:support@netsuite.com), or by contacting us as described in the “How to Contact Us” section below. 
+We may process personal information in order to analyze, develop, improve and optimize the use, function and performance of our sites and products and services, as well as marketing and sales campaigns. In case the sites permit you to participate in interactive discussions, create a profile, post comments, opportunities or other content, or communicate directly with another user or otherwise engage in networking activities, Oracle may process personal information when moderating these activities.
 
-You can also unsubscribe from our marketing communications by following the instructions or unsubscribe mechanism in the e-mail message. To opt out of receiving marketing related communications from us, please click on the “opt-out” link in the communication or please contact us at [support@netsuite.com](mailto:support@netsuite.com), or by contacting us as described in the “How to Contact Us” section below. Please note that if you do opt-out of receiving marketing- related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving account-related or other administrative messages. 
+**To manage the security of our sites, networks and systems**
 
-#### THIRD-PARTY SITES
+We may collect site use data for security and operations management to help keep our sites, networks and systems secure, or to investigate and prevent potential fraud, including ad fraud and cyber-attacks and to detect bots.
 
-This Statement does not apply to, nor are we responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the site links. The inclusion of a link on the site does not imply our endorsement of the linked site or service. 
+**To comply with applicable laws and regulations and to operate our business**
 
-#### SECURITY
+In some cases, we have to process personal information to comply with applicable laws and regulations. For example, to respond to a request from a regulator or to defend a legal claim. We may also process personal information in the performance and operation of our business, such as to conduct internal audits and investigations or for finance and accounting and archiving and insurance purposes.
 
-We maintain reasonable and appropriate security measures to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. 
+**To provide select services to Oracle customers which may include publicly-available information regarding names of company CEOs**
 
-#### CROSS-BORDER TRANSFERS
+For some services, we may collect the publicly-available names of CEOs of companies to better understand the status of these companies and help inform our services which relate to providing customers information about other companies.
 
-NetSuite has been acquired by Oracle. Oracle is a global corporation with operations in over 80 countries and has developed global data security practices designed to ensure that your personal information is appropriately protected. Please note that personal information may be transferred, accessed and stored globally as necessary in accordance with this Statement. 
+### 6\. WHAT IS OUR BASIS FOR PROCESSING INFORMATION ABOUT YOU?
 
-Oracle complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention when a customer and Oracle have agreed by contract that transfers of personal information from the European Economic Area (“EEA”) or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services. When conducting those activities on behalf of its EEA or Swiss customers, Oracle holds and/or processes personal information provided by the EEA or Swiss customer at the direction of the customer. Oracle will then be responsible for ensuring that third parties acting as an agent on our behalf do the same. 
+For personal information collected about you in the EU, our basis for processing is the following:
 
-Oracle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>. 
+  * In order to communicate adequately with you and to respond to your requests, we need to process information about you and therefore have a **legitimate interest** in processing this information.
+  * In order to engage in transactions with customers, suppliers and business partners, and to process purchases and downloads of our products and services, we need to process information about you **as necessary to enter into or perform a contract** with you.
+  * We process personal information for marketing and sales activities based on your **consent** where so indicated on our sites at the time your personal information was collected, or further to our **legitimate interest** to market and promote our products and services.
+  * We rely on our **legitimate interest** to analyze, develop, improve and optimize our sites, products and services, and to maintain the security of our sites, networks and systems.
+  * In order **to comply with applicable laws and regulations** , such as to comply with a subpoena or other legal process, or to process an opt-out request.
 
-The following entities are covered entities under Oracle’s Privacy Shield self-certification: Delphi Asset Management Corporation; MICROS Fidelio Worldwide LLC; Oracle America, Inc.; Oracle Financial Services Software America, Inc.; Oracle Financial Services Software, Inc.; Oracle International Corporation; Oracle Taiwan LLC; Bronto Software, LLC; Monexa, LLC, NetSuite, Inc.; OrderMotion, Inc.; Dynamic Network Services, Inc. With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Oracle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission and commits to cooperate with EU data protection authorities. 
+  
 
-You may have the right to access your Privacy Shield Business Data that we hold about you and request that we correct, amend or delete it if it is inaccurate or processed in violation of the Privacy Shield. These access rights may not apply in some cases, including where providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access. If you would like to request access to, correction, amendment, or deletion of your Privacy Shield Business Data, you can submit a written request to the contact information provided below. We may request specific information from you to confirm your identity. 
 
-#### DISPUTE RESOLUTION
+### 7\. FOR WHAT PERIOD DO WE RETAIN PERSONAL INFORMATION
 
-If you have any complaints regarding our compliance with this Statement, you should first contact us. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this Statement. 
+Oracle maintains personal information for the following retention periods:
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
+  * Information about you we collect to engage in transactions with our customers, suppliers and business partners, and to process purchases of our products and services, will be retained for the duration of the transaction or services period, or longer as necessary for record retention and legal compliance purposes.
+  * If you have registered for an Oracle account, your account information will be retained for as long as you maintain an active account. Your account and account information will be deleted if you do not log in for 18 consecutive months. Oracle retains records of that deletion for 90 days.
+  * If you have registered for our newsletters and blogs, including Oracle magazine or Profit magazine, your subscription data will be retained for as long as you are subscribed to our distribution lists. Oracle retains records of that deletion for 30 days.
+  * Contact information such as your email address or phone number collected online on our sites or offline from our interactions with you at Oracle events and conferences, and used for direct marketing and sales activities will be retained for as long as we have an active (customer) relationship with you. We treat you as an active contact if (i) you have interacted with Oracle or updated your contact details and preferences in the past 18 months; and (ii) you have not made a deletion request.
+  * If you have reached out to us via Oracle Sales chat, we will delete all chat transcripts 90 days after the chat has concluded.
+  * Personal information needed to retain your opt-out preferences is retained for 20 years (or longer as necessary to comply with applicable law).
 
-#### RETENTION PERIOD
+  
 
-We will retain your personal information for the period necessary to fulfill the purposes outlined in this Statement unless a longer retention period is required or permitted by law, for legal, tax or regulatory reasons, or other legitimate and lawful business purposes. 
 
-#### GENERAL DATA REQUESTS
+### 8\. WHEN AND HOW CAN WE SHARE YOUR PERSONAL INFORMATION?
 
-If personal information you have submitted to us is no longer accurate, current, or complete, and you wish to update it, please send an e-mail to: [support@netsuite.com](mailto:support@netsuite.com), or by contacting us as described in the “How to Contact Us” section below. Upon appropriate request we will update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate. 
+**Sharing within Oracle**
 
-#### HOW TO CONTACT US
+As a global organization, information about you may be shared globally throughout Oracle's worldwide organization. A list of Oracle entities is available [here](https://web.archive.org/corporate/contact/global.html). Please select a region and country to view the registered address and contact details of the Oracle entity or entities located in each country.
 
-If you have any questions regarding this Statement or if you need to request access to or update, change or remove personal information that we control, you can do so by contacting: 
+Oracle employees are authorized to access personal information only to the extent necessary to serve the applicable purpose(s) and to perform their job functions.
 
-Chief Privacy Officer, Oracle Corporation  
+**Sharing with third parties**
+
+We may share personal information with the following third parties:
+
+  * Third-party service providers (for example, credit card processing services, order fulfilment, analytics, event/campaign management, website management, information technology and related infrastructure provision, customer service, e-mail delivery, auditing, and other similar service providers) in order for those service providers to perform business functions on behalf of Oracle;
+  * Oracle distributors or resellers for further follow-up related to your interests, specific partners that offer complementary products and services or with third parties to facilitate interest-based advertising;
+  * Relevant third parties in the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings);
+  * As required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to government requests, including public and government authorities outside your country of residence, for national security and/or law enforcement purposes.
+
+
+
+When third parties are given access to personal information, we will take appropriate contractual, technical and organizational measures designed to ensure that personal information is processed only to the extent that such processing is necessary, consistent with this Privacy Policy, and in accordance with applicable law.
+
+### 9\. HOW IS PERSONAL INFORMATION HANDLED GLOBALLY?
+
+Oracle is a global corporation with operations in over 80 countries and personal information is processed globally. If personal information is transferred to an Oracle recipient in a country that does not provide an adequate level of protection for personal information, Oracle will take measures designed to adequately protect information about you, such as ensuring that such transfers are subject to the terms of the EU Model Clauses. 
+
+Oracle also complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention when a customer and Oracle have agreed by contract that transfers of personal information from the European Economic Area and the United Kingdom ("EEA") and/or Switzerland will be transferred and processed pursuant to the Privacy Shield for the relevant services. When conducting those activities on behalf of its EEA or Swiss customers, Oracle holds and/or processes personal information provided by the EEA or Swiss customer at the direction of the customer. Oracle will then be responsible for ensuring that third parties acting as an agent on our behalf do the same. Oracle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+Please see the Privacy Shield website for the list of entities covered under [Oracle’s Privacy Shield self-certification](https://www.privacyshield.gov/participant?id=a2zt00000000181AAA&status=Active). With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Oracle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission and commits to cooperate with EU data protection authorities.
+
+### 10\. HOW IS YOUR PERSONAL INFORMATION SECURED? 
+
+Oracle has implemented appropriate technical, physical and organizational measures designed to protect personal information against accidental or unlawful destruction or accidental loss, damage, alteration, unauthorized disclosure or access, as well as all other forms of unlawful processing. 
+
+### 11\. WHAT COOKIES AND SIMILAR TECHNOLOGIES DO WE USE ON OUR SITES?
+
+Cookies and similar technologies (e.g., pixels tags and device identifiers) are used by Oracle and our advertising technology partners to recognize you and/or your device(s) on, off and across different services and devices for the purposes specified in Section 5 above.
+
+  * **When do we use cookies and similar technologies?**
+
+
+
+Cookies are small text files that contain a string of characters and uniquely identify a browser on a device connected to the Internet. Any browser visiting our sites will receive cookies from us. We also place cookies in your browser when you visit non-Oracle sites that host our plugins or tags. We use cookies and other technologies on all our sites to ensure the best possible and secure experience on our sites and to provide you with tailored information on products and services. Oracle also uses cookies or similar technologies on its sites to collect online information such as your mobile device ID, IP address, and other information about your device, as well as behavioral data of your device usage on our sites (e.g. pages viewed, links clicked, documents downloaded). This information contributes to Oracle’s Marketing & Data Cloud services designed to provide targeted digital advertising and personalization services to Oracle Marketing & Data Cloud customers. Our data collection, use and sharing practices in relation to these processing activities, including your specific choices, are described in the [Oracle Marketing and Data Cloud Privacy Policy](https://web.archive.org/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html). 
+
+  * **Which types of cookie are used by Oracle?**
+
+
+
+Please click [here](https://web.archive.org/legal/privacy/privacy-policy.html#cookie-preferences) for more information on the types of cookies used by Oracle.
+
+  * **How can I manage my cookie preferences?**
+
+
+
+If you are a visitor or our sites, you can use our **cookie preferences tool** to opt out of cookies that are not required to enable core site functionality, such as advertising and functional cookies [here](https://web.archive.org/legal/privacy/privacy-policy.html#cookie-preferences).
+
+You can also access the **Oracle Data Cloud opt-out tool** [here](http://www.bluekai.com/consumers_optout.php) to opt out of interest based advertising by Oracle and other participating advertising technology companies serving interest-related ads to you on behalf of Oracle. Please note that the Oracle Data Cloud opt-out tool will only work on the Internet browser on which they are deposited, and they will only function only if your browser is set to accept third-party cookies.
+
+If you do not want to receive cookies, you can also change your **browser settings** on your computer or other device you are using to access our services. Most browsers also provide functionality that lets you review and erase cookies, including Oracle cookies.
+
+### 12\. WHAT ARE YOUR CHOICES?
+
+We provide multiple choices in respect of the information we process about you:
+
+  * **Opt-out of our use of your personal information**  
+You may withdraw consent you have previously provided for the processing of information about you, including for email marketing by Oracle. 
+  * **Delete personal information**  
+You can ask us to erase or delete all or some of the information about you.
+  * **Change or correct personal information**  
+You can edit some of the information about you by. You can also ask us to change, update or fix information about you in certain cases, particularly if it is inaccurate.
+  * **Object to, or limit or restrict use of personal information**  
+You can ask us to stop using all or some of the information about you (for example, if we have no legal right to keep using it) or to limit our use of it (for example, if the information about you is inaccurate).
+  * **Right to access and/or have your information provided to you**  
+You can also ask us for a copy of information about you and can ask for a copy of information about you provided in machine readable form if you reside in the EU or other country that provides you this right as a matter of law.
+
+
+
+You can exercise these choices in accordance with applicable laws as specified on our [Privacy Choices page](https://web.archive.org/legal/privacy/privacy-choices.html), or by filling out our [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/en/form_data.asp).
+
+### 13\. DO YOU COLLECT SENSITIVE INFORMATION AND INFORMATION FROM CHILDREN?
+
+**Sensitive personal information**
+
+We ask that you do not send us, and do not share any sensitive personal information (for example, government-issued IDs, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, genetic, or biometric data, criminal background or trade union membership).
+
+**Children’s privacy**
+
+As a company focused on serving the needs of businesses, Oracle's sites are not directed to minors and Oracle does not promote or market its services to minors, except in very limited circumstances as part of specific educational outreach programs with parental permission. If you believe that we have mistakenly or unintentionally collected personal information of a minor through our sites without appropriate consent, please notify us through our inquiry form so that we may immediately delete the information from our servers and make any other necessary corrections. Additionally, please use this same form to request removal of content or information that was posted to our sites when the registered user was under the age of 16. Please note that such requests may not ensure complete or comprehensive removal of the content or information, as, for example, some of the content may have been reposted by another user.
+
+### 14\. DATA PROTECTION OFFICER
+
+Oracle has appointed a **Global Data Protection Officer**. If you believe your personal information has been used in a way that is not consistent with the Privacy Policy or your choices, or if you have further questions, comments or suggestions related to this Privacy Policy, please contact the Global Data Protection Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp).
+
+Written inquiries to the Global Data Protection Officer may be addressed to: 
+
+Oracle Corporation  
+Global Data Protection Officer  
 10 Van de Graaff Drive  
 Burlington, MA 01803  
-United States of America  
-[Privacy_ww@oracle.com](mailto:Privacy_ww@oracle.com)
+U.S.A. 
 
-#### AMENDMENTS
+For personal information collected INSIDE the EU/EEA, written inquiries to the EU Data Protection Officer may be addressed to:
 
-We reserve the right to change, modify, add or remove portions of this Statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on this Statement the date it was last updated. When you visit this site, you are accepting the current version of this Statement as posted on the site at that time. We recommend that users revisit this Statement on occasion to learn of any changes.
+Robert Niedermeier  
+Hauptstraße 4  
+D-85579 Neubiberg / München  
+Germany  
+Email: [mail@legislator.de](mailto:mail@legislator.de)
+
+### 15\. DISPUTE RESOLUTION OR FILING A COMPLAINT
+
+If you have any complaints regarding our compliance with this Privacy Policy, please contact us first. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with this Privacy Policy and in accordance with applicable law.
+
+If you have an unresolved privacy or data use concern that you believe we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, specified on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. You also have the right to file a complaint with a competent data protection authority if you are a resident of a European Union member state.
+
+### 16\. ORACLE CORPORATE HEADQUARTERS
+
+Oracle's corporate headquarters are located at:
+
+500 Oracle Parkway  
+Redwood Shores, CA  
+94065, USA
+
+Tel: +1.650.506.7000  
+Fax: +1.650.506.7200
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c3494dad-9836-48cf-9d86-0f36fc9a04c6 "TRUSTe")
