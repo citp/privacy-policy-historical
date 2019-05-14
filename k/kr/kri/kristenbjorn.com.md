@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kristenbjorn.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223064216id_/https%3A//www.kristenbjorn.com/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kristenbjorn.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514155912id_/https%3A//www.kristenbjorn.com/web/privacy.php) for the most accurate reproduction.*
 
 # ▷ Privacy Policy - | Kristen Bjorn / European Gay Bareback Porn
 
