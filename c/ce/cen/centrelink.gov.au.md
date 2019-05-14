@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123181435id_/https%3A//www.humanservices.gov.au/individuals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514101044id_/https%3A//www.humanservices.gov.au/individuals/privacy) for the most accurate reproduction.*
 
 # Your right to privacy - Australian Government Department of Human Services
 
