@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexchange.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129225541id_/https%3A//www.bikeexchange.com/article/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexchange.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514232658id_/https%3A//www.bikeexchange.com/article/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
