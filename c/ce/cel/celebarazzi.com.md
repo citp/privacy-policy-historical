@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebarazzi.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113093248id_/http%3A//celebarazzi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebarazzi.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514170713id_/http%3A//celebarazzi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement • Celebarazzi
 
