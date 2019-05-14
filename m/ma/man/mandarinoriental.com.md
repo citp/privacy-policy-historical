@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandarinoriental.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514100336id_/https%3A//www.mandarinoriental.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mandarin Oriental Hotel Group
 
@@ -118,7 +118,7 @@ Where there is no sufficient justification to retain such personal information, 
 
 ### 68\. WHAT CAN YOU DO IF YOU HAVE ANY QUESTIONS OR CONCERNS OR WANT TO ACCESS YOUR PERSONAL DATA?
 
-Our Data Protection Officer will be happy to answer any concerns or queries you may have relating to the use or storage of your personal data. Your principal rights under the European Union General Data Protection Regulation are: (a) the right to access; (b) the right to rectification; (c) the right to erasure; (d) the right to restrict processing; (e) the right to object to processing; (f) the right to data portability; (g) the right to complain to a supervisory authority; and (h) the right to withdraw consent. You may exercise any of these rights in relation to your personal data by contacting our Data Protection Officer. Our Data Protection Officer can be contacted by email at [data-protection@mohg.com](mailto:data-protection@mohg.com) or by post at 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
+Our Data Protection Officer will be happy to answer any concerns or queries you may have relating to the use or storage of your personal data. Your principal rights under the European Union General Data Protection Regulation are: (a) the right to access; (b) the right to rectification; (c) the right to erasure; (d) the right to restrict processing; (e) the right to object to processing; (f) the right to data portability; (g) the right to complain to a supervisory authority; and (h) the right to withdraw consent. You may exercise any of these rights in relation to your personal data by contacting our Data Protection Officer. Our Data Protection Officer can be contacted by email at dataprivacyofficer@mohg.com or by post at 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
 
 ### 69\. WHAT ABOUT LINKED WEBSITES?
 
@@ -128,14 +128,14 @@ The linking of third party websites to this website does not indicate any associ
 
 This privacy policy will be subject to change from time to time. The effective date of this current privacy policy is set out at the end of this document. Your use of this website constitutes your acceptance of the current terms as set out in this privacy policy.
 
-* "Mandarin Oriental", "Mandarin Oriental Hotel Group", "we", "us" and "ourselves" refers to Mandarin Oriental Hotel Group Limited and its affiliates directly involved in the group’s management and operation of properties around the world, including the local management entities in the following jurisdictions: in the Czech Republic this is Mandarin Oriental Prague S.R.O.; in France this is MOHG Hotel (Paris) SARL; in Germany this is Mandarin Oriental Munich GmbH; in Italy this is Mandarin Oriental Hotel Management (BVI) Limited; in Spain this is Mandarin Oriental Spain SL; in Morocco this is MO Hotel Management SARL; in Switzerland this is Mandarin Oriental (Switzerland) SA; and in the United Kingdom this is Mandarin Oriental Hyde Park Limited. Mandarin Oriental Hotel Group Limited and the applicable local management entities as set forth above are “data controllers”. The contact details for the data controller(s) are: by e-mail at: [data-protection@mohg.com](mailto:data-protection@mohg.com), and by post at: c/o Mandarin Oriental Hotel Group Limited, 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
+* "Mandarin Oriental", "Mandarin Oriental Hotel Group", "we", "us" and "ourselves" refers to Mandarin Oriental Hotel Group Limited and its affiliates directly involved in the group’s management and operation of properties around the world, including the local management entities in the following jurisdictions: in the Czech Republic this is Mandarin Oriental Prague S.R.O.; in France this is MOHG Hotel (Paris) SARL; in Germany this is Mandarin Oriental Munich GmbH; in Italy this is Mandarin Oriental Hotel Management (BVI) Limited, Mandarin Oriental (UK) Limited and Mandarin Oriental Residences Management (UK) Limited; in Spain this is Mandarin Oriental Spain SL and Mandarin Oriental Spain Residences SL; in Morocco this is MO Management SARL; in Switzerland this is Mandarin Oriental (Switzerland) SA and Société pour l’Exploitation de Mandarin Oriental (Genève) SA; and in the United Kingdom this is Mandarin Oriental Hyde Park Limited, Mandarin Oriental (UK) Limited and Mandarin Oriental Residences Management (UK) Limited. Mandarin Oriental Hotel Group Limited and the applicable local management entities as set forth above are “data controllers”. The contact details for the data controller(s) are: by e-mail at: [dataprivacyofficer@mohg.com](mailto:dataprivacyofficer@mohg.com), and by post at: c/o Mandarin Oriental Hotel Group Limited, 7/F, 281 Gloucester Road, Causeway Bay, Hong Kong.
 
-**Effective Date:** 4 May 2018
+**Effective Date:** 1 February 2019
 
-[Dasar Privasi Malaysia](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/malaysia)
+[Dasar Privasi Malaysia](https://web.archive.org/web/20190514100336id_/https%3A//www.mandarinoriental.com/privacy-policy/malaysia)
 
-[Privacy Policy - Indonesian Bahasa](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/indonesia)
-
-[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/web/20181123155420id_/https%3A//www.mandarinoriental.com/privacy-policy/taiwan)
+[Privacy Policy - Indonesian Bahasa](https://web.archive.org/web/20190514100336id_/https%3A//www.mandarinoriental.com/privacy-policy/indonesia)
 
 [Privacy Policy - Thailand](https://web.archive.org/privacy-policy/thailand)
+
+[Privacy Policy -Taiwan - Traditional Chinese](https://web.archive.org/web/20190514100336id_/https%3A//www.mandarinoriental.com/privacy-policy/taiwan)
