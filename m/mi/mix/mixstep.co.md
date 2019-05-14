@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mixstep.co privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917174007id_/https%3A//mixstep.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixstep.co privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515013017id_/https%3A//mixstep.co/privacy-policy) for the most accurate reproduction.*
 
 # Mixstep - Free Audio Hosting Service
 
-This Mixstep Privacy Policy, in conjunction with the [AUP](https://web.archive.org/web/20180917174007id_/https%3A//mixstep.co/acceptable-use-policy), [Terms of Service](https://web.archive.org/web/20180917174007id_/https%3A//mixstep.co/terms-of-service) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Mixstep website and are collectively referred to as the "Agreement".
+This Mixstep Privacy Policy, in conjunction with the [AUP](https://web.archive.org/web/20190515013017id_/https%3A//mixstep.co/acceptable-use-policy), [Terms of Service](https://web.archive.org/web/20190515013017id_/https%3A//mixstep.co/terms-of-service) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Mixstep website and are collectively referred to as the "Agreement".
 
 Mixstep may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.
 
