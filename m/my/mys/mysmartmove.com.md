@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartmove.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009175555id_/https%3A//www.mysmartmove.com/SmartMove/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartmove.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515003527id_/https%3A//www.mysmartmove.com/SmartMove/privacy-policy.page) for the most accurate reproduction.*
 
 # TransUnion SmartMove Privacy Policy | SmartMove Tenant Screening
 
