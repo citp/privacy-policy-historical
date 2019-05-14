@@ -1,31 +1,23 @@
-> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065433id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514155249id_/https%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
 
-# Hot Sheet Privacy Information
+# HotSheet® Privacy Policy
 
-**Summary of Privacy Policy**  
-The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is only to enhance the user experience through customized features. User specific data will not be shared, sold or made available to any outside agencies.
+**Use of Cookies**  
+The HotSheet® website at domain hotsheet.com uses web browser cookies to store user preference information and enable certain site functions. A cookie is a piece of data stored on the user's hard drive containing information to help web page processing. Our primary page at www.hotsheet.com may set a cookie on the users computer to store data to keep track of the last news headlines selected, hidden directory categories and color scheme selection. The data for these features is not retained by HotSheet but is stored on your computer or other access device.
 
-* * *
+Cookies can show under both hotsheet.com and www.hotsheet.com in web browser cookies and data settings. Cookies can be disabled in your web browser settings if you would rather not use them, although this will prevent the use of some website features. Usage of cookies is in no way linked to any personally identifiable information while on our site. 
 
-**Information Collection and Use**  
-HotSheet.com Inc. collects information from our users at several different points on our web site. HotSheet.com Inc. is the sole owner of the information collected for our e-commerce services and customization features. We will not sell, share, or rent this information to others. Customization features on our primary HotSheet directory page use a Cookie on the users computer to store data (ie:zip code, colors, etc). The information for these features is not transmitted to, nor stored by, HotSheet.com. 
-
-Our My HotSheet service allows users to create and maintain a personalized page of favorite web site links. The custom information for this service is transmitted to HotSheet.com, and is stored in databases on our computers. The personalized link page can be accessed and maintained only by individuals with the appropriate user name and password. We do provide a method for a registered user to allow use of their link collection by others (accessed directly by a custom URL), without allowing additions or changes by the visiting user. 
+Third Party service providers may also set cookies related to HotSheet that are stored under the hotsheet.com domain. These may include google.com for tracking advertising services and preferences, and addthis.com for link sharing services. HotSheet has no access to or control over third party cookies. 
 
 **Registration**  
-In order to use our My HotSheet custom link management features a user must first complete a registration process. During registration a user is required to provide a an e-mail address. The address is used to contact the user with a registration confirmation and may also be used for future site specific updates and information. It is optional for the user to provide other information requested (ie: zip code), but entry is encouraged to allow complete personalization and features. 
-
-**Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, a registered My HotSheet user would not have to log in each time they wish to access their link page. If a user's web browser rejects the cookie they may still use our site. The only drawback to this is that the user will not be able to use any custom HotSheet services.  
-Some of our business partners use cookies on our site (for example, advertisers) and features administered by partner sites also use cookies (ie: e-mail). However, we have no access to or control over these cookies. 
+Our My HotSheet service allows users to create and maintain a personalized page of favorite web site links. The custom information for this service is transmitted to HotSheet servers, and is stored in databases on partner hosted computers. The personalized link page can be accessed and maintained only by individuals with the appropriate user name and password. In order to use the custom link management features a user must first complete a registration process. During registration a user is required to provide a an e-mail address. The address is used to contact the user with a registration confirmation and may also be used for future site specific updates and information. 
 
 **Log Files**  
-We use IP addresses to analyze trends, administer the site, track user's movement within our site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+We may occasionally use IP addresses to analyze trends, administer the site, track user's movement within our site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
 **Sharing**  
 We may share aggregated demographic information with our partners and advertisers. This is anonymous data and is not linked to any personal information that can identify any individual person.   
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.   
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+We may partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 
 **Links**  
 This web site contains links to other sites. Please be aware that HotSheet.com Inc. is not responsible for the privacy practices of these other sites. This privacy statement applies solely to information collected by HotSheet.com. Users should be aware when they leave our site and are encouraged to read the privacy statements of each web site that collects personally identifiable information. 
@@ -54,7 +46,7 @@ We also may send the user site and service announcement updates. Members are not
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member options page or by e-mailing our Customer Support. 
 
 **E-Mail Service**  
-This privacy policy does not apply to the HotSheet e-mail service. This is a service where users can get a hotsheet.com email address. The HotSheet e-mail is provided by, and administered through, an outside partner company with a separate privacy policy. 
+This privacy policy does not apply to the HotSheet e-mail service. This is a service where users can get a hotsheet.com email address. The HotSheet e-mail is provided by, and administered through, outside partner company [Everyone.Net](http://www.everyone.net/) with a separate privacy policy. The email service is no longer provided free and new users are not being added. 
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
