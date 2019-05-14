@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbuytires.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112114344id_/http%3A//www.superbuytires.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbuytires.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514021625id_/http%3A//www.superbuytires.com/privacy.html) for the most accurate reproduction.*
 
 # Car Tires, Wheels, Accessories, Grills, & Body Kits - SUPERBUYTIRES
 
