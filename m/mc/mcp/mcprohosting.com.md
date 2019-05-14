@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcprohosting.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821054504id_/https%3A//mcprohosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcprohosting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514135610id_/https%3A//mcprohosting.com/privacy) for the most accurate reproduction.*
 
-# Game Server Hosting | MCProHosting | Privacy Policy
+# Minecraft Server Hosting and More! | MCProHosting | Privacy Policy
 
 MCProHosting, LLC ("us", "we", or "our") operates the http://www.mcprohosting.com website (the "Service").
 
@@ -62,7 +62,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 
 
-We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you relating to MCProHosting or its subsidiaries. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
 #### Usage Data
 
