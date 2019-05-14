@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritytattoo.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222115132id_/https%3A//authoritytattoo.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritytattoo.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514044349id_/https%3A//authoritytattoo.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer | AuthorityTattoo
 
