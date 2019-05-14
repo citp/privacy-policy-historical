@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappages.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112025735id_/http%3A//snappages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappages.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514120530id_/http%3A//snappages.com/privacy) for the most accurate reproduction.*
 
 # SnapPages - Privacy
 
