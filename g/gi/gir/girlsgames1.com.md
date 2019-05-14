@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606062633id_/http%3A//www.girlsgames1.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514201416id_/http%3A//www.girlsgames1.com/privacy.htm) for the most accurate reproduction.*
 
 # GirlsGames1.com
 
