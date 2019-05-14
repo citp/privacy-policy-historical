@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009045522id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairchildsemi.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514110104id_/https%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109) for the most accurate reproduction.*
 
 # Privacy Policy
 
