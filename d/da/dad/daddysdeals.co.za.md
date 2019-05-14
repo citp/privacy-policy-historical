@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203194527id_/http%3A//daddysdeals.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysdeals.co.za privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514160712id_/http%3A//daddysdeals.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Daddy's Deals
 
