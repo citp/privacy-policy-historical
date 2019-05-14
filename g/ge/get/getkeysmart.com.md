@@ -1,101 +1,87 @@
-> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408200247id_/https%3A//www.getkeysmart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getkeysmart.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514044336id_/https%3A//getkeysmart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KeySmart, for premium key holders, pocket organizers, & key ring solutions.
 
-We value your privacy and are committed to protecting your personal information. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+KeySmart Privacy Policy
 
-If you have questions about our Privacy Policy, please send them to us by email to [Orders@MyKeySmart.com](mailto:Orders@MyKeySmart.com) or write to us at the following address:
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.getkeysmart.com (the “Site”).
 
-KeySmart   
-Attn: Privacy Policy  
-300 West central road, Suite 837   
-mount prospect, IL 60056
+PERSONAL INFORMATION WE COLLECT
 
-**TYPES OF INFORMATION**
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our website.
+If you're visiting the site in Europe, you will be prompted with a popup showing the cookies we are using. You will be able to opt out of all cookies that are not essential to the working of the site. For example you will be able to opt out of marketing cookies.
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers.
+We collect Device Information using the following technologies:
 
-**PERSONAL INFORMATION**
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-Any personal information that you provide us on our website is stored in our secure web server and our other internal systems. When you purchase or register on our website, we collect your personal information. This may include, but is not limited to, your name, billing and shipping address, phone number, email address, and credit card information. We may use your information in the following ways:
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.  
+\- Advertising tracking tags that allow us to know if you purchased because of an ad we paid for. This may sound creepy but it helps us to understand if our ad spends are effective.  
+\- Analytics software that lets us know where users have been on the site.  This allows us to make the site better because we can see where people might be confused.    
+\- Dynamic tracking that allows us to predict what products you would like the most and show them to you.
 
-  * To process and fulfill your order (e.g. sending you emails to apprise you of your order and shipment status)
-  * To send you an email to you confirming the registration of your customer account
-  * To communicate with you about our products, services and promotions unless you have previously specified that you do not wish to receive this information
-  * To help us learn more about your shopping needs and preferences
-  * To enhance your shopping experience
-  * To analyze customer trends and maintain statistics
-  * To contact you if necessary
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information.”
 
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-**VIEWING, UPDATING, OR MODIFYING PERSONAL INFORMATION**
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-We will provide you with access to the personal information you provided to KeySmart by allowing you to view, update or correct your online registration information. In order to protect your privacy, KeySmart takes steps to verify your identity before granting you access to the private information or enabling you to make corrections. We will accomplish this through the use of passwords and personal data. If we cannot provide access within the 30-day period, we will tell you when we will provide access. In the unlikely event that we cannot provide you access to this information, we will explain why we cannot do so.
+We often send email for sales and new products to customers who have given us consent for marketing emails.
 
-To request access to your personally identifying information, please login to your online account or contact us by email at [Orders@MykeySmart.com](mailto:Orders@MyKeySmart.com) or by writing us at the following address:
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-KeySmart   
-Attn: Privacy Policy  
-300 West central road, Suite 837   
-mount prospect, IL 60056
+We use device information to send you advertisements about products you have recently viewed or products we think you will like
 
-**MAILING LIST**
+SHARING YOUR PERSONAL INFORMATION
 
-We have exciting news to share with you from time to time. We encourage you to joining our mailing list in order to receive the latest information about our products, services, promotions, and special orders. At any point, you may opt to remove your email address from our mailing list. You may notify us at any time if you do not wish to receive these offers by emailing us at 
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-**WEB SITE USE INFORMATION**
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-Similar to other commercial websites, KeySmart utilizes a standard technology called "cookies" and web server logs to collect information about how our website is used. Information gathered through cookies and web server logs may include the date and time of visits, pages viewed, time spent on our site, and the website visited just before and just after visiting our website.
+BEHAVIOURAL ADVERTISING  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-**COOKIES**
+You can opt out of targeted advertising by:
 
-A "cookie" is a small text file that a Web site can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it easier to use certain site functions. The cookie transmits this information back to the Web site's computer. Many users do not know that "cookies" are being placed on their computers when they visit Web sites. If you want to know when this happens, or prevent it from happening, you can set your browser to warn you when a Web site attempts to place a "cookie" on your computer.
+FACEBOOK - https://www.facebook.com/settings/?tab=ads  
+GOOGLE - https://www.google.com/settings/ads/anonymous  
+BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. For example, we use cookies to:
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-  * Remember the items in your shopping basket
-  * Recognize you when you return to our website
-  * Analyze visitor behavior
+DO NOT TRACK  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
+YOUR RIGHTS  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-**WEB SITE ANALYTICS**
+DATA RETENTION  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-We also use cookies to analyze how visitors, in the aggregate, use our website, in order to make our website as useful as possible for them. We do not use cookies to collect or store personally identifiable information. We may also use a third party web analytics service provider that uses cookies and web beacons to help us analyze how users use this website and the effectiveness of our marketing search terms. The information generated by the cookie about your use of this website (including, without limitation, your IP address) may be transmitted to and stored by this service provider. They may use this information for the purpose of evaluating your use of our website and compiling aggregated reports for us. The information collected by our service provider and provided to us is not personally identifiable.
+CHANGES  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-**INFORMATION AUTOMATICALLY COLLECTED BY OUR WEBSITE**
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at Orders@MyKeySmart.com or by mail using the details provided below:
 
-Our servers automatically collect certain non-personally identifying information, such as your computer's IP address, the type of browser in use, and pages viewed, when you visit our Sites. We use this information to understand how visitors navigate through our website, to enhance your experience while using our website, and to make the materials we post as valuable to visitors as possible. We do not link this information to personally identifiable information.
+Curv Group,  
+860 Bonnie Ln,   
+Elk Grove Village, IL, 60070,   
+United States
 
-**THIRD PARTIES**
-
-We may choose to work with other companies who use tracking technologies to serve ads on our behalf across the internet. These companies may collect non-personally identifiable information about your visit to our website and your interaction with our communications, including advertising.
-
-We may also enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
-
-**CERTAIN DISCLOSURES**
-
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to
-
-  1. conform to the law or comply with legal process served on us or affiliated parties;
-  2. protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties;
-  3. act under circumstances to protect the safety of users of our site, us, or third parties.
-
-
-
-**LINKED WEBSITES**
-
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
-
-Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. You’re browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
-
-**CONSENT**
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-**UPDATES TO PRIVACY INFORMATION**
-
-Please review the site periodically to see any updates to the information provided here. This Privacy Policy was last updated on April 22, 2014.
+Data Protection Officer Contact Info:  
+Andrew@MyKeySmart.com  
+Andy Bedell  
+Curv Group,  
+860 Bonnie Ln,   
+Elk Grove Village, IL, 60070,   
+United States
