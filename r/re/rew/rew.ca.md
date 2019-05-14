@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027162605id_/https%3A//www.rew.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rew.ca privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514151408id_/https%3A//www.rew.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | REW
 
@@ -91,7 +91,7 @@ If REW.CA is not able to provide access to some aspect of a customer's personal 
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting REW.CA or the Privacy Officer as described above. REW.CA will promptly correct such personal information.
 
-For any further information, please don't hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0c0a0f0f100d0b3f0d1a08511c1e)
+For any further information, please don't hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bdcec8cdcdd2cfc9fdcfd8ca93dedc)
 
 
 
