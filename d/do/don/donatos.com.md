@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the donatos.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215171805id_/https%3A//www.donatos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donatos.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514043730id_/https%3A//www.donatos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Donatos Columbus
 
-## Last modified: March 4, 2016
+## Last modified: April 27, 2017
 
 **Introduction**
 
@@ -87,7 +87,9 @@ We use information that we collect about you or that you provide to us, includin
 
 If you join the Donatos Email Club, we may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please unsubscribe through the link provided in the applicable email, or text “STOP” to 88188 to cancel text message communications. We will not charge you for text messages; however, message and data rates may apply.
 
-Disclosure of Your Information
+Our Website utilizes Google Analytics Advertising Features, including Remarketing with Google Analytics. Where users have chosen to enable Google to associate their web and app browsing history with their Google account, and to use information from their Google account to personalize ads they see across the web, Google may use data from its signed-in users together with our Google Analytics data to build and define audience lists for cross-device remarketing. In order to support this feature, Google Analytics may collect these users’ Google-authenticated identifiers and temporarily join them to your Google Analytics data in order to populate your audiences. If you would like to opt-out of the Google Analytics Advertising Features, Google Analytics' [currently available opt-outs for the web are available at this link.](https://tools.google.com/dlpage/gaoptout/)
+
+**Disclosure of Your Information**
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
