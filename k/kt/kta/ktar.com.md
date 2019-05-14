@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231060109id_/http%3A//ktar.com/2012/05/01/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514193839id_/http%3A//ktar.com/2012/05/01/privacy-statement) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT - KTAR.com
 
 **PRIVACY POLICY**
 
-(Last revised May 25, 2018) 
+(Last revised May 25, 2018)
 
 This website is owned and operated by Bonneville International Corporation (“Operator”). The following Privacy Policy (the “Policy”) describes how Operator collects, uses, and shares personally identified information (“PII”) and non-personally identifiable information (“non-PII”) collected through this website (collectively referred to as “Data”), mobile web sites and mobile applications we operate (collectively, the “Site”) and the services, features, or content we offer (collectively with the Site, the “Services”). The Policy supplements the Terms of Use posted elsewhere within the Site. You should read the Policy and the Terms of Use before you use the Site. By visiting the Site or using the Services, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Policy and consent to having your Data transferred to and/or processed in the United States. If you do not agree to this Privacy Policy, please do not use the Services. We may change the Policy at any time by posting revisions to the Policy on the Site. Therefore, you should review the Policy from time to time. Your continued use of the Site constitutes your acceptance of the revised Policy. If you do not accept all of the terms, conditions and notices set forth in the Policy, you must exit the Site immediately.
 
