@@ -1,43 +1,85 @@
-> *The following text is extracted and transformed from the globaldata.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911034128id_/https%3A//www.globaldata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaldata.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514091433id_/https%3A//www.globaldata.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GlobalData Plc
+# Privacy Policy - GlobalData
 
-This Privacy Policy sets out how GlobalData collects and uses information from users (“User” or “you”) of our website identified by the URL [www.globaldata.com](https://www.globaldata.com/) and/or any website which is hosted on this domain (together the “Website”) operated by GlobalData plc (“GlobalData”, “our”, “we” or “us”). This Privacy Policy applies to the Website and all products and services offered by GlobalData.
+This Privacy Policy sets out how GlobalData collects and uses information from users (“User” or “you”) of our website identified by  
+the URL [ www.globaldata.com](https://www.globaldata.com/) and/or any website which is hosted on this domain  
+(together the “Website”) operated by GlobalData plc (“GlobalData”, “our”, “we” or “us”). This Privacy Policy applies to the Website and  
+all products and services offered by GlobalData.
 
 ### What Information Do We Collect?
 
-### We may collect the following information: 
+### We may collect the following information:
 
-(a) personal information from Users in a variety of ways, including, but not limited to, when Users visit our Website, register on the Website, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Website related activities.
+(a) professional information about you including first name, last name, job title, company name, email address and telephone number  
+provided directly from you to us or from publically available information such as public sources, third parties or online publications.  
+This information is processed on the grounds of legitimate interest for the purpose of:
 
-(b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
+  * identifying if you are key-decision maker in any of the sectors in which we operate.
+  * ensuring that the information we hold about you is relevant, accurate and up to date.
+  * ensuring that we have the information we reasonably require to provide or offer you with a relevant product or service; helping us to provide the best possible service in the most efficient manner; and  
+to enhance marketing efficiencies for our customers in the sectors in which we operate.
 
-(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+
+
+(b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include  
+the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating  
+system and the Internet Service Provider’s utilised and other similar information.
+
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals  
+hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes  
+to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent.  
+If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you  
+can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or[  
+http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+(d) professional information about you including first name, last name, job title, company name, email address and telephone number provided directly from you to us or from publicly available information such as from public sources, third parties or online publications. This information is processed on the grounds of legitimate interest for the purpose of:
+
+  * identifying if you are key-decision maker in any of the sectors in which we operate.
+  * ensuring that the information we hold about you is relevant, accurate and up to date.
+  * ensuring that we have the information we reasonably require to provide or offer you with a relevant product or service;
+  * helping us to provide the best possible service in the most efficient manner; and
+  * to enhance marketing efficiencies for our customers in the sectors in which we operate.
+
+
 
 ### How we use collected information
 
-Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made. 
+Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.
 
 GlobalData uses User personal information we have collected for the following purposes:
 
-• to personalise User experience: we may use information individually or aggregated to understand how our Users use the services and resources provided on our Website.
+  * to personalise User experience: we may use information individually or aggregated to understand how our Users use the services  
+and resources provided on our Website.
+  * to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive  
+from you.
+  * to improve customer service: your information helps us to more effectively respond to your customer service requests and support  
+needs.
+  * to process transactions: we may use the information Users provide when placing an order to service that order, as well as provide  
+relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.
+  * to administer Website features: such as content, promotions and surveys and to send Users information they agreed to receive about  
+topics we think will be of interest to them
+  * to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.
 
-• to improve our Website: we continually strive to improve our Website offerings based on the information and feedback we receive from you.
 
-• to improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
-
-• to process transactions: we may use the information Users provide when placing an order to service that order, as well as provide relevant information about our other products. We do not automatically share this information with third parties except to the extent necessary to provide the service or when explicitly given permission by the User. The User can at any time change its preferences by contacting us via our Website.
-
-• to administer Website features: such as content, promotions and surveys  
-and to send Users information they agreed to receive about topics we think will be of interest to them.
-
-• to send periodic emails: the email address Users provide will be used to send them information and updates pertaining to their orders as well as (a) respond to their inquiries and requests or (b) provide relevant information about our other products.
 
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Website.
 
-### User’ right to Opt-out
+### Third-party usage tracking analytics
 
-If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@globaldata.com](https://web.archive.org/web/20180911034128id_/https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
+In addition to our own usage analytics, we use several third-party services to process personal information for the purposes listed above. While some of the services listed beneath may not be enabled at any specific time, services we use include:
+
+Service | Description | Privacy Policy | Opt-Out | Place of Processing  
+---|---|---|---|---  
+Google Analytics (Google LLC) | We use the data collected by Google Analytics to track and examine the use of  
+this application and to prepare reports on user activities. | [Privacy Policy](https://policies.google.com/privacy) | [Opt-out](https://tools.google.com/dlpage/gaoptout?hl=en) | United States (Privacy Shield compliant)  
+FullStory (FullStory Inc) | We use the data collected by FullStory to analyse user behaviour on the application, such as via  
+heatmaps and session playback | [Privacy Policy](https://www.fullstory.com/legal/privacy/) | [Opt-out](https://www.fullstory.com/optout) | United States (Privacy Shield compliant)  
+Permutive (Permutive Inc) | We use data collected by Permutive to track and analyse customer interactions with our website. User’s IP addresses are received and processed but raw IP’s are not stored. | [Privacy Policy](https://permutive.com/privacy/) | [Opt-out](https://permutive.com/privacy/#opt-out) | United States (Privacy Shield compliant)  
+  
+### User right to Opt-out
+
+If you do not want to continue to receive e-mail communications from us or if you would like to understand the specific personal data we collect and process in relation to you please let us know by either (a) sending an e-mail to unsubscribe@globaldata.com or (b) following the unsubscribe instructions at the bottom of each communication from us to you. Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
 ### How we protect your information
 
@@ -67,11 +109,11 @@ By using this Website, you signify your acceptance of this policy. If you do not
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [unsubscribe@globaldata.com](mailto:unsubscribe@globaldata.com) or alternatively:
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at unsubscribe@globaldata.com or alternatively:
 
 Data Protection Officer  
 GlobalData Plc  
-John Carpenter House  
+John Carpenter House,  
 John Carpenter Street  
-London EC4Y 0AN  
+London  
 United Kingdom
