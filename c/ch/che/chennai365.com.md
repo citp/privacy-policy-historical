@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennai365.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110184225id_/http%3A//chennai365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennai365.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514101311id_/http%3A//chennai365.com/privacy-policy) for the most accurate reproduction.*
 
 # Chennai365 | Privacy Policy | Chennai365
 
