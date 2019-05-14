@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookchinaonline.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826230826id_/http%3A//bookchinaonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookchinaonline.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514131527id_/http%3A//www.bookchinaonline.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - China Holidays
 
@@ -20,7 +20,7 @@ Address:
 
 | 
 
-_Suite 302, 727 George St. Sydney_  
+_Suite 301, 727 George St. Sydney_  
   
 State/Province:
 
@@ -44,7 +44,7 @@ Phone:
 
 | 
 
-+61-2-9212-0806  
++61-2-9211-8756  
   
 Fax:
 
