@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122235642id_/https%3A//www.dunkindonuts.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514095812id_/https%3A//www.dunkindonuts.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dunkin' Donuts
+# Privacy Policy | Dunkin'®
 
 **Information You Provide**
 
@@ -122,7 +122,7 @@ We use information about you for our legitimate interests, including to:
 
   * process and manage the DD/BR Online Services, including your use of our products and services;
   * perform services requested by you, such as torespond to your inquiries or requests;
-  * communicate with you in connection with our and third party products, services, offers, promotions, rewards, and marketing efforts, such as when we send you offers and promotions that you can take advantage of through the DD/BR Online Services or at your local Dunkin’ Donuts or Baskin-Robbins shop (for information about how to manage these communications and marketing efforts, please see “Your Rights and Choices” below);
+  * communicate with you in connection with our and third party products, services, offers, promotions, rewards, and marketing efforts, such as when we send you offers and promotions that you can take advantage of through the DD/BR Online Services or at your local Dunkin'® or Baskin-Robbins shop (for information about how to manage these communications and marketing efforts, please see “Your Rights and Choices” below);
   * maintain, market, and improve our Loyalty Program;
   * further our business purposes, such as to perform data analysis, audits, fraud monitoring and prevention, to enhance, improve or modify the DD/BR Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and to operate, improve and expand our business activities; and
   * if you are accessing the DD/BR Online Services as a current or potential franchisee, we may use the information that you provide to assist in the assessment of your application for a Dunkin’ Brands franchise as well as improve and conduct our franchise marketing efforts. We use the contact information you provide to communicate with you and your employees about important information relevant to franchisees.
@@ -133,7 +133,7 @@ We also use information about you with your consent, including to:
 
   * create and deliver personalized content, features, and promotions, including based on the amounts and types of purchases you make and benefits you receive;
   * communicate with you about Dunkin’ Brands, including about your orders or purchases, your services, accounts, reminders about events, contests you entered into, your requests for information, and to update you about changes to the DD/BR Online Services;
-  * allow you to send communications or benefits (for example gifting through the Dunkin’ Donuts mobile application) to friends or family through the DD/BR Online Services if you and your friends/family are located in the US; and 
+  * allow you to send communications or benefits (for example gifting through the Dunkin'® mobile application) to friends or family through the DD/BR Online Services if you and your friends/family are located in the US; and 
   * fulfill any other purpose disclosed at the time you provide information and your consent.
 
 
@@ -207,13 +207,13 @@ For further information on Tracking Technologies and your rights and choices reg
   
 You can visit the account section of the DD/BR Online Services to access or updatecertain account information we have on file about you and that you have submitted through the DD/BR Online Services. Alternatively, you may call us at 1-800-859-5339to request that it be updated or removed. We may require additional information from you to allow us to confirm your identity. Please note that if you ask us to remove information, we will remove it from consumer-facing parts of the DD/BR Online Services, but may continue to store and use the information for internal analytics purposes.
 
-We may retain your information for as long as your account is active or as reasonably useful for commercial purposes. We will retain and use yourinformation as necessary to comply with our legal obligations or data retention policies, resolve disputes, and enforce our agreements.
+We may retain your information for as long as your account is active or as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations or data retention policies, resolve disputes, and enforce our agreements.
 
 **Communications**
 
-We may send you occasional updates about our products, as well as special offers for savings at your local Dunkin’ Donuts or Baskin-Robbins and from ourAffiliates (as defined in this Privacy Policy). We may also send you “transactional or relationship” communications, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account. We require opt-in consent for text messages or push notifications.
+We may send you occasional updates about our products, as well as special offers for savings at your local Dunkin'® or Baskin-Robbins and from ourAffiliates (as defined in this Privacy Policy). We may also send you “transactional or relationship” communications, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account. We require opt-in consent for text messages or push notifications.
 
-If, at any time, you decide you would rather not receive these types of communications, you can opt-out by following the instructions contained in those communications. For email communications, you may click the unsubscribe link at the bottom of any email sent from Dunkin’ Brands or its Affiliates to opt-out. For text message communications, you may opt-out by texting “STOP” to the appropriate shortcode available from our confirmation text message. For push notifications or in-app messages, you may adjust the permissions in your mobile device.You can also update contact preferences for your Dunkin’Brands account by visiting the DD/BR Online Services.Please note that your opt-out is limited to the e-mail address, phone number, or device used and will not affect subsequent subscriptions or, for e-mails, “transactional or relationship” communications.
+If, at any time, you decide you would rather not receive these types of communications, you can opt-out by following the instructions contained in those communications. For email communications, you may click the unsubscribe link at the bottom of any email sent from Dunkin’ Brands or its Affiliates to opt-out. For text message communications, you may opt-out by texting “STOP” to the appropriate shortcode available from our confirmation text message. For push notifications or in-app messages, you may adjust the permissions in your mobile device. You can also update contact preferences for your Dunkin’ Brands account by visiting the DD/BR Online Services. Please note that your opt-out is limited to the e-mail address, phone number, or device used and will not affect subsequent subscriptions or, for e-mails, “transactional or relationship” communications.
 
 **Tracking Technologies Generally and"Do Not Track”  **  
 ** **                
