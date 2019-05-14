@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axelos.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826174716id_/https%3A//www.axelos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axelos.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514223740id_/https%3A//www.axelos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -24,15 +24,16 @@ The independent authority that upholds information rights in the public interest
 **This is AXELOS’ registered address, company number and contact information:**
 
 AXELOS Limited  
-17 Rochester Row  
-London, SW1P 1QT  
+30 Berners Street  
+London, W1T 3LR
+
 Company Registration Number: 08489114
 
 ICO Registration Number: ZA008505
 
 Email: [dpo@axelos.com](mailto:dpo@axelos.com)
 
-Phone: +44 (0) 2 7960 7824
+Phone: +44 (0) 20 7960 7824
 
 AXELOS’s Website: [http://www.axelos.com](https://web.archive.org/ "AXELOS.com")
 
@@ -62,7 +63,7 @@ If you visit our website or member communities, we may automatically collect inf
   * IP addresses
   * Information about what type of device you use to connect to our website
   * Your URL
-  * What parts of uour website you click on and how long you look at our website.
+  * What parts of your website you click on and how long you look at our website.
 
 
 
@@ -178,7 +179,7 @@ We will keep your personal information:
 
 
 
-We may keep just enough of your personal information to ensure that we comply with your requests not use your personal information or comply with your right to erasure. For example, we must keep your request to be erased even if it includes your personal data until such time as you are no longer our customer.
+We may keep just enough of your personal information to ensure that we comply with your requests not to use your personal information or comply with your right to erasure. For example, we must keep your request to be erased even if it includes your personal data until such time as you are no longer our customer.
 
 If you have questions about our Data Retention Policy, please contact: [dpo@axelos.com](mailto:dpo@axelos.com).
 
@@ -209,7 +210,7 @@ The right to erasure |   | This is sometimes called ‘the right to be forgotte
   |   |    
 The right to restrict processing |   | You have the right to ask AXELOS to restrict how we process your data. This means We are permitted to store the data but not further process it. We keep just enough data to make sure we respect your request in the future. If you want Us to restrict processing of your data, please contact our Data Protection Office: [dpo@axelos.com](mailto:dpo@axelos.com)  
   |   |    
-The right to data portability |   | AXELOS must allow you to obtain and reuse your personal data for your own purposes across services in a safe and secure way without this effecting the usability of your data. Please contact our Data Protection Officer if you want information how to port your data elsewhere: [dpo@axelos.com](mailto:dpo@axelos.com). This right only applies to personal data that you have provided to Us as the Data Controller. The data must be held by Us by consent or for the performance of a contract.  
+The right to data portability |   | AXELOS must allow you to obtain and reuse your personal data for your own purposes across services in a safe and secure way without this affecting the usability of your data. Please contact our Data Protection Officer if you want information how to port your data elsewhere: [dpo@axelos.com](mailto:dpo@axelos.com). This right only applies to personal data that you have provided to Us as the Data Controller. The data must be held by Us by consent or for the performance of a contract.  
   |   |    
 The right to object |   | You have the right to object to AXELOS processing your data even if it is based on Our legitimate interests, the exercise of official authority, direct marketing (including data aggregation), and processing for the purposeless of statistics. If you wish to object please contact our Data Protection Officer: [dpo@axelos.com](mailto:dpo@axelos.com)  
   |   |    
@@ -230,4 +231,4 @@ AXELOS does not believe its website or marketing content is appealing to childre
 
 AXELOS may change this notice from time to time in the future. Any such changes will be posted here and, where appropriate, notified to you in writing. We advise you to check back frequently to see any updates or changes.
 
-**v3, 01  May 2018**
+**v4,  23 August 2018**
