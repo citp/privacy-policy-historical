@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiatforum.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910155423id_/http%3A//www.fiatforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiatforum.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514035431id_/https%3A//www.fiatforum.com/privacy.html) for the most accurate reproduction.*
 
 # The FIAT Forum - Privacy Statement
 
