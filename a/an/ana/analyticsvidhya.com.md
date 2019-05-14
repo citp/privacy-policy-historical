@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyticsvidhya.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230035236id_/https%3A//www.analyticsvidhya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsvidhya.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514164411id_/https%3A//www.analyticsvidhya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Analytics Vidhya
 
@@ -244,6 +244,10 @@ Specific Contact Emails:
 I have more questions about privacy policy
 
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at privacy@analyticsvidhya.com.
+
+Delete Account
+
+If you want to delete your Analytics Vidhya account, this can be done by going to user dashboard [ here ](https://id.analyticsvidhya.com/?utm_source=blog-privacy-delete) and using the Delete Account selection
 
 Your Consent
 
