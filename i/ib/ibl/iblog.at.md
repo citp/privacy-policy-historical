@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblog.at privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112041854id_/https%3A//iblog.at/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblog.at privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515014359id_/https%3A//iblog.at/privacy-policy) for the most accurate reproduction.*
 
 # iblog.at Blogs » Privacy Policy
 
@@ -6,13 +6,13 @@
 
 Last Updated: May 25th, 2018
 
-**INTRODUCTION**
+ **INTRODUCTION**
 
 This privacy policy (“ **Policy** ”) describes how **[Add2it.com](http://add2it.com/) Marketing Pty Ltd, P.O. Box 620, Sydney NSW 2001, Australia **(“ **Company,** ” “ **we,** ” and “ **our** ”) processes, collects, uses and shares personal data when using this website **iBlog.at** (the “ **Site** ”). Please read the following information carefully to understand our practices regarding your personal data and how we will process data.
 
 ******1\. Purposes of Processing**
 
-**What is personal data?**
+ **What is personal data?**
 
 We collect information about you in a range of forms, including personal data. As used in this Policy, “personal data” is as defined in the General Data Protection Regulation, this includes any information which, either alone or in combination with other information we process about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number. 
 
@@ -24,7 +24,7 @@ We will only process your personal data in accordance with applicable data prote
 
 We collect information about you in the following ways:
 
-**Information You Give Us.** This includes:
+ **Information You Give Us.** This includes:
 
   * the personal data you provide when you [register](https://add2it.com/ref) to use our Site, including your‎ name, postal address, email address, telephone number, username, password and demographic information (such as your gender);
   * the personal data that may be contained in any comment you post to the Site;
@@ -35,39 +35,39 @@ We collect information about you in the following ways:
 
 
 
-**Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. ** ** We collect this information about you using Google Analytics.
+ **Information Automatically Collected.** We automatically log information about you and your computer or mobile device when you access our Site. For example, when visiting our Site, we log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. ** ** We collect this information about you using Google Analytics.
 
-**Automated Decision Making and Profiling.**
+ **Automated Decision Making and Profiling.**
 
 We do not use your personal data for the purposes of automated decision-making. However, we may do so in order to fulfill obligations imposed by law, in which case we will inform you of any such processing and provide you with an opportunity to object.
 
 ******3\. COOKIES**
 
-**What are cookies?**
+ **What are cookies?**
 
 We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site.
 
 We use two broad categories of cookies: (1) first-party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits our Site; and (2) third-party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites.
 
-**Cookies we use**
+ **Cookies we use**
 
 Our Site uses the following types of cookies for the purposes set out below:
 
-**Type of cookie** | **Purpose**  
+ **Type of cookie**|  **Purpose**  
 ---|---  
-_Essential Cookies_ | These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. For example, they allow you to log in to secure areas of our Site and help the content of the pages you request load quickly. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.  
-_Functionality Cookies_ | These cookies allow our Site to remember choices you make when you use our Site, such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of our Site which you can customize. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.  
-_Analytics and Performance Cookies_ | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site. 
+ _Essential Cookies_|  These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. For example, they allow you to log in to secure areas of our Site and help the content of the pages you request load quickly. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.  
+ _Functionality Cookies_|  These cookies allow our Site to remember choices you make when you use our Site, such as remembering your language preferences, remembering your login details and remembering the changes you make to other parts of our Site which you can customize. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Site.  
+ _Analytics and Performance Cookies_|  These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered does not identify any individual visitor. It includes the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site.
 
 We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how our Site works. You can find out more information about Google Analytics cookies here: [](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)[developers.google.com/analytics/resources/](https://developers.google.com/analytics/resources/) concepts/gaConceptsCookies
 
-You can find out more about how Google protects your data here: [](http://www.google.com/analytics/learn/privacy.html)[www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). 
+You can find out more about how Google protects your data here: [](http://www.google.com/analytics/learn/privacy.html)[www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
 
 You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available via this link: [](http://tools.google.com/dlpage/gaoptout?hl=en-GB)[tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB)  
   
-_Social Media Cookies_ | These cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.  
+ _Social Media Cookies_|  These cookies are used when you share information using a social media sharing button or “like” button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter or Google+. The social network will record that you have done this.  
   
-**Disabling cookies**
+ **Disabling cookies**
 
 You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. 
 
@@ -98,8 +98,8 @@ We may use your personal data as follows:
 
 We may share your personal data as follows:
 
-  * **Third Parties Designated by You.** We may share your personal data with third parties where you have provided your consent to do so.
-  * **Our** **Third Party Service Providers**. We may share your personal data with our third party service providers who provide services such as data analysis, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services.
+  *  **Third Parties Designated by You.** We may share your personal data with third parties where you have provided your consent to do so.
+  *  **Our** **Third Party Service Providers**. We may share your personal data with our third party service providers who provide services such as data analysis, payment processing, information technology and related infrastructure provision, customer service, email delivery, auditing and other similar services.
 
 
 
@@ -131,10 +131,10 @@ Our Site is/are not directed to children under 16. **** If a parent or guardian 
 
 ******13\. Your Rights**
 
-  * **Opt-out.** You may [contact us](https://reply2frank.com/) anytime to opt-out of  direct marketing communications; (ii) automated decision-making and/or profiling (which we at this time don’t do); (iii) our collection of sensitive personal data; (iv) any new processing of your personal data that we may carry out beyond the original purpose; or (v) the transfer of your personal data outside the EEA. Please note that your use of some of the Site may be ineffective upon opt-out. 
+  *  **Opt-out.** You may [contact us](https://reply2frank.com/) anytime to opt-out of  direct marketing communications; (ii) automated decision-making and/or profiling (which we at this time don’t do); (iii) our collection of sensitive personal data; (iv) any new processing of your personal data that we may carry out beyond the original purpose; or (v) the transfer of your personal data outside the EEA. Please note that your use of some of the Site may be ineffective upon opt-out. 
   * **Access.** You may access the information we hold about you at any time via your profile/account or by [contacting us](https://reply2frank.com/) directly. 
   * **Amend.** You can also [contact us](https://reply2frank.com/) to update or correct any inaccuracies in your personal data.
-  * **Move.** Your personal data is portable – i.e. you to have the flexibility to move your data to other service providers as you wish. 
+  *  **Move.** Your personal data is portable – i.e. you to have the flexibility to move your data to other service providers as you wish. 
   * **Erase and forget.** In certain situations, for example, when the information we hold about you is no longer relevant or is incorrect, you can request that we erase your data. 
 
 
@@ -143,8 +143,8 @@ If you wish to exercise any of these rights, please [contact us](https://reply2f
 
 ******14\. Complaints**
 
-We are committed to resolving any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at [](https://reply2frank.com/)[Reply2Frank.com](https://reply2frank.com/). We will reply to your complaint as soon as we can and in any event, within 30 days. We hope to resolve any complaint brought to our attention, however, if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority 
+We are committed to resolving any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at [](https://reply2frank.com/)[Reply2Frank.com](https://reply2frank.com/). We will reply to your complaint as soon as we can and in any event, within 30 days. We hope to resolve any complaint brought to our attention, however, if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority
 
 ******15\. Contact Information**
 
-We welcome your comments or questions about this Policy. You may contact us in writing at [](https://reply2frank.com/)[Reply2Frank.com](https://reply2frank.com/) or **[Add2it.com](http://add2it.com/) Marketing Pty Ltd, Department: iBlog.at, P.O. Box 620, Sydney NSW 2001, Australia**. 
+We welcome your comments or questions about this Policy. You may contact us in writing at [](https://reply2frank.com/)[Reply2Frank.com](https://reply2frank.com/) or **[Add2it.com](http://add2it.com/) Marketing Pty Ltd, Department: iBlog.at, P.O. Box 620, Sydney NSW 2001, Australia**.
