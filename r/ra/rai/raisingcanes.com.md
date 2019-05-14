@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902224848id_/https%3A//www.raisingcanes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514102347id_/https%3A//www.raisingcanes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Raising Cane's | Chicken Fingers | Cane's Sauce
 
