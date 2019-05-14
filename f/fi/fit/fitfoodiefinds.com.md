@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitfoodiefinds.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003222335id_/https%3A//fitfoodiefinds.com/privacy-policies-disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfoodiefinds.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514164953id_/https%3A//fitfoodiefinds.com/privacy-policies-disclaimers) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimers | Fit Foodie Finds
 
@@ -6,7 +6,7 @@
 
 Last modified: May 24, 2018
 
-## **Introduction**
+##  **Introduction**
 
 Fit Foodie LLC., (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
@@ -31,11 +31,11 @@ Please read this policy carefully to understand our policies and practices regar
 
 When you visit this site, we will ask those of you located in EU countries to click a box indicating that you agree to this privacy policy. If you do not wish to click the box, then please do not use the Website.
 
-## **Children Under the Age of 13**
+##  **Children Under the Age of 13**
 
 Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to the Website. We do not knowingly collect personal information, as defined below,  from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at lee@fitfoodiefinds.com.
 
-## **Information We Collect About You and How We Collect It**
+##  **Information We Collect About You and How We Collect It**
 
 We collect several types of information from and about users of our Website, including information:
 
@@ -53,7 +53,7 @@ We collect this information:
 
 
 
-## **Information You Provide to Us**
+##  **Information You Provide to Us**
 
 The information we collect on or through our Website may include:
 
@@ -66,7 +66,7 @@ The information we collect on or through our Website may include:
 
 You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-## **Information We Collect Through Automatic Data Collection Technologies**
+##  **Information We Collect Through Automatic Data Collection Technologies**
 
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
@@ -95,15 +95,15 @@ The technologies we use for this automatic data collection may include:
 
 We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or from what you provide to us.
 
-## **Third-Party Use of Cookies and Other Tracking Technologies**
+##  **Third-Party Use of Cookies and Other Tracking Technologies**
 
 Some content or applications, including advertisements, that are or may be on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-## **Is Providing Information Mandatory?**
+##  **Is Providing Information Mandatory?**
 
 In order for you to purchase through our website, we do need to collect the information outlined in this Privacy Policy, relevant to your purchase of products or services. If we do not collect the data, we won’t be able to ship your product or provide the services you are requesting.
 
-## **The Purposes For Which We Use Your Information**
+##  **The Purposes For Which We Use Your Information**
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
@@ -122,7 +122,7 @@ We may also use your information to contact you about our own and third-parties�
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-## **Disclosure of Your Information**
+##  **Disclosure of Your Information**
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
@@ -147,15 +147,15 @@ We may also disclose your personal information:
 
 
 
-## **Transmittal of Information**
+##  **Transmittal of Information**
 
 Since we are located in Minnesota, if you provide information to this Website from a location outside the United States, the information may not remain in the country where you enter it.
 
-## **Links to Other Websites**
+##  **Links to Other Websites**
 
 Our website does contain links to affiliate and other websites. We do not claim or accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only and solely to the information collected by our website.
 
-## **Choices About How We Use and Disclose Your Information**
+##  **Choices About How We Use and Disclose Your Information**
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
@@ -165,7 +165,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 We do not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website.
 
-## **Data Security**
+##  **Data Security**
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions and will be encrypted using SSL technology.
 
@@ -173,33 +173,33 @@ The safety and security of your information also depends on you. Where we have g
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. If we learn of a security breach involving our collection of your personal information, we will inform you and others in accordance with applicable law. If you believe that your personal information has been compromised from our Website, please contact us as described in the Contact Information section.
 
-## **Data Retention**
+##  **Data Retention**
 
 We store your personal information that we collect for as long as it is needed for the purposes outlined herein only. However, if you ask us to remove personal information from active databases, we may retain it for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
 
-## **Access, Correction and Deletion**
+##  **Access, Correction and Deletion**
 
 Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you may check your personal information to verify, update, or correct it, and to have any obsolete information removed. If you created an account on our Website, you can access and change your online account profile yourself. You also have the right to request that your personal information be deleted or removed without the need for a specific reason, and you have the right to data portability if it should become relevant. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time, by contacting us as indicated below under the heading “Contact Information”.
 
 You may also ask us to change your preferences regarding how we use or disclose your information, including blocking or suppressing the processing of your personal information or objecting to it being used for certain purposes, as allowed by law, and let us know that you do not wish to receive any further communication from us.
 
-## **Changes to Our Privacy Policy**
+##  **Changes to Our Privacy Policy**
 
 It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users’ personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-## **Unsubscribe**
+##  **Unsubscribe**
 
 If you receive commercial emails from us, you may Unsubscribe at any time by sending us an email as described in the Contact Information section.
 
-## **Contact Information**
+##  **Contact Information**
 
 Our team controls the data that we asses. To ask questions or comment about this privacy policy and our privacy practices, contact us at: lee@fitfoodiefinds.com.
 
-## **Terms and Disclaimers**
+##  **Terms and Disclaimers**
 
 Fit Foodie LLC has the legal right at any time, without prior notice, and at our sole discretion, to revise this Website’s Terms and Disclaimers or impose new terms and disclaimers with respect to access to or use of the Website. Such revisions and additions shall be effective immediately upon providing notice of the revisions and additions, which may be given by any means, including but not limited to, posting the revised or additional terms and disclaimers on the Website.  You should check these pages periodically for any modifications or revisions. Continued use of the Website after we post changes to these terms and disclaimers constitutes your acceptance of the changes.
 
-## **Nutritional Disclaimers**
+##  **Nutritional Disclaimers**
 
 While we love food and the idea of a healthy lifestyle, our team is not comprised of certified nutritionists and we make no claim to the contrary. Each individual’s dietary needs and restrictions are unique to the individual. You are ultimately responsible for all decisions pertaining to your health.
 
@@ -209,7 +209,7 @@ You assume full responsibility for consulting a qualified health professional re
 
 This Website, FitFoodieFinds.com, may offer nutritional information for recipes contained on this Website. This information is provided as a courtesy and should not be construed as a guarantee as they have not been calculated by a nutrition or other professional, and varying factors such as brand and processing change the effective nutritional information in any given recipe.
 
-## **Exercise and Workout Disclaimer**
+##  **Exercise and Workout Disclaimer**
 
 This Website offers health and fitness information and is designed for educational purposes only. You should not rely on this information as a substitute for, nor does it replace, professional medical advice, diagnosis, or treatment. If you have any concerns or questions about your health, you should always consult with a physician or other health-care professional. Do not disregard, avoid or delay obtaining medical or health related advice from your health-care professional because of something you may have read on this site. The use of any information provided on this site is solely at your own risk.
 
@@ -219,13 +219,13 @@ Developments in medical research may impact the health and fitness advice that a
 
 If you are in the United States and think you are having a medical or health emergency, call your health care professional, or 911, immediately.
 
-## **Compensation: Affiliate links disclaimer, Sponsored Content disclaimer, and general advertising**
+##  **Compensation: Affiliate links disclaimer, Sponsored Content disclaimer, and general advertising**
 
 We are thrilled to partner with brands and provide promotion to other wonderful businesses.
 
 We pride ourselves on being truthful in the views that we express on our Website. While it doesn’t affect our views in any way, the writer(s), publisher(s) and owner(s) of the Website accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation from third parties, referred to on our Website. All advertising is in the form of advertisements generated by a third-party ad network. Those advertisements will be identified as paid advertisements. The writer(s), publisher(s) and owner(s) of the Website’s blog are compensated to provide opinions on products, services, websites and various other topics. Even though we receive compensation for posts and advertisements, we always give our honest opinions, findings, beliefs and experiences on those topics and products. The views and opinions expressed on this blog are purely the writer(s), publisher(s) and owner(s) own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question, as we are only offering opinions.
 
-## **Disclaimers and Limitation of Liability**
+##  **Disclaimers and Limitation of Liability**
 
 THE CONTENT, MATERIALS, SERVICES AND PRODUCTS OFFERED ON OR THROUGH THE WEBSITE ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF ACCURACY, RELIABILITY, TITLE, MERCHANTABILITY, NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE OR ANY OTHER WARRANTY, CONDITION, GUARANTEE OR REPRESENTATION, WHETHER ORAL, IN WRITING, OR IN ELECTRONIC FORM.
 
@@ -241,10 +241,10 @@ YOU EXPRESSLY AGREE THAT OUR MAXIMUM LIABILITY TO YOU FOR ALL CLAIMS COLLECTIVEL
 
 You also expressly agree that any claim that you wish to assert against us must be served and filed in a court of law within one year of the facts giving rise to the claim.
 
-## **Proprietary Rights**
+##  **Proprietary Rights**
 
 All copyrighted and trademarked materials displayed on or accessible through the Website, including without limitation, all photographs, graphic materials, logos, trademarks, and audio-visual materials (the “Content”), are owned by Fit Foodie LLC or licensed to Fit Foodie LLC by a third party or are the property of a third party who has given Fit Foodie, LLC permission to place the materials on the website, and either Fit Foodie LLC or such third party owns all right, title, and interest in such Content or has a license for it,  and reserves all rights in such Content.  Without our prior written permission in each instance, you may not use material displayed on the Website for any commercial purposes or copy, modify, remove, delete, augment, add to, publish, transmit, participate in the transfer or sale, lease or rental of, create derivative works from, or in any way exploit any of the Content, in whole or in part.
 
-## **Governing Law**
+##  **Governing Law**
 
 These Terms and Disclaimers shall be governed by the laws of the State of Minnesota without regard to its conflicts of law provisions.  You hereby irrevocably and unconditionally consent to the sole and exclusive jurisdiction of the courts of the State of Minnesota and of the United States of America located in the State of Minnesota for any litigation arising out of or relating to the Website or these Terms and Disclaimers, and waive any objection to the venue of any such litigation in such courts, and agree not to plead or claim in any such court that it is an inconvenient forum and that the litigation should take place in a different court.
