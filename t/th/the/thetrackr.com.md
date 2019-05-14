@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903173518id_/https%3A//www.thetrackr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrackr.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515004105id_/https%3A//www.thetrackr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TrackR
+# Privacy Policy - TrackR
 
-##### Privacy Policy of www.thetrackr.com
-
-TrackR, Inc. is not responsible for the loss or theft of items tracked by TrackR.   
+TrackR, Inc. is not responsible for the loss or theft of items tracked by TrackR.  
 This Application collects some Personal Data from its Users.
 
 ##### Data Controller and Owner
@@ -13,9 +11,9 @@ TrackR, Inc., 7410 Hollister Ave., Suite 110, Goleta, CA 93117, support@thetrack
 
 ##### Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data and Email. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data and Email. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-##### Mode and place of processing the Data
+#### Mode and place of processing the Data
 
 ##### Method of processing
 
@@ -33,7 +31,7 @@ The Data is kept for the time necessary to provide the service requested by the 
 
 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Managing email addresses and sending messages and Interaction with external social networks and platforms.
 
-##### The Personal Data used for each purpose is outlined in the specific sections of this document.
+#### The Personal Data used for each purpose is outlined in the specific sections of this document.
 
 ##### Analytics
 
@@ -63,13 +61,13 @@ The Twitter Tweet button and social widgets are services allowing interaction wi
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc. Personal Data collected: Cookie and Usage Data.
 
-##### Additional information about Data collection and processing
+#### Additional information about Data collection and processing
 
 ##### Legal Action
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
 
-##### Additional Information about User's Personal Data
+##### Additional Information about User’s Personal Data
 
 In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
 
@@ -93,7 +91,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 The Data Controller is responsible for this privacy policy.
 
-##### Definitions and legal references
+#### Definitions and legal references
 
 ##### Personal Data (or Data)
 
@@ -101,7 +99,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 ##### Usage Data
 
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
 ##### User
 
@@ -125,7 +123,7 @@ The hardware or software tool by which the User Personal Data is collected.
 
 ##### Cookie
 
-Small piece of data stored in the User's device.
+Small piece of data stored in the User’s device.
 
 ##### Legal information
 
@@ -137,7 +135,7 @@ We are constantly updating product and service offerings on the Service. We may 
 
 ##### Contests, Sweepstakes and Promotions
 
-Any contests, sweepstakes or other promotions (collectively, "Promotions") made available through the Service may be governed by rules that are separate from these Terms & Conditions. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms and Conditions, the Promotion rules will apply.
+Any contests, sweepstakes or other promotions (collectively, “Promotions”) made available through the Service may be governed by rules that are separate from these Terms & Conditions. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms and Conditions, the Promotion rules will apply.
 
 ##### Accounts
 
@@ -157,7 +155,7 @@ We may terminate or suspend your account and bar access to the Service immediate
 
 ##### Indemnification
 
-You agree to defend, indemnify and hold harmless TrackR Inc and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password, or b) a breach of these Terms.
+You agree to defend, indemnify and hold harmless TrackR Inc and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees), resulting from or arising out of a) your use and access of the Service, by you or any person using your account and password, or b) a breach of these Terms.
 
 ##### Limitation Of Liability
 
@@ -165,7 +163,7 @@ In no event shall TrackR Inc, nor its directors, employees, partners, agents, su
 
 ##### Disclaimer
 
-Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. TrackR Inc its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. TrackR Inc its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
 ##### Exclusions
 
