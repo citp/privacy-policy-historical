@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectedinvestors.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118023015id_/https%3A//connectedinvestors.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinvestors.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515004418id_/https%3A//connectedinvestors.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
