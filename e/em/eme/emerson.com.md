@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629152432id_/http%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514114104id_/https%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Notice | Emerson US
 
 **_Last Revised: May  25, 2018_**  
 
@@ -55,7 +55,7 @@ You may also reach out to the respective Emerson affiliate – please [click her
 
  **Overview**
 
-The Services of Emerson’s subsidiaries and affiliated companies are each owned, operated and provided by such subsidiaries and companies. Please [click here](https://otp.tools.investis.com/clients/us/emerson_electric2/SEC/sec-show.aspx?Type=page&FilingId=12392658-300562-366180&CIK=0000032604&Index=50000) for a list of Emerson's subsidiaries and affiliates. However, this Privacy Notice ONLY governs the use of Emerson company Services that specifically link to this Privacy Notice. Other Emerson company Services may link to or otherwise provide their own, separate notice.
+The Services of Emerson’s subsidiaries and affiliated companies are each owned, operated and provided by such subsidiaries and companies. Please [click here](https://otp.tools.investis.com/clients/us/emerson_electric2/SEC/sec-show.aspx?Type=page&FilingId=13071302-297429-363061&CIK=0000032604&Index=20000) for a list of Emerson's subsidiaries and affiliates. However, this Privacy Notice ONLY governs the use of Emerson company Services that specifically link to this Privacy Notice. Other Emerson company Services may link to or otherwise provide their own, separate notice.
 
 Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.  
 
