@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigermobiles.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323000821id_/https%3A//www.tigermobiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermobiles.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514164057id_/https%3A//www.tigermobiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TigerMobiles.com
 
@@ -52,7 +52,7 @@ If you click through to any third party website, we cannot guarantee you will no
 
 ### Help with choosing a contract phone
 
-Many of our customers have told us that they appreciate extra information about choosing the right contract phone from the provider. For this reason by agreeing to the conditions laid out in this Privacy Policy you agree that your details may be used by “us”, the mobile phone / network provider or, where they are involved, their appointed representatives, or an intermediary to contact you with a view to seeing if you are interested in purchase, highlighting any special offers or ways they might be able to help you get an even cheaper price on a mobile phone contract. 
+Many of our customers have told us that they appreciate extra information about choosing the right contract phone from the provider. For this reason by agreeing to the conditions laid out in this Privacy Policy you agree that your details may be used by “us”, the mobile phone / network provider or, where they are involved, their appointed representatives, or an intermediary to contact you with a view to seeing if you are interested in purchase, highlighting any special offers or ways they might be able to help you get an even cheaper price on a mobile phone contract.
 
 ### Your rights to your personal data
 
@@ -60,7 +60,7 @@ If you want to know what personal information we hold about you, we will provide
 
 ### Data Protection Officer
 
-**Tiger Mobiles Limited**
+ **Tiger Mobiles Limited**
 
 15 Queen Square  
 Leeds  
