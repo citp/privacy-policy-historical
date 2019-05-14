@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pendrivelinux.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123224023id_/https%3A//www.pendrivelinux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendrivelinux.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514215631id_/https%3A//www.pendrivelinux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | USB Pen Drive Linux
 
@@ -7,6 +7,10 @@ The following is subject to change at any time.
 ### Contact Form Information:
 
 **Contact Form (Communication):** This site uses a contact form. Contact information submitted via our contact form (name, email address, etc.) is intended to be used for communication between the sender and recipient in regard to the message sent, and is not sold or given away to third parties or used for other purposes.
+
+### One Signal Subscription Service:
+
+**Web Push Notifications (Subscriptions)** : This site might occasionally use the One Signal third party subscription service for Web Push notifications. These subscriptions are simply used to inform subscribers of new and updated content as it is published on this site. Read more about the [One Signal Privacy Policy.](https://onesignal.com/privacy_policy)
 
 ### Third Party Cookies:
 
