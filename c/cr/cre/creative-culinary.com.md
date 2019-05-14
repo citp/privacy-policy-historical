@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225085739id_/https%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-culinary.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514094650id_/https%3A//www.creative-culinary.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Culinary
 
