@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kahoot.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116092227id_/https%3A//kahoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahoot.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514160343id_/https%3A//kahoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Kahoot!
 
@@ -97,22 +97,27 @@ If you do not want information collected through the use of cookies, there is a 
 
 **IP Address:** Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for the purposes of providing support for the internal operations of the Services, such as calculating usage levels, diagnosing server problems, and administering the Services. We may also derive your approximate, general, location from your IP address.
 
-**From you:** Information such as communications preference may be collected from adult accountholders when they voluntarily provide it.  
+**From you:** Information such as communications preference may be collected from adult accountholders when they voluntarily provide it.
+
 By aggregating information: Aggregated Personal Information does not personally identify you or any other user of the Services.
 
 **How We May Use and Disclose Other Information**  
 We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
 **OUR COLLECTION OF PERSONAL INFORMATION FROM CHILDREN**  
-As explained above, we do not collect any Personal Information from a person who merely plays a Kahoot.
+We do not knowingly seek or collect Personal Information from users under the age of 13 (for U.S. users) or 16 (for non-U.S. users). If we determine we have inadvertently gathered Personal Information from users under the age of 13 (for U.S. users) or 16 (for non-U.S. users), we will promptly delete any and all such Personal Information from our records.
 
-When a user who is under the age of 13 (for U.S. users) or 16 (for non-U.S. users) creates an account (a “child accountholder”), we collect his or her email address only for the purpose of providing password reminders to him or her. We immediately and permanently alter the email address such that it can only be used as a password reminder and cannot be reconstructed into its original form or used to contact the child accountholder.
+We and our service providers collect information that is reasonably necessary to support the internal operations of the Kahoot! Service, as described below.
 
-We also collect a user name and password from child accountholders, which are used for login purposes only, to permit the child accountholder to use the Services.
+When a user who is under the age of 13 (for U.S. users) or 16 (for non-U.S. users) creates an account (a “child accountholder”), we collect an email address only for the purpose of providing password reminders. We immediately and permanently alter the email address such that it can only be used as a password reminder and cannot be reconstructed into its original form or used to contact the child accountholder.
 
-We and our service providers also collect the information described above, under “Other Information,” from child accountholders. This includes Google’s use of certain persistent identifiers to collect information about the use of our Services for analytics purposes only.
+To permit the child accountholder to use the Services, we also collect a username and password, which are used for login purposes only.
 
-If you would like to review the information we have collected from your child (i.e., his or her username and password), or if you would like to ask us to make no further use of, or delete, the information we have collected from your child, contact us as described in the “Contacting Us” section, below. In your request, please include your name and your child’s Kahoot username, and specify the action you would like us to take. For your child’s protection, we may need to verify your identity before implementing your request.
+We and our service providers collect the information described above, under “Other Information,” from child accountholders; however, we restrict the use of persistent identifiers for children accountholders. Specifically, we utilize pseudonymous identifiers to understand, among other things, the volume of unique users using our Services, and we limit the geolocation information that we collect to no more precise than a city-wide area. Our collection persistent identifiers from child accountholders does not allow us to identify, contact or create a profile of such users.
+
+The Children’s Online Privacy Protection Act of 1998 (U.S.), the Family Educational Rights and Privacy Act (U.S.), the General Data Protection Regulation (E.U.) and other data privacy laws have been established to protect the privacy of minors. We take our compliance obligations under such laws, and the privacy of our users generally, very seriously.
+
+If you would like to review the information we have collected from your child (i.e., his or her username and password), or if you would like to ask us to make no further use of, or delete, the information we have collected from your child, contact us as described in the “Contacting Us” section, below. In your request, please include your name and your child’s Kahoot! username and specify the action you would like us to take. For your child’s protection, we may need to verify your identity before implementing your request.
 
 **THIRD PARTY SERVICES**  
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
@@ -152,12 +157,12 @@ We may change this Privacy Policy. The “LAST UPDATED” legend at the top of t
 
 If you have any questions about this Privacy Policy, please contact us at [hello@kahoot.com](mailto:hello@kahoot.com) or  
 Kahoot!  
-701 Brazos St., Suite 102  
+701 Brazos St., Suite 521  
 Austin, TX 78701  
 USA
 
 Kahoot! AS  
-Tordenskiolds gate 2  
+Fridtjof Nansens plass 7  
 0160 Oslo  
 Norway
 
