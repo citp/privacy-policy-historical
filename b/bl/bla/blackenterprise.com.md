@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202083307id_/https%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackenterprise.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514022012id_/https%3A//www.blackenterprise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Enterprise
 
