@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917160538id_/https%3A//www.cryengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryengine.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514144931id_/https%3A//www.cryengine.com/privacy) for the most accurate reproduction.*
 
 # CRYENGINE | The complete solution for next generation game development by Crytek
 
@@ -110,4 +110,4 @@ Members may register for other services from our site(s). Certain products and/o
 
 ##### XI. Contact Information
 
-If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at [privacy@crtyek.com](mailto:privacy@crytek.com).
+If you have questions or concerns regarding this statement, you should contact the CRYTEK Privacy Policy Administrator at [privacy@crytek.com](mailto:privacy@crytek.com).
