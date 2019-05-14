@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsexting.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111031501id_/https%3A//localsexting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsexting.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514200125id_/https%3A//localsexting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LocalSexting.com - Sex Chat with Kik, SnapChat, Skype Contacts
 
@@ -6,7 +6,7 @@
 
 1.2 LS is committed to the privacy and protection of information provided to us by our users. This includes any information provided to us through our Service, including any information submitted to us through various forms and through other mechanisms. By using our Service you are accepting the privacy practices contained in this Policy. 
 
-1.3 The purpose of our Privacy Policy is to inform our users regarding the information that we collect, utilize, and share. If you have any questions about our Privacy Policy, or our practices in general, please contact us using the contact information provided below:  Email: info@LocalSexting.com 
+1.3 The purpose of our Privacy Policy is to inform our users regarding the information that we collect, utilize, and share. If you have any questions about our Privacy Policy, or our practices in general, please contact us using the contact information provided below:  Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) 
 
 2.1 Information Collected: there are various types of information that LS collects about you when you register with, interact with, or otherwise use our Service. Some of this information is provided voluntarily by you and other information is provided through automated processes under LS’ control. 
 
@@ -87,7 +87,7 @@
 
 6.2 You always have the option of contacting LS should you have questions regarding your PII. Please contact LS using the contact information provided above. 
 
-7.1 LS restricts the use of our Service to individuals of legal age eighteen (18) years old and older. LS does not knowingly collect or solicit PII from anyone under the age of 18. If you are a parent of a child under the age of 18 and you suspect that your child has registered on our Service, then you can request that any information provided be immediately deleted from LS’ database(s) by sending an email to: info@LocalSexting.com, or by contacting LS via the contact information provided above. LS will promptly respond to any such notification, and upon verification, immediately delete the information in question. 
+7.1 LS restricts the use of our Service to individuals of legal age eighteen (18) years old and older. LS does not knowingly collect or solicit PII from anyone under the age of 18. If you are a parent of a child under the age of 18 and you suspect that your child has registered on our Service, then you can request that any information provided be immediately deleted from LS’ database(s) by sending an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or by contacting LS via the contact information provided above. LS will promptly respond to any such notification, and upon verification, immediately delete the information in question. 
 
 7.2 No one under the age of 18 should attempt to register on our Service, or otherwise provide LS any PII including name, email address, phone number, physical address or any similar information. The protection of children on the Internet is an important public policy concern—one that LS is committed to supporting. 
 
