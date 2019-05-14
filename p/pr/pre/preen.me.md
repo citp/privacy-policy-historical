@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preen.me privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112053420id_/http%3A//www.preen.me/c/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preen.me privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514091207id_/http%3A//www.preen.me/c/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Preen.Me
 
