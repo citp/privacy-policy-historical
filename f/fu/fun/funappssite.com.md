@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funappssite.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118005454id_/https%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funappssite.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514145140id_/https%3A//hotfunapps.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hot Fun Apps on Facebook
 
