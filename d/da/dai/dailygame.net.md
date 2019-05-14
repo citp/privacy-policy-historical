@@ -1,25 +1,77 @@
-> *The following text is extracted and transformed from the dailygame.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628072449id_/https%3A//www.dailygame.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygame.net privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514182717id_/https%3A//www.dailygame.net/privacy-policy) for the most accurate reproduction.*
 
-# Daily Game Privacy Page - Daily Game
+# Privacy Policy - Daily Game
 
-This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Daily Game and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
+#### Who we are
 
-At Daily Game, we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you are on the site.
+Our website address is: https://www.dailygame.net.
 
-**Use of Personal Information**
+### What personal data we collect and why we collect it
 
-Registration is not required in order to use this site. However, this site may provide comments, polls, submission forms, etc. to its users. You may be required to register for these features. If you do register, and in the process provide us with personally identifiable information, no information will be shared with any third-party organization except with your express consent. If you post comments or articles on the site, any personally identifiable information you provide in those comments or articles will be public. As such, we are not responsible for personally identifiable information that you may choose to share through these channels.
+#### Comments
 
-We may provide visitors the opportunity to sign up to receive communications from us. In this case, we ask the visitor for personally identifiable information. Depending on what the visitor opts-in for, these communications will include some or all of the following: weekly newsletters, company updates, and/or other relevant promotions. You may opt out of receiving any, or all, of these communications by clicking on the “unsubscribe” link in any email we send, or by replying to any email stating you’d like to removed from our list.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-If you provide us with personally identifiable information for the purposes of receiving these communications, this information will not be shared with any third-party organization except with your express consent. If your personally identifiable information changes, or if you no longer wish us to possess your information, you can request correction, updating, or deletion of your information by emailing us at privacy@dailygame.net.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-This website may contain links to other websites that are not controlled by us. We are not responsible for the privacy practices and policies of any website other than our own.
+#### Media
 
-**Cookies and Behavioral Advertising**
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+#### Contact forms
 
-**Legal Disclaimer**
+We keep contact form submissions for a certain period for customer service purposes, but we do not use the information submitted through user for marketing purposes.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+#### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+#### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+#### Analytics
+
+We use [Google Analytics](https://analytics.google.com/) to improve the user experience on the website.
+
+#### Who we share your data with
+
+We do not share your data with any third party.
+
+#### How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+#### What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+#### Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+#### How we protect your data
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We monitor our systems for possible vulnerabilities and attacks. **   **Stored data is encrypted when possible.
+
+Even though we try our best we can not guarantee the security of information. However, we promise to notify suitable authorities of data breaches. We will also notify you if there is a threat to your rights or interests. We will do everything we reasonably can to prevent security breaches and to assist authorities should any breaches occur.
+
+#### CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by using <https://www.dailygame.net/write-for-us>
+
+#### Changes to this Privacy Policy
+
+We reserve the right to make change to this Privacy Policy.
+
+Last modification was made May 24, 2018.
