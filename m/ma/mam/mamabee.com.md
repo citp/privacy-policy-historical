@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamabee.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208214403id_/http%3A//mamabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamabee.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514054451id_/https%3A//mamabee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MamaBee
+# Privacy Policy - Mamabee
 
 This Privacy Policy governs the manner in which MamaBee collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://mamabee.com](http://mamabee.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by MamaBee.
 
