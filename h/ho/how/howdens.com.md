@@ -1,159 +1,301 @@
-> *The following text is extracted and transformed from the howdens.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howdens.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514113240id_/https%3A//www.howdens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy Policy | Howdens
 
-Privacy Policy  
+We respect the privacy of every person who visits or registers with or submits personal information through our website at howdens.com (including myaccount.howdens.com and my-kitchen.howdens.com) (the “ **Site** ”) and who uses the products and services that we offer, including from the Site, and we are committed to ensuring a safe online experience.
 
+* **PURPOSE OF THIS PRIVACY NOTICE**
 
-  
-Updated September 30, 2004  
-Version 2.4
+This Privacy Notice (“ **Privacy Notice** ”) explains our approach to any personal information that we might collect from you or which we have obtained about you from a third party and the purposes for which we process your personal information. This Privacy Notice also sets out your rights in respect of our processing of your personal information.
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+This Privacy Notice: 
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+  * informs you of the nature of the personal information about you that is processed by us and how you can request that we delete it, update it, transfer it and/or provide you with access to it; and 
 
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
+  * is intended to assist you in making informed decisions when using the Site and our products and services. Please take a moment to read and understand it. It should be read in conjunction with our [Website Terms of Use](https://web.archive.org/terms-and-conditions). 
 
 
 
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+This Privacy Notice only applies to the use of your personal information obtained by us; it does not apply to personal information collected during your communications with third parties.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+* **ABOUT US**
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+The Site and our services are made available by Howden Joinery Limited (“ **Howdens** ”). Howdens is the data controller responsible for your personal information.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+Howdens is a private limited company registered in England under company registration number 00526923 with its registered office address located at 40 Portman Square, London W1H 6LT. Howdens is registered as a data controller with the UK’s Information Commissioner’s Office under registration number Z6174295.
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+* **HOW TO CONTACT US**
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+If you have any questions about this Privacy Notice or want to exercise your rights set out in this Privacy Notice, please contact: legal@howdens.com
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+* **PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT**
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+Our primary reasons for collecting personal information from you is to: (i) provide our products and services to you; (ii) verify your identity (where applicable); (iii) help us improve our Site and our products and services and develop and market new products and services; (iv) carry out requests made by you on the Site; (v) investigate or settle enquiries or disputes; (vi) comply with applicable law, court order, other judicial process and the requirements of regulators; (vii) enforce our agreements with you; (viii) protect the rights, property and safety of us or third parties, including our other customers and users of the Site; (ix) provide support for the provision of our products and services; (x) carry out recruitment activities; and (xi) use as otherwise required or permitted by law.
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
+In particular, we use your personal information for the following purposes:
+
+  * **Fulfilment of our products and services**
+
+We collect and maintain personal information that you voluntarily submit to us during your use of the Site and when you purchase products from us or use our services. 
+
+**Account registration and log in:** If you register for a customer account with Howdens, we will use your trade account name and number, name, email address and postcode to process your registration. Once you are registered, we will process your email address and password to identify you when you log into secure areas of our Site. We will use your account information so that we can administer your account with us and we will use any payment details you enter so that we can make payments at your request.
+
+**Kitchen design services:** If you request our home survey and kitchen design services, we will use your name and contact details (email address, postal address, telephone number) and any other information you volunteer in order to arrange and carry out a visit to your home to provide the service you have requested.
+
+**Brochure requests:** We use your name and contact details (postal address or email address) to send you our brochures and other publications when you request them.
+
+**Contact Your Local Depot:** We use your name and contact details (email address and phone number) to contact you about our products when you request a call back.
+
+**Lamona after-sales service:** If you register for our Lamona appliance after-sales service, we will process your name, email address, postal address, telephone number and information about your purchase of the relevant product. If you make a warranty claim, we may process these details as well as any other relevant personal information you provide in order to process the warranty claim. If your builder or professional installer is making a warranty claim in relation to any Howdens products and services which they have supplied to you, we may need to collect personal information about you, such as your name, contact details and any other relevant information, in order to process their warranty claim.
+
+**Who do we share your personal information with for this purpose?**
+
+We will share your personal information with the following categories of third parties as necessary when supplying our products and services: 
+    * **Credit card companies and other payment providers** who assist us with the verification of card payments and the processing of refunds;
+    * **Delivery and courier companies** who assist us with delivering products to our customers;
+    * **Printing companies** who provide label printing services, for example, when you request a brochure;
+    * **Your builder or professional installer** whom we may need to cooperate with in relation to the products and services you have requested from them and us;
+    * **Wifi providers** who assist us by providing free wifi to customers in our depots;
+    * **Engineers** who assist us by providing aftersales support for our Lamona appliances; and
+    * **Web hosting, optimisation and management companies** who assist us with the hosting, operation, optimisation and maintenance of our Site, the administration of your account with us and the provision of access to secure areas and functionality on our Site.
+
+Please note this list is non-exhaustive and there may be circumstances where we need to share personal information with other third parties in order to provide the products and services as effectively as we can.
+
+**What is our legal basis?**
+
+It is necessary for us to use your personal information to perform our obligations in accordance with any contract that we may have with you or it is in our legitimate interest or a third party’s legitimate interest to use personal information in such a way to ensure that we provide the products and services you have requested in an effective and efficient way.
+
+  * **Customer services and enquiries**
+
+Our Site and our depots use various user interfaces to allow you to request information about our products and services. Our enquiry services are accessible by mobile device, email, and telephone. When making an enquiry, the enquirer’s name and contact information (including email address, postal address, telephone number) may be requested, together with details of other personal information that is relevant to the enquiry. This information is used to enable us to manage and respond to your enquiries and requests. 
+
+**Who do we share your personal information with for this purpose?**
+
+We do not share your personal information for this purpose.
+
+**What is our legal basis?**
+
+It is in our legitimate interest to use your personal information in such a way to ensure that we provide good customer service to you.
+
+  * **Your feedback about our products and services**
+
+From time to time, we may invite you to provide feedback about our products and services in the form of online, postal or in-depot surveys. We will collect your name and contact details (email address, postal address, telephone number) and any other personal information you choose to volunteer in your feedback.
+
+We use this information to help us improve the quality of customer service provided by our staff and in our depots. We also use your feedback to monitor the quality of our products and services and to assist with the selection of future product and service lines.
+
+We also provide an online Website Feedback form which you can use to report technical issues with our Site. When you complete this form, we may capture your browser type and device type for diagnostic purposes and, where requested, your name, email address and details of the issue you wish to report. This feedback is used for the purposes of improving our website services.
+
+**Who do we share your personal information with for this purpose?**
+
+We may share your personal information with third party survey providers who prepare the surveys on our behalf and evaluate the results of the feedback you have provided. These third party providers are Good Growth and Hotjar.
+
+We do not share the personal information you have provided in our Website Feedback form.
+
+**What is our legal basis?**
+
+It is in our legitimate interest to use the personal information provided by you in your feedback for the purposes described above.
+
+  * **Customer insight and analysis**
+
+We analyse your contact details with other personal information that we observe about you from your interactions with our Site and/or with our products and services, such as the products and services you have purchased or viewed, or from your use of our in-depot wifi.
+
+Where you have given your consent (where lawfully required), we use cookies, log files and other technologies to collect personal information from the computer hardware and software you use to access the Site, or from your mobile device. This includes the following:
+
+    * an IP address to monitor Site traffic and volume;
+    * a session ID to track usage statistics on our Site; and
+    * information regarding your personal or professional interests, demographics, buying habits, experiences with our products and contact preferences.
+
+Our web pages may contain cookies, web beacons and pixel tags (“Tags”). Tags allow us to track receipt of an email to you, count users who have visited a web page and collect other types of aggregated information. Once you click on an email that contains a Tag, your contact information may subsequently be cross-referenced to the source email and/or the relevant Tag.
+
+In some of our email messages, we use a “click-through URL” linked to certain websites administered by us or on our behalf. We may track click-through data to assist in determining interest in particular topics and measure the effectiveness of these communications. 
+
+Please see our [Cookie Policy](https://web.archive.org/cookie-policy)  for further information. 
+
+This information is used to create insights about our visitors’ browsing habits on our Site. Where we have your consent to do so, we will also use your location data for customer insight and analysis purposes.
+
+By using this information, we are able to measure the effectiveness of our content and how visitors use our Site and our products and services. This allows us to learn what pages of our Site are most attractive to our visitors, which parts of our Site are the most interesting and what kind of features and functionalities our visitors and clients like to see. 
+
+We also use this information to help us with the selection of future product and service lines and website design and to remember your preferences. 
+
+We may also use this information for marketing purposes (see the “Marketing Activities” section below for further details).
+
+**Who do we share your personal information with for these purposes?**
+
+We share your personal information with third party service providers to assist us with insight analytics. These providers are described in our [Cookie Policy](https://web.archive.org/cookie-policy).
+
+**What is our legal basis?**
+
+Where your personal information is completely anonymised, we do not require a legal basis to use it as the information will no longer constitute personal information that is regulated under data protection laws. However, our collection and use of such anonymised personal information may be subject to other laws where your consent is required. Please see our Cookie Policy for further details. 
+
+Where your personal information is not in an anonymous form, it is in our legitimate interest to use your personal information in such a way to ensure that we provide good quality products and services to you and our other visitors and clients.
+
+We will only use your location data for insight and analysis purposes where we have your consent to do so.
+
+  * **Marketing activities**
+
+We may carry out the following marketing activities using your personal information:
+
+**Prize draws, prize competitions and other promotions**
+
+From time to time, we may run prize draws, prize competitions and other promotions on our Site, on our social media accounts and/or in our depots. For the purposes of administering such promotions, we may process your name, contact details (including email address, postal address and/or telephone number), social media handle (if relevant) and any other personal information volunteered by you in your promotion entry.
+
+**Who do we share your personal information with for these purposes?**
+
+We may share your personal information collected in connection with any prize draws, prize competitions and other promotions that we run with any third party providers that assist us with the administration of such promotions.
+
+**What is our legal basis?**
+
+It is necessary for us to use your personal information to perform our obligations in accordance with any contract that we may have with you (e.g. the terms and conditions applicable to the promotion) or it is in our legitimate interest to use your personal information to enable you to participate in any prize draws, prize competitions and other promotions.
+
+  * **Recruitment**
+
+If you are applying for a position through Howdens’ careers portal at careers.howdens.com (“ **Careers Site** ”), the privacy notice displayed on the Careers Site will apply to the processing of your personal information in relation to your status as an applicant and your use of the Careers Site.
+
+  * **Business administration and legal compliance**
+
+We use your personal information for the following business administration and legal compliance purposes:
+
+    * to comply with our legal obligations; 
+    * to enforce our legal rights; 
+    * to protect the rights of third parties; and 
+    * in connection with a business transition such as a merger, reorganisation, acquisition by another company, or sale of all or a portion of our assets. 
+
+**Who do we share your personal information with for these purposes?**
+
+We will share your personal information with professional advisers such as lawyers and accountants and/or governmental or regulatory authorities.
+
+We may also share personal information with other entities within the Howdens group of companies for these purposes. 
+
+**What is our legal basis?**
+
+Where we use your personal information in connection with a business transition, to enforce our legal rights or to protect the rights of third parties, it is in our legitimate interest to do so. For all other purposes described in this section, it is our legal obligation to use your personal information to comply with any legal obligations imposed upon us such as a court order.
+
+We will not process any special (or sensitive) categories of personal information or personal information relating to criminal convictions or offences except where we are able to do so under applicable legislation or with your explicit consent.
+
+  * **Investor relations**
+
+This Privacy Notice applies to you if you are a customer or client of Howdens and/or a user of the Site.
+
+If you are a shareholder in Howden Joinery Group Plc and/or a user of the website at howdenjoinerygroupplc.com (“ **Corporate Site** ”), the privacy notice displayed on the Corporate Site will apply to the processing of your personal information in relation to your status as an investor and your use of the Corporate Site. The data controller responsible for your personal information in relation to this processing is Howden Joinery Group Plc.
+
+Howden Joinery Group Plc is a public limited company registered in England under company registration number 02128710 with its registered office address located at 40 Portman Square, London W1H 6LT. Howden Joinery Group Plc is registered as a data controller with the UK’s Information Commissioner’s Office under registration number Z6396228.
+
+  * **Any other purposes for which we wish to use your personal information that are not listed above, or any other changes we propose to make to the existing purposes, will be notified to you using your contact details**
+
+
+
+* **HOW WE OBTAIN YOUR CONSENT**
+
+Where our use of your personal information requires your consent, you can provide such consent: 
+
+  * at the time we collect your personal information following the instructions provided; or
+  * by informing us by email, post or telephone using the contact details set out in the “How to Contact Us” section above
+
+
+* **OUR USE OF COOKIES AND SIMILAR TECHNOLOGIES**
+
+Our Site may use certain cookies, web beacons, pixel tags, log files and other technologies. Please see our [Cookie Policy](https://web.archive.org/cookie-policy) to find out more about the cookies and other technologies we use, the purposes for which we use them and how to manage, block or delete them.
+
+* **THIRD PARTY LINKS AND SERVICES**
+
+Our Site contains links to third party websites and services. When you use a link to go from our Site to another website or you request a service from a third party, this Privacy Notice no longer applies.
+
+Your browsing and interaction on any other websites, or your dealings with any other third party service provider, is subject to that website’s or third party service provider’s own rules and policies.
+
+We do not monitor, control or endorse the privacy practices of any third parties.
+
+We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy notices and practices.
+
+This Privacy Notice applies solely to personal information collected by us through our Site and/or the supply of our products and services and does not apply to these third party websites and third party service providers.
+
+* **TRANSFERS OUTSIDE THE EEA**
+
+We do not transfer the personal data you submit on our Site outside the European Economic Area.
+
+* **HOW LONG WE KEEP YOUR PERSONAL INFORMATION**
+
+Regarding personal information we have processed in connection with the Contact Your Local Depot and request a Brochure Sections of the Site, we will retain personal information relevant to that request for 18 months from the date of the request. We may then destroy such files without further notice or liability.
+
+Regarding any other personal information we have processed, we will keep your personal data for as long as we need it for the purpose it is being processed for and in compliance with our obligations under the EU General Data Protection Regulation (or similar legislation around the world). For example, any personal data collected as part of the Register Your Appliance from on the Site will be retained indefinitely unless you ask us to delete your information, for the purposes of product safety and product recall.
+
+We may then destroy such files without further notice or liability.
+
+If any personal information is only useful for a short period (e.g. for a specific marketing campaign), we may delete it at the end of that period.
+
+If you have opted out of receiving marketing communications from us, we will need to retain certain personal information indefinitely so we do not send you marketing communications again.
+
+* **CONFIDENTIALITY AND SECURITY OF YOUR PERSONAL INFORMATION**
+
+We are committed to keeping the personal information you provide to us secure and we will take reasonable precautions to protect your personal information from loss, misuse or alteration.
+
+We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from: 
+
+  * unauthorised access;
+  * improper use or disclosure;
+  * unauthorised modification; and
+  * unlawful destruction or accidental loss.
+
+
+
+All our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above) who have access to and are associated with the processing of personal information are obliged to respect the confidentiality of the personal information of all users of our Site and our Services.
+
+* **HOW TO ACCESS YOUR INFORMATION AND YOUR OTHER RIGHTS**
+
+You have the following rights in relation to the personal information we hold about you:
+
+  * **Your right of access**
+
+If you ask us, we will confirm whether we are processing your personal information and, if so, provide you with a copy of that personal information (along with certain other details). If you require additional copies, we may charge a reasonable fee for producing those additional copies.
+
+  * **Your right to rectification**
+
+If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have shared your personal information with others, we’ll let them know about the rectification where possible. If you ask us, where possible and lawful to do so, we will also tell you who we’ve shared your personal information with so that you can contact them directly.
+
+  * **Your right to erasure**
+
+You can ask us to delete or remove your personal information in some circumstances, such as where we no longer need it or where you withdraw your consent (where applicable). If we have shared your personal information with others, we will let them know about the erasure where possible. If you ask us, where it is possible and lawful for us to do so, we will also tell you who we have shared your personal information with so that you can contact them directly.
+
+  * **Your right to restrict processing**
+
+You can ask us to block or suppress the processing of your personal information in certain circumstances, such as where you contest the accuracy of that personal information or you object to us processing it. It won’t stop us from storing your personal information, though. We will tell you before we lift any restriction. If we have shared your personal information with others, we will let them know about the restriction where it is possible for us to do so. If you ask us, where it is possible and lawful for us to do so, we will also tell you who we have shared your personal information with so that you can contact them directly.
+
+  * **Your right to data portability**
+
+With effect from 25 May 2018, you have the right, in certain circumstances, to obtain personal information you have provided to us (in a structured, commonly used and machine readable format) and to reuse it elsewhere or to ask us to transfer it to a third party of your choice.
+
+  * **Your right to object**
+
+You can ask us to stop processing your personal information, and we will do so, if we are:
+
+    * relying on our own or someone else’s legitimate interest to process your personal information, except if we can demonstrate compelling legal grounds for the processing;
+    * processing your personal information for the purposes of personalised direct marketing; or
+    * processing your personal information for the purposes of non-personalised direct marketing.
+  * **
+
+Your rights in relation to automated decision-making and profiling
+
 **
+
+You have the right not to be subject to a decision when it is based on automatic processing, including profiling, if it produces a legal effect or similarly significantly affects you, unless such profiling is necessary for the entering into, or the performance of, a contract between you and us.
+
+  * **Your right to withdraw consent**
+
+If we rely on your consent (or explicit consent) as our legal basis for processing your personal information, you have the right to withdraw that consent at any time. You can exercise your right of withdrawal by contacting us using our contact details in the “How to Contact Us” section above or by using any other opt-out mechanism we may provide, such as an unsubscribe link in an email.
+
+  * **Your right to lodge a complaint with the supervisory authority**
+
+If you have a concern about any aspect of our privacy practices, including the way we have handled your personal information, please contact us using the contact details provided in the “How to Contact Us” section above. You can also report any issues or concerns to the Information Commissioner’s Office (ICO). You can find details about how to report a concern on the ICO website at <https://ico.org.uk/concerns/> or by calling their helpline on 0303 123 1113.
+
+
+
+* **CHANGES TO THIS PRIVACY NOTICE**
+
+We may make changes to this Privacy Notice from time to time.
+
+To ensure that you are always aware of how we use your personal information we will update this Privacy Notice from time to time to reflect any changes to our use of your personal information. We may also make changes as required to comply with changes in applicable law or regulatory requirements. We will notify you by email of any significant changes. However, we encourage you to review this Privacy Notice periodically to be informed of how we use your personal information.
+
+  
+Version: 2.1
+
+Last Updated: 30 October 2018
