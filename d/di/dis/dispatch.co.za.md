@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispatch.co.za privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120234709id_/https%3A//www.dispatchlive.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispatch.co.za privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514070102id_/https%3A//www.dispatchlive.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -100,8 +100,8 @@ We will use this personal data to fulfil your account, provide additional servic
 
 When you order any services from us, you may be asked to provide us with additional information on a voluntary basis ( **services information** ). This information may include:
 
-  * your ID number; and
-  * your postal address or street address;
+  * your ID number; 
+  * your postal address or street address; and
   * your telephone number.
 
 
@@ -122,7 +122,7 @@ Our website may contain electronic image requests (called a **single-pixel GIF**
 
 **Optional details**
 
-You may also provide additional information to us on a voluntary basis ( **optional information** ). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage or promotions, respond to surveys, order certain additional goods or services, or otherwise use the optional features and functionality of our website.
+You may also provide additional information to us on a voluntary basis ( **optional information** ). This includes content or products that you decide to upload or download from our website or when you enter competitions, take advantage of promotions, respond to surveys, order certain additional goods or services, or otherwise use the optional features and functionality of our website.
 
 **Recording calls**
 
