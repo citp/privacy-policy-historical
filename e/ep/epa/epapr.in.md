@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epapr.in privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019065722id_/https%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epapr.in privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514140011id_/https%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
