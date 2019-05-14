@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228155256id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514232230id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy notice | For patients, carers and visitors | The Royal Free
 
-[Download this page here.](http://s3-eu-west-1.amazonaws.com/files.royalfree.nhs.uk/Privacy_notice_-_May_2018.pdf)
-
-## What we do
+[Download this page here.](http://s3-eu-west-1.amazonaws.com/files.royalfree.nhs.uk/Privacy_notice_update_March_2019_\(2\).pdf)
 
 In the National Health Service (NHS), we aim to provide you with the highest quality healthcare. To do this we must keep information about you, your health and the care we have provided to you or plan to provide to you. This privacy statement provides a summary of how we use your information.
 
@@ -61,6 +59,8 @@ For your benefit we may need to share information from your health records with 
 
 
 We do not share, send or transfer person identifiable information outside of the European Union. 
+
+Where processing is likely to result in a high risk to individuals' privacy interests, the trust will conduct a Data Protection Impact Assessment (DPIA). The aim of a DPIA is to identify and minimise the data protection risks of a project. A copy of the trust’s DPIAs can be requested from the Data Protection Officer, see contact details below.
 
 For further information please see the '[How we use patient information](https://www.royalfree.nhs.uk/patients-visitors/how-we-use-patient-information)' page of our website.
 
