@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appinventiv.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126043800id_/https%3A//appinventiv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appinventiv.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514181834id_/https%3A//appinventiv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of AppInventiv Technologies
 
@@ -40,7 +40,7 @@ We may also send you the information and details of our products or services, if
 
 By providing your personal information, you agree to this access. We do our level best to ensure that all the required steps are taken to ensure that your data is saved securely. Unfortunately, the information you are sending via the Internet is not fully secure and it can can be intercepted easily. We cannot guarantee the data security that you send us electronically because sending such information is completely at your own risk.
 
-Disclosing Your Data
+## Disclosing Your Data
 
 We do not sell, trade, or rent End user's personal information or identity information to any third parties. We may share the generic aggregated information, which is not related to any personal identification information regarding visitors and users with our trusted affiliates, business partners and advertisers for the marketing purposes.
 
