@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grigazete.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112022222id_/http%3A//grigazete.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grigazete.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514080902id_/http%3A//grigazete.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discover all of Home Interior & Furniture | grigazete.com
 
