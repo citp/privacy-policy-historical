@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moon-child.net privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201213623id_/http%3A//moon-child.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moon-child.net privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514071858id_/https%3A//moon-child.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Stay Wild Moon Child
 
