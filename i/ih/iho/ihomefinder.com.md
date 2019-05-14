@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429201850id_/http%3A//www.ihomefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihomefinder.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514083414id_/https%3A//www.ihomefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iHomefinder
 
@@ -22,6 +22,12 @@ When you use our IDX Programs, Features and Services, and/or our website, we aut
 
 We also collect and use information pursuant to our Cookies policy, below.
 
+### Data Retention
+
+iHomefinder will retain your information for as long as your account is active or as needed to provide you services. We will also retain personal data we process on behalf of our clients for as long as needed to provide services to our client. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us. If you have registered for an account, you may log in and update your user settings. You can also update the contact details of your leads at any time. Otherwise, to access, correct, delete your personal information, please contact us as specified below and we will respond to your request within a reasonable timeframe.
+
 ### Information Sharing and Disclosure
 
 iHomefinder does not rent, sell, or share personal information about you, or any data collected via your iHomefinder account, with other people or nonaffiliated companies except to provide MLS® System Data, Products Features or Services you've requested, when we have your permission, or under the following circumstances:
@@ -42,7 +48,7 @@ We also share and disclose information pursuant to our Cookies policy, below.
 
 iHomefinder sets cookies in your browser when you visit our company website, www.ihomefinder.com, and the websites of our clients using our products and services, in order to record aspects of your website visit and to provide you with various data and related services. Our company website uses tracking features from providers including Google AdSense, Google AdWords, and Bing Ads that set a cookie in your browser when you visit our website or click on one of our ads, to record web activity and serve iHomefinder ads to you on other websites across the internet. We also use these Google Analytics features to collect data about web traffic via non-personally identifiable information: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographics and Interest Reporting. Our IDX search tools on client websites use features, via non-personally identifiable information, including lead source tracking (to note the referring marketing campaign for a site visit), and clickstream data analysis (to note consumer patterns in visiting IDX content). When required by a local real estate board or MLS® System, iHomefinder IDX pages can include cookies for ListTrac visit data tools, which may be aggregated with metadata from many IDX websites into analytics reports and advertising profile information, per local real estate board or MLS® System policies and practices.
 
-Third-party vendors, including Google, also use cookies to serve iHomefinder ads across the internet, based on your past visits to [www.ihomefinder.com](http://www.ihomefinder.com/). You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). You can opt out of Bing's use of cookies by visiting [Microsoft personalized ad preferences](https://choice.microsoft.com/en-us/opt-out). You can opt out of Google Analytics by visiting the [Google Analytics Opt-out Browser Add-on page](https://tools.google.com/dlpage/gaoptout/). You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). You can opt out of cookies in your browser by using the settings specific to your browser. By opting out of cookies, some IDX Programs, Features, and Services might not function fully or correctly, and iHomefinder ads might not display on other websites you visit.
+Third-party vendors, including Google, also use cookies to serve iHomefinder ads across the internet, based on your past visits to [www.ihomefinder.com](https://www.ihomefinder.com/). You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads). You can opt out of Bing's use of cookies by visiting [Microsoft personalized ad preferences](https://choice.microsoft.com/en-us/opt-out). You can opt out of Google Analytics by visiting the [Google Analytics Opt-out Browser Add-on page](https://tools.google.com/dlpage/gaoptout/). You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). You can opt out of cookies in your browser by using the settings specific to your browser. By opting out of cookies, some IDX Programs, Features, and Services might not function fully or correctly, and iHomefinder ads might not display on other websites you visit.
 
 ### Canada Anti-Spam Law (CASL) Notice
 
@@ -54,4 +60,4 @@ iHomefinder reserves the right to update this policy from time to time. We will 
 
 ### Questions and Suggestions
 
-If you have questions or suggestions, you can [contact us](http://www.ihomefinder.com/contact-us/).
+If you have questions or suggestions, you can [contact us](https://www.ihomefinder.com/contact-us/).
