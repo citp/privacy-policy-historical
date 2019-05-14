@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122095150id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514082207id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Global Travel Media » Privacy Statement
 
 [](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email") [Email](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email")
+
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic’s privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/eglobaltravelmedia.com).
 
 Global Travel Media and Distribution Services created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.eglobaltravelmedia.com.au](http://www.eglobaltravelmedia.com.au/).
 
