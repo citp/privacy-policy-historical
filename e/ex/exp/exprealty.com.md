@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the exprealty.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223173643id_/https%3A//www.exprealty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exprealty.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514063340id_/https%3A//www.exprealty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | eXp Realty
 
 **Our Contract**  
 **(E-SIGN)**
 
-You are entering a binding  contract with Commissions Inc., the website exprealty.com, and the Realtors® or lenders who use it and their parents, subsidiaries and affiliates (the “Company,” “us,” “we” and “our”). By (1) using this website "exprealty.com", and (2) by submitting your information to “Continue My Search” and create a user profile, you agree that you are giving your express written consent to the all the terms below, as well as our Terms of Use. You agree that your doing so constitutes your electronic signature, and is equivalent to a written signature. You may choose to receive this contract on paper by calling us at (855) 259-7277 or emailing us at postmaster@commissionsinc.com. You may withdraw this consent by using the opt-out procedures described in the “Our Communications With You” section below.  
+You are entering a binding  contract with Commissions Inc., the website exprealty.com, and the Realtors® or lenders who use it and their parents, subsidiaries and affiliates (the “Company,” “us,” “we” and “our”). By (1) using this website "exprealty.com", and (2) by submitting your information to “Continue My Search” and create a user profile, you agree that you are giving your express written consent to the all the terms below, as well as our Terms of Use. You agree that your doing so constitutes your electronic signature, and is equivalent to a written signature. You may choose to receive this contract on paper by calling us at (855) 259-7277 or emailing us at postmaster@cincpro.com. You may withdraw this consent by using the opt-out procedures described in the “Our Communications With You” section below.  
 
 We are committed to protecting your privacy. This Privacy Policy defines the Personal Information and Usage Information that we collect and describes how that information is collected, used, and shared. This Privacy Policy also describes your choices regarding our use of that information, the steps we take to protect your personal information and how you can review and correct your personal information.
 
@@ -103,7 +103,7 @@ By visiting exprealty.com, you agree that the laws of the State of Georgia, with
 
 **Your consent to future changes**
 
-We may change the website, the Terms of Use, and this Privacy Policy at any time. If we change this Privacy Policy, the changes will become effective immediately on posting of the updated or revised Privacy Policy on this web page. Your use of the website following our publication of any revision to this Privacy Policy will signify your assent to and acceptance of the revised terms for all previously collected information and information collected from you in the future. Should you wish to opt-out of the changes, you must communicate your request to opt-out to us in writing, either by email at postmaster@commissionsinc.com or at this address: 1351 Dividend Drive Suite K, Marietta, GA 30067. In the event you opt-out, our agreement will continue to be governed by the Terms of Use and Privacy Policy in effect at the time you originally submitted your information, or at the time of the last update to which you did not opt-out.
+We may change the website, the Terms of Use, and this Privacy Policy at any time. If we change this Privacy Policy, the changes will become effective immediately on posting of the updated or revised Privacy Policy on this web page. Your use of the website following our publication of any revision to this Privacy Policy will signify your assent to and acceptance of the revised terms for all previously collected information and information collected from you in the future. Should you wish to opt-out of the changes, you must communicate your request to opt-out to us in writing, either by email at postmaster@cincpro.com or at this address: 1351 Dividend Drive Suite K, Marietta, GA 30067. In the event you opt-out, our agreement will continue to be governed by the Terms of Use and Privacy Policy in effect at the time you originally submitted your information, or at the time of the last update to which you did not opt-out.
 
 **Types of Information Collected**
 
@@ -222,7 +222,7 @@ You may choose to prevent us from disclosing or using your Personal Information 
 
 Under California’s “Shine the Light” law, California residents who provide certain personally identifiable information in connection with obtaining products or services for personal, family, or household use are entitled to request and obtain from us (once a calendar year) information about the customer information we shared (if any) with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2017 will receive information regarding 2016 sharing activities, if any).
 
-To obtain this information, please send an email message to postmaster@commissionsinc.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in our response.
+To obtain this information, please send an email message to postmaster@cincpro.com with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements, and only information on covered sharing will be included in our response.
 
 **"Do Not Track" Signals**
 
@@ -238,7 +238,7 @@ Marietta, GA 30067 
 
 Phone: 855-246-2717
 
-postmaster@commissionsinc.com
+postmaster@cincpro.com
 
 Copyright © 2017. Commissions Inc. All Rights Reserved.
 
