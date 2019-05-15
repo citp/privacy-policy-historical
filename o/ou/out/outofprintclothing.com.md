@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909102824id_/https%3A//www.outofprintclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515154051id_/https%3A//outofprint.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Out of Print
+# Privacy Policy — Out of Print
 
 **This Privacy Policy is effective as of  September 1, 2017.**
 
