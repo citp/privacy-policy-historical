@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightwidget.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105220811id_/https%3A//lightwidget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightwidget.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515042424id_/https%3A//lightwidget.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LightWidget
 
@@ -69,7 +69,7 @@ This information is necessary to create a widget that you can embed on your webs
 
 When you upgrade your widget, you need to fill out our order form. This form contains personal data fields like your name, address, e-mail address, VAT ID/NIP number. We have to collect and process this data in accordance with Polish and UE law regulations and for invoicing purposes.
 
-Payments are handled via external platform – [PayPal](https://www.paypal.com/). We do not store any credit card information or PayPal logins on our servers. We only store transaction ID received from PayPal, so we can easily identify your payment in PayPal system.
+Payments are handled via external platforms – [PayPal](https://www.paypal.com/) and [PayU](https://corporate.payu.com/). We do not store any credit card information or PayPal/PayU logins on our servers. We only store transaction ID received from selected payment gateway, so we can easily identify your payment in their systems.
 
 ## 2\. Data security and our third party data processors
 
@@ -134,4 +134,8 @@ Leszna Gorna
 
 This privacy policy may change from time to time inline with legislation or website developments. We will not explicitly inform our clients or website users of these changes. Instead, we recommend that you check this page occasionally for any policy changes.
 
-Date of Last Revision: May 24, 2018
+## 8\. Updates
+
+01.04.2019 – We updated point 1.7 about information collected when you purchase the widget upgrade. We added new payment gateway – PayU and we added information about the data we collect from PayU system.
+
+Date of Last Revision: April 1, 2019
