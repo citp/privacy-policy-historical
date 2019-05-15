@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsonjobs.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504071718id_/http%3A//johnsonjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsonjobs.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515143040id_/https%3A//johnsonjobs.com/privacy) for the most accurate reproduction.*
 
 # Terms and Privacy | Johnson Jobs
 
