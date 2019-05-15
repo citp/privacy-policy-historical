@@ -1,0 +1,512 @@
+<!--The following is the downloaded HTML source of the instagimg.com privacy policy that was archived on 2019-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515130416id_/http%3A//www.instagimg.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<title>Best Instagram Online Viewer | Instagimg</title>
+	<meta name="description" content="Discover and download most popular hashtags and interesting users, wonderful moments, highlights and stories around you recorded in Instagimg ">
+	<meta name="keywords" content="Instagram,users,hashtags,highlights,stories,photos,videos,follower,download,webviewer,viewer,popular Instagram accounts,popular Instagram locations">
+	<meta property="og:title" content="Best Instagram Online Viewer | Instagimg">
+	<meta property="og:description" content="Discover and download most popular hashtags and interesting users, wonderful moments, highlights and stories around you recorded in Instagimg ">
+	<meta property="og:site_name" content="Instagimg">
+	<meta property="og:url" content="http://www.instagimg.com">
+	<meta property="og:image" content="">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Best Instagram Online Viewer | Instagimg">
+	<meta name="twitter:description" content="Discover and download most popular hashtags and interesting users, wonderful moments, highlights and stories around you recorded in Instagimg ">
+	<meta name="twitter:image" content="">
+	<link rel="stylesheet" href="/static/css/pc/bootstrap.min.css">
+	<style>
+		body { 
+			padding-top: 70px;
+			background-color:#f7f7f7;
+		}
+
+		/*post list style*/
+		div.insimages-list{
+		    position: relative;
+		    margin: 0 auto;
+		}
+
+		div.insimages-item{
+		    position: relative;
+		    float: left;
+		    width: 336px;
+		    margin-bottom: 30px;
+		    border-radius: 4px;
+		    box-shadow: 0 21px 70px -21px rgba(0,0,0,.3);
+		}
+		div.insimages-item .item-img {
+		    display: block;
+		    height: 336px;
+		    /*background-image: url(../images/image-default.png);*/
+		    background-color: #eeeeee;
+		    background-repeat: no-repeat;
+		    background-position: center;
+		    position: relative;
+		}
+		.video-img {
+		    z-index: 10;
+		    position: absolute;
+		    top: calc(50% - 40px);
+		    left: calc(50% - 40px);
+		}
+		div.insimages-item .item-img img{
+		    max-width: 100%;
+		    border-top-left-radius: 4px;
+		    border-top-right-radius: 4px;
+		}
+		div.item-content{
+		    padding:15px 14px;
+		}
+
+		.user-info{
+		    display: inline-block;
+		    width: 100%;
+		}
+		.user-info-search-div{
+			width: 50%;
+			float:left;
+			padding:5px;
+		}
+		.user-info-top-div{
+			width: 33.33%;
+			float:left;
+			padding:5px;
+		}
+		.user-info-search{
+			background-color:#eeeeee;
+			padding:10px;
+		}
+		.search-tag-info{
+			padding:5px;
+		}
+		.top-tag-info{
+			width: 33.33%;
+			float:left;
+			padding:5px;
+		}
+		.user-info .user-img,.user-img-huge,.user-img-big,.user-img-small,.user-img-tiny,
+		.user-info .user-name,.user-info .user-name-post,
+		.user-info .post-time{
+		    display: block;
+		    float: left;
+		}
+		.user-img-big{
+		    width: 100px;
+		    height: 100px;
+		    margin-right: 15px;
+		    border-radius: 50%;
+		}
+		.user-img-huge{
+		    width: 70px;
+		    height: 70px;
+		    margin-right: 15px;
+		    border-radius: 50%;
+		}
+		.user-img{
+		    width: 50px;
+		    height: 50px;
+		    margin-right: 15px;
+		    border-radius: 50%;
+		}
+		.user-img-small{
+		    width: 40px;
+		    height: 40px;
+		    margin-right: 15px;
+		    border-radius: 50%;
+		}
+		.user-img-tiny{
+		    width: 30px;
+		    height: 30px;
+		    margin-right: 15px;
+		    border-radius: 50%;
+		}
+		.user-info img{
+		    width: 100%;
+		    height: 100%;
+		    border-radius: 50%;
+		    border: 1px solid #cccccc;
+		}
+		.user-info .user-name,.user-info .user-name-post{
+			display: block;
+			float:left;
+		    margin:0;
+		    width: 100%;
+		    max-width: 240px;
+		    font-family: Merriweather;
+		    font-size: 14px;
+		    color: #2a2a2a;
+		}
+		.user-name span,.user-name-post span{
+		    float: left;
+		    display: block;
+		    max-width: 100%;
+		    max-height: 15px;
+		    padding-right: 5px;
+		    overflow: hidden;
+		    word-wrap: break-word;
+		    -ms-word-break: break-all;
+		    word-break: break-all;
+		    word-spacing: normal;
+		    white-space: normal;
+		}
+		.user-info a:hover .user-name span{
+		    text-decoration: underline;
+		}
+		.user-info>a{
+		    color: #2a2a2a;
+		}
+		.user-info >.post-time{
+		    max-width: 240px;
+		    font-family: Merriweather;
+		    font-size: 13px;
+		    color: #9f9f9f;
+		}
+		p.insimages-text{
+		    line-height: 17px;
+		    font-size: 14px;
+		    color: #444444;
+		    word-wrap: break-word;
+		    -ms-word-break: break-all;
+		    word-break: break-all;
+		    word-spacing: normal;
+		}
+		p.insimages-text > a{
+		    color: #8b74f1;
+		    -ms-word-break: break-all;
+		    word-break: break-all;
+		    white-space: normal;
+		}
+		.likes-comments {
+		    display: inline-block;
+		    width: 100%;
+		}
+		.likes-comments span{
+		    display: block;
+		    float: left;
+		    width: 50%;
+		    padding-left: 26px;
+		    background-repeat: no-repeat;
+		    background-position: left center;
+		}
+		span.likes{
+		    background-image: url(/static/img/like.png);
+		}
+		span.comments{
+		    background-image: url(/static/img/comment.png);
+		}
+
+		/*post*/
+		.post-right{
+			position: relative;
+			width:22%;
+			/*width:100%;*/
+			float: left;
+			padding-left: 30px;
+		    margin: 0 auto;
+		}
+		.right-post-item{
+			position: relative;
+		    float: left;
+		    width: 100%;
+		    border-radius: 4px;
+		    box-shadow: 0 21px 70px -21px rgba(0,0,0,.3);
+		    margin:0px 0px 20px 0px
+		}
+		.right-post-item a img{
+			width: 100%;
+			max-height: 200px;
+		}
+		.right-post-content{
+			height: 50px;
+    		overflow: hidden
+		}
+		.post-left{
+			position: relative;
+			width:75%;
+			/*width:100%;*/
+			float: left;
+		    margin: 0 auto;
+		}
+		.post-info,.user-comments-list,.user-like-list{
+		    margin-bottom: 30px;
+		    border-radius: 4px;
+		    /*background-color: #eeeeee;*/
+		    box-shadow: 0 21px 70px 0px rgba(0,0,0,.3);
+		}
+		.user-comments-list,.user-like-list{
+			max-height: 300px;
+			overflow: hidden;
+		}
+		.user-comments-list .user-info,.user-like-list .user-info{
+			padding-bottom: 10px
+		}
+		.user-like-list .user-info{
+			width:33.3%;display:block;float:left
+		}
+		.post-media{
+			text-align: center;
+		}
+		.post-media img,.post-media video{
+			width: 100%;
+			max-width: 100%;
+			border-top-left-radius: 4px;
+		    border-top-right-radius: 4px;
+		}
+		.post-center{
+			padding:15px 25px;
+		}
+		i:before{
+			content:url(/static/img/play4.png);
+		}
+
+
+		/*nav style*/
+		.navbar-brand{
+			font-family: Cookie,cursive;
+		    color: #61A8C1;
+		    font-weight: 600;
+		    padding-top: 30px;
+		    margin: 0;
+			float: left;
+		    padding: 15px;
+		    font-size: 24px;
+		    line-height: 20px;
+		    height: 50px;
+		}
+		.navbar-default .navbar-brand span {
+		    font-family: 'Open Sans',sans-serif;
+		    font-size: 12px;
+		    padding-left: 15px;
+		    display: inline-block;
+		    vertical-align: middle;
+		}
+		#nav-serach-div{
+			padding-right: 50px
+		}
+		#nav-search svg{
+		    position: absolute;
+		    right: 65px;
+		    top: calc(50% - 9px);
+		    color: #868e96;
+		    fill: none;
+		    stroke: currentColor;
+		    stroke-linecap: round;
+		    stroke-linejoin: round;
+		}
+		#nav-search input{
+			width: 300px;
+		}
+		/*search tyle*/
+		#search-page-search input{
+			width: 60%;
+			height: 50px;
+			display: inline-block;
+			float: center;
+			margin-top:50px;
+			border-radius:25px;
+		}
+
+		/*response design*/
+		@media (min-width:356px){
+            .body-container{
+                position: relative;
+                max-width: 336px;
+                margin: 0 auto;
+            }
+        }
+        @media (min-width:748px){
+            .body-container{
+                max-width: 728px;
+            }
+            div.tw-ins-share-btn {
+                width: calc(100% - 200px);
+            }
+	        .user-like-list .user-info{
+				width:20%;display:block;float:left
+			}
+        }
+        @media (min-width:1140px){
+            .body-container{
+                max-width: 1120px;
+            }
+        }
+	</style>
+	 
+
+</head>
+
+<body>
+	
+<nav class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="navbar-header">
+		 <a class="navbar-brand" href="/">Instagimg<span>Online Instagram Posts Viewer</span></a>
+	</div>
+	
+	<div class="collapse navbar-collapse navbar-right" id="nav-serach-div">
+		<ul class="nav navbar-nav">
+			<li class="">
+				 <a href="/user/">Users</a>
+			</li>
+			<li class="">
+				 <a href="/tag/">Hashtags</a>
+			</li>
+		</ul>
+		<form class="navbar-form navbar-right" role="search" id="nav-search" action="/search">
+			<div class="form-group">
+				<svg viewBox="0 0 32 32" width="18" height="18" stroke-width="2"><circle cx="14" cy="14" r="12"></circle><path d="M23 23 L30 30"></path></svg>
+				<input class="form-control" name="q" type="text" placeholder="Search for user or hashtag...">
+			</div>
+		</form>
+
+	</div>
+</nav>
+
+	<div class="body-container">
+
+		<h1><strong>Privacy policy</strong></h1>
+		<p>Thank you for visiting Instagimg (the "Site") and reviewing the Privacy Policy Instagimg ("Instagimg", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.</p>
+
+		<h3>1. Information collection and use</h3>
+
+		<h4>1.1 Collection of information</h4>
+		<p>You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
+		We collect two types of information from Users of the Site: “Automatic Anonymous Information” (AAI) and “Identifiable Personal Information” (IPI). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by Instagimg.
+		The Site make it possible to monitor certain information automatically, based on your behaviour. This information does not identify you personally. We use this information to improve the Content and functionality of the Site, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information. This information is referred to herein as the AAI.
+		IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your instagram username, instagram password and/or other personal information.
+		But we do not handle your Instagram passwords directly. We use Instagram's API and OAuth 2.0 protocol to authorize Our users. Our databases are secured with passwords to guard against unauthorized access of Our systems. Only engineer staff members may access data on a need-to-know basis.
+		You may choose to provide IPI in order to access certain functions on the Site. You can always choose not to provide certain information, but in that case it may be that you cannot use certain of the Site’s functions.</p>
+		
+		<p>data may be collected for the purpose of Interest-Based Advertising</p>
+		<p>Types of information collect for Interest-Based Advertising:</p>
+			<ul>
+			<li>Mobile Advertising ID</li>
+			<li>Location Data</li>
+			<li>Cookie Information</li>
+			<li>IP Address</li>
+			<li>App usage information (as submitted from Simplaex’ clients, e.g. number &amp; timing of sessions)</li>
+			<li>Demographic Data (as submitted from publishers displaying our advertising)</li>
+			<li>Audience Segments</li>
+			</ul>
+		<p>Purpose:</p>
+			<ul>
+			<li>Predict users’ interests and preferences for interest-based advertising</li>
+			<li>Enable advertisers to customize ads to users’ behaviour</li>
+			<li>Determine how users respond to certain ads</li>
+			<li>Report aggregated statistics regarding, for example, the effectiveness of digital advertising campaigns and</li>
+			<li>Provide, operate, manage, maintain, and enhance the Advertising Platform.</li>
+			</ul>
+
+		<h4>1.2 Shared information</h4>
+		<p>We may be required by law enforcement, government administrators, and/or judicial authorities to provide personally identifiable information. We will disclose personally identifiable information upon receipt of a court order, or if required to co-operate with law enforcement, administrative or other governmental agencies. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
+		Our service providers who help with Our business operations and employees on a need-to-know basis. Third parties to whom you explicitly ask Us to send your information or you consent to and are notified when using a specific service. Business entities, if We plan to merge with or be acquired by that business entity, should such a change in control occur.</p>
+
+		<h3>2. Our policy towards children</h3>
+		<p>Our Site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact Us. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information.</p>
+
+		<h3>3. Links</h3>
+		<p>On the Site you will find various links directing you to Third Party Sites or to Third Party Content. Instagimg shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use Instagimg Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.</p>
+
+		<h3>4. Use of cookies</h3>
+		<p>We use cookies to collect non personal information, help smooth user experience, remember you on future visits, better understand how users engage with the Site so we can enhance the User experience.
+		The use of these cookies is optional; you can configure your browser not to accept, or to only sometimes accept, cookies.
+		However, for optimum use of the Site, we advise you to accept Instagimg cookies. Certain functions may require the use of cookies in order to function correctly.</p>
+
+		<h3>4. Your choices</h3>
+		<p>We think that you benefit from a more personalized experience when we know more about you and the kinds of coupons you like. However, you can limit the information you provide to us.</p>		
+
+		<p>You may use the Network Advertising Initiative (NAI) opt out tool <a href="http://www.networkadvertising.org/choices">here</a>, which will allow you to opt out of seeing personalized ads from NAI approved member companies. Please note that when using the ad industry opt-out tool:</p>
+		<ul>
+		<li>If you use multiple browsers or devices we will additionally opt out those we have linked to you. Since we may not have all your browsers or devices connected back to your user, you may need to execute this opt out on each browser or device.</li>
+
+		<li>To opt out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices:
+			<ul>
+			<li>iOS 7 or Higher: Go to your Settings &gt; Select Privacy &gt; Select Advertising &gt; Enable the “Limit Ad Tracking” setting.</li>
+			<li>For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app &gt; Ads &gt; Enable “Opt out of interest-based advertising”.</li>
+			</ul>
+		</li></ul>
+		<p>Opting out will not prevent you from seeing ads, but those ads will likely be less relevant because they won’t be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.</p>
+
+		<h3>5. Commenting or posting on the site</h3>
+		<p>When you post information (a tag, a link, a comment…) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.</p>
+
+		<h3>6. Security</h3>
+		<p>Instagimg uses its best efforts to ensure the confidentiality of your personal data.
+		Instagimg uses secure technology according to industry standards to protect the Content and the User privacy. All Instagimg personnel have a duty to respect the confidentiality of the Users. A confidentiality obligation is included in each employment contract of Instagimg employees with access to personal data.</p>
+
+		<h3>7. Modification of the privacy policy</h3>
+		<p>Instagimg reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon Instagimg posting the same on the Site. Continued use by you of the Site after Instagimg has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.</p>
+
+	</div>
+
+	<div style="text-align:center;margin-bottom:20px;margin-top:10px"><strong>©Instagimg | Best Instagram online viewer</strong></div>
+<div style="text-align:center;margin-bottom:8px;">
+    <a rel="nofollow" href="/about">About</a> - 
+    <a rel="nofollow" href="/privacy-policy">Privacy Policy</a> - 
+    <a rel="nofollow" href="/terms-of-service">Terms of Service</a> - 
+    <a rel="nofollow" href="/faq">FAQ</a>
+</div>
+<div style="text-align:center;color: #a9a9a9;">This site uses the Instagram API but is not endorsed or certified by Instagram. All Instagram™ logos and trademarks displayed on this applicatioin are property of Instagram.</div>
+
+<script type="text/javascript" src="/static/js/pc/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/pc/masonry.pkgd.min.js"></script>
+<script>
+    $(document).ready(function(){
+        var grid = $(".grid").fadeIn(500).masonry({
+            // options
+            itemSelector: '.grid-item',
+            columnWidth: 336,
+            gutter: 56,
+            // fitWidth: true,
+            // originTop: true
+        });
+
+
+        var latestPost = {main:$('#insimages-latestpost-list'),content:$('#insimages-latestpost-list'),nextMaxId:'',stop:false};
+        function loadData(){
+            // alert("aa")
+            if(latestPost['stop']){
+                return ;
+            }
+            latestPost['stop'] = true;
+            if(latestPost['nextMaxId']=='' || latestPost['nextMaxId']=='0' || latestPost['nextMaxId']==0){
+                return ;
+            }
+            $.get(window.location.href+'/'+latestPost['nextMaxId'],function(data){
+                if(('items' in data) && data['items']!=[]){
+                    var domData = $(data['items']);
+                    if(grid){
+                        grid.append(domData).masonry( 'appended', domData ).masonry();
+                    }
+                }
+                if('next_max_id' in data){
+                    latestPost['nextMaxId'] = data['next_max_id'];
+                    latestPost['stop'] = false;
+                }
+            },'json');
+        }
+        $(window).scroll(function(event){
+            if($(this).scrollTop() + $(window).height() + 100 >= $(document).height() && $(this).scrollTop() > 100){
+                loadData();
+            }
+        });
+    })
+</script>
+
+	<!-- Default Statcounter code for Instag http://www.instagimg.com -->
+
+
+<script type="text/javascript">
+var sc_project=11797464; 
+var sc_invisible=1; 
+var sc_security="cb3c2b95"; 
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async=""></script>
+<noscript><div class="statcounter"><a title="Web Analytics" href="http://statcounter.com/" target="_blank"><img class="statcounter" src="//c.statcounter.com/11797464/0/cb3c2b95/0/" alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+
+</body></html>
