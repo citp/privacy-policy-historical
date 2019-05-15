@@ -1,116 +1,105 @@
-> *The following text is extracted and transformed from the tipsybartender.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128050121id_/http%3A//new.tipsybartender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsybartender.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515023547id_/https%3A//tipsybartender.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tipsy Bartender
+# TipsyBartender.com Privacy Policy - Tipsy Bartender
 
-**User Agreement and Acknowledgment of Privacy Policy** (Active as of 6/1/2015)  
-By using the website and/or submitting information to The Tipsy Bartender (the “Company”), you consent to the sharing and utilization of any information collected or submitted as described in this Privacy Policy. If you do not agree with any of the following terms in this Privacy Policy, are not at least 18 years of age, and are not a legal and valid resident of the United States of America, do not provide any information or use any of the services or products offered and/or provided on the website or through The Tipsy Bartender’s emails and/or technology.
+This privacy policy (“Privacy Policy”) has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (“PII”) is being used online or with mobile applications. PII, as described in U.S. Privacy Law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your PII in accordance with our website and mobile app. We may amend or change this Privacy Policy from time to time and without prior notice to you. If we make changes in the way we collect or use information, we will notify visitors by posting an announcement on the website. Your continued use of the website and/or mobile app after an update to the Privacy Policy is published or otherwise communicated to you shall constitute your consent to the changes. Otherwise, you should not continue accessing the website or app. This policy is effective as of **January, 22 2018**.
 
-**Children and Minors**  
-Nobody under the age of 21 is permitted to use the Company website or order any of the products for sale related to alcohol. The Company does not sell products or provide information to anyone under the age of 21 concerning any alcohol or alcohol related products. We fully comply with the Children’s Online Privacy Protection Act. Per the guidelines set forth by this act, we do not willingly or knowingly collect personally identifiable information of any child under the age of 13. If a parent or guardian becomes aware that a child under the age of 13 has gained access to the site and provided personally identifiable information, please contact the website immediately so we may delete the information.
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-**California Privacy Rights**  
-According to the “Shine the Light” law beginning in California on January 1, 2005, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. As provision 1 is difficult to maintain and requires constant updates to each resident, we have chosen to provide notice through provision 2. If you decide you do not want your information to appear with any third parties, please contact the Company through the website or the Companies affiliated agent via email at [Sdigitalcontent@gmail.com](mailto:Sdigitalcontent@gmail.com) or by phone at 805-714-2203.
+There is very little information needed from you to set up an account with us. We may ask for additional information from time to time but whether you give that information will be voluntary. We may collect the following information:
 
-**Information Collection**  
-The Tipsy Bartender will collect information through a wide variety of ways. The information can be categorized as personally identifiable and non-personally identifiable. Personally identifiable information is gathered with possible intention to specifically identify, contact a person, discern location of a person, including but not limited to name, address, telephone number, and/or e-mail address. Non-personally identifiable information is not used to specifically identify, contact a person, discern location of a person, including but not limited to age, gender, IP address and/or zip code.
+• General account information, such as name, job title, and submitted images  
+• Contact information including email address  
+• Demographic information such as zip code, preferences and interests  
+• Other information that is relevant to the use of our site, such as activity, duration of use and interaction with customer service.
 
-**Website Registration Forms**  
-When registering for the website and/or blog the information requested will include: E-mail address, full name, mailing address, telephone number, gender, and date of birth.
+ **When do we collect information?**
 
-**Additional Forms**  
-We will also collect any additional information provided through surveys, questionnaires, or other media as collected through the website or email correspondence. This information includes but is not limited to: full name, mailing address, telephone number, payment information, gender, and/or date of birth. As well as all information about your shopping preferences, personal background, interests, education, career goals, as well as any additional information or unique preferences you provide to us or affiliated sponsors and advertisers.
+We collect information from you when you volunteer it by subscribing to our website or uploading (or entering) information on our site.
 
-**Distribution, Publisher, and Marketing Partners**  
-We are partnered with a wide variety of companies, including third party marketers, separate blogs, and websites, to license our ad serving technology and obtain information to assist with providing the best quality advertisements for you. The information obtained may include, but is not limited to, your full name, mailing address, IP address, telephone number, gender, date of birth, shopping preferences, personal background, interests, education, career goals, as well as any additional information or unique preferences you provide to us or affiliated sponsors and advertisers.
+ **How do we use your information?**
 
-**Short Message Service**  
-Any services provided resulting in the receipt of a Short Message Service (“SMS”), wireless or other mobile offering to your cell phone, will be made clear in the context of the offering at the time of sign up. By signing up you are agreeing to receive these mobile messages and offerings. You also understand that standard wireless carrier rates will apply to any and all messages received or sent. If you wish to discontinue or completely unsubscribe to the messages you will need to send “STOP”, “END”, or “QUIT” to the original source of the SMS text message you have received. Please note that this only affects the delivery of any SMS messages for the particular offering in question. The message will not affect offering sent by third parties and will need to be sent to each future offering.
+We may use the information we collect from you to provide a better service. Some of the specific reasons include:
 
-**Interactive Voice Response**  
-By accepting the terms and conditions of this website you have given your express written consent to receive calls regarding telemarketing from third-party marketers, including methods such as a pre-recorded message and/or automated voice dialing. Your consent acknowledges that you understand that the number provided will be effective regardless of the location for the number, including but not limited to:  home phone, cell phone, and business phone, even if registered on any state or federal Do-Not-Call list. Consent shall be in effect unless revoked by contacting us.
+• Internal record keeping  
+• To improve and develop our services, such as for technical support.  
+• We may use the information to customize the website according to your interests.  
+• We may use your information to promote safety and security
 
-**Automatic Information Collection and Digital Identifiers**  
-Certain information gathered utilizing the methods mentioned in this privacy policy will be automatically obtained and stored. As is typical for many websites, unique information and identifiers known as “cookies“are placed on your computer when your web browser accesses our website. Cookies are utilized to keep track of the large variety of information as explained throughout this Privacy Policy. Although cookies are generally utilized to improve the experience and consistency of individuals visiting any website, you may have cookies disabled by utilizing a wide variety of independent software available for free across the internet. Please also note that we may utilize third party cookies that contain anonymous segmented information regarding a person’s gender, date of birth, shopping preferences, personal background, interests, education, career goals, and other online influences. Information will also be automatically collected through any number of web server applications. This information includes your Internet Protocol address, time stamp, browser software, and referring uniform resource locator “URL.” Finally, the use of pixel tracking technology to identify the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL will be utilized.
+ **How do we protect your information?**
 
-**Government Forms**  
-The Company may be required to create, collect, maintain, and submit certain information required by the government, including but not limited to IRS Forms W-9 and 1099. This information, which may include your taxpayer identification number, will never be used, shared, transferred, or sold for marketing purposes.
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**Purpose of Information Collection**  
-We maintain the right to use the collected personally identifiable information and non-personally identifiable information for any purpose as deemed legally permissible including but not limited to the following categories:
+Please note that no website can guarantee absolute security of data. We cannot guarantee or warrant the security of information you disclose or transmit to and through our website and cannot be responsible for the theft, destruction, or inadvertent disclosure of information. We highly recommend that visitors keep their computers secure.
 
-**Advertisements**  
-Advertisements may be served on you according to, but not limited to, the following information gathered through your registration: internet behavior such as browsing, search, shopping, purchase, and ad response behavior, IP address, demographic information, geographic information, socio-economic information, psychographic information, as well as lifestyle information gathered from other companies and/or third parties. Third party advertising companies will also be used when you visit our website. These companies may use and optimize non-personal information regarding your visits to this and other websites to provide advertisements on services or goods.
-    
-    
-    _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>_
+ **Do we use ‘cookies’?**
 
-**Preselected Offers in Automatic Information Filling**  
-Offers may become available to you through demographic and geographic information gathered from your submission to company at your initial website registration. When these offers are submitted, they may automatically fill some data fields with the information submitted during the registration process. This is intended to save you time and energy.
+A cookie is a small file that asks permission to be placed on your computer’s hard drive. Once you agree, the file is added, and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Post Transactional Technology**  
-The Company or its third party affiliates may utilize customized post transactional technology to assist in the generation of sales for advertisers. This will help ensure that the advertisements you received are more potentially relevant to your interests as well as increase relevancy for any future offers for additional products or services. Please note that purchases performed through third party advertising may not auto fill any of your information.
+We do not use cookies for tracking purposes. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browsers are a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies. Be aware, if you turn cookies off some of the features that make your site experience more efficient may not function properly.
 
-**Customer Service**  
-In order to service your account, create or operate website promotion, and collect rewards earned through any website affiliation we may utilize your information. Additionally, your information will be utilized to verify your identify and account status when we consider appropriate. We will also utilize your information to investigate your compliance with the terms and conditions of the website promotion or any advertiser offer.
+ **Third-party disclosure**
 
-**Credit Card Preauthorization Security**  
-Once you have submitted your credit card information, you are acknowledging and authorizing that it may become necessary for the Company to periodically verify the provided credit card account is still valid for future purchases by charging, and thereafter crediting, a small sum to the card.
+We do not sell, trade, or otherwise transfer to outside parties your PII unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Marketing**  
-By agreeing to these terms, are you are authorizing use your information for online and marketing programs. These programs include but are not limited to: e-mail advertising, telemarketing, SMS, and direct mail. You authorize us and our third-party marketing partners to conduct telemarketing via your landline telephone and/or cell phone. You also understand that your wireless carrier’s standard phone and messaging rates may apply to any and all calls to your cell phone. If you would like to be removed from these programs, please contact the Company through the website.
+ **Third-party links**
 
-**Short Message Service**  
-Any services provided resulting in the receipt of a Short Message Service (“SMS”), wireless or other mobile offering to your cell phone, will be made clear in the context of the offering at the time of sign up. By signing up you are agreeing to receive these mobile messages and offerings. You also understand that standard wireless carrier rates will apply to any and all messages received or sent. If you wish to discontinue or completely unsubscribe to the messages you will need to send “STOP”, “END”, or “QUIT” to the original source of the SMS text message you have received. Please note that this only affects the delivery of any SMS messages for the particular offering in question. The message will not affect offering sent by third parties and will need to be sent to each future offering.
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information that you provide while visiting such sites, and this privacy policy does not govern such sites. Since we do not control the privacy policies of any third party, you should investigate its policy before you disclose your personal information to them.
 
-**Interactive Voice Response**  
-By accepting the terms and conditions of this website you have given your express written consent to receive calls regarding telemarketing from third-party marketers, including methods such as a pre-recorded message and/or automated voice dialing. Your consent acknowledges that you understand that the number provided will be effective regardless of the location for the number, including but not limited to:  home phone, cell phone, and business phone, even if registered on any state or federal Do-Not-Call list. Consent shall be in effect unless revoked by contacting us.
+ **Google**
 
-**Methods for Information Sharing**  
-We maintain the right to use the collected personally identifiable information and non-personally identifiable information for any purpose as deemed legally permissible including but not limited to the following categories:
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.[ https://support.google.com/adwordspolicy/answer/1316548?hl=en](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
 
-**Company and Affiliated Companies**  
-Collected information may be shared within the Company as well as with affiliated companies or advertising and marketing programs. However, this privacy policy will not apply to affiliated companies and their use and sharing of acquired information. Certain affiliated companies may elect to use non-personally identifiable information to provide more relevant advertisements to you.
+We may use Google AdSense Advertising on our website. Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy. We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-**Vendors**  
-Information may be shared with third party vendors that are not part of the Company. These include, but are not limited to vendors related to: email advertising, qualified service or good providers, and vendors specializing in shipping.
+ **Opting out**
 
-**Advertiser Information**  
-If you complete any offers by providing information via email or by form, the information will be transferred to an applicable advertising company. After gathering your information via survey or questionnaire, it may be necessary to provide some or all of the information that you submitted during the website registration process without providing you with the opportunity to confirm the information. This is to assist in ensuring that any advertisements you receive are most relevant to your interests. If you elect to receive an offer, it may be necessary to provide some or all of the information that you submitted during the website registration process without providing you with the opportunity to confirm the information
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-**Advertising Serving Companies**  
-Advertising on our websites may include use of third party advertising networks or advertising serving companies. We provide your information to these companies so that they can provide the most relevant advertisements to you. This information may include, but is not limited to, IP address, telephone number, gender, date of birth, shopping preferences, personal background, interests, education, career goals, as well as any additional information or unique preferences you provide to us or affiliated sponsors and advertisers. Please see the privacy policy of each individual company that provides advertising for clarification on their procedures.
+ **California Online Privacy Protection Act**
 
-**Marketing Partners**  
-By agreeing to these terms, are you are allowing us to share, license, or sell your information to third parties for various marketing purposes, including online and marketing programs. These programs include but are not limited to: e-mail advertising, telemarketing, SMS, and direct mail. You authorize us and our third-party marketing partners to conduct telemarketing via your landline telephone and/or cell phone. You also understand that your wireless carrier’s standard phone and messaging rates may apply to any and all calls to your cell phone. If you would like to be removed from these programs, please contact the Company through the website.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The laws reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting PII from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
 
-**Enhancement and Validation**  
-By agreeing to these terms, you are allowing us to utilize third party service providers to enhance additional elements of our database, including but not limited to, household information, residential information, household income, age, and gender. You are also allowing us to utilize third party service providers to add telephone numbers to our collection of data as well as validate all of the aforementioned data. Further, we may sell, license, or share your information to third parties for use of data enhancement and validation to the extent permissible by law.
+See more at:
 
-**Law Enforcement, Governmental Agencies, or additional Companies**  
-At any point we may share your information with any branch of law enforcement or governmental agency where required or permitted by law. This information will be shared in direct response to their request to establish our compliance with applicable laws, rules, regulations, and/or guidelines. Your information may also be shared with third parties for purposes of suppression or opting-out. Your information may also be shared when attempting to protect against actual or potential fraud, any form of unauthorized transaction, investigating instances of actual fraud which have already occurred, enforcing and/or applying existing terms and conditions, protecting the rights, property or safety of our websites, protecting the rights, property or safety of our users, responding to Court issued subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims.
+<http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
-**Right to Transfer**  
-Your gathered information may be transferred as part of a transaction if the Company should choose to sell or transfer assets of the business.
+California residents using the site are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, by phone at 916-445-1254 or 800-952-5210, or by email to[ dca@dca.ca.gov](mailto:dca@dca.ca.gov).
 
-**Communications**  
-You are consenting to communications regarding different marketing and advertising messages from the Company and third party affiliates by submitting the Company registration form. Communications can be discontinued at any time by contact the Company via its website.
+According to CalOPPA, we agree to users visiting our site anonymously.
 
-**Information Requests**  
-If you have any additional comments or concerns regarding the privacy policy please contact us through the website.
+ **How does our site handle Do Not Track signals?**
 
-**Third Party Cookies**  
-Unique cookies may be added by third party affiliates and advertisers when you visit the website. The purpose of these cookies is to allow more relevant advertising content for each individual user. Please note that no personal information is connecting to these cookies. If you would like to opt-out of the cookies, please contact us through the website.
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Outside Links**  
-Other websites have their privacy policies and terms of use. If you should click a link that directs you to any other website, please note that you must review the polices that exist on every other site and this Company has no affiliation with the privacy policy and terms of use of other companies.
+ **COPPA (Children Online Privacy Protection Act)**
 
-**Privacy Policy Reach**  
-All information collected by the Company is subject to this privacy policy. Please note that information obtained by other affiliated companies is independent and separate. This privacy policy will not cover any contact or transactions through affiliated companies.
+Our website is for adults. When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
-**Security**  
-Security is a chief concern amongst the Company. However, complete security on the internet is near impossible against individuals highly skilled in manipulating security protocols. We utilize a multitude of security protocols to safe guard against any theft, misuse, modification, or loss of information gathered. Our servers store information in a manner that protect from unauthorized access. Although unlikely, the company cannot ensure that all information you transit to us will ever be obtained my unauthorized users. Ultimately you acknowledge and assume all risk when communicating with the Company and its affiliates.
+We do not market to children. If we discover we have received any information from a person who is under the age of majority in violation of the law, we will delete that information immediately. If you believe that we have any information from or about anyone under the age of majority, please contact us immediately.
 
-**LIMITATION OF LIABILITY**  
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY’S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
+ **Fair Information Practices**
 
-[](https://www.pinterest.com/pin/create/button/)
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. In order to be in line with Fair Information Practices we will notify you via email within 1 business day.
+
+CAN SPAM **Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. We do not expect to collect or send out emails, but if we decide to do so we will comply with the CAN-SPAM Act, which includes:
+
+• Not use false or misleading subjects or email addresses.  
+• Identify the message as an advertisement in some reasonable way.  
+• Include the physical address of our business or site headquarters.  
+• Monitor third-party email marketing services for compliance, if one is used.  
+• Honor opt-out/unsubscribe requests quickly.  
+• Allow users to unsubscribe by using the link at the bottom of each email.  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+and we will promptly remove you from ALL correspondence.
+
+ **Contacting Us**
+
+If there are any questions regarding this Privacy Policy, you may contact us using the information below:
+
+TipsyBartender.com  
+3183 Wilshire Blvd #196K22  
+Los Angeles, California 90010, USA  
+[Admin@TipsyBartender.com](mailto:Admin@TipsyBartender.com)
