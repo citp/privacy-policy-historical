@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905182610id_/https%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515195105id_/https%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BNKR
 
