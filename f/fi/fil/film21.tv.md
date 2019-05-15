@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the film21.tv privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film21.tv privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515042730id_/http%3A//www.film21.tv/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy
 
-* * *
+Privacy Policy
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of certain information, including your personal information, by film21.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+You control how your personal information is collected, used and disclosed. Other than is necessary to provide you with the service you expect from film21 (as explained in this document and when you use our service), film21 gives you control over your personal information. film21 does not and will not sell or distribute your personal information without your consent.
 
+For instructions on how to contact us, please see the “Contacting Us” section below. By using, visiting or browsing the film21 service, you accept and agree to our information practices described below.
 
+COLLECTION OF INFORMATION
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We collect information regarding you and your interactions with us and our advertising, your use of our service, applications, sites, tools, and customer service, as well as information regarding your computer or other device used to access our service (such as gaming systems, smart TVs, mobile devices, and set top boxes). This information may include
+
+We may supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information may include demographic data and Internet browsing behavior. We may use this supplemented information for purposes that are consistent with this Privacy Policy, such as: analyzing and understanding our current, former and potential members; improving our service (including our UI experiences), delivery optimization, content selection, recommendation algorithms, advertising and marketing; as well as protecting us and our members from fraud and unauthorized access.
+
+USE OF INFORMATION
+
+We use the information we collect to provide, analyze, administer, enhance and personalize our services and marketing efforts for you and others, including to process your registration, your orders and your payments, and to communicate with you on these and other topics. We comply with Canada’s Anti-Spam Legislation (CASL) and provide users with the ability to opt-in or out of promotional email campaigns and push notifications. For example, we may use the information we collect for purposes such as:
+
+We may use information on an aggregated or anonymous basis. For example, we use movie and TV show ratings and consumption behavior, as well as commentary and reviews, on an aggregate or anonymous basis, to improve our recommendations to you as well as other users. Aggregated or anonymous information may be used for a variety purposes not explicitly set forth in this policy.
+
+DISCLOSURE OF INFORMATION
+
+Service Providers: We use other companies, agents or contractors (“Service Providers”) to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our service, to process and limit fraud in connection with credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users’ interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services.
