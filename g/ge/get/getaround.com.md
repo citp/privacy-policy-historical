@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005050550id_/https%3A//www.getaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515173639id_/https%3A//www.getaround.com/privacy) for the most accurate reproduction.*
 
-# privacy
+# Privacy Policy
 
 Getaround, Inc. ("we" or "Getaround") is committed to protecting your privacy and informing you about how your information is used. This Privacy Policy explains our practices regarding the collection, use, disclosure, and protection of information that is collected through our website, mobile application, and any other mobile or online service owned and offered by Getaround (our “Service”). Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms of Service.](https://web.archive.org/terms/home)
-
-‍
 
 ### Personal Information We Collect From You
 
@@ -14,31 +12,21 @@ We collect personal information from you in order to provide our Service and off
 
 You provide us information about yourself, such as your name, age, address, email address, university or other affiliation, and password, when you register for a Member account with the Service. We also collect a copy of your driver’s license and billing and payment information if you utilize our Service. If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service.
 
-‍
-
 #### Payment Information
 
 Getaround collects your personal payment information, including information stored on outside services that you may use with Getaround, such as PayPal. By submitting your payment information and/or linking your Getaround account with an outside payment service such as PayPal, you authorize Getaround to access and use this information in order to provide you with and accept payment for the Service. This allows us to both confirm your identity and provide you with seamless, hassle-free transactions. You can check the current fees, fines, and penalties applicable to use of our Service in our [Fee and Commission Schedule](https://web.archive.org/terms/fees).
-
-‍
 
 #### Driver's Record
 
 We check your driver's record to make sure you and your car meet Getaround safety standards. By registering with Getaround, you authorize us to access your driver's record from state DMVs, RMVs, and other applicable entities, and this authorization extends to Getaround throughout the entire time you use our Service, so that Getaround may re-check your records from time to time. You also authorize said entities to release this information to Getaround.
 
-‍
-
 #### Vehicle History and Inspection
 
 If you own a vehicle that is used on Getaround, we will inspect the vehicle, collect information identifying the vehicle (like a license plate number, VIN), and obtain a vehicle history report to make sure the vehicle is safe for you and other drivers to use. By registering with Getaround, you authorize us to obtain this information, and you authorize applicable entities such as DMVs, RMVs, inspection companies, and auto mechanics to release such information to Getaround.
 
-‍
-
 #### Social Media
 
 When you interact with our Service through various social media, such as when you log in through Facebook or when you like or post a comment to our Facebook page or interact with us on other social media, we may receive information from the social network, such as your profile information, profile picture, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review, and, if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to Getaround’s Service.
-
-‍
 
 We use personal information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages and push notifications, and permit you to communicate with others on the Service or on social media or invite others to join the Service.  We may also use information to provide personalized content, including advertising.  We may also send you Service-related emails or messages (e.g., account verification, change or updates to features of the Service, technical and security notices).  For more information about your communication preferences, see Your Choices Regarding Your Information below.
 
@@ -143,7 +131,7 @@ Getaround cares about the security of your information and uses commercially rea
 #### Children's Privacy  
 
 
-Protecting the privacy of young children is especially important. For that reason, Getaround does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@Getaround.com](http://support@getaround.com/).
+Protecting the privacy of young children is especially important. For that reason, Getaround does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us [here](https://help.getaround.com/hc/en-us/requests/new).
 
 ‍
 
@@ -163,4 +151,4 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-For any questions on this privacy policy, please contact us by email at [help@getaround.com](http://help@getaround.com/) or by postal mail at Getaround, Inc., 1177 Harrison Street, San Francisco, CA 94103.
+For any questions on this privacy policy, please contact us by submitting a support request [here](https://help.getaround.com/hc/en-us/requests/new) or by postal mail at Getaround, Inc., 1177 Harrison Street, San Francisco, CA 94103.
