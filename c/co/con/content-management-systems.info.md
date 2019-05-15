@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the content-management-systems.info privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160037id_/http%3A//www.content-management-systems.info/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the content-management-systems.info privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515134935id_/http%3A//www.content-management-systems.info/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy – content-management-systems
 
