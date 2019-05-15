@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the instantbannerads.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204071852id_/http%3A//instantbannerads.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantbannerads.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515021206id_/http%3A//www.instantbannerads.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Instant Banner Ads
 
-instantbannerads.com Privacy Policy  
+instantbannerads.com  
+Privacy Policy  
 
 
   
