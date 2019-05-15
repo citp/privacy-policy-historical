@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrasabers.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005140830id_/https%3A//ultrasabers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasabers.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516005953id_/https%3A//ultrasabers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ultra Sabers
 
