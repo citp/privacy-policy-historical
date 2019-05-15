@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011141309id_/https%3A//www.getyourguide.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gidsy.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515193448id_/https%3A//www.getyourguide.com/privacy_policy) for the most accurate reproduction.*
 
 # GetYourGuide Privacy
 
@@ -186,7 +186,7 @@ GetYourGuide GmbH
 Erich-Weinert-Strasse 145C   
 10409 Berlin   
 Germany  
-Phone: + 49 30 544 459 44  
+Phone: +49 (0) 30 568 394 45  
 Or by email: service@getyourguide.com  
 You can contact our Data protection Officer at: dataprotectionof-ficer@getyourguide.com.
 
