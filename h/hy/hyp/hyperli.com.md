@@ -1,17 +1,39 @@
-> *The following text is extracted and transformed from the hyperli.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210239id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperli.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515225748id_/https%3A//www.hyperli.com/privacy) for the most accurate reproduction.*
 
-# Legal
+# Hyperli | Privacy Policy
 
-* * *
+## **Hyperli Privacy Statement**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+Please note that this privacy statement only applies to you if you purchase a product from Hyperli.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+This Privacy Statement explains how Hyperli processes and uses information about you. This Privacy Statement applies only to information we process in order to facilitate your purchase of products sold by us on the Hyperli South Africa website, featured on www.hyperli.com). The Site is owned and operated by Hyperli, a South African company, trading from 1st Floor, The Bureaux, 10 North Wharf, Aria Building, 42 Hans Strijdom Ave Ln, Cape Town City Centre, Cape Town, 8000.
+
+This Privacy Statement was adopted as of the Effective Date above, and may be amended from time to time. In the event of a material change, we may notify you of such changes.
+
+### **1.  Personal data collected**
+
+Hyperli is the data owner in respect of your personal data that is necessary to provide you with the products you purchased from us on the Site. This includes information such as your name and delivery address. Hyperli directly processes your data in accordance with the international practices it employs across its business relating to the protection and processing of personal information.
+
+Please note that Hyperli is the data owner in respect of all information you provide or is made available about you when you interact with the Site. This includes, for example, information necessary to create a Hyperli account or to subscribe to email marketing. Your customer relationship is with Hyperli, which processes your personal in accordance with Applicable Privacy Practices and its Privacy Statement.
+
+### **2.  When and Why Hyperli Discloses Information**
+
+We are not in the business of selling or renting personal data. When we process your personal data for the purposes set out in section 2 above, we may pass or share your personal data with third parties, as may be necessary from time to time:
+
+ ***** With affiliated and unaffiliated technical and organisational service providers relevant to our business.  
+ ***** To third parties to report or collect on debts owed to us or our suppliers or other business partners.  
+ ***** To third parties in order for us to perform contractual obligations toward you, combat fraud or criminal activity, or as part of legal proceedings affecting us.  
+ ***** To law enforcement officers or other government officials, to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions.
+
+Please note that it is likely some recipients of your data may be located outside of South Africa, in countries with an inadequate level of data protection. You recognise and understand that when you purchase a product, we may pass your personal information to a service provider or business partner who supports delivery of your product to you and that this service provider or business partner may be located (or process your personal data) outside of South Africa.
+
+### **3.  Security of Personal Data**
+
+We process data mainly in electronic form in line with the Applicable Privacy Practices security requirements; Hyperli has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard your personal data, including industry-standard encryption technology.  
 
 
+### **4.  Retention of Personal Data and Your Rights in relation to Personal Data**
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We will retain your personal data for as long as necessary to perform our contractual obligations to you and as required by applicable law. Should you wish to know more about the personal data we have about you, you can exercise your rights of access at any time. Should you wish to do so, please email us at support@hyperli.com. You may also write to us at: Hyperli, 1st Floor, The Bureaux, 10 North Wharf, Aria Building, 42 Hans Strijdom Ave Ln, Cape Town City Centre, Cape Town, 8000.
+
+Please note that while we are ready to assist you, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases for financial reporting and compliance reasons.
