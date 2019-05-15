@@ -1,73 +1,207 @@
-> *The following text is extracted and transformed from the doubledutymommy.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222163116id_/http%3A//doubledutymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledutymommy.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515114658id_/http%3A//www.doubledutymommy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Double Duty Mommy
+# PRIVACY POLICY - Double Duty Mommy
 
-**What information do we collect?**
+## **This policy is valid from 04  February 2010**
 
-We collect information from you when you subscribe to our newsletter or fill out a form.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-**What do we use your information for?**
+**When do we collect information?**
 
-Any of the information we collect from you may be used in one of the following ways:  
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)  
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)  
-• To process transactions
+We collect information from you when you place an order, subscribe to a newsletter or enter information on our site.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**How do we use your information?  **
 
-• To administer a contest, promotion, survey or other site feature  
-• To send periodic emails
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**•**  To administer a contest, promotion, survey or other site feature.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**•**  To quickly process your transactions.
 
-**Do we use cookies?**
+**•**  To send periodic emails regarding your order or other products and services.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**How do we protect your information?**
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-**Do we disclose any information to outside parties?**
+We use regular Malware Scanning.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-**Third party links**
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+**Do we use ‘cookies’?**
 
-**California Online Privacy Protection Act Compliance**  
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Childrens Online Privacy Protection Act Compliance**  
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**We use cookies to:**
 
-**Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**•**  Help remember and process the items in the shopping cart.
 
-**Your Consent**
+**•**  Keep track of advertisements.
 
-By using our site, you consent to our web site privacy policy.
+**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.  
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browsers are a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-**Changes to our Privacy Policy**
+If you turn cookies off, some of the features that make your site experience more efficient may not function properly.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+**Third-party disclosure**
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-jmercurio19@gmail.com
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+We use Google AdSense Advertising on our website.  
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+**•**  Google Display Network Impression Reporting
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt-Out page or by using the Google Analytics Opt-Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA, we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+**•**  On our Privacy Policy Page
+
+Can change your personal information:
+
+**•**  By emailing us
+
+**How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking
+
+**Social Login**
+
+We collect your public profile data only from your consent that you grant before initiating Social Login, from the social network used to login at our website. This data includes your first name, last name, email address, link to your social media profile, unique identifier, link to social profile avatar. This data is used to create your user profile at our website. You can revoke this consent at any time by sending us an email.
+
+**Facebook Comments**
+
+We embed Facebook Comments plugin to allow you to leave comment at our website using your Facebook account. This plugin may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the commenting interface, including correlating your Facebook account with whatever action you take within the interface (such as “liking” someone’s comment, replying to other comments), if you are logged into Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update
+
+**Facebook Comments Moderation**
+
+If you are using our Facebook Comments Moderation add-on at your website, you can add following in the privacy policy of your website:
+
+We collect the data related to the Facebook Comment you post, only from your consent that you grant before posting Facebook Comment at our website. This data includes your Facebook account name, unique Facebook account identifier, unique identifier associated to the posted Facebook comment, unique open graph object identifier of the webpage at which you posted the comment, unique identifier associated to the parent comment if you reply to an existing comment. This data is used to show recent Facebook Comments made all over our website and/or to show the old comments made at non-SSL webpages before we moved our website to SSL. You can revoke this consent at any time by sending us an email.
+
+**Facebook Comments Notifier**
+
+_We send the Facebook Comment you post, to page/post author and/or website administrator via automated email, only from your consent that you grant before posting Facebook Comment at our website. This data includes just the   Facebook comment posted by you._
+
+**Social Analytics for Sharing  **
+
+We use Google Analytics to track social shares made at our website. Google automatically collect and store certain information in their server logs which includes device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL, cookies that may uniquely identify your browser or your Google Account, in accordance with their data privacy policy: https://policies.google.com/privacy
+
+**Facebook Like,  Facebook Recommend, Facebook Share official buttons**
+
+We embed a Facebook widget to allow you to see the number of likes/shares/recommends and “like/share/recommend” our webpages. This widget may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Facebook account with whatever action you take within the widget (such as “liking/sharing/recommending” our webpage), if you are logged in to Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update
+
+**Twitter Tweet official button**
+
+We use a Twitter Tweet widget on our website. As a result, our website makes requests to Twitter’s servers for you to be able to tweet our webpages using your Twitter account. These requests make your IP address visible to Twitter, who may use it in accordance with their data privacy policy: https://twitter.com/en/privacy#update
+
+We use a Linkedin Share widget at our website to allow you to share our webpages on Linkedin. These requests may track your IP address in accordance with their data privacy policy: https://www.linkedin.com/legal/privacy-policy
+
+**Pinterest Save official button**
+
+We use Pinterest Save widget at our website to allow you to pin images to Pinterest from our webpages. These requests may track your IP address in accordance with their data privacy policy: https://policy.pinterest.com/en/privacy-policy
+
+**Buffer official button**
+
+We use Buffer widget at our website to allow you to add our webpages to your Buffer account, which collects log data from your browser. This Log Data may include information such as your IP address, browser type or the domain at which you are interacting with the widget, in accordance with their privacy policy: https://buffer.com/privacy
+
+We use Xing Share widget at our website to allow you to share our webpages on Xing and this let Xing collate data about you automatically by means of tracking, in accordance with their privacy policy: https://privacy.xing.com/en/privacy-policy
+
+**Reddit Badge official button**
+
+We use Reddit Badge widget at our website which may log information when you interact with the widget. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, user interactions (e.g., voting data), the requested URL and hardware settings, in accordance with their privacy policy: https://www.redditinc.com/policies/privacy-policy
+
+**StumbleUpon Badge official button**
+
+We use StumbleUpon Badge widget at our website which may log information when you interact with the widget. Log Data is a form of Non-Identifying Information, in accordance with their privacy policy: http://www.stumbleupon.com/privacy
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+**•**  Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN-SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•**  Send information, respond to inquiries, and/or other requests or questions
+
+**•**  Process orders and to send information and updates pertaining to orders.
+
+**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CAN-SPAM, we agree to the following:**
+
+**•**  Not use false or misleading subjects or email addresses.
+
+**•**  Identify the message as an advertisement in some reasonable way.
+
+**•**  Include the physical address of our business or site headquarters.
+
+**•**  Monitor third-party email marketing services for compliance, if one is used.
+
+**•**  Honor opt-out/unsubscribe requests quickly.
+
+**•**  Allow users to unsubscribe by using the link at the bottom of each email.
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at jmercurio19@gmail.com or follow the instructions at the bottom of each email and we will promptly remove you from ALL  correspondence.**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may [contact us](http://www.doubledutymommy.com/contact) using the link.
+
+Thank you.
