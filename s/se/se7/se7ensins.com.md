@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515152114id_/https%3A//se7ensins.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Se7enSins Gaming Community
 
@@ -8,7 +8,7 @@
 
 Oh noes! An ad should be here.
 
-We are Se7enSins Gaming Community ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/misc/contact).
+We are Se7enSins Gaming Community ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190515152114id_/https%3A//se7ensins.com/help/misc/contact).
 
 ## What information we hold about you
 
@@ -36,7 +36,7 @@ We collect some or all of this information in the following cases:
 We may use your personal information in the following ways:
 
   * For the purposes of making you a registered member of our site, in order for you to contribute content to this site as well as keeping you logged in.
-  * We may use your email address to inform you of activity on our site. There are opt-in and opt-out options in your [account settings](https://www.se7ensins.com/account/).
+  * We may use your email address to inform you of activity on our site. There are opt-in and opt-out options in your [account settings](https://web.archive.org/account/).
   * Your IP address is recorded when you perform certain actions on our site. **Your IP address is never publicly visible**. This is used on the backend for security and board rules purposes.
 
 
@@ -56,6 +56,7 @@ Third parties may be used to process a minimum amount of personal data on our be
   * PayPal (Invoicing & Payments) [Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full)
   * Google Fonts (Licensed fonts) [Privacy Policy](https://policies.google.com/privacy)
   * Font Awesome (Licensed fonts) [Privacy Policy](https://fontawesome.com/privacy)
+  * IGDB (Game Database) [Privacy Policy](https://www.igdb.com/privacy_policy)
   * Social Logins (Easy Registration and Logging In): 
     * [Facebook Privacy Policy](https://www.facebook.com/policy.php)
     * [Twitter Privacy Policy](https://twitter.com/en/privacy)
@@ -73,17 +74,17 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181219082220id_/https%3A//www.se7ensins.com/help/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190515152114id_/https%3A//se7ensins.com/help/help/cookies).
 
 ## Your rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [create a new ticket](https://www.se7ensins.com/tickets/new). If you believe that the information we hold for you is incomplete or inaccurate, you may [create a new ticket](https://www.se7ensins.com/tickets/new) to ask us to complete or correct that information if you are unable to change it via the [account settings](https://www.se7ensins.com/account/) page.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [create a new ticket](https://web.archive.org/tickets/new). If you believe that the information we hold for you is incomplete or inaccurate, you may [create a new ticket](https://web.archive.org/tickets/new) to ask us to complete or correct that information if you are unable to change it via the [account settings](https://web.archive.org/account/) page.
 
-You also have the right to request the erasure (Our [GDPR Right to Erasure](https://www.se7ensins.com/help/gdpr_erasure) page) of your personal data. Please [create a new ticket](https://www.se7ensins.com/tickets/new) if you would like us to remove your personal data. You may be requested to provide further information based on the [GDPR Right to Erasure](https://www.se7ensins.com/help/gdpr_erasure) page we've provided to verify your identity.
+You also have the right to request the erasure (Our [GDPR Right to Erasure](https://web.archive.org/help/gdpr_erasure) page) of your personal data. Please [create a new ticket](https://web.archive.org/tickets/new) if you would like us to remove your personal data. You may be requested to provide further information based on the [GDPR Right to Erasure](https://web.archive.org/help/gdpr_erasure) page we've provided to verify your identity.
 
 ## Acceptance of this policy
 
-Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy, [TOS](https://www.se7ensins.com/help/terms), [Board Rules](https://www.se7ensins.com/help/board_rules), and [Cookie Useage/Policy](https://www.se7ensins.com/help/cookies).
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy, [TOS](https://web.archive.org/help/terms), [Board Rules](https://web.archive.org/help/board_rules), and [Cookie Useage/Policy](https://web.archive.org/help/cookies).
 
 ## Changes to this policy
 
@@ -93,6 +94,7 @@ We may make changes to this policy at any time. You may be asked to review and r
   * [__](https://www.facebook.com/Se7enSins "Facebook")
   * [__](http://www.twitch.tv/se7ensins "Twitch")
   * [__](https://www.youtube.com/user/se7ensins "Youtube")
+  * [__](https://instagram.com/se7ensinsig "Instagram")
 
 
 
