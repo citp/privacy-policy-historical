@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtramath.org privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928043108id_/https%3A//cdn0.xtramath.org/docs/en/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtramath.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515113006id_/https%3A//cdn0.xtramath.org/docs/en/privacy-policy.pdf) for the most accurate reproduction.*
 
 # XtraMath Privacy Policy
 
