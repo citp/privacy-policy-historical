@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the angelbroking.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023110013id_/http%3A//www.angelbroking.com/ppc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelbroking.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515115238id_/https%3A//www.angelbroking.com/ppc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Angel Broking
+# Privacy Policy - Angel Broking
 
 ## Privacy Policy
 
-We, at Angelbroking.com ,acknowledge and accept that the personal details that you impart to us, is to be kept in strict confidentiality and to use the information only in the manner which would be beneficial to our customers. We consider our relationship with you as invaluable and strive to respect and safeguard your right to privacy.
+We, at Angelbroking.com, acknowledge and accept that the personal details that you impart to us, is to be kept in strict confidentiality and to use the information only in the manner which would be beneficial to our customers. We consider our relationship with you as invaluable and strive to respect and safeguard your right to privacy.
 
 We shall protect the personal details received from you with the same degree of care to prevent the unauthorized use, dissemination, or publication of these information as we protect our own confidential information of a like nature.
 
