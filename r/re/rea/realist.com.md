@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230234224id_/https%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realist.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515220144id_/https%3A//www.corelogic.com/privacy.aspx) for the most accurate reproduction.*
 
 # CoreLogic - Privacy Policy
 
@@ -175,11 +175,11 @@ If you have any questions about this Privacy Policy, our practices, or your deal
 ---|---  
   
 Mark Wynn  
-Director, Corporate Compliance   
+Sr Ldr, Compliance Officer   
 40 Pacifica Suite 900  
 Irvine, CA 92618
 
-Email: [mwynn@corelogic.com ](mailto:mwynn@corelogic.com)
+Email: [privacy@corelogic.com](mailto:privacy@corelogic.com)
 
 | 
 
