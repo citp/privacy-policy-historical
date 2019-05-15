@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelywivesaffairs.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015034id_/http%3A//www.lonelywivesaffairs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywivesaffairs.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515050337id_/http%3A//www.lonelywivesaffairs.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
