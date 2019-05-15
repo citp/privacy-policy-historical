@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omg.blog privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903231108id_/https%3A//omg.blog/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omg.blog privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515100013id_/https%3A//omg.blog/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | !! omg blog !! [the original, since 2003]
+# OMG, it's our PRIVACY POLICY | OMG.BLOG
 
 ## Who we are
 
@@ -20,7 +20,7 @@ If you upload images to the website, you should avoid uploading images with embe
 
 ### Email address and contact info
 
-!! omg blog !! may ask you to register and provide information that personally identifies you, including when you register as a subscriber to receive e-mail newsletters or respond to a contest or marketing campaign. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. Information collected will not be sold, distributed or otherwise disseminated to outside sources. We may use your personal information for two primary purposes:
+OMG.BLOG may ask you to register and provide information that personally identifies you, including when you register as a subscriber to receive e-mail newsletters or respond to a contest or marketing campaign. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. Information collected will not be sold, distributed or otherwise disseminated to outside sources. We may use your personal information for two primary purposes:
 
 »  To alert you to new published blog entries and updates to comment threads  
 »  To coordinate the delivery of contest prizes
@@ -43,11 +43,11 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ### Analytics
 
-We use [Google Analytics](https://policies.google.com/privacy), [Chartbeat](https://chartbeat.com/privacy/), and [Statcounter](https://statcounter.com/about/cookies/) to keep track of important information about our visitors. This includes but is not limited to: What website you came from to get here, how long you stay for, and what kind of computer you’re using. If you like, you can opt out of Google Analytics tracking [here](https://www.google.com/privacy_ads.html).
+We use [Google Analytics](https://policies.google.com/privacy) and [Chartbeat](https://chartbeat.com/privacy/) to keep track of important information about our visitors. This includes but is not limited to: What website you came from to get here, how long you stay for, and what kind of computer you’re using. If you like, you can opt out of Google Analytics tracking [here](https://www.google.com/privacy_ads.html).
 
 ## Who we share your data with
 
-We share visitor data with audience measurement firms [Quantcast](https://www.quantcast.com/privacy/) and [Comscore](https://www.comscore.com/About-comScore/Privacy-Policy) so that the value of our ad inventory is clear to potential advertisers.
+We share visitor data with audience measurement firm [Quantcast](https://www.quantcast.com/privacy/) so that the value of our ad inventory is clear to potential advertisers, and with [NativeAI](https://native.ai/privacy) to inform us about the content preferences of our readers.
 
 We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://optout.networkadvertising.org/).
 
@@ -67,8 +67,8 @@ We collect information about visitors who comment for the Akismet anti-spam serv
 
 ## Disclaimers
 
-!! omg blog !! is protected by federal copyright law and material published in print or online may not be reproduced in whole or part without the permission of the publishers. !! omg blog !! assumes no responsibility for unsolicited materials submitted for publication. !! omg blog !! is also not responsible for claims made by advertisers or materials provided by advertisers or their agents.
+OMG.BLOG is protected by federal copyright law and material published in print or online may not be reproduced in whole or part without the permission of the publishers. OMG.BLOG assumes no responsibility for unsolicited materials submitted for publication. OMG.BLOG is also not responsible for claims made by advertisers or materials provided by advertisers or their agents.
 
 ## Contact Us
 
-If you have questions or comments regarding !! omg blog !! privacy practices, please write to publisher [at] omg [dot] blog.
+If you have questions or comments regarding OMG.BLOG privacy practices, please write to publisher [at] omg [dot] blog.
