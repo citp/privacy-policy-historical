@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228233348id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2019-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -158,11 +158,11 @@
                 </span>                           
         </div> 
 <div class="alert alert-warning alert-dismissible" id="cookieBanner" style="margin:0">
-<button onclick="document.cookie=&quot;cookiesAccepted=29-12-2018 07:33;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+<button onclick="document.cookie=&quot;cookiesAccepted=15-05-2019 14:39;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
            $(&quot;#cookieBanner&quot;).hide();" type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 
       This website uses cookies. <span class="hidden-xs">By using the site you agree to the use of cookies.</span> <a href="mcookies.php?rAp=0&amp;tcLanguage=en" class="btn btn-default btn-xs" role="button">Find out more</a> or 
-      <button type="button" class="btn btn-default btn-xs" onclick="document.cookie=&quot;cookiesAccepted=29-12-2018 07:33;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
+      <button type="button" class="btn btn-default btn-xs" onclick="document.cookie=&quot;cookiesAccepted=15-05-2019 14:39;expires=Fri, 31 Dec 9999 23:59:59 GMT;&quot;; 
            $(&quot;#cookieBanner&quot;).hide();">agree</button>.
       </div>     <!-- navigation -->
 
@@ -284,6 +284,11 @@ We need this information in case you use several devices to know which one is be
                     <p>The OCR (Optical Character Recognition) enables the Trainchinese Dictionary and flashcards app to read texts from pictures. 
 Pictures may be taken using the camera or by selecting form existing photographs on the device. 
 Those pictures are only processed locally on the device and are not sent to any website or server.</p>
+                    
+                    <h4>Use of microphone of PC or device</h4>
+                    <p>In case you select to record speech for searches or other functionalities of the app, the microphone will be activated for a couple of seconds. 
+    The recognition of speech is not processed locally and the corresponding audio will be sent over the internet to either Apple or Google 
+    depending on the device/browser you are using.</p>
 
 					<h4>Electronic Payment System</h4>
 					<p>Trainchinese BV is engaging the services of third parties to process your credit card information on our behalf. These companies keep your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets Layer (SSL) encryption technology. We do not have access of your credit card data as this is processed and stored exclusively by such third parties.</p>
@@ -507,43 +512,64 @@ function checkSpeechRecognition(){
     if(window.hasOwnProperty('SpeechRecognition')) return true;
     return false;
 }
+
+
+function flashMicrophone(){
+    if(document.getElementById('speechRecognition').style.backgroundColor!='red'){
+        document.getElementById('speechRecognition').style.backgroundColor='red';
+    }else{
+        document.getElementById('speechRecognition').style.backgroundColor='white';
+    }   
+}
+
 function startDictation(lang) {
     // Speech recognition
     if (window.hasOwnProperty('webkitSpeechRecognition')) {
-        // chrome
-        document.getElementById('speechRecognition').style.backgroundColor='red';
+        // chrome       
+        var intevalFlash= setInterval(flashMicrophone, 300); 
         var recognition = new webkitSpeechRecognition();
         recognition.continuous = false;
         recognition.interimResults = false;
         recognition.lang = lang; // zh en-US
         recognition.start();
+        var timeout = setTimeout(function(){recognition.stop();clearInterval(intevalFlash);document.getElementById('speechRecognition').style.backgroundColor='white'; }, 5000);
         recognition.onresult = function(e) {
             document.getElementById('searchWord').value = e.results[0][0].transcript;
             // console.log('Confidence: ' + event.results[0][0].confidence);
+            clearInterval(intevalFlash);
             document.getElementById('speechRecognition').style.backgroundColor='white';
             recognition.stop(); 
             document.getElementById('searchForm').submit();        
         };
+        recognition.onspeechend = function() {
+            recognition.stop();
+            clearInterval(intevalFlash);
+            document.getElementById('speechRecognition').style.backgroundColor='white';
+        }
         recognition.onerror = function(e) {
             recognition.stop();
+            clearInterval(intevalFlash);
             document.getElementById('speechRecognition').style.backgroundColor='white';
         }
     }else if(window.hasOwnProperty('SpeechRecognition')){
         // firefox
-        document.getElementById('speechRecognition').style.backgroundColor='red';
+        var intevalFlash= setInterval(flashMicrophone, 300); 
         var recognition = new SpeechRecognition();
         recognition.continuous = false;
         recognition.interimResults = false;
         recognition.lang = lang; // zh en-US
         recognition.start();
+        var timeout = setTimeout(function(){recognition.stop();clearInterval(intevalFlash);document.getElementById('speechRecognition').style.backgroundColor='white'; }, 5000);
         recognition.onresult = function(e) {
             document.getElementById('searchWord').value = e.results[0][0].transcript;
             // console.log('Confidence: ' + event.results[0][0].confidence);
+            clearInterval(intevalFlash);
             document.getElementById('speechRecognition').style.backgroundColor='white';
             recognition.stop();            
         };
         recognition.onerror = function(e) {
             recognition.stop();
+            clearInterval(intevalFlash);
             document.getElementById('speechRecognition').style.backgroundColor='white';
         }
     }
