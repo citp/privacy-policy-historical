@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003172541id_/https%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515110729id_/https%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pete's Place Privacy Policy
 
