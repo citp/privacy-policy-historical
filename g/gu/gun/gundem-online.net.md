@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gundem-online.net privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122141155id_/https%3A//www.stl.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundem-online.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515202837id_/https%3A//www.stl.news/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | STL.News
+# Privacy Policy | STL.News | STL News & Events
 
 To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
