@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiquarianauctions.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909052641id_/https%3A//antiquarianauctions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquarianauctions.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515103812id_/https%3A//antiquarianauctions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AntiquarianAuctions.com
 
