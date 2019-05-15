@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228233348id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.*
 
 # train chinese dictionary and flashcards|Privacy policy
 
@@ -22,7 +22,7 @@ Your personal information is kept on our servers in such a way that it can only 
 
 #### Cookies
 
-trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20181228233348id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
+trainchinese uses cookies to save some data in your browser when you are using the site. For more details please see our [cookie policy](https://web.archive.org/web/20190515063948id_/http%3A//trainchinese.com/v2/mcookies.php?rAp=0&tcLanguage=en)
 
 #### E-mails
 
@@ -39,6 +39,10 @@ It is important to us that we have your correct contact information so that you 
 #### Use of camera of device
 
 The OCR (Optical Character Recognition) enables the Trainchinese Dictionary and flashcards app to read texts from pictures. Pictures may be taken using the camera or by selecting form existing photographs on the device. Those pictures are only processed locally on the device and are not sent to any website or server.
+
+#### Use of microphone of PC or device
+
+In case you select to record speech for searches or other functionalities of the app, the microphone will be activated for a couple of seconds. The recognition of speech is not processed locally and the corresponding audio will be sent over the internet to either Apple or Google depending on the device/browser you are using.
 
 #### Electronic Payment System
 
