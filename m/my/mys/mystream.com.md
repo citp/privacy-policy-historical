@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115112104id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515191102id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream
 
@@ -48,7 +48,7 @@ In general, we use your personal information to manage your account, communicate
 Stream never sells your information to third parties.  However, we do have to share some of the information to better serve you.  Some examples are as follows:
 
   * **Across Stream companies** to give you the best customer experience and to help you more easily access the products and services we offer;
-  * **With other companies that perform services on our behalf** only as needed for them to perform those services for us.   Please note that we require them to protect your information consistent with our Policy.
+  * **With other companies or individuals that perform services on our behalf** only as needed for them to perform those services for us.   Please note that we require them to protect your information consistent with our Policy.
   * **With other companies and entities, to:**
     * Respond, if necessary and possible, to 9-1-1 requests and other emergencies or exigencies;
     * Comply with court orders and other legal processes;
@@ -72,7 +72,7 @@ California Civil Code Section 1798.83 entitles California customers to request i
 
 **"Do Not Track" Notice:** Because internet and mobile network providers "do not track" and similar signals do not yet operate according to common, industry-accepted standards, Stream and the networks on which we operate currently do not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "All About Do Not Track").
 
-California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [legal@streamenergy.net](mailto:legal@streamenergy.net), or write to us at Stream, 14675 Dallas Parkway, Suite 150, Dallas, Texas 75254.
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [legal@mystream.com](mailto:legal@mystream.com), or write to us at Stream, 14675 Dallas Parkway, Suite 150, Dallas, Texas 75254.
 
 ## Security:
 
@@ -110,7 +110,7 @@ Cookies are small files that a site or its service provider transfers to your co
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies and practices. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-By using our site, you consent to our privacy policy. To obtain specific information regarding the type of individual information of yours that we possess, please contact Stream Energy by email at [webmaster@streamenergy.net](mailto:webmaster@streamenergy.net) and we will promptly attempt to comply with your request.
+By using our site, you consent to our privacy policy. To obtain specific information regarding the type of individual information of yours that we possess, please contact Stream Energy by email at [webmaster@mystream.com](mailto:webmaster@mystream.com) and we will promptly attempt to comply with your request.
 
 ## Security:
 
@@ -121,7 +121,7 @@ Stream Energy will take all steps deemed reasonable by us to secure any personal
 
 We welcome you to contact us directly at either of these addresses below for any questions about this Privacy Policy.
 
-  * ****E-mail us at  [legal@streamenergy.net](mailto:webmaster@streamenergy.net)
+  * ****E-mail us at  [legal@mystream.com](mailto:legal@mystream.com)
   * Write to us at Stream, 14675 Dallas Parkway, Suite 150, Dallas, Texas 75254.
 
 
