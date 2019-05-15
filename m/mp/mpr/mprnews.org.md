@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mprnews.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202222549id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mprnews.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515145240id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
 
 # American Public Media Your Privacy Rights
 
