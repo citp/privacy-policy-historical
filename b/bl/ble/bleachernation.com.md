@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927045111id_/https%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachernation.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515020841id_/https%3A//www.bleachernation.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Bleacher Nation | Chicago Cubs News, Rumors, and Baseball Goodness
 
