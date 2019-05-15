@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggiegrill.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235054id_/https%3A//www.veggiegrill.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggiegrill.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515212948id_/https%3A//www.veggiegrill.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Veggie Grill
 
@@ -44,7 +44,7 @@ Depending on how you use our Sites, Veggie Grill or our third party service prov
   * If you choose to access our social network pages or otherwise link to our Sites with your own social network page, we may collect social network profile information that you have made publicly available.
   * If you make purchases through the Sites or in store, we collect information about that transaction to help us better serve you. This information includes financial account information such as a credit card number (or other payment information), the name on the payment card used for the purchase, your loyalty ID, and information about your purchase like how you ordered your food, how much you paid for your meal, what store you made your purchase at, and when you made your purchase.
   * If you choose to participate in contests or surveys we may offer, we will collect information from you when you enter the contest or participate in the survey. The types of information we collect will vary by contest and survey but may include, among other things, your name, your address, and your email address.
-  * If you use our mobile application, information such as your user ID, your location, your first and last name, your birthday, restaurants you’ve visited, and other Veggie Grill restaurants near you may be collected. This depends on whether you allow the mobile application to access your location data. The mobile application will also share the user attributes you include in the app such as, [INSERT SOME EXAMPLE USER ATTRIBUTES].
+  * If you use our mobile application, information such as your user ID, your location, your first and last name, your birthday, restaurants you’ve visited, and other Veggie Grill restaurants near you may be collected. This depends on whether you allow the mobile application to access your location data. The mobile application will also share the user attributes you include in the app such as, order history and previous transactions.
   * If you apply for a job through the Sites, you will be required to provide certain information, to complete questionnaires related to your qualifications, or provide a resume or other employment description.
   * We may also receive information from third parties that identifies you. We may add this information to the information we have already collected.
 
@@ -176,8 +176,8 @@ You are limited to one request per calendar year. In your request, please attest
 
 Veggie Grill, Inc.   
 Attention: Legal Department  
-2800 28th St #302  
-Santa Monica, CA 90405
+5855 Green Valley Circle #208  
+Culver City, CA 90230
 
 **Contact Us**
 
@@ -185,8 +185,8 @@ Please contact us if you have any questions or comments about our privacy practi
 
 Veggie Grill, Inc.   
 Attention: Legal Department   
-2800 28th St #302  
-Santa Monica, CA 90405
+5855 Green Valley Circle #208  
+Culver City, CA 90230
 
 You may also contact us at the following:  
 Email: info@veggiegrill.com  
