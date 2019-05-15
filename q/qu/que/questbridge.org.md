@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questbridge.org privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115131747id_/https%3A//www.questbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questbridge.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515132008id_/https%3A//www.questbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # QuestBridge | Privacy Policy
 
@@ -53,7 +53,7 @@ You may be aware that a new European Union law, called the General Data Protecti
   * **Right of Access** \- the right to be informed of and request access to the personal data we process about you;
   * **Right to Rectification** \- the right to request that we amend or update your personal data where it is inaccurate or incomplete;
   * **Right to Erasure** \- the right to request that we delete your personal data;
-  * Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
+  * **Right to Restrict** \- the right to request that we temporarily or permanently stop processing all or some of your personal data;
   * **Right to Object** \- 
     * the right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
     * the right to object to your personal data being processed for direct marketing purposes;
