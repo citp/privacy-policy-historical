@@ -1,72 +1,68 @@
-> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207075610id_/http%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted2decorating.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515215333id_/https%3A//www.addicted2decorating.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Addicted 2 Decorating®
 
-**What information do we collect?**
+Addicted 2 Decorating, a property of Kristi Linauer, LLC, is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our on-line services accurate, confidential, and secure. Our privacy policy has been designed and created to ensure those affiliated with Addicted 2 Decorating of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
-We collect information from you when you subscribe to our newsletter, fill out a form or leave a comment. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Third party vendors, including Google, use cookies to serve ads based on a your prior browsing activity.  Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.  You may opt out of the use of the DART cookie by visiting Google’s [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [ opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+This Privacy Policy Agreement shall apply to Addicted 2 Decorating and shall govern any and all data collection and usage thereof. Your use of Addicted 2 Decorating implies consent to the following data procedures expressed in this agreement.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+**Collection of Information**
 
-**What do we use your information for?**
+This website collects various types of information, such as:
 
-Any of the information we collect from you may be used in one of the following ways: To personalize your experience(your information helps us to better respond to your individual needs);To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you);To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs);To process transactions
+  * Voluntarily provided information which may include your name, email address, etc., which may be used when you sign up for services you have requested.
+  * Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-To administer a contest, promotion, survey or other site feature. ****
 
-**How do we protect your information?** We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. ****
+Addicted 2 Decorating will only collect personal information that you knowingly and willingly provide by way of surveys, newsletter sign up forms, comment forms, and other similar voluntarily-submitted information. It is the intent of this site to use personal information only for the purpose for which it was requested.
 
-**Do we use cookies?**
+Addicted 2 Decorating may also have the occasion to collect anonymous demographic information that may not be unique to you and may even gather additional or other personal and/or non-personal information, such as age, gender, household income, political affiliation, race and religion, at a later time.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. ****
+It is even possible that we may gather information about your computer hardware and/or software. Such collected information may include, but may not be limited to, your IP address, browser type, domain name, access time and various website addresses. The gathering of this information may be used for maintaining the quality of service we provide, as well as providing overall general statistics related to the use of our website and others.
 
-**Do we disclose any information to outside parties?**
+**Use of Information Collected**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. ****
+Addicted 2 Decorating may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request.
 
-**Third party links**
+Addicted 2 Decorating does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Addicted 2 Decorating may find it beneficial to share specific data with their trusted partners in an effort to conduct statistical analysis. Those third parties shall be strictly prohibited from making use of your personal information, other than to deliver those services which you requested, and as such they are thus required in accordance with this agreement to maintain the confidentiality of all your information.
 
-**California Online Privacy Protection Act Compliance**
+Addicted 2 Decorating may disclose your personal information, without prior notice to you, only if required to do so pursuant to applicable laws and/or in a good faith belief that such action is deemed necessary or required to:
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+  1. Conform to decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Addicted 2 Decorating;
+  2. Safeguard and/or preserve all the rights and/or property of Addicted 2 Decorating; and
+  3. Perform under demanding conditions in an effort to safeguard the personal safety of users of Addicted 2 Decorating and/or the general public.
 
-**Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. ****
 
-**Online Privacy Policy Only**
+**Children Under Age of 16**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. ****
+Addicted 2 Decorating does not knowingly collect personal identifiable information from children under the age of sixteen (16) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of sixteen (16), we will immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of sixteen (16) must seek and obtain parent or guardian permission to use this website.
 
-**Terms and Conditions**
+**Unsubscribe or Opt-Out**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms and conditions.](http://addicted2decorating.com/terms-conditions) ****
+All users and/or visitors to our website have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please use the “unsubscribe” link located at the bottom of the newsletter, or send an email that you wish to unsubscribe to the email on our website. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
-**Your Consent**
+**Links to Other Web Sites**
 
-By using our site, you consent to our [website’s privacy policy](http://addicted2decorating.com/privacy-policy). ****
+Our website does contain links to affiliate and other websites. Addicted 2 Decorating does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy Agreement applies only to the information collected by this website, Addicted 2 Decorating.
 
-**Changes to our Privacy Policy**
+**Security**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 5/24/2011 ****
+Addicted 2 Decorating will endeavor and will take every precaution to maintain adequate physical, procedural and technical security with respect to its offices and information storage so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
 
-**Contacting Us**
+**Changes to Privacy Policy Agreement**
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+Addicted 2 Decorating reserves the right to update and/or change the terms of our privacy policy, and as such we will post those change to our website homepage at [www.addicted2decorating.com](https://www.addicted2decorating.com/), so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Addicted 2 Decorating decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
-[http://www.addicted2decorating.com](http://www.addicted2decorating.com/)
+**Acceptance of Terms**
 
-Mailing Address:  
-Addicted 2 Decorating  
-c/o Kristi Linauer Interiors  
-1214 Baylor Ave. #110  
-Waco, Texas 76706 USA
+Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our site. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
-E-mail:  
+**How to Contact Us**
+
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email.
+
 addicted2decorating@live.com
-
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
