@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726142457id_/https%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515042843id_/https%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
 
 # CamStudio - Our Privacy Policy
 
-[](http://www.honesteonline.com/members/consumerpage.php?company=138&link=519)
+[](https://www.honesteonline.com/members/consumerpage.php?company=138&link=519)
 
 Camstudio.org is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. 
 
@@ -22,13 +22,13 @@ Google, as a third-party vendor, uses cookies to serve ads when you visit our we
 
 You may opt out of the use of the Google's and DoubleClick's DART cookie by visiting the Google ad and content network privacy policy page at: 
 
-<http://www.google.co.uk/privacy_ads.html>
+[http://www.google.co.uk/privacy_ads.html](https://www.google.co.uk/privacy_ads.html)
 
 Camstudio.org has no access to or control over these cookies that are used by third-party advertisers. Camstudio.org's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-We may use [third-party advertising companies](http://d7r1ox5aceffx.cloudfront.net/pp.html) to serve ads when you visit our website.
+We may use [third-party advertising companies](https://d7r1ox5aceffx.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 ## **Children’s Privacy**
 
@@ -50,4 +50,4 @@ We can be reached by contacting: **privacy @ camstudio . org (remove spaces)**
 
 Click Here To Return To The Previous Page 
 
-[](http://www.honesteonline.com/members/consumerpage.php?company=138&link=519)
+[](https://www.honesteonline.com/members/consumerpage.php?company=138&link=519)
