@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the nakedwines.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228182717id_/https%3A//www.nakedwines.com/terms%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedwines.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515162231id_/https%3A//www.nakedwines.com/terms%23privacy-policy) for the most accurate reproduction.*
 
 # Terms and conditions | Naked Wines
 
-#### Vouchers, Gift Cards and Gift Certificates
+## Terms and Conditions
+
+If you can't find what you're looking for, call us on 01603 281869, chat to us via Live Chat or email [help@nakedwines.com](mailto:help@nakedwines.com)
+
+### The small print
+
+  1. By placing an order with Naked Wines you are confirming that you are 18 or older. It is illegal for us to sell alcohol to anyone under the age of 18.
+  2. When you give Naked Wines your credit or debit card details you are confirming that you are either the card holder, or that you have permission from the card holder to use the card for the purpose of ordering wine. N.B. If you're claiming a free case of wine, gifted by one of our partners for example, you will still need to provide us with card details - even if we're not charging you anything.
+  3. No payment will be taken from your card until the goods you have ordered are dispatched from our warehouse, or your monthly Angels payment / MarketPlace payment (if appropriate) is due. Please note, when you place an order, we will securely store your card details so it's easier for you to place any future orders, but we will never take payment from your card unless you authorise us to do so.
+  4. We reserve the right to cancel any orders we cannot fulfill for any reason. If your order is cancelled we will contact you to explain why and refund any money you have paid us for that order.
+  5. Our standard delivery service is next day (Monday to Saturday) to most UK addresses, when you order before 5pm. The delivery charge is £4.99 OR it's free if you spend £100 or more. We also offer guaranteed delivery before noon on Saturday for £6.99. N.B. Some sale cases may be exempt from free delivery (which we'll make clear on the website) - and if you're using a voucher or a gift card to buy your wine, or claiming a free bottle, you have to spend £100 of your own money to qualify for free delivery. If we are swamped with orders, we will bring the 5pm cut-off forward so that we can keep our promise to the customers who have already ordered. 
+  6. We are unable to guarantee delivery dates to some areas of the UK (see the full list of out-of-area postcodes listed [here.](https://web.archive.org/terms#outofarea)
+  7. If your order goes missing, or is damaged, between dispatch and delivery, we will send you a replacement order as soon as we can. If we are unable to dispatch replacement goods within 7 days we will offer you a full refund. For these purposes, delivery takes place when products are left at your delivery address or with someone else in accordance with your instructions.
+  8. For your own safety we reserve the right to contact your card issuer for the purposes of carrying out security checks.
+  9. Any promotions, discounts or vouchers are single use only and not to be used in conjunction with any other promotion, discount or voucher unless otherwise stated.
+  10. There are certain products, such as pre-order deposits and tasting tickets, where you can only use cash to buy them. By cash we mean money you've deposited into your Naked Wines account, Fine Wine Bond interest or payment by credit / debit card. If you have any additional credits in your account, these won't come off the value of your order if ordering these products. 
+  11. Products offered by us are displayed on our website(s) in 'real time'. This is to say that any product may be withdrawn from offer without notice.
+  12. If for some reason we are unable to fulfil your exact order, we reserve the right to substitute up to 3 bottles with similar wines of at least the same value as the wine you ordered. Of course, the 3 substitute bottles are covered by our money back guarantee as set out below. If we need to substitute more than 3 bottles in any one order we will put your order on hold and contact you for further instructions.
+  13. All of our wines are covered by our money-back-guarantee i.e. if you're unhappy with the wines then we'll give you your money back. Please note that if you need to return your wines to us, we'll either arrange collection or we're happy to collect from a local Majestic (just drop us a call first).
+  14. So the recipient knows who the gift is from, you agree to your name and postcode being shown under your personal message for gifts you send from Naked Wines. The message and your details can't be seen in transit, and are only revealed when the recipient peels back the gift message label to read your personal message underneath.
+
+
+
+### Vouchers, Gift Cards and Gift Certificates
 
 If you're lucky enough to receive a voucher or gift card from one of our partners, OR a gift certificate from a friend, here's how they work:
 
@@ -48,7 +71,7 @@ If you're lucky enough to receive a voucher or gift card from one of our partner
 
 We honour vouchers honestly earned from our partners, but the majority of our money-off vouchers (and some of our gift vouchers) are for new customers only. So if you're an existing customer who has already used a voucher, you won't be able to redeem a second one, but you're welcome to pass it to a friend!. N.B. We reserve the right to close your account(s!) if we suspect that you are downloading and redeeming vouchers from a voucher site, EVEN IF you set-up multiple accounts in the name of your pet hamster and vole. It is just not fair on us, our winemakers and other customers. We reserve the right to modify or cancel our vouchers/offers without notice. 
 
-#### Wall Posts
+### Wall Posts
 
   1. If you post a comment on any of the public walls around the site (i.e. the Winemaker walls, the Wine Page walls and your Naked Me profile wall), your comments will be in the public domain and will therefore be visible to anyone who visits the site.
   2. Again, wine ratings and comments posted on your 'Naked Me' profile page will be fed through to the relevant wine page, and therefore visible to anyone who visits the site.
@@ -56,7 +79,7 @@ We honour vouchers honestly earned from our partners, but the majority of our mo
 
 
 
-#### Standard Angel Terms and Conditions:
+### Standard Angel Terms and Conditions:
 
   1. When you become a Naked Angel, you'll be helping our network of talented winemakers to make delicious wines, for less.
   2. You support them by investing £20 a month (or any multiple of £10) into your Naked Wines account towards your next order, yours to spend on ANY of our wines, whenever you want.
@@ -69,8 +92,7 @@ We honour vouchers honestly earned from our partners, but the majority of our mo
   6. VOUCHERS AND GIFT CARDS: If you have a promotional money-off voucher in your account, or a gift voucher / gift card, these are only redeemable against the standard price, not the Angel price, unless otherwise stated. N.B. If we offer you a voucher when you join our Angel waiting list, these are valid against the standard price whilst you're on the waiting list, OR the Angel price as soon as you get your wings.
   7. GIFT CERTIFICATES: As these are like money, there is no Angel discount when buying Naked Wines Gift Certificates BUT you will still receive your Angel discount when you spend a gift voucher.
   8. You can cancel your Naked Angel Account at any time, and get your money back - with no penalty whatsoever (see point 9). You can cancel online on your account page, via email at [hello@nakedwines.com](mailto:hello@nakedwines.com) OR by calling us on 01603 281869. Please note, that if you have any vouchers OR Fine Wine Bond Wine Credits in your account, we cannot refund these - as they are not cash nor are they convertible into cash. But as mentioned above, you will get back every unspent penny that you've paid in!
-  9. In case you were wondering whether the money in your Naked Wines' account is safe, you will be pleased to know that: 
-    * The funds are kept in a separate company, Naked Wines Prepayment Trustee Company Limited, so that if anything goes wrong with Naked Wines, your money remains secure. Naked Wines can only draw on the money for the specific purpose of funding independent winemakers.
+  9. In case you were wondering whether the money in your Naked Wines' account is safe; the funds are protected by our ultimate parent company guarantee so that if anything goes wrong with Naked Wines your money remains secure. 
   10. Closing an Angels account when someone dies: we understand that it can be overwhelming to sort practical matters when someone close to you dies so we want to make it as simple as possible. Call us on 01603 281869 and we'll do our best to help. If the bank account linked to the Angels account is still active or even if frozen we can return any remaining funds immediately. If this is not possible we will require a copy of the death certificate and proof of executor details before we can release any funds to the executor by cheque. 
 
 
@@ -85,7 +107,7 @@ None whatsoever. If you join the waiting list, you can leave at any point (altho
 
 N.B. If we offer you a reward when you join the waiting list (for example some free wine or a voucher) - any conditions surrounding this reward will be made clear at the time.
 
-#### Naked MarketPlace
+### Naked MarketPlace
 
   1. Naked MarketPlace is a place for us to show you the PICK of the parcels offered to us, at the best price we can negotiate for you. The deals are set up so that everyone wins: 
     * You our customers get a better deal on the parcel than you can any other way
@@ -115,7 +137,7 @@ N.B. If we offer you a reward when you join the waiting list (for example some f
 
 For a full list of Q and As, please [click here](https://web.archive.org/help#marketplace). 
 
-#### Pre-order cases
+### Pre-order cases
 
   1. We may invite you to pre-order wines that are currently out of stock, for future delivery.
   2. We typically ask you to put down a £10 deposit to secure 6 bottles.
@@ -128,7 +150,7 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
 
 
 
-#### Text For Wine
+### Text For Wine
 
   1. As of the start of August 2015, we've introduced a new service where customers can order wine via text message!
   2. This service will runs (Mon-Fri 9am-5:30pm, Sat 9am-1pm) \- and we'll aim to reply to all texts within 20 minutes.
@@ -142,7 +164,7 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
 
 
 
-#### Naked Beer Subscription Service
+### Naked Beer Subscription Service
 
   1. Our Naked Beer subscribers receive a selection of craft beers from small, independent UK breweries. Each case contains 20 bottles is delivered quarterly. You can sign up [here](https://web.archive.org/beer_subscription).
   2. The price of the case (£49.99) will be debited from your registered credit / debit card when each case is shipped. Or if you have any Angel balance sitting in your account, we'll use that up first (excluding any vouchers, which cannot be used towards beer cases).
@@ -153,19 +175,18 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
 
 
 
-#### Naked Fine Wine Discovery Club
+### Naked Fine Wine Discovery Club
 
   1. Our Naked Fine Wine Discovery Club members receive a selection of fine wines every other month, along with full winemaking and tasting notes to swot up while you drink! 
-  2. The introductory 4-pack costs £60 and will be debited from your registered credit / debit card when each case is shipped. Or if you have any Angel balance sitting in your account, we'll use that up first (excluding any vouchers).
-  3. Subsequent cases contain 6 bottles and cost £90\. 
-  4. Delivery for Fine Wine Discovery Club cases is always free! 
-  5. We'll email you roughly 7 days before each case is due so if the timing's not right, you can postpone your order by a month or skip a case. If you skip your case you’ll receive an email in 2 months when the next case is ready to check you’d like us to send it. There’s no limit to how many times you can skip a case - you’re in control. 
-  6. Unfortunately you can't add any additional bottles to your case as it is specially packed just for Fine Wine Discovery Club members. 
-  7. You can cancel your membership to the club and get your money back at any time if you're not happy - just email [help@nakedwines.com](mailto:help@nakedwines.com) and we’ll do the rest. 
+  2. Fine Wine Discovery Club cases contain 6 bottles and cost £99.99. 
+  3. Delivery for Fine Wine Discovery Club cases is always free! 
+  4. We'll email you roughly 7 days before each case is due so if the timing's not right, you can postpone your order by a month or skip a case. If you skip your case you’ll receive an email in 3 months when the next case is ready to check you’d like us to send it. There’s no limit to how many times you can skip a case - you’re in control. 
+  5. Unfortunately you can't add any additional bottles to your case as it is specially packed just for Fine Wine Discovery Club members. 
+  6. You can cancel your membership to the club and get your money back at any time if you're not happy - just email [help@nakedwines.com](mailto:help@nakedwines.com) and we’ll do the rest. 
 
 
 
-#### Beer Cases
+### Beer Cases
 
   1. Our beers are pre-packed into custom made boxes so unfortunately case contents cannot be changed. Wine ordered alongside beer cases will be shipped in a separate case (standard delivery conditions apply e.g. minimum order of 6 bottles, or 12 bottles in order to claim your monthly free bottle of wine).
   2. All our beers are covered by our money back guarantee, i.e. if you're unhappy with the beers then we'll give you your money back. We will offer a credit for any beers you do not like, and a refund for any faulty beers.
@@ -173,11 +194,11 @@ For a full list of Q and As, please [click here](https://web.archive.org/help#ma
 
 
 
-#### Out Of Area Postcodes
+### Out Of Area Postcodes
 
 Our standard delivery service (i.e. next working day) does not apply to certain postcodes. Please see below for a list of exceptions. Also, please note that we don't offer Saturday delivery to any of the postcodes listed below. 
 
-  * Orders to the following postcodes take 2 days to arrive: AB10 to AB56, AB99, BT1 to BT49, BT51 to BT58, BT60 to BT71, BT74 to BT82, BT92 to BT94, DD6 to DD11, FK18 to FK21, IM1 to IM9, IM99, IV1 to IV28, IV30 to IV32, IV36, IV40, IV52 to IV54, IV63, KA27, KA28, KW1 to KW3, KW5 to KW14, KY9, KY10, KY15, KY16, PA20 to PA33, PA35 to PA 38, PA49, PH5 to PH26, PH30 to PH39, PH49, PH50, PO30 to PO41, TD1 to TD14.
+  * Orders to the following postcodes take 2 days to arrive: AB10 to AB56, AB99, BT1 to BT49, BT51 to BT58, BT60 to BT71, BT74 to BT82, BT92 to BT94, DD6 to DD11, EH35 to EH46, FK18 to FK21, IM1 to IM9, IM99, IV1 to IV28, IV30 to IV32, IV36, IV40, IV52 to IV54, IV63, KA27, KA28, KW1 to KW3, KW5 to KW14, KY9, KY10, KY15, KY16, PA20 to PA33, PA35 to PA 38, PA49, PH5 to PH26, PH30 to PH39, PH49, PH50, PO30 to PO41, TD1 to TD14.
   * Orders to the following postcodes take 3 days to arrive: TR21 to TR25.
   * Orders to the following postcodes take up to 4 days to arrive or a little longer in very remote areas: HS1 to HS9, IV41 to IV49, IV51, IV55, IV56, KW15 to KW17, PA34, PA41 to PA48, PA60 to PA78, PA80, PH40 to PH44, ZE1 to ZE3.
 
@@ -185,9 +206,9 @@ Our standard delivery service (i.e. next working day) does not apply to certain 
 
 We are unable to accept orders to either JE or GY postcodes.
 
-#### Click and collect
+### Click and collect
 
-  1. We offer a Click and Collect delivery option to 200+ Majestic stores throughout the UK (see full list and opening times [here](https://web.archive.org/web/20181228182717id_/https%3A//www.nakedwines.com/store-locations-page.html))
+  1. We offer a Click and Collect delivery option to 200+ Majestic stores throughout the UK (see full list and opening times [here](https://web.archive.org/web/20190515162231id_/https%3A//www.nakedwines.com/store-locations-page.html))
   2. We'll offer this as an option on the checkout page, so look out for a big blue button!
   3. Click and Collect delivery is free, except if you're a new customer purchasing a discounted case. You'll have up to 5 working days to collect your wines once they have arrived
   4. When collecting your wines, you'll need to give the Majestic store staff your email address and your order number, to prove you've paid for the wines.
@@ -199,7 +220,7 @@ We are unable to accept orders to either JE or GY postcodes.
 
 
 
-#### Cookie Information
+### Cookie Information
 
 In common with most websites, [www.nakedwines.com](https://www.nakedwines.com/) uses "cookies". Cookies are small snippets of text that are stored on your computer. When you request a page from our website, the cookies are sent to our web server, and when we send a page back to you our server may add to or change these cookies. Without cookies, we would not be able to know that you are the same person from page to page. 
 
@@ -239,7 +260,7 @@ www.nakedwines.com | rememberme | User Experience - Allows us to identify custom
 www.nakedwines.com | SESSION | User Experience - Allows us to Identify customers within sessions |  |   
 www.nakedwines.com | cid | User Experience - remembers which country (US or UK) you want to see. |  |   
   
-#### Recommending a friend
+### Recommending a friend
 
 **To the person sending an invite:**
 
@@ -266,7 +287,7 @@ www.nakedwines.com | cid | User Experience - remembers which country (US or UK) 
 
 
 
-#### Non-cookie based tracking
+### Non-cookie based tracking
 
 #####  Email tracking 
 
@@ -280,20 +301,96 @@ By registering on our website, you are consenting to us tracking when you open a
 
 (link cookie policy to [http://www.adestra.com/cookie-policy/](https://www.adestra.com/cookie-policy/)) 
 
-#### WineWizard
+### Wine Concierge and other services terms and conditions
 
-  1. Our WineWizard service is the wine club for people who hate wine clubs… and don't have the time to browse and build their own cases.
-  2. Signing-up to our WineWizard service guarantees you a bundle of seasonal wines, delivered to your door every 1, 2 or 3 months. You decide.
-  3. The wines are picked to match your tastes - and you tell us how many bottles you want (12, 15 or 18) and whether you want red, white or mixed.
-  4. The price of the case (which is always better than the Angel price) will be debited from your registered credit / debit card when each case is shipped. Or if you have any Angel balance sitting in your account, we'll use that up first (excluding any vouchers, which cannot be used towards Wine Wizard cases).
-  5. We'll email you roughly 7 days before each case is due (confirming the wines and the price), and if the timing's not right, you can postpone or skip your order.
-  6. Plus, if you don't like the look of any of the wines in the case, we'll suggest some replacements we think you will like! The wines in your case are subject to availability, so we reserve the right to substitute any of the wines between emailing you and shipping your wines - but we will pick similar wines, of the same value if not higher.
-  7. Please note, unfortunately you can't add any additional bottles to your WineWizard case.
-  8. Ps. Delivery is always free on your WineWizard case and you can cancel your membership and get your money back at any time if you're not happy - so there's nothing to lose!
+  1. Our Wine Concierge service is the perfect solution for busy folk who’d like someone to do their wine shopping for them.
+  2. It’s our job to make sure you have a wine rack full of wines you’re going to love, and as a Wine Concierge member, you only pay us when we get it right (if we offer you 'Try Before You Buy' - more on that below!).
+  3. You can sit back and let us do everything for you, or you can be really specific if you want to.
+  4. The sit back route: 
+    * Pop you name on the Wine Concierge list 
+    * We’ll send you a case of wines to get you started 
+    * If we know what you enjoy, we’ll customise the wines to your taste… 
+    * ...if not, we’ll send you some crowd-pleasing customer favourites 
+    * You drink them (the hard part) 
+    * And ideally you tell us what you think (with just a couple of clicks) 
+    * We’ll only bill you for the wines you’ve told us you love (if we offer you ‘Try Before You Buy’ - more on that below) 
+    * And when you’re running low, we’ll send you your next case to enjoy… 
+  5. The more specific route: 
+    * All of the above! But you can hop online and give us more specific instructions: 
+    * How frequently you want to receive a case (every 1, 2 or 3 months) 
+    * Whether you want to receive a mixed, all red or all whites case 
+    * An indication of the kind of price you’re comfortable paying 
+    * Plus how many bottles you’d like to receive in each case (12, 15 or 18). 
+
+A few practical bits...
+
+  6. We’ll send your wine to your default delivery address (which you can update at any time [here](https://web.archive.org/account/addresses)). 
+  7. If the timing isn't right, you’re welcome to postpone or skip your case. Plus, if you don’t like the sound of the wines we’ve chosen for you, you can edit your case online or by contacting our Customer Happiness Team before we pop them in the post. 
+  8. There are no tie-ins or contracts, and you can cancel your membership at any time. Plus our usual money-back guarantee applies i.e. you only pay for wines you love 
+  9. We also reserve the right to cancel your Concierge membership at any point if we don't think we're right for one another. 
+  10. For our full standard terms and conditions, please [take a look here](https://web.archive.org/terms). 
 
 
 
-#### Making a complaint
+What will my Wine Concierge cases cost?
+
+If you're on 'Try Before You Buy', you've got nothing to pay upfront! We'll bill you 30 days after we've created your order (or the day after you’ve been online and told us what you think of all the wines in your case, if earlier), and then you'll pay the list price for each of the wines in your case. If you're an Angel and pay £20 a month into your Naked Wines account (or if you become an Angel), then you get preferential prices and you pay the Angel price for each of the wines in your case. 
+
+When you pop your name down for Wine Concierge, we’ll ask you to tell us the average amount you typically spend on a bottle: between £7 and £10, between £10 and £15, or over £15, and every time you need a top up, we’ll suggest a case we think you’re going to love based on these price-points and your personal preferences. If the price of the recommended case is too much (or too little), we can change your case for you. 
+
+N.B. If you’re a Majestic customer invited to get Naked, you'll also be entitled to Angel prices. 
+
+What’s the delivery charge? 
+
+Most Wine Concierge cases come with free delivery! If you’re new to Naked Wines or if you’re an existing customer ordering a 6-bottle Wine Concierge welcome pack, you may be asked to pay delivery on your first case depending on the case size and offer. The delivery charge will be made clear at the time of purchase. 
+
+What if I want to change the frequency or size of my cases? 
+
+As above, you can change the case size, colour, frequency and price-settings of your Wine Concierge cases in your account page here. Or you can drop us a line and we’ll do it for you. 
+
+How are you so confident you’ll send me wines I’m going to love? 
+
+Every time you use our website or app to tell us whether you’d buy one of our wines again or not, we get to know you and your tastes a little bit better. If you’ve been with us for a while, we’ve created a whizzy algorithm based on your personal preferences, that does all the thinking for you - and picks wines you’ve already told us you love OR wines with a similar style profile. Equally, it avoids wines you’ve told us you didn’t enjoy - and those that are similar. 
+
+If you’re new to Naked Wines, the more you tell us what you enjoy, the better the recommendations going forward! So please download our app or hop onto your Naked Me page to give your wines a thumbs up or thumbs down. 
+
+N.B. Our app is currently available to Angels only. 
+
+Will I still get all of my Angel perks alongside my Concierge cases? 
+
+If you’re an Angel, you’ll only ever pay Angel prices - both on your Wine Concierge cases and when you make ad-hoc purchases yourself! Plus, you’ll still be offered a free sample every month (which you’re welcome to claim on non-Concierge orders as usual), get first dibs on new parcels - and keep all your other perks. 
+
+N.B. You won’t be able to add your free bottle to your Concierge cases as our warehouse team pick and pack these cases separately. 
+
+Try Before You Buy 
+
+  1. As part of our Wine Concierge service, we will offer some customers the option to Try Before You Buy, on both their welcome case and ongoing cases. 
+  2. What’s Try Before You Buy? It’s exactly as it sounds! You buy a case of wine, you pay a delivery charge if it applies, you drink the wines and tell us what you think, and we’ll only charge you for those you love. 
+  3. Why are we offering this? You’re putting your trust in us... and letting us do your shopping for you. So it seems only fair you try before you part with your hard-earned cash! 
+  4. How do we know what you enjoyed? Download our app where you can scan and tell us what you think of your wines (or hop onto your Naked Me page on the site) - and give each of your wines a thumbs up OR a thumbs down. For every wine you give a thumbs down to, we knock the price off the total to pay - and we make sure we never send it to you again (or anything similar!). N.B. Our app is currently available to Angels only. 
+  5. At what point do we take payment? We’ll take payment 30 days after your order is created, OR at the point you’ve used our website or app to give a thumbs up or thumbs down to all of your wines, whichever is the earliest. If you’ve not had a chance to drink and tell us what you think of all of your wines within 30 days, we will take payment on the 30th day, but our usual commitment still applies, i.e. if you tell us you didn’t enjoy something at a later date, we will give you your money back. 
+  6. Where will we take payment from? We will take payment from your registered debit / credit card, in combination with any Angel balance or credit you may have on your account. We’ll give you the heads up before processing the transaction - and will let you know once we’ve taken the monies. If for any reason we can’t take payment (i.e. your card has expired for example), we’ll use any back-up cards registered on your account or we’ll be in touch to request new card details. 
+  7. If you’re offered Try Before You Buy, but you’d prefer to pay what you owe upfront, you can edit your payment settings by giving us a call, after you've received your sign-up case. And don’t worry, we will still offer you your money back if you pay for something you don’t love! 
+  8. If we’ve offered you an introductory case for a total spend of £4.99* (equivalent to our standard delivery charge), you will only pay that amount for the wines in that case, including the delivery charge.   
+*Or the cost of our standard delivery charge
+  9. Please note: we reserve the right to withdraw our offer of Try Before You Buy at any point and we reserve the right to take funds earlier than the 30th day if we see fit. 
+  10. If you’re not offered Try Before You Buy, you will pay for your Wine Concierge cases at the point your wine ships. But rest assured, our standard money back guarantee still stands, i.e. we will refund you for anything that isn’t your cup of tea - so there’s still absolutely no risk! 
+
+
+
+Wine Concierge introductory vouchers
+
+  1. If we've offered you an introductory voucher for Wine Concierge, our standard voucher [terms and conditions](https://web.archive.org/terms#vouchers) apply.
+  2. In addition, please note:
+    * Introductory vouchers may only be redeemed against your first order with Naked Wines 
+    * Your voucher may be redeemed against a six-bottle Wine Concierge Taster case, or any purchase of 12 or more bottles from our range. 
+    * Wine Concierge is limited to one membership per household or account
+    * By claiming your voucher, you agree to share your personal data with us under the terms of our privacy policy
+    * The voucher holds no cash value, is non-transferable and not for sale, and due to licensing laws isn’t valid at Majestic Calais, or in Scotland, but Scottish customers are welcome to pop into their local Majestic store and receive a surprise treat.
+
+
+
+### Making a complaint
 
 We'll do everything we can to resolve any complaint you may have. You can reach our Customer Happiness Team by phone on 01603 281869 or Live Chat (Mon-Fri 9am-5:30pm, Sat 9am-1pm). Alternatively, you can email us at [help@nakedwines.com](mailto:%20help@nakedwines.com).
 
@@ -309,7 +406,7 @@ Milton Keynes
 MK12 5TW  
 020 3540 8063 
 
-#### Our privacy policy
+### Our privacy policy
 
 ##### **1\. Introduction**
 
@@ -323,16 +420,16 @@ Please read this policy carefully to understand our views and practices regardin
 
 In this section we outline how we may process your personal data. All personal data we process falls into one or more of the following categories: 
 
-  * Order data
-  * Date of birth data
-  * Transaction data
-  * Financial data
-  * Internal social data
-  * Usage data
-  * Communication data
-  * Enquiry data
-  * Digital marketing data
-  * CCTV
+  * Order data;
+  * Date of birth data;
+  * Transaction data;
+  * Financial data;
+  * Internal social data;
+  * Usage data;
+  * Communication data;
+  * Enquiry data;
+  * Digital marketing data; and
+  * CCTV.
 
 
 
@@ -340,13 +437,13 @@ We may process your order data (" **order data** "). The order data may include 
 
 We may process your date of birth (“ **date of birth data** ”). Your date of birth will be processed for the purposes of confirming you are 18 or over and therefore legally able to purchase alcohol. The legal basis for this processing is compliance with legal obligations, namely the Licensing Act 2003. 
 
-We may process your transaction data (“ **transaction data** ”). The transaction data may include information relating to your previous transactions, including purchases of goods or services and Angel payments. The transaction data may include your name, billing address, delivery address, telephone number, email address and purchase history. It may be processed for the purposes of supplying the purchased goods or services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us. 
+We may process your transaction data (“ **transaction data** ”). The transaction data may include information relating to your previous transactions, including purchases of goods or services and Angel payments. The transaction data may include your name, billing address, delivery address, telephone number, email address and purchase history. It may be processed for the purposes of supplying the purchased goods or services and keeping proper records of those transactions. The legal basis for this processing is the performance of a contract between you and us. Your transaction data may also be used to personalise offers and messages based on the products you order. The legal basis for this processing is our legitimate interests, namely providing better services to you including marketing based on your preferences. If you do not wish to receive personalised offers, you can exercise your right to object. 
 
 We may process financial information (“ **financial data** ”) you share with us. The financial data may include your encrypted card details, name and billing address. The financial data may be processed for the purposes of processing your Angel payments, speedy check-out, easy refunds and to prevent fraud. The legal basis for this processing is the performance of a contract between you and us. 
 
 We may process information that you post for publication on our website or app, such as wall posts or product ratings and reviews (" **internal social data** "). This internal social data is public, and may be processed for the purposes of enabling interaction on the website or app between customers, winemakers and staff, and providing feedback to our winemakers on their products. We may also use your posts or reviews in our marketing materials to help us tell other customers about our products and services. In instances where internal social data is stored in an unstructured format (such as free text reviews and wall posts) it is exempt from our data retention rules, however may be deleted upon request. The legal basis for processing internal social data is consent. 
 
-We may process data about your use of our website or app, and reaction to our emails and services (" **usage data** "). The usage data may include your geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The sources of the usage data are our analytics packages (including, but not limited to Google Analytics) and email service providers. This usage data may be processed for the purposes of analysing the use of the website, emails and services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our website and services. 
+We may process data about your use of our website or app, and reaction to our emails and services (" **usage data** "). The usage data may include your geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use and your ratings. The sources of the usage data are our analytics packages (including, but not limited to Google Analytics) and email service providers. This usage data may be processed for the purposes of analysing the use of the website, emails and services. The legal basis for this processing is our legitimate interests, namely monitoring and improving our website and services. Your usage data may also be used to personalise offers and messages to you. The legal basis for this processing is our legitimate interests, namely providing better services to you including marketing based on your preferences. If you do not wish to receive personalised offers, you can exercise your right to object. 
 
 We may process information that you provide to us for the purpose of subscribing to our direct marketing communications (" **communication data** "). The communication data may include your name, email address, postal address, phone number or marketing preferences (update them here: [www.nakedwines.com/account/communicationpreferences](https://web.archive.org/account/communicationpreferences)). This communication data may be processed for the purposes of contacting you with service notifications, such as that your order has been processed, or contacting you with relevant offers and messages. The legal basis for this processing is performance of a contract for service notifications and legitimate interests for direct marketing communications. 
 
@@ -368,16 +465,23 @@ We do not, and will not, sell any of your personal data to any third party – i
 
 However, we may disclose your personal data with the following categories of companies as an essential part of being able to provide our services to you, as set out in this policy: 
 
-  * To any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy
-  * To our insurers and professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice
-  * To companies approved by you, such as Facebook and other social media sites (if you choose to link your accounts to us)
-  * To companies that we engage to provide database profiling and de-duping services to give us insights about our existing and potential customers
-  * To companies that do things to get your wine orders to you, such as warehouses, order packers and delivery companies
-  * To deliver exciting news and offers to you we will use postal printing and mailing, as well as email and third party marketing service providers
+  * to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy;
+  * to our insurers and professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice;
+  * to companies approved by you, such as Facebook and other social media sites (if you choose to link your accounts to us);
+  * to companies that we engage to provide database profiling and de-duping services to give us insights about our existing and potential customers;
+  * to companies that do things to get your wine orders to you, such as warehouses, order packers and delivery companies; and
+  * to deliver exciting news and offers to you we will use postal printing and mailing, as well as email and third party marketing service providers.
 
 
 
 Financial transactions relating to our website, app and stores are handled by our card payment service providers. We will share transaction data with our payment service providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. 
+
+We will also disclose your information to third parties: 
+
+  * in the event that we take steps to sell or merge any of our business or assets (including by way of merger, share or asset sale), in which case we will disclose your data to the prospective buyer or merged entity; or
+  * if we or substantially all of our assets are acquired by a third party, in which case information held by us about you will be one of the transferred assets.
+
+
 
 In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data with law enforcement and fraud prevention agencies, so we can help tackle fraud or where such disclosure is necessary for compliance with a legal obligation to which we are subject, in order to protect your vital interests or the vital interests of another natural person, or in connection with the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative out-of-court procedure. 
 
@@ -454,9 +558,7 @@ We may update this policy from time to time by publishing a new version on our w
 
 As a company we do not have a data protection officer, but we do have a team trained to help with any data protection query. If you have any concerns or questions about how we protect your privacy, please contact the team either on [help@nakedwines.com](mailto:help@nakedwines.com) or on [dataprotection@majestic.co.uk](mailto:dataprotection@majestic.co.uk)
 
-This privacy policy was amended 23/08/2018
-
-#### Recruitment Data Retention
+### Recruitment Data Retention
 
 As part of the recruitment process Naked Wines Ltd will process any personal data you have provided for the purposes of considering you for suitable employment vacancies, communicating with you at various stages in the selection process, for on-boarding successful applicants and for retaining the applications of unsuccessful applicants in the form of a “talent pool” database. Naked Wines Ltd will be acting as Data Controller for these purposes. 
 
