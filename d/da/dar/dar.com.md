@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825232755id_/http%3A//www.dar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dar.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515070442id_/https%3A//dar.com/privacypolicy) for the most accurate reproduction.*
 
 # Dar Al-Handasah - Privacy Policy
 
@@ -27,7 +27,7 @@ We may share your information with selected third parties including:
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20180825232755id_/Legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we, or substantially all of our assets, are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply [our terms of use](https://web.archive.org/web/20190515070442id_/Legal) and other agreements; or to protect our rights, property, or safety, our affiliates, partners customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -73,7 +73,7 @@ From time to time the Website may include Social Media Features, such as the Fac
 
 #### 6\. Cookies and Other Tracking Technologies
 
-For information on cookies, please see [our Cookie Policy](https://web.archive.org/web/20180825232755id_/CookiePolicy).
+For information on cookies, please see [our Cookie Policy](https://web.archive.org/web/20190515070442id_/CookiePolicy).
 
 #### 7\. Security of information and transmission via the internet
 
