@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upvid.mobi privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114023953id_/http%3A//upvid.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upvid.mobi privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515082243id_/http%3A//upvid.mobi/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # file sharing service
 
