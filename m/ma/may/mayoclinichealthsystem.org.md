@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinichealthsystem.org privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201103613id_/http%3A//www.mayo.edu/pmts/mc5200-mc5299/mc5256-01.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinichealthsystem.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515093046id_/http%3A//www.mayo.edu/pmts/mc5200-mc5299/mc5256-01.pdf) for the most accurate reproduction.*
 
 # Your Information.Your Rights. Our Responsibilities.
 
