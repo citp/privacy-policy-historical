@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenedonlineshop.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507182129id_/http%3A//www.tenedonlineshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenedonlineshop.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515073625id_/https%3A//www.tenedonlineshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Health Shop
 
@@ -58,3 +58,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 15, 2016
+
+[](https://www.pinterest.com/pin/create/button/)
