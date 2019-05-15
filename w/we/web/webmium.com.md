@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmium.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111172921id_/http%3A//webmium.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmium.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515131103id_/http%3A//webmium.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
