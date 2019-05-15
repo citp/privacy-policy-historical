@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the concursolutions.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821222554id_/https%3A//www.concur.com/en-us/processor-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concursolutions.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515041104id_/https%3A//www.concur.com/en-us/processor-privacy-statement) for the most accurate reproduction.*
 
 # Concur Technologies Processor Privacy Statement - SAP Concur
 
 ## Concur Processor Privacy Statement
 
 Last Updated: March 1st, 2018
+
+[Français](https://www.concur.fr/processor-privacy-statement) – [Deutsch](https://www.concur.de/processor-privacy-statement) – [Italiano](https://www.concur.it/processor-privacy-statement)
 
 This privacy statement provides an overview of how Concur Technologies, Inc. and its related corporate affiliates collect, use, store and otherwise process information about you, as well as your choices, as you use Concur business applications like Concur Travel, Expense, or Invoice ("Concur Services") for which your company, institution or other providing entity ("Company") has subscribed. This privacy statement does not cover the use of data by Concur outside of the Concur Services. See Concur's Privacy Policy at [https://www.concur.com/en-us/privacy-policy](https://web.archive.org/en-us/privacy-policy) concerning information collected for sales and marketing purposes and Concur's public-facing corporate and marketing websites.
 
@@ -61,7 +63,7 @@ Concur may share Personal Data with its global corporate affiliates and their ag
 
 Personal Data about you in the Concur Services is available to your Company and those other users, persons or third parties to which your Company chooses to provide access. Your Company may direct Concur to make information including Personal Data available to third parties through Concur APIs. As permitted under our agreement for the Concur Services, Concur may also share Personal Data with business partners, service vendors, authorized third-party agents or contractors in order to provide the Concur Services, including processing transactions, website hosting, customer or technical support, or analytics.
 
-Concur does not sell or rent your Personal Data to third parties for marketing purposes unless you have separately granted us permission to do so. For more information on any use of your Personal Data for marketing purposes, please refer to our Concur Privacy Policy at https://www.concur.com/en-us/privacy-policy.
+Concur does not sell or rent your Personal Data to third parties for marketing purposes unless you have separately granted us permission to do so. For more information on any use of your Personal Data for marketing purposes, please refer to our Concur Privacy Policy at <https://www.concur.com/en-us/privacy-policy>.
 
 As described above, you may choose to link the Concur Services to certain third party sites or services and authorize access, such as through the Concur App Center, enrolling in My Travel Network, or connecting to personal applications like TripIt or Hipmunk. When connected with TripIt, travel itineraries will be automatically synced between your accounts. This can include personal trips contained in TripIt unless you exclude such trips. When connected with Hipmunk, Concur and your Company will share basic information about trips you book and profile and payment information to enable you to receive corporate travel discounts and benefits, if applicable.
 
@@ -90,6 +92,6 @@ Concur uses appropriate standard security technology and organizational measures
 
 ### UPDATES AND QUESTIONS
 
-If Concur changes this privacy statement, Concur will post those changes and change the "last updated" date above. Concur may do this at any time without notice. If you have questions or concerns regarding this privacy statement, you must first contact your Company. If you do not receive acknowledgment of your inquiry, you may direct your inquiry to Concur's privacy coordinator at privacy-request@concur.com or to your local data protection authority.
+If Concur changes this privacy statement, Concur will post those changes and change the "last updated" date above. Concur may do this at any time without notice. If you have questions or concerns regarding this privacy statement, you must first contact your Company. If you do not receive acknowledgment of your inquiry, you may direct your inquiry to Concur's privacy coordinator at [privacy-request@concur.com](mailto:privacy-request@concur.com) or to your local data protection authority.
 
 ### ***
