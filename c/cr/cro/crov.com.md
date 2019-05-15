@@ -1,58 +1,47 @@
-> *The following text is extracted and transformed from the crov.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214114324id_/http%3A//crov.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crov.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515082537id_/https%3A//www.crov.com/info/policy.html) for the most accurate reproduction.*
 
-# Security & Privacy
+# Privacy and Cookie Policy | CROV.com
 
-CROV.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](https://web.archive.org/info/agreement.htm) which has to be agreed with by users while visiting our website, provides details of how your information is treated by Focus Technology Co., Ltd (hereinafter referred to as "FOCUS").This policy may be subject to changes without notice. So please check the latest version periodically.
+Privacy Statement: Crov regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices. 
 
-**Our Privacy Policy explains:**
+1\.  Registration
 
-  * What information will be collected by us?
-  * How will we use your information?
-  * What are your and CROV.com's individual responsibilities in regards to privacy protection?
-  * Disclaimers
-  * How can you contact us?
+You may be required to register in order to be granted access to certain services and/or products on this site. At the time of registration, you may be prompted by one of our online forms to provide certain personal or official information to us, including your name, company name, and email address etc. 
 
+Note:Information is not intentionally collected from anyone under the age of 18.
 
+2\.  Registration Data
 
-#### What information will be collected by us?
+The information we collect is used to enhance your visit to the site, for internal tracking and site improvement purposes, to enable us to contact you, and to process your transactions you enter into on our site. You may choose to stop receiving future communications from us. Please see the Opt-Out and Discontinue Sections below.
 
-**Account Data:** We collect all the information in your account on CROV.com,such as your name, address, contact person, telephone number, fax number, email, billing info and etc. This is to enforce the agreement between you and CROV.com, to ensure that you are reachable by potential trade partners, or to troubleshoot problems with your account.
+3\.  Client/Customer Data Access
 
-**Payment and Transaction info:** If you establish an account with us or our providers or if you purchase a product or service from CROV.com or other Registered Users of the Site or other vendors available through CROV.com, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information. If you make sale and purchase transactions online through CROV.com, we also collect information related to such transactions including the types and specifications of the goods, pricing and delivery information, any trade dispute records.
+Clients have access via authenticated (ID & Password) which enables them to gain access and update information in their respective profiles. 
 
-**Hidden Data:** We also collect information recorded when you browse and visit our website, including but not limited to, cookies, IP address, etc. This information is not used to identify you, but for the necessary purpose to avoid being attacked by hackers, and for the purpose of making customized content service to users. Through processing comprehensive statistic analysis, we are endeavoring to provide you with more and more efficient functionalities to facilitate our service. To visit CROV.com , your browser has to be configured to accept cookies.
+Cookies:Cookies are pieces of information that a web site transfers to your end device for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's end device. Most browsers are initially set up to accept cookies.
 
-**Other Information:** Sometimes we may contract with third parties to offer you products or services which we ourselves do not offer. To fully access and use such services, you may be asked to provide certain information.
+IP Addresses: IP addresses are used by your end device every time you are connected to the Internet. Your IP address is a number that is used by end device on the network to identify your device. IP addresses are automatically collected by our server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. Crov will not use your IP address to attempt to identify your personal information.
 
-#### How will we use your information?
+4\.  Sharing of Information
 
-Information, such as name, address, contact person, telephone number, etc., will be posted on CROV.com publicly, and accessible to all users. Users should thus exercise caution when deciding to release any information that is identifiable to you.
+In order to facilitate interaction among Crov users our service may allow you to access certain information about other users in Crov. By entering into our Terms of Use, you agree to treat information about other users of Crov in strict accordance with such Terms of Use. In addition, under no circumstances, except as defined in this section, can you disclose personally identifiable information about another user to any third party without Crov’s consent and the consent of such other user after adequate prior written notice provided to such user. Crov does not sell or rent any personally identifiable information to third parties. Note that law enforcement personnel are given different rights with respect to the information they access.
 
-We may use your information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve website content and product offerings and to customize our Site's content, layout and service specifically for you. We may provide your information to our affiliates and service providers under contract (such as customer care) to support the operation of the Site and our services. If you register or use services or products provided by our affiliates including Made-in-China.com, TTnet.com, Xyz.com, Bfb56.com, etc. we will share your Information with our sites of Focus. Your information includes the information about your use of such affiliates’ services and products. We may use your information to do marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
+5\.  Security
 
-We use "cookies" to keep information about you and track your visits to our Site, which is common for websites to use cookies to enhance identification of their users. 
+Information collected by Crov is stored in secure operating environments that are not available to the public. All of our employees and contractors are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information within our systems, Crov cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Payments can be initiated on our site and are processed by a third party vendor such as PayPal or others. The third party software is integrated into our site and the transmission, security and storage of this data resides with the third party not Crov.
 
-A "cookie" is a small amount of data that is sent to your browser and kept on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access our Site using the computer. If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and so that we may have knowledge of your visit and the pattern of your usage. Normally, we use cookies to identify you and enable us to access your information so you do not have to re-enter it; collect statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.
+6\.  Other Sites and Links
 
-You can determine if and how a cookie will be accepted by configuring your browser's which is installed in the computer you are using to access our Site. If you desire, you can change those configurations in your browser. By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features and functions of our Site may be unavailable.
+This site contains links to other sites, and our partners and affiliates may also have links on this site and/or provide links to this site. Please note that the privacy practices of those other sites and of our partners and affiliates are not covered by this Privacy Policy, and we are not responsible for the privacy practices or the content of such sites, partners, or affiliates. You should be careful to review any privacy policies of such sites, partners, or affiliates.
 
-#### What are your and CROV.com's individual responsibilities in regards to privacy protection?
+7\.  Opt-Out and Discontinue
 
-Once receiving your information, we make our best effort to ensure the stability and security on our systems. We adopt lots of tools, means and technologies to protect your information against unauthorized access, use and disclosure. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure from hacker attacks. Therefore, although we work very hard to protect your information and privacy, we do not promise or guarantee that your information will always be private and safe. We will disclose your information in good faith when we believe that it is necessary to:
+Subscribers may elect to opt-out and to discontinue receiving future communications from us through making the appropriate changes to your personal subscriber account at this site. In addition, you may elect to avoid future communications from Crov by sending us an email at [contactus@crov.com](mailto:contactus@crov.com), indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Notwithstanding the forgoing, even if you have opted-out, under urgent circumstances we reserve the right to send you information about the service or your account, but we will not send you unsolicited communications regarding any general information regarding this site or commercial offers or advertisements if you have opted out or discontinued such communications.
 
-  * 1\. enforce the provisions of CROV.com ;
-  * 2\. protect and defend the rights of CROV.com, other users, or for public interests;
-  * 3\. contract with third party parties to provide you with better value and service;
-  * 4\. conform to national regulations or legal processes.
+8\.  Contact Us
 
+If you have any questions regarding this Privacy Policy, the practices of Crov, or your dealings with our site, please contact us at [contactus@crov.com](mailto:contactus@crov.com)
 
+9\.  Modification of Privacy Policy by Crov
 
-You as a user are strongly recommended to keep your Member ID and password on CROV.com safe and secure. To ensure the safety and security of your information do not divulge your password to others. If you feel that your Member ID or password is for any reason at risk, please contact us immediately.
-
-#### Disclaimers
-
-We are not responsible for the privacy protection methods of other websites who are linked to CROV.com.
-
-#### How can you contact us?
-
-Should you have any suggestion or feedbacks on our Privacy Policy, please [contact us](https://web.archive.org/contact_us?flag=buyer).
+Crov reserves the right to change or update this Privacy Policy at any time.
