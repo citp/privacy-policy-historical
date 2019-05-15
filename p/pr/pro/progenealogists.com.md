@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108130308id_/https%3A//www.progenealogists.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515101031id_/https%3A//www.progenealogists.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - AncestryProGenealogists
 
-AncestryProGenealogists is firmly committed to protecting your privacy choices. We are dedicated to creating, preserving and marketing high quality, detailed and scholarly family history research and tools, while maintaining a constant commitment to client care and service. This often involves the collecting, processing, storing and sharing of personal information and we want to ensure that this is done in a responsible, transparent and secure environment that fosters your trust and confidence. By using this website and the Services and Products available therein you consent to the collection, use, storage and disclosure of your personal information in accordance with this Privacy Statement.  In this Privacy Statement, “ProGenealogists” and “Ancestry” shall mean TGN Services, LLC and its parent Ancestry.com Operations Inc. of 360 W, 4800 N, Provo, UT 84604 (also referred to “us”, “our” or “we”). Ancestry complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  Ancestry has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ancestry’s certification, please visit <http://www.export.gov/safeharbor>.
+AncestryProGenealogists is firmly committed to protecting your privacy choices. We are dedicated to creating, preserving and marketing high quality, detailed and scholarly family history research and tools, while maintaining a constant commitment to client care and service. This often involves the collecting, processing, storing and sharing of personal information and we want to ensure that this is done in a responsible, transparent and secure environment that fosters your trust and confidence.
+
+By using this website and the services and products available therein you consent to the collection, use, storage and disclosure of your personal information in accordance with this Privacy Statement.  In this Privacy Statement, “AncestryProGenealogists” and “Ancestry” shall mean TGN Services, LLC and its parent Ancestry.com Operations Inc. of 1300 W. Traverse Parkway, Lehi, UT 84043 (also referred to “us”, “our” or “we”).
+
+Ancestry, its group companies and service providers in the US and elsewhere process and share the personal information of users from the European Economic Area subject to the standard model contract clauses approved by the European Commission.
+
+This Privacy Statement should be read in conjunction with the AncestryProGenealogists [Terms and Conditions](https://www.progenealogists.com/terms-of-service).
 
 **1.   What personal information is collected?**
 
@@ -80,6 +86,6 @@ This site gives users the following options for changing and modifying informati
 
 You may also reach us at:
 
-Call 1-801-990-5650
+Call 1-801-596-3230
 
-Or write to us at AncestryProGenealogists, PO Box 900188, Sandy, UT 84090-0188
+Or write to us at AncestryProGenealogists, 324 South State Street, Suite 100, Salt Lake City, UT 84111.
