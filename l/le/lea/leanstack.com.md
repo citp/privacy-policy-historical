@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanstack.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210232903id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanstack.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515125748id_/http%3A//ask.leanstack.com/leanstack-terms-and-policies/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ask LEANSTACK
 
