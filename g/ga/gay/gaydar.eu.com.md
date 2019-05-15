@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217000604id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydar.eu.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515202634id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
@@ -44,7 +44,7 @@ You may opt out of the automated collection of information by third-party ad net
 
 ## What about Minors?
 
-This website is not intended for children under the age of 13 and you may not use this website or submit any data to this website if you are under the age of 13. If we find we have collected ant data from anyone under the age of 13, we will delete it. 
+This website is not intended for children under the age of 13 and you may not use this website or submit any data to this website if you are under the age of 13. If we find we have collected any data from anyone under the age of 13, we will delete it. 
 
 ## How do we protect your data?
 
