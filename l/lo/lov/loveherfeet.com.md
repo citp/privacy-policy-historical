@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveherfeet.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427152537id_/http%3A//loveherfeet.com/tour/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveherfeet.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515210149id_/https%3A//loveherfeet.com/tour/pages.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Love Her Feet - Privacy Policy
 
