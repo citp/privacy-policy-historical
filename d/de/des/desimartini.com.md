@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desimartini.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103041704id_/https%3A//www.desimartini.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimartini.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515023004id_/https%3A//www.desimartini.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Desimartini
+# Privacy Policy - Desimartini
 
 **PRIVACY POLICY**
 
