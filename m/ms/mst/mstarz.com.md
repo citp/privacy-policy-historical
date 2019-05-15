@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927113452id_/http%3A//mstarsnews.musictimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515132239id_/http%3A//mstarsnews.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
 # MStarsNews
 
