@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.gov privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228041823id_/https%3A//www.state.gov/misc/415.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.gov privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515080658id_/https%3A//www.state.gov/misc/415.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,7 +91,7 @@ The Department is committed to the protection of children’s online privacy. Th
 
 **Visiting Other Websites**
 
-Our website contains links to international agencies, private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security, or accessibility polices. Once you link to another site, you are subject to the policies of that site. All Federal websites, however, are subject to the same Federal policy, security, and accessibility mandates. 
+Our website contains links to international agencies, private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security, or accessibility policies. Once you link to another site, you are subject to the policies of that site. All Federal websites, however, are subject to the same Federal policy, security, and accessibility mandates. 
 
 **Privacy Policy Contact Information**
 
