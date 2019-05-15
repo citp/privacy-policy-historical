@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814073029id_/https%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515105036id_/https%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # French Today Privacy Policy • French Today
 
@@ -28,8 +28,7 @@ We don’t collect more info than what’s needed to improve your experience.
 
 ## Protecting Your Privacy
 
-At French Today, we are 100% committed to protecting the privacy and security of our customers and site visitors (yes, that’s you). The French Today team members are customers themselves of other internet sites – so we appreciate and respect how important  
-privacy is. If you have any questions about how we Protect Your Privacy, drop us a line at support@frenchtoday.com For all our services, the data controller — the company that’s responsible for your privacy— is French Today.
+At French Today, we are 100% committed to protecting the privacy and security of our customers and site/apps visitors (yes, that’s you). The French Today team members are customers themselves of other internet sites – so we appreciate and respect how important privacy is. If you have any questions about how we Protect Your Privacy, drop us a line at support@frenchtoday.com For all our services, the data controller — the company that’s responsible for your privacy— is French Today.
 
 ## How we use your information
 
@@ -86,6 +85,7 @@ as well as how you use our website and app.
 ---|---  
 Improve our website and set default options for you (such as tax rates and currency) | To give you the best possible shopping experience  
 Protect our website | To prevent and detect fraud against either you or French Today – unfortunate, but absolutely essential — and to meet our legal obligations about looking after your data  
+Improve our iOS, Android, Mac and Windows apps | To give you the best possible mobile and desktop app performance, to track bugs and issue reports, to figure out what features to add and improve on  
   
 **Your responses to surveys, competitions,  
 and promotions**
@@ -100,7 +100,7 @@ with some third parties that help us make sense of this data (with reports, anal
 
 ## Sharing your information
 
-We do not, and will not, sell _any_ of your personal data to _any_ third party – including your name, address, email address or credit card information (which we do not keep anyway). We want to earn and maintain your trust, and we believe this is absolutely essential in order do that. We use a select number of trusted external service providers for certain technical data analysis, processing and/or storage offerings. These service providers are carefully selected and meet high data protection and security standards. We only share information with them that is required for the services offered and we contractually bind them to keep any information we share with them as confidential and to process Personal Data only according to our instructions.
+We do not, and will not, sell _any_ of your personal data to _any_ third party – including your name, address, email address or credit card information (which we do not keep anyway). We want to earn and maintain your trust, and we believe this is absolutely essential in order to do that. We use a select number of trusted external service providers for certain technical data analysis, processing and/or storage offerings. These service providers are carefully selected and meet high data protection and security standards. We only share information with them that is required for the services offered and we contractually bind them to keep any information we share with them as confidential and to process Personal Data only according to our instructions.
 
 We might share your data with the following categories of companies as an essential part of being able to provide our services to you, as set out in this statement:
 
@@ -166,7 +166,7 @@ We may change this page from time to time, to reflect how we are processing your
 Like any other website on the internet, we use cookies when you visit our site. There are four main types of cookies – here’s how and why we use them.
 
   1. Site functionality cookies – these cookies allow you to navigate the site and use our features, such as “Add to Cart” and “Save for Later”.
-  2. Site analytics cookies – these cookies allow us to measure and analyse how our customers use the site, to improve both its functionality and your shopping experience.
+  2. Site analytics cookies – these cookies allow us to measure and analyze how our customers use the site, to improve both its functionality and your shopping experience.
   3. Customer preference cookies – when you are browsing or shopping on frenchtoday.com, these cookies will remember your preferences (like your currency, tax rate or location), so we can make your shopping experience as seamless as possible, and more personal to you.
   4. Targeting or advertising cookies – these cookies are used to deliver ads relevant to you. They also limit the number of times that you see an ad and help us measure the effectiveness of our marketing campaigns.
 
@@ -192,4 +192,7 @@ French Today
 63 Rue de Goas Plat  
 Paimpol 22500 FRANCE
 
-_V1.0 Last changed 10 May 2018_
+_V1.1 Last changed 20 Sept 2018  
+History:  
+V1.1: Added mobile app details – 20 Sept 2018  
+V1.0: First iteration – 10 May 2018_
