@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114034416id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515073305id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
 
 # Starbound - Privacy Policy
 
@@ -155,7 +155,7 @@ We use your Submitted Information to send you emails in order to keep you inform
 
 We may automated decision-making methods which do not involve human involvement to process your information only in the ways that are described in this Privacy Policy.
 
-For instance we use StopForumSpam and if the new user is flagged as spam the user will be informed of the outcome and will have the right to obtain human intervention to express his or her point of view and to contest the decision. If this applies to you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2b1bdbca6b3b1a692b1baa7b1b9beb7b4bba1bafcb1bdbf)  
+For instance we use StopForumSpam and if the new user is flagged as spam the user will be informed of the outcome and will have the right to obtain human intervention to express his or her point of view and to contest the decision. If this applies to you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80e3efeef4e1e3f4c0e3e8f5e3ebece5e6e9f3e8aeeff2e7)  
 
 ****6.   CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE****
 
@@ -171,13 +171,13 @@ Where you have linked your Steam account to any of your social media accounts, y
 
 You can also remove access in your social media settings. If you are using an iOS device, you can opt out of personalised adverts by visiting [https://oo.apple.com](https://oo.apple.com/)
 
-We will obtain your consent to collect your information to be used for marketing purposes that require consent. If you prefer that we do not use your data in this way, let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284b47465c494b5c684b405d4b43444d4e415b40064b4745) or by checking boxes on the forms we use to collect your data.
+We will obtain your consent to collect your information to be used for marketing purposes that require consent. If you prefer that we do not use your data in this way, let us know by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9efdf1f0eafffdeadefdf6ebfdf5f2fbf8f7edf6b0f1ecf9) or by checking boxes on the forms we use to collect your data.
 
 ****8.   YOUR RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU****
 
 You have the following rights over the way we process personal data relating to you, as set out in the table below.  We aim to comply without undue delay and within one month at the latest.
 
-To make a request, please let our Data Protection Officer know via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284b47465c494b5c684b405d4b43444d4e415b40064b4745)  
+To make a request, please let our Data Protection Officer know via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99faf6f7edf8faedd9faf1ecfaf2f5fcfff0eaf1b7f6ebfe)  
 
 **Ask for a copy of data we are processing about you and have inaccuracies corrected**
 
@@ -224,7 +224,7 @@ We will only retain your personal information for as long as necessary to fulfil
 
 ****10.   CHILDREN****
 
-We do not use our Online Services to knowingly solicit information from, or market to, children under the age of 13.  Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f0939f9e84919384b0939885939b9c9596998398de939f9d)  
+We do not use our Online Services to knowingly solicit information from, or market to, children under the age of 13.  Our terms of use prohibit users aged under 13 years from accessing our Online Services. In the event that we learn that we have collected personal information from a child under 13 years of age, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13 years of age, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50333f3e2431332410333825333b3c35363923387e3f2237)  
 
 ****11.   SECURITY****
 
@@ -236,6 +236,6 @@ The data we collect from you may be transferred to, and stored at, a destination
 
 **CONTACT INFORMATION**
 
-All questions, comments or enquiries should be directed to Chucklefish at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#187b77766c797b6c587b706d7b73747d7e716b70367b7775).  We will endeavour to respond to any query or questions within two business days. 
+All questions, comments or enquiries should be directed to Chucklefish at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86e5e9e8f2e7e5f2c6e5eef3e5edeae3e0eff5eea8e9f4e1).  We will endeavour to respond to any query or questions within two business days. 
 
-© 2018 Chucklefish Limited.  All trade marks are the property of the relevant owners. All rights reserved.
+© 2019 Chucklefish Limited.  All trade marks are the property of the relevant owners. All rights reserved.
