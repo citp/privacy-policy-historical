@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the estately.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930153514id_/http%3A//www.estately.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estately.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515204336id_/https%3A//www.estately.com/about/privacy) for the most accurate reproduction.*
 
 # Estately.com - Terms of Use & Privacy
 
-Please read the following to learn more about our privacy policy, which specifies how we collect and use information through your use of the website at [estately.com](https://web.archive.org/) and our mobile apps. We may link or direct users to third party sites and services; we do not control the information collection or use practices of such services, and this policy does not govern them.
+#### Effective March 25, 2017
+
+Please read the following to learn more about our privacy policy, which specifies how we collect and use information through your use of the website at [Estately.com](https://web.archive.org/) and our mobile apps. We may link or direct users to third party sites and services; we do not control the information collection or use practices of such services, and this policy does not govern them.
 
 If you have any questions or comments regarding this privacy policy, please feel free to [contact us](https://web.archive.org/about#contact). Our corporate address is: Estately, Inc., P.O. Box 23181, Seattle, WA, 98102
 
 ### Information You Provide
 
-Users may view real estate listings on our site and review the entire site's content without providing any personal information. If a user wishes to set up email alerts or request a tour of or information about a property, registration is required. Registration consists of providing an email address and creating a password, which information is maintained consistent with this policy. We receive and store information that you enter on our site or give us in any other way, such as through our feedback forms. You can choose to provide no personally identifying information to use the site, but you may not be able to use many features. We may send listing updates, user tips, suggested property emails, and saved search emails, and other communication responding to your requests.
+Users may view real estate listings on our site and review the entire site’s content without providing any personal information. If a user wishes to set up email alerts or request a tour of or information about a property, registration is required. Registration consists of providing an email address and creating a password, which information is maintained consistent with this policy. We receive and store information that you enter on our site or give us in any other way, such as through our feedback forms. You can choose to provide no personally identifying information to use the site, but you may not be able to use many features. We may send listing updates, user tips, suggested property emails, and saved search emails, and other communication responding to your requests.
 
 When you submit contact information to Estately, we may share it with one or more third party brokers, agents, lenders, escrow, and settlement companies at our discretion. If you request information that we are unable to provide using our own partner network, we may refer you to organizations and agents outside our network. If you request information or express interest in a property we may call or contact you. Ways in which we disclose your information is discussed below.
 
