@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918184402id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515024103id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithlife
 
