@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ballislife.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113075555id_/http%3A//ballislife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballislife.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515020548id_/http%3A//ballislife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ballislife.com
+# Privacy Policy - Ballislife.com - Ballislife.com
 
 Last updated: (5/24/2018)  
 Ballislife LLC (“us”, “we”, or “our”) operates http://www.ballislife.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
