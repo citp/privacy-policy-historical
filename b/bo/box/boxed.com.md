@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boxed.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917110203id_/https%3A//www.boxed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxed.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515090213id_/https%3A//www.boxed.com/privacy-policy) for the most accurate reproduction.*
 
 # Bulk Shopping | No Membership | Save Money, Time, & Gas | Boxed
-
-## Privacy Policy
 
 Effective as of December 8, 2016.
 
