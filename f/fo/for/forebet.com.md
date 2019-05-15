@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the forebet.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216044147id_/https%3A//www.forebet.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forebet.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515043631id_/http%3A//forebet.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 This privacy policy sets out how Forebet.com uses and protects any information that you give when you use this website.
 
@@ -112,3 +114,6 @@ At our website there might be some links to other websites. However, once you ha
 For more information, please also check our [Terms of use](https://www.forebet.com/en/terms-of-use).
 
 If you have any questions about this Privacy Policy or the practices of our website, please contact us at [privacy@forebet.com](mailto:privacy@forebet.com)
+
+|   
+---|---|---
