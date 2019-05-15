@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211030905id_/http%3A//stats.gats.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gats.io privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515105217id_/https%3A//stats.gats.io/privacy) for the most accurate reproduction.*
 
 # Stats | gats.io - Player Stats | Customize - Upgrade - Compete
 
