@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isprs.org privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218203327id_/http%3A//www.isprs.org/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isprs.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515042408id_/http%3A//www.isprs.org/privacy_notice.aspx) for the most accurate reproduction.*
 
 # Privacy Information Notice
 
