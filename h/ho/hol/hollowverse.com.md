@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollowverse.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003163845id_/http%3A//hollowverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollowverse.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515045555id_/https%3A//hollowverse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Hollowverse
+# Privacy Policy | HollowverseThe Hollowverse
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
