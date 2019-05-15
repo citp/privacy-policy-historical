@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628230734id_/http%3A//static.lohud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lohud.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515195543id_/https%3A//cm.lohud.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | lohud
+# static.lohud.com
 
 Last Updated: May 14, 2018
 
