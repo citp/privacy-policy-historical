@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107104921id_/https%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyheadlines.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515095337id_/https%3A//www.libertyheadlines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberty Headlines
 
@@ -40,5 +40,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Liberty Headlines may change its Privacy Policy from time to time, and in Liberty Headlines' sole discretion. Liberty Headlines encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a LibertyHeadlines.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[ Click here for reuse options!  
-Copyright 2016 Liberty Headlines](https://repubhub.icopyright.net/freePost.act?tag=3.20278?icx_id=589)
+### Third Party Advertising
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may collect and use information about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media, such as mobile apps, about goods and services that may be of interest to you, and to understand how users respond to advertising on our website and other websites. These companies may collect this information using technologies such as cookies and pixels. We may also share personal information such as your email address in hashed non-human readable form with these advertising companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out: <http://www.networkadvertising.org/managing/opt_out.asp>
