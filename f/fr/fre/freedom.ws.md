@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.ws privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125180931id_/https%3A//www.website.ws/newdesign/documents/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.ws privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515131728id_/https%3A//www.website.ws/newdesign/documents/Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # 
 
