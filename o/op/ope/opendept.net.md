@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendept.net privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112052148id_/http%3A//opendept.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendept.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515024227id_/http%3A//opendept.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Opendept - Beautiful WordPress Themes
 
