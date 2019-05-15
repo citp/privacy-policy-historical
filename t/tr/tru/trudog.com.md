@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trudog.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112232001id_/https%3A//trudog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trudog.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515235840id_/https%3A//trudog.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TruDog®
 
@@ -71,11 +71,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at  <https://shop.trudog.com/Terms-and-Conditions_ep_2-1.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at  [https://shop.trudog.com/Terms-and-Conditions_ep_2-1.html](https://shop.trudog.com/pages/terms-and-conditions)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](https://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -94,4 +94,12 @@ Suite 1117
 Oldsmar, FL 34677  
 support@trudog.com  
 1-800-476-8808  
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+This policy is powered by Trust Guard, your [PCI compliance](https://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+
+[](https://shop.trudog.com/)
+
+### Save An Additional 20% Today(up to 72% off) when you setup your first EZ Ship Subscription.
+
+LESS IS A WHOLE LOT MORE: Raw Dog Food Made from free-ranging, Wisconsin grass-fed USDA beef, meaty bones and whole organ meats. You will never find any grains, fillers, preservatives, or coloring in any of our products. Made in the USA.
+
+[](https://shop.trudog.com/)
