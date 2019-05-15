@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmuse.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230130818id_/https%3A//www.cmuse.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmuse.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515052945id_/https%3A//www.cmuse.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CMUSE
 
