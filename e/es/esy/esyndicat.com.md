@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113153047id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515124405id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script
 
