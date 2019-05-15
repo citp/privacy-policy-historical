@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109174833id_/http%3A//healthcaresource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515182314id_/https%3A//www.healthcaresource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HealthcareSource
 
