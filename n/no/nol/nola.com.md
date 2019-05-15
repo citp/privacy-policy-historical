@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203190449id_/https%3A//www.nola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nola.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515104222id_/https%3A//www.nola.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
+
+## PRIVACY POLICY 
 
 Last Revised: May 25, 2018
 
