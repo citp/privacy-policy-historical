@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedrs.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229175343id_/https%3A//www.seedrs.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedrs.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515050906id_/https%3A//www.seedrs.com/privacy_notice) for the most accurate reproduction.*
 
 # Seedrs Privacy Notice
 
@@ -146,19 +146,19 @@ Cookies are text files containing small amounts of information, which your compu
 
 The type of cookie used on Seedrs can be put into 1 of 4 categories, based on the International Chamber of Commerce guide to cookie categories: Strictly Necessary, Performance, Functionality & Profile and Targeting.
 
-  * Performance These cookies are not used to target you with online advertising. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience. 
-  * Functionality and profile These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience. 
-  * Targeting Without these cookies, online advertisements you encounter will be less relevant to you and your interests. 
-  * Strictly necessary These cookies are essential, as they ensure your security and privacy when you use our secure sites, as well as enabling you to move around a website and use its features. This category cannot be disabled. 
+  * Performance __ more information about cookie categories These cookies are not used to target you with online advertising. Without these cookies we can't learn how our website is performing and make relevant improvements that could better your browsing experience. 
+  * Functionality and profile __ more information about cookie categories These cookies may be used to ensure that all our services and communications are relevant to you. The information these cookies collect cannot track your browsing activity on other websites. Without these cookies, a website cannot remember choices you've previously made or personalise your browsing experience. 
+  * Targeting __ more information about cookie categories Without these cookies, online advertisements you encounter will be less relevant to you and your interests. 
+  * Strictly necessary __ more information about cookie categories These cookies are essential, as they ensure your security and privacy when you use our secure sites, as well as enabling you to move around a website and use its features. This category cannot be disabled. 
 
 
 
-## Marketing Preferences
+## Marketing Analytics Preferences
 
 Occasionally your personal data may be used to allow Seedrs to better understand our audience and deliver more relevant advertising to you or people like you.
 
 This may mean securely sharing some of your data with other advertisers or platforms. Your information will be fully encrypted and used strictly in line with our Privacy Policy.
 
-  * Marketing targeting permission
+  * Marketing analytics permission
 
 
