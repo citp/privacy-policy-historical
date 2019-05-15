@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsfundaz.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104083141id_/http%3A//www.jobsfundaz.com/p/what-information-do-we-collect-we.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsfundaz.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515174927id_/http%3A//www.jobsfundaz.com/p/what-information-do-we-collect-we.html) for the most accurate reproduction.*
 
 # Privacy Policy | JobsFundaz
 
