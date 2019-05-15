@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlisboa.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201045702id_/https%3A//www.visitlisboa.com/terms-and-notice%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlisboa.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515122500id_/https%3A//www.visitlisboa.com/terms-and-notice%23privacy-policy) for the most accurate reproduction.*
 
 # | Visit LISBON
 
