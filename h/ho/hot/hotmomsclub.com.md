@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2018-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180805143725id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515103534id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
 
-# Moms.com: Parenting, Kids, Health, Home. The #1 site for all moms!
+# Moms
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
@@ -42,7 +42,7 @@ We use pixel tags, which are small graphic files that allow us and our trusted t
 
 ## Advertisers
 
-We use third-party advertising companies to display ads on our site. These ads may contain cookies and/or web beacons in the ad serving process. This data is collected by our ad companies, and we do not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Advertisers, as third-party vendors, use cookies to collect usage and demographic data in order to serve ads on our site. For example, Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -63,6 +63,7 @@ We use the following advertisers:
   * Oath (AOL): <https://policies.oath.com/us/en/oath/privacy/index.html>
   * Amazon: [https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814](https://www.amazon.ca/gp/help/customer/display.html/?ie=UTF8&nodeId=918814)
   * Tribal (Exponential): <http://exponential.com/en-ca/privacy/>
+  * RhythmOne: <https://www.rhythmone.com/privacy-policy#UWwoYhAJzQUgjc0i.97>
 
 
 
