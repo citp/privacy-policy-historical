@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatminds.org privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901005614id_/https%3A//greatminds.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatminds.org privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515064149id_/https%3A//greatminds.org/privacy-policy) for the most accurate reproduction.*
 
 # Great Minds
 
