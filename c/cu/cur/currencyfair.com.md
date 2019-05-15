@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105053655id_/https%3A//www.currencyfair.com/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515094605id_/https%3A//www.currencyfair.com/trust/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy And Data Protection | CurrencyFair
 
@@ -351,4 +351,4 @@ Any updates to this Data Privacy Policy will be made available to you at any tim
 
 Dated: 25.05.2018
 
-Copyright © 2018 CurrencyFair LTD. All rights reserved. 
+Copyright © 2019 CurrencyFair LTD. All rights reserved. 
