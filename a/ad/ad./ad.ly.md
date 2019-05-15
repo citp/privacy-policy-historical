@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad.ly privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113161752id_/http%3A//ad.ly/hello/privacy-policy/1196) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.ly privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515130954id_/http%3A//ad.ly/hello/privacy-policy/1196) for the most accurate reproduction.*
 
 # ad.ly Privacy Policy
 
