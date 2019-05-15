@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanrio.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229192641id_/https%3A//www.sanrio.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanrio.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515132103id_/https%3A//www.sanrio.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Sanrio Privacy Policy - Sanrio
 
@@ -149,6 +149,6 @@ If you want to (a) delete your Personally Identifiable Information from our syst
 
 #### 11\. Questions, Comments or Concerns
 
-To contact Sanrio about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at [privacystandards@sanrio.com](mailto:privacystandards@sanrio.com). You may also contact us at: Sanrio, Inc.; 570 Eccles Avenue; South San Francisco, CA 94080, or call us at: (650) 952-2880. 
+To contact Sanrio about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at [privacystandards@sanrio.com](mailto:privacystandards@sanrio.com). You may also contact us at: Sanrio, Inc.; 2101 E. El Segundo Blvd.; El Segundo, CA 90245 or call us at: (310) 896-3262. 
 
 Before using this site, please also read our [Terms of Use](https://web.archive.org/pages/terms-and-conditions) and our [Children's Privacy Policy](https://web.archive.org/pages/childrens-privacy-policy-1). 
