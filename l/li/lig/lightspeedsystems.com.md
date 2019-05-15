@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229212813id_/https%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515185354id_/https%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lightspeed Systems, Inc.
 
@@ -17,7 +17,7 @@ Lightspeed Systems, Inc. provides a variety of services (“Services”) to secu
 
 As described below, Schools decide which data is integrated with our Services.
 
-This privacy policy applies to our websites and Services (lightspeedsystems.com, lsaccess.me, lsurl.me, lsfilter.com, lsmdm.com, lsoverride.me, and relay.school) and describes the steps we take to protect your data. It details the terms and conditions surrounding our use of the personally identifiable information we collect, namely our information gathering, use, maintenance, and dissemination practices necessary for the Services. Click on the links below to jump to each section:
+This privacy policy applies to our websites and Services (lightspeedsystems.com, lsaccess.me, lsurl.me, lsfilter.com, lsmdm.com, lsoverride.me, and relay.school) and describes the steps we take to protect your data. It details the termssurrounding our use of the personally identifiable information we collect, namely our information gathering, use, maintenance, and dissemination practices necessary for the Services. Click on the links below to jump to each section:
 
   1. [Your Data: How We Collect and Use Information](https://www.lightspeedsystems.com/privacy/#section-1)
   2. [Student Safety](https://www.lightspeedsystems.com/privacy/#section-2)
@@ -32,8 +32,9 @@ This privacy policy applies to our websites and Services (lightspeedsystems.com,
 
 As you are navigating between school and related sites, please be aware that other parties’ privacy policies may come into play. If you are using any of the Services through an educational or other institution that is a customer of Lightspeed Systems, Inc. this policy does not supersede the terms of any agreements between Lightspeed Systems, Inc. and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution, or any third party. Please make sure that you read the terms of any privacy policies that you enter into with parties’ other than Lightspeed Systems, Inc. including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. If you are accessing Lightspeed Systems, Inc. through a third-party, public, or unsecured internet provider, please be advised that any information you disclose or publish during the course of such access may be collected by any such provider and that Lightspeed Systems, Inc. has no control and makes no representation as to the possible use of this information by any such provider.
 
-  
-**1\. YOUR DATA: How we collect and use information**
+  1. **YOUR DATA: How we collect and use information**
+
+
 
 We collect the following types of information.
 
@@ -69,8 +70,10 @@ We use or may use the data collected through cookies, log files, device identifi
 
 **Data Processor** : By licensing to use Lightspeed Systems, Inc. services, you authorize Lightspeed Systems, Inc. to serve as the Data Processor for the licensed services.
 
-  
-**2\. STUDENT SAFETY**  
+  2. **STUDENT SAFETY**
+
+
+
 Lightspeed Systems, Inc. complies with the Children’s Online Privacy Protection Act (COPPA, see [www.ftc.gov/privacy/coppafaqs.shtm](http://www.ftc.gov/privacy/coppafaqs.shtm)) and the Student Privacy Pledge ([studentprivacypledge.org](http://studentprivacypledge.org/)) to ensure the online safety of children. Student accounts are provided only through a verified educator, school, or educational organization. Educators should obtain parental permission before issuing accounts to students.
 
 We meet the following guidelines listed below and agree to:
@@ -83,13 +86,14 @@ We meet the following guidelines listed below and agree to:
   * NOT build a personal profile of a student other than for supporting authorized educational/school purposes.
 
 
+  3. **THIRD PARTIES: How we may share your information**
 
-  
-**3\. THIRD PARTIES: How we may share your information**  
+
+
 Personal information is only shared in a few limited circumstances as described below. Lightspeed Systems, Inc. will not give, sell, rent, loan, or otherwise disclose to any third parties outside of Lightspeed Systems, Inc and its agents, except when we have your permission or as required:
 
   * With those that provide us with technology services (e.g. web hosting and analytics services), but only with entities with comparably strict privacy policies and strictly for the purpose of carrying out their work for us.
-  * Under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with a lawful request by public authorities, including to meet national security or law enforcement requirements, (ii) enforce the [Terms of Use](https://www.lightspeedsystems.com/tc/), (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Lightspeed Systems, Inc., its users, or the public
+  * Under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with a lawful request by public authorities, including to meet national security or law enforcement requirements, (ii) enforce the [Terms of Use](https://www.lightspeedsystems.com/tc), (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Lightspeed Systems, Inc., its users, or the public
 
 
 
@@ -101,8 +105,9 @@ Further, Lightspeed Systems, Inc. recognizes its potential liability when onward
 
 In certain areas of the Services, Lightspeed Systems, Inc. makes announcements, email, chat, polls, forums, discussions, and/or news groups available. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose any of your personal or other information in these or any other publicly available site. And if you see inappropriate content posted by any other user, please report that information to us so we can review the post and respond accordingly.
 
-  
-**4\. CHOICE: Your Options Regarding Your Data**
+  4. **CHOICE: Your Options Regarding Your Data**
+
+
 
 **For Data, we collect via our products:**
 
@@ -114,7 +119,7 @@ In certain areas of the Services, Lightspeed Systems, Inc. makes announcements, 
 
 **User-data retention:** Following termination or deactivation of a School account, Lightspeed Systems, Inc. may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but all Student Data associated with the School will be deleted in accordance with Lightspeed Systems, Inc. Data Deletion policy, or in accordance with active DPA, DSA or SLA, or within 90 days. We may maintain anonymized or aggregated data, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact us via the contact information below
 
-Data Portability: License holders of Lightspeed Systems, Inc. products may request in writing that the data they provided be returned to them in electronic format. Within a reasonable time Lightspeed Systems, Inc. will return the data provided by the license holder for the products they have licensed.
+Data Portability: License holders of Lightspeed Systems, Inc. products may request in writing that the data they provided be returned to them in electronic format. Within a reasonable time Lightspeed Systems, Inc. will return the data provided by the license holder for the products they have licensed.
 
 Individuals who provided information via our websites, Tradeshow, Lightspeed event, Partner event, e-mail or phone call may request in writing that the data they provided be returned to them in electronic format. Within a reasonable time Lightspeed Systems, Inc. will return the data provided.
 
@@ -126,51 +131,62 @@ Individuals who provided information via our websites, Tradeshow, Lightspeed eve
 
 **User-data retention** : Lightspeed Systems, Inc. may retain profile information and content for a commercially reasonable time. We may maintain anonymized or aggregated data, including usage data, for analytics purposes. If you have any questions about data retention or deletion, please contact us via the contact information below.
 
-Please contact us at the address below if you have any other questions or concerns about the information you receive from us or the information that we collect from you.  
-  
-**5\. SECURITY: How We Store and Protect Your Data**
+Please contact us at the address below if you have any other questions or concerns about the information you receive from us or the information that we collect from you.
+
+  5. **SECURITY: How We Store and Protect Your Data**
+
+
 
 **Storage:** All of your personal information is stored on servers at locations designed specifically to ensure that only authorized individuals have access to the server or its data. Lightspeed Systems, Inc. maintains strict administrative, technical, and physical procedures to protect information stored on our servers. Access to information is limited through login credentials to those employees who require it to perform their job functions.
 
 **Processing:** Industry-standard Secure Socket Layer (SSL) encryption technology is used to safeguard the account registration process. Other security safeguards include but are not limited to data encryption, firewalls, two-factor authentication, and physical-access controls.
 
-  
-**6\. European Union Data Protection**
+  6. **European Union Data Protection**
 
-**Framework Compliance:** Lightspeed Systems, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Lightspeed Systems, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the terms of this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
+
+
+**Framework Compliance:** Lightspeed Systems, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom, to the United States in reliance on Privacy Shield.  Lightspeed Systems, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. If there is any conflict between the terms of this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 **Dispute Resolution:** In compliance with the EU-US Privacy Shield Principles, Lightspeed Systems, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Lightspeed Systems, Inc. at:
 
-Lightspeed Systems, Inc.  
-c/o John Genter, DPO  
-2500 Bee Cave Road, Suite 350  
+Lightspeed Systems, Inc.
+
+℅John Genter, DPO
+
+2500 Bee Cave Road, Suite 350
+
 Austin, TX 78746
 
-Lightspeed Systems, Inc. has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+Lightspeed Systems, Inc. has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/)for more information and to file a complaint.
 
 You also have a right to raise any data protection related concerns with the supervisory data protection authority in your jurisdiction.
 
 Lightspeed Systems, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-  
-**7\. CHANGES: How Changes to Our Privacy Policy Will Be Communicated**
+  7. **CHANGES: How Changes to Our Privacy Policy Will Be Communicated**
+
+
 
 Lightspeed Systems, Inc. may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will provide notice to our customers inside the Service, as well as via email to primary contacts, on the Community Site, and at <https://www.lightspeedsystems.com/privacy>. Please review these changes carefully. If you agree to the changes, simply continue using the product. If you object to any of the changes to the Privacy Policy, immediately notify us at the contact information below. Unless stated otherwise, our current Privacy Policy applies to all information that Lightspeed Systems, Inc. collects via our Services and products. Using Lightspeed Systems, Inc. services and products after a notice has been communicated to you or published on our Services shall constitute consent to the changed terms and practices.
 
-  
-**8\. How to Contact Lightspeed Systems**
+  8. **How to Contact Lightspeed Systems**
 
-If you have any questions about this privacy statement, the information that we collect from you, or the Services, please contact us at [privacy@lightspeedsystems.com](mailto:privacy@lightspeedsystems.com)  or write to:
 
-Lightspeed Systems, Inc.  
-c/o John Genter, DPO  
-2500 Bee Cave Road, Suite 350  
+
+If you have any questions about this privacy statement, the information that we collect from you, or the Services, please contact us at [privacy@lightspeedsystems.com](mailto:privacy@lightspeedsystems.com) or write to:
+
+Lightspeed Systems, Inc.
+
+℅John Genter, DPO
+
+2500 Bee Cave Road, Suite 350
+
 Austin, TX 78746
 
 In the event that you are concerned about how data you have provided Lightspeed Systems, Inc. through the Services has been used, please contact us at the address listed above. Lightspeed Systems, Inc. takes all concerns about privacy and use of data very seriously and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
 
-For more information, see [Protecting Privacy, Lightspeed Systems Overview](http://community.lightspeedsystems.com/?p=49361)
+For more information, see [Protecting Privacy, Lightspeed Systems Overview](https://community.lightspeedsystems.com/wp-content/uploads/2014/09/LightspeedSystems-Protecting-Privacy.pdf)
 
 We have signed the [Student Privacy Pledge](http://studentprivacypledge.org/?page_id=45)!
 
-_This privacy policy was last modified on April 23, 2018. Effective Date: April 23, 2018._
+_This privacy policy was last modified on March 22, 2019. Effective Date: March 29, 2019._
