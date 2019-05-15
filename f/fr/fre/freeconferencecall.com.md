@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816235422id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515164952id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Conference Call Privacy Policy | freeconferencecall.com
 
