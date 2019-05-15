@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mcb.com.pk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114073937id_/https%3A//www.mcb.com.pk/quick_links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcb.com.pk privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515092645id_/https%3A//www.mcb.com.pk/quick_links/privacy-policy) for the most accurate reproduction.*
 
 # MCB Bank Pakistan | Quick Links | Privacy Policy
 
 We noticed you are using an outdated version of Internet Explorer. Some features may not work correctly. For the full site experience, please update your Internet Explorer to version 9 or above, or install Google Chrome Frame. 
 
-We advise all visitors and clients to read and understand our privacy policy, and to check it periodically for any updates or revisions. If you have any questions about the content of our statement, please feel free to contact us at: [info@mcb.com.pk](http://info@mcb.com.pk/)
+We advise all visitors and clients to read and understand our privacy policy, and to check it periodically for any updates or revisions. If you have any questions about the content of our statement, please feel free to contact us at: [[email protected]](http://info@mcb.com.pk/)
 
 This Privacy Policy governs the manner in which MCB Bank Limited gathers, uses, maintains and discloses information collected from users of this Website (each, a "User").
 
