@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the moneymindset.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122195543id_/http%3A//impactlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymindset.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515183738id_/http%3A//moneymindset.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Impact Life - Join The Experience
+# Website Privacy Policy – Master The Money Mindset
 
-This Privacy Policy was last modified on May 15, 2018 and the new provisions will take effect May 25, 2018.
+This Privacy Policy was last modified on September 14, 2018.
 
-We at Impact Life, LLC are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors while offering a high-quality user experience here at www.impactlife.com (the “Website”). We know that you care about how the information you provide to us is used and shared. We have developed this Privacy Policy to inform you of our policies regarding the collection, use, and disclosure of Information we receive from users of the Website. Impact Life, LLC (the “Company”) operates the Website.
+We at Money Mindset are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors while offering a high-quality user experience here at [www.moneymindset.com](http://www.moneymindset.com/) (the “Website”). We know that you care about how the information you provide to us is used and shared. We have developed this Privacy Policy to inform you of our policies regarding the collection, use, and disclosure of Information we receive from users of the Website. Money Mindset(the “Company”) operates the Website.
 
-This Privacy Policy, along with our _[Term& Conditions](http://impactlife.com/terms-and-conditions/)_, governs your use of this site. By using www.impactlife.com (the “Website”), or by accepting the Terms of Use (via opt-in, checkbox, pop-up, or clicking an email link confirming the same), you agree to be bound by our terms and this Privacy Policy.
+This Privacy Policy, along with our _Term & Conditions_, governs your use of this site. By using [www.moneymindset.com](http://www.moneymindset.com/) (the “Website”), or by accepting the Terms of Use (via opt-in, checkbox, pop-up, or clicking an email link confirming the same), you agree to be bound by our terms and this Privacy Policy.
 
-### Information We Collect
+### **Information We Collect**
 
 When you visit our Website, we will learn certain information about you.
 
@@ -18,7 +18,7 @@ Consistent with our previous practices, we will only collect and process your pe
 
 We may collect and/or receive the following types of information from you:
 
-### Information Provided Voluntarily
+### **Information Provided Voluntarily**
 
 **Personal Information.** You may be asked to provide personal information including your name, address, email address and phone number when you sign up for any of our newsletters, respond to a survey, register for a class, or purchase a product or service. We will only request the personal information that is required in order to fulfill our obligations to you, i.e. in order to deliver what you have requested, as well as to comply with any legal obligations that may accompany such an exchange.
 
@@ -38,11 +38,11 @@ For more information on Google Analytics, including how to opt out from certain 
 
 **Other Third Party Tracking Tools**. We may also collect or receive information from third parties, such as Facebook, Instagram and/or other third-party social media and similar sites.
 
-### How to Access Your Personal Information
+### **How to Access Your Personal Information**
 
-If you have provided personal, billing or other voluntarily provided information, you may access, review and make changes to it via instructions found on the Website or by emailing us at tim at impactlife dot com. To manage your receipt of marketing and non-transactional communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any related email from the Company. Emails related to the purchase or delivery of orders are provided automatically – Customers are not able to opt out of transactional emails. We will try to accommodate any requests related to the management of Personal Information in a timely manner. However, it is not always possible to completely remove or modify information in our databases (for example, if we have a legal obligation to keep it for certain timeframes, for example).
+If you have provided personal, billing or other voluntarily provided information, you may access, review and make changes to it via instructions found on the Website or by emailing us at support at moneymindset dot com. To manage your receipt of marketing and non-transactional communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any related email from the Company. Emails related to the purchase or delivery of orders are provided automatically – Customers are not able to opt out of transactional emails. We will try to accommodate any requests related to the management of Personal Information in a timely manner. However, it is not always possible to completely remove or modify information in our databases (for example, if we have a legal obligation to keep it for certain timeframes, for example).
 
-### How We Use and Share the Information
+### **How We Use and Share the Information**
 
 We use the collected Information to understand customer needs, including regarding our Website services to:
 
@@ -67,7 +67,7 @@ In the event that we have to collect on a debt owed to us by you, we may, as nec
 
 Under certain circumstances we may be obligated or compelled to disclose the Information: when required by law, court order or government agency, or when disclosing such Information is reasonably required to protect the Company, its property, the Website, the safety of visitors or others.
 
-### Retargeting / Personalized and Behavioral Ads
+### **Retargeting / Personalized and Behavioral Ads**
 
 We may, using the techniques described above, and in conjunction with third party marketing partners, gather information from your visit to our Website for purposes of providing relevant advertising content to you in the future. This means that through third party marketing partners or third party sites such as Google, Facebook, or Instagram, we may display advertisements to you (remarketing or retargeting), based on usage data collected during your visit to our website.
 
@@ -87,49 +87,49 @@ Or, via an opt-out browser add-on, you can opt out of having your site activity 
 
 **Google Ad Words:** We may utilize Google Ad Words, which provides certain of the information collected on our website to the Adwords advertising network. To opt out of Google Ad Words, visit <https://support.google.com/ads/answer/2662922?hl=en>
 
-**Facebook Custom Audience:** We may utilize Facebook’s Custom Audience capability which allows us to display ads on Facebook to individuals on our email lists or in our database. We may provide personal information to Facebook, such as your name, email address and phone number to enable Facebook to identify whether you are a Facebook account holder. To opt-out of the Facebook Custom Audience, please email us at tim at impact life dot com with (1)“Facebook Custom Audience Opt-Out” in your Subject Line, and (2) your name and email address in the body of the email.
+**Facebook Custom Audience:** We may utilize Facebook’s Custom Audience capability which allows us to display ads on Facebook to individuals on our email lists or in our database. We may provide personal information to Facebook, such as your name, email address and phone number to enable Facebook to identify whether you are a Facebook account holder. To opt-out of the Facebook Custom Audience, please email us at support at moneymindset dot com with (1)“Facebook Custom Audience Opt-Out” in your Subject Line, and (2) your name and email address in the body of the email.
 
 **Other Personalized and Behavioral Advertising Services:** We may participate in other retargeting services that are similar to those described above.
 
-### Managing Cookies Via Your Browser:
+### **Managing Cookies Via Your Browser:**
 
 You may be able to change your cookie preferences via your browser settings. Please visit your browser’s help section for assistance with turning on notifications regarding cookies, or disabling cookies through your browser.
 
-### Managing Cookies on Your Mobile Device:
+### **Managing Cookies on Your Mobile Device:**
 
 You may be able to change your cookie preferences on your mobile device either via your browser settings, or via the settings (preferences) on your device. For additional info, please visit <http://www.allaboutcookies.org/mobile/>
 
-### Use Caution When Sharing Information Online
+### **Use Caution When Sharing Information Online**
 
 When you voluntarily make your Personal Information available online in an environment shared by third parties – including in webinars, classes, online conferences, via email, on message boards, chat rooms or on blogs, or via telephone calls or conferences – that information can be viewed, saved, collected, heard, and/or used by others outside of the Company. We are not responsible for any unauthorized third-party use of information provided in these contexts. Please be mindful whenever you share any information online.
 
-### Security of Your Information
+### **Security of Your Information**
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we incorporate standard industry practices internally and with our services providers, which we believe is sufficient for the information involved, we cannot guarantee its absolute security. Because we work with third-party businesses and vendors in various aspects of our business including operating this website, database management, website security, etc., we cannot guarantee the absolute security of our databases, nor can we guarantee that the Information you supply will not be intercepted while being transmitted to and from us over the Internet. Any information that you provide to us via email should be treated with extra caution, as we cannot control the level of security available through email providers.
+The security of your Personal Information is important to us, But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we incorporate standard industry practices internally and with our services providers, which we believe is sufficient for the information involved, we cannot guarantee its absolute security. Because we work with third-party businesses and vendors in various aspects of our business including operating this website, database management, website security, etc., we cannot guarantee the absolute security of our databases, nor can we guarantee that the Information you supply will not be intercepted while being transmitted to and from us over the Internet. Any information that you provide to us via email should be treated with extra caution, as we cannot control the level of security available through email providers.
 
-### Children
+### **Children**
 
 We are strongly committed to protecting the safety and privacy of children who visit our website. We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage all parents to talk to their children about online safety and to monitor their children’s use of the Internet. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will make best efforts to immediately delete that information from our databases.
 
-### External Websites
+### **External Websites**
 
 While we have carefully chosen those vendors with whom we work, especially those involved in the transmission of data on behalf of our business, we do not control and are not responsible for the privacy practices or content of third-party websites, including those of affiliates, business partners, sponsors, advertisers, or other websites to which we may link from time to time. When visiting any third-party websites, you are responsible for reviewing the privacy policy and terms of use applicable to each site. They may be different than those that you see here.
 
-### California Privacy Rights
+### **California Privacy Rights**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with whom the California has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by the Company pursuant to this provision, please contact us via email at tim at impact life dot com.
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with whom the California has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by the Company pursuant to this provision, please contact us via email at support at moneymindset dot com.
 
-### Our California Do Not Track Notice
+### **Our California Do Not Track Notice**
 
 Consistent with our policies described above, we collect information from our visitors on our website and across third party websites where applicable, to provide relevant content and advertising. We do not support Do Not Track (“DNT”) signals of web browsers.
 
 DNT is a setting in your web browser that informs websites that you do not want to be tracked. You can enable or disable DNT through the Preferences or Settings options of your web browser.
 
-### Visitors Outside the U.S.
+### **Visitors Outside the U.S.**
 
 Our Website and the servers that make this Website available worldwide are located in the United States. The Internet laws in the United States govern all matters relating to this Website. Any information you provide in subscribing to or visiting our Website will be transferred to the United States. By visiting our Website and submitting information, you authorize this transfer, processing, and use.
 
-### EU Visitors and the GDPR
+### **EU Visitors and the GDPR**
 
 If you live in the EU, certain of your data may be subject to protection by the General Data Protection Regulation (the “GDPR”), a privacy regulation intended to help you have greater control over your personal data.
 
@@ -151,16 +151,16 @@ The categories of data processors with whom we work, and that help us in the col
 
 You may contact us at any time to have your information with any of these processors updated or corrected, deleted, or to obtain a copy for your records. Additionally, you may opt out of receiving any additional emails or marketing messages from us by clicking the “unsubscribe” link at the bottom of our email notifications.
 
-Further, if you feel that we have not complied with the relevant data protection regulations, please contact us by sending us an email at tim at impact life dot com with your first and last name, your country of origin, and a summary of your concern or complaint. We will endeavor to respond at our earliest possible convenience to address your concern. If contacting us does not resolve your complaint, you may have additional options.
+Further, if you feel that we have not complied with the relevant data protection regulations, please contact us by sending us an email at support at moneymindset dot com with your first and last name, your country of origin, and a summary of your concern or complaint. We will endeavor to respond at our earliest possible convenience to address your concern. If contacting us does not resolve your complaint, you may have additional options.
 
 Residents in Designated Countries may also have the right to lodge a complaint with the relevant EU data protection authority. You may access a list of the Data Protection Authorities in the EU [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
-### Changes to This Privacy Policy
+### **Changes to This Privacy Policy**
 
-The Company may update this Privacy Policy from time to time as necessary to protect our users and to comply with a changing environment. Please review the Privacy Policy when you visit our Website to remain updated on our current policy. We have no intentions of making any changes to our Privacy Policy and practices to make them less protective of personal information collected in the past. By accessing the Website and/or using our services after making any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the information. You are advised to review this Privacy Policy periodically for any changes. Whenever we make changes to this Privacy Policy we will update the date at the top.
+The Company may update this Privacy Policy from time to time as necessary to protect our users and to comply with a changing environment. Please review the Privacy Policy when you visit our Website to remain updated on our current policy. We have no intentions of making any changes to our Privacy Policy and practices to make them less protective of personal information collected in the past. By accessing the Website and/or using our services after making any such changes to this Privacy Policy, You are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the information. You are advised to review this Privacy Policy periodically for any changes. Whenever we make changes to this Privacy Policy we will update the date at the top.
 
-### Contact Us
+### **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us via email at tim at impact life dot com with “Privacy Policy” in the subject line.
+If you have any questions about this Privacy Policy, please contact us via email at support at moneymindset dot com with “Privacy Policy” in the subject line.
 
 © 2015 – 2018 by The Legal Website Warrior ([www.LegalWebsiteWarrior.com](http://www.legalwebsitewarrior.com/)). All Rights Reserved. DO NOT DUPLICATE THIS PRIVACY POLICY (OR ANY PORTION THEREOF). THIS CONSTITUTES COPYRIGHT INFRINGEMENT.
