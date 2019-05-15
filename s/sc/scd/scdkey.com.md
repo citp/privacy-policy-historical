@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901111311id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scdkey.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515152202id_/https%3A//www.scdkey.com/staticPage/privacyPolicy) for the most accurate reproduction.*
 
 # About Us - SCDKey.com
 
@@ -41,10 +41,6 @@ From time-to-time, the Company may provide you the opportunity to participate in
 **Security**
 
 We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the scdkey.com's web site you will need to submit a password or some other type of authenticating information.
-
-Company name： **AMZGAME CO.,LIMITED**
-
-Physical Address: **FLAT/RM B,4/F,KINGSWELL COMM TOWER 171-173 LOCKHART RD WANCHAI ,HK**
 
 Email address: **Service@scdkey.com**
 
