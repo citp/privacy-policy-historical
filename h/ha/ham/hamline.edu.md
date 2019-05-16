@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamline.edu privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915194510id_/https%3A//www.hamline.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamline.edu privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517002407id_/https%3A//www.hamline.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Hamline University
 
@@ -28,7 +28,7 @@ The university may occasionally partner with another party to provide specific s
 Hamline University respects website visitor privacy to the extent permitted by law.
 
 Hamline’s Data Privacy can be found at:  
-<https://www.hamline.edu/policy/data-privacy-policy/>
+[https://www.hamline.edu/policy/data-privacy-policy/](https://www.hamline.edu/policies.aspx "https://www.hamline.edu/policy/data-privacy-policy/")
 
 ## Family Educational Rights and Privacy Act (FERPA)
 
