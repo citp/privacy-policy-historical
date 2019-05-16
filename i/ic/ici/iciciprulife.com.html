@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the iciciprulife.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226060741id_/https%3A//www.iciciprulife.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iciciprulife.com privacy policy that was archived on 2019-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190516113430id_/https%3A//www.iciciprulife.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js desktop landscape"><!--<![endif]--><head>
-    <meta charset="utf-8">
+<!DOCTYPE html><html lang="en" class="no-js desktop landscape"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>ICICI Prudential Life Insurance - Privacy Policy</title>
      
@@ -99,7 +99,7 @@
 
 <link rel="stylesheet" href="/etc/designs/icicipru/allclientlibs2.min.css" type="text/css">
 
-<script type="text/javascript" src="/etc/designs/icicipru/productjquery.min.js"></script>
+<script type="text/javascript" src="/etc/designs/icicipru/allplansjquery.min.js"></script>
 
 
 
@@ -139,10 +139,17 @@ var datalayer = {
         subsection3 : "",
         pagetype : "",
     	ProductName : "",
-    	ProductCode : ""
+    	ProductCode : "",
+		PageCategory : "",
+		Product : "",
+		UserType : ""
     };
-</script>
 
+    /* GTM Datalayer */
+	
+	window.dataLayer = window.dataLayer;
+	window.dataLayer.push(datalayer);
+</script>
 
     
     
@@ -223,7 +230,6 @@ function reportErrors(errors){
   msg += "\n" + errors[i];
 }
  alert(msg);
- //document.getElementById("err-msg").innerHTML=msg;
 }
 
 function alpha(e) {
@@ -238,33 +244,28 @@ function alpha(e) {
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="navbar-header">
-                            <!-- mobile button -->
                             <button type="button" class="navbar-toggle ipru-menu-btn" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
-                                <!-- <span class="menu-text">menu</span> -->
                             </button>
-                            <!-- search button -->
                             <div class="search-icon inline visible-sm visible-xs">
                                 
     							
-                                <a href="javascript:void(0)" title="" class="search" data-iprufilter="search">Search</a>
+                                <a href="#" title="" class="search" data-iprufilter="search">Search</a>
                                 
                             </div>
-                            <!-- login button for tab and mobile -->
                             <div class="login-icon inline visible-sm visible-xs">
                                 
     							
-    							<a href="javascript:void(0)" title="" class="search login-tab" data-iprufilter="login">Login</a>
+    							<a href="#" title="" class="search login-tab" data-iprufilter="login">Login</a>
                                 
                             </div>
-                            <!-- icici logo -->
                             <div class="logo inline" itemscope="" itemtype="http://schema.org/Organization">
                                  
 <a itemprop="url" class="navbar-brand" href="https://www.iciciprulife.com" onclick="CQ_Analytics.record({event: 'imageClick', values: { imageLink: '', imageAsset: '', imageTitle: 'ilogo.png' }, collect: false, options: { obj: this }, componentPath: 'icicipru\/components\/hidden\-slightly\/navigation\-header'})">
-    <img itemprop="logo" src="/content/icici-prudential-life-insurance/_jcr_content/headerpar/header_sightly/navHeader.img.png/1533272453567.png" alt="LOGO" title="ICICI PRUDENTIAL LIFE" class="cq-dd-image" data-emptytext="Image">
+    <img itemprop="logo" src="/content/icici-prudential-life-insurance/_jcr_content/headerpar/header_sightly/navHeader.img.png/1533272453567.png" alt="icici prudential life insurance" title="ICICI PRUDENTIAL LIFE" class="cq-dd-image" data-emptytext="Image">
 </a>
 
 
@@ -275,25 +276,23 @@ function alpha(e) {
                         <div class="mobile-search" data-iprufilter="search">
                         <form method="GET" action="https://www.iciciprulife.com/search.html" onsubmit="return validate(this);" name="form" id="form-mob">
     						<input type="text" id="q" name="q" placeholder="Search" class="searchInput" onkeypress="return alpha(event)">
-							<!--<div id="err-msg" style="color:red; font-size: 160%;"> </div>-->
                             <input type="submit" value="GO" class="go">
                             <input type="hidden" name="tag" value="icici-pru:All">
                         </form>
                         </div>
                         
                         <div class="first-header">
-                            <!-- frst top navigation -->
                             <ul class="nav navbar-nav navbar-right visible-lg visible-md">
                                 
     							
                                 <li class="login-dropdown" data-iprufilter="login">
-    								<a href="javascript:void(0)" class="login-drop no-border" id="login-toggle">Login <span class="caret"></span></a>
+    								<a href="#" class="login-drop no-border" id="login-toggle">Login <span class="caret"></span></a>
                                 </li>
                                 
                                 
     							
                                 <li class="login-dropdown logout" data-iprufilter="logout">
-                                    <a href="javascript:void(0)" class="login-drop no-border">Log Out<span class="caret"></span></a>
+                                    <a href="#" class="login-drop no-border">Log Out<span class="caret"></span></a>
                                 </li>
                                 
 								
@@ -317,9 +316,7 @@ function alpha(e) {
 									<li data-iprufilter="trackapplication"><a href="https://buy.iciciprulife.com/buy/apptrackerhomeNew.htm">Track Application</a></li>
                                 	
 								
-                                <!--<div data-sly-resource="languages" data-sly-unwrap></div>-->
                             </ul>
-                            <!-- search button -->
     						<div class="search-input fr hidden-sm hidden-xs">
     							<form class="geo" action="https://www.iciciprulife.com/search.html" id="desk-form" onsubmit="return validate(this);" name="form">
                                 <input class="search-tab" type="text" id="q" name="q" onkeypress="return alpha(event)" tabindex="1" placeholder="Search">
@@ -328,7 +325,6 @@ function alpha(e) {
 								<input type="submit" value="" class="search-btn" style="border:none;">
     							</form>
                             </div>
-                            <!-- login dropdown box -->
                             <div class="login-box" style="height: 100px;">
 								<div class="customer-type usr-input">
                                     <select name="cust-type" id="login-type" class="dropdown1" onchange="loginDropDown();">
@@ -342,121 +338,40 @@ function alpha(e) {
 										<option value="https://customer.iciciprulife.com/csr/cmmn-home.htm?defaultAccordian=iPruEmp" id="employee">Employee Branch</option>
 										<option value="https://buy.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=iPruEmp" id="employee">ICICI Bank-SP</option>
 										<option value="https://buy.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=unitManager" id="advisor">Advisor </option>
-										<!-- <option value="https://customer.iciciprulife.com/csr/cmmn-home.htm?defaultAccordian=iPruEmp" id="employee" >Employee</option>
-										</option>
-										<option value="https://customer.iciciprulife.com/csr/cmmn-home.htm?defaultAccordian=unitManager" id="advisor">Advisor</option> -->
-                                        <option value="https://corporate.iciciprulife.com/Corporate/ipru/memberlogin.jsp" id="partner">Partner(Corporate Agent/ Brokers)</option> 
-										<!-- <option value="Employee" data-toggle="modal" data-target="#bannerPopup" id="employee">Employee</option>
-										<option value="Advisor" data-toggle="modal" data-target="#bannerPopup" id="advisor">Advisor </option>
-										<option value="Partner" data-toggle="modal" data-target="#bannerPopup" id="partner">Partner(Corporate Agent/ Brokers)</option> -->
+                                        <option value="https://corporate.iciciprulife.com/Corporate/ipru/memberlogin.jsp" id="partner">Partner(Corporate Agent/ Brokers)</option>
+										<option value="https://buy.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=partnerAgents" id="partnerHuf">Group Broker</option>
                                         <option value="https://healthclaims.iciciprulife.com/BCSUIEARPHASE2/pages/eCashless/login.faces" id="network-hospital">Network Hospital</option>
                                         <option value="https://hrapps.iciciprulife.com/iAssist/LoginPage.aspx" id="formeremp">Former Employee</option>
-                                        <!--<option value="network-hospital" id="network-hospital">Network Hospitals</option>-->
-                                        <option value="https://ishield.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=iPruEmp" id="employee">IL Employee</option>
-										
+										<option value="https://ishield.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=iPruEmp" id="ilEmployee">IL Employee</option>
                                     </select>
                                     <span class="err-msg">Please select the proper login type</span>
                                 </div>
-                                <!-- remember password checkbox -->
                                 <div class="usr-input inline full-width">                                    
-                                    <!-- sign in and register buttons -->
                                     <div class="inline full-width">
-										 <!-- <a href="#" class="hintone fl mt10" id="ipruForgotPassword">Forgot Password ?</a> -->
-                                        <!-- <input type="submit" value="sign in" class="active fr" id="signIn" tabindex="7"> -->
-                                        <!-- <input type="button" value="register" id="register"> -->										    
-										<!--<a href="https://healthclaims.iciciprulife.com/BCSUIEARPHASE2/pages/common/login.faces" class="hintone">Network Hospital Login</a>-->
-										<!-- <a target="_blank" href="https://hrapps.iciciprulife.com/iAssist/LoginPage.aspx" class="hintone fl onlyemployee mt10" style="display: none;">Former Employees</a> -->
                                     </div>
                                 </div>
-                                <!-- social login -->
                                 <div class="inline full-width mt20">
-                                	<!-- <a href="#" class="hintone fl" id="ipruRegister" >New User</a> -->
-                                    <!--<div class="social-login fr">
-                                        <span class="hintone">Login using social networking</span>
-                                        <a href="#" title="" id="fb-login" class="fb-login"><img src="/etc/designs/icicipru/images/fb-login.png" alt=""></a>
-                                        <a href="#" title="" id="tw-login" class="tw-login"><img src="/etc/designs/icicipru/images/tw-login.png" alt=""></a>
-                                        <a href="#" title="" id="gp-login" class="gp-login"><img src="/etc/designs/icicipru/images/gp-login.png" alt=""></a>
-                                        <a href="#" title="" id="ln-login" class="ln-login"><img src="/etc/designs/icicipru/images/ln-login.png" alt=""></a>
-                                        <!--<a href="#" title="" id="msn-login" class="msn-login"><img src="/etc/designs/icicipru/images/msn-login.png" alt=""></a>-->
-                                    <!--</div>-->
 									<br><br><br>																			
-									<!-- <a target="_blank" href="https://group.iciciprulife.com/certificateOfInsurance/certificateInsurance.jsp" class="hintone fl onlycorporate" style="display: none;">COI</a><br><br><br>				
-									<a target="_blank" href="https://group.iciciprulife.com/certificateOfInsurance/certificateInsuranceCOIPMJJBY.jsp" class="hintone fl onlycorporate" style="display: none;">COIPMJJBY</a> -->
                                 </div>	
-								<!--<div class="social-login">
-									<a href="#" title="" class="hintone" >Advisor Login</a>
-								</div>-->
                             </div>
                         </div>
-                        <!-- mobile login dropdown -->
                         <div class="mobile-login" data-iprufilter="mobile-login">
                             <ul>
-                                <li><a href="javascript:void(0)" title="login title">Login</a></li>
+                                <li><a href="#" title="login title">Login</a></li>
                             	
-                                <li><a href="javascript:void(0)" title="customer login">customer</a></li>
+                                <li><a href="#" title="customer login">customer</a></li>
                             
-                                <li><a href="javascript:void(0)" title="employee login">employee</a></li>
+                                <li><a href="#" title="employee login">employee</a></li>
                             
-                                <li><a href="javascript:void(0)" title="advisor login">advisor</a></li>
+                                <li><a href="#" title="advisor login">advisor</a></li>
                             
-                                <li><a href="javascript:void(0)" title="corporate login">corporate</a></li>
+                                <li><a href="#" title="corporate login">corporate</a></li>
                             </ul>
                         </div>
                     </div>
-                    <!-- /.container -->
                 </div>
             </div>
         </div>
-        <!-- SPLASH SCREEN HTML CODE STARTS HERE -->
-		<!-- <div class="modal" id="advisorPopup" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
-		   <div class="modal-dialog subscribe-modal modalbox1" role="document">
-			  <div class="modal-content">
-				 <div class="container adv-container">
-					<div class="modal-header">
-					   <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeLoginClick()"><span aria-hidden="true">×</span></button>
-					</div>
-		<p>&nbsp;</p>
-					<div class="modal-body" style="text-align:center;"><img src="/content/dam/icicipru/all/login-banner.jpg" /></div>
-					<div class="modal-footer" style="padding:15px;">
-					   <button type="button" class="btn" onclick="window.location.href='https://buy.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=unitManager'">LOGIN AS ADVISOR</button>
-					</div>
-				 </div>
-			  </div>
-		   </div>
-		</div>
-		<div class="modal" id="employeePopup" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
-		   <div class="modal-dialog subscribe-modal modalbox1" role="document">
-			  <div class="modal-content">
-				 <div class="container adv-container">
-					<div class="modal-header">
-					   <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeLoginClick()"><span aria-hidden="true">×</span></button>
-					</div>
-		<p>&nbsp;</p>
-					<div class="modal-body" style="text-align:center;"><img src="/content/dam/icicipru/all/login-banner.jpg" /></div>
-					<div class="modal-footer" style="padding:15px;">
-					   <button type="button" class="btn" onclick="window.location.href='https://buy.iciciprulife.com/buy/cmmn-home.htm?defaultAccordian=iPruEmp'" >LOGIN AS EMPLOYEE</button>
-					</div>
-				 </div>
-			  </div>
-		   </div>
-		</div>
-		<div class="modal" id="partnerPopup" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
-		   <div class="modal-dialog subscribe-modal modalbox1" role="document">
-			  <div class="modal-content">
-				 <div class="container adv-container">
-					<div class="modal-header">
-					   <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeLoginClick()"><span aria-hidden="true">×</span></button>
-					</div>
-		<p>&nbsp;</p>
-					<div class="modal-body" style="text-align:center;"><img src="/content/dam/icicipru/all/login-banner.jpg" /></div>
-					<div class="modal-footer" style="padding:15px;">
-					   <button type="button" class="btn" onclick="window.location.href='https://corporate.iciciprulife.com/Corporate/ipru/memberlogin.jsp'">LOGIN AS PARTNER</button>
-					</div>
-				 </div>
-			  </div>
-		   </div>
-		</div>
-		-->
 		<script>
 			$(document).ready(function(){
 				var winHeight = $(window).height();
@@ -481,7 +396,6 @@ function alpha(e) {
             $('#login-type').val('#!');
         }
 		</script>
-		<!-- SPLASH SCREEN HTML CODE ENDS HERE -->
 
     
     
@@ -519,28 +433,37 @@ width:150px;
                         <li class="ipru-nav-item">
                             
                             
-                                <a href="javascript:void(0)" class="ipru-nav-links"> <span class="ipru-nav-text">PLANS</span> <span class="down-arrow"></span> </a>
+                                <a href="#" class="ipru-nav-links"> <span class="ipru-nav-text">PLANS</span> <span class="down-arrow"></span> </a>
                                 <style>
-.icon-nor, .icon-hov{background-repeat: no-repeat;width:25px;height:25px;display:inline-block}
-.icon-hov{display:none}
-.icon-nor:hover + .icon-hov{display:inline-block}
-.icon-nor:hover{display:none}
+    .icon-nor,
+    .icon-hov {
+        background-repeat: no-repeat;
+        width: 25px;
+        height: 25px;
+        display: inline-block
+    }
+    
+    .icon-hov {
+        display: none
+    }
+    
+    .icon-nor:hover + .icon-hov {
+        display: inline-block
+    }
+    
+    .icon-nor:hover {
+        display: none
+    }
 </style>
 
 
 
-	<div class="ipru-nav-data ipru-typ-menu-list">
-	  <div class="ipru-container">
-		 <ul class="ipru-level ipru-level-second">
-			<li class="ipru-nav-item">
-			   <a href="/term-insurance.html" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -0px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -0px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">TERM INSURANCE</span>
-			   </a>
-               
+    <div class="ipru-nav-data ipru-typ-menu-list">
+        <div class="ipru-container">
+            <ul class="ipru-level ipru-level-second">
+                <li class="ipru-nav-item">
+                    <a href="/term-insurance.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -0px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -0px;"></span> </span> <span class="ipru-nav-text">TERM INSURANCE</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -553,55 +476,45 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -675px;background-repeat: no-repeat;width:130px;height:145px;display:inline-block"></span>
-    </a>
+    <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -675px;background-repeat: no-repeat;width:130px;height:145px;display:inline-block"></span> </a>
 </div>
 
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get claim payout on first diagnosis of 34 critical illnesses (optional)*</span>
-         </li>
+    
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Accidental death benefit up to <i class="fa fa-inr"></i>
- 2 crore (optional)<sup>**</sup></span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get claim payout on first diagnosis of 34 critical illnesses (optional)*</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Accidental death benefit up to <i class="fa fa-inr"></i>
+ 2 crore (optional)<sup>**</sup></span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Longer cover till age 99</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Longer cover till age 99</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=TERM_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=TERM_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20iProtect%20Smart.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/term-insurance-plans/iprotect-smart-term-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20iProtect%20Smart.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/term-insurance-plans/iprotect-smart-term-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -612,17 +525,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -30px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -30px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">HEALTH INSURANCE PLANS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="/health-insurance/health-insurance-plans.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -30px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -30px;"></span> </span> <span class="ipru-nav-text">HEALTH INSURANCE PLANS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -635,59 +542,46 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/health-insurance-plans/icici-pru-heart-cancer-health-insurance-calculator.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -909px;background-repeat: no-repeat;width:120px;height:100px;display:inline-block"></span>
-    </a>
+    <a href="/health-insurance-plans/icici-pru-heart-cancer-health-insurance-calculator.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -909px;background-repeat: no-repeat;width:120px;height:100px;display:inline-block"></span> </a>
 </div>
 
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get claim amount on detection</span>
-         </li>
+    
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get treated at the hospital of your choice</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get claim amount on detection</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get treated at the hospital of your choice</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Waiver of future premiums for Minor conditions of Cancer or Heart for full policy term</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Tax benefit under Section 80D</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Waiver of future premiums for Minor conditions of Cancer or Heart for full policy term</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Tax benefit under Section 80D</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/health-insurance-plans/icici-pru-heart-cancer-health-insurance-calculator.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=HEALTH_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/health-insurance-plans/icici-pru-heart-cancer-health-insurance-calculator.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=HEALTH_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/heart_and_cancer.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/health-insurance-plans/icici-pru-heart-cancer-protect-details.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI_Pru_Heart_Cancer_Protect.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/health-insurance-plans/icici-pru-heart-cancer-protect-details.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -701,57 +595,47 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/health-insurance-plans/smart-health-insurance-premium-calculator.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-4px -1113px;background-repeat: no-repeat;width:120px;height:85px;display:inline-block"></span>
-    </a>
+    <a href="/health-insurance-plans/smart-health-insurance-premium-calculator.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-4px -1113px;background-repeat: no-repeat;width:120px;height:85px;display:inline-block"></span> </a>
 </div>
 
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get full claim payout on first diagnosis of any of the covered 34 critical illnesses*</span>
-         </li>
+    
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">No change in premium for the entire policy term</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get full claim payout on first diagnosis of any of the covered 34 critical illnesses*</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">No change in premium for the entire policy term</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">No hospital bills required to raise a claim</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">No hospital bills required to raise a claim</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/health-insurance-plans/smart-health-insurance-premium-calculator.html?UID=1160"><button class="ipru-btn ipru-btn-red">Buy Now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=HEALTH_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">Meet Advisor</button></a>
+    <a href="/health-insurance-plans/smart-health-insurance-premium-calculator.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Buy Now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=HEALTH_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">Meet Advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/leaflets/icicipru-smart-health-leaflet.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Leaflet</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/health-insurance/smart-health-critical-illness-insurance-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/leaflets/icicipru-smart-health-leaflet.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Leaflet</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/health-insurance/smart-health-critical-illness-insurance-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
 <span class="disclaimer-text"><p>*The Critical Illness benefit is an accelerated benefit and the death benefit will be reduced by the Critical Illness cover paid to the policyholder. To know more about the illnesses covered, please refer the sales brochure</p>
 
 
-</span>
-</div>
+</span></div>
 
 
                     </div>
@@ -762,88 +646,62 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="/ulip-plans/unit-linked-insurance-plans.html" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-65px -30px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-65px -30px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">UNIT LINKED INSURANCE PLANS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="/ulip-plans/unit-linked-insurance-plans.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-65px -30px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-65px -30px;"></span> </span> <span class="ipru-nav-text">UNIT LINKED INSURANCE PLANS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
 	  <div class="ipru-container">
 		 <ul class="ipru-level ipru-level-third">
 			<li class="ipru-nav-item">
-			   <a href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=2399" class="ipru-nav-links ipru-links-3rdlvl">
-					<span class="ipru-nav-text">ICICI Pru1 Wealth (New)<span class="ipru-text-orange"></span></span>
+			   <a href="/sol/ulip-plans/icici-pru-signature-ulip.html?UID=2399" class="ipru-nav-links ipru-links-3rdlvl">
+					<span class="ipru-nav-text">ICICI Pru Signature<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-icici-single-premium-policy-pru-one-wealth-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:30px -1200px;background-repeat: no-repeat;width:265px;height:95px;display:inline-block"></span>
-    </a>
+    <a href="/sol/ulip-plans/icici-pru-signature-ulip.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-4px -1379px;background-repeat: no-repeat;width:173px;height:95px;display:inline-block"></span> </a>
 </div>
 
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Invest only once and enjoy benefits for entire policy term</span>
-         </li>
+    <span style="text-align:center" class="ipru-val">Premium starts at <span style="font-family: IndianRupee;">`</span>
+2,00,000 p.a.</span>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">100% amount invested in wide range of funds</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Financial protection for your loved ones with life cover</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Return of Total Premium Allocation Charges</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Value Benefit to reward higher premiums</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Enjoy policy benefits till 99 years of age with Whole Life policy term option</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Withdraw money regularly from your policy with SWP</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Choice of 7 funds (3 equity, 3 debt, 1 balanced)</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life cover to protect your loved ones</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Tax benefits up to <span style="font-family: IndianRupee;">`</span>
- 46,800 u/s&nbsp;80(C) and 10(10D)</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-icici-single-premium-policy-pru-one-wealth-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">Buy Now</button></a>
-   <a href="https://onlinelifeinsurance.iciciprulife.com/digital/Others/SendMeanAdvisor.htm"><button class="ipru-btn ipru-btn-light">Meet Advisor</button></a>
+    <a href="/sol/ulip-plans/icici-pru-signature-ulip.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Know More</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI_Pru1_Wealth_Brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/leaflets/IPru-Signature-Leaflet.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Leaflet</span> </a>
+    </li>
+	
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -857,68 +715,106 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-icici-ulip-returns-calculator-lifetime-classic-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -830px;background-repeat: no-repeat;width:126px;height:69px;display:inline-block"></span>
-    </a>
+    <a href="/ulip-plans/buy-icici-ulip-returns-calculator-lifetime-classic-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -830px;background-repeat: no-repeat;width:126px;height:69px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <span style="font-family: IndianRupee;">`</span>
+    <span style="text-align:center" class="ipru-val">Premium starts at <span style="font-family: IndianRupee;">`</span>
 2500/- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Invest in your choice of equity, debt or balanced funds</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Choice of 4 portfolio strategies</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Invest in your choice of equity, debt or balanced funds</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Choice of 4 portfolio strategies</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get rewarded with Loyalty Additions &amp; Wealth Boosters</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Tax benefits up to <span style="font-family: IndianRupee;">`</span>
+46,800 u/s 80C and 10(10D)</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life cover to protect your loved ones</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get rewarded with Loyalty Additions &amp; Wealth Boosters</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Tax benefits up to <span style="font-family: IndianRupee;">`</span>
-46,800 u/s 80C and 10(10D)</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-icici-ulip-returns-calculator-lifetime-classic-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/ulip-plans/buy-icici-ulip-returns-calculator-lifetime-classic-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI_Pru_LifeTime_Classic_Brochure_Final.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/icici-ulip-lifetime-classic-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI_Pru_LifeTime_Classic_Brochure_Final.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/icici-ulip-lifetime-classic-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
+<span class="disclaimer-text"></span></div>
+
+
+                    </div>
+                </div>
+			</li>
+		  
+			<li class="ipru-nav-item">
+			   <a href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=2399" class="ipru-nav-links ipru-links-3rdlvl">
+					<span class="ipru-nav-text">ICICI Pru1 Wealth<span class="ipru-text-orange"></span></span>
+			   </a>
+				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
+			   <div class="section navigation-fourth-plans">
+<div style="text-align:center">
+    <a href="/ulip-plans/buy-icici-single-premium-policy-pru-one-wealth-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:30px -1200px;background-repeat: no-repeat;width:265px;height:95px;display:inline-block"></span> </a>
 </div>
+
+    
+    <ul class="ipru-notes">
+        
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Invest only once and enjoy benefits for entire policy term</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">100% amount invested in wide range of funds</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Choice of 7 funds (3 equity, 3 debt, 1 balanced)</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Tax benefits up to <span style="font-family: IndianRupee;">`</span>
+ 46,800 u/s&nbsp;80(C) and 10(10D)</span> </li>
+            
+        
+    </ul>
+
+
+<div class="ipru-btn-cont">
+    <a href="/ulip-plans/buy-icici-single-premium-policy-pru-one-wealth-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Buy Now</button>
+    </a>
+    <a href="https://onlinelifeinsurance.iciciprulife.com/digital/Others/SendMeanAdvisor.htm">
+        <button class="ipru-btn ipru-btn-light">Meet Advisor</button>
+    </a>
+</div>
+<ul class="ipru-other-links">
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI_Pru1_Wealth_Brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
+</ul>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -932,57 +828,45 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-smart-life-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -615px;background-repeat: no-repeat;width:135px;height:50px;display:inline-block"></span>
-    </a>
+    <a href="/ulip-plans/buy-smart-life-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -615px;background-repeat: no-repeat;width:135px;height:50px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  45,000 /- p.a.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Complete protection plan to secure your child’s future</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Invest in your choice of equity, debt or balanced funds (8 funds to choose from)</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Complete protection plan to secure your child’s future</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Invest in your choice of equity, debt or balanced funds (8 funds to choose from)</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get Loyalty Additions &amp; Wealth Boosters by staying invested</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get Loyalty Additions &amp; Wealth Boosters by staying invested</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-smart-life-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=CHILD_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/ulip-plans/buy-smart-life-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=CHILD_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI_Pru_Smart_Life_Brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/smart-life-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI_Pru_Smart_Life_Brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/smart-life-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -996,62 +880,47 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-elite-life-super-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -1019px;background-repeat: no-repeat;width:105px;height:69px;display:inline-block"></span>
-    </a>
+    <a href="/ulip-plans/buy-elite-life-super-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -1019px;background-repeat: no-repeat;width:105px;height:69px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
 2,00,000/- p.a.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Move your investment between equity, debt &amp; balanced funds</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Choice of 4 portfolio strategies</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Move your investment between equity, debt &amp; balanced funds</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Choice of 4 portfolio strategies</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Lower effective charges</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life cover to protect your loved ones</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Lower effective charges</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-elite-life-super-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/ulip-plans/buy-elite-life-super-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/Elite_Life_Super_brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/elite-life-super-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/Elite_Life_Super_brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/elite-life-super-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1065,67 +934,49 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-elite-wealth-super-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -537px;background-repeat: no-repeat;width:141px;height:69px;display:inline-block"></span>
-    </a>
+    <a href="/ulip-plans/buy-elite-wealth-super-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-12px -537px;background-repeat: no-repeat;width:141px;height:69px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
 6,00,000/- p.a.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Customize your portfolio strategy</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Rewards of Wealth Boosters and Loyalty Additions </span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Customize your portfolio strategy</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Rewards of Wealth Boosters and Loyalty Additions </span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Lower effective charges</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Move your investment between equity, debt &amp; balanced funds</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life cover to protect your loved ones</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Lower effective charges</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Move your investment between equity, debt &amp; balanced funds</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-elite-wealth-super-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/ulip-plans/buy-elite-wealth-super-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/Elite_Wealth_Super_brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/elite-wealth-super-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/Elite_Wealth_Super_brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/elite-wealth-super-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1139,57 +990,45 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/ulip-plans/buy-guaranteed-wealth-protector-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:0px -68px;background-repeat: no-repeat;width:245px;height:80px;display:inline-block"></span>
-    </a>
+    <a href="/ulip-plans/buy-guaranteed-wealth-protector-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:0px -68px;background-repeat: no-repeat;width:245px;height:80px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  4000/- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Risk-free investment: 101% Money back guarantee</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life cover to protect your loved ones</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Risk-free investment: 101% Money back guarantee</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Get Loyalty Additions &amp; Wealth Boosters by staying invested</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Get Loyalty Additions &amp; Wealth Boosters by staying invested</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/ulip-plans/buy-guaranteed-wealth-protector-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/ulip-plans/buy-guaranteed-wealth-protector-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=ALL_ULIPS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Guaranteed%20Wealth%20Protector.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/ulip-plans/guaranteed-wealth-protector-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Guaranteed%20Wealth%20Protector.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/ulip-plans/guaranteed-wealth-protector-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1200,17 +1039,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="/protection-saving-plans.html" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -60px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -60px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">SAVINGS PLANS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="/protection-saving-plans.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -60px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -60px;"></span> </span> <span class="ipru-nav-text">SAVINGS PLANS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -1223,57 +1056,45 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/money-back-endowment-plans/future-perfect-savings-plan-calculator.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -416px;background-repeat: no-repeat;width:187px;height:62px;display:inline-block"></span>
-    </a>
+    <a href="/money-back-endowment-plans/future-perfect-savings-plan-calculator.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -416px;background-repeat: no-repeat;width:187px;height:62px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  700 /- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Savings with the comfort of guarantee</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Flexibility in premium payment term</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Savings with the comfort of guarantee</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Flexibility in premium payment term</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Security of your loved ones with potential for wealth creation and your Life Cover</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Security of your loved ones with potential for wealth creation and your Life Cover</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/money-back-endowment-plans/future-perfect-savings-plan-calculator.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/money-back-endowment-plans/future-perfect-savings-plan-calculator.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Future%20Perfect%20-%20Brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/money-back-endowment-plans/future-perfect-endowment-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Future%20Perfect%20-%20Brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/money-back-endowment-plans/future-perfect-endowment-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1287,62 +1108,47 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/money-back-endowment-plans/buy-cash-advantage-money-back-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-4px -310px;background-repeat: no-repeat;width:205px;height:50px;display:inline-block"></span>
-    </a>
+    <a href="/money-back-endowment-plans/buy-cash-advantage-money-back-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-4px -310px;background-repeat: no-repeat;width:205px;height:50px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  1,000 /- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Money Back Plan</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life Cover to protect your loved ones</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Money Back Plan</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life Cover to protect your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Easy liquidity</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Guaranteed Cash Benefits</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Easy liquidity</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Guaranteed Cash Benefits</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/money-back-endowment-plans/buy-cash-advantage-money-back-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/money-back-endowment-plans/buy-cash-advantage-money-back-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Cash%20Advantage.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/money-back-endowment-plans/cash-advantage-money-back-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Cash%20Advantage.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/money-back-endowment-plans/cash-advantage-money-back-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1356,62 +1162,94 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/money-back-endowment-plans/buy-savings-suraksha-endowment-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -482px;background-repeat: no-repeat;width:180px;height:45px;display:inline-block"></span>
-    </a>
+    <a href="/money-back-endowment-plans/buy-savings-suraksha-endowment-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -482px;background-repeat: no-repeat;width:180px;height:45px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  1,000 /- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Traditional Savings Plan</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Life Cover to secure the future of your loved ones</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Traditional Savings Plan</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Life Cover to secure the future of your loved ones</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Guaranteed Maturity Benefit</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Guaranteed Additions for staying invested</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Guaranteed Maturity Benefit</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Guaranteed Additions for staying invested</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/money-back-endowment-plans/buy-savings-suraksha-endowment-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">buy now</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/money-back-endowment-plans/buy-savings-suraksha-endowment-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">buy now</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Savings%20Suraksha.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/money-back-endowment-plans/savings-suraksha-endowment-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Savings%20Suraksha.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/money-back-endowment-plans/savings-suraksha-endowment-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
+<span class="disclaimer-text"></span></div>
+
+
+                    </div>
+                </div>
+			</li>
+		  
+			<li class="ipru-nav-item">
+			   <a href="/money-back-endowment-plans/assured-savings-plan.html?UID=2399" class="ipru-nav-links ipru-links-3rdlvl">
+					<span class="ipru-nav-text">ICICI Pru Assured Savings Insurance Plan<span class="ipru-text-orange"></span></span>
+			   </a>
+				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
+			   <div class="section navigation-fourth-plans">
+<div style="text-align:center">
+    <a href="#" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-5px -1296px;background-repeat: no-repeat;width:180px;height:70px;display:inline-block"></span> </a>
 </div>
+
+    
+    <ul class="ipru-notes">
+        
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Growth of wealth with guaranteed additions</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Lump-sum pay out to secure your future</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Premium payment as per your comfort</span> </li>
+            
+        
+    </ul>
+
+
+<div class="ipru-btn-cont">
+    <a href="/money-back-endowment-plans/assured-savings-plan.html?UID=1725">
+        <button class="ipru-btn ipru-btn-red">explore</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=WEALTH_LIFE_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
+</div>
+<ul class="ipru-other-links">
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/leaflets/IPru_ASIP_English.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Leaflet</span> </a>
+    </li>
+	
+	
+</ul>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1422,17 +1260,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="/retirement-pension-plans.html" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-65px -0px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-65px -0px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">RETIREMENT PLANS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="/retirement-pension-plans.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-65px -0px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-65px -0px;"></span> </span> <span class="ipru-nav-text">RETIREMENT PLANS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -1445,62 +1277,47 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -362px;background-repeat: no-repeat;width:195px;height:55px;display:inline-block"></span>
-    </a>
+    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px -362px;background-repeat: no-repeat;width:195px;height:55px;display:inline-block"></span> </a>
 </div>
 
-
-<span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
+    <span style="text-align:center" class="ipru-val">Premium starts at <i class="fa fa-inr"></i>
  4,000 /- p.m.</span>
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Monthly pension for life</span>
-         </li>
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Capital Protection</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Monthly pension for life</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Capital Protection</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Pension Boosters</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">Low charges</span> </li>
+            
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Pension Boosters</span>
-         </li>
-        
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">Low charges</span>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">Calculate Pension</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Calculate Pension</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Easy%20Retirement.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/retirement-pension-plans/easy-retirement-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Easy%20Retirement.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/retirement-pension-plans/easy-retirement-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1514,43 +1331,41 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px 0px;background-repeat: no-repeat;width:230px;height:62px;display:inline-block"></span>
-    </a>
+    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-10px 0px;background-repeat: no-repeat;width:230px;height:62px;display:inline-block"></span> </a>
 </div>
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Make one payment that will provide regular income for life, for you and your spouse</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Make one payment that will provide regular income for life, for you and your spouse</p>
 
 
-</h2>
-      </div>
-   </li>
-</ul>
+</div> </div>
+        </li>
+    </ul>
 
 <div class="ipru-btn-cont">
-   <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">Calculate Pension</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/retirement-pension-plans/buy-easy-retirement-plan-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Calculate Pension</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI_Pru_Easy%20Retirement_SP_Brochure.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/retirement-pension-plans/easy-retirement-plan-single-premium.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI_Pru_Easy%20Retirement_SP_Brochure.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/retirement-pension-plans/easy-retirement-plan-single-premium.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1564,49 +1379,42 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="section navigation-fourth-plans">
 <div style="text-align:center">
-    <a href="/retirement-pension-plans/buy-immediate-annuity-online.html?UID=2398" class="ipru-logo">
-        <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-5px -178px;background-repeat: no-repeat;width:230px;height:55px;display:inline-block"></span>
-    </a>
+    <a href="/retirement-pension-plans/buy-immediate-annuity-online.html?UID=2398" class="ipru-logo"> <span style="background-image:url(/content/dam/icicipru/product_logos/plogos.png);background-position:-5px -178px;background-repeat: no-repeat;width:230px;height:55px;display:inline-block"></span> </a>
 </div>
 
-
-<ul class="ipru-notes">
-      
-		
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">A one-time investment that will give you guaranteed regular income for life</span>
-         </li>
+    
+    <ul class="ipru-notes">
         
-         <li class="ipru-list-item">
-         <span class="ipru-icon"></span>
-      	 <span class="ipru-item">You can get discount of 1% on the purchase price when you buy online</span>
-         </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">A one-time investment that will give you guaranteed regular income for life</span> </li>
+            
+                <li class="ipru-list-item"> <span class="ipru-icon"></span> <span class="ipru-item">You can get discount of 1% on the purchase price when you buy online</span> </li>
+            
         
-      	
-</ul>
+    </ul>
 
 
 <div class="ipru-btn-cont">
-   <a href="/retirement-pension-plans/buy-immediate-annuity-online.html?UID=1160"><button class="ipru-btn ipru-btn-red">Calculate Pension</button></a>
-   <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source="><button class="ipru-btn ipru-btn-light">meet advisor</button></a>
+    <a href="/retirement-pension-plans/buy-immediate-annuity-online.html?UID=1160">
+        <button class="ipru-btn ipru-btn-red">Calculate Pension</button>
+    </a>
+    <a href="https://buy.iciciprulife.com/buy/SendMeanAdvisor.htm?UID=&amp;prodCode=RETIREMENT_PLANS&amp;utm_source=">
+        <button class="ipru-btn ipru-btn-light">meet advisor</button>
+    </a>
 </div>
 <ul class="ipru-other-links">
-   <li class="ipru-list-item">
-      <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Immediate%20Annuity.pdf" class="ipru-link" target="_blank">
-      <span class="ipru-icon-dowload"></span>
-      <span class="ipru-cm-line-break">Brochure</span>
-      </a>
-   </li>
-   <li class="ipru-list-item">
-      <a href="/retirement-pension-plans/immediate-annuity-retirement-plan.html?UID=1725" class="ipru-link">
-      <span class="ipru-icon-know"></span>
-      <span class="ipru-cm-line-break">Know More</span>
-      </a>
-   </li>
+	
+    <li class="ipru-list-item">
+        <a href="/content/dam/icicipru/brochures/ICICI%20Pru%20Immediate%20Annuity.pdf" class="ipru-link" target="_blank"> <span class="ipru-icon-dowload"></span> <span class="ipru-cm-line-break">Brochure</span> </a>
+    </li>
+	
+	
+    <li class="ipru-list-item">
+        <a href="/retirement-pension-plans/immediate-annuity-retirement-plan.html?UID=1725" class="ipru-link"> <span class="ipru-icon-know"></span> <span class="ipru-cm-line-break">Know More</span> </a>
+    </li>
+	
 </ul>
-<span class="disclaimer-text"></span>
-</div>
+<span class="disclaimer-text"></span></div>
 
 
                     </div>
@@ -1617,15 +1425,17 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 </ul>
-          
-          <div class="ipru-cm-text-center">
-               <a href="/insurance-plans/view-all-insurance-plans.html?UID=1060"><button class="ipru-btn ipru-btn-light" type="button">View All Plans</button></a>
-          </div>
-          
-	  </div>
-	</div>
+                </li>
+            </ul>
+            
+                <div class="ipru-cm-text-center">
+                    <a href="/insurance-plans/view-all-insurance-plans.html?UID=1060">
+                        <button class="ipru-btn ipru-btn-light" type="button">View All Plans</button>
+                    </a>
+                </div>
+            
+        </div>
+    </div>
 
                             
                         </li>
@@ -1656,85 +1466,78 @@ width:150px;
                         <li class="ipru-nav-item">
                             
                             
-                                <a href="javascript:void(0)" class="ipru-nav-links"> <span class="ipru-nav-text">LIBRARY</span> <span class="down-arrow"></span> </a>
+                                <a href="#" class="ipru-nav-links"> <span class="ipru-nav-text">LIBRARY</span> <span class="down-arrow"></span> </a>
                                 <style>
-.icon-nor, .icon-hov{background-repeat: no-repeat;width:25px;height:25px;display:inline-block}
-.icon-hov{display:none}
-.icon-nor:hover + .icon-hov{display:inline-block}
-.icon-nor:hover{display:none}
+    .icon-nor,
+    .icon-hov {
+        background-repeat: no-repeat;
+        width: 25px;
+        height: 25px;
+        display: inline-block
+    }
+    
+    .icon-hov {
+        display: none
+    }
+    
+    .icon-nor:hover + .icon-hov {
+        display: inline-block
+    }
+    
+    .icon-nor:hover {
+        display: none
+    }
 </style>
 
 
 
-	<div class="ipru-nav-data ipru-typ-menu-list">
-	  <div class="ipru-container">
-		 <ul class="ipru-level ipru-level-second">
-			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -60px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -60px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">UNDERSTANDING INSURANCE</span>
-			   </a>
-               
+    <div class="ipru-nav-data ipru-typ-menu-list">
+        <div class="ipru-container">
+            <ul class="ipru-level ipru-level-second">
+                <li class="ipru-nav-item">
+                    <a href="#" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -60px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -60px;"></span> </span> <span class="ipru-nav-text">UNDERSTANDING INSURANCE</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
 	  <div class="ipru-container">
 		 <ul class="ipru-level ipru-level-third">
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Insurance Guide <span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance/what-is-term-insurance.html">What is Term Insurance?</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/ulip-plans/unit-linked-insurance-plans.html">What are ULIPs?</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/what-is-term-insurance.html">What is Term Insurance?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/ulip-plans/unit-linked-insurance-plans.html">What are ULIPs?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/child-insurance/child-insurance-plans.html">What are Child Insurance Plans?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/health-insurance/what-is-health-insurance.html">What is Health Insurance?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/health-insurance/what-is-critical-illness-insurance.html">What is Critical Illness Insurance?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/retirement-pension-plans.html">What are Retirement Pension Plans?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/money-back-endowment-plans.html">What are Money Back / Endowment Plans?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/insurance-basics/what-is-annuity.html">What is Annuity?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/insurance-basics/what-are-riders-in-insurance.html">What are Riders?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/insurance-basics/life-insurance.html">What is Life Insurance?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/term-insurance-comparison.html">Compare Term Insurance</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/whole-life-insurance.html">Whole Life Insurance</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/child-insurance/child-insurance-plans.html">What are Child Insurance Plans?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/health-insurance/what-is-health-insurance.html">What is Health Insurance?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/health-insurance/what-is-critical-illness-insurance.html">What is Critical Illness Insurance?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/retirement-pension-plans.html">What are Retirement Pension Plans?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/money-back-endowment-plans.html">What are Money Back / Endowment Plans?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/insurance-basics/what-is-annuity.html">What is Annuity?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/insurance-basics/what-are-riders-in-insurance.html">What are Riders?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/insurance-basics/life-insurance.html">What is Life Insurance?</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -1744,49 +1547,33 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Tax Planning<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/income-tax-slabs-rate-deductions.html">Income Tax Slabs &amp; Rates</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/income-tax-calculator.html">Income Tax Calculator</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/income-tax-slabs-rate-deductions.html">Income Tax Slabs &amp; Rates</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/income-tax-calculator.html">Income Tax Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/how-to-save-income-tax.html">How to Save Income Tax</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/tds.html">TDS (Tax Deducted at Source)</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-plans/tax-saving-life-insurance-plans.html">Tax Saving Life Insurance Plans</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/what-is-section-80c-of-income-tax-act.html">Understanding Section 80C</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/what-is-section-80d-of-income-tax-act.html">Understanding Section 80D</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/goods-and-services.html">Learn about Goods &amp; Services Tax (GST)</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/how-to-save-income-tax.html">How to Save Income Tax</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/tds.html">TDS (Tax Deducted at Source)</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-plans/tax-saving-life-insurance-plans.html">Tax Saving Life Insurance Plans</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/what-is-section-80c-of-income-tax-act.html">Understanding Section 80C</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/what-is-section-80d-of-income-tax-act.html">Understanding Section 80D</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/goods-and-services.html">Learn about Goods &amp; Services Tax (GST)</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -1796,45 +1583,33 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">NRI Corner<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/indias-growth-story.html">India's Growth Story</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-tax-benefits-on-life-insurance.html">Tax benefits</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance-plans/term-insurance-for-nri.html?UID=33561">Term Insurance for NRIs (New)</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/indias-growth-story.html">India's Growth Story</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-tax-benefits-on-life-insurance.html">Tax benefits</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-premium-payment-options.html">Payment options</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-faqs.html">FAQs</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-life-insurance%20-claim-intimation-process.html">Claims settlement</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-policy-settlement-guidelines.html">Settlement Guidelines</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/nri-corner/nri-contact-us.html">Contact us</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-premium-payment-options.html">Payment options</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-faqs.html">FAQs</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-life-insurance%20-claim-intimation-process.html">Claims settlement</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-policy-settlement-guidelines.html">Settlement Guidelines</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/services/nri-corner/nri-contact-us.html">Contact us</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -1844,41 +1619,29 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Articles<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/insurance-basics/basics-of-life-insurance.html">Understand Life Insurance Better</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance/tips-to-choose-online-term-insurance-plans.html">Tips to choose Term Life Insurance</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/insurance-basics/basics-of-life-insurance.html">Understand Life Insurance Better</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/tips-to-choose-online-term-insurance-plans.html">Tips to choose Term Life Insurance</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-claim/claim-settlement-ratio.html">Guide to Claims Settlement Ratio</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/term-insurance-plans.html">Term Insurance Plans</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/mwp-act-term-life-insurance-plan.html">What is MWP Act?</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance/legacy-for-family.html?UID=1423">Leave a legacy for family (New)</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-claim/claim-settlement-ratio.html">Guide to Claims Settlement Ratio</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance/term-insurance-plans.html">What is Term Insurance?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance/mwp-act-term-life-insurance-plan.html">What is MWP Act?</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance/legacy-for-family.html?UID=1423">Leave a legacy for family (New)</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -1888,37 +1651,27 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">More Information<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/insurance-claim/protect-your-insurance-policy.html">Protect Your Policy</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/protection-security/protecting-yourself-from-phishing.html">Phishing</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-claim/protect-your-insurance-policy.html">Protect Your Policy</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/protection-security/protecting-yourself-from-phishing.html">Phishing</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/fraud-prevention-tips.html">Fraud Prevention Tips</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-library/income-tax/income-tax-slabs.html">Tax Rates</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/services/rights-and-duties-of-policy-holders.html">Rights &amp; Duties of Policy Holders</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/fraud-prevention-tips.html">Fraud Prevention Tips</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-library/income-tax/income-tax-slabs.html">Tax Rates</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/services/rights-and-duties-of-policy-holders.html">Rights &amp; Duties of Policy Holders</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -1931,45 +1684,40 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position: -65px -60px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position: -65px -60px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">UNDERSTANDING FUNDS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="#" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position: -65px -60px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position: -65px -60px;"></span> </span> <span class="ipru-nav-text">UNDERSTANDING FUNDS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
 	  <div class="ipru-container">
 		 <ul class="ipru-level ipru-level-third">
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Asset Allocation<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Plan Asset Allocation</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Plan Asset Allocation</p>
 
 
-</h2>
-        		 <p class="ipru-desc">This section helps you understand the amount of money that you could invest in either equity or debt as per your risk preference.</p>
+</div> <p class="ipru-desc">This section helps you understand the amount of money that you could invest in either equity or debt as per your risk preference.</p>
 
 
 
-          <a href="/insurance-library/fund-basics/investments-asset-allocation.html"><button class="ipru-btn ipru-btn-red">Read More</button></a>
-      </div>
-   </li>
-</ul>
+                <a href="/insurance-library/fund-basics/investments-asset-allocation.html">
+                    <button class="ipru-btn ipru-btn-red">Read More</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -1978,28 +1726,29 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">View of the economy<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Economic Indicators and Market Indices</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Economic Indicators and Market Indices</p>
 
 
-</h2>
-        		 <p class="ipru-desc">Get a view of performance of the Indian economy</p>
+</div> <p class="ipru-desc">Get a view of performance of the Indian economy</p>
 
 
 
-          <a href="/insurance-library/fund-basics/market-indices-economic-indicators.html"><button class="ipru-btn ipru-btn-red">View list</button></a>
-      </div>
-   </li>
-</ul>
+                <a href="/insurance-library/fund-basics/market-indices-economic-indicators.html">
+                    <button class="ipru-btn ipru-btn-red">View list</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2008,28 +1757,29 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Systematic Investment Plans<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>SYSTEMATIC INVESTMENT PLAN (SIP)</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>SYSTEMATIC INVESTMENT PLAN (SIP)</p>
 
 
-</h2>
-        		 <p class="ipru-desc">SIP is a financial planning tool available for policy holder’s to create wealth and achieve their long term financial goals by contributing a fixed amount in a selected fund(s) at regular intervals, which could be either monthly, quarterly or yearly. The key benefits of SIP to policy holders are rupee cost averaging and also it inculcates disciplined approach towards financial savings rather than ad hoc investment decisions.</p>
+</div> <p class="ipru-desc">SIP is a financial planning tool available for policy holder’s to create wealth and achieve their long term financial goals by contributing a fixed amount in a selected fund(s) at regular intervals, which could be either monthly, quarterly or yearly. The key benefits of SIP to policy holders are rupee cost averaging and also it inculcates disciplined approach towards financial savings rather than ad hoc investment decisions.</p>
 
 
 
-          <a href="/insurance-library/systematic-investment-plan/what-is-sip.html"><button class="ipru-btn ipru-btn-red">View Now</button></a>
-      </div>
-   </li>
-</ul>
+                <a href="/insurance-library/systematic-investment-plan/what-is-sip.html">
+                    <button class="ipru-btn ipru-btn-red">View Now</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2041,45 +1791,40 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -0px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -0px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">FAQS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="#" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-35px -0px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-35px -0px;"></span> </span> <span class="ipru-nav-text">FAQS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
 	  <div class="ipru-container">
 		 <ul class="ipru-level ipru-level-third">
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Claim FAQs<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Claim Related FAQs</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Claim Related FAQs</p>
 
 
-</h2>
-        		 <p class="ipru-desc">Get answers to all your questions regarding claims, their submission and settlement.</p>
+</div> <p class="ipru-desc">Get answers to all your questions regarding claims, their submission and settlement.</p>
 
 
 
-          <a href="/insurance-library/life-insurance-claims-related-faqs.html"><button class="ipru-btn ipru-btn-red">Read More</button></a>
-      </div>
-   </li>
-</ul>
+                <a href="/insurance-library/life-insurance-claims-related-faqs.html">
+                    <button class="ipru-btn ipru-btn-red">Read More</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2088,61 +1833,39 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="#" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Customer Service FAQs<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/buy-online-faqs.html">Buy Online</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/premium-related.html">Premium Payment</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/buy-online-faqs.html">Buy Online</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/premium-related.html">Premium Payment</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/statements-related.html">Policy Document</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/financial-transactions.html">Fund Related Transactions</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/profile-related.html">Update Personal Details</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/policy-related.html">Policy Servicing</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/assignment-related.html">Assignment</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/nomination-related.html">Nomination</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/payouts-related.html">Payouts Related</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/customer-support/annuity-related.html">Pensions(Annuity)</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-claim/irda-faqs.html">IRDAI</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/statements-related.html">Policy Document</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/financial-transactions.html">Fund Related Transactions</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/profile-related.html">Update Personal Details</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/policy-related.html">Policy Servicing</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/assignment-related.html">Assignment</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/nomination-related.html">Nomination</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/payouts-related.html">Payouts Related</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/customer-support/annuity-related.html">Pensions(Annuity)</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-claim/irda-faqs.html">IRDAI</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -2155,17 +1878,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 
-			<li class="ipru-nav-item">
-			   <a href="javascript:void(0)" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -30px;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -30px;"></span>
-				 </span>
-				  <span class="ipru-nav-text">TOOLS AND CALCULATORS</span>
-			   </a>
-               
+                </li>
+            
+                <li class="ipru-nav-item">
+                    <a href="#" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/blue_icon.png');background-position:-5px -30px;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/red_icon.png');background-position:-5px -30px;"></span> </span> <span class="ipru-nav-text">TOOLS AND CALCULATORS</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -2178,47 +1895,29 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=1407">Term Insurance Premium Calculator</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/income-tax-calculator.html?UID=1404">Income Tax Calculator</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=1407">Term Insurance Premium Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/income-tax-calculator.html?UID=1404">Income Tax Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/power-compounding-calculator.html?UID=1407">Power of Compounding Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/retirement-planning-calculator.html?UID=1408">Retirement Planning Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/iprotect-home-loan-insurance-calculator.html?UID=1407">Home Loan Insurance Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/child-education-calculator.html?UID=1406">Child’s Education Cost Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/human-life-value-calculator.html?UID=1403">Human Life Value Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/hra-exemption-calculator.html?UID=1407">HRA Calculator</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/insurance-guide/financial-planning-tools-calculators/cost-of-delay-calculator.html?UID=1407">Cost of Delay Calculator</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/power-compounding-calculator.html?UID=1407">Power of Compounding Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/retirement-planning-calculator.html?UID=1408">Retirement Planning Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/iprotect-home-loan-insurance-calculator.html?UID=1407">Home Loan Insurance Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/child-education-calculator.html?UID=1406">Child’s Education Cost Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/human-life-value-calculator.html?UID=1403">Human Life Value Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/hra-exemption-calculator.html?UID=1407">HRA Calculator</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/insurance-guide/financial-planning-tools-calculators/cost-of-delay-calculator.html?UID=1407">Cost of Delay Calculator</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -2231,11 +1930,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 </ul>
-          
-	  </div>
-	</div>
+                </li>
+            </ul>
+            
+        </div>
+    </div>
 
                             
                         </li>
@@ -2245,7 +1944,7 @@ width:150px;
                     
                         <li class="ipru-nav-item">
                             
-                                <a href="/services/online-services.html" class="ipru-nav-links"> <span class="ipru-nav-text">CUSTOMER SERVICE</span> </a>
+                                <a href="https://www.iciciprulife.com/services/online-services.html" class="ipru-nav-links"> <span class="ipru-nav-text">CUSTOMER SERVICE</span> </a>
                             
                             
                         </li>
@@ -2269,31 +1968,40 @@ width:150px;
                         <li class="ipru-nav-item mobile-screen">
                            
                    
-				   <a href="javascript:void(0)" class="ipru-nav-links">
+				   <a href="#" class="ipru-nav-links">
 					   <span class="ipru-nav-text">About Us</span>
 					   <span class="down-arrow"></span>
 				   </a>
 				 	<style>
-.icon-nor, .icon-hov{background-repeat: no-repeat;width:25px;height:25px;display:inline-block}
-.icon-hov{display:none}
-.icon-nor:hover + .icon-hov{display:inline-block}
-.icon-nor:hover{display:none}
+    .icon-nor,
+    .icon-hov {
+        background-repeat: no-repeat;
+        width: 25px;
+        height: 25px;
+        display: inline-block
+    }
+    
+    .icon-hov {
+        display: none
+    }
+    
+    .icon-nor:hover + .icon-hov {
+        display: inline-block
+    }
+    
+    .icon-nor:hover {
+        display: none
+    }
 </style>
 
 
 
-	<div class="ipru-nav-data ipru-typ-menu-list">
-	  <div class="ipru-container">
-		 <ul class="ipru-level ipru-level-second">
-			<li class="ipru-nav-item">
-			   <a href="/about-us/company-overview.html" class="ipru-nav-links">
-				  <span class="ipru-img-wrap">
-					<span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/1.png');background-position:;"></span>
-					<span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/1.png');background-position:;"></span>
-				 </span>
-				  <span class="ipru-nav-text">About Us</span>
-			   </a>
-               
+    <div class="ipru-nav-data ipru-typ-menu-list">
+        <div class="ipru-container">
+            <ul class="ipru-level ipru-level-second">
+                <li class="ipru-nav-item">
+                    <a href="/about-us/company-overview.html" class="ipru-nav-links"> <span class="ipru-img-wrap"><span class="icon-nor" style="background-image:url('/content/dam/icicipru/menu-logos/blue-icon/1.png');background-position:;"></span><span class="icon-hov" style="background-image:url('/content/dam/icicipru/menu-logos/red-icon/1.png');background-position:;"></span> </span> <span class="ipru-nav-text">About Us</span> </a>
+                    
 
 
 	<div class="ipru-nav-data ipru-typ-menu-list">
@@ -2306,35 +2014,23 @@ width:150px;
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview.html">History</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview/promoters.html">Promoters</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview.html">History</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview/promoters.html?ID=about-promoters">Promoters</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview/board-of-directors.html?ID=about-bod">Board of Directors</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview/board-committees.html?ID=about-com">Board Committees</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview/key-persons.html?ID=about-mang">Key Persons</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/company-overview/corporate-social-responsibility.html?ID=about-csr">Corporate Social Responsibility</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview/board-of-directors.html">Board of Directors</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview/board-committees.html">Board Committees</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview/key-persons.html">Key Persons</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/about-us/company-overview/corporate-social-responsibility.html">Corporate Social Responsibility</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -2344,37 +2040,27 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="/about-us/investor-relations.html" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="/about-us/investor-relations.html?ID=about1" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Investor Relations<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/about-us/investor-relations.html">Financial Information</a>
-         </li>
+    <ul class="ipru-notes">
         
-		<li class="ipru-list-item">
-      	 <a href="/about-us/investor-relations/yearly-public-disclosures.html">Public Disclosures</a>
-         </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/investor-relations/financial-information.html?ID=about2">Financial Information</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/investor-relations/yearly-public-disclosures.html?ID=about3">Public Disclosures</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/investor-relations/yearly-public-disclosures.html?ID=about3">Active Agents List</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/shareholder-information/notices.html?ID=about-notice">Information to Shareholder</a> </li>
+            
+                <li class="ipru-list-item"> <a href="/about-us/bulletin-board.html?ID=about4">Bulletin Board</a> </li>
+            
         
-		<li class="ipru-list-item">
-      	 <a href="/about-us/investor-relations/active-agents-list.html">Active Agents List</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/about-us/investor-relations/shareholder-information.html">Information to Shareholder</a>
-         </li>
-        
-		<li class="ipru-list-item">
-      	 <a href="/about-us/investor-relations/bulletin-board.html">Bulletin Board</a>
-         </li>
-        
-      	
-</ul>
+    </ul>
 
 </div>
 
@@ -2384,25 +2070,26 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="/about-us/corporate-policies.html" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="/about-us/corporate-policies.html?ID=about-corp" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Corporate Policies<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Corporate Policies</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Corporate Policies</p>
 
 
-</h2>
-        		 
-          <a href="/about-us/corporate-policies.html"><button class="ipru-btn ipru-btn-red">Know More</button></a>
-      </div>
-   </li>
-</ul>
+</div> 
+                <a href="/about-us/corporate-policies.html?ID=about-corp">
+                    <button class="ipru-btn ipru-btn-red">Know More</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2411,21 +2098,19 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="/about-us/media-center/press-releases.html" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="/about-us/media-center/press-releases.html?ID=about5" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Media Center<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
-<ul class="ipru-notes">
-      
-		
-		<li class="ipru-list-item">
-      	 <a href="/about-us/media-center/press-releases.html">Press Releases</a>
-         </li>
+    <ul class="ipru-notes">
         
-      	
-</ul>
+            
+                <li class="ipru-list-item"> <a href="/about-us/media-center/press-releases.html?ID=about5">Press Releases</a> </li>
+            
+        
+    </ul>
 
 </div>
 
@@ -2435,25 +2120,26 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="/about-us/company-overview/awards-and-accolades.html" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="/about-us/media-center/awards-and-accolades.html?ID=about6" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">Awards and Accolades<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>Awards and Accolades</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>Awards and Accolades</p>
 
 
-</h2>
-        		 
-          <a href="/about-us/company-overview/awards-and-accolades.html"><button class="ipru-btn ipru-btn-red">View Awards</button></a>
-      </div>
-   </li>
-</ul>
+</div> 
+                <a href="/about-us/media-center/awards-and-accolades.html?ID=about6">
+                    <button class="ipru-btn ipru-btn-red">View Awards</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2462,25 +2148,26 @@ width:150px;
 			</li>
 		  
 			<li class="ipru-nav-item">
-			   <a href="/about-us/view-our-ads.html" class="ipru-nav-links ipru-links-3rdlvl">
+			   <a href="/about-us/media-center/view-our-ads.html?ID=about7" class="ipru-nav-links ipru-links-3rdlvl">
 					<span class="ipru-nav-text">View Our Ads<span class="ipru-text-orange"></span></span>
 			   </a>
 				<div class="ipru-nav-data ipru-typ-desc"><div class="ipru-container ipru-data-selection">
 			   <div class="navigation-fourth-library section">
 
 
-<ul class="ipru-data">
-   <li class="ipru-list-item">
-      <div class="ipru-data-container">
-         <h2 class="ipru-title"><p>View Our Ads</p>
+    <ul class="ipru-data">
+        <li class="ipru-list-item">
+            <div class="ipru-data-container">
+                <div class="ipru-title"><p>View Our Ads</p>
 
 
-</h2>
-        		 
-          <a href="/about-us/view-our-ads.html"><button class="ipru-btn ipru-btn-red">View Ads</button></a>
-      </div>
-   </li>
-</ul>
+</div> 
+                <a href="/about-us/media-center/view-our-ads.html?ID=about7">
+                    <button class="ipru-btn ipru-btn-red">View Ads</button>
+                </a>
+            </div>
+        </li>
+    </ul>
 </div>
 
 
@@ -2492,11 +2179,11 @@ width:150px;
 	  </div>
 	</div>
 
-			</li>
-		 </ul>
-          
-	  </div>
-	</div>
+                </li>
+            </ul>
+            
+        </div>
+    </div>
 
                  
                         </li>
@@ -2762,13 +2449,14 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
  <div class="col-xs-12 col-sm-3 col-lg-3">  
 
 
-<h4 class="open-list">product links</h4>
+<div class="open-list">product links</div>
 <ul class="footer-list prod-list">
 <li><a adhocenable="false" target="_blank" href="/insurance-plans/buy-life-insurance-online.html?UID=1414">Buy Online</a></li>
 <li><a adhocenable="false" target="_blank" href="/term-insurance.html?UID=1413">Term Insurance</a></li>
+<li><a adhocenable="false" target="_blank" href="/term-insurance-plans/term-insurance-for-nri.html?UID=33561">Term Insurance for NRIs (New)</a></li>
 <li><a adhocenable="false" target="_blank" href="/investment-options/tax-saving-investment-calculator.html?UID=1413">Tax Saving Investment Plan</a></li>
 <li><a adhocenable="false" target="_blank" href="/term-insurance/term-insurance-plans.html?UID=1413">Term Plans</a><ul class="inner-footer">
-<li><a adhocenable="false" target="_blank" href="/term-insurance-plans/iprotect-smart-99-details-calculator.html?UID=7410">ICICI Pru iProtect Smart</a></li>
+<li><a adhocenable="false" target="_blank" href="/term-insurance-plans/iprotect-smart-wl-details-calculator.html?UID=7410">ICICI Pru iProtect Smart</a></li>
 <li><a adhocenable="false" target="_blank" href="/term-insurance-plans/icare-ii-term-plan.html?UID=1413">ICICI Pru iCare II</a></li>
 </ul>
 </li>
@@ -2778,8 +2466,9 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
 </ul>
 </li>
 <li><a adhocenable="false" target="_blank" href="/ulip-plans/unit-linked-insurance-plans.html?UID=1413">Unit Linked Insurance Plans (ULIPs)</a><ul class="inner-footer">
-<li><a adhocenable="false" target="_blank" href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=1413">ICICI Pru1 Wealth (New)</a></li>
+<li><a adhocenable="false" target="_blank" href="/sol/ulip-plans/icici-pru-signature-ulip.html?UID=1413">ICICI Pru Signature </a></li>
 <li><a adhocenable="false" target="_blank" href="/ulip-plans/icici-ulip-lifetime-classic-plan.html?UID=1413">ICICI Pru LifeTime Classic </a></li>
+<li><a adhocenable="false" target="_blank" href="/ulip-plans/icici-single-premium-policy-pru-one-wealth.html?UID=1413">ICICI Pru1 Wealth</a></li>
 <li><a target="_blank" href="/ulip-plans/elite-life-super-plan.html?UID=1413" adhocenable="false">ICICI Pru Elite Life Super </a></li>
 <li><a target="_blank" href="/ulip-plans/elite-wealth-super-plan.html?UID=1413" adhocenable="false">ICICI Pru Elite Wealth Super</a><br>
 </li>
@@ -2815,7 +2504,13 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
 <li><a adhocenable="false" href="/health-insurance/what-is-critical-illness-insurance.html?UID=1413" target="_blank">What is Critical Illness Insurance?</a></li>
 </ul>
 <ul class="footer-list prod-list">
+<li><a adhocenable="false" href="/term-insurance/term-insurance-comparison.html?UID=1413" target="_blank">Compare Term Insurance</a></li>
+</ul>
+<ul class="footer-list prod-list">
 <li><a adhocenable="false" href="/ulip-plans/ulip-plan-comparison.html?UID=1415" target="_blank">Compare Ulip Plans</a></li>
+</ul>
+<ul class="footer-list prod-list">
+<li><a adhocenable="false" href="/term-insurance/whole-life-insurance.html?UID=1413" target="_blank">Whole Life Insurance</a></li>
 </ul>
 
 
@@ -2829,8 +2524,8 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
  <div class="col-xs-12 col-sm-3 col-lg-3">  
 
 
-<h4 class="open-list hidden-xs"><a adhocenable="false" target="_blank" href="/services/online-services.html">Customer Service</a></h4>
-<h4 class="open-list visible-xs">Customer Service</h4>
+<div class="open-list hidden-xs"><a adhocenable="false" target="_blank" href="/services/online-services.html">Customer Service</a></div>
+<div class="open-list visible-xs">Customer Service</div>
 <ul class="footer-list prod-list">
 <li><span class="footer-sub">Premium Payment</span><ul class="inner-footer">
 <li><a adhocenable="false" target="_blank" href="https://customer.iciciprulife.com/csr/csr_onlinePreIssuancePayment.htm">Pay Your First Premium</a></li>
@@ -2857,14 +2552,15 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
 </li>
 <li><a class="visible-xs" adhocenable="false" target="_blank" href="/sitemap.html">Sitemap</a></li>
 </ul>
-<h4 class="open-list hidden-xs"><a adhocenable="false" target="_blank" href="/sitemap.html">Sitemap</a></h4>
+<div class="open-list hidden-xs"><a adhocenable="false" target="_blank" href="/sitemap.html">Sitemap</a></div>
 
 
 
 
-<div><a href="/tools-and-calculators.html?UID=1413"><h4 class="open-list hidden-xs" style="margin-bottom: 20px; margin-top: 30px; color: #ffffff;">Tools and Calculators</h4>
-</a><h4 class="open-list visible-xs">Tools and Calculators</h4>
-<ul class="footer-list">
+<div class="foot_links_div"><div class="open-list visible-xs">Tools and Calculators</div>
+<a href="/tools-and-calculators.html" class="a_tools_cal"><div class="open-list hidden-xs" style="margin-bottom: 20px; margin-top: 30px; color: #fff;">Tools and Calculators<span class="spanarr"></span></div>
+</a>
+<ul class="footer-list footslideup">
 <li><a href="/term-insurance-plans/iprotect-smart-term-insurance-calculator.html?UID=1413" title="Term Insurance Premium Calculator">Term Insurance Premium Calculator</a></li>
 <li><a href="/insurance-guide/financial-planning-tools-calculators/income-tax-calculator.html?UID=1413" title="Income Tax Calculator">Income Tax Calculator</a></li>
 <li><a href="/insurance-guide/financial-planning-tools-calculators/power-compounding-calculator.html?UID=1413" title="Power of Compounding Calculator">Power of Compounding Calculator</a></li>
@@ -2886,10 +2582,10 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
 
  <div class="col-xs-12 col-sm-3 col-lg-3">  
 
-<h4 class="open-list">Quick Links</h4>
+<div class="open-list">Quick Links</div>
 
     <ul class="footer-list">
-        <li><a href="/about-us/investor-relations/yearly-public-disclosures.html" title="Public Disclosure">Public Disclosure</a></li>
+        <li><a href="/about-us/investor-relations/yearly-public-disclosures.html?ID=about3" title="Public Disclosure">Public Disclosure</a></li>
     
         <li><a href="/insurance-plans/revisionary-bonus-declaration.html" title="Bonus Declaration">Bonus Declaration</a></li>
     
@@ -2941,9 +2637,9 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
     </ul>
                
 
-<div><h4 class="open-list hidden-xs" style="margin-bottom: 20px; margin-top: 30px;">Tax Planning</h4>
-<h4 class="open-list visible-xs">Tax Planning</h4>
-<ul class="footer-list">
+<div class="foot_links_div"><div class="open-list visible-xs">Tax Planning</div>
+<a class="a_tools_cal" style="color: #fff;"><div class="open-list hidden-xs " style="margin-bottom: 20px; margin-top: 30px;">Tax Planning<span class="spanarr"></span></div>
+</a><ul class="footer-list footslideup">
 <li><a href="/investment-options/best-tax-saving-investment-plan.html?UID=1413" title="ULIPS as a tax saving investment">ULIPS as a tax saving investment</a></li>
 <li><a href="/insurance-library/income-tax/income-tax-slabs-rate-deductions.html?UID=1413" title="Income Tax Slabs &amp; Rates">Income Tax Slabs &amp; Rates</a></li>
 <li><a href="/insurance-library/income-tax/how-to-save-income-tax.html?UID=1413" title="How to Save Income Tax">How to Save Income Tax</a></li>
@@ -2960,10 +2656,83 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
 
 
  <div class="col-xs-12 col-sm-3 col-lg-3">  
- <style>.img-svr1{width:55px;height:53px;background-repeat: no-repeat; display: inline-block;}.FB{background-position:-15px -0px}.Twitter{background-position:-73px -58px}.Youtube{background-position:-15px -116px}.LinkedIn{background-position:-15px -58px}.Googleplus{background-position:-72px 0px}ul.footer-list.social-list li a span{display: inline; padding: 10px 5px;position: relative; top: -22px;}@media (max-width: 767px){.footer-list.social-list{padding: 0 15px 65px;}}</style><div itemscope="" itemtype="http://schema.org/Organization"><link itemprop="url" href="https://www.iciciprulife.com"> <h4 class="open-list social-btn">Social Media Links</h4>  <ul class="footer-list social-list"> <li> <a itemprop="sameAs" target="_blank" href="https://www.facebook.com/ICICIPruLife"> <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 FB"></div><span class="hidden-xs">Like Us on Facebook</span></a> </li> <li> <a itemprop="sameAs" target="_blank" href="https://twitter.com/iciciprulife"> <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Twitter"></div><span class="hidden-xs">Follow Us on Twitter</span></a> </li> <li> <a itemprop="sameAs" target="_blank" href="https://www.youtube.com/iciciprudentiallife"> <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Youtube"></div><span class="hidden-xs">Watch Our Videos</span></a> </li> <li> <a itemprop="sameAs" target="_blank" href="https://www.linkedin.com/company/icici-prudential-life-insurance-company-limited"> <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 LinkedIn"></div><span class="hidden-xs">Connect on LinkedIn</span></a> </li> <li> <a itemprop="sameAs" target="_blank" href="https://plus.google.com/+ICICIPruLife/about"> <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Googleplus"></div><span class="hidden-xs">Add on Google Plus</span></a> </li></ul> </div>
+<style>
+    .img-svr1 {
+        width: 55px;
+        height: 53px;
+        background-repeat: no-repeat;
+        display: inline-block;
+    }
+    
+    .FB {
+        background-position: -15px -0px
+    }
+    
+    .Twitter {
+        background-position: -73px -58px
+    }
+    
+    .Youtube {
+        background-position: -15px -116px
+    }
+    
+    .LinkedIn {
+        background-position: -15px -58px
+    }
+    
+    .Googleplus {
+        background-position: -72px 0px
+    }
+    
+    ul.footer-list.social-list li a span {
+        display: inline;
+        padding: 10px 5px;
+        position: relative;
+        top: -22px;
+    }
+    
+    @media (max-width: 767px) {
+        .footer-list.social-list {
+            padding: 0 15px 65px;
+        }
+    }
+</style>
 
-<p class="hidden-xs">&nbsp;</p>
-<h4 class="open-list">Group Companies</h4>
+<div itemscope="" itemtype="http://schema.org/Organization">
+    <link itemprop="url" href="https://www.iciciprulife.com">
+    <div class="open-list social-btn">Social Media Links</div>
+    
+        <ul class="footer-list social-list">
+            <li>
+                <a itemprop="sameAs" target="_blank" href="https://www.facebook.com/ICICIPruLife">
+                    <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 FB"></div><span class="hidden-xs">Like Us on Facebook</span></a>
+            </li>
+        
+            <li>
+                <a itemprop="sameAs" target="_blank" href="https://twitter.com/iciciprulife">
+                    <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Twitter"></div><span class="hidden-xs">Follow Us on Twitter</span></a>
+            </li>
+        
+            <li>
+                <a itemprop="sameAs" target="_blank" href="https://www.youtube.com/iciciprudentiallife">
+                    <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Youtube"></div><span class="hidden-xs">Watch Our Videos</span></a>
+            </li>
+        
+            <li>
+                <a itemprop="sameAs" target="_blank" href="https://www.linkedin.com/company/icici-prudential-life-insurance-company-limited">
+                    <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 LinkedIn"></div><span class="hidden-xs">Connect on LinkedIn</span></a>
+            </li>
+        
+            <li>
+                <a itemprop="sameAs" target="_blank" href="https://plus.google.com/+ICICIPruLife/about">
+                    <div style="background-image:url(/content/dam/icicipru/all/SerImg.png)" class="img-svr1 Googleplus"></div><span class="hidden-xs">Add on Google Plus</span></a>
+            </li>
+        </ul>
+    
+</div>
+
+<div class="open-list visible-xs">Group Companies</div>
+<div class="open-list  hidden-xs" style="margin-bottom: 20px; margin-top: 30px;">Group Companies</div>
 <ul class="footer-list">
 <li><a href="https://www.icicibank.com/" title="ICICI Bank">ICICI Bank</a></li>
 <li><a href="https://www.icicilombard.com/" title="ICICI Lombard General Insurance">ICICI Lombard General Insurance</a></li>
@@ -3111,7 +2880,7 @@ The Website may amend or modify, this Privacy Policy including replacing this Pr
     <div class="col-lg-12">
         <div class="irdai-block">
             <div class="txt-content">
-                <h6>BEWARE OF SUSPICIOUS PHONE CALLS AND FICTITIOUS/FRAUDULENT OFFERS</h6>
+                <div class="textbeware">BEWARE OF SUSPICIOUS PHONE CALLS AND FICTITIOUS/FRAUDULENT OFFERS</div>
                 <span class="list-title">IRDAI is not involved in activities like selling insurance policies, announcing bonus or investment of premiums. Public receiving such phone calls are requested to lodge a police complaint.</span>
                 
 			</div>
