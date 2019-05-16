@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidebelts.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422052203id_/https%3A//www.slidebelts.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidebelts.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516073610id_/http%3A//www.slidebelts.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ratchet Belt without Holes Adjustable Belt Survival Belt | SlideBelts
 
