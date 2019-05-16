@@ -1,67 +1,271 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320070134id_/https%3A//www.homeexchange.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517012612id_/https%3A//www.homeexchange.com/p/privacy-policy) for the most accurate reproduction.*
 
-# HomeExchange.com™ - Privacy Policy
+# Privacy Policy - Home Exchange - HomeExchange
 
-**HomeExchange.com** (the "Club") has created this Privacy Statement (the "Privacy Statement") as part of our commitment to helping our members better understand what information we collect about them and what we may do with that information. This Privacy Statement is incorporated into and subject to the terms of the Club's Terms and Conditions.
+This Privacy Charter (hereinafter referred to as the ‘Charter’) is that of the company that publishes the HomeExchange.fr website (hereinafter referred to as ‘we’):
 
-The following discloses our information gathering and dissemination practices.
+HomeExchange.com Inc. Prospect St., Cambridge, MA 02139  
+Tel. : +33 (0)1 82 83 49 30  
+DPO contact: [dpo@homeexchange.com](mailto:dpo@homeexchange.com)
 
-1\. **Your Use of other Members' Information**
+As the data controller, Tukazza! is very committed to protecting your personal data and respecting your privacy.
 
-By accepting this Privacy Statement, you agree that, with respect to other members' personally identifiable information that you obtain through the Services, the Club hereby grants to you a license to use such information only for: (a) Club related communications that are not unsolicited commercial messages, and (b) any other purpose to which such member expressly agrees after complete disclosure of the purpose. In all cases, you must give members an opportunity to remove themselves from your database. In addition, under no circumstances, except as defined in this Privacy Statement, may you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. The Club and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Club member to your mail list (email or physical mail) without their express consent after adequate disclosure.
+The purpose of this Charter is to inform you of our practices regarding the collection, use and sharing of information that you may provide to us when you use our HomeExchange website, accessible at [www.homeexchange.com/en/](https://www.homeexchange.com/en/) (hereinafter referred to as ‘HomeExchange’).
 
-2\. **Accessing, Reviewing and Changing Your Profile**
+We encourage you to carefully read this Charter, which applies when you use HomeExchange, in order to know and understand our practices regarding the processing of your personal data that We handle as well as your rights.
 
-Following registration, you can review and change the information you submitted during registration. For instructions on how to do so, visit the Help section of the Website. If you change your password and email address we will retain a record of your old password and email address. You can also change your registration information such as: name, address, city, state, zip code, country, phone number, postings and saved search criteria.
+This Charter shall take effect as of 19/12/2018. It is subject to change at any time; in the event of substantial changes, we will inform you within a reasonable time period and, if necessary, request your consent again before it comes into effect.
 
-Upon your notification, we will remove your membership from our active databases as soon as reasonably possible in accordance with our policy and applicable law. To learn how to hide or remove your profile so that others cannot view it, visit the Help section of the Websites.
+## Contents
 
-We will retain in our files information you have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored â€˜back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to any request you may submit.
+  * 1\. Purpose of the Charter
+  * 2\. The information we collect
+    * 2.1. Required information that you transmit directly to us
+    * 2.2. Additional and optional information that you may send us
+    * 2.3. The information we automatically collect
+  * 3\. The use of the data we collect
+  * 4\. Data retention periods
+  * 5\. The recipients of our data
+    * 5.1. HomeExchange members with whom you are communicating
+    * 5.2. Other companies belonging to our group
+    * 5.3. Business partners or third-party service providers
+  * 6\. Storage of your information
+  * 7\. Transfer of your data
+  * 8\. Our use of cookies
+    * 8.1 Technical cookies
+    * 8.2 Audience measurement cookies
+    * 8.3 Advertising cookies
+    * 8.4 Social network / third-party cookies
+  * 9\. How can I prevent the use of cookies?
+  * 10\. Your rights
+  * 11\. Exercising your rights
+  * 12\. Your DPO contact
 
-3\. **Information We Collect**
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features and to customize our service to make your experience better. You agree that we may feature members' postings, including your postings, in, among other places, editorials and newsletters that we may periodically send out to our members. The only information which will be posted is the information which you choose to display when you create your posting. Your postings can be viewed by other members and the general public and we cannot prevent third parties from copying and displaying information which is posted. While we cannot prevent such actions by third parties, the content of our Website is copyright protected and it is our policy to prosecute any such improper copying of information which you have posted. To the extent you do not want certain information to be viewed, do not place that information on your posting. We may, through agreements with other websites, allow your listing information to be posted on such websites. Such postings will not include any of your contact information, nor will we allow those websites or their users to contact you directly, but we will instead have those users re-directed to our Website and/or your listing on this Website. Please note that your personally identifiable information will be stored and processed on our computers in the United States. The laws regarding the handling of personal data in the United States may differ from the laws of other countries but, as we explain below, we will hold and transmit your information in a safe, confidential and secure environment.
 
-4\. **Use of "Cookies"**
+## 1\. Purpose of the Charter
 
-We use data collection devices such as "cookies" on certain pages of our Website. "Cookies" are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie." Cookies can also help us provide information which is targeted to your interests. We use this information to determine our members' demographics, interests, and behavior to better understand and serve you and our community. This information may include the URL of the website that you visited prior to our Website (whether this is on our site or not), the URL of the website you next go to (whether this URL is on our site or not), what browser you are using, and your Internet Protocol ("IP") address. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits. We may use a third party advertising company to serve ads on our behalf across the Internet. That advertising company may also collect anonymous information about your visits to our Website. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon, cookie or an action tag, which is placed on various Web pages within our Website or in an HTML e-mail that allows the third party advertising company to collect anonymous information. There may also be a number of services offered by external service providers that help you use our Website. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their private policies, if any.
+To enable you to make the best use of our HomeExchange service, we may collect and use some of your information. This Charter aims to inform you of our practices and the reasons for them, in order to guarantee transparency for our users.
 
-Some of the third party advertisers that we use have their own privacy policies and may allow you to opt out of having your information collected as discussed above.
+We undertake to use your information in compliance with the laws relating to the protection of personal data.
 
-5\. **Our Use of Your Information**
+## 2\. The information we collect
 
-We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Website to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may review the data of multiple members to identify problems or resolve disputes. In addition, there may be instances arising out of a verified exchange that one party to the exchange may have an urgent need for the other exchange memberâ€™s contact information. In those instances, we may, in our sole and absolute discretion, provide a member's contact information to the other member of such verified exchange. You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze Website usage, improve our content and product offerings, and customize our Website's content, layout, and services. These uses improve our Website and may better tailor them to meet your needs. You agree that we may use your information to contact you and to deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Websites. By accepting this Privacy Statement, you expressly agree to receive this information. If you do not wish to receive these communications, you may opt out of the receipt of certain communications.
+We collect and process the following data:
 
-6\. **Our Disclosure of Your Information**
+## 2.1. Required information that you transmit directly to us
 
-Due to the regulatory environment in which we operate, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. By way of example (without limiting any of the foregoing), we may be required to disclose information to the government, law enforcement agencies or third parties. Under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or members may abuse or misuse your information that they collect from our Website. Accordingly, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
+Depending on the use of our services on HomeExchange, certain information must be provided. This is the data you transmit directly to us.
 
-As a matter of policy, we **do not** sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be used or disclosed.
+This information is required, for example, to create your account or to establish communication between your guests and yourself. These data are necessary so that we can provide you with the related service.
 
-**Financial Information.** Under some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our services. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support your transaction or activity. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Websites, or by participating in programs offered on the Websites that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all information submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us.
+We, therefore, explain why we need it.
 
-**Advertisers.** We aggregate (gather up data across multiple members' accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
+  * **2.1.1 Information concerning your identity and contact details,** such as your surname, first name, email and password. This information is required when you create your HomeExchange account.
+  * **2.1.2 Information concerning your accommodation,** such as the nature of your accommodation (flat or house, principal or secondary residence), its location, surface area, number of bedrooms and bathrooms, number of beds, amenities and at least one photograph of your accommodation. This information is needed to add it to HomeExchange.
+  * **2.1.3 Information concerning your calendar,** such as dates and periods of availability of your accommodation. This information is necessary when you wish to share your home with the HomeExchange community.
+  * **2.1.4 Bank details,** such as your credit card number, visual ciphertext, expiry date. This information is required when you pay for a service online. These data, with the exception of the expiry date, are collected and processed directly by our payment service provider and we never store them. We keep the expiry date so that we can notify you when it expires and must, therefore, be renewed.
+  * **2.1.5 Evidence required for guarantees,** such as proof of cancellation or damage you have suffered. These data may be transmitted to our financial partners.
 
-**Legal Requests.** The Club cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with any investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
-7\. **Regarding Children**
 
-Children are not eligible to use our services, and we ask that minors (under the age of 18) not submit any personal information to us.
+## 2.2. Additional and optional information that you may send us
 
-8\. **Control of Your Password**
+When using our services on HomeExchange, in order to benefit from an enhanced user experience, you may be asked to provide us with additional categories of information, the provision of which is optional, such as the following:
 
-You are responsible for all actions taken with your login information and password, including fees. Therefore we do not recommend that you disclose your password or login information to any third party. If you choose to share this information with any third party, you are responsible for all actions taken with your login information and password, and therefore should review each third party's Privacy Statement. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised in any way, you should immediately change your password.
+  * **2.2.1 Additional information enriching your profile,** such as your photograph, your date of birth, your telephone number, your description of yourself in your profile, languages spoken, some of your preferences, the various social networks on which you are registered.
+  * **2.2.2 Additional information enriching your accommodation,** such as photographs of your home, your description of your home, your neighbourhood.
+  * **2.2.3 Proof of identity,** such as a copy of your identity card, passport, proof of accommodation that you have added on HomeExchange. This information may enable us to verify that the information provided is accurate in order to reassure the HomeExchange community and protect our members from fraud.
+  * **2.2.4 Publications, friends lists and other social interactions,** such as the groups and clubs you create or join, the friends you add, the comments you write and the ratings you give.
+  * **2.2.5 Private messaging.** We also collect the private messages that you exchange with other members, but we treat them as confidential private correspondence in accordance with applicable regulations.
 
-9\. **Other Information Collectors**
 
-Except as otherwise expressly described in this Privacy Statement, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Website or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since the Club does not control the privacy policies of any third parties, you should investigate their policies before you disclose your personal information to them.
 
-10\. **Security**
+## 2.3. The information we automatically collect
 
-The Club uses industry standard practices, including "firewalls" and Secure Socket Layers, to safeguard the confidentiality of your personal identifiable information. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by others inside and outside the company. Therefore, please exercise caution with regard to any personally identifiable information you submit for publication by our service.
+Data may be automatically collected. We also automatically collect certain categories of information such as:
 
-11\. **Notice**
+  * **2.3.1 Information arising from your use of our HomeExchange services,** such as the pages you visit, the homes you add to your favourites, the searches you save, your search terms, the home exchanges you make, the GuestPoints you earn or use, your response rate and time to questions asked by other members, your last login date.
+  * **2.3.2 Information concerning your equipment** to access HomeExchange, such as your internet browser, screen resolution, operating system version and IP address.
+  * **2.3.3 Connection logs** that correspond to our servers’ log files. The information contained may be your IP address, the type of browser used, your operating system, the pages viewed, the pages from which you came.
+  * **2.3.4 Cookies.** We also use cookies that allow us to automatically collect certain information. For more information, see section 8 Cookies of this Charter.
 
-We may change this Privacy Statement from time to time based on changes in the law, your comments, or our need to accurately reflect our data collection and disclosure practices. We will notify you about significant changes in the way we treat personal information by sending you a notice via email or by placing a prominent notice on our Website.
 
-_Last updated: 25 July 2009_
+
+## 3\. The use of the data we collect
+
+We use the data we collect for the following purposes:
+
+Finalites | Fondement legal  
+---|---  
+**3.1 to execute contracts concluded between you and us or between our business partners and us and to provide you with the services requested**  
+For example:  
+\- Payment of the deposit: we need your direct debit authorisation  
+\- Verification: We need your proof of identity and a proof of address in order to give you verified membership status  
+\- Guarantees: in the event of an incident, we need to know if you have chosen Service Plus and any proof related to the creation of a file, which must be kept until the file is resolved (photos, medical proof, repair and/or replacement estimates, etc.) | This processing is necessary for the performance of our respective contractual obligations, in accordance with our General Terms and Conditions of Use, accepted when creating your account and using HomeExchange.  
+**3.2 to allow you to customise your profile in order to share more information with the HomeExchange community, socialise and reassure other HomeExchange members who would like to welcome you to their home or be welcomed at your home.**  
+For example:  
+\- Your description of yourself, the languages you state you speak, the photograph added to your account | This processing is done based on your consent.  
+**3.3 to verify your identity and to certify your member account in order to enjoy the trust of the other members of the HomeExchange community** | This processing is done based on your consent.  
+**3.4 to answer your questions and assist you with your requests**  
+For example :   
+\- Questions about how to use our services  
+\- To inform us of a dispute with another member  
+\- To lodge a complaint or request to exercise your rights | This processing is necessary for the performance of our respective contractual obligations.  
+**3.5 to send you newsletters and notifications regarding HomeExchange community news and to notify you when there is activity on your account**  
+For example :  
+\- A member wants to become your friend  
+\- A member replied to your messages  
+\- A member adds your home to their favourites | This processing is done based on your consent.  
+However, you can opt-out and ask us to stop sending these emails, by expressing your choice in your personal space (Once logged in, click on ‘My Profile’ then ‘Settings’) or by unsubscribing using the link at the bottom of our emails.  
+**3.6 to send you emails and marketing messages** | This processing is done based on your consent.  
+**3.7 to prevent fraud and illegal activities**  
+We have a legitimate interest in verifying certain suspicious behaviours of users on HomeExchange and carrying out verifications of information, in order to combat fraud (identity theft) abuse (creation of false accounts) and any illegal activity (hacking) or activity contrary to public order. We believe that you can reasonably expect us to perform these transactions and that they do not infringe on your rights and freedoms.  
+We are likely to implement automated detection systems and to humanly verify the relevance of suspicions that our systems detect. | This processing is necessary in order to protect HomeExchange members and protect them from attempts at fraud, which is a legitimate interest  
+**3.8 to analyse the use of our services**  
+We analyse the behaviour of visitors to our website (interactions on the pages, use of features, search terms) in order to develop it, improve the relevance of search suggestions, modify our interfaces and our use paths when we detect that they are not intuitive enough for visitors.  
+In addition, we regularly send questionnaires to all or part of our members in order to better understand their use of the site and help us improve it. Participation in these surveys is optional, and each time we specify the objective of the study, as well as the processing that will be made of the collected data. | This processing is necessary to provide you with better service and to allow our teams to make our website more attractive in order to facilitate your navigation, which is a legitimate interest.  
+**3.9 to collect your payments or forward to you the sums collected on your behalf** | This processing is necessary for the performance of our respective contractual obligations.  
+**3.10 to store connection logs**   
+For example :  
+\- IP address  
+\- type of browser used  
+\- operating system  
+\- pages viewed  
+\- pages of provenance, times  
+\- dates of visit to the site | This processing is based on a legal obligation to keep logs of connections to HomeExchange for a period of one year.  
+**3.11 to perform profiling operations**   
+Profiling consists, for example, of evaluating personal aspects, predicting behaviour or preferences.  
+We do several types of profiling: one to recommend houses that could potentially please our users, another to improve the order of houses appearing in our search engine, and, finally, we calculate a notion of similarity between houses. | This processing is based on the legitimate interest to strengthen and personalise the service offering according to your interests.  
+**3.12 to participate in studies and research**  
+Because of our positioning and our business activity, we participate in university studies and research, for example, on the home swapping market and the sharing economy. All your data are anonymised for the purpose of these studies and used for statistical purposes only. | This processing is anonymised.  
+**3.13 to share your photos in our media**  
+We may use certain house photos in the company's communication materials (newsletter, blog, advertising, etc.). These photographs are anonymous and do not reveal any private elements and are taken in respect of image rights. | contract-based (terms of use). However you can opt out and ask us to stop using your medias if you do not want to share it  
+  
+For processing performed on the basis of your consent, you may withdraw your consent at any time by removing the information from your account yourself. Our consent collection processes are currently being modified to correspond to personal data protection obligations.
+
+## 4\. Data retention periods
+
+How long we keep your information depends on the nature of the data and the purposes for which we needed to collect it.
+
+**Generally speaking, we undertake to maintain the information contained in your profile for a period of three years from our last contact with you** (for example, your last connection to HomeExchange). Beyond this period of three years, we will automatically delete your account and all associated data. This project is currently being set up within our company.
+
+**Nevertheless:**
+
+  * **\- for legal and accounting obligations,** we may retain certain information **for a maximum period of 10 years** from their date (commercial limitation period);
+  * **\- for evidentiary reasons:** information collected for management and technical assistance purposes may be kept **for a maximum period of five years** from their date (civil limitation period);
+
+
+
+More specifically, when you exercise your rights recognised by the regulations on the protection of personal data, we can keep a copy of your identity documents **for a maximum period of one year** for your requests for access and rectification rights and a **period of three years** for requests for objection rights.
+
+## 5\. The recipients of our data
+
+## 5.1. HomeExchange members with whom you are communicating
+
+When you exchange accommodation with another HomeExchange member, you will receive information from each other: this includes information about your identity, your contact details and the address of your accommodation.
+
+## 5.2. Other companies belonging to our group
+
+Your information may be processed by our various departments (Marketing Department, Customer Relations Department, IT Department) as well as by the various companies making up our group (Tukazza Adriatica (Croatia), Tukazza Inc. (USA), Home Exchange (USA)).
+
+## 5.3. Business partners or third-party service providers
+
+We work with third-party companies with whom we share some of your information, and who are:
+
+  * **5.3.1 Our service providers:** we use a service provider only in connection with the performance of a contract between you and us or to provide and/or improve our services (for example, in connection with payments that are made on HomeExchange, or for newsletter management);
+  * **5.3.2 Our business partners:** we have business partners who can advertise our services and whose offers you can agree to subscribe to;
+  * **5.3.3 Social networking platforms:** we offer the possibility to use HomeExchange and to connect via social networks and can use them to offer you the best offers.
+
+
+
+## 6\. Storage of your information
+
+We prefer to store your information, as much as possible, within the European Union. For example, our servers are located within the European Union.
+
+However, we may use service providers who process the information we provide to them outside the European Union. When this happens, we first ensure that the recipient offers appropriate guarantees to process your information with a level of protection at least equivalent to the protection that European Union law offers you.
+
+## 7\. Transfer of your data
+
+As a general rule, we endeavour to keep your personal data within the European Union.
+
+Nevertheless, since some of our subsidiaries are located in countries outside the European Union, namely, the United States, we transfer some of these data to the United States. In this case, we ensure that this transfer is carried out in accordance with the regulations in force and guarantees the level of protection required by the latter.
+
+For more information, please contact our DPO ([dpo@homeexchange.com](mailto:dpo@homeexchange.com)) so that we can provide you with more information about these transfers.
+
+## 8\. Our use of cookies
+
+We use cookies and trackers for various reasons:
+
+## 8.1 Technical cookies
+
+We need to store these cookies so that you can use the basic functions of our website and to offer you improved, personalised functions.
+
+_For example, technical cookies will allow us to know that you are connected, to offer you the language of your choice, to display the website according to your display preferences, to better manage the load on our servers, etc._
+
+## 8.2 Audience measurement cookies
+
+We place these cookies to better understand how you browse our website, what other website you came from, what content will get your attention, which pages you visit most regularly, etc. This allows us to improve our service.
+
+## 8.3 Advertising cookies
+
+We place advertising cookies to display ads that may be of interest to you. These advertising cookies collect your browsing habits on our website and/or on other websites on which these cookies are also present in order to create a profile of your interests. These third-party cookies are produced by the advertising agencies themselves.
+
+For these advertising cookies, you can also indicate your objection to tracking cookies Your Online Choices: <http://youronlinechoices.com/fr/controler-ses-cookies/>, offered by the digital advertising professionals grouped within the European association EDAA (European Digital Advertising Alliance).
+
+## 8.4 Social network / third-party cookies
+
+We place social network cookies to allow you to share content on the leading social networks. These third-party cookies are produced by the social networks themselves.
+
+## 9\. How can I prevent the use of cookies?
+
+You can block the use of cookies in several ways.
+
+By configuring your browser:
+
+  * FIREFOX : <https://support.mozilla.org/fr/kb/activer-desactiver-cookies-preferences>
+  * GOOGLE CHROME : [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=fr](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=fr)
+  * INTERNET EXPLORER : <https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies>
+  * SAFARI : <https://support.apple.com/fr-ch/guide/safari/sfri11471/mac>
+
+
+
+## 10\. Your rights
+
+You have several rights with respect to your information that we possess:
+
+**Right of access** | You may ask us to access any information we hold about you.  
+---|---  
+**Right to rectification** | You may ask us to correct your information.  
+Most of the time, you can make corrections yourself when you are connected to our website.  
+**Right to object** | You may ask us to stop using your information when we do so because of a legitimate interest.  
+You may also ask us to stop sending you direct marketing / prospecting messages. You can easily do this when you are connected to our website by going to the ‘My Profile’ tab and then ‘Settings’ or by unsubscribing by clicking on the link provided at the bottom of our emails.  
+**Right to withdraw consent** | Where you have given us your consent to use your information for a specific purpose, you may, at any time, decide to withdraw your consent and we will then stop using your information for that purpose.  
+You can easily do this when you are connected to our website by going to the ‘My Profile’ tab and then ‘Settings’  
+**Right to erasure or right to be forgotten** | You may ask us, via email to our data protection officer, to delete your information or to stop using it.  
+We can only do this when possible: sometimes we need your information to comply with the law or simply to provide you with our services.  
+**Right to restriction of processing** | You may ask our data protection officer by email to block the use of your information, i.e. to temporarily store it but to stop using it.  
+**Right to portability** | You may contact our data protection officer to request an export of your information in a reusable format.  
+**Right to lodge a complaint** | You may lodge a complaint with the authority responsible for protecting personal data (in France, the CNIL [www.cnil.fr](https://www.cnil.fr/)) if you believe that your rights have not been respected.  
+  
+## 11\. Exercising your rights
+
+To exercise your rights, contact our data protection officer (DPO) at the address given in section 12 of the Charter.
+
+We will do our best to answer you within one month.
+
+Any refusal of a request will be documented and explained.
+
+Proof of identity is required for all requests to exercise rights (except in special exceptions).
+
+## 12\. Your DPO contact
+
+Protecting your information is important to us. That is why we have appointed a data protection officer. He or she is the best person to answer all your questions about personal data.
+
+You can contact us in several ways:
+
+By email: [dpo@homeexchange.com](mailto:dpo@homeexchange.com)
+
+HomeExchange.com Inc. Prospect St., Cambridge, MA 02139  
+Tel. : +33 (0)1 82 83 49 30  
+
