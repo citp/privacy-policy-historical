@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trygigster.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204031450id_/https%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trygigster.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516040329id_/http%3A//gigster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gigster
+# Applications that Matter at Startup Speed | Gigster
 
 Overview
 
