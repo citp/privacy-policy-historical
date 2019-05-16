@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912082353id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516113330id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
 
 # Cluster - Privacy Policy
 
-#### Effective date: August 22, 2013
+#### Effective date: May 25, 2018
 
 We at Cluster know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
@@ -74,8 +74,18 @@ You can always opt not to disclose information to us, but keep in mind some info
 
 You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by emailing us at support@getcluster.com. We will delete your account at your request and we generally delete closed account information within 30 days of account closure, however deletion of information, including any photos, associated with your account from servers and various redundant locations may take more time. It’s complicated to clean up all the loose ends. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
+### GDPR
+
+Cluster and its affiliated services are only licensed for use within the United States of America and its territories. If you are using the Service outside of the United States you are in breach of our Terms of Service and solely responsible.
+
+While we are a US service with terms for US customers only using this service, you have consented to our Terms of Service and Privacy Policy. We do not currently have any third-party advertising cookies, nor do we currently have any third-party data agreements that would share any of our customer's info.
+
+We provide a tool for downloading user data: (<https://clusterapp.zendesk.com/hc/en-us/articles/201824500-How-do-I-download-ALL-the-photos-from-a-group-album-to-my-device-for-future-accessibility-outside-of-the-app->)
+
+You can also delete your account and all your data here: <https://cluster.co/user/delete>
+
 ### What if I have questions about this policy?
 
 If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@getcluster.com, and we will try to resolve your concerns.
 
-#### Effective Date: August 22, 2013
+#### Effective Date: May 25, 2018
