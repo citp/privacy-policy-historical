@@ -1,99 +1,147 @@
-> *The following text is extracted and transformed from the surveyvoicesresearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045458id_/http%3A//surveyvoicesresearch.com/privacy.aspx%3FAffiliateID%3D911) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyvoicesresearch.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516021652id_/https%3A//contact.rewardzoneusa.com/policies/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**RewardZoneUSA, LLC  Privacy Policy**
+#### RewardZone USA LLC Websites 
 
-**Policy Last Revised: April 13, 2016**
+#### Privacy Policy ** **
 
-The following outlines our policy (Policy) for collecting and using information that is personally identifiable to a user  (PII) and information that is not personally identifiable to a user (non-PII) by RewardZone USA LLC (RewardZone, we, or us) from our websites, and other websites we own and operate that promote incentives (collectively, Websites).   For purposes of this Policy, PII and non-PII will be referred to as Information.  
+### 
 
-By accessing and using a Website, you agree to the terms of this Policy. If you do not agree to and accept these terms, please do not use or visit a Website or participate in any promotion offered or promoted on a Website. We also describe additional rights that California users have under the California “Shine the Light” law.   
+Last Modified: April 26, 2019 
 
-**HOW INFORMATION IS COLLECTED**
+RewardZone USA LLC (“RewardZone,” “we,” “our” or “us”) sets forth the following Privacy Policy ("Policy") with our practices associated with collecting, using, and sharing information that is personally identifiable to a user (“PII”) and information that is not personally identifiable to a user (“non-PII”).  For purposes of this Policy, PII and non-PII will be referred to as “Information.”  
+
+By accessing and using one of our websites, or other web venues that we own and operate which offer rewards and/or other content (collectively, “Promotions”) to users (collectively, the “Websites” and each a “Website”), you agree to the terms of this Policy.  If you do not agree to and accept these terms in their entirety, please do not use or visit a Website or participate in any Promotion.  In this Policy, we also describe additional rights that California users have under the California “Shine the Light” law.   
+
+ **HOW INFORMATION IS COLLECTED**
 
 Here are some of the ways we collect Information from users:
 
-·       Registration forms and surveys;
+  * Registration forms and surveys;  
 
-·       By tracking users’ online behavior on our Websites;
+  * By tracking users’ online behavior on our Websites;  
 
-·       Emails, telephone calls, USPS mail and other customer service or other contacts with users;
+  * Emails, telephone calls, USPS mail and other customer service or other contacts with users;  
 
-·       Through the use of “cookies” (small text files placed on a user’s computer that track online behavior), single-pixel GIF image files (also called “web beacons”) and other technological means; and
+  * Through the use of “cookies” (small text files placed on a user’s computer that track online behavior), single-pixel GIF image files (also called “web beacons”) and other technological means (collectively, “Cookies”) placed by us and our third-party marketing partners; and  
 
-·       Information provided to claim an incentive.
+  * Information provided to claim a reward from a Promotion.  
 
-We permit third parties to advertise and promote our Websites and we may place and permit third parties to place advertising, cookies, web beacons and other content, including links to other websites on our Websites. We and our third party marketing partners may use these technological means placed on our Websites to collect and share Information. We are not responsible for the Information they collect or for their use of this Information or for the privacy practices of other websites that are linked to our Websites.
 
-**TYPES OF INFORMATION WE COLLECT**
+
+
+We permit third parties to advertise and promote our Websites and we may place and permit third-parties to place advertising, cookies, web beacons and other content, including links to other websites on our Websites.  We and our third-party marketing partners may use these technological means placed on our Websites to collect and share Information.  
+
+ **TYPES OF INFORMATION WE COLLECT**
 
 Here are some of the types of Information we collect from users:
 
-• Name                                   • Postal address                                 • E-mail address
+  * Name                                    
 
-• Telephone number           • Cell/landline phone number         • Gender and date of birth
+  * Postal address                                   
 
-• IP Address                           • Survey responses                            • Device ID & location
+  * E-mail address  
 
-• Browser User Agent • Referring URL
+  * Telephone number             
 
-We may use third party sources to augment and/or verify the Information we collect from users and may also associate demographic and other data we collect such as the user’s browser and device with their Information.
+  * Mobile/landline phone number     
 
-**Children and Non- US Residents** : We don’t knowingly collect or retain information from the Websites from children under the age of 13. The Websites are intended for use by U.S. residents who are not minors. If you are a minor, not a U.S. resident or don’t agree with this Policy’s terms, please don’t access or use our Websites.
+  * Gender and date of birth  
 
-**USE AND SHARING OF INFORMATION**
+  * IP address                             
 
-We may use Information and share it with third parties (who may compensate us) in many ways and for many purposes including the following:
+  * Survey responses                              
 
-•       To fulfill an incentive;
+  * Device ID & location  
 
-•       To maintain suppression or opt-out lists that we may share with third parties so that a user is not contacted when the user has asked not to be;
+  * Browser user agent            
 
-•       For site operation;
+  * Referring URL  
 
-•       To provide users with information and/or offers for products or services from us or third parties;
 
-•       To notify the IRS that a user has received an incentive if the value exceeds the reporting threshold;  
 
-•       To track online behavior for behavioral advertising and other marketing purposes. If a user registers on one of our Websites, the user may receive relevant third party daily emails from that Website, its exclusive emailing partner and other websites we or our affiliates own and operate;
 
-• To develop and/or enhance our Affiliates’ and/or third parties’ products and/or services; 
+We may use third-party data provided by related entities under common control (which includes our parent, subsidiaries and other entities under common control with us - collectively "Related Parties") to augment and/or verify the Information we collect from users and may also associate demographic and other data we collect, such as the user's browser and device, with their Information. 
 
-•       If we are acquired by or merged with another company, we may transfer our users’ information to the acquirer;
+ **CHILDREN AND NON-US RESIDENTS**  
 
-•       To respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims or when we determine it is necessary to comply with applicable laws or regulations; and
 
-•       To assist with site operation and other communication services, we may share Information with third parties, including vendors and contractors who provide services to us.  
+The Site is intended to comply with the Children's Online Privacy Protection Act (COPPA). COPPA requires that web site operators never knowingly collect PII from anyone under the age of 13 without prior verifiable parental consent.  We do not knowingly collect or retain information from the Websites from children under the age of 18 except we may collect a limited amount of Information from users who are over 13.  The Websites are intended for use by U.S. residents who are not minors. If you are a minor, not a U.S. resident (no Canadian residents permitted), or do not agree with this Policy’s terms, please do not access or use our Websites.
+
+ **USE AND SHARING OF INFORMATION**
+
+We may use Information and share it with our Related Parties and third parties (who may compensate us) in many ways and for many purposes including the following:
+
+  * Assist with site operation and other communication services, we may share Information with third parties, including vendors and contractors who provide services to us;  
+
+  * Fulfill a Promotion;  
+
+  * Maintain suppression or opt-out lists that we may share with third parties so that a user is not contacted when the user has asked not to be;  
+
+  * Provide customer service and respond to inquiries;  
+
+  * Provide users with information and/or offers for products or services from us or third parties;  
+
+  * Enable third-party marketing partners to contact you for marketing purposes;  
+
+  * Track online behavior for behavioral advertising and other marketing purposes.  If a user registers on one of our Websites, the user may receive relevant third-party daily emails from that Website, its exclusive emailing partner and other websites we or our Related Parties own and/or operate;  
+
+  * Augment Information by enhancing it with other data sources provided by third parties and/or our Related Parties to enable us, for example, to gain deeper insights into our users;  
+
+  * Make telephone calls and send text messages to users with information and offers, provided the user consent to be marketed to in this manner as further described below;  
+
+  * Develop and/or enhance our Related Parties’ and/or third parties’ products and/or services;  
+
+  * If we are sold, merge with a third party, are acquired or are the subject of bankruptcy proceedings, your Information may be shared with the applicable third party(ies); if we are involved in one of these transactions, you will be notified via email and/or a notice on our Website of any change in ownership or uses of your Information, as well as any choices that you may have regarding your Information;  
+
+  * Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims or when we determine it is necessary to comply with applicable laws or regulations; where permitted by applicable law, we will provide you with e-mail notice, and opportunity to challenge the applicable subpoena/request prior to disclosure of any Information;   
+
+  * Assist with Website operation and other communication services, share Information with third parties, including our vendors and contractors;
+  * Submit user contact information to comment/petition campaigns to governmental agencies, elected officials or other parties where users have provided their express consent to endorse and/or be a part of the campaign including, in some instances, appending the user contact information with specific comment language.      
+
+
+
 
 We will use commercially reasonable efforts to limit use of the Information by these third parties as necessary for the purposes set forth above.  
 
-**Behavioral Advertising:** Behavioral advertising enables us and our third party marketing partners to deliver to users what is hoped to be more relevant information and/or offers for products or services. We and our third party marketing partners may use cookies, web beacons and other technological means to track user’s online behavior and to collect Information that enables the tailoring of targeted offers and advertisements. We may share this and other Information with our third party marketing partners, who may compensate us. We are not responsible for the Information they collect, for their use of this Information or for the privacy practices of other websites that are linked to our Websites.
+By submitting your Information to us on a Website, you agree that this is an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule, as amended (the “Rule”) and applicable state do-not-call regulations.  This allows us to contact you via telemarketing even if your telephone number is listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists.
 
-**Personal Health Information** : Our surveys may ask health-related questions which we may share with our third party marketing partners who advertise health-related products and services on our Websites or who otherwise promote health-related products or services. We will use this health information only with your consent and for the purpose of displaying offers for health-related for products and services or to provide Information to these providers so they can contact you. You may always request modification or removal of your information by contacting us at privacy@rewardzoneusa.com.
+Where you provide “prior express written consent” within the meaning of the Telephone Consumer Protection Act (“TCPA”), you consent to receive telephone calls, including artificial voice calls, pre-recorded messages and/or calls delivered via automated technology and text and SMS messages to the telephone number(s) that you provided from us and the marketing partners listed in and hyperlinked to the consent.  You are not required to provide this consent to obtain access to our Promotions, products or services, and your consent simply allows us to contact you via these means.  By agreeing to this Policy, you are obligated to immediately inform us if the telephone number that you provided us changes.  If you: (a) have your telephone number reassigned to another person; (b) give up your telephone number; (c) port your telephone number to a landline or vice versa; or (d) otherwise stop using that telephone number, you agree to promptly contact us [here](http://contact.rewardzoneusa.com/contact.aspx).   
 
-**SECURITY OF YOUR INFORMATION**
+ **BEHAVIORAL ADVERTISING  **
 
-We use commercially reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of your Information. We currently do not encrypt Information that we store.  Given the nature of the Internet, your Information passes through entities that we are unable to control.  Therefore, we cannot guarantee that our security measures or those of third parties who access or transmit your Information will prevent your Information from being illegally accessed, stolen or altered.
+Our Websites use Cookies to determine whether a user has previously visited our Site to streamline the registration process.  Although we don’t use Cookies for other purposes, we and our third-party marketing partners and Related Parties reserve the right to use Cookies to track users’ online behavior after they leave a Website, and to collect Information that enables the tailoring of targeted offers and advertisements (to find out more about Cookies, please visit [www.cookiecentral.com](http://www.cookiecentral.com/)). We may share this and other Information with our third-party marketing partners, who may compensate us, and Related Parties.  We are not responsible for the Information collected by our third-party marketing partners and Related Parties, for their use of this Information or for the privacy practices of other websites that are linked to our Websites. 
 
-**OPTING-OUT**
+Most computers are initially set up to accept Cookies, but you can reset your Internet browser to refuse all Cookies or to indicate when a Cookie is being sent.  To disable and reject certain Cookies, follow the instructions associated with the Internet browser you’re using.  Even where you reject a Cookie, you may still use the Website but your ability to use certain features offerings may be impaired.  We may retain Cookie data indefinitely.
 
-Users may opt-out from receiving future offers from us or from our third party marketing partners by following the Opt-Out instructions contained in the marketing communication or by [clicking here](http://contact.rewardzoneusa.com/unsub.aspx).  You may also opt-out from future communications from a third party by contacting them directly.  A third party’s use of Information is subject to their privacy policy and we have no control or responsibility over their use.
+ **WELLNESS INFORMATION**
 
-Users may opt out from the collection of online viewing data for behavioral advertising purposes by companies who have elected to participate in one of the behavioral advertising opt-out mechanisms such as the Digital Adverting Alliance’s opt-out program located at [http://www.aboutads.info/choices](http://www.aboutads.info/choices). As is the case with most websites, we have not elected to participate in any of these programs at this time or alter our behavior when a user to one of our Websites has activated the “do-not-track” setting on their browser (see, “Browser “Do Not Track” Signals”, described below).
+Our surveys may ask health-related questions which we may share with our third-party marketing partners who advertise health-related products and services on our Websites or who otherwise promote health-related products or services. We will use this health information only with your consent and to display offers for health-related products and services or to provide Information to these providers so they can contact you.  You may always request modification or suppression of your information by contacting us [here](http://contact.rewardzoneusa.com/contact.aspx). You may also opt-out from future communications from a third-party by contacting them directly.  A third party’s use of Information is subject to their privacy policy and we have no control or responsibility over their use.
 
-**ACCESS TO INFORMATION**
+Users may opt-out from the collection of online viewing data for behavioral advertising purposes by companies who have elected to participate in one of the behavioral advertising opt-out mechanisms such as the Digital Adverting Alliance’s opt-out program located at <http://www.aboutads.info/choices>.  As is the case with most websites, we have currently elected to not participate in any of these programs or alter our behavior when a user to one of our Websites has activated the “do-not-track” setting on their browser (see, “Browser “Do Not Track” Signals,” described below).   
 
-All users who provide their Information to us may modify and correct their Information by contacting us [here](http://contact.rewardzoneusa.com/contact.aspx). 
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+ **ACCESSING, CORRECTING AND DELETING YOUR INFORMATION**
 
-The California “Shine the Light” law permits users who are California residents to request information regarding our disclosure of their Information to third parties including the categories of Information shared and a list of the names and addresses of third parties with whom the Information was shared.  If you are a California resident and would like a copy of this notice, please submit a request by contacting us [here](http://contact.rewardzoneusa.com/contact.aspx).  In your request, please specify that you want "Your RewardzoneUSA LLC California Privacy Rights Notice."  Please allow 30 days for a response. 
+All users who provide their Information to us may modify, delete and/or correct their Information by contacting us [here](http://contact.rewardzoneusa.com/contact.aspx).  We will respond to your request within thirty (30) days.  If you request deletion of your Information, please note that your Information will be suppressed from further use as described in this Policy.  However, we will retain and may use your Information as necessary to comply with our policies including legal obligations, dispute resolution and enforcement of our agreements.
 
-**Browser “Do Not Track” Signals:   **Most browsers contain a “do-not-track” setting.  In general, when a “do-not-track” setting is active, the user’s browser notifies other websites that the user does not want their personal information and online behavior to be tracked and used, for example, for behavioral advertising.  As required by recent Shine the Light law amendments we are required to inform you that, as is the case with most websites, we do not honor or alter our behavior when a user to one of our Websites has activated the “do-not-track” setting on his/her browser.
+We ask individual users to identify themselves and the Information requested to be accessed, corrected or deleted (suppressed) before processing such requests, and, to the extent permitted by applicable law, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning Information residing on backup tapes).Please be advised that deleting (suppressing) your Information may terminate your access to some of our offerings.  If you wish to continue using the full complement of our services, you may not be able to delete (suppress) all of the Information that we have on file for you.  
 
-**Changes to this privacy policy:** We reserve the right to revise and update this Policy at any time. If we make material changes to this Policy, we will post notice on our Website. Any such revisions will be effective 30 days after posting to the Website, and will apply to all Information collected by us both before and following the effective date. Your use of a Website or entrance into any sweepstakes or other promotion following any such revisions will be deemed your acceptance of such revisions. Users should periodically visit this page to review our current policies on our collection and use of Information. 
 
-**Questions, Suggestions or to Contact Us:**   If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us [here](http://contact.rewardzoneusa.com/contact.aspx).
+ **YOUR CALIFORNIA PRIVACY RIGHTS**  
 
-Policy Last Revised: April 13, 2016
+
+The California “Shine the Light” law permits users who are California residents to request information regarding our disclosure of their Information to third parties including the categories of Information shared and a list of the names and addresses of third parties with whom the Information was shared.  If you are a California resident and would like a copy of this notice, please submit a request by contacting us [here](http://contact.rewardzoneusa.com/contact.aspx).  In your request, please specify that you want "Your RewardZoneUSA LLC California Privacy Rights Notice."  Please allow thirty (30) days for a response. 
+
+ **BROWSER “DO NOT TRACK” SIGNALS**
+
+Most browsers contain a “do-not-track” setting.  In general, when a “do-not-track” setting is active, the user’s browser notifies other websites that the user does not want their personal information and online behavior to be tracked and used, for example, for behavioral advertising.  As required by the Shine the Light law, we are required to inform you that, as is the case with most websites, we do not honor or alter our behavior when a user to one of our Websites has activated the “do-not-track” setting on his/her browser.
+
+ **CHANGES TO THIS POLICY**
+
+We reserve the right to revise and update this Policy at any time.  If we make material changes to this Policy, we will post notice on our Website.  Any such revisions will be effective thirty (30) days after posting to the Website, and will apply to all Information collected by us both before and following the effective date.  If we expand the way we use PII, we will notify users by: (a) sending the modified policy to our users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law.  You will have a choice as to whether or not we use your PII in this different manner and we will only use your PII in this way where you opt-in to such use.  Users should periodically visit this Policy to review our current policies on our collection and use of Information. 
+
+ **QUESTIONS, SUGGESTIONS, OR TO CONTACT US**
+
+If you have any questions, comments, complaints, or suggestions regarding this Policy or our Website(s), please contact us [here](http://contact.rewardzoneusa.com/contact.aspx).
