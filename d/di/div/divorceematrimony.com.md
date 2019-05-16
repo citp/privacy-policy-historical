@@ -1,26 +1,90 @@
-> *The following text is extracted and transformed from the divorceematrimony.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081541id_/http%3A//www.divorceematrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorceematrimony.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516163444id_/https%3A//www.divorceematrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Divorcee Matrimony, Matrimony, Indian Matrimony
 
-DivorceeMatrimony.com owned by CommunityMatrimony.com, and DivorceeMatrimony.com being hereafter referred to as CommunityMatrimony.com, is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
+DivorceeMatrimony.com is an online matrimonial portal endeavouring constantly to provide you with matrimonial services. This privacy statement is common to all the matrimonial Website/apps operated under DivorceeMatrimony.com Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you. You acknowledge that you are disclosing information voluntarily. By accessing /using the website/apps and/or by providing your information, you consent to the collection and use of the info you disclose on the website/apps in accordance with this Privacy Policy. If you do not agree for use of your information, please do not use or access this website/apps.
 
-What information you need to give in to use this site?  
-We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or fax number.
+What information you need to give in to use this Website/apps?
 
-If you establish a credit account with us to pay the fees we charge, we collect some additional information, including billing address, credit card number , credit card expiration date and tracking information from checks or money orders. 
+The information we gather from members and visitors who apply for the various services our website/apps offers includes, but may not be limited to, email address, name, date of birth, educational qualifications a user-specified password, mailing address, zip/pin code and telephone/mobile number or fax number.
 
-How the site uses the information it collects/tracks?  
-CommunityMatrimony.com collects information from its clients primarily to ensure that we are able to fulfill your requirements and to deliver Personalised experience.With whom the site shares the information it collects/tracks?The information collected from our clients will not be shared with any individual or organization without the client's approval.
+We use a secure server for credit card transactions to protect the credit card information of our users and Cookies are used to store the login information. Cookies are small files placed on your hard drive that will assist us in providing our services. You may also encounter Cookies or identical/related devices on certain pages of the website/apps that are placed by third parties. We do not control the use of cookies by third parties.
 
-DivorceeMatrimony.com does not sell, rent, or loan any identifiable information at the individual level, regarding its customers to any third party. Any information you give to us is held with utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
+If you establish a credit account with us to pay the fees we charge, some additional information, including a billing address, a credit/debit card number and a credit/debit card expiration date and tracking information from cheques or demand drafts is collected.
 
-Do all visitors have to pay?  
-NO. All visitors to our site may browse the site, search the ads and features of our site has to offer without providing / entering any personal information or paying money. However, Paid members enjoy certain privileges which is mentioned elsewhere in the site. 
+The user information we collect depends on the context of your interactions with us and the website or Apps, the choices you make and the products and features you use. The User Information is used for authentication and account access, If a user registers using social networking platforms such as Facebook, Google, LinkedIn and others we may collect personal data you choose to allow us to access through their APIs. When the user accesses our websites or apps, data relating to device ID, log files, Geographic Location, device Information/specification are also collected automatically.
 
-Can users contact any number of profiles in a single day?  
-As a paid member of this site, you have the privilege to contact hundreds of profiles in a single day. However, there is a specified limit to 100 contacts for security reasons per day . If you want to contact more profiles than the specified limit in a single day, he/she can do so after the completion of 12 hours of their login time.
+We may use also your personal information for analysis of data, usage trends and to evaluate and improve our site/App, marketing research, preventing of frauds. In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our website/apps. We identify and use your IP address to help diagnose problems with our server, and to administer our website/apps. Your IP address is also used to help identify you and to gather broad demographic information.
 
-Notice  
-We may change this Privacy Policy from time to time based on feedback from clients or as a result of a change of policy in our company.
+Why does our mobile application require permissions from you?
 
-If you have any questions regarding our Privacy Statement, please write in to [privacy@divorceematrimony.com](mailto:privacy@divorceematrimony.com)
+Our services help connect users to their matches based on several parameters and preferences. To fix bugs within the application and improve the user experience, we require users to grant us access to the following: 
+
+**Camera:**  
+Access to the device's camera allows users to take their picture, and upload it as their profile picture on our portal
+
+**Contacts:**  
+The mobile application will obtain the user accounts that are associated with Facebook or Google+ for a quick signup process. 
+
+**Location:**  
+Based on their GPS coordinates, users are served with profiles of members located in the same vicinity. Also, users are provided with the information of our physical stores that are located nearest to the user's GPS coordinates. 
+
+**Phone:**  
+Our mobile application is optimized to work on multiple devices and networks. The device information and network details help analyze and fix issues that are isolated to a particular device or a particular network. 
+
+**SMS:**  
+The mobile application detects SMS(s) and auto-fills the OTP / PIN details for a faster and better user experience. 
+
+**Storage:**  
+The users can upload pictures from their device memory and use it as their profile picture. Furthermore, users can download horoscope details, profile details and astro-match results on to their device memory. 
+
+How the website/apps uses the information it collects/tracks?
+
+Divorcee Matrimony.com collects information for data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our websites or apps, products, and services ,marketing research from our users primarily to ensure that we are able to fulfil your requirements and to deliver Personalised experience.
+
+For European Union Members ( EU)
+
+If you are located in the EU, you will be asked to provide consent to the collection, processing, and sharing of your personal information. Personal information means any information related to an identified or identifiable natural person. You have the right to share and access your personal information and right to withdraw consent for sharing your personal information at any point of time and right to erase your personal information subject to applicable laws. for sharing your personal information at any point of time. You can withdraw your consent provided by contacting us. Your personal information may be stored in databases located outside of the EU including in India. Where we transfer personal data outside of EU, we either transfer personal information to countries that provide an adequate level of protection or we have appropriate safeguards in place. We may require proof of or need to verify your identity before we can give effect to these rights. To request to review, update, or delete your personal information, please submit a request form by sending an email to privacy@matrimony.com. We may share your information with third parties who are an anti-fraud solution provider(s) located in UK. They help us to ensure we keep you safe from scammers and fraudster. 
+
+With whom the website/apps shares the information it collects/tracks?
+
+We may share such identifiable information with our associates/affiliates/subsidiaries and such associates/affiliates/subsidiaries may market to you as a result of such sharing. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer/visitor.
+
+Where required or permitted by law, information may be provided to others, such as regulators and law enforcement agencies or to protect the rights, property or personal safety of other members or the general public. We may voluntarily share your information with law enforcement agencies / Gateway service providers / anti-fraud solution provider(s) if we feel that the transaction is of suspicious nature. 
+
+From time to time, we may consider corporate transactions such as a merger, acquisition, reorganization, asset sale, or similar. In these instances, we may transfer or allow access to information to enable the assessment and undertaking of that transaction. If we buy or sell any business or assets, personal information may be transferred to third parties involved in the transaction.
+
+Our website/apps link to other website/apps and may collect personally identifiable information about you. We are not responsible for the privacy policy or the contents of those linked website/apps.
+
+How Long Do We Keep Your Information?
+
+As stipulated in the Privacy Policy we will retain the information we collect from users under the following circumstances:
+
+For as long as the users subscribe to our services to meet their suitable purpose(s) for which it was collected, for the sake of enforcing agreements, for performing audits, for resolving any form of disputes, for establishing legal defences, for pursuing legitimate businesses and to comply with the relevant applicable laws.
+
+What are the Security Precautions in respect of your personal information?
+
+We aim to protect your personal information through a system of organizational and technical security measures. We have implemented appropriate internal control measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Once your information is in our possession, we adhere to security guidelines protecting it against unauthorised access. 
+
+Change of Privacy Policy
+
+We may change this Privacy Policy without notice from time to time without any notice to you. However, changes will be updated in the Privacy Policy page.
+
+How to address your Grievance:
+
+Grievance Officer : Mr. Akilan Paneerselvam.
+
+Address :
+
+Matrimony.com Limited,
+
+Contact details:
+
+No.94, TVH Beliciaa Towers, Tower - 2,  
+10th Floor, MRC Nagar, Chennai,  
+Tamil Nadu - 600028.   
+Email: [grievanceofficer@matrimony.com](mailto:grievanceofficer@matrimony.com)
+
+The Grievance officer shall be available between 10 am to 6 pm IST from Monday to Saturday excluding Sunday's and Public Holidays in India.
+
+The Grievance officer is appointed as per Section 5 (9) of the Information Technology ( Reasonable Security & Procedures and Sensitive Personal data or Information ) Rule, 2011.
