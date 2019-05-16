@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221025421id_/https%3A//www.treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treepodia.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517001414id_/http%3A//treepodia.com/En/docroot/Documents/Treepodia_Website_and_Platform_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Treepodia Website and Ecommerce Video Platform - Privacy Policy
 
