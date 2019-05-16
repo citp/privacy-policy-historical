@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203224913id_/https%3A//www.colorado.gov/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516030356id_/https%3A//www.colorado.gov/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Colorado.gov
 
