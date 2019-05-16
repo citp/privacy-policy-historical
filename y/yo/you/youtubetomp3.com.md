@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtubetomp3.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825022432id_/https%3A//www.youtubetomp3.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubetomp3.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516192346id_/https%3A//www.youtubetomp3.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Youtubetomp3.com
 
@@ -18,7 +18,7 @@ Like any other website, youtubetomp3.com uses ‘cookies’. These cookies are u
 
 ### DoubleClick DART Cookie
 
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <http://www.google.com/privacy_ads.html>.
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www..com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – .
 
 ### Our Advertising Partners
 
