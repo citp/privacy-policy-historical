@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the babylongirls.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902102918id_/https%3A//www.babylongirls.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylongirls.co.uk privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516182737id_/https%3A//www.babylongirls.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Babylon Girls Privacy Notice
 
 Effective Date: 25/05/2018 Notice Version: 1.01a
 
