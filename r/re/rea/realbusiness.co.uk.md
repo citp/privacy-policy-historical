@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the realbusiness.co.uk privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205124946id_/http%3A//realbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbusiness.co.uk privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516051602id_/https%3A//realbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Real Business
+# Privacy Policy - Real Business :Real Business
 
-Last updated: February 02, 2017
+Telling the truth about SME life today
 
-Caspian Media Ltd (“us”, “we”, or “our”) operates the realbusiness.co.uk website (the “Service”).
+Last updated: February 21st, 2019
+
+Prosper (Media) Limited (“us”, “we”, or “our”) operates the realbusiness.co.uk website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -42,7 +44,7 @@ These third parties have access to your Personal Information only to perform the
 
 **Communications**
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you, from either Caspian Media Ltd or carefully selected Third Parties. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you, from either Prosper (Media) Limited or carefully selected Third Parties. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
 **Compliance With Laws**
 
