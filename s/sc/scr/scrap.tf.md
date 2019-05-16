@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrap.tf privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229181329id_/https%3A//scrap.tf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrap.tf privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517013647id_/https%3A//scrap.tf/privacy) for the most accurate reproduction.*
 
 # Scrap.TF
 
@@ -191,31 +191,11 @@ These third parties have access to your Personal Data only to perform these task
 
 ### Analytics
 
-We may use third-party Service Providers to monitor and analyze the use of our Service.
-
-  * **Google Analytics**
-
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
-
-You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
-
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
-
-
-
+We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>. Comscore’s privacy policy is available at <https://www.comscore.com/About-comScore/Privacy-Policy>. 
 
 ### Advertising
 
-We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
-
-  * **Google AdSense & DoubleClick Cookie**
-
-Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
-
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
-
-
-
+We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. 
 
 ### Payments
 
@@ -229,7 +209,7 @@ The payment processors we work with are:
 
 Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
 
-  * **PayPal or Braintree**
+  * **PayPal**
 
 Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
 
