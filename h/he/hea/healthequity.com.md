@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918202030id_/http%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516030132id_/https%3A//www.healthequity.com/legal%23pp) for the most accurate reproduction.*
 
-# Legal notices | HealthEquity
+# Legal information | HealthEquity
 
 ## Terms of Use
 
@@ -8,11 +8,11 @@ By accessing this web site, you agree to be bound by the terms and conditions be
 
 ### General Terms
 
-HealthEquity, Inc. ("HealthEquity") does not provide medical advice, diagnosis, or treatment. Information obtained from HealthEquity licensors and from the HealthEquity web site, including text, tools and services, is for your personal informational purposes only and should not in any case replace professional medical advice. If you have a question regarding a medical condition, you should seek advice and treatment from a qualified health care professional. **If you have a medical emergency, call 911 immediately.**
+HealthEquity, Inc. ("HealthEquity", "we", "our") is an Internal Revenue Service ("IRS") authorized, non-bank trustee ("NBT") operating as the custodian of health savings accounts ("HSAs"). The IRS NBT Authorization Letter is available online (see Quick Links box at https://healthequity.com/legal). HealthEquity is also a third-party administrator of other tax favored health plans and services. We do not provide medical advice, diagnosis, or treatment. Information obtained from HealthEquity licensors and from the HealthEquity web site, including text, tools and services, is for your personal informational purposes only and should not in any case replace professional medical advice. If you have a question regarding a medical condition, you should seek advice and treatment from a qualified health care professional. **If you have a medical emergency, call 911 immediately.**
 
 ### Copyrights
 
-Copyrights in the page content or display screens, and in the information and material within including their arrangement, are owned by HealthEquity, Inc. unless otherwise indicated. No information or content except as otherwise expressly stated herein, may be copied, transmitted, displayed, performed, distributed, or otherwise used in whole or in part in any manner without HealthEquity’s prior written consent, except to the extent permitted by the Copyright Act of 1976, as amended, and then, only for your personal nonbusiness use.
+Copyrights in the page content or display screens, and in the information and material within including their arrangement, are owned by HealthEquity, Inc. unless otherwise indicated. No information or content except as otherwise expressly stated herein, may be copied, transmitted, displayed, performed, distributed, or otherwise used in whole or in part in any manner without HealthEquity's prior written consent, except to the extent permitted by the Copyright Act of 1976, as amended, and then, only for your personal nonbusiness use.
 
 ### Content
 
@@ -24,9 +24,9 @@ These Terms of Use shall be governed by, and construed and enforced in accordanc
 
 ### Unauthorized Use
 
-Unauthorized use of HealthEquity’s web site(s) and systems, including but not limited to unauthorized entry, misuse of passwords, or misuse of any information posted to a site, is strictly prohibited.
+Unauthorized use of HealthEquity's web site(s) and systems, including but not limited to unauthorized entry, misuse of passwords, or misuse of any information posted to a site, is strictly prohibited.
 
-### Changes to Terms of Use
+### Changes to Terms
 
 HealthEquity reserves the right to update these Terms of Use at any time. Continued use of the HealthEquity web site and/or services, signifies your acceptance of any changes.
 
@@ -50,15 +50,11 @@ At HealthEquity, protecting your privacy and security is our top priority. We un
 
 * * *
 
-## Privacy Policy
-
-### Financial privacy policy
-
-To read more about the HealthEquity privacy policy as it applies to HealthEquity, Inc. as an IRS-approved non-bank trustee and health account administrator, please refer to the HealthEquity Annual Notice of Privacy Practices.
+## Privacy Statement
 
 ### Our commitment to privacy
 
-Your privacy is important to us. As part of providing our services to you, you understand that we will obtain personal information about you. We take the responsibility of maintaining the confidentiality of this information seriously. This privacy notice is provided so that you will be aware of the measures we take to protect your privacy. It also describes information we collect and how we use this information to conduct our business. **We do not sell our customer lists or individual customer information.** By using our site you consent to this Policy, including your consent to our use and disclosure of information about you in the manner described in this Policy.
+Your privacy is important to us. As part of providing our services to you, you understand that we will obtain personal information about you. We take the responsibility of maintaining the confidentiality of this information seriously. This privacy notice is provided so that you will be aware of the measures we take to protect your privacy. It also describes information we collect and how we use this information to conduct our business. **We do not sell our customer lists or individual customer information.** By using our site you consent to terms of this Privacy Statement, including your consent to our use and disclosure of information about you in the manner described in this Privacy Statement.
 
 ### Information we collect
 
@@ -116,9 +112,9 @@ We require our service providers to maintain the same level of confidentiality a
 
 We collect and use the information you provide us online to respond to your needs, service your accounts, and provide online transaction services. We do not collect personally identifiable information about you unless you voluntarily provide us with that information through email or online applications. 
 
-### Use of "Cookies" on HealthEquity’s Web Sites
+### Use of "Cookies" on HealthEquity's Web Sites
 
-While visitors to our Web site(s) remain anonymous, we do occasionally utilize "cookies" to provide a more valuable experience. Such cookies are used only to enhance the customer’s experience. We do not use cookies for marketing purposes. (A cookie is a small text file sent by a Web server and stored on your hard drive in your browser. Cookies cannot "read" information about you from your computer or be used to "steal" information about you; cookies do not carry viruses and are not programs that can perform functions on your computer. Most browsers will allow you to disable cookies, or can be set to notify you when you receive a cookie, thus giving you the opportunity to decide whether or not to accept it.) If you choose to disable cookies certain functionality on the website may be impaired or may not work at all.
+While visitors to our web site(s) remain anonymous, we do occasionally utilize "cookies" to provide a more valuable experience. Such cookies are used only to enhance the customer's experience. We do not use cookies for marketing purposes. (A cookie is a small text file sent by a Web server and stored on your hard drive in your browser. Cookies cannot "read" information about you from your computer or be used to "steal" information about you; cookies do not carry viruses and are not programs that can perform functions on your computer. Most browsers will allow you to disable cookies, or can be set to notify you when you receive a cookie, thus giving you the opportunity to decide whether or not to accept it.) If you choose to disable cookies certain functionality on the website may be impaired or may not work at all.
 
 ### IDs and passwords
 
@@ -126,9 +122,9 @@ To access certain online services, you will need a User ID and a Password. This 
 
 ### Other Authorized Users of the Account
 
-Depending on the type of account, the primary account holder may grant the authority to someone else to use the account (such as a spouse, dependent, or a legal representative). The primary account holder is at all times responsible for the transactions those authorized individuals made. Those authorized users will have access to the account balance if they are properly authenticated by our system. The primary account holder should inform those individuals that he/she can see ALL of the transactions those individuals made, and therefore, should have no expectations of privacy.
+Depending on the type of account, the account holder may grant the authority to someone else to use the account (such as a spouse, dependent, or a legal representative). The account holder is at all times responsible for the transactions those authorized individuals made. Those authorized users will have access to the account balance if they are properly authenticated by our system. The account holder should inform those individuals that he/she can see ALL of the transactions those individuals made, and therefore, should have no expectations of privacy.
 
-Depending on the type of account, the primary account holder may grant the authority to someone else to access the account information, including all transaction history. This authority is different from the right to use the account. If the primary account holder grants authority to access the account, once we authenticate the individual’s identity, that individual will have full access to the account information, just like the primary account holder.
+Depending on the type of account, the account holder may grant the authority to someone else to access the account information, including all transaction history. This authority is different from the right to use the account. If the account holder grants authority to access the account, once we authenticate the individual's identity, that individual will have full access to the account information, just like the account holder.
 
 ### Encryption and Security
 
@@ -138,17 +134,27 @@ Information provided via our web portal is submitted within a secure session. Th
 
 E-mail, by nature, is not secure and may be intercepted and viewed by others. Therefore, you should refrain from sending email that contains any confidential or private information, such as your member ID, your social security, or credit card number. We will not send you any email that contains confidential information that would allow identity theft (such as SSN) or contains protected information (such as your health information).
 
-### Other HealthEquity services
+### HealthEquity Advisor services
 
-If you have a Health Savings Account, and your account balance exceeds a certain minimum (normally $7,500, but varies depending on how your account was established), you will be eligible to use our web-only investment advisor services offered by HealthEquity Advisors, LLC, a wholly owned company of HealthEquity, Inc. If you choose to use HealthEquity Advisors, LLC services, your consent to make all account information contained in HealthEquity, Inc.’s system available to HealthEquity Advisors, LLC, and further authorize the use of those information to provide you with the services. Finally, in order for HealthEquity Advisors, LLC to provide you with meaningful information, you will be asked to provide complete and accurate financial information not contained in our system. If you provide such information, you are consenting to the use of the information as described in HealthEquity Advisors, LLC user/services agreement. 
+If you have an HSA, and your account balance exceeds a certain minimum (normally $7,500, but varies depending on how your account was established), you will be eligible to use our [web-only investment advisor services](https://healthequity.com/learn/hsa/advisor) offered by HealthEquity Advisors, LLC, a wholly owned company of HealthEquity, Inc. If you choose to use HealthEquity Advisors, LLC services, your consent to make all account information contained in HealthEquity, Inc.'s system available to HealthEquity Advisors, LLC, and further authorize the use of those information to provide you with the services. Finally, in order for HealthEquity Advisors, LLC to provide you with meaningful information, you will be asked to provide complete and accurate financial information not contained in our system. If you provide such information, you are consenting to the use of the information as described in HealthEquity Advisors, LLC user/services agreement. 
 
-### Links to other web sites
+### Employer, health plan, or insurance company disclosures
 
-HealthEquity works with a number of other companies to ensure that we are providing the value and service you expect. Some of these companies offer "co-branded" or "alliance" products; others may be third parties who provide additional online products and services. By using their services you are authorizing us to share and/or provide private information to them, which may be stored on their servers. You will see a disclosure on our site that alerts you when you are leaving our Web site. These parties often have their own privacy policies, and may have online data collection policies that may differ from ours. Although we encourage these parties to adopt and follow privacy procedures, we are not responsible for their use of your personal information and our Privacy Notice does not cover their information practices. Therefore, for your protection, we recommend that you review the privacy notices provided on their Web sites.
+If you open or maintain an HSA through or in association with an employer, health plan, health insurance company, benefits administrator, benefits aggregator, or other entity, or those operating on behalf of such entities (each, an "Agent"), we may disclose HSA information, including but not limited to personally identifiable information, to your Agent related to the opening and maintenance of your HSA, and to ensure the security of our network and services, to protect against or prevent potential fraud or unauthorized transactions, or as otherwise permitted or required by law. When your Agent notifies us that your association with the Agent has been terminated, we will cease disclosing your information to that Agent, with a reasonable time for us to act on such notification.
 
-### Links from employers or health plans
+If your Agent is subject to any rules of the U.S. Securities and Exchange Commission ("SEC") that may indirectly or directly require the Agent of monitor your beneficial ownership of securities issued by clients of the Agent, we may disclose to your Agent the fact that you have or have not invested in securities through your HSA, the value of your ownership interest in such securities, detail regarding your transactions in such securities, and any other information that the Agent reasonably requests for purposes of facilitating its compliance with such SEC rules, unless you opt out of such sharing. To opt out, contact Member Services. Note that this opt-out only extends to the sharing described in this paragraph.
 
-If your account was established by your employer or your health plan, they may have requested that we set up a communication channel whereby you can log into HealthEquity’s portal (known as Single Sign on) or access your account information through their site without entering your user name and password again. Your employer or health plan also may have contracted with another vendor that provides additional services, such as personal health care costs management, that allows you to log into HealthEquity’s portal or access your HealthEquity’s account information through that vendor’s website, also without entering your HealthEquity user name and password. When you use those websites to sign into HealthEquity’s portal or access your account information, you are authorizing HealthEquity’s system to pass on certain personal information, such as your account balances, to those systems.
+### SSO or links to other web sites
+
+Your Agent, retirement plan, or 401k recordkeeper, as part of a service offering, may have set up the capability whereby you can access the Agent's, retirement plan's, 401k recordkeeper's, or another third party's website from our website without the need to enter your login credentials to access the third party;s website. This is often called "single sign on". You may see a disclosure on our website that alerts you when you are leaving our website and accessing the website of the third party. If you have questions about this arrangement, please contact your Agent, retirement plan, or 401k recordkeeper.
+
+### Data sharing arrangements
+
+Your Agent, retirement plan, or 401k recordkeeper, as part of a service offering and for your convenience, may have enabled functionality that would permit you to view your HSA information on the Agent's, retirement plan's, 401k recordkeeper's, or another third party's website or for other purposes that support the data sharing arrangement. If you have such an arrangement, we will share the information defined in the arrangement (such as account balance or investment information) that is necessary to provide the service with your Agent, retirement plan, 401k recordkeeper or another third party, which may be stored on their servers or systems. We are not responsible for the privacy and security practices of your Agent or another third party, and do not control their use or further disclosure of HSA information.
+
+### Notice of Privacy practices
+
+For more information about our privacy practices as they relate to HSAs, and as required by the Gramm-Leach-Bliley Act ("GLBA"), please refer to the HealthEquity Notice of Privacy Practices available online (see Quick Links box at https://healthequity.com/legal). CALIFORNIA AND VERMONT PRIVACY NOTICE
 
 ### California and Vermont privacy notice
 
@@ -156,7 +162,7 @@ For California and Vermont residents, the information sharing practices describe
 
 California Civil Code Section 1798.83 permits you, if you are a California resident, to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@healthequity.com or write us at Privacy Officer, HealthEquity, Inc., 15 W Scenic Pointe Drive, Suite 100, Draper, UT 84020.
 
-Cal. Bus. And Prof. Code Section 22575 also requires us to notify you how we deal with the "Do Not Track" settings in your browser. Currently, HealthEquity’s system does not respond to the Do Not Track settings.
+Cal. Bus. And Prof. Code Section 22575 also requires us to notify you how we deal with the "Do Not Track" settings in your browser. Currently, HealthEquity's system does not respond to the Do Not Track settings.
 
 ### Nevada privacy notice
 
@@ -164,6 +170,21 @@ Nevada law requires that we also provide Nevada residents with the following con
 
 We hope our Privacy Notice will help you understand how we collect and share information. If you have any questions, please contact us. We are required by federal and state law to provide you with a copy of our Privacy Notice every twelve months. We reserve the right to change this Privacy Notice, in whole or in part, by providing notice in accordance with applicable law.
 
-### Entities covered by this privacy policy
+### GDPR
 
-Unless we specifically named an entity, this privacy policy covers both HealthEquity, Inc. and its subsidiaries, including but not limited to HealthEquity Advisors, LLC. 
+The General Data Protection Regulation ("GDPR") is an EU data protection and privacy regulation. Our services are outside the scope of GDPR as we are not processing data of HSA owners residing in the EU, we do not target EU residents with our services or products, do not envision our services or products being used by EU residents (e.g., HSAs are only tax advantaged in the U.S.), and do not monitor the behavior of EU residents.
+
+### Entities covered by this privacy statement
+
+This privacy statement applies to HealthEquity, Inc. and its subsidiaries, including but not limited to HealthEquity Advisors, LLC., unless otherwise indicated. 
+
+* * *
+
+## Registered Agent for Service of Process
+
+Legal notices (such as divorce subpoenas, garnishment notices, etc.) should be sent to our registered agent for service of process:
+
+Registered Agent Solutions, Inc.  
+2005 East 2700 South Ste 200  
+Salt Lake City, UT 84109  
+<https://secure.utah.gov/bes/details.html?entity=5578753-0143>
