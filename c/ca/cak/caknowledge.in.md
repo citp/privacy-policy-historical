@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caknowledge.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124205220id_/https%3A//caknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caknowledge.in privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516031511id_/https%3A//caknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CAknowledge.com
 
@@ -12,7 +12,7 @@ At CAknowledge.in the  **privacy**  of our visitors is extremely important. T
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
-## **_1\. Log Files_**
+##  ** _1\. Log Files_**
 
 We use log files like many other websites. The information in the log files include:  
 * Internet Protocol addresses (IP)  
@@ -23,16 +23,16 @@ We use log files like many other websites. The information in the log files incl
 * Number of clicks  
 All of this information is not linked to anything that is personally identifiable.
 
-## _**2\. Cookies**_
+##  _ **2\. Cookies**_
 
 We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, All Blogging Tips has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.  
 If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
-## _**3\. Other**_
+##  _ **3\. Other**_
 
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from ABT. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
-## **Payment and Privacy Policy**
+##  **Payment and Privacy Policy**
 
 Our credit card payment method is highly secure as we do not keep credit card information related to the payment in our hands.
 
@@ -42,7 +42,7 @@ The whole credit card transaction is processed by [2CO](https://www.2checkout.c
 
 We take your privacy seriously and will take all measures to protect your personal information.
 
-## **Refunds policy**
+##  **Refunds policy**
 
 We want you to be satisfied with any product you buy from us, period. We generally don’t offer refunds for our products and services once you have made the payment and elected to continue with the product..
 
@@ -50,15 +50,15 @@ Please note that by purchasing the product or service, you agree to the terms of
 
 If you require any more information or have any questions about our privacy policy or refund policy, please feel free to contact us by email at [raj302026@gmail.com](mailto:raj302026@gmail.com)
 
-## **Changes to our Privacy Policy**
+##  **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will send an email notifying you of any changes.
 
-## **Contact Us**
+##  **Contact Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**https://caknowledge.com**  
+ **https://caknowledge.com**  
 Raju Choudhary (Founder CAknowledge.com)  
 [**raj302026@gmail.com**](mailto:raj302026@gmail.com) OR **admin@caknowledge.com**  
 +918854810117
