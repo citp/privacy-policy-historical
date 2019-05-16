@@ -1,40 +1,143 @@
-> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121224748id_/http%3A//www.budgetblinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516170950id_/https%3A//budgetblinds.com/privacy-policy) for the most accurate reproduction.*
 
-# Budget Blinds | Privacy Policy
+# Privacy Policy | Budget Blinds
 
-Budget Blinds, Inc. (“Budget Blinds”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Budget Blinds’ Web site, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Last modified: July 11, 2018
 
-This Privacy Policy covers Budget Blinds’ treatment of personally identifiable information (“Personal Information”) that Budget Blinds gathers when you are accessing Budget Blinds’ Web site and when you use Budget Blinds’ services. This policy does not apply to the practices of Budget Blinds that Budget Blinds does not own or control, or to individuals that Budget Blinds does not employ or manage. 
+  **Introduction**
 
-**Types of Information Collected**   
-The information we gather from visitors to the Budget Blinds Web site enables us to personalize and improve our services. We collect the following types of information from our visitors: 
+Budget Blinds, LLC ( **"Company"** or **"We"** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-**Personal Information You Provide to Us**   
-We receive and store any information you enter on our Web site or provide to us in any other way. The types of Personal Information collected includes: your name, address, email address, telephone and facsimile number. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the services offered through this Web site. The Personal Information you provide is used for such purposes as responding to your requests for certain products, services and information, identifying you, and communicating with you about specials and new products and opportunities. 
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.budgetblinds.com (our " **Website** ") and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Personal Information Collected Automatically   
-We receive and store certain types of information whenever you interact with our Web site or services. Budget Blinds automatically receives and records information on our server logs from your browser including your IP address, Budget Blinds cookie information, and the page you requested.   
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. Budget Blinds only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often visitors use parts of the Web site or services so that we can make the Web site appealing to as many visitors as possible, and improve those services. 
+This policy applies to information we collect:
 
-**Email Communications**   
-We may send email communications to you to inform you about specials, product updates, new products and/or information about the Budget Blinds and Tailored Living franchise opportunity. If you do not want to receive e-mail or other mail from us, you may “opt out” by visiting <http://www.budgetblinds.com/email-newsletter>
+  * On this Website.
+  * In email, text, and other electronic messages between you and this Website.
 
-**Cookies**   
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Budget Blinds cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your email address is. 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web site’s features. 
 
-**Sharing of Personal Information**   
-Personal Information about the visitors to our Web site is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We will share your Personal Information only with subsidiaries that are under the direct control of Budget Blinds and as described below. 
+It does not apply to information collected by:
 
-If Budget Blinds, or substantially all of its assets were acquired, or in the unlikely event that Budget Blinds goes out of business or enters bankruptcy, visitor information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Budget Blinds may continue to use your Personal Information as set forth in this policy. 
+  * us offline or through any other means, including on any other website operated by Company or any third party; or
+  * any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-We may release Personal Information when we believe in good faith that release is necessary to comply with the law; or protect the rights, property, or safety of Budget Blinds, our employees, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
-Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
 
-**Changes to this Privacy Policy**   
-Budget Blinds may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used/collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Web site. 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-**Contacting Us**   
-If you have any questions about this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please send an email to [info@budgetblinds.com](mailto:info@budgetblinds.com)
+**Children Under the Age of 13**
+
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at:
+
+[info@budgetblinds.com](mailto:info@budgetblinds.com)
+
+**Information We Collect About You and How We Collect It**
+
+We collect several types of information from and about users of our Website, including information:
+
+  * by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ");
+  * that is about you but individually does not identify you; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
+
+
+
+We collect this information:
+
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies.
+
+
+
+**Information You Provide to Us.  ** The information we collect on or through our Website may include:
+
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Records and copies of your correspondence (including email addresses), if you contact us.
+
+
+
+I authorize Budget Blinds to contact me by phone at the number provided above, including mobile phone, text, email or mail, to give me information about products. Consent is not required as a condition of making a purchase. 
+
+**Information We Collect Through Automatic Data Collection Technologies.  ** As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+
+  * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system, and browser type.
+
+
+
+The information we collect automatically may include personal information or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices About How We Use and Disclose Your Information.
+
+
+
+**How We Use Your Information**
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data. For more information, see Choices About How We Use and Disclose Your Information.
+
+We may use the information we have collected from you to enable us to display advertisements to our target audiences.
+
+**Disclosure of Your Information**
+
+We may disclose aggregated information about our users without restriction.
+
+We may disclose personal information that we collect or you provide as described in this privacy policy:
+
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Budget Blinds, LLC's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Budget Blinds, LLC about our Website users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our [terms of use](https://web.archive.org/terms-conditions/ "terms of use") and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Budget Blinds, LLC, our customers, or others.
+
+
+
+**Choices About How We Use and Disclose Your Information**
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from the Company.** If you do not wish to have your email address used by the Company to promote our or our affiliates’ products or services, you can opt out by checking the relevant box located on the form on which we collect your data or at any other time by sending us an email stating your request to [info@budgetblinds.com](mailto:info@budgetblinds.com "info@budgetblinds.com"). If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
+
+
+
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (" **NAI** ") on the NAI's website.
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+[info@budgetblinds.com](mailto:info@budgetblinds.com "info@budgetblinds.com")
