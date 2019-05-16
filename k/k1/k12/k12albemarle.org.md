@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322054323id_/http%3A//www2.k12albemarle.org/acps/division/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516201021id_/http%3A//www.k12albemarle.org/acps/division/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
