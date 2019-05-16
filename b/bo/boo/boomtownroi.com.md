@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomtownroi.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614031441id_/http%3A//boomtownroi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomtownroi.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516221715id_/https%3A//boomtownroi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,6 +85,10 @@ _Transmission outside of Canada_
 
 Personal Information may be transmitted to the facilities of third party service providers in the United States for processing and storage in furtherance of the identified purposes for which it was collected. We and they will abide by the terms of this Privacy Policy in respect of the use, disclosure and storage of your Personal Information. These service providers are subject to certain safeguards, including the execution of a Non-Disclosure Agreement and the requirement that any Personal Information provided to them be destroyed upon completion of the service or returned to us. Personal Information processed in the United States may be lawfully accessed by U.S. courts, law enforcement and national security agencies.
 
+**Third-Party Services**
+
+BoomTown’s Platform allows you to integrate with third-party services (“Third-Party Services”). In order to take advantage of this feature, you may need to authenticate, register for or log into Third-Party Services through the Platform or on the websites of their respective providers. When you enable linking between the Platform and Third-Party Services, such as your Google account, you will authorize us to collect and store relevant personal information necessary to enable the Platform to access that Third-Party Service and your data and content contained within that Third-Party Service. We will use, store and disclose such information in accordance with BoomTown’s Privacy Policy, Terms of Service and the rules you set to govern the linking. However, please remember that the manner in which Third-Party Services use, store and disclose your information is governed by the policies of such Third-Party Services, and BoomTown shall have no liability or responsibility for the privacy practices or other actions of any Third-Party Services that may be enabled within the Platform.
+
 **Changes to Our Privacy Policy**
 
-This Privacy Policy was last revised on **February 25, 2015**. We reserve the right to modify or amend this policy at any time by posting the revised Privacy Policy on the Website.
+This Privacy Policy was last revised on **February 9, 2018**. We reserve the right to modify or amend this policy at any time by posting the revised Privacy Policy on the Website.
