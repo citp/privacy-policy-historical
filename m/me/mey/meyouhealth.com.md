@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906030706id_/https%3A//account.meyouhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516233401id_/https%3A//account.meyouhealth.com/privacy) for the most accurate reproduction.*
 
 # MeYou Health Account
 
@@ -16,7 +16,7 @@ Keeping your information safe shouldn't even be a question. MeYou Health believe
 
 **Why do we collect information about you?** The answer is very simple. MeYou Health uses your information in order to offer you valuable tools to improve your health.
 
-If you have any questions about our Privacy Policy, our [Terms of Use](http://meyouhealth.com/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health, 27-43 Wormwood Street, Suite 420, Boston, MA 02210, Attn: Support, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
+If you have any questions about our Privacy Policy, our [Terms of Use](http://meyouhealth.com/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health 92201, 177 Huntington Ave #1700, Boston, MA 02115, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
 
 * **_What Information Do We Collect?_**
 
@@ -111,7 +111,7 @@ MeYou Health has the right to decide to close your account. If we decide to clos
 
 If you have any questions, comments, or concerns about this Privacy Policy or about our services, please contact MeYou Health Customer Support at [support@meyouhealth.com](mailto:support@meyouhealth.com) or at the address below:
 
-MYH, Inc., 27-43 Wormwood Street, Suite 420, Boston, MA 02210, Attn: Support
+MeYou Health 92201, 177 Huntington Ave #1700, Boston, MA 02115
 
 * **_Updates and the Effective Date of this Privacy Policy_**
 
