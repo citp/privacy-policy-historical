@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922193843id_/https%3A//www.panopto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516122654id_/https%3A//www.panopto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies - Panopto Video Platform
 
