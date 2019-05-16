@@ -1,54 +1,48 @@
-> *The following text is extracted and transformed from the plidd.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119051301id_/http%3A//plidd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plidd.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516102615id_/https%3A//plidd.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Plidd Privacy Policy
+# Privacy Policy - Plidd Limited
 
-**What information do we collect?**
+At Plidd Limited, we are committed to maintaining the trust and confidence of our customers and this policy applies whether you use your mobile device or visit our website. We want you to know that The Plidd Limited does not sell, rent or trade customer lists with other companies and businesses for marketing purposes.
 
-We collect limited information from you when you register on our site. Registering on our site, as appropriate, you may be asked to enter your name or e-mail address.
+### What information we collect about you
 
-**What do we use your information for?**
+We collect information about you when you register with us or place an order for products or services. We also collect information when you contact customer services, voluntarily complete customer surveys, provide feedback and participate in competitions. Website usage information is collected using cookies.
 
-Any of the information we collect from you may be used in one of the following ways:
+### How we use information
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+We collect information about you to process your order, manage your account, verify your identity, manage customer service interactions, market research purposes and, if you agree, to email, SMS message or write to you about other products and services we think may be of interest to you.
 
+You have the right to opt-out of receiving promotional communications at any time, by:  
+1\. changing marketing preferences via your account;  
+2\. making use of the simple “unsubscribe” link in emails or the “STOP” number for texts; and/or  
+3\. contacting us by email [plidd.com@gmail.com](mailto:plidd.com@gmail.com)
 
+### How long do we keep your data?
 
-**How do we protect your information?**
+We will not retain your data for longer than necessary for the purposes set out in this Policy. Different retention periods apply for different types of data.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+### Access to your information
 
-**Do we use cookies?**
+You have the right to request a copy of the information we hold about you. If you would like a copy of some or all of your personal information, please email [plidd.com@gmail.com](mailto:plidd.com@gmail.com). We may make a small charge for this service.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits.
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
-**Do we disclose any information to outside parties?**
+### Cookies
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, we will always notify you if your information is going to be released to such third parties.
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to complete statistical reports on website activity.
 
-**Childrens Online Privacy**
+For further information visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
-Plidd is intended for users age 13 and older. Anyone registering for a Plidd account or using Plidd who is under 13 is in violation of our Terms of Use policy. In addition, if we ever need to gather more detailed user information beyond what is supplied at registration and/or login, we will make every reasonable attempt to verify that user is older over 13 years of age.
+You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However, in a few cases some of our website features may not function as a result.
 
-**Online Privacy Policy Only**
+### Other websites
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
 
-**Terms and Conditions**
+### Changes to our privacy policy
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website[here](http://plidd.com/terms-of-use).
+We keep our privacy policy under review and we place any updates on this web page. This privacy policy was updated 17 August 2018.
 
-**Your Consent**
+### How to contact us
 
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-**Email** : support@plidd.com
+Please contact us if you have any questions about our privacy policy or information we hold about you. Please email [plidd.com@gmail.com](mailto:plidd.com@gmail.com).
