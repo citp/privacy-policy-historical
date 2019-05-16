@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231093439id_/https%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlus.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516221040id_/https%3A//atlus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlus USA
 
@@ -16,10 +16,4 @@ If you remain unhappy with a response you receive, and are in the European Union
 
 California Civil Code Section 1798.83 (“Shine the Light”) permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us as described below in Section 7 “Contact Us”. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.
 
-In addition, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact Atlus U.S.A. Inc.’s Data Protection Officer (DPO@sega.net) or the ESRB at <https://www.esrb.org/privacy/contact.jsp>, or
-
-ESRB  
-Attn: Privacy Certified Program  
-420 Lexington Avenue, Suite 2024  
-New York, NY 10170  
-[privacy@esrb.org](mailto:privacy@esrb.org)
+In addition, if you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact Atlus U.S.A. Inc.’s Data Protection Officer (DPO@sega.net). 
