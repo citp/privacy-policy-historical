@@ -1,100 +1,125 @@
-> *The following text is extracted and transformed from the brandcrowd.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandcrowd.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516125637id_/https%3A//www.brandcrowd.com/pages.php%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | BrandCrowd
 
-**Go Daddy Respects Your Privacy**
+_By using the site you consent to the collection, use and disclosure of your personal information in accordance with this policy._
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+BrandCrowd is committed to protecting your privacy. This privacy policy tells you about usage of our site, as well as, use and disclosure of personal information. The terms of this policy apply to all personal and business information collected by BrandCrowd on the BrandCrowd.com and other BrandCrowd related procedures.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This site is operated by DesignCrowd Pty Ltd trading as BrandCrowd. For information protection purposes, BrandCrowd is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Consent to Collection of Your Personal Information**
 
-**Information Collection and Use**
+When you visit this site, certain kinds of non-personal information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site's operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. Demographic information may also be collected and may be linked to your personal information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We only collect personal information about you after you have provided us with your consent to collect that specific information. By voluntarily providing this information to us, you consent to the collection and use of your personal information as set out in this privacy policy.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Personal information includes:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+At some points, BrandCrowd collects personal information, such as your e-mail address, name, home or work address or telephone number. BrandCrowd may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites. BrandCrowd may collect financial information to purchase and sell on BrandCrowd.com including credit card number and billing address, as well as, banking and other financial information required to compensate you.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+BrandCrowd may collect information about your visit, including the pages you view, the links you click and other actions taken within BrandCrowd.com. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Certain BrandCrowd services may be co-branded and offered in conjunction with another company. If you register for or use such services, both companies may receive information collected in conjunction with the co-branded services.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Use of Your Personal Information**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+BrandCrowd collects and uses your personal information to:
 
-**Security**
+1\. create and manage your membership account;
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+2\. process your transactions;
 
-**Updating Your Information**
+3\. provide customer service;
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+4\. perform research and analysis aimed at improving our products, services and technologies;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+5\. to display content that is customized to your interests and preferences;
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+6\. to run contests, select entrants, and choose prize winners;
 
-      iii.      You may call us at: (480) 505-8800
+7\. to run interactive areas;
 
-       iv.      You may fax us at: (480) 505-8844
+8\. to compensate you if you are a seller;
 
-**Sending Emails**
+9\. to identify your uploaded content as your content if you are a seller; and,
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+10\. to communicate with you about your transactions, new products and services. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information or offers that may be of interest. If you do not wish to receive surveys or marketing communications, you may adjust your preferences in the “My Account” section or follow the "unsubscribe" instructions included within each email communication. If you choose not to receive marketing communications, you will continue to receive transactional or account communications.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Personal information collected by BrandCrowd may be stored and processed in any country in which BrandCrowd is used and by providing us with your personal information and using our sites or services, you consent to any such transfer of information outside of your country. If you would like to exercise any of your personal information protection rights (including the right to have your personal information deleted), please contact us by email at dataprotection@designcrowd.com.
 
-**Compliance with Laws and Law Enforcement**
+**Disclosing Your Personal Information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Except as set out in this privacy policy, BrandCrowd does not disclose or sell your personal information to any third-parties.
 
-**Third Party Service Providers**
+We may disclose your personal information to third-party service providers who perform services on our behalf such as to handle the processing of payments, to provide data storage, to host websites, to fulfill orders, to assist in marketing, to conduct audits, etc. Those third-party service providers (i) shall be permitted to obtain only the personal information they need to provide the service, (ii) must protect personal information to the same extent as BrandCrowd, and (iii) shall be prohibited from using it for any other purpose.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Personal information disclosed BrandCrowd may be available to the United States government or its agencies under a lawful order made in a court of competent jurisdiction in the US.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you have entered into an BrandCowd contest, we or a contest sponsor may publish your name and city of residence. Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. We will notify you of such an occurrence as described in the "Changes to This Privacy Policy" section below. We reserve the right to disclose your personal information if required or permitted to do so by law.
 
-**Supplementation of Information**
+**Accessing Your Personal Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "My Account" section of the site. You may also contact Customer Service by email at support@brandcrowd.com for assistance.
 
-**Contests/Surveys**
+**Personal Information Preferences**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+BrandCrowd respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive surveys or marketing communications from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form when you sign up or the in "My Account" page of the website once you are a member; (2) contacting Customer Service by email at support@brandcrowd.com.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
 
-**Tell-A-Friend**
+**Use of Cookies and Other Technologies**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+BrandCrowd uses "cookies" to enable you to sign in to our services and to help personalize your online experience. A cookie is a small text file that is placed on your hard drive. Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, session identification number and your navigational history and preferences.
 
-**What Happens to my Personal Information if I Opt Out?**
+Cookies offer you many conveniences. They allow us to identify registered users when they return to the site so that they can access online portfolios, “favorites” and view their transaction history. Cookies also save you time by eliminating the need to repeatedly enter the same information.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by BrandCrowd only and does not cover the use of cookies by third parties.
 
-**Transfer of Data Abroad**
+You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies but you will be able to perform basic navigation through the site.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters. We do not use these images to collect personal information.
 
-**Changes in Our Practices**
+**Security of Your Personal Information**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information including without limitation:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+1\. limiting access to your personal information to those of our employees who require it to provide services to you;
 
-**Contacting Our Site**
+2\. requiring employees to sign confidentiality agreements to protect customer and other confidential information;
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+3\. ensuring that third-party service providers sign confidentiality agreements to maintain the confidentiality of your personal information and not to use it for any unauthorized purposes;
 
-* * *
+encrypting credit card information on our order forms using secure socket layer (SSL) technology; and
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+4\. storing your personal information in secure computer systems which protect it from unauthorized access or use.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
+
+If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
+
+**Discussion Forums & Other Interactive Services**
+
+Our sites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including sending you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at support@brandcrowd.com. Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+
+**Email Referrals**
+
+If you choose to use our email referral services to tell a friend about our products or services we will ask you for your friend's name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third-party provider may only use the information submitted to facilitate this one-time email.
+
+**Children**
+
+We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact Customer Services by email at support@brandcrowd.com to obtain the necessary parental consent forms.
+
+**Links**
+
+We may link to websites, including third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites and encourage you to become acquainted with them prior to use.
+
+**Changes to This Privacy Policy**
+
+We reserve the right to change the terms of this privacy policy at any time. If there are material changes to this statement or in how BrandCrowd will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
+
+**Contact Information**
+
+BrandCrowd welcomes your comments regarding this Privacy Policy. If you believe that we have not adhered to this Statement, please contact us e-mail.
+
+[support@brandcrowd.com](mailto:support@brandcrowd.com)
