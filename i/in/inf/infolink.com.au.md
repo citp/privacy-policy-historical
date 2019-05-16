@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130221614id_/http%3A//www.architectureanddesign.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516092934id_/https%3A//www.architectureanddesign.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Architecture And Design
+# Privacy Policy | Architecture & Design
 
 All rights reserved. No part of this website may be reproduced, stored in a retrieval system, transmitted in any form or by any other means, electronic, mechanical, photocopying, recording or otherwise. While every effort has been made to ensure the accuracy of the information on this website, the publishers assume no responsibility for errors or omissions or any consequences of reliance on this website.
 
@@ -19,11 +19,11 @@ Any questions regarding this policy or enquiries regarding privacy should be sen
 
 Australia:  
 The Operations Director, Indesign Media Asia Pacific, 1/50 Marshall Street, Surry Hills NSW 2010, Australia.  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@indesign.com.au
 
 Singapore:   
 The Managing Editor, Indesign Media Asia Pte Ltd, No.4 Leng Kee Road, SIS Building #06-08, Singapore 159088, Singapore.  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+accounts@indesign.com.sg
 
 **What type of information is collected by Indesign Media?**
 
@@ -46,10 +46,10 @@ From time to time, we may provide statistical information about sales, trading p
 Unless requested not to, Indesign Media may provide your personal information to third parties, which may in turn provide your information to other third parties for marketing purposes. If you would not like us to share your information in this way please notify us by submitting the email address you used to subscribe here:
 
 Australia  
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or call us on (61 2) 9368 0150
+By email: info@Indesign.com.au, or call us on (61 2) 9368 0150
 
 Singapore  
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or call us on (65) 6475 5228
+By email: accounts@indesign.com.sg, or call us on (65) 6475 5228
 
 To whom might Indesign Media disclose Personal Information?
 
