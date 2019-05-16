@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintagedancer.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302071458id_/https%3A//vintagedancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintagedancer.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516212247id_/https%3A//vintagedancer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,5 +22,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of www.vintagedancer.com then you may contact us at debbie@vintagedancer.com
-
-Debbie Sessions, the Vintage Dancer, and husband Oscar Sessions have turned a hobby into a career by teaching others how to re-create vintage style with affordable new vintage inspired clothing and accessories. We connect shoppers to the best vintage inspired clothing, shoes and accessories sold online and teach fashion history as it was worn by everyday people. All articles are written by Debbie, unless otherwise noted. Need help with your outfit? Contact us anytime. Website: [https://vintagedancer.com](https://vintagedancer.com/)
