@@ -1,247 +1,289 @@
-> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915165650id_/https%3A//www.leadsquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsquared.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516090230id_/https%3A//www.leadsquared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LeadSquared
 
-## **Simple Summary**
+This privacy policy (“ **Policy** ”) was last changed on Aug 3rd 2018\. You can view our previous policy, [here](https://www.leadsquared.com/previous-version-privacy-policy/). We may occasionally make changes to the Policy. If we do, we shall notify either by sending you an e-mail or sending you a notification through the LeadSquared App (as defined below). Please make sure to read such notices carefully.
 
-###  **Information Collected**
+We sincerely believe that you should always know what data we collect from you, the purposes for which such data is used, and that you should have the ability to make informed decisions about what you want to share with us.
 
-  * You provide your personal information (email, phone number, etc.) and billing information to us while creating an account with us. We store that information reliably and securely. We use that information only for the purpose of serving you.
-  * When you install our services (LeadSquared Web application or Mobile app), we collect non-personally identifiable data (like location, IP address, feature usage) of your visitors/users.
-  * When using our Mobile Apps, based on your authorization – we can track your location, SMS, Email and Calls (including recording calls).
-  * We use common Internet technologies, such as cookies and Web beacons, to keep track of your interactions with our Websites, applications, and emails.
+Therefore, we want to be transparent about: (i) how and why we collect, store and use your personal data in the various capacities in which you interact with us; and (ii) the rights that you have to determine the contours of this interaction.
 
+While we would strongly advise you to read the Policy in full, the following summary will give you a snapshot of the salient points covered herein:
 
-
-###  **Use of Collected Information**
-
-  * LeadSquared uses information collected to provide you with the services you request.
-  * LeadSquared may use information collected to provide you with additional information about our Services, partners, promotions, and events.
-  * LeadSquared may use information collected to improve our Websites and Services.
-  * We do not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. We may share information collected with other companies, that work on our behalf.
+  * This Policy details the critical aspects governing your personal data relationship with LeadSquared which is owned and operated by **MarketXpander Services Private Limited** , a company incorporated under the laws of India, and having its registered office at #33, Sector 6, H S R Layout, Bangalore – 560 102, Karnataka, India;
+  * Your personal data relationship with LeadSquared varies based on the capacity in which you interact with us/avail of our products and solutions (“ **Services** ”). You could be: (i) a visitor to [leadsquared.com](https://www.leadsquared.com/) (“ **Website** ”) or any pages thereof (“ **Visitor** ”); (ii) a person/entity availing of one of our Services (“ **Customer** ”); or (iii) an employee/agent/representative/appointee of a Customer who uses the said Service (“ **User** ”);
+  * Based on whether you are a Visitor, Customer or User, the type of data we collect and the purpose for which we use it will differ and this Policy details such variations;
+  * This Policy is a part of and should be read in conjunction with our [Terms of Service](https://www.leadsquared.com/leadsquared-terms-of-service/); and
+  * This Policy will clarify the rights available to you vis-à-vis the personal data you share with us.
 
 
 
-##  **Detailed Privacy Statement**
+If you have any queries or concerns with this Policy, please contact our Grievance Officer (refer Section 12). If you do not agree with the Policy, we would advise you to not visit/use the Website or the LeadSquared mobile application(s)/platform(s) (collectively “ **App** ”).
 
-LeadSquared is committed to protecting the privacy of information that we collect from and about our website visitors. This Statement of Privacy (or “Privacy Policy”) is part of our Terms of Service (<https://www.leadsquared.com/leadsquared-terms-of-service>) and applies to our websites and applications available under domain leadsquared.com and to our mobile applications available on iOS and android platforms.
+  1.  **INFORMATION WE COLLECT AND HOW WE USE IT**
 
- **By accessing or using our Websites or Applications, you expressly consent to our use and disclosure of your personal information in any manner described in this Privacy Policy.  If you do not agree to this privacy policy, then you should not visit our website and use our services. **
 
-We periodically update these terms and we will let you know when we do through notification within the LeadSquared application used to access your LeadSquared subscription (if you have one), or by posting a revised copy on our website. You agree to review the Privacy Policy on a regular basis and always remain in compliance.
 
-##  **Definitions:**
+TYPE OF USER| VISITOR| CUSTOMER| USER  
+---|---|---|---  
+WHAT DATA WE MAY COLLECT| 
 
-LeadSquared Websites | [ https://www.leadsquared.com](https://www.leadsquared.com/),
+  1. Your IP Address;
+  2. Your location;
+  3.  How you behave on the Website, (what pages you land on, how much time you spend, etc.);
+  4. What Device you use to access the Website and its details (model, operating system, etc.);
+  5. Cookies and Web Beacon data; and
+  6. Data from third parties who have your explicit consent to lawfully share that data.                              If you submit an inquiry through the Website, we will ask for your:
+  7.  Name; and
+  8. e-mail.
 
-[ http://help.leadsquared.com](http://help.leadsquared.com/),
+| 
 
-[http://blog.leadsquared.com](http://blog.leadsquared.com/)  
+  1. The name and e-mail of your representative who signs up for a Service on your behalf; and
+  2. Credit Card/Debit Card/Other Payment Mode information to check your financial qualifications, detect fraud and facilitate payments for our Services.
+
+| 
+
+  1. Your name, e-mail;
+  2. Your IP Address;
+  3. Your location unless you deactivate location services in the relevant section of the App;
+  4. How you behave in the relevant product environment and use the features;
+  5. What device you use to access the Website/App and its details (model, operating system, etc.);
+  6. Cookies and Web Beacon data;
+  7. Data from third parties who have your explicit consent to lawfully share that data;
+  8. SMSs that you send or receive on your Device from your existing and prospective customers (“ **Leads** ”) if you have opted for the same in the relevant section of the App;
+  9. Phone call logs to record your call activities with Leads (i.e. call time, duration, phone number of relevant Lead) if you have opted for the same in the relevant section of the App; and
+  10. E-mails that you send and receive for the purpose of reading them to sync with your Leads, if you have opted to sync your e-mail with your LeadSquared account using our E-mail Sync App.                                                    If you do choose to activate SMS and Call Log parsing or E-mail Sync to improve your experience, you can be sure that we will never collect or store any information that does not pertain to Leads.
+
+  
+HOW AND WHY WE USE IT| We use this information to analyse and identify your behaviour and enhance the interactions you have with the Website.
+
+If you submit your details and give us your consent, we may use your data to send you e-mails/newsletters, re-target LeadSquared advertisements or re-market our Services using services from third-parties like Facebook and Google.
+
+| We collect this data in order to help you register for and facilitate provision of our Services.
+
+We also use this data to enable you to make payments for our Services.  We use a third-party service provider to manage payment processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of payment processing on our behalf.
+
+If you give us your consent, we may send you newsletters and e-mails to market other products and services we may provide.
+
+| We collect this data in order to facilitate provision of our Services.
+
+We will occasionally send you e-mails regarding changes or updates to the Service that you are using. In the event you report an issue with a Service, we may also screen/video record your Device only when you use the App for a limited time period to help us better understand how to address the issue.
+
+If you give us your consent, we may send you newsletters and e-mails to market other products and services we may provide.
+
+We may also conduct anonymized usage behaviour analysis at the aggregate level to determine how the features of a particular Service are being used.  
+  
+WHAT ARE THE COOKIES AND WEB BEACONS REFERRED TO ABOVE?
+
+TYPE OF FILE| COOKIES| WEB BEACON  
+---|---|---  
+WHAT THEY DO| Cookies are text files which are sent from our server and downloaded to your Device when you visit our Website.
+
+They are useful because they allow us to recognize your Device when you return. You can disable them through your browser should you so wish.
+
+You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+
+| Web Beacon (also known as Clear GIF, Web Bugs or Pixel Tag) is a tiny picture file embedded on the Website/App that tracks your behaviour and navigation. It is similar to a cookie in what it does, but it doesn’t get downloaded on to your Device.
+
+You can find more information about Web Beacons at: <http://www.allaboutcookies.org/faqs/beacons.html>  
+  
+WHAT THEY WON’T DO| 
+
+  1. Harvest any personally identifiable information; or
+  2. Contain any executable software, malicious code or virus.
+
+  
+  
+FOR THE AVOIDANCE OF ANY DOUBT, WE SHOULD CLARIFY THAT IN THE EVENT WE ANONYMIZE AND AGGREGATE INFORMATION COLLECTED FROM YOU, WE WILL BE ENTITLED TO USE SUCH ANONYMIZED DATA FREELY, WITHOUT ANY RESTRICTIONS OTHER THAN THOSE SET OUT UNDER APPLICABLE LAW.
+
+Where such data is not being used by us to render Services to you, we shall explicitly seek your consent for using the same. You can choose to withdraw this consent at any time, [here](http://success.leadsquared.com/PersonalDataProtection).
+
+  2.  **YOUR RIGHTS & PREFERENCES AS A DATA SUBJECT IN THE EU**
+
+
+
+It might have come to your attention that a new law was passed in the European Union (EU) called the General Data Protection Regulation (GDPR). The GDPR gives certain rights to individuals who are EU data subjects, in relation to their personal data.
+
+Subject to the GDPR and applicable law’s limitations, the rights afforded to you if you are an EU data subject are:
+
+RIGHT TO BE INFORMED
+
+You have a right to be informed about the manner in which any of your personal data is collected or used which we have endeavoured to do by way of this Policy.
+
+| RIGHT OF ACCESS
+
+You have a right to access the personal data you have provided by requesting us to provide you with the same.  
   
 ---|---  
-“You”, “your” or “Customer” |  An individual or legal entity who is visiting our website or consuming any service from LeadSquared.   
-“LeadSquared”, “we”, “us” or “our”|  LeadSquared – owned and operated by MarketXpander Services Private Limited, #33, Sector 6, HSR Layout, Bangalore – 560102.  
-“LeadSquared Application”, “Service”, “Software”, or “Platform”|  The suite of applications available at [https://leadsquared.com](https://leadsquared.com/) or any of its sub-domain or any other URL/location (including location on mobile apps) made available by us  
+RIGHT TO RECTIFICATION
+
+You have a right to request us to amend or update your personal data if it is inaccurate or incomplete.
+
+| RIGHT TO ERASURE
+
+You have a right to request us to delete your personal data.  
   
-Subscription Service |  All of our web and mobile based marketing and sales applications, tools and platforms that you have subscribed to by an Order Form or that we otherwise make available to you, and are developed, operated, and maintained by us, accessible via [https://leadsquared.com](https://leadsquared.com/) or another designated URL, and any ancillary products and services that we provide to you.  
-Visitor(s)|  Individual people or accounts that are designated and authorized by Customer to access Subscription Service  
-User(s)|  Individual people or accounts that are designated and authorized by Customer to access Subscription Service   
-Contact Information |  The name, email address, phone number, online user name(s), telephone number, and similar information submitted by visitors to our website or landing pages.  
-Terms of Service |  LeadSquared’s Terms of Service located at [https://www.leadsquared.com/leadsquared-terms-of-service/ ](https://www.leadsquared.com/leadsquared-terms-of-service/)  
-Acceptable Use Policy (AUP) |  LeadSquared’s Acceptable Use Policy located at [https://www.leadsquared.com/aup.](https://www.leadsquared.com/customers/high-purple/)  
-Leads |  Contact records in LeadSquared Application which are stored and captured by LeadSquared Users. Typically, these are customers or prospects of LeadSquared Customer.  
+RIGHT TO RESTRICT
+
+You have a right to request us to temporarily or permanently stop processing all or some of your personal data.
+
+| RIGHT TO OBJECT
+
+You have a right, at any time, to object to our processing of your personal data under certain circumstances. You have an absolute right to object to us processing your personal data for the purposes of direct marketing.  
   
-##  **Nature of Collected Information**
+RIGHT TO DATA PORTABILITY
 
-###  **On Websites**
+You have a right to request us to provide you with a copy of your personal data in electronic format and you can transmit that personal data for using another third-party’s product/service.
 
-We may collect, store and use following information when you visit or use our Website
+| RIGHT NOT TO BE SUBJECT TO AUTOMATED DECISION-MAKING
 
-1)  **Contact and Identity Information**  about you when you fill up any forms. For example, we may collect your name, email address, phone number etc. when you fill up forms.
+You have a right to not be subject to a decision based solely on automated decision making, including profiling.  
+  
+In case you want to exercise the rights set out above you can contact our Grievance Officer whose details are set out in Section 12 below.
 
-2)  **Your Company and Billing/Payment information**  like Company Name, Address, Size, Revenue, Tax Id, Profit etc. when you provide this information as part of trial or sign-up process with us. We collect and process payment information from you when you subscribe to the Subscription Service, including credit cards numbers and billing information, using third party PCI-compliant service providers. Except for this, we do not collect sensitive information from you.
+The data provided by you as a Visitor, or when you sign up as a Customer / User or register for our Services will be processed by us for the purpose of rendering Services to you or in order to take steps prior to rendering such Services, at your request. Where such data is not being used by us to render Services to you, we shall explicitly seek your consent for using the same. You can choose to withdraw this consent at any time, [here](http://success.leadsquared.com/PersonalDataProtection). Additionally, we may process your data to serve legitimate interests.
 
-3)  **Your Website Navigation Behavior** : We may collect following non-personal information when you visit our Website or Customer Websites
+Accordingly, the grounds on which we can engage in processing are as follows:
 
-  * Your Computer’s IP Address, Operating System, Browser type, location,
-  * Referral source, duration of visit, pages visited, links clicked
+NATURE OF DATA| GROUNDS  
+---|---  
+Visitor Data| 
 
+  * Consent;
+  * Performance of a Contract; and
+  * Legitimate Interest
 
+  
+Account Registration Data| 
 
-###  **On our Web Applications**
+  * Performance of a Contract; and
+  * Legitimate Interest
 
-When you are using our web applications, we may collect non-personal information such as your navigation across our product, which and how many pages you visit, time spent on various pages, and your computer’s IP address, operating system, browser type and screen resolution.
+  
+Payment Data| 
 
-You may additionally authorize us to connect your LeadSquared account with your email using our[ Email Sync App ](http://help.leadsquared.com/email-sync-app-connecting-your-inbox-with-leadsquared)  or [Gmail Plugin](http://help.leadsquared.com/leadsquared-crm-for-gmail/) – in which case LeadSquared application will read your emails and sync them with corresponding leads.
+  * Performance of a Contract;
+  * Compliance with applicable laws; and
+  * Legitimate Interest
 
-We may also collect non-personal data about your usage of features and store that data in our analytics platform.
+  
+Service Usage Data| 
 
-###  **On our Mobile Apps**
+  * Performance of a Contract; and
+  * Legitimate Interest
 
-We may use mobile analytics software to allow us to better understand the functionality of our Application and any crashes on your mobile device. In addition to information we collect on our Websites, when you use our Mobile Applications we may also collect your city location, device model and version, OS version, and your LeadSquared Subscription Service credentials.
+  
+Data for Marketing our Services| 
 
-LeadSquared mobile application for Android and iOS tracks user’s real-time location during work hours to help LeadSquared Customer track their users and respective prospect meetings. LeadSquared mobile application for Android helps users to automatically track business related phone calls and SMS text messages. Location tracking as well as calls/SMS tracking can be turned off by respective users if they do not wish their location or calls/text messages to be tracked.  The tracked data is sent over secure transport (HTTPS) and is not used by LeadSquared for any purpose. The data is securely stored in respective LeadSquared Customer’s application database for their own business processes managed using LeadSquared. The following sections specifically detail the tracking:
+  * Consent; and
+  * Legitimate Interest
 
-###  **Text SMS inbox**
+  
+  
+If you believe we have used your personal data in violation of the rights above or have not responded to your objections, you may lodge a complaint with your local supervisory authority.
 
-  * SMS inbox is read to track and capture incoming and sent text messages to Leads. Note that only messages pertaining to Leads stored in LeadSquared database are tracked.
-  * The messages are securely transported over HTTPS to LeadSquared databases and are accessible to all LeadSquared Users of the particular LeadSquared Customer.
-  * By default, the tracking is on, and can be switched off by Mobile App user by navigating to the Settings section of the App.
+   
+Additionally, please note:
 
+  * If you are a Customer/User using one of our Services to collect data about an EU data subject from third-parties, it shall be your sole obligation to inform such data subject about the source of such data; and
+  * We do not collect any Special Categories of Personal Data. Further, if you are a Customer/User, you hereby agree and acknowledge that you shall not, under any circumstances, whether directly or indirectly, use our Services to collect or process Special Categories of Personal Data or transfer to us any such data.
+  * The term “ **Special Categories of Personal Data** ” shall have the meaning ascribed to it under the GDPR and shall include, without limitation, data pertaining to a data subject’s race, ethnic origin, genetics, political affiliations, biometrics, health or sexual orientation.
 
 
-###  **Read Call logs**
+  3.  **RETENTION OF PERSONAL INFORMATION**
 
-  * Phone call logs are read to track inbound and outbound calls for the purpose of logging call activities with Leads. Call time, duration and phone number are tracked and stored in the LeadSquared Application database.
-  * By default, the tracking is on, and can be switched off by the Mobile App user.
 
 
+We will store any personal data we collect from you as long as it is necessary in order to facilitate your use of the Services and for ancillary legitimate and essential business purposes – these include, without limitation, for improving our Services, attending to technical issues, and dealing with disputes.
 
-###  **User’s location data**
+We may need to retain your personal data even if you seek deletion thereof, if it is needed to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-  * Real-time location data is captured from the user’s device during work hours. The data is captured after the user “checks-in” through LeadSquared mobile application and until the user “checks-out” through the application.
-  * The location data is also used to tag data posted to LeadSquared Application.
-  * Location tracking can be switched off at LeadSquared Application level.
+If you are a Customer, please be advised that: (i) you will need to inform your Leads about how you store and deal with any data you collect from them using one of our Services, in compliance with applicable laws including the GDPR; and (ii) after you terminate your usage of a Service, we may, unless legally prohibited, delete all data provided or collected by you (including Lead information) from our servers.  
+ 
 
+  4.  **TRACKING BY OUR ADVERTISEMENT PARTNERS**
 
 
-##  **Use of Collected Information**
 
-We will not share your personal information with anyone except as described in this policy.
+Upon receiving your specific consent, we may share the data we collect from Cookies or Web Beacons with our advertisement partners to track your visits, establish your non-personal identity and present you with targeted advertisements about our Services.  
+ 
 
-###  **Compliance with Our Privacy Policy**
+  5.  **TOOLS USED BY OUR CUSTOMERS**
 
-We use the information we collect only in compliance with this Privacy Policy. Customers who subscribe to our Subscription Services are obligated through our agreements with them to comply with this Privacy Policy.
 
-###  **We Never Sell Personal Information**
 
-We do not share, sell, rent, or trade any information with third parties for their promotional purposes.
+If you are a Customer, you are empowered to use proprietary or other third party technologies (for example Flash Cookies) on your website and host them in our App. If you do, you agree and acknowledge that it is your sole obligation to inform your Leads about any data you collect by using such technologies and the policies by which such collection is bound.  
+ 
 
-###  **Use of Personal Information**
+  6.  **COMPLIANCE WITH CHILDREN’S ONLINE PRIVACY PROTECTION ACT**
 
-In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to:
 
-(a) improve your browsing experience by personalizing the Websites and to improve the Subscription Service;
 
-(b) send information to you which we think may be of interest to you by post, email, or other means;
+As a business service, we neither target our Services toward nor knowingly collect any personal information from any individuals under the age of 13.  
+ 
 
-(c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and
+  7.  **TRANSFER OF INFORMATION**
 
-(d) provide other companies with statistical information about our users — but this information will not be used to identify any individual user.
 
-(e) If you use our mobile apps, we may send push notifications from time to time in order to update you about events or promotions. If you no longer wish to receive such communications, you may turn them off at the device level. We may link information we store within the analytics software to Personal Information you submit within the Mobile App.
 
-In addition, we may share data with trusted partners to contact you, based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
+In order for us to facilitate our global operations, we may transfer and access the data we collect and process in accordance with this Policy, to our group companies around the world. Your rights and protections will, under no circumstances, be diluted by this transfer.
 
-###  **Use of Non-Personal Information**
+Further, in the ordinary course of business, we may employ other companies and people to assist us in providing certain components of our Services in compliance with the provisions of this Policy. To do so, we may need to share your data with them.
 
-We use non-personal Information to operate and improve the Websites and the Subscription Service. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about LeadSquared.  We do not own the non-personal information collected on Customer Websites. That information is sole property of our customers. However, we can use this information to do statistical analysis and to improve our Application.
+Where applicable – if the entities to which these transfers are effected are not situated in countries deemed ‘adequate’ by the European Commission or are not registered under the EU-US Privacy Shield framework, we shall enter into appropriate Data Protection Addendums with the transferee parties that comprehensively protect your data. We shall also put in place industry-standard technical and organizational measures (including robust data handling policies) to ensure that such transfers are completed in accordance with applicable laws.
 
-###  **Customer Testimonials and Comments**
+Some of the examples of where we may sub-contract processing activities to third parties include—data analysis, marketing assistance, processing credit card payments, and providing customer service.  
+ 
 
-We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer’s consent via email prior to posting the customer’s name and testimonial.
+  8.  **THIRD PARTY LINKS**
 
-###  **Use of Credit Card Information**
 
-If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.
 
-###  **Service Providers**
+We may display links to third-party websites or applications on our Website or App for advertising or providing you with relevant content. We will not be responsible for such third-party websites or applications if you choose to access them. If you provide any data to such website/application, please ensure you read their policies given that you will no longer by bound by this Policy in doing so.
 
-We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
+  9.  **COMPELLED DISCLOSURE**
 
-###  **Security of your Personal Information**
 
-We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card number and/or geo-location data) is collected on our Websites and/or transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-###  **Social Media Features**
+In addition to the purposes set out in the Policy, we may disclose any data we collected or processed from you if it is required:
 
-Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our sites. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  Your interactions with these features are governed by the privacy policy and other policies of the companies providing them.
+  * Under applicable law or to respond to a legal process, such as a search warrant, court order, or subpoena;
+  * To protect our safety, your safety or the safety of others or in the legitimate interest of any party in the context of national security, law enforcement, litigation, criminal investigation or to prevent death or imminent bodily harm;
+  * To investigate fraud or violation of our [Acceptable Use Policy;](https://www.leadsquared.com/aup/)
+  * If required in connection with legal proceedings brought against LeadSquared, its officers, employees, affiliates, customers or vendors; or
+  * To establish, exercise, protect, defend and enforce our legal rights.
 
-###  **External Websites**
 
-Our Websites may provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.
+  10.  **SECURITY OF YOUR PERSONAL INFORMATION**
 
-##  **Retention of Personal Information**
 
-We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about the Subscription Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements, and then we securely delete the information. We will delete this information from the servers at an earlier date if you so request, as described in “Opting Out and Unsubscribing” below. If you provide information to our customers as part of their use of the Subscription Service, our customers decide how long to retain the personal information they collect from you. After termination, we may, unless legally prohibited, delete all customer information, including your Personal Information, from the Subscription Service.
 
-##  **International Transfer of Information**
+We implement industry-standard technical and organizational measures by using a variety of security technologies and procedures to help protect your data from unauthorized access, use, loss, destruction or disclosure. When we collect particularly sensitive data (such as a credit card number or your geo-location), it is encrypted using industry-standard cryptographic techniques including but not limited to SSL, TLS, RSA, and AES.
 
-To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States and Singapore. This Privacy Policy shall apply even if we transfer Personal Information to other countries.
+Your password is your first line of defense once you set up a LeadSquared account, so we recommend that you set a strong password which you never share with anyone and ensure you sign out of your LeadSquared account once you have used that same.  
+ 
 
-##  **Compelled Disclosure**
+  11.  **PRIVACY SHIELD NOTICE**
 
-In additional to the statements made in this policy regarding sharing of collected information, we may disclose your information in following cases:
 
-  * If required by law
-  * To protect your safety or the safety of others
-  * To investigate fraud or violation of Acceptable Use Policy (<https://www.leadsquared.com/aup> )
-  * If required in context of legal case brought against LeadSquared, its officers, employees, affiliates, customers & vendors
-  * To establish, exercise, protect, defend and enforce our legal rights
 
+LeadSquared complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland, to the United States.  LeadSquared has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/> .
 
+  12.  **GRIEVANCE OFFICER**
 
-##  **Tools to collect non-personal Information**
 
-We use the following standard Website visit tracking tools to collect non-personal information about your Website Navigation Behavior:
 
-###  **Cookies**
+The name and contact details of our Grievance Officer, who you may contact if you have any concerns, complaints or feedback pertaining to this Policy, are as follows:
 
-We use Cookies to offer superior online experience when you visit our websites. A cookie is a small piece of data (a text file) sent from our web server and stored in your computer while you are browsing our Website or Customer Websites. When you browse the same website in the future, the data stored in the cookie can be retrieved by us to get information including but not limited to your browser, IP address, your previous activity etc.
+NAME:| Prashant Singh  
+---|---  
+ADDRESS:| LeadSquared, 33, Sector 6, HSR Layout Bangalore – 560102  
+TEL:| +91-80-67330900  
+EMAIL:| privacy@leadsquared.com  
+  
+  13.  **DISPUTE RESOLUTION**
 
-Cookies are small data files that get stored on your computer. They will not contain any executable software, malicious code or virus. Cookies do not establish your personal identity. They just establish the source of requests to our web servers.
 
-Most browsers offer the capability to accept or reject auto-storage of Cookies. You may change your browser settings to alter this behavior.
 
-However, we encourage you to keep Cookies option enabled. This will help us personalize your online experience which will save time for you to find relevant information while browsing our websites.
-
-###  **Clear GIF or Web Beacon**
-
-We user Clear GIF (also known as Web Beacon or Web Bugs or Pixel tag) in our website and email messages to track effectiveness of our content. Clear GIF is a tiny image embedded on our web page that tracks online movements of website users. It is similar to functionality in Cookies but it is not stored on your computer. We may also use Clear GIF in emails delivered through our application. It helps us track which email has been opened by recipients.
-
-This technology helps us to understand your interest and improve our content. It doesn’t track your personal identity, not it does propagate any harmful content.
-
-###  **Tracking by our Advertisement Partners**
-
-We may use advertisement partners that may use Cookies or Clear Gifs to track your visits and establish your non-personal identity to present targeted advertisement about us.
-
-##  **Tools used by our customers**
-
-Our customer may use proprietary or other third party technologies like, but not limited to, Flash Cookies in their website and host them in our Application. We have no control on use of such methods of tracking. The use of such technologies is not covered in this Privacy Policy and we encourage visitors to read the Privacy Policy of such customers.
-
-##  **Compliance with Children’s Online Privacy Protection Act**
-
-As a business service, LeadSquared does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age.
-
-##  **Opting Out and Unsubscribing**
-
-###  **Reviewing, Correcting and Removing Your Personal Information**
-
-Upon request LeadSquared will provide you with information about whether we hold any of your Personal Information. If you provide us with your Personal Information, you have the following rights with respect to that information:
-
-  * To review the user information that you have supplied to us
-  * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
-  * To request that your user information not be used to contact you
-  * To request that your user information be removed from any solicitation list that we use
-  * To request that your user information be deleted from our records
-  * To opt out of being solicited by LeadSquared
-
-
-
-To exercise any of these rights, please contact us at [privacy@leadsquared.com](mailto:privacy@leadsquared.com). We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
-
-###  **Anti-Spam Policy**
-
-Our Acceptable Use Policy, at <https://www.leadsquared.com/aup> applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an “opt-out” mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
-
-###  **To Unsubscribe from Our Communications**
-
-You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails, or by sending us email us at [privacy@leadsquared.com](mailto:privacy@leadsquared.com). Customers cannot opt out of receiving transactional emails related to their account with us or the Subscription Service.
-
-###  **To Unsubscribe from Our Customers’ Communications**
-
-Our customers are solely responsible for their own marketing emails and other communications; we cannot unsubscribe you from their communications. You can unsubscribe from our customers’ marketing communications by clicking on the “unsubscribe” link located on the bottom of their emails, or by contacting them directly. If you find any of our customers violating our  Acceptable Use Policy ([https://www.leadsquared.com/aup](https://www.leadsquared.com/legal/aup)) then do notify us at [abuse@leadsquared.com](mailto:abuse@leadsquared.com) or [privacy@leadsquared.com](mailto:privacy@leadsquared.com) and we will take appropriate action in a reasonable period of time.
-
-##  **Contact Information**
-
-We appreciate your invaluable feedback on our privacy policy. You can contact us at [privacy@leadsquared.com](mailto:privacy@leadsquared.com) or Attn: Legal Department – LeadSquared, MarketXpander Services Private Limited, #33, Sector 6, HSR Layout, Bangalore – 560102.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
