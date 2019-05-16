@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173101id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516202353id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
 
 # BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY
 
