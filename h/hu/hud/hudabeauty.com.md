@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hudabeauty.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218023034id_/http%3A//hudabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudabeauty.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516225427id_/https%3A//hudabeauty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Huda Beauty | Makeup Tips, Reviews & Skincare Advice
+# Privacy Policy | Huda Beauty | Makeup Tips, Reviews & Skincare Advice
 
 **IMPORTANT NOTICE ABOUT INTERNATIONAL TRANSFERS OF YOUR PERSONAL INFORMATION**
 
