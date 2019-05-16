@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracksmart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205948id_/https%3A//www.tracksmart.com/about/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracksmart.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516104033id_/https%3A//www.tracksmart.com/about/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies
 
