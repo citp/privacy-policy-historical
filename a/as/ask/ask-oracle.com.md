@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask-oracle.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204140847id_/https%3A//www.ask-oracle.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-oracle.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516230834id_/https%3A//www.ask-oracle.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ask Oracle
 
