@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019163350id_/https%3A//www.globalwitness.org/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516232604id_/https%3A//www.globalwitness.org/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Global Witness
 
@@ -48,7 +48,7 @@ We occasionally participate in Facebook’s Custom Audience and Lookalike Audien
 
 For more information, please see: <https://www.facebook.com/business/help/744354708981227> and <https://www.facebook.com/business/help/365463786964246>
 
-If you do not wish your information to be used in this way please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c0a4a1b4a1b0b2afb4a5a3b4a9afae80a7acafa2a1acb7a9b4aea5b3b3eeafb2a7)
+If you do not wish your information to be used in this way please contact us at [dataprotection@globalwitness.org](mailto:dataprotection@globalwitness.org)
 
 ## Uses made of your information
 
@@ -154,8 +154,8 @@ We may not be able to comply with a request as listed above; these rights are su
 
 For more detail about these rights and exemptions, [please read the guidance issued by the Information Commissioner](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
 
-Please submit any questions, concerns or comments you have about this privacy notice or any requests concerning your personal data by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#650104110415170a110006110c0a0b2502090a070409120c110b0016164b0a1702) or write to us at:
+Please submit any questions, concerns or comments you have about this privacy notice or any requests concerning your personal data by email to [dataprotection@globalwitness.org](mailto:dataprotection@globalwitness.org) or write to us at:
 
-Global Witness, Lloyds Chambers, 1 Portsoken Street, London E1 8BT.
+Global Witness, 1 Mark Square, London EC2A 4EG, UK
 
  _We will update this notice from time to time by changing it on the Site. For example we may amend this notice to reflect relevant changes to legislation. This privacy notice was last updated on 24 May 2018.  _
