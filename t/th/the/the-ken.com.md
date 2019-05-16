@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-ken.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906013433id_/https%3A//the-ken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-ken.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516114058id_/https%3A//the-ken.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Ken
 
@@ -89,3 +89,12 @@ To the extent that you do provide us with Personal Information, we wish to maint
 By using this Website and the Services, you consent to the terms of this Privacy Policy and to our use and management of Personal Information for the purposes and in the manner herein provided. Should this Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time.
 
 Your visit and any dispute over privacy are subject to this Privacy Policy. The said Policy shall be governed by and construed in accordance with the laws of the Republic of India. Further, it is irrevocably and unconditionally agreed that the courts of Bengaluru, India shall have exclusive jurisdiction to entertain any proceedings in relation to any disputes arising out of the same.
+
+In accordance with the Information Technology Act 2000, the name and the details of the Grievance Officer at The Ken is provided below:
+
+**Mr. Praveen Gopal Krishnan**  
+Kenrise Media Private Ltd  
+Ground Floor, 3321, 12th A Main  
+Indiranagar, Bangalore - 560038  
+Karnataka, India  
+Email : [praveen@the-ken.com](mailto:praveen@the-ken.com)
