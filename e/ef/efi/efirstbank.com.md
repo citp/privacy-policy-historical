@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702200352id_/https%3A//www.efirstbank.com/firstbank/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516095616id_/https%3A//www.efirstbank.com/firstbank/privacy-policy.htm) for the most accurate reproduction.*
 
 # FirstBank Privacy Policy & Disclosure
 
@@ -14,7 +14,7 @@ This disclosure applies to the 1031 Corporation.
 
 #### Security Policy
 
-We have implemented commercially reasonable security procedures for our Online Banking Service. More information about the security procedures for the Online Banking Service is available [here](https://web.archive.org/web/20170702200352id_/https%3A//www.efirstbank.com/internet-banking/security-privacy.htm). 
+We have implemented commercially reasonable security procedures for our Online Banking Service. More information about the security procedures for the Online Banking Service is available [here](https://web.archive.org/web/20190516095616id_/https%3A//www.efirstbank.com/internet-banking/security-privacy.htm). 
 
 In regard to Internet usage, cookies are pieces of data assigned by a Web server to the browser on a specific PC. Cookies help web sites recognize return visitors, and cannot be read by a web site other than the one that set the cookie. When someone returns to a web site he or she has visited before, the person's browser gives this data back to the server. 
 
@@ -32,4 +32,4 @@ For Online Banking enrollment, once the customer has been enrolled for Online Ba
 
 While visitors can use e-mail to contact us about routine issues and inquiries, e-mail may not be a secure method of communication for time sensitive communication or communication of information that is confidential. We strongly recommend that this type of information not be communicated via e-mail. 
 
-From our web site, we do not knowingly collect or use personal information from children under 13 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](https://web.archive.org/web/20170702200352id_/https%3A//www.efirstbank.com/firstbank/exit.htm?site=http://www.ftc.gov/).
+From our web site, we do not knowingly collect or use personal information from children under 13 years of age. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: [www.ftc.gov](https://web.archive.org/web/20190516095616id_/https%3A//www.efirstbank.com/firstbank/exit.htm?site=http://www.ftc.gov/).
