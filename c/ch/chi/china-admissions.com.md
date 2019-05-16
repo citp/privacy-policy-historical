@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the china-admissions.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628044536id_/https%3A//www.china-admissions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-admissions.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517015801id_/https%3A//www.china-admissions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Warning** : mysqli_query(): (HY000/1030): Got error 28 from storage engine in **/home/richco6/public_html/china-admissions.com/wp-includes/wp-db.php** on line **1877**
-
-This privacy policy (together with the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by China Admissions. Please read the following carefully to understand our policy regarding your personal data and how we will treat it. China Admissions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with the changes. This policy is effective from 16th April 2014.
+This privacy policy (together with the terms and conditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by China Admissions. Please read the following carefully to understand our policy regarding your personal data and how we will treat it. China Admissions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with the changes. This policy is updated on 20th February 2019.
 
  **What we collect**
 
@@ -65,4 +63,4 @@ We use Google Analytics tracking code that supports Display Advertising in order
 
 You may request for us to provide you with details of personal information that we hold about you by contacting us. There will be a small fee payable.
 
-If you request us to do so we will consider making changes to the information that we hold about you. We will change certain limited information that we hold about you where you tell us it is incorrect. 
+If you request us to do so we will making changes or remove the information that we hold about you. We will change certain limited information that we hold about you where you tell us it is incorrect. 
