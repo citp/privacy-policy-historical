@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022312id_/https%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516235823id_/https%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
 
-# HID Global Privacy Notice | HID Global
+# HID® Global Privacy Notice | HID Global
 
 **Personal Data We Collect**
 
@@ -216,9 +216,9 @@ If you believe HID Global maintains your personal data in one of the services wi
 **Compelled disclosure:** HID Global may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
   
-
-
-[HID® FARGO® Connect™](https://web.archive.org/about/privacy/hid-fargo-connect-privacy-statement)  
+  
+[HID® Authentication Service Privacy Notice](https://web.archive.org/about/privacy/hid-authentication-service-privacy-notice)  
+[HID® FARGO® Connect™ Privacy Notice](https://web.archive.org/about/privacy/hid-fargo-connect-privacy-notice)  
 [HID® Mobile Access® Application Privacy Notice](https://web.archive.org/about/privacy/hid-mobile-access-application-privacy-notice)  
 [HID® Origo™ Management Portal Privacy Notice](https://web.archive.org/about/privacy/hid-origo-management-portal-privacy-notice)  
 [HID® Origo™ Developer Community Privacy Notice](https://web.archive.org/about/privacy/origo-developer-community-privacy-notice)  
