@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231031642id_/http%3A//www.grokker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516130223id_/https%3A//grokker.com/privacy) for the most accurate reproduction.*
 
 # Yoga, Fitness, and Cooking video classes to be a better you | Grokker.com
 
