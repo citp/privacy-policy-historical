@@ -1,76 +1,100 @@
-> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920165438id_/https%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516181328id_/https%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Formilla.com
 
-#### What information do we collect?
+  * #### What information do we collect?
 
-We collect information from you when you register on our site, subscribe to our newsletter, and interact with customers via Formilla Live Chat functionality. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number, and website URL. You may, however, visit our site anonymously.
+We collect information from you when you register on our site, subscribe to our newsletter, and when interacting with us via Formilla Live Chat and Formilla Edge product functionality. When registering on our site, we may collect your name, e-mail address, website URL, IP address, and information about the device you're using to connect to our website. You may, however, browse our web site without providing this information.
 
-#### What do we use your information for?
+We collect customer information on behalf of you to deliver the product or service you subscribe to use. For example, when a customer visits your website, Formilla detects the IP address of the customer, their geo-location (based on IP address look-up), and what device they’re using when accessing your website. By default, Formilla only stores this information in your Formilla account when a customer initiates a chat conversation, submits an offline email when you’re unavailable to chat, or submits their email address using the Formilla Edge product. In the event your customer submits an offline email form, their email address is retained as well.
 
-Any of the information we collect from you may be used in one of the following ways: 
+  * #### What do we use your information for?
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Formilla does not use any data collected on behalf of you for any purpose, except for the sole purpose of providing the service you have registered to use with our platform.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+When registering for a Formilla account, any of the information we collect from you specifically may be used in one of the following ways:
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+    * ###### **To personalize your experience with Formilla** Your information helps us better understand and respond to your individual needs.
 
-; To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the product or service requested. ; To administer a contest, promotion, survey or other site feature
+    * ###### **To improve our website** We continually strive to improve our website and products based on the information and feedback we receive from you.
 
-; To send periodic emails  
-The email address you provide during registration may be used to send you information and updates pertaining to your account, in addition to receiving occasional company news, updates, related product or service information, etc.
+    * ###### **To improve customer service** Your information helps us to more effectively respond to your customer service requests and support needs.
 
-#### How do we protect your information?
+    * ###### **To process transactions** Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the product or service requested. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
+    * ###### **To send periodic emails** The email address you provide during registration may be used to send you information and updates pertaining to your account, in addition to receiving occasional company news, updates, and related product or service information. 
 
-Customer information provided at registration is transmitted via Secure Socket Layer (SSL) technology and is only accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.   
+  * #### How do we protect your information?
 
+Access to your Formilla account is protected using a login email and password. Passwords are stored securely in the Formilla database with one-way hash (not readable) and never logged in any way.
 
-#### Do we use cookies?
+When accessing your Formilla account, your credentials are transmitted securely using Secure Sockets Layer (SSL, HTTPS) with 2048-bit encryption.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Formilla regularly installs software and security patches to production environments at least on a monthly basis, or as otherwise recommended by our technology and software vendors.
 
-We use cookies to help us remember, understand, and save your preferences for future visits.
+User access logs are maintained including user login, date and time, and source IP address. Logs are stored for a rolling period of up to 30 days, and deleted thereafter.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. 
+Formilla physically hosts its infrastructure with [Liquid Web Inc.](https://www.liquidweb.com/) datacenters. Liquid Web datacenters are securely manned 24 hours a day, 365 days a year. Physical access to datacenters is controlled with keycard access and monitored with security cameras inside and outside. 
 
-#### Do we disclose any information to outside parties?
+Formilla does not access customer data unless as necessary to provide customer support or administration. Access to data is on a “need to know” basis, as only authorized customer support or server administration personnel are granted access.
+
+  * #### Do we use browser cookies?
+
+Yes. We use cookies in several instances to help us remember and save your preferences for future visits, to support the ability to chat using our products, and to determine whether you have interacted with our products or services in the past. When using Formilla products or services on your website, cookies are used similarly as well.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to disable cookies via your web browser's settings. Like most websites, if you -- or your customers -- disable cookies, some of our products or services may not function properly or at all.
+
+  * #### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-#### Third party links
+Your customer data may be transferred, used, or processed by our trusted sub-processors, and when using any applicable 3rd party app integrations (e.g. Zapier, Infusionsoft, etc.) with your Formilla account.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * #### Third party links
 
-Our product uses third party IP2Location LITE data available from [http://lite.ip2location.com](http://lite.ip2location.com/)
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
-#### California Online Privacy Protection Act Compliance
+Our product uses third party IP2Location LITE data available from <http://lite.ip2location.com/>
+
+  * #### Data Retention & Removal
+
+When using Formilla's products, your customer data is retained indefinitely and remains available inside your Formilla account unless otherwise deleted from the Contacts section of your account. Deleted data may be retained briefly on Formilla’s servers anywhere from approximately 0 to 72 hours, as it is queued and subsequently processed for deletion.
+
+All customer data is backed up on a regular basis and stored on separate backup media for up to an additional 90 days, after which it is overwritten and/or deleted permanently.
+
+To update, or request the removal of your personal information from the Formilla system, please contact us and request the same.
+
+  * #### General Data Protection Regulation (GDPR) compliance
+
+Formilla complies with the General Data Protection Regulation (GDPR), effective May 25th, 2018. In addition to this Privacy Policy document, please contact us should you have any questions about how using the Formilla platform and services applies to your obligations under the GDPR regulation.
+
+  * #### California online privacy protection act compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their Formilla.com account and going to the 'Account Settings' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging in to their Formilla.com account, or contacting us to request changes.
 
-#### Terms of Use
+  * #### Terms of use
 
-Please also visit our [Terms of Use](https://web.archive.org/terms-of-use.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please review our [Terms of Use](https://web.archive.org/terms-of-use.aspx) establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-#### Your Consent
+  * #### Your consent
 
 By using our site, you consent to our online privacy policy.
 
-#### Changes to our Privacy Policy
+  * #### Changes to our privacy policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+This Privacy Policy is reviewed and updated annually, if necessary.
 
-This policy was last modified on 5/17/2015
+This policy was last modified on 5/9/2018
 
-#### Contacting Us
+  * #### Contacting us
 
-If there are any questions regarding this privacy policy you may [contact us](http://www.formilla.com/contact-us.aspx) at any time.  
+If there are any questions regarding this Privacy Policy you may [contact us](https://web.archive.org/web/20190516181328id_/https%3A//www.formilla.com/contact-us.aspx) at any time.
 
+
+
+
+## **15 Days Free Trial.** No credit card required.
+
+[Sign Up FREE](https://web.archive.org/sign-up.aspx)
