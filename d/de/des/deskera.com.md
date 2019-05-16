@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614101936id_/https%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskera.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516202940id_/https%3A//www.deskera.com/privacy-policy) for the most accurate reproduction.*
 
 # Deskera - Privacy Policy
 
@@ -16,19 +16,19 @@ Since we understand that you may wish not to disclose your Personal Information 
 
 ## Information Recorded and Used
 
- **Personal Information:**  
+**Personal Information:**  
 During the Registration Process for creating a Deskera Account, we request for your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your Deskera Account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this privacy policy.
 
- **Account Usage Details:**  
+**Account Usage Details:**  
 Your Account Usage Details such as time, frequency, duration and pattern of use, features used and the amount of storage used will be recorded by us in order to enhance your experience of the services and to help us provide you the best possible service.
 
- **Contents of your Account:**  
+**Contents of your Account:**  
 We store and maintain files, documents, to-do lists, emails and other data stored in your Account at our facilities in the United States or any other country. Unless specified by you and agreed to by Deskera Sales Team, use of this terms of service signifies your consent to such transfer of your data outside of your country. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your Account. Hence, your files and data may remain on our servers even after deletion or termination of your Account. We assure you that the contents of your Account will not be disclosed to anyone and will not be accessible to employees of Deskera. Neither do we process the contents of your Account for serving targeted advertisements.
 
- **Financial Information:**  
+**Financial Information:**  
 In case of services requiring payment, we request credit card or other payment Account information, which will be used solely for processing payments. Your Financial Information will not be stored by us. Subject to your prior consent and where necessary for processing future payments, your Financial Information will be stored in encrypted form on secure servers of reputed Payment Gateway Service Provider.
 
- **Visitor Details:**  
+**Visitor Details:**  
 We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the websites, track visitor’s movements and to improve our website.
 
 ## Cookies
@@ -61,12 +61,12 @@ We provide users with access to their personally identifiable information. Users
 
 ## Enforcement of Privacy Policy
 
-We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used for the purpose of providing the services, kindly contact Deskera Customer Support Services at [support@deskera.com](mailto:s%75%70%70%6fr%74@%64esk%65ra%2ecom). This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
+We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used for the purpose of providing the services, kindly contact Deskera Customer Support Services at [support@deskera.com](mailto:%73uppor%74@des%6ber%61%2ec%6f%6d). This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard if needed.
 
 ## Notification of Changes
 
-Any changes to the Deskera Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Deskera Privacy Policy. If you are concerned about how your information is used, you should check back at [http://www.deskera.com/privacy-policy](https://www.deskera.com/privacy-policy) periodically.
+Any changes to the Deskera Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Deskera Privacy Policy. If you are concerned about how your information is used, you should check back at <https://www.deskera.com/privacy-policy> periodically.
 
 ## End of Privacy Policy
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@deskera.com](mailto:%6cegal@%64es%6ber%61%2e%63om)
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@deskera.com](mailto:%6cegal@%64eskera.c%6fm)
