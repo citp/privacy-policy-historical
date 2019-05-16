@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1911census.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125095558id_/https%3A//www.findmypast.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1911census.co.uk privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516053405id_/https%3A//www.findmypast.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | findmypast.co.uk
 
@@ -17,11 +17,11 @@ This policy includes:
 **
   * 1\. About us
   * 2\. Information we collect
-  * 3\. How we use the information
+  * 3\. How we use the informaiton
   * 4\. What if I don’t provide some or all of the information requested?
   * 5\. What grounds (legal basis) are we processing the data under?
   * 6\. Information stored on your family tree
-  * 7\. Record matching
+  * 7\. Historic records and matching
   * 8\. FindmypastDNA
   * 9\. Sharing your information with third parties
   * 10\. Sale of the Business
@@ -45,7 +45,7 @@ FMP is committed to protecting your privacy and maintaining the security of any 
 
 ### 2\. Information we collect
 
-**Information we collect about you**
+_**A. Information we collect about you**_
 
 When you register on our website or place an order, we collect your name and email address. This allows us to process your registration, fulfil your order and send you important service messages.
 
@@ -53,17 +53,19 @@ Sometimes, we may ask you to provide other contact details, such as phone number
 
 We do collect some information from cookies, pixels and similar software which allows us to understand how you arrive on our websites, how you use and navigate around them, and how you interact with our email. This information is used to improve our services and communication. We obtain some information from Google Analytics and Facebook. The Facebook information provided is limited to your email address and only that which you have previously agreed with Facebook that they can share.
 
+We do collect the mobile device identifier (device id) provided by your mobile device operating system from users of the Findmypast App. The device id allows us to link your device to your account as well as to send you push notifications if you choose to have notifications from the Findmypast App.
+
 In order to purchase a subscription or credits for Findmypast you must be over 18 years old. More information about our age restrictions can be found in our [terms and conditions](https://www.findmypast.co.uk/content/terms-and-conditions).
 
-**Information you provide to us**
+**_B. Information you provide to us_**
 
-If you create a family tree or create content on the website, we also collect that information, which may include personal information about you and other people (for example, names and birthdays of people in your family). You should ensure if you provide personal information about people in your family who are living and not deceased, that you have the consent from the relevant individual to include that personal information on the website.
+If you create a family tree or create content on the website, we also collect that information, which may include personal information about you and other people (for example, names and birthdays of people in your family). You should ensure, if you provide personal information about people in your family who are living and not deceased, that you have the consent from the relevant individual to include that personal information on the website.
 
 We do not collect sensitive information (also known as special categories of information) about you except when you specifically knowingly provide it and have consented to this. Examples are adding your religious belief to a family tree. More details about the privacy of the family tree are available below.
 
 ### 3\. How we use the information
 
-We will use your personal information for a number of purposes including
+**_A. We will use your personal information for a number of purposes including_**
 
   * To manage the website (including your account);
   * To provide you with a free trial (if requested);
@@ -82,13 +84,19 @@ We will use your personal information for a number of purposes including
 
 
 
-**Service messages**
+**_B. Communications_**
+
+**_i. Service messages_**
 
 We send service emails to you to administer the service. Service emails include registration and payment confirmations and emails that provide useful information about how to use a service or feature when you sign up or start using it. We will also send you a service email if we make a fundamental change to the website, or to our terms & conditions that we think we need to make you aware of, or to let you know important information about your account.
 
-**Marketing messages**
+**_ii. Marketing messages_**
 
-We use your email address to update you on new products, services and subscription offers. We will only contact you with your consent. You are entitled to withhold this consent and refrain from receiving such communications by selecting the appropriate option on the web form that collects your details. You can also update these options at any time by logging into your account and adjusting your preferences, by contacting us by email at support@findmypast.com, by calling +44 (0)20 3326 6300 or by post to Findmypast, 6 Chapel Place, Rivington Street, London EC2A 3DQ. We will always provide you with a way of opting out of receiving future marketing messages from us each time we send them to you.
+We use your email address to update you on new products, services and subscription offers. We will only contact you with your consent. You are entitled to withhold this consent and refrain from receiving such communications by selecting the appropriate option on the web form that collects your details. You can also update these options at any time by logging into your account and adjusting your preferences, by contacting us by email at support@findmypast.co.uk, by calling +44 (0)20 3326 6300 [UK, IE, AU] / +1 (855) 246-8234 [US] or by post to Findmypast, 6 Chapel Place, Rivington Street, London EC2A 3DQ. We will always provide you with a way of opting out of receiving future marketing messages from us each time we send them to you.
+
+**_iii. Tree hints_**
+
+Tree hints is a service of The Tree and the Family Tree. As you build your family tree we will send you hints using the information you have provided and matching that against the records we hold in our historical records. You can use the information you find in the records to add more information about your family history to your growing family tree. This is part of the Findmypast tree product, but if you wish to stop the tree hint emails you can do so within your tree settings.
 
 ### 4\. What if I don’t provide some or all of the information requested?
 
@@ -117,42 +125,75 @@ There are a number of grounds we process your data under. These are:
 
 ### 6\. Information stored in your family tree
 
-Family names that are included in your family tree may be searchable by users of the website (and users of other websites) and may appear on internet searches. The information stored on your tree will not be viewable by other users unless you give explicit permission by making your tree public.
+## Family Tree
 
-We provide you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how these controls work as you are responsible for using them to protect the information you have provided. We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission.
+Building your family tree is an immensely valuable activity while you are exploring your family history. Trees allow you to store all your family history in one central area. You can attach historic records that you find on our site to your trees. At Findmypast, we are continuously improving our family trees and finding new ways for you to get the most out of your Findmypast experience. Recently, we have introduced The Tree (see below) and will be adding tree-to-tree hinting.
 
-If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the website, please send an email to our Customer Support team support@findmypast.co.uk with details and we will investigate and, if necessary, remove this information.
+**_A. Privacy._** One of the most valuable resources for a community of users researching and building their family trees is access to the historical research of others. Because so many family trees intersect after a few generations, it is highly enriching for the whole community if as much of this historical research as possible is shared widely within this community.
 
-##### Community Shared Tree
+When you create your family tree or upload a GEDCOM, the privacy settings are set to share deceased ancestors by default. We provide you with privacy controls to manage your family tree and control who can see the information in it within the Tree Settings page. You should familiarise yourself with how these controls work as you are responsible for using them.
 
-This section is specific to use of your personal data within the wider Community Shared Tree (CST). The CST is an open global tree brought to you by Findmypast in partnership with FamilySearch International. The Community Shared Tree allows users of both Findmypast and FamilySearch around the world to collaborate on and make changes to one global tree. The product is still in a beta testing phase. We’d love to hear your feedback and suggestions for the shared tree at support@findmypast.com.
+_**i. When sharing Deceased Ancestors is switched on**_
 
-The global, Community Shared Tree is a separate product from the Findmypast family tree. The Findmypast family tree, unlike the global Community Shared Tree, is specific to Findmypast users and not available outside of Findmypast.
+  * All personal information about living people remains private to you.
+  * Information on deceased ancestors may be offered to other members as a hint if their tree appears to share common ancestors with your tree.
+  * For deceased ancestors, the following information may be offered as part of a hint:
+    * Timelines
+    * Facts and events – together with sources and attached records
+    * Notes
+  * Photographs and media will not be shared. In the future, we will introduce more granular privacy controls to enable selective sharing of photographs.
+  * In the future, you may benefit from the [tree-to-tree hinting service. ](https://www.findmypast.co.uk/tree-change-faqs)
+  * If your ancestors are not marked as deceased, but were born more than 110 years ago we will assume they are deceased. Please contact support@findmypast.co.uk if this is incorrect.
 
-The global Community Shared Tree is stored and administered by FamilySearch. To make changes, additions, or edits to the global Community Shared Tree, certain information from your Findmypast account and all your contributions to the Community Shared Tree is shared with your consent with FamilySearch International in the United States (more details below). If you do not want your data shared with FamilySearch then you should not participate in the global Community Shared Tree. To understand more about FamilySearch’s use of personal data, review the FamilySearch privacy policy.
 
-**_Privacy settings_**
 
-Contributed about all deceased individuals is public within the global Community Shared Tree. The contributed information about living individuals is private view only, at this time. The global Community Shared Tree will continue to develop including the future ability to share other information about your family tree through the public view Community Shared Tree. When the information you add to the Community Shared Tree is set to public, this means that all users of the CST (including other participating Findmypast users and global FamilySearch users) can view and edit this information.
+_**ii. When sharing Deceased Ancestors is switched off** _
 
-We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree about people who are living if we are alerted to the fact that this personal data was used without that person’s permission.
+  * You may not benefit from the tree to tree hinting service and the historical information contained in the trees of the Findmypast community when this service is rolled out.
+  * Other users will not be able to receive hints from deceased ancestors in your tree.
 
-If you become aware that your personal information has been included in somebody else's tree or incorporated within the global Community Shared Tree without your permission or is being misused in any other way on the website, please send an email to FamilySearch’s Customer Support team at support@familysearch.org with details and we will investigate and, if necessary, remove this information.
 
-All data that you add to the Community Shared Tree is shared and stored with FamilySearch International.
 
-**_What information about me is shared with FamilySearch?_** In the event that you wish to participate in the Community Shared Tree, by adding to or editing the global tree details, certain information from your Findmypast account is shared by Findmypast with FamilySearch. To create a Community Shared Tree account, Findmypast will provide FamilySearch with the following facts:
+_**B. Tree deletion.**_ Within the View All Trees area you can find an option to Remove Tree. This option will remove your tree from your tree view. Findmypast will delete all the data related to living people. In cases where a person is not noted as deceased, we will remove all the data for those who were born less than 110 years ago. If you want your entire tree deleted from Findmypast, please contact privacy@findmypast.co.uk. Once Tree to Tree Hinting is available, deleting your tree will not delete branches you have shared with other users.
+
+**_C. Removal of unauthorised data._** We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree, including The Tree, about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the website, please send an email to our Customer Support team support@findmypast.co.uk with details and we will investigate and, if necessary, remove this information. The information added about deceased persons is not considered personal data under this policy.
+
+## The Tree
+
+This section is specific to use of your personal data within The Tree. The Tree is brought to you through our sister site RootsFinder and our partners at FamilySearch International. It gives users the opportunity to publically share their tree. Privacy settings are set to share deceased ancestors by default. Findmypast believes that sharing your family tree will help you find my family history connections and create a collaborative community sharing family history.
+
+The Tree is stored and administered by RootsFinder and FamilySearch. To make changes, additions, or edits to The Tree, certain information from your Findmypast account and all your contributions to The Tree is shared with your consent with FamilySearch International and RootsFinder in the United States (more details below). If you do not want your data shared with RootsFinder and FamilySearch then you should not participate in The Tree. To understand more about FamilySearch’s use of personal data, review the [ FamilySearch privacy policy](https://www.lds.org/legal/privacy-notice?lang=eng&_r=1&country=go). To understand more about RootsFinder’s use of personal data, review the [RootsFinder privacy policy.](https://www.rootsfinder.com/privacy-policy)
+
+**_A. Privacy._** The Tree is a collaborative environment and the settings are public by default. You will be able to view other trees, collaborate with other users, and share your family history with The Tree community.
+
+Sharing settings are primarily focussed on the historical information around deceased individuals in family trees. No information on living individuals in your tree will be shared with other users of The Tree unless you explicitly choose for this to happen.
+
+On this basis, when your tree is public:
+
+  * All users of The Tree (including other participating Findmypast users and global FamilySearch users) can view all your tree information related to deceased individuals (and only deceased individuals).
+  * The tree information about deceased individuals includes:
+    * Timelines
+    * Facts and events – together with sources and attached records
+    * Notes
+  * Information about living individuals will be strictly limited. The presence of a living individual in a family tree will be indicated within only gender and surname.
+  * Photographs and media will not be shared. In the future, we will introduce more granular privacy controls to enable selective sharing of photographs.
+  * The Tree will continue to develop including the future ability to share your family tree and giving other users the ability to contribute and edit your tree.
+  * The Tree users will be able to see your username. Also, when you contribute to other trees, your username will be displayed alongside those changes. A unique username will be generated for you and will show your full name and a number. For example, John Smith, will be JohnSmith_1. This marks your contribution to the tree and encourages accuracy.
+
+
+
+**_B. What information about me is shared with Rootsfinder and FamilySearch?_** In the event that you wish to create a tree with The Tree certain information from your Findmypast account is shared by Findmypast with RoostFinder and FamilySearch. Findmypast will provide RootsFinder and FamilySearch with the following facts:
 
   * Account name
   * Email address
   * Birth date
   * Gender
   * IP Address
-  * All contributions to the global Community Shared Tree
+  * All contributions to The Tree
 
 
 
-**_How will Findmypast and FamilySearch use this information?_** Your personal data will be used for the following purposes and on the following legal basis:
+_**C. How will Findmypast and RootsFinder and FamilySearch use this information?**_ Your personal data will be used for the following purposes and on the following legal basis:
 
 _Where you provide your consent:_
 
@@ -160,63 +201,48 @@ _Where you provide your consent:_
 
 
 
-_For the purposes of providing services under the global Community Shared Tree terms between FamilySearch and you_
+_For the purposes of providing you with The Tree services:_
 
-  * FamilySearch will use the details you provide to validate and verify your access to the Community Shared Tree.
+  * RootsFinder and FamilySearch will use the details you provide to validate and verify your access to The Tree.
   * FamilySearch will set up a linked FamilySearch account to allow you to use the access and edit capabilities on the Community Shared Tree.
-  * FamilySearch will use you IP Address to determine your country of residence. In certain countries, content will under the terms be restricted.
-  * FamilySearch works in partnership with Findmypast to administer the Community Shared Tree access by participating Findmypast users. All names and information added to the global Community Shared Tree is shared with both Findmyapst and FamilySearch in order to provide the Community Shared Tree service. FamilySearch will store all your contributions to the global Community Shared Tree.
+  * FamilySearch will use your IP Address to determine your country of residence. In certain countries, content will under the terms be restricted.
+  * FamilySearch works in partnership with Findmypast to administer the access and provide you with The Tree service. FamilySearch will store all your contributions to The Tree.
 
 
 
 _For the purpose of ensuring in our legitimate interests that:_
 
-  * Your private tree view is personalised to you, by adding your name, birth date, and gender to your private tree view. Your name will remain private and your addition to the tree will be used to create an enhanced tree experience for you.
-  * FamilySearch can contact a Community Shared Tree user only in cases of abuse of the tree. Examples of abuse include, adding links to corrupt third party sites or continuously and maliciously adding incorrect data.
+  * FamilySearch can contact a The Tree user only in cases of abuse of the tree. Examples of abuse include adding links to corrupt third party sites or continuously and maliciously adding incorrect data.
 
 
 
-_What information from my tree is shared with FamilySearch?_
+_What information from my tree is shared with RootsFinder and FamilySearch?_
 
-  * All contributions that you make to the global Community Shared Tree is shared and stored with FamilySearch.
+  * All information you have added to your family tree.
 
 
 
-**Adding living individuals to the Community Share Tree.** When you add the personal data of a living individual to the Community Shared Tree you must first ensure that you have their permission to do so. The privacy settings allow you to either make the information about living people private or public and where you choose to make information public you can choose what level of information is shared.
+_**D. Tree deletion.**_ Within the View All Trees area you can find an option to Remove Tree. This option will remove your tree from your tree view. Findmypast will delete all the data related to living people. In cases where a person is not noted as deceased, we will remove all the data for those who were born less than 110 years ago. If you want your entire tree deleted from Findmypast, please contact privacy@findmypast.com. Once Tree to Tree Hinting is available, deleting your tree will not delete branches you have shared with other users.
 
-Everyone has the right to request to be removed from the Community Shared Tree regardless of who added their name to the tree. For example, if a relative no longer wants to be apart of the Community Shared Tree and requests to be removed. Findmypast and FamilySearch will suppress that tree node. It will remain on the tree as private and only viewable to the individual who created the node. Requests to be removed from the public Community Shared Tree can be directed to FamilySearch’s Customer Support team at support@familysearch.org.
+_**E. Removal of unauthorised data.**_ We reserve the right (at our own discretion) to remove any personal data which you have included in your family tree, including The Tree, about people who are living if we are alerted to the fact that this personal data was used without that person’s permission. If you become aware that your personal information has been included in somebody else's tree without your permission or is being misused in any other way on the website, please send an email to our Customer Support team privacy@findmypast.com with details and we will investigate and, if necessary, remove this information. The information added about deceased persons is not considered personal data under this policy.
 
-**Who can see the information?**
+**_F. Transfer outside the EEA._** RootsFinder and FamilySearch International are based in the United States which does not offer equivalent legal data protection standards to those found in Europe. To this end, Findmypast has taken appropriate measures to safeguard the transfer of your data outside the EEA through the use of EC approved model standard clauses for transfers of personal data or through your consent to send personal data outside the EEA.
 
-Your personal information will be shared with FamilySearch for the purposes described above.
+### 7\. Historic records and record matching
 
-In relation to edits you make to the Community Shared Tree, your username will be displayed alongside those changes. A unique username will be generated when you update your account and will show your full name and a number. For example, John Smith, will be JohnSmith_1. This marks your contribution to the tree and encourages accuracy.
+**_A. Historic Records_**
 
-When you choose through your Findmypast privacy setting to keep the tree information you add to the Community Shared Tree set to ‘private’ then the names of living individuals added by you to the shared, global tree will remain private to you after the point a future ability to share other such information becomes available. Such information you choose to keep private will not be viewed by any other Findmypast or global FamilySearch users.
+Findmypast works with a number of trust third parties to bring you millions of historical records to assist you with your family history research. A full list of our partners is available on our [Our Partners page](https://www.findmypast.com/content/our-partners). Historic records on the site are reproduced under a third party agreement with licensors or we reproduce records that are within the public domain. We will continue to host these records as long as we retain an agreement with the licensor or as long as they are within the public domain.
 
-**Transfer outside the EEA.**
+You will find information about living individuals in some of our records. Examples of these records include civil birth and marriage indexes, electoral registers, company’s house register, and more. The records we hold which contain the names of living people are public record and we provide the data based on our legitimate interest. In the examples, the records have been made public by the General Register Office or the Electoral Register. Records of living individuals allow users to build their family tree and research their family history from the current generation.
 
-FamilySearch International is based in the United States which does not offer equivalent legal data protection standards to those found in Europe. To this end, Findmypast has taken appropriate measures to safeguard the transfer of your data outside the EEA through the use of EC approved model standard clauses for transfers of personal data (see <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>). 
+If you have any questions about these records please contact our customer support at privacy@findmypast.co.uk. We will remove records of living people if it is requested by the individual named in the record. If you want to be removed from the UK Electoral Register records you will need to contact 192.com.
 
-**FamilySearch**. At the point you edit or add to the global Community Shared Tree, your shared details will be processed in accordance with the FamilySearch privacy policy. For more information about FamilySearch you can review the organisation’s full privacy policy or contact them at:
-
-Phone: United States: 1-866-406-1830; United Kingdom: 00-800-1830-1830
-
-Post: 35 North West Temple Street
-
-Salt Lake City, Utah, 84150
-
-Send a Message or Live Chat: https://www.familysearch.org/ask/help
-
-Email: support@familysearch.org
-
-Findmypast contact details can be found below.
-
-### 7\. Record matching
+**_B. Record matching_**
 
 Findmypast uses record matching technologies to suggest possible matches between historical records on Findmypast and associated partner trees on Family Historian or Roots Magic.
 
-Record matching on Findmypast automatically matches historical records for your family tree. These records are pulled from our vast records database Record matching will save you time with your research and allow you to make fascinating discoveries through historical records such as birth, marriage and death documents and census records. Our historical records are gathered from a number of key partners around the world. More information about our record partners is available on [Our Partners page](http://www.findmypast.co.uk/partners).
+Record matching on Findmypast automatically matches historical records for your family tree. These records are pulled from our vast records database Record matching will save you time with your research and allow you to make fascinating discoveries through historical records such as birth, marriage and death documents and census records.
 
 When record matching is enabled within partner sites such as Family Historian, Roots Magic, or other Desktop Software partners, information from small parts of your family tree is passed between the sites without you having to do anything, to a matching service on the Findmypast website. This information includes basic information such as names, dates and places associated with individuals and their close relatives. Findmypast uses this data to find accurate matches for relevant individuals. The matching service provides partner site users with suggested matches of ancestors’ birth, marriage, and death records. We will also provide matches for census records. As a Findmypast customer, you can then add these records to your tree. The service will match against living relatives.
 
@@ -224,7 +250,7 @@ Please note this information is not retained by Findmypast and is deleted automa
 
 The partner site will show matches in its search window where matches are found. To find out more about these matches, follow the links provided and review them. You will then be able to accept or reject matches. Please note that some matches can be viewed and confirmed for free, while others require a Findmypast data subscription. In order to review these matches, you will need to subscribe to Findmypast and create an account.
 
-The information passed to Findmypast is never used for any other purpose and will never be displayed, sold, licensed or used in any manner whatsoever. If you have any question or concerns, you can email support@findmypast.co.uk or call Customer Support on +44(0)20 3326 6300
+The information passed to Findmypast is never used for any other purpose and will never be displayed, sold, licensed or used in any manner whatsoever. If you have any question or concerns, you can email support@findmypast.co.uk or call Customer Support on +44(0)20 3326 6300 [UK, IE, AU]; +1 (855) 246-8234 [US]
 
 ### 8\. FindmypastDNA
 
@@ -234,41 +260,39 @@ This statement explains Findmypast’s privacy practices as they apply to Findmy
 
 [Living DNA’s Privacy Statement](https://www.livingdna.com/privacy-security) details how Living DNA will process and collect your personal data, and genetic data as a result of using FindmypastDNA and Living DNA’s services. Living DNA also has a [Cookie Policy](https://www.livingdna.com/cookie-policy) that describes how Living DNA uses cookies and similar tracking technologies when you are on the Living DNA website through which FindmypastDNA is available.
 
-**Through FindmypastDNA, Findmypast receives and uses your information as follows:**
+**_A. Through FindmypastDNA, Findmypast receives and uses your information as follows:_**
 
 What personal information does Findmypast receive and use if you choose FindmypastDNA?
 
 When collected| Type of information| Purpose| Legal basis  
 ---|---|---|---  
-When activating your DNA kit| Your name, email address, kit number, order identification|  To deal with your requests and queries. For subscription administration purposes. To provide personalised communications| We process this information in our legitimate interest in order to administer the Findmypast subscription set-up processes, to communicate how to activate the Findmypast subscription and to help with subscription and account registration questions  
-When activating your DNA kit| Name and email address| To send Findmypast marketing communications about Findmypast products, services and offers or surveys (if you choose to receive these)| Where you give us your consent to receiving FindmyPast marketing communications.  
-When you receive your DNA results| Genetic data and ethnicity breakdown| Findmypast will use this data to suggest historical records related to your ethnicity breakdown, to enhance your Findmypast search results, and provide other customised content features such as personalised communications or dashboards.| Where you give us your specific consent to this use.  
-Family Networks matching (if you choose to participate in Family Networks, and depending on choices you make in respect of that service)| Name, date of birth and sex, ethnicity breakdown, genetic data Family Networks matches| To provide you with information related to your genetic DNA matches through the Family Networks service. | Where you give us your specific consent to this use.  
-When you use the Living DNA website| Cookies, IP Address, device identifiers; and aggregate information about visitors to [PRODUCT NAME] and activation pages on the Living DNA website.| To help us understand how best to optimise FindmypastDNA content on both Living DNA and Findmypast websites, and which may be used to place advertisements for FindmypastDNA or Findmypast services on our website or across other websites you may visit and to track conversion rates for our advertising across other websites. For more information about how Findmypast uses cookies see our cookies policy| As permitted by the settings of your device or where you consent on the living DNA website to use of cookies under the terms of Living DNA's cookies policy.  
+When activating your DNA kit | Your name, email address, kit number, order identification | To deal with your requests and queries. For subscription administration purposes. To provide personalised communications | We process this information in our legitimate interest in order to administer the Findmypast subscription set-up processes, to communicate how to activate the Findmypast subscription and to help with subscription and account registration questions  
+When activating your DNA kit | Name and email address | To send Findmypast marketing communications about Findmypast products, services and offers or surveys (if you choose to receive these) | Where you give us your consent to receiving FindmyPast marketing communications.  
+When you receive your DNA results | Genetic data and ethnicity breakdown | Findmypast will use this data to suggest historical records related to your ethnicity breakdown, to enhance your Findmypast search results, and provide other customised content features such as personalised communications or dashboards. | Where you give us your specific consent to this use.  
+Family Networks matching (if you choose to participate in Family Networks, and depending on choices you make in respect of that service) | Name, date of birth and sex, ethnicity breakdown, genetic data Family Networks matches | To provide you with information related to your genetic DNA matches through the Family Networks service. | Where you give us your specific consent to this use.  
+When you use the Living DNA website | Cookies, IP Address, device identifiers; and aggregate information about visitors to [PRODUCT NAME] and activation pages on the Living DNA website. | To help us understand how best to optimise FindmypastDNA content on both Living DNA and Findmypast websites, and which may be used to place advertisements for FindmypastDNA or Findmypast services on our website or across other websites you may visit and to track conversion rates for our advertising across other websites. For more information about how Findmypast uses cookies see our cookies policy | As permitted by the settings of your device or where you consent on the living DNA website to use of cookies under the terms of Living DNA's cookies policy.  
   
-Please note: we understand that you control the use of your DNA and your genetic data. If new products are developed, Findmypast will only ever use your genetic data for any new products with your explicit consent. 
+Please note: we understand that you control the use of your DNA and your genetic data. If new products are developed, Findmypast will only ever use your genetic data for any new products with your explicit consent.
 
-**What information is not shared with Findmypast?**
+**_B. What information is not shared with Findmypast?_**
 
 Findmypast will not have access to your payment details in relation to the purchase of FindmypastDNA.
 
 Findmypast will not have access to your biological sample, which is sent to and tested in the secure laboratory.
 
-Living DNA use fully accredited professional laboratories to receive your mouth swab sample, to extract your DNA from the sample and to convert this into your DNA genetic data file. It is your genetic data which Findmypast may then receive where you consent to our use of your genetic data as described above, to provide enhanced ancestry insights and search results. Living DNA also receive your gender alongside the genetic data and will securely store your genetic data for us. Further information is available within [Living DNA’s privacy statement.](https://www.livingdna.com/privacy-policy)
+Living DNA use fully accredited professional laboratories to receive your mouth swab sample, to extract your DNA from the sample and to convert this into your DNA genetic data file. It is your genetic data which Findmypast may then receive where you consent to our use of your genetic data as described above, to provide enhanced ancestry insights and search results. Living DNA also receives your gender alongside the genetic data and will securely store your genetic data for us. Further information is available within [Living DNA’s privacy statement.](https://www.livingdna.com/privacy-policy)
 
-**What if I do not provide some or all of the information requested?**
+**_C. What if I do not provide some or all of the information requested?_**
 
-If you do not want to share your personal information and genetic data with Findmypast, it will not be possible to activate your Living DNA test and to participate in FindmypastDNA. 
+If you do not want to share your personal information and genetic data with Findmypast, it will not be possible to activate your Living DNA test and to participate in FindmypastDNA.
 
-**Retention**
+**_D. Retention of genetic data_**
 
-**Genetic data**
+Findmypast will retain your genetic data as needed to continue to provide you with the features associated with your purchase, to continuously update your Family Networks, and improve Living DNA ethnicity estimates unless you ask us to delete it sooner. Findmypast will review the need to retain your genetic data every ten years. You have the right to request the deletion of your personal data or genetic data at any time.
 
-Findmypast will retain your genetic data as needed to continue to provide you with the features associated with your purchase, to continuously update your Family Networks, and improve Living DNA ethnicity estimates unless you ask us to delete it sooner. Findmypast will review the need to retain your genetic data every ten years. You have the right to request the deletion of your personal data or genetic data at any time. 
+**_E. Contacting Living DNA_**
 
-**Contacting Living DNA**
-
-For more information about our partner Living DNA please review Living DNA’s Privacy Statement. You can contact Living DNA at: 
+For more information about our partner Living DNA please review Living DNA’s Privacy Statement. You can contact Living DNA at:
 
 Email: help@livingdna.com
 
@@ -316,7 +340,7 @@ We do collect some information from cookies and similar software that allows us 
 
 Findmypast follows strict security procedures in the storage and disclosure of personal and genetic data which we receive and that you have given us, to prevent unauthorised access to, and loss, misuse or alteration of your personal data in accordance with UK data protection legislation. We are committed to international security standards and Findmypast are ISO 27001 certified for our information security controls.
 
-You are responsible for keeping secret any confidential passwords or other login or access details that you select or which we allocate to you. While we take steps to ensure the security of your information, there is a risk that any information transmitted over the Internet and stored on a computer may be intercepted or accessed by an unauthorised party. If you think that someone has accessed your information held by us without your permission or gained unauthorised access to your login details, you must notify us at support@findmypast.com.
+You are responsible for keeping secret any confidential passwords or other login or access details that you select or which we allocate to you. While we take steps to ensure the security of your information, there is a risk that any information transmitted over the Internet and stored on a computer may be intercepted or accessed by an unauthorised party. If you think that someone has accessed your information held by us without your permission or gained unauthorised access to your login details, you must notify us at support@findmypast.co.uk.
 
 We also recommend that if you use a shared computer or a computer in a public place such as a library that you close your browser when you have finished your session.
 
@@ -326,19 +350,19 @@ Under the Data Protection law, you have a number of rights with respect to your 
 
   * Correcting your Information
 
-You are entitled to have your personal information updated to ensure it is up to date and accurate. In order to maintain the accuracy of the information we hold, you can update your personal details through your ‘My Account’ page or by sending us an email to privacy@findmypast.co.uk.
+You are entitled to have your personal information updated to ensure it is up to date and accurate. In order to maintain the accuracy of the information we hold, you can update your personal details through your ‘My Account’ page or by sending us an email to support@findmypast.co.uk.
 
   * Withdrawing Consent
 
-You have the right to withdraw your consent to any processing that is currently being done under your consent, such as marketing. Consent can be withdrawn by updating your preferences in the email preference centre or through ‘My Account’. You can also email to privacy@findmypast.co.uk.
+You have the right to withdraw your consent to any processing that is currently being done under your consent, such as marketing. Consent can be withdrawn by updating your preferences in the email preference centre or through ‘My Account’. You can also email to support@findmypast.co.uk.
 
   * Obtaining a copy of your Information
 
-You have the right to receive a copy of the personal information we hold about you. You can do this by contacting privacy@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
+You have the right to receive a copy of the personal information we hold about you. You can do this by contacting support@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
 
   * Deleting your information
 
-You can request that we delete personal information in certain circumstances. These will be specific to each case. You can do this by contacting privacy@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
+You can request that we delete personal information in certain circumstances. These will be specific to each case. You can do this by contacting support@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
 
   * Data Portability
 
@@ -346,11 +370,14 @@ You have the right to ask us to transfer the personal information that you have 
 
   * Restricting Processing
 
-You can request a restriction on the processing of your data in some limited circumstances. Examples are concerns over data accuracy or we no longer need to hold your data but you have requested its retention by us to aid you in a legal matter. You can do this by contacting privacy@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
+You can request a restriction on the processing of your data in some limited circumstances. Examples are concerns over data accuracy or we no longer need to hold your data but you have requested its retention by us to aid you in a legal matter. You can do this by contacting support@findmypast.co.uk from the email address attached to your account, providing the full name attached to your account.
 
   * Right to object to Processing
 
 You have the right to request that we stop processing your data for marketing purposes and in other limited circumstances such as asking us not to process your data by wholly automated means or not to analyse your information for targeted content etc. (also known as profiling).
+
+
+
 
 You can action any of these rights by contacting our Customer Support Team or by contacting us by email at dataprotectionofficer@findmypast.com or by post to Data Protection Officer, Findmypast, 6 Chapel Place, Rivington Street, London EC2A 3DQ.
 
@@ -374,11 +401,11 @@ SK9 5AF
 
 ### 15\. How long we hold your data for
 
-Some of the information you provide to us will be necessary to carry out repeated tasks, such as verifying your identity or payment details when signing in to use an account, providing our services to you or when you are using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and for so long as reasonably necessary. After this time, we may need to hold your personal data in order to meet our financial obligations or identify or resolve issues or causes of action. If your account is inactive for more than five years and you are no longer paying for a service, we reserve the right to delete any information you have provided to us, including all information in your family tree. We will send an email to the address attached to your account before deleting the information in your family tree.
+Some of the information you provide to us will be necessary to carry out repeated tasks, such as verifying your identity or payment details when signing in to use an account, providing our services to you or when you are using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and for so long as reasonably necessary. After this time, we may need to hold your personal data in order to meet our financial obligations or identify or resolve issues or causes of action. If your account is inactive for more than five years and you are no longer paying for a service, we reserve the right to delete any information you have provided to us, including all information in your family tree.
 
 **Genetic data**
 
-Findmypast will retain your genetic data as needed to continue to provide you with the features associated with your purchase, to continuously update your Family Networks, and improve Living DNA ethnicity estimates unless you ask us to delete it sooner. Findmypast will review the need to retain your genetic data every ten years. You have the right to request the deletion of your personal data or genetic data at any time. 
+Findmypast will retain your genetic data as needed to continue to provide you with the features associated with your purchase, to continuously update your Family Networks, and improve Living DNA ethnicity estimates unless you ask us to delete it sooner. Findmypast will review the need to retain your genetic data every ten years. You have the right to request the deletion of your personal data or genetic data at any time.
 
 ### 16\. Links to third-party websites
 
@@ -386,17 +413,17 @@ Our website contains links to other websites belonging to third parties which ar
 
 ### 17\. Updates to this policy
 
-We may update this policy at any time without notice. We will tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.
+We may update this policy at any time without notice. We may tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.
 
-Privacy statement last updated 12 November 2018.
+Privacy statement last updated 24 April 2019.
 
 ### 18\. Contacting us
 
 If you have any questions about privacy or wish to update your details or have them removed from our mailing list at any time, please contact us at:
 
-Email: privacy@findmypast.co.uk
+Email: support@findmypast.co.uk
 
-Phone: +44 (0)20 3326 6300
+Phone: +44 (0)20 3326 6300 [UK, IE, AU] / +1 (855) 246-8234 [US]
 
 Post: Data Protection Officer
 
@@ -407,6 +434,3 @@ Findmypast
 Rivington Street
 
 London EC2A 3DQ
-
-
-
