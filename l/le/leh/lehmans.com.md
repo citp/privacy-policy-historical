@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904222334id_/https%3A//www.lehmans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516040806id_/https%3A//www.lehmans.com/privacy) for the most accurate reproduction.*
 
 # privacy - Lehman's
 
 Welcome to the Lehman's Online Store. We appreciate the trust you place in Lehman's, and we are committed to respecting your privacy and the security of your personal information. Lehman's strives to abide by the privacy practice guidelines and recommendations promulgated by institutions such as the Better Business Bureau (BBB) and Direct Marketers Association (DMA). We want to make you feel as comfortable shopping here as you would from our catalog or retail store.
 
-Our privacy policy, updated on April 23rd, 2015, describes the information we collect and how we use it. It applies to the Lehman’s website and all related sites, services, and tools where this policy is referenced.
+Our privacy policy, updated on April 23rd, 2015, describes the information we collect and how we use it. It applies to the Lehman's website and all related sites, services, and tools where this policy is referenced.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -60,7 +60,7 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources. Please visit [this link](https://support.google.com/analytics/answer/181881?hl=en) if you would like to opt-out of having your lehmans.com activity collected.
 
-We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20180904222334id_/https%3A//www.lehmans.com/cookies) for further information.
+We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20190516040806id_/https%3A//www.lehmans.com/cookies) for further information.
 
 return to top
 
@@ -130,11 +130,11 @@ For example, we use cookies to:
 
 If you set your browser to refuse cookies, please call us at [800-438-5346](tel:8004385346) to place your order.
 
-We may also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
+We may also use pixel tags - tiny graphic images - to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
 
 We may also contract with other companies who use cookies or other online tools such as pixel tags or Javascript to support the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes.  This information is used by Lehman's to share relevant marketing offers with you.
 
-We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our Web site and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. These companies operate independently from Lehman’s and have established their own privacy and security policies. To opt-out of this type of messaging, please contact us at any of the locations listed above.
+We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our Web site and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag - industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. These companies operate independently from Lehman's and have established their own privacy and security policies. To opt-out of this type of messaging, please contact us at any of the locations listed above.
 
 return to top
 
