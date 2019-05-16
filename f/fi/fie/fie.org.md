@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fie.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203043738id_/http%3A//fie.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fie.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516185545id_/http%3A//fie.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - FIE - International Fencing Federation
 
@@ -7,72 +7,262 @@
 **PRIVACY POLICY  
 **
 
-Last updated: March 07, 2018   
+Last updated: February 28, 2019 - [Download Policy PDF - original Version](http://static.fie.org/uploads/20/103230-FIE%20Privacy%20Policy%202019.pdf)  
 
 
-The introduction   
+This privacy policy (the **Privacy Policy** ) applies to the processing of personal data by the FIE Fédération Internationale d'Escrime, with registered seat at Maison du Sport International, Avenue de Rhodanie 54, 1007 Lausanne, Switzerland (the **FIE** ) in connection with the Website accessible at _[http://www.fie.org](http://www.fie.org/)_ (the **Website** ).
+
+By accessing and using the Website, you expressly agree that FIE processes your personal data in accordance with this Privacy Policy.
+
+FIE reserves the right to amend the Privacy Policy at any time at its sole discretion in order to adapt it to any new commercial or technological practice or change in the law. Should this occur FIE will inform you by any appropriate means (including via email and/or the Website, _e.g._ banners, pop-ups or other notification mechanisms). If you do not accept the amendments thus made by FIE, your sole remedy is to no longer access and/or use the Website.
+
+  1. **Introduction**
 
 
-The International Fencing Federation (FIE) and its subsidiaries value the privacy and security of the information that end-users share with us by using our web site [www.fie.org](http://www.fie.org/) and all of our online products including mobile Apps and services (together "Web site") and information we get from your use of our Web site. The Privacy Policy describes the way that "Company" collects, shares, protects, or otherwise uses end-users information. By using our Web site you fully agree and obliged to comply with the terms and conditions of this Privacy Policy and explicitly consent to using of your information in accordance with the Privacy Policy. Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.   
+
+**FIE recognizes the importance of your privacy and of transparency in its processing of your personal data.**
+
+The Privacy Policy explains (i) which personal data are collected when you access and use the Website, (ii) the manner and the purposes for which FIE processes the personal data, and (iii) the measures which FIE takes in order to protect such personal data.
+
+  1. **Data collection**
 
 
-The Data Company collects   
+
+**FIE collects the personal data which you provide.**
+
+    1. FIE collects, directly or indirectly via its partners, the personal data you provide with FIE and/or its partners through web forms or email, or in your use of the Website, for example, when you subscribe to FIE’s newsletter, log-in to the Website, publish articles in the name and on behalf of FIE in FIE’s digital magazine, or publish photos and/or videos in the name and on behalf of FIE on the Website.
+    2. Such information includes your name, user name, password, nationality, date of birth, gender, language, address, email, telephone number, and any other information which FIE and/or its partners may request from you.
 
 
-The information ("Data") that collected by Company includes the data which does not directly enable Company to identify any user as an individual ("non-personal data") and information which may identify end-user ("personal data"). Company may use tools or third party analytical software to automatically collect and use certain data. The types of the non-personal data Company may collect and use include, but are not limited to: (a) device properties, including, but not limited to unique device identifier or other device identifier; (b) device software platform and firmware; (c) geographical data such as zip code, area code and location; (d) game score and achievements; (e) email address; (f) some specific information about end-user that indirectly may referred to the individual, including any data related to user experience; (g) type of operating system end-users are using; (h) data of end-user services Internet provider (IP address) and/or (i) other data as reasonably required by Company to enhance Web site. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected. Likely situation when users provide the Company with information which may (in total) indentify user, including but not limited to user's name, e-mail address, phone number, photo or other image, sex, birth date, address and etc. By providing a personal data, the user consent that the Company have the right to collect and process the personal data for the purpose of analyzing usage of the Company's services, advertisement serving, develop the services, providing customer and technical support, to send notice and etc. The Company has the right to combine personal and non-personal data. Company does not verify correctness and cannot be able to examine of any end-user's personal data. Company may collect Data that you share with us and Data we get from your use of our Website including Data that may be accessible via a third party platform, web application or any other service.   
+
+**Certain personal data are also collected in an automated manner.**
+
+    1. FIE may also automatically collect personal data when you access and use the Website, including by means of tools and other active elements contained in or through third-party plugins/Website, and cookies and other analytic tools, such as the IP address or other user identifications on your devices, visiting date on the Website, information about your Web browser, the data contained in your device, the data contained in third party services ( _e.g._ social plug-ins), your preferences, the internet sites that you visit before and after the Website, the links displayed on the Website which you select or other information related to your interaction with the Website, including your navigation details on the Website.
 
 
-The reasons that Company collects   
+
+**You can define certain authorizations and settings related to the automated collection of your personal data.**
+
+    1. You may define certain authorizations related to data collection, in particular in connection with your device’s right to access data contained in your device, according to the available functionalities. You may also define certain settings for the automated collection of your personal data on your Web browser. For more detailed information, please consult the chapter on cookies below.
+  1. **Processing Methods**
 
 
-Data Company uses this information in the aggregate to analyze usage of Web site. The information also helps Company to improve quality of its online services and products, provide customize communications and advertisement.   
+
+**FIE may process your personal data by automated means but takes appropriate security measures in this respect.**
+
+    1. FIE takes the appropriate technical and organizational security measures to prevent the unauthorized access, disclosure, modification, alteration or destruction of your personal data. Data processing is carried out with computers or computer tools, and in compliance with the purposes indicated in this Privacy Policy.
+    2. FIE does not use any individual decision-making based solely on automated processing including profiling mechanisms on the Website.
+  1. **Purposes of Data Processing**
 
 
-Disclosure and Transfer of Data   
+
+**FIE processes your personal data to operate the Website.**
+
+    1. Your personal data are collected so that FIE may operate the Website in accordance with the circumstances, or in the manner expressly indicated when the personal data concerned are collected. For example, FIE allows you to navigate on and use the Website or to re-engage you accessing and using the Website.
 
 
-Company may use the collected Data to analyze usage of the services, advertisement serving, managing and providing the services and products. For these purposes Company may disclose Data to partners with whom the Company has contractual obligations and/or which have their own specific serving technologies and payment services. The providers of payment service have the right to process Data for the purpose of the offering of the payment-transaction service whenever you purchase something from Web site. In particular, Company may entrust processing of information about payment methods to third-party payment service providers who comply with PCI DSS (Payment Card Industry Data Security Standard) including but not limited to Non-banking credit organization Limited Liability Company Money.Mail.Ru,You acknowledge and agree that the analytics utilized by Company's partners may combine the Data collected with other information they have independently collected from other services or products relating to your activities. These partners collect and use information under their own privacy policies. They may not use your Data for their own marketing purposes. Company may also disclose your Data to third parties when Company has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Company's (its subsidiaries) intellectual property, operations, users or others who may be harmed or may suffer loss or damage, or Company acknowledges that such disclosure is necessary to protect Company's (its subsidiaries) rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Company or its subsidiaries. Company has the right to disclose data in response to legal process, for example, in response to a Court order. Company may also disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Company may transfer Data about end-users in cases Company or one of its business units are acquired by, sold to, or merged with another company.   
+
+**FIE may process your personal data to provide you with its newsletter and provide you further news and updates.**
+
+    1. For example, you can subscribe to FIE’s newsletter and FIE’s news update regarding competitions or other FIE’s events, competitions results, FIE’s digital magazine, FIE’s photos and/or videos, FIE’s press releases or other documents. You may withdraw your consent at any time.
 
 
-User profile settings   
+
+**FIE processes your personal data for statistical and planning purposes.**
+
+    1. Notably without limitation, FIE processes your personal data to improve the Website and for internal analyses and statistics. You may withdraw your consent at any time.
+  1. **Communication to Third Parties**
 
 
-Each user, creating your own profile in the Web site, has the ability to manage personal profile settings, including but not limited: changing the look of the personal profile, add into the profile the desired information, restrict access to the profile of a third party. Therefore, you can choice about who has access to your Data.   
+
+**FIE may disclose your personal data to third parties in case this is necessary for the proper operation of the Website or as listed below.**
+
+    1. FIE may communicate your personal data to third parties as part of operating the Website. In particular, Youtube, LLC; Google LLC; Facebook, Inc. / Facebook Ireland Limited; Linked In Corporation; Twitter Corporation and Weibo Corporation.
+    2. FIE may also enable you to use third-party services directly from the Website, namely through social plug-ins YouTube LLC, Google LLC; Facebook, Inc. / Facebook Ireland Limited; Twitter Corporation and Weibo Corporation, in which case you recognize that the third-party operators of these services may access some of your personal data in connection with the Website.
+    3. FIE may disclose your personal data to subcontractors such as IT systems providers, cloud service providers, database providers and consultants.
+    4. FIE may disclose your personal data to any third party to whom FIE assigns or transfers any of FIE’s rights or obligations.
+    5. FIE may disclose your personal data to competent courts or supervisory or regulatory bodies, when FIE shall compellingly disclose your personal data, pursuant to any applicable law, regulation or order.
+    6. In the above contexts under Sections 5.1, 5.2 and 5.3, the Website may contain links to other websites. Please note that this Privacy Policy does not apply to the practices of any company or individual that FIE does not control, nor to any other Website that may be linked from the Website. You should carefully review the privacy policies of any other Website that you visit from the Website to learn more about their information and privacy practices. In such contexts, the collection and use of your personal data shall be governed by such other party or websites’ privacy policy. FIE shall not be held responsible for their privacy practices.
+    7. FIE may transfer some of your personal data, in particular the IP address and/or other user identifications for your devices, to the third-party suppliers of these solutions, who will process this data in accordance with their own internal data protection and privacy policies.
+  1. **International transfer**
 
 
-Security measures   
+
+**Your personal data may be disclosed to countries that do not guarantee the same level of data protection and privacy as Switzerland and the European Union.**
+
+FIE stores and handles your personal data in Russia. But your personal data may be disclosed and transferred to other states, provinces, countries or other governmental jurisdictions, always in compliance with this Privacy Policy, that do not necessarily guarantee the same level of personal data protection as Switzerland and the European Union or an adequate level. If you transfer your personal data to FIE, you specifically agree to such disclosure and international transfer.
+
+  1. **Cookies and similar technologies**
 
 
-Company and its subsidiaries will protect Data in a manner that is consistent with this Privacy Policy by, for instance, not using the information for any purpose other than to carry out the services they are performing for. Although the Company takes appropriate measures to safeguard against unauthorized disclosures of Data, the Company cannot assure user that Data collected will never be disclosed in a manner that is inconsistent with this Privacy Policy and providing security measures are perfect or impenetrable. The user acknowledges that any data that user discloses throughout the forums, blogs, charts or the like is public information cannot be considered as privacy and be saved from disclosure.   
+
+**FIE uses cookies and other similar technologies in connection with the Website.**
+
+    1. A cookie is a small data file that FIE transfers to and is stored on your electronic device. For example, FIE uses cookies or other analytic tools to measure the traffic to and usage of the Website and its distinctive features, and other miscellaneous uses.
+    2. FIE uses diverse types of cookies or other similar technologies some of which are likely to automatically process data directly on your devices and/or to transfer data personal concerning you to FIE.
 
 
-Cookies and other technical information   
+
+**You may manage the _cookies_ and similar technologies via the settings of your browser and/or your devices.**
+
+    1. If you do not want cookies to be stored on your device, you can configure your Web browser or your device to refuse and/or restrict the cookies. Certain cookies are however essential to the functioning of the Website itself and its use may be altered or prevented by refusing these cookies. 
+    2. If you do not refuse or restrict the cookies, you consent to their use and to the processing of your personal data collected in this manner. 
+    3. For more information, please visit _[](http://www.allaboutcookies.org/)[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)_. Please check the user help sections of your Web browser or electronic device for specific instructions on the management of cookies.
 
 
-Company may send "cookies" to your computer or use similar technologies to enhance your online experience at its Web site and across the Internet. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Company may also use "beacons" that monitor your use of Web site. Beacons are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the beacon appears, the time the page containing the beacon was viewed, the types of browser that fetched the beacon and the identification number of any cookie on the computer previously placed by that server. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies or beacons. By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from Company.   
+
+**Why and how FIE uses cookies and other similar technologies?**
+
+    1. These technologies are generally aimed at monitoring and analyzing your interactions with the Website and/or to enable FIE to improve the Website and its functionalities, namely through a personalization of the Website and the related services, according to your interactions. 
+    2. FIE also uses cookies and similar technologies to measure and monitor the traffic and use of the Website, as well as its performance.
+    3. Some cookies are retained in your electronic device for only as long as you access and use the Website, while others persist for a longer specified or unspecified period.
 
 
-Data alteration and retention  
+
+**FIE uses the following cookies and other similar technologies:**
+
+_**Essential cookies**_
+
+    1. Some cookies FIE places on your electronic device ensure that the Website delivers you without limitation information securely and optimally. You must accept these cookies to be able to make use of the Website.
 
 
-Company retains the Data collected in accordance with Privacy Policy for the period necessary to execute the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if Date collected is no longer needed for purposes specified in this Privacy Policy, Company deletes all aforementioned Data in its possession. In any case the user may delete the personal data in two ways by: • removing it by himself using an access to the service; • sending the Company a notice in writing which contain sufficient information to identify the user. The notice will be processed as soon as possible. If Data is changed or deleted, Company may still retain some of the data to resolve disputes, enforce Company user agreements, and comply with technical and legal requirements and constraints related to the security service.   
+
+_**Cookie**_
+
+| 
+
+**Stored / processed data**
+
+| 
+
+**Expiry**
+
+| 
+
+**Description**  
+  
+---|---|---|---  
+  
+_YII_CSRF_TOKEN_
+
+| 
+
+_String value_
+
+| 
+
+_1 year_
+
+| 
+
+_Used to sign all POST request, to protect them from CSRF_  
+  
+login
+
+| 
+
+String value, contains login
+
+| 
+
+1 year
+
+| 
+
+Appears after login at admin.fie.org. Contains current user login  
+  
+name
+
+| 
+
+String value, contains name
+
+| 
+
+1 year
+
+| 
+
+Appears after login at admin.fie.org. Contains current user name  
+  
+langBack
+
+| 
+
+String value
+
+| 
+
+1 year
+
+| 
+
+Appears after login at admin.fie.org. Contains selected language. Used it redirects.  
+  
+_**Functionality cookies**_
+
+    1. Some cookies enable Website to remember choices persons make, for example, user name, and language or text size. These cookies are known as "functionality cookies" and help to improve a person's experience of a Website by providing a more personalized service.
 
 
-International data processing   
+
+ _ **Cookie**_
+
+| 
+
+ **Stored / processed data**
+
+| 
+
+ **Expiry**
+
+| 
+
+ **Description**  
+  
+---|---|---|---  
+  
+ _lang_
+
+| 
+
+ _Selected language_
+
+| 
+
+ _1 year_
+
+| 
+
+ _Contains language, selected by user_  
+  
+PHPSESSID
+
+| 
+
+Session string
+
+| 
+
+1 year
+
+| 
+
+Contains Session id to identify current user  
+  
+_**Third-party cookies**_
+
+    1. The Website uses third party services or software. Many of these services may set cookies on your electronic device. You can block or remove cookies yourselves by altering the settings of your electronic device or browser. Blocking these cookies is unlikely to impact on your experience of the Website.  _**Cookie**_ |  **Stored / processed data** |  **Expiry** |  **Description**  
+---|---|---|---  
+__ga_ __gid_ __gat_ _tmr_detect_ |  |  _1 year_ |  _[https://developers.google.com/analytics/devguides/...](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id)_  
+  1. **Your rights**
 
 
-Because Company operates internationally, the Company may store and process Your data within BVI and other countries worldwide.   
+
+**You have the right to access your personal data processed by FIE and may request without limitation that they be removed, updated, or rectified.**
+
+    1. Except as otherwise required by law, you are entitled at all times to know if FIE is processing personal data concerning you. You may contact FIE to know the content of such personal data, verify their accuracy and request that they be supplemented, removed, updated, or rectified. You also have the right to ask FIE to cease processing any personal data that may have been obtained in breach of applicable law, and to object to the processing of your personal data for any other legitimate reason. 
+    2. Where FIE relies on your consent to process your personal data, FIE will seek your freely given and specific consent by providing you with informed and unambiguous indications relating to your personal data. You may revoke at any time such consent.
+    3. You have also the right to request your personal data’s portability, _i.e._ that the personal data you have provided to FIE be returned to you or transferred to the person of your choice, in a structured, commonly used and machine-readable format without hindrance from FIE and subject to its confidentiality obligations.
+    4. If you have any questions or a request in relation to the processing of your personal data by FIE, please contact _[admin@fie.ch](mailto:admin@fie.ch)_.
 
 
-Governing Law 
-
-This Agreement shall be governed, construed, and enforced in accordance with the laws of England and Wales, without regard to its conflict of laws rules.   
-
-
-Our contacts   
-
-
-Should you have any questions or concerns about Privacy Policy or its execution do not hesitate to contact Company at: Maison du Sport International, Avenue de Rhodanie 54, 1007 Lausanne – Suisse. ph.: +41 21 320 31 15 fax: +41 21 320 31 16 e-mail: info@fie.ch site: [http://www.fie.org](http://www.fie.org/)   
-
-
-Only the English version of this document has legal effect. Any translations of this document to other languages are provided for your convenience only.
