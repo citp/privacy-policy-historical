@@ -1,61 +1,57 @@
-> *The following text is extracted and transformed from the antiquesnavigator.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613105213id_/http%3A//www.antiquesnavigator.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquesnavigator.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517001337id_/https%3A//www.antiquesnavigator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice : AntiquesNavigator.com, Online Antique Store and Antique Store Search Tool
+# Privacy Policy – AntiquesNavigator — Online Antique Stores
 
-**What information do we collect?**
+**Privacy Notice**
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
+This privacy notice discloses the privacy practices for (antiquesnavigator.com). This privacy notice applies solely to information collected by this website. It will notify you of the following:
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+  1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
- **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+ **Information Collection, Use, and Sharing**  
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-; To administer a contest, promotion, survey or other site feature
+ **Your Access to and Control Over Information**  
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-; To send periodic emails
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
- **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+ **Registration**  
+In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-**Do we use cookies?**
+ **Orders**  
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+ **Cookies**  
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
- **Do we disclose any information to outside parties?**
+ **Links**  
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ **Surveys & Contests**  
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
- **Third party links**
+ **Security**  
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for “https” at the beginning of the address of the Web page.
 
- **Your Consent**
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.antiquesnavigator.com  
-6895 North Glen Dr.  
-Cumming, GA 30028  
-USA  
-tim@antiquesnavigator.com  
-
+ **If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (678) 677-6449 or  via email (tim@antiquesnavigator.com.**
