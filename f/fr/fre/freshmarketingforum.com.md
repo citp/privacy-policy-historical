@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshmarketingforum.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016081741id_/https%3A//www.freshstorebuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshmarketingforum.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516065855id_/https%3A//www.freshstorebuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fresh Store Builder
 
