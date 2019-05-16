@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the austinpetsalive.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221160237id_/https%3A//www.austinpetsalive.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinpetsalive.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516055630id_/https%3A//www.austinpetsalive.org/privacy-policy) for the most accurate reproduction.*
 
-# Austin Pets Alive! Privacy Policy - Austin Pets Alive!
+# Austin Pets Alive! | Privacy Policy
 
-**Overview**
+## Overview
 
 Your privacy is important to Austin Pets Alive! (APA) We have developed this website privacy policy (“Privacy Policy”) to explain how we collect, use, disclose, transfer and store your information. APA is committed to protecting your privacy. By using the APA website, you consent to the data practices described in this Privacy Policy.
 
@@ -18,7 +18,7 @@ APA also has developed Terms of Use describing your responsibilities when using 
 
 We will alert you to changes in this website Privacy Policy by sending you an email at the last email address that you provided us, and/or by prominently posting notice of such amendment on the website covered by this Privacy Policy. Please note that, at all times, you are responsible for updating your personal information to provide us with your current email address. In the event that the last email address that you have provided to us is not valid, or for any other reason is not capable of delivering to you the notice described above, our sending of the email containing the notice of amendment will nonetheless constitute effective notice.
 
-**What information does APA collect?**
+## What information does APA collect?
 
 In several areas of the website, APA collects personally identifiable information, such as your name, home address, email address, and telephone number.
 
@@ -26,33 +26,33 @@ APA also collects anonymous demographic information, which is not unique to you,
 
 We may collect information about your interaction with the website. For example, we may use website analytic tools on the website to retrieve information from your browser, such as the site you came from, the search engine(s) and the keywords you used to find the website, and the pages you view within the website. We will also use technologies, such as cookies and website beacons (both described below), to collect information about the pages you view, the links you click on and other actions you take on the website. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.
 
-**Does APA collect information about children?**
+## Does APA collect information about children?
 
 The website are directed at a general audience and APA does not knowingly collect or store personally identifiable information about children under the age of 13.
 
 Any of our sites that are directed at children under the age of 13 comply with the standards of the Children’s Online Privacy Protection Act (COPPA), which are in addition to this Privacy Policy.
 
-**Is my personal information secure?  
-**  
+## Is my personal information secure?
+
 We provide website visitors with a secure experience when making a donation or purchasing merchandise through our website. When personal information is transmitted by APA to other website, it is protected through the use of industry-standard security technology, such as the Secure Socket Layer (SSL) protocol. To further enhance security, stored donation and order information is also encrypted to prevent unauthorized access to the data.
 
 Although we use industry-standard safeguards to secure the privacy of your personal information, transmissions made via the Internet cannot be made absolutely secure. Users should use special caution when using publicly accessible computer terminals or transmitting personal information over unsecured wireless networks.
 
 In addition, on certain website pages we offer visitors the opportunity to provide comments or other user-generated content on blogs and articles. Any information that you disclose when posting a message to these areas, along with the screen name or ID used, becomes public. We are not responsible for any personally identifiable information that you choose to disclose in the public areas of our website.
 
-**How does APA use my personal information?**
+## How does APA use my personal information?
 
 Except as expressly set forth in this Privacy Policy we will not willfully disclose your personally identifiable information to any third party without first receiving your permission.
 
 APA collects and uses your personal information to operate the APA website and deliver the services you have requested. We may use personal information collected on our website to circulate news about APA and its programs, to promote events, to acquire new members and subscribers, and for other internal marketing, promotional and APA fundraising purposes.
 
-A visitor who receives email from us may opt out of email at any time by following the opt-out instructions contained in the email, or by sending an email to [privacy@austinpetsalive.org](mailto:privacy@bestfriends.org).
+A visitor who receives email from us may opt out of email at any time by following the opt-out instructions contained in the email, or by sending an email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#1b6b69726d7a78625b797e686f7d69727e757f683574697c).
 
-APA does not sell, rent, or exchange its donor list for direct mailing purposes, except as strictly necessary to satisfy ongoing contractual obligations resulting from contracts entered into prior to adoption of its policy prohibiting the sale, rental, or exchange of its donor list. Not all donors are impacted by these contractual commitments. If you have questions about this policy and whether your personal information may be shared as a result of these prior contractual commitments, please contact [privacy@austinpetsalive.org](mailto:privacy@bestfriends.org) to inquire.
+APA does not sell, rent, or exchange its donor list for direct mailing purposes, except as strictly necessary to satisfy ongoing contractual obligations resulting from contracts entered into prior to adoption of its policy prohibiting the sale, rental, or exchange of its donor list. Not all donors are impacted by these contractual commitments. If you have questions about this policy and whether your personal information may be shared as a result of these prior contractual commitments, please contact [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#d3a3a1baa5b2b0aa93b1b6a0a7b5a1bab6bdb7a0fdbca1b4) to inquire.
 
 Except to the extent that your personal information independently falls under the paragraph immediately above, APA does not sell, rent or exchange personal information collected on our website with non-affiliated third parties.
 
-APA may, from time to time, share personally identifiable information, including email and home addresses, with carefully selected corporate partners. These corporate partners are required to (i) protect the privacy of your Personally Identifiable Information, and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing the programs, products or services for which we contracted. If you do not wish to receive communications from those partners, you may opt out by sending an email to [privacy@austinpetsalive.org](mailto:privacy@bestfriends.org).
+APA may, from time to time, share personally identifiable information, including email and home addresses, with carefully selected corporate partners. These corporate partners are required to (i) protect the privacy of your Personally Identifiable Information, and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing the programs, products or services for which we contracted. If you do not wish to receive communications from those partners, you may opt out by sending an email to [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#99e9ebf0eff8fae0d9fbfceaedffebf0fcf7fdeab7f6ebfe).
 
 We may employ independent contractors, vendors and suppliers (collectively, “Outside Contractors”) to provide specific services and products related to our website, such as to help us perform statistical analysis, send you email or postal mail, send email or other messages on your behalf (such as issue advocacy emails to legislators), or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide the contracted services to APA and they are required to maintain the confidentiality of your information. These Outside Contractors may sometimes have limited access to information collected on our website, including your Personally Identifiable Information, in the course of providing products or services to us.
 
@@ -62,11 +62,11 @@ We may share aggregated demographic information with our funders, such as grant-
 
 APA may release personal information if we believe that the law or legal process served on APA requires it, to protect and defend the rights or property of APA, or in an emergency, to protect the personal safety of an identifiable visitor or the public.
 
-What about becoming a registered user or subscriber?
+## What about becoming a registered user or subscriber?
 
 In order to access certain areas on our website, you must first complete certain steps to become either a registered user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as your name, ZIP code and email address. This information is used to help us understand who uses our website, to operate and improve our website, and to deliver the services or carry out the transactions you have requested.
 
-**How does APA use cookies?**
+## How does APA use cookies?
 
 The APA website uses “cookies” to ensure the integrity of the registration process and to help you personalize your online experience. A cookie is a text file that is placed on your hard drive by a website page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a website server in the domain that issued the cookie to you.
 
@@ -76,6 +76,6 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 To protect our visitors, cookies do not save payment or credit card information. You have the ability to accept or decline cookies. Most website browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the APA services or website you visit.
 
-How can I comment on the APA Privacy Policy?
+## How can I comment on the APA Privacy Policy?
 
-APA welcomes your comments regarding this website Privacy Policy. If you believe that APA has not adhered to this policy, please contact APA at [privacy@austinpetsalive.org](mailto:privacy@austinpetsalive.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+APA welcomes your comments regarding this website Privacy Policy. If you believe that APA has not adhered to this policy, please contact APA at [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#d3a3a1baa5b2b0aa93b2a6a0a7babda3b6a7a0b2bfbaa5b6fdbca1b4). We will use commercially reasonable efforts to promptly determine and remedy the problem.
