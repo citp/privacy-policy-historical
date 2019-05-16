@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102013424id_/https%3A//www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517014249id_/https%3A//www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Holland America
 
