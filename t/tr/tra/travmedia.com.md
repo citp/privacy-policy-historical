@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travmedia.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029125802id_/https%3A//travmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travmedia.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516162337id_/https%3A//travmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # TravMedia - The Travel Industry's Global Media Network | Privacy Policy
 
