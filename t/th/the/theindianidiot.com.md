@@ -1,53 +1,106 @@
-> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525162916id_/http%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindianidiot.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516124738id_/https%3A//theindianidiot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://theindianidiot.com/about-us/).
 
-At TheIndianIdiot.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://theindianidiot.com and how we use it.
+At TheIndianIdiot.com we consider the privacy of our visitors to be extremely important. We are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our legalize business interests by implementing those maxims, which manifestly describe the spirit to protect your sensible prospects of privacy. However, if we make changes to our policy, we’ll update them here.
 
-**Log Files**  
-Like many other Web sites, theindianidiot.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This privacy policy document describes in detail the types of personal information is collected and recorded by theindianidiot.com and how we use it.
 
-**Cookies and Web Beacons**  
-theindianidiot.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+### 1\. User Consent
 
-**DoubleClick DART Cookie**
+By using TheIndianIdiot.com (for example, when you register for an account, purchase a service, enter a contest or promotions, communicate with us, on our sites or applications), you agree to provide consent to our collection, use and sharing of your personal information as described in this policy. In some cases, particularly if you reside in a country governed by a data protection regulation, we may ask you to provide explicit consent to access our services before proceeding for further operations.
 
-→ Google, as a third party vendor, uses cookies to serve ads on theindianidiot.com  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to theindianidiot.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+### 2\. Collection and Use of Personal Information
 
-**Our Advertising Partners**
+‘Personal Information’ or ‘PII’ is defined as any information that identifies (whether directly or indirectly) to a particular individual or natural person, such as the individual’s name, postal address, email address, and mobile number indicating to that particular person or is identifiable. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include
+### 3\. Information you provide to us
 
-  * Google
+We may ask for and collect the following personal information about you when you use the TheIndianIdiot.com and without this information we may not be able to provide you with all the requested services;  
+• First and Last Name  
+• Email id  
+• Primary Phone No.  
+• City & State
 
+### 4\. Information we collect automatically
 
+We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your computer or other device used to access our service. The information includes:  
+• Your interactions with our email, customer care and messaging platform.  
+• Geo-location information like IP addresses,  
+• Cookies;  
+You can read more about how we use cookies in our Cookie Policy.
 
-_While each of these advertising partners has their own Privacy Policy for their site.  
-_
+### 5\. Information we collect through third parties
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on theindianidiot.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+Third party services  
+If you link, connect or login through TheIndianIdiot.com account with a third party service i.e. Google, Facebook and Twitter they may send us information such as your registration and profile information from the service.
 
-theindianidiot.com has no access to or control over these cookies that are used by third-party advertisers.
+### 6\. Purposes and Lawfulness of processing
 
-**Third Party Privacy Policies**
+We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with customer support or process your data for providing premium services (For e.g. processing your information by our payment gateway service providers).  
+We use information to provide, analyse, administer, enhance and personalize our service and marketing efforts, to process your registration, your orders, payments, and to communicate with you related to below mentioned points. For example, we use information to:  
+• prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);  
+• communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we can send you news about TheIndianIdiot.com, details about new features and content available on the TheIndianIdiot.com, and special offers, promotional announcements, and consumer surveys, and to assist you with operational requests such as password reset requests.  
+• notify you about changes in terms of service.  
+• allow you to participate in interactive features offered through our Services.  
+• carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing, chargeback and collection.  
+We may also use your information to contact you about our own and third-party services that may be of interest to you. If you do not want us to use your information in this way, please provide explicit consent for the same when we collect your data and/or adjust your user preferences in your account profile concerning your choices/preferences provided.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. theindianidiot’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### 7\. Disclosure to third parties
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+General Disclosure  
+At times the TheIndianIdiot.com may make certain personal information available to strategic partners that work with the TheIndianIdiot.com to provide service, or that help the TheIndianIdiot.com market to customers. For example, when you purchase and activate subscription, you authorize the TheIndianIdiot.com to exchange the information you provide during the activation process to carry out a service. If you are approved for service, your account will be governed by the TheIndianIdiot.com’s privacy policy. Personal information will only be shared by the TheIndianIdiot.com to provide or improve our service and marketing aspects; it will not be shared with third parties for their marketing purposes.  
+We do not share your personal information with Companies, organizations, or individuals outside of TheIndianIdiot.com except in the following cases:  
+Promotional Offers  
+We’ll share or disclose your personal information outside of TheIndianIdiot.com when we have your consent. For example, providing E-mail related services such as marketing newsletters, promotions and offers.  
+Business Transfers  
+We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.  
+Legal  
+In the event of any requirement by court order, government or quasi-government agency to disclose Your Personal Information, We will disclose information as may be legally required. We may also disclose Your Personal Information if we, in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.  
+In the event TheIndianIdiot.com is merged with or acquired by another company, we and our affiliates may share your personal information, wholly or in part, with another business entity.
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. TII does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that TII has in its database the personally-identifiable information of a child under the age of 13, please [contact us](http://theindianidiot.com/about-us/) immediately and we will use our best efforts to promptly remove such information from our records.
+### 8\. Your Controls and Choices
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your personal information. In accordance with applicable law, your controls and choices may include:  
+Managing Your Information  
+You can access and update some of your personal information through your account settings. If you have chosen to connect your TheIndianIdiot.com account to a third-party application, like Facebook, Google or Twitter, you can change your settings and remove permission for the app by changing your account settings. You are responsible for keeping your personal information up-to-date. The TheIndianIdiot.com will send you periodic reminders via e-mail to maintain the accuracy of your personal information.  
+Rectification of Inaccurate or Incomplete Information  
+You can ask us to correct inaccurate or incomplete personal information concerning you (this is the information which you cannot update yourself within your TheIndianIdiot.com account) by sending us an e-mail  
+Data Retention and Erasure  
+We retain your personal information as long as necessary for the performance of the contract between you and us to comply with our legal obligations. If you no longer want us to use your information then you can request that we erase your personal information and close your TheIndianIdiot.com account. Please note that if your request for the erasure of your personal information;  
+• We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a TheIndianIdiot.com account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.  
+• We may retain and use your personal information to the extent necessary to comply with our legal obligations. For example, we may keep some of your information for tax, legal reporting and auditing obligations.  
+• Because we maintain copies of the to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time.  
+Withdrawing Consent and Restriction of Processing  
+For withdrawing your consent at any time during the tenure of your services with us, you may choose to do so by sending us an e-mail. We shall review your request and may ask you to verify your identity. Post verification we will withdraw the consent for which request was made by you and stop any further processing of your personal information  
+Objection to Processing  
+Where your personal information is processed for direct marketing purposes, you may, at any time ask us to cease processing your data for these direct marketing purposes by sending an e-mail to us.  
+Complaints  
+You can write to our data protection officer in case of any grievance or compliant. You have the right to complaint about the data processing activities carried out by Theindianidiot.com before the competent data protection authorities.  
+Please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences. If collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate. If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact our customer support team.
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+### 9\. Children’s Privacy
 
-**Update**  
-This Privacy Policy was last updated on: Friday September 2, 2016.  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+Theindianidiot.com is not intentionally designed for or directed at people less than 16 years of age. Theindianidiot.com does not knowingly permit any person who is under 16 years of age to register with the services or to provide any other personally identifying information. If Theindianidiot.com becomes aware that any personally identifiable information of persons less than 16 years of age has been collected on the Theindianidiot.com without verified parental consent, then Theindianidiot.com will take the appropriate steps to delete any such information and notify the parent.  
+However, we consider it the responsibility of parents to monitor their children’s use of our services. Nevertheless, it is our policy not to collect and process any personal information from children below 16 years of age or offer to send any promotional materials to persons in that category. Theindianidiot.com does not seek or intend to seek or receive any personal information from children. Should a parent or guardian have reasons to believe that a minor has provided Theindianidiot.com with personal information without their prior consent, please contact our customer support team to ensure that the personal information is removed from the Theindianidiot.com.
+
+### 10\. Data transfer, storage & processing globally
+
+We operate globally and may transfer your personal information to individual companies of the Theindianidiot.com affiliated companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards.
+
+### 11\. Security and compliance with laws
+
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. Some of the safeguards we use to protect your information are firewalls and data encryption, and information access controls. If you know or have reason to believe that youraccount credentials have been lost, stolen, altered, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, please contact us by contacting our customer support team.
+
+### 12\. Change in Policy
+
+This Privacy Policy is subject to change from time to time. We reserve the right, at our sole discretion, to modify the terms of this Privacy Policy from time to time in order to ensure compliance with applicable laws (“Updated Terms”). The Updated Terms shall be effective immediately and shall supersede these the terms of this Privacy Policy. We will not be under an obligation to notify you of any changes to this privacy policy except if the changes made to the policy significantly affects your rights or as may be required by law. You shall be solely responsible for reviewing the Privacy Policy from time to time for any modifications. By continuing to use TheIndianIdiot.com after the updated Terms have been published, you affirm your agreement to the updated terms.
+
+### 13\. Contact information
+
+I. Support  
+If you require any information or clarification regarding the use of your personal information or this privacy policy or grievances with respect to use of your personal information, please email us at info@theindianidiot.com  
+II. Data Controller  
+If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact us.
