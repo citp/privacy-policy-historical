@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223022023id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payvment.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516173845id_/https%3A//www.ecwid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,6 +144,6 @@ We may amend this Privacy Policy at any time by posting the amended terms o
 
 ## Contact Information
 
-To access your information, ask questions about our privacy practices, or issue a complaint, please contact us at info@ecwid.com or mail your correspondence to: Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA.
+To access your information, ask questions about our privacy practices, or issue a complaint, please contact us at info@ecwid.com or mail your correspondence to: Ecwid Privacy, 687 S. Coast Highway 101, Encinitas, California 92024, USA.
 
 Effective date of this policy: April 12, 2017
