@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradoxian.org privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113113739id_/http%3A//paradoxian.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradoxian.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516022835id_/http%3A//paradoxian.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Paradoxian
 
