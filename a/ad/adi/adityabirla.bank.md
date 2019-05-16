@@ -1,0 +1,56 @@
+> *The following text is extracted and transformed from the adityabirla.bank privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516161852id_/https%3A//www.adityabirla.bank/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Aditya Birla Payments Bank
+
+Capitalized terms used under this Privacy Policy and not defined herein shall have the same meaning as ascribed thereto under the Terms and Conditions of the Website. 
+
+Aditya Birla Idea Payments Bank Limited (“ABIPBL”/ “We”/ “Us”/ “Our”) through its Website, is extremely proud of its commitment to protect your privacy. We value your trust in us. We have adopted the following Privacy Policy, which is applicable to all Personal Information that you provide to us through the Website, either directly or which we get from your use of our Services. 
+
+You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on the Website or prior to availing of any Services offered, if you wish not to disclose any Personal Information you may refrain from doing so; however, if you don't provide the Personal Information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the Services. 
+
+This Privacy Policy does not apply to any Personal Information that you may provide to third parties, such as through other Linked Sites. Please be aware that if you choose to visit such third party sites, you should contact such third parties directly to determine their respective privacy policies because that third party's privacy policy, and not this Privacy Policy, will govern your activities and any personally identifiable information you disclose while visiting the third party site. 
+
+ABIPBL expressly reserves at its sole discretion the right to change this Privacy Policy periodically in the future without prior notice to the Users. Users shall review our Privacy Policy available at the Website regularly to be sure that they are fully up- to- date with our practices and procedures in this area. Your continued use of the Website will be subject to the then-current Privacy Policy. The following discloses our information gathering and dissemination practices for the Website 
+
+**Overview**  
+As part of the normal operation of the Website, we collect and, in some cases, may disclose Personal Information about you. This Privacy Policy describes the Personal Information we collect about you and what may happen to that Personal Information.   
+By accepting this Privacy Policy and the Terms and Conditions of our Website, you expressly consent to our use and disclosure of your Personal Information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into the Terms and Conditions and together with the Terms and Conditions, governs all use of the Website. 
+
+In the course of rendering Services or as a part of your registration process/ submission of online application forms and questionnaires through usage of our Website, we may collect your title, name, gender, parental background, marital status, nationality, state of residence, city of residence, email address, date of birth, gender, contact number/ mobile number, user ids, passwords, recent photograph, signature image, e-KYC through UIDAI, other Know Your Customer (KYC) documents like address proof, identity proof, income proof, PAN or such other officially valid documents/details (OVDs) accepted for concluding a financial transaction (collectively "Personal Information"). We may seek additional information for new services that may be offered by us from time to time. Your Personal Information will not be posted in areas of the Website viewable by the public or other users of the Website. 
+
+**Our Use of Your Personal Information**  
+Our primary goal in collecting personally identifiable information is to provide you with a smooth, efficient and customized experience. We will not sell or rent your Personal Information to anyone, for any reason, at any time. However, we will be sharing your Personal Information with our business partners, where we feel that they will be able to assist you better for the purpose of rendering Services to you.   
+We may use third party service providers to provide Services to you. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your Personal Information for purposes unrelated to the products or services being provided by them. We require such third parties to maintain the confidentiality of the information provided to them. 
+
+**Our Disclosure of Your Personal Information**  
+Due to the existing regulatory environment, we cannot ensure that all of your Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose your Personal Information to the government, law enforcement agencies, or third parties under certain circumstances; third parties may unlawfully intercept or access transmissions or private communications; or users or authorized users may independently abuse or misuse your information that they collect from the Website in violation of our Website's Privacy Policy and Terms of Use. 
+
+As a matter of policy, we do not sell or rent any Personally Information about you to any third party. However, the following describes some of the ways that your Personally Information may be disclosed.
+
+**Advertisers:** We may aggregate (gather data across all Users) Personal Information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. 
+
+**Other Corporate Entities:** We may sometimes share data with our affiliates, subsidiaries, joint ventures and third party service providers that provide us with services and/or provide you with services. We use third-party service providers to render Services to you and to monitor your interests. To the extent that these entities have access to your Personal Information, we will ask them to treat it at least as protectively as they treat personally identifiable information they obtain from their other users or members. Our affiliates, subsidiaries, and joint ventures will follow privacy practices no less protective of all users and members than our practices described in this document, to the extent allowed by applicable law. It is possible that ABIPBL, its subsidiaries, affiliates, joint ventures or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that ABIPBL would share some or all of your Personal Information in order to continue to maintain and provide access to the Website.
+
+**Legal Requests:** ABIPBL co-operates with law enforcement inquiries, as well as other third parties to enforce laws relating to matters, such as intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any Personal Information about you to law enforcement and other government officials as we, in our sole discretion, believe reasonably necessary or appropriate, in connection with any investigation.
+
+**Transfer of Personally Identifiable Information**   
+We will take reasonable efforts to ensure that Personal Information that we collect from you is not transferred/ stored outside India but there may be instances in which it may be transferred to and stored at locations that are outside the territory of India, solely in compliance with RBI regulations. 
+
+Since the transmission of any information across the internet is not completely secure, we have implemented strong security measures and will do our best to protect your Personal Information. 
+
+**Changing Your Personally Identifiable Information**   
+ABIPBL gives you the ability to edit your Personal Information and preferences at any time. You have the right to refuse any marketing email from us in the future. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We will, however, retain in our files and databases Personal Information you have requested to remove in order to use it in some circumstances, such as to resolve disputes, troubleshoot problems, and enforce our Terms and Conditions of Use. Further, such prior Personal Information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your Personal Information will be completely removed from our databases in response to your requests.
+
+**Cookies**   
+Cookies are small and unique information identifiers that we send to your computer, mobile, tablet or other devices when you visit the Website. This enables us to recognize your profile and your device on future visits and provide to you customized features. These identifiers assist us in remembering your preferences and chosen items, hence, enhancing your Website browsing experience and trying to ensure that the ads and offers you see are personalized to your shopping behavior. The Website also uses technologies like Google Analytics which works on the data collected and stored through cookies and other identifiers for marketing and site optimization purposes.   
+The acceptance of cookies is not mandatory for visiting the Website. Nevertheless, we would like to point out that many of the Website's features and functionalities are only possible with the activation of cookies. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer. 
+
+**Security**   
+ABIPBL has taken reasonable and appropriate measures to safeguard the confidentiality of its customer Personal Information by maintaining physical, electronic, logical and procedural safeguards that meet applicable laws. Additionally, ABIPBL has established cyber-security framework to provide round-the-clock security, strengthen cyber defense, safeguard its information assets and protect its stakeholder data. 
+
+**Mobile Privacy**   
+We may offer you the ability for you to connect with the Website or use our applications, Services, and tools using a mobile device, either through a mobile application or via a mobile optimized Website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized Websites. 
+
+**Questions and Grievances**   
+If you have any questions or grievances about our privacy practices, please feel free to contact our Grievance officer Francis Dsouza:   
+francis.dsouza@adityabirla.bank 
