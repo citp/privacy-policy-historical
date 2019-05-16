@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welltern.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112175402id_/http%3A//www.welltern.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welltern.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516195900id_/http%3A//www.welltern.com/privacy-policy.html) for the most accurate reproduction.*
 
 # W&T Zippers of the Highest Quality
 
