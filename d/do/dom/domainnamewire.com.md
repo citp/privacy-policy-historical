@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamewire.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124834id_/https%3A//domainnamewire.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamewire.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516203558id_/https%3A//domainnamewire.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Domain Name Wire | Domain Name News & Website Stuff
 
