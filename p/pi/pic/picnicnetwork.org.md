@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the picnicnetwork.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426080923id_/http%3A//www.picnicnetwork.org/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picnicnetwork.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516095248id_/https%3A//www.picnicnetwork.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: PICNIC
+# Privacy Policy - Picnic!
 
-#### Collected Data and Purpose
+Your privacy is important to us. It is Picnic’s policy to respect your privacy regarding any information we may collect from you across our website, https://www.picnicnetwork.org/, and other sites we own and operate.
 
-Amsterdam Cross Media Week Foundation (ACMW) collects various sorts of personal data. These include your name, address (including e-mail address), and phone number. The Foundation collects such data in order to (i) make it possible for the Foundation to inform you about the event PICNIC ‘10 and additional events organized by the ACMW; (ii) make it possible to register visitors of this website who wish to attend PICNIC ‘10. The Foundation only uses your email address and name to send you a newsletter about PICNIC, which you can opt-out of at any time. ACMW explicitly does not provide any personal data to third parties having a (legal) relationship with ACMW. Any provision by ACMW of personal data to any third party shall only be done after the prior written approval of the individual concerned.
+We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
-#### Non-personal information
+We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
 
-ACMW collects certain non-personal information, including but not limited to the type of internet browser you are using and the site through which you are linked to the PICNIC website. ACMW shall use such information to optimize its website and to become more informed about the visitors of its website. 
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
 
-#### Other websites
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-ACMW cannot be held responsible for the content, use and/or privacy policy of any third party, irrespective of whether such site links to the PICNIC website (or PICNIC links to such website) or not. We advise you to take (prior) notice of the privacy policy of such website(s). 
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-#### Protection
+Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-ACMW has taken sufficient precautions to try to prevent the unauthorized and/or improper use of your personal information. 
+### Advertising
 
-#### Correction
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites.
+  * Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).)
 
-Upon request, you shall be provided with a copy of your personal data collected by ACMW. After reviewing the details, you can request ACMW to (i) adjust your personal data; or (ii) remove your personal data. ACMW shall respond within four (4) weeks of the date of the request and shall inform you if and which changes or deletions have been made. 
 
-#### Contact
 
-If you have any questions with regard to the collection of personal data by ACMW, please contact us: info(at)picnicnetwork.org.
+If you have not [opted out of third-party ad serving](https://support.google.com/dfp_premium/answer/94152), the cookies of other [third-party vendors or ad networks](https://support.google.com/dfp_premium/answer/94149) may also be used to serve ads on your site, which should also be disclosed in your privacy policy in the following manner:
+
+  * Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
+  * Provide links to the appropriate vendor and ad network websites.
+  * Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors’ uses of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+
+
+
+This policy is effective as of 4 March 2019.
