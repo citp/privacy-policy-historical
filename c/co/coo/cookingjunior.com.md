@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingjunior.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110164843id_/http%3A//www.cookingjunior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingjunior.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516181853id_/http%3A//www.cookingjunior.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Girlya.com
 
