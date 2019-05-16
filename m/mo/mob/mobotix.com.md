@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobotix.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903143357id_/https%3A//www.mobotix.com/en/disclaimer-and-data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobotix.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516140602id_/https%3A//www.mobotix.com/en/disclaimer-and-data-protection) for the most accurate reproduction.*
 
 # Disclaimer and Data Protection | MOBOTIX AG
 
-## MOBOTIX AG Privacy Policy dated 14 June 2018
+## MOBOTIX AG Privacy Policy dated 18 April 2019
 
 ### Disclaimer
 
@@ -62,9 +62,13 @@ This website uses Google Analytics, a web analysis service of Google Inc. (“Go
 
 You can prevent capture by Google Analytics by clicking the following link. This sets an opt-out cookie that prevents the future capture of your data when you visit this website:
 
-[Deactivate Google Analytics](https://web.archive.org/web/20180903143357id_/https%3A//www.mobotix.com/en/%E2%80%9Cjavascript:gaOptout\(\)%E2%80%9D)
+Deactivate Google Analytics
 
 More information about terms of use and data protection is available at <http://www.google.com/analytics/terms> and <https://policies.google.com/?hl=en>. Please note that Google Analytics has been extended with the code “anonymizeIp” on this website to ensure the anonymized recording of IP addresses (IP masking).
+
+##### 3.3 LinkedIn Insight Tag
+
+The LinkedIn Insight tag allows to collect data about visits to the website from LinkedIN, including URL, referrer URL, IP address, device and browser properties, timestamps, and page views. These data are encrypted by LinkedIN, anonymised within seven days and the anonymized data is deleted within 90 days. LinkedIn does not share personally identifiable information with the owner of the website, but only provides aggregated reports about the website's audience and display performance. LinkedIn also provides web site visitor retargeting so that the owner of the website can use this data to display targeted advertising outside his or her website without the member being identified. LinkedIn members can control the use of their personal information for advertising purposes in their account settings.
 
 #### 4\. Use Of Social Media Platforms
 
