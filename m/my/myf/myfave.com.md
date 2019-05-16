@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfave.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901052129id_/https%3A//myfave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfave.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516223520id_/https%3A//myfave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Fave
 
