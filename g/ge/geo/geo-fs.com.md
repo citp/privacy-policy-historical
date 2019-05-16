@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geo-fs.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307083700id_/http%3A//www.geo-fs.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geo-fs.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516204339id_/https%3A//www.geo-fs.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GeoFS - Privacy Policy
 
@@ -18,7 +18,7 @@ GeoFS also collects potentially personally-identifying information like Internet
 
 ##### Gathering of Personally-Identifying Information
 
-Certain visitors to GeoFS’s websites choose to interact with GeoFS in ways that require GeoFS to gather personally-identifying information. The amount and type of information that GeoFS gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at http://www.geo-fs.com to provide a username and email address.
+Certain visitors to GeoFS’s websites choose to interact with GeoFS in ways that require GeoFS to gather personally-identifying information. The amount and type of information that GeoFS gathers depends on the nature of the interaction. For example, we ask visitors who sign up at http://www.geo-fs.com to provide their name and email address.
 
 ##### Security
 
@@ -59,11 +59,3 @@ Those who engage in transactions with GeoFS – by purchasing GeoFS's services o
 ##### Privacy Policy Changes
 
 Although most changes are likely to be minor, GeoFS may change its Privacy Policy from time to time, and in GeoFS’s sole discretion. GeoFS encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-##### Credit & Contact Information
-
-This privacy policy was created at [www.privacygen.com](http://www.privacygen.com/)
-
-Privacy policy template generator
-
-. If you have any questions about this Privacy Policy, please contact us via [email](mailto:) or [phone](tel:123456789).
