@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030121921id_/https%3A//www.mspca.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516221416id_/https%3A//www.mspca.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MSPCA-Angell
+# Privacy Policy • MSPCA-Angell
 
 The Massachusetts Society for the Prevention of Cruelty to Animals (the MSPCA-Angell) cares about protecting the privacy and integrity of the information you provide us when you use our websites, including but not limited to (mspca.org, angell.org, support.mspca.org). This privacy policy explains how we collect, process, share, store, and protect any data and information you provide us while using our websites. By using our websites and/or submitting personal data through our website, you agree to the terms of this privacy policy and you expressly consent to the collection and use of your personal data in accordance with this privacy policy. **If you have any questions about the below or wish to change your communication preferences with us, please email webeditor @mspca.org**.
 
