@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.co.zw privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927123248id_/https%3A//www.dailynews.co.zw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.co.zw privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516102524id_/https%3A//www.dailynews.co.zw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyNews Live
 
