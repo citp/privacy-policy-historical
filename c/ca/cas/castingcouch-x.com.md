@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221201404id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcouch-x.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516030159id_/https%3A//castingcouch-x.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
