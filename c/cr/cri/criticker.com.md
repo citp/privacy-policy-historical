@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627111139id_/https%3A//www.criticker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticker.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516193717id_/https%3A//www.criticker.com/privacy) for the most accurate reproduction.*
 
 # Criticker - Privacy Policy
 
-Criticker.com uses [cookies](https://web.archive.org/web/20180627111139id_/https://www.criticker.com/privacy/XXX) to recognize visitors and provide a better experience. Learn more about how we use cookies [in our privacy policy](https://www.criticker.com/privacy/). By continuing to use the site, or by pressing agree, you are giving your consent to our use of cookies.  
+Criticker.com uses [cookies](https://web.archive.org/web/20190516193717id_/https://www.criticker.com/privacy/XXX) to recognize visitors and provide a better experience. Learn more about how we use cookies [in our privacy policy](https://www.criticker.com/privacy/). By continuing to use the site, or by pressing agree, you are giving your consent to our use of cookies.  
 
 
 ## Information Gathering
