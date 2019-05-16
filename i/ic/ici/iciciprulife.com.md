@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iciciprulife.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226060741id_/https%3A//www.iciciprulife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iciciprulife.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516113430id_/https%3A//www.iciciprulife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ICICI Prudential Life Insurance - Privacy Policy
 
