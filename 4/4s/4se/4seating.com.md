@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the 4seating.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190559id_/https%3A//4seating.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4seating.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516212123id_/https%3A//4seating.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 4seating
+
+[](https://4seating.com/)
+
+Have Any Questions?  1-800-407-8665
+
+FREE 24-HOUR SHIPPING!
+
+Contiguous U.S.
+
+|
+
+NO SALES TAX!
+
+(excl. CA & TX)
 
 ▪ Privacy Policy
 
