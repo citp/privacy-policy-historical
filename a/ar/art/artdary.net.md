@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artdary.net privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208191613id_/http%3A//artdary.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artdary.net privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516020720id_/http%3A//artdary.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Free eBooks PDF
 
