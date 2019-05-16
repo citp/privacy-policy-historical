@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009193637id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516190639id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JRT Studio
 
@@ -13,6 +13,8 @@ E-Mail Address: When you enter your information, as appropriate, you may be aske
 Analytics: Our Android application may collect non-identifiable information from you using Google’s Firebase. This information includes things like how long you used the app for or which buttons you pressed.
 
 IP Address: We do not collect your IP address, but this information is printed in the log files of our servers. The log files on the server are temporary and are generally overwritten in under twenty-four hours.
+
+Crash Reports: We collect crash reports that show us where our code crashed. These reports contain information about the code, as well as device information like which operating system you are using and how much RAM was available at the time of the crash.
 
 Ads: If you are viewing ads on Android, we may have Google Analytics Advertising Features on. This allows Google Analytics to show you more relevant ads, and allows us to see the demographics of our users. We do not sell or re-distribute this information. You can opt out of this advertising inside the "Google Settings" app on your device, if you want to.
 
@@ -37,35 +39,35 @@ Who are our partners?
 
 Facebook Audience Network. Facebook uses information it has collected to show you relevant ads. We have integrated Facebook’s code into our applications, but JRT Studio does not pass any information directly to Facebook. For information about Facebook and what it collects and how it uses your information, please refer to the following links.
 
-[https://developers.facebook.com/docs/audience-network/policy/](https://www.google.com/url?q=https://developers.facebook.com/docs/audience-network/policy/&sa=D&ust=1528325397426000)
+[https://developers.facebook.com/docs/audience-network/policy/](https://www.google.com/url?q=https://developers.facebook.com/docs/audience-network/policy/&sa=D&ust=1556325002387000)
 
-[https://www.facebook.com/ads/manage/audience_network/publisher_tos/](https://www.google.com/url?q=https://www.facebook.com/ads/manage/audience_network/publisher_tos/&sa=D&ust=1528325397426000)
+[https://www.facebook.com/ads/manage/audience_network/publisher_tos/](https://www.google.com/url?q=https://www.facebook.com/ads/manage/audience_network/publisher_tos/&sa=D&ust=1556325002388000)
 
-[https://developers.facebook.com/policy/](https://www.google.com/url?q=https://developers.facebook.com/policy/&sa=D&ust=1528325397427000)
+[https://developers.facebook.com/policy/](https://www.google.com/url?q=https://developers.facebook.com/policy/&sa=D&ust=1556325002388000)
 
-MoPub. We use Twitter’s MoPub in our applications. MoPub will not collect information and will not show you any personalized ads if you are inside the EEA. MoPub’s privacy policy can be found here.
+MoPub. We use Twitter’s MoPub in our applications. MoPub’s privacy policy can be found here.
 
-https://www.mopub.com/legal/privacy/
+[https://www.mopub.com/legal/privacy/](https://www.google.com/url?q=https://www.mopub.com/legal/privacy/&sa=D&ust=1556325002388000)
 
 AdMob. Google’s AdMob is used. This is Google’s code, embedded in our applications. Google uses information it has collected outside of our app about you to provide personalized ads. We do not pass any of your personal information to Google. For more information from Google about what information it collects and how to control that information, please start at the following link.
 
-[https://policies.google.com/technologies/partner-sites](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites&sa=D&ust=1528325397427000)
+[https://policies.google.com/technologies/partner-sites](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites&sa=D&ust=1556325002389000)
+
+Smaato. We use Smaato’s SDK in our applications in order to serve ads. We’ve been told by Smaato that their SDK only activates when an ad is requested and remains off if you are not seeing ads in our applications. Please view Smaato’s privacy policy at the following link.
+
+[https://www.smaato.com/privacy/](https://www.google.com/url?q=https://www.smaato.com/privacy/&sa=D&ust=1556325002389000)
+
+AppLovin. We use AppLovin SDK in our applications in order to serve ads. We’ve been told by AppLocin that their SDK only activates when an ad is requested and remains off if you are not seeing ads in our applications.
+
+[https://www.applovin.com/privacy/](https://www.google.com/url?q=https://www.applovin.com/privacy/&sa=D&ust=1556325002390000)
 
 Further, Google relies on a wide range of ad technology partners. We allow Google to use any partner they wish to use. For a full list of these partners, please view the following link.
 
-[https://support.google.com/admob/answer/9012903](https://www.google.com/url?q=https://support.google.com/admob/answer/9012903&sa=D&ust=1528325397428000)
+[https://support.google.com/admob/answer/9012903](https://www.google.com/url?q=https://support.google.com/admob/answer/9012903&sa=D&ust=1556325002391000)
 
 Firebase. Google’s Firebase provides us with remote configuration of our app and analytics data. Their code is embedded is some of our applications. For a list of Google’s partners for Firebase, here is a link.
 
-https://cloud.google.com/terms/subprocessors
-
-Flurry. Flurry uses information it has collected to show you relevant ads. We have integrated Flurry’s code into our applications, but JRT Studio does not pass any information directly to Flurry. For information about Flurry and what it collects and how it uses your information, please refer to the following links.
-
-[https://policies.oath.com/us/en/oath/privacy/index.html](https://www.google.com/url?q=https://policies.oath.com/us/en/oath/privacy/index.html&sa=D&ust=1528325397428000)
-
-Amazon. Amazon uses information it has collected to show you relevant ads. We have integrated Amazon’s code into our applications, but JRT Studio does not pass any information directly to Amazon. For more information about our agreement with Amazon Mobile Ads, please refer to the following link.
-
-https://developer.amazon.com/support/legal/mobileads/terms-and-agreements
+[https://cloud.google.com/terms/subprocessors](https://www.google.com/url?q=https://cloud.google.com/terms/subprocessors&sa=D&ust=1556325002391000)
 
 Do we use cookies?
 
