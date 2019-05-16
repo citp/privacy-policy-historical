@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903075302id_/https%3A//www.rome2rio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516021507id_/https%3A//www.rome2rio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rome2rio
 
@@ -37,6 +37,12 @@ Rome2rio may use certain information about you and/or your User Content internal
 Rome2rio reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. Rome2rio also reserves the right to remove information upon the request of any third party.
 
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act; and (i) automatically update the Rome2rio Software on your system and related devices.
+
+**How can I withdraw my consent to the use of Cookies?**
+
+When you first access our services, we ask you to confirm if you’re ok with us using Cookies in line with this policy. If you don’t agree to our use of these technologies, or you change your mind at a later date, you can either withdraw your consent using the methods set out below or, alternatively, stop using our services.
+
+[Learn how to withdraw your consent](https://www.rome2rio.com/legal/withdraw-cookie-consent/)
 
 **How We Share Your Information**
 
