@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbvideosaver.net privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103075646id_/http%3A//fbvideosaver.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbvideosaver.net privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516214325id_/http%3A//fbvideosaver.net/policy) for the most accurate reproduction.*
 
 # Online Video Downloader - Home of Facebook Videos
 
