@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footlocker.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227072544id_/https%3A//www.footlocker.co.uk/en/content/fl_page_content_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.co.uk privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516062625id_/https%3A//www.footlocker.co.uk/en/content/fl_page_content_privacy) for the most accurate reproduction.*
 
 # Foot Locker UK
 
 ## **Privacy Policy**
 
-Last Updated 6 April 2018
+Last Updated 22 March 2019
 
 Thank you for visiting our website.
 
@@ -25,23 +25,24 @@ Foot Locker believes in protecting your information. With this in mind, we have 
   5. Updating, Access or Deletion of Your Data.
   6. Changes to Our Privacy Statement.
   7. Newsletter: Opt-In, Option to Unsubscribe.
-  8. Children's Privacy.
-  9. Security of Information.
-  10. Questions/Contacting Us.
-  11. Links to Other Sites.
-  12. Data Transfers.
-  13. Use of Cookies.
-  14. Plug-ins.
-  15. Sharing Data with Payment Vendors.
-  16. Competitions, Contests and Prize Draws.
-  17. Customer Satisfaction Program
+  8. FLX Membership Program.
+  9. Children's Privacy.
+  10. Security of Information.
+  11. Questions/Contacting Us.
+  12. Links to Other Sites.
+  13. Data Transfers.
+  14. Use of Cookies.
+  15. Plug-ins.
+  16. Sharing Data with Payment Vendors.
+  17. Competitions, Contests and Prize Draws.
+  18. Customer Satisfaction Program
 
 
 
 ### 1\. **Information Collection**
 
-  * _Information You Provide to Us._ We only collect certain information from you when you provide it to us, such as when you: (1) register online or in one of our stores; (2) place an order; (3) complete a survey or product review; (4) participate in one of our promotions; (5) sign up for a Loyalty Program; or (6) contact us. The information we collect from you may include your name, age, postal mailing address, day time telephone number, cell phone number, email address, account user name and password, and payment information. If you use a third party login to register or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.
-  * _Registration._ We encourage you to register when shopping on our site or App; however registration is not required. Our Registration Form requires users to provide contact information (such as name, age, postal mailing address, daytime telephone number, cell phone number, email address and password). **You must be 16 years of age or older to register or have consent of a parent or legal guardian.** Registration helps us to provide you with a quick and simple checkout experience. You can also register when you are shopping in our store. The customer contact information you provide will be used to contact you concerning the status of an order, send you a digital receipt from your in-store purchase, answer your questions and, in case you choose to opt-in, to send you communications about upcoming sales, contests, promotions and product information. You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password. You are responsible for all use of the site or App under your registered account. If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve your shopping experience and to provide you with more relevant content and advertising.  
+  * _Information You Provide to Us._ We only collect certain information from you when you provide it to us, such as when you: (1) register online or in one of our stores; (2) place an order; (3) complete a survey or product review; (4) participate in one of our promotions; (5) sign up for a Loyalty Program; or (6) contact us. The information we collect from you may include your name, age, postal mailing address, day time telephone number, cell phone number, email address, account user name and password, and payment information. If you use a third party login to register or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.  **You must be 16 years of age or older to register or have consent of a parent or legal guardian.**  
+  * _Registration for shopping._ We encourage you to register when shopping on our site or App; however registration is not required. Our Registration Form requires users to provide contact information (such as name, age, postal mailing address, daytime telephone number, cell phone number, email address and password). Registration helps us to provide you with a quick and simple checkout experience. You can also register when you are shopping in our store. The customer contact information you provide will be used to contact you concerning the status of an order, send you a digital receipt from your in-store purchase, answer your questions and, in case you choose to opt-in, to send you communications about upcoming sales, contests, promotions and product information. You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password. You are responsible for all use of the site or App under your registered account. If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve your shopping experience and to provide you with more relevant content and advertising.  
 At Foot Locker you have the option of using the so-called Facebook Connect feature to log in using your Facebook account without the need for additional registration. Facebook Connect is a service of the Facebook social media network and is operated by Facebook Inc (1601 S. California Ave, Palo Alto, CA 94304, USA) Registration at Foot Locker is therefore no longer necessary. When you log in using Facebook Connect, you are redirected to the Facebook website where you can conveniently log in using your Facebook user information. During this process, your Facebook profile is linked with our Foot Locker service. Only information you have consented to be used is shared with us, such as (first name, last name, email address, profile image, gender, date of birth, place of residence, list of friends, interests and likes). We will only use this information to identify you in the context of your use of Foot Locker and to improve your shopping experience with more appropriate content and offers. You can find more information on Facebook Connect as well as access to your privacy settings at the following web page: https://www.facebook.com/about/privacy.
   * _Information We Automatically Collect._ We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our site or App, or interact with our emails or advertisements on our site, our App, or other sites. For more information on cookies, please read the chapter on “Cookies” below.
   * _Tracking Options._ You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of our offerings. Even without a cookie, you can still take advantage of most of the features of our site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in.
@@ -246,9 +247,9 @@ Customer Satisfaction Program
 
 InMoment, Inc.
 
-Salt Lake City, Utah, U.S.A. 
+Salt Lake City, Utah, U.S.A.
 
-310 E 4500 South, Suite 450 
+310 E 4500 South, Suite 450
 
 Salt Lake City, UT 84107
 
@@ -267,6 +268,48 @@ Salt Lake City, UT 84107
 | 
 
 Standard EU data clauses  
+  
+Loyalty Program
+
+| 
+
+Crowdtwist, Inc.
+
+110 E. 23rd Street
+
+7th Floor
+
+New York, NY 10010
+
+| 
+
+Amazon Web Services
+
+Germany
+
+| 
+
+European Union
+
+access Foot Locker
+
+affiliates US
+
+(Privacy Shield)  
+  
+Shipping Partners
+
+| 
+
+Miscellaneous
+
+| 
+
+Miscellaneous
+
+| 
+
+Netherlands/country of delivery  
   
 ### 4\. **Legal Basis and Retention Period**
 
@@ -288,15 +331,42 @@ We may amend this Privacy Statement at any time. If we make any material changes
 
 For subscribing to our newsletter, you need to explicitly consent at all times, if you have opted in for receiving future email marketing updates, you can unsubscribe at any time by clicking the “unsubscribe link” in the emails you receive from us. You can also send an email with "unsubscribe from newsletter" in the subject line at questions_en@footlocker.com. Even if you unsubscribe you may continue to receive non-marketing email messages from us, including, for example, order confirmations and any correspondence regarding your earlier purchase.
 
-### **8\. Children's Privacy**
+### **8\. FLX Membership Program**
+
+_The FLX Membership Program is currently only operational in The Netherlands. Therefore the FLX Membership section in this Privacy Policy is only applicable to the Netherlands.    
+_  
+As a valued customer of Foot Locker, you can sign up for our FLX Membership Program by creating a FLX account or signing in with your personal Foot Locker account. Our FLX Membership Program is offered to you in order for us to provide the ultimate shopping experience and to reward you for being a loyal customer and engaging and interacting with our brand through granting FLX points and additionally you will be granted special member only benefits. In case you sign up for our loyalty program, we will collect personal data from you.
+
+By joining our FLX Membership Program you will gain knowledge of, have access to and be informed by us of special products, launches, special offers, and other FLX Membership Program related news through FLX Publications sent by email, direct message and/or mail. If you would like to opt-out on these communications, you can do so in your account or click on the “unsubscribe” link in the communication itself, which will lead you to the communications preference center. All Communications sent to you as part of this program will be related to the Loyalty Program.
+
+FLX Publications can be defined as:
+
+  * Updates on your FLX membership like points balance, tier level, membership activity history, points expiration, etc.
+  * Updates on new FLX membership features & functionality, opportunities and offers for earning and redeeming of points
+
+
+
+ To receive our regular newsletter a separate opt-in will be required.
+
+The following data fields are mandatory, as necessary for us to be able to supply you the services per our FLX Membership Program: First Name, Last Name, Email-address, home address, Phone Number and Date of Birth, choice of communications/newsletters. The above mandatory data fields are indicated in the user interface with an asterisk character (*). In case you sign-in with your existing personal Foot Locker account, we will link your personal account to your FLX account, including, among others, record details of your online and in store purchases, your FLX loyalty tier level, and the details of how you have redeemed your loyalty credits.
+
+Additionally, any information that you may voluntarily share with us will be considered in our legitimate interest to be collected, stored and processed in the FLX context. When assessing the validity of our legitimate interest, we carefully balance the FLX objectives with your rights and freedoms to data privacy. This includes checking whether you can reasonably expect that processing of your personal data may take place. Data voluntarily provided by you, we assume, can be reasonably expected to be used by us in the FLX context. The data you may share with us includes, as an example, postal and other addresses, additional phone number(s), shoe and/or apparel size, customer survey data, other demographic information, interests and product and/or events preferences.
+
+We may also use your geolocation (app preference) and data from your social account, based on your opt-in and privacy settings, when you choose to connect that account to your Foot Locker account.
+
+Processing of behavioral browsing data, collected by third-party cookies or other tracking devices in e-mails and/or on the FLX website will be based on your consent. The cookie opt-in and other privacy settings will be collected when you create your FLX Membership account or choose to connect that account to your personal Foot Locker account. Where we obtain your consent, you have the right to withdraw it at any time. This, however, will not affect the lawfulness of processing based on consent before its withdrawal.
+
+Although we would be sad to see you leave, you can delete your account at any time. Please be aware that any information linked to your FLX Membership account will be lost at deletion of your account and the information cannot be redeemed at a later date when signing up again. Further, if at any point you feel as though the data we have collected is used improperly, you have the right to object the processing of your personal data.
+
+### **9\. Children's Privacy**
 
 Foot Locker is concerned about the safety of children when they use the internet. **We do not direct the site or App to, nor do we knowingly collect any personal information from, children under the age of sixteen. We believe that children should get their parent's consent before giving out personal information. If you have not yet reached the age of 16 years, your parents will have to consent to submit personal information to us, including to register or place an order on the site or App or participate in one of our online promotions and/or you placing an order. If you are concerned about your child's use of Footlocker.eu, we encourage you to use web-filtering technology to supervise your child's access to the site.** Please see our [Terms & Conditions](https://www.footlocker.co.uk/en/content/fl_page_content_terms) for additional information regarding the use of this Service.
 
-### **9\. Security of Information**
+### **10\. Security of Information**
 
 Foot Locker has implemented the appropriate physical, administrative, and technical security measures to protect against unlawful access, loss, misuse or alteration of the information you provide. When we collect data through the site, we encrypt your personal information, including your credit card number, when transmitting over the Internet using encryption technology Secure Socket Layer (SSL) coding, to safeguard your Internet transactions. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorised access to your password and to your computer.
 
-### **10\. Questions/Contacting Us**
+### **11\. Questions/Contacting Us**
 
 Should you have any questions or concerns regarding this Privacy Statement or our data handling practices you may contact our Data Protection Officer by email at dpo@footlocker.com or by writing to us at:
 
@@ -345,19 +415,19 @@ If you have any other questions, please contact us:
 
 On our site we offer you the opportunity to post comments about individual articles. For this purpose, the IP address of the user/internet connection subscriber is stored. This information is stored for our security in the event the author through his/her comments infringes against third party rights and/or unlawful content is entered. Consequently, we have a direct interest in the author’s stored data, particularly since we may be potentially liable for such violations. No data is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of our site.
 
-### **11\. Links to Other Sites**
+### **12\. Links to Other Sites**
 
 This Service contains links to other sites, which may have privacy policies that differ from our own. We are not responsible for the privacy practices or content of such other sites or apps. Accordingly, we recommend that you review the Privacy Statement posted on any site or app that you access through this Service. The terms and conditions herein do not apply to any such linked sites or apps. Foot Locker does not endorse any linked sites or apps, or the information, materials, products or services that are contained in or accessible through such linked sites or apps. Foot Locker disclaims all warranties, express or implied, with respect to the information, materials, products and services that are contained in or accessible through linked sites or apps, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose or non-infringement.
 
 You **acknowledge** and agree that Foot Locker is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked sites or apps, and that the access or use of any such linked sites or apps is solely at your own risk, and you hereby waive any and all claims against Foot Locker with respect to such linked sites or apps.
 
-### **12\. Data Transfers**
+### **13\. Data Transfers**
 
 We may transfer the personal information we collect about you through our Services to countries other than the country in which the information was collected. Personal data of customers residing in the European Economic Area will remain in the EEA. If you are a non EU-visitor using our Services, please be aware that the information you provide may be transferred to computers in the United States. We take steps to ensure that the data collected under this Privacy Statement is processed according to the purposes set out in this Privacy Statement and, in transferring data, that the information is protected as described herein.
 
 In case of fraud, confirmed by cardholder and or credit card issuing company, we will communicate your personal data to investigative, criminal or judicial authorities for fraud prevention, investigation and prosecution purposes. This in any case includes the transfer to the specialized eCommerce prevention department of Europol.
 
-### **13\. Use of Cookies**
+### **14\. Use of Cookies**
 
 We use cookies on our site to make visiting our site attractive and allow the use of certain functions. These are small text files that are stored on your computer. Many cookies used on our site are automatically deleted from your hard drive after you finish using the site (so-called session cookies). Other cookies are stored on your computer and make it possible for us to recognize your computer on your next visit (so-called persistent cookies). If you don't want our cookies to be stored on your computer, please disable the storing of cookies in your browser for our site or set your browser so that cookies are generally not stored on your computer.
 
@@ -434,7 +504,7 @@ When you visit our site for the first time, specific cookies from our advertisin
 
 We may use cookies and other similar technologies to make our site better. You can read more about this and how to limit or decline cookies under Section I “ **Information Collection** " and specifically paragraph 4 “ **Tracking Options"**.
 
-### **14\. Plug-ins**
+### **15\. Plug-ins**
 
 On our site, we use so-called plug-ins of various social networks. Here is more information on the plug-ins we use:
 
@@ -472,7 +542,7 @@ Vimeo. If, for example, you click on the “Play” button or make comments, thi
 
 Our site employs components provided by Slideshare.com, a service of SlideShare Inc., 1 Montgomery St., Suite 1300, San Francisco, CA 94104, USA and is integrated into our site using a so-called 2-click approach. No personal data is transmitted to Slideshare.com by merely accessing our site. Personal information is transferred to SlideShare, Google Analytics and ComScore and stored in the US only when you manually activate SlideShare components. In addition, a cookie is placed on your browser. We have no control over data collected by Slideshare.com or their processing operations. Nor are we familiar with the full extent of the data collected, the purposes for which it is collected or any storage periods which may be specified by Slideshare.com. Additional information is available at http://www.slideshare.net/privacy (<http://www.slideshare.net/privacy>). ComScore (Corporate Headquarters Reston, 11950 Democracy Drive, Suite 600, Reston, VA 20190, USA) stores the data thereby obtained by means of a "user profile". Analysis of this "user profile” by ComScore is used to provide advertisements tailored to meet market demands and/or for purposes of market research. You are entitled to deny consent to the compiling and storage of this user profile by ComScore. To exercise this right, contact ComScore, Inc., at 11950 Democracy Drive, Suite 600, Reston, VA 20190, USA. Additional information on the purpose and extent of data collection and its processing by ComScore can be found in the privacy policy on their site.
 
-### 15\. Sharing data with Payment vendors
+### 16\. Sharing data with Payment vendors
 
   * **Use of Paypal Payment services**
 
@@ -500,11 +570,11 @@ Please refer to the Privacy Policy displayed during the Sofort payment process t
 
 If you have any further questions regarding the use of your personal data, please contact Sofor by email (datenschutz@sofort.com) or in writing (SOFORT GmbH, Datenschutz, Theresienhöhe 12, 80339 Munich, Germany).
 
-### **16\. Competitions, Contests and Prize Draws**
+### **17\. Competitions, Contests and Prize Draws**
 
 For prize draws we make use of your data for win notifications and for advertising our offers. More detailed information can be found in the terms of participation for the respective prize-winning game.
 
-### **17\. Customer Satisfaction Program**
+### **18\. Customer Satisfaction Program**
 
 When you shop in our store you have the possibility to participate in our customer feedback and research program.
 
