@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2018-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180714153839id_/https%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groomandstyle.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516192558id_/https%3A//groomandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 27th May, 2018
+Last Updated: 10th January, 2019
 
 Effective date: May 25, 2018
 
-Good To Lead Ltd (“us”, “we”, or “our”) operates the http://groomandstyle.com website (the “Service”).
+Good To Lead Ltd (“us”, “we”, or “our”) operates the https://groomandstyle.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 Groom+Style is as concerned about your privacy as you are, and we make it our business to be as transparent as possible about how we handle the information we collect – which is actually not that much.
 
-The data we do collect is used to improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://groomandstyle.com
+The data we do collect is used to improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://groomandstyle.com
 
 ## Definitions  
 ———–
 
 ### * Service
 
-Service is the http://groomandstyle.com website operated by Good To Lead Ltd.
+Service is the https://groomandstyle.com website operated by Good To Lead Ltd.
 
 ### * Personal Data
 
