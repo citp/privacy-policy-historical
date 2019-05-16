@@ -1,53 +1,38 @@
-> *The following text is extracted and transformed from the tastykhana.in privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429070215id_/http%3A//tastykhana.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastykhana.in privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516050515id_/https%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy | TastyKhana.in
+# Privacy Policy at Foodpanda
 
-Thank you for visiting TastyKhana.in’s privacy policy. We provide the best standards in our customer's information privacy and in relation to their secure transactions on TastyKhana.in. Please review our privacy policy periodically for updates and feel free to contact us at [legal@TastyKhana.com](mailto:legal@TastyKhana.com) if you have any questions. 
+**1\. Introduction**   
+This policy explains how we, Pisces eServices Private Ltd. (hereinafter referred to as “foodpanda”), use the personal information which you provide to us when using our service, including but not limited to our website and mobile applications (jointly referred as “Website”). Please read this Privacy Policy and understand it before using our services. By visiting and/or ordering services on this Website, you agree and, where required, consent to the collection, use and transfer of your information as set out in this policy. 
 
-Effective July 2007, Trinket Info Services Pvt. Ltd, ("TastyKhana") is committed to safeguarding your privacy and upholding the highest levels of information security. To that end, the company adheres to the strictest consumer privacy guidelines and uses state-of-the-art security technology to protect any information you provide to and through our website, www.tastykhana.in, or any other sites owned or operated by Trinket Info Services Pvt. Ltd. (hereinafter referred to as the "TastyKhana")
+**2\. What information do we collect about you?**   
+We collect personal information from you when you order goods or services from us or use our Website. We also collect information when you complete any customer survey. Website usage information may also be collected using cookies (as defined below). foodpanda will collect information that personally identifies you and/or your location, where required (this may include your name, email address, home address, telephone number, geolocation, etc.), but only when you voluntarily give it to us. We collect this information exclusively to carry out the functions offered on the Website and to provide you with offers and information about foodpanda and other services we think you may be interested in. We might collect this personal information through: online food ordering; entry into competitions; subscribing to our newsletter; creating a user account; sending 'contact us' messages or other correspondence through the Website; or through advertising, research and direct marketing. We do not collect sensitive information about you. 
 
-#### Unregistered & Registered Users
+**3\. Cookies**   
+Some of the information collected will not personally identify you but will instead track your use of the Website so that we can better understand how the Website is used by customers and in turn enhance and improve your experience in ordering food. We may obtain this information by use of cookies. Cookies are a small data file transferred to your device that recognises and identifies your device and allows your device to 'remember' information from the Website for future use. Cookies do not contain any information that personally identifies you and we do not use cookies in order to obtain such information - your personal information can only be obtained by foodpanda if you actively provide it to us. We may collect technical information from your mobile device or your use of our services through a mobile device, for example, location data and certain characteristics of, and performance data about your device, carrier/operating system including device and connection type, IP address, mobile payment methods, interaction with other retail technology such as use of NFC Tags, QR Codes or use of mobile vouchers. Your device and/or the web browser should allow you to refuse cookies if you wish by changing the settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org. 
 
-As and when decided by TastyKhana certain services may or may not require registration. Registration has its own benefits as explained in the why sign-up page, users may clearly understand that access to services on TastyKhana is clear discretion of TastyKhana.
+**4\. Storage and security of your personal information**   
+foodpanda will use all reasonable endeavours to maintain the security of your personal information and to protect your personal information from misuse, interference and loss and against unauthorised access, modification or disclosure. foodpanda will destroy any personal information it holds about you which it no longer requires under the terms of this Privacy Policy. Where you have chosen a password to access certain services of the Website, you are responsible for keeping your password confidential. We recommend not sharing your password with anyone. Due to the nature of the internet, foodpanda does not provide any guarantee or warranty regarding the security of your personal information during transmission to us or storage by us and you acknowledge that you disclose your personal information to us at your own risk. Please contact us immediately if you become aware or have reason to believe there has been any unauthorised use of your personal information in connection with the Website. 
 
-#### Commitment to Respect & Protect Customer’s Privacy
+**5\. How will we use the information we collect from you?**   
+You consent to foodpanda collecting and using your personal information for processing and delivering the order/s placed on the Website and any other service provided through the Website. In particular you expressly consent that foodpanda may disclose your personal information, including your name, email address, physical address and telephone number to riders delivering your order, either employed by foodpanda or by third parties providing delivery services to foodpanda. You consent to foodpanda using your personal information for advertising and direct marketing purposes in order to inform you about the Website and the goods and services it provides, or other matters that it believes will be of interest to you. foodpanda may disclose your personal information, and you consent to the disclosure of your personal information, to: 
 
-TastyKhana, secured by [True Kare](http://tastykhana.in/true-care) respects, protects & takes steps to protect & safeguard the complete privacy of our customers. We strive to take all care possible of the information that is received from you. 
+  * other entities within the foodpanda group of companies; and 
+  * third parties engaged by foodpanda or other members of the foodpanda group to perform functions or provide products and services on our behalf such as processing payments, mail outs, debt collection, research, statistical information, marketing and direct or indirect advertising. 
 
-#### Scope of the Privacy Policy
 
-It addresses the privacy extended to the visitors of TastyKhana.in & also identifies the type of data & information, we collect from visitors, how we disclose and use it & the steps we take to protect the privacy.
 
-#### Collection of Information
+If you would like to unsubscribe from receiving direct marketing communications from foodpanda or do not want us to share your personal information with other parties, please e-mail us at customercare@foodpanda.in or follow the steps to unsubscribe which are presented in every communication you receive from us, requesting your personal information be removed from our mailing list. We will use reasonable endeavours to comply with your request within a reasonable period of receipt of your request. Please note that the withdrawal of any authorisations for processing of your personal information by third parties may result in us not being able to provide you with any services.   
+foodpanda reserves the right to disclose your personal information if it is required or authorised to do so by law, or, if it is reasonably necessary in its opinion to protect the rights or property of foodpanda or any third party, or to avoid injury to any person. If the foodpanda business is sold or merges with another entity then some or all of your personal information may be passed to a third party. 
 
-When you setup an account with us, contact us, or participate in activities on our site, we gather personal information from you such as name, e-mail address, mobile phone number, etc. When you visit our site, we may maintain some information about your visit such as your computer's IP, browser type, time visited, etc.
+**6\. Access to your information**  
+foodpanda will use all reasonable endeavours to keep personal information it holds accurate, complete, up-to-date, relevant and not misleading. Please contact us if you would like to access the personal information foodpanda holds about you. We will use reasonable endeavours to provide a complete list of your personal information within a reasonable period of receipt of your request. Please email us if you would like to receive a copy of this information – customercare@foodpanda.in. Foodpanda reserves the right to charge a nominal fee for the processing of this request in accordance with local legislation. You may contact us to correct any of your personal information that is inaccurate, incomplete or out-of-date, or to request that your personal information be deleted. We will use reasonable endeavours to correct or delete your personal information as requested within a reasonable period of receipt of your request. Deletion of your account with foodpanda will not automatically delete the personal information held about you. If you would like foodpanda to delete all personal information together with the deletion of your account, please follow the steps mentioned-above. Please note that the deletion of your personal information from our database will result in us not being able to provide you with any services. If applicable, any legal requirement on us to maintain certain records of your personal information shall prevail over any of your requests. We may require you to prove your identity before providing you with copies of your personal information. 
 
-We do not collect personal information from you when you visit our site unless you intend to advertise or use our services or want to know more about them. We may however, track the non – personal information about your visit which may include your domain name, webpage or complete URL from which you entered our sites , your IP address & how much time you spend on our pages etc. In order to operate the Site and provide you with information on orders, services & offers that may be of interest to you, we may collect profile information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords and credit card numbers), demographic information (e.g. zip code, hometown, gender, purchase history information and age), public information such as user ratings and reviews and a user name from you.
+**7\. Changes to our Privacy Policy**  
+Foodpanda reserves the right to alter all or any part of this Privacy Policy. Any changes thereto will be notified via the Website and, where appropriate, through e-mail notification. 
 
-#### Use of Information
+**8\. Other Websites**  
+Our Website may have links to other websites. This privacy policy only applies to the Website. You should therefore read the privacy policies of the other websites when you are using those sites. 
 
-All information shared with TastyKhana (as part of using any of our services) is available only with TastyKhana. TastyKhana does not share individual information of users with the restaurants or any other third party except in cases wherein such information sharing becomes necessary to provide a particular service. For example your details are needed to be shared with the restaurant to process an order.
-
-We use personal information to personalize and customize the service to you. In addition, we use the information to promote services to you and for product improvement purposes. We also use the information to troubleshoot issues; for our safety and to protect us against error, fraud, and crimes; diagnose problems; as advised as time of information collection; and to administer the terms and conditions. We may share this information with other corporate affiliates and entities for the same reasons mentioned above.
-
-#### Links to other sites
-
-You may come across links to other sites as you browse our site. TastyKhana.in’s privacy policies do not apply to those sites. We cannot be held accountable for the reliability of the service and data of the other sites, and thus are not responsible for their privacy policy. We recommend you to read the other sites' privacy policy.
-
-#### Cookies
-
-Cookies are small identifiers that is sent from a web server to web browser and then stored on your computer's hard drive to identify you and to understand how you arrived at our website. We use both temporary and permanent cookies to maintain your security and improve your experience with our product.
-
-Access to TastyKhana.in requires that cookies are enabled on your browser settings.
-
-#### Opt-out
-
-Please contact TastyKhana.in at [wecare@TastyKhana.com](mailto:wecare@TastyKhana.com), if you no longer wish to receive non-essential and marketing material from us. 
-
-#### Security Safeguards
-
-TastyKhana.in uses stringent security guidelines and some of the highest security standards to protect our customers from security issues, and any loss and misuse of their information.
-
-#### Questions
-
-Feel free to contact TastyKhana.in at [legal@TastyKhana.com](mailto:legal@TastyKhana.com) for any further questions on our privacy policy. 
+**9\. Contact**  
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to: customercare@foodpanda.in 
