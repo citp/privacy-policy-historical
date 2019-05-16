@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817052111id_/https%3A//www.netspend.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netspend.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516170814id_/https%3A//www.netspend.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies | Netspend
 
-#### Netspend Visa® and MasterCard® Prepaid Cards are issued by  **BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank, MetaBank ® and Republic Bank & Trust Company**, Members FDIC. Netspend is a registered agent of BofI Federal Bank, The Bancorp Bank, Regions Bank, SunTrust Bank, MetaBank and Republic Bank & Trust Company.
+#### Netspend Visa® and MasterCard® Prepaid Cards are issued by  **Axos  Bank, The Bancorp Bank, Regions Bank, MetaBank® and Republic Bank & Trust Company**, Members FDIC. Netspend is a registered agent of Axos Bank, The Bancorp Bank, Regions Bank, MetaBank and Republic Bank & Trust Company.
 
 ## Privacy Provisions Applicable to Netspend Cardholders and Applicants
 
@@ -10,10 +10,9 @@ If you are a Netspend cardholder or have applied for a Netspend card, the princi
 
 Please see the back of your card or the card program marketing materials for the name of your issuing bank. For your convenience, we have provided links to each issuing bank’s privacy policy below.
 
-  * [Privacy Policy for Netspend customers with cards issued by BofI Federal Bank](https://web.archive.org/account/terms/BofI_Privacy_Policy.pdf)
+  * [Privacy Policy for Netspend customers with cards issued by Axos Bank](https://web.archive.org/account/terms/Axos_Privacy_Policy.pdf)
   * [Privacy Policy for Netspend customers with cards issued by Bancorp](https://web.archive.org/account/terms/Bancorp_Privacy_Policy.pdf)
   * [Privacy Policy for Netspend customers with cards issued by Regions Bank](https://web.archive.org/account/terms/Regions_Privacy_Policy.pdf)
-  * [Privacy Policy for Netspend customers with cards issued by SunTrust Bank](https://web.archive.org/account/terms/SunTrust_Privacy_Policy.pdf)
   * [Privacy Policy for Netspend customers with cards issued by MetaBank](https://web.archive.org/account/terms/MetaBank_Privacy_Policy.pdf)
   * [Privacy Policy for Netspend customers with cards issued by Republic Bank & Trust Company](https://web.archive.org/account/terms/Republic_Privacy_Policy.pdf)
 
