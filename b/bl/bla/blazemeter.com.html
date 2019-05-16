@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the blazemeter.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229161911id_/https%3A//www.ca.com/us/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blazemeter.com privacy policy that was archived on 2019-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190516070708id_/https%3A//www.ca.com/us/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="content-language" content="en-us">
 <title>Privacy Statement - CA Technologies</title>
-<meta name="description" content="We have prepared this Privacy Statement to inform you of the information we gather and how it is used. This Statement applies to all CA websites that display or link to this Privacy Statement.">
-<meta name="keywords" content="Legal, Corporate Info Content">
+<meta class="swiftype" name="description" data-type="string" content="We have prepared this Privacy Statement to inform you of the information we gather and how it is used. This Statement applies to all CA websites that display or link to this Privacy Statement.">
+<meta class="swiftype" name="keywords" data-type="string" content="Legal, Corporate Info Content">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="ROBOTS" content="index,follow">
@@ -23,9 +23,9 @@
 <link rel="canonical" href="https://www.ca.com/us/legal/privacy.html">
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/digital-experience/cacom/favicon.ico">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/digital-experience/cacom/favicon.ico">
-<meta http-equiv="Last-Modified" content="2018-12-29">
-<meta name="Date" content="2018-12-29">
-<meta name="year" content="2018">
+<meta http-equiv="Last-Modified" content="2019-05-14">
+<meta name="Date" content="2019-05-14">
+<meta name="year" content="2019">
 <meta name="title" content="Privacy">
 <meta name="subtitle" content="The CA Technologies Privacy Statement and the cookies we use on our site.">
 <meta name="tags" content="global:reporting-page-types/ca-com/corporate-info-content,global:sections/ca-com/legal">
@@ -46,7 +46,7 @@
 
                 /* setting initial constants */
                 ContextHub.Constants = ContextHub.Constants || {};
-                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/O/ODRY8g1GYyuTmDHJ30yn";
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/i/imT9FapD-q-Zfk90Robx";
                 ContextHub.Constants.MODE = "no-ui";
             }());
         </script><script src="/etc/cloudsettings.kernel.js/libs/settings/cloudsettings/legacy/contexthub" type="text/javascript"></script>
@@ -59,7 +59,7 @@ mktgData['visSecurity'] = visSecurity;
 mktgData['UserID'] = ldapID;
 </script>
 <script src="//assets.adobedtm.com/9ea9efbec56f628f901349bf8d38781775b99754/satelliteLib-be4f15694911edde0225f3876d50dd4cda0444b9.js"></script>
-<link rel="stylesheet" href="/etc/designs/digital-experience/cacom/clientlibs.min.cea2bea67dc745704139ead5b4dddff3.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/digital-experience/cacom/clientlibs.min.6489ead47d50a150e400a2363c0c787c.css" type="text/css">
 <script type="text/template" pass-data="">
 {}</script></head>
 
@@ -70,7 +70,7 @@ mktgData['UserID'] = ldapID;
         ng-cloak>
         <li ng-repeat="section in navigation"
             ng-mouseenter="toggleDropdown(false, section, navigation, account)"
-            ng-mouseleave="toggleDropdown(true, section, navigation, account)" >
+            ng-mouseleave="toggleDropdown(true, section, navigation, account)">
             <a ng-bind-html="section.title" ng-href="{{section.url}}" ng-class="section.active ? 'active' : ''"
                ng-click="toggleDropdown(section.active, section, navigation, account)"></a>
             <i class="header__icon-control"
@@ -121,7 +121,8 @@ mktgData['UserID'] = ldapID;
                         ng-if="!section.specialPromo && section.promo.title && section.promo.url">
                         <dt class="header__dropdown-promo-label">{{section.promo.title}}</dt>
                         <dd class="header__dropdown-promo-desc">{{section.promo.description}}</dd>
-                        <dd class="header__dropdown-promo-cta"><a ng-href="{{section.promo.url}}">{{section.promo.cta}}</a>
+                        <dd class="header__dropdown-promo-cta"><a
+                                ng-href="{{section.promo.url}}">{{section.promo.cta}}</a>
                         </dd>
                         <dd class="header__dropdown-promo-icon" ng-if="section.promo.visual">
                             <img ng-src="{{section.promo.visual}}">
@@ -141,27 +142,26 @@ mktgData['UserID'] = ldapID;
             ></i>
         </li>
         <li class="header__navigation-account">
-            <a ng-href="{{account.url}}?returnURL={{currentPage}}"
-               class="icon-profile" ng-hide="sso">{{account.inactiveText}}</a>
-            <a ng-show="sso" ng-class="account.active ? 'active' : ''"
+            <a ng-class="account.active ? 'active' : ''"
                class="icon-profile"
                ng-click="toggleDropdown(account.active, account, navigation, account)">
-                {{account.activeText}}</a>
-            <i class="header__icon-control" ng-class="account.active ? 'icon-collapse-alt' : 'icon-expand-alt'"
-               ng-if="sso"></i>
-            <div class="dropdown" ng-show="sso" ng-show="account.active">
+                {{account.inactiveText}}</a>
+            <i class="header__icon-control" ng-class="account.active ? 'icon-collapse-alt' : 'icon-expand-alt'"></i>
+            <div class="dropdown" ng-show="account.active">
                 <ul>
-                    <li ng-repeat="item in account.links"><a ng-href="{{item.url}}?returnURL={{currentPage}}"
-                                                             ng-bind-html="item.title"></a></li>
+                    <li><a ng-href="{{loginDomain}}/signin?returnURL={{currentPage}}">{{account.inactiveText}}
+                    </a></li>
+                    <li><a ng-href="{{loginDomain}}/registration?returnURL={{currentPage}}">Register</a></li>
                 </ul>
             </div>
         </li>
         <li class="header__navigation-utility" ng-repeat="item in menu">
-            <a ng-href="{{item.url}}" title="{{item.title}}" target="{{item.oinw ? '_blank' : '_self'}}">{{item.title}}</a>
+            <a ng-href="{{item.url}}" title="{{item.title}}"
+               target="{{item.oinw ? '_blank' : '_self'}}">{{item.title}}</a>
         </li>
     </ul>
 </script>
-<div class="header-bar" headroom="">
+<div class="header-bar" headroom="" data-swiftype-index="false">
     <div ng-controller="headerController">
         <div class="header__utility" ng-cloak="">
             <div class="header__container">
@@ -172,9 +172,10 @@ mktgData['UserID'] = ldapID;
                     <a popover="" popover-template="languages" popover-trigger="click" popover-placement="bottom|center" popover-timeout="1" popover-theme="header__utility-popover header__utility-popover-wordlwide" class="header__utility-selected">
                         North America (English)</a>
                 </div>
-                <a ng-href="{{account.url}}?returnURL={{currentPage}}" ng-hide="sso" class="header__utility-item icon-size-alt icon-profile">{{account.inactiveText}}</a>
-                <div class="header__utility-item icon-size-alt icon-profile" ng-show="sso">
-                    <a ng-href="{{account.url}}?returnURL={{currentPage}}" popover="" popover-template="account" popover-trigger="click" popover-placement="bottom|center" popover-timeout="1" popover-theme="header__utility-popover header__utility-popover-account" class="header__utility-selected">{{account.activeText}}</a>
+                <div class="header__utility-item icon-profile">
+                    <a ng-href="{{account.url}}?returnURL={{currentPage}}" popover="" popover-template="login" popover-trigger="click" popover-placement="bottom|center" popover-timeout="1" popover-theme="header__utility-popover header__utility-popover-account">
+                        {{account.inactiveText}}
+                    </a>
                 </div>
                 <a class="header__utility-item icon-search" ng-class="search ? 'icon-close-alt icon-size-alt active':'icon-search'" ng-click="toggleSearch(search)">
                     {{search ? 'Close':'Search'}}
@@ -247,7 +248,6 @@ mktgData['UserID'] = ldapID;
 </ul>
 <p><a adhocenable="false" href="/us/why-ca.html">Solutions</a></p>
 <ul>
-<li><a adhocenable="false" href="/us/ca-for-developers.html">CA for Developers</a></li>
 <li><a adhocenable="false" href="/us/modern-software-factory.html" target="_blank">Modern Software Factory Hub</a></li>
 <li><a adhocenable="false" href="/us/why-ca/industries.html">Industry Solutions</a></li>
 <li><a adhocenable="false" href="/us/why-ca/advanced-analytics.html">Advanced Analytics</a></li>
@@ -266,8 +266,8 @@ mktgData['UserID'] = ldapID;
 </ul>
 <p><a adhocenable="false" href="/us/education-training.html">Education &amp; Training</a></p>
 <ul>
-<li><a adhocenable="false" href="http://calearning.ca.com/" target="_blank">Log in to Training Portal</a></li>
-<li><a adhocenable="false" href="http://search.ca.com/en-us/Pages/FindCourses.aspx?locale=us&amp;intcmp=headernav">Course Finder</a></li>
+<li><a adhocenable="false" href="https://calearning.ca.com/" target="_blank">Log in to Training Portal</a></li>
+<li><a adhocenable="false" href="https://search.ca.com/en-us/Pages/FindCourses.aspx?locale=us&amp;intcmp=headernav">Course Finder</a></li>
 <li><a adhocenable="false" href="/us/education-training/learning-paths.html">Learning Paths</a></li>
 <li><a adhocenable="false" href="/us/education-training/free-training.html">Free Training</a></li>
 <li><a adhocenable="false" href="/us/education-training/about-ca-education-training/ca-learning-subscription.html">Learning Subscription</a></li>
@@ -292,7 +292,7 @@ mktgData['UserID'] = ldapID;
 <li><a adhocenable="false" href="/us/services-support/ca-services/devops-services.html">DevOps Services</a></li>
 <li><a adhocenable="false" href="/us/services-support/ca-services/ca-agility-services.html">CA Agility Services</a></li>
 <li><a adhocenable="false" href="/us/services-support/ca-services/mainframe-services.html">CA Mainframe Services</a></li>
-<li><a adhocenable="false" href="/us/services-support/ca-services/project-portfolio-management-services.html">CA PPM Services</a></li>
+<li><a adhocenable="false" href="/us/services-support/ca-services/project-portfolio-management-services.html">Clarity PPM Services</a></li>
 <li><a adhocenable="false" href="/us/services-support/ca-services/ca-services-blogs.html">CA Services Blogs</a></li>
 </ul>
 </li>
@@ -310,11 +310,7 @@ mktgData['UserID'] = ldapID;
 </ul>
 </li>
 <li><a adhocenable="false" href="/us/services-support/ca-support/support-programs.html">Global Customer Success and Support Programs</a><ul>
-<li><a adhocenable="false" href="/us/services-support/ca-support/customer-technical-manager-program.html">CA Customer Technical Manager</a></li>
-<li><a adhocenable="false" href="/us/services-support/ca-support/customer-success-manager-program.html">CA Customer Success Manager</a></li>
 <li><a adhocenable="false" href="/us/services-support/ca-support/designated-support-engineer-program.html">CA Designated Support Engineer</a></li>
-<li><a href="/us/services-support/ca-services/upgrade-services.html" adhocenable="false">Upgrade Support Services</a></li>
-<li><a adhocenable="false" href="/us/services-support/ca-support/fast-track-support.html">CA Fast Track Support</a></li>
 <li><a href="/us/services-support/ca-support/maintenance.html" adhocenable="false">CA Maintenance</a></li>
 </ul>
 </li>
@@ -323,10 +319,10 @@ mktgData['UserID'] = ldapID;
 <ul>
 <li><a adhocenable="false" href="https://samlgwsm.ca.com/affwebservices/public/saml2sso?SPID=http://forms.webinfinity.com/ca-sso/sso/relay-2" target="_blank">Partner Experience Platform</a></li>
 <li><a adhocenable="false" href="http://caideation.force.com/PartnerRegistration?langCode=en-us&amp;intcmp=headernav" target="_blank">Become a Partner</a></li>
-<li><a adhocenable="false" href="/us/partners/ca-advantage-partner-program.html">CA Advantage Partner Program</a></li>
-<li><a adhocenable="false" href="http://partnerlocator.ca.com?intcmp=headernav" target="_blank">Partner Locator</a></li>
-<li><a adhocenable="false" href="/us/why-ca/industries/service-providers.html">Managed Service Providers</a></li>
-<li><a adhocenable="false" href="/us/partners/ca-resellers.html">Regional Resellers</a></li>
+<li><a adhocenable="false" href="/us/partners/ca-advantage-partner-program.html">CA Partner Program</a></li>
+<li><a adhocenable="false" href="https://partnerlocator.ca.com/?intcmp=headernav" target="_blank">Partner Locator</a></li>
+<li><a adhocenable="false" href="/us/partners/global-system-integrators-global-service-providers.html">Global Partners</a></li>
+<li><a adhocenable="false" href="/us/partners/ca-resellers.html">Regional Solution Providers</a></li>
 <li><a adhocenable="false" href="/us/partners/ca-technology-partners.html">Technology Partners</a></li>
 </ul>
 <p><a adhocenable="false" href="/us/company.html">Company</a></p>
@@ -378,7 +374,7 @@ mktgData['UserID'] = ldapID;
                             </li>
                         </ul>
                         <hr ng-if="solutionResults.length + productResults.length + resourceResults.length > 0" class="results-rule">
-                        <a ng-href="{{urlSearch}}" class="all-results cta2" ng-if="q!='undefined'" ng-mouseenter="generateSearchLink(q, 'en_US', false)">{{
+                        <a ng-href="/us/search.html?q={{q}}" class="all-results cta2" ng-if="q!='undefined'">{{
                             solutionResults.length + productResults.length +
                             resourceResults.length &gt; 0 ? 'See all Search Results' :
                             'Full site search'}}&nbsp;&gt;</a>
@@ -397,15 +393,10 @@ mktgData['UserID'] = ldapID;
                 </ul>
             </div>
         </script>
-        <script type="text/ng-template" id="account">
-            <div class="dropdown">
-                <ul>
-                    <li ng-repeat="item in account.links">
-                        <a ng-href="{{item.url}}?returnURL={{currentPage}}"
-                           ng-bind-html="item.title"></a>
-                    </li>
-                </ul>
-            </div>
+        <script type="text/ng-template" id="login">
+            <a ng-href="{{loginDomain}}/signin?returnURL={{currentPage}}" class="button__default">{{account.inactiveText}}</a>
+            <a ng-href="{{loginDomain}}/registration?returnURL={{currentPage}}" class="button__default">Register</a><br>
+            <a ng-href="{{loginDomain}}/forgotpassword?returnURL={{currentPage}}" class="forgot-link">Forgot Password</a>
         </script>
     </div>
 </div>
@@ -643,7 +634,7 @@ Attention: Chief Privacy Officer</p>
         
 </div>
 </div>
-<div class="footer"><div class="footer" ng-controller="footerController">
+<div class="footer"><div class="footer" ng-controller="footerController" data-swiftype-index="false">
     <div class="footer__container" ng-cloak="">
         <div class="footer__row">
             <h2 class="footer__headline" ng-bind-html="title"></h2>
@@ -699,10 +690,6 @@ Attention: Chief Privacy Officer</p>
                 </ul>
             <ul class="footer__columns">
                 <li>
-                    <a ng-href="https://www.ca.com/us/ca-for-developers.html?intcmp=footernav" target="_self" class="footer__link">
-                        CA for Developers</a>
-                </li>
-                <li>
                     <a ng-href="https://www.ca.com/us/modern-software-factory.html?intcmp=footernav" target="_self" class="footer__link">
                         Modern Software Factory Hub</a>
                 </li>
@@ -735,80 +722,16 @@ Attention: Chief Privacy Officer</p>
                 </ul>
             </div>
             <div class="footer__two-columns text-right">
-                <p>Copyright © 2018 Broadcom. All rights reserved. The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.</p>
+                <p>Copyright © 2019 Broadcom. All rights reserved. The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.</p>
             </div>
         </div>
     </div>
 </div>
 
 </div>
-<div class="contact parbase"><div class="contact" ng-controller="contactController">
-
-    <button class="contact__button" title="Contact Us" alt="Contact Us" ng-click="toggleOverlay()" ng-mouseenter="chatHover = true" ng-mouseleave="chatHover = false" ng-class="{ 'contact__button--fade': overlayActive, 'contact__button--rtp-active': rtpWidgetOpen, 'showButton': aniButton }">
-        <i ng-class="{'icon-contact-white': !chatHover,'icon-contact-alt': chatHover}">Contact
-            {{rtpWidgetOpen}}
-        </i>
-    </button>
-
-    <div class="contact__modal" ng-class="{ 'contact__modal--fadein': overlayActive }">
-        <div class="contact__modal-overlay" ng-click="toggleOverlay()"></div>
-        <div class="contact__modal-dialog">
-            <div class="contact__modal-dialog--close icon-close" ng-click="toggleOverlay()"></div>
-            <h3>Contact Us</h3>
-            <p>We're here to help move your business forward.</p>
-
-            <p id="onlineChatIcon" style="display:none">
-                <span id="onlineChatIconActive" ng-click="launchChat('573a0000000HEDz')" class="button__link">Considering a purchase? Chat with us &gt;</span>
-                <span id="onlineChatIconInactive" ng-click="launchChat('573a0000000HEDz')" style="display:none;" class="button__link">Considering a purchase? Chat with us &gt;</span>
-            </p>
-            <p><a id="offlineChatIcon" href="/us/contact/chat.html?gbu=&amp;driver=&amp;intcmp=Contact-Us_Request-A-Call" style="display:none;" class="button__link">Considering a purchase? Request a call &gt;</a></p>
-
-            <p><a id="salesLink" href="/us/contact/sales.html?gbu=&amp;driver=" class="button__link" style="display:none;">Considering a purchase?</a></p>
-            <div id="onlineSupportIcon" style="display:none">
-                <span id="onlineSupportIconActive" ng-click="launchChat('573a00000004aER')" class="button__link">Chat with Customer Care &gt;</span>
-                <span id="onlineSupportIconInactive" style="display:none;" ng-click="launchChat('573a00000004aER')" class="button__link">Chat with Customer Care &gt;</span>
-            </div>
-            <div id="offlineSupportIcon" style="display:none;">
-                <a ng-href="/us/services-support/ca-support/contact-support.html?gbu=&amp;driver=" class="button__link">Contact Customer Support &gt;</a>
-            </div>
-            <p><a href="mailto:privacyhelpline@ca.com" class="button__link">Email Us &gt;</a></p>
-            <p><a href="/us/company/contact-us.html?intcmp=Contact-Us_View-More-Ways" class="button__link">View more ways to contact us &gt;</a></p>
-            </div>
-    </div>
-
-    <script type="text/javascript">
-        function loadLiveAgentContact(engineerButtonID, genericButtonID, supportButtonID) {
-            $.getScript('https://c.la4-c2-dfw.salesforceliveagent.com/content/g/js/43.0/deployment.js', function () {
-                window._laq = null;
-                if (window._laq == null) {
-                    window._laq = [];
-                }
-                window._laq.push(function () {
-                    if (document.getElementById('onlineChatIcon') != null) {
-                        liveagent.showWhenOnline(engineerButtonID, document.getElementById('onlineChatIcon'));
-                    }
-                    
-                    if (document.getElementById('offlineChatIcon') != null) {
-                        liveagent.showWhenOffline(engineerButtonID, document.getElementById('offlineChatIcon'));
-                    }
-                    
-                    if (document.getElementById('onlineSupportIcon') != null) {
-                        liveagent.showWhenOnline(supportButtonID, document.getElementById('onlineSupportIcon'));
-                    }
-                    if (document.getElementById('offlineSupportIcon') != null) {
-                        liveagent.showWhenOffline(supportButtonID, document.getElementById('offlineSupportIcon'));
-                    }
-                });
-                liveagent.init('https://d.la4-c2-dfw.salesforceliveagent.com/chat', '572a0000000LQJh', '00D300000006yn4');
-            });
-        }
-
-        loadLiveAgentContact("573a0000000HEDz", "573a0000000HEDz", "573a00000004aER");
-    </script>
-    </div>
 <script type="text/javascript">var envConfig = {"supportRoles":"https://support.ca.com/us/_jcr_content.support-roles.json","googleSearchCXID":"002782778295192003938:jvlvrmbz5f0"}</script>
-<script type="text/javascript" src="/etc/designs/digital-experience/cacom/clientlibs.min.fd3d682dd79a8b1108f436401cd76092.js"></script>
+<script type="text/javascript" src="/etc/designs/digital-experience/cacom/clientlibs.min.b3868880674c30083e908078f9922c24.js"></script>
 <script type="text/javascript">_satellite.pageBottom();</script>
 
 
-</div></body></html>
+</body></html>
