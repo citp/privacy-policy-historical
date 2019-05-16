@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228195751id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516183056id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFunny :)
 
-Last Updated: 09-06-2018
+Last Updated: 01-17-2019
 
 We believe that you should always know what kind of data we collect from you, how we collect it, and how you can have control over your data. We strive to be transparent in our data collection efforts and to provide you with the data that you need to make decisions about our collection of data from you. This is the purpose of our privacy policy.
 
@@ -42,7 +42,7 @@ We may use session or persistent cookies. Session cookies are only stored on you
 
 ## Marketing Communications
 
-We may send you marketing communications if you have asked us for information concerning our services or if you have agreed to, and have not opted out from, receiving marketing communications. You may ask us to stop sending you marketing messages at any time by logging into your account to adjust your marketing preferences or by following the opt-out link in any marketing message sent to you.
+We may send you marketing communications if you have asked us for information concerning our services or if you have agreed to, and have not opted out from, receiving marketing communications. You may ask us to stop sending you marketing messages at any time by logging into your account to adjust your marketing preferences or by following the opt-out link in any marketing message sent to you. In the event we sent you marketing text messages at your request, you may opt-out of receiving marketing text messages by texting STOP in response to any text message received from iFunny.
 
 ## Disclosure of Personal Data
 
@@ -72,21 +72,11 @@ We will only retain your personal data for so long as necessary to fulfill the p
 
 ## Right to Access Data
 
-Under the law, you may have a right to request access to your personal data for correction, transfer, erasure, or restriction, or to object to its processing or withdraw your consent. If you wish to exercise any of these rights, please contact our Data Protection Officer as disclosed in this Privacy Policy.
+If you are a EU citizen, you may have a right to request access to your personal data for correction, transfer, erasure, or restriction, or to object to its processing or withdraw your consent. If you wish to exercise any of these rights, please contact our Data Protection Officer as disclosed in this Privacy Policy.
 
 You do not need to pay a fee to access your PII or to exercise your rights. However, we may charge a reasonable fee if your request is unreasonable or excessive.
 
 To confirm your request, we may need to request specific information from you as a security measure to ensure that personal data is not disclosed to an unauthorized third party. We will attempt to respond to all legitimate requests within thirty days.
-
-## Participation in Privacy Shield
-
-iFunny participates in the EU/Swiss and US Privacy Shield, which is a program intended to ensure that your personal data is safeguarded if it is transferred to the United States. A list of Privacy Shield certified companies is located at [https://www.privacyshield.gov/list ](https://www.privacyshield.gov/list). iFunny is committed to adhering to the principles of the Privacy Shield and to the protection of personal data as required by that program.
-
-For disputes related to iFunny’s participation in the EU/Swiss and US Privacy Shield, iFunny has designated the European Union Data Protection Officers to serve as an Independent Recourse Mechanism for dispute resolution. This means that iFunny has agreed to participate in the dispute resolution procedures of the panel established by the European Union Data Protection Officers to resolve disputes pursuant to the Privacy Shield Framework at no cost to you. Should you wish to file a dispute, you may do so at no cost through the European Union Data Protection Officers panel.
-
-iFunny recognizes that, as a participant in the EU/Swiss and US Privacy Shield, it is subject to the investigatory and enforcement powers of the FTC, the Department of Transportation or any other US authorized statutory body.
-
-Should iFunny fail to abide by the EU/Swiss and US Privacy Shield, it may face liability in cases of onward transfers to third parties.
 
 ## Third Party Links
 
