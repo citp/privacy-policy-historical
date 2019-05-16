@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramafever.live privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104022514id_/http%3A//dramafever.live/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramafever.live privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516212159id_/http%3A//dramafever.live/privacy-policy) for the most accurate reproduction.*
 
 # Contact
 
