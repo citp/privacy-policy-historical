@@ -1,104 +1,40 @@
-> *The following text is extracted and transformed from the jakpost.travel privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110074719id_/http%3A//jakpost.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakpost.travel privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517013435id_/http%3A//www.jakpost.travel/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy – Jakarta Travel Ideas
+# Terms and Conditions - jakpost.travel
 
-This website is owned and operated by JakPost Limited.
+**Privacy Policy**  
+The owners and operators of www.jakpost.travel take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-**Our Privacy Policy**
+**User Accounts**  
+Membership is an optional part of the www.jakpost.travel web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments.
 
-We want visitors to our website to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.  
-**By using our website you accept the terms of this Privacy Policy.**
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
 
-**Personal Information**
+**Personally Identified Data**
 
-We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented. We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
 
-We do not generally disclose your personal information to third parties. We may have to sometimes, in which case we will inform you of our intention to do so when we collect the information and you will have the opportunity to consent to that use or not.  
-Except as described in this Privacy Policy, we do not maintain any personal information obtained from users through this website in a retrievable form.
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
-**The information that we collect and how we use it**
+**Server Logs**  
+Like most web sites, www.jakpost.travel logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-Below are some examples of when we might request your information and how we will use it.
+**Cookies**  
+While browsing www.jakpost.travel, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of www.jakpost.travel will function as expected without cookies enabled.
 
-**Newsletters**
+Third-Party Advertisers  
+In order to cover the costs of providing hd wallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by www.jakpost.travel’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-We have several newsletters that keep readers up-to-date with information on our books, authors, events, offers etc. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you. We may also ask you to provide other information about yourself, such as your name, age, sex and location so that we can personalise your newsletters.
+**Google Adsense:**  
+We present you the following information about Google and the DoubleClick DART cookie:  
+• Google, as a third party vendor, uses cookies to serve ads on your site.  
+• Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+**Sharing/Selling of Data**  
+jakpost.travel does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.  
+**Account Cancellation**  
+Upon request, your www.jakpost.travel account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
 
-**Prize Promotions**
-
-We regularly run competitions and prize draws and, in addition to your answer or entry, we will require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented when you entered.
-
-**Shopping**
-
-To purchase items from our online shop, you will be directed to our partner Penguin site(s), with which you will be required to register an account. For this, you will be asked to provide your name, email address, a password and password reminder, your billing and delivery address and bank details. Our partner sites use a third-party payment service to facilitate purchases so, by providing them with your information, you consent to them passing that information to their payment service provided for the purpose of completing your transactions. Purchases will be subject to the Terms and Conditions of Sale for those sites and buying anything from those sites will constitute an acceptance of those terms. We will indicate the availability of a product before you are directed to our partner site(s), but we cannot guarantee that availability statuses will be 100% accurate.
-
-**Forums and User Content**
-
-If you sign up to one of our forums, we will ask you to provide a username and email address so that we can let people know who posts which comment and to enable us to deal with any inappropriate or offensive behaviour.  
-For the same reasons, if you provide comments on any articles or upload your own content to our sites, we may ask you to provide your email address.
-
-**Email and other contact details**
-
-You may wish to contact us from time to time by sending us letters or emails or by filling in contact forms on one of our websites. We will only use this information to respond to your query or suggestion.
-
-**Do we use ‘cookies’?**
-
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-**Cookies**
-
-We use cookies on this site to enable certain parts of the site to function and to collect non-personal information about your use of the site so that we can improve our visitors’ experience.
-
-**What are Cookies?**
-
-Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.
-
-**By your using this website, we imply that you have read this policy and agree to us sending you cookies.**
-
-For information about how you can change how your browser deals with cookies, please see the “Managing Cookies” section below.
-
-**Which cookies do we use on this site and why?**
-
-The list below sets out the main cookies that we use on this site and what we use them for.
-
-**Source** | **Cookie Name** | **Description** | **More Info**  
----|---|---|---  
-AddThis | __atuvc, _atshc, di, dt, ssc, ssh, sshs, uid, uit, xtc | These cookies allow users to share content via various social networks and platforms. | [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy)  
-Disqus | __jid, disqus.order, disqusauth, sessionid | These cookies allow users to comment on features in the ‘Rough Stuff’ section via third-party software ‘Disqus’. | [Disqus Privacy Policy](http://help.disqus.com/customer/portal/articles/466259-privacy-policy)  
-Facebook | c_user, datr, fr, highContrast, locale, lu, reg_ext_ref, reg_fb_gate, reg_fb_ref, s, wd, xs | These cookies allow users to log in, share and comment on content using their Facebook account. | [Facebook Privacy Policy](https://en-gb.facebook.com/about/privacy/)  
-Google Accounts | PISID, BEAT, CheckConnection TempCookie703, GALX, GAPS, GoogleAccountsLocale_session, HSID, LSID, LSOSID, NID, PREF, RMME, S, SAPISID, SID, SSID | These cookies allow users to log in and share using their Google Account. | [Google Privacy Policy](http://www.google.com/policies/privacy/)  
-Google Analytics | __utma, __utmb, __utmc, __utmz | These cookies are used to collect information about how visitors use our site. We use this information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Analytics: Safeguarding Your Data](http://www.google.com/analytics/learn/privacy.html)  
-Twitter | __utmv, _twitter_sess, auth_token, auth_token_session, external_referer, guest_id, k, lang, original_referer, remember_checked, secure_session, twid, twll | These cookies allow users to log in, share and comment on content using their Twitter account. | [Twitter Privacy Policy](https://twitter.com/privacy)  
-Newsletter | ASPSESSIONIDAAACTD | This cookie allows us to remember which users have signed up to our newsletter. | –  
-WordPress& First-Party Cookies | RS, bp-message, bp-message-type, id, UIDR, w3tc_logged_out, wordpress_ d664b4336b42b193c461aa90eeef7097, wordpress_logged_in_ d664b4336b42b193c461aa90eeef7097 | These cookies are used by our website to perform and its platform, WordPress, to perform general functions such as: determining if you are logged in or not, remembering if you have accepted our terms and conditions, allowing you to add comments. | –  
-  
-**Third Party Cookies**
-
-Some features used on this website may involve a cookie being sent to your computer by a third party. For example, if you view or listen to any embedded audio or video content you may be sent cookies from the site where the embedded content is hosted. Likewise, if you share any content on this website through social networks (for example by clicking a Facebook “like” button or a “Tweet” button) you may be sent cookies from these websites. We do not control the setting of these cookies so please check the websites of these third-parties for more information about their cookies and how to manage them.
-
-**How to manage cookies**
-
-To make full use of this site, your device must be set to accept cookies otherwise some of its (for example online shopping) may not work.
-
-If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which has detailed information for each browser as well as more information about cookies in general.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify you via emailwithin 7 business days
-
-**  
-** We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individual have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-**How to contact us**
-
-If you have any questions about this web site or our privacy policy, please contact us by writing to:
-
-**Individual contacts:**
-
-Abid Kaleemullah – CEO and Author  
-[abid.kaleem@jakpost.travel](https://web.archive.org/web/20171110074719id_/http://jakpost.travel/privacy-policy/abid.kaleem@jakpost.travel)  
-Tel: +62-21-579-6749
+**Data Retention**  
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.  
+For any problems or questions don’t hesitate to contact us.
