@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the commvault.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106005735id_/https%3A//www.commvault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commvault.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516133655id_/https%3A//www.commvault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commvault
 
-Commvault understands the importance of protecting personal information and complying with data protection laws. Please read our [Privacy Charter](https://web.archive.org/privacy-policy/privacy-charter) that underlies our approach. 
+Commvault understands the importance of protecting personal information and complying with data protection laws. Read our [Privacy Charter](https://web.archive.org/privacy-policy/privacy-charter) that underlies our approach.
 
 This Privacy Policy provides information for our customers, partners, suppliers and other individuals and organisations that we may have a business relationship with about how we collect, use and share personal information. Our products and services are not directed at children.
 
-Personal information is any information that can be used to directly or indirectly identify an individual, and may include your name, address, email address, phone number, contact preferences and IP address. 
+Personal information is any information that can be used to directly or indirectly identify an individual, and may include your name, address, email address, phone number, contact preferences and IP address.
 
 ### The personal information that we collect and our basis for processing
 
 We may collect personal information about you when you interact with Commvault. For example, this may happen when you:
 
-  * Browse and interact with our websites – this may include passwords, IP addresses and browser settings 
+  * Browse and interact with our websites – this may include passwords, IP addresses and browser settings
   * Register for a marketing event or subscribe to a newsletter – this may include your name, contact details and title 
   * Visit a Commvault location – we ask visitors for contact details when they arrive at one of our locations for security purposes 
-  * Request information from us, place an order or need support
+  * Request information from us, place an order or need support 
 
 
 
 Commvault will use your personal information based on:
 
-  * **Our legitimate business interests** : For example, in connection with direct marketing or service improvement. Where we rely on this basis, we carry out a legitimate business assessment to ensure that our business interests do not override your rights. In some cases, you may have the right to object to this use of your personal information. For more information, please read the ‘Your Rights’ section of this Privacy Policy.
+  * **Our legitimate business interests** : For example, in connection with direct marketing or service improvement. Where we rely on this basis, we carry out a legitimate business assessment to ensure that our business interests do not override your rights. In some cases, you may have the right to object to this use of your personal information. For more information, please read the "Your Rights" section of this Privacy Policy.
   * **Contract** : Where it is necessary in connection with a product or service we are providing to you
   * **Consent** : If we are not relying on another basis for processing your personal information, we will seek your consent prior to any use of your personal information. A clear request for your consent will be presented to you and you will have the ability to withdraw your consent at any time.
 
@@ -50,13 +50,13 @@ We may need to share information about you:
 
 
 
-### International data transfers
+### International Data Transfers
 
-If you are based in the European Union (EU) we may need to transfer your personal data to recipients outside of the EU. 
+If you are based in the European Union (EU) we may need to transfer your personal data to recipients outside of the EU.
 
-This may happen if our servers or our suppliers or service providers are based outside the EU or if you visit our website while traveling to countries outside this area. 
+This may happen if our servers or our suppliers or service providers are based outside the EU or if you visit our website while traveling to countries outside this area.
 
-We only make these transfers, where the EU has made an ‘adequacy decision’ for the country to which the data will be transferred or where we have put in place the ‘appropriate safeguards’ that the law requires. 
+We only make these transfers, where the EU has made an ‘adequacy decision’ for the country to which the data will be transferred or where we have put in place the "appropriate safeguards" that the law requires. 
 
 ### Keeping information secure
 
@@ -68,7 +68,7 @@ We keep records for as long as necessary to provide the relevant product or serv
 
 ### Cookies
 
-Our websites use cookies (which includes third-party cookies to support analytics functionality) and other similar technologies to improve the user experience. For more information on this, please see our Cookie Policy. 
+Our websites use cookies (which includes third party cookies to support analytics functionality) and other similar technologies to improve the user experience. For more information on this, please see our Cookie Policy. 
 
 ### Your rights
 
@@ -79,7 +79,7 @@ Your local law may provide rights regarding the use of your personal information
   * Right to data portability
   * Right to object to use of personal data (for example, where we are using it for direct marketing or our lawful basis is our legitimate interest)
   * Right to restrict the use of your data in some circumstances
-  * Right to erasure in some circumstances 
+  * Right to erasure in some circumstances
 
 
 
@@ -101,4 +101,4 @@ We regularly review and update this Policy. If we make a change, we will post th
 
 ### Contact
 
-If you have any questions about this Policy, or would like to exercise your rights with respect to your personal information, please contact our Global Data Governance Officer via [GDGO@commvault.com](mailto:GDGO@commvault.com) via or write to Global Data Governance Officer, Commvault Systems Limited, Apex Plaza Forbury Road Reading, Berkshire United Kingdom RG1 1AX. With regard to the General Data Protection Regulation the Commvault entity that is the data controller of your personal information will depend on the situation in which the data has been collected. Please use these contact details for additional information.
+If you have any questions about this Policy, or would like to exercise your rights with respect to your personal information, please contact our Global Data Governance Officer via [GDGO@commvault.com](mailto:GDGO@commvault.com) via or write to Global Data Governance Officer, Commvault Systems Limited, Apex Plaza Forbury Road Reading, Berkshire United Kingdom RG1 1AX. With regard to the General Data Protection Regulation the Commvault entity that is the data controller of your personal information will depend on the situation in which the data has been collected. Please use these contact details for additional information. 
