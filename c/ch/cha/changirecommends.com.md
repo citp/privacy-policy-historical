@@ -1,94 +1,117 @@
-> *The following text is extracted and transformed from the changirecommends.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212195141id_/https%3A//www.changirecommends.com/page.aspx%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changirecommends.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516205007id_/https%3A//www.changirecommends.com/page.aspx%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Changi Recommends
 
-PRIVACY POLICY
+**PRIVACY POLICY**
 
-General Information
+1.       GENERAL INFORMATION 
 
-This privacy policy (the “Privacy Policy”) describes the personal data we collect about you; how we use, disclose and protect this data; as well as your rights over this data.
+This privacy policy (the “Privacy Policy”) describes the personal data Changi Travel Services Pte Ltd (“CTS”) collects about you, how CTS uses, discloses and protects this data, as well as your rights over this data.
 
-Collection of your personal data
+2.       COLLECTION OF PERSONAL DATA
 
-We collect data about you from a variety of sources, including data which we collect from you directly.
+CTS may collect personal data about you from a variety of sources, including from your various transactions with us or from your use of our websites.
 
-During your use of our Changi Recommends website (the “Portal”) or when you communicate with us, we may collect details about you such as your name, address, shopping preferences, payment details etc.
+Personal data we collect about you could include your name, date of birth, passport or NRIC no., address, contact telephone numbers and email address.
 
-We may also monitor your usage of the Portal. This may include monitoring how many times you visit, which pages you go to, traffic data, location data and the originating domain name of a user’s internet service provider.  This data will be aggregated, so that we will not be able to identify you individually.
+3.       USE OF COOKIES
 
-When you use the Portal, we may collect information about your computer, such as your IP address and/or browser, which we will use for administration purposes and statistical analysis. Likewise, this information will not usually identify you personally.
+We may also use “Cookies” (small files stored on your computer). Cookies hold a small amount of information specific to you, and remember your specific activities on the website.
 
-Use of Cookies
+By doing so, this allow us to customer your future visit. We do not use cookies to collect any personal data.
 
-We may also use “cookies” – which are small files stored on a user’s computer. Cookies hold a small amount of information specific to you, and remember your specific activities on the Portal.
+Your computer can be programmed to inform you each time a cookie is being used in this manner. If you wish, your computer can be configured to prevent the use of cookies.
 
-By doing so, they enable us to customise your future visits. We do not use cookies to collect any individually-identifiable information.
+4.       LINKS TO THIRD PARTY WEBSITES
 
-Your computer can be programmed to inform you each time a cookie is being used in this manner. If you wish, your computer can also be configured to prevent the use of cookies.
+We may provide links to third party websites on our websites. Such third-party websites are subject to their own privacy policies and are not covered by this privacy policy.
 
-Links to third party websites
+We cannot control or be responsible for the policies of other sites we may link to, or the use of any personal data you may share with them. 
 
-We may provide links to third party websites on the Portal. Such third party websites are subject to their own privacy policies and are not covered by this Privacy Policy.
+5.       HOW WE USE YOUR PERSONAL DATA
 
-How we use your personal data
+We may use your personal data for more than one of the following:
 
-We use your data to provide, as well as to improve the Portal services.  
+·             To help us identify you and any accounts you may hold with us.
 
-We may use your personal data for one or more of the following purposes:
+·             Administration
 
-  * to help us identify you and any accounts you hold with us
-  * administration
-  * statistical analysis
-  * customer profiling and analyzing your purchasing preferences
-  * marketing - for us and/or our business partners to contact you by mail, telephone, SMS, text/picture/video message, fax and email about products, services, promotions and special offers
-  * fraud prevention and detection 
-  * billing and order fulfillment
-  * customizing this Portal  and its content to your particular preferences
-  * to notify you of any changes to this Portal or our services which may affect you
-  * security vetting
-  * improving our services
-  * to administer contest, sweepstakes or other similar promotions
-  * such other purpose as may be given to you at the time your data is collected
+·             Statistical analysis
 
+·             Customer (User) profiling and analysing your consumption preferences
 
+·             Marketing
 
-Disclosure of your personal data
+o   For us and (or) our business partners to contact you by mail, telephone, SMS, text or image or video message, email about products, services and promotions and exclusive offers 
 
-We may disclose your personal data to:
+·       Fraud prevention and detection
 
-  * other companies within our group
-  * our agents and service providers 
-  * credit reference agents 
-  * law enforcement agencies in connection with any investigation to help prevent unlawful activity
-  * our business partners 
-  * any relevant party in order to meet the requirements of any applicable laws/regulations, enforceable governmental request or court order
+·       Billing and order fulfilment
 
+·       Customising the website and its content to your preferences
 
+·       To notify you on the changes to the website or our services which may affect you
 
-Keeping your data secure
+·       Security vetting
 
-We will use technical and organisational measures to safeguard your personal data, for example:
+·       Improving our services
 
-  * access to your account is controlled by password and username which are unique to you
-  * we store your personal data on secured servers in hashed data format
-  * payment details are encrypted via DBS hosted payment gateway page
+·       To administer contest, sweepstakes or other similar promotions. For customers who purchase our various insurance services, we also use your personal data for the daily operation of the insurance services provided to you including but not limited to
 
+o   processing and evaluating your applications;
 
+o   administering and providing services in relation to the insurance products;
 
-Whilst we will use all reasonable efforts to safeguard your personal data, you acknowledge that the use of the internet/ this Portal is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data which are transferred from you or to you via this Portal.
+o   investigating and processing claims;
 
-Changes to the Privacy Policy
+o   invoicing and collecting premiums; and
 
-This Privacy Policy is reviewed periodically.  We will post any changes to the Privacy Policy on this page. We recommend that you check this page regularly for any updates.
+o   contacting you for any of the above purposes;
 
-How to contact us 
+o   ensuring your ongoing credit worthiness;
 
-We welcome your feedback and any questions that you may have.
+o   researching, designing, launching, banking, financial, insurance services or related products for your use and monitoring the provision, operation and use of such services or products;
 
-In particular, you may contact us to request that we provide you with access to, or to correct any inaccuracies in your personal data. You may also opt out of any of the terms of this Policy.
+o   the enforcement of your obligations, including without limitation collection of amounts outstanding from you;
 
-If you wish to contact us, you can send us an email at: [[contactus@changirecommends.com](mailto:contactus@changirecommends.com)]
+o   to comply with any laws, rules, regulations, lawful and binding determination, guidelines or guidance, decision or direction of a regulator, or in cooperation with any governmental authority of any country (or political sub-division of a country);
 
-Alternatively, you can write to us at: [info@changirec.com]
+o   complying with any obligations, requirements, policies, procedures, measures or arrangements for sharing data and information within the Hong Leong Group and/or any other use of data and information in accordance with any group-wide programs for compliance with sanctions or prevention or detection of money laundering, terrorist financing or other unlawful activities.
 
-This Privacy Policy was last updated on [6th June 2014].
+·       To provide your updated personal data to our related bodies corporate, contractors or service providers;
+
+·       To process and respond to any complaint made by you.
+
+6.       DISCLOSURE 
+
+We may disclose your personal data to our agents, marketing partners, business partners, authorised service providers, law enforcement agencies, any entities in our group and/or any relevant party for the following reasons:
+
+·       to complete your reservations, online purchases or other relevant transactions including insurance related purchases, or to deal with any administrative matters in relation to these.
+
+·       to complete the performance of services on our behalf, such as web-hosting, data analysis, marketing, research and to otherwise provide you with customer service.
+
+·       to make any disclosure as required by any applicable law, order of court or requests by any governmental authority.
+
+7.  KEEPING YOUR DATA SECURE
+
+We will use technical and organisational measures to protect your personal data, for example:
+
+Data is stored on a secured server which support connection security with firewall rules and connection encryption.
+
+Data in hard copy forms are stored in locked facilities and destroyed when no longer needed.
+
+8.  HOW TO CONTACT US
+
+We welcome any feedback and any questions that you may have.
+
+You may contact us to request that we provide you with access to, or to correct any inaccuracies in your personal data. You may also opt out of any of the terms of this privacy policy.
+
+If you wish to contact us, you can send us an email at: [call@changirecommends.com.sg](mailto:call@changirecommends.com.sg). 
+
+9.       CHANGES TO PRIVACY POLICY 
+
+This privacy policy was last updated on October 2017.
+
+We will post any changes to the privacy policy on this page. We recommend that you visit and check on this page regularly for any updates. 
+
+_Updated as of October 2017_
