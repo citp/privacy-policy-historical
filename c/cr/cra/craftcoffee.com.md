@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420184207id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516115459id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Craft Coffee
+# Privacy Policy | Craft Coffee
 
 We take your privacy seriously at Craft Coffee. We will never send you spam, or sell your information to marketers. For the full legalese, see below.
 
-This privacy policy covers the use of the web site located at [http://www.craftcoffee.com](http://www.craftcoffee.com/) and the services provided by Caffeinated Labs, Inc. ("Craft Coffee"), including how Craft Coffee treats personal information that Craft Coffee collects and receives. Pursuant to Craft Coffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Craft Coffee does not own or control, or individuals that Craft Coffee does not employ or manage. 
+This privacy policy covers the use of the web site located at [https://www.craftcoffee.com](https://www.craftcoffee.com/) and the services provided by Caffeinated Labs, Inc. ("Craft Coffee"), including how Craft Coffee treats personal information that Craft Coffee collects and receives. Pursuant to Craft Coffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Craft Coffee does not own or control, or individuals that Craft Coffee does not employ or manage. 
 
 This policy is effective on October 28, 2010.
 
