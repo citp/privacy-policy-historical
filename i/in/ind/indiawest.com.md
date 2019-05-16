@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiawest.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825120051id_/https%3A//www.indiawest.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiawest.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516062445id_/https%3A//www.indiawest.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | indiawest.com
 
