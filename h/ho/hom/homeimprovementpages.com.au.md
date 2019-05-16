@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929134604id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516060009id_/https%3A//hipages.com.au/privacy) for the most accurate reproduction.*
 
-# Home Improvement Pages, Privacy Policy
+# hipages, Privacy Policy
 
 #### Introduction
 
@@ -44,7 +44,7 @@
 
 15\.  | hipages.com.au is committed to maintaining accurate, timely, relevant and appropriate information about our customers and web-site users.   
 ---|---  
-16\.  | So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information.   
+16\.  | So long as your request for your personal information is in accordance with the Australian Privacy Principles, then we will give you access to that information.   
 17\.  | Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.   
 18\.  | If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.   
   
@@ -54,7 +54,7 @@
 
 19\.  | If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us at E-mail: [info@hipages.com.au](mailto:info@hipages.com.au)  
 ---|---  
-20\.  | We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint.   
+20\.  | We will investigate your complaint and attempt to resolve, within 30 days, any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Information Commissioner) investigate your complaint.   
   
 
 
@@ -62,18 +62,19 @@
 
 21. | If hipages.com.au changes its Privacy Policy, it will post changes on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.   
 ---|---  
+22. | The privacy policy was last updated on the 3rd of December 2018.   
   
 
 
 #### Contacting us
 
-22\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: Email: [info@hipages.com.au](mailto:info@hipages.com.au) Physical Address: Level 10, 255 Pitt Street, Sydney NSW 2000, Australia   
+23\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: Email: [info@hipages.com.au](mailto:info@hipages.com.au) Physical Address: Level 10, 255 Pitt Street, Sydney NSW 2000, Australia   
 ---|---  
-23. | Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au   
+24. | Should you wish to read more information on privacy legislation or the Australian Privacy Principles we recommend that you visit the Office of the Information Commissioner's website at www.oaic.gov.au/.   
   
 
 
 #### Acceptance
 
-24. | You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.   
+25. | You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.   
 ---|---
