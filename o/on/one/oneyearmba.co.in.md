@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the oneyearmba.co.in privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101194621id_/http%3A//www.oneyearmba.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneyearmba.co.in privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517100902id_/https%3A//www.oneyearmba.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oneyearmba.co.in
+
+The world's No.1 website for news & guidance on One Year MBA programmes around the world
+
+
+
 
 At Oneyearmba.co.in, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Oneyearmba.co.in and how it is used.
 
@@ -83,4 +88,6 @@ If you choose to publicly share information while using the Service, you acknowl
 OneYearMBA does not intend to direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children’s privacy online. If we become aware or are notified that a user is under age 13, we will take reasonable steps to delete any Personal Information from that user’s account.
 
 Questions?  
-If you have any questions about this Policy, please contact us at contactus@oneyearmba.co.in
+If you have any questions about this Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+(Visited 295 time, 1 visit today)
