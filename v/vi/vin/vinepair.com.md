@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819092826id_/https%3A//vinepair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinepair.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517235621id_/https%3A//vinepair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VinePair
 
@@ -56,7 +56,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/1316548?hl=en). They are put in place to provide a positive experience for users. 
 
 Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
@@ -71,11 +71,11 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 
 Opting out:
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting [the Network Advertising initiative opt out pag](http://optout.networkadvertising.org/?c=1)e or permanently using the Google Analytics Opt Out Browser add on.
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 **According to CalOPPA we agree to the following:**
 
@@ -167,4 +167,4 @@ US
 
 info@vinepair.com  
 646-801-2722  
-Last Edited on 2017-05-10
+Last Edited on 2019-04-15
