@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308221340id_/https%3A//www.indiaproperty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517093901id_/https%3A//www.indiaproperty.com/privacy.php) for the most accurate reproduction.*
 
-# Property - Real Estate - India Property - Properties India - Property Sites
-
-Privacy Statement
+# India Property Privacy Statement
 
 Indiaproperty.com is an online property portal endeavoring constantly to provide you with premium property services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
 
@@ -25,5 +23,3 @@ If the Builder, Agent/Broker or any individual has provided their contact inform
 Notice
 
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to [privacy@indiaproperty.com.](mailto:privacy@indiaproperty.com)
-
-__TOP
