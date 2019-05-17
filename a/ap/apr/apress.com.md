@@ -1,188 +1,377 @@
-> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029101052id_/http%3A//www.apress.com/us/legal/apress-online-privacy-notice/10875330) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apress.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517153625id_/https%3A//www.apress.com/us/legal) for the most accurate reproduction.*
 
-# Online Privacy Notice
+# Legal
 
-## Online Privacy Notice  \- Apress LLC : October 2016
-
-This Privacy Policy covers our treatment of personally identifiable information by Apress LLC (“Personal Information”) that we gather when you are registering, accessing or using our Site and the products, software and services (“Services”) available on the Site, including without limitation access to the Services by or through the Site, any third party integration of the Services, and any software owned, operated or licensed by us. However, this Privacy Policy excludes treatment of Personal Information in connection with the sale of content on the Site, such treatment is governed by the [Online Shop Privacy Policy](http://www.palgrave.com/gb/services/legal/online-shop-privacy-policy/7074692) of Springer Verlag GmbH.
-
-This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices. 
-
-## Information We Collect
-
-We may obtain certain personal information when you choose to provide them through our Site. The types of personal information we may collect include:
-
-  * your name
-  * postal address
-  * e-mail address
-  * telephone number
-  * date of birth
-  * username and password
-  * information concerning your interests and product preferences
+This website uses the online advertising services to present you with ads that meet your interests. Respective advertisement is labelled with the name of the provider, e.g. “Google-Ad”. Additionally, this service helps us to improve our website and to make your visit more interesting. In order to do so, we collect statistical information about you that will be processed by the provider. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to promote our products and services.  
 
 
+### 1\. Cookies, Web-beacons  
 
-In addition, when you visit our Site, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, and dates and times of website visits.
 
-A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. On this Site, we use two kinds of cookies: session cookies and persistent cookies. Session cookies exist only for as long as your browser remains open. Once you close your browser, they are deleted. Persistent cookies, in contrast, last beyond each visit to the Site and remain on your hard drive after you close your browser. The cookies used on the Site include those that are strictly necessary cookies for access and navigation, cookies that track usage (performance cookies) and remember your choices (functionality cookies), and cookies that provide you with targeted content or advertising. Details of which cookies are used can be found by [CLICKING HERE](https://web.archive.org/us/legal/cookie-policy/10978358).  We may use the information we obtain from your use of our cookies for the following purposes:
+Providers will be automatically informed about your visit on our website. For such purpose, a web beacon is used to place a cookie on your computer.
 
-  * to recognize your computer when you visit the Site
-  * to track you as you navigate the Site, and to enable the use of e-commerce capabilities
-  * to improve the Site's usability
-  * to analyse use of the Site
-  * to manage the Site
-  * to personalize the Site,
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained. Depending on the provider your personal data may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section XII.
+
+It is possible that a provider discloses your personal data to its business partners, third parties or authorities.
+
+You can prevent the installation of such a cookie
+
+  1. by a respective setting of your browser that blocks the installation of third party cookies,
+  2. by deactivating the provider’s interest-related advertising under the link mentioned in the provider details below,
+  3. or generally blocking cookies under e.g <http://www.google.com/settings/ads/plugin>.
 
 
 
-We also may use "web beacons" on our Site. A web beacon, also known as a pixel tag or clear GIF, may be used to transmit information collected through cookies to our service providers' servers These web beacons enable our service providers to compile anonymous information about your browsing activity on the Site. For more information, see the section on "Online Tracking" below.
+Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following the link in the provider details below.
 
-Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
-
-For more information about how we use cookies click [here](http://www.nature.com/info/cookies.html).
-
-## How We Use The Information We Collect
-
-We may use the information we obtain through the Site to:
-
-  * create and manage your account;
-  * offer and provide products, services and information to you, including newsletters;
-  * permit you to participate in blogs, forums, and discussion groups;
-  * communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions, to the extent permitted by law
-  * display content on our Site, such as stories, product reviews and photos;
-  * respond to and communicate with you about your requests, questions and comments;
-  * process claims we receive in connection with our products and services;
-  * operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our sales, marketing and advertising; analysing and enhancing our products, services and Site; and performing accounting, auditing, billing, reconciliation and collection activities);
-  * perform anonymised data analyses and other processing (including market and consumer research, trend analysis, financial analysis, anonymisation, encryption and tokenization of personal information); protect against, identify and prevent fraud and other criminal activity, claims and other liabilities; and
-  * comply with and enforce applicable legal requirements, relevant industry standards and our policies.
+### 2\. Criteo  
 
 
+We use the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (<http://www.criteo.com/>).
 
-We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our users.
+The advertisements are displayed on the basis of information that is stored in cookies which Criteo places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Criteo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Criteo will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Criteo by clicking on the following link <http://www.criteo.com/en/privacy-policy> and using the controller next to “Opt-Out” by switching it to “ON”.
 
-We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
+When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser that tells Criteo to cease data collection from and ad delivery to your browser. You can opt-in to Criteo’s ads again at any time by switching the controller to “OFF”. Please be aware that this configuration will be necessary for each of your browsers. In case all of your cookies in a browser are deleted, also the Opt-Out-Cookie of Criteo will be affected.
 
-## Online Tracking
+### 3\. Google Adwords
 
-We may use third-party web analytics services on our Site, like Webtrekk and Google Analytics. These service providers help us analyse how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services.
+We use Google Adwords to advertise on our site and third party websites to previous visitors of our site. Google Adwords is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
 
-### Google Analytics 
+The advertisements are displayed on the basis of information that is stored in cookies which Google places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Google is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Google will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Google by clicking on the following link <http://www.google.de/ads/preferences> and configuring your preferences there.
 
-This website uses Google Analytics, a web analytics service provided by Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Google Analytics uses what is known as “cookies”, text files which are stored on your computer to allow us to analyse your use of the websites. The information generated by the cookie regarding your use of this website will, as a rule, be transmitted to and stored on a server of Google in the US. Due to the IP anonymisation on this website, your IP address is shortened by Google within the territory of Member States of the European Union or in other signatory States to the Agreement on the European Economic Area. Only in exceptional cases will your full IP address be transmitted to a server of Google in the US and shortened there. Google will use this information on our behalf to analyse your use of the website, to compile reports on website activities and provide additional services relating to website use and internet use to the website operator. The IP address collected through Google Analytics from your browser will not be merged with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser; however, please note that if you do this, you may not be able to use the full functionality of this website.
+For more information about Google privacy policies see <https://privacy.google.com/intl/en/#> and <https://www.google.com/policies/privacy/?hl=en>.
 
-You may also prevent Google from collecting and storing information in cookies, from storing information about your use of the website (including your IP address) and from processing such information by downloading and installing the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>. 
+### 4\. Microsoft Bing Ads
 
-For more information about privacy policies and Google Analytics, please refer to the Google website: <http://www.google.com/analytics/learn/privacy.html?hl=de>.
+We use Bing Ads to advertise on our site and third party websites to previous visitors of our site. Bing Ads is provided by Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Phone: (+1) 425-882-8080 (“Microsoft”).
 
-### Webtrekk
+The advertisements are displayed on the basis of information that is stored in cookies which Microsoft places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Microsoft is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Microsoft will not merge this information with your personal data and will not disclose any of your personal data to any third party.
 
-This website uses Webtrekk, a web analytics service provided by Webtrekk GmbH, Robert-Koch-Platz 4, D-10115 Berlin (“Webtrekk”). We use Webtrekk services to collect and use statistical data on the use of our website to optimise our offering. In addition to cookies, Webtrekk also uses pixels (small gif files incorporated into the website).
+You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies. For more information about Bing Ads security see <https://secure.bingads.microsoft.com/>. For more information about Microsoft privacy policies see <https://privacy.microsoft.com/de-de/privacystatement#> or contact the data controller office Microsoft Ireland Operations, Ltd., Attn: Data Protection, Carmenhall Road, Sandyford, Dublin 18, Irland.
 
-Webtrekk places the following types of cookies on your computer:  
-· last click (used for session timeout; lasts one session)  
-· “session cookie” (used for session identification; lasts one session)
+### 5\. Adroll
 
-The following information is collected through the use of pixels:  
-· request (file name of the requested file)  
-· browser type/version (e.g. Internet Explorer 9.0)  
-· browser language (e.g. German)  
-· the operating system used (e.g. Windows 7)  
-· JavaScript enabled  
-· Java on/off  
-· cookies on/off  
-· the referrer URL  
-· IP address (will be anonymised immediately and deleted after processing)  
-· the time you access the site  
-· clicks  
-· product parameters (e.g. the ID of the product/subscription authorising you to access the site)
+We use Adroll to advertise on our site and third party websites to previous visitors of our site. Adroll is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
 
-These cookies are used for statistical purposes only, e.g. to track which content of our website is accessed the most. This allows us to organise content into categories like “most read”, thereby making the website more comfortable to use. Moreover, the statistical information obtained about browser types and operating systems allows us to optimise our web design.
+The advertisements are displayed on the basis of information that is stored in cookies which Adroll places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Adroll is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Adroll will not merge this information with your personal data and will not disclose any of your personal data to any third party.
+
+Adroll adheres to the European Interactive Advertising Digital Alliance (EDAA) guidelines and you can prevent the storing and using of information in a cookie placed by by clicking on the following link <http://www.youronlinechoices.com/> and configuring your preferences there.
+
+For more information about Adroll privacy policies see      
+<https://www.adroll.com/en-IE/about/trust-center> and <https://www.adroll.com/en-IE/about/privacy>.
+
+### 6\. Baynote
+
+We use Baynote to advertise on our site and third party websites to previous visitors of our site. Baynote is provided by KIBO Software Inc., 717 North Harwood St. STE. 1900 Dallas, TX 75201, US (“Kibo”).
+
+The advertisements are displayed on the basis of information that is stored in cookies which Kibo places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Kibo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Kibo will not merge this information with your personal data and will not disclose any of your personal data to any third party.
+
+You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies. For more information about Kibo privacy policies see <https://kibocommerce.com/privacy/>.
+
+### 7\. CJ Affiliate (former Commission Junction)
+
+We use affiliate networks operated by CJ ([https://www.cj.com](https://www.cj.com/)). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties.
+
+You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
+
+### 8\. Google AdWords Remarketing and Facebook Custom Audience
+
+In this Website, we use the remarketing or “Similar audiences” feature of AdWords offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google”.
+
+Google uses Cookies/tracking technologies, i.e., text files that are stored on your computer and that allow us to analyze your use of our Website. Information generated by Cookies/tracking technology on your use of this Website (including your IP address) will be transferred to a Google server in the U.S. and stored on that server. After that, that last three digits of the IP address will be deleted by Google so that it is no longer possible to clearly match this IP address with personal data.Google has obtained a Privacy Shield Certification and agreed to compliance with the Privacy Shield Treaty between the EU and the U.S. on the collection, use and storage of personal data from EU member states, as published by the U.S. Department of Commerce. Google will use this information to analyze your use of the Website, to create website activity reports for the website operators and to provide additional services in connection with the use of the Website and the Internet. Furthermore, Google may transfer this information to third parties, if it is required to do so in accordance with statutory provisions or if third parties process data on behalf of Google.
+
+Third party providers, including Google, place advertisements on websites on the Internet. Third party providers, including Google, use stored Cookies/tracking information to place advertisements based on previous visits of a user on this Website.
+
+For additional information on the anonymous analysis of your search behavior please refer to: 
+
+  * <https://support.google.com/analytics/answer/6004245?hl=de>
+  * <http://www.google.com/policies/technologies/ads/>
+
+
+
+You may object to data collection and storage for the purpose of remarketing at any time - this objection will be effective for the future, but not retroactively - by deactivating interest-based advertising in Google or by deactivating the services on the website of the Network Advertising Initiative. Note: in that case, you may not be able to use all features of this Website anymore. By using this Website, you grant your consent to the processing of data collected about you by Google in the manner and for the purpose described above.
+
+Furthermore, this Website uses retargeting tags and Custom Audience of Facebook Inc., 1601 South California Avenue, Palo Alto, CA 94304 U.S., hereinafter referred to as “Facebook”.
+
+When you visit our web pages, remarketing tags will build a direct connection between your browser and the Facebook server. This way, Facebook learns that you have visited our web page with your IP address. This will enable Facebook to match your visit of our pages with your user account. The information obtained this way can be used to display Facebook ads. Please note that we as the provider of the web pages do not receive any information on the contents of data transferred and their use by Facebook.
+
+With regard to the use of Custom Audience we would like to point out that Facebook and third parties use cookies, web beacons or similar technologies to collect or gather information on this Website. Based on the data gained we can make our Facebook activities more efficient and, e.g., arrange for contents or ads to be shown only to visitors of our Website. The data collected this way will encrypted and transferred to Facebook and is anonymous for us, e.g., we cannot see personal data of individual users.
+
+For further information on the privacy policy of Facebook and Custom Audience please refer to 
+
+<https://www.facebook.com/about/privacy/> or      
+<https://www.facebook.com/business/a/online-sales/custom-audiences-website>. 
+
+If you do not wish your data to be collected via Custom Audience, you can deactivate Custom Audience using this link.  
+
+
+## IX. Analysis
+
+For statistical analyses we use web analytics services to collect information about the use of this site.
+
+### 1\. General tracking information
+
+The tools collect information such as
+
+  * Device and browser information (operating system information, Mobile device identifier, mobile operating system, etc.)
+  * IP address
+  * Page accessed, URL click stream (the chronological order of our internet sites you visited)
+  * Geographic location
+  * Time of visit
+  * Referring site, application, or service
+
+
+
+We use the information we get from the providers only to determine the most useful information you are looking for, and to improve and optimise this website. We do not combine the information collected through the use of the tools with personal data.
+
+Depending on the provider the information generated about your use of the website may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section XII. The tools collect only the IP address assigned to you on the date you visit this site, rather than your name or any other identifying information. The provider will use this information in order to evaluate your use of the website, to compile reports on website activities and to provide other services relating to website and internet use to us.
+
+The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general.
+
+### 2\. Google Analytics / Google Tag Manager
+
+We use Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). On our behalf Google will use the information generated by a cookie for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website.
+
+We have activated the IP-anonymisation within the Google Analytics service, and your IP address will be truncated within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-address your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout>
+
+### 3\. Webtrekk
+
+We use Webtrekk, a web analytics service provided by Webtrekk GmbH, Robert-Koch-Platz 4, D-10115 Berlin (“Webtrekk”). We use Webtrekk services to collect and use statistical data on the use of our website to optimise our offering. In addition to cookies, Webtrekk also uses pixels (small gif files incorporated into the website).
+
+Webtrekk places the following types of cookies on your computer:
+
+  * last click (used for session timeout; lasts one session)
+  * “session cookie” (used for session identification; lasts one session)
+
+
+
+The following information is collected through the use of pixels:
+
+  * request (file name of the requested file)
+  * browser type/version (e.g. Internet Explorer 9.0)
+  * browser language (e.g. German)
+  * the operating system used (e.g. Windows 7)
+  * JavaScript enabled
+  * Java on/off
+  * cookies on/off
+  * the referrer URL
+  * IP address (will be anonymised immediately and deleted after processing)
+  * the time you access the site
+  * clicks
+  * product parameters (e.g. the ID of the product/subscription authorising you to access the site)
+
+
+
+This allows us to organise content into categories like “most read”, thereby making the website more comfortable to use. Moreover, the statistical information obtained about browser types and operating systems allows us to optimise our web design.
 
 Webtrekk stores IP addresses only anonymously (in shortened form) and uses them only for session identification and geo-localisation. After that, IP addresses are immediately deleted. The information collected through Webtrekk will not be used to identify you personally unless you have specifically given us your consent.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser; however, please note that if you do this, you may not be able to use the full functionality of this website.
+You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by Webtrekk, by placing the opt-out cookie available at the following link on your computer:      
+<http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html>
 
-For more information about privacy policies and Webtrekk, please refer to the Webtrekk website: <https://www.webtrekk.com/en/why-webtrekk/data-protection/>[ ](https://www.webtrekk.com/en/why-webtrekk/data-protection)
+You will then continue to be excluded from web tracking until the cookie is deleted. The cookie is set for the named domain, per browser and computer. Therefore, if you visit our website, for instance, from home and from work or using different browsers, you have to place the cookie for each computer and browser separately.
 
-To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices/). This Site is not designed to respond to "do not track" signals received from browsers. 
+For more information about privacy policies and Webtrekk, please refer to the Webtrekk website: <https://www.webtrekk.com/de/warum-webtrekk/datenschutz>
 
-### Kiss Insights
+### 4\. Optimizely
 
-This website uses Kiss Insights, a service from Qualaroo, which allows us the ability to pop-up questions to end users related to the content or feature they are currently focused on.  Kiss Insights is not always active on this website.  We only use this when we want to gather customer research about something specific on the AdisInsight website.
+We use Optimizely, a web analytics service provided by Optimizely Inc., 631 Howard Street, Suite 100 San Francisco, CA 94105 (“Optimizely”). Optimizely also uses cookies and tracking pixels. The information generated by the cookies and pixels regarding your use of this website will, as a rule, be transmitted to and stored on a server of Optimizely in the US. Optimizely will use this information on our behalf to analyse your use of the website and to compile reports on website activities.
 
-For more information about Kiss Insights privacy policy, please refer to the Qualaroo website: https://qualaroo.com/privacy-policy/
+In particular, the following information will be stored:
 
-To learn more about how to opt out of ad network interest-based advertising, [click here](http://www.aboutads.info/choices). This Site is not designed to respond to "do not track" signals received from browsers.
+  * the total number and percentage of users who opened a website variation
+  * the number of clicks on links
+  * your browser type and version
+  * campaign IDs through which the website was reached.
 
-### Affiliate Networks
 
-We use affiliate networks operated by Digital Window Inc. (http://www.affiliatewindow.com), Value Click International Limited (http://de.cj.com) and Zanox.de AG (http://www.zanox.com). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties. You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
 
-### Sociomantic
+You can disable Optimizely tracking (and thus prevent the data generated by cookies and pixel, and relating to your use of the website, from being collected to and processed by Optimizely) at any time by following the instructions at <http://www.optimizely.com/opt_out>
 
-This website uses the third party tool “Sociomantic Sonar” operated by Sociomantic Labs GmbH, Paul- Lincke-Ufer 39/40, 10999 Berlin (www.sociomantic.com). Sociomantic Sonar delivers targeted ads on websites of its partner network to springer.com users that have vis-ited our website and have thus shown an interest in certain of our offers. Such targeted ads are displayed on the basis of information about the previous visits of the respective web pag-es that is inter alia stored in cookies which Sociomantic places on your computer. The data in these files is then retrieved in the course of subsequent visits of third party websites for specific product recommendations. The cookie includes a random identification number. Neither this number nor the information about your past use of the respective web pages can be attributed to you as an individual. Neither we nor Sociomantic will merge the information about the visits with any of your per-sonal data or disclose any of your personal data to any third party.
+For more information about privacy policies and Optimizely, please refer to the Optimizely website: <https://www.optimizely.com/privacy/>
 
-You can prevent all tracking by Sociomantic Sonar by clicking on the following link and checking the corresponding opt-out box: <https://www.sociomantic.com/privacy/en/>. When you opt-out a new cookie is placed in your web browser that tells Sociomantic’s technology to cease any data collection and data processing in relation to your web browser. You can opt-in to Sociomantic’s ads again at any time by un-checking the box explained above. Your opt-out stays active as long as the opt-out cookie remains stored in your web browser. Please, remember that your must check the opt-out box for each web browser that you use.
+### 5\. Qualaroo
 
-### Criteo
+We use Qualaroo, a web analytics service provided by Qualaroo, 122 East Houston Street, San Antonio, TX 78205, USA (“Qualaroo”). Qualaroo also uses cookies. The information generated by the cookies regarding your use of this website will, as a rule, be transmitted to and stored on a server of Qualaroo in the US. Qualaroo will use this information on our behalf to analyse your use of the website and to compile reports on website activities.
 
-This website uses the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (http://www.criteo.com/).The advertisements are displayed on the basis of information that is stored in cookies which Criteo places on your computer. Cookies are small text files used to store a record. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Criteo is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Criteo will not merge this information with your personal data and will not disclose any of your personal data to any third party.
+In particular, the following information will be stored:
 
-You can prevent the storing and using of information in a cookie placed by Criteo by clicking on the following link <http://www.criteo.com/en/privacy-policy> and using the controller next to “Opt-Out” by switching it to “ON”.  
-When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser that tells Criteo to cease data collection from and ad delivery to your browser. You can opt-in to Criteo’s ads again at any time by switching the controller to “OFF”. Please be aware that this configuration will be necessary for each of your browsers. In case all of your cookies in a browser are deleted, also the Opt-Out-Cookie of Criteo will be affected.
+  * OS, Browser
+  * IP address
+  * geolocation
+  * time stamp
 
-## Information We Share
 
-We may share the information you provide with companies that are related to Springer Verlag  through common ownership. This may be for the reasons of maintaining and updating your registration details with us, or for the purposes of processing online payments or issuing you with an invoice.  Where physical goods are to be shipped to you we may also provide details to our fulfilment entity within Springer Nature.  We may also share the personal information we obtain with our publishing partners during and upon termination of our publishing relationship.
 
-If we obtained your consent, we may share information about you with non-affiliated joint marketing partners and/or third parties whose products or services may be of interest to you. These third parties may contact you directly about their products and services. We will not share your information with these third parties for their own marketing purposes if you request that we not do so. We may, however, engage in joint marketing activities with selected third parties and may share personal information about our Site visitors with them.
+Qualaroo does however not collect any personally identifiable data. For more information about privacy policies and Qualaroo, please refer to the Qualaroo website: <https://qualaroo.com/privacy-policy/>
 
-We share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings.
+### 6\. CrazyEgg
 
-Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.
+We use CrazyEgg, a web analytics service provided by Crazy Egg, Inc. 16220 E. Ridgeview Lane La Mirada, CA 90638, USA (“CrazyEgg”). CrazyEgg uses cookies to collect interaction data. The information generated by the cookies regarding your use of this website will, as a rule, be transmitted to and stored on a server of CrazyEgg in the US. CrazyEgg will use this information on our behalf to analyse your use of the website in A/B-tests and to compile heatmaps and reports on website activities.
 
-We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We may transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+In particular, the following information will be stored:
 
-## Links To Other Websites
+  * mouse scrolls and clicks
+  * keystrokes entered (not including data to identify the visitor)
+  * pages viewed or visited, including the duration of such visits
+  * images of our site that are recorded during your interactions with the site
 
-Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with  **APRESS LLC** , or the privacy practices of those websites.
 
-## Children's Privacy
 
-Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
+You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by CrazyEgg, by placing the opt-out cookie available at the following link on your computer: <https://www.crazyegg.com/opt-out>
 
-## How We Protect Personal Information
+Please note that the cookie is set for a specific computer and browser. Therefore, if you visit our website using different browsers, you will need to revisit the link above in order to reset your opt-out decision, in order for it to be effective.
 
-We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+For more information about privacy policies of CrazyEgg, please refer to the website <https://www.crazyegg.com/privacy> or contact CrazyEgg’s designated officer [privacy@crazyegg.com](mailto:privacy@crazyegg.com).
 
-## Your Choices
+### 7\. Marvellous Machine
 
-We give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. [Click here](mailto:customerservice@springernature.com.?subject=Please%20opt%20me%20out%20of%20all%20marketing%20e-mails%20from%20you%20and%20your%20related%20companies.) to send us an e-mail with your name and e-mail address, if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes.
+„Marvellous Machine“ is a cookie based targeting technology by Maytrics GmbH, Graf-von- Stauffenberg-Weg 1b, 59379 Selm, Germany. Marvellous Machine registers pseudonymized information about visits and interactions of users with your website for advertising purposes. In no case pseudonymized data is used to identify the user of the website personally. Please visit https://www.marvellousmachine.net/consent/[CAMPAIGNID] to object to cookies set by Marvellous Machine.
 
-Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us" below, and we will endeavor to resolve the issue.
+The abovementioned scripts collect the following information:
 
-## Notice to California Residents
+  * User IP
+  * User Agent
+  * Timestamp
+  * Product IDs of the products that were viewed, searched for or purchased.
+  * Page URLs of the visited sites
+  * Search terms
+  * Category IDs of the visited categories
+  * Order numbers of the purchases
+  * Total prices of the purchases
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled "Your Choices", if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes, please follow the appropriate opt-out link in that section.
 
-## Access and Correction
 
-Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable (No charge is applied in Germany)  before we provide a copy to you of any of your personal information that we maintain.
+All information is transmitted through ssl encrypted transfers and stored on private key secured servers in password protected databases. All servers and databases are located in Germany. The data is kept for 120 days and deleted afterwards. 
 
-## Data Transfers
+The data is enriched with information from the advertiser's product feed. Additionally the page urls are crawled and analysed. No third party data is purchased or used in any way. 
 
-We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
+Please visit <https://www.marvellousmachine.net/status> to get an overview of the tracking information in your client/webbrowser for each campaign.
 
-## Updates To Our Online Privacy Notice
+### 8\. Trustpilot
 
-Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
+We use Trustpilot, a user feedback and rating service provided by Trustpilot, Inc., 245 5th Avenue, 4th floor, New York, NY 10016, USA (“Trustpilot”). Trustpilot provides a form to enter your feedback about our website and to rate your user experience and product quality. If you use this option, all entries are completely voluntary and the results are published on <https://www.trustpilot.com/> under a selectable pseudonym. Product reviews may be published on our website as well as in Google search results.
 
-## How To Contact Us
+For more information about privacy policies of Trustpilot, please refer to the website <https://legal.trustpilot.com/end-user-privacy-terms>.
 
-If you have any questions about this Online Privacy Notice, or if you would like to update information we have about you or your preferences:
+### 9\. Sparkpost
 
-E-mail us at [customerservice@springernature.com](mailto:onlineservice@springernature.com)
+We use Sparkpost to deliver our newsletters, author and other target group service emails and transactional emails. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-mail services. For more information, please see [Sparkpost’s Privacy Policy](https://www.sparkpost.com/policies/privacy/).
 
-Write to us at
+### 10\. Akanoo  
 
-Apress Media LLC, 233 Spring Street, New York, NY 10013
+
+We use Akanoo, a web analysis service of Akanoo GmbH, Mittelweg 121, 20148 Hamburg, within the scope of our legitimate interests in the analysis, optimisation and economic operation of our online services pursuant to Article 6 paragraph 1 lit. f DSGVO. Akanoo uses cookies, which are stored on your computer and enable an analysis of the use of our website. The information generated by Akanoo cookies is transferred to a server of Akanoo GmbH in Germany and stored there. Akanoo uses this information on our behalf to learn and evaluate your visitor behaviour by means of an anonymous user profile on the website and to provide us with further analysis and optimisation services in connection with the use of the website and the Internet. The IP address transmitted by your browser to Akanoo is shortened before it is stored so that it is not possible to directly identify a specific person. Under no circumstances will your anonymized user profile be merged with your personal data. It will be deleted as soon as the underlying purpose of the legitimate interest ceases to apply and there are no legal obligations to retain the data. 
+
+Further use of personal data by Akanoo will not take place due to anonymisation and the resulting loss of personal reference.   
+You may terminate the further collection by Akanoo GmbH of the data generated by Akanoo cookies and related to your use of the website and the processing of this data by Akanoo GmbH at any time by removing the stored cookie in the settings of your browser software. You can prevent the storage of Akanoo cookies by setting your browser software accordingly ("Do-Not-Track").   
+If you have several browsers in use, you must make the setting in each browser separately. However, we would like to point out that in this case you may not be able to use all functions of the website to their full extent.   
+
+
+### 11\. Opt Out
+
+You maintain at all times the right to completely disallow the collection and saving of your data. To do so, please [click here](https://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
+
+## X. Third party content and social media plug-ins
+
+### 1\. Social media plug-ins
+
+We use the following social media plug-ins: Facebook, Google+, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.
+
+Transfer of personal data takes places whether you have an account with the provider or not.
+
+Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.
+
+Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.
+
+#### a) Facebook Social Plugins
+
+We use so-called social plugins („plugins“) of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>.  
+If a user visits one of the websites using such a plugin, the user’s browser directly connects to Facebook’s servers. The plugin and its content are made available directly on Facebook’s servers and included in the website by the user’s browser.      
+Due to the integration of the plugin Facebook collects the information that a user is visiting the corresponding website. If the user is logged in on Facebook at the moment he or she visits the website, Facebook may be able to connect the visit on the website to the user’s Facebook account. If the user interacts with the plugin – for example if he or she presses the like button or comments on something – the user’s browser transmits this information to Facebook. Facebook stores this information. If a user is not a member of Facebook, Facebook may collect and store the user’s IP-address. Facebook states that it only collects anonymized IP-addresses in Germany.      
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Facebook, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under: <http://www.facebook.com/policy.php>.  
+If the user is a member of Facebook and does not wish Facebook to collect personal data via this homepage and to link this with his data stored on Facebook, the user needs to log off from Facebook before going to this homepage.      
+The user may also block Facebook’s plugins using add-ons for the user’s browser, for example the „Facebook Blocker“.
+
+#### b) Google’s +1-button
+
+We use the “+1”-button of the social network Google Plus provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). The button is market using the sign “+1” on a white or colored background.      
+If a user visits one of the websites using such a button, the user’s browser directly connects to Google’s servers. The “+1”-button and its content are loaded directly from Google’s servers and included in the website by the user’s browser. According to Google’s statements, personal data is only collected, if a user that is a Google Plus member and logged in on the network at the time of clicking on the “+1”-button.      
+The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Google, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in Google’s privacy statement relating to the “+1”-button: <http://www.google.com/intl/de/+/policy/+1button.html>.
+
+#### c) Twitter
+
+We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.      
+If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only be used for loading and displaying the Twitter-button.      
+Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.
+
+Should you have any questions regarding our privacy policy, please contact us via the e-mail address [dataprotection@springer.com](mailto:dataprotection@springer.com).
+
+## XI. Information sharing
+
+Your personal data will only be disclosed to a third party to the extent necessary to fulfill our contractual relationship:
+
+  * Responsible partner for customers domiciled or established in the Americas (North America, Central America, South America): Springer Nature Customer Service Center LLC, 233 Spring St, New  York, NY, 10013 United States, phone 1-866-839-0194, fax +1 212 460 1700, Email: [customerservice@springernature.com](mailto:customerservice@springernature.com).
+  * Responsible partner for customers domiciled or established in Europe, Middle East, Africa, Asia, Oceania: Springer Nature Customer Service Center GmbH, Tiergartenstr. 15-17, 69121 Heidelberg, Germany, phone +49 (0) 6221 345 4303, fax +49 6221 345 4229, Email: [customerservice@springernature.com](mailto:customerservice@springernature.com).
+
+
+
+Legal basis for the transfer of your personal data is Article 6 sec. 1 sent. 1 lit. b and f GDPR and represents our legitimate interest to implement our general terms and conditions of business or any other agreements concluded with you.
+
+We may disclose anonymous aggregate statistics about users of the website in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personal data.
+
+We may disclose your personal data to following contractors who assist us in providing the services we offer through the website
+
+  * Teradata GmbH, Nymphenburger Höfe NYII, Dachauer Straße 63, 80335 München, Germany
+
+
+
+Such a transfer will be based on data processing agreements. Therefore, our contractors will only use your personal data to the extent necessary to perform their functions and will be contractually bound to process your personal data only on our behalf and in compliance with our requests.
+
+In the event that we undergo re-organisation or are sold to a third party, any personal data we hold about you may be transferred to that re-organised entity or third party in compliance with applicable law.
+
+We may disclose your personal data if legally entitled or required to do so (for example if required by law or by a court order).
+
+## XII. Cross border data transfers
+
+Within the scope of our information sharing activities set out above, your personal data may be transferred to other countries (including countries outside the EEA) which may have different data protection standards from your country of residence. Please note that data processed in a foreign country may be subject to foreign laws and accessible to foreign governments, courts, law enforcement, and regulatory agencies. However, we will endeavour to take reasonable measures to maintain an adequate level of data protection when sharing your personal data with such countries.
+
+In the case of a transfer outside of the EEA, this transfer is safeguarded by either Privacy Shield or EU Model Clauses. You can find further information about the aforementioned safeguards by contacting the Group Data Protection Officer via [dataprotection@springer.com](mailto:dataprotection@springer.com).
+
+## XIII. Security
+
+We have reasonable state of the art security measures in place to protect against the loss, misuse and alteration of personal data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to personal data. Whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts to prevent it.
+
+You should bear in mind that submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our website whilst it is in transit over the internet and any such submission is at your own risk.
+
+## XIV. Data retention
+
+We strive to keep our processing activities with respect to your personal data as limited as possible. In the absence of specific retention periods set out in this policy, your personal data will be retained only for as long as we need it to fulfil the purpose for which we have collected it and, if applicable, as long as required by statutory retention requirements.
+
+## XV. Your rights
+
+Under the legislation applicable to you, you may be entitled to exercise some or all of the following rights:
+
+  1. require (i) information as to whether your personal data is retained and (ii) access to and/or duplicates of your personal data retained, including the purposes of the processing, the categories of personal data concerned, and the data recipients as well as potential retention periods;
+  2. request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn;
+  3. refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time;
+  4. object, on grounds relating to your particular situation, that your personal data shall be subject to a processing. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your personal data or present you our compelling legitimate grounds for an ongoing processing;
+  5. take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators;
+  6. require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side; where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller; and/or
+  7. not to be subject to any automated decision making, including profiling (automatic decisions based on data processing by automatic means, for the purpose of assessing several personal aspects) which produce legal effects on you or affects you with similar significance.
+
+
+
+You may (i) exercise the rights referred to above or (ii) pose any questions or (iii) make any complaints regarding our data processing by contacting us using the contact details set out below.
+
+## XVI. Contacting us
+
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to our Group Data Protection Officer. You can contact our Group Data Protection Officer via [dataprotection@springer.com](mailto:dataprotection@springer.com).
+
+The information you provide when contacting us ([customerservice@springernature.com](mailto:customerservice@springernature.com)) will be processed to handle your request and will be erased when your request is completed. Alternatively, we will restrict the processing of the respective information in accordance with statutory retention requirements.
+
+## XVII. Amendments to this policy
+
+We reserve the right to change this policy from time to time by updating our website respectively. Please visit the website regularly and check our respective current privacy policy. This policy was last updated on May 1st 2018.
