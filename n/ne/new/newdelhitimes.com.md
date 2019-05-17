@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203111842id_/http%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518005500id_/https%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Delhi Times - India's Only International Newspaper
 
@@ -16,17 +16,17 @@ When we share log file information with our advertisers, partners, or anyone els
 
 **Cookies**
 
-We use “cookies” to allow you to customize certain aspects of the site and to measure overall traffic patterns on our site. For example, cookies can tell us which sections of [newdelhitimes.com](http://newdelhitimes.com/) are most popular with our users. Cookies served by[newdelhitimes.com](http://newdelhitimes.com/) do not gather demographic information about our users.
+We use “cookies” to allow you to customize certain aspects of the site and to measure overall traffic patterns on our site. For example, cookies can tell us which sections of [newdelhitimes.com](https://newdelhitimes.com/) are most popular with our users. Cookies served by[newdelhitimes.com](https://newdelhitimes.com/) do not gather demographic information about our users.
 
 (A cookie is a small piece of information that our web servers send to your browser and that is stored on your computer. That small piece of information allows our computers to recognize revisiting users and also allows our computers to remember things about your past interaction with the site, such as user preferences and such.
 
 **Cookies & Advertising**
 
-Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our site may also use their own cookies. You may choose not to accept any cookies from any party by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by [newdelhitimes.com](http://www.newdelhitimes.com/ "new delhi times. com").
+Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our site may also use their own cookies. You may choose not to accept any cookies from any party by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by [newdelhitimes.com](https://www.newdelhitimes.com/ "new delhi times. com").
 
 **Newsletters**
 
-If a user wishes to subscribe to any of our mailing lists or email alerts, we may ask for some basic demographic information. We use this information to learn more about what kind of person is using our site, and we share that information, only in the aggregate-with our advertisers, partners and potential partners. In the future, we may use the demographic information that we gather to send you [newdelhitimes.com](http://www.newdelhitimes.com/ "new delhi times. com") content that may be of special interest to you.
+If a user wishes to subscribe to any of our mailing lists or email alerts, we may ask for some basic demographic information. We use this information to learn more about what kind of person is using our site, and we share that information, only in the aggregate-with our advertisers, partners and potential partners. In the future, we may use the demographic information that we gather to send you [newdelhitimes.com](https://www.newdelhitimes.com/ "new delhi times. com") content that may be of special interest to you.
 
 You may choose not to give us any information other than your e-mail, and you will be able to benefit from the service.
 
@@ -46,8 +46,8 @@ While we use SSL encryption to protect sensitive information online, we also pro
 
 **Special Offers**
 
-For those [newdelhitimes.com](http://www.newdelhitimes.com/ "new delhi times. com") users who have registered for any of our special services, we periodically send out updates about new features and sections of our site. Out of respect for the privacy of our users we present the option to not receive these types of communications. If there is a change to one of the services that you are subscribed to, we may send you a service update that it is not possible to opt out of.
+For those [newdelhitimes.com](https://www.newdelhitimes.com/ "new delhi times. com") users who have registered for any of our special services, we periodically send out updates about new features and sections of our site. Out of respect for the privacy of our users we present the option to not receive these types of communications. If there is a change to one of the services that you are subscribed to, we may send you a service update that it is not possible to opt out of.
 
 **Links**
 
-This web site contains links to other sites. Please be aware that the [newdelhitimes.com](http://www.newdelhitimes.com/ "new delhi times. com") is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
+This web site contains links to other sites. Please be aware that the [newdelhitimes.com](https://www.newdelhitimes.com/ "new delhi times. com") is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
