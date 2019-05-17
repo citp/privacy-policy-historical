@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226160421id_/https%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofascore.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517061342id_/https%3A//www.sofascore.com/news/privacy-policy) for the most accurate reproduction.*
 
 # SofaScore News
 
