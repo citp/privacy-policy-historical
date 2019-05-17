@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827140239id_/https%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517170022id_/https%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- iUniverse
 
 **_Effective Date: February 11, 2016_**
 
-iUniverse, a subsidiary of Get Published! LLC, an Author Solutions LLC company (“we”, “us” or “our”) respects your privacy and values the relationship we have with you. This Privacy Policy describes the types of information we may collect from you, how we use the information, with whom we share it, and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how users of this website and our customers can contact us about our privacy practices. 
+iUniverse, a subsidiary of Get Published! LLC, an Author Solutions LLC company (“we”, “us” or “our”) respects your privacy and values the relationship we have with you. This Privacy Policy describes the types of information we may collect from you, how we use the information, with whom we share it, and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how users of this website and our customers can contact us about our privacy practices.
 
 Click on one of the links below to jump to the listed section:
 
 Information We Collect About You
 
-         Information You Provide
+Information You Provide
 
-         Information We Collect Through Automated Means
+Information We Collect Through Automated Means
 
-         Third Party Web Analytics Services
+Third Party Web Analytics Services
 
-         Targeted Advertising
+Targeted Advertising
 
-         California Do Not Track Notice
+California Do Not Track Notice
 
 How We Use Your Information
 
@@ -40,13 +40,13 @@ Changes To This Privacy Policy
 
 Contact Information
 
-**By using this website, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use this website.  We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice.  Your continued use of the website following the posting of changes to these terms will mean you accept those changes.**
+**By using this website, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use this website. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of the website following the posting of changes to these terms will mean you accept those changes.**
 
-  ** _Information We Collect About You_**
+**_Information We Collect About You_**
 
 We may obtain personal information about you from various sources. We may collect this information when you provide it over the phone, on our website, or at one of our events. When you visit this website, we may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons.
 
-  _ **Information You Provide.**_ You may choose to provide personal information to us in a number of ways, such as when you create an account on this site, purchase our services on this site or over the phone or participate in an offer, promotion or survey. The types of personal information you may provide to us includes:
+_**Information You Provide.**_ You may choose to provide personal information to us in a number of ways, such as when you create an account on this site, purchase our services on this site or over the phone or participate in an offer, promotion or survey. The types of personal information you may provide to us includes:
 
   * Contact information (such as name, postal address, email address, and phone number)
   * Payment information (such as your credit card number, expiration date, delivery address and billing address, banking account, and tax-related information)
@@ -60,7 +60,7 @@ We may obtain personal information about you from various sources. We may collec
 
 Personal information excludes any information you may choose to submit publicly, such as reviews, comments, critiques, editorials, testimonials, documentaries, forum or blog discussions.
 
-  _ **Information We Collect Through Automatic Means.**_ When you visit this website, or interact with our emails or our online advertisements, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons. As set forth in more details below, we may also collect information about your usage and browsing habits using various web-based technologies.
+_**Information We Collect Through Automatic Means.**_ When you visit this website, or interact with our emails or our online advertisements, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons. As set forth in more details below, we may also collect information about your usage and browsing habits using various web-based technologies.
 
 The technologies we may use for this automatic data collection may include:
 
@@ -70,19 +70,19 @@ The technologies we may use for this automatic data collection may include:
 
 
 
-  _ **Third Party Web Analytics Services**_
+_**Third Party Web Analytics Services**_
 
 We may use third party web analytics services on this website, such as Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs, web beacons and similar technologies to help us analyze how visitors use this website, our emails and our online advertisements. The information collected through these means is disclosed to these service providers.
 
-  ** _Targeted Advertising_**
+**_Targeted Advertising_**
 
-We also may allow third-party advertising services and networks to use cookies, web server logs, web beacons and similar technologies on our websites and emails; on third party websites and emails; and on our advertising placed on third party websites. They use this information to provide advertisements about our services that may be of interest to you. You may see these advertisements on other websites.  We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third parties to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites beyond this website. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
+We also may allow third-party advertising services and networks to use cookies, web server logs, web beacons and similar technologies on our websites and emails; on third party websites and emails; and on our advertising placed on third party websites. They use this information to provide advertisements about our services that may be of interest to you. You may see these advertisements on other websites. We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third parties to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites beyond this website. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp "https://www.networkadvertising.org/managing/opt_out.asp").
 
-  ** _California Do Not Track Notice_**
+**_California Do Not Track Notice_**
 
-Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked.  We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on this website for these purposes. 
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on this website for these purposes.
 
-  ** _How We Use Your Information_**
+**_How We Use Your Information_**
 
 We use the information you provide to us and that we collect through automated means to:
 
@@ -101,7 +101,7 @@ We use the information you provide to us and that we collect through automated m
 
 
 
-  ** _Information We Share_**
+**_Information We Share_**
 
 We do not rent lists, or sell or otherwise disclose personal information we collect about you, except as described below. We may share your personal information with:
 
@@ -119,48 +119,48 @@ We may also disclose your personal information:
 
 
 
-  ** _Your Rights and Choices_**
+**_Your Rights and Choices_**
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * Email Opt-Out. You can at anytime tell us not to send you marketing communications by email at [unsubscribe@iuniverse.com](mailto:unsubscribe@iuniverse.com) within the marketing emails you receive from us. This opt-out does not apply to communications we send to you in relation to your transactions with us.
-  * Google Analytics Display Advertising.  We utilize Google Analytics Display Advertising to remarket to you by displaying our ads to you on third party websites. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by clicking [Ads Settings](https://www.google.com/settings/ads "Ads Settings").
-  * Reviewing, Updating and Modifying Personal Information.  Subject to applicable law, you may have the right to request access to and receive details about you and update and correct inaccuracies in your personal information. Please note that only you, however, can change or delete tax information, including your TIN, previously provided to us through your Author Center on this website.  We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
-  * Do Not Call.  If you do not want to receive sales calls from us, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 10 days. You can make this request by email at [donotcall@iuniverse.com](mailto:donotcall@iuniverse.com) or via mail addressed to iUniverse, Attn: Do Not Call List, 1663 Liberty Drive, Bloomington, IN 47403. When submitting a request, be sure to include all the relevant information that you want added to our Do Not Call List, i.e., full name, address, and telephone number(s). Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
+  * Google Analytics Display Advertising. We utilize Google Analytics Display Advertising to remarket to you by displaying our ads to you on third party websites. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by clicking [Ads Settings](https://www.google.com/settings/ads "Ads Settings").
+  * Reviewing, Updating and Modifying Personal Information. Subject to applicable law, you may have the right to request access to and receive details about you and update and correct inaccuracies in your personal information. Please note that only you, however, can change or delete tax information, including your TIN, previously provided to us through your Author Center on this website. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+  * Do Not Call. If you do not want to receive sales calls from us, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 10 days. You can make this request by email at [donotcall@iuniverse.com](mailto:donotcall@iuniverse.com) or via mail addressed to iUniverse, Attn: Do Not Call List, 1663 Liberty Drive, Bloomington, IN 47403. When submitting a request, be sure to include all the relevant information that you want added to our Do Not Call List, i.e., full name, address, and telephone number(s). Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
 
 
 
-  ** _Children Under the Age of 13_**
+**_Children Under the Age of 13_**
 
-This website is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on this website. 
+This website is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on this website.
 
-  ** _Data Security_**
+**_Data Security_**
 
 We take reasonable steps to help protect and secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. However, please remember that no data storage or data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, we cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge and agree that you transmit your personal information to this website at your own risk.
 
-The safety and security of your information also depends on you. You should never submit to us payment or tax information via email.  Where we have given you (or where you have chosen) a password for access to certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+The safety and security of your information also depends on you. You should never submit to us payment or tax information via email. Where we have given you (or where you have chosen) a password for access to certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-  ** _Links To Other Websites_**
+**_Links To Other Websites_**
 
-This website may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest your review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for those websites’ content, any use of the websites, or the privacy practices of the websites.  
+This website may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest your review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for those websites’ content, any use of the websites, or the privacy practices of the websites. 
 
-  ** _Governing Law_**
+**_Governing Law_**
 
 This website is published in the United States. We attempt to protect the personal information of all users of the website and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services, but the website is located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to us.
 
-  ** _Notice To Non-US Users_**
+**_Notice To Non-US Users_**
 
 If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us on this website, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
 
-  ** _Changes To This Privacy Policy_**
+**_Changes To This Privacy Policy_**
 
-We may add new services and features to this website. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on this website.  
+We may add new services and features to this website. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on this website. 
 
-  ** _Contact Information_**
+**_Contact Information_**
 
-To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: 
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at:
 
-ATTENTION:  GENERAL COUNSEL  
+ATTENTION: GENERAL COUNSEL  
 AUTHOR SOLUTIONS LLC  
 1663 LIBERTY DRIVE  
 BLOOMINGTON, IN 47403 (USA)
