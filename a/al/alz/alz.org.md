@@ -1,155 +1,132 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517051659id_/https%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517050846id_/https%3A//www.alz.org/Security-and-Privacy-Policy) for the most accurate reproduction.*
 
-# About This Site Content | Alzheimer's Association
+# Security and Privacy Policy | Alzheimer's Association
 
-  
+## Privacy policy
 
+The Alzheimer’s Association and its affiliates (collectively “AA”) is committed to protecting your privacy. This Privacy Policy describes how AA collects, uses, and shares your information when you use and interact with our Services and applies to all persons who use our Services (“Users”). Our Privacy Policy governs your access to and use of all AA operated and controlled websites including [http://www.alz.org](http://www.alz.org/) (the “Website”), all other publicly available online services controlled or provided by AA (collectively, the “Services”).
 
-## Introduction
+If you have questions about AA’s Privacy Policy or practices, or if you need to contact us about the information we collect about you, our contact information is at the end of this Privacy Policy.
 
-The Alzheimer's Association website provides information on the symptoms and signs, seven stages, diagnosis, treatment and care of Alzheimer's disease and dementia.  Get support from our 24/7 Helpline, message boards and your local Alzheimer's Association Chapter. We also provide updates on Alzheimer's Association programs, partners and events. 
+## Applicability & Eligibility
 
-Our audience includes caregivers; people living with dementia and their families; care professionals and researchers; Alzheimer advocates; and the general public. 
+**Applicability**
 
-Alz.org provides general information about Alzheimer's disease and related dementias, and does not take the place of professional medical advice, diagnosis or treatment. If you have noticed possible symptoms of Alzheimer's disease in yourself or someone else, please see a doctor.
+This Privacy Policy applies only to the Services, and AA’s collection, use, disclosure, and protection of your data. It does not apply to third party websites, applications, or services.
 
-Content on our site is written by Alzheimer's Association staff members. It is reviewed by subject matter experts that include physicians, researchers and clinicians. 
+Before accessing, using, or interacting with the Services you should carefully review the terms and conditions of this Privacy Policy.
 
-We do not accept or host paid advertising on www.alz.org. The Alzheimer's Association and its website is supported by the generosity of our donors. 
+**Eligibility To Use The Services**
 
-## Permission to use material from this website / reprints / copyright
+The Services are not directed to children under the age of 16. You may not use the Services if you are under the age of 16.
 
-The Alzheimer's Association retains copyright on the content of this site, unless otherwise noted. 
+## Information Collection & Use
 
-**Reprint or reuse of information from this site without change**
+AA collects data about you and your use of the Services (“Personal Data”) through various means, including when you provide information to us such as when you join, sign up for a membership, donate, register for events and webinars, and when we automatically collect information about you when you access, use, or interact with the Services. We use this information for a variety of different reasons, including to improve the Services and to tailor the Services to you.
 
-To request permission to use information from this website, send an email describing intended use, duration and contact information to [copyright@alz.org](mailto:copyright@alz.org)
+AA processes Personal Data collected through the Services on the lawful basis of legitimate interests to provide the Services to you. Such processing is necessary for the purposes of the legitimate interests pursued by AA or by our Service Providers related to the Services.
 
-**Translations and adaptations**
+The types of information AA may collect about you include:
 
-Translations or adaptations of Alzheimer's Association content must be reviewed and approved by the Alzheimer's Association. Please send an email describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
+**Information You Provide To Us:**
 
-**Using content from Association press releases**
+**AA Membership & Event Information:** AA collects certain Personal Data from you when you join the AA or register for AA events. “Personal Data” refers to information about you that may be used to identify you, such as your first name, last name, title, email address, phone number, and mailing address . AA uses this information to provide your membership, register you for events, provide information about memberships and events, and administer your registrations with AA.
 
-Reprint of Alzheimer's Association content or references to Alzheimer's Association contact information in an organization's press release must be approved by the public relations director of the Association. Please send queries to [media@alz.org](mailto:media@alz.org)
+**AA Account Information:**  AA may require you to register for an account (an “AA Account”) in order to use certain Services, such as the AA Career Center. We do not require you to register to use all of our Services. However if you do register for Services offering an AA Account, you will gain access to those areas and features of the Services that require registration. AA will collect certain information about you in connection with your registration for your AA Account, which may include Personal Data and other information such as a username, password, personal profile, pictures, your location, and information about your contacts. Some of your AA Account information may be displayed publicly. You are not required to provide your Personal Data; however, if you choose to withhold certain Personal Data, we may not be able to provide you with certain Services.
 
-**Logos**
+**Payment Transaction Information:**  We may collect and store information related to purchases and donations made through the Services. You may provide certain information to complete payments via the Services, including your credit or debit card number, card expiration date, CVV code, and billing address (collectively, “ **Payment Information** ”), along with your name and billing, delivery and shipping address, to complete payment transactions through certain Services.
 
-Using any of the Alzheimer's Association's registered trademarks (logos) without the Association's prior consent is strictly prohibited. Please send written requests describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org).
+Please note AA works with Service Providers (as defined below) to handle payment transactions. AA does not itself collect or maintain your credit card or other financial account information; this information is handled for AA by our Service Providers. You are subject to the Privacy Policies and Terms and Conditions of our Service Providers when purchasing an AA membership, shopping for AA products, or making donations, the terms of which may differ from those of AA for the AA Services. Please review the Service Providers’ Privacy Policies and Terms and Conditions before using their services.
 
-**Photographs and graphics**
+**Form Information:**  We may use online forms to request certain information from you in order to perform certain Services, such as your location to assist you in locating our products, or your contact information to assist with contacts or service requests. This information may include Personal Data.
 
-The photographs and graphics on our website are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.
+**Correspondence Information:**  If you sign up for a membership, attend a conference or event, email us, subscribe to our newsletters mailing lists, publications, or blogs, we may keep your message, email address, and contact information to respond to your requests, provide the requested products or Services, and to provide notifications or other correspondences to you. If you do not want to receive email from us in the future, you may let us know by sending us an email or by writing to us at the address below. Please note requests to remove your email address from our lists may take some time to fulfill. We may also still contact you as needed to provide important announcements or notifications regarding the Services.
 
-However, Stacy Janis images from Inside the Brain: An Interactive Tour are available to third parties. Please send requests to [brandhelp@alz.org](mailto:brandhelp@alz.org).
+**Support Information:**  You may provide information to us via a support request submitted through the Services. We will use this information to assist you with your support request and may maintain this information to assist you or other Users with support requests. Please do not submit any information to us via a support submission, including confidential or sensitive information that you do not wish for AA or our Service Providers to have access to or use in the future.
 
-## Linking requirements
+**Information We Collect Automatically:**
 
-When linking to the Alzheimer's Association website, web managers should be aware that the Alzheimer's Association trademarks are not available for posting or replication on third party websites without a written agreement with the Association. As part of the permission agreement for web linking, third parties must post the following with any trademark. URL or content used from an Association website:
+**Cookies, Web Beacons, Links, And Other Tracking Technologies:**  AA may keep track of how you use and interact with the Services through the use of cookies, web beacons, links, and other tracking technologies. We do this to help analyze the use of and improve the Services. Through these technologies we may automatically collect information about your use of the Services and other online activities, including our email correspondences, third-party services, and client applications, and certain online activities after you leave the Services. Link information is generally only analyzed on an aggregate basis. Some Services may not function properly if you disable cookies. Such data may include analytics information, sites visited before visiting the Services, browser type, operating system, and tracking of your interactions with our content and emails.
 
-Linking Disclaimer: _The Alzheimer's Association is not responsible for information or advice provided by others, including information on websites that link to Association sites and on third party sites to which the Association links. Please direct any questions to[weblink@alz.org](mailto:weblink@alz.org).  
-_
+**Unique Identifiers:**  When you use or access the Services, we may access, collect, monitor, store on your device, and/or remotely store one or more "Unique Identifiers," such as a universally unique identifier (“UUID”). A Unique Identifier may remain on your device persistently, to help you log in faster and enhance your navigation through the Services. Some features of the Services may not function properly if use or availability of Unique Identifiers is impaired or disabled.
 
-## Disclaimer
+**Log File Information:**  When you use our Services, we may receive log file information such as your IP address, browser type, access times, domain names operating system, the referring web page(s), pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information. We receive log file data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications. AA uses log file data to provide, understand, and improve our Services, and to customize the content we show you. AA may link this log file to other information AA collects about you via the Services.
 
-The Alzheimer's Association works to ensure that the information provided on its authorized website is accurate, timely and useful. However, the information contained on Alzheimer's Association websites should not be considered medical guidance or professional advice. The Alzheimer's Association, its affiliates or agents, or any other parties involved in the preparation or publication of this site are not responsible for errors or omissions in information provided on this site or any actions resulting from the use of such information. Visitors are encouraged to confirm the information contained herein with other reliable sources and to direct any questions concerning their personal health to licensed physicians or other appropriate health care professionals. Corrections and additions to this site will be made when necessary or as time permits. 
+**Public Information:**  AA may also collect information about you from publicly available sources. Information you make publicly available in any public or open forum, such as on a social network, may be considered public information for the purposes of this Privacy Policy, and may be accessed and collected by AA. Please be aware that any content or information you share with or provide to third parties using or related to your use of the Services is neither private, nor confidential. AA is not responsible for any content or information you post or share with third parties. If you do not wish for certain information to be public, please do not share it.
 
-## Security and privacy policy 
+## Information Sharing
 
-The Alzheimer's Association (" **we** ", " **our** ", " **us** ") is committed to protecting your privacy.  This Privacy Policy applies to our collection, use and disclosure of information about you when you visit our website.  This Privacy Policy does not apply to websites, applications, services or products that do not display or link to this policy or that have their own privacy policy.  By using our website, you consent to the collection and use of the information described in this Privacy Policy. 
+**AA Personnel:  **AA’s personnel may have access to your information as needed to provide and operate the Services in the normal course of business. This includes information regarding your use and interaction with the Services.
 
-**What Personal Information Do We Collect?**
+**Service Providers:**  AA works with various organizations and individuals to help provide the Services to you ("Service Providers"), such as website and data hosting companies and companies providing analytics information, like Google Analytics. We may share your personal information with our Service Providers for the purpose of providing the Services. The information we share to our Service Providers may include both information you provide to us and information we collect about you, including Personal Data and information from data collection tools like cookies, web beacons, log files, Unique Identifiers, and location data. AA takes reasonable steps to ensure that our Service Providers are obligated to reasonably protect your information on AA’s behalf. If AA becomes aware that a Service Provider is using or disclosing information improperly, we will take commercially reasonable steps to end or correct such improper use or disclosure.
 
-We only collect personally identifiable information (" **Personal Information** ")  that you provide to us voluntarily when you fill out a form or survey, make a request or inquiry, make an online donation, register for an event, or post on our message boards.  The Personal Information we may collect includes the following:
+**Business Transactions:**  AA may purchase other businesses or their assets, sell our business assets, or be involved in a bankruptcy, merger, acquisition, reorganization or sale of assets (a “Business Transaction”). Your information, including Personal Data, may be among assets sold or transferred as part of a Business Transaction.
 
-  * **Contact Information** – When you contact us with a question or comment, we may collect Personal Information that allows us to be in contact with you, such as your name, address, email address and phone number. 
-  * **Payment Information** – If you make an online donation, we will ask you to provide us with your name, address, email address, phone number and payment information such as your credit card number and expiration date. You may also choose to provide us with additional information such as your connection to Alzheimer's, the motivation of your donation, and your employer. 
-  * **Registration Information** – We may provide online registration for our events.  When you register for an event, we may collect your Contact Information and other Personal Information you choose to provide to us such as your preferences and connection to Alzheimer's. 
-  * **Message Board Information** – We may collect any Personal Information you choose to post on a message board on our website. Please remember that any information you disclose on a message board becomes accessible by the public.
+**Lawful Requests:**  We may be required to disclose User information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We generally do not disclose User information unless we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. We may share your information when we believe it is necessary to comply with applicable laws, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Services or using the AA name, or to protect the safety of any person. This may include sharing information with other companies, lawyers, agents, or government agencies. Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
 
+## Your Rights and Choices Regarding Your Information
 
+**Your Rights**
 
-In addition, we may collect Personal Information that you voluntarily provide to us when you submit a survey, request or inquiry or otherwise correspond with us, or link your social media account (e.g., Facebook) to our website. We may also collect your IP address and aggregate web server traffic information such as the number of visitors to our website, length of stay and sources of traffic in order to improve our website and our service to you, along with other usage data detailed below. 
+Relevant data protection laws provide you certain rights regarding the protection of your data, including:
 
-**How We Use Personal Information?**
+  * **the right to access** - Upon request, AA will confirm any processing of your Personal Data and, and provide you with a copy of that Personal Data in an acceptable machine-readable format.;
+  * **the right to rectification** - You have the right to have AA correct any inaccurate Personal Data or to have AA complete any incomplete Personal Data;
+  * **the right to erasure** - You may ask the AA to delete or remove your Personal Data and we will do so in some circumstances, such as where we no longer need it (we may not delete your data when other interests outweigh your right to deletion).;
+  * **the right to restrict processing** - You have the right to ask AA to suppress the processing of your Personal Data but AA may still store your Personal Data.;
+  * **the right to object to processing** - You have the right to object to your Personal Data used in the following manners: (a) processing based on legitimate interests or the performance of a task in the public interest/exercise of official authority (including profiling); (b) direct marketing (including profiling); and (c) processing for purposes of scientific/historical research and statistics.;
+  * **the right to data portability** - you have the right to obtain your Personal Data from us that you consented to give us or that is necessary to perform fulfillment of member benefits with you. We will give you your Personal Data in a structured, commonly used and machine-readable format.;
+  * **the right to complaint to a supervisory authority** - You have the right to file a complaint with a supervisory authority, in particular in the European Member State of your habitual residence, place of work or place of the alleged infringement if you consider that the processing of Personal Data relating to you infringes upon your rights.; and
+  * **the right to withdraw consent** - We rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. This will not affect the lawfulness of processing based on your prior consent..
 
-We use your Personal Information to manage our donation lists and provide and improve our services and outreach. In particular, we use:
 
-  * **Contact Information** to respond to your questions, comments, requests and inquiries and otherwise correspond with you, including sending you Alzheimer's Association email bulletins or news and other information we think you will find valuable. Please see the Your Choice section below to learn the choices you have related to these communications. We may also track the number of letters sent to members of Congress on behalf of the Alzheimer's Association. 
-  * **Payment Information** to process your donations and manage our donation lists.  If you choose to provide the name of your employer, we use this information to provide information on how your employer might match your donation to us. 
-  * **Registration Information** to plan and organize the event for which you have registered and help us cater the event to you. 
-  * **Message Board Information** to understand more about the visitors to our website and their preferences. 
 
+More information about your rights relating to AA and the Services is provided via this Privacy Policy.
 
+**Access To The Information AA Has Collected About You**
 
-We will not use Personal Information for any purpose incompatible with those outlined in this Privacy Policy.
+AA provides certain tools and settings within the Services to help you access, correct, delete, or modify your personal information associated with the Services . AA welcomes you to contact us regarding the information we have collected about you, including regarding the nature and accuracy of the data that has been collected about you, to request an update, modification, or deletion of your information, to opt-out of certain Services uses of your information, or to withdraw any consent you may have granted to AA.
 
-**What Personal Information Do We Disclose?**
+Please note requests to delete or remove your information do not necessarily ensure complete or comprehensive removal of the content or information posted, and removed information may persist in backup copies indefinitely. Please note that if you choose to delete your information or opt-out of the collection and use of your information, you understand that certain features, including but not limited to access to the Services, may no longer be available to you.
 
-We only share Personal Information with third parties who are bound by terms at least as restrictive as this Privacy Policy and only in the following ways:
+We may store the information we collect about you indefinitely, but information generally will be retained only for as long as necessary to fulfill the purposes for which the information was collected , or as otherwise required by law. Following termination or deactivation of an AA Account, AA may retain your information and content for a commercially reasonable time for backup, archival, and audit purposes.
 
-  * **Affiliates** – We may share Personal Information with any of our subsidiaries, or our ultimate holding company and its subsidiaries, for the purpose of managing our donation lists and improving our website and other services. 
-  * **Partners** – When you make an online donation to us, it's possible your contact information may be shared with other reputable organizations for their marketing purposes. As a donor, you may request to have your name removed from these mailing lists. See the Your Choice section below to learn how. 
-  * **Service Providers** – We may share Personal Information with third-party service providers who perform a variety of functions to enable us to provide our services, such as processing donations, conducting advertising on our behalf, and protecting against fraud.  These service providers only have access to the Personal Information necessary to perform their functions, only act on our behalf and under our instructions, and may not use your Personal Information for purposes other than to perform such functions. 
-  * **Legal** – We may disclose Personal Information to courts, law enforcement agencies and other government bodies where we believe that doing so would be in accordance with or required by any applicable law, regulation or legal process. 
-  * **Business Transfers** – In the event of a reorganization, merger or sale, we may transfer any and all Personal Information we collect to the relevant third party involved in the reorganization, merger or sale, with the consent of individuals if and as required under applicable privacy laws. 
-  * **With Your Consent** – We may also share Personal Information with other third parties subject to your prior consent. 
+**Opting-Out Of Communications From AA**
 
+Users may opt-out of receiving certain communications from AA by following the unsubscribe process described in an email communication, or by contacting us using the contact information provided below. However, please note you may not opt-out of Services-related communications, such as account verification, changes or updates to features of the Services, or technical and security notices.
 
+**Do Not Track**
 
-We may also share with third parties statistical and aggregated data based on use of the website but in these cases such data cannot reasonably be used to identify you. 
+AA does not currently employ a process for automatically responding to “Do Not Track” (DNT) signals sent by web browsers, mobile devices, or other mechanisms. Per industry standards, third parties may be able to collect information, including Personal Data, about your online activities over time and across different websites or online services when you use Services. You may opt out of online behavioral ads at [http://www.aboutads.info/choices/](http://www.aboutads.info/choiceshttp://www.aboutads.info/choices/). You also may limit certain tracking by disabling cookies in your web browser.
 
-**How Do We Protect Your Personal Information?**
+## Information Security
 
-We maintain reasonable administrative, technical and physical safeguards to protect Personal Information against loss, theft, misuse and unauthorized access, disclosure, alteration and destruction as required by applicable law.  For instance, we use Secure Socket Layer (SSL) encryption, which is one of the leading security protocols for data transfers on the internet.  We also restrict access to your Personal Information to authorized staff with a legitimate and specific business purpose. For example, our finance employees need access to information to process online donations.  Other measures we take to keep your Personal Information secure and confidential include the following:
+ 
 
-  * Security monitoring tools 
-  * Regular network scans 
-  * Internal and external penetration tests
+**Security Of Your Information**
 
+AA takes reasonable efforts to secure and protect the privacy, accuracy, and reliability of your information and to protect it from loss, misuse, unauthorized access, disclosure, alteration and destruction. AA implements security measures as we deem appropriate and consistent with industry standards. These security measures include use of transport layer security (TLS) throughout the site to encrypt the communication between this site and its users. Located in high-security data centers, AA servers are restricted to authorized personnel only. These servers are protected by antivirus and next generation firewalls, all of which are regularly updated. As no data security protocol is impenetrable, AA cannot guarantee the security of our systems or databases, nor can we guarantee that personal information we collect about you will not be breached, intercepted, destroyed, accessed, or otherwise disclosed without authorization. Accordingly, any information you transfer to or from Services is provided at your own risk.
 
+Please do your part to help us keep your information secure. You are responsible for maintaining the confidentiality of your password and AA Account, and are fully responsible for all activities that occur under your password or AA Account. AA specifically reserves the right to terminate your access to the Services and any contract you have with AA related to the Services in the event it learns or suspects you have disclosed your AA Account or password information to an unauthorized third party.
 
-Unfortunately, the transmission of information via the internet is not completely secure.  Despite our safeguards, we cannot guarantee the security of information transmitted to us via the internet.  Once we have received your information, we will use all reasonable safeguards to protect it, but if you have reason to believe that your use of the website is no longer secure, please contact us as detailed below.
+## Additional Provisions Regarding The Services & Your Information
 
-**Your Choice**
+**Transfer And Storage Of Your Information**
 
-We respect your privacy and recognize that you may wish to limit the ways in which we or our partners contact you. Simply send an email to [info@alz.org](mailto:info@alz.org) with the following information:
+Please note information AA collects about you may be transferred, processed and/or accessed by us in the United States, or another country where we, or our Service Providers operate. Please be aware Personal Data may be transferred to, and maintained on, computers located outside of your state or country where privacy laws may differ from and may not be as protective as those where you live. If you are located outside the United States and choose to allow us to collect information about you, please be aware that AA may transfer your Personal Data to the United States and process and store it there.
 
-  * Communications from Alzheimer's Association Partners. To remove your contact information from mailing lists shared with other organizations, please provide your full name, mailing address and a sentence requesting removal. 
-  * Alzheimer's Association Postal Mail. To remove your contact information from the Alzheimer's Association postal mailing list, please provide your full name, mailing address and a sentence requesting suppression of your personal information in our files. 
-  * Social Media Accounts. You may link or unlink your social media account (e.g., Facebook) by visiting the settings in the relevant social media application.
+If you are located in the European Economic Area ("EEA") or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information to a country or jurisdiction that does not have the same data protection laws as your jurisdiction, as disclosed in this Privacy Policy. It may also be processed by staff operating outside the EEA who work for us or for one of Service Providers, also as disclosed.
 
+**Website Hosting:**  AA hosts its website internally.
 
+**Data Hosting:**  Certain transactions on AA's website result in your data being stored with external data hosting providers. AA works with Blackbaud and Personify as its data hosting services provider. Blackbaud is located Charleston, Sc and Personify is located in Austin, TX. Both Blackbaud and Personify utilize multiple data hosting locations. AA shares your data, including Personal Data, with our Data Hosting Service Provider for the purposes of processing your data pursuant to your use of the Services.
 
-To opt out and remove your name from future marketing emails from us, follow the unsubscribe instructions in the message.
+**Safely Using AA’s Services**
 
-**Cookies and Web Beacons**
+Despite AA’s safety and privacy controls, we cannot guarantee the Services are entirely free of illegal, offensive, pornographic, or otherwise inappropriate material, or that you will not encounter inappropriate or illegal conduct from other Users when using the Services. You can help AA by notifying us of any unwelcome contact by contacting us using the information below.
 
-A cookie is a small text file that is sent to your web browser and stored on your hard drive, and a web beacon is an object embedded on a webpage that allows certain parties to check whether content associated with the web beacon has been accessed.  The use of cookies and web beacons is a standard practice among websites to collect information about visitors' activities while using the website.  We use cookies on our website to enable the site to work properly, collect aggregate data about usage of our websites and manage online advertising.  The information generated by the cookies and web beacons we use when you visit our website is anonymized and does not contain any Personal Information which can be associated with an identifiable individual.  We also allow third parties to place cookies and web beacons on our website in order to provide you with targeted advertising on unaffiliated websites based on your visit to our website and other unaffiliated websites you may visit. 
+**Your California Privacy Rights**
 
-To manage the cookies that are placed on your computer, you may configure your web browser to refuse, accept or delete cookies from our website at any time.  The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  Turning off your browser's cookies will also limit the information collected by web beacons.  Please note that if cookies are disabled or removed, not all features of our website will operate as intended. 
+Under California Civil Code Section 1798.83 (known as the "Shine the Light" law), AA members and customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the address below or at [Data-Protection-Officer@alz.org](mailto:Data-Protection-Officer@alz.org) with "Request for California Privacy Information" on the subject line and in the body of your message. We will comply with your request within thirty (30) days or as otherwise required by the statute. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
-To learn more about Google Analytics and the choices you have, please visit [here](https://support.google.com/analytics/answer/181881?hl=en). To learn more about targeted advertising and the choices you have, please visit the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed).  If you opt out of such cookies and web beacons, you still may continue to receive advertisements, they just will not be tailored to your interest.  Lastly, at this time the our website, like most, is not currently configured to honor respond to browsers' "Do Not Track" signals because no "Do Not Track" standard has been adopted.
-
-**External Links**
-
-This Privacy Policy does not apply to the collection, processing and use of Personal Information by companies that we do not own or control or to people that we do not employ or manage (" **External Parties** ").  Although our website may link to the websites and services of External Parties, such as those of our business partners and social media companies, we do not exercise control over the activities of External Parties.  For more information about what Personal Information External Parties collect and how they use such Personal Information, please refer to their privacy policies.
-
-**Access, Correction and Other Rights**
-
-In accordance with applicable law, you may access, correct, update, delete, block or limit our use of your Personal Information by contacting us by the means noted below and clearly describe your request.  We will try to comply with your request as soon as reasonably practicable and in any case under the timeframes set forth by applicable law.  Please note that we may need to retain certain information for recordkeeping purposes, to process any donations that you began prior to your request, or for other purposes as required or authorized by law.
-
-**Contacting Us**
-
-If you have any questions about this Privacy Policy, please contact us at [info@alz.org](mailto:info@alz.org) or Alzheimer's Association 225 N. Michigan Ave., Fl. 17 Chicago, IL 60601. 
-
-**Changes**
-
-We may update this Privacy Policy from time to time.  Any changes will be preceded by a notice posted on our website.  If you disagree with our Privacy Policy changes, please discontinue the use of our website.
-
-This Privacy Policy is effective July 25, 2016.  
-
-
-
-
-Last Updated: 01/31/2020 12:57:41 
+## Changes to Our Privacy Policy
