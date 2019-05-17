@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefoodcharlatan.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075837id_/http%3A//thefoodcharlatan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoodcharlatan.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517153052id_/https%3A//thefoodcharlatan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Food Charlatan
+# Privacy Policy - The Food Charlatan
 
 **What information do we collect?**
 
@@ -54,8 +54,7 @@ This policy was last modified on April 18, 2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://thefoodcharlatan.com/
-
+https://thefoodcharlatan.com/  
 Sacramento Area  
 SACRAMENTO, CA 95816  
 United States  
