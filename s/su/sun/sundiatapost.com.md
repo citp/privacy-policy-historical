@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sundiatapost.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312170156id_/https%3A//sundiatapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundiatapost.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517181747id_/https%3A//sundiatapost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SundiataPost
+# Privacy Policy – SundiataPost
 
 We’ve created this privacy policy statement in order to demonstrate our commitment to the privacy of our customers.
 
