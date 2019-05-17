@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123180747id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuresimple.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517064154id_/https%3A//getbase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Sell
 
@@ -168,7 +168,7 @@ Our subscribers are able to:
 
 For all other users of our Services
 
-GDPR assures that the rights and intentions of every individual regarding their personal data are respected. Any individual can request to access the data we hold about them, ensure it is current, correct and complete, and if the individual provided consent for that data to be processed, can revoke that consent freely. Individuals can also request that specific data held about them be updated, modified or deleted, or that all data about them be forgotten or ported. Individuals can make decisions regarding marketing preferences and the movement and transfer of their data. Exercise of these rights can be made by request to: [support@getbase.com](mailto:support@getbase.com) or by using the following web page – <https://support.getbase.com/hc/en-us/requests/new>.
+GDPR assures that the rights and intentions of every individual regarding their personal data are respected. Any individual can request to access the data we hold about them, ensure it is current, correct and complete, and if the individual provided consent for that data to be processed, can revoke that consent freely. Individuals can also request that specific data held about them be updated, modified or deleted, or that all data about them be forgotten or ported. Individuals can make decisions regarding marketing preferences and the movement and transfer of their data. Exercise of these rights can be made by request to: [sell@zendesk.com](mailto:sell@zendesk.com) or by using the following web page – <https://support.getbase.com/hc/en-us/requests/new>.
 
 ###### Marketing opt-out preferences
 
@@ -178,7 +178,7 @@ If you wish to subscribe to our newsletter, we will use your name and email addr
 
 We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
 
-If you choose to use our invite Teammates to our Service, we will ask you for that Teammate’s email address. We will automatically send a one-time email inviting that Teammate to use the Service. The Company stores this information to validate authorized users. Invited Teammates may contact us at [support@getbase.com](mailto:support@getbase.com) to request that we remove this information from our database.
+If you choose to use our invite Teammates to our Service, we will ask you for that Teammate’s email address. We will automatically send a one-time email inviting that Teammate to use the Service. The Company stores this information to validate authorized users. Invited Teammates may contact us at [sell@zendesk.com](mailto:sell@zendesk.com) to request that we remove this information from our database.
 
 Our web site includes social media features, such as the Facebook Like button and widgets, such as the ‘Share This’ button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
@@ -192,7 +192,7 @@ Our site includes links to other sites whose privacy practices may differ from t
 
 ###### Testimonials
 
-We display personal testimonials of satisfied customers on our web site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@getbase.com](mailto:support@getbase.com).
+We display personal testimonials of satisfied customers on our web site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [sell@zendesk.com](mailto:sell@zendesk.com).
 
 ###### Collection and use of 3rd Party Information
 
@@ -208,15 +208,15 @@ You can import contacts from your Outlook or other email account address book to
 
 ###### Security and protection of your data
 
-Our company has a robust security program and policy, leverages the expertise and security resources of our partners when in the cloud, and a program and policy for incident response. The security of your personal information is important to us. When you enter sensitive information, such as a credit card number and/or geo-location data on our order forms or use the Service, we encrypt the transmission of information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, please contact us at [support@getbase.com](mailto:support@getbase.com) or +1 (855) 976-9550.
+Our company has a robust security program and policy, leverages the expertise and security resources of our partners when in the cloud, and a program and policy for incident response. The security of your personal information is important to us. When you enter sensitive information, such as a credit card number and/or geo-location data on our order forms or use the Service, we encrypt the transmission of information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, please contact us at [sell@zendesk.com](mailto:sell@zendesk.com) or +1 (855) 976-9550.
 
 ###### Children’s Personal Information
 
-We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Websites or Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through the Websites or Services without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through the Websites or Services, please contact us at [privacy@getbase.com](mailto:privacy@getbase.com), and we will use commercially reasonable efforts to delete that information.
+We do not knowingly collect any personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information through our Websites or Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personal information through the Websites or Services without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us through the Websites or Services, please contact us at [sell@zendesk.com](mailto:sell@zendesk.com), and we will use commercially reasonable efforts to delete that information.
 
 ###### Data Processing Agreement
 
-We have updated a Data Processing Agreement (DPA), as required under GDPR. If you require a signed DPA, as part of your GDPR compliance you can [download the agreement here](https://resources.getbase.com/hubfs/base-data-processing-agreement.pdf). Sign and complete the DPA with Company details and send the agreement to [dpa@getbase.com](mailto:dpa@getbase.com) to be countersigned by Sell.
+We have updated a Data Processing Agreement (DPA), as required under GDPR. If you require a signed DPA, as part of your GDPR compliance you can [download the agreement here](https://resources.getbase.com/hubfs/base-data-processing-agreement.pdf). Sign and complete the DPA with Company details and send the agreement to [sell-dpa@zendesk.com](mailto:sell-dpa@zendesk.com) to be countersigned by Sell.
 
 ###### Changes to This Policy
 
@@ -228,7 +228,7 @@ It is our hope that we would have the opportunity to cure any concerns that you 
 
 Zendesk  
 1019 Market Street, San Francisco, CA 94103  
-[privacy@getbase.com](mailto:privacy@getbase.com)  
+[sell@zendesk.com](mailto:sell@zendesk.com)  
 +1 (650) 561-4871
 
 It is the right of the individual to bring grievances regarding the protection and handling of their personal data to the Supervisory Authorities which can be reached at the following address: <https://www.giodo.gov.pl/en/323>.
