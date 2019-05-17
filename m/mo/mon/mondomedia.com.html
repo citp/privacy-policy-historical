@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mondomedia.com privacy policy that was archived on 2017-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170328193006id_/https%3A//mondomedia.com/pages/view/13/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mondomedia.com privacy policy that was archived on 2019-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518015433id_/https%3A//mondomedia.com/pages/view/13/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <title>
@@ -14,6 +14,8 @@
         <meta name="description" content="Privacy Policy Mondo">
         <meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0">
 
+        
+        
         
         
         
@@ -36,11 +38,11 @@
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>document.cookie='resolution='+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+'; path=/';</script>
 
         <!-- Bootstrap core CSS -->
-        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/jquery-ui/jquery-ui-1.10.3.custom.min.css?v=1490366593" rel="stylesheet">
-        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/bootstrap.css?v=1490366593" rel="stylesheet">
-        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/font.css?v=1490366593" rel="stylesheet" type="text/css">
-        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/font-awesome.min.css?v=1490366593" rel="stylesheet" type="text/css">
-        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/volume.css?v=1490366593" rel="stylesheet">
+        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/jquery-ui/jquery-ui-1.10.3.custom.min.css?v=1557817671" rel="stylesheet">
+        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/bootstrap.css?v=1557817671" rel="stylesheet">
+        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/font.css?v=1557817671" rel="stylesheet" type="text/css">
+        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/font-awesome.min.css?v=1557817671" rel="stylesheet" type="text/css">
+        <link href="https://mondomedia.com/application/views/channel/templates/default/_/css/volume.css?v=1557817671" rel="stylesheet">
 
         <style>
         .kikvid-logo{
@@ -64,11 +66,11 @@
           <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
 
-        <link class="rs-file" href="https://mondomedia.com/application/views/channel/templates/default/_/css/slider.css?v=1490366593" rel="stylesheet">
+        <link class="rs-file" href="https://mondomedia.com/application/views/channel/templates/default/_/css/slider.css?v=1557817671" rel="stylesheet">
 
-        <script src="https://mondomedia.com/_/tmpls/js/pubsub.js?v=1490366593"></script>
-        <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/jquery.min.js?v=1490366593"></script>
-        <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/underscore-min.js?v=1490366593"></script>
+        <script src="https://mondomedia.com/_/tmpls/js/pubsub.js?v=1557817671"></script>
+        <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/jquery.min.js?v=1557817671"></script>
+        <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/underscore-min.js?v=1557817671"></script>
 
         <script>
         var App          = {};
@@ -81,7 +83,16 @@
         var CDN_BASE     = 'https://static.zikvid.com';
         </script>
 
-        <script src="https://mondomedia.com/_/tmpls/js/global/main.js?v=1490366593"></script>
+        <script>
+var CSRF_TOKEN = "4ddfbc45dff49a4abc3e58bb535ecd9e";
+
+$.ajaxSetup({
+	headers: {
+        'X-CSRF-TOKEN' : '4ddfbc45dff49a4abc3e58bb535ecd9e'
+    }
+});
+</script>
+        <script src="https://mondomedia.com/_/tmpls/js/global/main.js?v=1557817671"></script>
 
         
 		<script>
@@ -143,7 +154,7 @@
                                                 <li><a href="https://mondomedia.com/games">Games</a></li>
                                                 <li><a href="https://mondomedia.com/news">Blog</a></li>
                                                 <li><a href="https://mondomedia.com/digital_shop">Digital Downloads</a></li>
-                                                <li><a href="https://mondomedia.com//printing">Store</a></li>
+                                                <li><a href="https://mondomedia.com/printing">Store</a></li>
                                                                                 </ul>
             </div>
         </div>
@@ -212,6 +223,58 @@
                     <div class="form-group">
                         <input type="password" name="password" class="form-control" placeholder="Password">
                     </div>
+                    <div class="form-group">
+                        <script src="https://www.google.com/recaptcha/api.js"></script>
+        <div id="auth_signup_recaptcha"></div>
+        <script>
+        grecaptcha.ready(function(){
+            var recaptchaWidgetId = grecaptcha.render("auth_signup_recaptcha", {
+                sitekey: "6LeDfxIUAAAAACiPtW3CgNjnKLW_nb3hHkH_gKBp"
+            });
+
+            var $container = $("#auth_signup_recaptcha");
+            $container.data("recaptchaWidgetId", recaptchaWidgetId);
+
+            $container.on("refresh.recaptcha", function(){
+                console.log("Refreshing recaptcha...");
+
+                var width = $container.parent().width();
+
+                if (width < 304) {
+                    var scale = width / 304;
+                }
+                else{
+                    var scale = 1;
+                }
+
+                $container.css("transform", "scale(" + scale + ")");
+                $container.css("-webkit-transform", "scale(" + scale + ")");
+                $container.css("transform-origin", "0 0");
+                $container.css("-webkit-transform-origin", "0 0");
+            });
+
+            $(function(){
+                $container.trigger("refresh.recaptcha");
+
+                $(window).resize(function(){
+                    setTimeout(function(){
+                        $container.trigger("refresh.recaptcha");
+                    }, 100);
+                });
+            });
+        });
+        </script>
+                        </div>
+
+                    <div class="form-group">
+                        <input type="checkbox" name="agree_with_terms_pp_and_cookies" id="signupModalAgreeCheckbox" value="1">
+                        <label for="signupModalAgreeCheckbox" style="display: inline">
+                            <small>
+By signing up you understand and accept the <a href="https://mondomedia.com/pages/view/27/Terms_of_Use" target="_blank">Terms of Service</a>, 
+<a href="https://mondomedia.com/pages/view/13/Privacy_Policy" target="_blank">Privacy Policy</a> and 
+<a href="https://mondomedia.com/legal/universal_cookies_policy" target="_blank">Cookies Consent</a>.</small>
+                        </label>
+                    </div>
 
                     <div class="m-b-xlg m-t-lg">
                         <a href="javascript:" data-recover-switch="">Forgotten password?</a>
@@ -275,12 +338,12 @@
   </div>
 </div>
 
-<script src="https://mondomedia.com/_/tmpls/js/auth.js?v=1490366593"></script>
-<script src="https://mondomedia.com/application/views/channel/templates/default/_/js/auth/modal.js?v=1490366593"></script>
+<script src="https://mondomedia.com/_/tmpls/js/auth.js?v=1557817671"></script>
+<script src="https://mondomedia.com/application/views/channel/templates/default/_/js/auth/modal.js?v=1557817671"></script>
 <script>
 (function(){
     var conf = {
-        langs: {"sd_auth\/invalid_login_msg":"Invalid login.","sd_auth\/confirm_reg_first":"You have to confirm your registration first from the email we've sent you.","sd_auth\/user_found_but_cannot_recover_Facebook":"A user with this email was found, however the registration was made via Facebook","sd_auth\/user_found_but_cannot_recover_Twitter":"A user with this email was found, however the registration was made via Twitter","sd_auth\/no_user_found":"No user found with this email.","sd_auth\/an_unknown_error_occured":"Sorry, an unknown error occured.","sd_auth\/try_again":"Try again","auth\/sign_in":"Sign In","auth\/fb_sign_in":"Sign in with Facebook","auth\/tw_sign_in":"Sign in with Twitter","auth\/label_name":"Name","auth\/label_email":"Email","auth\/label_password":"Password","auth\/label_repeat_password":"Repeat Password","auth\/pholder_name":"Enter name","auth\/pholder_email":"Enter email","auth\/pholder_password":"Password","auth\/pholder_repeat_password":"Repeat Password","auth\/forgotton_password":"Forgotten password?","auth\/sign_in_btn":"SIGN IN","auth\/signing_in":"SIGNING IN...","auth\/no_account_yet":"Don't have account yet?","auth\/no_worries":"No worries,","auth\/sign_up_here":"sign up here","auth\/sign_up":"Sign up","auth\/sign_up_btn":"SIGN UP","auth\/signing_up":"SIGNING UP...","auth\/already_have_account":"Already have account?","auth\/sign_in_here":"Sign in here","auth\/recover_password":"RECOVER PASSWORD","auth\/recovering_password":"RECOVERING PASSWORD...","auth\/sign_in_switch":"Sign in","auth\/or":"or","auth\/sign_in_with":"Sign in with","auth\/no_longer_logged":"You are no longer signed in.","auth\/login_first_msg":"You need to sign in for this action.","auth\/invalid_login_msg":"Invalid login.","auth\/signup_success":"A confirmation email was sent to you.","auth\/forgotton_password_title":"Forgotten password","auth\/recover_success_msg":"An email to comfirm you want a new password was sent to you.","auth\/confirm_reg_first":"You have to confirm your registration first from the email we've sent you.","auth\/user_found_but_cannot_recover":"A user with this email was found, however the registration was made via","auth\/no_user_found":"No user found with this email.","auth\/lets_update_my_password":"LET'S UPDATE MY PASSWORD","auth\/request_new_password":"Request new password","auth\/please_wait":"Please wait...","auth\/recover_from_import_motivation_msg":"As you may have noticed we have a new awesome website. To make things more secure we kindly ask you to update your password.","auth\/recover_from_import_confirm_mail_sent":"We sent a link to your email with which you can set a new password.","auth\/recover_from_import_already_done":"The password for this account was already changed, you can now sign in.","auth\/import_recover_req_invalid":"Sorry, the request for new password is invalid or timed out.","auth\/set_your_new_password":"Set your new password","auth\/change_password":"CHANGE PASSWORD","auth\/new_password_has_been_set":"Your new password is set, you can now login.","auth\/success":"Success","auth\/registration_was_confirmed":"Your registration is complete. You can now sign in!","auth\/something_went_wrong":"Something went wrong","auth\/registration_not_confirmed":"Your registration has not yet been confirmed.","auth\/new_password_has_been_emailed":"Your new password has been emailed to you.","auth\/new_password_confirm_error":"New password confirmation error."}    };
+        langs: {"sd_auth\/invalid_login_msg":"Invalid login.","sd_auth\/confirm_reg_first":"You have to confirm your registration first from the email we've sent you.","sd_auth\/user_found_but_cannot_recover_Facebook":"A user with this email was found, however the registration was made via Facebook","sd_auth\/user_found_but_cannot_recover_Twitter":"A user with this email was found, however the registration was made via Twitter","sd_auth\/no_user_found":"No user found with this email.","sd_auth\/an_unknown_error_occured":"Sorry, an unknown error occured.","sd_auth\/try_again":"Try again","sd_auth\/agree_with_terms_pp_and_cookies":"\r\nBy signing up you understand and accept the <a href=\"[[terms_link]]\" target=\"_blank\">Terms of Service<\/a>, \r\n<a href=\"[[privacy_policy_link]]\" target=\"_blank\">Privacy Policy<\/a> and \r\n<a href=\"[[cookies_policy_link]]\" target=\"_blank\">Cookies Consent<\/a>.","sd_auth\/agree_with_terms_pp_and_cookies_is_required":"You have to accept the Terms of Service, Privacy Policy and Cookies Consent.","auth\/label_captcha":"Captcha","auth\/sign_in":"Sign In","auth\/fb_sign_in":"Sign in with Facebook","auth\/tw_sign_in":"Sign in with Twitter","auth\/label_name":"Name","auth\/label_email":"Email","auth\/label_password":"Password","auth\/label_repeat_password":"Repeat Password","auth\/pholder_name":"Enter name","auth\/pholder_email":"Enter email","auth\/pholder_password":"Password","auth\/pholder_repeat_password":"Repeat Password","auth\/forgotton_password":"Forgotten password?","auth\/sign_in_btn":"SIGN IN","auth\/signing_in":"SIGNING IN...","auth\/no_account_yet":"Don't have account yet?","auth\/no_worries":"No worries,","auth\/sign_up_here":"sign up here","auth\/sign_up":"Sign up","auth\/sign_up_btn":"SIGN UP","auth\/signing_up":"SIGNING UP...","auth\/already_have_account":"Already have account?","auth\/sign_in_here":"Sign in here","auth\/recover_password":"RECOVER PASSWORD","auth\/recovering_password":"RECOVERING PASSWORD...","auth\/sign_in_switch":"Sign in","auth\/or":"or","auth\/sign_in_with":"Sign in with","auth\/no_longer_logged":"You are no longer signed in.","auth\/login_first_msg":"You need to sign in for this action.","auth\/invalid_login_msg":"Invalid login.","auth\/signup_success":"A confirmation email was sent to you.","auth\/forgotton_password_title":"Forgotten password","auth\/recover_success_msg":"An email to comfirm you want a new password was sent to you.","auth\/confirm_reg_first":"You have to confirm your registration first from the email we've sent you.","auth\/user_found_but_cannot_recover":"A user with this email was found, however the registration was made via","auth\/no_user_found":"No user found with this email.","auth\/lets_update_my_password":"LET'S UPDATE MY PASSWORD","auth\/request_new_password":"Request new password","auth\/please_wait":"Please wait...","auth\/recover_from_import_motivation_msg":"As you may have noticed we have a new awesome website. To make things more secure we kindly ask you to update your password.","auth\/recover_from_import_confirm_mail_sent":"We sent a link to your email with which you can set a new password.","auth\/recover_from_import_already_done":"The password for this account was already changed, you can now sign in.","auth\/import_recover_req_invalid":"Sorry, the request for new password is invalid or timed out.","auth\/set_your_new_password":"Set your new password","auth\/change_password":"CHANGE PASSWORD","auth\/new_password_has_been_set":"Your new password is set, you can now login.","auth\/success":"Success","auth\/registration_was_confirmed":"Your registration is complete. You can now sign in!","auth\/something_went_wrong":"Something went wrong","auth\/registration_not_confirmed":"Your registration has not yet been confirmed.","auth\/new_password_has_been_emailed":"Your new password has been emailed to you.","auth\/new_password_confirm_error":"New password confirmation error."}    };
 
     PubSub.publish('auth.init', conf);
     PubSub.publish('tmpl.auth.init', conf);
@@ -291,7 +354,12 @@
 <script>
 var kikvidAPI={
   signinKeyReceived:function(key){
-    window.location='https://mondomedia.com/connect/signin?key='+encodeURIComponent(key)+'&redirect_url=https%3A%2F%2Fmondomedia.com%2Fpages%2Fview%2F13%2FPrivacy_Policy&';
+    var redirectUrl = window.location;
+
+    window.location='https://mondomedia.com/connect/signin?'+
+    'key='+encodeURIComponent(key)+
+    '&redirect_url='+encodeURIComponent(redirectUrl)+
+    '&';
 
   }
 };
@@ -363,7 +431,7 @@ function openConnectPopup(url)
                                                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="https://mondomedia.com/games">Games</a></li>
                                                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="https://mondomedia.com/news">Blog</a></li>
                                                                             <li role="presentation"><a role="menuitem" tabindex="-1" href="https://mondomedia.com/digital_shop">Digital Downloads</a></li>
-                                                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://mondomedia.com//printing">Store</a></li>
+                                                                            <li role="presentation"><a role="menuitem" tabindex="-1" href="https://mondomedia.com/printing">Store</a></li>
                                                                     </ul>
                                                             </li>
                                                     </ul>
@@ -397,118 +465,213 @@ function openConnectPopup(url)
             <div class="news-view-body">
                 <h1>Privacy Policy</h1>
 
-<p>Last updated: November 25, 2014</p>
 
-<p>MONDO MEDIA, INC. ("us", "we", or "our") operates the http://mondomedia.com website (the "Service").</p>
+<p>Effective date: May 24, 2018</p>
 
-<p>This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p>
 
-<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p>Mondo Media, Inc. ("us", "we", or "our") operates the https://mondomedia.com website (the "Service").</p>
 
-<p><strong>We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.</strong> Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://mondomedia.com</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 
-<p><strong>Information Collection And Use</strong></p>
+<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://mondomedia.com/pages/view/27/Terms_of_Use</p>
 
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information ("Personal Information").</p>
-
-<p>We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.</p>
-
-<p><strong>Log Data</strong></p>
-
-<p>We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
-
-<p>In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.</p>
-
-<p><strong>Cookies</strong></p>
-
-<p>Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.</p>
-
-<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.</p>
-
-<p>If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.</p>
-
-<p><strong>DoubleClick Cookie</strong></p>
-
-<p>Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.</p>
-
-<p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the <a href="http://www.google.com/ads/preferences/" title="Google Ads Settings" target="_blank">Google Ads Settings</a> web page.</p>
-
-<p><strong>Behavioral Remarketing</strong></p>
-
-<p>MONDO MEDIA, INC. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>
-
+<h2>Definitions</h2>
 <ul><li>
-	<p><strong>Google</strong></p>
+        <p><strong>Service</strong></p>
+                <p>Service is the https://mondomedia.com website operated by Mondo Media, Inc.</p>
+            </li>
+    <li>
+        <p><strong>Personal Data</strong></p>
+        <p>Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).</p>
+    </li>
+    <li>
+        <p><strong>Usage Data</strong></p>
+        <p>Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p>
+    </li>
+    <li>
+        <p><strong>Cookies</strong></p>
+        <p>Cookies are small pieces of data stored on your device (computer or mobile device).</p>
+    </li>
+        <li>
+        <p><strong>Data Controller</strong></p>
+        <p>Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.</p>
+        <p>For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.</p>
+    </li>
+    <li>
+        <p><strong>Data Processors (or Service Providers)</strong></p>
+        <p>Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.</p>
+        <p>We may use the services of various Service Providers in order to process your data more effectively.</p>
+    </li>
+    <li>
+        <p><strong>Data Subject (or User)</strong></p>
+        <p>Data Subject is any living individual who is using our Service and is the subject of Personal Data.</p>
+    </li>
+    </ul><h2>Information Collection And Use</h2>
+<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
 
-	<p>Google AdWords remarketing service is provided by Google Inc.</p>
+<h3>Types of Data Collected</h3>
 
-	<p>You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the <a href="http://www.google.com/settings/ads" title="Google Ads Settings" target="_blank">Google Ads Settings</a> page.</p>
+<h4>Personal Data</h4>
+<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
 
-	<p>Google also recommends installing the <a href="https://tools.google.com/dlpage/gaoptout" title="Google Analytics Opt-out Browser Add-on" target="_blank">Google Analytics Opt-out Browser Add-on</a> for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.</p>
+<ul><li>Email address</li>    <li>First name and last name</li>    <li>Phone number</li>    <li>Address, State, Province, ZIP/Postal code, City</li>    <li>Cookies and Usage Data</li>
+</ul><p>We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p>
 
-	<p>For more information on the privacy practices of Google, please visit the <a href="http://www.google.com/intl/en/policies/privacy/" title="Google Privacy &amp; Terms" target="_blank">Google Privacy &amp; Terms</a> web page.</p>
-	</li>
-</ul><p><strong>Do Not Track Disclosure</strong></p>
+<h4>Usage Data</h4>
 
-<p>We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p>
+<p>We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
 
+
+<h4>Tracking &amp; Cookies Data</h4>
+<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+<p>Examples of Cookies we use:</p>
+<ul><li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+    <li><strong>Advertising Cookies.</strong> Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.</li></ul><h2>Use of Data</h2> 
+<p>Mondo Media, Inc. uses the collected data for various purposes:</p>    
+<ul><li>To provide and maintain our Service</li>
+    <li>To notify you about changes to our Service</li>
+    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+    <li>To provide customer support</li>
+    <li>To gather analysis or valuable information so that we can improve our Service</li>
+    <li>To monitor the usage of our Service</li>
+    <li>To detect, prevent and address technical issues</li>
+    <li>To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information</li></ul><h2>Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)</h2>
+<p>If you are from the European Economic Area (EEA), Mondo Media, Inc. legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.</p>
+<p>Mondo Media, Inc. may process your Personal Data because:</p>
+<ul><li>We need to perform a contract with you</li>
+    <li>You have given us permission to do so</li>
+    <li>The processing is in our legitimate interests and it's not overridden by your rights</li>
+    <li>For payment processing purposes</li>    <li>To comply with the law</li>
+</ul><h2>Retention of Data</h2>    
+<p>Mondo Media, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
+<p>Mondo Media, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.</p>    
+
+<h2>Transfer Of Data</h2>
+<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+<p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
+<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+<p>Mondo Media, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+
+<h2>Disclosure Of Data</h2>
+<h3>Business Transaction</h3>
+<p>If Mondo Media, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>    
+
+<h3>Disclosure for Law Enforcement</h3>
+<p>Under certain circumstances, Mondo Media, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
+
+<h3>Legal Requirements</h3>
+<p>Mondo Media, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<ul><li>To comply with a legal obligation</li>
+    <li>To protect and defend the rights or property of Mondo Media, Inc.</li>
+    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+    <li>To protect the personal safety of users of the Service or the public</li>
+    <li>To protect against legal liability</li>
+</ul><h2>Security Of Data</h2>
+<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+
+<h2>"Do Not Track" Signals</h2>    
+<p>We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.</p>
 <p>You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.</p>
 
-<p><strong>Service Providers</strong></p>
+<h2>Your Data Protection Rights Under General Data Protection Regulation (GDPR)</h2>
+<p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Mondo Media, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.</p>
+<p>If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.</p>
+<p>In certain circumstances, you have the following data protection rights:</p>
+<ul><li>
+        <p><strong>The right to access, update or to delete the information we have on you.</strong> Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.</p>
+    </li>
+    <li>
+        <p><strong>The right of rectification.</strong> You have the right to have your information rectified if that information is inaccurate or incomplete.</p>
+    </li> 
+    <li>
+        <p><strong>The right to object.</strong> You have the right to object to our processing of your Personal Data.</p>
+    </li>
+    <li>
+        <p><strong>The right of restriction.</strong> You have the right to request that we restrict the processing of your personal information.</p>
+    </li>
+    <li>
+        <p><strong>The right to data portability.</strong> You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.</p>
+    </li>
+    <li>
+        <p><strong>The right to withdraw consent.</strong> You also have the right to withdraw your consent at any time where Mondo Media, Inc. relied on your consent to process your personal information.</p>
+    </li>
+</ul><p>Please note that we may ask you to verify your identity before responding to such requests.</p>
 
-<p>We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.</p>
+<p>You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).</p>
 
-<p>These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.</p>
+<h2>Service Providers</h2>
+<p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+<p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
 
-<p><strong>Communications</strong></p>
-
-<p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.</p>
-
-<p><strong>Compliance With Laws</strong></p>
-
-<p>We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.</p>
-
-<p><strong>Business Transaction</strong></p>
-
-<p>If MONDO MEDIA, INC. is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.</p>
-
-<p><strong>Security</strong></p>
-
-<p>The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.</p>
-
-<p>However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.</p>
-
-<p><strong>International Transfer</strong></p>
-
-<p>Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-
-<p>If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.</p>
-
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-
-<p><strong>Links To Other Sites</strong></p>
-
+<h3>Analytics</h3>
+<p>We may use third-party Service Providers to monitor and analyze the use of our Service.</p>    
+<ul><li>
+        <p><strong>Google Analytics</strong></p>
+        <p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
+        <p>You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.</p>                <p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page: <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">http://www.google.com/intl/en/policies/privacy/</a></p>
+    </li>
+                            </ul><h3>Advertising</h3>
+<p>We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.</p>
+<ul><li>
+        <p><strong>Google AdSense &amp; DoubleClick Cookie</strong></p>
+        <p>Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.</p>
+        <p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <a href="http://www.google.com/ads/preferences/" target="_blank">http://www.google.com/ads/preferences/</a></p>
+    </li>
+                                        </ul><h3>Behavioral Remarketing</h3>
+<p>Mondo Media, Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.</p>    
+<ul><li>
+        <p><strong>Google AdWords</strong></p>
+        <p>Google AdWords remarketing service is provided by Google Inc.</p>
+        <p>You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <a href="http://www.google.com/settings/ads" target="_blank">http://www.google.com/settings/ads</a></p>
+        <p>Google also recommends installing the Google Analytics Opt-out Browser Add-on - <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a> - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.</p>
+        <p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page: <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">http://www.google.com/intl/en/policies/privacy/</a></p>
+        
+    </li>
+                <li>
+        <p><strong>Facebook</strong></p>
+        <p>Facebook remarketing service is provided by Facebook Inc.</p>
+        <p>You can learn more about interest-based advertising from Facebook by visiting this page: <a href="https://www.facebook.com/help/164968693837950" target="_blank">https://www.facebook.com/help/164968693837950</a></p>
+        <p>To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <a href="https://www.facebook.com/help/568137493302217" target="_blank">https://www.facebook.com/help/568137493302217</a></p><p>
+        </p><p>Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a>, the Digital Advertising Alliance of Canada in Canada <a href="http://youradchoices.ca/" target="_blank">http://youradchoices.ca/</a> or the European Interactive Digital Advertising Alliance in Europe <a href="http://www.youronlinechoices.eu/" target="_blank">http://www.youronlinechoices.eu/</a>, or opt-out using your mobile device settings.</p>
+        <p>For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <a href="https://www.facebook.com/privacy/explanation" target="_blank">https://www.facebook.com/privacy/explanation</a></p>
+    </li>
+                    </ul><h3>Payments</h3>
+<p>We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).</p>
+<p>We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.</p>
+<p>The payment processors we work with are:</p>
+<ul><li>
+        <p><strong>Stripe</strong></p>
+        <p>Their Privacy Policy can be viewed at <a href="https://stripe.com/us/privacy" target="_blank">https://stripe.com/us/privacy</a></p>
+    </li>
+            <li>
+        <p><strong>PayPal or Braintree</strong></p>
+        <p>Their Privacy Policy can be viewed at <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full" target="_blank">https://www.paypal.com/webapps/mpp/ua/privacy-full</a></p>
+    </li>
+                                    </ul><h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
-<p>We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
 
-<p><strong>Children's Privacy</strong></p>
+<h2>Children's Privacy</h2>
+<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
-<p>Only persons age 13&nbsp;or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").</p>
 
-<p>We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.</p>
+<h2>Changes To This Privacy Policy</h2>
+<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.</p>
+<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 
-<p><strong>Changes To This Privacy Policy</strong></p>
 
-<p>This Privacy Policy is effective as of November 25, 2014 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.</p>
-
-<p>We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.</p>
-
-<p>If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.</p>
-
-<p><strong>Contact Us</strong></p>
-
-<p>If you have any questions about this Privacy Policy, please contact us at customerservice@mondomedia.com.</p>            </div>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, please contact us:</p>
+<ul><li>By email: customerservice@mondomedia.com</li>
+          
+        </ul>            </div>
         </div>
 
         <aside class="col-sm-4">
@@ -534,140 +697,140 @@ function openConnectPopup(url)
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/51cbbc">
+                        <a href="https://mondomedia.com/watch/DDcbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/302705b3fb61f3ca760c8753820d07ef/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=f49441a0012dfde3cb94dc4b4207e643/videos/ae1fb559c34419e8f77c92c4f7b225c6/thumbnails/thumb_4_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Still Alive: An Inconvenient Toot..</h4>
+                            <h4>Still Alive: In Over Your Hedge (..</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>19204 views</strong>
+                                <strong>26309 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/J1bbbc">
+                        <a href="https://mondomedia.com/watch/zpbbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/f2566f4bf3c21456a95655747d13dcc0/thumbnails/thumb_5_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=cb0fa2929fde04e2b8549842963012e0/videos/4cb915403f48b8f10febcfb0847ec8bf/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Riding Shotgun</h4>
-                            <p>
-                                <strong>by Riding Shotgun</strong>
-                                <strong>166413 views</strong>
-                            </p>
-                        </a>
-                    </article>
-
-                    
-                    <article>
-                        <a href="https://mondomedia.com/watch/Cgbbbc">
-                            <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/70f3c132d1501363d06c32c5fbf21ba4/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
-                            </span>
-                            <h4>Spin Fun Knowin Ya! (Ep #1)</h4>
+                            <h4>We’re Scrooged (Ep #57)</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>160122 views</strong>
+                                <strong>25364 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/Ngbbbc">
+                        <a href="https://mondomedia.com/watch/X4cbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/4bd6df211c8f8e665e7cc7ba10ccc91d/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=b0cdecb63c31d779c590b2361bb644cf/videos/8fe7ff25509c3aa7b527d67d23068f0a/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>House Warming (Ep #2)</h4>
+                            <h4>Blood Donor</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>112498 views</strong>
+                                <strong>39174 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/Mgbbbc">
+                        <a href="https://mondomedia.com/watch/6pbbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/19b53152b955892bfa959745d487dd3f/thumbnails/thumb_4_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=9eb0d024576f8e16a072bf2ed12f74de/videos/0a344743a06eaa59c3e6daa79e27ab5b/thumbnails/thumb_0_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Crazy Antics (Ep #4)</h4>
+                            <h4>Without a Hitch (Ep #64)</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>97901 views</strong>
+                                <strong>56372 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/Ypbbbc">
+                        <a href="https://mondomedia.com/watch/xobbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/d45b16ccfc61a575ed177ff5f385237a/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=9d836a0242dab7ec4f1cc201f50ee2a8/videos/5d570ff69778e2239b307ed57bf8006b/thumbnails/thumb_1_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Wrong Side of the Tracks</h4>
+                            <h4>Nuttin Wrong with Candy (Ep #7)</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>36027 views</strong>
+                                <strong>48976 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/Lgbbbc">
+                        <a href="https://mondomedia.com/watch/Eobbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/f4a239aea035ca139ea8dc892b5375db/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=a95253d6a683044006705e3e54889ce9/videos/173c2a98b9f477f251af45215004a227/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Helping Helps (Ep #3)</h4>
+                            <h4>Spare Me (Ep #23)</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>81330 views</strong>
+                                <strong>25647 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/QCbbbc">
+                        <a href="https://mondomedia.com/watch/Uobbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/adc7ce84ca5fd18df08e338a851cfbc7/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=60a982c5c00c1e692b824567b1bc6452/videos/970e23a7a04794486d4c01bf789f3463/thumbnails/thumb_1_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Hot Tub Shake</h4>
+                            <h4>I get a Trick Out of You (Ep #39)</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>79245 views</strong>
+                                <strong>24874 views</strong>
                             </p>
                         </a>
                     </article>
 
                     
                     <article>
-                        <a href="https://mondomedia.com/watch/E0cbbc">
+                        <a href="https://mondomedia.com/watch/Qrbbbc">
                             <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/00ccaf423157346637a526f8488a85f6/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=8d3367b513dc3a3d6405a01a83329154/videos/dc7f28d84b64a88a43ddae1d98ec3ae7/thumbnails/thumb_4_240x134.jpg" alt="suggested video">
                             </span>
-                            <h4>Deep Space 69 - Season 3 Unrated ..</h4>
-                            <p>
-                                <strong>by Deep Space 69</strong>
-                                <strong>6903 views</strong>
-                            </p>
-                        </a>
-                    </article>
-
-                    
-                    <article>
-                        <a href="https://mondomedia.com/watch/Ogbbbc">
-                            <span class="sugg-pic">
-                                <img src="https://static.zikvid.com/amazon_s3/videos/0b2d8e15d9b52c971bd5343aef4ad426/thumbnails/thumb_3_240x134.jpg" alt="suggested video">
-                            </span>
-                            <h4>Havin' a Ball (Ep #5)</h4>
+                            <h4>Nutty Blood Fest</h4>
                             <p>
                                 <strong>by Happy Tree Friends</strong>
-                                <strong>67407 views</strong>
+                                <strong>79918 views</strong>
+                            </p>
+                        </a>
+                    </article>
+
+                    
+                    <article>
+                        <a href="https://mondomedia.com/watch/-ycbbc">
+                            <span class="sugg-pic">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=207acd36ae5f74417e732ab7b2f2e93a/videos/7a30d54aeb1f32ef51b3005c574c93bf/thumbnails/thumb_2_240x134.jpg" alt="suggested video">
+                            </span>
+                            <h4>Still Alive Teaser</h4>
+                            <p>
+                                <strong>by Happy Tree Friends</strong>
+                                <strong>32604 views</strong>
+                            </p>
+                        </a>
+                    </article>
+
+                    
+                    <article>
+                        <a href="https://mondomedia.com/watch/Rrbbbc">
+                            <span class="sugg-pic">
+                                <img src="https://stream.zikvid.com/signed&amp;depth=2&amp;expires=1558187673&amp;token=e20df77417cac037f838e0ff176707ed/videos/d843e5ad3d585aedb11ba56a4daee61a/thumbnails/thumb_0_240x134.jpg" alt="suggested video">
+                            </span>
+                            <h4>Handy Blood Fest</h4>
+                            <p>
+                                <strong>by Happy Tree Friends</strong>
+                                <strong>73869 views</strong>
                             </p>
                         </a>
                     </article>
@@ -686,15 +849,15 @@ function openConnectPopup(url)
             <div class="row">
                 <div class="col-sm-7">
                     <ul class="pull-left m-t-sm m-b-sm">
-                        <li>Mondo Media © 2017 All rights reserved</li>
+                        <li>Mondo Media © 2018 All rights reserved</li>
 
                                                 <li><a href="https://mondomedia.com/pages/view/13/Privacy_Policy">Privacy Policy</a></li>
-                                                <li><a href="https://mondomedia.com/pages/view/27/Terms_of_Use">Terms of Use</a></li>
+                                                <li><a href="https://mondomedia.com/pages/view/27/Terms_of_Use">Terms and Conditions</a></li>
                                                 <li><a href="https://mondomedia.com/pages/view/14/Advertising ">Advertising</a></li>
-                                                <li><a href="http://corporate.mondomedia.com/" target="_blank">Corporate</a></li>
-                                                <li><a href="https://mondomedia.com/pages/view/39/Return_Policy">Return Policy</a></li>
-                                                <li><a href="https://mondomedia.com/contact">Contact Us</a></li>
                                                 <li><a href="http://mondoshows.de" target="_blank">Mondo auf Deutsch</a></li>
+                                                <li><a href="https://mondomedia.com/pages/view/39/Return_Policy">Return Policy</a></li>
+                                                <li><a href="http://corporate.mondomedia.com/" target="_blank">Corporate</a></li>
+                                                <li><a href="https://mondomedia.com/contact">Contact Us</a></li>
                                             </ul>
                 </div>
                 <div class="col-sm-5">
@@ -709,6 +872,20 @@ function openConnectPopup(url)
     </footer>
 
     </div><!-- main-slide-content -->
+
+    
+    	
+		<link href="https://mondomedia.com/_/css/global/cookie_consent.css?v=1557817671" rel="stylesheet">
+
+	<div class="cookie-consent" role="dialog" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" style="display: none">
+		
+		
+		We use cookies to ensure that we give you the best experience on our website. We also use cookies to show you advertising that is relevant to you. By continuing to browse the site you are agreeing to our use of cookies. Please review our <a href="https://mondomedia.com/legal/universal_cookies_policy" target="_blank">cookies information</a> for more details.
+	    <span><button aria-label="agree" data-agree-cookies="">Got it!</button></span>
+	</div>
+
+	<script src="https://mondomedia.com/_/js/global/cookie_consent.js?v=1557817671"></script>
+	 
 
     <div class="modal fade" id="dialogMsgModal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog">
@@ -730,17 +907,17 @@ function openConnectPopup(url)
   </div>
 </div>
 
-<script src="https://mondomedia.com/application/views/channel/templates/default/_/js/global/dialog_message.js?v=1490366593"></script>
+<script src="https://mondomedia.com/application/views/channel/templates/default/_/js/global/dialog_message.js?v=1557817671"></script>
     <!-- jQuery UI -->
-    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/jquery-ui/jquery-ui-1.10.3.custom.min.js?v=1490366593"></script>
+    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/jquery-ui/jquery-ui-1.10.3.custom.min.js?v=1557817671"></script>
     <!-- Bootstrap -->
-    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/bootstrap.min.js?v=1490366593"></script>
+    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/bootstrap.min.js?v=1557817671"></script>
 
     <!-- Main Template JS -->
-    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/main.js?v=1490366593"></script>
+    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/main.js?v=1557817671"></script>
 
     <!-- App -->
-    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/global/main.js?v=1490366593"></script>
+    <script src="https://mondomedia.com/application/views/channel/templates/default/_/js/global/main.js?v=1557817671"></script>
 
     <script>
 
@@ -796,88 +973,35 @@ function openConnectPopup(url)
     }(document, 'script', 'facebook-jssdk'));
     </script>
 
-	<!-- AdBlock detect -->
-	<script>
-
-		ad_blocker_activated = false;
-
-		function ad_block_test(callback, testad_id) {
-			if(typeof document.body == 'undefined') {
-				// right now just silently fail if the body element isn't there
-				return;
-			}
-			var version 			= "0.1.2-dev";
-			var testad_id 			= testad_id ? testad_id : "sponsored-ad";
-			var testad 				= document.createElement("DIV");
-			testad.id 				= testad_id;
-			testad.style.position	= "absolute";
-			testad.style.left 		= "-999px";
-
-			testad.appendChild(document.createTextNode("&nbsp;"));
-			document.body.appendChild(testad); // add test ad to body
-
-			// wait a bit and then check its height
-			setTimeout(function() {
-				if (testad) {
-					var blocked = (testad.clientHeight == 0);
-					try {
-						// AdBlock Plus or AdBlock Edge in FFox uses -moz-binding property to hide elements
-						//  They also usually collapse the element, depending on settings. Value looks like:
-						//  url("about:abp-elemhidehit?668798490716#dummy")
-						// blocked = blocked || (getComputedStyle(testad).getPropertyValue('-moz-binding').indexOf('about:') !== -1);
-					} catch (err) {
-						// log errors
-						if(console && console.log) { console.log("ad-block-test error",err); }
-					}
-					callback(blocked, version);
-					document.body.removeChild(testad);
-					// Should testad disappearing entirely count as an ad block?
-					// Currently it does not fire callback at all in this case
-				}
-			}, 175);
-		}
-
-		// define callback function
-		function ad_block_test_callback(ads_blocked, abt_version_string) {
-			if (ads_blocked) {
-				ad_blocker_activated = true;
-			}
-		}
-
-		ad_block_test(ad_block_test_callback);
-
-	</script>
-	<!-- / AdBlock detect -->
-
     <!-- iTunes Affiliate -->
     <script type="text/javascript">
         var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '11lNF7']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();
     </script>
     <!-- / iTunes Affiliate -->
-	
-	
-    
-    
-    
-    
 
 	
+    
+    
+    
     <script>
-	
+
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   	ga('create', 'UA-51664004-1', 'auto');
-  	
+
   	  	ga('create', 'UA-33204692-1', {'name': 'analyticsApp'});  // New tracker.
   	
+	ga('set', 'anonymizeIp', true);
+
   	ga('send', 'pageview');
 
   	  	ga('analyticsApp.send', 'pageview'); // Send page view for new tracker.'
-  	  	
-</script>    
+  	
+</script>
+
     
 
 </body></html>
