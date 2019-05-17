@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003162337id_/https%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517201026id_/https%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SPIN
 
@@ -75,8 +75,11 @@ You may contact us at [privacy@prometheusgm.com](mailto:privacy@prometheusgm.com
 
 
 
-You may contact Prometheus Global Media regarding our privacy practices at the following address:Prometheus Global Media 340 Madison Avenue-6thFloor  
-New York, New York 10173  
+You may contact Prometheus Global Media regarding our privacy practices at the following address:
+
+Prometheus Global Media  
+1540 Broadway  
+New York, New York 10036  
 1-212-493-4100  
 [privacy@prometheusgm.com](mailto:privacy@prometheusgm.com)
 
