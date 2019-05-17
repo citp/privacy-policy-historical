@@ -1,81 +1,47 @@
-> *The following text is extracted and transformed from the autocarpro.in privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612035942id_/http%3A//www.autocarpro.in/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarpro.in privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517195733id_/http%3A//www.autocarpro.in/privacy) for the most accurate reproduction.*
 
-# Automobile Industry News Updates & Reports| Autocar professional
+# Latest Auto industry News, Insights, Updates and Reports from India’s leading automobile industry magazine |Autocar Professional
 
-Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC.
+Auto car pro is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Auto car pro site and governs data collection and usage. By using the Auto car pro site, you consent to the data practices described in this statement.
 
-The Information We Collect Through HSAC publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many HSAC publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+Collection of your Personal Information
 
-At some HSAC sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
+Auto car pro collects personally identifiable information, such as your email address, name, home or work address or telephone number. Auto car pro also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings.
+There is also information about your computer hardware and software that is automatically collected by Auto car pro. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Auto car pro for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Auto car pro site.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Auto car pro public message boards, this information may be collected and used by others. Note: Auto car pro does not read any of your private online communications.
 
-#### How We Use the Information
+Auto car pro encourages you to review the privacy statements of Web sites you choose to link to from Auto car pro so that you can understand how those Web sites collect, use and share your information. Auto car pro is not responsible for the privacy statements or other content on Web sites outside of the Auto car pro and Auto car pro family of Web sites.
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+Use of your Personal Information
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+Auto car pro collects and uses your personal information to operate the Auto car pro Web site and deliver the services you have requested. Auto car pro also uses your personally identifiable information to inform you of other products or services available from Auto car pro and its affiliates. Auto car pro may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
+Auto car pro does not sell, rent or lease its customer lists to third parties. Auto car pro may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Auto car pro may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Auto car pro, and they are required to maintain the confidentiality of your information.
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us.
+Auto car pro does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+Auto car pro keeps track of the Web sites and pages our customers visit within Auto car pro, in order to determine what Auto car pro services are the most popular. This data is used to deliver customized content and advertising within Auto car pro to customers whose behavior indicates that they are interested in a particular subject area.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+Auto car pro Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Auto car pro or the site; (b) protect and defend the rights or property of Auto car pro; and, (c) act under exigent circumstances to protect the personal safety of users of Auto car pro, or the public.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+Use of Cookies
 
-Agents and contractors of HSAC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for HSAC
+The Auto car pro Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-We may transfer your personally identifiable information to other HSAC offices for internal management and administrative purposes. Your personal data will be transferred to other HSAC offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Auto car pro pages, or register with Auto car pro site or services, a cookie helps Auto car pro to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Auto car pro Web site, the information you previously provided can be retrieved, so you can easily use the Auto car pro features that you customized.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Auto car pro services or Web sites you visit.
 
-#### Privacy Options
+Security of your Personal Information
 
-If a HSAC site discloses personally identifiable information to companies not owned by HSAC who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses.
+Auto car pro secures your personal information from unauthorized access, use or disclosure. Auto car pro secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-HSAC may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
+Changes to this Statement
 
-HSAC sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+Auto car pro will occasionally update this Statement of Privacy to reflect company and customer feedback. Auto car pro encourages you to periodically review this Statement to be informed of how Auto car pro is protecting your information.
 
-#### Collection of Information by Third-Party Sites and Sponsors
+Contact Information
 
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
-
-HSAC sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the HSAC site and the third parties. HSAC has no control over the third parties' use of this information.
-
-HSAC sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
-
-#### Cookies
-
-To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
-
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
-
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
-
-#### Our Commitment to Security
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
-
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
-
-#### Changes to this Notice
-
-This Notice may be changed by HSAC. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
-
-#### How to Contact Us
-
-If you have any questions or concerns about the HSAC Privacy Notice or its implementation please contact us via email or at the following address:
-
-**Mumbai**  
-Haymarket SAC Publishing (India) Pvt Ltd  
-Ground floor, Podar Centre, 85, Parel Post Office Lane,  
-Off Dr. Ambedkar Marg,  
-Parel (East), Mumbai 400 012.  
-Tel: 022-4302 1000  
-Fax: 022-4302 1050
+Auto car pro welcomes your comments regarding this Statement of Privacy. If you believe that Auto car pro has not adhered to this Statement, please contact Auto car pro at [shikhi2.porwal@webdunia.net](mailto:shikhi2.porwal@webdunia.net). We will use commercially reasonable efforts to promptly determine and remedy the problem.
