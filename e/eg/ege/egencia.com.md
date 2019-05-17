@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215132338id_/https%3A//www.egencia.com/public/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518002124id_/https%3A//www.egencia.com/public/us/privacy) for the most accurate reproduction.*
 
 # Egencia privacy policy and terms of use - Egencia
 
