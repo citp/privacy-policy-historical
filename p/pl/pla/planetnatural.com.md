@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225114811id_/https%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetnatural.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517105715id_/https%3A//www.planetnatural.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet Natural
+
+**Site under construction. New website coming soon!**
 
 ## Privacy Policy
 
