@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearlycontacts.ca privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812172100id_/http%3A//www.clearly.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearlycontacts.ca privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517025056id_/https%3A//www.clearly.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clearly.ca
 
@@ -24,7 +24,7 @@ Some of the services offered on our website require you to register and/or sign 
 
 We collect the following categories of your personal data: 
 
-  * **Identification data:** including your name, telephone number, e-mail address, login and password, Customer ID Prescription, and similar information.
+  * **Identification data:** including your name, telephone number, e-mail address, Customer ID Prescription, and similar information.
   * **Financial data:** including the details of your payment method such as a credit card, though we do not store the details of any card after the first order has been processed. 
   * **IT data:** including the pages you accessed; the date and time of your request and referral URL; the date and time at which you accessed them; your search queries within the site; and information about the device you used such as its hardware model, operation system version, unique device identifier, Internet protocol address, hardware settings, browser type, and browser language.
 
@@ -50,7 +50,7 @@ You can see the time limits for personal data storage below:
 
 We inform you that we may share your personal data with companies outside of Clearly.
 
-  * **Identification data** \- No
+  * **Identification data** \- Yes. Limited strictly to SMS (name and telephone no)
   * **Financial data** \- No
   * **IT data** \- Yes
 
