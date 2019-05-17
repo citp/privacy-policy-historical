@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-boxoffice.com privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516162108id_/http%3A//top-boxoffice.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-boxoffice.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517044221id_/http%3A//top-boxoffice.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy » TOP BOXOFFICE
 
