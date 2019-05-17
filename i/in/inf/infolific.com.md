@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705101222id_/https%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolific.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517222405id_/https%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infolific
 
-This Privacy Policy governs the manner in which Infolific collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://infolific.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Infolific.
+This Privacy Policy governs the manner in which Infolific collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://infolific.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Infolific.
 
 **Personal identification information**
 
@@ -49,12 +49,12 @@ Infolific has the discretion to update this privacy policy at any time. When we 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://infolific.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://infolific.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Infolific.com](http://infolific.com/)  
+[Infolific.com](https://infolific.com/)  
 32 Avenue of the Americas, 16th Floor  
 New York, NY, 10013  
 admin [at] infolific [dot] com
