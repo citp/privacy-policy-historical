@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whichwich.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132512id_/https%3A//www.whichwich.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whichwich.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517050400id_/https%3A//www.whichwich.com/privacy-policy) for the most accurate reproduction.*
 
 # Which Wich® Privacy Policy | Which Wich Superior Sandwiches
 
