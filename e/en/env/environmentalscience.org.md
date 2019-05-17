@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226210853id_/https%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023236id_/https%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EnvironmentalScience.org
 
