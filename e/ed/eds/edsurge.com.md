@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231080012id_/https%3A//www.edsurge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517095238id_/https%3A//www.edsurge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EdSurge
 
@@ -65,6 +65,8 @@ We may collect information about You from third party sources including social m
   * **MeetUp**. EdSurge also uses MeetUp to organize events in different cities in the United States. When You provide information to MeetUp in creating a profile and/or registering for events, MeetUp may share some information with us pursuant to its privacy policy, <https://www.meetup.com/privacy/>. 
   * **MailChimp**. EdSurge uses MailChimp to create email subsets using subscriber email addresses. MailChimp may collect information from users subscribing to EdSurge newsletters, including name, physical address, email address, IP address, phone number, details including gender, occupation, and other demographic information. For more information, please visit MailChimp’s privacy policy: <https://mailchimp.com/legal/privacy/>. 
   * **Marketo**. EdSurge uses Marketo to disseminate newsletters and/or to create email subsets using subscriber email addresses. According to Marketo’s Use Policy, it will not collect and we will not provide sensitive personal information, <http://legal.marketo.com/use-policy/>. 
+  * **Google Play**. By clicking on the Google Play button on the Website, You will automatically be transported to the official Google Play page of EdSurge, <https://play.google.com/music/listen?u=0#/ps/I7nkf7dakczcktkcfo7enioewc4>. 
+  * **Spotify**. By clicking on the Spotify button on the Website, You will automatically be transported to the official Spotify page of EdSurge, <https://open.spotify.com/show/5Omg7s9kRYFgt4jEynpdoL?si=rfUzBmV6QS6VsHTUqYKdHA>. 
 
 
 
