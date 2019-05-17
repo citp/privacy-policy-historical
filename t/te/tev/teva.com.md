@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005015438id_/https%3A//www.teva.com/on/demandware.store/Sites-TEVA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517101646id_/https%3A//www.teva.com/on/demandware.store/Sites-TEVA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # Teva® Official Site | Privacy Policy
 
@@ -163,8 +163,6 @@ back to top
 ## Can I Access, Update, Correct, or Delete My Personal Information?
 
 You have the right to access and correct, and in some case delete, the personal information that we hold about you. If you created an account with us, you may access, update, and correct the information that you have submitted to us by logging into your account. If you made a purchase as a guest, or if would like to delete the information that you submitted to us, please use this form to send your request to us online or contact our respective Customer Service Departments at the following email addresses:
-
-Delete Personal Information View Personal Information
 
 Brand | Region | Email Address  
 ---|---|---  
