@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyu-kaku.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604080107id_/http%3A//www.gyu-kaku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyu-kaku.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517055448id_/https%3A//www.gyu-kaku.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gyu-Kaku Japanese BBQ
 
@@ -7,11 +7,11 @@
 Reins International (USA) Co., Ltd.  
 DBA GYU-KAKU
 
-**LAST UPDATED: JUNE 21, 2017**
+**LAST UPDATED: JUNE 7, 2018**
 
 **We are excited to welcome you to the Gyu-Kaku Community! This Privacy Policy (“Policy”) describes how we – Reins International (USA) Co., Ltd. dba Gyu-Kaku and its respective parent, affiliate, and subsidiary companies, divisions, or designees (“us,” “we,” or “Gyu-Kaku”) – collect, use, protect, and share the personal information of our customers.  Customers include those who visit our restaurants, use our websites and mobile applications, and otherwise interact with us.**
 
-​
+**Reins International (USA) Co., Ltd. DBA GYU-KAKU and its respective PARENT, affiliate, AND subsidiary companies, divisions, or designees (“us,” “we,” or “GYU-KAKU”) is   _ _pleased to provide you with access to our__  ** **websites, mobile or tablet websites,   _ _mobile or tablet applications__ , electronic services, social networking sites, interactive features, ** **software, technology, tools, content, promotions,  ** **services, products, goods, equipment,  ** **and any other materials  ** **or any other online activities or platform we own or control (collectively, the “GYU-KAKU Site”).**
 
   1. **PURPOSE OF POLICY.**  This Policy explains how Gyu-Kaku uses your information and applies to all who visit our Gyu-Kaku restaurants or who use our websites, mobile or tablet websites, mobile or tablet applications, electronic services, social networking sites, interactive features, software, technology, tools, content, promotions, sweepstakes, services, products, goods, equipment, and any other materials or any other online activities or platform we own or control (collectively, the “Gyu-Kaku Site”), or when you contact us in any manner. We created this Policy to give you confidence as you visit and use the Gyu-Kaku Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Gyu-Kaku Site and not to any other websites or mobile applications that you may be able to access from the Gyu-Kaku Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
@@ -152,8 +152,8 @@ You hereby consent to us sharing your personal information under the circumstanc
 
 Reins International (USA) Co., Ltd. dba Gyu-Kaku  
 Attn: Website Administrator  
-1225 West 190th Street, Suite 375  
-Gardena, California, 90248, USA  
+20000 Mariner Ave., Suite 500  
+Torrance, CA 90503  
 Email: [contact@gyu-kaku.com](mailto:contact@gyu-kaku.com)
 
 ​When contacting us, please clearly state your request, including your name, mailing address, email address, and phone number.
