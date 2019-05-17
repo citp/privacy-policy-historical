@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flychina.com privacy policy that was archived on 2018-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181128062726id_/https%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flychina.com privacy policy that was archived on 2019-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190517050839id_/https%3A//www.flychina.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -57,16 +57,30 @@ pageTracker._trackPageview();
        <script type="text/javascript" language="JavaScript" src="/cgi-bin/ss.js"></script>
        <script language="javascript">
 
-	   var strHost =location.host
-	   var myCookie = getCookie("fcuser")
+         var strHost =location.host
+         var replaceFlag = "false"
 
-	   document.write("<a href='https://" + strHost + "/lfw/CustomerHistoryPad.aspx?lan=EN' class='destination'>My searches</a>&nbsp;|&nbsp;")	
+         document.write("<a href='https://" + strHost + "/lfw/CustomerHistoryPad.aspx?lan=EN' class='destination'>My searches</a>&nbsp;|&nbsp;")
 
-	   if ( myCookie != null && getCookieNameValue("cid", myCookie) != ""){
-		document.write("Welcome, " +  getCookieNameValue("fn", myCookie) + "&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
-	   }else{
-          	document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination' style='color:red'>Sign in</a>")
-     	  }
+         // Replace Here
+         // start replacing in aspx file
+         if (replaceFlag == "false") {
+         // this is for asp files
+         //var myCookie = getCookie("fcuser")
+         var fn = ""
+         if ( fn != null && fn != ""){
+                document.write("Welcome, " +  fn + "&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
+             }else{
+                document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination' style='color:red'>Sign in</a>")
+           }
+           }
+           // end replacing in aspx file
+
+           //if ( hidcid != null && document.getElementById("HidAllCid").value != ""){
+         //document.write("Welcome, " +  document.getElementById("HidAllFn").value + "&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
+	   //}else{
+     //     	document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination' style='color:red'>Sign in</a>")
+     //	  }
           document.write("&nbsp;|&nbsp;<a href='https://" + strHost + "/lfw/user/MyTrips.aspx?lan=EN' class='destination'>My Account</a>")	
 	   
 
@@ -83,18 +97,21 @@ pageTracker._trackPageview();
 <!--table><tr><td--><!--font color=#454d68-->
 <div style="margin-bottom:5px">
 <font size="1"><br></font>
-<a href="http://ads.flychina.com/ad/ad.aspx?redirect=2545" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
-南航商务舱空前低价$1205就回国过年 全程平躺</a>
+<font size="1"><br></font>
+<a href="http://ads.flychina.com/ad/ad.aspx?redirect=2569" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
+回程日期定不下来怎么买票好？
+</a>
 <br>
 <font size="1"><br></font>
-<a href="http://ads.flychina.com/ad/ad.aspx?redirect=2547" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
-南方航空明年初将退出天合联盟 SkyTeam 
+<a href="http://ads.flychina.com/ad/ad.aspx?redirect=2568" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
+买联程机票，还是分段买票好？
 </a>
-<!--a href="http://ads.flychina.com/ad/ad.aspx?redirect=2543" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
-买 UA 895航班飞香港，赠送一个舒适经济舱
+<!--a href="http://ads.flychina.com/ad/ad.aspx?redirect=2562" target="_blank" style="font-weight:bold;font-size:1.4em;color:red">
+免费舒适经济舱座位 United Economy Plus
 </a-->
 </div>
 <!--/td><td>
+南航商务舱空前低价$1205就回国过年 全程平躺
 <img src=/images/qrcode_followFlyChina60.jpg alt=WeChat>
 </td></tr></table-->
 
@@ -240,18 +257,36 @@ pageTracker._trackPageview();
     <script type="text/javascript" language="JavaScript" src="/cgi-bin/ss.js"></script>
     <script language="javascript">
 
- 	   
-	   var strHost =location.host
-	   var myCookie = getCookie("fcuser")
-	   if ( myCookie != null && getCookieNameValue("cid", myCookie) != ""){
-		      document.write("Welcome, " +  getCookieNameValue("fn", myCookie) + "<br/><a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
-	   }else{
-          document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination'>Sign in</a>")
-     }
+
+      var strHost =location.host
+      var replaceFlag = "false"
+
+      //var myCookie = getCookie("fcuser")
+
+      // Replace Here
+
+      // start replacing in aspx file
+      if (replaceFlag == "false") {
+      // this is for asp files
+      //var myCookie = getCookie("fcuser")
+      var fn = ""
+      if ( fn != null && fn != ""){
+      document.write("Welcome, " +  fn + "&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
+      }else{
+      document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination' style='color:red'>Sign in</a>")
+      }
+      }
+      // end replacing in aspx file
+
+      //if ( myCookie != null && getCookieNameValue("cid", myCookie) != ""){
+		  //    document.write("Welcome, " +  getCookieNameValue("fn", myCookie) + "<br/><a href='https://" + strHost + "/lfw/user/Login.aspx?p=out' class='destination'>Sign out</a>")
+	   //}else{
+     //     document.write("<a href='https://" + strHost + "/lfw/user/Login.aspx?lan=EN' class='destination'>Sign in</a>")
+     //}
           /*document.write("&nbsp;|&nbsp;<a href='https://" + strHost + "/lfw/user/MyTrips.aspx?lan=EN' class='destination'>My Account</a>")	*/
 	   
 
-     </script><a href="https://web.archive.org/lfw/user/Login.aspx?lan=EN" class="destination">Sign in</a>
+     </script><a href="https://web.archive.org/lfw/user/Login.aspx?lan=EN" class="destination" style="color:red">Sign in</a>
 
   </td>
   <td align="right" class="tdMobileMenu">
@@ -509,7 +544,7 @@ href="/news.asp">News
 </tbody></table>
 <div class="footer" align="center" style="width:100%">© 1997-2018&nbsp;&nbsp;FlyChina Infotek, Inc.</div>
 <div align="center" style="width:100% ">
-<font color="white"></font>
+<font color="white">https://www.flychina.com/</font>
 </div>
 
 </td></tr>
