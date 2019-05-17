@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellamihair.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904004825id_/https%3A//www.bellamihair.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellamihair.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517140731id_/https%3A//www.bellamihair.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BELLAMI Hair
 
@@ -76,6 +76,6 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **CONTACT US**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [info@bellamihair.com](mailto:info@bellamihair.com) or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [info@bellami.com](mailto:info@bellami.com) or by mail using the details provided below:
 
 3850 ROYAL AVE, SUITE A, SIMI VALLEY, CA, 93063, United States
