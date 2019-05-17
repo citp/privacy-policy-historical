@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyft.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815214237id_/https%3A//www.gyft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyft.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517132449id_/https%3A//www.gyft.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gyft
 
