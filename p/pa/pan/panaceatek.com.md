@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114041131id_/https%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panaceatek.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517050628id_/https%3A//www.panaceatek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Development Company | Panacea Infotech
 
@@ -18,7 +18,7 @@ If you show interest in our services and products and register with our site, we
 
 ## Changes in the Privacy Policy
 
-If any changes made in this privacy policy, you will see those changes on this web page. Therefore, you will always stay aware about how we collect and utilize your information. [Disclaimer](http://www.panaceatek.com/privacy-policy/)
+If any changes made in this privacy policy, you will see those changes on this web page. Therefore, you will always stay aware about how we collect and utilize your information. [Disclaimer](https://www.panaceatek.com/privacy-policy/)
 
 We reserve all rights to change or modify this privacy policy anytime without informing anyone with prior notification. Thus, we advise you to review this privacy policy timely.
 
