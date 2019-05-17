@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116103025id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518014829id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
 
 # Spirit Now
 
