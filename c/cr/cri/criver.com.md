@@ -1,106 +1,166 @@
-> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018142411id_/https%3A//www.criver.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517163024id_/https%3A//www.criver.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Charles River Website Privacy Policy
 
 **To make an EU General Data Protection Regulation Request, please fill out[this form](https://web.archive.org/resources/eu-gdpr-data-subject-request-form).**
 
-This website (excluding linked websites) is controlled by us. All content and materials that comprise the website, including the website design, text, graphics, photographs, illustrations, images, icons and other materials, data, and information are protected by copyright under United States and international copyright laws and treaties and are our exclusive property.
+## I. Purpose
 
-We understand that various laws and regulations around the world govern data protection and we respect the fact that protecting your privacy is important to you. For those reasons, we created this Website Privacy Policy. Please review this policy to learn about how we collect, use, share, and protect information.
+This website (excluding linked websites) is controlled by Charles River Laboratories International, Inc. and its subsidiaries and affiliates (collectively, “Charles River Laboratories,” “we,” “our,” or “us”).
 
-First and foremost, **we only collect personal information if you choose to give it to us**. We retain the right to share your personal information with our corporate affiliates and with outside companies or agents working on our behalf to help fulfill our business obligations. However, we do not share any of your personal information with third parties for their own use unless you explicitly give us permission to do so.
+We understand that various laws and regulations around the world govern personal data protection, and we respect the fact that protecting your privacy is important to you. For those reasons, we created this Website Privacy Policy. Please review this policy to learn about how and why we collect, use, share, and protect information.
 
-When you browse our website, you do so anonymously, unless you have previously indicated that you wish us to remember your login and password. We do not automatically collect personal information, including your email address. We do log your IP address to give us an idea of which part of our website you visit and how long you spend there. We do use a standard technology called a “cookie” to collect information about how you use the site. Please go to “Cookies” below for more information. We do collect personal information when you register with us for an account, when you ask to be included in an email or other mailing list, and when you voluntarily submit your personal information to us for any other reason. When we collect personal information, we inform you at the point of collection.
+This Website Privacy Policy applies only to personal data collected online from our websites.
 
-This Website Privacy Policy applies only to personal information collected online from our websites.
+Your use of our website or related services is subject to the then-current version of this Website Privacy Policy, so we urge you to read this document in full from time to time, and contact us using the contact information below if you have any questions.
 
-## Information Collected – Information You Give Us
+## II. Who We Are
 
-On our websites, we only collect your personal information (such as your name, address, telephone number, and e-mail address) when you choose to submit it to us, and we only use it for those purposes which you approved. For example, you may register to receive additional product information or other company information, in which case your personal information will be used only for that purpose. In some cases, we remove personal identifiers from data and maintain it in aggregate form. We may combine this data with other information to produce anonymous, aggregated statistical information helpful to us in improving our products and services.
+Charles River Laboratories provides a variety of pre-clinical and clinical laboratory services for the pharmaceutical, medical device and biotechnology industries. Our corporate headquarters are located in Wilmington, Massachusetts, USA.
 
-## Automatically Collected Information
+## III. What Information We Collect
 
-We automatically collect certain types of information whenever you interact with us on our websites and in some e-mails we may send each other.  Automatic technologies we use include, for example, web server logs, IP addresses, cookies, and web beacons.
+### **Information You Give Us**
 
-_Web Server Logs and IP Addresses:_   Our server log files are stored in a secure location, and can only be accessed by our authorized employees. An IP address is a number assigned to your computer whenever you access the Internet that allows computers and servers to recognize and communicate with each other. We collect IP addresses to conduct system administration and report aggregated information to affiliates, business partners, service providers, and/or vendors to conduct website analysis and performance reviews. This information is kept indefinitely for historical purposes.
+We collect your personal data (such as your professional information, contact information, payment information, sales information, and tradeshow related information) when you choose to submit it to us on our website, and we use it for those purposes which you approved. We may combine this data with other information to produce anonymous, aggregated statistical information to help us improve our products and services.
 
-_Database Storage:_   We use multiple databases to record and retrieve information sent to us through web forms (such as contact information, products and services requested, and billing/payment information). This information is kept indefinitely for historical purposes and is used for billing purposes and to fill customers’ orders. For example, if we have trouble processing your order, the information is used to contact you.
+### **Automatically Collected Information**
 
-_Cookies:_   A cookie is a piece of information that is placed on your computer when you access certain websites.  The cookie uniquely identifies your browser to the server. Cookies allow us to store information on the server to help customize your web experience and to conduct website analysis and performance reviews. We make use of a web browser cookie for the sole purpose of giving the visitors of our websites the option to login quickly, without requiring them to put in a username and password for their account each time. Most web browsers are set up to accept cookies, although you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some portions of our websites may not work properly if you refuse cookies. The cookie that we create will last for exactly one year from the time of creation, at which time a new cookie will be created upon the next login.
+We automatically collect certain types of information whenever you interact with us on our websites and in some e-mails that we send to you. Automatic technologies we use include, for example, web server logs, Internet Protocol (IP) addresses, cookies, web beacons and third-party tools.
 
-_Web Beacons:_   On certain web pages or e-mails, we may utilize a common Internet technology called a "web beacon" (also known as an "action tag" or "clear GIF technology"). Web beacons help analyze the effectiveness of websites by measuring, for example, the number of visitors to a site or how many visitors clicked on key elements of a site.
+  * _Web Server Logs_ : A web server log is a log file of activities performed that is created and maintained by a server.
+  * _IP Address_ : An IP address is a number assigned to your computer whenever you access the Internet that allows computers and servers to recognize and communicate with each other.
+  * _Cookies_ : A cookie is a piece of information that is placed on your computer when you access certain websites. The cookie uniquely identifies your browser to the server. Cookies allow us to store information on the server to help customize your web experience and to conduct website analysis and performance reviews. We use session and persistent cookies. Session cookies exist only during one session and disappear when you close your browser or turn off your computer. Persistent cookies remain on your computer or device after you close your browser or turn off your computer.
+  * _Web Beacons_ : On certain web pages or e-mails, we may utilize a common Internet technology called a "web beacon" (also known as an "action tag" or "clear GIF technology"). Web beacons help us analyze the effectiveness of websites by measuring, for example, the number of visitors to a site or how many visitors clicked on key elements of a site.
+  * _Third-Party Tools_ : Third party tools (such as Google Analytics) use cookies to collect information about the use of websites, pages visited, frequency of visits, and how individuals found the site.
 
-Web beacons, cookies, and other tracking technologies do not automatically obtain personal information about you. If you voluntarily submit personal information, such as by registering or sending e-mails, then these automatic tracking technologies can be used to provide further information about your use of the websites to improve their usefulness to you.
 
-## Your Choices
 
-You have certain options regarding your use of our websites. We may require you to provide certain personal information in order for you to receive additional product information or other company information. You could decide not to submit any personal information at all by not entering it into any forms or data fields on our websites and not using any available personalized services. Certain websites may ask for your permission for certain uses of your personal information and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will work to remove your information promptly, although we may require additional information before we can process your request.
+## IV. Our Use of Personal Data
 
-As described above, if you wish to prevent cookies from tracking you anonymously as you navigate our websites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.  However, some portions of our websites may not work properly if you refuse cookies.
+### **Information You Give Us**
 
-## Use of Personal Information
+We may use any personal data you choose to give us to comply with your requests, to communicate with you, and generally to improve our products, services, and website.
 
-We, and/or our service providers, vendors, and other third parties we hire to perform services on our behalf, may use any personal information you choose to give us to comply with your requests, as otherwise disclosed to you in this Website Privacy Policy, or on the web page where you submit your information to us. We may refer to this information to better understand your needs and how we can improve our products and services. We also use depersonalized, aggregated information collected from our websites to help us understand trends and customer needs. For example, we may analyze the gender or age of visitors to our websites in relation to a particular product or service we offer, and we may use that analysis of aggregate data internally or share it with affiliates.
+### **Providing Product and Services You Request**
 
-## Data Sharing and Transfer
+If you choose to buy our products or use our services, we may use the personal data you submit to fulfil your requests. We may use personal data for customer relationship or account management, to help with product distribution, sales, customer service, and for customer transaction management.
 
-We may share personal information about you with various outside companies, service providers, or vendors working on our behalf to help further our business including, but not limited to, providing customer service, sending marketing communications about our products, services, and offers, and performing technological maintenance.  We may also share personal information with our affiliates.
+### **Marketing and Events**
 
-We may disclose personal information for the following purposes:
+You may also choose to receive information for marketing purposes or events. In such cases, we will use personal data for direct marketing communications, marketing or sales analytics, lead generation, business development, event management, market research and development, education and training (including technical training), and continuing education or accreditation.
 
-1\. in connection with the sale, assignment or other transfer of the business of the site to which the data relates;
+### **Site Analytics and Improvement**
 
-2\. to respond to requests of government or law enforcement agencies or where required or permitted by applicable laws, court orders, or government regulations; or
+We will use personal data submitted to us, in conjunction with such automatically collected information (as described under “Automatically Collected Information” below), to improve our website operation by monitoring user patterns and preferences.
 
-3\. when needed for corporate audits or to investigate or respond to a complaint or security threat.
+We also use depersonalized, aggregated information collected from our websites to help us understand trends and customer needs, and we may use that analysis of aggregated data internally or share it with our affiliates.
 
-_No Third-Party Direct Marketing Use:_   We will not sell or otherwise transfer personal information you provide to us on our websites to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner.
+### **Automatically Collected Information**
 
-_E-mail a Friend or Colleague:_ On some of our websites, you can choose to send a link or a message to a friend or colleague referring them to our website. The e-mail address you provide for a friend will be used to send your friend information on your behalf and will not be collected or used by us or other third parties for additional purposes.
+We use automatically collected information as described below.
 
-_Note to Users of Business or Professional Websites:_   If you have a business or professional relationship with us, we may use information you submit on our websites, including those websites intended specifically for our business and professional users, to fulfill your requests and develop our business relationship with you and the entities you represent. We may also share such information with third parties acting on our behalf.
+  * _Web Server Logs_ : We collect data in our web server logs for monitoring system performance and making sizing decisions, for information security purposes, and for troubleshooting purposes. The data may consist of IP addresses, URLs requested, and other typical web server log elements.
+  * _IP Addresses_ : We collect IP addresses to determine which country your access is coming from to display content appropriate for your locale, to conduct system administration, and to report aggregated information to affiliates, business partners, service providers, and/or vendors who conduct website analysis and performance reviews.
+  * _Cookies_ : We make use of both session and persistent cookies for numerous purposes including: enabling basic functions and access to secured sections of the website, remembering your preferences (such as a preferred language), recording statistical traffic between our various web properties, and for personalization and marketing purposes. Some portions of our websites may not work properly if you refuse cookies.
+  * _Web Beacons_ : We use web beacons to help analyze the effectiveness of websites by measuring, for example, the number of visitors to a site or how many visitors clicked on key elements of a site.
+  * _Third-Party Tools_ : We use third-party tools such as Google Analytics to collect information about the use of our website. The third-party tools gather statistical information about traffic between our various web properties and gather information for personalization and marketing purposes.
 
-## Links to Other Sites
 
-Our websites may contain links to third party websites that may offer useful information to our visitors.  This Website Privacy Policy does not apply to third party sites, and we recommend communicating with such parties directly for information on their privacy policies.
 
-## Privacy Statement for Children Under 18
+## V. Retention
 
-Our websites are not intended or designed to attract children under the age of 18.  If you are under the age of 18, you must not provide your personal information. We do not collect personal information from any person we actually know is a person under the age of 18.
+Cookies that are created may be kept up to 20 years from the time of creation. Market investigations, market research data, and surveys are kept for 10 years. Sales analysis data is kept for 7 years.
 
-## Additional Information on Websites
+We use multiple databases to record and retrieve information sent to us through web forms (such as contact information, products and services requested, and billing/payment information). This information is kept for as long as needed to fulfill specific business purposes or purposes for which it was collected.
 
-If one of our websites has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which your personal information is collected.
+For all other data, a fixed retention period is not possible to determine. Instead we review data for retention based on the following: the purpose of the information; if the information could be reasonably gathered from another source; levels of risk, cost, and liability involved with keeping the information; if the information is still relevant for the original purpose; and the accuracy of the information.
 
-## Notification of Policy Change
+In some cases, laws or regulations that apply to our business may require us to keep information longer than needed for a specific business purpose.
 
-This policy may be amended from time to time. If we decide to change our Website Privacy Policy, we will post those changes to this policy on our website so visitors to our websites are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information is collected.
+## VI. Information Security
 
-## WEBSITE TERMS AND CONDITIONS
+We take commercially reasonable steps to safeguard any information you provide to us from unauthorized access, loss, misuse, or alteration. To this effect, our server log files are stored in a secure location and can only be accessed by our authorized employees. Although we take commercially reasonable steps, no system can ever by completely secure or error-free. In addition, it is your responsibility to safeguard any user names, passwords, or information associated with your account.
 
-By using our website, you agree to the terms and conditions set forth herein. Furthermore, you acknowledge and agree that the documents and articles contained on the website are our property and may contain our copyrighted materials, proprietary trademarks and trade names. No material from any website owned, operated, licensed or controlled by us may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way. Commercial enterprises seeking to do business with us should not submit unsolicited confidential or proprietary information to our website. We reserve the right to use or disclose unsolicited information for any purpose. We make no representations about the content and suitability of the information in our website for any purpose. The articles, information and works provided in the website are provided "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, WHETHER CONTRACTUAL OR STATUTORY INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE. We assume no liability for the use or interpretation of information contained herein. Decisions based on such information are the responsibility of visitors to our website. We are not liable for any direct, indirect, special, incidental or consequential damages arising out of the use, or the inability to use, the material on the website. If you do not agree to these terms and conditions, do not use our website.
+## VII. Your Choices and Rights Under the General Data Protection Regulation
+
+On 25 May 2018, a European privacy law, the General Data Protection Regulation (GDPR), took effect. Under the GDPR, EU residents have important data privacy rights subject to various conditions and exceptions. In summary, these rights generally include:
+
+  * The right to fair processing of information and transparency over how we use your personal data
+  * The right to access to your personal data and to certain other supplementary information already addressed within this Website Privacy Policy
+  * The right to require us to correct any mistakes in your information which we hold
+  * The right to erasure of personal data concerning you in certain situations
+  * The right to receive the personal data concerning you which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations
+  * The right to object at any time to processing of your personal data for the purposes of direct marketing
+  * The right to object to decisions being taken by automated means which produce legal effects concerning you or similarly significantly affect you
+  * The right to object in certain other situations to our continued processing of your personal data
+  * The right to otherwise restrict our processing of your personal data in certain circumstances
+  * The right to lodge a complaint with a supervisory authority
+
+
+
+If you are an EU resident and would like to exercise your rights provided under the GDPR, please refer to the contact information below and fill out this [form](https://web.archive.org/resources/eu-gdpr-data-subject-request-form).
+
+Please understand that if you decide not to submit any personal data and/or object to the automatic collection of any person data (e.g., cookies), our website may not work correctly and/or we may be unable to provide you services or products.
+
+If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will work to remove your information promptly, although we may require additional information before we can process your request.
+
+## VIII. Data Sharing and Transfer
+
+We share personal data about you with various outside companies, service providers, and/or vendors who help us further our business. The use of the data will include, but is not limited to, providing customer service; sending marketing communications about our products, services, and offers; and performing technological maintenance. Any organization that receives your information is also required to keep the information confidential.
+
+We may disclose the data for the following purposes:
+
+  1. In connection with the sale, assignment or other transfer of the business of the site to which the data relates;
+  2. To assist us with services and information about our site;
+  3. To respond to requests of government or law enforcement agencies or where required or permitted by applicable laws, court orders, or government regulations; or
+  4. When needed for corporate audits or to investigate or respond to a complaint or security threat.
+
+
+
+_No Third-Party Direct Marketing Use_ : We will not sell or otherwise transfer personal data, you provide to us on our websites, to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner.
+
+Your personal data may be stored and processed in any country where we have facilities or service providers. By using our services or by providing consent to us, you agree to the transfer of information to countries outside of your country of residence, which may provide for different data protection rules than in your country. Please note that all Charles River Laboratories entities operate under Standard Contractual Clauses from our Group Data Processing Agreement and applicable measures of the GDPR provide protections and safeguards for cross-border transfers. We take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+_Note to Users of Business or Professional Websites_ : We may use information you submit on our websites, including those websites intended specifically for our business and professional users, to fulfill your requests and to develop our business relationship with you and the entities you represent, if you have a business or professional relationship with us. We may also share such information with third parties acting on our behalf.
+
+## IX. Links to Other Sites
+
+Our websites may contain links to third party websites that may offer useful information to our visitors. This Website Privacy Policy does not apply to third party sites, and we recommend communicating with such parties directly for information on their privacy policies.
+
+## X. Privacy Statement for Children Under 18
+
+Our websites are not intended or designed to attract children under the age of 18. If you are under the age of 18, you must not provide your personal data. We do not collect personal data from any person whom we actually know is a person under the age of 18.
+
+## XI. Additional Information on Websites
+
+If one of our websites has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which your personal data is collected.
+
+## XII. Notification of Policy Change
+
+This policy may be amended from time to time. If we decide to change our Website Privacy Policy, we will post those changes on our website to help ensure that visitors to our websites are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information is collected.
 
 ## CONTACT INFORMATION
 
 If you have any questions about this Website Privacy Policy, you may contact us at:
 
-    Chief, Information Security and Compliance  
+Chief Information Security Officer  
 Charles River Laboratories  
 251 Ballardvale Street  
-Wilmington, MA  01887   
-Telephone:  781-222-6000   
-Fax:  978-988-5665  
+Wilmington, MA 01887  
+Telephone: 781-222-6000  
+Fax: 978-988-5665  
 [websiteprivacypolicy@crl.com](mailto:websiteprivacypolicy@crl.com)
 
 Corporate Legal Department  
 Charles River Laboratories  
 251 Ballardvale Street  
-Wilmington, MA  01887   
-Telephone:  781-222-6000   
-Fax:  978-988-5665  
-[websiteprivacypolicy@crl.com](mailto:websiteprivacypolicy@crl.com)
+Wilmington, MA 01887  
+Telephone: 781-222-6000  
+Fax: 978-988-5665  
+[GDPR@crl.com](mailto:GDPR@crl.com)
 
-Data Protection Officer – GDPR Compliance  
+Data Protection Officer  
 Considerati DPO Services BV  
 Postbus 76949  
 1070 KE Amsterdam  
