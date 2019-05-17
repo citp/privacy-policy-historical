@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishwebmasterforum.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129045755id_/http%3A//www.irishwebmasterforum.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishwebmasterforum.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517030856id_/http%3A//www.irishwebmasterforum.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Irish Webmaster SEO Discussion Forum
 
