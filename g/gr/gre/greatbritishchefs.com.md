@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921110336id_/https%3A//www.greatbritishchefs.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517021820id_/https%3A//www.greatbritishchefs.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy - Great British Chefs
 
