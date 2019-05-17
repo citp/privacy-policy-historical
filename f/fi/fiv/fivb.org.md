@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivb.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116073346id_/http%3A//www.fivb.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivb.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517130246id_/http%3A//www.fivb.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
