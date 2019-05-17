@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dataloader.io privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828173447id_/https%3A//mulesoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataloader.io privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023722id_/https%3A//mulesoft.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mulesoft
+# Privacy Policy | MuleSoft
 
-**Privacy Statement, effective as of May 25, 2018**
+**Privacy Statement, effective as of December 27, 2018**
 
-At Mulesoft, Inc., a Salesforce company, trust is our #1 value. This MuleSoft Privacy Statement ("Privacy Statement") describes our privacy practices. Please read this Privacy Statement carefully to learn how we collect, use, share and otherwise process information relating to individuals ("Personal Data"), and your rights and choices regarding our processing of your Personal Data.
+At MuleSoft, Inc., a Salesforce company, trust is our #1 value. This MuleSoft Privacy Statement ("Privacy Statement") describes our privacy practices. Please read this Privacy Statement carefully to learn how we collect, use, share and otherwise process information relating to individuals ("Personal Data"), and your rights and choices regarding our processing of your Personal Data.
 
 A reference to “MuleSoft,” “we,” “us,” “our,” or the “Company” is a reference to mulesoft.com, inc.
 
@@ -33,9 +33,11 @@ Our websites may contain links to other websites, applications and services main
 
 2\. Responsible MuleSoft entity
 
-Mulesoft is the controller of your Personal Data and responsible for the collection, processing and disclosure of your Personal Data as described in this Privacy Statement, unless expressly specified otherwise.
+MuleSoft is the controller of your Personal Data and responsible for the collection, processing and disclosure of your Personal Data as described in this Privacy Statement unless expressly specified otherwise.
 
-This Privacy Statement does not apply to the extent we offer our customers the AnyPoint Platform through which our customers may collect and process Personal Data from individuals.
+This Privacy Statement does not apply to the extent we offer our customers the Anypoint Platform through which our customers may collect and process Personal Data from individuals.
+
+For detailed privacy information related to where the MuleSoft customer is the controller, please reach out to the customer directly. We are not responsible for the privacy or data security practices of our customers, which may differ from those set forth in this Privacy Statement. Information regarding our privacy and data security practices as a processor of Personal Data on behalf of our customers can be found in the Salesforce Data Processing Addendum, available [here](https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf).
 
 3\. What Personal Data do we collect?
 
@@ -44,7 +46,7 @@ This Privacy Statement does not apply to the extent we offer our customers the A
 The Personal Data that we collect directly from you may include the following:
 
   * if you express an interest in obtaining additional information about our services, request customer support, use our "Contact Us" or similar features, register to use our websites, sign up for an event or webinar, or download certain content, we generally require you to provide us with your contact information, such as your name, job title, company name, address, phone number, fax, email address, or username and password;
-  * if you make purchases via our websites or register for an event, we may also require you to provide us with financial information and billing information, such as billing name, billing email, billing phone, billing address, credit card number, , credit card expiration data, or credit card verification number;
+  * if you make purchases via our websites or register for an event, we may also require you to provide us with financial information and billing information, such as billing name, billing email, billing phone, billing address, credit card number, credit card expiration data, or credit card verification number;
   * if you attend an event (ex. trade shows, workshops, training, meetups, conferences), we may, upon your consent, scan your attendee badge, require online registrations forms, one-off business card collection or hard copy sign-ups, which will provide us with your name, title and company name, address, country, phone number and email address;
   * if you register for an online community that we host, we may ask you to provide a username, photo and/or biographical information, such as your occupation, social media profiles, company name, and areas of expertise;
   * if you use and interact with our websites, we automatically collect log files and other information about your device and your usage of our websites through cookies, web beacons or similar technologies, such as IP-addresses or other identifiers, which may qualify as Personal Data (view the "What device and usage data we process" section below);
@@ -67,7 +69,7 @@ We use common information-gathering tools, such as log files, cookies, web beaco
 
 ## 4.1 Log Files
 
-As is true of most websites, we gather certain information automatically via log files. This collected information may include your Internet Protocol (IP) address (or proxy server), device and application identification numbers, your location, your browser type, your Internet service provider and/or mobile carrier, the pages and files you viewed, your searches, your operating system and system configuration information, and date/time stamps associated with your usage. This information is used to analyze overall trends, to help us provide and improve our websites and to guarantee their security and continued proper functioning. We also collect IP addresses from users when they log into the services as part of Mulesoft’s security features.
+As is true of most websites, we gather certain information automatically via log files. This collected information may include your Internet Protocol (IP) address (or proxy server), device and application identification numbers, your location, your browser type, your Internet service provider and/or mobile carrier, the pages and files you viewed, your searches, your operating system and system configuration information, and date/time stamps associated with your usage. This information is used to analyze overall trends, to help us provide and improve our websites and to guarantee their security and continued proper functioning. We also collect IP addresses from users when they log into the services as part of MuleSoft’s security features.
 
 ## 4.2 Cookies, web beacons and other tracking technologies
 
@@ -101,7 +103,7 @@ We may use our own technology or third party technology to track and analyze usa
 
 In particular, we use Google Analytics ("Google Analytics"), a web analytics service provided by Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA as our processor. Google Analytics uses cookies to help us analyze how our websites are used, including the number of visitors, the websites visitors have come from, and the pages they visit. This information is used by us to improve our websites.
 
-Mulesoft may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored.
+MuleSoft may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored.
 
 **Managing Functional Cookies**
 
@@ -172,7 +174,7 @@ We may share your Personal Data with the following recipients:
   * If you attend an event or webinar organized by us, we may share your information with sponsors of the event if: (1) you consent to such sharing via an event registration form; or (2) you allow your attendee badge to be scanned at a sponsor booth. In that event, your information will be subject to the business partners’ respective privacy statements. If you do not wish for your information to be shared, you may choose not to opt-in via event registration or elect not to have your badge scanned at our events;
   * With third–party social networks, advertising networks and websites, which usually act as separate controllers, so that MuleSoft can market and advertise on third party platforms and websites;
   * In individual cases we may also share Personal Data with professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in countries in which we operate who provide consultancy, banking, legal, insurance and accounting services;
-  * We may also share your Personal Data with other affiliates within the Mulesoft corporate group to the extent this is necessary to fulfill a request you have submitted via our websites, or for customer support, marketing, technical operations and account management purposes;
+  * We may also share your Personal Data with other affiliates within the MuleSoft corporate group to the extent this is necessary to fulfill a request you have submitted via our websites, or for customer support, marketing, technical operations and account management purposes;
   * If we are involved in a merger or reorganization, sell a website or business unit, or if all or a portion of our business, assets or stock are acquired by another company, we may transfer some or all of your Personal Data to such third party. In accordance with applicable laws, we will use reasonable efforts to notify you of any such transfer of Personal Data to an unaffiliated third party as processing of your Personal Data will be required for the purposes set out in "Purposes for which we process Personal Data and on which legal bases" section above.
   * Any Personal Data or other information you choose to submit in communities, forums, blogs, or chat rooms on our websites may be read, collected, and/or used by others who visit these forums, depending on your account settings.
 
