@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210184220id_/https%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517204448id_/https%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Campbell Cohen Law Firm & CanadaVisa - Canadavisa.com
 
@@ -52,7 +52,7 @@ Website Cookies
     * Cookie settings in [Internet Explorer](https://support.microsoft.com/en-ca/help/17442/windows-internet-explorer-delete-manage-cookies)
     * Cookie settings in [Firefox](http://support.mozilla.com/en-US/kb/Cookies)
     * Cookie settings in [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
-    * Cookie settings in [Safari](https://support.apple.com/kb/ph21411?locale=en_CA) and [iOS](https://support.apple.com/en-ca/HT201265)
+    * Cookie settings in [Safari](https://support.apple.com/en-ca/guide/safari/manage-cookies-and-website-data-sfri11471/mac) and [iOS](https://support.apple.com/en-ca/HT201265)
 
 
 
