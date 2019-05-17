@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximumfun.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204120928id_/http%3A//maximumfun.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumfun.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517101326id_/https%3A//www.maximumfun.org/privacy) for the most accurate reproduction.*
 
 # MaximumFun.org Privacy Policy | Maximum Fun
 
