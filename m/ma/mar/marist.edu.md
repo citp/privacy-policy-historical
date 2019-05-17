@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604115645id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517151314id_/https%3A//www.marist.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Marist College
+# Privacy Policy of the website of www.marist.edu - Marist College
 
 This is the **Privacy Policy** of the website of www.marist.edu. This policy does not cover privacy for the use of College owned equipment or other information resources. Use of College equipment and other information resources are covered in the Information Security Policy, found at [http://security.marist.edu](http://security.marist.edu/)
 
 Our postal address is:  
 Marist College  
 3399 North Road  
-Poughkeepsie, NY 12601 
+Poughkeepsie, NY 12601
 
 We can be reached via email at [web.services@marist.edu](mailto:web.services@marist.edu) or by telephone at 845-575-3252.
 
@@ -20,7 +20,7 @@ When you browse through any Web site, certain information about you can be colle
   * the date and time of your visit;
   * IP address;
   * browser type, operating system and language;
-  * the pages you visited; and 
+  * the pages you visited; and
   * the address of the Web site from which you came.
 
 
@@ -35,11 +35,11 @@ Marist College does not require you provide to personal information to visit our
 
 ## Cookies, Web Beacons and Other Technologies
 
-As mentioned above, we collect information from your visits to our Web sites to help us gather statistics about our Web sites usage and effectiveness, personalize your experience on our sites, and tailor our interactions with you. 
+As mentioned above, we collect information from your visits to our Web sites to help us gather statistics about our Web sites usage and effectiveness, personalize your experience on our sites, and tailor our interactions with you.
 
 We do so through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalize a known visitor’s experience to a Web site by being associated with profile information or user preferences. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites’ features, we recommend that you leave them turned on.
 
-Some Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Web sites. When a visitor accesses these pages, a non identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, Web beacon and other technologies will still detect visits to these pages; however, they will not be associated with information otherwise stored in cookies. 
+Some Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Web sites. When a visitor accesses these pages, a non identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, Web beacon and other technologies will still detect visits to these pages; however, they will not be associated with information otherwise stored in cookies.
 
 We may also include Web beacons in marketing e-mail messages or our newsletters in order to determine whether messages have been opened and links contained within clicked on.
 
@@ -57,4 +57,4 @@ Our Web site has links to many other non-profit, educational, and governmental i
 
 If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes.
 
-[Updated 5/2012] 
+[Updated 5/2012]
