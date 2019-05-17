@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812045720id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517161808id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | University of Wisconsin-Eau Claire
+# Privacy Statement
 
 ## Protecting the privacy of visitors to the UW-Eau Claire website
 
@@ -22,7 +22,7 @@ Our Site may use "cookies" to enhance your user experience. Your web browser pla
 
 Third party vendors, including Google, may use cookies on our Site. 
 
-We use the Google AdWords remarketing service-including the DoubleClick cookie and remarketing pixels-to advertise on third party sites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Site. Of course, any data collected will be used in accordance with our own privacy statement and [Google's policy](https://support.google.com/adwordspolicy/answer/143465).
+We use the Google AdWords remarketing service — including the DoubleClick cookie and remarketing pixels — to advertise on third party sites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Site. Of course, any data collected will be used in accordance with our own privacy statement and [Google's policy](https://support.google.com/adwordspolicy/answer/143465).
 
 _Opting  out:_ You can set preferences for how Google advertises to you using the [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) page or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
