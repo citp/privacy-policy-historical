@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonopenhouse.org privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907235651id_/https%3A//openhouselondon.org.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonopenhouse.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517173329id_/https%3A//openhouselondon.org.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » Open City
 
@@ -341,7 +341,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by [contacting us](http://openhouselondon.org.uk/privacy-notice/#a599551) (our contact details are set out above).
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by [contacting us](https://openhouselondon.org.uk/privacy-notice/#a599551) (our contact details are set out above).
 
 By law we have to keep basic information about our customers (including Contact, Identity and Transaction Data) for six years after they cease being customers for tax purposes.
 
@@ -383,7 +383,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 LAWFUL BASIS
 
-Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](http://openhouselondon.org.uk/privacy-notice/#a599551) (our contact details are set out above).
+Legitimate Interest means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://openhouselondon.org.uk/privacy-notice/#a599551) (our contact details are set out above).
 
 Performance of Contract means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 
