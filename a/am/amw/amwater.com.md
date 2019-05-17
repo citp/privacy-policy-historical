@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093731id_/https%3A//amwater.com/corp/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwater.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517193230id_/https%3A//amwater.com/corp/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,8 +67,8 @@ If you have any questions or suggestions about the Site, American Water, or our 
 
 American Water Works  
 Attn: Communications and External Affairs  
-1025 Laurel Oak Road  
-Voorhees, NJ 08043  
+1 Water St  
+Camden, NJ 08102  
 Telephone: 1-856-346-8200  
 Fax: 1-856-346-8360  
 E-mail: [aw.websitefeedback@amwater.com](mailto:aw.websitefeedback@amwater.com)
