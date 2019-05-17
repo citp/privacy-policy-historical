@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008172516id_/https%3A//www.ksat.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksat.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517020028id_/https%3A//www.ksat.com/station/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
