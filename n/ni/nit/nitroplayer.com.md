@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitroplayer.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115180208id_/http%3A//www.nitroplayer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroplayer.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517020647id_/http%3A//www.nitroplayer.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
