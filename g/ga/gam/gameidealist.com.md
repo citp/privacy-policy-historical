@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024070728id_/https%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517054140id_/https%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game Idealist
 
