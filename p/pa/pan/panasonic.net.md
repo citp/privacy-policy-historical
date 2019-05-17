@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222180050id_/https%3A//www.panasonic.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517022818id_/http%3A//www.panasonic.com/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Panasonic
 
