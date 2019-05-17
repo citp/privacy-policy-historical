@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626032423id_/https%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517161555id_/https%3A//www.franchisegator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseGator.com
 
 ### Effective December 14, 2016
 
-[](https://privacy.truste.com/privacy-seal/Franchise-Gator,-LLC/validation?rid=1bd7a05a-9faf-4400-bf7f-4ccc3a19b3c6 "TRUSTe online privacy certification")
-
 At Franchise Gator, LLC ("Franchise Gator"), we only use personal information you provide in the way we specify when we collect it on our website: [www.franchisegator.com](https://web.archive.org/). We take your privacy seriously, and this policy covers data used in our websites, mobile apps, email and text-messaging services.
-
-Franchise Gator has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only the Web site www.franchisegator.com and does not cover information that may be collected through our mobile apps.
 
 [](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651#bbblogo "Franchise Gator, LLC, Franchising, Roswell, GA")
 
 Franchise Gator has also received an **A+ Rating** as a **Better Business Bureau[Accredited Business](http://www.bbb.org/atlanta/business-reviews/franchising/franchise-gator-in-roswell-ga-10000651)**.
 
-We strive to maintain transparency and accountability regarding the collection and use of your personal information. If you have questions or concerns regarding this policy, please first contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+We strive to maintain transparency and accountability regarding the collection and use of your personal information. If you have questions or concerns regarding this policy, please contact us at [privacyinfo@franchisegator.com](mailto:privacyinfo@franchisegator.com).
 
 #### Our Web Site
 
@@ -50,7 +46,7 @@ Our sites and apps also participate in the Adobe Marketing Cloud Device Co-op to
 
 #### Behavioral Targeting
 
-We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the pupose of serving you targeted ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. 
 
 To opt-out of interest-based ads on Google, go to [www.google.com/settings/ads](http://www.google.com/settings/ads) and make a selection next to "Opt-Out Settings" to prevent targeted advertising on Google's own sites, or across the web.
 
