@@ -1,39 +1,50 @@
-> *The following text is extracted and transformed from the forkable.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219174759id_/https%3A//forkable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forkable.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517103330id_/https%3A//forkable.com/privacy) for the most accurate reproduction.*
 
 # Forkable
 
-  * [](https://web.archive.org/)
+## Version 2.1
 
+## October 16, 2017
 
+The Kitchens, Inc., doing business as Forkable (The Kitchens), operates its website, located at forkable.com (“Website”), provides software and services, and facilitates ordering and delivery of food from third party restaurants through a network of independent food delivery couriers (the Website software and services is collectively “Forkable”). Your privacy is important to The Kitchens and this Privacy Policy lays out The Kitchens’ policies and procedures surrounding the collection and handling of such information. This Privacy Policy applies only to websites under control of The Kitchens. It does not apply to any Food Preparation Partners’ sites, other third party services linked to Forkable or offline activities related to The Kitchens Inc.'s services. Please review this Privacy Policy with the Terms of Use, as many terms within this Privacy Policy are defined by the Terms of Use.
 
-The Kitchens, Inc. operates its website, located at forkable.com , and its iPhone app (collectively "Forkable"). Your privacy is important to The Kitchens, Inc. and this Privacy Policy lays out The Kitchens, Inc.'s policies and procedures surrounding the collection and handling of such information. This Privacy Policy applies only to Forkable. It does not apply to any restaurant sites, other third party services linked to Forkable or offline activities related to The Kitchens Inc.'s services.
+## 1\. Information The Kitchens Collects
 
-## Information The Kitchens, Inc. Collects
+The Kitchens may collect the following personal information from users of Forkable: (1) first name, (2) last name, (2) current street address, (3) billing address, (4) delivery addresses, (5) phone number, (6) e-mail address (7) credit card information, (8) bank account information, (9) driver’s license info and (10) tax compliance information. Collectively we call this "Personally Identifiable Information" or "PII").
 
-The Kitchens, Inc. may collect the following information from users of Forkable: first name, last name, street address, city, state, zip code, cross streets, phone number, e-mail address, display name, GPS location and credit card information (collectively, "Personally Identifiable Information" or "PII"). Forkable is not intended for use by children under the age of 13 and The Kitchens, Inc. does not knowingly collect PII from children under the age of 13. In addition, The Kitchens, Inc. may collect information regarding Forkable account holders' past Forkable orders, favorite restaurants, customer service inquiries and certain social networking preferences.
+In addition, The Kitchens may collect information regarding past Forkable orders, favorite Food Preparation Partners, food preferences and dietary restrictions, customer service inquiries and which company(ies) or organization(s) you are affiliated and/or employed with.
 
-The Kitchens, Inc. also uses web analytics software to track and analyze traffic on Forkable in connection with The Kitchens, Inc.'s advertising and promotion of Forkable services. The Kitchens, Inc. may publish these statistics or share them with third parties without including PII.
+The Kitchens also uses web analytics software to track and analyze traffic on Forkable in connection with The Kitchens' advertising and promotion of Forkable services. The Kitchens may publish these statistics or share them with third parties without including PII.
 
-## The Kitchens, Inc.'s Use Of Collected Information
+## 2\. The Kitchens’ Use Of Collected Information
 
-The Kitchens, Inc. uses PII to create users' Forkable accounts, to communicate with users about Forkable services, to offer users additional services, promotions and special offers and to charge for purchases made through Forkable. Users may opt to allow Forkable to store certain PII used to create users' Forkable accounts, including, but not limited to, credit card information. The Kitchens, Inc. uses stored PII to customize future order processing for you. You may request that The Kitchens, Inc. cease storing certain PII at any time, but you might not be able to take advantage of certain customized features. The Kitchens, Inc. may also use PII to enforce Forkable terms of use and service.
+The Kitchens uses PII to create customers' Forkable accounts, to communicate with customers about Forkable services, to offer customers additional services, promotions and special offers and to charge for purchases made through Forkable. The Kitchens uses stored PII to facilitate orders, to customize future order processing for users, to facilitate payment, to screen Food Preparation Partners and Delivery Providers, and for tax compliance purposes. Note that, for enhanced security, The Kitchens does not store full credit card information on its own servers, but instead relies on specialized partners to store the full data, while only storing metadata on The Kitchens’servers. You may request that The Kitchens cease storing certain PII at any time, but you might not be able to take advantage of certain features of Forkable or Forkable in its entirety. The Kitchens may also use PII to enforce the Forkable Terms of Use.
 
-The Kitchens, Inc. may use cookies to remember users of Forkable and to enhance users' experience on the Sites. For example, when users with Forkable accounts return to Forkable, cookies may be used to identify those users and allow Forkable to provide certain user-specific information such as Forkable account information, past orders and favorite restaurants.
+For Food Preparation Partners, additional information may be requested and stored regarding your business. Additional information may be, but is not limited to: types of food served, pricing, and contact information of certain employees or your affiliates. Similarly, we may collect additional relevant information from Delivery Providers.
 
-The Kitchens, Inc. shares collected PII to third-party vendors and service providers with whom The Kitchens, Inc. works in connection with Forkable services. In addition, The Kitchens, Inc. shares users' Forkable order content, special order instructions, first and last name, location and telephone number with restaurants where users' orders are placed to the extent necessary to process those orders. The Kitchens, Inc. may also disclose PII to third parties such as attorneys, collection agencies, tribunals or law enforcement authorities pursuant to valid requests in connection with alleged violations of Forkable terms of use and service or other alleged contract violations, infringement or similar harm to persons or property.
+The Kitchens may use cookies and other persistent memory browser features to remember users of Forkable and to enhance users' experience on the Website. For example, when users with Forkable accounts return to Forkable, such features may be used to identify those users and allow Forkable to provide certain user-specific information such as Forkable account information, past orders and favorite Food Preparation Partners.
 
-The Kitchens, Inc. cannot ensure the privacy of any PII included in user generated content that may be enabled by Forkable in the future (such as social networking preferences: e.g. "Likes").
+The Kitchens shares selected PII to third-party vendors and service providers who work in connection with Forkable including information to Delivery Providers (in particular location and contact information for the purpose of coordinating the delivery.) In addition, The Kitchens shares Forkable customers' order content, special order instructions, first and last name, location and telephone number with parters when orders are placed to the extent it is necessary to process those orders. Forkable may also forward names and emails to partners when addressing customer feedback. The Kitchens may also disclose information about users to third-parties where The Kitchens has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of The Kitchens, its affiliates or employees, agents and contractors (including enforcement of any agreements, including Terms of Use); (ii) protect the safety, privacy, and security of users of the The Kitchens employees, owners, or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
 
-## The Kitchens, Inc.'s Protection of PII
+## 3\. The Kitchens' Protection of PII
 
-The Kitchens, Inc. uses reasonable security measures to protect PII from unauthorized access, destruction, use, modification and disclosure. Unfortunately, even with these measures, The Kitchens, Inc. cannot guarantee the security of PII. By using Forkable, you acknowledge and agree that The Kitchens, Inc. makes no such guarantee, and that you use Forkable at your own risk.
+The Kitchens, Inc. uses reasonable security measures to protect PII from unauthorized access, destruction, use, modification and disclosure. The Kitchens takes a tiered approach to security, such that more sensitive information, like bank account numbers, is especially carefully guarded. Unfortunately, even with these measures, The Kitchens cannot guarantee the security of PII. By using Forkable, you acknowledge and agree that The Kitchens makes no such guarantee, and that you use Forkable at your own risk.
 
-## Accessing and Correcting Your PII
+## 4\. Your California Privacy Rights
 
-Registered Forkable account holders can access and change their own PII. If you have questions regarding The Kitchens, Inc.'s use or collection of your PII, please contact The Kitchens, Inc. at: admin@forkable.com.
+The Kitchens welcomes residents of the State of California to use Forkable and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Please send a written request to:
 
-## Privacy Policy Amendments
+The Kitchens Inc  
+5214F Diamond Hts Blvd #353   
+San Francisco, CA 94131     
+United States
 
-The Kitchens, Inc. may change this Privacy Policy at any time by posting a new version on this page or on a successor page. The new version will become effective on the posting date, which is listed below as the effective date.
+Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. If you have any questions you may email team@forkable.com
 
-Effective Date: June 19, 2014
+## 5\. Children’s Online Privacy Protection Act
+
+Forkable is directed to adults, over the age of 18. The Kitchens does not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that persons under the age of 13 are accessing the Website or making use of Forkable. If The Kitchens discovers any inadvertently collected personal information of a person under the age of 13, that information will be swiftly deleted from its records. If you believe that The Kitchens may have any information from a person under age 13, please contact The Kitchens at team@forkable.com.
+
+## 6\. Privacy Policy Amendments
+
+The Kitchens reserves the right to make changes to this Privacy Policy at any time. If The Kitchens changes this Privacy Policy, an updated version of this Privacy Policy will be posted on the Website. Changes will not apply retroactively and changes addressing new functions for a service or changes made for legal reasons will be effective immediately. If you do not agree to the modified terms, you should discontinue your use of Forkable. Your continued use of Forkable after any such changes constitutes your acceptance of the new Privacy Policy. You should also check back from time to time to ensure you are aware of any changes.
