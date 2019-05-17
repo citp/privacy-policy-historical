@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrdiscovery.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116162329id_/http%3A//www.rrdiscovery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrdiscovery.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517080035id_/http%3A//rrdiscovery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,9 +16,9 @@ This Privacy Policy applies to the all of the following web sites and services o
 
 To most effectively offer our services, we may collect information from you in the following ways: 
 
-  * **Server Log Information**. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browsers request to the RR Discovery.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computers operating system, and any RR Discovery.com cookies associated with your browser.
+  * **Server Log Information**. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browsers request to the RR Discovery.com server, the date and time of the request, the language and type of browser you use, the referring web page, your computers operating system, and any RR Discovery.com cookies associated with your browser.
   *  **Communications From You to Us**. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
-  *  **Cookies**. When you browse to www.rrdiscovery.com, our system sends a small file called a cookie to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
+  *  **Cookies**. When you browse to www.rrdiscovery.com, our system sends a small file called a cookie to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
   *  **Demographic Data**. We may access information about you from third-party sources and platforms (such as databases, online marketing firms, and ad targeting firms) including your age range, gender, location, and interests.
 
 
@@ -91,7 +91,7 @@ Sensitive personal information will never be disclosed to third parties or used 
 
  **Third Party Collection of Information**
 
-Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing [www.aboutads.info/choices](https://web.archive.org/web/20181116162329id_/http%3A//www.rrdiscovery.com/www.aboutads.info/choices) and following the opt-out instructions contained there.
+Certain third parties including, but not limited to, Facebook, whose pixels or data are used by our website, may use cookies, web beacons, and similar technologies to collect or receive information from your website, and elsewhere on the internet, and use that information to provide measurement services and target ads. You can opt-out of the collection and use of your information for ad targeting by accessing [www.aboutads.info/choices](https://web.archive.org/web/20190517080035id_/http%3A//rrdiscovery.com/www.aboutads.info/choices) and following the opt-out instructions contained there.
 
  **Questions**
 
