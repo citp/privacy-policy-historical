@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the aigdirect.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117191505id_/https%3A//www.aigdirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aigdirect.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517172643id_/https%3A//www.aigdirect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AIG Direct
+# Website Privacy Policy | AIG Direct
 
-Protecting the privacy and security of personal information about our customers is important. This privacy policy ("Privacy Policy") tells you how AIG Direct Insurance Servcies, Inc. ("AIG Direct") treats information collected on www.aigdirect.com about our current and former customers. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Protecting the privacy and security of personal information about our customers is important. This privacy policy ("Privacy Policy") tells you how AIG Direct Insurance Services, Inc. ("AIG Direct") treats information collected on www.aigdirect.com about our current and former customers. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=2d4591ec-c5e5-4868-b387-51432572a5ba)
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at (858) 309-3000 or by email at Client.Services@aigdirect.com. If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Our U.S.-based third party dispute resolution covers only information that is collected through this Web site (https://www.aigdirect.com) and does not cover the collection and use of information obtained offline.
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at (858) 309­3000 or by email at Client.Services@aigdirect.com. If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.­based third party dispute resolution provider (free of charge) at https://feedback­form.truste.com/watchdog/request. Our U.S.­based third party dispute resolution covers only information that is collected through this Web site (https://www.aigdirect.com) and does not cover the collection and use of information obtained offline.
 
 We do not sell or share information about our customers with anyone else other than in the ways that are described in this Privacy Policy. We maintain physical, electronic and procedural safeguards to protect the information. Our employee access to information about our customers is limited to people who need access to do their jobs.
 
 ## COLLECTION OF INFORMATION
 
-We get most of the information we need from customer applications and other forms. If a customer authorizes it, we may get information from others. We may obtain information as we process customer transactions. If you provide information to AIG Direct regarding other individuals, you agree: (a) to inform the individual about the content of this Privacy Policy, and any other applicable Privacy Notice provided to you; and (b) to obtain any legally-required consent of information about the individual in accordance with this Privacy Policy and other Privacy Notice.
+We get most of the information we need from customer applications and other forms. If a customer authorizes it, we may get information from others. We may obtain information as we process customer transactions. If you provide information to AIG Direct regarding other individuals, you agree: (a) to inform the individual about the content of this Privacy Policy, and any other applicable Privacy Notice provided to you; and (b) to obtain any legally­required consent of information about the individual in accordance with this Privacy Policy and other Privacy Notice.
 
 For example, when a person applies for life insurance we may ask for permission to get information from insurance support organizations such as the Medical Information Bureau and consumer reporting agencies. We may also obtain information as we process customer transactions. The information we collect through our Web site and offline includes:
 
@@ -28,7 +28,17 @@ such as Credit History, Income, Assets, Bank Account information, Credit Card in
 
 such as Medical History and other factors affecting insurability.
 
-## USE OF INFORMATION
+### THIRD PARTY PERSONAL INFORMATION
+
+We collect the following personal information from you about your contacts or friends:
+
+  * First and last name
+
+
+
+They may contact us at Client.Services@aigdirect.com to request that we remove this information from our database.
+
+### USE OF INFORMATION
 
 We use the information for business purposes, such as
 
@@ -69,7 +79,7 @@ We will not share information with anyone else unless:
 
 In certain situations, AIG Direct may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Due to the global nature of our business, for the purposes set out above we may transfer information to parties located in other countries. We may transfer information internationally to our group companies, service providers, business partners and governmental or public authorities. By providing information through our on-line services, and/or by sending a communication to an AIG Direct Company e-mail address, you understand and consent to the collection, use, processing disclosure and transfer of such information in the United States and other countries or territories, which may not offer the same level of data protection as the country where you reside, in accordance with the terms of this Privacy Policy. Further, please note that any communication you send to an AIG Direct Company e-mail address will be routed through the United States.
+Due to the global nature of our business, for the purposes set out above we may transfer information to parties located in other countries. We may transfer information internationally to our group companies, service providers, business partners and governmental or public authorities. By providing information through our on-line services, and/or by sending a communication to an AIG Direct Company e-mail address, you understand and consent to the collection, use, processing disclosure and transfer of such information in the United States and other countries or territories, which may have different data protection laws than the country where you reside, in accordance with the terms of this Privacy Policy. Further, please note that any communication you send to an AIG Direct Company e-mail address will be routed through the United States.
 
 ## How Can I Unsubscribe From AIG Direct Communications?
 
@@ -106,9 +116,9 @@ San Diego, CA 92123
 
 Client.Services@aigdirect.com
 
-## How Do I Access Personal Information?
+### How Do I Access Personal Information?
 
-Upon request, AIG Direct will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at Client.Services@aigdirect.com.
+Upon request, AIG Direct will provide you with information about whether we hold any of your personal information. To request this information please contact us at Client.Services@aigdirect.com.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by emailing our Customer Support at Client.Services@aigdirect.com or by contacting us by telephone or postal mail at the contact information listed above. We will respond to your request within a reasonable timeframe.
 
@@ -116,19 +126,17 @@ We will retain your information for as long as your account is active or as need
 
 ## Are Cookies/Online Tracking Used On This Site?
 
-A cookie is a piece of data stored on the user's device tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. We do not respond to browser do-not-track signals at this time. 
+A cookie is a piece of data stored on the user's device tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. We do not respond to browser do-not-track signals at this time.
 
 ## Are Other Tracking Technologies Used on This Site?
 
-Technologies such as cookies, beacons, tags and scripts are used by AIG Direct and our partners (such as DoubleClick and TradeDesk for paid advertising), affiliates, or analytics or service providers (such as Adobe Site Catalyst and Google Analytics for site performance metrics and LivePerson for online chat functionality). These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+Technologies such as cookies, web beacons (also known as pixel tags), or similar technologies are used by AIG Direct and our partners (such as DoubleClick and TradeDesk for paid advertising), affiliates, or analytics or service providers (such as Adobe Site Catalyst and Google Analytics for site performance metrics and LivePerson for online chat functionality). These technologies are industry standards and are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic and other information about our users individually and about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with one or more third parties to either display advertising on our Web site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies and web beacons to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may optout by clicking [here](http://preferences-mgr.truste.com/ "Opt Out Link") or by visiting the self-regulatory program opt-out page at [www.aboutads.info/choices](http://www.aboutads.info/choices/ "self-regulatory program opt-out page") to opt out in desktop and mobile web browsers on the particular device from which you access the opt-out options. Download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices "Download the AppChoices app") to opt out in mobile applications. Please note this does not opt you out of being served ads. You will continue to receive generic ads. In addition, such a third party may pool the other information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, to permit you to receive mailings from us or them, and for other purposes. If you do not wish for cookies or web beacons to be placed on your computer, most commercially-available web browsers permit you to prevent that from taking place.
 
-As is true of most Web sites, we use third party tracking partners to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+As is true of most Web sites, we use third party tracking partners to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and text keyed into website forms, not including personal information. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use Local Storage such as HTML 5 and Local Shared Object such as Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 ## How Is Information Used for Customer Reviews?
 
@@ -150,4 +158,4 @@ Our Web site includes Social Media Features, such as the Facebook button, "Like"
 
 This Privacy Policy only applies to this site. This site only includes its home page and pages hereunder operated by AIG Direct. This Privacy Policy does not apply to any linked site, any site provided by a third party or any site provided by American General Life Insurance Company or its affiliates. You must consult the privacy policy of each site, particularly at any sites provided by third parties, in order to determine what information about you is collected and how that information is used. AIG Direct Insurance Services San Diego Office is located at 9640 Granite Ridge Dr #200, San Diego CA 92123-2691
 
-12/05/2016 33101-16
+10/19/2018 41960-18
