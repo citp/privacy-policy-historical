@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921045235id_/https%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517114917id_/https%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,10 +60,6 @@ We are not responsible for the practices employed by Web sites linked to or from
 ## Notification Procedures
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by RepairPal in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=eda8508d-7a03-4a41-8df3-dda57b6107e5)
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 ## Changes in this Privacy Policy
 
