@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020042413id_/http%3A//www.visitsingapore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitsingapore.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517061444id_/https%3A//www.visitsingapore.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Visit Singapore Official Site
 
