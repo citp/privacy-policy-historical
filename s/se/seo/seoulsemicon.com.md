@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoulsemicon.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230033935id_/http%3A//seoulsemicon.com/en/act/personal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoulsemicon.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517130420id_/http%3A//seoulsemicon.com/en/act/personal.asp) for the most accurate reproduction.*
 
 # Seoul Semiconductor | Privacy Policy
 
