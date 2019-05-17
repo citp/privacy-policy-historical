@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracking202.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913104356id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracking202.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023254id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights - Prosper202 Self-Hosted Tracking ClickServer & Analytics Platform For Digital Marketers
 
