@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lfpcontent.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822122745id_/https%3A//hustler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfpcontent.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517131810id_/https%3A//hustler.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for LFP Internet Group, LLC
 
@@ -10,7 +10,7 @@ Information collected by any service provider, strategic partner, third-party we
 
 The Website is operated from the United States in accordance with laws of the United States, and with respect to residents of the State of California, USA, also complies with California Civil Code Section 1798.83 (as detailed below). If you are located outside of the United States, use of the Website is at your own risk and you are responsible for complying with your local and national laws. By using the Website and/or by providing us with any personal information, you acknowledge that (a) U.S. law provides a lower standard of protection for personal data than the laws of some other countries; (b) we will deal with your information in accordance with this Privacy Policy and U.S. law; and (c) you hereby waive any claims that may arise under the laws and regulations that apply to you in any other country or jurisdiction.
 
-This Privacy Policy, along with the [Terms of Use](http://hustler.com/terms/) also posted on our Website, set out the rules and policies governing use of the Website. We may change or update the Terms of Use and/or this Privacy Policy from time to time, so we urge you to check this page frequently. The date of the most recent update is shown at the top of this page. Revisions take effect upon posting. Your use of the Website following any such update and posting constitutes your acceptance of the Privacy Policy as amended and then in effect.
+This Privacy Policy, along with the [Terms of Use](https://hustler.com/terms/) also posted on our Website, set out the rules and policies governing use of the Website. We may change or update the Terms of Use and/or this Privacy Policy from time to time, so we urge you to check this page frequently. The date of the most recent update is shown at the top of this page. Revisions take effect upon posting. Your use of the Website following any such update and posting constitutes your acceptance of the Privacy Policy as amended and then in effect.
 
 WHEN YOU ACCESS THE WEBSITE, YOU THEREBY AGREE TO THIS PRIVACY POLICY – PLEASE READ IT CAREFULLY. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, DO NOT ACCESS, CONTINUE TO ACCESS OR USE THE WEBSITE.
 
