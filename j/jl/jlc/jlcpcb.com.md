@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlcpcb.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820002602id_/https%3A//support.jlcpcb.com/article/59-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlcpcb.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517034707id_/https%3A//support.jlcpcb.com/article/59-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JLCPCB: Help & Support
 
