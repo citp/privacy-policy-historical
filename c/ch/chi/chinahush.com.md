@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinahush.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109155702id_/http%3A//www.chinahush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahush.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518010108id_/http%3A//www.chinahush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChinaHush
 
