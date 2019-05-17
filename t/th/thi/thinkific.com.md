@@ -1,36 +1,20 @@
-> *The following text is extracted and transformed from the thinkific.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628170731id_/https%3A//www.thinkific.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkific.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517022502id_/https%3A//www.thinkific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thinkific Blog
 
-## **PRIVACY  POLICY**
+## 1\. Minors
 
-* * *
+We do not knowingly provide services or sell products to children. If you are below the age of 16, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information and do not use this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@thinkific.com](mailto:info@thinkific.com).
 
- **HOW WE PROTECT YOUR PRIVACY**
+THE TYPE OF INFORMATION WE COLLECT FROM YOU
 
-In order to provide you with the best possible platform for online course creation we collect and process quite a bit of information. The purpose of this privacy policy is to help you better understand how we store, collect, and process your personal data. This policy is meant to help you understand more about why we collect and use your data whether you’re a Thinkific customer or a student/subscriber to a Thinkific site who uses the Thinkific application or services (together known as, “The Services”), a participant in Thinkific’s partner or affiliate program, or even if you’re just visiting the Thinkific website. By using any of Thinkific’s services or by interacting with a Thinkific customer using The Services, you are agreeing to the terms of the Privacy Policy and, as applicable, the Thinkific [Terms of Service](https://www.thinkific.com/resources/terms-of-service/). In particular, by visiting this website you consent to our collection and use of your personal information as described in this privacy policy, including any updates or revisions to this privacy policy. This policy does not apply to information collected by any third party, including through any application or content that may be accessible from this website.
-
-This Privacy Policy may be updated occasionally to reflect changes to operational or legal practices, or for regulatory reasons. If and when we make changes to this policy, we will notify you of the changes by posting the revised policy on this Website or by other means when appropriate. By continuing to use this Website or the Support Service after these changes are posted, you agree to the revised terms.
-
-We’ve broken this policy down into different sections so you can better understand what areas are applicable to you.
-
- **POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
-
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these terms and conditions on our website [www.thinkific.com](http://www.thinkific.com/).
-
-###  _ **1\. Minors**_
-
-We do not knowingly provide services or sell products to children. If you are below the age of 16, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information and do not use this website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@thinkific.com](mailto:info@thinkific.com).
-
- **THE TYPE OF INFORMATION WE COLLECT FROM YOU**
-
-###  ** _2\. Personal Information from customers_**
+## 2\. Personal Information from customers
 
 Privacy is important! As a Thinkific customer, you recognize that it’s your responsibility to post a privacy policy on your course site that complies with the laws applicable to your business, if you are required to do so. You also agree to obtain consent from your students for the use and access of their Personal Information by Thinkific and other third parties when required.
 
 If you are collecting any sensitive Personal Information from your students/subscribers (for example and including information relating to medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or sexuality), you agree to obtain affirmative, express consent from your students/subscribers for the use and access of sensitive Personal Information by Thinkific and other third parties.
 
-####  _  **Information we collect from our customers** **.**_
+### Information we collect from our customers.
 
 In order to offer The Services, we need to collect information from our customers. Here is a summary of the information that we collect from our customers and what we do with it:
 
@@ -45,7 +29,7 @@ In order to offer The Services, we need to collect information from our customer
 
 This information is collected when you sign up for our Services, when you access our Services or otherwise provide us with the information. In some circumstances, when you have given us express permission, we will also use and store your personal information.
 
-###  ** _3.   Information from our customers’ students/subscribers (“learners”)_**
+## 3\. Information from our customers’ students/subscribers (“learners”)
 
 In order to provide you with our product and services, we store information about your students so that you can administer your course(s). Here is some more details on what information we collect and why.
 
@@ -61,11 +45,11 @@ While we technically process this information via the Thinkific platform in orde
 
 
 
-###  ** _4\. Information from Partners, Affiliates, Ambassadors, and Experts_**
+## 4\. Information from Partners, Affiliates, Ambassadors, and Experts
 
 Individuals who qualify as partners, ambassadors, affiliates or experts are businesses or individuals that have agreed to specific terms to work with Thinkific to promote the Service by a) referring clients to Thinkific; b) developing Thinkific sites or themes for customer use; c) developing apps using the Thinkific Application Interface (API) for customer use or d) partnering with Thinkific for the purposes of promotion or collaboration.
 
-####  ** _Information that we collect about partners, affiliates, ambassadors, and experts._**
+### Information that we collect about partners, affiliates, ambassadors, and experts.
 
   * We may collect your name, company name, website, social media usernames/handles, phone number(s), address, business type, email address, PayPal Account, and GST/HST number (or local tax identifiers).
   * We collect data about the Thinkific-hosted webpages that you visit and how and when you access your account, including information about the device and browser you use, your network connection and your IP address. We use this information to give you access and to improve our Services.
@@ -75,7 +59,7 @@ Individuals who qualify as partners, ambassadors, affiliates or experts are busi
 
 
 
-###  ** _5\. Information from Thinkific website visitors and support users_**
+## 5\. Information from Thinkific website visitors and support users
 
   * We collect information from visitors to the Thinkific website and your IP address. We also collect information such as when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer’s operating system, location data, and the type of web browser that you are using.
   * We also collect Personal Information submitted by you via any messaging or email feature available from any of our websites.
@@ -89,22 +73,22 @@ Individuals who qualify as partners, ambassadors, affiliates or experts are busi
 
 We collect this information when you visit Thinkific-hosted webpages, use Services offered on our websites or engage with us either by email, web form, instant message, phone, or post content on or through our websites (including forums, blogs and via any Messaging Feature). We also collect any additional information that you might provide to us.
 
-###  ** _6\. Information from cookies and similar tracking technology_**
+## 6\. Information from cookies and similar tracking technology
 
 We collect cookies or similar tracking technologies. This means information that our website’s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-####  ** _Why does Thinkific use cookies and similar tracking technology?_**
+### Why does Thinkific use cookies and similar tracking technology?
 
   * We use cookies to recognize your device and provide you with a personalized experience.
   * We also use cookies to attribute visits to our websites to third-party sources and to serve targeted ads from Google, Facebook, Instagram and other third-party vendors.
-  * Our third-party advertisers use cookies to track your prior visits to our websites and elsewhere on the Internet in order to serve you targeted ads. For more information about targeted or behavioral advertising, please visit <https://www.networkadvertising.org/understanding-online-advertising>.
-  *  **Opting out:** You can opt out of targeted ads served via specific third-party vendors by visiting the Digital Advertising Alliance’s [Opt-Out page](http://optout.aboutads.info/#!/).
+  * Our third-party advertisers use cookies to track your prior visits to our websites and elsewhere on the Internet in order to serve you targeted ads. For more information about targeted or behavioral advertising, please visit <https://www.networkadvertising.org/understanding-online-advertising>.
+  *  **Opting out:**  You can opt out of targeted ads served via specific third-party vendors by visiting the Digital Advertising Alliance’s [Opt-Out page](http://optout.aboutads.info/#!/).
   * We may also use automated tracking methods on our websites, in communications with you, and in our products and services, to measure performance and engagement.
   * Please note that because there is no consistent industry understanding of how to respond to “Do Not Track” signals, we do not alter our data collection and usage practices when we detect such a signal from your browser
 
 
 
-###  ** _7\. Information that we share with third parties_**
+## 7\. Information that we share with third parties
 
 Thinkific works with third parties to help provide you with our Services and we may share Personal Information with them to support these efforts. In certain limited circumstances, we may also be required to share information with third parties to conform to legal requirements or to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also receive Personal Information from our partners and third parties.
 
@@ -116,21 +100,21 @@ Thinkific works with third parties to help provide you with our Services and we 
 
 Thinkific will always ask for your consent before sharing your Personal Information with third parties for purposes other than those described in this Section 7.
 
-###  ** _8\. Terminating your relationship with us_**
+## 8\. Terminating your relationship with us
 
   * We will continue to store archived copies of your Personal Information for legitimate business purposes and to comply with the law.
   * We will continue to store anonymous or anonymized information, such as website visits, without identifiers, in order to improve our Services.
 
 
 
-###  ** _9\. What we don’t do with your Personal Information_**
+## 9\. What we don’t do with your Personal Information
 
   * We do not and will never share, disclose, sell, rent, or otherwise provide Personal Information to other companies (other than to specific Thinkific customers you may be interacting with) for the marketing of their own products or services.
   * If you are a customer using Thinkific’s Services, we do not use the Personal Information we collect from you or your customers to independently contact or market to your customers. However, Thinkific may contact or market to your customers if we obtain their information from another source, such as from the customers themselves.
 
 
 
-###  ** _10\. Keeping your personal information secure_**
+## 10\. Keeping your personal information secure
 
   * We follow industry standards on information security management to safeguard sensitive information, such as financial information, intellectual property, employee details and any other Personal Information entrusted to us. Our information security systems apply to people, processes, and information technology systems on a risk management basis.
   * We exclusively process payments through PCI DSS Level 1 payment providers, which is the highest level of compliance available.
@@ -138,50 +122,50 @@ Thinkific will always ask for your consent before sharing your Personal Informat
 
 
 
-###  ** _11\. Residents of the European Economic Area (“EEA”)_**
+## 11\. Residents of the European Economic Area (“EEA”)
 
 Thinkific works with merchants and users around the world, including in the EEA. Please note that as part of our service, we may transfer your personal information to other regions, including to Canada and the United States.
 
 Additionally, if you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, or limit the use of your personal data. In order to exercise these rights, please reach out to us using the contact information below.
 
-###  ** _12\. How do we protect your information across borders?_**
+## 12\. How do we protect your information across borders?
 
 Thinkific Labs Inc. is a Canadian company, we provide services to customers and our technology processes data from users around the world. Accordingly, Thinkific may transmit your personal information outside of the country, state, or province in which you are located.
 
 If you are located in the EEA or in Switzerland, and believe that your Personal Information has been used in a manner that is not consistent with the relevant privacy policies listed above, please contact us using the information below.
 
-###  ** _13\. User Names and Passwords_**
+## 13\. User Names and Passwords
 
 The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a username and password for access to certain parts of our website, you are responsible for keeping the username and password confidential. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
 
-###  _ **14\. Accessing and Correcting your Information**_
+## 14\. Accessing and Correcting your Information
 
 If you have a customer account with us, you can review and change your personal information by logging into the website and visiting your account profile page. You may also send us an e-mail at info@thinkific.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you are a learner/student and would like to access, change, or delete your personal information please contact the course provider that you interacted with directly. We act as a processor on their behalf and can only forward the request to the course provider.
 
-###  _ **15\. Your Voluntary Disclosure of Information to Third Parties Who Are Not Out Suppliers**_
+## 15\. Your Voluntary Disclosure of Information to Third Parties Who Are Not Our Suppliers
 
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
-###  _ **16\. Autoresponders**_
+## 16\. Autoresponders
 
 We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info@thinkific.com, or sending us mail to the address listed below.
 
-###  _ **16\. Disclaimer**_
+## 17\. Disclaimer
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website, including the illegal acts of third parties (such as criminal hacking).
 
-###  _ **17\. Policy Changes**_
+## 18\. Policy Changes
 
 The terms of this policy may change from time to time. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified through your account. Your continued use of this website constitutes your consent to such revised privacy policy.
 
 If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to info@thinkific.com, or one of the methods provided under Contact Information, and providing us with information relating to your concern.
 
- **CONTACT INFORMATION**
+CONTACT INFORMATION
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-info@thinkific.com  
+[info@thinkific.com](mailto:info@thinkific.com)  
 Thinkific Labs Inc.  
 #400 – 369 Terminal Ave  
 Vancouver, BC  
@@ -190,15 +174,14 @@ V6A 4C4
 
 This privacy policy was last updated on April 26, 2018
 
-### ANTI-SPAM POLICY
-
+ANTI-SPAM POLICY  
 We hate unsolicited commercial e-mail as much as you do. Also known as Spam or junk e-mail, it is a disservice to the Internet community.
 
-We fully endorse and comply with the requirements of _Canada’s anti-spam legislation_ ( _CASL_ ) and CAN-SPAM Act of 2003 (Controlling the Assault of Non-Solicited Pornography and Marketing Act), and all other applicable unsolicited commercial e-mail laws.
+We fully endorse and comply with the requirements of Canada’s anti-spam legislation (CASL) and CAN-SPAM Act of 2003 (Controlling the Assault of Non-Solicited Pornography and Marketing Act), and all other applicable unsolicited commercial e-mail laws.
 
 If you subscribe to electronic newsletters or other communications from us or our website, you will always have an option to unsubscribe immediately.
 
-If you have additional questions, comments or concerns, please contact us by sending an e-mail to info@thinkific.com and providing us with information relating to your concern.
+If you have additional questions, comments or concerns, please contact us by sending an e-mail to info@thinkific.com and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:
 
