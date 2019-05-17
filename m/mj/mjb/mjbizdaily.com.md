@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mjbizdaily.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019061249id_/https%3A//mjbizdaily.com/privacy-policy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjbizdaily.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517091411id_/https%3A//mjbizdaily.com/privacy-policy-copyright) for the most accurate reproduction.*
 
-# How Marijuana Business Daily Respects Your Right to Privacy + Our Copyright Policies - Marijuana Business Daily
+# How Marijuana Business Daily Respects Your Right to Privacy + Our Copyright Policies
 
-_Last updated: May 24 th, 2018_
+_Last updated: March 29 th, 2019_
 
 If you followed this link, you care about privacy and/or intellectual property, and we’re glad because we always have as well, and will continue to do so. Here’s how we run things at Marijuana Business Daily:
 
 **Email Privacy Overview**
 
-If you signed up for one or more of our newsletters, you will get that on its regular schedule. If you provided your email address for another reason, we will fulfill that request. If at any time you wish to unsubscribe from our emails, it is quick and easy to do that via the “unsubscribe” link at the bottom of each message you receive, or by contacting us at [CustomerService@mjbizdaily.com](mailto:CustomerService@mjbizdaily.com) or 401-354-7555 x1.
+If you signed up for one or more of our newsletters, you will get that on its regular schedule. If you provided your email address for another reason, we will fulfill that request. If at any time you wish to unsubscribe from our emails, it is quick and easy to do that via the “unsubscribe” link at the bottom of each message you receive, or by contacting us at [CustomerService@mjbizdaily.com](mailto:CustomerService@mjbizdaily.com) or (720) 213-5992 x1.
 
 Neither Marijuana Business Daily nor this site’s publisher, Anne Holland Ventures Inc., will ever sell or give a third party your email address. Your email address will be kept in databases which we have evaluated for security. Only authorized employees and our official vendors such as our email service provider, Eloqua, will have access to your data.
 
@@ -18,7 +18,7 @@ If you use our forms to post comments, suggestions or to join the public convers
 
 **Cell Phone Number for Text Communications**
 
-For those MJBiz subscribers and customers who have opted in to receive text communications via an MJBizCon event or other related marketing campaign, it’s important to us that you know we keep those numbers private. We do not release or sell your information to any third party vendors. As conveyed in our marketing materials and via every text, you always have the option to opt out. Simply reply to any text received from us with STOP in the response and you will be automatically un-enrolled from our text update services. Text updates are reserved for MJBizCon related event updates, periodic promotions for registrations and MJBiz products only available to text subscribers. If you have any concerns or requests for removal that require speaking with an MJBiz staff member please email our marketing department at [marketing@mjbizdaily.com](mailto:marketing@mjbizdaily.com) or call our customer service line. Please note that we do not synch your mobile opt in automatically with any other customer record you may have with us. So, if you are an EU citizen requesting your information be completely forgotten under GDPR rules, it’s important to include the fact that you are a text subscriber in your request as well. We do our best to fully comply with all requests.
+For those subscribers and customers who have opted in to receive text communications via an MJBizCon event or other related marketing campaign, it’s important to us that you know we keep those numbers private. We do not release or sell your information to any third party vendors. As conveyed in our marketing materials and via every text, you always have the option to opt out. Simply reply to any text received from us with STOP in the response and you will be automatically un-enrolled from our text update services. Text updates are reserved for MJBizCon related event updates, periodic promotions for registrations, and other offers only available to text subscribers. If you have any concerns or requests for removal that require speaking with a staff member please email our marketing department at [marketing@mjbizdaily.com](mailto:marketing@mjbizdaily.com) or call our customer service line. Please note that we do not synch your mobile opt in automatically with any other customer record you may have with us. So, if you are an EU citizen requesting your information be completely forgotten under GDPR rules, it’s important to include the fact that you are a text subscriber in your request as well. We do our best to fully comply with all requests.
 
 **Transfer and Processing of Data**
 
@@ -36,7 +36,7 @@ We process personal information only for legitimate business purposes, which may
 
 
 
-Whenever we process data for these purposes, be assured that we always keep your personal data rights front-of-mind. You have the right to object to this processing if you wish; contact [CustomerService@MJBizDaily.com](mailto:CustomerService@MJBizDaily.com) or call us at (401) 354-7555×1. Be aware that, depending on the circumstance, your objection may inhibit our ability to carry out tasks or deliver services for your benefit.
+Whenever we process data for these purposes, be assured that we always keep your personal data rights front-of-mind. You have the right to object to this processing if you wish; contact [CustomerService@MJBizDaily.com](mailto:CustomerService@MJBizDaily.com) or call us at (720) 213-5992 x1. Be aware that, depending on the circumstance, your objection may inhibit our ability to carry out tasks or deliver services for your benefit.
 
 Newsletter subscribers always have the right to modify their elections. At the bottom of every email is a link to change their subscription preferences.
 
@@ -84,7 +84,7 @@ We use third party analytics services (Google Analytics, Hotjar) to help analyze
 
 We also may use third party advertising companies to serve advertisements that appear on some of our sites. We make no attempt to target a user based upon personal information.
 
-Just as we are constantly striving to improve our offerings, we are constantly striving to improve our business practices. If at any time you believe there to be places where we can improve, please email us at [CustomerService@MJBizDaily.com](mailto:CustomerService@MJBizDaily.com), or call us at (401) 354-7555 x1.
+Just as we are constantly striving to improve our offerings, we are constantly striving to improve our business practices. If at any time you believe there to be places where we can improve, please email us at [CustomerService@MJBizDaily.com](mailto:CustomerService@MJBizDaily.com), or call us at (720) 213-5992 x1.
 
 **Editorial Source Rights: News & Materials Sent to ****_Marijuana Business Daily_**
 
@@ -108,8 +108,8 @@ You may link to any publicly available piece of content on this site directly. W
 
 These policies are subject to change without notice; however, it is our company policy to try to maintain your privacy at all times. By surfing this site and/or submitting any forms, story ideas, awards entries, profile upgrades, or emails, you are agreeing to our policies.
 
-If you have any questions, [contact us at this link](https://mjbizdaily.com/contact-us/) or phone our customer service line at (401) 354-7555 where a real human being will answer during most East Coast US business hours. Thank you!
+If you have any questions, [contact us at this link](https://mjbizdaily.com/contact-us/) or phone our customer service line at (720) 213-5992 x1 where a real human being will answer during most East Coast US business hours. Thank you!
 
 **Important Note**
 
-This Privacy Policy applies to the sites on the domains MJBizDaily.com, HempIndustryDaily.com, and MJBizMagazine.com. This policy governs all data collected through your use of these sites. It does not apply to information conveyed to Anne Holland Ventures, Inc. and associated through other means, such as mail and phone. By browsing a site or providing personal information to us via other means, you consent to the collection and use of your data in accordance with the terms of this policy. For questions regarding these policies, please reach out to our Customer Service team as described above.
+This Privacy Policy applies to the sites on the domains MJBizDaily.com, HempIndustryDaily.com, MJBizConference.com and MJBizMagazine.com. This policy governs all data collected through your use of these sites. It does not apply to information conveyed to Anne Holland Ventures, Inc. and associated through other means, such as mail and phone. By browsing a site or providing personal information to us via other means, you consent to the collection and use of your data in accordance with the terms of this policy. For questions regarding these policies, please reach out to our Customer Service team as described above.
