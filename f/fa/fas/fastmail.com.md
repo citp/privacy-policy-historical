@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921100240id_/https%3A//www.fastmail.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | FastMail
 
@@ -66,7 +66,7 @@ The information we collect, and how that information is used, depends on how you
 
 If you register to use, or use, one of our websites or services including FastMail [https://www.fastmail.com](https://www.fastmail.com/), Pobox (Lifetime Email) [https://www.pobox.com](https://www.pobox.com/), Listbox [https://www.listbox.com](https://www.listbox.com/) or Topicbox [https://www.topicbox.com](https://www.topicbox.com/), personal information that may be collected directly from you includes name, billing address, mobile phone number, organisation name, your own domain name, IP address, browser user-agent and billing details (credit card, or PayPal account). We also collect some of this information if you are using our services on a trial basis. Our help page on each service explains how your information is deleted if you decide not to proceed.
 
-We may also collect personal information such as IP address, device information and log information by using cookies. Please see Cookies for more information on this and our [Cookies Policy](https://web.archive.org/web/20180921100240id_/https%3A//www.fastmail.com/about/cookies.html).
+We may also collect personal information such as IP address, device information and log information by using cookies. Please see Cookies for more information on this and our [Cookies Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html).
 
 We process mail sent and received from your account to block spam and fraud. We receive information from third party services to assist us in identifying spam. If you report a message to us, either through the service or via customer support, as spam or not spam, we may share that message with the third party service that flagged it to improve the accuracy of future filtering. See further below on your rights when we disclose your information to our third party service providers.
 
@@ -241,9 +241,9 @@ When a FastMail product collects age, and there is an age in your jurisdiction u
 
 A cookie is a text file containing small amounts of information which is downloaded to/stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit a website.
 
-Cookies may collect personal information about you. Cookies help us remember information about your visit to our website, like your username, country, language and other settings. Cookies allow us to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our website. They can also help us to operate our website more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our [Cookie Policy](https://web.archive.org/web/20180921100240id_/https%3A//www.fastmail.com/about/cookies.html).
+Cookies may collect personal information about you. Cookies help us remember information about your visit to our website, like your username, country, language and other settings. Cookies allow us to understand who has seen which webpages, to determine how frequently particular pages are visited and to determine the most popular areas of our website. They can also help us to operate our website more efficiently and make your next visit easier. Cookies can allow us to do various other things, as explained further in our [Cookie Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html).
 
-For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://web.archive.org/web/20180921100240id_/https%3A//www.fastmail.com/about/cookies.html)
+For more information about how our cookies work and information about how to manage your cookie settings please visit our [Cookie Policy](https://web.archive.org/web/20190517032601id_/https%3A//www.fastmail.com/about/cookies.html)
 
 ## Your rights available to help manage your privacy
 
