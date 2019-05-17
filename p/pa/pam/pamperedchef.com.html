@@ -1,17 +1,11 @@
-<!--The following is the downloaded HTML source of the pamperedchef.com privacy policy that was archived on 2018-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908110348id_/https%3A//www.pamperedchef.com/about-us-legal-privacy-page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pamperedchef.com privacy policy that was archived on 2019-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190517091719id_/https%3A//www.pamperedchef.com/about-us-legal-privacy-page) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js cssanimations -webkit- csstransforms csstransforms3d csstransitions" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 " lang="en"><![endif]--> 
-<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en"><![endif]--> 
-<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en"><![endif]--> 
-<!--[if gt IE 8]> <html class="no-js ie9" lang="en"><![endif]-->
-
-	
+<!DOCTYPE html><html class="js cssanimations -webkit- csstransforms csstransforms3d csstransitions" lang="en"><head>
 		<title>Privacy Policy | Pampered Chef US Site</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0, user-scalable=0">
 		<meta name="apple-mobile-web-app-capable" content="yes">
-		
 		<meta property="og:site_name" content="PamperedChef.com">			
 		<meta property="og:url" content="https://www.pamperedchef.com/about-us-legal-privacy-page">
 				<meta property="og:title" content="Privacy Policy | Pampered Chef US Site">
@@ -57,7 +51,7 @@
 		
 			
 			
-				<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N7HXL7"></script><script async="" src="//web.archive.org/web/20180318085247/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://triggeredmail.appspot.com/triggermail.js/pamperedchef.js"></script><script type="text/javascript" src="/js_responsive/tpc_min.js"></script>
+				<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N7HXL7"></script><script async="" src="//web.archive.org/web/20190402192053/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://triggeredmail.appspot.com/triggermail.js/pamperedchef.js"></script><script type="text/javascript" src="/js_responsive/tpc_min.js"></script>
 			
 		
 		
@@ -105,10 +99,6 @@
 
 
 
-	
-	
-	
-
 
 	<link rel="shortcut icon" href="/iceberg/images/Favicon.png">
 
@@ -120,7 +110,7 @@
 <script type="text/javascript">
 	var CONTEXT_ROOT = '';
 	var SYNCHRONIZER_TOKEN_KEY = '_requestConfirmationToken';	
-	var SYNCHRONIZER_TOKEN_VALUE = 'c78058be89f9ee5cfa0efbe7d05c7e375c966c76';
+	var SYNCHRONIZER_TOKEN_VALUE = 'd726c9326e83d0051f772439656b4da6d15e024e';
 	
 	var CART_PK = '';
 	
@@ -285,7 +275,7 @@ function MM_swapImage() { //v3.0
 
 			issuuembedEleSize = $('.issuuembed').length;
 			
-			strShowDate = "09/08/2018";
+			strShowDate = "05/17/2019";
 			showDate = null;
 			if(strShowDate != null && $.trim(strShowDate) != '') {
 				try {
@@ -528,7 +518,7 @@ function MM_swapImage() { //v3.0
 			var pageUrl = window.location.pathname;
 			var mouseflowScriptName = '4175559f-3a15-44d6-b7c1-3193fde0dafc.js';
 			var isLoadTest = 'false';
-			var regexp = new RegExp(/^\/\b(showcart|showcartreview|showcartsummary|showguestcart|account\/orderreturns|ccagreement\/register|ccagreement\/confirmrecruiter|ccagreement\/booking|cart\/kitcart|checkout\/shipping|checkout\/payment|checkout\/review)\b(\/?|\/.+)$/);
+			var regexp = new RegExp(/^\/\b(showcart|showcartreview|showcartsummary|showguestcart|account\/orderreturns|ccagreement\/register|ccagreement\/confirmrecruiter|ccagreement\/booking|cart\/kitcart|checkout\/shipping|checkout\/payment|checkout\/review|consultant-login)\b(\/?|\/.+)$/);
 			var isRegExpMatched = regexp.test(pageUrl);
 			
 			// Following regex is only for urls those are for show and non-show carts but we need to record only for shows
@@ -820,7 +810,7 @@ function MM_swapImage() { //v3.0
 			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 			})(window,document,'script','dataLayer','GTM-N7HXL7');
-			
+
 			/* code for gtm track analytics calls */
 			function gtmVideo(name, url){
 				trackVideoModal(name);
@@ -843,7 +833,7 @@ function MM_swapImage() { //v3.0
 			        timeout: 5000
 			    });
 			}
-			function setAddMethod(isProductDetail, addMethod){
+			function setAddMethod(isProductDetail, addMethod, element){
 				$.ajax({
 			        url: '/ajax/gtm/setAddMethod?' + SYNCHRONIZER_TOKEN_KEY + '=' + SYNCHRONIZER_TOKEN_VALUE,
 			        type: "POST",
@@ -855,6 +845,11 @@ function MM_swapImage() { //v3.0
 			        async: false,
 			        timeout: 5000
 			    });
+				
+				//Call Add to cart handler now.
+				if(element) {
+					$(element).ajaxAddToCartHandler(true);
+				}
 			}
 		</script>
 	
@@ -918,7 +913,7 @@ function MM_swapImage() { //v3.0
 		
 		<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
 	
-	<body id="index" class="  home index hide-left-column hide-right-column lang_en color-scheme-default  noIE  custom_bg" style="">
+	<body id="index" class="home index hide-left-column hide-right-column lang_en color-scheme-default  noIE  custom_bg" style=""><div class="container-fluid topfish" style="padding: 10px 0; background: #4D858E; border-bottom: 1px solid #fff; margin-left: -18px; margin-right: -18px;margin-top:0px;"><div class="container"><div class="row"><div class="col-xs-12"><a id="pws" href="/be-a-consultant" style="text-decoration: none !important;"><p style="color: #fff;  text-transform: none!important;" class="MS700 text-center"><span style="font-family:antonio-regular;font-size:17px;">May Only: Special-Edition $109 Kit</span><br> Plus, Half-Price Rebate on All Kits! &gt;</p></a></div></div></div></div>
 		<!-- Google Tag Manager (noscript) -->
 		<noscript>
 			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7HXL7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -936,20 +931,34 @@ function MM_swapImage() { //v3.0
 	<!-- BEGIN == /views/cms/global/header-responsive.jsp -->
 <!--  Additional Tag libraries to support mini-cart functionality -->
 <script type="text/javascript" src="/js/session-alive.js"></script><script type="text/javascript" src="/js/type-ahead-component.js"></script><link rel="stylesheet" type="text/css" href="/css/pages/type-ahead.css"><script type="text/javascript">
+
+	if ($.cookie("timed-out") === "1") {
+			if (userHasCameFromBackButton()) {
+				window.location.reload();
+			}
+	}
+
+	function userHasCameFromBackButton() {
+		return (window.performance && window.performance.navigation && window.performance.navigation.type == 2)
+			|| (performance && performance.getEntriesByType("navigation") && performance.getEntriesByType("navigation")[0]
+				&& performance.getEntriesByType("navigation")[0].type === "back_forward");
+	}
+
 	function goToLink(url)
 	{
 		if(url == '/')
-			
-			showSimpleMessageDialog("Leave PWS ?", "You’re about to leave this Personal Web Site. By clicking &#34;OK&#34;, you will be entering The Pampered Chef&#39;s public site. Would you like to continue?<br/><br/> <a id=\"okayPwsTimeout\" class=\"btn btn-default btn-width-200\" href='"+url+"'> Ok</a>"); 
+
+			showSimpleMessageDialog("Leave PWS ?", "You’re about to leave this Personal Web Site. By clicking &#34;OK&#34;, you will be entering The Pampered Chef&#39;s public site. Would you like to continue?<br/><br/> <a id=\"okayPwsTimeout\" class=\"btn btn-default btn-width-200\" href='"+url+"'> Ok</a>");
 		else
 			window.location.href = url;
 	}
 </script>
 
+
 <!-- BEGIN == /tags/tpc/global/tpc-navigation-find-site-node.tag -->
 <!-- END == /tags/tpc/global/tpc-navigation-find-site-node.tag --><!-- We Found the header node, it ignores the start i.e. pc, cc, pws since we set to correct site node above 							 -->
 			<!-- END Add -->
-	
+
 
 
 
@@ -957,78 +966,71 @@ function MM_swapImage() { //v3.0
 
 
 <header id="header" class="bgheader hidden-xs">
-<div class="h_top ">
-  <div class="container">
-  	  <div class="tpclogo">
-            <a href="/welcome" id="siteLogo"><img src="/iceberg/images/tpclogo_us.png" width="250" height="67" alt="Pampered Chef"></a>
-        </div>
-      <div class="tpcsocial">
-         <a href="https://www.facebook.com/ThePamperedChef" target="_blank" id="headerSocialFb" onclick="gtmPropertyReferral('https://www.facebook.com/ThePamperedChef')"><span class="socialicon fb"></span><span class="visually-hidden">Facebook</span></a>
-            <a href="https://twitter.com/pamperedchef" target="_blank" id="headerSocialTw" onclick="gtmPropertyReferral('https://twitter.com/pamperedchef')"><span class="socialicon tw"></span><span class="visually-hidden">Twitter</span></a>
-            <a href="https://www.pinterest.com/pamperedchef/" target="_blank" id="headerSocialPin" onclick="gtmPropertyReferral('https://www.pinterest.com/pamperedchef/')"><span class="socialicon pin"></span><span class="visually-hidden">Pinterest</span></a>
-            <a href="https://instagram.com/pamperedchef" target="_blank" id="headerSocialInst" onclick="gtmPropertyReferral('https://instagram.com/pamperedchef')"><span class="socialicon inst"></span><span class="visually-hidden">Instagram</span></a>
-          </div>
-        <div class="tpclinks" role="navigation" aria-label="utility">
-            <div class="findlink">
-            <a id="triggeradd" href="#fancyFind" class="fancybox240 hidden" onclick="loadFancyFind([true, true, true],false,false,'','fisi');loadFancyFindStart('fisi');">Find a Show | Find a Consultant</a>
-            	
-                <a href="#fancyFind" class="fancybox240" id="headerFindConsultant" onclick="loadFancyFind([true, true, false],true,true,'','global header');loadFancyFindStart('global header');">Find a Show | Find a Consultant</a>
-                
-                  <!-- If user is signed in populate the list of the shows invited. -->
-                </div>
-            <div class="tpcmisclinks headertpcmisclinks">
-            	<div class="worldwide">
-            		<a href="javascript:void(0)" class="shoppingIn">Shopping In:<span class="country-icon"><img src="/img/ui/flags/flag_us.jpg" alt="Pampered Chef US"></span></a>
-	            		<div class="worldwide-drop" aria-expanded="false">
-					    <a href="https://www.pamperedchef.com" onclick="_trackAnalytics({&quot;site_events&quot;:{&quot;country_cta&quot;:&quot;true&quot;},&quot;event_name&quot;:&quot;country cta&quot;,&quot;curr_country&quot;:&quot;united states of america&quot;});">
-							<img src="/img/ui/flags/flag_us.jpg" alt="Pampered Chef US">United States (en)</a>
-					    <a href="https://www.pamperedchef.ca" onclick="_trackAnalytics({&quot;site_events&quot;:{&quot;country_cta&quot;:&quot;true&quot;},&quot;event_name&quot;:&quot;country cta&quot;,&quot;curr_country&quot;:&quot;canada&quot;});">
-							<img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">Canada (en)</a>
-					    <a href="http://www.pamperedchef.de" onclick="_trackAnalytics({&quot;site_events&quot;:{&quot;country_cta&quot;:&quot;true&quot;},&quot;event_name&quot;:&quot;country cta&quot;,&quot;curr_country&quot;:&quot;germany&quot;});">
-							<img src="/img/ui/flags/flag_de.jpg" alt="Pampered Chef DE">Germany (de)</a>
-					</div>
-				 </div>
-                 <a class="login" id="headerLogin" href="/login">Sign In </a> |
-					 <a class="account" id="headerCreateAccount" href="/register">Create Account</a> |
-                     <a class="account accountname" rel="nofollow" id="registryHome" title="View Registry List" href="/registry-home">Registry</a> |
-	                 		        <a class="account accountname" rel="nofollow" id="listHome" title="View Wish List" href="/wishlist-home">Wish List</a>                                                                                                      
-                                 </div>
-        </div>
-    </div>
-    </div>
+	<div class="h_top ">
+		<div class="container">
+			<div class="tpclogo">
+				<a href="/welcome" id="siteLogo"><img src="/iceberg/images/tpclogo_us.png" width="250" height="67" alt="Pampered Chef"></a>
+			</div>
+			<div class="tpclinks" role="navigation" aria-label="utility">
+				<div class="findlink">
+					<a id="triggeradd" href="#fancyFind" class="fancybox240 hidden" onclick="loadFancyFind([true, true, true],false,false,'','fisi');loadFancyFindStart('fisi');">Find a Show | Find a Consultant</a>
 
-<div class="h_bot">
-<div class="container">
-	<!-- Start Shows Menu -->
-	<div class="hidden showsMenu">
-		<div class="notSignedIn">			
-			<a class="actionLink">Shows you're invited to or hosting.</a>
-				<!-- TPCWEB-9919 -->		
-				<div class="expandContent">
-					<p class="border">
-					    <a href="/consultant">Looking for a specific Show?</a>   
-							</p>
-					<p>
-						Please <a href="/login">Sign In </a>&nbsp;or&nbsp;
-						<!-- TPCWEB-12144 -->
-						<a href="/register">Create an Account Now</a>
-						&nbsp;to see all the Shows you're invited to or hosting!</p>							
+					<a href="#fancyFind" class="fancybox240" id="headerFindConsultant" onclick="loadFancyFind([true, true, false],true,true,'','global header');loadFancyFindStart('global header');">Find a Show | Find a Consultant</a>
+
+					<!-- If user is signed in populate the list of the shows invited. -->
+					</div>
+				<div class="tpcmisclinks headertpcmisclinks">
+						<div class="worldwide">
+							<a href="javascript:void(0)" class="shoppingIn">Shopping In:<span class="country-icon"><img src="/img/ui/flags/flag_us.jpg" alt="Pampered Chef US"></span></a>
+								<div class="worldwide-drop" aria-expanded="false">
+								<a href="https://www.pamperedchef.ca" onclick="_trackAnalytics({&quot;site_events&quot;:{&quot;country_cta&quot;:&quot;true&quot;},&quot;event_name&quot;:&quot;country cta&quot;,&quot;curr_country&quot;:&quot;canada&quot;});">
+										<img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">
+										Canada (en)</a>
+								<a href="http://www.pamperedchef.de" onclick="_trackAnalytics({&quot;site_events&quot;:{&quot;country_cta&quot;:&quot;true&quot;},&quot;event_name&quot;:&quot;country cta&quot;,&quot;curr_country&quot;:&quot;germany&quot;});">
+									<img src="/img/ui/flags/flag_de.jpg" alt="Pampered Chef DE">Germany (de)</a>
+							</div>
+						</div>
+						<a class="login" id="headerLogin" href="/login">Sign In </a> |
+							<a class="account" id="headerCreateAccount" href="/register">Create Account</a> |
+							<a class="account accountname" rel="nofollow" id="registryHome" title="View Registry List" href="/registry-home">Registry</a> |
+											<a class="account accountname" rel="nofollow" id="listHome" title="View Wish List" href="/wishlist-home">Wish List</a>
+										</div>
 				</div>
 			</div>
 		</div>
-	<!-- End Shows Menu -->
 
-	
-	<!-- Begin Cart Container -->
-	
-	
-	<!-- End Cart Container -->
-	
-	
-	<!-- Begin Connect To TPC -->
-	<div class="hidden connectToTPC">
-		<div>&nbsp;</div>
-			<!-- BEGIN == /tags/tpc/global/tpc-header-contact.tag -->
+		<div class="h_bot">
+			<div class="container">
+				<!-- Start Shows Menu -->
+				<div class="hidden showsMenu">
+					<div class="notSignedIn">
+							<a class="actionLink">Shows you're invited to or hosting.</a>
+							<!-- TPCWEB-9919 -->
+							<div class="expandContent">
+								<p class="border">
+										<a href="/consultant">Looking for a specific Show?</a>
+										</p>
+								<p>
+									Please <a href="/login">Sign In </a>&nbsp;or&nbsp;
+									<!-- TPCWEB-12144 -->
+									<a href="/register">Create an Account Now</a>
+									&nbsp;to see all the Shows you're invited to or hosting!</p>
+							</div>
+						</div>
+					</div>
+				<!-- End Shows Menu -->
+
+
+				<!-- Begin Cart Container -->
+
+
+				<!-- End Cart Container -->
+
+
+				<!-- Begin Connect To TPC -->
+				<div class="hidden connectToTPC">
+					<div>&nbsp;</div>
+						<!-- BEGIN == /tags/tpc/global/tpc-header-contact.tag -->
 <!-- BEGIN == /tags/component/cmsLinkComponent.tag -->
 
 
@@ -1057,29 +1059,29 @@ function MM_swapImage() { //v3.0
 
 
 <!-- END == /tags/component/cmsLinkComponent.tag --><!-- END == /tags/tpc/global/tpc-header-contact.tag --><div class="contactDrop">
-				<span class="flagContainer"></span>
-				<div class="contactFillTop"></div>
-				<div class="contactFill">
+						<span class="flagContainer"></span>
+						<div class="contactFillTop"></div>
+						<div class="contactFill">
 
-				</div>
-				<div class="contactFillBottom">
-				</div>
-			</div>
-			
-			</div>	
-	<!-- End Connect To TPC -->	
+						</div>
+						<div class="contactFillBottom">
+						</div>
+					</div>
 
-	<!-- Begin Greeting Menu -->
-	<!-- End Greeting Menu -->
-	
-	<!-- Begin Header Links-->
-	<div class="hidden headerLinks">
-		<span class="left">
-				<a href="/login">Sign In </a> 
+					</div>
+				<!-- End Connect To TPC -->
+
+				<!-- Begin Greeting Menu -->
+				<!-- End Greeting Menu -->
+
+				<!-- Begin Header Links-->
+				<div class="hidden headerLinks">
+					<span class="left">
+				<a href="/login">Sign In </a>
 				<a href="/register">Create Account</a>
 			</span>
-			<input type="hidden" name="isLoggedIn" value="false">
-		<span class="right"> 
+						<input type="hidden" name="isLoggedIn" value="false">
+					<span class="right">
 		<!-- BEGIN == /tags/tpc/global/tpc-header-utility-links.tag -->
 <!-- 				Found the contact node , it ignores the start i.e. pc, cc, pws since we set to correct site node above 									 -->
 			<!-- BEGIN == /tags/component/cmsLinkComponent.tag -->
@@ -1137,9 +1139,9 @@ function MM_swapImage() { //v3.0
 
 
 <!-- END == /tags/component/cmsLinkComponent.tag --><!-- END == /tags/tpc/global/tpc-header-utility-links.tag --></span>
-	</div>
+				</div>
 
-	<!-- BEGIN == /tags/tpc/cart/minicart-responsive.tag -->
+				<!-- BEGIN == /tags/tpc/cart/minicart-responsive.tag -->
 <script type="text/javascript" src="/js/type-ahead-component.js"></script><link rel="stylesheet" type="text/css" href="/css/pages/type-ahead.css"><div class="h_bot_right" role="navigation" aria-label="search">
 	<div id="globalsearchblock" class="tpcsearch comsearch">
 		<form id="nav-search" action="/search-browse-results" method="get" onsubmit="runGlobalSearch('desktop'); return false;"><input type="hidden" name="GlobalHeaderSearch" id="GlobalHeaderSearch" value="GlobalHeaderSearch">
@@ -1150,11 +1152,11 @@ function MM_swapImage() { //v3.0
 			
 			<input type="hidden" id="genericSearch" value="true">
 			<input type="hidden" id="typeaheadInputVar" value="searchText">
-			<input class="search-query form-control clearOnFocus" type="text" id="searchText" name="searchText" title="Enter Keyword or Product #" value="Enter Keyword or Product #">
+			<input class="search-query form-control clearOnFocus ui-autocomplete-input" type="text" id="searchText" name="searchText" title="Enter Keyword or Product #" value="Enter Keyword or Product #" autocomplete="off">
 			<button type="submit" id="headerSearchButton" name="submit_search" class="form-control search-submit" aria-label="Search" onclick="runGlobalSearch('desktop'); return false;">
 				<i class="icon-search" aria-hidden="true"></i>
 			</button>
-		<input type="hidden" name="cartPK" value=""><input type="hidden" name="_requestConfirmationToken" value="c78058be89f9ee5cfa0efbe7d05c7e375c966c76"></form></div>
+		<input type="hidden" name="cartPK" value=""><input type="hidden" name="_requestConfirmationToken" value="d726c9326e83d0051f772439656b4da6d15e024e"></form></div>
 	<div id="" class="tpccarticon">
 		<a href="/cart" title="" id="headerShoppingCart" aria-label="Cart">
 							<i class="pcicon-cart" aria-hidden="true"></i>  
@@ -1386,16 +1388,19 @@ function MM_swapImage() { //v3.0
 
 <!-- END == /tags/tpc/global/tpc-navigation-mobile-responsive-top-level.tag --><h5 class="text-center">Shopping In</h5>
   <ul>
-	<li><a class="worldwide-mobi" href="https://www.pamperedchef.com"><img src="/img/ui/flags/flag_us.jpg" alt="Pampered Chef US">&nbsp;United States (en)</a></li>
-	<li><a class="worldwide-mobi" href="https://www.pamperedchef.ca"><img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">&nbsp;Canada (en)</a></li>
+	<li>
+			<a class="worldwide-mobi" href="https://www.pamperedchef.ca">
+				<img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">
+				&nbsp;Canada (en)</a>
+		</li>
 	<li><a class="worldwide-mobi" href="http://www.pamperedchef.de"><img src="/img/ui/flags/flag_de.jpg" alt="Pampered Chef DE">&nbsp;Germany (de)</a></li>
-  </ul>	
+  </ul>
 </div>
 
 <script>
 	   var langClick = function(){
 	  $(".languages_block_bottom").toggle();
-	  $(".currencies_block_bottom").hide();  
+	  $(".currencies_block_bottom").hide();
     }
   </script>
 
@@ -1424,10 +1429,16 @@ function MM_swapImage() { //v3.0
 										<a href="/shop/New">New</a>
 									</li>
 								<li>
-										<a href="/shop/Seasonal">Seasonal</a>
+										<a href="/shop/Favorites">Favorites</a>
 									</li>
 								<li>
 										<a href="/shop/%2410_00+%26+Under">$10.00 &amp; Under</a>
+									</li>
+								<li>
+										<a href="/shop/Brunch">Brunch</a>
+									</li>
+								<li>
+										<a href="/shop/Healthy+Eating">Healthy Eating</a>
 									</li>
 								<li>
 										<a href="/shop/Cooking+Tools">Cooking Tools</a>
@@ -1444,17 +1455,17 @@ function MM_swapImage() { //v3.0
 								<li>
 										<a href="/shop/Stoneware">Stoneware</a>
 									</li>
-								<li>
-										<a href="/shop/Entertaining">Entertaining</a>
-									</li>
-								<li>
-										<a href="/shop/Outdoor">Outdoor</a>
-									</li>
 								</ul>
 										</div>
 										 <div class="col-xs-6 col-sm-6">
 										<ul>
 									<li>
+										<a href="/shop/Entertaining">Entertaining</a>
+									</li>
+								<li>
+										<a href="/shop/Outdoor">Outdoor</a>
+									</li>
+								<li>
 										<a href="/shop/Frozen+Treats">Frozen Treats</a>
 									</li>
 								<li>
@@ -1467,16 +1478,25 @@ function MM_swapImage() { //v3.0
 										<a href="/shop/Food">Food</a>
 									</li>
 								<li>
-										<a href="/shop/Charitable+Giving">Charitable Giving</a>
-									</li>
-								<li>
 										<a href="/shop/Replacement+Parts">Replacement Parts</a>
 									</li>
 								<li>
 										<a href="/shop/Sale">Sale</a>
 									</li>
 								<li>
+										<a href="/shop/Graduation+Gifts">Graduation Gifts</a>
+									</li>
+								<li>
+										<a href="/shop/Shop+for+a+Cause">Shop for a Cause</a>
+									</li>
+								<li>
+										<a href="/shop/Smart+Snacks">Smart Snacks</a>
+									</li>
+								<li>
 										<a href="/shop/Storage+%26+Cleaning">Storage &amp; Cleaning </a>
+									</li>
+								<li>
+										<a href="/shop/Summer+Fun">Summer Fun</a>
 									</li>
 								<li>
 								<a href="/shop/Outlet">Outlet</a>
@@ -1491,78 +1511,10 @@ function MM_swapImage() { //v3.0
 				<ul>
 							<li>
 							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Bowl+Cozy+Set/100055" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Bowl Cozy Set&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;100055&quot;,&quot;price&quot;:&quot;17.50&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<img src="/iceberg/com/product/100055-lg.jpg" alt="Microwave Bowl Cozy Set" width="550" height="700"><span>Microwave Bowl Cozy Set</span>
+									<a href="/shop/Cookware/Cookware/Quick+Cooker/100011" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Cookware&quot;,&quot;item_number&quot;:&quot;100011&quot;,&quot;price&quot;:&quot;240.00&quot;,&quot;rating&quot;:&quot;4.7&quot;,&quot;number_of_ratings&quot;:&quot;177&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<img src="/iceberg/com/product/100011-lg.jpg" alt="Quick Cooker" width="550" height="700"><span>Quick Cooker</span>
 									</a>
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Bowl+Cozy+Set/100055#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Bowl Cozy Set&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;100055&quot;,&quot;price&quot;:&quot;17.50&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		
-		
-		
-			
-		
-		
-			
-			
-				<div class="custom-snippet-stars" style="display:none;">
-				</div>
-			
-		
-	
-
-<!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Bowl+Cozy+Set/100055" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Bowl Cozy Set&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;100055&quot;,&quot;price&quot;:&quot;17.50&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<small>
-											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	$17.50
-	
-	
-
-
-
-
-<!-- END == /tags/format/price.tag --></span>
-										</small>
-									</a>
-								</div>
-							</li>
-							<li>
-							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Pasta+Cooker/2633" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Pasta Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;2633&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;6&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<img src="/iceberg/com/product/2633-lg.jpg" alt="Microwave Pasta Cooker" width="550" height="700"><span>Microwave Pasta Cooker</span>
-									</a>
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Pasta+Cooker/2633#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Pasta Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;2633&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;6&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+									<a href="/shop/Cookware/Cookware/Quick+Cooker/100011#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Cookware&quot;,&quot;item_number&quot;:&quot;100011&quot;,&quot;price&quot;:&quot;240.00&quot;,&quot;rating&quot;:&quot;4.7&quot;,&quot;number_of_ratings&quot;:&quot;177&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
 											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
 
 
@@ -1615,13 +1567,13 @@ function MM_swapImage() { //v3.0
 							
 							
 							
+								
+								
+								
+								
+								
+								
 							
-								
-								
-								
-								
-								
-								
 							
 						
 						<div class="custom-snippet-stars-v2">
@@ -1631,9 +1583,9 @@ function MM_swapImage() { //v3.0
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 									<div class="custom-stars-100-percent custom-stars-common"></div>
-									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-75-percent custom-stars-common"></div>
 								</div>
-								<div class="custom-reviews-count-text">(6)</div>
+								<div class="custom-reviews-count-text">(177)</div>
 							</div>
 						</div>
 					
@@ -1645,7 +1597,245 @@ function MM_swapImage() { //v3.0
 	
 
 <!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
-									<a href="/shop/Cookware/Microwave+Cookware/Microwave+Pasta+Cooker/2633" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Microwave Pasta Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Microwave Cookware&quot;,&quot;item_number&quot;:&quot;2633&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;6&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+									<a href="/shop/Cookware/Cookware/Quick+Cooker/100011" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker&quot;,&quot;category_level_1&quot;:&quot;Cookware&quot;,&quot;category_level_2&quot;:&quot;Cookware&quot;,&quot;item_number&quot;:&quot;100011&quot;,&quot;price&quot;:&quot;240.00&quot;,&quot;rating&quot;:&quot;4.7&quot;,&quot;number_of_ratings&quot;:&quot;177&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<small>
+											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	$240.00
+	
+	
+
+
+
+
+<!-- END == /tags/format/price.tag --></span>
+										</small>
+									</a>
+								</div>
+							</li>
+							<li>
+							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
+									<a href="/shop/Cooking+Tools/Fruit+%26+Vegetable+Tools/Food+Chopper/2585" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Food Chopper&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Fruit \u0026 Vegetable Tools&quot;,&quot;item_number&quot;:&quot;2585&quot;,&quot;price&quot;:&quot;37.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;261&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<img src="/iceberg/com/product/2585-lg.jpg" alt="Food Chopper" width="550" height="700"><span>Food Chopper</span>
+									</a>
+									<a href="/shop/Cooking+Tools/Fruit+%26+Vegetable+Tools/Food+Chopper/2585#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Food Chopper&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Fruit \u0026 Vegetable Tools&quot;,&quot;item_number&quot;:&quot;2585&quot;,&quot;price&quot;:&quot;37.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;261&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		
+			
+		
+		
+			
+				
+				
+					
+						
+						
+						
+						
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+							
+							
+							
+						
+						<div class="custom-snippet-stars-v2">
+							<div class="custom-stars custom-stars-v2">
+								<div aria-hidden="true" class="custom-star-container-v2">
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-25-percent custom-stars-common"></div>
+								</div>
+								<div class="custom-reviews-count-text">(261)</div>
+							</div>
+						</div>
+					
+					
+				
+			
+			
+		
+	
+
+<!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
+									<a href="/shop/Cooking+Tools/Fruit+%26+Vegetable+Tools/Food+Chopper/2585" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Food Chopper&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Fruit \u0026 Vegetable Tools&quot;,&quot;item_number&quot;:&quot;2585&quot;,&quot;price&quot;:&quot;37.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;261&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<small>
+											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	$37.00
+	
+	
+
+
+
+
+<!-- END == /tags/format/price.tag --></span>
+										</small>
+									</a>
+								</div>
+							</li>
+							<li>
+							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
+									<a href="/shop/Bakeware/Silicone/Snack+Bar+Maker+Set/100001" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Snack Bar Maker Set&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Silicone&quot;,&quot;item_number&quot;:&quot;100001&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;4.6&quot;,&quot;number_of_ratings&quot;:&quot;33&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<img src="/iceberg/com/product/100001-lg.jpg" alt="Snack Bar Maker Set" width="550" height="700"><span>Snack Bar Maker Set</span>
+									</a>
+									<a href="/shop/Bakeware/Silicone/Snack+Bar+Maker+Set/100001#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Snack Bar Maker Set&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Silicone&quot;,&quot;item_number&quot;:&quot;100001&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;4.6&quot;,&quot;number_of_ratings&quot;:&quot;33&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		
+			
+		
+		
+			
+				
+				
+					
+						
+						
+						
+						
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+							
+							
+						
+						<div class="custom-snippet-stars-v2">
+							<div class="custom-stars custom-stars-v2">
+								<div aria-hidden="true" class="custom-star-container-v2">
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-50-percent custom-stars-common"></div>
+								</div>
+								<div class="custom-reviews-count-text">(33)</div>
+							</div>
+						</div>
+					
+					
+				
+			
+			
+		
+	
+
+<!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
+									<a href="/shop/Bakeware/Silicone/Snack+Bar+Maker+Set/100001" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Snack Bar Maker Set&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Silicone&quot;,&quot;item_number&quot;:&quot;100001&quot;,&quot;price&quot;:&quot;25.00&quot;,&quot;rating&quot;:&quot;4.6&quot;,&quot;number_of_ratings&quot;:&quot;33&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
 										<small>
 											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
 
@@ -1678,10 +1868,10 @@ function MM_swapImage() { //v3.0
 							</li>
 							<li>
 							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
-									<a href="/shop/Bakeware/Metal/Mini+Loaf+Pan/100020" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Mini Loaf Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100020&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<img src="/iceberg/com/product/100020-lg.jpg" alt="Mini Loaf Pan" width="550" height="700"><span>Mini Loaf Pan</span>
+									<a href="/shop/Cooking+Tools/Herb+%26+Garlic/Garlic+Press/2576" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Garlic Press&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Herb \u0026 Garlic&quot;,&quot;item_number&quot;:&quot;2576&quot;,&quot;price&quot;:&quot;19.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;167&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+										<img src="/iceberg/com/product/2576-lg.jpg" alt="Garlic Press" width="550" height="700"><span>Garlic Press</span>
 									</a>
-									<a href="/shop/Bakeware/Metal/Mini+Loaf+Pan/100020#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Mini Loaf Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100020&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+									<a href="/shop/Cooking+Tools/Herb+%26+Garlic/Garlic+Press/2576#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Garlic Press&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Herb \u0026 Garlic&quot;,&quot;item_number&quot;:&quot;2576&quot;,&quot;price&quot;:&quot;19.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;167&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
 											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
 
 
@@ -1705,83 +1895,66 @@ function MM_swapImage() { //v3.0
 		
 		
 			
-			
-				<div class="custom-snippet-stars" style="display:none;">
-				</div>
-			
-		
-	
-
-<!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
-									<a href="/shop/Bakeware/Metal/Mini+Loaf+Pan/100020" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Mini Loaf Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100020&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<small>
-											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	$25.00
-	
-	
-
-
-
-
-<!-- END == /tags/format/price.tag --></span>
-										</small>
-									</a>
+				
+				
+					
+						
+						
+						
+						
+						
+						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+								
+								
+								
+								
+								
+								
+							
+							
+							
+							
+						
+						<div class="custom-snippet-stars-v2">
+							<div class="custom-stars custom-stars-v2">
+								<div aria-hidden="true" class="custom-star-container-v2">
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-100-percent custom-stars-common"></div>
+									<div class="custom-stars-25-percent custom-stars-common"></div>
 								</div>
-							</li>
-							<li>
-							 	<div class="col-xs-12 col-sm-6 col-lg-3 ftd-prod">
-									<a href="/shop/Bakeware/Metal/Waffle+Stick+Pan/100018" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Waffle Stick Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100018&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-										<img src="/iceberg/com/product/100018-lg.jpg" alt="Waffle Stick Pan" width="550" height="700"><span>Waffle Stick Pan</span>
-									</a>
-									<a href="/shop/Bakeware/Metal/Waffle+Stick+Pan/100018#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Waffle Stick Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100018&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
-											<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-		
-		
-		
+								<div class="custom-reviews-count-text">(167)</div>
+							</div>
+						</div>
+					
+					
+				
 			
-		
-		
-			
-			
-				<div class="custom-snippet-stars" style="display:none;">
-				</div>
 			
 		
 	
 
 <!-- END == /tags/tpc/product/productReviewSnippet.tag --></a>
-									<a href="/shop/Bakeware/Metal/Waffle+Stick+Pan/100018" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Waffle Stick Pan&quot;,&quot;category_level_1&quot;:&quot;Bakeware&quot;,&quot;category_level_2&quot;:&quot;Metal&quot;,&quot;item_number&quot;:&quot;100018&quot;,&quot;price&quot;:&quot;25.00&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
+									<a href="/shop/Cooking+Tools/Herb+%26+Garlic/Garlic+Press/2576" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;product_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;product click&quot;, &quot;products_clicked_thru&quot;: [{&quot;name&quot;:&quot;Garlic Press&quot;,&quot;category_level_1&quot;:&quot;Cooking Tools&quot;,&quot;category_level_2&quot;:&quot;Herb \u0026 Garlic&quot;,&quot;item_number&quot;:&quot;2576&quot;,&quot;price&quot;:&quot;19.00&quot;,&quot;rating&quot;:&quot;4.4&quot;,&quot;number_of_ratings&quot;:&quot;167&quot;}], &quot;product_views_clicked&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured products header');">
 										<small>
 											<span id="productPrice"><!-- BEGIN == /tags/format/price.tag -->
 
@@ -1800,7 +1973,7 @@ function MM_swapImage() { //v3.0
 
 	
 	
-	$25.00
+	$19.00
 	
 	
 
@@ -1821,12 +1994,12 @@ function MM_swapImage() { //v3.0
 <!-- END == /tags/tpc/global/tpc-navigation-responsive-megamenu-shop.tag --><!-- END == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag --></li>	
 					<li class="" id="navdrop2" aria-expanded="false">
 							<a class="topNavLink " href="/host-a-party" id="navLink3">
-							Host A Party</a>
+							Host a Party</a>
 							<!-- BEGIN == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag -->
 <!-- END == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag --></li>	
 					<li class="" id="navdrop3" aria-expanded="false">
 							<a class="topNavLink " href="/be-a-consultant" id="navLink4">
-							Be A Consultant</a>
+							Be a Consultant</a>
 							<!-- BEGIN == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag -->
 <!-- END == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag --></li>	
 					<li class="has-drop" id="recipe-mega-drop" aria-expanded="false">
@@ -1874,10 +2047,10 @@ function MM_swapImage() { //v3.0
 				<ul>
 							<li>
 								 	<div class="col-xs-12 col-sm-6 ftd-recipe">
-										<a href="/recipe/Main+Dishes/Quick+Cooker+Chicken+Parmesan+Pasta/1438022" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker Chicken Parmesan Pasta&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;recipe_number&quot;:&quot;1438022&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;2&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');"><img onerror="loadDefaultRecipeImage(this);" src="/iceberg/com/recipe/recipedefault_final-lg.jpg" alt="Quick Cooker Chicken Parmesan Pasta" width="200" height="200">
-											<span>Quick Cooker Chicken Parmesan Pasta</span>
+										<a href="/recipe/Main+Dishes/30+Minutes+or+Less/Quick+Cooker+Mediterranean+Chicken+%26+Rice+Bowls/1505140" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker Mediterranean Chicken \u0026 Rice Bowls&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;category_level_2&quot;:&quot;30 Minutes or Less&quot;,&quot;recipe_number&quot;:&quot;1505140&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;3&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');"><img onerror="loadDefaultRecipeImage(this);" src="/iceberg/com/recipe/recipedefault_final-lg.jpg" alt="Quick Cooker Mediterranean Chicken &amp; Rice Bowls" width="200" height="200">
+											<span>Quick Cooker Mediterranean Chicken &amp; Rice Bowls</span>
 										</a>
-										<a href="/recipe/Main+Dishes/Quick+Cooker+Chicken+Parmesan+Pasta/1438022#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker Chicken Parmesan Pasta&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;recipe_number&quot;:&quot;1438022&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;2&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');">
+										<a href="/recipe/Main+Dishes/30+Minutes+or+Less/Quick+Cooker+Mediterranean+Chicken+%26+Rice+Bowls/1505140#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Quick Cooker Mediterranean Chicken \u0026 Rice Bowls&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;category_level_2&quot;:&quot;30 Minutes or Less&quot;,&quot;recipe_number&quot;:&quot;1505140&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;3&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');">
 												<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
 
 
@@ -1948,7 +2121,7 @@ function MM_swapImage() { //v3.0
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 								</div>
-								<div class="custom-reviews-count-text">(2)</div>
+								<div class="custom-reviews-count-text">(3)</div>
 							</div>
 						</div>
 					
@@ -1964,10 +2137,10 @@ function MM_swapImage() { //v3.0
 								</li>
 							<li>
 								 	<div class="col-xs-12 col-sm-6 ftd-recipe">
-										<a href="/recipe/Main+Dishes/Grilled+Spinach%2C+Basil+%26+Honey+Pizza/1431178" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Grilled Spinach, Basil \u0026 Honey Pizza&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;recipe_number&quot;:&quot;1431178&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;1&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');"><img onerror="loadDefaultRecipeImage(this);" src="/iceberg/com/recipe/recipedefault_final-lg.jpg" alt="Grilled Spinach, Basil &amp; Honey Pizza" width="200" height="200">
-											<span>Grilled Spinach, Basil &amp; Honey Pizza</span>
+										<a href="/recipe/Desserts/Rockcrok/Banana+Poke+Cake/1504333" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Banana Poke Cake&quot;,&quot;category_level_1&quot;:&quot;Desserts&quot;,&quot;category_level_2&quot;:&quot;Rockcrok&quot;,&quot;recipe_number&quot;:&quot;1504333&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;3&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');"><img onerror="loadDefaultRecipeImage(this);" src="/iceberg/com/recipe/recipedefault_final-lg.jpg" alt="Banana Poke Cake" width="200" height="200">
+											<span>Banana Poke Cake</span>
 										</a>
-										<a href="/recipe/Main+Dishes/Grilled+Spinach%2C+Basil+%26+Honey+Pizza/1431178#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Grilled Spinach, Basil \u0026 Honey Pizza&quot;,&quot;category_level_1&quot;:&quot;Main Dishes&quot;,&quot;recipe_number&quot;:&quot;1431178&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;1&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');">
+										<a href="/recipe/Desserts/Rockcrok/Banana+Poke+Cake/1504333#reviews" onclick="_trackAnalytics({&quot;site_events&quot;: {&quot;recipe_click&quot;: &quot;true&quot;},&quot;event_name&quot;: &quot;recipe click&quot;, &quot;recipe_clicked_thru&quot;: [{&quot;name&quot;:&quot;Banana Poke Cake&quot;,&quot;category_level_1&quot;:&quot;Desserts&quot;,&quot;category_level_2&quot;:&quot;Rockcrok&quot;,&quot;recipe_number&quot;:&quot;1504333&quot;,&quot;rating&quot;:&quot;5.0&quot;,&quot;number_of_ratings&quot;:&quot;3&quot;}], &quot;recipe_filters_applied&quot;: [{&quot;source&quot;:&quot;megamenu&quot;,&quot;page&quot;:&quot;about-us-legal-privacy-page_responsive&quot;}]});setFindMethod('featured recipe header');">
 												<!-- BEGIN == /tags/tpc/product/productReviewSnippet.tag -->
 
 
@@ -2038,7 +2211,7 @@ function MM_swapImage() { //v3.0
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 									<div class="custom-stars-100-percent custom-stars-common"></div>
 								</div>
-								<div class="custom-reviews-count-text">(1)</div>
+								<div class="custom-reviews-count-text">(3)</div>
 							</div>
 						</div>
 					
@@ -2079,11 +2252,8 @@ function MM_swapImage() { //v3.0
 										<a href="/gifts">
 											Gifts</a></li>
 									<li>
-										<a href="/wedding-gifts">
-											Wedding Gifts</a></li>
-									<li>
 										<a href="/gifts-under-25">
-											Gifts Under $25</a></li>
+											Gifts for $25 &amp; Under</a></li>
 									<li>
 										<a href="/gifts-for-her">
 											Gifts for Her</a></li>
@@ -2095,7 +2265,10 @@ function MM_swapImage() { //v3.0
 											DIY Gifts</a></li>
 									<li>
 										<a href="/gifts-most-loved">
-											Most Loved Gifts</a></li>
+											Most-Loved Gifts</a></li>
+									<li>
+										<a href="/wedding-gifts">
+											Wedding Gifts</a></li>
 									</ul>
 							</div>
 				<!-- END == /tags/tpc/global/tpc-navigation-responsive-drop-down.tag --></li>	
@@ -2103,7 +2276,7 @@ function MM_swapImage() { //v3.0
 
 
 <!-- END == /tags/tpc/global/tpc-navigation-responsive-top-level.tag --></nav>
-	
+
 
 	<!-- End Nav -->
 	<!-- BEGIN == /tags/tpc/global/tpc-navigation-find-current-node.tag -->
@@ -2133,13 +2306,13 @@ function MM_swapImage() { //v3.0
     
 
 <!-- END == /tags/tpc/global/tpc-return-to-rma-responsive.tag --></div>
-</div>
+		</div>
 </header>
 
 <!-- Start Mobi Header -->
 <header class="visible-xs" id="tpc-mobi-header">
 	<nav class="tpc-mobi-nav" role="navigation" aria-label="main">
-    <a href="/welcome" class="mobi-logo-full-en_US" id="mobileSiteLogo"><img src="/iceberg/images/tpclogo_mobi_us.png" alt="Pampered Chef"></a>
+		<a href="/welcome" class="mobi-logo-full-en_US" id="mobileSiteLogo"><img src="/iceberg/images/tpclogo_mobi_us.png" alt="Pampered Chef"></a>
 		<span class="mobi-menu">
 			<a id="menu-sidr" href="#menu-sidr">
 				<i class="fa fa-bars"></i>
@@ -2150,7 +2323,7 @@ function MM_swapImage() { //v3.0
 				<i class="fa icon icon-search"></i>
 			</a>
 		</span>
-		
+
 		<span class="mobi-acct" id="mobileHeaderAccount">
 			<a id="acct-sidr" href="#acct-sidr">
 				<i class="fa icon icon-user"></i>
@@ -2161,20 +2334,20 @@ function MM_swapImage() { //v3.0
 				<i class="pcicon-cart"></i>
 				</a>
 		</span>
-    <span class="mobi-fac">
+		<span class="mobi-fac">
     <a id="fancyFind-sidr" href="#" onclick="loadFancySidr([true, true, false],true,'global header');loadFancyFindStart('global header');">
         		<i class="pcicon-apron"></i>
       		</a>
-    	</span>
+		</span>
 	</nav>
 	<div class="mobi-search-input">
 		<form id="mobi-search" action="/search-browse-results" method="get" onsubmit="runGlobalSearch('mobile'); return false;"><input type="hidden" id="genericSearch" value="true">
 			<input class="search-query form-control clearOnFocus" type="text" id="mobiSearchText" name="mobiSearchText" title="Enter Keyword or Product #" value="Enter Keyword or Product #">
 			<button type="submit" id="headerSubmitSearch" name="submit_search" class="btn btn-default" aria-label="Search" onclick="runGlobalSearch('mobile'); return false;" value="Search">
 				<i class="icon-search" aria-hidden="true"></i>
-			</button>	
-	<input type="hidden" name="cartPK" value=""><input type="hidden" name="_requestConfirmationToken" value="c78058be89f9ee5cfa0efbe7d05c7e375c966c76"></form></div>
-	
+			</button>
+		<input type="hidden" name="cartPK" value=""><input type="hidden" name="_requestConfirmationToken" value="d726c9326e83d0051f772439656b4da6d15e024e"></form></div>
+
 	<!-- BEGIN == /tags/tpc/global/tpc-return-to-rma-responsive.tag -->
 
 
@@ -2199,12 +2372,12 @@ function MM_swapImage() { //v3.0
 		<h5>Account</h5>
 	</span>
 	<ul class="mobile-home-links">
-        <li class="mobi-nav-link-txt">
-         	<a class="login" href="/login"><i>Sign In </i></a>
-          </li>
-          <li class="mobi-nav-link-txt">	 
-			<a class="account" href="/register"><i>Create Account</i></a>
-		  </li>
+		<li class="mobi-nav-link-txt">
+				<a class="login" href="/login"><i>Sign In </i></a>
+			</li>
+			<li class="mobi-nav-link-txt">
+				<a class="account" href="/register"><i>Create Account</i></a>
+			</li>
 
 		</ul>
 </div>
@@ -2395,6 +2568,10 @@ function cancelRMA(){
 											<a href="/core-values">
 											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
 <!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Core Values</a>
+									</li><li class="system-nav-item">
+											<a href="/we-are-hiring">
+											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
+<!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->We're Hiring</a>
 									</li></ul>
 						</li>
 					<li class="system-nav-head"><a href="#">Charitable Giving Programs</a>
@@ -2404,10 +2581,6 @@ function cancelRMA(){
 											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
 <!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Charitable Giving Programs</a>
 									</li><li class="system-nav-item">
-											<a href="/classroom-kitchen-campaign">
-											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
-<!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Classroom Kitchen</a>
-									</li><li class="system-nav-item">
 											<a href="/cg-round-up">
 											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
 <!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Round-Up From The Heart®</a>
@@ -2415,10 +2588,6 @@ function cancelRMA(){
 											<a href="/cg-help-whip-cancer">
 											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
 <!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Help Whip Cancer®</a>
-									</li><li class="system-nav-item">
-											<a href="/mealtimeminutes">
-											<!-- BEGIN == /tags/tpc/global/tpc-global-proper-case.tag -->
-<!-- END == /tags/tpc/global/tpc-global-proper-case.tag -->Mealtime Minutes</a>
 									</li></ul>
 						</li>
 					<li class="system-nav-head"><a href="#">Support Center</a>
@@ -2546,41 +2715,58 @@ function cancelRMA(){
 
 	<!-- BEGIN == /views/cms/cmsrowcomponent.jsp -->
 <div class="row">
-	<p><link rel="stylesheet" href="/iceberg/css/footer-update.css"></p> <div class="tpc-footer"><div class="tpcfootertop"><!--<p><script type="text/javascript">
-$(function() {
-	$('body').prepend('<div class="container-fluid topfish" style="padding: 10px 0; background: white; border-bottom: 1px solid #eee; margin-left: -15px; margin-right: -15px;"><div class="container"><div class="row"><div class="col-xs-12"><a data-toggle="collapse" href="#" data-target="#ship" style="text-decoration: none !important;"><h5 style="color: f17d62;" class="MS700 text-center"><i style="color: f17d62;" class="accordion_icon fa fa-plus"> </i> Holiday Shipping: Get your Gifts by Dec. 23</h5></a><div class="collapse" id="ship" style="height: 0px;"><center><p><br>Standard Delivery: Order by Dec. 18, 11:59 p.m. (CT)<br>2-Day Delivery: Order by Dec. 21, 3 p.m. (CT)<br>Next-Day Delivery: Order by Dec. 22, 3 p.m. (CT)<br><br><a href="gifts-for-the-holidays">See more shipping options ></a><br><br><a data-toggle="collapse" href="#" data-target="#ship" style="color: black;" class="collapsed">Close</a></p></center></div></div></div></div></div>');
-});
-</script></p> --> <div class="container footer-content default-content-area"><div class="row"><div class="col-xs-12 col-sm-6 col-md-6"><div class="tpcfootert"><style type="text/css">
+	<p><link rel="stylesheet" href="/iceberg/css/footer-update.css"></p> <p><style type="text/css"> 
+		.tpcsocial .yt{background:url("../iceberg/images/socialicons/yt-off.png") no-repeat center center}
+		.tpcsocial .yt:hover{background:url("../iceberg/images/socialicons/yt-on.png") no-repeat center center}
+		.tpcsocial .yt{background:url("../iceberg/images/socialicons/yt-off.png") no-repeat center center}
+		.tpcsocial .yt:hover{background:url("../iceberg/images/socialicons/yt-on.png") no-repeat center center}
 
-#left_column .block_content, #right_column .block_content {
-    padding: 20px 20px 20px;
-}
-
-</style> <p><img style="max-width:187px!important;" src="/iceberg/images/tpclogo_mobi_us.png" alt="Pampered Chef logo" width="187" height="50"></p></div> <p class="para10">Pampered Chef exists to help you enjoy the moments most important to you and yours by inspiring satisfying, stress-free meals fit for the way you live. <a href="/about-us">Learn More</a></p> <p class="para11">A proud member of the Berkshire Hathaway Family of Companies.</p></div> <div class="para1"><div class="col-xs-12 col-sm-6 col-md-3 " style="margin-top:19px;"><h4>NEWS</h4> <p style="margin-bottom: 15px;">See what's happening with the<br> Pampered Chef Newsroom.</p> <p><a target="_blank" href="https://newsroom.pamperedchef.com/">Stay in the know</a></p> <div class="para3"><h4>CAREERS</h4> <p style="margin-bottom: 15px;">Want to work happy? <a href="/careers">See how.</a></p> <p><a href="https://careers-pamperedchef.icims.com/">We're hiring</a></p></div></div></div> <div class="para1" style="margin-right:-63px;"><div class="col-xs-12 col-sm-6 col-md-3 " style="margin-top:19px;"><h4>CUSTOMER SERVICE</h4> <p style="margin-bottom: 1px; font-weight: 900; color:#0e0e0e;">1-888-OUR-CHEF (687-2433)</p> <p style="margin-bottom: 15px;" id="myParagraph">Open today 8:00 am - 8:00 pm CT</p> <p style="margin-bottom: 4px;"><a id="supportcenter" href="/contact-customer-service">Support Center</a></p> <p><a href="/returns">Returns</a></p> <div class="para2"><h4>FOLLOW US</h4> <div class="tpcsocial"><ul class="list-inline" style="margin-top: 0px;">     <li><a target="_blank" href="https://www.facebook.com/ThePamperedChef"><span class="socialicon fb">&nbsp;</span><span class="visually-hidden">Facebook</span></a></li>     <li><a target="_blank" href="https://twitter.com/pamperedchef"><span class="socialicon tw">&nbsp;</span><span class="visually-hidden">Twitter</span></a></li>     <li><a target="_blank" href="http://pinterest.com/pamperedchef"><span class="socialicon pin">&nbsp;</span><span class="visually-hidden">Pinterest</span></a></li>     <li><a target="_blank" href="https://instagram.com/pamperedchef"><span class="socialicon inst">&nbsp;</span><span class="visually-hidden">Instagram</span></a></li> </ul></div></div></div></div></div></div></div></div> <!-- Subfooter section begin--> <div class="container tpc-legal"><div class="row"><div class="col-md-6 hidden-xs hidden-sm  text-left" style="padding-top: 17px;"><ul class="list-inline" style="margin-left:-5px;">     <li><span style="color:#656565;">© 2018 Pampered Chef used under license. All Rights Reserved.</span></li>     <li><a href="/about-us-legal-privacy-page">Privacy</a></li>     <li><a href="/about-us-terms-of-use">Terms of Use</a></li> </ul></div> <div class="col-xs-12 col-sm-6 visible-xs visible-sm xs-text-left" style="padding-top: 17px;"><ul class="list-unstyled">     <li><span style="color:#656565;">© 2018 Pampered Chef used under license. All Rights Reserved.</span></li>     <li><a href="/about-us-legal-privacy-page">Privacy</a></li>     <li><a href="/about-us-terms-of-use">Terms of Use</a></li> </ul></div> <br> <div class="col-md-6 text-left hidden-xs hidden-sm" aria-hidden="true"><ul class="list-inline" style="margin-left:-5px;">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div> <div class="col-sm-6 text-left hidden-xs hidden-md hidden-lg visible-sm" aria-hidden="true"><ul class="list-unstyled">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div> <div class="col-xs-12 text-left visible-xs hidden-sm hidden-md hidden-lg"><ul class="list-unstyled">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div></div></div> <!-- Subfooter section end-->   <script type="text/javascript">
-		var myEvents=new Array();
-		myEvents[0]=['Sunday', 'Closed today'];
-		myEvents[1]=['Monday', 'Open today 8:00 am - 8:00 pm CT'];
-		myEvents[2]=['Tuesday', 'Open today 8:00 am - 8:00 pm CT'];
-		myEvents[3]=['Wednesday', 'Open today 8:00 am - 8:00 pm CT'];
-		myEvents[4]=['Thursday', 'Open today 8:00 am - 8:00 pm CT'];
-		myEvents[5]=['Friday', 'Open today 8:00 am - 8:00 pm CT'];
-	 
-		var myDate=new Date();
-		var day=myDate.getDay();
- 
-		document.getElementById("myParagraph").childNodes[0].nodeValue=myEvents[day][1];
+</style></p> <div class="tpc-footer"><div class="tpcfootertop"><p><script type="text/javascript">
+		$(function() {
+			$('body').prepend('<div class="container-fluid topfish" style="padding: 10px 0; background: #4D858E; border-bottom: 1px solid #fff; margin-left: -18px; margin-right: -18px;margin-top:0px;"><div class="container"><div class="row"><div class="col-xs-12"><a id="pws" href="/be-a-consultant" style="text-decoration: none !important;"><p style="color: #fff;  text-transform: none!important;" class="MS700 text-center"><span style="font-family:antonio-regular;font-size:17px;">May Only: Special-Edition $109 Kit</span><br> Plus, Half-Price Rebate on All Kits! ></p></a></div></div></div></div>');
+		});
+			
+			$(document).ready(function () {
+		   if(window.location.href.indexOf("pws") > -1) {
+			   $("#pws").attr("href", "/be-a-consultant-nf");
+		  }
+		});
+		$(document).ready(function(){
+			$("#pws").click(function(){
+			_trackAnalytics({'site_events': {'internal_campaign_interaction': 'true'}, 'event_name': 'internal campaign interaction', 'internal_campaign': [{'id' : 'homepage 201905', 'name' : 'homepage 201905', 'location' : 'top header', 'creative' : '109$ kit','eventLabel' : 'details'}],});
+			}); 
+		});
+		</script></p> <div class="container footer-content default-content-area"><div class="row"><div class="col-xs-12 col-sm-6 col-md-6"><div class="tpcfootert"><style type="text/css">
 		
-	
-	</script> <p><style type="text/css">
+		#left_column .block_content, #right_column .block_content {
+			padding: 20px 20px 20px;
+		}
+		
+		</style> <p>&nbsp;</p> <p><img style="max-width:187px!important;" src="/iceberg/images/tpclogo_mobi_us.png" alt="Pampered Chef logo" height="50" width="187"></p></div> <p class="para10">Pampered Chef exists to help you enjoy the moments most important to you and yours by inspiring satisfying, stress-free meals fit for the way you live. <a href="/about-us">Learn More</a></p> <p class="para11">A proud member of the Berkshire Hathaway Family of Companies.</p></div> <div class="para1"><div class="col-xs-12 col-sm-6 col-md-3 " style="margin-top:19px;"><h4>NEWS</h4> <p style="margin-bottom: 15px;">See what's happening with the<br> Pampered Chef Newsroom.</p> <p><a target="_blank" href="https://newsroom.pamperedchef.com/">Stay in the know</a></p> <div class="para3"><h4>CAREERS</h4> <p style="margin-bottom: 15px;">Want to work happy? <a href="/careers">See how.</a></p> <p><a href="/we-are-hiring">We're hiring</a></p></div></div></div> <div class="para1" style="margin-right:-63px;"><div class="col-xs-12 col-sm-6 col-md-3 " style="margin-top:19px;"><h4>CUSTOMER SERVICE</h4> <p style="margin-bottom: 1px; font-weight: 900; color:#0e0e0e;">1-888-OUR-CHEF (687-2433)</p> <p style="margin-bottom: 15px;" id="myParagraph">Open today 8:00 am - 8:00 pm CT</p> <p style="margin-bottom: 4px;"><a id="supportcenter" href="/contact-customer-service">Support Center</a></p> <p><a href="/returns">Returns</a></p> <div class="para2"><h4>FOLLOW US</h4> <div class="tpcsocial"><ul class="list-inline" style="margin-top: 0px;">     <li><a target="_blank" href="https://www.facebook.com/ThePamperedChef" onclick="_gaq.push(['_trackEvent', 'footer', 'Click', 'fb']);"><span class="socialicon fb">&nbsp;</span><span class="visually-hidden">Facebook</span></a></li>     <li><a target="_blank" href="https://instagram.com/pamperedchef" onclick="_gaq.push(['_trackEvent', 'footer', 'Click', 'inst']);"><span class="socialicon inst">&nbsp;</span><span class="visually-hidden">Instagram</span></a></li>     <li><a target="_blank" href="http://www.youtube.com/pamperedchefvideo" onclick="_gaq.push(['_trackEvent', 'footer', 'Click', 'yt']);"><span class="socialicon yt">&nbsp;</span><span class="visually-hidden">YouTube</span></a></li>     <li><a target="_blank" href="http://pinterest.com/pamperedchef" onclick="_gaq.push(['_trackEvent', 'footer', 'Click', 'pin']);"><span class="socialicon pin">&nbsp;</span><span class="visually-hidden">Pinterest</span></a></li>     <li><a target="_blank" href="https://twitter.com/pamperedchef" onclick="_gaq.push(['_trackEvent', 'footer', 'Click', 'tw']);"><span class="socialicon tw">&nbsp;</span><span class="visually-hidden">Twitter</span></a></li> </ul></div></div></div></div></div></div></div></div> <!-- Subfooter section begin--> <div class="container tpc-legal"><div class="row"><div class="col-md-6 hidden-xs hidden-sm  text-left" style="padding-top: 17px;"><ul class="list-inline" style="margin-left:-5px;">     <li><span style="color:#656565;">© 2019 Pampered Chef used under license. All Rights Reserved.</span></li>     <li><a href="/about-us-legal-privacy-page">Privacy</a></li>     <li><a href="/about-us-terms-of-use">Terms of Use</a></li> </ul></div> <div class="col-xs-12 col-sm-6 visible-xs visible-sm xs-text-left" style="padding-top: 17px;"><ul class="list-unstyled">     <li><span style="color:#656565;">© 2019 Pampered Chef used under license. All Rights Reserved.</span></li>     <li><a href="/about-us-legal-privacy-page">Privacy</a></li>     <li><a href="/about-us-terms-of-use">Terms of Use</a></li> </ul></div> <br> <div class="col-md-6 text-left hidden-xs hidden-sm" aria-hidden="true"><ul class="list-inline" style="margin-left:-5px;">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div> <div class="col-sm-6 text-left hidden-xs hidden-md hidden-lg visible-sm" aria-hidden="true"><ul class="list-unstyled">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div> <div class="col-xs-12 text-left visible-xs hidden-sm hidden-md hidden-lg"><ul class="list-unstyled">     <li><a href="https://blog.pamperedchef.com/">Blog</a></li>     <li><a href="/product-alert">Product Alert</a></li>     <li><a href="/cal-supply-chain-trans-act">California Supply Chain</a></li>     <li><a href="https://www.dsa.org/consumerprotection/code-of-ethics" target="_blank">DSA Code of Ethics</a></li>     <li><a href="/cg-charitable-giving-overview">Charitable Giving</a></li>     <li><a href="http://pamperedchef.custhelp.com/app/home_public">Help</a></li> </ul></div></div></div> <!-- Subfooter section end-->   <script type="text/javascript">
+				var myEvents=new Array();
+				myEvents[0]=['Sunday', 'Closed today'];
+				myEvents[1]=['Monday', 'Open today 8:00 am - 8:00 pm CT'];
+				myEvents[2]=['Tuesday', 'Open today 8:00 am - 8:00 pm CT'];
+				myEvents[3]=['Wednesday', 'Open today 8:00 am - 8:00 pm CT'];
+				myEvents[4]=['Thursday', 'Open today 8:00 am - 8:00 pm CT'];
+				myEvents[5]=['Friday', 'Open today 8:00 am - 8:00 pm CT'];
+			 
+				var myDate=new Date();
+				var day=myDate.getDay();
+		 
+				document.getElementById("myParagraph").childNodes[0].nodeValue=myEvents[day][1];
+				
+			
+			</script> <p><style type="text/css">
+		
+		#left_column .block_content, #right_column .block_content {
+			padding: 20px 20px 20px;
+		}
+		html {
+overflow-x: hidden!important;
 
-#left_column .block_content, #right_column .block_content {
-    padding: 20px 20px 20px;
-}
-
-</style></p></div>
+		</style></p></div>
 <!-- END == /views/cms/cmsrowcomponent.jsp -->
-
-	
 
 	<!-- BEGIN == /views/cms/cmsrowcomponent.jsp -->
 <div class="row">
@@ -2810,8 +2996,6 @@ $(".pac-contianer").css("position", "absolute !important");
 			})();
 		</script>
 
-
-
 		<div class="tpc-notification-fixed">
         	<div class="container add-to-cart-container">
         		<div class="col-xs-12 col-md-5 tpc-notification-text-container">
@@ -2928,10 +3112,13 @@ $(".pac-contianer").css("position", "absolute !important");
 
 <!-- END == /tags/tpc/global/tpc-navigation-mobile-responsive-top-level.tag --><h5 class="text-center">Shopping In</h5>
   <ul>
-	<li><a class="worldwide-mobi" href="https://www.pamperedchef.com"><img src="/img/ui/flags/flag_us.jpg" alt="Pampered Chef US">&nbsp;United States (en)</a></li>
-	<li><a class="worldwide-mobi" href="https://www.pamperedchef.ca"><img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">&nbsp;Canada (en)</a></li>
+	<li>
+			<a class="worldwide-mobi" href="https://www.pamperedchef.ca">
+				<img src="/img/ui/flags/flag_ca.jpg" alt="Pampered Chef CA">
+				&nbsp;Canada (en)</a>
+		</li>
 	<li><a class="worldwide-mobi" href="http://www.pamperedchef.de"><img src="/img/ui/flags/flag_de.jpg" alt="Pampered Chef DE">&nbsp;Germany (de)</a></li>
-  </ul>	
+  </ul>
 </div></div><div id="tpc-acct-sidr" class="sidr right"><div class="sidr-inner">
 	<span class="mobi-close-head">
 		<a class="mobi-close-link" onclick="javascript: $.sidr('close', 'tpc-acct-sidr');">
@@ -2940,12 +3127,12 @@ $(".pac-contianer").css("position", "absolute !important");
 		<h5>Account</h5>
 	</span>
 	<ul class="mobile-home-links">
-        <li class="mobi-nav-link-txt">
-         	<a class="login" href="/login"><i>Sign In </i></a>
-          </li>
-          <li class="mobi-nav-link-txt">	 
-			<a class="account" href="/register"><i>Create Account</i></a>
-		  </li>
+		<li class="mobi-nav-link-txt">
+				<a class="login" href="/login"><i>Sign In </i></a>
+			</li>
+			<li class="mobi-nav-link-txt">
+				<a class="account" href="/register"><i>Create Account</i></a>
+			</li>
 
 		</ul>
-</div></div><div id="tpc-fac-sidr" class="sidr right"><div class="sidr-inner">undefined</div></div></body></html>
+</div></div><div id="tpc-fac-sidr" class="sidr right"><div class="sidr-inner">undefined</div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
