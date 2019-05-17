@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011123057id_/https%3A//godfatherpolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517213528id_/https%3A//godfatherpolitics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Godfather Politics
+# Privacy Policy Godfather Politics
 
 The privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the Godfatherpolitics.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Site.
 
