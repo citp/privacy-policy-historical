@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705024136id_/https%3A//www.shabbyapple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shabbyapple.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517185423id_/http%3A//www.shabbyapple.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – ShabbyApple
 
 Shabby Apple understands and respects your concerns about privacy and is committed to providing you with a safe online experience. The information below describes the type of information we collect, how it is used, and steps we take to protect your personally identifiable information. This policy applies only to website or phone orders. Periodically, we may update our Privacy and Security policies and encourage you to check this section for any changes.
 
