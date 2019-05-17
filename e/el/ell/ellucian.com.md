@@ -1,29 +1,10 @@
-> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812131915id_/https%3A//www.ellucian.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellucian.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517154524id_/https%3A//www.ellucian.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ellucian
-
-_Last update 24 May 2018_
-
-Ellucian is committed to maintaining your confidence and trust, and accordingly complies with the following Privacy Statement to protect the personal information you provide to Ellucian Company L.P. and all of its related worldwide affiliates and subsidiaries (collectively, “Ellucian”). As used in this Privacy Statement, “Personal Data”, means any information about an identified or identifiable natural person. 
-
-This statement is divided into sections based on your relationship with Ellucian. Please select the appropriate section(s) below for information that applies to your Personal Data. Keep in mind that more than one section might apply to you. Note that this Privacy Statement does not apply to Ellucian employees.
-
-### Contents
-
-#### General Terms
-
-#### Terms that apply to website visitors & representatives of potential customers
-
-#### Terms that apply to Ellucian customers
-
-#### Terms that apply to people in the European Economic Area (“EEA”) or Switzerland
-
-  
-
+# Privacy Statement | Ellucian
 
 ## General Terms
 
-These General Terms apply to anyone (except Ellucian employees) whose Personal Data is processed by Ellucian.
+These General Terms apply to anyone (except Ellucian employees and job applicants) whose Personal Data is processed by Ellucian.
 
 ### Purposes of Personal Data Collection and Use
 
@@ -50,7 +31,7 @@ If Ellucian learns of an unauthorized disclosure of Personal Data that is within
 
 Ellucian hires other companies to provide certain services on our behalf; for example, to process event registrations. Ellucian will provide these companies only with the information they need to deliver the services, and they are contractually prohibited from using that information for any other purpose.
 
-Because Ellucian is a global company, Personal Data may be stored and processed in the United States or any other country in which Ellucian and its affiliates and agents maintain facilities or personnel. 
+Because Ellucian is a global company, Personal Data may be stored and processed in the United States or any other country in which Ellucian and its affiliates and agents maintain facilities or personnel.
 
 Ellucian’s products and services are not intended for children under the age of 13. Ellucian does not knowingly collect any information from children. If we learn that we have collected or received Personal Data from a child under 13 without verification of parental consent, we will delete that information.
 
@@ -58,23 +39,25 @@ Under certain circumstances, we may be required to disclose your Personal Data i
 
 ### Your Access to and Control Over Your Personal Data
 
-You have the right to access the Personal Data that Ellucian has collected about you. You may do the following at any time by contacting us at [privacy@ellucian.com](mailto:privacy@ellucian.com "privacy@ellucian.com"):
+You may do the following at any time by contacting us at [privacy@ellucian.com](mailto:privacy@ellucian.com "privacy@ellucian.com"):
 
   * Opt out of any future contacts from us
   * See what information we have about you, if any
-  * Change, correct, or request that we delete any Personal Data we have about you
+  * Change, correct, or, in certain circumstances, request that we delete any Personal Data we have about you
   * Express any concern you have about our use of your Personal Data
 
 
 
+Ellucian will comply with these requests as required by law. We may request additional information from you in order to process your request.
+
 ### Contact Us
 
-Should you have any questions or concerns about this Privacy Statement, please contact our data protection officer as follows: 
+Should you have any questions or concerns about this Privacy Statement, please contact our data protection officer as follows:
 
-Ellucian Company L.P.   
-Attn: Data Protection Officer   
-4 Country View Road   
-Malvern, PA 19355, USA   
+Ellucian Company L.P.   
+Attn: Data Protection Officer   
+4 Country View Road   
+Malvern, PA 19355, USA   
 [privacy@ellucian.com](mailto:privacy@ellucian.com "privacy@ellucian.com")
 
 Requests to unsubscribe from ("opt-out" of) communications from Ellucian can be managed using the link in email communications. You may also mail your enquiry/request to the above address.
@@ -93,15 +76,15 @@ Although Ellucian has endeavored to create a secure and reliable site for you, t
 
 ### Collection and Use of Information
 
-Ellucian collects your Personal Data (such as your name, address, or telephone number) through our Site if you provide it to us voluntarily. 
+Ellucian collects your Personal Data (such as your name, address, or telephone number) through our Site if you provide it to us voluntarily.
 
-In addition, as you use our Site we automatically collect certain information regarding your visit, including information about your equipment, operating system, browsing actions including log data and usage patterns. The information we collect automatically is statistical data. We use this information for internal purposes, such as to improve our Site. We may use cookies to assist us in collecting this information. A cookie is a small file placed on the hard drive of your computer. You have the ability to delete cookie files from your hard drive at any time or avoid cookies by configuring your browser to reject them or to notify you when a cookie is being placed on your hard drive. Ellucian, on its own or through third-party vendors, uses first-party and third-party cookies together for lead generation purposes and to inform, optimize and serve ads based on your past visits to our Site. You can visit this [page](http://www.networkadvertising.org/choices/ "NAI Consumer opt-out"), this [page](https://www.oracle.com/marketingcloud/opt-status.html "Oracle opt-out") and this [page](https://www.optimizely.com/legal/opt-out/ "Optimizely opt-out") to opt out of some such advertising. We also use certain cookies for website functionality.
+In addition, as you use our Site we automatically collect certain information regarding your visit, including information about your equipment, operating system, browsing actions including log data and usage patterns. The information we collect automatically is statistical data. We use this information for internal purposes, such as to improve our Site. We may use cookies to assist us in collecting this information. A cookie is a small file placed on the hard drive of your computer. You have the ability to delete cookie files from your hard drive at any time or avoid cookies by configuring your browser to reject them or to notify you when a cookie is being placed on your hard drive. Ellucian, on its own or through third-party vendors, uses first-party and third-party cookies together for lead generation purposes and to inform, optimize and serve ads based on your past visits to our Site. For information on the specific cookies we use on our Site, please visit our [Cookie Declaration](https://web.archive.org/Cookie-Declaration/). You can also visit this [page](http://www.networkadvertising.org/choices/ "NAI Consumer opt-out"), this [page](https://www.oracle.com/marketingcloud/opt-status.html "Oracle opt-out") and this [page](https://www.optimizely.com/legal/opt-out/ "Optimizely opt-out") to opt out of some such advertising. We also use certain cookies for website functionality.
 
-Our Site uses Google Analytics Demographics and Interest Reporting to help us understand, in aggregate, the age, gender and interests of Site visitors. This Google Analytics tool does not reveal to Ellucian your name. Ellucian does not combine the information collected through use of Google Analytics with Personal Data. The information received from Google Analytics is used improve our Site and the type of information displayed to Site visitors so we can better serve those interested in Ellucian. You can prevent Google Analytics from recognizing you on return visits to our Site by using Google Analytics’ Opt-out Browser Add-on, available [here](https://tools.google.com/dlpage/gaoptout/ "Google Opt-out Add-on").
+Our Site uses Google Analytics Demographics and Interest Reporting to help us understand, in aggregate, the age, gender and interests of Site visitors. This Google Analytics tool does not reveal to Ellucian your name. Ellucian does not combine the information collected through use of Google Analytics with Personal Data. The information received from Google Analytics is used improve our Site and the type of information displayed to Site visitors so we can better serve those interested in Ellucian. You can prevent Google Analytics from recognizing you on return visits to our Site by using Google Analytics’ Opt-out Browser Add-on, available [here](https://tools.google.com/dlpage/gaoptout/ "Google Opt-out Add-on").
 
-Ellucian may also use Facebook features and tools, including pixel tags added to the Site, that allow data about actions of Site visitors to be sent to Facebook to track conversions and to allow Ellucian to create custom audiences for the products or services Ellucian may advertise on Facebook. We may also provide Facebook with other data we have collected about you for this purpose, using Facebook tools that allow data such as email addresses and phone numbers to be locally hashed on our system before we upload and pass such data to Facebook. Facebook’s use of such data is governed by Facebook’s Data Use Policy. You can adjust Facebook ad settings [here](https://www.facebook.com/about/ads/ "About Facebook Ads"). 
+Ellucian may also use Facebook features and tools, including pixel tags added to the Site, that allow data about actions of Site visitors to be sent to Facebook to track conversions and to allow Ellucian to create custom audiences for the products or services Ellucian may advertise on Facebook. We may also provide Facebook with other data we have collected about you for this purpose, using Facebook tools that allow data such as email addresses and phone numbers to be locally hashed on our system before we upload and pass such data to Facebook. Facebook’s use of such data is governed by Facebook’s Data Use Policy. You can adjust Facebook ad settings [here](https://www.facebook.com/about/ads/ "About Facebook Ads").
 
-You can also manage the interest-based advertising you receive or completely opt-out of receiving such advertising by indicating your choice [here](http://www.aboutads.info/choices "Webchoices"). 
+You can also manage the interest-based advertising you receive or completely opt-out of receiving such advertising by indicating your choice [here](http://www.aboutads.info/choices "Webchoices").
 
 At any time, while accessing our Site, any user may decline participation in any activity that would require active submission of Personal Data (e.g., responding to a survey email or engaging in an e-commerce transaction). Your decision not to participate will not affect your ability to use any other feature on our Site. When choosing to provide Personal Data through our Site, you acknowledge that Ellucian may store, process or transfer your Personal Data outside your country.
 
@@ -135,7 +118,7 @@ Ellucian is not responsible for its customers’ privacy policies or practices; 
 
 Ellucian shares Personal Data with our subcontractors, business partners and third-party agents and contractors only to the extent required in order to deliver products or services requested by customers. Before transferring Personal Data to these third-parties, Ellucian will obtain assurances from the recipient that it will safeguard Personal Data in a manner consistent with this Privacy Statement and otherwise to support Ellucian business activities. If Ellucian learns that a recipient is using or disclosing Personal Data in a manner contrary to this Privacy Statement, Ellucian will take steps to prevent such use or disclosure.
 
-Ellucian also may disclose Personal Data as required by law, for example, in response to a court order, an administrative proceeding or subpoena. Before making any such disclosure, Ellucian will, as soon as practical, inform the customer when permitted by law, so the customer may take such actions as it deems necessary to protect the rights of Customer Data Subjects.
+Ellucian also may disclose Personal Data as required by law, for example, in response to a court order, an administrative proceeding or subpoena. Ellucian will, as soon as practical, inform the customer when permitted by law, so the customer may take such actions as it deems necessary to protect the rights of Customer Data Subjects.
 
 ### Data Integrity
 
@@ -145,24 +128,27 @@ Ellucian will retain Personal Data as necessary to fulfill the purposes describe
 
 ### Access to and Correction of Personal Data
 
-Customers have the right to access and review, correct, amend or delete their Personal Data that Ellucian holds by contacting Ellucian. Customers are responsible for providing Ellucian with accurate and complete Personal Data, and for contacting Ellucian if correction of such information is required. Ellucian will cooperate with its customers’ reasonable requests for assistance in permitting Customer Data Subjects to exercise their rights under applicable data protection laws to amend or delete their Personal Data. Please note that, where permitted, we may charge a fee for fulfilling access requests and that we reserve the right to disallow unreasonable requests for access. If a Customer Data Subject’s Personal Data was provided to us by an Ellucian customer, we may facilitate access to such data by directing the Customer Data Subject to the customer that provided the Personal Data to us.
+Customers have the right to access and review, correct or amend and, in certain circumstances, delete their Personal Data that Ellucian holds by contacting Ellucian. Customers are responsible for providing Ellucian with accurate and complete Personal Data, and for contacting Ellucian if correction of such information is required. Ellucian will cooperate with its customers’ reasonable requests for assistance in permitting Customer Data Subjects to exercise their rights under applicable data protection laws to amend or delete their Personal Data. Please note that, where permitted, we may charge a fee for fulfilling access requests and that we reserve the right to disallow unreasonable requests for access. If a Customer Data Subject’s Personal Data was provided to us by an Ellucian customer, we may facilitate access to such data by directing the Customer Data Subject to the customer that provided the Personal Data to us.
 
 ### How Ellucian Uses Customer Data
 
 Ellucian uses Personal Data submitted to us for general business purposes, including:
 
   * to deliver or provide products and services ordered by customers, including administering the delivery of electronic products and services requiring logins and passwords, confirming compliance with licensing terms, and responding to technical queries
-  * to perform accounting and export compliance function
-  * to notify customers of new products and services from Ellucian and our business partners and for other general marketing purposes, such as advertising Ellucian’s customer events and engaging with customers via online communities and social media and
+  * to perform accounting and export compliance functions
+  * to notify customers of new products and services from Ellucian and our business partners and for other general marketing purposes, such as advertising Ellucian’s customer events and engaging with customers via online communities and social media
+  * for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, services and offerings, enhancing, improving or modifying our products and services, and operating and expanding our business activities and
   * to comply with legal requirements.
 
 
+
+Ellucian uses Google Analytics in certain of its software products. The information received from Google Analytics is used improve our products and services. You can prevent Google Analytics from recognizing you on return visits to our software by using Google Analytics’ Opt-out Browser Add-on, available [here](https://tools.google.com/dlpage/gaoptout/).
 
 Back to top
 
 ## People in the European Economic Area (“EEA”) or Switzerland
 
-The EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Frameworks (collectively, “Privacy Shield”) governs how Ellucian collects, uses, and discloses Personal Data that we receive in the United States (“U.S.”) from the EEA and Switzerland. In this Privacy Statement we refer to Personal Data from the EEA or Switzerland as “EEA or Swiss Data”. 
+The EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield Frameworks (collectively, “Privacy Shield”) governs how Ellucian collects, uses, and discloses Personal Data that we receive in the United States (“U.S.”) from the EEA and Switzerland. In this Privacy Statement we refer to Personal Data from the EEA or Switzerland as “EEA or Swiss Data”.
 
 Ellucian collects EEA or Swiss Data (i) from individuals who visit our Site, and (ii) from our customers, vendors, contractors and agents, including the following specific types of information:
 
@@ -171,10 +157,13 @@ Ellucian collects EEA or Swiss Data (i) from individuals who visit our Site, and
   * Professional and employment information
   * Financial information
   * Identification information, including driver’s license and passport numbers
+  * Information regarding use of Ellucian's Site or products and services as described in this Privacy Statement
 
 
 
-Ellucian recognizes that the EEA and Switzerland have established strict protections regarding the handling of EEA or Swiss Data, including requirements to provide adequate protection for EEA or Swiss Data transferred outside of the EEA and Switzerland. 
+Information on how Ellucian uses cookies on our Site is available in our Cookie Declaration and in the pop-up window you may have seen when you first visited our Site. You can make changes to your cookie preferences within the pop-up window or by visiting the [Cookie Declaration](https://web.archive.org/cookie-declaration).
+
+Ellucian recognizes that the EEA and Switzerland have established strict protections regarding the handling of EEA or Swiss Data, including requirements to provide adequate protection for EEA or Swiss Data transferred outside of the EEA and Switzerland.
 
 To provide adequate protection for certain EEA or Swiss Data relating to website visitors, customers, prospective customers, partners, vendors, third-party suppliers and contractors that Ellucian receives in the U.S., Ellucian complies with the Privacy Shield as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the EEA and Switzerland to the U.S. Ellucian has certified to the Department of Commerce that it adheres to the Privacy Shield. Ellucian adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this Privacy Statement and the Privacy Shield, the Privacy Shield shall govern.
 
@@ -192,22 +181,22 @@ Ellucian maintains reasonable and appropriate security measures to protect EEA o
 
 ### Data Transfers to Third-Parties
 
- _Third-Party Agents or Service Providers_. We may transfer EEA or Swiss Data to our third-party agents or service providers that perform functions on our behalf. Where required by the Privacy Shield, we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection that the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps (i) to ensure that third-party agents and service providers process EEA or Swiss Data in accordance with our Privacy Shield obligations and (ii) to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers that perform services on our behalf for their handling of EEA or Swiss Data that we transfer to them.
+_Third-Party Agents or Service Providers_. We may transfer EEA or Swiss Data to our third-party agents or service providers that perform functions on our behalf. Where required by the Privacy Shield, we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection that the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf. We take reasonable and appropriate steps (i) to ensure that third-party agents and service providers process EEA or Swiss Data in accordance with our Privacy Shield obligations and (ii) to stop and remediate any unauthorized processing. Under certain circumstances, we may remain liable for the acts of our third-party agents or service providers that perform services on our behalf for their handling of EEA or Swiss Data that we transfer to them.
 
- _Third-Party Data Controllers_. In some cases, we may transfer EEA or Swiss Data to unaffiliated third-party data controllers. These third-parties do not act as agents or service providers and are not performing functions on our behalf. We may transfer your EEA or Swiss Data to third-party data controllers for the following purposes:
+_Third-Party Data Controllers_. In some cases, we may transfer EEA or Swiss Data to unaffiliated third-party data controllers. These third-parties do not act as agents or service providers and are not performing functions on our behalf. We may transfer your EEA or Swiss Data to third-party data controllers for the following purposes:
 
   * Sponsors and exhibitors at certain Ellucian events receive EEA or Swiss Data about attendees, which the sponsors and exhibitors may use for their own promotional purposes.
   * To facilitate provision of services to Ellucian customers, Ellucian may provide EEA or Swiss Data to third-party software and services companies whose products interact with Ellucian products and services in certain instances where an Ellucian customer is also a client of such third-party.
 
 
 
-We enter into written contracts with any unaffiliated third-party data controllers requiring them to provide the same level of protection for EEA or Swiss Data that the Privacy Shield requires. We also limit their use of your EEA or Swiss Data so that it is consistent with any consent you have provided and with the notices you have received. If we transfer your EEA or Swiss Data to one of our affiliated entities within our corporate group, we will take steps to ensure that your EEA or Swiss Data is protected with the same level of protection that the Privacy Shield requires.
+We enter into written contracts with any unaffiliated third-party data controllers requiring them to provide the same level of protection for EEA or Swiss Data that the Privacy Shield requires. We also limit their use of your EEA or Swiss Data so that it is consistent with any consent you have provided and with the notices you have received. If we transfer your EEA or Swiss Data to one of our affiliated entities within our corporate group, we will take steps to ensure that your EEA or Swiss Data is protected with the same level of protection that the Privacy Shield requires. 
 
 ### Enforcement
 
-Ellucian will conduct periodic (no less frequently than annually) self-assessments of its relevant practices to verify adherence to this Privacy Statement and the Privacy Shield Principles. Any data subject in the EEA or Switzerland with a complaint concerning Ellucian’s processing of Personal Data may contact Ellucian’s data protection officer at [privacy@ellucian.com](mailto:privacy@ellucian.com "privacy@ellucian.com").
+Ellucian will conduct periodic (no less frequently than annually) self-assessments of its relevant practices to verify adherence to this Privacy Statement and the Privacy Shield Principles. Any data subject in the EEA or Switzerland with a complaint concerning Ellucian’s processing of Personal Data may contact Ellucian’s data protection officer at [privacy@ellucian.com](mailto:privacy@ellucian.com "privacy@ellucian.com").
 
-For purposes of enforcing compliance with the Privacy Shield, Ellucian is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. For more information about the Privacy Shield, see the U.S. Department of Commerce's Privacy Shield website located at [https://www.privacyshield.gov](https://www.privacyshield.gov/ "Privacy Shield"). To review Ellucian's Privacy Shield certification, see the U.S. Department of Commerce's list of Privacy Shield certified companies located at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/participant?id=a2zt0000000TN8GAAW&status=Active "Privacy Shield Listing").
+For purposes of enforcing compliance with the Privacy Shield, Ellucian is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. For more information about the Privacy Shield, see the U.S. Department of Commerce's Privacy Shield website located at [https://www.privacyshield.gov](https://www.privacyshield.gov/ "Privacy Shield"). To review Ellucian's Privacy Shield certification, see the U.S. Department of Commerce's list of Privacy Shield certified companies located at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/participant?id=a2zt0000000TN8GAAW&status=Active "Privacy Shield Listing").
 
 ### Questions or Complaints
 
