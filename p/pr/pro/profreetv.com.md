@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profreetv.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103134028id_/http%3A//www.profreetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profreetv.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517125343id_/http%3A//www.profreetv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Online TV - Live TV - Free Online TV
 
