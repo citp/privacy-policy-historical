@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the greatplacetowork.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909113903id_/https%3A//www.greatplacetowork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatplacetowork.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517163938id_/https%3A//www.greatplacetowork.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Policy - Great Place To Work United States
 
 ### GREAT PLACE TO WORK® INSTITUTE, INC.  
 GLOBAL PRIVACY POLICY
 
-##### Updated May, 2018
+##### Updated March, 2019
 
-Great Place To Work Institute Inc. (GPTW) and its licensed affiliates (collectively, "GPTW Network") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
+Great Place To Work Institute Inc. (GPTW) and its licensed affiliates (collectively, "GPTW Network") respect your privacy. This Global Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
-#### Information Collected
+### Information Collected
 
 GPTW collects information from you when you choose to share it with us through or in connection with, but not limited to, our websites, events, conferences, client engagements, survey and assessment tools, workplace accreditations, and business development activities. For example, when you share your personal information with us to submit an inquiry through our websites, sign-up for our e-mail lists or newsletters, register for an event or conference, apply for one of our Best Companies to Work For lists, receive information about our events, products and services, and/or contact you regarding a potential or actual future, existing or current project or engagement. The information we collect may include name, address, telephone number, mobile telephone number, e-mail address, company name, job function, company industry, company size, nature of your inquiry, the types of information you want to receive, event information, dietary restrictions and meal preferences, and if you make a purchase, credit/debit card number or other financial information.
 
-GPTW may use cookies, web beacons, pixel tags, log files, or other technologies to collect certain information about visitors to and users of our websites to monitor interactions with our emails, text messages and online advertisements. For example, we may automatically collect certain information from you, such as the type of web browser and operating system you use, the name of your Internet Service Provider, Internet Protocol (“IP”) address, software version, course geo-location information (for example, based on IP address or location of cellular tower used for the connection), and/or the domain name from which you accessed our websites. In addition, we may collect information about your browsing behavior, such as the date and time you visit our sites, the areas or pages of our sites that you visit, the amount of time you spend viewing or using our websites, the number of times you return to our websites, other click-stream or website usage data, and/or emails or ads that you open, forward or click-through to our websites.
+Websites. GPTW may use cookies, web beacons, pixel tags, log files, or other technologies to collect certain information about visitors to and users of our websites to monitor interactions with our emails, text messages and online advertisements. For example, we may automatically collect certain information from you, such as the type of web browser and operating system you use, the name of your Internet Service Provider, Internet Protocol (“IP”) address, software version, course geo-location information (for example, based on IP address or location of cellular tower used for the connection), and/or the domain name from which you accessed our websites. In addition, we may collect information about your browsing behavior, such as the date and time you visit our sites, the areas or pages of our sites that you visit, the amount of time you spend viewing or using our websites, the number of times you return to our websites, other click-stream or website usage data, and/or emails or ads that you open, forward or click-through to our websites.
 
 You can set your Internet browser or operating system settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, to omit images (which will disable pixel tags) or adjust your tracking preferences. Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Without cookies or pixel tags though, you may not be able to take full advantage of our sites’ features. Check the “Tools” or “Help” tab on your browser to learn how to change your cookie and other tracking preferences.
 
 Our website may host various blogs, forums, wikis, and other social media applications or services that allow you to share content with other users (collectively “Social Media Applications”). Any personal information or other information that you contribute to any Social Media Application can be read, collected, and used by other users of that Social Media Application over whom we have little or no control. Therefore, we are not responsible for any other user’s use, misuse, or misappropriation of any personal information or other information that you contribute to any Social Media Application.
 
-#### Purposes Of Processing Your Personal Information And Potential Uses
+### Purposes of Processing Your Personal Information And Potential Uses
 
 GPTW processes your information for the following purposes or may use you information in the following ways:
 
@@ -54,7 +54,7 @@ GPTW complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Priva
 
 In compliance with the Privacy Shield Principles, GPTW commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquires or complaint regarding our Privacy Shield policy should first contact GPTW at: [privacy@greatplacetowork.com](mailto:privacy@greatplacetowork.com); or write to us at:
 
-_Global Privacy Officer_
+_Chief Data Protection Officer_
 
 _Great Place To Work® Institute, Inc._
 
@@ -118,11 +118,27 @@ GPTW also provides links to the websites of other affiliates within the GPTW Net
 
 Check this Global Privacy Policy from time to time, as we may change or update portions of this statement at any time and without prior notice to you. If we change or update this statement in a material way, we will process personal information received under this Global Privacy Policy according to the terms of this Global Privacy Policy, unless you consent otherwise.
 
+#### Relevant Links
+
+[External Security Policy](https://web.archive.org/gptw-external-security-policy)
+
+[Policy Explanation](https://web.archive.org/policy-explanation)
+
+[BRAND IDENTITY POLICY](https://web.archive.org/brand-identity-policy)
+
+[CERTIFICATION AND BEST WORKPLACES LISTS TERMS](https://web.archive.org/certification-and-best-workplaces-lists-terms)
+
+[INTELLECTUAL PROPERTY USAGE POLICY](https://web.archive.org/intellectual-property-usage-policy)
+
+[product and services agreement](https://web.archive.org/products-and-services-agreement)
+
+[Material Consent Form](http://%20www.greatplacetowork.com/images/GPTW-Material-Consent-Form.doc.) (downloadable)
+
 #### How To Contact Us
 
 If you have any questions or comments about this Global Privacy Notice, GPTW's privacy practices or if you would like us to update information or preferences you provided to us, please e-mail us at: [privacy@greatplacetowork.com](mailto:privacy@greatplacetowork.com); or write to us at:
 
-_Global Privacy Officer_
+_Chief Data Protection Officor_
 
 _Great Place To Work® Institute, Inc._
 
