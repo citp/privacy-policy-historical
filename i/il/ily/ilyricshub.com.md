@@ -1,86 +1,139 @@
-> *The following text is extracted and transformed from the ilyricshub.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228064713id_/https%3A//www.ilyricshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilyricshub.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517210507id_/https%3A//www.ilyricshub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | iLyricsHub
 
-[Privacy Policy](http://www.ilyricshub.com/privacy-policy/)  
-This privacy policy has been compiled to better serve those who are concerned withhow their ‘Personally identifiable information’ (PII) is being used online.PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact,or locate a single person,or to identify an individual in context.Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect orotherwise handle your Personally Identifiable Information in accordance with our website.
+iLyricsHub (“us”, “we”, or “our”) operates the https://www.ilyricshub.com/ website (the “Service”).
 
- **What personal information do we collect from the people that visit our blog, website or app?**  
-We do not collect information from visitors of our site.  
-or other details to help you with your experience.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
- **When do we collect information?**  
-We collect information from you when you or enter information on our site.  
-Provide us with feedback on our products or services In Comments Only
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.ilyricshub.com/
 
- **How do we use your information?**  
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+## Information Collection And Use
 
-  * To ask for ratings and reviews of services or products
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
+### Types of Data Collected
 
+#### Personal Data
 
- **How do we protect visitor information?**  
-We do not use vulnerability scanning and/or scanning to PCI standards.We only provide articles and information. We never ask for credit card numbers.We use regular Malware Scanning.We do not use an SSL certificate
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-  * We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
-
-
-
- **Do we use ‘cookies’?**  
-We do not use cookies for tracking purposes  
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.  
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.  
-However, you can still place orders .  
-**Third-party disclosure**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
-
- **Third-party links**  
-We do not include or offer third-party products or services on our website.  
-**Google**  
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
-
- **California Online Privacy Protection Act**  
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
- **According to CalOPPA we agree to the following:**  
-Users can visit our site anonymously.Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.  
-Users will be notified of any privacy policy changes:
-
-  * On our Privacy Policy Page
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
 
 
 
-Users are able to change their personal information:
+#### Usage Data
 
-  * By emailing us
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
+#### Tracking & Cookies Data
 
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
- **How does our site handle do not track signals?**  
-We don’t honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don’t honor them because:
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
- **Does our site allow third-party behavioral tracking?**  
-It’s also important to note that we do not allow third-party behavioral tracking
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
- **COPPA (Children Online Privacy Protection Act**  
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.  
-We do not specifically market to children under 13.  
-**Fair Information Practices**  
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
-We will notify the users via in-site notification
+Examples of Cookies we use:
 
-  * Within 1 business day
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
 
 
-We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+## Use of Data
 
- **CAN SPAM Act**  
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
-**We collect your email address in order to:**  
-**To be in accordance with CANSPAM we agree to the following:**  
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at**  
-and we will promptly remove you from  **ALL**  correspondence.
+iLyricsHub uses the collected data for various purposes:
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
+
+
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside India and choose to provide information to us, please note that we transfer the data, including Personal Data, to India and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+iLyricsHub will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+iLyricsHub may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of iLyricsHub
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  *  **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: cs@ilyricshub.com
+  * By visiting this page on our website: https://www.ilyricshub.com/contact-us/
+
+
