@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109164010id_/https%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518015712id_/https%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Disclosures - Sunny Sweet Days
+# Privacy Policy and Disclosures » Sunny Sweet Days
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Sunny Sweet Days. This Privacy Policy applies to information we collect when you use “Services”, or when you otherwise interact with us.
 
