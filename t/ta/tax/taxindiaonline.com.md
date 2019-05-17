@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxindiaonline.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815210109id_/http%3A//taxindiaonline.com/RC2/inside2.php3%3Ffilename%3Dolinks/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxindiaonline.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517103455id_/http%3A//taxindiaonline.com/RC2/inside2.php3%3Ffilename%3Dolinks/privacy.htm) for the most accurate reproduction.*
 
 # TIOL - Tax News, GST, Income Tax, Service Tax, Customs, Central Excise, International Taxation, Fiscal Policy, Monetary Policy, Economy, Revenue, Judicial Decisions, Tax Rulings & Tax Video
 
