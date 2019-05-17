@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117201822id_/https%3A//www.battlefields.org/about/accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517035600id_/https%3A//www.battlefields.org/about/accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Battlefield Trust
 
 ## American Battlefield Trust’s Privacy Policy
 
-Last updated: September, 2018
+Last updated: February, 2019
 
 This Privacy Policy describes how American Battlefield Trust ("American Battlefield Trust," "we" or "us") may collect, use and share information about you. This policy applies to information we collect when you use our websites, software and mobile applications, communicate with us through other information and distribution channels (collectively, “channels”), or otherwise interact with us. 
 
@@ -41,7 +41,7 @@ In addition, we automatically collect certain information when you access or use
 
 ## How We Use Information
 
-We use information about you for various purposes, including to:
+We use information about you, the Customer, for various purposes, including to:
 
   * Provide the services you request, process transactions and send you related information, including confirmations and receipts;
   * Respond to your comments, questions and requests;
@@ -67,6 +67,12 @@ We may share information:
 We emphasize that the American Battlefield Trust will not provide any of your personal information to other organizations when you inform us that you have elected to opt out.  Opt Out Procedures are described below.
 
 You may update, correct or delete your account information at any time by contacting us as described below.  Note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+Website visitors who don’t want their visit data reported by Google Analytics can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript running on Bedsider (and other websites) to prohibit sending visit information to Google Analytics. Additionally, visitors that have installed the opt-out browser add-on are not exposed to [Content Experiments](https://support.google.com/analytics/answer/1745147).
+
+If you want to opt-out of Analytics for the web, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser. For more details on installing and uninstalling the add-on, please see the relevant help resources for your specific browser.
+
+The Google Analytics opt-out browser add-on does not prevent data from being sent to the website itself or in other ways to web analytics services.
 
 ## Opt Out Policy
 
@@ -102,7 +108,7 @@ While the American Battlefield Trust is highly selective about which sites we pr
 
 In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser. These cookies do not collect personally identifiable information. Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website.
 
-For EU individuals, essential cookies also help inform Company whether you require, or have already been served, an affirmative consent request in connection with the GDPR. Essential cookies include analytics cookies, which provide us data that allows Company to better understand its users and improve the Site based on what we have learned from that data.
+For EU individuals, essential cookies also help inform the Trust whether you require, or have already been served, an affirmative consent request in connection with the GDPR. Essential cookies include analytics cookies, which provide us data that allows the Trust to better understand its users and improve the website based on what we have learned from that data.
 
 Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of some areas of our website. 
 
@@ -110,7 +116,7 @@ Please note that if you choose to remove or reject cookies, this could affect th
 
 Our operations are conducted within the United States. If you access our websites from outside the United States, your connection may be through and to servers located in your country or the United States. Any personal information you provide may be processed and maintained in the United States on servers and/or other network systems operated by or for American Battlefield Trust’s benefit. The following explains our collection and processing policies with respect to the personal data of EU residents.
 
-Our legal ground for processing: For every specific processing of personal data we collect from you, to the extent, not expressly detailed in our Privacy Policy, we will inform you whether the provision of personal data is statutory or required to enter a contract and whether it is an obligation for you to provide the personal data and possible consequences if you choose not to.: As outlined in this Privacy Policy, we will not process your user information without a lawful basis to do so, as such bases are defined in Article 6 of the GDPR. In general, we will process your user information on the legal bases of consent, contract (if you have entered into an agreement with us and such processing is a necessary part thereof), or legal obligation. We may also process certain user information on the basis of the following legitimate interests, provided that such interests are not overridden by your privacy rights and interests: delivering and continuing to develop and improve the website and other channels, learning from your behavior on the website and other channels (e.g., analyzing traffic) to better serve you and other visitor, helping us modify or enhance the websites and other channels and their content, receiving insight as to what users do (and don't) like about our website and other channels or aspects thereof, and providing a stable, consistent, and secure user experience.Where applicable, we will use standard contractual clauses as a safeguard for transferring your user information.
+Our legal ground for processing: For every specific processing of personal data we collect from you, to the extent, not expressly detailed in our Privacy Policy, we will inform you whether the provision of personal data is statutory or required to enter a contract and whether it is an obligation for you to provide the personal data and possible consequences if you choose not to. As outlined in this Privacy Policy, we will not process your user information without a lawful basis to do so, as such bases are defined in Article 6 of the GDPR. In general, we will process your user information on the legal bases of consent, contract (if you have entered into an agreement with us and such processing is a necessary part thereof), or legal obligation. We may also process certain user information on the basis of the following legitimate interests, provided that such interests are not overridden by your privacy rights and interests: delivering and continuing to develop and improve the website and other channels, learning from your behavior on the website and other channels (e.g., analyzing traffic) to better serve you and other visitor, helping us modify or enhance the websites and other channels and their content, receiving insight as to what users do (and don't) like about our website and other channels or aspects thereof, and providing a stable, consistent, and secure user experience.Where applicable, we will use standard contractual clauses as a safeguard for transferring your user information.
 
 Your Rights:
 
@@ -122,22 +128,21 @@ Right to rectification: You have the right to request rectification of your pers
 
 Right to erasure: You have the right to erase any personal data processed by us at any time except for the following situations:
 
-  * you have an ongoing customer service matter with.
-  * you have an open order which has not yet been shipped or partially shipped
-  * you have an unsettled debt with us, regardless of the payment method
-  * if you are suspected or have misused our services within the last four years
-  * your debt has been sold to a third party within the last three years or one year for deceased customers
-  * your credit application has been rejected within the last three months
-  * if you have made any purchase, we will keep your personal data in connection to your transaction for bookkeeping rules
+  * you have an ongoing customer service matter with the Trust.
+  * you have an open order which has not yet been shipped or partially shipped.
+  * you have an unsettled debt with us, regardless of the payment method.
+  * if you are suspected or have misused our services within the last four years.
+  * your debt has been sold to a third party within the last three years or one year for deceased customers.
+  * if you have made any purchase, we will keep your personal data in connection to your transaction for bookkeeping rules.
 
 
 
 Your right to object to processing based on legitimate interest: You have the right to object to processing of your personal data that you believe is not based on our legitimate interest. We will suspend processing of the personal data unless we can demonstrate a legitimate ground for the process which overrides your interest and rights or due to legal claims.
 
-Your right to object to direct marketing: You have the right to object to direct marketing, including profiling analysis made for direct marketing purposes. You can opt out from direct marketing by the following means:
+Your right to object to direct marketing, for example, direct mail pieces and email: You have the right to object to direct marketing, including profiling analysis made for direct marketing purposes. You can opt out from direct marketing by the following means:
 
-  * following the instruction in each marketing mails
-  * by editing the settings of your account
+  * following the instruction in each marketing mails.
+  * by editing the settings of your account.
 
 
 
@@ -150,9 +155,9 @@ Right to restriction: You have the right to request that we restrict the process
 
 
 
-How can you exercise your rights?: We take data protection very seriously and therefore we have dedicated customer service personnel who handle your requests in relation to your rights stated above. You can reach them by email at: [web@battlefields.org](mailto:web@battlefields.org).
+How can you exercise your rights? We take data protection very seriously and therefore we have dedicated customer service personnel who handle your requests in relation to your rights stated above. You can reach them by email at: [web@battlefields.org](mailto:web@battlefields.org).
 
-Right to complain with a supervisory Authority: If you believe we are processing your personal data in an incorrect way you can contact us. You also have the right to turn in a complaint to a supervisory authority.
+Right to complain to a supervisory authority: If you believe we are processing your personal data in an incorrect way you can contact us. You also have the right to turn in a complaint to a supervisory authority.
 
 ## California Residents
 
