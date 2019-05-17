@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costume-works.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052031id_/http%3A//www.costume-works.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costume-works.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517074951id_/http%3A//www.costume-works.com/privacy.html) for the most accurate reproduction.*
 
 # Costume Works Privacy Policy
 
