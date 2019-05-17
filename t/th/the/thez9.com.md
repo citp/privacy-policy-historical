@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thez9.com privacy policy that was archived on 2017-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170811212035id_/https%3A//thez9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thez9.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518001857id_/https%3A//thez9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheZ9
 
 **Privacy Policy for TheZ9.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](http://itsgr9.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](https://thez9.com/contact-us/).
 
 At TheZ9.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by TheZ9.com and how it is used.
 
