@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aman.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223044007id_/https%3A//www.aman.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aman.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517041946id_/https%3A//www.aman.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Aman
 
