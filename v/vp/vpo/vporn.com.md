@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127223321id_/https%3A//www.vporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517160059id_/https%3A//www.vporn.com/privacy) for the most accurate reproduction.*
 
-# Vporn - Privacy Policy
+# Privacy Policy — vPorn
 
-Updated as of March 29, 2012
+Updated as of May 25, 2018
 
 Pursuant to our [Terms of Use](https://web.archive.org/terms), this document describes how we treat personal information related to your use of vPorn ®, including information you provide when using it.
 
