@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cymatics.fm privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005223108id_/https%3A//cymatics.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymatics.fm privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518025312id_/https%3A//cymatics.fm/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cymatics
-
-**Cymatics Privacy Policy**
+# Privacy Policy – Cymatics.fm
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -59,7 +57,7 @@ We do not include or offer third party products or services on our website.
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. [Link to Google Adwords Policy](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. [Link to Google Adwords Policy](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
 
 We use Google AdSense Advertising on our website.
 
@@ -75,7 +73,7 @@ Users can set preferences for how Google advertises to you using the Google Ad S
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more [here.](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more [here.](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
 
 _According to CalOPPA we agree to the following:_  
 • Users can visit our site anonymously  
@@ -101,7 +99,7 @@ We do not specifically market to children under 13.
 **Fair Information Practices**
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
-_  
+ _  
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:_  
 • We will notify the users via email within 7 business days  
 • We will notify the users via in site notification within 7 business days
@@ -114,7 +112,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 _To be in accordance with CAN-SPAM we agree to the following:_
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at support@cymatics.fm and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at support@cymatics.fm and we will promptly remove you from ALL correspondence.
 
 **Contacting Us**
 
@@ -127,5 +125,3 @@ Cymatics.fm
 Kennesaw, Georgia 30144  
 United States  
 teamcymatics@gmail.com
-
-Last Edited on 2016-10-04
