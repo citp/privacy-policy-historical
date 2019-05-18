@@ -1,121 +1,207 @@
-> *The following text is extracted and transformed from the workingnotworking.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406134037id_/https%3A//workingnotworking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingnotworking.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518084944id_/https%3A//help.workingnotworking.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Working Not Working | Privacy Policy
+# Privacy Policy | Working Not Working Help Center
 
-**Privacy Policy**  
-**Working Not Working, LLC**
+**Updated April 22, 2019**
 
-_(Last updated: April 29, 2014   06:50PM ET)_
+This Privacy Policy tells you how Working Not Working (“WNW,” “us,” “we,” or  “our”) collects and uses your personal information, including when you visit our website  <https://workingnotworking.com/> (“Website”).  By using our Website and its services and its applications, software, scripts, and any related documentation (this information and Website collectively, the "Services"), you consent and agree to the terms of this Privacy Policy.
 
-  
-**Acceptance**
+This Privacy Policy is governed by our [Terms of Use,](https://help.workingnotworking.com/policies/terms-of-use) which is also available on our Website. By using our Website and the services therein, you consent to the terms of this Privacy Policy and our Terms of Use.  We reserve the right to change this Privacy Policy at any time. Please check here periodically for the most recent information. 
 
-  
-This site is operated by Working Not Working, LLC (“Working Not Working”, “we” or “us”). Working Not Working is committed to protecting your privacy.  Please read this Privacy Policy and accompanying [Terms of Use](http://support.workingnotworking.com/customer/portal/articles/330135-terms-of-use) carefully.  By submitting information, creating an account (an “Account”), utilizing our services (the “Services”) or otherwise accessing or using the Working Not Working website (the “Website”), you acknowledge that you have read, accepted and consented to be bound by the practices and policies outlined herein.  Our Privacy Policy is subject to change at any time.  We will post any changes here, and any changes will become effective immediately upon being posted.  Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.  It is your responsibility to check periodically for any changes we may make to this Privacy Policy and the [Terms of Use](http://support.workingnotworking.com/customer/portal/articles/330135-terms-of-use). Your continued use of the Website following the posting of any changes constitutes your unconditional acceptance of any such changes.
+This Privacy Policy does not apply to any information that you may provide to third parties, for example, other websites that are linked to this Services.  If you access our Website from a third party website (“Third-Party Website”), you may be required to also read and accept the terms of use and privacy policy of that Third-Party Website.  We are not responsible for the privacy and security practices of those websites and you should contact such third parties directly to determine their respective privacy policies.
 
-**What is Covered in This Privacy Policy?**
+I. INFORMATION WE COLLECT ABOUT YOU
 
-  
-This Privacy Policy covers the treatment of personally identifiable information (together with “Submitted Information” (as defined herein), the “Personal Information”) that Working Not Working gathers when you access the Website and when you use the Services or register for an Account. Furthermore, this Privacy Policy covers the treatment of any Personal Information that Working Not Working shares with its business partners. This Privacy Policy does not apply to the practices of entities that Working Not Working does not own or control, nor to individuals that Working Not Working does not employ or manage.
+To operate our Website and provide you with access to certain services, we may collect the following types of information: (A) Information You Give Us and (B) Information We Automatically Collect, and (C) Information We May Receive from Third Parties.  All of the information listed in (A)-(C) above, are detailed below, and hereinafter referred to as “Information.”
 
-**What Personal Information is Collected by Working Not Working?**
+     A. Information You Give Us 
 
-The types of Personal Information collected include, without limitation, your full name, address, phone number, website URL, e-mail address, blog or other personal website URL, your nickname or screen name, and any other information that would allow Working Not Working to identify you or contact you if needed.  We also may collect information you provide us when signing up for an Account and/or the Services, and information you provide when you contact us online (i.e., by providing feedback, support queries, sales questions, etc.) or offline (i.e., phone or mail).
+WNW collects certain information directly from you when you visit or otherwise interact with our Website or use our Services.
 
-The Personal Information you provide may be used:
+Creatives or Hirers: When you register with WNW as a Creative or as a Hirer, you may  
+provide certain personal Information to us, including, but not limited to: your name, your email address, telephone number, your address, payment details used to process your requested services, and account information and log in credentials, including unique identifiers such as username and password. Additionally, when you establish your profile as a Creative or Hirer you may provide Information relating to the following: your experience, educational background, tax identification number, your desired rate of compensation, work availability, photos and/or samples of work projects, your geographic location or desired location(s), or any other information you may provide to us.
 
-  
-to provide you with requested information, content or the Services;
+WNW Shop: You may provide your Information to us if you purchase products in our WNW Shop, including, without limitation: your name, telephone number, email address, shipping and billing address, and payment details such as debit or credit information. 
 
-  
-to notify you about new product and service offerings;
+     B. Information We Automatically Collect 
 
-  
-to enforce the [Terms of Use](http://support.workingnotworking.com/customer/portal/articles/330135-terms-of-use) of this Website and to address any problems or concerns we have regarding your use of the Website;
+We, our affiliates, subsidiaries, Partners (for purposes of this Privacy Policy only, “Partner” shall mean any person or entity with whom we enter into any kind of business transaction who is under an obligation to us to use reasonable care to keep Information confidential), and Third-Party Service Providers may use a variety of technologies that automatically collect Information about you or your activities on our Website or Services.  
 
-  
-to provide attribution to comments you post; and
+Information that we may collect indirectly from your visit to our Website or Services include:
 
-  
-for internal purposes, such as system administration, marketing analysis, and to better operate the Website and deliver the Services.
+  * IP address;
+  * Your geographic location;
+  * Domain server;
+  * Type of computer, web browsers, operating system, or platform you use or web browser;
+  * Data identifying the web pages you visited prior to and after visiting our Website; and/or
+  * Your movement and activity within the Website.
 
-  
-In addition, we may ask you to provide certain other information such as general demographic information, including, without limitation, age, gender, ZIP code, preferences and interests. The information we gather from our users enables us to personalize and improve the Services.
 
-**Information Collected Automatically**  
 
-  
-Working Not Working may receive and store certain types of information whenever you use the Website and/or the Services. We may choose to automatically receive and record information on our server logs from your browser including your IP address, “cookies”, and the page you requested.  We use “cookies” to store session information, for keeping your login/password information live (if you so choose) for your account, to limit multiple responses and registrations, to enhance website navigation, and to track and analyze usage patterns on the Website.  Cookies are small text files a website uses to recognize repeat users, which are typically placed on your hard disk by a web page server.  Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. The way cookies function is by assigning a number to the user that has no meaning outside of the assigning website.  Working Not Working cannot control the use of cookies (or the resulting information) by our third-party partners or advertisers.  Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to sign in or use other interactive features of the Website and the Service that depend on cookies.
+       1\. Cookies & Other Tracking Technologies Used to Collect Information About You: 
 
-**Information from Social Networking Websites**
+**Cookies** – Cookies are small files (“cookies”) stored on your web browser upon visiting certain websites, including our Website or Services. Cookies help keep your settings, log-ins and other customizations when you return to the particular website. They also help with overall website functionality. The WNW Services uses three types of cookies: (1) session, (2) persistent cookies and (3) third-party cookies.
 
-By registering for an Account, you may have the option to sign in using third party social networking websites (collectively, the “Social Networks”), such as Twitter, Facebook and LinkedIn.  If you choose to sign in through these Social Networks, we use the information you have already provided to such Social Networks in registering for an account with such Social Networks and which you have allowed such Social Networks to share with us, including, but not limited to, your first name, your user profile picture, your friends and contacts list, and the networks to which you belong (collectively, your “Submitted Information”).
+ \- Third-Party Service Providers with whom we contract may also use their own third-party cookies. The use of these technologies by such third parties is subject to their own privacy policies and is not covered by this Privacy Policy, except as required by law.
 
-You expressly authorize us to collect and use your Submitted Information in connection with your use of the Services. You further acknowledge and agree that Working Not Working may, but is not obligated to, maintain copies of your Submitted Information indefinitely, or delete any or all Submitted Information, at our sole discretion.
+**WNW does not use “tracking” cookies** , which follow users’ online activity between unrelated websites. WNW does work with a variety of Third-Party Websites that may use tracking cookies and other technologies that may track your activity and collect information across websites.
 
-It is your responsibility to carefully read and accept the terms of use and privacy policies of each of the Social Networks prior to signing into your Account through such Social Networks.
+  * Most web browsers automatically accept cookies, unless you have configured yours not to accept them. You can program your browser not to accept cookies, but if you do, you may not be able to use certain portions of the Website and the Website will not be able to customize certain functions according to your preferences. 
+  * For more information about third party cookies and related advertising and how to opt-out of these practices with companies participating in industry self-regulation, please visit About Ads at <http://optout.aboutads.info/>
 
-**Sharing of Personal Information**
 
-  
-Except as otherwise provided in this Privacy Policy, your Personal Information will be used only by Working Not Working and its controlled subsidiaries and affiliates, and your Personal Information will not be disclosed to any other third party without your consent.  
 
-  
-Working Not Working occasionally hires other companies to provide limited administrative and communication services on our behalf, such as hosting websites, the processing and delivery of mailings, providing customer support, or performing statistical analysis. Those companies will be permitted to obtain only such Personal Information as necessary for them to deliver their services. Those companies are required to maintain the confidentiality of the Personal Information and are prohibited from using it for any other purpose. You hereby consent to our sharing of Personal Information for such purposes.
+**Web Beacons** \- Small graphic images or web programming code called web beacons (also known as “pixel tags” or “clear GIFs”) may be included on the pages of the Website. Web beacons or other similar technologies may be used for a number of purposes, such as to count visitors to the Website, monitor how you navigate the Website or to count how many particular articles or links posted on the Website were actually viewed.  
 
-  
-Working Not Working (or substantially all of its assets) may be acquired by, sold to, consolidated or merged with another entity. In such an event, user information is typically one of the business assets that is transferred. You acknowledge that such transfers may occur, and that such successor entities may continue to use your Personal Information as set forth in this Privacy Policy.
+  * Our Website uses different technologies such as Google Retargeting Pixels and Facebook Retargeting Pixels. Please visit their websites for their privacy policies and consent and opt-out mechanisms, or visit sites that may help block ad tracking, such as [About Ads](http://www.aboutads.info/choices) at <http://optout.aboutads.info/>
 
-  
-Working Not Working may access and/or disclose Personal Information without your prior consent if we have a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of Working Not Working (including the enforcement of our agreements); (iii) enforce the [Terms of Use](http://support.workingnotworking.com/customer/portal/articles/330135-terms-of-use); (iv) operate or conduct maintenance and repair of the Services or equipment as authorized by law; or (v) act in urgent circumstances to protect the personal safety of users of the Services or members of the public.
 
-**Advertisements Displayed by Third Parties**
 
-  
-Working Not Working may allow third-party ad serving companies, including ad networks, to display advertisements on the Website.  Ad serving companies may place a persistent cookie on your computer in order to recognize your computer each time they display an online advertisement to you, and as such, they may be able to compile information over time about whether you reviewed or clicked on advertisements they display. These ad serving companies may use this information to display targeted advertisements and may associate this information with your subsequent visits, purchases or other activities on participating advertisers’ websites. Working Not Working has no access to or control over such websites or ad serving companies, nor does Working Not Working have control over or access to cookies by Working Not Working’s third-party partners or advertisers. This Privacy Policy does not cover any use of Personal Information that a third-party advertiser or ad server may collect from you.
+**Mobile Device Identifiers** \- Certain mobile service providers uniquely identify mobile devices and we, our Partners or our Third-Party Service Providers may receive such device information if you access the Website through a mobile device. Certain features on the Website may require collection of mobile phone numbers and we may associate that phone number to mobile device identification information. Additionally, some mobile service providers operate systems that pinpoint the physical location of devices that use their services. Depending on the provider, we, our Partners or our Third-Party Service Providers may receive this Information. 
 
-**Security and Protection of Personal Information**
+  * You may opt-out of tracking and receiving tailored advertisements on your mobile device by some mobile advertising companies and other similar entities by downloading the App Choices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices).
 
-  
-Working Not Working maintains reasonable standards of security and confidentiality, including limiting access to Personal Information stored in our database. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that data transmissions won’t be unlawfully intercepted or accessed while being transmitted to the Website over the internet.  We make no warranty regarding the security of any information you transmit to us and you do so at your own risk.  
 
-  
-Do not disclose your password or confirmation number (as applicable) to anyone. Whenever you post information about yourself on any website (including the Website), that information could be viewed, collected and used by third parties.  We bear no responsibility for any action or policies of any third-parties who collect any information that you elect to publicly disclose on the Website.
 
-  
-We offer the use of a secure server.  Payment information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  Our payment gateway provider is STRIPE. STRIPE has been audited by a PCI-certified auditor, and is certified to [PCI Service Provider Level 1](http://usa.visa.com/download/merchants/cisp-list-of-pcidss-compliant-service-providers.pdf). This is the most stringent level of certification available.  STRIPE’S Privacy Policy can be found here: [https://stripe.com/privacy](https://stripe.com/privacy).  Please review it prior to submitting any payments.  After a transaction, your private information pertaining to such transaction will not be stored on our servers.
+**Embedded Scripts** \- An embedded script is programming code designed to collect Information about your use of this Website, such as the links you click on. The code is temporarily downloaded to your computer from our web server or a third-party provider, is active only while you are connected to the Website and is deactivated or deleted once you leave the Website.
 
-**Links**
+**Analytics** \- We use two companies to help provide us with information about traffic to our Website. 
 
-  
-You may leave our Website by clicking on certain links on our Website.  These links may take you to third-party online content that is not operated by us and that is beyond our control.  We are not responsible for the content of any third-party websites to which you choose to link.  In addition, these websites have their own privacy policies and practices that may differ from ours, and we encourage you to review the privacy policies of and practices of any such websites prior to use.
+  * **Google Analytics** \- WNW uses Google Analytics for reports and visitor Website usage reports to track and monitor the use of our Website, which it shares with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
-**Opt Out**
 
-  
-You have the ability at any time to access, update or delete your Account.  You should be aware, however, that it is not always possible to completely remove or delete all of your information from our database without some residual data remaining due to backups and other reasons.  Please also keep in mind that any opt-out choices you make will not apply in situations where: (a) you make a specific request for information from us, or (b) we use your Personal Information to send you administrative communications about your Account.
+  * You can opt-out of having your activity on the Website made available to Google Analytics by installing the Google Analytics opt-out browser add-on (<https://tools.google.com/dlpage/gaoptout>) for your web browser. 
+  * The Google Analytics opt-out browser add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. 
+  * For more information on the privacy practices of Google, please visit: <http://www.google.com/intl/en/policies/privacy/>.
+  * **Intercom _-_** WNW uses Intercom, Inc. for website customer support services. Intercom’s privacy statement is here: <https://www.intercom.com/privacy> 
+  * For more information on Intercom's use of cookies, please visit <https://www.intercom.com/terms-and-policies#cookie-policy>. 
+  * Intercom’s services are governed by Intercom’s terms of use which can be found at <https://www.intercom.com/terms-and-policies#terms>.
 
-**California Privacy Rights**
 
-  
-California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding the disclosure of Personal Information to third parties for direct marketing purposes. To make such a request, please send an e-mail with “California Privacy Rights” in the heading to [privacy@workingnotworking.com](mailto:privacy@workingnotworking.com) or write us at:
 
-  
-Working Not Working  
-608 39th Avenue  
-San Francisco, CA 94121
+We may also use the following:
 
-**E-mail Communications**
+  * **Hotjar** – WNW uses Hotjar for analytics reports and visitor website usage information. Hotjar's privacy statement is here: <https://www.hotjar.com/privacy>
+  * **Appcues** \- WNW uses Appcues for welcoming website visitors and helping them navigate around our website. Appcues’ privacy statement is here: <http://www.appcues.com/privacy> 
+  * Stripe – WNW uses Stripe as its credit card processor. Stripe’s privacy statement is here: [https://stripe.com/us/privacy#1](https://stripe.com/en-US/privacy#1) 
 
-  
-Upon registration for events and/or the Services provided by Working Not Working, we may send you periodic e-mails. If you do not wish to receive e-mail from us, please notify us by [e-mail](mailto:unsubscribe@workingnotworking.com), including your full name, e-mail address and the specifics of your request. Working Not Working may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account or regarding any events or Services for which you may have registered.
 
-**Questions or Comments Regarding this Privacy Policy**
 
-  
-Working Not Working welcomes any questions or comments you may have regarding this Privacy Policy, including questions about how we collect, maintain, use, or share your Personal Information. Any such questions or comments should be directed by e-mail to [privacy@workingnotworking.com](mailto:privacy@workingnotworking.com), or by mail to: 
+**Managing Cookies** \- You can change your browser settings at any time so that it will not automatically accept cookies. You may also clear cookies from your browser at any time. Please see our [Cookie Policy](https://help.workingnotworking.com/policies/cookie-policy) here for more information about Cookies.
 
-  
-Working Not Working  
-608 39th Avenue  
-San Francisco, CA 94121
+Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other parties. We do not respond to DNT signals.
+
+     C. Information We May Receive from Third Parties
+
+We may collect additional Information about you from Third-Party Websites, social media platforms, such as, but not limited, to Facebook, Twtter, Instagram, SnapChat ("Social Media Platforms"), and/or services providing publicly available information (e.g., from the U.S. Postal Service) to help us provide services to you, help prevent fraud, and for marketing and advertising purposes.
+
+Information we may access about you, with your consent, may include, but is not limited to, your basic Social Media Platform information, your location data, your list of contacts, friends or followers and certain information about your activities on the Social Media Platform. Please keep in mind that when you provide Information to us on a Third-Party Website or platform (for example, via our applications), the Information you provide may be separately collected by the Third-Party Website or the Social Media Platform.
+
+The Information we collect is covered by this Privacy Policy, and the Information the Third-Party Website or Social Media Platform collects is subject to the Third-Party Website or platform's privacy practices. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your Information.
+
+II. HOW WE USE YOUR INFORMATION
+
+     A. Use and Purpose of Processing Your Information
+
+We use and process your Information above for things that may include, but are not limited to, the following:
+
+  * Process your profile to open an account; 
+  * To respond to your inquiries;
+  * Provide customer services;
+  * Communicate with you via email, text, Social Media Platforms, chat rooms, about information we believe you would be interested in and/or regarding our services, provided that you have not already opted-out of receiving such communications;
+  * Improve our Website or Services and resolve any technical problems;
+  * Provide targeted advertisements and videos and music to you;
+  * Analyze the use of the Services and Information about visitors to understand and improve our service offerings and, in accordance with our sharing policies, discussed below, to produce anonymous or aggregated data and statistics that might help third parties develop their own products and service offerings;
+  * Customize the content you see when you visit the Website, including to develop and provide advertising tailored to your interests;
+  * Comply with our Terms of Use (which is available on our Website);
+  * Comply with any applicable laws and regulations and respond to lawful requests; and/or
+  * For any other purposes disclosed to you at the time we collect your Information or pursuant to your consent.
+
+
+
+     B. Lawful Basis For Processing Your Information
+
+We handle your Information to help further what we believe are our legitimate interests in commercial activities that are not overridden by the interest or fundamental rights and freedoms of the individuals at issue. We also may need to use and disclose your Information to comply with our legal obligations. For example, we may provide your Information to government officials and agencies as required by law, and Partners as part of business operations. When required by law, and in some other cases, we process the Information after obtaining consent from the individual.
+
+     C. How Long We Keep Your Information
+
+We generally keep Information for so long as it may be relevant to the purposes listed above, consistent with any applicable laws and agreements. To dispose of Information, we may anonymize it, delete it, or take other appropriate steps. Data may persist in copies made for backup and business continuity purposes for an additional time.
+
+      D. Sharing Your Information
+
+We may share Information, such as aggregate user statistics, with our Partners and non-affiliated third parties. We may provide data, including Information about you, with our affiliates, subsidiaries and Partners. We may also share your Information as disclosed at the time you provide your Information, as set forth in this Privacy Policy and in the following circumstances:
+
+  * Third-Party Service Providers.  We may share your Information with Third-Party Service Providers that perform certain functions or services on our behalf, including, without limitation: (i) responding to your inquires; (ii) shipping, sending postal mail and emails; (iii) analyzing, updating and correcting Information we receive on the Website; (iv) performing business analysis, data processing and/or quality control; (v) providing marketing assistance, search results and links (including, without limitation, paid listings and links); (vi) processing credit card and debit card payments for our services; (vii) hosting our databases (e.g., Amazon Web Services); (viii) providing you with Information you requested; and (ix) processing and fulfilling orders made through the WNW Shop.  These Third-Party Service Providers are authorized to use your Information only as necessary to provide these services to us.
+
+
+  * Disclosure of Customer Information for Legal and Administrative Reasons.  We may disclose your Information without notice: (i) when required by law or to comply with a court order, subpoena, search warrant or other legal process; (ii) to cooperate in investigations of fraud, intellectual property infringement or any other activity that is illegal or may expose us or you to legal liability; (iii) to comply with legal, regulatory or administrative requirements of governmental authorities (including, without limitation, requests from the governmental agency authorities to view your Information); (iv) to protect and defend the rights, property or safety of us, our subsidiaries and affiliates and any of their officers, directors, employees, attorneys, agents, contractors and partners, and the Website’s users; (v) to enforce or apply the Website’s Terms and Conditions of Use; and (iv) to verify the identity of the Website’s users.
+
+
+  * Business Transfers.  Your Information may be transferred, sold or otherwise conveyed (“Conveyed”) to a third party where we: (i) merge with or are acquired by another business entity; (ii) sell all or substantially all of our assets; (iii) are adjudicated bankrupt or (iv) are liquidated or otherwise reorganize. You consent to any and all such Conveyances of your Information.
+  * Online Postings, Promotions and Surveys:  We allow users to share comments, postings, photos, testimonials, or other information as part of our Website and may also host surveys or run contests or promotions from time to time. If you choose to submit such information to us or participate in the content or promotion, the Information that you submit may be available generally to the public and will not be returned to you unless we receive such a request. Information that you provide in these areas may be read, collected, and used by others who access them.
+
+
+
+Except as provided in this Privacy Policy, we will not sell, trade, or disclose your Information we have collected without your consent.
+
+III. LINKS TO OTHER WEBSITES
+
+While on the Website or Services or when viewing an e-mail or other content provided by us or the Website, you may encounter links to Third-Party Websites that are not owned or controlled by us, such as Facebook, Instagram, Twitter, LinkedIn, Google, Vimeo, YouTube, or Disqus. These Third-Party Websites may set their own cookies, collect data or have their own privacy policies and practices.  We are not responsible for the privacy and security practices of such Third Party Websites and you should contact such third parties directly to determine their respective privacy policies. Links to any other Third Party Websites or content do not constitute or imply an endorsement or recommendation by us of the linked website or content. This Privacy Policy does not apply to any Information that you may provide to other websites linked to this.
+
+IV. INFORMATION PROTECTION
+
+We use industry-standard procedures and safeguards to help safeguard the confidentiality of your Information. However, you should assume that no data transmitted over the Internet can be 100% secure. Therefore, although we believe the measures implemented by us reduce the likelihood of security problems to a level appropriate to the type of data involved, we do not promise or guarantee, and you should not expect, that your Information or private communications will always remain private. We do not guarantee that your Information will not be misused or disclosed to third parties. We will not have any liability for misuse or disclosure of your Information.
+
+If you believe that your username or password to your account profile has been stolen, you are required to notify us so that necessary measures can be taken immediately by contacting [support@workingnotworking.com.](mailto:support@workingnotworking.com) 
+
+V. CONSENT TO TRANSFER
+
+The Website is operated in the United States. If you are located outside of the United States, please be aware that Information we collect will be transferred to and processed in the United States. By using the Website, or providing us with any Information, you consent to this transfer, processing and storage of your Information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. Portions of our site may be supported by a network of computers or cloud-based servers in other jurisdictions. We do not represent that our Website or Services are adequate or available in any particular jurisdiction.
+
+VI. ACCESS AND UPDATING YOUR INFORMATION
+
+If you believe that any Information collected and maintained by us about you is not correct or has changed, please send an e-mail message to [support@workingnotworking.com](mailto:support@workingnotworking.com) explaining the correction or change. We also may provide web pages or other mechanisms through which you can correct or update the Information we have collected and maintained.
+
+In accordance with our routine record keeping, we may delete certain records that contain Information you have submitted through the Website. We are under no obligation to store such Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Information.
+
+If you ask us to delete your Information, we will take best efforts to do so within a reasonable period of time from the date the request is received. Please note that we may need to retain some Information about you in order to satisfy our legal and security obligations. In addition, you should be aware that it is not always possible to completely remove or delete all of your Information from our databases without some residual data because of backups and other reasons.
+
+We provide users with the ability to opt-out of receiving marketing and other communications from us, and to update, supplement, or delete Information we have about them.  
+
+To the extent certain European data protection laws apply and we hold any of your "personal data" as defined in such laws (which may include some or all of your Information as defined in this Privacy Policy), and we hold such personal data in our capacity as a data controller as defined under those laws, you may request that we:
+
+  * Restrict the way that we process and disclose your Information
+  * Transfer your Information to a third party
+  * Revoke your consent for processing of your Information
+  * Provide you with access to your Information 
+  * Remove your Information if no longer necessary for the purposes collected
+  * Prevent the processing of your Information for direct-marketing purposes
+  * Update your Information so it is correct and not out of date
+  * Object to our processing of your Information 
+  * Withdraw the consent you have given us to use your Personal Data
+
+
+
+To make these requests please send an email to [support@workingnotworking.com](mailto:support@workingnotworking.com) or call 1-888-610-6602.  
+
+The requests above will be considered and responded to in the time period stated by applicable law. Note, certain Information may be exempt from such requests. We may require additional information from you to confirm your identity in responding to such requests. You have the right to lodge a complaint with the authorities applicable to you and your situation, although we invite you to contact us with any concern as we would be happy to try and resolve it directly. Please contact us at [support@workingnotworking.com](mailto:support@workingnotworking.com) or call 1-888-610-6602.  
+
+VII.CHILDREN’S INFORMATION
+
+The Website and Services are only for users who are (a) eighteen (18) years and over or (b) allowed by law to enter into a binding contract and agree for us to process their Information (or provide parental consent by emailing such consent to [support@workingnotworking.com](mailto:support@workingnotworking.com)). If we become aware that a user is under eighteen (18) or is not of legal age in their jurisdiction and does not have the ability to lawfully enter into a contract or agree for us to process their Information, we will take steps to comply with any applicable legal requirement to remove such Information. Contact us at [support@workingnotworking.com](mailto:support@workingnotworking.com) or call 1-888-610-6602 if you believe that we have mistakenly or unintentionally collected Information from a minor that does not comport with the terms of our Privacy Policy and [Terms of Use](https://help.workingnotworking.com/policies/terms-of-use).
+
+VIII.CONSENT
+
+By using the Website or Services you consent to the collection and use of your Information as set forth in this Privacy Policy, including, if applicable, the transfer of your data from your jurisdiction to the United States and use of your Information as set forth herein. If you withdraw consent, you agree that despite withdrawal we may continue to use your Information previously provided to us to the extent that we are legally or contractually obligated to do so and to the extent necessary to enforce any contractual obligations you may have to us. You also understand that in withdrawing consent, we may no longer be able to provide you with services previously available with consent.
+
+IX. NOTICE TO CALIFORNIA RESIDENTS
+
+If you are a California resident, California Civil Code Section 1798.83 (“Shine the Light Law”) permits you to request information regarding the disclosure of your Information by us to third parties for the third parties’ direct marketing purposes.  To obtain this information, please contact us as detailed in the “Questions” section below, with “Request for California Privacy Information” in the subject line of the email or, if sent by postal mail, in the body of your message.  Please be aware that not all information sharing is covered by the Shine the Light Law requirements and only information on covered sharing will be included in our response.  
+
+X. CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to change, modify or amend this Privacy Policy at any time to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the “Effective Date” and such changes will be effective upon posting. It is your obligation to check our current Privacy Policy for any changes. Any revised Privacy Policy will only apply prospectively to Information collected or modified after the Effective Date of the revised policy.  Your access to or use of the Website or Services following any changes to this Privacy Policy will constitute your acceptance of such changes.
+
+X. QUESTIONS
+
+If you have any questions about this Privacy Policy, or updates to the Information we have of you, please send us an email at [support@workingnotworking.com](mailto:support@workingnotworking.com) or call 1-888-610-6602.  
