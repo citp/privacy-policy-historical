@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txteagle.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116164753id_/https%3A//www.jana.com/privacy%3FhsLang%3Den-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txteagle.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518145349id_/https%3A//www.jana.com/privacy%3FhsLang%3Den-us) for the most accurate reproduction.*
 
 # Jana | Privacy Policy
 
