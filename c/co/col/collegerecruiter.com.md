@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005191722id_/https%3A//www.collegerecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518122932id_/https%3A//www.collegerecruiter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Entry Level Jobs | Internships for Students | College Recruiter
 
