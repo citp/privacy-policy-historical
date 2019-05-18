@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ma.edu privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116144954id_/http%3A//www.westfield.ma.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ma.edu privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518145339id_/http%3A//www.westfield.ma.edu/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Westfield State University
 
