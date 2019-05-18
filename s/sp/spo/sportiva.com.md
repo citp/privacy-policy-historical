@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sportiva.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105042858id_/https%3A//www.sportiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportiva.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519004243id_/https%3A//www.sportiva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Please also see our [Terms and Conditions](https://www.sportiva.com/terms-and-conditions)
 
 **What information do we collect?**
 
@@ -68,7 +70,7 @@ This policy was last modified on 03/29/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.sportiva.com](https://web.archive.org/web/20181105042858id_/https://www.sportiva.com/)
+[www.sportiva.com](https://web.archive.org/web/20190519004243id_/https://www.sportiva.com/)
 
 La Sportiva NA Inc.  
 3850 Frontier Ave - Ste 100  
