@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127122821id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518151949id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.*
 
 # Intently.co - Privacy
 
@@ -64,7 +64,7 @@ When we provide services, we want to make them easy, useful and reliable. Where 
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Declining cookies will prevent you from taking full advantage of our service. 
 
-Note that we also use a few third party tools to monitor the use of our system. These tools are Google Analytics, HEAP Analytics, and Mouseflow, and they use cookies in order to work correctly. Our only purpose behind using these tools is to learn more about how our system is used. Please read their privay policies to understand what they do with your personal data and how you can opt out if necessary. 
+Note that we also use a few third party tools to monitor the use of our system. These tools are Google Analytics, HEAP Analytics, Trustpilot and Mouseflow, and they use cookies in order to work correctly. Our only purpose behind using these tools is to learn more about how our system is used. Please read their privay policies to understand what they do with your personal data and how you can opt out if necessary. 
 
 ### Links to other websites
 
@@ -72,7 +72,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Freedom of information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at neil.harris@intently.co. If you believe that any information we are holding on you is incorrect or incomplete, please contact us at neil.harris@intently.co. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at support@intently.co. If you believe that any information we are holding on you is incorrect or incomplete, please contact us at support@intently.co. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
 
 ### Withdrawing consent
 
