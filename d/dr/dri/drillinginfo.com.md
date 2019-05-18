@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drillinginfo.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910225746id_/https%3A//info.drillinginfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drillinginfo.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518081320id_/https%3A//info.drillinginfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**The information below provides detail on** **Drillinginfo’s (or ‘we’ as mentioned regularly in this document) online privacy practices. This includes the type of data we collect, how we collect it, and how we use and share this data with others. This policy applies to all Drillinginfo affiliate companies.**
+**The information below provides detail on** **Drillinginfo’s (or ‘we’ as mentioned regularly in this document) online privacy practices. This includes the type of data we collect, how we collect it, and how we use and share this data with others. This policy applies to all Drillinginfo affiliate companies  ** **and to all Drillinginfo websites and applications, including mobile and browser apps and software (or ‘apps’ as mentioned regularly in this document).**
 
 **We have tried to make this document as clear and as easy to understand as possible and have structured it in a Question & Answers format so that you can quickly access the areas of interest to you.**
 
@@ -111,22 +111,35 @@ The Drillinginfo Privacy Policy, including compliance with the EU-U.S. and Swiss
   * Transform Software and Services, Inc.
   * 1Derrick Ltd
   * 1Derrick, Inc.
+  * MineralSoft, Inc.
+  * TransZap Holdings, Inc.
+  * TransZap, Inc.
+  * TZ Cortex Amalco
+  * Cortex Business Solutions USA, LLC
+  * P360 Management Solutions LLC
+  * Midland Map Company, L.L.C.
 
 
 
 ### Collecting Data
 
-******_What information do we collect_**?
+**_What information do we collect_**?
 
-Drillinginfo and third parties working on our behalf may collect a variety of personal information, depending on your use of our website. Personal information may include, but is not limited to, name, address, e-mail address, phone number, and other contact information.
+Drillinginfo and third parties working on our behalf may collect a variety of personal information, depending on your use of our website and apps. Personal information may include, but is not limited to, name, address, e-mail address, phone number, and other contact information.
 
-In addition, Drillinginfo, third parties working on our behalf, and our partners may collect other information about your use of our website and other websites that does not identify you.
+In addition, Drillinginfo, third parties working on our behalf, and our partners may collect other information about your use of our apps and website and other websites.
 
 **_How do we collect it?_**
 
 Drillinginfo collects information you provide when you express an interest in obtaining additional information about Drillinginfo services, registering for an event or webinar, or downloading any Drillinginfo content.
 
-On our website, Drillinginfo, third parties working on our behalf, and our partners, including social networking sites, may also place, view, and/or use “cookies,” web server logs, web beacons, and other electronic tools to collect statistical information about your use of the Drillinginfo and other websites. We do not and will not share this information with anyone except as may be required by law or as otherwise outlined in this privacy policy.
+On our website and apps, Drillinginfo, third parties working on our behalf, and our partners, including social networking sites, may also place, view, and/or use “cookies,” web server logs, web beacons, and other electronic tools to collect information about your use of the Drillinginfo and other websites.
+
+We collect the content, communications and other information you provide when you use our apps and other products. This can include information in or about the content you provide (like metadata), such as the date a file was created. We also collect information about how you use our apps and other products, such as the features you use and the actions you take.
+
+We also use Google Analytics, a web analysis service provided by Google, and some similar services to better understand your use of our website and apps. Google Analytics collects information such as how often users visit the website, what pages they visit, and what other sites they used prior to visiting. Google uses the data to track and examine the use of the website, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the website to contextualize and personalize the ads of its own advertising network. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://policies.google.com/privacy?hl=en&gl=us). Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
+
+In some of our apps, we create a video recording of some sessions. In parallel with that, a log of app activity is created and uploaded to the server, along with the user id used during the session. Each session is also provided with a rough location (country/district) at the time of use.
 
 **_Can you disable cookies?_**
 
@@ -134,7 +147,7 @@ You can delete and disable cookies. Most browsers are set to accept cookies by d
 
 **_ _** ** _What about children and their personal information?_**
 
-We do not knowingly gather personal information about visitors who are under the age of 13. The Drillinginfo website and all Drillinginfo products are designed to be used only by those over 16. If you are under 13 years of age, then please do not use or access the service at any time or in any manner.
+We do not knowingly gather personal information about visitors who are under the age of 13. The Drillinginfo website and all Drillinginfo apps and products are designed to be used only by those over 16. If you are under 13 years of age, then please do not use or access the service at any time or in any manner.
 
 If we learn that personal information has been collected by us from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the service, then please alert us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
@@ -145,9 +158,11 @@ If we learn that personal information has been collected by us from persons unde
 Drillinginfo may use your information in a number of ways. This might include:
 
   * To provide access to our products, services, and customer support, and to assist with the technical functioning of our site.
-  * To enhance your experience with the Drillinginfo website and other parts of the organization through analyzing the usage trends and preferences of our customers.
+  * To enhance your experience with the Drillinginfo website and apps and other parts of the organization through analyzing the usage trends and preferences of our customers.
   * To communicate with you and provide information about the web site and Drillinginfo services. Generally, you have the ability to opt-out of receiving such promotional communications.
-  * For internal business purposes.
+  * For business purposes, including creating new data sets based on anonymized and aggregated data. Aggregated information is also used to collect and spot trends in application usage. We may disclose information on an anonymized and aggregated basis to third parties, without restriction. Efforts will be made to assure that individual companies will not be recognizable in these aggregate statistics.
+  * Collected information is also used by the development and management team to detect, investigate and fix issues that may arise, and maintain our website and apps.
+  * We also reserve the right to use data where individual people or companies have given explicit permission.
 
 
 
@@ -161,7 +176,7 @@ We may use your email address or other information you provide to contact you fo
 
 **_How long do we keep your data?_**
 
-Drillinginfo will retain your information only as needed to provide you services and perform sales and marketing operations. We will retain and use your information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  Additional information regarding requesting a change or deletion of your information can be found below.
+Drillinginfo will retain your personal information only as needed to provide you services and perform sales and marketing operations. We will retain and use your personal information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  Additional information regarding requesting a change or deletion of your information can be found below.
 
 If you are no longer a Drillinginfo customer and no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
@@ -181,7 +196,7 @@ It’s important to stress, however, that no method of transmission over the Int
 
 **_How can you improve your data security from side?_**
 
-When logging into the Drillinginfo website and specific products, you should take every precaution to protect your own personal information, change your passwords often, use a combination of letters, numbers and symbols, and make sure you use a secure browser.
+When logging into the Drillinginfo website and apps, you should take every precaution to protect your own personal information, change your passwords often, use a combination of letters, numbers and symbols, and make sure you use a secure browser.
 
 ### Sharing Data with Third Parties
 
@@ -193,9 +208,10 @@ We may share certain information, including your personal information, with thir
   * To comply with the law or in response to a subpoena, court order, government request, or other legal process.
   * To produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings.
   * To protect the interests, rights, safety, or property of Drillinginfo or others.
-  * To enforce any terms of service or other legal disclosures on or related to this website.
+  * To enforce any terms of service or other legal disclosures on or related to this website or apps.
   * In connection with a sale or other transfer of all or some of the assets of Drillinginfo and/or in connection with a sale or merger of Drillinginfo or any division of Drillinginfo.
   * To provide you with the services or products requested by you, and to perform other activities for business and marketing purposes related to such services and products.
+  * We may disclose information about our users on an anonymized and aggregated basis to third parties, without restriction. Efforts will be made to assure that individual companies will not be recognizable in these aggregate statistics. We also reserve the right to use data where companies have given explicit permission.
 
 
 
@@ -207,11 +223,11 @@ We cannot offer guarantees, however, as the collection, use, and disclosure of i
 
 **_Do we source data from third parties?_**
 
-Drillinginfo obtains business contact and company information from third party sources, such as business intelligence providers. The information obtained from these third parties is used to support Drillinginfo’s marketing, sales, and business efforts.
+Drillinginfo obtains business contact and company information and other data from third party sources, such as business intelligence providers. The information obtained from these third parties is used to support Drillinginfo’s marketing, sales, and business efforts.
 
 **_What about information posted on blogs and other social media?_**
 
-Our website includes social media links, such as the Facebook, Twitter, and LinkedIn buttons. Please be aware that Drillinginfo is not responsible for the privacy practices of such other sites or third parties. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personal information.
+Our website and apps include social media links, such as Facebook, Twitter, and LinkedIn buttons. Please be aware that Drillinginfo is not responsible for the privacy practices of such other sites or third parties. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personal information.
 
 We also have a dynamic blog which is regularly updated. You should be aware that any information or comments you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blogs, contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
@@ -223,7 +239,7 @@ Drillinginfo’s service is hosted in the United States and the United Kingdom. 
 
 **_What if my personal information is transferred to other countries? Do they have their own privacy policies and regulations?_**
 
-Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than the United States. By submitting your personal information through the Drillinginfo website, you consent to such transfers and to the processing of your personal information in such countries for the purposes described in this privacy policy.
+Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than the United States. By submitting your personal information through the Drillinginfo website or apps, you consent to such transfers and to the processing of your personal information in such countries for the purposes described in this privacy policy.
 
 **_ _** ** _Are there international mechanisms?_**
 
@@ -237,15 +253,17 @@ In compliance with the Privacy Shield Principles, we commit to resolve complaint
 
 Drillinginfo is constantly reviewing its privacy policies in the light of ongoing regulations and user needs and issues. Drillinginfo therefore reserves the right to modify this privacy policy at any time by posting the revised version on the Drillinginfo web site and updating the effective date. We encourage you to check the website frequently to see the current privacy policy in effect and any changes that have been made to it.
 
-**_What if you disagree with Drillinginfo’s privacy policy?_**
+Date of Last Revision: March 1, 2019
 
-If you disagree with Drillinginfo’s privacy policy, please contact us on [support@drillinginfo.com](mailto:support@drillinginfo.com). If you do not agree with the terms and conditions of this privacy policy, you must immediately cease using and accessing the website and Drillinginfo products and services.
+**_What if you disagree with Drillinginfo’s privacy policy  _** ** _or want to withdraw your consent?_**
+
+If you disagree with Drillinginfo’s privacy policy or want to withdraw consent, please contact us on [support@drillinginfo.com](mailto:support@drillinginfo.com). If you do not agree with the terms and conditions of this privacy policy, you must immediately cease using and accessing the website and Drillinginfo apps, products and services.
 
 **_How to request changes to or deletion of the information we have about you?_**
 
-To request access, review, rectifation, or deletion of information we have about you, please contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
+To request access, review, rectification, or deletion of information we have about you, please contact us at [support@drillinginfo.com](mailto:support@drillinginfo.com).
 
-Please include the following information in all requests: first name, last name, and e-mail address. While Drillinginfo will make reasonable efforts to fulfil your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
+Please include the following information in all requests: first name, last name, and e-mail address. While Drillinginfo will make reasonable efforts to fulfill your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
 
 * * *
 
