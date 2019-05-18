@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register.jimdo.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216131238id_/https%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register.jimdo.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518063422id_/https%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Jimdo
 
@@ -79,7 +79,7 @@ If a Jimdo user has a Facebook profile, they can visit our website to create a u
 
 ### Google+
 
-Any Jimdo user that has a Google+ account may create a customer account or register using the social plug-in "Google+ Sign-In" of the social network Google+, published by Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (" Google+ "), as part of the so-called single sign-on technology.
+Any Jimdo user that has a Google+ account may create a customer account or register using the social plug-in "Google+ Sign-In" of the social network Google+, published by Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google+"), as part of the so-called single sign-on technology.
 
 ### The Data Processing via Single Sign-On
 
@@ -133,7 +133,7 @@ The deactivation of some cookies can impact the delivery and quality of our webp
 
 ### A note on all Google services used by Jimdo:
 
-The website, [www.jimdo.com](http://www.jimdo.com/) uses diverse services from the American company, Google LLC. These services include Google Analytics, Google Analytics Ads, Google Signals, Google Adwords, Google Tag Manager, Google Search Console, Google reCaptcha, Google Fonts and Google Maps.
+The website, [www.jimdo.com](http://www.jimdo.com/) uses diverse services from the company Google, including services provided by Google Ireland Limited, as well as those provided by Google LLC. These services include Google Analytics, Google Analytics Ads, Google Signals, Google Adwords, Google Tag Manager, Google Search Console, Google reCaptcha, Google Fonts and Google Maps.
 
 Google LLC (hereinafter referred to as Google) is certified under both the EU-U.S. and Swiss-U.S. Privacy Shield frameworks and their certifications can be viewed on the [Privacy Shield list](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Jimdo has of course signed a data processing agreement with Google for the utilization of the various Google tools and services listed above.
 
@@ -157,7 +157,7 @@ Additional information on how Google handles personal data in its advertising ne
 
 ### [Google Tag Manager](https://www.google.com/analytics/tag-manager/use-policy/)
 
-Jimdo also uses Google Tag Manager, a solution operated by Google LLC (Google), that allows Jimdo to manage so-called website tags(including, for example, Google Analytics and other Google marketing services in our online offering) using an interface. The tag manager itself (which implements the tags) does not process users' personal data. With regard to the processing of users' personal data, reference is made to the following information about Google's services.
+Jimdo also uses Google Tag Manager, a solution operated by Google, that allows Jimdo to manage so-called website tags(including, for example, Google Analytics and other Google marketing services in our online offering) using an interface. The tag manager itself (which implements the tags) does not process users' personal data. With regard to the processing of users' personal data, reference is made to the following information about Google's services.
 
 Usage Policy: <https://www.google.com/analytics/tag-manager/use-policy/>.
 
@@ -363,7 +363,7 @@ All information posted on the Jimdo website of a Jimdo user may, in principle, b
 
 ### Administrative Access to your Jimdo Website:
 
-As part of our customer service and error tracing, our employees also have access to the administrative area of Jimdo Websites (CMS) on an ad hoc basis. Administrative access is to be understood as insight into all areas of the corresponding Jimdo website, including the password-protected areas. All our employees are regularly schooled in data protection and are bound to maintain confidentiality and the secrecy of data (§5 of the German Federal Data Protection Act (BDSG) or from 25.05.2018 § 53 BDSG (new)).
+As part of our customer service and error tracing, our employees also have access to the administrative area of Jimdo Websites (CMS) on an ad hoc basis. Administrative access is to be understood as insight into all areas of the corresponding Jimdo website, including the password-protected areas. All our employees are regularly trained in data protection and are under an obligation to maintain confidentiality.
 
 ### Encryption
 
@@ -455,10 +455,10 @@ When you set up an email account or forwarding address for your Jimdo website, w
 
     * In order to send system emails and newsletters we use the mail services provided by Braze. Their Privacy Policy can be found under: <https://www.braze.com/privacy/>
 
-    * In order to send order confirmations we use the service provider Sendgrid and their privacy policy can be found here: <https://sendgrid.com/policies/privacy/>
+    * In order to send order confirmations we use the service provider Twilio Sendgrid and their privacy policy can be found here: <https://sendgrid.com/policies/privacy/>
 
     * **G suite Email provider and G Suite Domain Verification:**  
-Jimdo users who hold a fee based Jimdo package and who also have a Google G Suite account, can set up Gmail as their email provider for their email server. To set up the connection, the Jimdo user logs into his Google G Suite account and grants Jimdo permission to automatically adjust their settings to set up the email service. The permission given grants Jimdo the right to provide and manage or delete the Jimdo user's reserved domains, as well as the authority to verify the user's new domains with Google, i.e. to send the appropriate ownership confirmation URLs to Google. This permission can be revoked at any time, for the future by the Jimdo user in their G-Suite account (under -> "Settings" -> "Apps with Account Access"). In addition, the Jimdo user has the option to change his chosen email provider at any time in their Jimdo account (under Domains & Emails → Edit email Server). G Suite is a product of Google LLC., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. The legal basis for obtaining consent is Article 6 (1)( a) and Art. 7 GDPR. The legal basis for the processing for the performance of our services and the execution of contractual measures as well as the response to inquiries is Art. 6 (1)( b) GDPR. The purpose and scope of the data collection and the further processing and use of the data by Google as well as the related rights and privacy settings can be found in the Google privacy policy: <https://policies.google.com/privacy> and <https://gsuite.google.com/intl/de/faq/security/>.
+Jimdo users who hold a fee based Jimdo package and who also have a Google G Suite account, can set up Gmail as their email provider for their email server. To set up the connection, the Jimdo user logs into his Google G Suite account and grants Jimdo permission to automatically adjust their settings to set up the email service. The permission given grants Jimdo the right to provide and manage or delete the Jimdo user's reserved domains, as well as the authority to verify the user's new domains with Google, i.e. to send the appropriate ownership confirmation URLs to Google. This permission can be revoked at any time, for the future by the Jimdo user in their G-Suite account (under -> "Settings" -> "Apps with Account Access"). In addition, the Jimdo user has the option to change his chosen email provider at any time in their Jimdo account (under Domains & Emails → Edit email Server). G Suite is a product of Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland. The legal basis for obtaining consent is Article 6 (1)( a) and Art. 7 GDPR. The legal basis for the processing for the performance of our services and the execution of contractual measures as well as the response to inquiries is Art. 6 (1)( b) GDPR. The purpose and scope of the data collection and the further processing and use of the data by Google as well as the related rights and privacy settings can be found in the Google privacy policy: <https://policies.google.com/privacy> and <https://gsuite.google.com/intl/de/faq/security/>.
 
     * **User Content:**  
 When images or files are uploaded to the Jimdo website, they are uploaded to Amazon S3 cloud services (the location of the data center in Ireland). The privacy policy of Amazon can be found here: [Privacy Policy](https://aws.amazon.com/privacy/)
@@ -515,7 +515,7 @@ _Legal Basis:_
 Consent Article 6 (1) (a) GDPR and/or Legitimate interest Article 6 (1) (f) GDPR 
 
 _Provider:_  
-Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States
+Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
 
 _Privacy policy:_  
 <https://policies.google.com/privacy>
@@ -560,7 +560,7 @@ Braze, Inc. 318 West 39th Street, 5th Floor New York, New York 10018 USA
 _Privacy policy:_  
 <https://www.braze.com/privacy/>
 
-#### SendGrid
+#### Twilio Sendgrid
 
 _Purpose:_  
 The sending of order confirmations,renewal notifications, billing information as well as Notifications & Newsletters
@@ -575,7 +575,7 @@ _Legal Basis:_
 Contract performance, Article 6(1) (b) GDPR & Article 6 (1) (f) GDPR
 
 _Provider:_  
-SendGrid Inc. 1801 California St #500 Denver, CO 80202, USA
+Twilio Sendgrid Inc. 1801 California St #500 Denver, CO 80202, USA
 
 _Privacy policy:_  
 <https://sendgrid.com/policies/privacy/>
@@ -591,7 +591,7 @@ _Legal Basis:_
 Legitimate interest Article 6 (1) (f) GDPR
 
 _Provider:_  
-Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
 
 _Privacy policy:_  
 <https://www.google.com/analytics/tag-manager/use-policy>
@@ -611,30 +611,10 @@ _Legal Basis:_
 Contract performance, Article 6 (1) (b) GDPR & Article 6 (1) (f) GDPR
 
 _Provider:_  
-Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
 
 _Privacy policy:_  
 Browser Plugin, Opt-Out <https://tools.google.com/dlpage/gaoptout?hl=en/>
-
-#### Adobe Image Editor
-
-_Purpose:_  
-Image editing via the user menu
-
-_Data Category:_  
-Usage data
-
-_Data Subjects:_  
-Jimdo user
-
-_Legal Basis:_  
-Contract performance, Article 6 (1) (b) GDPR
-
-_Provider:_  
-Adobe Systems Incorporated 345 Park Avenue, San Jose, CA 95110-2704, USA
-
-_Privacy policy:_  
-<https://www.adobe.com/privacy.html>
 
 #### Sipgate
 
@@ -1009,7 +989,7 @@ _Legal Basis:_
 Contract performance, Article 6 (1) (b) GDPR / Consent as provided by the Jimdo user, Article 6 (1) (a) GDPR, as well as Legitimate interest Article 6 (1) (f) GDPR, see further details above
 
 _Provider:_  
-Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
 
 _Privacy policy:_  
 <https://www.google.de/intl/de/policies/privacy/>
@@ -1029,7 +1009,7 @@ _Legal Basis:_
 Contract performance, Article 6 (1) (b) GDPR / Consent as provided by the Jimdo user, Article 6 (1) (a) GDPR, as well as Legitimate interest Article 6 (1) (f) GDPR, see further details above
 
 _Provider:_  
-Google LLC 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
+Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland
 
 _Privacy policy:_  
 <https://www.google.de/intl/de/policies/privacy>
@@ -1437,26 +1417,6 @@ New York, NY 10011 USA
 
 _Privacy policy:_  
 <https://www.outbrain.com/legal/privacy#privacy-policy>
-
-#### Google Survey
-
-_Purpose:_  
-For surveys we use the services of Google Survey
-
-_Data Category:_  
-Inventory data, usage data 
-
-_Data Subjects:_  
-Jimdo user, interested parties or Newsletter Subscriber 
-
-_Legal Basis:_  
-Consent: Article 6 (1) (a) GDPR, legitimate interest: Article 6 (1) (f) GDPR
-
-_Provider:_  
-Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043, USA
-
-_Privacy policy:_  
-[https://policies.google.com/privacy?hl=en&gl=ZZ](https://policies.google.com/privacy?hl=en&gl=ZZ)
 
 #### Jimdo Affiliate program with the Easy-M Platform
 
