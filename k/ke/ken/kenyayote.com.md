@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenyayote.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025135301id_/https%3A//kenyayote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyayote.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518154259id_/https%3A//kenyayote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kenyayote
 
@@ -11,7 +11,7 @@ Before you read our privacy policies below make sure that you go through our [te
   1. Private information refers to  Credit card, scanned ID,  Financial IDs and financial account numbers, along with passwords.
   2. We will not, rent, lease or sell your Personal/private Information to anybody except when you permit us to do so. Refer to (1.)
   3. We will take reasonable measures to protect and store your private/personal Information from misuse.
-  4. Third parties like Google will place ads on kenyayote depending a users prior visit.
+  4. Third parties like Google will place ads on kenyayote depending on a users prior visit.
   5. You can opt  out of the use of the DoubleClick cookie by visiting the Google ads setting. **Learn more on how Google manages data in its ads products in its** [Privacy & Terms web page](https://www.google.com/policies/technologies/partner-sites/).
   6.  a) Private information submitted in/on post/page/archive comments and public forums, by you or the public without our knowledge does/do not fall under our Privacy Policy. In this case,  contact +254720680341 or[ fill form here ](https://kenyayote.com/contact/)for action to be taken.
 
@@ -27,7 +27,7 @@ Our website address is: [https://kenyayote.com](https://kenyayote.com/)  a bran
 
 ## **What personal data we collect and why we collect it**
 
-#### **Comments**
+#### 
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
@@ -59,7 +59,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ** ** Kenyayote.com uses Google analytics to collect visitors data.  Read about Google Analytics privacy policy **<https://www.google.com/analytics/terms/us.html> .** If you want to opt out, [download from this page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your web browser
 
-#### **Who we share your data with**
+#### 
 
 Third parties like Google will place ads on kenyayote depending a user’s prior visit.  **Learn more on how Google manages data in its ads products in its** [Privacy & Terms web page](https://www.google.com/policies/technologies/partner-sites/).
 
@@ -87,4 +87,11 @@ We have Jetpack WordPress plugin and recently upgraded to premium version to hel
 
 **PRIVACY POLICY UPDATED** on 23rd May 2018 to comply with GDPR, [EU user consent policy](https://www.google.com/about/company/consentstaging.html)
 
- ** ** ************** ******************
+ **Do not miss our News Updates:[Subscribe Now](https://www.youtube.com/channel/UCElGzZwGl6yFR8Lx9uixWew?sub_confirmation=1)
+* **You need an instant unsecured soft loan via mpesa?:[Check our Loan Page Here](https://kenyayote.com/instant-soft-loans-in-kenya-how-to-apply-online-for-mobile-unsecured-loans/) **
+* ****Download Teachers CBC schemes of work for PP1, PP2, Grade 1, 2 and 3 From:[Muthurwa.com](https://muthurwa.com/download-cbc-schemes-of-work-for-grade-1-2-3-and-pp1-pp2-new-curriculum/) ****
+* ******Looking for High School Teaching and Revision Notes? Check:[High School Notes](https://muthurwa.com/product-category/class-notes/) ******
+* ********Have you heard of Muthurwa.com? This is a youths platfom where you can make a living online in kenya through selling your Class notes, templates, ebooks, Wordpress Themes, photos, past papers, tutorials, Business plans, Recipes, House Plans, Magazines, Plugins, Audios, Design services e.t.c Just create your account, upload your product and withdraw your sales earnings to mpesa anytime. You can also make money through referring customers to Muthurwa.com:[Learn How this works](https://muthurwa.com/start-selling/) ********
+**
+
+****************** ******************
