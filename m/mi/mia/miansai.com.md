@@ -1,69 +1,72 @@
-> *The following text is extracted and transformed from the miansai.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611133625id_/http%3A//www.miansai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miansai.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518182756id_/https%3A//www.miansai.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MIANSAI
+# Privacy Policy – Miansai
 
-Protecting your private information is our priority. This Privacy Policy applies to the miansai.com and various web pages (“Site”) operated by Miansai, Inc. and any of Miansai’s affiliates, including but not limited to Miansai Retail LLC and Miansai LA Retail LLC (collectively referred to as “Miansai”). This Privacy Policy governs data collection and usage and describes the types of personal information we collect about our customers, how we use the information, with whom we share it and various other information. By using the Miansai Site, you consent to the Policy described below.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.miansai.com (the “Site”).
 
-**Collection of your Personal Information**  
-Miansai may collect personally identifiable information, such as your email address and Miansai account password. If you purchase Miansai’s products and services, Miansai will also collect your name, address, telephone number, billing and credit card information. This information is used to complete the purchase transaction. Miansai may also collect demographic information, such as your zip code, gender, and age. In addition, Miansai may collect product reviews and questions or other information you provide when you contact us. Miansai may gather additional personal or non-personal information in the future.
+ **PERSONAL INFORMATION WE COLLECT**  
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-Miansai collects other information from you passively. If you use the Miansai website, we may collect information about the browser you are using. Miansai uses tracking tools like browser cookies and web beacons to collection information from you. We might look at what site you came from, or what site you visit when you leave us. Information about your computer hardware and software may be automatically collected by Miansai. This information can include: your IP address, browser type, domain names, access times and referring website addresses. In addition, our third party vendors and other social media platforms may also give us information about you.
+We collect Device Information using the following technologies:  
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/ "http://www.allaboutcookies.org").  
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-Miansai encourages you to review the privacy statements of websites you choose to link to from Miansai so that you can understand how those websites collect, use and share your information. Miansai is not responsible for the privacy statements or other content on websites outside of the Miansai website.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, phone number, and items purchased. We refer to this information as “Order Information”.
 
-**Use of your Personal Information**  
-Miansai collects and uses your personal information to operate its Site, deliver the goods and services you have requested and for other business purposes. Miansai may also use your personally identifiable information to inform you of other products or services available from Miansai and its affiliates. Miansai may also contact you via surveys to conduct research about your opinion of current goods and services or of potential new goods and services that may be offered.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Miansai does not sell, rent or lease its customer lists to third parties. Miansai may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is transferred to the third party. Miansai may share data with trusted third party vendors who perform services on Miansai’s behalf. Third party vendors may also help perform statistical analysis, send you email or postal mail, provide customer support, arrange for deliveries and provide a host of other services for Miansai and its customers.
+ **HOW DO WE USE YOUR PERSONAL INFORMATION?**  
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+\- Communicate with you;  
+\- Screen our orders for potential risk or fraud; and  
+\- When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+\- Analyzing website usage  
+\- Personalization
 
-Miansai may keep track of the websites and pages our users visit within Miansai, in order to determine what Miansai products or services are the most popular. This data is used to deliver customized content and advertising to customers whose behavior indicates that they are interested in particular content.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Miansai may also disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Miansai or the site; (b) law enforcement authorities or other government officials; (c) protect and defend the rights or property of Miansai; and, (c) act under exigent circumstances to protect the personal safety of users of Miansai, or the public. Miansai also reserves the right to transfer personal information it has about you in the event Miansai sells or transfers all or a portion of its business or assets (including in the event of reorganization, dissolution or liquidation).
+ **SHARING YOUR PERSONAL INFORMATION**  
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: <https://www.shopify.com/legal/privacy>. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-**Use of Cookies**  
-The Miansai Site may use third-party analytics services, such as those of Google Analytics, Adobe Omniture and Sizmek. Miansai, through these third parties may use cookies, web server logs and web beacons to analyze your use of the Site. Cookies help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Miansai pages, or register with Miansai Site or services, a cookie helps Miansai to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Miansai website, the information you previously provided can be retrieved, so you can easily use the Miansai features that you customized.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Miansai services or websites you visit.
+ **BEHAVIORAL ADVERTISING**  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
-**Internet-Based Advertising**  
-Miansai may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. Miansai also may obtain information for this purpose from third-party websites on which our ads are served. You may see certain ads on other websites because we engage third-party ad buying networks (such as Facebook and Twitter). Through such buying networks, we can target our messaging to users through demographic, interest-based and contextual means. We can track your online activities over time by collecting information through automated means, including through the use of third-party cookies, web server logs, pixels and web beacons. The networks use this information to show you advertisements that may be tailored to your individual interests. The information our ad networks may collect on our behalf includes data about your visits to websites that serve Miansai advertisements, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our websites and on third-party websites that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising, visit http://www.aboutads.info/choices/#completed .
+You can opt out of targeted advertising by using the links below:  
+\- Facebook: <https://www.facebook.com/settings/?tab=ads>  
+\- Google: <https://www.google.com/settings/ads/anonymous>  
+\- Bing: <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>  
+\- Emails: [https://miansai.us7.list-manage.com/unsubscribe?u=a9724ad6e46d797646b10f5ab&id=ccf450e094](https://miansai.us7.list-manage.com/unsubscribe?u=a9724ad6e46d797646b10f5ab&id=ccf450e094 "https://miansai.us7.list-manage.com/unsubscribe?u=a9724ad6e46d797646b10f5ab&id=ccf450e094")
 
-**Security of your Personal Information**  
-Miansai will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information. Information relating to electronic transactions entered into via this website will be protected by encryption technology. However, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us credit card information and/or other sensitive information through email. If you have reason to believe that your interaction with us is not secure, you must immediately notify us of the problem by contacting us in accordance with the “Contact Information” section below
+You can also opt out of additional services by visiting the following links:
 
-**Cross Border Data Transfers**  
-Information that Miansai collects may be stored and processed in and transferred between any of the countries in which Miansai operates to enable the use of the information in accordance with this privacy policy. By using the Miansai website and submitting any Personal Information, you consent to the transfer of Personal Information to other countries, which may provide a different level of data security than your country of residence provides. You agree to such cross-border transfers of personal information.
+Digital Advertising Alliance: <http://optout.aboutads.info/>.  
+Network Advertising Initiative: <http://optout.networkadvertising.org/>  
+IAB (Europe): <http://www.youronlinechoices.com/uk/your-ad-choices>
 
-**Children Under Thirteen**  
-Miansai does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+**DO NOT TRACK**  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-**Online Tracking and How We Respond to Do Not Track Signals**  
-When you use the Site, both Miansai and certain third parties (such as our advertising networks, digital advertising partners and social media platforms) may collect personal information about your online activities, over time and across third-party websites. Certain web browsers allow you to instruct your browser to send Do Not Track (“DNT”) signals to websites you visit, informing those sites that you do not want your online activities to be tracked. At this time, the Miansai Site is not designed to respond to all types of DNT signals or similar mechanisms from browsers. Therefore, information about your online activities may continue to be tracked on the Miansai Site and used to maintain our website’s functionality and for our own analytics purposes described in this Privacy Notice even if your browser sends us a DNT signal. You do have certain options to opt-out of communications and collection of information as further detailed below.
+ **YOUR RIGHTS**  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the link here: <https://www.i-parcel.com/data-request-form/>
 
-**Notice To California Residents**  
-To the extent required by applicable law, California residents may ask for (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the “Contact Information” section below. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-**Opt-Out & Unsubscribe **  
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Miansai by clicking the “unsubscribe” link at the bottom of any communication or by contacting us here:  
-– Web page: https://www.miansai.com/contact/  
-– Email: info@miansai.com  
-– Phone: (305)-375-8132  
-To learn more about how to opt out of ad network interest-based advertising, please visit the consumer opt-out website at http://www.aboutads.info/choices/
+ **DATA RETENTION**  
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-**Changes to this Policy**  
-Miansai reserves the right, in its sole discretion, to change this Policy. Miansai encourages you to periodically review the Policy to stay informed of our updates. Your continued use of the Site following posting of changes to these terms will mean you accept these changes. If we change the Policy in any material way, we will provide appropriate notice to you via email.
+In addition, European UPS i-Parcel customers can request their data at this link <https://www.i-parcel.com/data-request-form/>.
 
-Contact Information  
-Miansai welcomes your questions or comments regarding this Privacy Policy. If you believe that Miansai has not adhered to this Policy, please contact Miansai at:
+ **CHANGES**  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-Miansai, Inc.  
-1800 N. Miami Avenue  
-Miami, Florida 33136
+ **CONTACT US**  
+For more information about our privacy practices, if you have questions, would like a copy of your information, would like us to delete your information, or if you would like to make a complaint, please contact us by e-mail at [info@miansai.com](mailto:info@miansai.com "info@miansai.com") or by mail using the details provided below:
 
-Email Address:  
-info@miansai.com
+Miansai  
+[Re: Privacy Compliance Officer]  
+1800 N Miami Ave Miami Florida US 33136
 
-Telephone number:  
-1-305-375-8132
-
-Effective as of October 1, 2016 
+\----- 
