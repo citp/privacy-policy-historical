@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the processmaker.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014171022id_/https%3A//www.processmaker.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the processmaker.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518224616id_/https%3A//www.processmaker.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ProcessMaker
 
@@ -49,13 +49,13 @@ Except for a few specific instances, Subscribing Organizations and Members may a
 
 
 
-Subscribing Organizations and Members can exercise some of these options by telling us during the registration process or when they choose to receive or use a specific advertisement, service or product. Subscribing Organizations and Members can notify us of a change in their registration options by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6c6e756a7d7f655c6c6e737f796f6f717d77796e327f7371), or writing to ProcessMaker, 201 West Main Street, #225, Durham, NC 27701, USA.
+Subscribing Organizations and Members can exercise some of these options by telling us during the registration process or when they choose to receive or use a specific advertisement, service or product. Subscribing Organizations and Members can notify us of a change in their registration options by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a3a38233c2b29330a3a3825292f3939272b212f3864292527), or writing to ProcessMaker, 201 West Main Street, #225, Durham, NC 27701, USA.
 
 If information is being collected by any entity other than a Third Party Provider or if it will be disclosed by ProcessMaker in any manner not described in this Privacy Statement, Subscribing Organizations and Members will be given prior notice, and can always elect not to use that particular service or provide the Information.
 
 If a Subscribing Organization discontinues its Site use, all the personally identifiable information of the Subscribing Organization and its Members will be removed from our databases (other than in aggregate form), and the Site and all of its Site Information will be removed and/or deleted from our servers.
 
-A Subscribing Organization or Member may update or modify any of its personally identifiable information through the Admin tab in their ProcessMaker installation. For further assistance with this, members may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f3f3d26392e2c360f3f3d202c2a3c3c222e242a3d612c2022).
+A Subscribing Organization or Member may update or modify any of its personally identifiable information through the Admin tab in their ProcessMaker installation. For further assistance with this, members may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e8989a819e898b91a8989a878b8d9b9b8589838d9ac68b8785).
 
 ## Cookie Policy
 
@@ -200,4 +200,4 @@ Durham, NC 27701
 USA  
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cabab8a3bcaba9b38abab8a5a9afb9b9a7aba1afb8e4a9a5a7) 
 
-If Subscribing Organizations or Members have any questions or concerns about this Privacy Statement, they should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a0333312c202630302e222826316d202c2e).
+If Subscribing Organizations or Members have any questions or concerns about this Privacy Statement, they should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6a1a18031c0b09132a1a1805090f1919070b010f1844090507).
