@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolerance.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230084952id_/https%3A//www.tolerance.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolerance.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518133612id_/https%3A//www.tolerance.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teaching Tolerance
 
