@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aima.in privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626215855id_/http%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aima.in privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518190758id_/https%3A//www.aima.in/discover-aima/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AIMA
 
