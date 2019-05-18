@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029055527id_/https%3A//www.fbdown.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
 
 # FBDOWN.net - Our Privacy Policy
 
@@ -33,7 +33,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share general demographic and ad related information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above or for financial reasons. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. Some of the data collected from you in connection with your use of our Chrome Extension is shared or otherwise made available to third parties with whom we are affiliated, and is collected, stored and used in accordance with the third-party privacy policy set forth at http://extprivacy-policy.com/ 
 
 **Third party websites**
 
@@ -57,9 +57,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-**Terms of Services:** If, and if any, script was sold to a client, after contacting us with a direct email or the web form, no refund and no moneyback is guaranteed. **PS:** When contacting us using the web form, or sending a direct email to us, you already Accept all the TOS we state about. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Facebook Video Downloader](http://fbdown.net/)  
-[http://fbdown.net](http://fbdown.net/)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You can contact us using the [Contact Page](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/contact.php) or our email contact[at]fbdown.net. By contacting us you agree to our terms of service.
 
-This document was last updated on November 15, 2013
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us here: [Contact Form](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/contact.php)  
+[Facebook Video Downloader](https://fbdown.net/)  
+[https://fbdown.net](https://fbdown.net/)
+
+This document was last updated on April 12th, 2019
