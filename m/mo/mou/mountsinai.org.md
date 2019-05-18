@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountsinai.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227181759id_/https%3A//www.mountsinai.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountsinai.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518134655id_/https%3A//www.mountsinai.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mount Sinai - New York
 
