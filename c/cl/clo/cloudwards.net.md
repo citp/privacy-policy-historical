@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cloudwards.net privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207164501id_/https%3A//www.cloudwards.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwards.net privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519003133id_/https%3A//www.cloudwards.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudwards
-
-[ ](https://3thlkd3wpu0u1x0qbt19cxc8-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/address.jpg "address")
 
 At Cloudwards.net we take our ethical responsibilities and your privacy seriously by recognizing that your privacy is important. We have a strong commitment to providing excellent service to all our customers and visitors of this Web Site, including respecting your concerns about privacy. This Privacy Policy discloses how we collect personal information, the types of personal information we receive and collect, our use of current and former consumer information, as well as the steps that we take to safeguard your information. If you use this site you explicitly agree to the terms and conditions of the Cloudwards.net Privacy Policy in effect at the time of your use. If you do not agree to this policy, please do not use the Cloudwards.net site. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Therefore, in compliance with industry standards and regulations enforced typically by federal and state governments, we abide by the following Privacy Policy.
 
@@ -96,7 +94,11 @@ If you want to access or update the personal information you submitted to Cloudw
 
 **Cloudwards.net Attn: Customer Care**
 
-[ ](https://3thlkd3wpu0u1x0qbt19cxc8-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/address.jpg "address")
+Trustona Media Limited  
+VAT: CY10391627I  
+Georgiou Seferi 12  
+Apartment 1023107 Limassol   
+Cyprus
 
 **Questions and Suggestions**
 
@@ -108,7 +110,10 @@ If you have any questions, concerns or suggestions about our Privacy Policy, you
 
 **Cloudwards.net**
 
-[ ](https://3thlkd3wpu0u1x0qbt19cxc8-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/address.jpg "address")
+Trustona Media Limited  
+Georgiou Seferi 12  
+Apartment 1023107 Limassol   
+Cyprus
 
 **Changes to this Privacy Policy**
 
