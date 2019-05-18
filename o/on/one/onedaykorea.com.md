@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115020225id_/https%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518114429id_/https%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Korea Travelers by One Day Korea
 
