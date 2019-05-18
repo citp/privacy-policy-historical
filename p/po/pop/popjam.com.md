@@ -1,152 +1,213 @@
-> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705085037id_/https%3A//www.popjam.com/privacyfull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popjam.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518155308id_/https%3A//www.popjam.com/privacyfull) for the most accurate reproduction.*
 
 # PopJam - Privacy Policy
 
-PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF SERVICE CAREFULLY BEFORE USING THE POPJAM PLATFORM.
+Last modified on May 25, 2018
 
-This privacy policy ("Privacy Policy") describes how Awesome Content Ltd, a private limited company incorporated in England (Company Number: 09769338) having its registered office at 296-302 High Holborn, 2nd Floor, Lincoln House, London, England, WC1V 7JHand its subsidiaries or affiliated entities in the United States (collectively referred to herein as "SuperAwesome", "us" or "we") collects, uses and shares the personal information that you provide to SuperAwesome across the PopJam platform including but not limited to the website located at [www.popjam.com](http://www.popjam.com/), the affiliated mobile application known as "PopJam", any of the PopJam platform services, features, functionalities, widgets, buttons, ads, promotions, contests, forums, tools, kits and any other services or sites that link to this Privacy Policy (collectively referred to herein as the "PopJam Platform"). This Privacy Policy describes what information SuperAwesome collects from users, including children, when they visit, access or use the PopJam Platform; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. If you are a parent or legal guardian, by allowing your child to use the PopJam Platform, you are agreeing to the terms of this Privacy Policy on your child's behalf. It is important that you read and understand this Privacy Policy before allowing your child to use the PopJam Platform. If there is anything within this Privacy Policy that you do not understand, then please contact us at [hi@popjam.com](mailto:hi@popjam.com) or using the contact information listed at the end of this Privacy Policy to discuss what this means for you.
+## The PopJam Platform Privacy Policy
 
-## 1\. Registration/ Parental Consent
+This privacy policy ("Privacy Policy") describes how SuperAwesome Trading Limited, a private limited company incorporated in England (Company Number: 09769338), having its registered office at 22 Long Acre, London, WC2E 9LY and its affiliate companies, including Awesome Content Limited and SuperAwesome Limited (collectively referred to herein as "SuperAwesome," "us" or "we") collects, uses and shares the personal and non-personal information you and our other users (who we refer to as PopJammers) provide to SuperAwesome across the PopJam platform, including but not limited to the website located at www.popjam.com, the affiliated mobile application known as "PopJam," and any of the PopJam platform services and features (collectively referred to herein as the "PopJam Platform"). For users in Europe, we are the data controller in respect of such personal information for the purposes of the General Data Protection Regulation (GDPR) (EU) 2016/679. The Privacy Policy applies only to the PopJam Platform; it does not apply to any third-party websites or mobile applications to which we may link. Additionally, it does not apply to any non-PopJam services provided by SuperAwesome, such as our advertising platform, AwesomeAds. If you are looking for the Privacy Policy that governs AwesomeAds, please consult our AwesomeAds Platform Privacy Policy.
 
-The PopJam Platform includes a moderated community of kids sharing their digital creations in an environment of mutual trust, support and respect. We use technology and people to monitor kids' activities and communication and to encourage all users to respect our [House Rules](https://web.archive.org/community), [Safety Guidelines](https://web.archive.org/safety), and [FAQ](https://web.archive.org/faq), all of which are incorporated herein by reference, and which you may also consult for more information about our filtering and moderation practices. Upon registration, we ask users to provide only a username for use within the PopJam Platform. We ask users to pick a username that is unique, e.g., is not the same as or similar to a username used on other Internet services such as social networks, and that does not contain any personal information, such as a full name, school name or geographic location. If we notice and suspect that a user name contains information that could be used to identify a user, we will ask the user to change it.
+By using the PopJam Platform, you accept our Terms of Service <https://www.popjam.com/tosfull> and that you have read and understood our Privacy Policy. Younger visitors should check with their parents or guardians before using the PopJam Platform. If you are a parent or legal guardian, by allowing your child to use the PopJam Platform, you are confirming that you have read and understood the terms of this Privacy Policy on your child's behalf. It is important that you read and understand this Privacy Policy before allowing your child to use the PopJam Platform.
 
-We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly. The PopJam Platform supports and complies with the Children's Online Privacy Protection Act ("COPPA") and other applicable laws. No personally identifiable information is purposefully or knowingly collected and stored from children under the age of 13 by SuperAwesome without parental consent. The various messaging and user-generated features available on the PopJam Platform are subject to automated filtering, human moderation, and/or numerous other technical and manual review procedures so that profanity and personally identifiable information cannot be easily shared, and so that all or virtually all such information is removed before being posted publicly to the PopJam Platform or shared with other users.
+This Privacy Policy and the certification seal shown above and on the PopJam Platform confirm that SuperAwesome is a valid licensee, and participating member, of the Entertainment Software Rating Board’s Privacy Certified Program (“ESRB Privacy Certified”). ESRB Privacy Certified is designed to ensure that our information collection, use and disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative, and the PopJam Platform where this Privacy Policy is posted has been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices. As a licensee of this privacy program, we are subject to audits of the PopJam Platform and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
-If you are under the age of 13, you should use the PopJam Platform only with the permission of a parent or legal guardian. For purposes of this Privacy Policy, personally identifiable information ("PII") is personal information about an individual, such as a first and last name, phone number or email address or other individually identifiable information within the meaning of COPPA and the Federal Trade Commission's Online Privacy Protection Rule found at 16 CFR 312.2. Every user hereby agrees that all information you provide, including but not limited to age, shall be truthful and correct.
+The PopJam Platform is also certified as COPPA-compliant by the kidSAFE Seal Program. The kidSAFE Seal Program is an independent safety certification service and seal-of-approval program designed exclusively for children-friendly websites and technologies, including child-targeted game sites, educational services, virtual worlds, social networks, mobile apps, connected products, and other similar interactive services and technologies. kidSAFE is also an FTC-Approved COPPA Safe Harbor Program. Click on the seal or go to [www.kidsafeseal.com](https://web.archive.org/web/20190518155308id_/https%3A//www.popjam.com/www.kidsafeseal.com) for more information. 
 
-In circumstances where we need to obtain parental consent for certain features in accordance with COPPA, we will send an email to the parent or legal guardian (“parent”) of a child to provide them with a "Direct Notice" as required under COPPA, notifying the parent of the type of PII that may be collected from the child and how such information may be used and/or disclosed by us, and to obtain verifiable consent via a method allowable under COPPA. The Direct Notice will provide directions that the parent is required to follow in order to provide us with consent to the collection, use and/or disclosure of the child's PII, as appropriate, and instructions on how the parent can revoke such consent.
+**TABLE OF CONTENTS**
 
-To learn more about COPPA, please consult this simple one-page informational guide from the kidSAFE Seal Program: [www.kidsafeseal.com/knowaboutcoppa.html](http://www.kidsafeseal.com/knowaboutcoppa.html).
-
-## 2\. Information We Collect
-
-When you sign up for the PopJam Platform, you create an anonymous profile, which is then publicly available inside the PopJam Platform. You may not use your real name, a photo showing your face or another child’s image, or any other information that could identify you or your location (such as a school uniform) in the creation of your profile. Your PopJam profile shows your:
-
-  * User name (which should not contain your real name or any part of it, including your first name or surname)
-  * Profile picture or avatar (which should not be a picture of your or any other child’s face)
-  * Profile description
-  * Pictures you make and share (as long as such pictures do not contain a picture of your or another child’s face)
-  * Who you follow, who follows you and your Top Friends in PopJam
-  * Quizzes, tests and games you've taken part in
-  * Badges or stickers you have collected
-
+  1. What we collect on the PopJam Platform
+  2. Why We Collect Information on the PopJam Platform
+  3. How long we keep your Information
+  4. How We Protect User Information
+  5. Sharing Users’ Personal Information
+  6. International Data Transfers
+  7. Advertisements
+  8. Your Rights and Choices
+  9. Change of Mind or Objection
+  10. Notice to California Residents / Your California Privacy Rights
+  11. Contact Us
+  12. Revisions to Privacy Policy
 
 
-We do not collect, disclose, request, prompt or encourage children to post or upload photos, videos or audio recordings that contain a child’s image or voice. We will screen and delete from children’s submissions on the Platform any photos, videos or audio recordings of themselves or other children (or any portions thereof that show such information, if possible).
 
-Quizzes, tests and games that you decide not to share publicly are still listed in your profile but other PopJammers cannot see them.
+## 1\. What We Collect on the PopJam Platform
+
+We do not purposely or knowingly collect personal information from you, except under limited exceptions set forth below. All information and content provided by users goes through our industry-standard moderation process, which includes technical analysis, automated text and image detection, and trained, certified human moderators. The purpose of the moderation process is to remove any personal information or inappropriate content entered by users before it is posted on the PopJam Platform or shared with other users.
+
+### User Profile
+
+Creating a profile on the PopJam Platform does not require, or permit, the use of any personal information. When you sign up for the PopJam Platform, you create an anonymous profile, which is then publicly available inside the PopJam Platform. You may not use your real name, a photo showing your face or another child’s image, or any other information that could identify you or your location (such as a school uniform) in the creation of your profile or in posting content to PopJam. Your PopJam profile shows:
+
+  * Username, which may not contain your real name;
+  * Profile picture or avatar, which may not contain any personal information, including your face or the face of another child;
+  * Profile description, which may not contain any personal information;
+  * Pictures you make and share, as long as such pictures do not contain any personal information, including your face or the face of another child;
+  * The users you follow, your followers and your Top Friends in the PopJam Platform;
+  * Quizzes, tests and games in which you have taken part; and
+  * Badges or stickers you have collected.
+
+
+
+There are users of PopJam whose personal information, including photographs of their faces, are visible to other users and the public. In those instances, the PopJam user whose personal information is visible has a business arrangement with us or with an advertiser on the PopJam Platform pursuant to which the user or his/her legal guardian has consented to posting that user’s personal information on the PopJam Platform.
 
 ### Sharing and Search
 
-When you use the PopJam Platform, your creations and comments are accessible and visible to all users of the PopJam Platform. There are no private channels or personal chat functions on the PopJam Platform. Pictures, quizzes, tests, games, comments, designs, artwork and other content you post, upload, provide to or share through the PopJam Platform (“User Content”) can also be shared via URL or "rejammed" (as we call it) by other PopJammers. If you rejam content from another PopJammer their post containing the content will appear in your profile showing their post and user name. Other PopJammers can search for you on PopJam by looking for your user name or profile picture using the search and browsing tools on PopJam.
-
-All the content you share goes through our industry-standard moderation process, which includes technical analysis, automated text and image detection, and trained, certified human moderators. In addition to filtering out content that is inappropriate for children, we seek to prevent the sharing of any personal information, including full names, addresses, telephone numbers, email addresses, social media handles and ‘selfies’ of children.
-
-### Inviting Friends
-
-You may invite your friends to join the PopJam Platform by sending them an email using the PopJam Platform. We do this without storing any PII about you or your friends, in accordance with the one-time use exemption under COPPA. When you select friends to invite, we will use their email address to send the invitation in a way that the recipients cannot see your email address. The recipients' email addresses are then immediately deleted from our servers. The invitation message is precompiled only with your anonymous username and a link to download the app, and it isn't editable.
+Users’ creations and comments are accessible and visible to all users of the PopJam Platform. There are no private channels or personal chat areas on the PopJam Platform. Pictures, quizzes, tests, games, comments, designs, artwork, and other content users post, upload, provide to, or share through the PopJam Platform (“User Content”) can also be shared via URL or "rejammed" (as we call it) by other users. Users can search for each other on the PopJam Platform with a username or profile picture using the search and browsing tools on the PopJam Platform. 
 
 ### Communicating with Us
 
-You may also provide us with PII by communicating directly with us, so we may collect:
+Users may also provide us with personal information by communicating directly with us. For example, if you choose, you may use one of our public email addresses to contact us. If you write to us (or otherwise contacts us), we will ask you to put us in contact with a parent or guardian, through whom we can then provide support.
 
-Information and communications you send to us by using one of our public email addresses. When you write to us, we will always ask you to put us in contact with your parents, through whom we can then provide support.
-
-We will only use your contact information to provide assistance to you under the one-time use exemption of COPPA.
+Consistent with the one-time use exception under the Children’s Online Privacy Protection Act, we only use your contact information to respond to your inquiry, and we then delete your and your parent’s email addresses from our servers.
 
 ### Password Recovery
 
-We ask for your email address in order to enable us to recover your password if you forget it. When you ask us to reset your password, we will protect your email address by ‘hashing' it and using the anonymized hash of your address only to confirm your identity and enable you to reset your password. Your email address will never be stored in a format that could be used to identify you.
+You have the option of providing an email address to enable us to recover your password if you forget it. When requesting a password reset, we will ask you for your email address. We will then anonymize your email address by ‘hashing’ it, compare the anonymized hashes of your email address to confirm your identity, and then send you a password reset link using (but not storing) your email. Your email address is never stored in a format that could be used to identify you, and it is deleted from our servers after the password reset is complete.
 
-## 3\. Usage Information
+### Other Non-personal information
 
-When your computer or mobile device contacts our web servers (for example, when you visit this Site, or view an HTML e-mail), our web servers automatically collect usage information. Such usage information includes information about how our visitors use and navigate the PopJam Platform. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting the PopJam Platform and IP addresses (see below for more information on IP addresses). We also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail, advertising or promotional announcement or similar service. This information is used for internal purposes only to analyze and improve this Site and to provide you with a more fulfilling and relevant experience. This information is not tied to any PII we may have collected from users (when applicable).
+We collect non-personal information about users whenever they interact with the PopJam Platform. Non-personal information includes the number and frequency of visitors to the PopJam Platform and the length of their stays, browser name, the type of computer, and technical information about the means of connection, such as the operating system. We also collect your IP address solely for the internal support of the PopJam Platform, such as system administration, and in case requested by law enforcement. We encrypt the IP address and adopt and implement appropriate and reasonable security practices regarding access to it. We delete all IP addresses after one year. 
 
-## 4\. Browser Cookies and local storage
+Back to top
 
-Like many websites and applications, we may use browser "cookies" on the popjam.com website and local storage on the PopJam application. Cookies and local storage are a way of remembering who you are based on your device. A cookie is a small text file that is stored on your computer's hard drive or stored temporarily in your computer's memory. There are two kinds of cookies: those that are "session" oriented and those that are "persistent". Session cookies delete from your computer when you close your browser. Persistent cookies retain information for later use tomorrow, next week, next month, or whenever they are set to expire. We use cookies to help us to identify account holders and to optimize their experience on the PopJam Platform. Also, we will use cookies to monitor and maintain information about your use of the PopJam Platform. Most web browsers accept cookies automatically. You can delete cookies manually or set your browser to automatically delete cookies on a pre-determined schedule. For example, in the Internet Explorer menu bar, select: Tools →Internet Options→ Browsing History→ Delete to view manual and automatic options. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of the PopJam Platform. Cookies are used for internal purposes only and are not linked to PII about you.
+## 2\. Why We Collect Information on the PopJam Platform
 
-## 5\. Use of IP Addresses
+We use the information you give us to provide you with the PopJam Platform. This may involve using the information we collect on how you use the PopJam Platform and the content you interact with to tailor your view of a service or personalise the content and features made available to you. We may also send you service-related mobile app push-notifications, including announcements and administrative messages. We will also use your information to provide you with any technical and other customer support you need. We will use your information for these purposes because it is in our legitimate interests to ensure that service is being offered to you at a high standard and to your satisfaction.
 
-An IP address is a number that is assigned to your computer or network when you are linked to the Internet. When you request pages from the PopJam Platform, our servers log your IP address. We may use IP address for a number of internal operations purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the PopJam Platform.
+### Provide the PopJam Platform
 
-## 6\. Security
+We collect non-personal information from your use of the PopJam Platform to understand how our customers interact with the PopJam Platform, so we can improve it and develop new services to meet our customers’ needs. We may also use this information to conduct statistical analysis and for business planning. For example, we will use the information to identify which aspects of the PopJam Platform are the most popular, so we can ensure that our IT infrastructure is sufficient to meet demand. We will also use the information to identify less popular aspects of the PopJam Platform to ensure that we are reaching our target audience and promoting our services effectively. We will typically use information in this way because it is in our legitimate interests to ensure that the PopJam Platform offers customers the best experience.
 
-SuperAwesome uses modern and reasonable technological efforts to protect the safety and security of your account information and any content posted or shared on the PopJam Platform. Our electronic safeguards include firewall-protected servers and databases sitting within an isolated Virtual Private Cloud (VPC), encryption for data in transit and at rest, and login credentials with strong passwords and multi-factor authentication (where available) for SuperAwesome staff. We have also put in place physical safeguards such as limited employee access and confidentiality agreements with employees and contractors.
+### Improve our Services and Product Offerings
 
-No website, internet transmission, computer system or wireless connection is completely secure. SuperAwesome cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.
+We collect non-personal information about users whenever they interact with the PopJam Platform. Non-personal information includes the number and frequency of visitors to the PopJam Platform and the length of their stays, browser name, the type of computer, and technical information about the means of connection, such as the operating system. We also collect your IP address solely for the internal support of the PopJam Platform, such as system administration, and in case requested by law enforcement. We encrypt the IP address and adopt and implement appropriate and reasonable security practices regarding access to it. We delete all IP addresses after one year. 
 
-## 7\. Consent to Processing
+### Defend our Legal Rights 
 
-We operate globally and may transfer your personal information to individual companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information and will comply with all applicable laws.
+We may also use your information to prevent potentially illegal activities, protect the safety of our users and others, enforce our terms of service and comply with our legal and regulatory obligations, requests from government bodies or courts, or respond to litigation. Typically, we will do this because it is necessary in order to comply with a legal or regulatory obligation to which we are subject (e.g. complying with subpoenas, search warrants and court orders). 
 
-## 8\. Sharing Information
+We may combine all the information we collect from or receive about you for any of the foregoing purposes. Please see Your Rights and Choices section for further information. Further, we may aggregate your information with other users’ information and use it for statistical analysis, research and reporting purposes. We may also share this information with our business partners. This aggregated information cannot be used to identify you or otherwise be traced back to you.
 
-We may provide information to our subsidiary, affiliate, and parent companies. In addition, SuperAwesome may share your persistent identifiers with third parties under the circumstances described below. However, we do not provide user information to third party companies for their own marketing purposes.
+Back to top
 
-_Third parties providing services on our behalf_ : We may engage third parties to perform services in connection with the operation of our business. Examples of these services include: (a) content providers; (b) product customization, (c) marketing and promotional material distribution, (d) website evaluation, (e) data collection, storage, management, analysis and, where applicable, cleansing, and (f) any other services designed to assist us in maximizing our business potential. These third parties may have access to the PopJam Platform's user information, and in some cases, temporary access to user PII, to the extent such information is needed to perform their duties and functions. Each of these third parties is contractually obliged to protect the security of any information we share with them, and limited in their use of the information to the service being provided solely to SuperAwesome: 
+## 3\. How Long We Keep Your Information
 
-  * **Amazon (AWS):** _Internal Operations Purpose:_ Username search, store posts images. _Information Shared:_ User ID
-  * **Google Analytics:** _Internal Operations Purpose:_ Analyze Performance
-  * **Two Hat Security (Community Sift):** _Internal Operations Purpose:_ Moderation. _Information Shared:_ User ID
-  * **Crashlytics:** _Internal Operations Purpose:_ Maintain app or analyze app errors. _Information Shared:_ User ID
-  * **Adjust:** _Internal Operations Purpose:_ Analyze Performance. _Information Shared:_ Advertiser Identifier UUID
-  * **Google Android:** _Internal Operations Purpose:_ Perform network communications. _Information Shared:_ (Android) input method editor "IME"
-  * **Apple:** _Internal Operations Purpose:_ Perform network communications. _Information Shared:_ (iOS) Identifier for Vendor "IFV"
-  * **Internet service provider:** _Internal Operations Purpose:_ Ensure legal or regulatory compliance. _Information Shared:_ IP address
+We will keep your information only for long as it is necessary for the purposes described above (to provide you with the PopJam Platform, for our legitimate interests as described above and in order to comply with our legal and regulatory obligations). This period will vary depending on your interactions with the PopJam Platform. For example, we may retain your account data for a reasonable period of time after your last activity. This is to enable you to easily come back and start using the service again. We may also keep a record of correspondence with you relating to the PopJam Platform, for example, if you have made a complaint, for as long as is necessary to protect us from a legal claim. In all cases, where we no longer have a need to keep your information, we will delete it.
+
+Back to top
+
+## 4\. How We Protect User Information
+
+SuperAwesome takes reasonable steps to protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide via the PopJam Platform. We adopt and implement appropriate and reasonable security practices regarding the collection, storage and processing of the information we collect, such as encryption. We also put in place physical safeguards such as limited employee access and confidentiality agreements with employees and contractors. Despite our best efforts, no security measure is ever perfect or impenetrable. In the event we experience a data breach involving unencrypted personal information, we will notify users by posting notice on the affected PopJam website or app.
+
+## 5\. Sharing Users’ Personal Information
+
+We do not sell, trade, or rent your personal information to others, and will not do so except as required by law or in connection with a merger, asset sale or similar business transaction (as described below). We may share aggregated demographic or non-personal information not linked to any personal information regarding visitors and users with our business partners, company affiliates and advertisers. We use third-party service providers (as set out below) to help us operate our business and the PopJam Platform or administer activities on our behalf. 
+
+### Group companies
+
+We may share your information with our affiliate companies in order to provide you with the PopJam Platform and to help better tailor our services to you.
+
+### Service providers
+
+SuperAwesome, like many other website and app operators, uses analytics for the purpose of analyzing our user base and improving the performance of our online services. PopJam uses Google Analytics for this purpose:
+
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
 
 
 
-For more information on the processing of your data by our third-party service providers, please contact us on [hi@popjam.com](mailto:hi@popjam.com).
+We may also engage other third parties to perform services in connection with the operation of the PopJam Platform, some of whom may process personal information. Each of these third parties is contractually obliged to protect the security of any information we share with them, and limited in their use of the information to the services being provided solely to SuperAwesome:
 
-_SuperAwesome Security_ : We may release information about our users, including IP address, when legally required to do so, at the request of governmental authorities conducting an investigation or to verify or enforce compliance with the policies governing the PopJam Platform and applicable laws. We may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of SuperAwesome, or any of our respective affiliates, business partners, customers or others.
+  * Amazon (AWS): Your User ID is shared with AWS in connection with User ID searches and storing posted images.
+  * TwoHat Security (Community Sift): Your username is shared with Community Sift in connection with our moderation process.
+  * Zendesk: your username is shared to assist with password reset queries.
+  * Google Android: Your Android input method editor is shared with Google Android in connection with performance of network communications.
+  * Apple: Your iOS identifier is shared with Apple in connection with performance of network communications.
+  * Internet service provider (ISPs): Your IP address is shared with ISPs to ensure legal or regulatory compliance.
 
-_Aggregate Information_ : We may disclose non-identifying, aggregated user statistics to third parties for a variety of purposes, including describing our services to prospective partners and other third parties. Examples of such non-personal information include the number of users who visited the PopJam Platform during a specific time.
 
-_Embedded User Content_ : We may share, disclose, make available or disseminate certain User Content appearing on partner channels within the PopJam application, through the PopJam Platform services, to third party partners (including developers and publishers) that integrate PopJam content, widgets or buttons into their services, websites or applications. Any such User Content, i.e. non-personal, public content you make available on the PopJam Platform such as comments, artwork, photos (except for photos containing a child’s image) or videos (except for videos containing a child’s image or voice), may appear on third party partners’ websites and applications. SuperAwesome does its best to carefully vet such third party partners in order to ensure that your rights are protected and third parties’ use of User Content made available through the PopJam Platform is appropriate and in accordance with all applicable laws. Please note that once User Content is embedded, integrated or appears on third party sites or applications through PopJam widgets or buttons (or any other tools that may be developed from time to time), that website’s or application’s privacy policy will apply to any use and collection of data by that third party. SuperAwesome will not share, provide or sell any user personal information to such third party partners for their own marketing purposes.
 
-We may receive non-personal information about you when you interact with the PopJam Platform through a third-party website, application, or service, or visit a third-party website, application, or service that embeds, includes or integrates a PopJam button or widget. This information may include the browser type, language, country, the type of computer and technical information about the means of connection to the PopJam Platform, such as the operating system and the internet service providers utilised and other similar information. We use such information to improve our products and services and provide relevant content, and keep any such information as needed for the purposes described in this Privacy Policy.
+For more information on the processing of your data by our third-party service providers, please contact us at [hi@popjam.com](mailto:hi@popjam.com).
 
-_Corporate change_ : In addition, we reserve the right to disclose, share and/or otherwise transfer user information, including without limitation PII, in connection with a corporate merger, acquisition, consolidation, the sale of a portion of our business or the sale of substantially all of SuperAwesome's assets, or other fundamental corporate change, whatever form it may take. You will be notified via e-mail or prominent notice on the PopJam Platform prior to a change of ownership or control of your personal information, if your personal information will be used contrary to this policy. For clarification and the removal of doubt, SuperAwesome specifically reserves the right to transfer or share a copy of PII collected pursuant to this Privacy Policy from the PopJam Platform, off-line or otherwise, to the buyer of that portion of its business relating to that information.
+### Law enforcement requests
 
-## 9\. Advertisements
+We may disclose your personal information: (a) in the good faith belief that we are required to do so by law; (b) if doing so is reasonably necessary to comply with legal process; (c) to permit us to pursue available remedies, including commencing or responding to any claims; (d) to enforce the terms and conditions of the PopJam Platform; (e) to protect the rights, property, or personal safety of SuperAwesome, its users or the public; or (f) or other illegal activity or for risk management purposes. 
 
-We may serve advertising on the site from child-friendly brands. Advertising enables us to keep the PopJam Platform free to use. Any ads we serve will be delivered by our own ad serving technology, which has been designed to be compliant with COPPA and is certified as such by the kidSAFE Seal Program. Such advertisements will be only be targeted based on the context of the PopJam Platform. Any persistent identifiers collected in the delivery of advertisements will not be shared with third parties and will be used only in compliance with COPPA. All ads served in the PopJam Platform will carry the SuperAwesome SafeAd watermark, which indicates that (a) the ad is not collecting PII in contravention of COPPA, (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the PopJam Platform. If you have any questions about advertising on the PopJam Platform or concerns about specific ads that you see, please contact us on [hi@popjam.com](mailto:hi@popjam.com).
+### Corporate Transaction
 
-## 10\. How Can I Access, Correct and Update My Information? 
+In addition, your personal data may be disclosed as part of any proposed or actual merger, sale, and transfer of SuperAwesome assets, acquisition, bankruptcy, or similar event.
 
-You or your parent or legal guardian can access, correct, update, or request the deletion of certain PII that you have provided to us and that we have stored in identifiable form, if any, by emailing at [hi@popjam.com](mailto:hi@popjam.com) You may also request that we discontinue further collection or use of your PII, if applicable. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately.
+### Do Not Track disclosure
 
-In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups.
+Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and does not act on DNT signal headers that we may receive.
 
-## 11\. Notice to California Residents/ Your California Privacy Rights
+Back to top
 
-California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. PopJam does not share your personal information with any third parties for their own marketing purposes, and so this law does not apply to us.
+## 6\. International Data Transfers
 
-## 12\. Forums/ Message Boards
+We operate globally and may need to transfer your personal information outside the European Economic Area to our affiliate companies, partners or third party service providers in locations around the world for the purposes described in this Privacy Policy. We do so in order to provide you with our services and for the other purposes outlined above. Please be aware that the data protection laws in some of these countries may not offer the same level of protection as those in your country of residence. Before transferring your information in this way, we will take reasonable steps to ensure that suitable safeguards are put in place aimed at ensuring that an appropriate level of protection applies to the privacy of your personal information and we will comply with all applicable laws. For further information on these safeguards, please contact us at [hi@popjam.com](mailto:hi@popjam.com), or Privacy, PopJam, 22 Long Acre, London WC2E 9LY, UK.
 
-Please review our restrictions on use and Community Guidelines for users of the PopJam Platform in our Terms of Service. You should keep in mind that whenever you publicly disclose information about yourself online, that information could be collected and used by people that you do not know. Although SuperAwesome takes reasonable measures to keep these areas free of inappropriate content or PII, SuperAwesome assumes no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas, if any, of the PopJam Platform.
+Back to top
 
-## 13\. Revisions to Privacy Policy
+## 7\. Advertisements
 
-We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the "last updated" date located at the bottom of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the SuperAwesome website located at www.popjam.com by revising the link to read substantially as "Updated Privacy Policy" for a reasonable amount of time, and if necessary, will obtain your prior consent or the prior consent of a parent or legal guardian. The most current version of this Privacy Policy will be available on the PopJam website and will supersede all previous versions of this Privacy Policy.
+We may serve advertising on the site from child-friendly brands. Advertising enables us to keep the PopJam Platform free to use. Any ads we serve will be delivered by our own ad serving technology, which has been designed to be compliant with COPPA and is certified as such by the ESRB Privacy Certified and kidSAFE COPPA Certified programs. Such advertisements will only be targeted based on the context or content you are viewing on the PopJam Platform, and not on your browsing behavior. All ads served in the PopJam Platform will carry the SuperAwesome SafeAd watermark, which indicates that: (a) the ad is not collecting personal information in contravention of COPPA; (b) its content has been reviewed for compliance with best practice and the CARU self-regulatory principles to be appropriate for children, and (c) it is age-appropriate for the PopJam Platform. If you have any questions about advertising on the PopJam Platform or concerns about specific ads that you see, please contact us on [hi@popjam.com](mailto:hi@popjam.com).
 
-If you have any questions concerning this Privacy Policy, you may contact us at:
+Back to top
 
-PopJam   
-c/o SuperAwesome   
-40 Long Acre   
-London WC2E 9LG   
-United Kingdom   
-Email address: [hi@popjam.com](mailto:hi@popjam.com)   
-Telephone: +44-203-6686677 
+## 8\. Access, Modify, Delete and Other User Rights
 
-© 2017 SuperAwesome Ltd. All rights reserved.
+Notwithstanding the limited nature of the personal information we collect from or about the users of our PopJam Platform, users or their parents have the right to request access to review, modify and correct personal information about a user. We will take reasonable steps to verify your identity, such as requiring a password and user ID. Users or their parents may also contact us to request certain information regarding our disclosures to third parties for their direct marketing purposes. However, we do not share information with third parties for this purpose.
 
-Last modified on 28 November 2016.
+Depending on the country from which you are using the PopJam Platform, you may have the right to have the information you have provided to us and which we use to provide the PopJam Platform to you in a machine-readable format. This right enables you to move your information from one provider to another, for example, so that the other provider can continue to service your needs effectively.
 
-Get Creative... Get PopJam!
+If you would like to delete the information that we have collected from your use of the PopJam Platform, please use the settings of the mobile app or contact us. We may be required to retain some or all of this information in order to enable you to use the PopJam Platform and features, and to ensure that these function properly. We may also retain such information where required by law, to resolve disputes, troubleshoot problems, enforce our terms and conditions of use and enable us to defend our legal rights. We may only be able to provide the PopJam Platform if we have your information, so deletion of your information will require deletion of your account and termination of your ability to use the PopJam Platform.
 
-Available in the US, UK, Ireland and Canada.
+If a user or parent wishes to exercise any of the above rights, please contact us at [hi@popjam.com](mailto:hi@popjam.com) or using the information within Section 11 of this Privacy Policy.
 
-[](https://app.adjust.com/aaad00)[](https://app.adjust.com/2s4vr2)
+Any User Content posted in the PopJam Platform is publicly viewable. You are prohibited from posting personal or inappropriate information at any time, and we take reasonable steps to prescreen all posts to remove any such information. Should you wish to edit or remove any User Content after it has been posted, you may contact us at [hi@popjam.com](mailto:hi@popjam.com) or using the information within Section 11 of this Privacy Policy. Removal of the information from public view does not guarantee complete or comprehensive removal, however. After the removal request has been honored, we may retain copies of the User Content or information previously posted on our servers. We are not required to remove the posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.
+
+Back to top
+
+## 9\. Change of Mind or Objection
+
+Where you have given us consent to use your information for any of the above purposes, you have the right to withdraw that consent at any time. You may also have a right to object to our use of your information where we are relying on a legitimate interest and there is something about your particular situation that makes you want to object to our processing on this ground. Please contact us at [hi@popjam.com](mailto:hi@popjam.com) or using the information within Section 11 of this Privacy Policy for more information about exercising these rights. 
+
+Back to top
+
+## 10\. Notice to California Residents / Your California Privacy Rights
+
+Under California Civil Code § 1798.83, California residents are entitled once a year to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes during the immediately prior calendar year. We do not share your personal information with any unaffiliated third parties for their own marketing purposes. Nonetheless, you may make one request per year if you are a California resident. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request this information in writing by contacting us at [hi@popjam.com](mailto:hi@popjam.com) or by regular mail at: Privacy, PopJam, SuperAwesome Trading Ltd., 40 Long Acre, London WC2E 9LG, United Kingdom. Please allow up to thirty (30) days for a response. 
+
+Back to top
+
+## 11\. Contact us
+
+If you have any questions, need information or require assistance, please do not hesitate to reach out to us either by sending us an email at [hi@popjam.com](mailto:hi@popjam.com) or send us a post at:
+
+Attn: Privacy, PopJam  
+SuperAwesome Trading Ltd.  
+22 Long Acre  
+London WC2E 9LY  
+United Kingdom  
+Email address: [hi@popjam.com](mailto:hi@popjam.com)  
+Telephone: +44 203 668 6677 
+
+As previously mentioned, we are a licensee of ESRB’s Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at <https://www.esrb.org/privacy/contact.aspx>, or:
+
+ESRB  
+Attn: VP, Privacy Certified Program  
+420 Lexington Avenue, Suite 2240  
+New York, NY 10170 USA  
+[privacy@esrb.org](mailto:privacy@esrb.org)
+
+Back to top
+
+## 12\. Revisions to Privacy Policy
+
+SuperAwesome has the discretion to update this Privacy Policy at any time. When we do, we will update the “last modified” date at the top of the Privacy Policy. If the change is material, we will place a notice on the PopJam website (www.popjam.com) and app by revising the link to read substantially as "Updated Privacy Policy" for a reasonable amount of time, and if necessary, will obtain your prior consent or the prior consent of a parent or legal guardian. The most current version of this Privacy Policy will be available on the PopJam website and app and will supersede all previous versions of this Privacy Policy.
+
+Back to top
+
+© 2018 Awesome Content Ltd. All rights reserved.
