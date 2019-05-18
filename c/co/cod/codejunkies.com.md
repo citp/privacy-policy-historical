@@ -1,74 +1,63 @@
-> *The following text is extracted and transformed from the codejunkies.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920001956id_/https%3A//www.codejunkies.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codejunkies.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518201352id_/https%3A//www.codejunkies.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Codejunkies
 
-Thank you for visiting Codejunkies. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+#### Website Policy
 
-Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+This website is operated by Datel Electronics Limited , registered office, Stafford Road ,Stone, Staffordshire, ST15 0DG.
 
-#### Collection of Information
+Our privacy policy sets out what information we collect, how we use it and under what circumstances we will share it with other parties. We keep this privacy policy under review and we reserve the right to update without notice.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfil your specific request, as well as adding you to our relevant console newsletters. You will have the option to opt out of receiving newsletters from us at any time.
+We are committed to keeping your personal information secure and confidential. By using our website you agree to the use of this information as set out below
 
-#### Distribution of Information
-
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
-
-#### Commitment to Data Security
-
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
-
-#### Cookie/Tracking Technology
-
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
-
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
-
-The table below explains the cookies we use and why.
-
-Name | Purpose | More Information  
----|---|---  
-ASP.NET_SessionId cookie | 
-
-This cookie allows our web servers to respond to your actions on the website. The website wouldn't work for you without it.
-
-|   
-BVC5codejunkiesBVUserId | 
-
-This cookie allows our web servers to respond to your actions on the website. The website wouldn't work for you without it.
-
-|   
-BVC5codejunkiesBVLastViewed | 
-
-This cookie allows our web servers to respond to your actions on the website. The website wouldn't work for you without it.
-
-|   
-BVC5codejunkiesBVCartId | This cookie allows our web servers to respond to your actions on the website. The website wouldn't work for you without it. |   
-Google Analytics _utma | 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-Google Analytics _utmb | 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-Google Analytics _utmc | 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
-Google Analytics _utmz | 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| [Overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
   
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By E-Mail: privacy@codejunkies.com
+#### Visitors to our website.
 
-By Phone: 01785 810800
+The website does not capture personal information other than that what you tell us when registering, buying a product, activating the product licence and in some cases when the product communicates with the site for use and uploading codes.
+
+We use third party cookies ( see our separate cookie policy below ) such as those from Google analytics to obtain information on traffic to our site. We do not use the information in a manner which identifies the individual.
+
+  
+
+
+#### Children
+
+If you are aged 13 or under please obtain your parent or guardian’s permission to providing any personal information to us. Children without this consent should not provide us with such information.
+
+  
+
+
+#### How we use your information.
+
+We may use any information you give us;
+
+  * to assist us in providing products and services to you including processing credit card information via a secure third party payment gateway such as Cybersource,
+  * to record sales, accounting information, returns, updates and product development,
+  * to comply with any regulatory or legal obligation we may have from time to time.
+
+
+
+We may also wish to use your data to inform you of any future offers and similar products. This information will not be shared with third parties. Please sign into your account and tick the option for our marketing emails If this is something you would like to sign up to , otherwise we will not send to you direct marketing emails but you can still learn about new products by visiting the website. You may unsubscribe at any time via your login.
+
+  
+
+
+#### What we do with your data
+
+All the personal data we process will be processed by our staff in the UK however for the purposes of IT hosting, management and maintenance the information is located on servers within the European Union.
+
+  
+
+
+#### How long do we keep your data.
+
+We retain such data for a reasonable time in the event of any legal claims and complaints however we are required by UK tax law to keep your personal data ( name, address, contact details and sales records) for a minimum of 6 years after you first provided it. If there has been no activity on your account for more than 6 years we will delete your personal data.
+
+You have a right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information or have a concern about how your information is being used and or our data practices please contact us using your login details on the [support page](https://support.codejunkies.com/) of this website or if you are not already a user please create an account and request a support ticket
+
+You may also ask us to correct or remove information you think is inaccurate. If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the information commissioners office [https://ico.org.uk](https://ico.org.uk/)
+
+  
+
