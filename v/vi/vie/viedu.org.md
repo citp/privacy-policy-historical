@@ -1,46 +1,31 @@
-> *The following text is extracted and transformed from the viedu.org privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001052051id_/http%3A//www.viedu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viedu.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518072536id_/https%3A//www.viedu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Visions In Education
 
-[Home](http://www.viedu.org/) › Privacy Policy
+Visions In Education is committed to protecting your privacy. This Visions In Education Privacy Statement applies to data collected by Visions In Education (Visions) website services.
 
-Visions In Education is committed to protecting your privacy. This Visions In Education Privacy  
-Statement applies to data collected by Visions In Education (Visions) website services.
+**Collection of Your Personal Information**  
+At Visions website, we may ask you to provide personal information, such as your email address, name, home address, or telephone number on various data collection forms within our website.
 
-## Collection of Your Personal Information
+**Use of Your Personal Information**  
+Visions collects your personal information to help us efficiently contact you about your request for information and/or to contact you regarding your interest in our school. We may also use your personal information to send out surveys to share your experience with our school and help us to improve our services.
 
-At Visions website, we may ask you to provide personal information, such as your e-mail address, name,  
-home address, or telephone number on various data collection forms within our website.
+**Sharing of Your Personal Information**  
+Except as required by law, we will not disclose your personal information outside of Visions In Education. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-## Use of Your Personal Information
+**Communication Preferences**  
+You can stop the delivery of future communication email from Visions by following the specific instructions in the email you receive.
 
-Visions collects your personal information to help us efficiently contact you about your request for  
-information and/or to contact you regarding your interest in our school. We may also use your personal  
-information to send out surveys to share your experience with our school and help us to improve our  
-services.
+**Security of Your Personal Information**  
+At Visions In Education, we are committed to protecting the security of your information, including personal information, and information collected for enrollment purposes. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.
 
-## Sharing of Your Personal Information
+**Contacting Us**  
+Visions welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us at 1-833-883-1601.
 
-Except as required by law, we will not disclose your personal information outside of Visions In  
-Education. Those service providers will be permitted to obtain only the personal information they need to  
-deliver the service. They are required to maintain the confidentiality of the information and are prohibited  
-from using it for any other purpose.
+**Acceptable Use Policy**
 
-## Communication Preferences
+Visions In Education has policies regarding the use of school computers and access to the Internet.
 
-You can stop the delivery of future communication e-mail from Visions by following the specific  
-instructions in the e-mail you receive.
+You may [review our policies here](https://www.viedu.org/acceptable-use-policy/).
 
-## Security of Your Personal Information
-
-At Visions In Education, we are committed to protecting the security of your information, including  
-personal information, and information collected for enrollment purposes. We use a variety of security  
-technologies and procedures to help protect your personal information from unauthorized access, use, or  
-disclosure.
-
-## Contacting Us
-
-Visions welcomes your comments regarding this privacy statement. If you have questions about this  
-statement or believe that we have not adhered to it, please contact us at 1-877-971-7037.
-
-© 2009 Visions In Education.
+© 2019 Visions In Education.
