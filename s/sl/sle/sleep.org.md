@@ -1,119 +1,85 @@
-> *The following text is extracted and transformed from the sleep.org privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001183039id_/https%3A//www.sleep.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleep.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518045159id_/https%3A//www.sleep.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sleep.Org
+# Privacy Policy | Sleep.org
 
-The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Sleep.org by the National Sleep Foundation to help our customers retain their privacy when they take advantage of all the Internet has to offer.
+The National Sleep Foundation (NSF) is dedicated to protecting your personal privacy. To protect your privacy, we are providing this notice to explain our information practices and the choices you can make about the way your information is collected and used.
 
-We believe your business is no one else’s. Your privacy is important to you…and to us. So we’ll protect the information you share with us. To protect your privacy, Sleep.org by the National Sleep Foundation follows certain principles in accordance with world-wide practices for customer privacy and data protection.
+Unless you tell us otherwise, we assume that when you provide information you are agreeing to allow us to use and disclose it as allowed by law and NSF policies and procedures to deliver the programs you are involved with and in furtherance of our mission to improve health and well-being through sleep education and advocacy. We will comply with all U.S. laws.
 
-We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
+### What is Personal Information?
 
-We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+“Personal Information” means information that you provide to us when you use our websites, Apps, interactive tools and services. It is also information that we can use to identify or contact you.
 
-Sleep.org by the National Sleep Foundation thanks you for accessing this website (the “Site”). We respect your privacy because we know that trust is the key to any successful business relationship. This Privacy Policy explains how Sleep.org by the National Sleep Foundation collects, uses and discloses your personal information from your use of the Site.
+### How We Collect Personal Information
 
-**NOTICE**
+When you visit or use our websites, online sales system, online education system (whether web-based or mobile), and Apps, you might provide us with your information: contact information you knowingly choose to disclose; registration information when registering for an event, billing information when you donate, join, subscribe, make a purchase, or take an educational course; demographic or other information about you; and technical information collected by us as you interact with our websites. We may collect Personal Information in the following ways:
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
-
-  * To make the site easier for you to use by not having to enter information more than once.
-  * To help you quickly find software, services or information.
-  * To help us create content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from Sleep.org by the National Sleep Foundation.
-
-
-
-**INFORMATION COLLECTION AND USE**
-
-Information Collection. Sleep.org by the National Sleep Foundation collects information from you using the Site. Sleep.org by the National Sleep Foundation’s primary goal in collecting personal information is to provide you with an efficient, meaningful and customized experience. For example, Sleep.org by the National Sleep Foundation may use your personal information to:
-
-  * Make the Site easier for you to use by not requiring you to enter information more than once;
-  * Help you quickly find information and services;
-  * Help Sleep.org by the National Sleep Foundation provide services and content on the Site that are most relevant to you;
-  * Alert you to updated information and services offered by Sleep.org by the National Sleep Foundation; and
-  * Target advertising that is provided to you via the Site, including via e-mails and display advertisements.
+  * When you visit or use our websites, online sales and education systems, whether web-based or mobile, we may collect your name, email address, mailing address, telephone number(s), account numbers, limited location information (for example, to help a mobile app determine the best means of connecting to the database or for shipping something you purchased), user name and password (so you can log in) and personal health information (such as within our sleeplife App);
+  * When you provide your payment information to us as part of a purchase or membership;
+  * When you visit our websites, we may capture the IP address and ID of the device you use to connect to the online service, the type of operating system and browser you use, and information about the site you came from, the parts of our online service you access, the type of mobile device you use;
+  * When you visit our websites, we or our service providers may use cookies, web beacons or other technologies to collect and store other information about your visit to, or use of, our online services.  We may later associate the usage and other information we collect online with Personal Information about you;
+  * When you register for or use certain interactive tools and services, our Apps, or tools inside many of our Apps;
+  * When you sign-up for newsletters or other communications from us; or
+  * When you participate in an online survey.
 
 
 
-**Registration.** To use certain portions of the Site, you may be required to first complete an online registration form. During any such registration, you will be prompted to provide to Sleep.org by the National Sleep Foundation certain personal information, including but not limited to your name, address, phone number and e-mail address, certain demographic or health information. In addition, Sleep.org by the National Sleep Foundation may also ask you for detailed residence information so Sleep.org by the National Sleep Foundation can comply with applicable privacy laws and regulations.
+### Use of Personal Information
 
-**Children.** Sleep.org by the National Sleep Foundation does not knowingly accept personal information from anyone under the age of 13. By using the Site and/or providing personal information, you represent and warrant that you are over the age of 13. NSF adheres to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, please visit http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adolts.htm).
+The information collected may be used by us for the purpose of providing you with the content you request, operating and improving our websites, Apps, and interactive tools and services, providing a positive user experience, and delivering the products and services that we offer.  We may use your contact information in order to send you e-mail, postal mail, or other communications regarding organizational updates, such as newsletters, journals and other publications, sleep health information, event and programmatic information, and additional listings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you and programmatic timing. If you do not wish to receive such communications, please contact us at nsf@sleepfoundation.org (you will still receive transactional emails, such as membership receipts and event or program-specific information for which you registered).
 
-**NOTICE TO PARENTS**
+If in the future we intend to process your Personal Information for a purpose other than that for which it was collected, we will provide you with information on that purpose and any other relevant information including the option to opt out.
 
-**Parents or guardians.** We want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. The Sleep.org by the National Sleep Foundation site does not publish content that is targeted to children. However, if you are concerned about your children providing Sleep.org by the National Sleep Foundation any personal information without your consent, Sleep.org by the National Sleep Foundation offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
+### Retention of Personal Information
 
-**INFORMATION USE AND DISCLOSURE**
+We retain indefinitely all the personal information we gather about visitors or subscribers as necessary to fulfill our engagement with you. We retain indefinitely certain anonymized information we gather about visitors or subscribers for the legitimate purpose of performing website and App analytics and providing use of our websites and Apps to all visitors in an efficient, practical, and relevant way.
 
-**Cookies and Other Technology.** Sleep.org by the National Sleep Foundation may collect site-visitation statistical information through “cookies,” tools such as Google Analytics, and other technology. The Site may employ cookies and other technology to speed your navigation of the Site by allowing the Site to recognize each user and his or her access privileges and to track the user’s usage of the Site (“user data”). “Cookies” are small pieces of information that are stored by a user’s Internet browser on a user’s computer hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies, but upon doing so, you most likely will not be able to access or use portions of the Site.
+### Disclosure of Personal Information
 
-**Log Files.** The Site server automatically recognizes the Internet Uniform Resource Locator (“URL”) from which you access the Site. Sleep.org by the National Sleep Foundation may also log your Internet protocol (“IP”) address, which may be helpful, for example, for system administration and troubleshooting purposes. (An IP address indicates the location of your computer on the Internet.)
+We do not share or disclose your personal information to third parties except as set forth below:
 
-**Internal Use.** Sleep.org by the National Sleep Foundation may identify you in connection with your use of certain aspects of the Site. For example, Sleep.org by the National Sleep Foundation may identify you by your viewing history, IP address, profile information, user data, and/or browser type. Sleep.org by the National Sleep Foundation may internally use your personal and non-personal information for many purposes, including but not limited to tracking its users’ demographics, to improving Sleep.org by the National Sleep Foundation’s marketing and promotional efforts, to improving the Site’s content and/or layout, and to determining general marketplace information about visitors to this Site. We may use your information to send you messages, e.g., e-mails, about items we believe are relevant to users of the Site.
-
-**External Use.** Sleep.org by the National Sleep Foundation will not sell or rent your information to third parties. Sleep.org by the National Sleep Foundation may share personal information with other entities that are part of the Sleep.org by the National Sleep Foundation corporate family (including National Sleep Foundation, and any and all related entities, officers, employees, affiliates, agents and licensors) and/or outside service providers who may be used to host or develop the Sleep.org by the National Sleep Foundation Site, provide technical support for the Sleep.org by the National Sleep Foundation Site, provide targeted advertising to users of the Sleep.org by the National Sleep Foundation Site, or otherwise act on Sleep.org by the National Sleep Foundation’s behalf. These third party service providers are prohibited from using the personal information for any other purpose. Further, Sleep.org by the National Sleep Foundation will endeavor to avoid the disclosure of personal information about you to third parties unless required to do so by law or under the compulsion of legal process, or in connection with any licensing, sale, merger, transfer or other disposition associated with all or a portion of the business.
-
-**Disclosure of Personal Information in Public Areas.  **Personal information that you disclose in a public area of the Site, such as by way of a discussion forum, comment, or any other type of posting or blog may be collected and used by third parties or Sleep.org by the National Sleep Foundation. If you do decide to disclose personal information, you do so at your sole risk.
-
-**CONSENT**
-
-If you choose not to register or provide personal information, you can still use most of Sleep.org by the National Sleep Foundation.com. But you will not be able to access areas that require registration.
-
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Sleep.org by the National Sleep Foundation products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Sleep.org by the National Sleep Foundation.
-
-Sleep.org by the National Sleep Foundation occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
-
-**ACCESS**
-
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
-
-  * View and edit personal information you have already given us.
-  * Tell us whether you want us to send you marketing information.
-  * Sign up for electronic newsletters about our services and products.
-  * Register. Once you register, you won’t need to do it again. Wherever you go on Sleep.org by the National Sleep Foundation.com, your information stays with you.
+  * Technical information related to your personal information with web hosting and other technical service providers for the legitimate purpose of hosting our web servers and ensuring information security for our networks.
+  * Contact information related to your personal information with web hosting and other technical service providers for the legitimate purpose of hosting our web servers and ensuring information security for our networks.
+  * Contact information related to your personal information with vendors for the legitimate purpose of providing customer support and assistance.
 
 
 
-**SECURITY**
+We may share aggregated anonymous information about website visitors and App users with our partners and vendors so that they may understand the kinds of audience we have and how those visitors use our websites and Apps.
 
-Sleep.org by the National Sleep Foundation has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+### Links to Other Sites
 
-Sleep.org by the National Sleep Foundation strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+Our websites may provide links to other websites or resources not owned by the NSF. You acknowledge and agree that NSF has no control over such sites and resources and is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Materials, advertising, products, or other materials on or available from such sites or resources or those sites’ data collection or privacy policies. You further acknowledge and agree that NSF shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Materials or goods available on or through any such site or resource or those sites data collection or privacy policies.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Sleep.org by the National Sleep Foundation, its subsidiaries, affiliates or agents are located.
+### Monitoring of Information and Cookies
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+We monitor customer traffic patterns and site usage to help us improve our websites, Apps and interactive tools and services. We may also use the information we collect to occasionally notify you about important changes to the websites, new services, special offers, and information we think you will find valuable. If you would rather not receive this information, please contact us at [nsf@sleepfoundation.org](mailto:nsf@sleepfoundation.org).
 
-**STEPS TAKEN TO PROTECT PERSONAL INFORMATION**
+NSF uses Google Analytics to analyze traffic to our websites. Read more information about the Google Analytics’ privacy policy. We may collect standard information, by way of a cookie, to help us evaluate how our sites are being used. A cookie is a small uniquely identifiable text file that is stored on your machine. A cookie collects information that is used for statistical purposes and does not identify you in any way.
 
-**Data Security.  **This Site incorporates various procedures to safeguard the confidentiality of your personal information. Sleep.org by the National Sleep Foundation takes its efforts to protect your information very seriously. However:
+### Payment Processing
 
-SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION CANNOT GUARANTEE SECURITY. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION ASSUMES NO RESPONSIBILITY OR LIABILITY FOR DISCLOSURE OF YOUR PERSONAL INFORMATION THAT OCCURS BY NEGLIGENCE OR THE DELIBERATE ACTION OF SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION (E.G., IN RESPONSE TO A COURT ORDERS OR SUBPOENA), ERRORS IN TRANSMISSION, UNAUTHORIZED OR ILLEGAL ACCESS, OR ANY OTHER VEHICLE FOR DISCLOSURE.
+All online financial transactions occur in a secure area of our site. When you make a transaction, your credit card information is encrypted before it is sent to us. NSF maintains records of transactions, but we do not retain any records of credit card information once charges have been submitted to the bank.
 
-THE SITE CONTAINS LINKS TO OTHER WEBSITES. SLEEP.ORG BY THE NATIONAL SLEEP FOUNDATION IS NOT RESPONSIBLE FOR THE CONTENT, TERMS OF USE, OR PRIVACY POLICIES ON ANY THIRD-PARTY WEBSITES, OR PRIVACY PRACTICES BY ANY THIRD PARTIES.
+### Protecting Personal Information
 
-**Enforcement.  **If for some reason you believe Sleep.org by the National Sleep Foundation has not adhered to these principles, please notify us by e-mail nsf@sleepfoundation.org and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+We provide reasonable technical, administrative, and physical controls to secure the confidentiality, integrity, and availability of personal information. Our network is composed of access-controlled measures, security monitoring tools, vulnerability management program, and SSL encryption. When it is necessary for our service providers to have access to your information, we expect the same level of data security, integrity and confidentiality standards as NSF provides. While NSF uses its best efforts to maintain this level of security across all of our systems, we cannot guarantee or warrant that our systems or our service providers are not vulnerable to viruses, hacking or other security threats. If you have any questions about security on NSF websites, please contact us at [nsf@sleepfoundation.org](mailto:nsf@sleepfoundation.org).
 
-**ELECTRONIC PRODUCT REGISTRATION**
+### Children's Privacy
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
+Protecting the privacy of the very young is especially important. We adhere to the 1998 Children's Online Privacy Protection Act (COPPA). For more information, visit the Federal Trade Commission's COPPA site.
 
-**CUSTOMER PROFILES**
+### Notification Guidelines
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+We do not send unsolicited commercial communications to individuals with whom we do not have consent/permission or a pre-existing or current relationship. NSF provides all notified recipients with a clear, easy and effective method to unsubscribe to any and all online communications.
 
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across Sleep.org by the National Sleep Foundation.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.
+### Acceptance of These Terms
 
-**WHAT DO WE DO WITH THE INFORMATION YOU SHARE?**
+Your use of NSF websites, Apps, online interactive tools and services shall indicate your understanding and acceptance of the terms of this Privacy Policy. If you do not agree with all the terms herein, you should not use our websites, Apps, online interactive tools and services.
 
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer.
+### Changes to Privacy Statement
 
-Sleep.org by the National Sleep Foundation will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sleep.org by the National Sleep Foundation or the site; (b) protect and defend the rights or property of Sleep.org by the National Sleep Foundation and its family of Web sites, and, (c) act in urgent circumstances to protect the personal safety of users of Sleep.org by the National Sleep Foundation, its Web sites, or the public.
+If we change our Privacy Policy for our websites, Apps, online interactive tools and services, we will post those changes here.
 
-**CHANGES TO THIS PRIVACY POLICY**
+### Questions
 
-Sleep.org by the National Sleep Foundation may change this Privacy Policy without notice. Sleep.org by the National Sleep Foundation will post the changed Privacy Policy on this Site.
-
-**CONTACT INFORMATION**
-
-If you have any questions about Sleep.org by the National Sleep Foundation’s Privacy Policy, please contact us using the information on the contact page of the Site.
+NSF welcomes your questions and comments about our Privacy Policy, about our practices, and about your dealings with our websites, Apps, and interactive tools and services. If you have any comments or questions, please contact us at [nsf@sleepfoundation.org](mailto:nsf@sleepfoundation.org).
