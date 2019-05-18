@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701233730id_/https%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animated-teeth.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518075709id_/https%3A//www.animated-teeth.com/reference/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Animated-Teeth.com and its owner WMDS, Inc.
 
@@ -28,9 +28,9 @@ Our web server's operating system creates log files documenting the information 
 
 ##### Why do we have a cookie notification on our website?
 
-Like essentially all other websites, Animated-Teeth.com utilizes browser cookies (small text files placed on a website visitor's hard drive, documenting activity that took place during their visit.)
+Like many other websites, Animated-Teeth.com utilizes browser cookies (small text files placed on a website visitor's device (computer, smartphone, etc...), documenting activity that took place during their visit.)
 
-We use cookies (or similar tracking methods) to analyze our traffic, provide social media features and personalize website content and ads. They are also used to share information about your use of our site with our social media, advertising and analytics partners.
+We use cookies or similar tracking methods to analyze our traffic, provide social media features and personalize website content and ads. They are also used to share information about your use of our site with our social media, advertising and analytics partners.
 
 ##### So why the notice?
 
@@ -42,26 +42,25 @@ The type of information that cookies document can include factors such as your I
 
 ##### Opting out.
 
-You can chose to disable or selectively turn off cookies in your browser settings, or by managing your web preferences in programs such as Norton Internet Security. However, doing so may affect how you are able to interact with our site. Site visitors may explore their options for opting out of the use of cookies by our website advertisers by visiting: 1) [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) web page. 2) [Media.net privacy policy](http://www.media.net/privacy-policy) web page.
+You can chose to disable or selectively turn off cookies in the settings section of the web browser you are using, or by managing your web preferences in programs such as Norton Internet Security. However, doing so may affect how you are able to interact with our site.
 
-For information about how third parties we have partnered with might utilize cookies and other tracking methods when you visit our site, or leave our site and visit theirs, please use the links below.
+Site visitors may explore their options for opting out of the use of cookies by our website advertisers by visiting the links below. Also, for information about how third parties we have partnered with might utilize cookies and other tracking methods when you visit our site, or leave our site and visit theirs, please select from the links below.
 
-Privacy Statements of Animated-Teeth.com's partners:
+Privacy Policies of Animated-Teeth.com's partners:
 
-> [Google.com](http://www.google.com/privacy.html)
->     Use the link above.
-> [Media.net](http://www.media.net/privacy-policy)
->     Use the link above.
-> [Walmart.com](http://corporate.walmart.com/privacy-security)
->     Use the link above.
-> [Amazon.com](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
->     Use the link above.
-> [JustAnswer.com](http://www.justanswer.com/privacy.aspx)
->     Use the link above.
-> [AddToAny.com](https://www.addtoany.com/privacy)
->     Use the link above.
-> Other Animated-Teeth.com links and advertising sponsors.
->     Please contact us and we will help you obtain the information you require.
+  * [Google.com](http://www.google.com/privacy.html)  
+[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)  
+[Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en)
+  * [Media.net](http://www.media.net/privacy-policy)  
+[Media.net privacy policy](http://www.media.net/privacy-policy)
+  * [Walmart.com](http://corporate.walmart.com/privacy-security)
+  * [Rakuten Marketing](https://rakutenmarketing.com/legal-notices/services-privacy-policy)
+  * [Amazon.com](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
+  * [JustAnswer.com](http://www.justanswer.com/privacy.aspx)
+  * [AddToAny.com](https://www.addtoany.com/privacy)
+  * Other Animated-Teeth.com links and advertising sponsors. \- Please contact us and we will help you obtain the information you require. 
+
+
 
 ### Third-Party Advertising
 
@@ -86,17 +85,17 @@ If users of Animated-Teeth.com have any questions or suggestions regarding our p
 ##### Postal address:
 
 > WMDS, Inc.  
-> 2238 Bluff Boulevard  
-> Columbia, MO 65201  
-> (573) 875-2146  
+> 5126 Starboard Side Drive  
+> Saint Louis, MO 63128  
+> (314) 768-0156  
 > 
 
-[Contact policy.](https://web.archive.org/web/20170701233730id_/https%3A//www.animated-teeth.com/reference/comments.htm)
+[Contact policy.](https://web.archive.org/web/20190518075709id_/https%3A//www.animated-teeth.com/reference/comments.htm)
 
 ##### Email contact:
 
-> This link will direct you to our [general contact email address.](https://web.archive.org/web/20170701233730id_/https%3A//www.animated-teeth.com/reference/comments.htm)
+> This link will direct you to our [general contact email address.](https://web.archive.org/web/20190518075709id_/https%3A//www.animated-teeth.com/reference/comments.htm)
 
-(September 21, 2015)
+(May 24, 2018)
 
-[](https://web.archive.org/web/20170701233730id_/https%3A//www.animated-teeth.com/site-search.htm)
+[](https://web.archive.org/web/20190518075709id_/https%3A//www.animated-teeth.com/site-search.htm)
