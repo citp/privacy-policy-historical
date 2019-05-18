@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126130109id_/https%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519011841id_/https%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - TheSmackDownHotel.com Forum
 
@@ -74,4 +74,4 @@ Here is a list of guides on how to do this for popular browser software:
 Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Therefore it is recommended that you do not disable cookies.
 
 Contact Information  
-If you have any questions about our Privacy Policy or Cookie Policy, please [contact us](https://www.thesmackdownhotel.com/contact/). 
+If you have any questions about our Privacy Policy or Cookie Policy, please [contact us](http://www.thesmackdownhotel.com/contact/). 
