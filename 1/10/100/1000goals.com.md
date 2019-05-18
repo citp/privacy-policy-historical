@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116234229id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518194421id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | 1000 Goals
-
-**27 February 2008** at 01:51 GMT
 
 Third Party Advertising:  
 We serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -16,28 +14,22 @@ This Web site does allow user to enter their email address at their own will for
 External Links  
 This site contains links to other sites. 1000goals.com is not responsible for the privacy practices or the content of such Web sites.
 
-### Latest Football News
+[ ](http://www.1000goals.com/news/lucas-moura-deserves-a-statue/)
 
-[ ](http://www.1000goals.com/news/boost-revealing-significant-gender-pay-gap-in-football-and-other-sports/)
+Lucas Moura "deserves a statue" after his hat-trick took Tottenham into an all-English Champions League final, says team-mate Christian Eriksen. Moura himself called it "the best moment of my career". Eriksen said: "It was a ridiculous game; we were really far down, we tried to fight back, we were just lucky." The Danish playmaker added:…
 
-Professional sports, including football have long been providing competition not only for men but also women and apart from the difference of popularity, another major gap that can be seen is in terms of earnings. According to recent findings from energy provider Boost, apparently there's a pretty huge difference between the best paid female football…
+[ ](http://www.1000goals.com/news/youll-never-walk-alone-with-the-kop/)
 
-[ ](http://www.1000goals.com/news/city-victorious-in-manchester-derby-chelsea-held/)
+Jurgen Klopp, Mo Salah, Virgil van Dijk and the Liverpool squad celebrate with their fans after completing an unforgettable turnaround against Barcelona.  
 
-Manchester City continuing their reign at the top of English Premier League standings following their impressive 3-1 home victory over rival, Manchester United at Etihad Stadium this Sunday. Pep Guardiola's men were very determined to pick up all three points as they put on an aggressive display straight from kick off in search of that…
+[ ](http://www.1000goals.com/news/how-to-manage-mental-health-as-a-well-known-athlete/)
 
-[ ](http://www.1000goals.com/news/manchester-clubs-grabbed-victories-and-controversies-in-champions-league/)
+Mental health seems to be swept under the carpet at every turn and this is especially true when dealing with athletes. Well-known athletes whether in high school, college, or in the professional ranks are put under a microscope far more than athletes in the past. Social media has given a look into the lives of…
 
-Manchester City and Manchester United both grabbed positive results on their latest UEFA Champions League group stage fixtures as they defeated their opponents, but not only that, they also grabbed the headlines for controversial things. Man City continue to show their dominance on their group with a massive 6-0 win against Shakhtar Donetsk, which saw…
+[ ](http://www.1000goals.com/news/seven-red-cards-in-six-years-at-camp-nou-for-atletico-madrid/)
 
-[ ](http://www.1000goals.com/news/liverpool-jeopardize-champions-league-qualification-tottenham-hopeful/)
+Diego Costa got a red card vs Barcelona because he said to referee Gil Manzano: "I s**t on your f***ing mother". The guy is absolutely nuts. Atletico Madrid went to the Camp Nou looking to keep the LaLiga Santandertitle race alive. Diego Costa left the pitch in the 29th minute, given a straight red by Gil Manzano for abusive language, and the Rojiblancos left…
 
-Liverpool's Champions League journey suddenly face a really serious threat as Jurgen Klopp's men found themselves beaten by Red Star Belgrade 2-0 on Tuesday. Winning their previous meeting with the Serbian outfit 4-0, The Reds players seemingly not expecting a strongly different scenario as they travel to that East Europa region. Starting off pretty good,…
+[ ](http://www.1000goals.com/news/bbc-match-of-the-day-week-32-31-03-2019/)
 
-[ ](http://www.1000goals.com/news/arsenal-growing-confidence-after-draw-against-liverpool/)
-
-Experiencing a rather tough start into their Premier League season, things finally starting to shape up well for Arsenal as despite their recent two draws in the competition they haven't been beaten in 14 games now in all competition. The 1-1 draw against Liverpool also pretty much showed that they can hang with the big…
-
-### Football Scores & Highlights
-
-### Latest Football Highlights
+Mark Chapman presents highlights and discussion of the day’s two Premier League games, with title-chasing Liverpool hosting Spurs and struggling Cardiff at home to Chelsea.A round-up of the weekend's football action. ﻿﻿
