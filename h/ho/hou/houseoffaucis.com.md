@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houseoffaucis.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116180401id_/http%3A//www.houseoffaucis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffaucis.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518041420id_/http%3A//www.houseoffaucis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - House of Fauci's
+# Privacy Policy - House of Faucis
 
 House of Fauci’s found at https://www.houseoffaucis.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
@@ -112,3 +112,5 @@ CONTACT INFORMATION
 At any time, please contact us at aimeefauci@gmail.com for questions related to this Privacy Policy.
 
 Last updated: May 4, 2018.
+
+[](https://www.pinterest.com/pin/create/button/)
