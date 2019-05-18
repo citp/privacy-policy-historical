@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824033919id_/https%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518033354id_/https%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
 
 # First Midwest Bank | Privacy & Security: Overview
 
