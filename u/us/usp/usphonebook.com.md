@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usphonebook.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020104536id_/http%3A//www.usphonebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usphonebook.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518105543id_/https%3A//www.usphonebook.com/privacy) for the most accurate reproduction.*
 
-# USPhoneBook Privacy Policy
+# USPhoneBook - Privacy Policy
 
 ##### Last Updated: July 4, 2018
 
@@ -128,7 +128,7 @@ We will share your personal information with third parties only in the ways that
 
 ##### III. ACCESS TO YOUR INFORMATION
 
-If for any reason you are concerned that the Personal Information or Billing Information you provided to us is not correct and you wish to change or delete it, you have the ability to review and update your personal information online by logging into your account, <https://www.usphonebook.com/login>. You can also email us regarding your personal information by using our contact form located at <https://www.usphonebook.com/contact>. If you change information in your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our USPhoneBook Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
+If for any reason you are concerned that the Personal Information or Billing Information you provided to us is not correct and you wish to change or delete it, you have the ability to review and update your personal information online by logging into your account, [https://www.usphonebook.com/login](https://www.peoplefinders.com/login). You can also email us regarding your personal information by using our contact form located at <https://www.usphonebook.com/contact>. If you change information in your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our USPhoneBook Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
 
 ##### IV. CHOICE AND OPT OUT
 
@@ -169,4 +169,4 @@ Customer Service
 PO Box 660675  
 Dallas, TX 75266-0675 
 
-Copyright © 2018 USPhoneBook, All rights reserved. 
+Copyright © 2019 USPhoneBook, All rights reserved. 
