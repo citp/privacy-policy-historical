@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224706id_/https%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoonflower.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518060205id_/https%3A//www.spoonflower.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Spoonflower
 
@@ -108,10 +108,10 @@ Email: [help@spoonflower.com](mailto:help@spoonflower.com)
 
 ### Data Protection Officer
 
-Spoonflower’s Data Protection Officer is Tom Gordon, who can be contacted at:
+Spoonflower’s Data Protection Officer is Joe Harris, who can be contacted at:
 
 Spoonflower, Inc.  
-Attn: Tom Gordon, Data Protection Officer  
+Attn: Joe Harris, Data Protection Officer  
 2810 Meridian Parkway, Suite 176  
 Durham, NC 27713  
 USA  
