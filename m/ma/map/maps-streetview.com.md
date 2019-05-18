@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the maps-streetview.com privacy policy that was archived on 2017-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170601051152id_/https%3A//www.maps-streetview.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maps-streetview.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518184427id_/https%3A//www.maps-streetview.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - https://www.maps-streetview.com
-
-###  Please, read this page carefully 
+# Privacy policy
 
 At https://www.maps-streetview.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by https://www.maps-streetview.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, https://www.maps-streetview.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, https://www.maps-streetview.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
 https://www.maps-streetview.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **DoubleClick DART Cookie**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are Google, Infolinks, Criteo, HotelsCombined and Careerjet. If you want to know what browsing data is collected by our advertising partners, please read their privacy policy pages.   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are Google, Media.net, HotelsCombined and Careerjet. If you want to know what browsing data is collected by our advertising partners, please read their privacy policy pages.   
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on https://www.maps-streetview.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on https://www.maps-streetview.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 https://www.maps-streetview.com has no access to or control over these cookies that are used by third-party advertisers. 
 
@@ -25,7 +23,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact [at] maps-streetview [dot] com 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at maps_streetview [at] yahoo [dot] com 
 
   
-[Maps-StreetView.com Home Page](https://www.maps-streetview.com/)
+
