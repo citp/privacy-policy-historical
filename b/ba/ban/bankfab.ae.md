@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankfab.ae privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903084949id_/https%3A//www.bankfab.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfab.ae privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518065231id_/https%3A//www.bankfab.ae/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | First Abu Dhabi Bank
+# Privacy Policy | First Abu Dhabi Bank, UAE
 
 First Abu Dhabi Bank PJSC and its affiliates (“FAB”) are committed to providing the highest level of protection regarding the processing of their customers’ personal data based on applicable data protection laws and regulations. 
 
