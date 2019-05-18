@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homecrux.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208014208id_/http%3A//www.homecrux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homecrux.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518114349id_/http%3A//www.homecrux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HomeCrux
 
@@ -34,7 +34,7 @@ Cookies are parcels of text sent by a server to a web client (usually a browser)
 
 ### **Why cookies?**
 
-[Cookies](http://www.homecrux.com/cookie-policy/) are a small piece of data sent from a website and stored in your web browser while you browse that website. Cookies immediately swing into action as soon as you load the website and send the cookies back to the server to notify your previous activity. These are useful techniques to collect and use information to ensure effortless log-in user experience, location and language settings on a website. Also, a cookie helps the website owners how often their site and pages are viewed by visitors. Furthermore, some cookies make it possible to track your surfing habits, by virtue of which sites and advertisers get to know about your preferences so they can show you more relevant ads.
+[Cookies](https://www.homecrux.com/cookie-policy/) are a small piece of data sent from a website and stored in your web browser while you browse that website. Cookies immediately swing into action as soon as you load the website and send the cookies back to the server to notify your previous activity. These are useful techniques to collect and use information to ensure effortless log-in user experience, location and language settings on a website. Also, a cookie helps the website owners how often their site and pages are viewed by visitors. Furthermore, some cookies make it possible to track your surfing habits, by virtue of which sites and advertisers get to know about your preferences so they can show you more relevant ads.
 
 Cookies are stored on your computer and you can remove them at any time. Remember that once you delete cookies from a website, you will need to log in or set all preferences all over again.
 
@@ -58,4 +58,4 @@ Email: contact[@]homecrux.com  |  info[@]homecrux.com 
 
 Your feedback is important to us. We’d love to hear your ideas, opinions and comments about Homecrux. Please email: contact[@]homecrux.com 
 
-IMPORTANT LINKS: [Cookie Policy](http://www.homecrux.com/cookie-policy/)  |  [Terms of Use](http://www.homecrux.com/terms/)
+IMPORTANT LINKS: [Cookie Policy](https://www.homecrux.com/cookie-policy/)  |  [Terms of Use](https://www.homecrux.com/terms/)
