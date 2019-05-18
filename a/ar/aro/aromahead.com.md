@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aromahead.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926145051id_/https%3A//www.aromahead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aromahead.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518171900id_/https%3A//www.aromahead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aromatherapy School and Courses - Aromahead Institute
 
@@ -17,7 +17,7 @@ Thus, you agree:
 
   * Not to disclose such information to any other person or use it in any manner other than what is taught.
 
-  * That all materials and information provided to you by Aromahead Institute are its confidential and proprietary intellectual property belonging solely and exclusively to Black and Butje INC, and may only be used by you as authorized by us.
+  * That all materials and information provided to you by Aromahead Institute are its confidential and proprietary intellectual property belonging solely and exclusively to Aromahead LLC, and may only be used by you as authorized by us.
 
   * The reproduction, distribution and sale of these materials by anyone but Aromahead Institute is strictly prohibited.
 
@@ -120,8 +120,8 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 
 **Information not contained in this policy**
 
-More details concerning the collection or processing of Personal Data may be requested from Aromahead at any time by emailing: [andrea@aromahead.com](mailto:andrea@aromahead.com).
+More details concerning the collection or processing of Personal Data may be requested from Aromahead at any time by emailing: [team@aromahead.com](mailto:team@aromahead.com).
 
-Aromahead Institute P.O. Box 1853 St Petersburg Florida 33731 United States (727) 469-3134
+Aromahead LLC P.O. Box 2734 Jackson Wyoming 83001 United States (727) 469-3134
 
-Last Modified: May 23, 2018
+Last Modified: April 9, 2019
