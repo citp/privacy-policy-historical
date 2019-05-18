@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the floryday.com privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719231425id_/https%3A//www.floryday.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floryday.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518163622id_/https%3A//www.floryday.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Floryday - Privacy Policy
+# Privacy Policy - Floryday
 
 PRIVACY POLICY
 
 * * *
 
-This Privacy Policy governs the manner in which Floryday collects, uses, maintains and discloses information collected from users (each, a "User") of the [Floryday.com](http://www.floryday.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Floryday.
+This Privacy Policy governs the manner in which Floryday collects, uses, maintains and discloses information collected from users (each, a "User") of the [Floryday.com](https://www.floryday.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Floryday.
 
  **Personal identification information**
 
@@ -52,6 +52,12 @@ We do not sell, trade, or rent Users personal identification information to othe
  **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+ **About Apple Pay**
+
+This Privacy Policy explains how personal data is used in Apple payment services (Apple pays). In addition, you should read the terms and conditions of Apple Pay. Your business activities through Floryday are not related to Apple Inc.
+
+When you use Apple Pay for payment, you may ask for bank card information, order amount and mailing address, but Floryday will not collect and store any information from your form, and will not share any of your personal information to advertising or other operating institutions in any form.
 
  **Changes to this privacy policy**
 
