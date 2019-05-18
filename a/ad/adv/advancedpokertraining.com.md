@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004071551id_/https%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518175511id_/https%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Advanced Poker Training
 
