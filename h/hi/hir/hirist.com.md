@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirist.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906165554id_/http%3A//www.hirist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirist.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518121549id_/https%3A//www.hirist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hirist.com
 
