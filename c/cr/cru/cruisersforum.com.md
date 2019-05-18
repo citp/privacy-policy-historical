@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cruisersforum.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008022846id_/http%3A//www.cruisersforum.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisersforum.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518150004id_/http%3A//www.cruisersforum.com/forums/misc.php%3Fdo%3Dsknetwork%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Cruisers & Sailing Forums
 
   
-Social Knowledge L.L.C. (Social Knowledge) operates an online network of peer community websites (collectively referred to herein as the Community Websites). For a list of all Community Websites, please click [_here_](https://www.socialknowledge.com/).
+Social Knowledge L.L.C. (Social Knowledge) operates an online network of peer community websites (collectively referred to herein as the Community Websites). For a list of all Community Websites, please click [_here_](http://www.socialknowledge.com/).
 
 Social Knowledge believes it is important to protect and respect the privacy of our members, users, and visitors. This Privacy Policy covers our treatment of personally identifiable information collected by Social Knowledge through our Community Websites.
 
