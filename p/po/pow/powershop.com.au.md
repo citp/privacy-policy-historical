@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powershop.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904064309id_/https%3A//www.powershop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powershop.com.au privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518154339id_/https%3A//www.powershop.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Powershop Australia
 
@@ -8,7 +8,7 @@ This privacy policy tells you about the way we, Powershop, collect information, 
 
 We're a customer-focused company, and that means we care about your privacy. In providing services to you we need to collect some personal information, and sometimes (as set out below) it's necessary to disclose that information to others (such as the government and regulatory bodies).
 
-[Powershop Privacy Policy](https://s3-ap-southeast-2.amazonaws.com/psau-wordpress/wp-content/uploads/2018/06/26033318/2016_PrivacyPolicy.pdf)
+[Download the Powershop Privacy Policy 2019](https://s3-ap-southeast-2.amazonaws.com/psau-wordpress/wp-content/uploads/2019/02/19110341/2019_privacy_policy_powershop.pdf)
 
 ##### Website
 
@@ -26,7 +26,7 @@ When we collect your personal information we will normally provide you with info
 
 ##### What information we collect and how we collect it
 
-In providing services Powershop may collect and hold personal information about you and your property. Powershop may collect information directly from you (including through our agents such as telemarketers), from our website, and from third parties who are involved in your electricity supply (such as your distribution company or metering data provider). We may collect information in a variety of ways, such as through promotions, surveys, recordings of customer calls, sales calls, customer tickets, posts on our blog, from a credit reporting agency, etcetera.
+In providing services Powershop may collect and hold personal information about you and your property. Powershop may collect information directly from you (including through our agents such as telemarketers), from our website (including through our customer live-chat application), and from third parties who are involved in your electricity supply (such as your distribution company or metering data provider). We may collect information in a variety of ways, such as through promotions, surveys, recordings of customer calls, sales calls, customer tickets, posts on our blog, from a credit reporting agency, etcetera.
 
 We manage sensitive information with particular care, including information on racial and ethnic origin, political opinion, political association membership, religious beliefs and affiliations, philosophical beliefs, professional and trade association membership, trade union membership, sexual preferences or practices, criminal record, or health information. We will obtain your consent prior to collecting, using or disclosing your sensitive information, unless the collection of the information is required by law.
 
@@ -76,7 +76,7 @@ If at any time you wish to stop receiving information about new products or serv
 
 ##### Storage and security of personal information
 
-We will keep personal information secure. Most personal information will be held in our customer application which is stored and processed in Australia and New Zealand. However, some personal information will be held in physical files at our offices or electronically in our computer network. Our staff members have unique user identifications and passwords. We work to ensure that our staff members understand all of their and our responsibilities under the Act. Our physical premises are protected by reasonable security precautions. We do use some services which involve the transfer, processing and storage of some personal information (for example, global messaging platforms) outside of Australia, including New Zealand and the United States of America. These services are likewise protected by unique user identifications and passwords. In respect of those customers who sign up via an overseas aggregator, we may share personal information, for general business and corporate purposes, with such aggregators, in countries including South Africa and the Philippines. Information disclosed to such overseas aggregators will be transmitted securely.
+We will keep personal information secure. Most personal information will be held in our customer application which is stored and processed in Australia and New Zealand. However, some personal information will be held in physical files at our offices or electronically in our computer network. Our staff members have unique user identifications and passwords. We work to ensure that our staff members understand all of their and our responsibilities under the Act. Our physical premises are protected by reasonable security precautions. We do use some services which involve the transfer, processing and storage of some personal information (for example, our customer live-chat application and global messaging platforms) outside of Australia, including New Zealand, the United States of America and the European Economic Area. These services are likewise protected by unique user identifications and passwords. In respect of those customers who sign up via an overseas aggregator, we may share personal information, for general business and corporate purposes, with such aggregators, in countries including South Africa and the Philippines. Information disclosed to such overseas aggregators will be transmitted securely.
 
 ##### Email
 
@@ -140,4 +140,4 @@ We may change this policy at any time. We will tell you about changes by posting
 
 If you have any questions about our privacy policy or any other matter, please contact us.
 
-* This Privacy Policy was published on 12 October 2016 and replaces all previous Powershop Privacy Policies.
+* This Privacy Policy was published on 18 February 2019 and replaces all previous Powershop Privacy Policies.
