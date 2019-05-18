@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116154834id_/http%3A//www.supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersafemailer.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518035219id_/http%3A//supersafemailer.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Super Safe Mailer
 
-Super Safe Mailer Privacy Policy  
+Super Safe Mailer  
+Privacy Policy  
 
 
   
