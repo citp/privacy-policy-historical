@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.co.za privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927132912id_/https%3A//www.freelancer.co.za/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.co.za privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518160146id_/https%3A//www.freelancer.co.za/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
