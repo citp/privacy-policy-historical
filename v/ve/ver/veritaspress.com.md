@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veritaspress.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509183902id_/https%3A//www.veritaspress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritaspress.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518231657id_/https%3A//veritaspress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Veritas Press | Privacy Policy
 
 Veritas Press is committed to protecting your privacy when you visit our websites. This privacy policy outlines how we collect information when you visit one of our sites, how we use that information, and how you can update it.
 
@@ -58,7 +58,7 @@ Collective information about site users – but never individuals’ information
 
 ## COPPA notice
 
-The Children’s Online Privacy Protection Act, or COPPA, applies to the collection of personal information from children under 13. Veritas Press (www.veritaspress.com & www.veritasbible.com) offers programs for students in grades K-12. It collects personal identifying information through its inquiry and application forms. Veritas Press realizes that children may occasionally fill out and submit these forms.
+The Children’s Online Privacy Protection Act, or COPPA, applies to the collection of personal information from children under 13. Veritas Press ([www.veritaspress.com](http://www.veritaspress.com/) & [www.veritasbible.com](http://www.veritasbible.com/)) offers programs for students in grades K-12. It collects personal identifying information through its inquiry and application forms. Veritas Press realizes that children may occasionally fill out and submit these forms.
 
 Parents may ask to have the child’s personal identifying information deleted by using the contact information below.
 
@@ -82,5 +82,3 @@ Our student and faculty services site provide you with the option of changing an
 ## Changes to this policy
 
 Veritas Press reserves the right to append or otherwise modify this Privacy Policy at any time. We expect any such changes to be minor, and notification of all changes will be made on this page. Each version of the Privacy Policy will be dated at the bottom of the page.
-
-Updated July 31st, 2015
