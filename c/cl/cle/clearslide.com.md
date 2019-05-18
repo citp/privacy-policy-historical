@@ -1,42 +1,56 @@
-> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112080948id_/http%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearslide.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519004551id_/https%3A//www.clearslide.com/legal/privacy) for the most accurate reproduction.*
 
 # ClearSlide Privacy Statement | ClearSlide
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=1fc22ab8-47fc-4283-9df2-4ac1ecb6dd00)
+**Introduction**
 
-### **Privacy Statement Last Updated on:**  August 8, 2018
+ClearSlide, Inc. (“ **ClearSlide** ,” “ **us** ,” or “ **we** “) is committed to protecting your privacy. This privacy policy describes ClearSlide’s information practices and the choices available to you regarding ClearSlide’s use of your personally identifiable information (that is, information that can be used to identify a person, hereinafter referred to as “PII”) and how you are able to access and update this information.
 
-## Introduction
+ClearSlide provides a variety of web-based and mobile services designed specifically for the communication needs of sales teams (the “ **Services** “). The Services are made available to users who have ClearSlide accounts (“ **Customers** “) via the web site located at www.clearslide.com (the “ **Site** “). ClearSlide and its Customers use the Services to communicate with their customers and sales prospects (“ **Viewers** “). The Services allow ClearSlide and its Customers to upload presentations, sales collateral and other content (“Content”) to the Site, in addition to information, including PII, about Viewers. ClearSlide and its Customers use the Services to communicate with Viewers and share Content in a variety of ways, including via email and browser-based online presentations. Customers retain all rights to Content they upload to the ClearSlide Service. ClearSlide will not access or modify Customer Content except as necessary to provide the Services, prevent or resolve service or technical problems, or at Customer’s request in connection with support matters. ClearSlide will not disclose Customer Content except as described in this privacy policy or the agreement governing Customer’s use of our Services, or for purposes of allowing Customer to share Content with Viewers via the Services.
 
-ClearSlide, Inc., 150 Spear Street, Suite 1500, San Francisco, California, 94105, U.S.A. (“ **ClearSlide** ,” “ **us** ,” or “ **we** “) is committed to protecting your privacy.  This document describes ClearSlide’s information practices and the choices available to you regarding ClearSlide’s use of your personally identifiable information (that is, information that can be used to identify a person, hereinafter referred to as “ **Personal Data** ”). If you are in the European Union (“ **EU** ”), see the information intended for EU residents at the end of this Privacy Statement.  
-ClearSlide provides a variety of web-based and mobile services designed specifically for the communication needs of sales and marketing teams (the “ **Services** “). The Services are made available to users who have ClearSlide accounts (“ **Customers** “) via the website located at www.clearslide.com (the “ **Site** “). ClearSlide and its Customers use the Services to communicate with their customers and sales prospects (“ **Viewers** “). Some visitors may also choose to only browse the Site without using the Services (“ **Visitors** ”). We will refer to Customers, Viewers and Visitors collectively as “ **Users** ”. The Services allow ClearSlide and its Customers to upload presentations, sales collateral and other content (“ **Content** ”) to the Site, in addition to information, including Personal Data, about Viewers. Customers use the Services to communicate with Viewers and share Content in a variety of ways, including via email and browser-based online presentations.  
-The use of information collected through our Services shall be limited to the purpose of providing the Services for which a Customer has engaged ClearSlide, or as otherwise described in this Privacy Statement. We will not sell your data to any third parties.
+The use of information collected through our Services shall be limited to the purpose of providing the Services for which Customer has engaged ClearSlide, or as otherwise described in this privacy policy
 
-## 1\. The Data We Process; Purposes of Processing
+**EU-U.S. and Swiss-US Privacy Shield**
 
-Depending on how you interact with us, we process different kinds of data in different ways.  Some data is automatically processed if you visit our Site or use our Services. Other data is only processed if you actively submit it to us (like using our web forms to get in touch with us).
+ClearSlide, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  ClearSlide is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-### Data we process if you visit our Site:
+ClearSlide is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  ClearSlide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-Even if you are only a Visitor on our Site, your computer or device automatically sends technical information to our web servers that we store in log files, including the following “ **Website Usage Data** ”:
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ClearSlide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission **.  **In certain situations, ClearSlide may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-  * Date and time of the visit and the duration of use of the Site;
-  * The IP address of your device as well as your internet service provider (ISP);
-  * The referral/exit URL;
-  * The visited subsites of the Site;
-  * Clickstream data; and
-  * Other information about your device (type of device, browser type and version as well as settings, installed plug-ins, operating system).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please follow the link below for information on how to file a claim (free of charge) under the JAMS International Mediation Rules: <https://www.jamsadr.com/eu-us-privacy-shield>.
 
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
+The Site and Services (including Content viewed thereon) may contain links to other web sites. We are not responsible for the information practices or the content of such other web sites. Please note that in the event that you submit PII to any of those sites, your information is governed by their privacy policies. We encourage you to review the privacy policies of other web sites to understand their information practices.
 
-We process Website Usage Data to allow you to surf the Site and to ensure its functionality. We also process Website Usage Data to perform analyses on the performance of the Site, to continuously improve the Site and correct errors, to ensure IT security and operation of our systems, as well as to prevent or uncover abuse. We further process this data in aggregated or pseudonymized form to analyze trends, administer the Site, track Users’ movements around the Site, and to gather demographic information about our user base as a whole in order to improve marketing (including serving you personalized, interest-based ads) as well as the user experience for our Services and guaranteeing the safety of our IT systems.  
-To process Website Usage Data, we use cookies and similar technologies. [Click here](https://web.archive.org/legal/cookies/) to review our Cookie and Tracking Tool Notice.
+Information You Provide to ClearSlide and How We Use It
 
-### Data we process if you use the Services or view Customer Content:
+**Customers:**  If you are a Customer, ClearSlide may require you to provide information (including PII) to allow us to deliver the Services, to manage and administer your account, and for billing purposes. To those ends, we may require Customers to submit information such as names, company names, email addresses, phone numbers, billing addresses, and financial qualification information.
 
-In this Privacy Statement, we assume the Customer is an individual. If, instead, the Customer is a legal entity, all explanations regarding a Customer will instead refer to the Customer’s employees or other individuals using the Services with the Customer’s account.
+Customers also provide other information to ClearSlide through their use of the Services. For example, the Services allow Customers to input names, email addresses, phone numbers, and other information about Viewers that Customers wish to use the Services to communicate with. ClearSlide does not use or access such information except with Customer’s permission, in order to provide the Services, and to provide related support and assistance. ClearSlide does not sell this information. ClearSlide does not use this information to contact Viewers except on Customer’s behalf and at Customer’s direction. ClearSlide will not allow other ClearSlide customers to access this information.
 
-**Customer Data:** We automatically process information about your account and your interaction with and use of the Services. We process this information in order to deliver the Services and to provide you with reporting and analytics relating to your use of the Services. This data includes:
+Customers may also submit Content  for use in connection with the Services, including for the purpose of sharing such Content  and communicating with Viewers. Customers are solely responsible for all Content  and other information they input into the Services. ClearSlide will not alter Content  that Customers intend to share via screen sharing Services, and will not share Content  via its screen sharing Services with third parties other than those with whom Customer intends to share Content .
+
+**Viewers:**  If you are a Viewer, ClearSlide or its Customers may request that you provide them with information (including PII) via the Services in order to view Content.
+
+If a Customer asks you to provide this information to Customer via the Services and you provide it, ClearSlide stores this information on behalf of our Customers. In the event you provide a Customer with this information, you do so in accordance with that Customer’s privacy practices and policies. ClearSlide is not responsible for the privacy practices of its Customers, and does not access this information except with Customer’s permission, in order to provide the Services and related support and assistance. If ClearSlide requests that you provide this information to ClearSlide via the Services and you provide it, ClearSlide stores and uses this information on our own behalf in accordance with this privacy policy.
+
+When ClearSlide collects information under the direction of its Customers, it has no direct relationship with the individuals whose personal data it processes. If you are a customer or sales prospect of one of our Customers, or a Viewer of Customer Content , and would no longer like to be contacted by one of our Customers that use our Services, please contact the Customer that you interact with directly. When ClearSlide collects information on its own behalf, it does so in accordance with this privacy policy. If you are a ClearSlide sales prospect, or a Viewer of ClearSlide Content , and you would no longer like to be contacted by ClearSlide, please contact [privacy@clearslide.com](mailto:privacy@clearslide.com).
+
+We may transfer PII to companies that help us provide our Services. Transfers to subsequent third parties are covered by service agreements with those third parties.
+
+**Visitors:**  If you visit our Site and are not a Customer or Viewer (a “Visitor”), and you request more information about ClearSlide via web form, email, or similar means available on our Site, we may ask you to provide us with your name, company, job title, company email address, and information about your company. We may use this information to contact you later regarding use of our Services and/or becoming a Customer.
+
+**Referral Service:**  If you choose to use ClearSlide’s referral service to tell a friend about ClearSlide’s Site or Services, ClearSlide will ask you for your friend’s name, company name, and email address. ClearSlide will automatically send your friend an email inviting him or her to visit the Site or utilize the Services. ClearSlide stores this information for the purpose of sending this one time email and tracking the success of our referral program.
+
+If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, for service fee and process of removal, please contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com).
+
+Information We Automatically Collect and How We Use It
+
+**From Customers:**  If you are a Customer, we may automatically collect information about your account and your interaction with and use of the Services. We collect this information in order to deliver the Services and to provide you with reporting and analytics relating to your use of the Services.
+
+This information may include:
 
   * Date and time you uploaded Content to our Service;
   * Whether or not Content was modified by you;
@@ -46,126 +60,112 @@ In this Privacy Statement, we assume the Customer is an individual. If, instead,
 
 
 
-This information is made available to the Customer in your user account and may be associated with other Personal Data that the Customer provides us. For example, a Customer can provide information (including Personal Data) to allow us to deliver the Services, to manage and administer your account, and for billing purposes. To those ends, a Customer can submit information such as names, company names, email addresses, phone numbers, billing addresses, and financial qualification information such as a valid credit card.
+This information is made available to Customers via the Services and may be associated with other information about Customer and its Viewers (including PII) that Customers provide us.
 
-A Customer may also submit Content for use in connection with the Services. Each Customer is solely responsible for all Content and other information it inputs into the Services. ClearSlide will not alter Content that a Customer intends to share via screen-sharing Services and will not share Content via its screen-sharing Services with other Customers or third parties other than those with whom the Customer intends to share Content.
+**From Viewers:**  If you are a Viewer who views Content you receive from ClearSlide or a Customer via the Services, we may automatically collect information about your interaction with such Content and our Services. We collect this information in order to deliver the Services and to provide ClearSlide and our Customers with reporting and analytics relating to your interaction with Content and our Services.
 
-**Viewer and Other Third-Party Data:**  If you view Customer Content, we will process your Personal Data solely on our Customers’ behalf. This means that we only follow our Customers’ instructions and have no knowledge of or control over the extent our Customers will process Personal Data for their own purposes. When we process Personal Data under the direction of a Customer, we have no direct relationship with the individuals whose Personal Data such Customer processes. Thus, we store this information on behalf of each of our Customers. In the event you provide a Customer with this information, you do so in accordance with that Customer’s privacy practices and policies. We are not responsible for the privacy practices of our Customers, and do not access this information except with our Customers’ permission, in order to provide the Services and related support and assistance. It is each Customer’s sole responsibility to comply with applicable privacy or data protection laws. If you are a customer or sales prospect of one of our Customers, or a Viewer of Customer Content, and would no longer like to be contacted by one of our Customers through our Services, please contact that Customer directly.
+This information may include:
 
-If you are a Viewer who views Content you receive from a Customer via the Services, we may automatically collect information about your interaction with such Content and our Services. We collect this information in order to deliver the Services and to provide our Customers with reporting and analytics relating to your interaction with Content and our Services. This information includes:
-
-  * Whether or not you have viewed or are viewing Content;
+  * Whether or not a you have viewed or are viewing Content
   * Date and time you viewed the Content;
   * Number of times and length of time Content was viewed;
   * Which portions of the Content were viewed;
   * Whether or not you have forwarded Content received via the email function of the Services;
-  * Your phone number (if using conference calling features); and
+  * Your phone number (if utilizing conference calling features); and
   * Your IP address and location.
 
 
 
-This information will be made available to our Customers and may be associated by us or our Customers with the Personal Data that our Customers have provided us or that you have provided to our Customers via the Services. We do not use this Personal Data except with a Customer’s permission, in order to provide the Services, and to provide related support and assistance. We do not use this information to contact Viewers, except on a Customer’s behalf and at such Customer’s direction. We will not allow other Customers to access this information.
+This information will be made available to ClearSlide or our Customers who communicate with you via the Services, and may be associated by ClearSlide or our Customers with other information about you (including PII) that Customers have provided us or that you have provided to Customers via the Services. ClearSlide does not use or access Viewer PII collected by its Customers through their use of Services except with Customer’s permission, in order to provide the Services, and to provide related support and assistance. ClearSlide does not sell this information. ClearSlide does not use this information to contact Viewers, except on Customer’s behalf and at Customer’s direction. ClearSlide does not sell this information. ClearSlide will not allow other ClearSlide customers to access this information.
 
-If you are a Viewer, a Customer may request that you provide it with additional Personal Data via the Services in order to view Content (such as your name or company). Customers also provide certain Viewer information to us through their use of the Services. For example, the Services allow Customers to input names, email addresses, phone numbers, and other information about Viewers with which Customers wish to use the Services to communicate. We do not use or access such information except with a Customer’s permission, in order to provide the Services, and to provide related support and assistance. We do not sell this information. We do not use this information to contact Viewers except on a Customer’s behalf and at such Customer’s direction. We will not allow other ClearSlide Customers to access this information.
+**From Visitors:**  If you are a Visitor to our Site, we may automatically collect anonymous information relating to your navigation on the Site (including IP Address, referral URL, browser type and operating system). We collect this information to help us improve our Site.
 
-We collect information about the way you use our Services (“ **Services Usage Data** ”). We process Services Usage Data so that we can facilitate, evaluate, and verify your use of the Services. We will also use the Services Usage Data for our own analyses about how the Services are used, and compile statistical and performance information related to the provision and operation of the Services. We may make such statistical and performance information publicly available in an aggregated manner, provided that such information does not incorporate identifiable Customer data and/or Customer confidential information.
+Navigational Information
 
-### Data we process only if you submit it to us
+**Tracking Technologies:**  ClearSlide and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-**Customer Support Data:** You may make a request for assistance with our customer support team or submit a complaint. In this case, in order to respond to your request, we will process your IP address and contact data as well as the contents of your request.
+**Analytics / Log Files:**  As is true of most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve Services we offer you, or to improve marketing, analytics, or Site functionality.
 
-**Referral Service:**  If you choose to use ClearSlide’s referral service to tell a friend or colleague about ClearSlide’s Site or Services, ClearSlide will ask you for that person’s name, company name, and email address. ClearSlide will automatically send an email inviting him or her to visit the Site or utilize the Services. ClearSlide stores this information for the purpose of sending this one-time email and tracking the success of our referral program.
+**Other Statistical Information:**  ClearSlide may monitor Customers’ use of the Services, analyze Customer data, and compile statistical and performance information related to the provision and operation of the Services. ClearSlide may make such statistical and performance information publicly available in an anonymized and aggregated manner, provided that such information does not incorporate identifiable Customer data and/or Customer confidential information.
 
-**Applicant Data:** If you would like to apply for employment with ClearSlide, you can apply online at [www.clearslide.com](http://www.clearslide.com/) on our Career page. We will process your application data solely for the purpose of responding to your application unless you give us your explicit consent to keep your application on file to contact you with further job offers in the future.
+**Linking, Syncing and Sharing Information with Google:**  
+ClearSlide had the ability to connect to your Gmail account to send emails and upload content into your ClearSlide account. Depending on the connection ClearSlide has access to the following information from a users Gmail account:  
+**Gmail plugin:** Through Gmail Plug-in Clearslide has permission to read and change users data, communicate with cooperating websites and view the statistics.  
+**OAuth login (Compose Email):** Through OAuth ClearSlide has permission to send email on users behalf.  
+**Google Drive Integration:** Clearslide has permission to view and allow the user to download and upload their content into our service.
 
-**Business Contact or Sales Prospect Data:** If you are a business contact or sales prospect that has provided us your Personal Data, we will store your data in our database so that we can follow up on previous business conversations we’ve had with you, provide you additional information about our Services, or assist you in purchasing our Services. We may also share your Personal Data with sales representatives employed with our local affiliates or resellers so that they can work with you to complete any requested purchase of our Services.
+**Re-Targeting:**  ClearSlide partners with third parties to either display advertising on our Site or to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on our Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-## 2\. Sharing Personal Data with Third Parties
+With Whom Will We Share Your Information?
 
-We treat your Personal Data with care and confidentially and will only pass it on to third parties to the extent described below and not beyond. We do not share, sell, rent, or trade Personal Data with third parties for any promotional purposes. Where our affiliates, resellers, or service providers process Personal Data, they will do so solely on our instructions and have undertaken to comply with strict contractual requirements for the security of your data (including, but not limited to, complying with this Privacy Statement).
+Our primary goal in collecting any information from you, including PII, is to provide you with the best Service we can. We believe we offer a unique Service which greatly improves the ability of our customers to sell and communicate to their customers. We will share your personal information with third parties only in the ways that are described in this privacy policy. ClearSlide does not share, sell, rent, or trade PII with third parties for their promotional purposes.
 
-**Our Customers:** Acting as a service provider on behalf of our Customers, we share Personal Data with our Customers. At a Customer’s request and on such Customer’s behalf, we also share Customer information with such Customer’s own third-party service providers (for example, information about your use of the Site and Services may be shared via API with a CRM system such as Salesforce).
+ClearSlide may share information collected from Customers or Viewers with third party service providers that perform work on ClearSlide’s behalf or which ClearSlide utilizes to deliver, monitor, or improve the Site and Services. ClearSlide may, at Customer’s request and on Customer’s behalf, share Customer information with Customer’s own third party service providers (for example, information about your use of the Site and Services may be shared via API with a CRM system such as Salesforce). Any transfers to third parties are covered by the provisions of this privacy policy pertaining to notice and choice as well as the applicable agreements governing our relationship with our Customers. These third parties are authorized to use your PII only as necessary to provide services to ClearSlide.
 
-**Service Providers:** ClearSlide transmits data to service providers that enable us to provide our Site and market, sell, and deliver our Services. This includes the parties providing our third-party cookies and tracking tools, listed on our Cookies and Third-party Tracking Notice (available [here](https://web.archive.org/legal/cookies/)), as well as parties providing us with services to assist us in processing transactions, including credit card transactions, providing customer support, managing customer relationships (like Saleforce.com), hosting the Site (like Amazon Web Services “ **AWS** ”), collecting, storing, or removing your information, or performing statistical analysis of our Site (such as Google). We occasionally also share Personal Data with independent auditors acting on our behalf, for anti-piracy or revenue accounting purposes in connection with the internal operations of our business. We sometimes need to share your information with these companies in order for them to provide the applicable services.
+We may also share your information in connection with the following:
 
-**Affiliated Companies:** We are part of a global group of affiliated companies. In this context we might share Personal Data with our parent company, Corel Corporation. For more details on Corel Corporation and the individual affiliated companies, please refer to <https://www.corel.com/en/contact-us/>.
+**Legal Compliance:**  ClearSlide reserves the right to use or disclose any information provided by Visitors, Customers or Viewers if required by law, to investigate fraud, or if ClearSlide reasonably believes that use or disclosure is necessary to protect your safety or the safety of others, ClearSlide’s rights and/or to comply with a judicial proceeding, court order, subpoena or other legal process, or to any third party with your prior consent to do so.
 
-**Business Transactions:  **In the event ClearSlide goes through a business transaction such as a merger, an acquisition by another company, or a sale of all or a portion of its assets to which this Privacy Statement relates, your information will likely be among the assets transferred and, in such case, you will be notified in advance via email and/or a prominent notice on our Site of such change in ownership or a change in the use of your Personal Data, as well as any choices you may have regarding your Personal Data (including, if applicable, your right to object to such transfer).
+**As Part of an Asset Transfer:**  In the event ClearSlide goes through a business transaction such as a merger, an acquisition by another company, or a sale of all or a portion of its assets to which this privacy policy relates, your information will likely be among the assets transferred and you will be notified via email and/or a prominent notice on our Web site of such change in ownership or a change in the use of your PII, as well as any choices you may have regarding your PII. You acknowledge that such transfers may occur.
 
-**Public Authorities** : Although we make every effort to preserve user privacy, we may need to disclose personal information when required by law, such as when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or litigation or other legal process or action (whether or not initiated by ClearSlide) to protect ClearSlide’s, our users’ or third parties’ rights, property or safety. We will transmit data to public authorities such as law enforcement or tax authorities only in the case of a legal obligation to do so based on a request for information from the respective authority.
+**Cross-Border Transfer:**  Your information may be transferred to and maintained on computers located outside of your state, province, or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction. If you are located outside of the United States and choose to provide PII to us, we may transfer the information to the United States and processes it there.
 
-## 3\. Timeframe for Keeping Data
+**Security**
 
-We process and store Personal Data as long as necessary for the fulfillment of our contractual or legal obligations. Thus, when we have no ongoing legitimate business need to process your Personal Data, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your Personal Data and isolate it from any further processing until deletion is possible.
+ClearSlide protects your information online by using industry standard encryption methods to prevent unauthorized access to Content, data, and Customer account information stored on our servers. To learn more about encryption generally, please click [here](http://en.wikipedia.org/wiki/Encryption).
 
-## 4\. Reviewing and Requesting Changes to Your Information
+When you enter sensitive information (such as credit card number) on our registration or order forms, or your login credentials to our platform, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, please click [here](http://en.wikipedia.org/wiki/Secure_Socket_Layer). We protect PII in our databases, and any sensitive transmission of passwords and authentication tokens are transmitted using HTTPS (TLS 1.0/1.2). If you are a Customer of ClearSlide and wish have SSL enabled throughout the Services, please contact your ClearSlide account manager or sales representative.
 
-**EU users: please refer to Section 6 below for your statutory rights under the GDPR**  
-Upon request, ClearSlide will make a reasonable effort to inform you regarding whether we hold any of your personal information. Customers may update, delete, access or change their account information by editing their user, group, or team records within the account management pages of the Site. To update a Customer profile, login to your ClearSlide account at _https://www.clearslide.com/_ and click on “My Account” or by emailing us at [privacy@clearslide.com](mailto:privacy@clearslide.com). You will then be able to change your name, address, and phone number, which notification emails you receive from us, your Live Pitch link URL, and your password. We will respond to any requests for access to personal information within 30 days after receipt.  
-To update Customer billing information, contact your account manager or email [billing@clearslide.com](mailto:billing@clearslide.com) for assistance.
+ClearSlide and its service providers also maintain strict physical security at properties and facilities and only provide access to authorized personnel.
 
-If you are a Viewer, you may opt-out of receiving emails you receive from ClearSlide or specific Customers by clicking on the “opt-out” link at the bottom of the email you received, or you may email us at [privacy@clearslide.com](mailto:privacy@clearslide.com) or call us at 1-800-360-DEMO (3366) in order to opt-out.
-
-If you have signed up to receive marketing emails from ClearSlide, you can opt-out of receiving future marketing emails by following the foregoing process. Customers cannot opt-out of receiving all transactional emails related to their ClearSlide account, but may change their account settings (as described above) to reduce the frequency or eliminate certain ClearSlide notification emails.
-
-## 5\. Security
-
-ClearSlide protects your information online by using industry standard encryption methods to prevent unauthorized access to Content, data, and Customer account information stored on our servers. To learn more about encryption generally, click [here](http://en.wikipedia.org/wiki/Encryption).
-
-When you enter sensitive information (such as credit card number) on our registration or order forms, or your login credentials to our Site, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, click [here](http://en.wikipedia.org/wiki/Secure_Socket_Layer). We protect Personal Data in our databases, and any sensitive transmission of passwords and authentication tokens are transmitted using HTTPS (TLS 1.0/1.2). If you are a Customer of ClearSlide and wish to have SSL enabled throughout the Services, contact your ClearSlide account manager or sales representative.
-
-ClearSlide and our service providers also maintain strict physical security at properties and facilities and only provide access to authorized personnel.  
-Access to the information you provide us is restricted to that granted to our employees, contractors, and agents who need to know that information in order to operate, develop, or improve our Site or Services.
+Access to the information you provide us with is restricted to those of our employees, contractors and agents who need to know that information in order to operate, develop or improve our Site or Services.
 
 While we follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Site or Services, you can email us at [security@clearslide.com](mailto:security@clearslide.com).
 
-## 6\. Information for EU Residents:
+**Children**
 
-You are not legally required to provide ClearSlide with the Personal Data described in this Privacy Statement. Further, the contractual relationship that you might have entered into with us by agreeing to our terms and conditions does not imply any obligation to provide your Personal Data. However, you might not be able to use our Service to the full extent if you do not provide us with certain data or object to the use of this data.
+The Services and Site are not intended for use by children under the age of 18, and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that his or her child has provided ClearSlide with PII, he or she should contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com). If you believe that we have mistakenly or unintentionally collected such information through our Site, please notify us at [privacy@clearslide.com](mailto:privacy@clearslide.com), so that we may immediately delete the information from our servers.
 
-### Our Legal Basis for Processing
+**Testimonials**
 
-When processing your Personal Data, we rely on the General Data Protection Regulation, an EU-wide legal framework for the standardization of data protection (“ **GDPR** ”). To the extent that we process personal data not on behalf of our Customers but for our own purposes **,** we process this data solely for the purposes explained above under Section 1. These purposes represent our legitimate interests for the purposes of Article 6 (1) f) GDPR. In addition, we are legally obliged to provide certain information to criminal prosecution or tax authorities in individual cases upon request. In these cases, the legal basis for the processing are either legal requirements (Article 6 (1) c GDPR) or reasons of public interest (Article 6 (1) e) GDPR).
+ClearSlide displays endorsements, as well as personal testimonials of satisfied Customers on our site. With your consent ClearSlide may post your testimonial along with your name. If you wish to update or delete your testimonial, you may contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com).
 
-### Transferring your Data outside the EU or the EEA
+**Social Media Widgets**
 
-ClearSlide’s principal place of business in the United States which is a “ **Third Country** ”, under the GDPR. Third Countries are generally not considered to afford the same level of protection that you enjoy in the EU, but ClearSlide still provides an adequate level of protection for your Personal Data. We have certified our compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework and will subject all Personal Data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+The ClearSlide Site includes social media features, such as the Facebook ‘Like’ button and widgets, such as a ‘Share this’ button or interactive mini-programs. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing them.
 
-ClearSlide is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and for any data it subsequently transfers to a third party acting as an agent on its behalf.  ClearSlide complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+**Blog and Forum**
 
-With respect to personal data received ** ** or ** ** transferred pursuant to the Privacy Shield Frameworks, ClearSlide is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Our Site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your PII from our blog or community forum, contact us at [privacy@clearslide.com](mailto:privacy@clearslide.com). In some cases, we may not be able to remove your PII, in which case we will let you know if we are unable to do so and why.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the PII that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
-Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+**How Can You Review or Request Changes to Your Information?**
 
-We have ensured that our service providers and affiliates have either certified under the EU-U.S. Privacy Shield Framework and will process all Personal Data received from EU member states in reliance on the Privacy Shield Framework or that they have been subjected to strict contractual provisions in their contract with us to guarantee an adequate level of data protection for your data.
+Upon request, ClearSlide will make a reasonable effort to provide you with reasonable information whether we hold any of your personal information within reasonable time. Customers may update, delete, access, or change their account information by editing their user, group, or team records within the account management pages of the Site. To update a Customer profile, login to your ClearSlide account at [https://www.clearslide.com/.](https://www.clearslide.com/) and click on “My Account.” or by emailing us at [privacy@clearslide.com](mailto:privacy@clearslide.com). You will then be able to change your name, address and phone number, which notification emails you receive from us, and your Live Pitch link URL and your password. We will respond to any requests for access to personal information within 30 days of receipt of such request.
 
-### Your rights regarding the processing of your Personal Data
+We will retain Customer information for as long as Customer’s account is active, as needed to provide Customers the Services, or as otherwise set forth in the agreement governing Customer’s use of the ClearSlide Services. We will retain and use Customer information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-As a natural person, you have certain rights as “Data Subject”. You can assert the following rights against us under the GDPR:  
-Your right to information under Article 15 GDPR,  
-Your right to correction under Article 16 GDPR,  
-Your right to cancellation under Article 17 GDPR,  
-Your right to limitation of processing under Article 18 GDPR, and  
-Your right to data transferability under Article 20 GDPR.
+To update Customer billing information, contact your account manager or email [billing@clearslide.com](mailto:billing@clearslide.com) for assistance.
 
-In addition, you have a right of objection to the competent data protection supervisory authority Article 77 GDPR, but only with respect to the data processing we conduct on our own behalf (as a controller). In the event ClearSlide acts as a processor of your data for a third party, you must refer to the entity acting as controller to assert this right.
+ClearSlide collects information under the direction of its Clients and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service.
 
-**Information about your right of objection under Article 21 GDPR**  
-_1\. Right of objection in individual cases_  
-In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of Personal Data relating to you, which is processed on the basis of Article 6 (1) e) GDPR (data processing in the public interest) and Article 6 (1) f) GDPR (data processing on the basis of a balance of interests); this also applies to profiling based on this provision within the meaning of Article 4 (4) GDPR. If you file an objection, we will no longer process your Personal Data unless we can prove compelling grounds for the processing that outweigh your interests, rights and freedoms or the processing serves to assert, exercise or defend legal claims. Please also note that, if we terminate the processing due to your objection, the Site may no longer be available to you or only to a limited extent.
+ClearSlide has no direct relationship with the individuals whose PII it processes on behalf of its Customers. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the data controller (i.e. ClearSlide’s Customer). If the Customer requests ClearSlide remove the data, ClearSlide will respond to their request within 30 business days of its receipt of such request.
 
-_2\. The right to object to the processing of data for advertising purposes_  
-You also have the right to object at any time to the processing of Personal Data concerning you for the purpose of direct marketing (including any subscription to our newsletter or personalized ads); this also applies to profiling, insofar as it is associated with such direct marketing. If you object, we will no longer process your personal data in the future.  
-The objection can be made form-free and should be addressed to: privacy@clearslide.com.
+ClearSlide will retain PII we process on behalf of our Customers for as long as such Customer’s account is active or as needed to provide Services, or as stated in the governing agreement between ClearSlide and Customer. ClearSlide will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## 7\. Collecting Information from Children
+If you are a Viewer, you may opt-out of receiving emails you receive from ClearSlide or specific Customers by clicking on the “opt-out” link at the bottom of the email you received, or you may email us at [privacy@clearslide.com](mailto:privacy@clearslide.com) or call us at 1-800-360-DEMO (3366) in order to opt-out.
 
-ClearSlide’s Site is not intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that their child has provided ClearSlide with Personal Data or that we have otherwise inadvertently collected this information, contact us at privacy@clearslide.com, so that we may immediately delete the information from our servers.
+If you have signed up to receive marketing emails from ClearSlide, you can opt-out of receiving future marketing emails by following the foregoing process. Customers cannot opt-out of receiving all transactional emails related to their ClearSlide account, but may change their account settings (as described above) to reduce the frequency or eliminate certain ClearSlide notification emails.
 
-## 8\. Changes
+**Changes to this Privacy Policy**
 
-ClearSlide reserves the right to change this Privacy Statement. We will provide notification of the material changes to this Privacy Statement by email or by posting a notice to our homepage on the Site and other places we deem appropriate at least thirty (30) days prior to the change taking effect.
+ClearSlide reserves the right to modify this privacy policy at any time in our sole discretion. If we decide to make any material changes, we will notify you of changes by email or by posting a notice to our home page on the Site and other places we deem appropriate prior to the change becoming effective so that you are aware of the information we collect, how we use it, and under what circumstances, if any, we disclose it. Please review our privacy policy frequently. Your continued use of our Services and Site following any changes to this privacy policy constitute your acceptance of such changes, and any amended privacy policy will apply to information previously collected.
+
+**Contacting Us about this Privacy Policy**
+
+In the event you have any questions about this privacy policy or ClearSlide’s information practices please contact us by clicking [here](mailto:privacy@clearslide.com) or by mailing us at ClearSlide, Inc. Attn: Privacy, 995 Market Street, 3rd Floor, San Francisco, California, 94103, U.S.A.
+
+**Effective Date of this Privacy Policy:**  January 24, 2019
