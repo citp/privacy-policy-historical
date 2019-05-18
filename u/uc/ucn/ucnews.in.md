@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucnews.in privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123211129id_/https%3A//www.ucnews.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucnews.in privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518085741id_/http%3A//www.ucnews.in/privacy) for the most accurate reproduction.*
 
 # UC News: Latest news India, Top India headlines, Breaking News from Indian states
 
