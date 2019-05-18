@@ -1,101 +1,213 @@
-> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127010321id_/https%3A//www.karl.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karl.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518041350id_/https%3A//www.karl.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
 ## Privacy Policy
 
-Welcome to www.karl.com. Please read our Privacy Policy carefully. This Privacy Policy applies when you visit and surf the United States section of www.karl.com (the "www.karl.com US Site") regardless of whether you purchase products or not, when you register with the www.karl.com US Site, and when you use our services. By using the www.karl.com US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the www.karl.com US Site.   
-The www.karl.com US Site is operated under license by YNAP Corporation, a Delaware corporation having an address at 100 Fifth Avenue – 12th floor, New York, NY 10011, United States of America ("YNAP USA"). YNAP USA is a subsidiary of YOOX NET-A-PORTER GROUP S.p.A., an Italian company having its registered address at via Morimondo, 17 – Milano 20143, Italy ("YOOX NET-A-PORTER GROUP") and controls the personal data of users and customers of the www.karl.com US Site together with KARL LAGERFELD B.V. (Besloten vennootschap), having address at Looiersgracht 43, 1016 VR Amsterdam, Italy, VAT, NL 850960678B01 (jointly referred to as "YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V.").   
-Since personal data of users and customers of the www.karl.com US Site may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). Pursuant to the Italian Data Protection Code, YOOX NET-A-PORTER GROUP USA is the controller of personal data of users and customers of the www.karl.com US Site. As controller of personal data, YNAP USA independently determines the purposes and means by which your personal data are processed, including all security measures. As required by the Italian Data Protection Code, YNAP USA has appointed YOOX NET-A-PORTER GROUP as its data protection representative in Italy. As our data protection representative in Italy, YOOX NET-A-PORTER GROUP, together with KARL LAGERFELD International B.V., independently ensures that personal data are processed in Italy in a correct and lawful manner and in accordance with good practice.
+Welcome to our website www.karl.com.  
+For KARL LAGERFELD, your privacy and the safety of your personal data are very important; therefore, we gather and manage your personal data with the utmost care, taking measures to ensure its safety. Below, you will find the most important information on the treatment by KARL LAGERFELD of your personal data, in relation to your navigation on the www.karl.com and the use of the services offered. For detailed information on how KARL LAGERFELD manages your personal data, we invite you to read our **Privacy Policy**.  
+We invite you to read our ‘Cookie Policy’, the ‘[Terms and Conditions of Use](https://web.archive.org/us/Help/LegalArea/UseTerms)’of the Site www.karl.com, which contain detailed information regarding the conditions of our services. Some services may be subject to specific legal terms, in which case we shall provide you with all the appropriate information.
 
- **1\. OUR POLICY**  
-Everyone has the right to the protection of his/her personal data. YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. respect our users' right to be informed about the collection and processing of their personal data. The www.karl.com US Site has been designed in such a way that the use of your personal data will be minimal and will not exceed the original purpose for which your personal data are collected and/or processed. In particular, we do not disclose your identity when the purpose for which your personal data are being processed can be achieved by using anonymous aggregate information. This Privacy Policy is intended to provide you with all the information you need in order to understand our privacy practices.  
-However, if you have any questions regarding our privacy practices and this Privacy Policy, please contact us at the following e-mail address: [privacy@mail.karl.com](mailto:privacy@mail.karl.com).  
-The www.karl.com US Site is not directed at, nor do we knowingly collect personally identifiable information from children under the age of 13, although we may sell children's products or services for purchase by adults. If you are under 18, you may use the www.karl.com US Site only with the involvement of a parent or guardian. 
+**Who is the Holder?**
 
-**2\. WHO PROCESSES YOUR PERSONAL DATA**  
-For organizational and operational purposes only, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. have appointed certain entities that will also process personal data of users and customers of the www.karl.com US Site. Such purposes are strictly connected to the performance of services provided on the www.karl.com US Site by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V., including the sale of products.  
-The above-mentioned data processors have been chosen by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. because of their experience in processing personal data, their sufficient guarantees with respect to compliance with applicable laws and regulations, including the Italian Data Protection Code (Legislative Decree no. 196 of 30 June 2003) as well as the technical security measures adopted by them in connection with the processing of personal data. In processing personal data of the users of the www.karl.com US Site, our processors will act only in accordance with instructions provided by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V.. We regularly verify that our processors comply with our instructions and that they provide sufficient guarantees with respect to their compliance with applicable laws and regulations. The following is a list of the companies primarily involved in the processing of personal data of users and customers of the www.karl.com US Site: 
+Below is the main information on the processing of your personal data performed by KARL LAGERFELD B.V. (Besloten vennootschap), with headquarters in Looiersgracht 43, 1016 VR Amsterdam, Amsterdam, C.F. and VAT n°. NL 850960678B01 (KARL LAGERFELD), as Data Controller.  
+For any clarification, questions or requirements related to your privacy and the processing of your personal data, you can contact us at any time by sending a request to our Customer Care department, or by writing to the address of KARL LAGERFELD.
 
-  * [United Parcel Service S.p.A.("UPS")](http://www.ups.com/). We provide UPS, by electronic means, with customers' addresses and other personal data for the purpose of shipping, delivering and returning products purchased on the www.karl.com US Site; 
-  * BT Italia S.p.A., for purposes related to the maintenance of YOOX NET-A-PORTER GROUP servers; 
-  * [YOOX NET-A-PORTER GROUP Italy](http://www.ynap.com/). We provide YOOX NET-A-PORTER GROUP Italy with personal data of users and customers for purposes related to direct marketing services of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. and in connection with other services provided by YOOX NET-A-PORTER GROUP Italy to YNAP USA, such as call center and help desk services.
+**What data do we process and why**
 
-Please contact our Customer Service or send us an e-mail at [privacy@mail.karl.com](mailto:privacy@mail.karl.com) if you would like to receive a full list of our data processors.
+The personal data that KARL LAGERFELD collects is that provided by you to us when finalizing an order and purchasing goods, and those that we collect as you browse or use the services offered by www.karl.com. KARL LAGERFELD can collect data about you, such as personal details like name and surname, shipping and billing address, browsing data and your purchase habits.  
+Your Personal Data will be processed for the following purposes:
 
- **3\. HOW DO WE USE PERSONAL DATA AND FOR WHAT PURPOSES**  
-Your personal data are collected and processed by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. for purposes which are strictly connected to the use of the www.karl.com US Site, its services and the purchase of products on the www.karl.com US Site. However, your personal data may also be used for other processing operations within the limits of such purposes. In particular, your personal data may be processed for the following purposes: 
+  * Conclude and execute the purchase contract for the articles offered on www.karl.com;
+  * Provide you with www.karl.com services such as subscription for the newsletter; 
+  * Allow the registration on the Site and the use of services reserved for registered users;; 
+  * Manage your requests to our Customer Care.
 
-  * when you register with the www.karl.com US Site we collect your personal data (for example, your personal information, e-mail address, gender) through the relevant registration form (My Account) in order to provide you with services in reserved access areas of the www.karl.com US Site and in order to send you our Newsletter, when specifically requested; 
-  * when you request customer care services, we collect your personal data (for example, your password) for purposes strictly necessary to provide you with customer care services relevant to the US Site and to the purchase of products on the US Site; 
-  * when you request Customer Service assistance, we collect your personal data (for example, your first and last names, e-mail address and password) for purposes strictly necessary to provide you with Customer Service relevant to the www.karl.com US Site and to the purchase of products on the www.karl.com US Site; 
-  * when you are executing purchasing procedures for products sold on the www.karl.com US Site, including conclusion of an agreement for the purchase of products, we collect your personal data (for example, personal information, e-mail address, address, Credit Card numbers, bank account number and telephone number) on your order form only for the purpose of selling the products ordered by you; 
-  * when you request technical assistance, we collect your personal data in order to provide you with information on net-surfing, Internet browsing or viewing and downloading web pages; 
-  * when creating your Wish List, we process your personal data in order to customize our services for the purchase of products on the www.karl.com US Site. 
 
-Your personal data are generally processed by electronic means; however, in certain circumstances, paper-based means may be used (for example, when the processing of your personal data is required for the prevention of fraud against us). Your personal data are stored in a way which allows YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. to identify you for the period that is strictly necessary for the original purposes for which such personal data are collected and subsequently processed, all in accordance with applicable laws.  
-Please report any changes to your personal data to the e-mail address [privacy@mail.karl.com](mailto:privacy@mail.karl.com) in order to ensure that your personal data are always accurate and kept up-to-date.  
-Your personal data will not be disclosed to third parties for purposes not permitted by law or without your explicit consent. Your personal data may only be disclosed to third parties when it is necessary to process an order placed by you. For example, your personal data are disclosed to Banca Sella S.p.A. for the performance electronic payment services, through Credit/Debit Cards. Moreover, your personal data may be disclosed to the police or to judicial authorities, in compliance with applicable laws and regulations and upon a formal request by such authorities for the purposes of preventing a fraud against us (anti-fraud services). Data processors will also have access to your personal data, as stated in Section 2 of this Privacy Policy, for the specific purposes stated in that Section. In all the above circumstances, your consent for data processing will not be specifically requested.  
-Your personal data will not be transferred to any countries outside the United States and Italy if such countries do not provide for an adequate level of protection of the privacy of individuals. Should the above be necessary in order to supply services to you or to execute contracts for the purchase of products, the transfer of your personal data to any such countries will be carried out only after the execution of specific contracts between YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. and all parties involved, in accordance with applicable laws and regulations.  
-We wish to inform you that YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. process users' personal data for purposes that are strictly connected to the supply of services through the www.karl.com US Site, the execution of contracts related to the sale and purchase of products on the www.karl.com US Site and, after receiving your consent, in order to send you information on new commercial initiatives which are strictly related to the www.karl.com US Site's activities and services. YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. process your personal data for direct marketing purposes, including by e-mail, only after receiving your consent.  
-YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. may have access to third parties' personal data which is directly disclosed by their users to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V., for instance when the user buys a product to be sent to a friend, when the user who pays the purchase price for a product is different from the recipient of such product, or when a user wishes to recommend to a friend a service provided through the www.karl.com US Site or the sale of a particular product posted on the www.karl.com US Site.  
-In all cases involving the disclosure of information of a third party, you must obtain the consent of such individuals before disclosing their personal data to YNAP USA, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. and have informed said individuals about this Privacy Policy. You will be the only person liable in connection with the disclosure of information and data relevant to such third parties and with any other incompatible and unlawful use of such data if they have not provided you with their consent. You agree to indemnify, defend and hold each of YNAP USA, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. harmless from any liability, claims and expenses, including reasonable attorneys' fees, arising from or related to any unauthorized disclosure of personally identifiable information of third parties. 
 
-**4\. WHAT HAPPENS IF YOU DO NOT DISCLOSE YOUR PERSONAL DATA**  
-The personal data we request you to provide to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V., including your e-mail address, your address, your Credit/Debit Card numbers, bank account number and your telephone number, is necessary for the processing of your order for the purchase of products on the www.karl.com US Site, to supply other services provided on the www.karl.com US Site upon your request, or to carry out obligations arising out of applicable laws and regulations.  
-Your refusal to provide certain personal data to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. may prevent YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. from processing your order for the purchase of products sold on the www.karl.com US Site or from providing other services through the www.karl.com US Site, such as Customer Services, sending the Newsletter, use of the Wish List, recommending a product to a friend.  
-Your failure to provide personal data to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. may prevent the processing of your order for the purchase of products sold or to provide services through the www.karl.com US Site.   
-The disclosure of personal data to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. other than that required in order to fulfill legal or contractual obligations or to provide the services requested by you is optional and does not have any effect on the use of the www.karl.com US Site and its services or on the purchase of products on the www.karl.com US Site. We will inform you if the personal data we ask you to provide is necessary or optional by marking with an asterisk (*) the information that is necessary. Your failure to disclose optional personal data will not pose any obligation or disadvantage to you, except to the extent that we may no be able to offer you some of our optional, personalized features of the www.karl.com US Site. 
+In the aforementioned cases, the processing of your personal data is legitimate as it is necessary to execute a contract with you or to provide you with the service you have specifically requested. We also conduct statistical surveys and analyses of data in aggregate form to understand how users interact with and use the site, to improve our offering and services.   
+Only with your prior consent, we process your personal data to:
 
-**5\. TO WHOM YOUR PERSONAL DATA WILL BE DISCLOSED**  
-Your personal data may be disclosed to third parties who provide specific services as Data Processors on behalf of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. or who autonomously process personal data collected by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. in connection with the performance of a contract for the purchase of products on the www.karl.com US Site (for example, Banca Sella, S.p.A.).   
-Any such disclosure will be conducted, in each instance, without exceeding the original purposes for which your personal data were collected and subsequently processed. In addition, your personal data may be disclosed to third parties in order to (1) comply with applicable laws, (2) respond to governmental and judiciary inquiries, (3) comply with valid legal process, and (4) protect the rights or property of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V..   
-Any third party information disclosed to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. in accordance with this Privacy Policy will not be used for any purpose other than as required to technically operate the service, to complete a transaction, or as otherwise required by law.   
-In the event there is a change in the corporate structure of YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. including, without limitation, by merger, consolidation, sale, liquidation, or transfer of substantial assets, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. may, in their sole discretion, transfer, sell or assign personal data collected on and through the www.karl.com US Site, including, without limitation, personally identifiable information and aggregate information concerning users and customers, to one or more affiliated or unaffiliated third parties.   
-In any event, your personal data will not be disclosed to third parties without you being informed or without your consent, when such consent is required by law.
+  * perform commercial and promotional communication activities;
+  * customize the Site based on your interests.
 
- **6\. HOW DO WE COLLECT YOUR DATA ON www.karl.com**  
-Cookies  
-When you are using the www.karl.com US Site, some personal data may be collected automatically through so-called "cookies". A cookie is a device transmitted to the hard drive of an Internet user. While cookies do not contain intelligible information, they allow us to link an Internet user to personal information provided by such user through the www.karl.com US Site. YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. process information collected by cookies in a collective and anonymous way, in order to optimize our services and the www.karl.com US Site for the needs and preferences of its users. We use cookies to collect users' IP addresses and other information regarding users' data traffic or preferences in the choice of services provided and products purchased through the www.karl.com US Site.  
-We disseminate cookies in connection with functions such as browsing the catalogue, purchasing products on-line and supplying "My Account" services.  
-As you may know, each Internet browser allows the deletion of cookies after each session. Your Internet browser contains instructions on how to carry out these procedures of deletion. Please access the appropriate instructions section on your Internet browser if you wish to delete cookies.   
-Your acceptance of our automatic procedures of collection of data and the use of cookies is necessary to take advantage of many features and services offered by the www.karl.com US Site, including the purchase of products. If you set your browser to block or delete cookies, we cannot guarantee that you will have access to all the features and services offered by the US Site (for example, your computer may not be able to display the image of the product you are in the process of purchasing).  
-Other Methods of Collecting User Information.   
-YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. directly collect personal data and information from users when they register on-line with the www.karl.com US Site or when they send purchase orders for products sold on the www.karl.com US Site in order to finalize their transactions.
+  
+**Who will process your data?**
 
- **7\. SECURITY MEASURES**  
-We have adopted security measures to protect personal data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access and against other unlawful forms of data processing, as provided in our Privacy Policy.   
-Nevertheless, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. cannot guarantee that the security measures adopted for the protection of the www.karl.com US Site and the transmission of data and information through the www.karl.com US Site will prevent or exclude any risk of unauthorized access to or loss of data. It is advisable that your computer be equipped with software devices for the protection of network data transmission and receipt (such as, updated antivirus systems) and that your Internet service provider take appropriate measures for the security of network data transmission (such as, firewalls and anti-spam filtering).
+Your personal data is processed by duly trained staff of our company, and, for organizational and functional needs related to the provision of services on www.karl.com, by our providers. The latter have been assessed and chosen by KARL LAGERFELD their proven reliability and competence. Some of these subjects may be based in non-EU countries and, in these cases, the transfer of your personal data to these countries is performed in compliance with the guarantees provided by law.
 
- **8\. OPT-IN/OPT OUT** Advertising material and direct marketing or other commercial communications which are not specifically requested by you or necessary to provide a service you requested, including the purchase of products on the US Site, will be sent to you only after we receive your consent. Please note that each time your consent is required, we will inform you in advance and we will give you the option to either provide or refuse your consent by selecting the appropriate box.  
-YOOX NET-A-PORTER GROUP and KARL LAGERFELD may process your personal data without your consent when such processing is necessary to comply with applicable laws and regulations or to provide you with services you requested, including the purchase of products on the US Site.  
-Even when your prior consent is not necessary, you may exercise, at any time, your right not to receive future communications regarding services you requested, such as the Newsletter.
+  
+**How long do we keep your data?**
 
- **9\. YOUR RIGHT TO ACCESS PERSONAL DATA AND FURTHER RIGHTS**  
-You are entitled to obtain, at any time, confirmation from YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. as to whether or not data relating to you is being processed, even if not yet registered, and the communication of any such data in an intelligible form.   
-Moreover, you are entitled to receive from YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. information on the source from which we received your personal data; the purposes and means of processing your personal data; the logic involved in any electronic data processing; information regarding the data controller and the data processors and the names of subjects and categories of subjects to whom your personal data may be disclosed or who may access your personal data (for example, the names of data processors). You can also find the above information in our Privacy Policy.   
-You are entitled to obtain at any time from YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V.: 
+We keep your personal data for a limited period of time, depending on the purpose for which it was collected, at the end of which your personal data will be deleted or otherwise rendered anonymous in an irreversible way. The retention period is different depending on the purpose of the processing: For example, the data collected during the purchase of goods on www.karl.com are processed until the conclusion of all administrative and accounting formalities, and is, therefore, stored in accordance with local tax legislation (ten years); those used to send our newsletter are kept until you ask to stop receiving it.  
+For further information, please see our **Privacy Policy**.
 
-  * the updating, rectification or integration of your personal data; 
-  * the deletion, transformation into anonymous form or blocking of your personal data, which are processed in violation of the law, including when the storage of data is not necessary for the purposes for which it has been collected and subsequently processed; 
-  * the confirmation that the operations under letters a) and b) have been reported to whom the data were disclosed or disseminated, except when it becomes impossible to do so or if it means exceeding the protection of the right you are claiming.
+  
+**What are your rights?**
 
-You are entitled to object, in all or in part: 
-  * for legitimate reasons, to the processing of your personal data, even if it is related to the purposes for which it was collected; 
-  * to the processing of your personal data for advertising or direct marketing purposes or in order to carry out marketing research or commercial communications.
+At any time, depending on the specific treatment, you can: Withdraw your consent to data processing; know what are your personal data in our possession, their origin and how they are used; request the update, correction or integration as well, in the cases provided for by the current provisions, the cancellation, the limitation of treatment or oppose to their treatment. If you wish, you can request to receive your personal data in possession of KARL LAGERFELD, in a format readable by electronic devices and, where technically possible, we can transfer your data directly to a third party indicated by you. If you believe that the processing of your personal data has been carried out illegitimately, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection. In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data(<http://www.garanteprivacy.it/>).
 
-You may freely and at any time exercise your rights, provided that you do so in compliance with applicable laws and regulations, by sending your request to YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. at the following e-mail address: [privacy@mail.karl.com](mailto:privacy@mail.karl.com).
+This policy may undergo changes and additions over time, so we invite you to periodically review its contents. Where possible, we will try to inform you promptly of any changes made.
 
- **10\. LINKS TO OTHER WEB SITES**  
-The www.karl.com US Site may provide hyperlinks to third party websites (the "Third Party Websites"). YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. do not operate, control, endorse or guarantee any Third Party Websites. You agree that YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. are not responsible for any content, services and/or products provided by any Third Party Website, nor are YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. responsible for any practice followed by such Third Party Website with respect to the collection and processing of personal data of their users. When you access any Third Party Website through a hyperlink posted on the www.karl.com US Site, please carefully read the Privacy Policy and other policies of such Third Party Website.  
-Our Privacy Policy and other policies do not apply to any Third Party Website. YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. provide hyperlinks to Third Party Websites only for the convenience of our users. By providing hyperlinks to Third Party Websites, YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. do not recommend that users access such Third Party Websites.  
-YOU AGREE THAT YOUR USE OF ANY THIRD PARTY WEBSITE IS AT YOUR SOLE RISK AND WITHOUT WARRANTIES OF ANY KIND BY YOOX NET-A-PORTER GROUP, YNAP USA, AND/OR KARL LAGERFELD International B.V., EXPRESSED, IMPLIED OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY OR NONINFRINGEMENT. UNDER NO CIRCUMSTANCES ARE YOOX NET-A-PORTER GROUP, YNAP USA, AND/OR KARL LAGERFELD International B.V. LIABLE FOR DAMAGES ARISING FROM ANY TRANSACTION BETWEEN YOU AND ANY THIRD PARTY WEBSITE OR FOR ANY INFORMATION APPEARING ON THIRD PARTY WEBSITES. 
+**Privacy Notice**
 
-**11\. CONTACTS**  
-If you wish to receive further information regarding our privacy practices, please contact us at the following e-mail address: [privacy@mail.karl.com](mailto:privacy@mail.karl.com). For more information regarding your rights under the Italian Data Protection Code, please go to the web site of the Italian Data Protection Authority at [www.garanteprivacy.it](http://www.garanteprivacy.it/). 
+**1\. General information**
 
-**12\. GOVERNING LAW**  
-The processing of personal data by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. will be conducted in compliance with applicable US laws. The laws of Italy, including the Italian Personal Data Protection Code (Legislative Decree no. 196 dated June 30, 2003), also apply to the processing of personal data carried out by YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. (see the Companies of YOOX NET-A-PORTER GROUP S.p.A. and KARL LAGERFELD International B.V. Group). The Italian Personal Data Protection Code guarantees that the processing of your personal data will be carried out in compliance with the fundamental rights and freedoms of individuals and their dignity, with particular reference to confidentiality, identity and the right to personal data protection. 
+**Who is responsible for the processing of the data?**
 
-**13\. MODIFICATION AND UPDATING**  
-YOOX NET-A-PORTER GROUP and KARL LAGERFELD International B.V. may amend or update from time to time all or any part of this Privacy Policy, whether or not required by a change in the applicable laws and regulation. Our users will be notified of any amendment to or update of our Privacy Policy on our homepage. All amendments and updates will become effective upon publication on this section of the www.karl.com US Site. You should regularly access this section of the www.karl.com US Site in order to review the most recent and updated version of our Privacy Policy.
+KARL LAGERFELD B.V. (Besloten vennootschap) with headquarters in Looiersgracht 43, 1016 VR Amsterdam, Amsterdam, C.F. and VAT n° NL 850960678B01 (KARL LAGERFELD) is Responsible for the processing of the personal data, that is, the subject who decides how and why to process your personal data.  
+You can always contact KARL LAGERFELD in writing to the address aforementioned or by contacting our Customer Care department.
+
+If you wish, for any request regarding the protection of your personal data and the exercise of your rights you can contact the Data Protection Officer ('DPO') of KARL LAGERFELD, at the address of the Holder, aforementioned, or writing to our Customer Care department and choosing ‘privacy’.
+
+**2\. What personal data do we collect?**
+
+The categories of personal data that KARL LAGERFELD collects and processes when you browse or purchase on www.karl.com, are the following:
+
+  1. We collect the personal data required to conclude and execute your purchase on www.karl.com, such as your name, email address, shipping address, billing address, phone number and payment details;
+  2. We collect your email address when you sign up for our newsletter service;
+  3. We process the personal data you provide when you contact our Customer Care to request assistance; 
+  4. With your prior consent, we collect your personal data for marketing purposes; 
+  5. For the registration on My Account, we collect your name and surname, your email address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of the site. Subject to your prior consent, and through the analysis of your personal data, we process information about your interests and preferences relating to our products and services, in order to customize our services and commercial offers based on your interests.
+  6. We collect information about your browsing on www.karl.com, such as the pages you visit and how you interact with the single page and we save this information in our servers.
+
+
+
+We inform you that KARL LAGERFELD does not process data from minors. When you access www.karl.com and use the services offered by KARL LAGERFELD, you declare that you have reached the age of majority.
+
+**3\. How do we use the personal data we gather?**
+
+KARL LAGERFELD collects and processes your personal data for the following purposes:
+
+  1. Conclude and execute the purchase contract for the products offered on www.karl.com. When you complete your purchase, we will request the personal data necessary for the execution of the contract; such as payment, anti-fraud checks, if you choose to pay by credit or debit card, billing, shipping of the product and possible return management.
+  2. Registration on the Site and use of the services offered to registered users. The registration on the Site is possible through the inclusion of some personal information, necessary to ensure your identification and the performance of the services offered to registered users.
+  3. Provision of the services offered onwww.karl.com. For this purpose, KARL LAGERFELD needs to collect, relating to each service and its characteristics, the personal data necessary for the performance of the service requested.
+  4. Management of requests to our Customer Care department, which uses the personal data you provide to meet your requests for information and requests for assistance.
+  5. Sending of your Resume. If you send your Resume in order to be considered for a position, KARL LAGERFELD shall use the information contained within exclusively for that purpose. The data relating to your application may be transferred to third-party management providers in charge of the collection of applications. In case of an open application, your CV will be kept for a maximum period of six months, otherwise your CV will be kept for a maximum of 4 weeks after closing of the application procedure, after which it will be deleted: if you want, you can of course send us a new updated version.
+  6. Statistical analysis and surveys. We use some information about your use of the Site to perform statistical analysis and surveys in order to improve our offer and services; 
+  7. Sending commercial and promotional communications following the purchase of one of our products, so-called soft Spam. Following the purchase of one of our products on the Site, we will send the email address provided, communications containing our business proposals and customized products and services. 
+  8. Subject to your prior consent, we may use the contact details you have provided for commercial communications on our products and services, in order to update you on news, new arrivals, exclusive products, our offers and promotions. In addition, and always with your consent, we will be able to use your contacts as part of market research and surveys relating to your degree of satisfaction, in order to improve our services and the relationship with our users.
+  9. With your prior consent, KARL LAGERFELD will be able to personalize your experience as a registered user on www.karl.com, proposing previews and offers in line with your tastes and sending you commercial communications tailored to your interests. The customization is made possible by the analysis of your personal information in our possession, described in the previous section 'What personal data do we collect?'. For further information on this data, and on the activity that allows its process, please refer to the section ‘My Account’.
+
+
+
+Should you wish to authorize the activities referred to in points h) and i) and subsequently do not wish to receive further communications from KARL LAGERFELD, or would like to limit the manner in which you are contacted, you may interrupt these communications at any time by simply clicking on the appropriate “unsubscribe” link at the bottom of each communication, accessing My Account, you will always be able to contact KARL LAGERFELD through our Customer Care department, or by writing to the aforementioned address . We inform you that you may receive further communications from us even after submitting your cancellation request, as some submissions may have already been planned, our systems may take some time to process your request.   
+With regards to all the activities aforementioned, we shall process your personal data mainly through IT and electronic tools; the tools we use guarantee high safety standards, in full compliance with current legislation.
+
+**4\. My Account**
+
+On the occasion of the creation of your My Account, KARL LAGERFELD offers you the possibility to use the following services:
+
+    1. My Profile: Manage your personal data and your consent.
+    2. My Orders: Track the shipping of your orders, and see the history of your orders.
+    3. My Cards: Save or change your card information and complete your orders faster.
+    4. Address Book: Save or change your addresses and complete your purchases faster.
+    5. Wish List: Create your customized wish list: You can save up to 50 items, be notified of their availability and add them to the Shopping Bag at any time.
+
+
+
+With your prior consent, KARL LAGERFELD may use your contact details for commercial communications on products and services, in order to update you on news, new arrivals, exclusive products, and to conduct opinion polls and market research, in order to detect your degree of satisfaction and improve the services offered.  
+Only with your prior consent, KARL LAGERFELD will customize your experience and the contents of the commercial communications and offers that you will see when you browse on www.karl.com as a registered user. This activity allows you to facilitate the search for products and services that are more for you and in line with your interests and at the same time allows us to improve our customized offers. The customization is made possible by the analysis of your personal data in our possession, as described in the previous section 'What personal data do we collect?'. In particular, the information on purchases you have made in the past and those relating to the sections of the site you visit most often, or the services you use most often help us to understand what products and services you are most interested in. To ensure that the information we have is correct and allow us to carry out the activities aforementioned, we invite you to access the 'My profile' section of your My Account and, if you deem it necessary, to update it.
+
+**5\. Legal basis of the processing**
+
+We treat your personal data only in the presence of one of the conditions provided for by current legislation, and specifically:
+
+  1. For the conclusion and execution of a contract of which you are a part. When we process your data for the conclusion of the purchase contract of which you are a part, we take care to use only the minimum information necessary for the execution of the same. This basis legitimizes the processing of personal data that takes place in the following activities: 
+    * Conclusion and execution of a purchase contract for the products offered on www.karl.com,
+    * Registration on the Site and use of services reserved for registered users; 
+    * Provision of services offered on www.karl.com,
+    * Management of requests sent to our Customer Care.
+  
+The provision of your personal data for these activities is a contractual obligation. You are free to communicate your data or not, but in the absence of the requested data it will not be possible to conclude or execute the contract, or your requests. This means that you will not be able to purchase products and you will not be able to use the services provided by KARL LAGERFELD, and that KARL LAGERFELD will not be able to handle your requests.  
+
+  2. To comply with a legal obligation.  
+In the event of the termination of a contract for the purchase of goods on www.karl.com, the processing of the data will take place to fulfill the legal obligations to which KARL LAGERFELD is subject to. You are free to decide whether to terminate a contract and whether or not to disclose your data, but if you conclude it, your data will be necessary and will be processed to give effect to the aforementioned legal obligations to which KARL LAGERFELD is subject.  
+The processing of a Resume spontaneously sent, is performed to assess candidates with respect to a possible job position at KARL LAGERFELD, is legitimate because it is expressly authorized by a law, which specifies that in this case the consent of the person to whom they refer personal data. You are free to share your Resume with us or not, but in its absence, we will not be able to assess your candidacy for a job position at KARL LAGERFELD.
+  3. For our legitimate interest.  
+Some of your personal data, in the event of purchase of products on www.karl.com by credit or debit card, may be processed to perform anti-fraud verifications: We have a legitimate interest in the performance of activity to prevent and prosecute any fraudulent activity. For internal administrative purposes, your data may be processed by companies belonging to the business group to which KARL LAGERFELD belongs.
+  4. On the basis of your consent.  
+We will carry out the following processing only if you have given us your express consent:  
+
+    * Marketing activities and public opinion polling and market research;
+    * Analysis of your browsing and consumption habits in the use of your My Account profile, in order to customize your experience on our site.
+
+
+
+Providing your consent for these activities is optional. You are free to provide your consent or not, but upon denial, it will not be possible for KARL LAGERFELD to carry out marketing activities, opinion polls and market research, nor analyze your habits.
+
+**6\. Who will process your data?**
+
+Your personal data will be processed by internal staff from KARL LAGERFELD, specifically trained and authorized for this purpose. During the treatment, the data may be processed by companies belonging to the business group to which KARL LAGERFELD belongs.  
+Your personal data will also be transmitted to third parties that we use to provide our services on www.karl.com; these providers have been adequately selected and offer a guarantee of compliance with the rules on the processing of personal data. These persons have been appointed as data controllers and carry out their activities according to the instructions given by KARL LAGERFELD and under its control.  
+The third parties in question belong to the following categories: Banking operators, internet providers, companies specialized in IT and telematic services; couriers; companies that carry out marketing activities; companies specialized in market research and data processing.  
+Your data may be transmitted to police and judicial and administrative authorities, in accordance with the law, for the detection and prosecution of crimes, the prevention and protection from threats to public security, to allow KARL LAGERFELD to ascertain, exercise or defend a right in court, as well as for other reasons related to the protection of the rights and freedoms of others.
+
+**7\. Transfer of the data outside the E.U.**
+
+Some of the third parties listed in the previous paragraph n. 6 'Who will process your data?' may be located in countries outside the European Union which, nevertheless, offer an adequate level of data protection, as established by specific decisions of the European Commission. (<http://www.garanteprivacy.it/home/provvedimenti-normativa/normativa/normativa-comunitaria-e-intenazionale/trasferimento-dei-dati-verso-paesi-terzi#1>).  
+The transfer of your personal data to countries that do not belong to the European Union and that do not ensure adequate levels of protection will be performed only after conclusion between KARL LAGERFELDand said subjects of specific agreements, containing safeguard clauses and appropriate safeguards for the protection of your personal data "standard contractual clauses", also approved by the European Commission, or if the transfer is necessary to the conclusion and execution of a contract between you and KARL LAGERFELD (for the purchase of goods offered on our Site, for registration on the Website or the use of services on the Website) or for the management of your requests.
+
+**8\. How long do we keep your data?**
+
+We keep your personal data for a limited period of time; depending on the type of activity that involves the processing of your personal data. After this period, your data will be permanently erased or otherwise rendered anonymous in an irreversible way.  
+Your personal data is stored in compliance with the terms and criteria specified below:
+
+  1. Data collected to conclude and execute contracts for the purchase of goods on www.karl.com: Upon conclusion of its administrative and accounting formalities. The data related to billing shall be stored for ten years from the date of invoice;
+  2. Registered user data: Data will be kept until you request cancellation of your My Account;
+  3. Payment data: Until payment certification and the conclusion of its administrative and accounting formalities resulting from the expiration of the right of withdrawal and the terms applied for contesting the payment;
+  4. Data collected in the context of the use of services offered on www.karl.com: These data are kept until the termination of the service or the request for cancellation of the subscription to the service by the user; 
+  5. Data related to the requests of the users to our Customer Care: The useful data to assist you will be kept until the fulfillment of your request;
+  6. Resume: For six months after receipt;
+  7. Data used for commercial communication activities towards users who purchase products on www.karl.com (soft Spam): These data are kept until the termination of service or the opposition by cancellation of the user;
+  8. Data provided for commercial communications activities, opinion polls and market research: Until the request to interrupt the activity and in any case within 2 years from the last interaction of any kind of user with KARL LAGERFELD;
+  9. Data used to personalize the Site and to show customized commercial offers: As long as the user does not request the cessation of the activity and in any case within two years from the last interaction of any kind of user with KARL LAGERFELD;
+
+
+
+In any case, for technical reasons, the termination of the processing and the subsequent cancellation or irreversible anonymity of the related personal data will be final within thirty days of the terms indicated above.
+
+**9\. Your rights**
+
+At any time you can exercise your rights with reference to the specific processing of your personal data by KARL LAGERFELD. Find below their general description and how to exercise them.
+
+  1. Access your data and modify it: You have the right to access your personal data and to request that they be accurate, modified or integrated with other information. If you wish, we will provide you with a copy of your data in our possession.
+  2. Revoke your consent: At any time you can revoke consent given for the processing of your personal data in relation to any activity for marketing purposes. In this regard, we remind you that marketing activities are sent via commercial communications, conducting opinion polls and market research, in order to assess your degree of satisfaction and improve the services offered. Upon receipt of your request, we will promptly cease the processing your personal data based on this consent, while different treatments or based on other conditions will continue to be carried out in full compliance with the provisions in effect.
+  3. Opposing the processing of your data: You have the right to object at any time to the processing of your personal data on the basis of our legitimate interest, explaining the reasons that justify your request; before accepting it, KARL LAGERFELD will have to assess the reasons for your request.
+  4. d)Delete your data: In the cases provided for by current legislation you can request the deletion of your personal data. Upon receipt and assessment of your request and, if legitimate, it will be our care to cease timely treatment and delete your personal data.
+  5. Request that the processing of your personal data is temporarily limited: In this case, KARL LAGERFELD will continue to keep your personal data but will not process it, unless it is subject to your different request and the exceptions established by law. You can get the limitation of treatment when you dispute the accuracy of your personal data, when the processing is unlawful but you oppose to the deletion of your data, when your data is no longer relevant for anymore but you need to exercise your right in court and when you oppose your treatment, in the period in which we evaluate the reasons for your request.
+  6. Request your data or transfer it to a person other than KARL LAGERFELD ("right to data portability"). You can ask to receive your data that we process based on your consent or on the basis of a contract with you in a standard format. If you wish, and where technically possible, we can, upon request, transfer your data directly to a third party of your choice.
+
+
+
+In order to exercise some of your aforementioned rights, you can access your My Account, or alternatively, you can contact our Customer Care department, or write to the Responsible for Data Processing to the aforementioned address. In order to ensure that the data of our users is not illegitimately used or infringed upon by third parties, we will request you for some information to be sure of your identity before accepting your request to exercise one of the rights indicated./p>
+
+**10\. Security measures**
+
+We protect your personal data with specific technical and organizational security measures, aimed at preventing your personal data from being used illegitimately or fraudulently. In particular, we use security measures that guarantee: The pseudonymization or the encryption of your data; the confidentiality, integrity, availability of your data as well as the resilience of the systems and services that process them; the ability to restore data in the event of a data breach. Furthermore, KARL LAGERFELD undertakes to test, verify and regularly evaluate the effectiveness of technical and organizational measures in order to guarantee the continuous improvement in the safety of data processing.
+
+**11\. Claims**
+
+If you believe that the processing of your personal data has been unlawfully done, you can file a complaint with one of the supervisory authorities responsible for compliance with the rules on personal data protection.  
+In Italy, the complaint can be filed with the Guarantor for the Protection of Personal Data.  
+Further information on how to present them is available on the website of the Guarantor, at <http://www.garanteprivacy.it/>.
+
+**12\. Children’s rights**
+
+KARL LAGERFELD does not sell products or services for purchase by children, but by adults. If you are under 18, you may use the Site only with the involvement of a parent or guardian. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), www.karl.com/us does not knowingly collect, solicit or use personal data of children under the age of 13 provided without parental consent, and will delete any such data should we become aware that a user under the age of 13 has registered without verifiable parental con-sent. Therefore, if you are not 18 years or older, you are not authorized to use our US Site.
+
+**13\. Rights of California residents**
+
+Pursuant to California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814. For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](). If you are a resident of California, you may request that we not share your information with certain affiliates or third parties providers for marketing purposes, and/or you may inquire as to how we have shared your information with third parties providers for marketing purposes. In connection with such request, we will identify the types of information shared and provide you with the names and addresses of the third parties with whom the information was shared. Please contact our Customer care through the appropriate form selecting “Privacy” as the topic on our contact form.
+
+**14\. Changes to the present policy**
+
+The constant evolution of our services may involve changes in the characteristics of the processing of your personal data described up to now. Consequently, this privacy notice may be subject to changes and additions over time, which may also be necessary with regard to new regulatory measures regarding the protection of personal data.  
+We request of you, therefore, to periodically check the contents: Where possible, we will try to inform you promptly about the changes made and their consequences.  
+The updated version of the privacy notice, in any case, will be published on this page, with indication of the date of its last update.
+
+**15\. Legislative references and useful links**
+
+The processing of your personal data is performed by KARL LAGERFELD in full compliance with the relevant regulations provided for by the [Regulations (E.U.) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) General regulation on data protection, rules on the processing of personal data and Italian measures of the Italian Supervisory Authority (<http://www.garanteprivacy.it/>) and, where applicable, of the competent foreign supervisory authorities.
+
+Last update: 15/05/2018
