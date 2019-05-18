@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229151758id_/https%3A//www.twelvesouth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twelvesouth.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519000257id_/https%3A//www.twelvesouth.com/pages/privacy) for the most accurate reproduction.*
 
-# Twelve South
+# Privacy – Twelve South
 
 Last updated on October 12, 2018
 
