@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229210800id_/https%3A//bankaust.com.au/tools/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankaust.com.au privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518212856id_/https%3A//bankaust.com.au/tools/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank Australia
 
-[Website security and privacy policy](https://web.archive.org/tools/Privacy/website-security-and-privacy/ "Website security and privacy")   
-[Privacy notification for banking customers](https://web.archive.org/globalassets/privacy/bau266-privacy-notification-banking-fa.pdf "Privacy notification for banking customers")  
-[Privacy notification for lending customers](https://web.archive.org/globalassets/privacy/privacy-notification-lending.pdf "Privacy notification for lending customers")  
-​​[P](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf "Privacy notification for job applicants")[rivacy notification for job applicants](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-privacy-notification-for-job-applicants.pdf "Privacy notification for job applicants")   
-[​Privacy policy for job applicants](https://web.archive.org/globalassets/privacy/job-applicant/bank-australia-app-privacy-policy-for-job-applicants.pdf "​Privacy policy for job applicants").
+[Privacy notification for banking customers](https://web.archive.org/tools/privacy/privacy-notification-for-banking-customers/ "Privacy notification for banking customers")  
+[Privacy notification for lending customers](https://web.archive.org/tools/privacy/privacy-notification-for-lending-customers/ "Privacy notification for lending customers")  
+[​​Privacy notification for job applicants](https://web.archive.org/tools/privacy/privacy-notification-for-job-applicants/)  
+[​Privacy policy for job applicants](https://web.archive.org/tools/privacy/app-privacy-policy-for-job-applicants/ "​Privacy policy for job applicants").
 
 ## Privacy and Credit Reporting Policy
 
@@ -167,3 +166,5 @@ We offer an internal complaint resolution scheme which any customer can access a
 We will deal with your complaint under our internal dispute resolution procedure. We will give you our Complaints and Disputes Resolution Guide when you make your complaint.
 
 We also participate in an external dispute resolution scheme so that customers not satisfied with our handling of their complaint can take the matter there. We will advise you at the time how you may contact the external dispute resolution scheme. You can find more information on our complaint and dispute resolution process.
+
+_Last updated March 2014.  _
