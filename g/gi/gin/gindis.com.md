@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115125931id_/http%3A//www.igindis.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gindis.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518065559id_/https%3A//igindis.com/pages/privacy.html) for the most accurate reproduction.*
 
 # iGindis Games
 
@@ -43,6 +43,7 @@ Our mobile applications may collect precise information about the location of yo
 **WHAT PERSONAL DATA WILL IGINDIS COLLECT?**  
 The personal data that iGindis may collect includes but is not limited to:  
 name;  
+display name;  
 email address;  
 date of birth;  
 billing address;  
