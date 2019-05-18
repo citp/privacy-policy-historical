@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haynes.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302231235id_/https%3A//haynes.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haynes.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518144553id_/https%3A//haynes.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Haynes Manuals
 
