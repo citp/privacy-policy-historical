@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firelaunchers.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730141000id_/http%3A//firelaunchers.com/members-download/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firelaunchers.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518195155id_/http%3A//firelaunchers.com/members-download/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy — Firelaunchers Members
 
@@ -74,4 +74,4 @@ E-mail: support@firelaunchers.com
 We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarize yourself with any changes.
 
 Copyright © 2018 firelaunchers Pvt. Ltd. All Rights Reserved.  
-[Terms of Use](http://firelaunchers.com/members-download/terms-conditions/) |[ Privacy Policy](http://firelaunchers.com/members-download/privacy-policy/) | [Anti-Spam](http://firelaunchers.com/members-download/anti-spam/) | [DMCA](http://firelaunchers.com/members-download/terms-conditions/) | [Earnings Disclaimer](http://firelaunchers.com/members-download/earning-disclaimer/) | [Helpdesk](http://support@firelaunchers.com/)
+[Terms of Use](https://firelaunchers.com/members-download/terms-conditions/) |[ Privacy Policy](https://firelaunchers.com/members-download/privacy-policy/) | [Anti-Spam](https://firelaunchers.com/members-download/anti-spam/) | [DMCA](https://firelaunchers.com/members-download/terms-conditions/) | [Earnings Disclaimer](https://firelaunchers.com/members-download/earning-disclaimer/) | [Helpdesk](http://support@firelaunchers.com/)
