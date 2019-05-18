@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903100231id_/https%3A//www.tiaa.org/public/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518030303id_/https%3A//www.tiaa.org/public/support/privacy-policy) for the most accurate reproduction.*
 
 # Online privacy notice | TIAA
 
