@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airrace.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213065141id_/https%3A//airrace.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airrace.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518153118id_/https%3A//airrace.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reno Championship Air Races | The National Championship Air Races is one of Northern Nevada’s most popular events.
 
