@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231051800id_/http%3A//superpay.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpay.me privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518021129id_/http%3A//superpay.me/privacy) for the most accurate reproduction.*
 
 # SuperPay.Me - Privacy Policy
 
-Privacy Policy 
-
-### Privacy Policy
+## How we use and store data
 
 The purpose of this Privacy Policy is to let you know what kinds of information we may gather about you, how we may use that information, whether we share that information, and the choices you have regarding our use of that information. 
 
@@ -14,7 +12,7 @@ To be able to participate on our site, you will need to provide us with the foll
 
 Genuine and complete name and address information which is required to ensure your account is genuine and to help prevent fraud.
 
-A valid email which will only be used should we need to contact you to update you on the status of offers, surveys and tickets, to provide useful information on the operation of your account or should we need to contact you directly in relation to an enquiry on your account.We do not send spam, or marketing emails without prior consent.
+A valid email which will only be used should we need to contact you to update you on the status of offers, surveys and tickets, to provide useful information on the operation of your account or should we need to contact you directly in relation to an enquiry on your account.We do not send spam, or marketing emails without prior consent.
 
 A username and a password to allow you to log in and operate your account securely.
 
@@ -62,7 +60,9 @@ Details of referrals who have joined as a result of you sharing your personal re
 
 We store your personal data as securely as we can on secure servers. All reasonable steps necessary to ensure your data is adequately protected and processed in line with this privacy notice.
 
-We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition), we have reason to do so as part of an investigation, or as required by law.
+We DO NOT pass your personal data to third parties, unless you specifically ask us to for a particular purpose (e.g. a competition), we have reason to do so as part of an investigation, as part of our site process in crediting your account or as required by law.
+
+We may be required to share some information from your account with our third party advertisers and survey providers in order to assist with certain aspects of the functionality of the site. For example, we need to pass details of your username as part of the process for accessing surveys in order they are able to send a credit for succesfully completed surveys and offers to your account with us. There may also be an enquiry relating to non-crediting, or fraud where we need to able to confirm certain information in order to deal with that situation. Any information shared is limited to what is required to ensure the smooth operating of the crediting process or to establish he facts relating to the issue being investigated.
 
 In instances where we suspect there may be a breach of rules, then as part of our investigation we may share the information we collect with regulatory authorities, relevant bodies, advertising networks and in exceptional circumstances, relevant 3rd parties, in order to protect the site and it's members from potential fraudulent activity.
 
@@ -78,7 +78,7 @@ Users of our site can raise a support ticket to request that details of their ac
 
 Where possible, accounts will be deleted permanently.Where there has been actual activity on your account, for example you have received a payment from us, or participated in offers, then we will mark your account deleted and cease any further communication, however necessary information relating to your account and activity would be retained for as long as necessary on our system.
 
-Where there has been evidence of a breach of our terms, potential fraudulent activity or any similar offences then we would be unable to process a delete request at that time.The information will be held indefinitely, or until such time that we are satisfied that there has been no breach of rules, fraudulent activity or further threat to our site. In instances where instant deletion cannot be processed immediately, users can resubmit a request to delete their account every 30 days for review. To resubmit your deletion request, send an email to support (at) superpay.me.  In circumstances where excessive requests are received, a permanent block on requests may be implemented.
+Where there has been evidence of a breach of our terms, potential fraudulent activity or any similar offences then we would be unable to process a delete request at that time.The information will be held indefinitely, or until such time that we are satisfied that there has been no breach of rules, fraudulent activity or further threat to our site. In instances where instant deletion cannot be processed immediately, users can resubmit a request to delete their account every 30 days for review. To resubmit your deletion request, send an email to support (at) superpay.me. In circumstances where excessive requests are received, a permanent block on requests may be implemented.
 
 If you feel Superpay.me is not following its stated privacy policy, then you may inform us through our [Support Ticket Page](https://web.archive.org/members/ticket.php). You may also report any potential concerns to the ICO - <https://ico.org.uk/concerns/>
 
