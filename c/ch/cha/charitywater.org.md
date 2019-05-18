@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitywater.org privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002023549id_/https%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitywater.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518153903id_/https%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | charity: water
 
