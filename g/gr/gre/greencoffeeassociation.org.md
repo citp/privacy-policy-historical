@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116013417id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518115638id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -33,16 +33,21 @@ We are committed to conducting our business in accordance with these principles 
   
 
 
-#### 2018 GCA Annual Holiday Party
+#### 2019 GCA Annual Convention
 
-December 7, 2018  
-The Downtown Association  
-[Register Now](http://greencoffeeassociation.org/announcements/details/2018_gca_holiday_party)
+June 12-14, 2019  
+Marriott Marquis Houston  
+[Register Now](http://greencoffeeassociation.org/announcements/details/2019_gca_convention)
 
   
 
 
 #### Past Events
+
+#### 2018 GCA Annual Holiday Party
+
+The Downtown Association  
+[Thanks for attending!](http://greencoffeeassociation.org/announcements/details/2018_gca_holiday_party)
 
 * * *
 
