@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhive.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230140218id_/https%3A//www.techhive.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhive.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519005254id_/https%3A//www.techhive.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechHive
 
