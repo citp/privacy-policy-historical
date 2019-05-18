@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saatchigallery.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922141250id_/https%3A//www.saatchigallery.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saatchigallery.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518135051id_/https%3A//www.saatchigallery.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Saatchi Gallery - Privacy Policy
 
