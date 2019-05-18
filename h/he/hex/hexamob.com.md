@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226200950id_/https%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexamob.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518122409id_/https%3A//hexamob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Hexamob
 
