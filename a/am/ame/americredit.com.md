@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823131731id_/https%3A//www.gmfinancial.com/privacy-policy-online.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americredit.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518165541id_/https%3A//www.gmfinancial.com/privacy-policy-online.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | GM Financial
 
