@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibre2fashion.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912124855id_/https%3A//www.fibre2fashion.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibre2fashion.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519010134id_/http%3A//www.fibre2fashion.com/policy) for the most accurate reproduction.*
 
 # Fibre2Fashion - World of Garments Textiles and Fashion
 
