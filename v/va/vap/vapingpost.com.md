@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606045455id_/http%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingpost.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518063723id_/https%3A//www.vapingpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vaping Post
 
 ## What is this Privacy Policy for?
 
-This privacy policy is for this website www.vapingpost.com and served by [Vaping](http://www.vapingpost.com/) Post and governs the privacy of its users who choose to use it.
+This privacy policy is for this website www.vapingpost.com and served by Vaping Post and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
