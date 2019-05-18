@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018045351id_/https%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518171715id_/https%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
-GO 4 Schools would like to place cookies on your computer to help us make this site better. To find out more about the cookies, see our [privacy policy](http://www.go4schools.com/PrivacyPolicy.aspx).
+GO 4 Schools would like to place cookies on your computer to help us make this site better. To find out more about the cookies, see our [privacy policy](http://go4schools.com/PrivacyPolicy.aspx).
 
 I accept cookies from this site.
 
-Last modified: 30 November 2017
+Last modified: 29 April 2019
 
 Hyperspheric Solutions Ltd ("Hyperspheric"), the company behind the GO 4 Schools product, recognises that privacy is important. This Privacy Policy applies to the data held within the GO 4 Schools system and lets you know how any personal information is processed and used by us.
 
@@ -45,10 +45,10 @@ Hyperspheric is committed to safeguarding the privacy of your information. By 'y
 In order to provide our full range of services, we may collect the following types of information:
 
   * Your communication preferences, to help us provide tailored and relevant communications.
-  * Cookies – When you visit GO 4 Schools, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
-  * Log information – When you access GO 4 Schools, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * User communications – When you send email or other communications related to GO 4 Schools, we may retain those communications in order to process your enquiries, respond to your requests and improve our services.
-  * Links – GO 4 Schools may present hyperlinks in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our product.
+  * Cookies - When you visit GO 4 Schools, we send one or more cookies - a small file containing a string of characters - to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
+  * Log information - When you access GO 4 Schools, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web requests, pages you visit, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * User communications - When you send email or other communications related to GO 4 Schools, we may retain those communications in order to process your enquiries, respond to your requests and improve our services.
+  * Links - GO 4 Schools may present hyperlinks in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our product.
 
 
 
@@ -82,6 +82,8 @@ GO 4 Schools site settings |
   * goRibbonChartsRecentFilters
   * goAutoChartDefinitions
   * goAutoChartRememberMyCharts
+  * goRibbonChartDefinitions
+  * goRibbonChartRememberMyCharts
   * goFlightPathPreferences
 
 |  These cookies are used to record and persist choices made by the user when viewing tabular and graphical data within our site.  |    
@@ -90,15 +92,23 @@ GO 4 Schools site settings |
   * goAttendanceAutoReturn
 
 |  This cookie is used to record and persist choices made by the user when entering attendance marks.  |    
-ASP.NET Session ID | ASP.NET_SessionId |  These cookies are essential in order to enable you to move around the website and use its features. Without this cookie, the service you have asked for cannot be provided.  | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
+ASP.NET Session ID | ASP.NET_SessionId |  These cookies are essential in order to enable you to move around the website and use its features. Without this cookie, the service you have asked for cannot be provided.  | [Visit the Microsoft website](https://support.microsoft.com/en-us/help/260971/description-of-cookies)  
 Google Analytics | 
 
   * _utma
   * _utmb
   * _utmc
+  * _utmt
+  * _utmv
   * _utmz
 
-|  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | [Click here for an overview of privacy at Google](http://www.google.com/analytics/learn/privacy.html)  
+|  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | [Click here for an overview of privacy at Google](https://policies.google.com/privacy)  
+Microsoft Azure Application Insights | 
+
+  * ai_user
+  * ai_session
+
+|  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information, including the number of visitors to the site, where visitors have come to the site from and the pages they visited  | [Click here for an overview of privacy at Microsoft Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/personal-data-mgmt)  
   
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
@@ -140,8 +150,8 @@ We will not share, sell or distribute any of the information you provide to us w
 
 Specifically:
 
-  * **Sub-processors** – Hyperspheric will not sub-contract any processing to third parties without the school/academy's written consent.
-  * **Cross-border transfers** – Hyperspheric does not transfer data outside the European Economic Area (EEA) unless the data is being accessed by a GO 4 Schools user outside the EEA.
+  * **Sub-processors** \- Hyperspheric will not sub-contract any processing to third parties without the school/academy's written consent.
+  * **Cross-border transfers** \- Hyperspheric does not transfer data outside the European Economic Area (EEA) unless the data is being accessed by a GO 4 Schools user outside the EEA.
 
 
 
@@ -201,4 +211,4 @@ When we receive formal written complaints at this address, it is Hyperspheric's 
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-[24/04/2015 - Privacy policy](https://web.archive.org/web/20181018045351id_/https%3A//www.go4schools.com/PrivacyPolicy24_04_15.aspx)
+[15/01/2019 - Privacy policy](https://web.archive.org/web/20190518171715id_/https%3A//www.go4schools.com/PrivacyPolicy15_01_19.aspx)
