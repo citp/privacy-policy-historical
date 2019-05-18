@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116171817id_/http%3A//www.bored-night.com/Pages/153/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-night.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518235605id_/http%3A//www.bored-night.com/Pages/153/privacy_policy.html) for the most accurate reproduction.*
 
 # Bored at Night? | Bored People | Bored 2 Fun
 
@@ -35,4 +35,4 @@ the privacy practices or the content of such Web sites.
   
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site,  
-or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20181116171817id_/http%3A//www.bored-night.com/Pages/153/index.php/Contact-Us.html) .
+or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20190518235605id_/http%3A//www.bored-night.com/Pages/153/index.php/Contact-Us.html) .
