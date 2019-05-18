@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203143804id_/https%3A//www.getup.org.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518105042id_/https%3A//www.getup.org.au/about/privacy-policy) for the most accurate reproduction.*
 
 # GetUp! - Privacy Policy
 
@@ -15,7 +15,7 @@ Sensitive Information is defined in the Privacy Act 1988 (Cth) as including info
 The kinds of information that GetUp collects will depend on the nature of your involvement with GetUp:
 
   * When you first take action on a GetUp campaign, the Personal Information we collect generally includes email address, first name and last name, home and mobile phone numbers, and home address.
-  * As you take subsequent actions on GetUp campaigns, the Personal Information we collect generally includes the actions you take with GetUp, the donations you make to GetUp (and other information you give to us when donating, like bank details or credit card details), information you give to us when completing surveys, like gender and date of birth, and information contained in feedback or complaints.
+  * As you take subsequent actions on GetUp campaigns, the Personal Information we collect generally includes the actions you take with GetUp, the donations you make to GetUp (and other information you give to us when donating, like bank details or credit card details), your phone number if you dial in to our phone banking system, information you give to us when completing surveys, like gender and date of birth, and information contained in feedback or complaints.
   * Some Personal Information which we may collect in the course of your engagement with GetUp is Sensitive Information. For example we might collect information about your campaign priorities or political views. This is because we want to understand what you're passionate about. Knowing your priorities, values and opinions helps us communicate with you better.
   * If you are, or apply to be, a GetUp staff member or volunteer, the Personal Information GetUp collects about you generally includes employment details like job title, salary and work practices, information you give to us when applying for a job, like past employment details, referee's comments, performance reviews, and performance complaints. The Sensitive Information GetUp may collect includes health information and criminal record information.
 
