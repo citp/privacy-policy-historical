@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the smsgupshup.com privacy policy that was archived on 2018-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116230730id_/http%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smsgupshup.com privacy policy that was archived on 2019-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518123837id_/https%3A//www.gupshup.io/developer/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang=""><head><script async="" src="https://www.buildquickbots.com/botwidget/v3/demo/static/js/sdk.js?v=3&amp;_=1582539445974"></script>
+<!DOCTYPE html><html class="no-js" lang=""><head><script async="" src="https://www.buildquickbots.com/botwidget/v3/demo/static/js/sdk.js?v=3&amp;_=1582539450909"></script>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	
@@ -35,7 +35,7 @@
 	<link rel="icon" href="/developer/resources/img/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" media="screen" href="/developer/1373744570/bundles/css/thirdparty.css">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="/developer/798787108/bundles/css/main.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="/developer/538023178/bundles/css/main.css">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="/developer/N455202773/bundles/css/v2/style.css">
 
@@ -90,6 +90,34 @@
                     </ul>
                 </li> -->
                 <li class="prelative"><a href="/developer/whatsapp" title="WhatsApp">WhatsApp <span class="new-dot"></span></a></li>
+				<li class="dropdown products hide">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp <i class="products-caret caret-icon"></i></a>
+                    <ul class="dropdown-menu products-menu">
+						<li><a href="/developer/whatsapp" title="WhatsApp">Business Solutions</a></li>
+						<!--  
+						
+							
+							
+								<li><a href="#" onclick="gs.html.setTargetPage('whatsappassistant/#/my-assistants');" data-toggle="modal" data-target="#loginModal">My WhatsApp Assistants</a></li>
+							
+						
+						-->
+                    </ul>
+                </li>
+				<li class="dropdown products hide">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">WhatsApp <i class="products-caret caret-icon"></i></a>
+                    <ul class="dropdown-menu products-menu">
+						<li><a href="/developer/whatsapp" title="WhatsApp Business">WhatsApp Business</a></li>
+						
+							
+							
+								<li><a href="#" onclick="gs.html.setTargetPage('/developer/whatsapp/early-access');" data-toggle="modal" data-target="#loginModal">Early Access</a></li>
+								<li><a href="#" onclick="gs.html.setTargetPage('/developer/whatsapp-sandbox');" data-toggle="modal" data-target="#loginModal">WhatsApp Sandbox</a></li>
+								<li><a href="#" onclick="gs.html.setTargetPage('/developer/whatsapp/business-account');" data-toggle="modal" data-target="#loginModal">My Business Account</a></li>
+							
+						
+                    </ul>
+                </li>
 				<li class="products one">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <i class="products-caret caret-icon"></i></a>
                     <ul class="dropdown-menu products-menu">
@@ -123,7 +151,8 @@
 						
 							
 							
-								<li class="hide"><a href="/developer/coming-soon" title="Messaging API">Messaging API</a></li>
+								<li><a href="#" onclick="gs.html.setTargetPage('/whatsappassistant/#/whatsapp-dashboard');" data-toggle="modal" data-target="#loginModal" title="WhatsApp">WhatsApp</a></li>
+								<li><a href="#" onclick="gs.html.setTargetPage('/developer/messaging/overview');" data-toggle="modal" data-target="#loginModal" title="My Messages">My Messages</a></li>
 								<li><a href="#" onclick="gs.html.setTargetPage('/developer/drive-conversations');" data-toggle="modal" data-target="#loginModal" title="My Bots">My Bots</a></li>
 								<li><a href="#" onclick="gs.html.setTargetPage('/developer/mycampaigns');" data-toggle="modal" data-target="#loginModal" title="My Campaigns">My Campaigns</a></li>
 								<li><a href="#" onclick="gs.html.setTargetPage('/growthtool');" data-toggle="modal" data-target="#loginModal" title="Growth Tools">Growth Tools</a></li>
@@ -152,7 +181,7 @@
 	</div>
 </nav>
 <div id="loginModal" class="modal fade" role="dialog">
-	<div class="modal-dialog custom-modal">
+	<div class="modal-dialog custom-modal" style="margin-top:100px;">
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -213,7 +242,7 @@
 <script src="https://www.google.com/recaptcha/api.js?onload=initCaptcha&amp;render=explicit" async="" defer=""></script>
 <script type="text/javascript">
 function initCaptcha(){
-	console.info('CAPTCHA INIT COMPLETED')
+	//console.info('CAPTCHA INIT COMPLETED')
 	 grecaptcha.render('partnership_captcha', {
           'sitekey' : '6LeXqQkUAAAAAI2Y9Arh7J9Xb0BIg25Q-NQrng4A'
         });
@@ -491,11 +520,11 @@ function checkCaptcha(x){
 		</div>
 	
 		</div>
-		<div class="loader-fullpage">
-			<div class="loader-braces">
-  				<span>{</span>Processing<span>}</span>
+		<div class="loader-fullpage" id="fullPageLoader">
+			<div class="loader-braces text-center">
+				<span><img class="loader-img" src="/developer/resources/img/loader.gif"></span><br>
+				<span class="loadingMsg">Please wait</span>
 			</div>
-			<!-- <img class="loader-img" src="/developer/resources/img/ring-alt.gif" /> -->
 		</div>
 	</div>
 	<footer class="footer-links">
@@ -563,7 +592,7 @@ function checkCaptcha(x){
 		</div>
 	</div>
 </script>
-	<script type="text/javascript" src="/developer/N350550447/bundles/js/plugins.js"></script>
+	<script type="text/javascript" src="/developer/N1289003056/bundles/js/plugins.js"></script>
 
 	
 
@@ -582,6 +611,7 @@ if(gs)
 var baseurl = "https://smapi.gupshup.io/sm/api";	
 var envurl = "https://api.gupshup.io/sm/api/bot";
 var apiurl = "https://api.gupshup.io/sm/api";
+var multichaturl = "https://multichat.gupshup.io/multichat/api";
 var gaurl = "https://api.gupshup.io";
 var callbackurl = "https://callback.gupshup.io/bot/v1/callback";
 var conversationalUrl = "https://www.gupshup.io/conversation";
