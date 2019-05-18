@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819203043id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518065622id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
@@ -49,8 +49,8 @@ We do not retain your full payment card data after the transaction and only coll
 
 How? | Why?  
 ---|---  
-Take payment and give refunds.|  So that you can pay for your goods and fulfill your contract with us. For card payments we take your card details and billing address.  
-To detect and prevent fraud.|  To protect yourself and Footasylum against fraud. In both our interests to have a safe shopping experience and prevent crime!  
+Take payment and give refunds. | So that you can pay for your goods and fulfill your contract with us. For card payments we take your card details and billing address.  
+To detect and prevent fraud. | To protect yourself and Footasylum against fraud. In both our interests to have a safe shopping experience and prevent crime!  
   
 ### How we use information about your use of our website.
 
@@ -61,6 +61,25 @@ How? | Why?
 Improve your personal experience by personalising the website. | Making it easier for you to look at products you are interested in based on your previous use of the website. It is in our interest to see that you have a great shopping experience!  
 To provide third parties with statistical information about our users. | So that we can get information about browser types, geographical location, referral source from our affiliate program and length of stay and pages visited as it is in our interest that you find it easy to use and improve our web service.  
 To track shopping basket use so that we can offer you discounts. | We track selections in your basket that may be eligible for discounts during your purchasing journey. It is in our interest that you get the best deal!  
+  
+### How we use your personal data for Promotions and Competitions.
+
+In order to provide competitions, we would need to process all or some of the following (depending on the media that the competition is delivered): full name, postcode, email address, date or birth, sneaker size, social handle, image and town or county of residence.
+
+Any personal information provided by you as part of the competition entry may be used by our company (as the Promoter) or our agents and suppliers to administer the competition prizes.
+
+How? | Why?  
+---|---  
+Process full name, postcode, email address, date of birth, sneaker size, county of residence to enter competition. | To enable entry to competitions that you may wish to participate in, to ensure the competition is held fairly and we can deliver rewards to winners. Contact details are taken in order to enable us to contact you, date of birth is taken to verify that you are above the minimum age to enter competitions (16 years), sneaker size as may form part of a prize. We process this data as part of our legitimate interests of our business.  
+We may disclose full name or name and county of residence of the winner of competitions on request or via publication (this does not cover direct marketing for which we separately ask for consent). | In order to comply with the UK Code of Non-broadcast Advertising and Direct & Promotional Marketing (CAP Code) which is enforced by the Advertising Standards Agency and supporting Consumer Law, we are required to make available on request details of winners. We may also announce the winner via Footasylum social media channels. This is balanced with your privacy rights and only the minimal information (as described opposite) would be available under a lawful basis of legal obligation. This will be reviewed in line with any legislative changes or codes of practice supporting the CAP Code and to maintain your privacy rights under GDPR.  
+  
+### How we use your information when sending marketing communications under consent.
+
+We use this information in order to provide targeted marketing to you.
+
+How? | Why?  
+---|---  
+Any personal information provided by you as part of the competition entry may be used by our company (as the Promoter) or our agents and suppliers to administer the competition prizes. | This is to ensure that where you have given us permission to send you marketing communications, we can provide you with products that you are likely to have an interest in. This is performed under your consent only.  
   
 ## Focused on your rights to keep control of your data.
 
@@ -116,12 +135,17 @@ We use third parties to provide supporting services for Footasylum plc. These en
   * Email Service Providers.
   * On-line review sites (these act as Joint Data Controllers). Please read the privacy and cookie policies of these sites.
   * Student Loyalty Networks (these act as Joint Data Controllers). Please read the privacy policy of this sites.
+  * Agents and suppliers to administer competition prizes (these act as Joint Data Controllers). Please read the privacy policy of these sites.
+  * Survey companies such as Survey Monkey who provide customer surveys for us – see: <https://www.surveymonkey.com/mp/legal/privacy-policy/>
+  * Laybuy who work with us in a Controller to Controller relationship. This company provides a payment service on our behalf and use Experian to conduct credit checks.  
+Please refer to their Privacy Policy here: <https://www.laybuy.com/uk/privacy>
 
 
 
 We use third parties who act as data processors for Footasylum plc. We share some aspects of your personal data with these organisations.
 
   * Courier companies who need your name and address details so that we can deliver our goods to your address, these also provide a tracking service where you can keep track of your deliveries.
+  * A Business intelligence and Data Profiling Agency who provide a service for us to improve, optimise and analyse the personal data that we process under marketing consent.
   * Postcode and address finder service company who will enable quicker completion of the order checkout process.
   * Payment Service Providers who need to process credit/debit card payments in order for you to purchase goods and services from Footasylum plc.
   * Credit Reference, Law Enforcement and Fraud Prevention agencies for the purposes of preventing fraud and cyber crime.
@@ -131,19 +155,25 @@ We use third parties who act as data processors for Footasylum plc. We share som
 
 ## Transfers of your personal data.
 
-We share some or all of your personal data, depending on the requirement of the service provided by third parties listed above in **Additional Processing and Sharing with Third Parties.**
+We share some or all of your personal data, depending on the requirement of the service provided by third parties listed above in Additional Processing and Sharing with Third Parties. **We do not sell your personal data to third parties.**
 
 We do not transfer your personal data outside the EU/EEA. We do not sell your personal data to third parties.
 
-### Our Approach with services outside the EU/EEA
+### Cross border data transfers
 
-In the future if we seek to transfer personal data or use services which host personal data outside the EU/EEA, we will only transfer to entities that provide contractual guarantees (standard contract clauses) or who are located in countries who have an adequacy arrangement with the EU to protect your data with the same level of privacy as entities within the EU/EEA. We will perform the necessary due diligence to safeguard your personal data with these organisations. Either one or all of these approaches will be reviewed in line with CJEU rulings to ensure compliance with GDPR if necessary.
+Your personal data may on rare occasions be shared with other controllers or processors within the EU/EEA area.
+
+### Transfers outside the EU/EEA
+
+We do not, as standard practice, seek to use services outside the EU/EEA.
+
+If we seek to transfer personal data or use services which host personal data outside the EU/EEA, we will only transfer to entities that provide contractual guarantees such as Standard Contractual Clauses (SCCs) (until such time the European Commission approves new SCCs) or who are located in countries who have an adequacy arrangement with the EU to protect your data with the same level of privacy as entities within the EU/EEA. We will perform the necessary due diligence to safeguard your personal data with these organisations. Either one or all of these approaches will be reviewed in line with CJEU rulings to ensure compliance with GDPR if necessary. We will continue update our Privacy Notice to ensure that you are kept informed of data sharing practices.
 
 We will update our Privacy Notice in this event to ensure that you are kept informed.
 
 ## Keeping you up to date.
 
-We will make changes to the Privacy Notice from time to time, in line with any new legal requirements or any changes we make within the business regarding the processing of your personal data. This version of the Privacy Notice was published in May 2018.
+We will make changes to the Privacy Notice from time to time, in line with any new legal requirements or any changes we make within the business regarding the processing of your personal data. This version of the Privacy Notice includes processing of personal data for competition entries, updated guidance for third country processing and processors and controllers was published in October 2018.
 
 ## Cookies (collection of Anonymous Data).
 
