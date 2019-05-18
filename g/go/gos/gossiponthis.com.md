@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223163243id_/http%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518122748id_/https%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gossip On This
 
 **GossipOnThis.com  
-Privacy  Policy**
+Privacy Policy**
 
 Revised and posted as of May 18, 2018
 
