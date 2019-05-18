@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faasos.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214220001id_/https%3A//www.faasos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faasos.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518142856id_/https%3A//order.faasos.io/privacy) for the most accurate reproduction.*
 
 # FAASOS - Privacy Policy & Disclaimer
 
