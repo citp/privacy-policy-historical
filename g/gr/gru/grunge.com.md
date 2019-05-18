@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grunge.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206075037id_/https%3A//www.grunge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grunge.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518053541id_/https%3A//www.grunge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
