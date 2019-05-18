@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622093735id_/https%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518051825id_/https%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Nonprofits
+
+### Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/topnonprofits.com).  
+
 
 _**Your privacy is critically important to us. At Top Nonprofits we have a few fundamental principles:**_
 
@@ -44,8 +50,6 @@ A cookie is a string of information that a website stores on a visitor’s compu
 If Top Nonprofits, or substantially all of its assets were acquired, or in the unlikely event that Top Nonprofits goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Top Nonprofits may continue to use your personal information as set forth in this policy.
 
 **Ads**
-
-Ads appearing on any of our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Top Nonprofits and does not cover the use of cookies by any advertisers.
 
 **Privacy Policy Changes**
 
