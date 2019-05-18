@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030002007id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtru.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518081908id_/https%3A//www.virtru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virtru
 
@@ -13,7 +13,7 @@ For us, “Personal Information” means:
 
 Any information that falls outside of this is “Other Information.” If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy.
 
-####  **Personal Information We Collect**
+#### **Personal Information We Collect**
 
 Through our Site: 
 
@@ -56,13 +56,13 @@ We and our service providers use Personal Information for legitimate business pu
 
 We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
 
-  *  **Sending you communications regarding additional services that may be of interest to you.We will engage in this activity with your consent or where we have a legitimate interest.**
+  * **Sending you communications regarding additional services that may be of interest to you.We will engage in this activity with your consent or where we have a legitimate interest.**
   * Performing security analyses to verify that the Services are working properly and have not been compromised. We will engage in this activity where we have a legitimate interest.
   * For our internal business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
 
 
 
-####  **When We Share Personal Information**
+#### **When We Share Personal Information**
 
 We disclose Personal Information:
 
@@ -75,7 +75,7 @@ We disclose Personal Information:
 
 
 
-####  **Other Information We Collect**
+#### **Other Information We Collect**
 
 We and our third party service providers may collect other information in a variety of ways, including:
 
@@ -84,22 +84,22 @@ We and our third party service providers may collect other information in a vari
   * Through server log files: An Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP), and is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site. We may also derive your approximate location from your IP address.
   * Using cookies: Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We and our service providers use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Site, as well as for online tracking purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). If you choose to decline cookies, some or all of the features, functionality and promotions available through the Site may not be available to you. 
 
-Cookie Type| Description  
+Cookie Type | Description  
 ---|---  
-Strictly necessary / Essential cookies| Essential cookies enable you to navigate the Site and to use its services and features. Without these absolutely necessary cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features.  
-Preference cookies| Preference cookies collect information about your choices and preferences, and allow us to remember language or other local settings and customize the Site accordingly.    
-Functionality cookies| Cookies that allow us to remember visitor choices and preferences. Based on this information, we can show you more relevant information. For example, we may gather country and language preferences.
+Strictly necessary / Essential cookies | Essential cookies enable you to navigate the Site and to use its services and features. Without these absolutely necessary cookies, the Site will not perform as smoothly for you as we would like it to and we may not be able to provide the Site or certain services or features.  
+Preference cookies | Preference cookies collect information about your choices and preferences, and allow us to remember language or other local settings and customize the Site accordingly.    
+Functionality cookies | Cookies that allow us to remember visitor choices and preferences. Based on this information, we can show you more relevant information. For example, we may gather country and language preferences.
 
 If you do not allow the use of this type of cookie, it will prevent the use of certain parts of our Site and will prevent us from remembering your preferences.  
   
-Targeting cookies or advertising cookies| With our permission, this type of cookie is placed on our Site by third parties such as advertising networks. These cookies are used to: 
+Targeting cookies or advertising cookies | With our permission, this type of cookie is placed on our Site by third parties such as advertising networks. These cookies are used to: 
 
   * Show relevant and personalized advertisements
   * Measure the effectiveness of an advertising campaign
   * Remember your visit and share data collected with third parties, such as advertisers. Often these cookies are linked to website functionality provided by the third party.
 
   
-Analytics cookies| Analytics cookies collect information about your use of the Site and enable us to improve the way it works. For example, analytics cookies show us which are the most frequently visited pages on the Site, help us record any difficulties you have with the Site, and show us whether our advertising is effective or not. This allows us to see the overall patterns of usage on the Site, rather than the usage of a single person. We use the information to analyze Site traffic, but we do not examine this information for individually identifying information.
+Analytics cookies | Analytics cookies collect information about your use of the Site and enable us to improve the way it works. For example, analytics cookies show us which are the most frequently visited pages on the Site, help us record any difficulties you have with the Site, and show us whether our advertising is effective or not. This allows us to see the overall patterns of usage on the Site, rather than the usage of a single person. We use the information to analyze Site traffic, but we do not examine this information for individually identifying information.
 
 We also use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.  
   
@@ -118,15 +118,15 @@ We also use Google Analytics, which uses cookies and similar technologies to col
 
 We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law.  In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-####  **Third Party Sites**
+#### **Third Party Sites**
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
-####  **Security**
+#### **Security**
 
 Security is our business! We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. We also require our third-party service providers with access to Personal Information to use reasonable measures to protect the confidentiality and security of the Personal Information they maintain for us. Unfortunately, no data transmission or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
 
-####  **Retention**
+#### **Retention**
 
 We retain Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law.  
 
@@ -138,7 +138,7 @@ The criteria used to determine our retention periods include:  
 
 
 
-####  **Use of Site by Minors**
+#### **Use of Site by Minors**
 
 The Services are not directed to individuals under the age of sixteen (16), and we request that these individuals do not provide Personal Information through the Services. 
 
@@ -146,25 +146,25 @@ The Services are not directed to individuals under the age of sixteen (16), and 
 
 The Services are controlled and operated by us from the United States. Your Personal Information may therefore be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information. Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)
 
-####  **Sensitive Information**
+#### **Sensitive Information**
 
 Unless we request it, we ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
 
-####  **Third Party Payment Service**
+#### **Third Party Payment Service**
 
 We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Information will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
 
-####  **Updates to this Privacy Policy**
+#### **Updates to this Privacy Policy**
 
 We may update this Privacy Policy from time to time. Any changes to this Privacy Policy will become effective when we email you about the changes or post the revised Privacy Policy on the Site. Your use of the Site or Services following any such updates will constitute your acceptance of such updates.
 
-####  **Your Choices and Rights**
+#### **Your Choices and Rights**
 
- _How you can access, change or delete your Personal Information  _
+_How you can access, change or delete your Personal Information  _
 
 If you would like to request to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, object to the processing of Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right is provided to you by applicable law), you may contact us at: [info@virtru.com](mailto:info@virtru.com). We will respond to your request consistent with applicable law. You may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs.
 
- _Your choices regarding our use and disclosure of your Personal Information_
+_Your choices regarding our use and disclosure of your Personal Information_
 
 We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:  
 
@@ -174,7 +174,7 @@ We give you choices regarding our use and disclosure of your Personal Informatio
 
 We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-####  **Contacting Us**
+#### **Contacting Us**
 
 Virtru Corporation, located at 1130 Connecticut Ave NW Suite 210, Washington, Dc 20036, D.C County, US, is the company responsible for collection, use and disclosure of your Personal Information under this Privacy Policy. 
 
