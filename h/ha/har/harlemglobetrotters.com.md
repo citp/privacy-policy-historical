@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203032407id_/https%3A//www.harlemglobetrotters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519011010id_/https%3A//www.harlemglobetrotters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harlem Globetrotters
 
@@ -12,7 +12,7 @@ Suite 300
 
 Peachtree Corners, GA 30092
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9bf2f5fdf4dbf3fae9f7fef6fcf7f4f9feefe9f4efeffee9e8b5f8f4f6)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f69f989099b69e97849a939b919a9994938284998282938485d895999b)
 
 678-497-1900
 
@@ -24,7 +24,7 @@ Suite 200
 
 Peachtree Corners, GA 30092
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#741d1a121b341c1211171b06045a171b19)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f69f989099b69e909395998486d895999b)
 
 770-441-1940
 
