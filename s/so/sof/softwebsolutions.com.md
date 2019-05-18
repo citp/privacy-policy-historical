@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005150id_/http%3A//www.softwebsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518221417id_/https%3A//www.softwebsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Softweb Solutions
+# Privacy Policy | Softweb Solutions Inc
 
 ## Privacy Policy
 
@@ -24,7 +24,7 @@ We use information in different ways, depending on the type of information. User
 
 ## Third Party Vendors and Cookies
 
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy/ads/)
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy/ads/)
 
 ## How We Protect Your Information
 
@@ -34,6 +34,6 @@ Unfortunately, no data transmission over the internet can be guaranteed to be 10
 
 ## Who Has Access to the Information
 
-Except as described, Softweb Solutions will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user's permission. Softweb Solutions may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of Softweb Solutions.
+Except as described, Softweb Solutions will not willfully disclose any individually identifiable information about its users to any third party without first receiving that user’s permission. Softweb Solutions may disclose personal information when we believe in good faith that the law requires it or to protect the rights or property of Softweb Solutions.
 
-We welcome any questions or comments you have about the Softweb Solutions site.
+We welcome any questions or comments you have about the Softweb Solutions site. 
