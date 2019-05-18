@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the occipital.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230022737id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the occipital.com privacy policy that was archived on 2019-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518072943id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Occipital - Privacy</title>
@@ -66,7 +66,7 @@ li {
 
 
     
-    <script type="text/javascript">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
       var occipital_setup = {"location": "privacy"};
     </script>
     
@@ -75,9 +75,8 @@ li {
     
     <script src="/static/occipital/logging.js"></script>
 
-<script src="/static/occipital/cookieconsent/cookieconsent.js"></script>
 <script>
-    
+
 // Start Visual Website Optimizer Asynchronous Code
 var _vwo_code=(function(){
 var account_id=336736,
@@ -90,48 +89,44 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 
 /*
-- if non-EU, don't show banner and assume cookieConsent=yes
-- if EU, fade banner in
-- if timeout (200ms?), fade banner in (assume GDPR applies)
-*/
-var geolocateUrl = 'https://mst41oh22k.execute-api.us-west-2.amazonaws.com/default/ip_location';
+   - if non-EU, don't show banner and assume cookieConsent=yes
+   - if EU, fade banner in
+   - if timeout (1000ms), fade banner in (assume GDPR applies)
+ */
+var geolocateUrl = 'https://occipital.com/ip_location';
 
-// TODO: should this call happen before contentloaded?
-window.addEventListener("DOMContentLoaded", function () {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', geolocateUrl, true);
+var xhr = new XMLHttpRequest();
+xhr.open('GET', geolocateUrl, true);
 
-    xhr.timeout = 2000; // time in milliseconds
+xhr.timeout = 1000; // time in milliseconds
 
-    xhr.onload = function () {
-        var isEU = true;
-        try {
-            isEU = JSON.parse(xhr.response).result;
-            console.log('isEU ' + isEU);
-        }
-        catch(error) {console.error(error);}
-        initConsentFlow(isEU);
-    };
-
-    xhr.onerror = function (e) {
-        console.error(e);
-        initConsentFlow(false);
+xhr.onload = function () {
+    var isEU = true;
+    try {
+        isEU = JSON.parse(xhr.response).result;
     }
+    catch(error) {console.error(error);}
+    initConsentFlow(isEU);
+};
 
-    xhr.ontimeout = function (e) {
-        console.error('timeout ' + e);
-        initConsentFlow(false);
-    };
+xhr.onerror = function (e) {
+    console.error(e);
+    initConsentFlow(true);
+}
 
-    xhr.send(null);
-});
+xhr.ontimeout = function (e) {
+    console.error('timeout ' + e);
+    initConsentFlow(true);
+};
+
+xhr.send(null);
 
 
 function initConsentFlow(needsConsent) {
     
     didConsent = !needsConsent;
     pageViewSent = false;
-    
+
     // Google Analytics
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){		
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),		
@@ -139,29 +134,42 @@ function initConsentFlow(needsConsent) {
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     
     if (needsConsent) {
-        window.cookieconsent.initialise({
-            "palette": {
-                "popup": {
-                    "background": "#252e39"
-                },
-                "button": {
-                    "background": "#14a7d0"
-                }
-            },
-            
-            "revokable": false,
-            "content": {
-                "message": "We store  first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
-                "dismiss": "I Understand",
-                "allow": "Accept Cookies",
-                "link": "Learn more",
-                "href": "https://occipital.com/legal/privacy",
-            },
-            "cookie": {
-                "domain": ".occipital.com",
-                "name": "cookieconsent_status_2",
-            },
-        });
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.onload = function () {
+            function initConsent() {
+                window.cookieconsent.initialise({
+                    "palette": {
+                        "popup": {
+                            "background": "#252e39"
+                        },
+                        "button": {
+                            "background": "#14a7d0"
+                        }
+                    },
+
+                    "revokable": false,
+                    "content": {
+                        "message": "We store  first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
+                        "dismiss": "I Understand",
+                        "allow": "Accept Cookies",
+                        "link": "Learn more",
+                        "href": "https://occipital.com/legal/privacy",
+                    },
+                    "cookie": {
+                        "domain": ".occipital.com",
+                        "name": "cookieconsent_status_2",
+                    },
+                });
+            }
+            if (document.readyState == 'loading') {
+                window.addEventListener("DOMContentLoaded", initConsent);
+            } else {
+                initConsent();
+            }
+        };
+        script.src = '/static/occipital/cookieconsent/cookieconsent.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
     }
     
     // Have we already see the consent notice?
@@ -187,7 +195,7 @@ function initConsentFlow(needsConsent) {
     }
     
     sendPageView(didConsent);
-});
+}
 
 function sendPageView(consent) {
     
@@ -224,12 +232,12 @@ function enableCookies() {
 
 }
 
-</script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=336736&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190518072943id_%2Fhttp%253A%2F%2Foccipital.com%2Flegal%2Fprivacy&amp;r=0.7604167607360448" type="text/javascript"></script>
 
 
-  </head>
+  <script type="text/javascript" src="/static/occipital/cookieconsent/cookieconsent.js"></script><style></style></head>
 
-  <body>
+  <body><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-530831885 " style=""><!--googleoff: all--><div id="cookieconsent:desc" class="cc-message">We store  first- and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. <a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="https://occipital.com/legal/privacy" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></div><div class="cc-compliance"><button aria-label="dismiss cookie message" tabindex="0" class="cc-btn cc-dismiss">I Understand</button></div><!--googleon: all--></div>
     <div id="header">
       <div id="verselogo">
         
@@ -395,7 +403,7 @@ function enableCookies() {
           <div class="text">Technology by</div>
         </div>
         <div class="copyright">
-          Copyright © 2018 Occipital Inc. All rights reserved.
+          Copyright © 2019 Occipital Inc. All rights reserved.
         </div>
 
       </div>
