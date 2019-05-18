@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114075601id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518110621id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
 
 # musicJAPANplus - privacy policy - Jpop, Jrock, and visual kei.-
 
