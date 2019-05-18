@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019123758id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518132155id_/https%3A//www.cabelas.com/custserv/custserv.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Cabela's
 
@@ -75,7 +75,7 @@ This website uses Mouseflow, a third-party analytics tools, to track page conten
 
 TRACKING TECHNOLOGIES AND HOW WE USE THEM
 
-We and our partners use cookies or similar technologies to analyze trends, administer the website, track users¿ movements around the website, and to gather demographic information about our user base as a whole. 
+We and our partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. 
 
 COOKIES  
 A cookie is a block of text placed in a file on the user's hard drive by a web site you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address. We use both first party cookies, and as set forth below in more detail, third party cookies. 
