@@ -1,136 +1,149 @@
-> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615043843id_/https%3A//www.vioc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519173648id_/https%3A//www.vioc.com/privacy-policy) for the most accurate reproduction.*
 
-# Valvoline Instant Oil Change
+# Privacy Policy | VIOC
 
-Thank you for your trust in Valvoline Instant Oil Change, and for taking the time to read our Privacy Policy. This Privacy Policy tells you how we protect the privacy of your personal information that you may provide to us.
+  
 
-Time-It Lube is now part of Valvoline Instant Oil Change.  
 
+### **
 
-We have organized our web sites so that you will not be required to identify yourself or reveal any personal Information in order to view our web sites. At times, we may ask you to provide information about yourself or your company in order to better serve you. If you choose to provide this personally identifiable information, we will use it in accordance with this Privacy Statement. By entering this web site, you are consenting to the terms of this Privacy Statement. This Privacy Statement only applies to data collected on the Valvoline Instant Oil Change web site (www.vioc.com). Other individual web sites of Valvoline or Ashland Inc. (collectively "Ashland"), including Valvoline.com, may have privacy statements tailored specifically for activity on those web sites and the terms of those privacy statements may differ from this Privacy Statement.
+##### Effective Date: May 25, 2018
 
-### Purpose of Privacy Policy
+**
 
-The purpose of this Privacy Policy is to answer some of the questions that you may have about what we do with the personally identifiable information that we may collect from our web site. We want you to know that your personally identifiable information will be protected, who we may share it with, and for what purposes.
+##### Valvoline Consolidated Online Privacy Notice
 
-### Changes to this Privacy Statement
+This Privacy Notice (“Notice”) applies to consumer information gathered on the websites and mobile applications of Valvoline and its subsidiaries and affiliates (the “Online Services”). This Notice does not apply to information collected or received apart from the Online Services or via third party websites or services and this Notice does not apply to data that does not allow us or third parties to identify or contact you. This Notice does not apply to any retail location. This Notice does not apply to any Online Service which provides its own separate notice. 
 
-We reserve the right to update this Privacy Statement at any time without notice to you. The most current version of the Privacy Statement can be reviewed by clicking on the "Privacy Policy" hypertext link located at the bottom of the web pages on this web site. Your use of this web site may also be subject to additional terms as outlined in the Terms of Use and elsewhere on this web site.
+  
 
-### What Information Do We Collect and How Do We Use It
 
-We understand that you expect to learn about our company when you visit this web site. Similarly, we hope to learn about your needs as a current or potential customer or shareholder through your visits to this web site. On some of our web pages, you may be able to ask questions, register to receive information, enter sweepstakes or enter information about your vehicle.
+## **1.      ** **What Information Does Valvoline Gather?**
 
-### Collection of Personal Information
+**Information You Give Us.** We may collect and retain any information provided by you or your devices in connection with your online activity. For example, we collect information you give us when you: 
 
-Many of our web pages do not require any form of registration or identification. However, on some of our web pages you may be able to ask questions and register to receive information or offers. On these pages we will ask you for the personal information necessary for us to respond to you, such as your name, mailing address, electronic mail address, and telephone number. If you opt to not provide us with personal information you can still access our web sites; however you may be unable to participate in certain promotions, receive product information offered through Ashland's web sites, responses to requests for materials or information, or interactive advertisements.
+    * visit or use our Online Services;
+    * purchase products or services, download coupons or respond to other incentives or offers, or otherwise engage in transactions with us or others;
+    * communicate with us, such as to provide feedback, ask for additional information, request support or service;
+    * post content, photos or other material to social media or similar features operated by Valvoline or which Valvoline may access; 
+    * register for or manage an account with us; or
+    * subscribe to newsletters, email lists or other content we provide.
 
-Data Integrity
 
-We take reasonable steps to ensure that personally identifiable data collected is reliable for its intended use, accurate, complete and current. We limit the collection and processing of the personally identifiable information which you provide to us to only what is necessary to fulfill the purpose.
 
-Consent to Provide Your Information
+We may collect information such as your first and last name, home or other physical address, email address, telephone number, date of birth, social security number and other information that permits you to be contacted physically or online, and other information, including information about your interactions with us or others. You may choose not to provide certain information to us but doing so may restrict your ability to use our Online Services or conduct certain business with Valvoline. 
 
-We request your permission to collect your personally identifiable information when you seek to register for any of our programs or services. In doing so, we also explain the purpose for the collection of your personal information and how we plan to use it. We also offer you the option to discontinue your consent ("opting out" or "unsubscribing") if you later decide that you no longer want to participate in a program or service. If we wish to use this information for purposes that differ from those for which the data was initially collected, we will first request your permission to do so.
+**Social Media.** We may collect information through our presence on social media and networking platforms You may use social networks or other online services to access our Online Services. When you do so, information from those services may be made available to us. By associating a social network account with our Online Services, we may access and retain information relating to that account in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network.
 
-Aggregate and Statistical Data
+**Device and Web Browsing Information.** We may collect information from your devices and about your web browsing when you visit or use our Online Services. We may collect information such as:
 
-When you visit our web sites we do not collect any personally identifiable information about you without your express permission. However, we may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies when you visit many of our web pages. For instance, when you visit one of our web sites, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Chrome, Internet Explorer, Safari), the type of operating system you are using (e.g., Windows 8 or Mac OS), the type of device you are using (e.g., Computer, Smartphone, Tablet) and the domain name and address of your Internet service provider (e.g., AOL, Time Warner Cable). This type of information allows us to evaluate customer interest in our web sites and perform other market research activities, such as surveying browsing habits on our sites. It also allows us to monitor traffic to our web sites.
+    * your IP address;
+    * the type of browser, devices and operating systems you use;
+    * identifiers associated with the device(s) you use to access our Online Services;
+    * the pages you visit and the features you use, including dates and times;
+    * if you navigated from or navigate to another website, the address of that website; and
+    * information regarding your internet service provider.
 
-We also contract with third parties to serve ads on our behalf across the Internet by utilizing cookies, pixel tags, or the Google Display Network which can include the use of remarketing data collected in Google Analytics™. These ads are served by collecting anonymous information about your visits to our website. The third parties may use this information to deliver you content while visiting other websites to encourage you to revisit our website. The data collected is anonymous, and no personally-identifiable information will be stored or shared. To opt-out of this form of advertising from Google please click [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgn91c3egibiLjseVvqk2mibjHsKW-Pco3Pu_qsKaHNEhaHj71flSAmP2AJxbCelp2hKyqmakg8rUjC1hDZ-wz1GKlmCrJUTZhfI_BELfeZokMC_qTuiVAuDVUnEnG8CqmzDsYOsnEkZfVIwB6ul6dD655q26W0S3bw2NV0qSh6ShdKVLcnWzwXZjH67AU-spo-wzPnAzdq5cxohvtG25NKgKD1uilYa9Qku8cKWULwcx--BzUHJ_dyiR6bs2qt5uGkepqR) to manage your Google ad settings and [here](https://tools.google.com/dlpage/gaoptout/) to manage the data that can be collected in Google Analytics. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our other third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).  
 
 
-Neither our cookies nor web beacons nor web log information collects any personal information, such as your name, email address, or any other personally identifiable information.
+In addition, we may collect information about your activities on our Online Services through the use of cookies, clear GIFs or web beacons, local shared objects or Flash cookies, or through other identifiers or technologies, including similar technologies as they may evolve over time. We refer to these technologies collectively as “Data Technologies.”
 
-In some cases we may also collect information about you that you voluntarily submit, such as general statistical information like age, gender, household size, zip/postal code, preferences and interests, which, when submitted individually, is not personally identifiable.
+We may allow third parties to use Data Technologies on our Online Services. The information collected by Data Technologies may be shared with and used by us, by others acting on our behalf, or by third parties subject to their own privacy policies. Information collected by Data Technologies may be used on this or on other websites or services, including those that may not be operated by us.
 
-Cookies and Web Beacons
+**Email _._** __ We may collect information regarding the effectiveness of our email and other communications with you. For example, we may know if you follow a link in an email we send to you.
 
-When you view one of our web sites or interactive advertisements, we may collect some non-personal information about you. The collection of this non personal information is done either through the "cookie" technology or with "web beacons" (also called "single-pixel gif" or "web pings"). Neither our cookies nor web beacons nor web log information collects any personal information.
+**Geolocation.** We may collect information from your device that precisely identifies your device’s physical location and which may include GPS-based, WiFi-based or cell-based location information.]
 
-a) Cookies
+**Vehicle Data.** We may learn information about your vehicles, including odometer readings, VIN, vehicle make and model, service history, and other vehicle information. 
 
-When you view one of our web sites or interactive advertisements, we may store some information on your computer. This information will be in the form of a small text file, also called a "cookie". Cookies help us in many ways to make your visit to our website more enjoyable and meaningful to you. For example, cookies avoid you having to log in every time you come back to one of our websites.  We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of these ads, please click here.   Most browsers can be configured not to accept cookies or to indicate when a cookie is being sent. Ashland does not collect personal information automatically, but we may combine non-personal information collected automatically (e.g., through cookies) with your previously submitted personal information. When this non-personal information is collected and combined with your submitted information we will treat the combined information as personal information. Our cookies cannot read data off of your hard drive, cannot read cookie files created by other web sites and cannot track any personal information about you. If you erase or reject a cookie, you may still use this web site.
+**Information from Other Sources.** We may obtain information about you from other third parties. This information may include information about your use of our Online Services, your use of other websites, your interests and preferences and other information about you or your household. We and others may combine information about you. 
 
-b) Web Beacons
+  
 
-Web beacons are site instrumentation that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon.
 
-If you would like more information about web beacons and cookies associated with on-line advertising or how to opt out of third party collection of information, please visit the Network Advertising Initiative web site, an independent web site not sponsored by or affiliated with Ashland Inc.
+## **2.      ** **How Does Valvoline Use Information It Gathers?**
 
-What Do We Do With Your Information
+We and others acting on our behalf may use the information that we gather to operate our businesses. For example, we may: 
 
-We will use the information that you provide us to better understand your needs and to provide you with better products and services. At the most basic level, we will use information you provide to communicate with you, to update you on our products and services, provide special offers, and to personalize our web sites for you. Web logs may be used if necessary to help identify any person attempting to break into or damage our web site. We may share web log information as well as any associated personally identifiable information with law enforcement agencies if we believe that we have evidence of a violation of computer security or related laws.
+**Operate and Support our Services.** We use the information that we gather in order to operate our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Online Services or other services. If you establish an account with us, we may use information about you to manage or support your account. We may identify your use of our Online Services from different devices, and we may use information we collect from you and receive from others to optimize your use of the Online Services and our services as you use different devices.   
 
-Periodically, we may survey you about your use of products for other market research or to provide you with marketing information we think will be useful to you. Of course, it is not required that you participate in these surveys or accept this marketing information to continue to use our web sites or continue to receive communications from us.
+**Improve and Evolve our Services.** We evaluate and improve our services, including developing new products or services and using the information we gather to do so. For example, we may analyze customer interest in our Online Services and perform other market research activities, such as surveying browsing habits on our sites. We may also monitor traffic to our web sites.
 
-Will My Information Be Sold to Third Parties
+**Advertise and Promote Products and Services.** We may use the information we gather to offer, provide, or personalize products and services from us. For example, we may customize content, advertising, communications and promotions to reflect your preferences, interests, or prior interactions with us and others. We and others may use information we gather to deliver you content when you visit other online services, including to encourage you to revisit our Online Services.
 
-No. Except as specifically provided for in this policy, we will not sell or share the personal information which you give to us to unaffiliated third parties, such as marketers, for their own separate use unless we have obtained your explicit opt-in consent to do so. We may make your provided personal information (such as name, mailing addresses and email addresses) accessible to our business partners, vendors, contractors or partners in connection with services that these individuals or entities perform for or with Ashland, such as companies we retain to fulfill requests for information or provide assistance to us on specific programs or projects; and non-personal information (such as vehicle information) with vendors, contractors, and other third parties. These vendors, contractors or partners are restricted by law and/or contract from using this data in any way other than to provide services for Ashland, and they may not share or resell this data. The services they provide for Ashland include, among other things, mailing product samples, or contacting the winners of Ashland contests.
+**Make Other Contacts.** We may contact you through telephone, text, email, chat or other means as permitted by law. 
 
-There may also be instances where we may be required to share your information with third-parties who have not been retained by us (directly or indirectly) and Ashland reserves the right to share the information to respond to duly authorized information requests of governmental authorities or where required by law. For example, we may be required to do so because of an applicable law, court order or governmental regulation, or if such disclosure is otherwise necessary in support of any criminal or other legal investigation or proceeding in the United States or abroad. Many entities receiving personally identifiable information under these conditions have privacy requirements that apply to their handling of your information.
+This Notice only addresses our own information practices. This Notice does not apply to information you share with third parties even if we link to those third parties from an Online Service. These third parties may have their own privacy policies governing their use of information that you can access from their websites. 
 
-Personal information collected from you may also be transferred to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred, in which case we would require the buyer, assignee or transferee to treat your information in accordance with this Privacy Statement.
+Please note that other parties may collect personally identifiable information about your online activities over time and across different websites when you use our Online Services. 
 
-Links to Other Sites
+  
 
-This Privacy Statement applies only to this web site and not to other Ashland web sites or third party web sites. We may provide links to other web sites which we believe may be of interest to our visitors. We aim to ensure that such web sites are of a high standard. However, due to the nature of the Internet, we cannot guarantee the privacy standards of web sites to which we link or be responsible for the contents of sites other than this one. This Privacy Statement is not intended to be applicable to any linked, non-Ashland site. We encourage you to read the privacy statements for all linked websites.
 
-Privacy and Protection of Children
+## **3.      ** **When Does Valvoline Share Information?**
 
-This web site is not designed for, or directed to, children under the age of 13. We will not knowingly collect, use or disclose personally identifiable information from a minor under the age of 13. Should a child whom we know to be under 13 provide personally identifiable information to us we will immediately remove that child and delete all personal information provided by the child from our records. We encourage parents to take an active role in their children’s online activities and to talk with their children about disclosing personally identifiable information to web sites.
+We may share the information we gather, including as follows:
 
-Data Security
+**Service Providers.** We may share information with third party service providers and others who help us operate our business or provide services on our behalf. These service providers include those who may help us handle your account or provide customer service or respond to consumer requests, complete orders, conduct training, support our franchisees or related franchising efforts, contact contest winners, and analytics companies, advertising networks and others, such as those that provide Data Technologies on our Online Services. 
 
-Ashland is committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal information from loss, misuse or alteration. We use appropriate technical, administrative and physical safeguards to protect data that pertains to you. Of course, no organization can guarantee the absolute security of personal information. You should keep in mind that Internet transmissions, particularly email transmissions, are never 100% secure or error-free. Accordingly, we caution you to guard your own computer and password against unauthorized access by others. Vendors, contractors, or partners of Ashland who have access to your personal information in connection with providing services for Ashland are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Ashland. No one at Ashland, or its various business units, has access to your password or credit card information at any point as we use secure connections to fully encrypt this data on our web sites to protect it during its transmission.
+**Corporate Affiliates and Other Ventures.** We may share information with our corporate affiliates and franchisees for their everyday business purposes, to provide services or to perform marketing. We may also participate in joint ventures with others, and we may share information as part of such joint ventures. We may share information with other selected third parties. For example, we may exchange information with third parties regarding vehicle details and service history.
 
-Referrals
+**Promotional.** We may share information with third parties who help us develop and promote products and services, including joint marketing, or to help us customize advertisements, offers, or other communications to you. 
 
-Occasionally, visitors will have the opportunity to forward product sampling opportunities or other information on the web site to friends/relatives or to send messages from our web sites or interactive advertisements to friends/relatives. The personal referral information you provide to facilitate this communication is used on a one-time basis and is not further used by Ashland to re-contact referred individuals, except in circumstances where we obtain consent from the people you have referred to receive communications from us. We may also retain such information for analysis to better serve our customers.
+**Referrals.** Occasionally, visitors will have the opportunity to forward information to others through our Online Services (or interactive advertisements). The personal referral information you provide to facilitate this communication is used on a one-time basis and is not further used by Valvoline to re-contact referred individuals, except in circumstances where we obtain consent from the people you have referred to receive communications from us. We may also retain such information for other purposes, such as for analysis to better serve our customers.
 
-Photo Policy
+**Business Transfer.** We may share information we have gathered about you in connection with the sale or merger of our business or the transfer of assets.
 
-We appreciate your participation in Valvoline Instant Oil Change’s social media channels (e.g. Facebook, Youtube, Twitter, etc). Please be aware of the following policies and guidelines:
+**Protection of Ourselves and Others.** We may use and share the information we gather to protect our own and others’ rights and property, including protection of our affiliates, franchisees, customers and members of the public. We may use and share the information we gather to comply with law (including cooperation with regulators or officials), legal process or legal advice, and for preventing fraud, theft, and injury to you, us or others.
 
-  * All content (such as photos, text, images, videos) submitted or linked on this site or through social media is the sole responsibility of the person from which the content originated.
+  
 
-  * Valvoline Instant Oil Change reserves the right to remove any content that is deemed inappropriate, obscene, slanderous or malicious and may block users that contribute such content.
 
+## **4.      ** **What Choices Do I Have Regarding My Information?**
 
+You may limit and control the information provided to us in a number of ways. You may not be able to use all features of our Online Services if you limit the information you share with us.
 
+ If you have registered for an account, you may update information provided in your online account by logging on to your account and editing that information.
 
-Remember that Valvoline Instant Oil Change’s website and social media channels are public forums. Any information you share may be viewed by others. By posting content to Valvoline Instant Oil Change’s website or social media, you grant Valvoline Instant Oil Change / Ashland permission to display, modify, reproduce and distribute this content without compensation.
+You may unsubscribe from promotional emails from us by following the unsubscribe link included in each such email. 
 
-By participating in Valvoline Instant Oil Change’s social media channels, you release Valvoline Instant Oil Change and Ashland from any liability associated therewith, and agree to recompense Valvoline Instant Oil Change against any damages, losses, liabilities, judgments, costs or expenses arising out of a claim by a third party relating to any posts you have made.
+Your browser and your device may provide you the option to limit the use of cookies or other Data Technologies. You should consult documentation for your browser or device for more information. Your device may have settings that allow you to prevent sharing geolocation information with us. You should consult your device’s settings or help documentation for more information about exercising these options. 
 
-Updating Your Information
+We may use analytics technology such as Google Analytics, including for remarketing purposes. You may be able to opt-out of this use of information about you by Google by clicking [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgn91c3egibiLjseVvqk2mibjHsKW-Pco3Pu_qsKaHNEhaHj71flSAmP2AJxbCelp2hKyqmakg8rUjC1hDZ-wz1GKlmCrJUTZhfI_BELfeZokMC_qTuiVAuDVUnEnG8CqmzDsYOsnEkZfVIwB6ul6dD655q26W0S3bw2NV0qSh6ShdKVLcnWzwXZjH67AU-spo-wzPnAzdq5cxohvtG25NKgKD1uilYa9Qku8cKWULwcx%E2%80%94BzUHJ_dyiR6bs2qt5uGkepqR) to manage your Google ad settings and [here](https://tools.google.com/dlpage/gaoptout/) to manage the data that can be collected in Google Analytics. You may be able to opt-out of receiving certain advertising tailored to your interests by third parties through the Network Advertising Initiative website, an independent web site not sponsored by or affiliated with Valvoline. See [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). (Note that you will still receive advertising even after opting-out but such advertising may be less targeted to your interests and preferences.) You may opt out of enhanced online display advertising provided directly by Valvoline Instant Oil Change [here](http://dtmc.vioc.com/adinfo/choice/prod/?type=fpc&cid=18070&cname=VIOC&cmagic=cda79c&clogo=18070.jpg&loc=us&lang=en-us). 
 
-We encourage you to update the information that you provide to us, such as providing us with a new mailing or email address. This will help us continue to provide information to you that best meets your needs.
+  
 
-In addition, we comply with laws and regulations applicable to the right to amend your data in our files. These rights are limited in some ways. In addition, in order to protect your data from unauthorized access or alteration by third parties, all requests to update or access your information will be subject to verification of the identity of the requesting individual.
 
-Accessing Your Information and Contacting Ashland
+## **5.      ** **How Does Valvoline Address California Online Privacy Rights?**
 
-If you have any questions about this Privacy Statement, or if you have submitted or another person has submitted personally identifiable information about you through this web site, and you would like to have that information changed or deleted, please contact:
+As of the Effective Date listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services. 
 
-Ashland Communications and Corporate Affairs  
-50 E. RiverCenter Blvd.  
-P.O. Box 391  
-Covington, KY 41012-0391 USA  
-privacy@ashland.com
+  
 
-Voluntary Participation
 
-Our sites allow you to choose to receive or stop receiving communications from us. To request removal from a mailing list, please visit the Contact Us page and send a message with your request.
+## **6.      ** **How Does Valvoline Provide Updates to this Notice?**
 
-Your Acceptance of Our Privacy Practices
+We reserve the right to update this Privacy Statement at any time without notice to you. When we make material changes to this notice, we will update the Effective Date above. 
 
-By using this web site or any other Ashland web site or interactive banner ads, you signify your acceptance of this privacy statement, and you adhere to the terms and conditions posted on the web site.
+  
 
-If you do not agree with any of these terms in this privacy statement, please do not use this site or submit any personal information.
 
-Please check back for updates to this privacy statement.
+## **7.      How Can Valvoline be Contacted Regarding Privacy Issues? **
 
-Updated Privacy Statement
+You can contact us with questions or comments about our privacy practices or this Notice by contacting us at:
 
-This Privacy Statement becomes effective January, 2015. Valvoline Instant Oil Change and Ashland may update this Privacy Statement from time to time. We encourage you to review our Privacy Policy periodically.
+Valvoline Communications and Corporate Affairs  
+100 Valvoline Way  
+Lexington, KY 40509 USA
+
+[privacy@valvoline.com](mailto:mprivacy@valvoline.com)
+
+  
+
+
+## **8.      How Does Valvoline Address Information Security?**
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information you provide us through our Online Services. However, you should understand that no safeguards guarantee 100% security.
+
+  
+
