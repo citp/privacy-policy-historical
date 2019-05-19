@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the james-scholes.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107051245id_/http%3A//www.james-scholes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the james-scholes.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520011906id_/https%3A//www.james-scholes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
