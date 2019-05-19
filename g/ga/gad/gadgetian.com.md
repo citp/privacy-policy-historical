@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetian.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117161926id_/http%3A//gadgetian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetian.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519114028id_/http%3A//gadgetian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Gadgetian.com - Gadgetian
 
