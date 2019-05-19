@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the highmark.com privacy policy that was archived on 2017-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170528110558id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the highmark.com privacy policy that was archived on 2019-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190519174537id_/https%3A//www.highmark.com/hmk2/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-	<title>Privacy</title>
+
+<title>Highmark's privacy policy</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Highmark Inc. assures users that information is secure and maintained in confidence, consistent with applicable state and federal laws. ">
+	<meta name="description" content="Highmark assures users that information is secure and maintained in confidence, consistent with applicable state and federal laws. ">
 	
 	<!-- CSS -->
 	<link rel="stylesheet" href="/hmk2/css/bootstrap.css">
@@ -42,32 +43,32 @@
 <div class="container">
 <ul class="nav nav-pills pull-right" role="tablist">
 
-	<li class="dropdown" role="presentation">
-		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Select Color Contrast<b class="caret"></b></a>
-		<ul class="dropdown-menu colorSwitcher" role="menu">
+	<li class="dropdown selContrast" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" role="button" aria-expanded="false" aria-haspopup="true">Select Color Contrast<b class="caret"></b></a>
+		<ul class="dropdown-menu colorSwitcher" role="menu" aria-labelledby="selContrast">
 			<li id="default" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('default');return false;" role="menuitem" tabindex="-1">Default | Reset to Default</a></li>
 			<li id="highContrast1" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('highContrast1');return false;" role="menuitem" tabindex="-1">High Contrast 1</a></li>	
 			<li id="highContrast2" role="presentation"><a href="javascript:;" onclick="javascript:changeColors('highContrast2');return false;" role="menuitem" tabindex="-1">High Contrast 2</a></li>
 		</ul>
 	</li>
 
-	<li class="dropdown" role="presentation">
-		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Select Language<b class="caret"></b></a>
-		<ul class="dropdown-menu" role="menu">
-			<li role="presentation"><a mporgnav="" href="https://espanol.highmark.com" onclick="return switchLanguage('es'); function switchLanguage(lang) { MP.SrcUrl=unescape('mp_js_orgin_url'); MP.UrlLang='mp_js_current_lang'; MP.init(); MP.switchLanguage(MP.UrlLang==lang?'en':lang); return false;}" lang="es" role="menuitem" tabindex="-1">Espanol</a></li>
+	<li class="dropdown selLanguage" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" role="button" aria-expanded="false" aria-haspopup="true">Select Language<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="selLanguage">
+            
+<li role="presentation"><a href="/hmk2/lep/index.shtml#spanish" lang="es" role="menuitem" tabindex="-1">Espanol</a></li>
 
-			<li role="presentation"><a href="/hmk2/lep/italian.shtml" lang="it" role="menuitem" tabindex="-1">Italiano</a></li>
-			<li role="presentation"><a href="/hmk2/lep/russian.shtml" lang="ru" role="menuitem" tabindex="-1">Русский язык</a></li>
-			<li role="presentation"><a href="/hmk2/lep/vietnamese.shtml" lang="vi" role="menuitem" tabindex="-1">Tiếng Việt</a></li>
-			<li role="presentation"><a href="/hmk2/lep/chinese.shtml" lang="zh" role="menuitem" tabindex="-1">中文</a></li>
-<li role="presentation">        
-<a onclick="ga('send', { 'hitType': 'pageview', 'page': '/hmk2/pdf/languagesother.pdf', 'title': 'Other' });" href="/hmk2/pdf/languagesother.pdf" target="_blank" role="menuitem" tabindex="-1">Other</a> </li>
+<li role="presentation"><a href="/hmk2/lep/index.shtml#italian" lang="it" role="menuitem" tabindex="-1">Italiano</a></li>
+<li role="presentation"><a href="/hmk2/lep/index.shtml#russian" lang="ru" role="menuitem" tabindex="-1">Русский язык</a></li>
+<li role="presentation"><a href="/hmk2/lep/index.shtml#vietnamese" lang="vi" role="menuitem" tabindex="-1">Tiếng Việt</a></li>
+<li role="presentation"><a href="/hmk2/lep/index.shtml#chinese" lang="zh" role="menuitem" tabindex="-1">中文</a></li>
+<li role="presentation"><a href="/hmk2/lep/index.shtml" role="menuitem" tabindex="-1">Other</a></li>
 		</ul>
 	</li>
 	
-	<li class="dropdown" role="presentation">
-		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-label="Change text size" aria-haspopup="true" aria-expanded="false"><span class="small">A</span>A<b class="caret"></b></a>
-		<ul class="dropdown-menu resizer" role="menu">
+	<li class="dropdown selSize" role="presentation">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-label="Change text size" role="button" aria-expanded="false" aria-haspopup="true"><span class="small">A</span>A<b class="caret"></b></a>
+		<ul class="dropdown-menu resizer" role="menu" aria-labelledby="selSize">
 			<li id="smaller" role="presentation"><a href="#" class="smaller" role="menuitem" tabindex="-1">Smaller</a></li>
 			<li id="regular" role="presentation"><a href="#" class="regular" role="menuitem" tabindex="-1">Regular</a></li>
 			<li id="larger" role="presentation"><a href="#" class="larger" role="menuitem" tabindex="-1">Larger</a></li>
@@ -75,8 +76,8 @@
 	</li>
 
 	<li class="dropdown needhelp" role="presentation">
-		<a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Need Help?<b class="caret"></b></a>
-		<ul class="dropdown-menu" role="menu">
+		<a href="#" data-toggle="dropdown" class="dropdown-toggle" role="button" aria-expanded="false" aria-haspopup="true">Need Help?<b class="caret"></b></a>
+		<ul class="dropdown-menu" role="menu" aria-labelledby="needhelp">
 			<li role="presentation"><a href="/hmk2/contact.shtml" role="menuitem" tabindex="-1">Contact Us</a></li>
 		</ul>
 	</li>
@@ -97,12 +98,14 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <a class="hmLogo" href="/hmk2/index.shtml"><img src="/hmk2/images/highmarkLogo.png" alt="Highmark Home"></a>
 </div>
 <div class="col-sm-5 col-md-3">
-<form role="form" class="clearfix" name="siteSearch" id="siteSearch" action="https://secure.highmark.com/cwasch/results-hmk.jsp" method="GET">
+<form role="form" class="clearfix" name="siteSearch" id="siteSearch" action="https://secure.highmark.com/cwasch/CWAParaSearch" method="GET">
 <input type="hidden" name="Action" value="Search">
 <input type="hidden" name="Collection" value="corphmcom">
 <input type="hidden" name="ResultStart" value="1">
 <input type="hidden" name="QueryMode" value="Internet">
 <input type="hidden" name="ResultMaxDocs" value="-1">
+<input type="hidden" name="SiteName" value="results-hmk.jsp">
+
 <div class="row">
 <div class="col-lg-12">
 <div class="input-group">
@@ -122,7 +125,7 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 
 <div class="navbar navbar-default yamm" role="navigation">
 <div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" id="ui-collapse-387">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" id="ui-collapse-17">
 <span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
@@ -154,9 +157,9 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <p class="hidden-xs hidden-ms">Learn more about Highmark and our affiliates and diversified business:</p>
 <ul role="menu"><li role="presentation"><a href="/hmk2/about/vision/index.shtml" role="menuitem" tabindex="-1">Mission, Vision &amp; Values</a></li>
 <li role="presentation"><a href="/hmk2/about/corpprofile/index.shtml" role="menuitem" tabindex="-1">Corporate Profile</a></li>
-<li role="presentation"><a href="http://careers.highmarkhealth.org/" role="menuitem" tabindex="-1">Careers</a></li>
+<li role="presentation"><a href="http://careers.highmarkhealth.org/" target="_blank" role="menuitem" tabindex="-1">Careers</a></li>
 <li role="presentation"><a href="/hmk2/about/ourBusinesses.shtml" role="menuitem" tabindex="-1">Our Businesses</a></li>
-<li role="presentation"><a href="https://www.highmarkhealth.org/annualreport2016/index.shtml" target="_blank" role="menuitem" tabindex="-1">Annual Report</a></li>
+<li role="presentation"><a href="https://www.highmarkhealth.org/annualreport2018/index.shtml" target="_blank" role="menuitem" tabindex="-1">Annual Report</a></li>
 </ul>
 </div>
 </div>
@@ -205,11 +208,10 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <p class="hidden-xs hidden-ms">View current news releases, browse our press kits, and learn more about Highmark:</p>
 
 <ul role="menu">
-<li role="presentation"><a href="/hmk2/newsroom/2017/index.shtml" role="menuitem" tabindex="-1">Press Releases</a></li>
+<li role="presentation"><a href="/hmk2/newsroom/2019/index.shtml" role="menuitem" tabindex="-1">Press Releases</a></li>
 <li role="presentation"><a href="/hmk2/newsroom/socialMedia.shtml" role="menuitem" tabindex="-1">Social Media</a></li>
 <li role="presentation"><a href="/hmk2/newsroom/snapshot.shtml" role="menuitem" tabindex="-1">Corporate Snapshot</a></li>
 <li role="presentation"><a href="/hmk2/newsroom/weeklyCapitolHillReport/index.shtml" role="menuitem" tabindex="-1">Weekly Capitol Hill Report</a></li>
-<li role="presentation"><a href="/hmk2/newsroom/currentTopics.shtml" role="menuitem" tabindex="-1">Current Topics</a></li>
 
 </ul>
 </div>
@@ -384,7 +386,7 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <h1>PRIVACY</h1>
 <div class="row">
 <div class="col-md-12">
-<a name="content"></a>
+<a id="content" aria-hidden="true"></a>
 
 <h2 class="deck">Highmark Health's Online Privacy Policy</h2>
 
@@ -393,12 +395,13 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <a onclick="ga('send', { 'hitType': 'pageview', 'page': '/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf', 'title': 'Policy Protecting Competitively Sensitive Information' });" href="/hmk2/pdf/Highmark_Inc_CSI_Policy.pdf" target="_blank">Policy Protecting Competitively Sensitive Information</a>
 </p>
            
-<p>At Highmark Health<sup><font size="1">1</font></sup>, we take the issue of privacy very seriously. We want to assure Users of our enterprise websites, mobile applications, social media tools, member and patient portals, and other online or digital resources (collectively "Consumer Platforms ") that the information collected and/or provided to us is secure and maintained in confidence, consistent with applicable state and federal laws, regulations, and corporate standards. "Users " means any individual visiting, using, and/or providing Personal Information via one of our Consumer Platforms. References to "you " or "your " in this online privacy policy mean individual Users. "Personal Information " means any individually identifiable information about a User, including, but not limited to name, date of birth, address, phone number, e-mail address, account number, and IP (internet protocol) address. Please read through the following pages, which describe the type of information we collect, how we use information, and our commitment to maintaining the privacy and security of information.</p>
+<h1>Highmark Health's Online Privacy Policy</h1>
+             
+<p>At Highmark Health<sup><font size="1">1</font></sup>, we take the issue of privacy very seriously. We want to assure Users of our enterprise websites, mobile applications, social media tools, member and patient portals, and other online or digital resources (collectively "Consumer Platforms") that the information collected and/or provided to us is secure and maintained in confidence, consistent with applicable state and federal laws, regulations, and corporate standards. "Users" means any individual visiting, using, and/or providing Personal Information via one of our Consumer Platforms. References to "you" or "your" in this online privacy policy mean individual Users. "Personal Information" means any individually identifiable information about a User, including, but not limited to name, date of birth, address, phone number, e-mail address, account number, and IP (internet protocol) address. Please read through the following pages, which describe the type of information we collect, how we use information, and our commitment to maintaining the privacy and security of information.</p>
 
-<p>Please be advised that Highmark Health does not own or control all Consumer Platforms used by our customers. This means that Highmark Health does not manage data collection, use, or disclosure activities which may occur on platforms owned by a Non-affiliated Third Party; however, we may receive information from the platform owner about Users who visit our resources located on their platform. For example, Highmark Health maintains a Facebook page, but we have no control over how Facebook collects, uses, or discloses information obtained from Users when they visit the Highmark Health page. </p>
+<p>Please be advised that Highmark Health does not own or control all Consumer Platforms used by our customers. This means that Highmark Health does not manage data collection, use, or disclosure activities which may occur on platforms owned by a Non-affiliated Third Party<sup><font size="1">2</font></sup>; however, we may receive information from the platform owner about Users who visit our resources located on their platform. For example, Highmark Health maintains a Facebook page, but we have no control over how Facebook collects, uses, or discloses information obtained from Users when they visit the Highmark Health page. </p>
 
 <p>We cannot guarantee the security or confidentiality of Personal Information transmitted across Non-affiliated Third Party platforms that we do not own or control. For example, if a User initiates a message to Highmark Health through our Facebook page, Facebook may be able to view that content as the platform owner.</p>
-
 
 <h2>I. Information Collected </h2>
 
@@ -406,14 +409,14 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <p>How you use a particular Highmark Health Consumer Platform will determine whether or not we collect Personal Information from you, and how much we collect. For many features, we do not require any Personal Information, nor will we ask questions about you. However, for others, we need to either verify your identity through a login process, or collect sufficient Personal Information to provide the service associated with that feature.</p>
 
 <h5 style="margin-bottom:0px;">B. Secure messaging and feedback/inquiry forms</h5>
-<p>Highmark Health invites Users to contact us using secure messaging or feedback/inquiry forms available on our corporate-owned platforms regarding account questions or concerns, or Highmark Health's products or services. We may disclose Personal Information to contracted Service Providers  to allow them to perform a service or function for which they have been engaged. The information provided through secure messages and feedback/inquiry forms will be used by Highmark Health or its contracted Service Providers to review and respond to Users' communications. </p>
+<p>Highmark Health invites Users to contact us using secure messaging or feedback/inquiry forms available on our corporate-owned platforms regarding account questions or concerns, or Highmark Health's products or services. We may disclose Personal Information to contracted Service Providers<sup><font size="1">3</font></sup> to allow them to perform a service or function for which they have been engaged. The information provided through secure messages and feedback/inquiry forms will be used by Highmark Health or its contracted Service Providers to review and respond to Users' communications.</p>
 
-<p>Highmark Health has established online communications tools for members and patients to contact their health plan or physician regarding certain inquiries, such as account questions, referrals, prescription renewals, or medical issues. Messages sent by or to members or patients who choose to use these online services may be recorded in transaction logs, which may be reviewed to monitor compliance with applicable laws and regulations, as well as the overall effectiveness of the services.</p>
+<p>Highmark Health has established online communications tools for members and patients to contact their health plan or physician regarding certain inquiries, such as account questions, referrals, prescription renewals, or medical issues. Messages sent by or to members or patients who choose to use these online services may be recorded in transaction logs, which may be reviewed to monitor compliance with applicable laws and regulations, as well as the overall effectiveness of the services. </p>
 
 <p>Users can also inquire about products and services offered by a Non-affiliated Third Party or Service Provider by clicking hyperlinks which may be located on our Consumer Platforms. These hyperlinks will then redirect to the Non-affiliated Third Party or Service Provider website. Highmark Health makes no representations or warranties regarding these websites, their content, or security. Users should review the online privacy policy of the Non-affiliated Third Party or Service Provider for information regarding their data collection, use, and disclosure practices. </p>
 
 <h5 style="margin-bottom:0px;">C. Use of cookies</h5>
-<p>A cookie is a piece of information about an internet session that may be created when an individual accesses a website. Cookies can capture information such as your IP address, your internet browser and operating system type, the date and time you visit a website, session information such as page response times, your search history, your saved preferences and password information (if you elect to have a website remember this information), information about the referring URL (uniform resource locator) and the URL clickstream to, through, and from our Consumer Platforms, and other similar details.  </p>
+<p>A cookie is a piece of information about an internet session that may be created when an individual accesses a website. Cookies can capture information such as your IP address, your internet browser and operating system type, the date and time you visit a website, session information such as page response times, your search history, your saved preferences and password information (if you elect to have a website remember this information), information about the referring URL (uniform resource locator) and the URL clickstream to, through, and from our Consumer Platforms, and other similar details. </p>
 
 <p>Highmark Health's Consumer Platforms may use cookies to monitor the performance of our resources, to enhance the User experience, and to assess aggregate information about our User base. We may also employ cookies on Non-affiliated Third Party and Service Provider websites to facilitate the delivery of our services and help follow Users' online activities over time and across online resources to inform more relevant communication with Users. Highmark Health may gather and use information obtained from cookies to provide customers and prospects with tailored products and services.</p>
 
@@ -426,11 +429,11 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <p>Please be advised that Highmark Health's Consumer Platforms are intended for general audience Users. Our Consumer Platforms are not directed at children under the age of 13, nor do we make attempts to collect, use, or disclose information from children under the age of 13. Highmark Health complies with all applicable state laws governing advertising and marketing to children, including the Delaware Online Privacy Protection Act, which prohibits marketing to children under the age of 18. </p>
 
 <h2>II. Use of Information Collected </h2>
-<p>Highmark Health does not sell Personal Information of Users collected through our Consumer Platforms to anyone. </p>
+<p>Highmark Health does not sell Personal Information of Users collected through our Consumer Platforms to anyone.</p>
 
 <p>All information submitted to us may be retained to provide a record of communications and to comply with any applicable legal and/or regulatory requirements, and may also be verified for accuracy. </p>
 
-<p>In addition: Highmark Health uses Personal Information of Users collected through Highmark Health's Consumer Platforms to i) provide relevant health care related information, ii) provide information regarding general health topics, iii) provide updates, news, event notices and announcements, iv) update information we have about Users, and v) monitor the effectiveness of our Consumer Platforms and features. We may also use Personal Information to provide Users with access to information about products, programs, and services offered by Highmark Health or our diversified businesses. </p>
+<p>In addition: Highmark Health uses Personal Information of Users collected through Highmark Health's Consumer Platforms to i) provide relevant health care related information, ii) provide information regarding general health topics, iii) provide updates, news, event notices and announcements, iv) update information we have about Users, and v) monitor the effectiveness of our Consumer Platforms and features. We may also use Personal Information to provide Users with access to information about products, programs, and services offered by Highmark Health or our diversified businesses.</p>
 
 <p>If you receive e-mail updates, news, announcements and/or event notices from Highmark Health, we will use the name, demographic, phone number, e-mail address, and other contact information you provide us in order to deliver that information. You may remove yourself from these communications at any time by following the removal instructions included in our communications. Your name, demographic, phone number, e-mail address and other contact information will be used only for Highmark Health-related communications and will not be given, sold, or rented to any external party without your prior approval. </p>
 
@@ -439,7 +442,6 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <h2>III. Access to Information Collected</h2>
 
 <h5 style="margin-bottom:0px;">A. Employees</h5>
-
 <p>Certain Highmark Health employees may be provided with Personal Information of Users in order to respond to their needs, assist with customer service and related account issues, and provide requested information regarding specific products or services. Certain employees will also be provided with Personal Information of Users in order to monitor the effectiveness of our Consumer Platforms and features. Highmark Health employees are required, by written confidentiality statements, corporate policies, and state or federal laws or regulations, to maintain the confidentiality of Personal Information, and to use strict standards of care in handling information. Employees who do not conform to these confidentiality requirements are subject to disciplinary sanctions, up to and including dismissal.</p>
 
 <h5 style="margin-bottom:0px;">B. Highmark Health's diversified businesses</h5>
@@ -451,7 +453,6 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <p>Other than as set forth herein, Highmark Health does not transmit any Personal Information collected through its Consumer Platforms to any third party without the permission of the User. However, Personal Information may be transmitted if there is a specific need to complete a transaction requested by the User or if necessary for providing a service or benefit to the User. For example, group health plan administrators have access to online enrollment applications and certain other Personal Information which is required for their plan administration purposes.</p>
 
 <h5 style="margin-bottom:0px;">D. Consumer platform communication services</h5>
-
 <p>Highmark Health has access to communications sent by or to Users who choose to utilize any Consumer Platform communication features. Highmark Health will not release the content of specific communications to any third party without the User's consent, other than as set forth above, or unless permitted or required under applicable state or federal law or regulation. Please be reminded that the platform owner may be able to view the content of communications, and Highmark Health cannot guarantee the security or confidentiality of Personal Information transmitted across platforms which we do not own or control.</p>
 
 <h2>IV. Compliance Assurance</h2>
@@ -471,14 +472,13 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 <h2>V. Changes to online privacy policy</h2>
 <p>Highmark Health reserves the right to change, modify, or update this online privacy policy at any time and for any reason. Highmark Health will promptly post changes, modifications, and updates to its Consumer Platforms accordingly. Continued use of our Consumer Platforms constitutes your acceptance of the terms of our online privacy policy.</p>
 
-<p><font size="2">(© 2014 Highmark Health —last revised March 2017)</font></p>
+<p><font size="2">(© 2014 Highmark Health —last revised December 2017)</font></p>
 
+<p><font size="1"><sup><font size="1">1</font></sup> Highmark Health includes all wholly and majority-owned subsidiaries and affiliates making up the Highmark Health enterprise, including, among others, Highmark Inc., Allegheny Health Network, HM Health Solutions, HM Home and Community Services, and other diversified businesses, but excluding Premier Medical Associates. References to "us", "we", and "our" in this online privacy policy mean Highmark Health.<br><br>
 
-<p><font size="1"><sup><font size="1">1</font></sup>Highmark Health includes all wholly and majority-owned subsidiaries and affiliates making up the Highmark Health enterprise, including, among others, Highmark Inc., Allegheny Health Network, HM Health Solutions, and other diversified businesses. References to "us", "we", and "our" in this online privacy policy mean Highmark Health.<br>
-<sup><font size="1">2</font></sup>Non-affiliated Third Party refers to an entity that offers a tool, service, product, or forum that Highmark Health may utilize, but there is no contractual relationship between Highmark Health and the entity (e.g., Facebook, LinkedIn, Google Analytics). <br>
-<sup><font size="1">3</font></sup>Service Providers means any vendor that has been contracted by Highmark Health to provide a service or perform a function on behalf, or for the benefit, of Highmark Health, including but not limited to technical support, system or account administration, or data analytics (e.g., WebMD, Coremetrics).</font></p>
+<sup><font size="1">2</font></sup> Non-affiliated Third Party refers to an entity that offers a tool, service, product, or forum that Highmark Health may utilize, but there is no contractual relationship between Highmark Health and the entity (e.g., Facebook, LinkedIn, Google Analytics). <br><br>
 
-
+<sup><font size="1">3</font></sup> Service Providers means any vendor that has been contracted by Highmark Health to provide a service or perform a function on behalf, or for the benefit, of Highmark Health, including but not limited to technical support, system or account administration, or data analytics (e.g., WebMD, Coremetrics).</font></p>
 
 </div><!-- end col -->
 </div><!-- end row -->
@@ -513,7 +513,6 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
 
 <a href="https://blog.highmarkhealth.org/" target="_blank" title="Visit the Highmark Blog" data-content="Click to get updates on Highmark on our blog"><img src="/hmk2/images/social/blog.png" alt="Highmark Blog" border="0" align="baseline" class="icon" id="blog"></a>
 
-<a href="http://www.flickr.com/photos/68130792@N04/" target="_blank" title="Check us out on Flickr" data-toggle="popover" data-content="Click to get updates on Highmark on Flickr"><img src="/hmk2/images/social/flickr.png" alt="Flickr" border="0" align="baseline" class="icon" id="flickr"></a>
 
 </div><!-- end col -->
 </div><!-- end row -->
@@ -521,13 +520,13 @@ PROD - https://secure.highmark.com/cwasch/results-hmk.jsp
             		
 <div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
 
-<p><a href="https://www.highmarkonhealthreform.com" target="_blank">Health Care Reform</a><br>
-<a href="/hmk2/publicPolicy.shtml">Public Policy</a><br>
+<p><a href="/hmk2/publicPolicy.shtml">Public Policy</a><br>
 <a href="/hmk2/procurement/index.shtml">Procurement</a><br>
 <a href="https://www.highmark.com/edi/index.shtml" target="_blank">Electronic Data Interchange</a><br>
 <a href="/hmk2/fraud/index.shtml">Fraud Prevention</a><br>
 <a href="/hmk2/hipaa/index.shtml">HIPAA</a><br>
-<a href="/hmk2/privacy.shtml">Privacy</a></p>
+<a href="/hmk2/privacy.shtml">Privacy</a><br>
+<a href="/hmk2/gdpr.shtml">GDPR</a></p>
 </div>            		
 
 <div class="col-xs-6 col-ms-4 col-sm-2 col-md-2 col-lg-2 divider hidden-print">
@@ -588,7 +587,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- <script type="text/javascript" id="mpelid" src="//espanol.highmark.com/mpel/mpel.js"></script> -->
 
 <!-- Bootstrap Accessibility add-on -->
-<script src="/hmk2/scripts/bootstrap-accessibility-modified.js" type="text/javascript"></script>
+<script src="/hmk2/scripts/bootstrap-accessibility-modified-min.js" type="text/javascript"></script>
 
 <!--Retina.js Image Swap -->
 <script type="text/javascript" src="/hmk2/scripts/retina.js"></script> 
