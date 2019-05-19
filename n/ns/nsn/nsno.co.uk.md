@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902131356id_/https%3A//www.nsno.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519173413id_/https%3A//www.nsno.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NSNO
 
@@ -35,6 +35,7 @@ Below is a table of cookies used on this website
     
     Cookie| Type| Duration| Description  
     ---|---|---|---  
+    No records found  
       
     
     [Click here to delete]()
