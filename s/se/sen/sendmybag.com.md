@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendmybag.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222054954id_/https%3A//www.sendmybag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmybag.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519111418id_/https%3A//www.sendmybag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Send My Bag
 
@@ -12,7 +12,7 @@ By accessing the Sendmybag website, you are agreeing to the following policy fro
 
 #### 2\. REGISTRATION DATA
 
-When you first access a Sendmybag website, we will collect personal information from you. We may also ask you for information when you report a problem to our helpdesk and may keep a record of any correspondence.
+When you first access a Sendmybag website, we will collect personal information from you. We may also ask you for information when you report a problem to our helpdesk and may keep a record of any correspondence. All telephone calls to and from Sendmybag are recorded for training and monitoring purposes.
 
 #### 3\. AGGREGATED DATA
 
