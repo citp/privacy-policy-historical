@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133151id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519205345id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
 
 # RealtyJuggler Real Estate Software Privacy Policy
 
