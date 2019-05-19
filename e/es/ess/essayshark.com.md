@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822113732id_/http%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520014355id_/https%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EssayShark Privacy Policy | Read the Details of our Policy on Customers' Personal Information
 
@@ -242,7 +242,7 @@ Office of the Commissioner for Personal Data Protection
 P.O.Box 23378, 1682 Nicosia   
 Tel: [+357 22818456](tel:+357 22818456)  
 Fax: +357 22304565   
-Email: [commissionerdataprotection.gov.cy](mailto:commissionerdataprotection.gov.cy)  
+Email: [commissioner@dataprotection.gov.cy](mailto:commissioner@dataprotection.gov.cy)  
   
 ### Links to Other Websites
 
