@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopenmath.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115185943id_/https%3A//www.myopenmath.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopenmath.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519210004id_/https%3A//www.myopenmath.com/info/privacy.php) for the most accurate reproduction.*
 
 # MyOpenMath
 
