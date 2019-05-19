@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the baseballamerica.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223185556id_/https%3A//www.baseballamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballamerica.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519233838id_/https%3A//www.baseballamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Baseball America Enterprises Privacy Policy
-
-[
-
-Sign Up! Join our newsletters, get a FREE e-Edition
-
-](https://go.baseballamerica.com/newsletters "https://go.baseballamerica.com/newsletters")
-
-[ ](https://web.archive.org/)
 
 Baseball America Enterprises ("BBA" or "We" or "we") is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to BBA and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.
 
