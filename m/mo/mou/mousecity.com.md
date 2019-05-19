@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117115639id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mousecity.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519114214id_/http%3A//www.mousecity.com/site/privacy-policy) for the most accurate reproduction.*
 
 # MouseCity.com - Escape Games and other Puzzle Games
 
