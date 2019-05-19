@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225210014id_/https%3A//www.japan-guide.com/e/e441.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-guide.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519234517id_/https%3A//www.japan-guide.com/e/e441.html) for the most accurate reproduction.*
 
 # japan-guide.com Privacy Policy & Terms of Use
 
@@ -8,7 +8,7 @@ Below we explain how we use information that you provide us through japan-guide.
 
 #### What we collect directly from you
 
-We collect information that you directly provide us when creating an account, contacting us through the contact form, posting on our question forum, using our private messaging system or otherwise communicating with us. The information collected may include your email address and any other information you choose to provide.
+We collect information that you directly provide us when creating an account, contacting us through the contact form, posting on our question forum or otherwise communicating with us. The information collected may include your email address and any other information you choose to provide.
 
 #### What we collect automatically from you
 
@@ -53,7 +53,7 @@ We use the following services for serving advertisements and for analysing our w
 
 ### Terms of Use, Disclaimer
 
-The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20181225210014id_/https%3A//www.japan-guide.com/e/e410copy.mv) of the publisher and copyright owner.
+The information published at japan-guide.com is for informative purposes only. Web site users may download and copy the material for personal, non-commercial use, without the right to resell, redistribute (that includes publishing on a personal web site) or create derivative works therefrom. No part of this web site may be reproduced without the [written permission](https://web.archive.org/web/20190519234517id_/https%3A//www.japan-guide.com/e/e410copy.mv) of the publisher and copyright owner.
 
 Although we attempt to make the information on this web site as accurate and up-to-date as possible, there may exist some inaccurate or out-of-date information. Under no circumstances shall japan-guide.com be liable for any loss, damage, liability or expense incurred or suffered which is claimed to have resulted from use of this site.
 
