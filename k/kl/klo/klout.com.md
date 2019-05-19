@@ -1,85 +1,213 @@
-> *The following text is extracted and transformed from the klout.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206220108id_/https%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klout.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519171418id_/https%3A//lithium.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lithium
 
-## Changes in Our Privacy Notice
+## Scope of this Policy  
 
-This Privacy notice may change from time to time, so please review it frequently for any updates or changes. If we make material changes to this notice we will notify you by email (sent to the e-mail address specified in your account) or we will place a prominent notice on our web site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Access to Your Personally Identifying Information (pii)
+This Privacy Notice applies to www.lithium.com (“Site”) owned and operated by Khoros, LLC and its wholly owned subsidiaries (“we” or “Khoros”) and to the online communities and social media management products that Khoros provides to its customers (“Service(s)”). 
 
-Lithium acknowledges that you have the right to access your personal information. Upon request Lithium will provide you with information about whether we hold any of your personal information collected via this Site. You may access, correct, or request deletion of your personal information collected via this Site by emailing us at _privacy@lithium.com_. We will respond to your request within a reasonable timeframe. 
+This Privacy Notice describes how Khoros collects, uses, shares and secures your personal information on this Site, and as a data processor on behalf of our customers through the Services we provide to them. The use of information collected through our Services shall be limited to the purpose of providing the Service for which the customer has engaged Khoros, as agreed in a signed contract between Khoros and customer. This Privacy Notice also describes the choices available to you regarding the use of your personal information by Khoros and options available to you to access your information and request correction or deletion should you choose to do so. 
+
+Khoros does not send unsolicited emails or sell any personal information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Khoros products to voluntarily submit their contact information to us. 
+
+## Information Collected by Khoros
+
+### Information Submitted to Khoros
+
+Khoros receives user-submitted information from users wishing to be sent additional promotional information on Khoros products. The types of personal information you may provide us would include Contact information such as name, phone number, company, title, and email address. 
+
+###  Information Submitted to Khoros by Candidates for Employment
+
+As part of its recruiting activities, Khoros also receives personal information from users submitting job application materials to be considered for Khoros employment (“Recruiting Data”). This Recruiting Data includes anything that an individual chooses to include a resume or application, and typically consists of information such as job history, education, personal interests and activities, name, email address, phone number, and residence address. Further, Khoros collects sensitive information such as gender, race, and military status from employment candidates to assist Khoros in its equal employment opportunity compliance and related statistical tracking to help our diversity efforts. In connection with job screening activities, Khoros also requests personal information sufficient to have background checks conducted prior to hiring. 
+
+###  Information Indirectly Submitted by Users to Khoros
+
+We also use cookies, or similar tracking technologies to collect information passively such as the client browser type and IP address information. These technologies are used in tracking users’ movements around the site and provide a personalized experience. More information on cookies and similar technologies can be found below. 
+
+###  Information Collected from Other Social Media Sites
+
+Khoros collects data about individuals that is made available to Khoros and other third parties by social media sites such as Twitter, Facebook, Instagram, Pinterest, YouTube, Google+ and others through APIs or social media monitoring technology (“Third Party Sites”). This data includes names, user IDs, social media handles, gender, and other information that individuals choose to make publicly available on social media sites. Khoros also monitors the public activities of individuals on social media sites, including posts, blogs, tweets, and profile information, including such social media messages directed at our customers (the “brands” that are interested in understanding their consumer customers in order to serve them better). 
+
+Additionally, when a customer provides or accesses information through one of our Services, we may receive information from the customer’s input of, in response to, or by way of interaction with, content generated by customer’s use of the Services, such as social media messaging, as well as from the customer’s website or Third Party Site. This may include information regarding a third party that was published on or provided to the customer’s website or Third Party Sites. 
+
+This Privacy Notice does not govern the collection of content by Third Party Sites that is not published or generated through the Services, except to the extent that we act as a processor with respect to such content. Our customers are required to abide by the applicable policies and requirements of such Third Party Sites used in connection with the Services and when using information from Third Party Sites. 
+
+###  Information Collected through Community Forums
+
+We collect information that is posted by users to the Khoros Community forum (also called the “Lithosphere”) located at the Site, including content that is processed and stored within such community (“Community Content”). As part of our Services, we collect information that users post to our customer’s online communities hosted by Khoros (“Customer Communities”). 
+
+###  Information Collected from Customers
+
+We collect information that our customers provide us to enable them to log on and use the Services. This data consists of personal information of their authorized users, company information and configuration, content, internal communications and notes. 
+
+###  Information Collected from Other Websites
+
+We also collect information from partners and other websites concerning visitors of our website and our customers‘ websites (“Visitors”). For example, we ask or engage third parties to tell us additional information about Visitors, such as how they responded to our communication or promotions. We analyze this data, which we use for legitimate business purposes. 
+
+##  Use of Information Obtained by Khoros
+
+###  Information Users Submit to Khoros
+
+Information collected by Khoros from each Customer Community is used solely to provide the Services for that Community, to provide related Services to the customer who manages that Community, and as otherwise agreed in a contract between Khoros and the customer. Other information gathered is solely used to: (i) respond to a user's request for additional information on Khoros Services; (ii) provide, develop, enhance and support related Khoros Services; (iii) fulfill Khoros’s legal obligations and defend Khoros’s legal rights, as needed. We may also use a user's email address to send promotional or marketing materials on related Services, such as updates on the product line, but this is only after the user is a customer, a Service is requested by the user, or Khoros has some other pre-existing business relationship with the user. We use your IP address and browser-type information in the general administration of our website. 
+
+In addition, we use the information that we gather from other social media sites to: 
+
+  1. provide context to a brand, such as information about an individual’s past interactions with that brand, and the individual’s public profile information, to improve the quality of the brand’s interactions with that consumer who is reaching out to them over social media,
+  2. assess each individual’s general topics of interest (but excluding sensitive topics such as political or religious views),
+  3. measure their influence on social media by assigning a numerical value based on our proprietary algorithm which looks at frequency/ dates of activity, responses of other individuals to that activity, and the occurrence of certain key words and/or brand names, and,
+  4. allow brands to compare themselves to other brands in their industry by seeing aggregated statistics of the numbers of individuals who promote or detract from each brand based on the individuals’ public social media activity.
+
+
+
+Through our social media management services, we provide this information on individuals to the customer support and service representatives of the companies who are Khoros customers, the “brands”, so that those representatives can provide support and service to their consumer customers more effectively, by triaging communications to address more urgent requests in priority order, and by understanding the interests of their consumer customers to provide more targeted support. We also provide aggregated statistic to the brands for competitive analysis purposes. 
+
+Through our Khoros Community and Khoros JX Community platforms, we make social impact scores available for individuals who participate in the community to create more effective and interesting social interactions within the Community. 
+
+In the collection and use of information from other social media sites, we rely on our legitimate interests in providing services to our customers, and assisting them to provide better service to their customers, under applicable data privacy regulations, and balance those interests with the data privacy concerns of individuals. If you would like more information about our legitimate interests analysis, or have concerns that you would like us to address, please contact [privacy@khoros.com](mailto:privacy@khoros.com). 
+
+In regards to Khoros Services, Khoros collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use our service, please contact the customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers. 
+
+In regards to candidates for employment, we use your Recruiting Data for purposes of evaluating candidates for potential employment with Khoros. We disclose your Recruiting Data to our private equity sponsor, Vista Equity Partners, and its affiliates, including Vista Consulting Group (collectively, “Vista”), for administration, research, database development and business operation purposes, in line with the terms of this Privacy Notice. Vista processes your personal information on the basis of its legitimate interests in overseeing the recruitment process and, if applicable, your employment relationship with Khoros. If you have consented to us doing so, we also share your personal information with other Vista portfolio companies for the purpose of being considered for other job opportunities in the pooling system, both inside and outside your home country (including inside and outside the EEA). Please find a full list of all Vista portfolio companies at: https://www.vistaequitypartners.com/companies/. For residents of EEA countries, when this requires us to transfer your personal information outside of the EEA, we comply with applicable EU data privacy rules. 
+
+Information collected by Khoros from customers, outlined in this privacy notice is used solely to provide the Services and as otherwise agreed to in a contract between Khoros and the customer. 
+
+###  Aggregated Data
+
+Khoros may use and disclose data cleansed of all personal data so that it no longer can identify the customer and/or User; and aggregated with similar data from other Khoros customers (“Aggregated Data”) to determine and report Services usage patterns by customers and end users generally, and for any other legitimate purpose. 
+
+###  Point of Collection Purposes
+
+Sometimes, our customers have specific purposes for which they plan to use an individual user’s information, and our customers describe those purposes at the point of collection. For example, a customer may solicit a user’s feedback in order to improve services and products, respond to a user’s questions or comments, register in connection with a contest, giveaway, or drawing, respond to a request for a brochure, or to otherwise send information to the user. We may be asked to fulfill or assist with the fulfillment of the requirements associated with the point of collection purposes, but the responsibility to obtain any necessary consents remains with our customers as the data controllers. 
+
+##  Sharing of the Information This Site Gathers or Tracks
+
+As a matter of policy we do not sell your personal information to third parties. We may disclose your personal information only in ways that are described in this Privacy Notice as stated below: 
+
+  * To any third party with your consent
+  * To companies that provide services on our behalf to help us with business activities. These companies are authorized to use your personal information only as necessary to provide these services to us. These services may include hosting, log file analysis, spam filtering, content delivery network services, video hosting, and/or serving targeted in-media content. For a complete list of our subprocessors (third parties who process or have access to our customers’ personal data through our Services) visit <https://community.khoros.com/t5/Policies-and-Guidelines/Lithium-Data-Location-and-Subprocessor-Guide/ta-p/490163>
+  * In certain situations, Khoros may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, when required by law to comply with a subpoena or other similar legal processes
+  * When we believe in good faith that disclosure is necessary to protect our rights, your rights, protect your safety or the safety of others, investigate fraud, or comply with a law enforcement request
+  * If Khoros becomes involved in a merger or acquisition, or any form of sale of some or all of its assets, we will provide notice via email and/or a prominent notice on our website when your personal information becomes subject to a different privacy notice, of any change in ownership, uses of your personal identifying information, and choices you may have regarding your personal identifying information.
+  * In regards to information we collect from other social media sites, we disclose this information to our Khoros customers as part of our services to them to help them better serve their customers, as we describe above in the section called “Use of Information Obtained by Khoros”.
+  * In regards to your Recruiting Data, we disclose your Recruiting Data to Vista for the purposes described above, and, if you have consented to us doing so, we also share your personal information with other Vista portfolio companies for the purpose of being considered for other job opportunities in the pooling system, as more fully described above. Also in connection with the recruitment process, we transfer your personal data outside of the EEA to our sub-processors Hirebridge, LLC and Criteria Corp., which provide applicant tracking services. Hirebridge, LLC and Criteria Corp. both comply with the EU-U.S. Privacy Shield Framework and ensure that your personal information is adequately protected whilst outside of the EEA.
+
+
+
+###  Links to External Websites
+
+This site may contain links to other websites not connected to Khoros. Please be aware that Khoros is not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site and to read the privacy statements of any website that collects personal information. This privacy statement applies solely to information collected by this website. 
+
+###  Special Offers and Updates
+
+We will occasionally send you information on products, services, special deals, and promotions. You can sign up for these emails from us on our website. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choices and Opt-out Options" section below. 
+
+##  Use of Cookies and other Tracking Technologies
+
+Cookies or similar technologies are used by Khoros and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, referring/exit pages, browser type and operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. For more information about cookies used by Khoros and a list of Khoros cookies [download the Khoros 'use of cookies' datasheet](http://community.lithium.com/t5/Information-and-Policies/Khoros-Cookies-Datasheet/ta-p/236502). 
+
+##  Behavioral Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other Websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here, or if you are located in the European Union you may click here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
+##  Blogs
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@khoros.com](mailto:privacy@khoros.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+##  Testimonials and Comment, Idea, and Survey Submissions
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@khoros.com](mailto:privacy@khoros.com). 
+
+We consider information such as answers to surveys, comments, ideas, and suggestions (in each case, which do not contain personally identifiable information) to be non-personal and do not classify such as personally identifiable information. Except as otherwise provided by applicable contracts with our customers or a third party, Khoros is free to disclose and use such data or information without any obligation. 
+
+##  Single Sign-on
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+##  Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy notice of the company providing it. 
+
+##  Changes in Our Privacy Notice
+
+We may update this Privacy notice to reflect changes to our privacy practices, so please review it frequently for any updates or changes. If we make material changes to this notice, or how we use your personal information we will notify you by email (sent to the e-mail address specified in your account) or we will place a prominent notice on our web site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+###  Access to Your Personal Information
+
+Khoros acknowledges that you have the right to access your personal information. Upon request Khoros will provide you with information about whether we hold any of your personal information collected via this Site. You may access, correct, or request deletion of your personal information collected via this Site by emailing us at either: (i) [privacy@khoros.com](mailto:privacy@khoros.com) if your request relates to Khoros’ Community or Social Medial Management products; (ii) [DataAccessRequest@spredfast.com](mailto:DataAccessRequest@spredfast.com) if your request relates to Khoros’ Conversation, Intelligence, Experience, or Vault products; or (iii) [privacy@khoros.com](mailto:privacy@khoros.com) if you are not sure which Khoros product to which your request relates. We will respond to your request within a reasonable timeframe. 
 
 We are unable to delete information accessed or provided through the Services if we do not control such information, such as information that originated through a social media network and is consequently controlled by such social media network, except to the extent that a copy of that data exists on our systems and with the permission of the data controller. 
 
-In regards to Lithium Services, Lithium has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Lithium’s customer (the data controller) in regards to Lithium Services. If requested to remove data, we will respond within a reasonable timeframe. 
+In regards to Khoros Services, Khoros has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Khoros’s customer (the data controller) in regards to Khoros Services. If requested to remove data, we will respond within a reasonable timeframe. 
 
-### Security of Your Personally Identifying Information
+###  Security of Your Personal Information
 
-We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [_lithium.com/security_](http://www.lithium.com/security) or email us at _privacy@lithium.com_
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at <https://khoros.com/khoros-security> or email us at [privacy@khoros.com](mailto:privacy@khoros.com)
 
-### Choices and Opt-out Options
+###  Choices and Opt-out Options
 
-Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at marketing@lithium.com. Please include the term “OPT-OUT” in the subject line immediately followed by your email address. 
+Users have the opportunity to “opt-out” of having their personal information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at [marketing@khoros.com](http://marketing@khoros.com/). Please include the term “OPT-OUT” in the subject line immediately followed by your email address. 
 
-### Data Retention
+##  Data Retention
 
-We will retain your contact information for as long as your account is active or as needed to provide your Services. If you wish to cancel your account or request that we no longer use your information to provide services, contact us at _marketing@lithium.com_. Please include the term “OPT-OUT” in the subject line immediately followed by your email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your contact information for as long as your account is active or as needed to provide your Services. If you wish to cancel your account or request that we no longer use your information to provide services, contact us at [marketing@khoros.com](mailto:marketing@khoros.com). Please include the term “OPT-OUT” in the subject line immediately followed by your email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Lithium may retain data, including personal data, in encrypted format held on back up media or other back up storage for disaster recovery purposes for up to 90 days pending routine erasure cycles, and log files held for security reasons for up to twelve months. 
+Khoros may retain data, including personal data, in encrypted format held on back up media or other back up storage for disaster recovery purposes for up to 90 days pending routine erasure cycles, and log files held for security reasons for up to twelve months. 
 
-### US-EU Privacy Shield, US-Swiss Privacy Shield, & EC Standard Contractual Clauses
+###  US-EU Privacy Shield, US-Swiss Privacy Shield, & EC Standard Contractual Clauses
 
-In the course of performing its Services, Lithium and its subprocessors may access and/or transfer personal data to (or from) areas outside of the European Economic Area (the “EEA”), pursuant to either, at Lithium’s sole option: (i) the European Commission Standard Contractual Clauses (“Clauses”) or (ii) the EU-US Privacy Shield program and the Swiss-US Privacy Shield program (collectively “Privacy Shield”). 
+In the course of performing its Services, Khoros and its subprocessors may access and/or transfer personal data to (or from) areas outside of the European Economic Area (the “EEA”) and the United Kingdom, pursuant to either, at Khoros’s sole option: (i) the European Commission Standard Contractual Clauses (“Clauses”) or (ii) the EU-US Privacy Shield program and the Swiss-US Privacy Shield program (collectively “Privacy Shield”). 
 
-The following Lithium products are Privacy Shield certified, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland: Conversations, Intelligence, Experiences, and Vault (collectively, the “Privacy Shield Certified Products”). For the Privacy Shield Certified Products, we have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Notice and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield programs, please visit [__](https://www.privacyshield.gov/)_<https://www.privacyshield.gov/>_.
+The following Khoros products are Privacy Shield certified, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland: Conversations, Intelligence, Experiences, and Vault (collectively, the “Privacy Shield Certified Products”). The Privacy Shield Certified Products are certified under the name Spredfast, Inc., and certifications made under the Privacy Shield extend to transfers Khoros makes to and from the United Kingdom. For the Privacy Shield Certified Products, we have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Notice and the Privacy Shield principles, the Privacy Shield principles shall govern. To learn more about the Privacy Shield programs, please visit https://www.privacyshield.gov. 
 
 For the Privacy Shield Certified Products, we will adhere to the requirements of the Privacy Shield with respect to personal information (as defined below). As a condition to using the Services, customers are required to obtain all necessary individual consents in order to collect and use personal information. 
 
 For purposes of this Privacy Shield disclosure, “personal information” means data that is (a) transferred from the European Union or Switzerland, as the case may be, to the United States; (b) recorded in any form; and (c) about, or pertains to, a specific individual who is identified in, or is identifiable from, the data. “Sensitive information” means personal information specifying medical or health conditions, personal sexuality, racial or ethnic origin, political opinions, religious, ideological, philosophical, or trade union-related beliefs, views or activities, trade union membership, information specifying the sex life of the individual, information on social security measures, or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings. Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive. 
 
-Lithium strictly prohibits the entry of Sensitive Information into Lithium systems, except with the express prior written consent of Lithium in each instance.
+Khoros strictly prohibits the entry of Sensitive Information into Khoros systems, except with the express prior written consent of Khoros in each instance. 
 
-If Lithium relies on Privacy Shield as a basis for transfer of personal data outside of the EEA and if Privacy Shield is deemed invalid by a competent authority or otherwise superseded, then any such transfers of EEA personal data outside the EEA shall be conducted pursuant to the EC Standard Contractual Clauses (the “Clauses”) and Lithium will execute a copy of the Clauses at customer’s request. 
+If Khoros relies on Privacy Shield as a basis for transfer of personal data outside of the EEA and the United Kingdom and if Privacy Shield is deemed invalid by a competent authority or otherwise superseded, then any such transfers of EEA or UK personal data outside the EEA or UK shall be conducted pursuant to the EC Standard Contractual Clauses (the “Clauses”) and Khoros will execute a copy of the Clauses at customer’s request. 
 
-### Enforcement
+###  Enforcement
 
-Lithium is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “FTC”). In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield, Lithium is potentially liable.
+Khoros is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “FTC”). In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield, Khoros is potentially liable. 
 
-In compliance with the Privacy Shield, Lithium commits to resolve complaints about privacy and our collection or use of personal information. European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Notice should first send us an email to _legal@lithium.com_. 
+In compliance with the Privacy Shield, Khoros commits to resolve complaints about privacy and our collection or use of personal information. European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Notice should first send us an email to legal@khoros.com. 
 
-Lithium has further committed to refer unresolved privacy complaints under the Privacy Shield principles, to the International Centre for Dispute Resolution (the “ICDR”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [__](http://www.icdr.org/)_[www.icdr.org](http://www.icdr.org/)_ for more information and to file a complaint. 
+Khoros has has further committed to refer unresolved privacy complaints under the Privacy Shield principles, to the International Centre for Dispute Resolution (the “ICDR”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://go.adr.org/privacyshield.html> for more information and to file a complaint. 
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+##  Data Protection Officer and Data Protection Authority
 
-### Data Protection Officer and Data Protection Authority
+Khoros, LLC and its wholly owned subsidiaries have appointed an outside Data Protection Officer: 
 
-Lithium Technologies, LLC and its wholly owned subsidiaries have appointed an outside Data Protection Officer: 
+Lillian Pang 
 
-Lillian Pang
+Taceo Limited 
 
-Taceo Limited
+Company registration number 11059214 
 
-Company registration number 11059214
+<http://www.taceo.co.uk/>
 
-[ __](http://www.taceo.co.uk/) _<http://www.taceo.co.uk/>_
+Telephone: +44 7474 293 610 
 
-Telephone: +44 7474 293 610
+Email: [dpo@taceo.co.uk](mailto:dpo@taceo.co.uk)
 
-Email: _dpo@taceo.co.uk_
+Khoros London Limited, a wholly owned subsidiary of Khoros, LLC, is based in the United Kingdom under the jurisdiction of the UK data protection authority the UK Information Commissioner’s Office (ICO), and controls the export of personal information from the EEA to other Khoros affiliates, including Khoros, LLC. 
 
-Lithium International, LLC, a wholly owned subsidiary of Lithium Technologies, LLC, is based in the United Kingdom under the jurisdiction of the UK data protection authority the UK Information Commissioner’s Office (ICO), and controls the export of personal information from the EEA to other Lithium affiliates, including Lithium Technologies, LLC. 
+###  Contacting Us
 
-### Contacting Us
+If you have any questions about this Privacy Notice, the practices of this website, or your dealings with this website or other related Privacy issues, please call us at 1 (415) 757-3100, email us at privacy@khoros.com or write us at the following address: 
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please call us at 1 (415) 757-3100, email us at _privacy@lithium.com_ or write us at the following address:
-
-Lithium Technologies, LLC  
-Pier 1, Bay 1A
+Khoros , LLC  
+Pier 1, Bay 1A 
 
 San Francisco, CA 94111  
-USA
+USA 
 
-Disputes
+Disputes 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [__](https://feedback-form.truste.com/watchdog/request)_<https://feedback-form.truste.com/watchdog/request>_.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
