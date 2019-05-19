@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203122153id_/https%3A//www.trover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519065900id_/https%3A//www.trover.com/privacy) for the most accurate reproduction.*
 
 # Trover Privacy Policy
 
@@ -241,7 +241,7 @@ Changes to this Privacy Policy will be made when required in response to changin
 
 You can see when this Privacy Policy was last updated by checking the "last updated" date displayed at the top of this Privacy Policy.
 
-If you have any questions about changes to this Privacy Policy, please contact us through the Customer Services Portal or the contact details found below.
+If you have any questions about changes to this Privacy Policy, please contact us through the contact details found below.
 
 **How you can contact us**
 
