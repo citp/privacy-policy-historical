@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shemalejapan.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116121425id_/http%3A//www.tgirljapan.com/compliance/privacypolicy.php%3Fsite%3Dtgirljapan.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalejapan.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519103559id_/http%3A//www.tgirljapan.com/compliance/privacypolicy.php%3Fsite%3Dtgirljapan.com) for the most accurate reproduction.*
 
-# tgirljapan.com - GDPR Policy
+# tgirljapan.com GDPR Policy
 
 GDPR PRIVACY POLICY
 
