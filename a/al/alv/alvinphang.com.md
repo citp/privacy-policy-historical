@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alvinphang.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209205215id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvinphang.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519052356id_/http%3A//www.gathersuccess.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure, GDPR , PDPA & Privacy Policy | GatherSuccess
 
