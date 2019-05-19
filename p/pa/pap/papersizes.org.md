@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728024157id_/https%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papersizes.org privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519230152id_/https%3A//www.papersizes.org/cookies-privacy.htm) for the most accurate reproduction.*
 
 # Paper Sizes - Cookies & Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/papersizes.org).  
+
 
 Paper Sizes (papersizes.org) respects all information passed to us via our website and maintain a strict privacy policy.
 
