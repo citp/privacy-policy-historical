@@ -1,19 +1,11 @@
-> *The following text is extracted and transformed from the awesomestuff365.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235233id_/https%3A//awesomestuff365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomestuff365.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519234433id_/https%3A//awesomestuff365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Awesome Stuff 365
+# Privacy Policy | Awesome Stuff 365 | Cool Gift Ideas for Male and Female
 
 ## PRIVACY POLICY
 
 **What information do we collect?**  
-We collect information from you when you Subscribe to our sign up form. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may also however, visit our site anonymously.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-; To send periodic emails
+We collect information from you when you Subscribe to our sign up form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may also however, visit our site anonymously. **What do we use your information for?** Any of the information we collect from you may be used in one of the following ways:; To send periodic emails 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -50,7 +42,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Your Consent** By using our site, you consent to our [privacy policy](http://www.awesomeinventions.com/privacy-policy/).
+**Your Consent  **By using our site, you consent to our [privacy policy](https://awesomestuff365.com/privacy-policy/).
 
 **Changes to our Privacy Policy**
 
