@@ -1,117 +1,109 @@
-> *The following text is extracted and transformed from the getdivvy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617104107id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdivvy.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519214445id_/http%3A//getdivvy.com/privacy) for the most accurate reproduction.*
 
-# Domains and domain email made simple - Hover
+# Privacy Policy - Divvy
 
-## Our Privacy and Data Collection Practices
+Divvy knows the importance of, and values the privacy of all its customers.  We understand that you care about how your personal information is collected, used and shared, and we take this responsibility seriously. Our primary goal is to provide you with exceptional service, and we understand that you may have questions or concerns regarding your personal information and how it will be used. You may also email us at info@getdivvy.com with any privacy-related questions.
 
-Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
+**APPLICABILITY OF PRIVACY POLICY**
 
-The purpose of this document is to share these details with our customers and any else that is interested in these details.
+This privacy policy applies to all information we collect through our web and mobile applications from Divvy users, including you. By using or accessing our web and mobile application (“Divvy Services”), you acknowledge that you accept the practices and policies delineated in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the ways defined. This Privacy Policy, or its future variation, will continue to apply if your use of our Services is discontinued by either you or us. This policy only applies to the Divvy Service(s) and does not apply to the practices of any other partner or third party provider.
 
-Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
+In this policy, the term “personal information” is used to describe information that can be associated with a specific individual and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
-We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
+**THE INFORMATION WE COLLECT**
 
-## Account Information
+When you visit the website or use one of our mobile applications, we collect your IP address, and standardized information provided by your computer or browser, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service.
 
-When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
+We receive and store any information you knowingly provide to us. For example, you will provide information while setting up your funding source, such as by providing name, addresses, business identification numbers, social security number, etc. You may also provide information through the registration process or save information on your device or account settings such as your name, email address, and phone number. Certain information may be required to register with us or to take advantage of some of our features.  If you choose to use Divvy, we may collect the following information from you:
 
-Account data includes:
+Account Information – text-enabled cellular/wireless telephone number, machine or mobile device ID and other similar information.
 
-  
+Identification Information – your name, street address, email address, date of birth, and SSN (or other governmental issued verification numbers).
 
+Device Information – device type
 
-• the name of the account holder;
+We also may obtain information about you: (a) from your mobile device such as your device type, machine or mobile device identification number, geo-location, time zone, language setting, browser type, and IP address, and (b) from third parties for purposes of transaction processing, identity verification, fraud detection or prevention and other similar purposes. For fraud prevention purposes, we also may link your machine ID with the machines of others who use your same payment cards.
 
-• the mailing address of the account holder;
+Financial Information – bank account and routing numbers and credit cards linked to your Divvy account. Divvy does not share financial information with third party social networking services such as those listed in the prior bullet.
 
-• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
+We are committed to providing a safe, secure and all around great service. Therefore, before permitting you to use our Service, we may require additional information from you we can use to verify your identity, address or other information or to manage risk and compliance throughout our relationship. We may also obtain information about you from third parties such as identity verification, fraud prevention and similar services.
 
-• a credit card number, expiry and verification code;
+When you are using the Divvy Service, we collect information about your account transactions and trust relationships and we may collect information about your computer or other access device for fraud prevention and other similar purposes.
 
-Registration contact data includes:
+Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.
 
-  
+**INFORMATION FROM CHILDREN**
 
+As noted in the Terms and Conditions, we do not knowingly solicit or collect information from any individuals under the age of 18. If we learn that we have collected personal information from a child under age 18, we will delete that information as quickly as possible.
 
-• the name of the owner and administrative contact(s)
+**HOW WE USE COOKIES**
 
-• the address of the owner and administrative contact(s)
+When you access the website, we, or companies we hire to track how our website is used, may place small data files called “cookies” on your computer.
 
-• the phone number of the owner and administrative contact(s)
+For example, we send a “session cookie” to your computer any time you log in to your Divvy account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page.
 
-• the email address for the owner and administrative contact(s)
+You are free to decline Divvy cookies if your browser permits, but doing so may interfere with your use of the website.
 
-## Our use of your account data
+**HOW WE PROTECT & STORE PERSONAL INFORMATION**
 
-Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+We store and process your personal information using third party servers located in secure data centers in the United States. The information is protected by physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We employ electronic safeguards such as firewalls and data encryption and we enforce physical access controls to our office and files. We authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
 
-We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
+We make reasonable efforts to ensure security on our systems. Despite our efforts, we cannot guarantee that personal information may not be accessed, disclosed, altered or destroyed by breach of our administrative, managerial and technical safeguards. Therefore, we urge you to take adequate precautions to protect your personal data as well, including never sharing your Divvy password with anyone.
 
-Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+If Divvy learns of a systems security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Divvy Service, you agree that Divvy may communicate with you electronically. Divvy may post a notice on the website if a security breach occurs. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice of a security breach) you should notify us.
 
-Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
+**HOW WE USE THE PERSONAL INFORMATION WE COLLECT**
 
-Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, fun and customized experience. We may use your personal information to:
 
-We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+> provide the services and customer support you request;
+> 
+> process transactions and send notices about your transactions or your network activity;
+> 
+> prevent potentially fraudulent, prohibited or illegal activities, and enforce our User Agreement;
+> 
+> customize, personalize, measure, and improve our services and the content and layout of our website;
+> 
+> send you updates about new products and services that we are offering to customers
+> 
+> compare information for accuracy and verify it with third parties;
+> 
+> perform other duties as required by law.
 
-Hover does not share your account data with any other parties for any other reasons.
+**HOW WE SHARE PERSONAL INFORMATION WITHIN THE DIVVY NETWORK**
 
-## Our use of your registration data
+To process payments on Divvy, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received and other verification metrics like social graph activity may be provided to users or companies when you transact with, on, or through Divvy.
 
-Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+We work with vendors to enable them to accept payments from you using Divvy. In doing so, a vendor may share information about you with us, such as your mobile phone number or Divvy username, when you attempt to pay that vendor. We use this information to confirm to that vendor that you are a Divvy customer and that the vendor should enable Divvy as a form of payment for your purchase.
 
-ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Divvy, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.
 
-We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+**HOW WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES**
 
-We never sell this information.
+Divvy does not share your personal information with third parties for promotional or marketing purposes.
 
-## WHOIS
+We may share your personal information with:
 
-Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+Law enforcement, government officials, or other third parties if compelled to do so by a subpoena, court order or similar legal procedure, when it is necessary to do so to comply with law, or where the disclosure of personal information is reasonably necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of the Divvy User Agreement, or as otherwise required by law.
 
-Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+Third party service providers who assist us in providing services to you or who provide fraud detection or similar services on our [or any vendor’s] behalf.
 
-Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+Service providers under contract who help with parts of our business operations (for example, fraud prevention, payment processing, or technology services); Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
 
-[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+Other third parties with your consent or at your direction to do so.
 
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+**HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION**
 
-Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+You can review and update your personal information in your account settings at any time by logging into your account.
 
-## Domain Search Information
+**LINKS TO OTHER SITES**
 
-When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+The website application and mobile application may contain links to other sites. Divvy does not control the information collection of sites that can be reached through links from our products. We encourage our users to be aware when they are leaving the applications and to read the privacy statements of any site that collects personally identifiable information.
 
-We never sell the search information you provide to us.
+**CHANGES TO OUR PRIVACY POLICY**
 
-We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+Divvy is always improving. As the Divvy service evolves we may occasionally update this privacy policy. If we modify this privacy policy, we will post the revised privacy policy to the website, and we will also revise the “last updated date” stated above. If we make material changes in the way we use personal information, we will notify you by posting an announcement on our service or by sending you an e-mail. It is your responsibility to periodically review this privacy policy;users are bound by any changes to the privacy policy by using the service after such changes have been first posted.
 
-## Customer Service Information
+**HOW TO CONTACT US**
 
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
-
-When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
-
-## Electronic Newsletters and Unsubscribe Policy
-
-When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
-
-## Data Analytics
-
-We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
-
-From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
-
-## Surveys
-
-Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
-
-Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
-
-## How to contact us
-
-Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
+If you have questions or concerns regarding this privacy policy, or any feedback pertaining to your privacy and the Divvy service that you would like us to consider, please email us at info@getdivvy.com
