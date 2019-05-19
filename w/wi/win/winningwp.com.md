@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921160342id_/https%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningwp.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519042729id_/https%3A//winningwp.com/privacy-policy) for the most accurate reproduction.*
 
 # WinningWP Privacy Policy - WinningWP
 
