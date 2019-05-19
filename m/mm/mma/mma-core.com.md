@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826021302id_/https%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mma-core.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519225718id_/https%3A//www.mma-core.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MMA-Core.com
 
-This is the web site of **MMA-Core.com**.  
-We can be reached via e-mail at support@mma-core.com or by using this [form](https://web.archive.org/contact). 
+  
+
 
 ## What information do we collect?
 
@@ -23,8 +23,22 @@ We use cookies to personalise content and to enable user authentication function
 
 We use third party cookies to enhance your ad experience. We use advertisement networks to earn money. These ad networks bring you offers that are of interest to you. As a result of your visit to this website, ad networks may collect information such as your IP address and what ads you click. For further information, consult the privacy policies of: 
 
-  * Google - https://www.google.com/policies/privacy/
+  * [Unruly Group Limited](https://unruly.co/privacy/)
+  * [PixFuture](https://www.pixfuture.com/privacy-policy/)
+  * [Infolinks Media, LLC](https://www.infolinks.com/privacy-policy/)
+  * [Headway Digital](https://www.headwaydigital.com/privacy/)
+  * [Division-D, Inc.](https://divisiond.com/privacy)
+  * [Impact Tech, Inc.](https://impact.com/privacy-policy/)
+  * [Conversant](https://www.conversantmedia.com/legal/privacy)
+  * [ShareASale](https://account.shareasale.com/PrivacyPolicy.pdf)
 
 
 
-_Dated: May 1, 2018_
+## Your Consent Settings
+
+You can set your consent preferences and determine how you want your data to be used based on the purposes.  
+Change Consent
+
+_Please keep in mind that not giving your consent does not disable advertising in this website._
+
+If you have more questions about our privacy policy we can be reached by using this [form](https://web.archive.org/contact). 
