@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewcamera.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119061252id_/http%3A//thenewcamera.com/%3Fpage_id%3D2754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcamera.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519191421id_/http%3A//thenewcamera.com/%3Fpage_id%3D2754) for the most accurate reproduction.*
 
 # Privacy Policy « NEW CAMERA
 
