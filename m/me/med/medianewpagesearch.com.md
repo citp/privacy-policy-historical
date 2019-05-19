@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medianewpagesearch.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607003209id_/http%3A//medianewpagesearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianewpagesearch.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519140235id_/https%3A//medianewpagesearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # 
 
-Media New Page \- Privacy Policy
+The Media New Page \- Privacy Policy
 
 [Last Modified: March 12, 2018]
 
