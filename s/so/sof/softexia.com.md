@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softexia.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108212225id_/https%3A//www.softexia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softexia.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519191528id_/https%3A//www.softexia.com/privacy-policy) for the most accurate reproduction.*
 
 # Softexia | Privacy Policy | Softexia.com
 
-[ Home ](https://www.softexia.com/) Softexia | Privacy Policy
+Softexia | Privacy Policy
 
 #### European Union’s Cookie Law
 
