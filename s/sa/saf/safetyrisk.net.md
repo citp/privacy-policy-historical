@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911185517id_/https%3A//safetyrisk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyrisk.net privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519222137id_/https%3A//safetyrisk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • SafetyRisk.net
 
-You are here: [Home](https://safetyrisk.net/) / Privacy Policy
+Site Navigation [Home](https://safetyrisk.net/) » **Privacy Policy**
 
 ## Our Privacy Policy
 
@@ -12,13 +12,13 @@ If you require any more information or have any questions about our privacy poli
 
 At www.safetyrisk.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.safetyrisk.net and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.safetyrisk.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.safetyrisk.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.safetyrisk.net.
 
@@ -36,3 +36,17 @@ www.safetyrisk.net has no access to or control over these cookies that are used 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.safetyrisk.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+  * Bio
+  * Latest Posts
+  * More about Spud
+
+
+
+#### Barry Spud
+
+Safety Crusader, Zero Harm Zealot and Compliance Controller at Everything Safety
+
+What is a Safety Spud?Lets look at a few more spud head activities in risk and safety:1. Coming on to site saying there is a safety issue when in fact there’s no such thing, it’s a political issue.2. ‘Falling apart’ when people make choices that we think are stupid because they won’t do as we ‘tell’ them. Then we put on the angry face and think that overpowering others creates ownership.3. Putting on the zero harm face, presenting statistics, knowing it has nothing to do with culture, risk or safety.4. Putting on the superman (hazardman) suit and pretending to be the saviour of everything, this is good spud head cynic stuff.5. Thinking that everyone else is a spud head except me.6. Thinking there’s such a thing as ‘common’ sense and using such mythology to blame and label others.7. Accepting safety policies and processes that dehumanize others.8. Blaming, ego-seeking, grandstanding and territory protecting behind the mask of safety.9. Thinking that risk and safety is simple when in fact it is a wicked problem. Denying complexity and putting your spud head in the sand.10. Continually repeating the nonsense language and discourse of risk aversion that misdirect people about risk, safety, learning and imagination.
+
+## Reader Interactions
