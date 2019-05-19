@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621182513id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519211946id_/https%3A//www.kiwico.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy by Kiwi Crate | Get STEAM & STEM Projects
+# Privacy Policy
 
-Kiwi Crate, Inc. ("Company," "we," or "us") provides access to information through our website accessible at the URL <http://www.kiwicrate.com/> (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the "Services").  This privacy policy describes our information collection and use practices in connection with our Site and Service, as well as circumstances under which we disclose information collected from you.  Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
+KiwiCo, Inc. ("Company," "we," or "us") provides access to information through our website accessible at the URL <https://www.kiwico.com/> (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the "Services").  This privacy policy describes our information collection and use practices in connection with our Site and Service, as well as circumstances under which we disclose information collected from you.  Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
 
-In order to access and use the Site and Services, you must agree to our [Online Terms and Conditions](http://www.kiwicrate.com/terms/) (the “Terms and Conditions”) posted on the Site.  Persons and organizations with permission to use the Service are considered “Registered Users.”  You may view portions of the Site even if you are not an Registered User of the Service.  This privacy policy applies to Company’s collection, use and disclosure of Personal Information (defined below) from Registered Users of the Site, as well as from persons who merely visit the Site.  Company has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse.
+In order to access and use the Site and Services, you must agree to our [Online Terms and Conditions](https://www.kiwico.com/terms/) (the “Terms and Conditions”) posted on the Site.  Persons and organizations with permission to use the Service are considered “Registered Users.”  You may view portions of the Site even if you are not an Registered User of the Service.  This privacy policy applies to Company’s collection, use and disclosure of Personal Information (defined below) from Registered Users of the Site, as well as from persons who merely visit the Site.  Company has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse.
 
 By submitting Personal Information through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
 
@@ -30,7 +30,7 @@ We collect additional information through the Site and the Service that is not a
 
 The Site is not directed to children and children are not eligible to use our Services.  Protecting the privacy of children is very important to us.  We do not collect or maintain Personal Information from people we actually know are under 18, and no part of our Site or Service is designed to attract people under 18.  If we later learn that a user is under 18, we will take steps to remove that user's Personal Information from our databases and to prevent the user from utilizing the Site and the Service.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party.  You or the third party may contact us at <http://www.kiwicrate.com/contact-us/> to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party.  You or the third party may contact us at <https://www.kiwico.com/contact-us/> to request the removal of this information from our database.
 
 ## Use and Disclosure of Collected Information
 
@@ -66,7 +66,7 @@ Furthermore, access to Personal Information is physically restricted within our 
 
 Please be aware that, although we endeavor to provide security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of Personal Information or Non-Personal Information arising in connection with the theft thereof.  Likewise, Registered Users are responsible for safeguarding the confidentiality of passwords to any Services, and we bear no liability for access to, or use or disclosure of, Personal Information, if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of a password.
 
-If you have any questions about our security measures, you can [click here to contact us](http://www.kiwicrate.com/contact-us/).
+If you have any questions about our security measures, you can [click here to contact us](https://www.kiwico.com/contact-us/).
 
 ## Changes to This Policy
 
@@ -74,4 +74,4 @@ If we change our privacy policy, we will post those changes on the Site so that 
 
 ## Contacting Company
 
-If you have any questions about this privacy policy, please contact us at [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 170 State St. Suite 1B, Los Altos, CA 94022, or [click here to contact us](http://www.kiwicrate.com/contact-us/) or send an e-mail to [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com).
+If you have any questions about this privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2b1a7a1a6bdbfb7a0b1b3a0b792b9bba5bbb1bdfcb1bdbf). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 170 State St. Suite 1B, Los Altos, CA 94022, or [click here to contact us](https://www.kiwico.com/contact-us/) or send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b382e282f34363e29383a293e1b30322c32383475383436).
