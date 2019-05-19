@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908083700id_/https%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustpilot.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519083131id_/https%3A//legal.trustpilot.com/end-user-privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -233,7 +233,7 @@ Trustpilot may at any time and without notice make changes to its privacy policy
 In case of inquiries regarding Trustpilot's privacy policy, our processing of personal data, correction of data or your relations to us in general, you are welcome to contact Trustpilot by email at support@trustpilot.com, or by mail at the following address:
 
 Trustpilot, Inc.,  
-245 5th Avenue, 4th floor  
+245 5th Avenue, 5th floor  
 New York, NY 10016, USA
 
 November 2013
