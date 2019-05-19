@@ -1,117 +1,76 @@
-> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129092105id_/http%3A//www.lr.org/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519220932id_/https%3A//www.lr.org/en/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy | Lloyd's Register
+# LR respects privacy and is committed to online data security - lr.org
 
-Lloyd’s Register understands and respects individuals’ right to privacy and is committed to providing on-line data security.
+##### What is the purpose of this Privacy notice?
 
-This privacy statement explains how data is handled whilst you browse and submit information through the website and your options regarding the ways in which your data is used.
+The purpose of this Privacy notice is to provide you with a clear explanation about how your personal information is collected and used by us during your interaction with us as well as your rights in relation to your personal information.
 
-## Cookies
+##### Who is Lloyd's Register?
 
-Cookies are pieces of information that a website transfers to your computer’s hard drive for records keeping purposes. Cookies are very common, being used to improve how a website works. Cookies contain information that can be used on particular sites and to tailor a visitor’s experience on the website or provide data that can be used for analysis by our web servers.
+“Lloyd’s Register” refers to an international group of companies owned by Lloyd’s Register Group Limited (UK company number 08126909), which is itself owned by Lloyd’s Register Foundation (UK charity number 1145988 and UK company number 07905861).
 
-Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to disable cookies or to inform you when they are set. However, you may not be able to take full advantage of our website if you disable them.
+##### How to contact Lloyd’s Register?
 
-This website may use cookies to monitor website usage. This is statistical information allows us to manage and develop our website(s), for example to improve usability, or measure the popularity of a given web page. The information gathered does not identify you personally. Cookies cannot read data off your hard disk or read cookie files created by other sites or damage your system.
+If you have any questions regarding this Privacy notice or our use of your personal information, please contact our Data Protection Officer by:
 
-Cookies we used and how we use them:
-
-**Cookie name** | 
-
-**Used for?**
-
-| **Where?** | **Added to site**  
----|---|---|---  
-  
-_utma   
-_utmb   
-_utmc   
-_utmz<>
-
-| 
-
-Used by Google analytics. Google analytics cookies do not collect personal data about you. [[Click here for an overview of privacy at Google](http://www.google.com/analytics/learn/privacy.html)]
-
-| Throughout site | 01/01/2012  
-ASP.NET_Sessionid | 
-
-This cookie contains the users session ID and the cookie will expire at the end of the session (when you close your browser). This cookie does not store personal data about you. [[Visit the Microsoft website](http://support.microsoft.com/kb/899918)]
-
-| Throughout site | n/a  
-visitor_id (duration 10 years) | 
-
-These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). The visitor cookie includes the name “visitor_id” plus the unique identifier for the visitor, ex: “visitor_id1234”. This cookie is set by our tracking code on website visitors. No personally identifiable information is stored in the cookie.
-
-| Throughout site | 03/05/2014  
-pi_opt_in (duration 10 years) | 
-
-These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). The persistent cookie named “pi_opt_in” is what we use to stay in compliance with the 'Do Not Track' initiative. No personally identifiable information is stored in the cookie.
-
-| Throughout site | 03/05/2014  
-visitor_id (duration 10 years) | 
-
-These cookies collect information sales and marketing purposes to help improve visitor’s experience. [Find out more at pardot.com](http://www.pardot.com/company/legal/privacy-policy/ "Pardot Privacy policy"). Only set if the user is logged into the Pardot app as a user. No personally identifiable information is stored in the cookie.
-
-| Throughout site | 03/05/2014  
-  
-For more information on cookies and how to set your browser setting to disable cookies, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-
-Registration and completing forms   
-
-
-If so required you may be asked to provide personal information such as your name, address, telephone number and credit card details when you complete an order form to purchase products or services or make an enquiry.
-
-The information may be passed to the subsidiaries of Lloyd’s Register Group Limited responsible for the service/product requested by you.
-
-Any information gathered will only be used to complete your request unless specifically stated on a particular form.
-
-Information provided by you will be handled in accordance with the relevant jurisdiction’s data protection legislation. We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our employees.
-
-## Data for direct marketing
-
-At each point of data collection individuals are given the opportunity to opt-out of receiving direct marketing activity. Where individuals do not want to opt-out of such communication, we may provide information on:
-
-  * Services and products that may be of interest.
-  * Changes and improvements to the website.
+  * email: [dataprotection@lr.org](mailto:dataprotection@lr.org);
+  * post: Data Protection Officer, Lloyd’s Register, 71 Fenchurch Street, London, EC3M 4BS, UK; or
+  * phone: +44 20 7423 1724.
 
 
 
-Should you decide to change your mind on not receiving such communications, contact our Data Protection Officer – details below.
+##### What personal information does Lloyd’s Register collect?
 
-## Transfer of data / sharing
+Lloyd’s Register only collects basic personal information about you (such as name, email address and basic contact details – as well as any other information that you choose to provide) and only in the following ways:
 
-We will not disclose your personal information unless we are obliged to do so or allowed to do so by law or where we need to do so in order to run our organisation (for example information may be passed to and used by other subsidiaries of Lloyd’s Register Group Limited or where other people process data for us (some of which may be outside the UK and/or EU)). Should this be the case, we will ensure that confidentiality agreements in line with applicable data protection legislation are in place.
+  * Information that you yourself provide through our website, in writing, via telephone, at our events or through other means; or
+  * Information that we obtain from your interaction with our websites and / or services.
 
-## Amend/update information
 
-If you believe that any information held by us about you is incorrect or incomplete you should write to the Data Protection Officer at the address given below. Any information which is found to be incorrect will be corrected as soon as possible.
 
-## Other web sites
+We will not ask for, and do not intend to collect, any sensitive personal information about you.
 
-Our website may contain links to other websites which are outside our control and are not covered by this privacy statement.
+##### Why does Lloyd’s Register collect personal information?
 
-The operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+Lloyd’s Register needs to know basic personal information about you in order to respond to requests you make to us, and to provide you with information relating to our services (such as newsletters, industry updates, information about our products and services, event invitations, surveys, market research, etc.) which either you have consented to receive or which relate to Lloyd’s Register products or services which we believe may be of interest to you. We will not use your personal information for any other purpose.
 
-## Notification of changes to the Privacy Statement
+Lloyd’s Register collects information about your usage of our websites through cookies. We do this so that we can tailor and personalise your experience and, in conjunction with other user’s information and usage, improve the content, layout and performance of our websites. Further details are set out in our [Cookies policy](https://web.archive.org/en/cookies-policy/).
 
-We may change the content of service found on our site at anytime without notice and consequently our privacy policy may change at any time in the future.
+##### How is your personal information protected?
 
-## Access rights
+Lloyd’s Register will hold your personal information securely using appropriate technical and organisational measures and not disclose your personal information to anyone outside its own group, or to any person or entity outside the United Kingdom and/or the European Union, except and to the extent both: (i) necessary for the purposes stated in this Privacy notice; and (ii) where it has first satisfied itself that appropriate safeguards are in place to ensure such information will continue to be held and used in accordance with this notice and compliance with the European Union’s General Data Protection Regulation (EU 2016/679).
 
-You have the right to access personal data that is held about you. To obtain a copy of the personal information we hold about you please write to the address given below.
+We use service providers to operate our websites, such as website hosting and enquiry functionality, and some of these service providers will process your personal information as part of the services they provide to us. We will ensure that those service providers also comply with this Privacy notice.
 
-The Data Protection Officer (UK & Global),   
-C. Colby-Blake   
-Lloyd’s Register Group Services Ltd   
-71 Fenchurch Street, London EC3M 4BS, UK   
-E: [chad.colby-blake@lr.org](mailto:chad.colby-blake@lr.org)   
-T: +44 (0)20 7423 1724
+##### How long does Lloyd’s Register keep personal information?
 
-For Singapore:   
-The Data Protection Officer   
-Joyce Wun   
-Lloyd’s Register Asia   
-1 Fusionopolis place #9-11 Galaxis   
-Singapore 138522   
-E [joyce.wun@lr.org](mailto:joyce.wun@lr.org)   
-T +65 3163 0581
+Your personal information will be kept by Lloyd’s Register for no longer than reasonably necessary for the purposes set out in this Privacy notice, unless required to be kept longer by law.
+
+##### What are your legal rights?
+
+You have a number of legal rights surrounding your personal information, including:
+
+  * the right to access and copy your personal information;
+  * the right to obtain correction of any inaccurate or incomplete personal information;
+  * the right to have your personal information deleted;
+  * the right to restrict or object to Lloyd’s Register’s processing of your personal information;
+  * the right to withdraw your consent to our processing at any time (i.e. including the right to opt-out of or unsubscribe from communications at any time, either by contacting us at the details provided in this Privacy notice or clicking the unsubscribe link in the emails that you receive from us).
+
+
+
+Please contact us if you would like to exercise any of your legal rights. We will respond to any rights that you exercise within one month of receiving your request, unless the request is complex or involves a significant amount of data, in which case we will respond within three months.
+
+##### What about visitors to Lloyd’s Register offices?
+
+When you visit one of our offices, we may collect only basic personal information about you (as set out above in this Privacy notice) and only for the purposes of maintaining site security and safety. You may be asked to sign-in and sign-out when you visit one of our offices, and you may be provided with a visitor’s pass to wear during your visit. Where Closed Circuit Television (CCTV) is operated at any of our offices, this is used for site security purposes.
+
+##### How do you lodge a complaint?
+
+If you have a complaint regarding how your personal information has been handled by Lloyd’s Register, please contact Lloyd’s Register’s Data Protection Officer, using the details provided above.
+
+You have a legal right to lodge a complaint with a supervisory authority. For Lloyd’s Register, the relevant supervisory is the UK Information Commissioner’s Office (to lodge a complaint or report a concern, please visit: <https://ico.org.uk/concerns>).
+
+##### Does Lloyd’s Register update the Privacy notice?
+
+Lloyd’s Register may change the content of this Privacy notice from time to time without notice to you. You should check this Privacy notice occasionally to ensure that you are aware of the most recent version that will apply each time you access our websites. This Privacy notice was last updated on 12 June 2018.
