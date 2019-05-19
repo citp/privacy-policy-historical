@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandeis.edu privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214143451id_/http%3A//www.brandeis.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandeis.edu privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519094846id_/http%3A//www.brandeis.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | About | Brandeis University
 
