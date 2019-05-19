@@ -1,80 +1,216 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820180749id_/http%3A//www.british-car-auctions.co.uk/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520014341id_/https%3A//www.british-car-auctions.co.uk/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - British Car Auctions
 
-British Car Auctions Limited (‘BCA’) respects and values the security and privacy of its customers. BCA follows strict security procedures in the storage and disclosure of personal information in order to prevent unauthorised access. Personal Data is held on our databases either because of services we have provided to you or because we believe that customers may be interested in receiving material from us about our business and services. As such we hold customer contact details and the history of our customer relationship. This allows us to manage our customer relationships effectively and target items of interest so that you do not receive unwanted material through the post.
+The UK and Europe's largest used vehicle marketplace. Monday, 20 May 2019
 
-In accordance with your rights under the Act, you may request the amendment of the personal information held or to cease receiving direct marketing materials. Information may, in the ordinary course of business, move between BCA, its associated companies and to our contractors, which may involve the transfer of data outside the European Economic Area.
+**Call** 0344 875 3480
 
-## Privacy policy
+  * [Vehicle Search](http://auctionview.british-car-auctions.co.uk/Buyer/FacetedSearch)
+  * [Sale Catalogues](http://auctionview.british-car-auctions.co.uk/Buyer/FacetedSearch/SaleCatalogue)
+  * [Buy](https://web.archive.org/buy/)
+  * [Sell](https://web.archive.org/Sell/)
+  * [Products & Services](https://web.archive.org/Services/)
 
-British Car Auctions Limited is committed to ensuring that your privacy is protected. This is our Privacy Policy:
 
-When you register with our website or provide your contact details to a BCA branch, in order to respond to your requirements we need to know your name, address, e-mail and contact telephone numbers. From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone to ask you for your feedback and comments on our services. We and our associated companies may also wish to provide you with information about special features of our website or any other service or products which we think may be of interest to you. If you do not wish to receive this information, please tick the relevant boxes when you complete your online or branch registration or inform us at [news@bca-group.com](mailto:news@bca-group.com)
 
-We may also want to provide you with related information from third parties whose products or services may be of interest to you. If you do not wish to receive this information, please tick the relevant boxes when you complete your online or branch registration or inform us at [news@bca-group.com](mailto:news@bca-group.com)
+## INTRODUCTION
 
-By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way.
+We are committed to protecting and respecting your privacy.
 
-## Use of IP Address
+Everyone has rights with regard to the way in which their personal information is handled. During the course of our activities we will collect, store and process personal information about our customers, suppliers and other third parties, and we recognise that the correct and lawful treatment of this data will maintain confidence in the organisation and will provide for successful business operations.
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. web servers automatically identify your computer by its IP address. On occasions, we collect IP addresses for the purposes of system administration, to analyse aggregate information, and to audit the use of our site.
+This policy sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
 
-## Use of Cookies
+We are a member of the BCA group of companies (the **BCA Group** ), and our ultimate parent company is BCA Marketplace plc (registered in England and Wales under company number: 09019615).  For more details about BCA Marketplace plc and the BCA Group, please visit [www.bcamarketplaceplc.com](http://www.bcamarketplaceplc.com/). This privacy notice is issued on behalf of the BCA Group so when we mention "we", "us" or "our" in this privacy notice, we are referring to the relevant company in the BCA Group responsible for processing your data. British Car Auctions Limited is the controller and responsible for this website. 
 
-What are cookies? Cookies are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you're at our site. The use of cookies is an industry standard you will find them at most major web sites.
+We have established a Privacy Office and appointed a Data Protection Officer (DPO), and the email contact details for both are [privacy.office@bca.com](mailto:privacy.office@bca.com).
 
-By showing how and when visitors use our site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed and this information is most easily tracked with cookies. We use cookies to better understand and improve areas of the BCA web site that our users find valuable. While both of these activities depend on the use of a "cookie," visitors to the BCA web site always have the option of disabling cookies via their browser preferences.
+The Privacy Office and the DPO can be contacted by post (marked for their attention) at BCA, Headway House, Crosby Way, Farnham, Surrey, United Kingdom, GU9 7XG, telephone: +44 (0)1252 721200.
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the BCA web site may not function properly or may be considerably slower if you refuse cookies.
+## DATA PROTECTION PRINCIPLES
 
-## Use of clear GIFs
+When processing your information, we must comply with the six enforceable principles of good practice. These provide that your personal information must be:
 
-A clear GIF (Graphics Interchange Format) or pixel tag (also known as a 'Web beacon') is a line of code placed on some of our web pages and/or in e-mails which, in a similar way to our use of cookies above, allow us to analyse the specific usage patterns of visitors.
+  * processed lawfully, fairly and in a transparent manner,
+  * processed for specified, explicit and legitimate purposes,
+  * adequate, relevant and limited to what is necessary,
+  * accurate and kept up-to-date,
+  * kept for no longer than is necessary, and
+  * processed in a manner that ensures appropriate security.
 
-## Supplementary Information
 
-We may acquire information about individuals from other sources and add such information to our house files.
 
-## Links to Other Sites/ "Public" Areas
+## INFORMATION YOU GIVE TO US
 
-You should be aware that when you are on the BCA web site, you could be directed to other sites that are beyond our control. There are links to other sites from BCA web site pages that take you outside our service. These other sites may send their own cookies to users, collect data or solicit personal information. The privacy policies of these other sites may significantly differ from that of BCA. We are not responsible for the privacy practices of any other sites and cannot guarantee the security of any of your personal information collected there.
+We may collect, use, store and transfer different kinds of personal information about you, including:
 
-## Security
+  * **Identity Data** , such as your name, marital status, title, date of birth, gender,
+  * **Contact Data** , such as your home address, email address and telephone numbers,
+  * **Financial Data** , such as bank account details,
+  * **Document Data** , such as your vehicle registration document, and copies of your driving licence, passport, utility bill and other documents that verify your identity,
+  * **Transaction Data** , including details about payments to and from you, and other details of products and services you purchase from us,
+  * **Company Data** , including the name of the organisation you represent, and that organisation’s Contact Data, Financial Data and Transaction Data,
+  * **Technical Data** , including IP addresses, your log-in data, browser type and version, time-zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website,
+  * **Profile Data** , such as your username, password, purchases or orders made by you, your interests, preferences, feedback and survey responses,
+  * **Usage Data** , including information about how you use our website, products and services, and
+  * **Marketing Data** , such as your preferences in receiving marketing from us and our third parties, and your communication preferences. 
 
-Protecting the security of all personally-identifiable information associated with our guests is of the utmost concern to us. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take all reasonable steps to ensure the security of our users' personal information and maintain their privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of such personal information.
 
-## Privacy Policy for Minors
 
-BCA does not knowingly collect information from children. If you are under 13, please do not provide any personal information to us.
+## 'SPECIAL CATEGORY' DATA
 
-## The List Owner (the Data Controller)
+Information relating to your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, criminal convictions, sex life or sexual orientation, or certain types of genetic or biometric data is known as ‘special category’ data.
 
-The List Owner and Data Controller is British Car Auctions Ltd, Headway House, Crosby Way, Farnham, Surrey  GU9 7XG. [www.bca-europe.com](http://www.bca-europe.com/)
+During the course of dealing with you, we do not expect to collect any ‘special category’ data about you.
 
-### Access to your own data
+## HOW WE COLLECT YOUR PERSONAL INFORMATION
 
-To be provided with a copy of your own personal data that we collect online and maintain in our database, and to contest and correct inaccuracies, or request that your personal data be deleted, please send an e-mail and we will action your request. To unsubscribe BCA email communications please email us at [news@bca-group.com](mailto:news@bca-group.com) with "Unsubscribe" in the subject, and we will take you off the list.
+We may obtain personal information by directly interacting with you, such as:
 
-## Your Acceptance of the Terms of this Privacy Policy
+  * creating an account on our website,
+  * entering into an agreement with us for products or services,
+  * subscribing to our services or publications, or otherwise requesting marketing material to be sent to you, or
+  * corresponding with us by phone, email, letters or otherwise.
 
-By using this site, you signify your assent to the BCA Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.
 
-Disclaimer and Legal Notice  
-The following are the terms and conditions of use of this website and its services. If you do not accept these conditions, you must not use this website or services.
 
-The content on this website is provided 'as is', and British Car Auctions Ltd ('BCA') gives no representation or warranty as to the accuracy of the content and assumes no responsibility for errors or omissions in it or the effect it has upon your computer. This site includes links to other sites on the Internet. BCA cannot vouch for the suitability or accuracy of the content of those sites and so you use them at your own risk. Any references to linked sites or to third-party companies, products or services by name does not constitute or infer its endorsement by BCA.
+We may obtain personal information via automated technology when you interact with our website by using cookies, server logs and other similar technologies.
 
-The information available on the site might from time to time be incomplete, out of date or inaccurate. BCA reserves the right at any time and without prior notice to make changes and corrections to the material on the site or to make parts or all of this site unavailable at any time without notice.
+We may also collect personal information about you from third parties or publicly-available sources, such as:
 
-BCA disclaims all liability in respect of all information and its provision, and shall not be liable for any loss or damages suffered as a result of any use of the site. Although BCA aims to keep it up-to-date, it do not guarantee its accuracy. BCA does try to make this site as useful as possible, none of the material it contains is professional advice or a substitute for it, and can not be relied upon as such.
+  * public bodies and regulatory authorities,
+  * analytics providers (such as Google),
+  * advertising networks, 
+  * search information providers, and
+  * providers of technical, payment and delivery services.
 
-Unless specified to the contrary, the contents of this website and these pages are protected by copyright. The authors and creators of the material on the website assert their moral rights. The BCA, BCA Direct, Auction View, Commercial Auction View, BCA Smart Prepared, BCA Live Online and all other BCA product and/or service logos and contents of this website (including text, design and graphics) are trademarked and copyrighted materials of BCA. All rights are reserved. They may not be used, transmitted or reproduced unless in accordance with prior written instructions issued by BCA. No use, transmission or reproduction is permitted other than the following:
 
-Permission is given for the downloading and temporary storage of pages where indicated on such pages, for the sole purpose of individual viewing on a standalone PC or monitor. Such pages may be printed, but these may not be further reproduced, copied or transmitted in any way to those other than the initial individual user. You may not reproduce any other part of the website including, but not limited to, the structure, overall style and program code.
 
-These conditions of use are governed by English law and any dispute connected with this site is subject to the exclusive jurisdiction of the English courts. BCA may change these conditions of use from time to time. You will be bound by changes even if you do not re-visit this page to re-read this notice.  
-Please note that these are BCA's terms and conditions of use and if you do not accept these conditions, you must not use this website or services.
+## THE LEGAL BASIS FOR OUR USE OF YOUR PERSONAL INFORMATION
 
-  British Car Auctions Ltd  
-Privacy Policy & Legal Notice - Version 1.1 01.07.2008
+We will only use your personal information when the law allows us to. Most commonly, we will use your personal information in the following circumstances:
+
+  * you have given us consent,
+  * we need to perform a contract we are about to enter into, or have entered into, with you,
+  * where it is necessary for our or a third party’s legitimate interests, and your interests and rights do not override those interests, or
+  * where we need to comply with a legal or regulatory obligation.
+
+
+
+Particular purposes for which we will use your personal information, and the legal basis for that use, are as follows:
+
+**Purposes for which we will use the information you give to us** | **Legal basis**  
+---|---  
+Where you are acting as a representative of an organisation, then to register that organisation as a new customer | It will be necessary for our legitimate business interests, namely with a view to providing products and services to your organisation  
+Where you are acting as a representative of an organisation, to process your instructions and, if accepted, to provide products and services to your organisation (including managing payments, fees and charges) | It will be necessary for our legitimate business interests, namely with a view to providing products and services to your organisation  
+To obtain further information about you and/or your organisation | It will be necessary for our legitimate business interests, namely to ensure we are fully aware of all issues relating to the products and services we are providing  
+  
+We will only use your personal information for the purpose(s) for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+## IF YOU CANNOT OR WILL NOT PROVIDE US WITH YOUR PERSONAL INFORMATION
+
+Without your personal information, we cannot register you or your organisation (as the case may be) as a new customer.  That means that we will be unable to provide you or your organisation with any products or services.
+
+## DISCLOSURE OF YOUR INFORMATION
+
+We may share your personal information with the parties set out below:
+
+  * public bodies and regulatory authorities,
+  * other companies within the BCA Group,
+  * other personnel within your organisation, or any other organisation that is party to or otherwise has a legitimate interest in the agreement between us and your organisation,
+  * providers of IT and system administration services to our business,
+  * our professional advisers,
+  * analytics and search engine providers that assist us in the improvement and optimisation of our website, and
+  * third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal information in the same way as set out in this policy.
+
+
+
+We require all third parties to respect the security of your personal information and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes and in accordance with our instructions.
+
+## KEEPING YOUR PERSONAL INFORMATION SECURE
+
+All information you provide to us is stored on our secure servers in the European Economic Area.
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+ We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+## HOW LONG WE WILL STORE YOUR PERSONAL INFORMATION
+
+The length of time that we will store your data will depend on the ‘legal basis’ for why we are using that data, as follows:
+
+**Legal basis** | **Length of time**  
+---|---  
+Where we use/store your data because it is necessary for the performance of the contract between you and us | We will use/store your data for as long as it is necessary for the performance of the contract between you and us  
+Where we use/store your data because it is necessary for us to comply with a legal obligation to which we are subject | We will use/store your data for as long as it is necessary for us to comply with our legal obligations  
+Where we use/store your data because it is necessary for our legitimate business interests | We will use/store your data until you ask us to stop. However, if we can demonstrate the reason why we are using/storing your data overrides your interests, rights and freedoms, then we will continue to use and store your data for as long as it is necessary for the performance of the contract between you and us (or, if earlier, we no longer have a legitimate interest in using/storing your data)  
+Where we use/store your data because you have given us your specific, informed and unambiguous consent | We will use/store your data until you ask us to stop  
+  
+To determine the appropriate retention period for personal information, we consider the amount, nature and sensitive of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+## YOUR RIGHTS
+
+You have various legal rights in relation to the information you give us, or which we collect about you, as follows:
+
+  * You have a **right to access the information** we hold about you, together with various information about why and how we are using your information, to whom we may have disclosed that information, from where we originally obtained the information and for how long we will use your information.
+  * You have the **right to ask us to rectify any information** we hold about you that is inaccurate or incomplete.
+  * You have the **right to ask us to erase the information** we hold about you (the ‘right to be forgotten’). Please note that this right can only be exercised in certain circumstances and, if you ask us to erase your information and we are unable to do so, we will explain why not.
+  * You have the **right to ask us to stop using your information** where: (i) the information we hold about you is inaccurate; (ii) we are unlawfully using your information; (iii) we no longer need to use the information; or (iv) we do not have a legitimate reason to use the information. Please note that we may continue to store your information, or use your information for the purpose of legal proceedings or for protecting the rights of any other person.
+  * You have the **right to ask us to transmit the information** we hold about you to another person or company in a structured, commonly-used and machine-readable format. Please note that this right can only be exercised in certain circumstances and, if you ask us to transmit your information and we are unable to do so, we will explain why not.
+  * Where we use/store your information because it is necessary for our legitimate business interests, you have the **right to object to us using/storing your information**. We will stop using/storing your information unless we can demonstrate why we believe we have a legitimate business interest which overrides your interests, rights and freedoms.
+  * Where we use/store your data because you have given us your specific, informed and unambiguous consent, you have the **right to withdraw your consent** at any time.
+  * You have the **right to object to us using/storing your information for direct marketing purposes**.
+
+
+
+If you wish to exercise any of your legal rights, please contact our Privacy Office by writing to the address at the top of this policy, or by emailing us at [privacy.office@bca.com](mailto:privacy.office@bca.com). 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally, it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+## COOKIES AND HOW WE USE THEM
+
+**What is a Cookie?**
+
+A cookie is a small text file that stores Internet settings. The cookie is downloaded by your Internet browser the first time you visit a website.
+
+Some cookies are extremely useful because they can improve your user experience when you return to a website you have already visited. This assumes that you are using the same device and the same browser as before; if so, cookies will remember your preferences, will know how you use the website, and will adapt the content you are shown so that it is more relevant to your personal interests and needs.
+
+**Types of Cookies**
+
+There are four categories of cookie: strictly necessary cookies, performance cookies, functional cookies and marketing cookies.
+
+  * **Strictly necessary cookies** are essential in order to enable you to move around the website and use its features. Without these cookies, some services cannot be provided – for example, remembering previous actions when navigating back to a page in the same session.
+  * **Performance cookies** gather information about how a website is used – for example, which pages a visitor frequently visits. These cookies do not save personal information or information that would allow the user to be identified. These cookies are used exclusively to improve the performance of the website, and with it the user experience.
+  * **Functional cookies** enable a website to save information which has already been entered (such as user names, languages choices, and your location), so that it can offer you improved and more personalised functions. These cookies collect anonymous information and cannot track your movements on other websites.
+  * **Marketing cookies** are used to deliver adverts and other communications more relevant to you and your interests. They are also used to limit the number of times you see an advertisement and to help measure the effectiveness of advertising campaigns.
+
+
+
+### Managing the use of Cookie settings on this website
+
+While you can completely disable some cookies in your browser at any time, it is important to note that if you change your settings and block certain cookies, you will not be able to take full advantage of some features of our site.
+
+Cookies that are essential, also known as ‘strictly necessary’ cookies, enable features without which you would not be able to use the website as intended. These Cookies are only saved on your computer while you are actually browsing the website and for the duration of the session.  Strictly necessary cookies cannot be disabled.
+
+## OPTING OUT OF RECEIVING COMMUNICATIONS
+
+You can ask us to stop sending you communications at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you.
+
+## AUTOMATED DECISION-MAKING
+
+We do not use automated decision-making processes.
+
+## LINKS TO OTHER WEBSITES
+
+Our website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+## CHANGES TO OUR POLICY
+
+Any changes we make to our policy in the future will be posted on our website.
