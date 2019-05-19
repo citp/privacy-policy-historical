@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iati.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904022447id_/https%3A//www.iati.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iati.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519203333id_/https%3A//www.iati.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IATI | Shaping The Future Of Tourism
 
