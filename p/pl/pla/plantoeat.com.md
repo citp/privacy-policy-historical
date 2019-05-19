@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228014023id_/https%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519204026id_/https%3A//plantoeat.com/privacy) for the most accurate reproduction.*
 
 # Web Site Terms and Conditions of Use - Plan to Eat
 
@@ -12,7 +12,7 @@ With these concerns in mind, we’ve developed the Plan to Eat Privacy Policy, o
 
 ### Types of Information We Collect
 
-  * **Personal Information:** Personal information is information to specifically identify an individual, such as a customer’s name, address, telephone number, e-mail address, credit card or other account number, and information about that individual’s activities when directly linked to that person such as information about his or her purchases. Personal information also includes demographic information, such as date of birth, gender, geographic area, and preferences, when such information is linked to other personal information that identifies the individual.
+  * **Personal Information:** Personal information is information to specifically identify an individual, such as a customer’s name, e-mail address, credit card or other account number and information about that individual’s activities when directly linked to that person such as information about his or her purchases. Personal information also includes demographic information, such as geographic area and preferences, when such information is linked to other personal information that identifies the individual.
   * **Aggregate Information:** Personal information does not include “aggregate” information. Aggregate information is data we collect about a group or category of products, services or customers, from which individual customer identities have been removed. In other words, information about how you use a service might be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase might be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services, and tailor existing products and services to customer desires. We might share aggregate information about our users with third parties for various purposes, such as helping us better understand and improve our services, and for advertising and marketing purposes.
 
 
