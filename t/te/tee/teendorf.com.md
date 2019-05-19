@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teendorf.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116200745id_/http%3A//www.teendorf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teendorf.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519113535id_/http%3A//teendorf.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy *** teendorf.com
 
