@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029154342id_/http%3A//joonbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519204421id_/http%3A//joonbug.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Joonbug.com
+# New York City's Nightlife: Parties & Tickets @ clubs, lounges, bars | weekly, holiday, special events.
 
 The use of the Joonbug website(s) and/or Joonbug software and any Joonbug services and products (collectively, the "Website") provided by ("Joonbug") are subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the Joonbug [Terms & Conditions](https://web.archive.org/terms-and-conditions). If you do not agree to this Privacy Policy, please do not use the Website.
 
