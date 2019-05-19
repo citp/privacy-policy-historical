@@ -1,288 +1,169 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415235045id_/https%3A//www4.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519222342id_/https%3A//www.ntu.ac.uk/policies/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - About NTU - Nottingham Trent University
+# Privacy statement | Nottingham Trent University
 
-### In this agreement, "the website" means the Nottingham Trent University website at www.ntu.ac.uk "NTU" means Nottingham Trent University.
+In this statement (the 'privacy statement'), 'NTU' and 'us', 'our' and 'we' means Nottingham Trent University.
 
-NTU is committed to protecting your privacy and developing technology that gives you a safe online experience. This Privacy Statement applies to the website and governs data collection and usage. By using the website, you consent to the data practices described in this statement.
+This privacy statement sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. NTU is committed to protecting your privacy and developing technology that protects your personal information and also gives you a safe online experience. The website is operated by NTU.
 
-The website is operated by Nottingham Trent University Limited (called NTU in this agreement), who is situated at 50 Shakespeare Street, Nottingham, NG1 4FQ. NTU can be contacted by post to 50 Shakespeare Street, Nottingham, NG1 4FQ. We can be reached [via email](mailto:marketing@ntu.ac.uk) or you can reach us by telephone at +44 (0)115 941 8418.
+If you are an applicant, current student, Alumni or member of staff at NTU, processing of your personal information will be governed by one of our privacy notices - [admissions privacy notice](https://www.ntu.ac.uk/policies/admissions-privacy-notice), [student privacy notice](https://www.ntu.ac.uk/policies/student-privacy-notice), [Alumni, supporters and friends privacy notice](https://www.ntu.ac.uk/policies/alumni-supporters-and-friends-privacy-notice) or [employee privacy notice](https://www.ntu.ac.uk/policies/employee-privacy-notice "employee privacy notice") for staff.
 
-NTU encourages you to review the privacy statements of websites you choose to link to from this website so that you can understand how those websites collect, use and share your information as well. Any third party sites that you can access through the website are not covered by NTU's Privacy statement and we accept no responsibility or liability for these sites.
+if you are not an applicant, current student, member of Alumni or staff member, the processing your personal information will be governed by this privacy statement.
 
-When visiting the NTU website we collect two types of information from you:
+For the purpose of the Data Protection Legislation the General Data Protection Regulation (Regulation (EU) 2016/679) (the “GDPR”) and the Data Protection Act 2018) we are the data controller. Nottingham Trent University is a higher education corporation, granted by Parliamentary Order under s124A(3) and (4) of the Education Reform Act 1988, with its principal place of business at 50 Shakespeare Street, Nottingham, NG1 4FQ
 
- **1\. Information you give us  
-** We receive and store any information you enter on the website or give us in any other way. You provide this information when you supply us with such information as your name, address, post code, date of birth, gender and subject areas of interest.
+NTU can be contacted by:
 
-We use the information that you provide to respond to your requests for information and to communicate with you in the future. You have the right at any point to opt out of future communications by logging in to the website and updating your profile or by contacting us [via email](mailto:marketing@ntu.ac.uk).
+ **Post:** 50 Shakespeare Street, Nottingham, NG1 4FQ  
+ **Email** : [askntu@ntu.ac.uk](mailto:askntu@ntu.ac.uk)  
+ **Telephone:** +44 (0)115 941 8418
 
- **2\. Information collected automatically  
-** Like the majority of websites we receive and store certain types of information whenever you interact with us. This includes the use of "cookies".
+Our nominated data protection officer assigned as the responsible person/compliance officer for this privacy statement and any related procedures or guidelines is:
 
-Cookies are pieces of information that we transfer to your computer's hard drive through your web browser when you are viewing the website. These pieces of information allow the website to act on information that will make your use of the website more rewarding.
+Tracy Landon, Legal Services Manager and Data Protection Officer.  
+Email: [dpo@ntu.ac.uk](mailto:dpo@ntu.ac.uk)
 
-We use cookies to enable our system to recognise your browser and to provide features such as easier login and greater security and for storing information about you between visits. This is designed to provide a better website experience by enabling us to remember your preferences from one visit to the next.
+NTU encourages you to review the privacy statements of any websites you choose to navigate to from our website (or navigate from to our website) or digital services that we provide links to so that you can understand how those websites collect, use and share your information as well.
 
-We also use cookies to collect aggregated, anonymous information such as the pages viewed or searched for, the length of time spent on the website and how many pages have been visited. This information is then analysed by us to ensure that we develop the website to provide a better service and richer user experience. By using this website, you therefore accept and agree to the use of these cookies.
+Any third party sites that you can access through the website are not covered by this privacy statement and we accept no responsibility or liability for these sites.
 
-None of these cookies record your name, password, phone number or address details in text format.
+## What information does NTU collect?
 
-Examples of information we collect using technology which is not readily apparent include the Internet Protocol (IP) address used to connect your computer to the internet and connection information such as browser type and version, operating system and platform and the full Uniform Resource Locators (URL).
+**Information you give us**
 
-Cookies in use on the NTU site
+We collect information that you provide to us in the following ways:
 
-Cookie name
+  * Thorough our digital services, which are the NTU website at www.ntu.ac.uk and any other NTU-authorised internet services, websites, products, social media, mobile phone apps and/or software applications that enable you to use, access, view, listen to and/or download NTU content or to interact with us online (or through any other digital means) on any device. We collect information that you provide to us by filling out forms on the website or by corresponding with us through the digital services. It includes information that you provide when you participate in discussion boards or other social media functions within the digital services, enter a competition, promotion or survey, and when you report a problem with the digital services.
+  * At events, for example lectures, student recruitment fairs/exhibitions, seminars, workshops, celebrations, trade fairs, placement fairs and shows.
+  * Any email correspondence you have with NTU.
+  * Any telephone calls you have with NTU.
+  * Any engagement you have with our corporate clients, partners, funders and business clients.
 
-| 
 
-Expires
 
-| 
+The information you give us may include: your name;your address;your email address; your phone number;your date of birth;your gender **;** your nationality, your job title, and your employer.
 
-Purpose/content  
-  
----|---|---  
-  
-sessionid  
-JSESSIONID  
-ASP.NET_SessionId  
-ASPSESSIONIDSQADCQDQ  
-WSS_KeepSessionAuthenticated  
-SESSID
+## Automated collection of personal information
 
-| 
+When you access our website, certain information you provide will automatically be recorded by the University through the use of cookies. Please refer to our [cookies policy](https://www.ntu.ac.uk/policies/web-policies/cookies-policy "cookies policy") for further information regarding our use of cookies. We may also automatically record visits to our website. If you access our distance learning courses (online.ntu.ac.uk) please refer to [our Cookie Policy](https://policies.edusites.net/cookiesint) for further information regarding the use of cookies.
 
-At end of session, when session times out or browser is closed
+Information collected through cookies and session recordings is stored and used for aggregated and statistical reporting with the purpose of improving our services.
 
-| 
+Information collected will include your IP address, browser type, and information relating to the page(s) you visited such as mouse events, key presses and text typed on web forms.
 
- **Session cookies**  
-These cookies are used widely across NTU websites, the session cookies help to maintain state whilst you view the site. Each cookie contains a randomly generated identifier valid for the length of the session. They contain no personal information.  
-  
-CASTGC  
-OutlookSession  
-cadata  
-casauth
+## Information collected from third parties
 
-| 
+We work with third parties, including:
 
-At end of session, when session times out or browser is closed
+  * advertising networks
+  * business partners
+  * analytics providers
+  * credit reference agencies
+  * sub-contractors in technical, payment and delivery services
 
-| 
 
- **Authentication cookies**  
-These cookies are used when logging into a site that uses NTU single sign on. Each cookie contains a randomly generated identifier valid for the length of the session. They contain no personal information.  
-  
-NTUNewsCookie  
-NTUStaffAddressBookCookie  
-SuppDocUploadCookie
 
-| 
+Sometimes we obtain personal data from these third parties. These third parties should explain to you in what circumstances your information will be shared with us.
 
-1 year
+We will notify you when we receive information about you from third parties, and explain the purposes for which we intend to use that information.
 
-| 
+## How we use your information
 
- **ntu.ac.uk application cookies  
-** A number of NTU applications make use of a cookie to store a value identifying the current section of the site so that the correct information is displayed. No personal or identifying information is stored.  
-  
-PHPSESSID  
-ntuaccommodation
+We will only process your personal information in accordance with this privacy statement and data protection legislation:
 
-| 
+  * Where you have freely given your consent for your information to be used for particular purposes.  
+For example, to provide advertising and marketing information to you, or to allow our partners and third parties to provide information of interest to you.
+  * If you are under the age of 16, we will obtain consent from your parent or guardian before processing your personal information.
+  * When it is necessary to perform a contract with you, including the operation and delivery of any services you have requested.
+  * When it is necessary to perform tasks carried out in the public interest, and to pursue legitimate interests - this includes use of your personal information to improve the services we offer as a higher education corporation.  Such activities include:
+    * Progressive profiling: we may use your data to provide you with personalised communication.
+    * Analyse web behaviour: we may use your data to analyse marketing activities, understand audiences and personalise content.
+    * Targeting advertising: we collect data automatically to tailor advertising, e.g. retargeting users who visit our website(s)
+    * Internal data matching: we may merge data we collect to identify users and map them to our CRM platforms for the purposes of personalising content, analysing behaviour and improving marketing activities.
+    * External data matching: we may match customer lists with online platforms (e.g. through applications such as Facebook Custom Audiences and Google Customer Match) to target and tailor advertising, understand audiences and analyse marketing activities.
 
-End of session/browser close  
-1 Year
 
-| 
 
- **NTU Accommodation message board**  
-The PHPSESSID cookie is native to PHP and enables websites to store serialised state data. It is used to establish a user session and to pass state data via a temporary cookie, which is commonly referred to as a session cookie.  
-  
-DeviceViewCode
+Where we wish to use your personal information for a different purpose, we will notify you and, where appropriate, seek your consent to that activity.
 
-| 
+## Who we share information with
 
-At end of session, when session times out or browser is closed
+**Service providers**
 
-| 
+We may share personal information with our trusted partners and third parties who provide services including:
 
- **Library One search** **\- ntu.primo.hosted.exlibrisgroup.com.**  
-This cookie is used to set the correct view of the search page when using a mobile phone. The cookie only contains the reference number for the view to be used.  
-  
-LivePersonID  
-HumanClickCHATKEY  
-HumanClickKEY  
-HumanClickSiteContainerID_
+  * statistical analysis
+  * correspondence (emails, text messages, postal services)
+  * marketing activities
 
-| 
 
-1 Year  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close
 
-| 
+All third parties are prohibited from using your personal information except when providing these services to NTU, are required to keep your information confidential, and must handle your information in accordance with the Data Protection Legislation.
 
- **Library live chat**  
-LivePersonID is used in conjunction with the HumanClickKEY cookie to gather usage data related to a visitor's visit. HumanClickCHATKEY is used for security purposes to identify each LP chat and LP voice communication session. HumanClickSiteContainerID_ is used by LivePerson with respect to its largest customers in order to allow LivePerson to distribute usage of its services across a cluster of servers  
-  
-TESTID
+ **Marketing and advertising partners**
 
-| 
+We may share information with third parties for marketing and advertising purposes. This may include activating Google Analytics Advertising Features, and creating customer audiences via Facebook, Twitter, Snapchat and Google.
 
-At end of session, when session times out or browser is closed
+We use the following Google Analytics features:
 
-| 
+  * Create Remarketing Audiences - based on specific behaviour, demographic and interest data
+  * Create Segments - based on demographic and interest data
 
- **NTU Self Service  
-** This cookie is a testing cookie and contains the value 'set'.  
-  
-Login  
-d2lSessionVal  
-d2lSecureSessionVal  
-username  
-vle
 
-| 
 
-At end of session, when session times out or browser is closed
+You can opt-out of Google Analytics Advertising Features using their [opt-out tool](http://optout.networkadvertising.org/#!/ "Opt out Google Analytics"), or the [Network Initiatives consumer opt-out](http://optout.networkadvertising.org/?c=1#!/ "Network Initiatives opt out").
 
-| 
+ **Legal purposes**
 
- **now.ntu.ac.uk  
-** The NTU Online Workspace (NOW) requires a number of cookies to function. The username cookie contains your NTU username, the Login cookie contains the value 'true'. All other cookies contain randomly generated identifiers.  
-  
-zendesk_cookie
+We may disclose your personal information if required by law. For example, to comply with a court order, or to enforce our terms and conditions (including our [website disclaimer](https://www.ntu.ac.uk/policies/web-policies/disclaimer "web disclaimer")) and other agreements, or to protect your safety and security, including if you use our digital services. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-| 
+## How we keep information secure
 
-20 years
+We take every step to protect your personal information which we hold:
 
-| 
+  * Your personal information is only accessible by NTU staff who need to process and manage that data.
+  * The collection, storage and processing of your personal information will be adequate and relevant for the purposes required. It will not be excessive or go further than is necessary for the purposes.
+  * All information you provide to us is stored on secure servers. However, it must be acknowledge by you that no system can be guaranteed to be 100% secure.
+  * We cannot guarantee the security of your personal information transmitted to/through our digital services. Any transmission is at your own risk.
+  * We do not disclose special categories of personal information such as race, religion or political affiliations without your specific consent, unless we need to do so for legal purposes. You will be notified if this is the case.
 
- **support.ntu.ac.uk  
-** This cookie holds preferences and session settings for Zendesk, our solution provider for customer support management.  
-  
-sessionid_  
-SLStatUid
 
-| 
 
-5 days  
-End of session/browser close
+You are responsible for keeping passwords confidential. We ask that you do not share your password with anyone, and that you make sure personal information is not stored on shared computers or connected networks.
 
-| 
+## Where we store personal information
 
- **CoveritLive  
-** These cookies enable us to run our live chat and social walls.  
-  
-Progress
+Your personal information may be transferred by us or our trusted partners out of the European Economic Area (the “EEA”). Our partners process data for analysis or marketing purposes, including a marketing automation hub where the email address of recipients will be logged and a record of email delivery, opening, click-throughs and bounce-backs will be kept. Our partner uses Microsoft’s Windows Azure data centres located primarily in the UK, Dublin (Republic of Ireland) and Amsterdam (The Netherlands), but may also store data in the Virginia (USA) and New South Wales (Australia). The data is encrypted both at rest and in transit whilst stored or processed within the partners system.
 
-| 
+Your personal information may be shared with record matching and customer targeting partners, including Google, Facebook, Snapchat and LinkedIn.  Some of these partners process personal data in Canada and the United States of America.
 
-1 year
+NTU ensures that your personal information transferred to countries outside of the EEA is adequately protection by transferring the personal information on terms of the standard data protection clauses adopted by the European Commission.
 
-| 
+## How long we store information for
 
- **rosalindfranklin.ntu.ac.uk  
-** These cookies enable us to run our live chat and social walls.  
-  
-Variable per poll\survey
+We will not store your personal information for longer than is necessary. NTU will ensure that our trusted partners and selected third parties with whom we share your personal information in accordance with this privacy statement will delete your personal information when they no longer require it.
 
-| 
+## How to access your information
 
-2 hours
+Under the Data Processing Legislation:
 
-| 
+  * You have the right to request us to stop processing your personal information in accordance with this privacy statement at any time.
+  * You have the right to ask us not to process your personal information for marketing purposes (including profiling). We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data or by logging into the website and updating your profile. You can also contact us using the details set out in this privacy statement.
+  * If you become aware of any inaccuracies in your personal information that we process on your behalf, or such personal information is incomplete, you have a right to request that such inaccuracies be rectified.  On receiving your request we will either action such request or explain why we have decided not to action such request.
+  * If it is no longer necessary for us to retain your personal information (e.g. you no longer require access to any services or applications on our website), or if you have withdrawn consent for our processing of your personal information, or where it is established that we did not have the right to process your personal information, in accordance with the GDPR, you may have your personal information erased.
+  * You may also have a right under the GDPR to object to us processing your personal information or to request a restriction on the ways in which we may process your personal information in certain circumstances.
+  * You have the right under the GDPR to request that we provide to you, or to another data controller on your behalf, a copy of any of your personal information which we have received from you so that may reuse such personal information for your own purposes across different services.
+  * You have the right to complain to the Information Commissioner (http://www.ico.gov.uk/) if you have any concerns in respect of the handling of your personal information by NTU.
+  * You have also the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Legislation. You can submit a data access request at any time by contacting us using the details set out in this privacy statement.
 
- **Polldaddy  
-** These cookies enable us to run our live chat and social walls.  
-  
-Userid
 
-| 
 
-1 year
+If you would like to exercise any of the above rights, please contact us using the details set out in this privacy statement.
 
-| 
+## Conditions of use
 
- **CHRIS (NTU Staff only)  
-** On logging into the CHRIS system a cookie is set to remember the employee number. **  
-**Cookie contains employee number.  
-  
-_utma  
-_utmb  
-_utmc  
-_utmz
+This privacy statement, its subject matter and its formation (including any non-contractual disputes or claims) is governed by the laws of England and Wales, where NTU was established, and is designed to be accessed and is deemed to be made in England. You consent to the exclusive jurisdiction of the English courts in all disputes arising out of or relating to the use of any of our services (including the Digital Services) and this privacy statement.
 
-| 
+This privacy statement may be updated and amended from time to time, and for this reason you should re-read this privacy statement when you revisit any of our services (including the digital services). If any material changes are made to this privacy statement, we will notify you by placing a prominent notice on our website.
 
-2 years  
-30 minutes  
-End of session/browser close  
-6 months
-
-| 
-
- **Google Analytics (wording taken from ICO.gov.uk)**  
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-Read an [overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
-  
-Variable per campaign| Variable per campaign (up to 2 years)|  **Remarketing with Google Analytics  
-** We use Remarketing to advertise online and make ads more relevant ("Remarketing"). Remarketing cookies will be used by third parties (including Google) to show our ads on websites other than our own.
-
-Both us and third parties (including Google) will also use Remarketing cookies – both first party (such as Google Analytics) and third party (such as DoubleClick) – to serve more relevant ads to users based on such users' past visits to our website, whether those users are on our Website or on other websites.
-
-To opt-out from Google's Remarketing program, please edit your [Google Ad Settings](https://www.google.com/settings/ads).  
-  
-Variable per campaign| Variable per campaign (up to 2 years)|  **Google Tag Manager**  
-We may use Tag Manager to run custom analytics and remarketing campaigns across different sections of our sites. These campaigns will not collect any information beyond that already stated for analytics and remarketing.
-
-To opt-out from Google's Remarketing program, please edit your [Google Ad Settings](https://www.google.com/settings/ads).  
-  
-Variable| Variable|  **YouTube  
-** We embed videos from our official YouTube channel using YouTube's privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
-
-Read more at [YouTube's embedding videos information](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780) page.  
-  
-  
- **How do I remove cookies?  
-** If you do not wish to receive cookies from our site it is possible to reject them by changing your browser settings. The "help" portion of a toolbar on most browsers will tell you how to protect your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However if you turn cookies off you won't have access to some of the features that make the website more efficient and services may not function properly.
-
- **Does NTU share the information received?  
-** NTU collects and uses your personal information to operate and deliver any services you have requested. NTU does not use or disclose sensitive personal information, such as race, religion or political affiliations, without your explicit consent.
-
-NTU may disclose personal information in the following circumstances:
-
-  * NTU may share data with trusted partners to help us perform statistical analysis, send you email, postal mail, and text messages or anonymously as part of a research paper. All such third parties are prohibited from using your personal information except to provide these services to NTU, and they are required to maintain the confidentiality of your information. NTU ensures such agencies handle information in accordance with the Data Protection Act.
-  * We will give out personal information as required by law, for example to comply with a Court Order, to enforce our terms and conditions or to protect the safety and security of users on the website.
-
-
-
- **How secure is information about me?**
-
-  * The importance of security for all personally identifiable information associated with our users is of utmost concern to us. We take technical, contractual, administrative and physical steps to protect all of the user information we hold. Despite this you acknowledge and accept that no system can be guaranteed to be 100% secure.
-  * It is important for you to protect against unauthorised access to your password and to your computer. Be sure to log out when using a shared computer and take steps to make sure your personal information has not been stored by that computer or a network connected to it.
-
-
-
- **What choices do I have?**
-
-  * The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether.
-  * There are products which allow anonymous browsing.
-
-
-
- **Conditions of use**  
-This agreement is governed by the laws of England, where NTU originates and is designed to be accessed and is deemed to be made in England. You consent to the exclusive jurisdiction of the English courts in all disputes arising out of or relating to the use of the website. Use of the website is unauthorised in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph.
-
-By continuing to use the website you agree that you have read the Access Agreement and that you agree with all of its contents. This statement and the Access Agreement may be altered and for this reason you should regularly visit the Privacy Statement on the website as the current version will be binding upon you.
-
- **Code of practice on the operation of CCTV  
-**[Download the NTU CCTV Policy](https://web.archive.org/about_ntu/document_uploads/74417.pdf). [ ](http://www.adobe.com/products/acrobat/readstep2.html?promoid=BONRM)
-
-**Responsibilities  
-** The Nottingham Trent University Head of Marketing Services is assigned as the responsible person/compliance officer for this statement and any related procedures or guidelines.
+In relation to NTU’s use of CCTV, please refer to our [Code of Practice](https://www.ntu.ac.uk/__data/assets/pdf_file/0035/545597/cctv.pdf "Code of Practice CCTV") on the Operation of CCTV.
