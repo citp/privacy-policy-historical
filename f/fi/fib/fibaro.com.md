@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibaro.com privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729084345id_/https%3A//www.fibaro.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibaro.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519050205id_/https%3A//www.fibaro.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | FIBARO
 
