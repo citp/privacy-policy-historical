@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paindoctor.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203092106id_/https%3A//paindoctor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paindoctor.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519084242id_/https%3A//paindoctor.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy - Pain Doctor
 
-Website Privacy Policy  2016-11-17T09:52:28+00:00 
+Website Privacy Policy  2016-11-17T09:52:28-07:00 
 
 _Effective October 1, 2015_
 
