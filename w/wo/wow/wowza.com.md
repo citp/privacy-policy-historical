@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228111407id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowza.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519102517id_/https%3A//www.wowza.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policies
 
@@ -83,7 +83,7 @@ Wowza is a global organization and your information may be transferred, stored, 
 
 **Updates to this Policy**
 
-Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/privacy](https://staging.wowza.com/legal/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
+Wowza may update this Policy occasionally to ensure that you are informed of our practices with regard to personal information. When we update this policy, we will update [www.wowza.com/legal/privacy](https://web.archive.org/legal/privacy) and, depending on our view of the significance of the update, send an email to all Site, Software, and Services users notifying them of the update. Your continued use of the Site, Software, or Services following such an update to this Policy on the Site indicates your acceptance of the updated Policy.
 
 \----
 
