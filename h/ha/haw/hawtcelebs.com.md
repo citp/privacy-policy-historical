@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204194622id_/http%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawtcelebs.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519103013id_/https%3A//www.hawtcelebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HawtCelebs
 
-Hawtcelebs has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “hawtcelebs.com” at [http://www.hawtcelebs.com](http://www.hawtcelebs.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at a.arsenovic.sg[at]gmail.com with any questions.
+Hawtcelebs has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: “hawtcelebs.com” at [http://www.hawtcelebs.com](https://www.hawtcelebs.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at a.arsenovic.sg[at]gmail.com with any questions.
 
 ## Cookies
 
@@ -67,9 +67,9 @@ hawtcelebs.com is engaged in “powered by” relationships as more fully descri
 
 ## Cookies & 3rd Party Advertisements
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 ## Disclosure Regarding Google Display Advertising
 
@@ -77,7 +77,7 @@ We implement Google Analytics features that use Display Advertising information 
 
 You can opt-out of Google Analytics for Display Advertising, to prevent your data from being used by Google Analytics, by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/).
 
-We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies  used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](http://www.google.com/policies/technologies/ads/).
+We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies  used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](https://www.google.com/policies/technologies/ads/).
 
 ## Security
 
