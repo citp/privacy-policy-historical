@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729224032id_/https%3A//naturalcures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520013904id_/https%3A//www.naturalcures.com/privacy) for the most accurate reproduction.*
 
-# Privacy – NaturalCures.com
+# Privacy - NaturalCures.com
 
 Snowflake Media Ltd (NaturalCures.com) recognizes the importance of protecting the privacy of all information provided by our users. We created the following policy guidelines with a fundamental respect for our users’ right to privacy to guide our relationships with our users.
 
@@ -11,6 +11,8 @@ The mechanisms we have implemented to protect your personal information.
 We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only to transactions made and data gathered on web pages, discussion lists and opt-in announcement lists owned and operated by Snowflake Media Ltd and does not apply to any other transactions, information, web site or Internet, telephone or offline point of contact between Snowflake Media Ltd and you or other consumers. As we continue to develop our Site and take advantage of technologies to improve the services we offer, this policy may change. Such revisions shall be effective to you immediately upon posting. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
 
 The terms and conditions of this Privacy are legally binding on all users. By using this web site, you consent to this Agreement and to the collection and use of information by Snowflake Media Ltd as specified below.
+
+[](https://www.morter.com/morter-supplements/alka-green-morter-supplement-powder/?=nc)
 
 What information are you collecting and how are you collecting it?  
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol” IP address. When a visitor requests a page from any Web site within the Snowflake Media Ltd Network, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the Snowflake Media Ltd Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals.
