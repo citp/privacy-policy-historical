@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221065954id_/https%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519201751id_/https%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
 
-# | Purchasing Power
+# Privacy Policy | Purchasing Power
 
 Purchasing Power is committed to protecting your privacy because our business is based on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. 
 
@@ -35,12 +35,12 @@ Generally, in order to purchase our products, you must be employed by a company 
 Back to Top
 
  **Is my information used for any other purposes?**  
-We require only the personal information that is needed for safely processing your online order and for contacting you about your transactions. It is used exclusively for that purpose. If you become a Purchasing Power customer, you may receive mailings from your account information which may be analyzed as part of our standard business practices.
+We require only the personal information that is needed for safely processing your online order and for contacting you about your transactions. It is used exclusively for that purpose, as described in this policy. If you become a Purchasing Power customer, you may receive mailings from your account information which may be analyzed as part of our standard business practices.
 
 Back to Top
 
  **Will my information be given to any other party?**  
-Information collected on this website will only be used for the purpose of processing your order and transacting business with you. Your personal information including email address, may be shared with your sponsoring organization or employer under some circumstances as required by their program agreement. Under no circumstances will your information be shared with any unaffiliated parties.
+Information collected on this website will only be used for the purpose of processing your order and transacting business with you. Your personal information including email address, may be shared with your sponsoring organization or employer under some circumstances. Under no circumstances will your information be shared with any unaffiliated parties.
 
 Back to Top
 
@@ -57,7 +57,7 @@ We employ powerful 128-bit encryption technology and Secure Socket Layers (SSL) 
 Back to Top
 
  **Who can see your account information?**  
-Only authorized sales, customer service and accounting personnel are permitted access to your account information. Purchasing Power employees who violate our privacy pledge will be subject to our normal disciplinary process. When we hire other organizations to provide support services, we will require them to conform to our privacy pledge and to allow us to audit them for compliance.
+Only authorized sales, customer service and accounting personnel are permitted access to your account information. Once you have registered with us, we will never ask you for your username, password, or password retrieval information.  Purchasing Power employees who violate our privacy pledge will be subject to our normal disciplinary process. When we hire other organizations to provide support services, we will require them to conform to our privacy pledge and to allow us to audit them for compliance.
 
 Back to Top
 
@@ -235,7 +235,9 @@ We collect your personal information, for example, when you
 
 §    pay us by check
 
- We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+ We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
+
+Once you have registered with us, we will never ask you for your username, password, or password retrieval information.  
   
  **Why can't I limit all sharing?**
 
