@@ -1,79 +1,147 @@
-> *The following text is extracted and transformed from the rapidcashsystem.net privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215030906id_/http%3A//www.rapidcashsystem.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidcashsystem.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520011906id_/https%3A//www.james-scholes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. By visiting our Company Web site, you are consenting to our policy of collecting and using your data.
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-Personal Information Our Company Collects and How It Is Used Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service.
+ **When do we collect information?**
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances.
+We collect information from you when you subscribe to a newsletter or enter information on our site.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services.
+ **How do we use your information?**
 
-We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Our Company collects personal information through forms you complete on the site, as well as but not limited to contests, sweepstakes, text messages, e-mails, faxes, telephone calls, postal mail or other communications with the user, as well as from outside sources such as credit card processors and database vendors.
+ **•** To send periodic emails regarding your order or other products and services.
 
-Also, with purchases, we supply our member’s contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company. We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser’s information to that third party.
+ **How do we protect your information?**
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-If you order services or products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with. Online Advertisements: Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+We only provide articles and information. We never ask for credit card numbers.
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies. By visiting our Company Web site, you are consenting to our policy of collecting and using your data. If you do not want to consent to our policy of collecting and using your data you can “opt out” of our Social Network and Facebook.com.com.com Website Custom Audience Ads advertising policy by notifying Company in the following manner:
+We use regular Malware Scanning.
 
-Social Network and Facebook.com.com.com Website Custom Audience Ads (WCA): A Custom Audience on Facebook.com.com is a list of people our company would like to show our ads to on Facebook.com.com, who have shown interest in our products and services, with ads we believe would be of interest to them. This audience consists of people, whose information and email addresses our Company already has, because they have already subscribed to receiving Company emails.
+We do not use an SSL certificate
 
-If you no longer have an interest in our products and services, you can opt-out of seeing Company’s Facebook.com.com Website Custom Audience Ads. Unsubscribing from our Company’s email list will remove you from Company’s internal email database list and stop future emails from our Company, but not from being shown Facebook.com.com Website Custom Audience Ads. The Facebook.com.com Website Custom Audience Ads external database, is different from our Company’s internal database and requires the following Opting-out request.
+ **•** We do not need an SSL because:
 
-Opting-out of Facebook.com.com Website Custom Audience Ads: To opt out of our Company’s Facebook.com.com Custom Audience Ads, send an email, from the email address you are opting out, to Company using our email address provided in Company’s contact information. Put “Opting Out of Facebook.com.com Website Custom Audience Ads ” in the subject line of the email. In the body of the email include your name and email address. Our Company staff will forward your name and email address to Facebook.com.com with a request to delete you from all of Company’s Facebook.com.com Website Custom Audience Ads.
+we are in the process in getting a SSL certificate
 
-Google.com Analytics
+ **Do we use ‘cookies’?**
 
-Our Company may use Analytics tracking code to support Display Advertising, and enable Google Analytics to collect data about your traffic via the DoubleClick cookie in addition to data collected through the standard Google Analytics implementation. Display Advertising lets us enable features in Analytics that aren’t available through standard implementations, like Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Our Company may use Remarketing with Google Analytics to advertise online: This allows third-party vendors, including Google, to show your ads on sites across the Internet. Our Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website. Our Company may implement Google Display Network Impression Reporting or the DoubleClick Campaign Manager:
+ **We use cookies to:**
 
-Our Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services that are related to visits to your site. Our Company may implement Google Analytics Demographics and Interest Reporting: The data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics allows us to serve ads to you based on this data. Opting-out of Google Analytics’ For The Web and Google Analytics for Display
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-Advertising: Users can opt-out of Google Analytics’ currently available opt-outs for the web at https://tools.google.com/dlpage/gaoptout/
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-Using the Ads Settings, users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads at https://www.google.com/settings/personalinfo
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
 
-Retargeting Ad Campaigns and Persistent Identifiers: Our Company may utilize various types of advertising that appear on our Company sites and services including ads on third party sites and services. Our Company may utilise categories of information, including names and email addresses, collected from users on our sites and services, as well as third party sites and services, in connection with the ads that are served. This advertising may include, but not limited to, contextual advertising, cookies, anonymous cookies, pixels, persistent identifiers, geolocation information, email opt in, search engine terms, behavioral advertising and/or retargeting advertising. This type of advertising is a form of targeted advertising, to the specific individual who is visiting the Web site. These advertisements appear on websites or other media, including display ads, pop up ads and ads displayed in mobile browsers. Those advertisements are selected and served by automated systems based on the interests relevant to the user from the content displayed to the user, based on what the user is viewing.
+ **Third-party disclosure**
 
-Our Company does not conduct inquiries into the information collection practices of third parties that may collect information from users that leave our Web site. Our Company may share customer information with third parties to process orders, for third party analytics and for marketing and advertising purposes.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you.
+ **Third-party links**
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Special Cases: It is our company’s policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out except as noted herein, or otherwise prohibit such unrelated uses.
+ **Google**
 
-Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-Notice to California Residents – Your California Privacy Rights
+We use Google AdSense Advertising on our website.
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to Company, to the email address provided in our contact
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
 
-information and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request. “Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use
+ **We have implemented the following:**
 
-cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-Deleting Cookies: If you don’t want our Company’s cookies on your computer, to be used for the purposes stated herein, they are easy to delete. Simply go to http://www.aboutcookies.org/Default.aspx?page=2 for instructions.
+ **Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. Our Company Commitment to Children’s Privacy: Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
+ **California Online Privacy Protection Act**
 
-You must be eighteen years or older to access this web site. if you are under eighteen years of age, you are not permitted to access this web site for any reason. due to the age restrictions for use of this web site, no information obtained by this web site, falls within the children’s online privacy protection act (coppa) and is not monitored as doing so.
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+ **According to CalOPPA, we agree to the following:**
 
-Our Company’s Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+Users can visit our site anonymously.
 
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+ **•** On our Privacy Policy Page
+
+Can change your personal information:
+
+ **•** By emailing us
+
+ **How does our site handle Do Not Track signals?**
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+ **Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we do not allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+ **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify you via email
+
+ **•** Within 7 business days
+
+Within 30 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **To be in accordance with CANSPAM, we agree to the following:**
+
+ **•** Not use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+ **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
