@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testq.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118154918id_/http%3A//www.testq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testq.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519104448id_/http%3A//www.testq.com/privacy) for the most accurate reproduction.*
 
 # TestQ : The best career quiz site, period.
 
