@@ -1,103 +1,81 @@
-> *The following text is extracted and transformed from the grabpoints.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504180642id_/http%3A//grabpoints.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabpoints.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519202813id_/https%3A//grabpoints.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Privacy - GrabPoints
+# Privacy Policy - GrabPoints
 
-### Privacy Policy
+Grab Rewards Ltd. Operating the Grab Points Website & App (“Grab Points”) is committed to maintaining the privacy of your personal information when you visit our website at [grabpoints.com](https://grabpoints.com/) (the “Site”), use our related services (“Services”) and/or download and use any Grab Points proprietary applications or any third party applications accessible for download from the Site (together, the “Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications. Grab Points also provides ad optimization services on behalf of mobile applicable provider clients (“Clients”). This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to Clients. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.
 
-  
-Grab Rewards Ltd. Operating the Grab Points Website & App (“Grab Points”) is committed to maintaining the privacy of your personal information when you visit our website at [grabpoints.com](http://grabpoints.com/) (the “Site”), use our related services (“Services”) and/or download and use any Grab Points proprietary applications or any third party applications accessible for download from the Site (together, the “Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications. Grab Points also provides ad optimization services on behalf of mobile applicable provider clients (“Clients”). This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to Clients. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.
-
-  
- **Registration and Personally Identifiable Information**  
-Grab Points does not collect any personally identifiable information about you unless you choose to provide it to us, either by contacting us and providing us with such information, or through registration at our Site. Site registration is a feature considered completely optional.
-
-  
-We will use personally identifiable information for the purpose(s) for which you provided the information. For example, we will use your email address and mobile number, respectively, to respond to an email/SMS inquiry you have made.
-
-  
- **Collection of Non Personally Identifiable Information**  
-We automatically collect IP addresses, website usage and application usage information from you when you visit our Site or download Applications. When you download and use Applications, we may also collect your “unique device ID” or “UDID,” which is a number uniquely associated with your mobile device. We cannot use the UDID to identify you personally, rather this information helps us evaluate how end users use our website and applications, and permits us to enhance those sites and applications.
-
-  
-We may use the information collected about you in the following ways:  
+**1\. Non Personally Identifiable Information and Collection Of**  
+We automatically collect IP addresses, website usage and application usage information from you when you visit our site or download Applications. When you download and use Applications, we may also collect your “unique device ID” or “UDID,” which is a number uniquely associated with your mobile device. This information is used to help us evaluate how end-users use our website and applications, and permits us to enhance those sites and applications. We may use non personally identifiable information about you in the following ways:  
 To maintain, operate, provide and enhance our Site and Services  
-To allow us to personalize the content and target the advertising that you and others see based on personal characteristics, usage patterns and/or preferences.
-
-  
-To provide advertisers and other third parties with aggregate information about our user base and its usage patterns.
-
-  
-We may combine the non personally identifiable information that we collect about you from your use of the Site and Services with other non personally identifiable information that you provide to us in connection with your use of other Grab Points or its parent Graw Rewards Ltd. products, services and websites.
-
-  
+To allow us to personalize the content and target the advertising that you and others see based on personal characteristics, usage patterns and/or preferences.  
+To provide advertisers and other third parties with aggregate information about our user base and its usage patterns.  
+We may combine the non personally identifiable information that we collect about you from your use of the Site and Services with other non personally identifiable information that you provide to us in connection with your use of other Grab Points or its parent Graw Rewards Ltd. products, services and websites.   
 We use third-party network advertisers, to deliver ads to you on our behalf. These network advertisers may be supplied with or have access to your non personally identifiable information (such as IP address and UDID).
 
-  
 As stated above, we do not collect personally identifiable information unless you provide it to us. However, we do still want you to understand the limited circumstances under which your personally identifiable information could be disclosed if you do provide it to us.
 
-  
-Except as specifically set forth in this Privacy Policy. We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our Terms of Service or other legal rights (for example, when necessary to protect our or a third party’s intellectual property or proprietary rights), alert you to changes in our policies or agreements that may affect your use of our application and Website, comply with legal requirements or process, or where necessary to prevent or investigate fraud, to protect the safety of an individual, subcontractors, vendors and other businesses that we employ to perform functions on our behalf. For example, we may employ third parties to send email campaigns or provide marketing assistance, or provide customer service. These entities have access to your information only for the purposes of performing the functions for which we have engaged them. If such entities have access to your personally identifiable information, their agreements with us require them to keep your information confidential. We may also share personally identifiable information with advertisers where you complete offers and surveys, so that we can easily provide offers to make the process seamless.
+**2\. Personally Identifiable Information**  
+Grab Points does not collect any personally identifiable information about you unless you choose to provide it to us, either by contacting us and providing us with such information, through registration of our Site or providing through demographic questions – which is completely voluntary. Site registration is a feature considered completely optional. We will use personally identifiable information for the purpose(s) described in this privacy policy. The uses of your Personally Identifiable Information may include the following:
 
-  
-We may also disclose personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.
+We may disclose and use personally identifiable information to resolve disputes, troubleshoot problems, enforce our Terms of Service or other legal rights (for example, when necessary to protect our or a third party’s intellectual property or proprietary rights)
 
-Grab Points may share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the following purposes:
+  * Alert you to changes in our policies or agreements that may affect your use of our application and Website
+  * Comply with legal requirements or process, or where necessary to prevent or investigate fraud, to protect the safety of an individual, subcontractors, vendors and other businesses that we employ to perform functions on our behalf. For example, we may employ third parties to send email campaigns or provide marketing assistance, or provide customer service. These entities have access to your information only for the purposes of performing the functions for which we have engaged them. If such entities have access to your personally identifiable information, their agreements with us require them to keep your information confidential.
+  * We may also share personally identifiable information with advertisers when you complete offers and surveys, so that we can easily provide offers to make the process seamless.
+  * We may use your email address and mobile number, respectively, to respond to an email/SMS inquiry you have made.
+  * To provide you with information, products or services that you request from us which we feel may interest you and where you have consented to be contacted for such purposes;
+  * To allow you to participate in interactive features of our service
+  * Demographic information and device ID information may be used to target advertisements, surveys, videos & offers to your account.
+  * To allow us to comply with our legal obligations where release of information relating to Members is required by law
+  * Member Data may be disclosed in response to valid requests from public authorities, including to meet national security or law enforcement requirements;
+  * We may also disclose personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.
+  * GrabPoints may share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the following purposes:  
+1\. Identifying client survey opportunities that you may be eligible for through the Third Party MR Companies; and  
+2\. Disclosing such data elements to clients of the Third Party MR Companies for audience measurement services; and  
+3\. Appending such data elements to completed client surveys and delivering the appended survey data to clients of the Third Party MR Company(ies) for analytical or research purposes; and  
+4\. Other uses as set forth in their privacy policy.  
+If you are eligible for a client survey opportunity offered through a Third Party MR Company, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the client survey through notifications via your mobile device, notifications via desktop and emails. We will not share your name, email address, or phone number with the Third Party MR Companies unless noted. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States, and by agreeing to this privacy policy you are agreeing to the processing and exportation of your personal information as set forth in this Section. If you have any questions about this data sharing please contact support@grabpoints.com or you can opt-out by unsubscribing via the following URL: <http://pb.grabpoints.com/unsubscribe>. If you opt-out, it is the responsibility of us to inform the Third Party MR Companies. Please note that GrabPoints is solely responsible for managing all opt-out requests. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies. 
+  * When users contact us, their information may be stored in a support database administered by Zendesk. Their privacy policy can be found here: https://www.zendesk.com/company/customers-partners/privacy-policy/
+  * We collect or may collect your IP address, device ID, referrer data, and browser, platform type and data of actions. You do not have to register on any of the GrabPoints Sites and Features or provide any Personal Information to us before we can collect this information. We may assign an ID number to your registration and link additional data to that ID number, such as the date and time you visited, the information you provide, and the links you choose to click. Like most standard website servers, we use log files to collect and store this user information. We may analyze and use this information for a variety of purposes, including operating and improving the GrabPoints Sites and Features or our Services, collecting further information about and learning from user behavior and trends, and gathering demographic information. Furthermore, we may combine or link information we collect from or about you offline with information we collect from or about you online through the GrabPoints Sites and Features or your use of our Services.
 
-1\. Identifying client survey opportunities that you may be eligible for through the Third Party MR Companies; and
 
-2\. Disclosing such data elements to clients of the Third Party MR Companies for audience measurement services; and
 
-3\. Appending such data elements to completed client surveys and delivering the appended survey data to clients of the Third Party MR Company(ies) for analytical or research purposes.
+**3\. GrabPoints Marketing**  
+Grab Points cannot use the UDID to identify you personally, but it does enable us to collect information about the kind of mobile device you use, the operating system for your mobile device, the applications you download from Grab Points third party providers, and when, how, and how often you use those applications. We use your UDID and information about the third party applications you download to report on the number of unique users who click through ads on the Grab Points website & application, and the number of those users who download third party applications as a result of those ads. 
 
-If you are eligible for a client survey opportunity offered through a Third Party MR Company, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the client survey through mobile notifications & emails. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States, and by agreeing to this privacy policy you are agreeing to the processing and exportation of your personal information as set forth in this Section. If you have any questions about this data sharing please contact support@grabpoints.com or you can opt-out by entirely by doing the following:  
-1) Turn off notifications by opening the mobile app, tap the menu icon, tap Notifications, uncheck Other Notifications  
-2) If you receive notifications via email, simply unsubscribe by visiting http://pb.grabpoints.com/unsubscribe and entering your email address. If you opt-out, it is the responsibility of us to inform the Third Party MR Companies. Please note that GrabPoints is solely liable and responsible for managing all opt-out requests. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
+We also use your UDID and the information associated with your UDID over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select Grab Points third party ads that are most likely to be of interest to you. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., device ID, IP address, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. 
 
-  
- **Grab Points Application Marketing**  
-Grab Points cannot use the UDID to identify you personally, but it does enable us to collect information about the kind of mobile device you use, the operating system for your mobile device, the applications you download from Grab Points third party providers, and when, how, and how often you use those applications.
+**4\. Cookies**  
+Some of the advertisers and Web analytics firms used on our Site or in connection with our Client ads may place “tracking cookies” on your device. These are small text files that can tell such companies what you are doing online, even though they usually don’t record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user’s interests. Grab Points may place cookies on your device, in addition to any placed by advertisers. We use information collected from cookies to target the interests of our end users, help us understand how users our using our Services, and enhance end users’ experience on the Site. On GrabPoints, cookies are used for various reasons:
 
-  
-We use your UDID and information about the third party applications you download to report on the number of unique users who click through ads on the Grab Points website & application, and the number of those users who download third party applications as a result of those ads.
+To track your member login and session
 
-We also use your UDID and the information associated with your UDID over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select Grab Points third party ads that are most likely to be of interest to you.
+To track your member ID across other partner services, for example, watching videos to earn points 
 
-By installing the app or joining the GrabPoints website, you also agree to the following privacy policy: <http://www.oneaudience.com/privacy/?package_name=org.grabpoints.android>. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., device ID, IP address, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. 
-
-  
-Grab Points may disclose your non personally identifiable information (e.g. UDID, IP address, application usage information) to its advertisers, agents, contractors and other third parties in order to operate, provide and improve our services to our Clients and to end-users. In addition, we may disclose your non personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets.
-
-  
- **Cookies**  
-Some of the advertisers and Web analytics firms used on our Site or in connection with our Client ads may place “tracking cookies” on your device. These are small text files that can tell such companies what you are doing online, even though they usually don’t record your name or other personally identifiable information. These cookies are used by these companies to try and match ads to a user’s interests. Grab Points may place cookies on your device, in addition to any placed by advertisers. We use information collected from cookies to target the interests of our end users, help us understand how users our using our Services, and enhance end users’ experience on the Site.
-
-  
 You can change the preferences or settings in your Web browser to control cookies. The Help menu on the menu bar of most browsers will tell you how. In some cases, you can choose to accept cookies from the primary site, but block them from third parties. In others, you can block cookies from specific advertisers, or clear out all cookies.
 
-  
- **Links to Other Content and Third Party Applications**  
+**5\. Links to Other Content and Third Party Applications**  
 We frequently make content or services from other websites available to you from links located without our Sites. These other websites are not subject to this Privacy Policy, and we have no control over how such websites may use the personal information collected on those sites. Similarly, the Applications you download from our Site are owned by third parties and we have no control over what information is collected or used by such third parties as a result of your use of such Applications. We recommend that you review the privacy policy and end user terms associated with each of these third party websites and Applications to determine their respective information collection, use and disclosure practices. Of course, you understand that we are not in any way responsible for the privacy practices or the content of third party websites, services or Applications. Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit http://www.aboutads.info/choices. To opt-out of the use of your mobile device ID for targeted advertising, please see http://www.aboutads.info/appchoices.
 
-  
- **Contact Us**  
-When users contact us, their information is stored in a support system database.
+**6\. Children’s Privacy**  
+Our website is not directed at children under the age of 16 and we do not knowingly collect personally identifiable information from children under the age of 16.
 
-  
- **Children’s Privacy**  
-Our website is not directed at children under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13.
+**7\. Security**  
+The personally identifiable information we collect about you (if any) is stored in limited access servers. The security of your personal information is important to us, and we maintain industry standard safeguards to protect the security of these servers and your personally identifiable information. However, no method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee the security of such information or be responsible for any damage that results from a breach in security. We maintain many security measures in order to attempt to protect against the loss, misuse and alteration of the Personal Identifiable Information within our control. We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personal Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our reasonable control. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information you transmit to us, and any transmission is done at your own risk. Accordingly, we assume no responsibility or liability for disclosure of your Personal Information or other information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
 
-  
- **Security**  
-The personally identifiable information we collect about you (if any) is stored in limited access servers. The security of your personal information is important to us, and we maintain industry standard safeguards to protect the security of these servers and your personally identifiable information. However, no method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee the security of such information or be responsible for any damage that results from a breach in security.
+**8\. Data Retention and Purpose Limitation**
 
-  
- **Transfer to the U.S. or other countries**  
-Your information may be stored and processed in the United States. We may store your information for as long as need for the purposes indicated in this privacy policy, and that may be indefinitely, or any other country where Grab Points has facilities, and by using our Site and or application, you consent to the transfer of information outside of your country.
+Subject to applicable law, we retain your personal data in a form that identifies or is capable of identifying you only for as long as it serves a purpose that is compatible with the purposes for which the personal data was collected or subsequently authorized by you in accordance with the reasons listed under “Personally Identifiable Information.”
 
-  
- **Changes to this Privacy Policy**  
-When we make any material change to this Privacy Policy, we will inform you by posting a notice on the homepage of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
+**9\. Right to Withdraw Consent**
 
-  
- **Questions**  
-If you have questions about this Privacy Policy, please contact us in writing. To the following address: Room 2 & 3, Office B, 12/F, Heng Shan Centre 145 Queen’s Road East, Wan Chai, HONG KONG
+You have the right to withdraw your consent at any time or to access and request that we rectify or remove your personal data from our system(s). You may exercise this right by submitting a written request to the contact information provided in section (12). 
+
+**10\. Transfer to the U.S. or other countries**  
+Your information may be stored and processed in the United States, however it is possible some of the data processing may occur outside of the United states by companies or individuals in contract with us. By using our sites and services, you consent to the the transfer of your personal data to any server used by the company or its service providers. Please be aware that data protetections laws in the United States and other countries may differ substantially from the laws and procedures of your country of residence. If you are located in a country outside of our server location and submit personal information to us, you are consenting to the transfer, processing, stortage and use of that information as provided in this Privacy Policy.
+
+**11\. Changes to this Privacy Policy**  
+When we make any material change to this Privacy Policy, we will inform you by posting a notice on the homepage of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated. Continued use of the GrabPoints platform is used as your consent.
+
+**12\. Questions or Contact**  
+If you have questions about this Privacy Policy, please contact us in writing. To the following address: 530 , 102 17750 Highway #10, Cloverdale, BC, Canada V3S1K4. If you would like to reach out regarding privacy concerns or would like to contact the Data Protection Officer, please email privacy@grabpoints.com.
