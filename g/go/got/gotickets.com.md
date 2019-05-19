@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816103142id_/https%3A//www.primesport.com/navigation/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519233237id_/https%3A//www.primesport.com/navigation/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PRIMESPORT
 
@@ -66,13 +66,13 @@ We may receive information about you (e.g., missing street number) from other so
 
 ## Who We May Share Your Data With
 
-We may share your personal information with third parties (including the NFL Entities as indicated above) for third party marketing purposes. The parties we may share your information with include:
+We may share your personal information with third parties. The parties we may share your information with include:
 
 Our Service Providers: We employ other business service providers and individuals to perform certain functions on our behalf for various purposes including email services, web analytics, marketing, and customer service. They may have access to personally identifiable information needed to perform their functions, but are restricted from using or disclosing it for other purposes, like sending you marketing offers about their products.
 
 Affiliates: We may share your information (including, without limitation, personally identifiable information) with all members of our corporate family, including, without limitation, our subsidiaries and affiliates.
 
-Third Party Partners: We may share your information with third party(s) so that they may send you information or direct marketing offers, unless you tell us not to by following the instructions in the Opt-in and Opt-out section above.
+Third Party Partners: We may share your information with third party(s) (including the NFL and all other game/event organizers and participating schools/teams) for third party marketing purposes so that they may send you information or direct marketing offers, unless you tell us not to by following the instructions in the Opt-in and Opt-out section above.
 
 Contest Co-Sponsors: We may share your information with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the Opt-in and Opt-out section above.
 
@@ -91,7 +91,7 @@ Administrative or Legal Process: We or others may disclose your personal informa
 
 You may have the right to opt in to or opt out of certain of our uses and disclosures of your personal information. For example, when you are asked to provide personal information on this Site, you may have the opportunity to elect to, or not to, receive messages from us by e-mail or, if applicable, text messages. You may tell us that you do not want to receive our promotional messages, or that you do not want us to share your personal information with third parties for their marketing purposes by sending us your name, address, e-mail and phone number to:
 
-PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 1550, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
+PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 950, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
 
 Email: privacypolicy@primesport.com
 
@@ -179,7 +179,7 @@ We may change this Policy from time to time. When we do, we will let you know by
 
 ## CORRECTING/UPDATING PERSONAL INFORMATION
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at privacypolicy@primesport.com and requesting that the desired changes be made, or via mail at: PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 1550, Atlanta, Georgia, 30305, ATTN: Privacy Administrator. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. You may request that we do so by emailing us at privacypolicy@primesport.com and requesting that the desired changes be made, or via mail at: PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 950, Atlanta, Georgia, 30305, ATTN: Privacy Administrator. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies.
 
 ## COPY OF PERSONAL INFORMATION
 
@@ -191,7 +191,7 @@ We will retain your information for as long as necessary for the uses set out in
 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 permits our customers that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacypolicy@primesport.com or write us at PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 1550, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
+California Civil Code Section 1798.83 permits our customers that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacypolicy@primesport.com or write us at PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 950, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
 
 If you have any questions about this Privacy Policy or our privacy practices, contact privacypolicy@primesport.com.
 
@@ -207,4 +207,4 @@ Copy of Personal Information: You may request a copy of your personal informatio
 
 ## QUESTIONS ABOUT THIS PRIVACY POLICY
 
-If you have any questions about this Privacy Policy or the privacy practices of this Site, please contact us by email at privacypolicy@primesport.com or: PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 1550, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
+If you have any questions about this Privacy Policy or the privacy practices of this Site, please contact us by email at privacypolicy@primesport.com or: PrimeSport, LLC, 3575 Piedmont Rd., Bldg 15 - Suite 950, Atlanta, Georgia, 30305, ATTN: Privacy Administrator
