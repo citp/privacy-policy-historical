@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134704id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519072826id_/https%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - This Is Anfield
 
