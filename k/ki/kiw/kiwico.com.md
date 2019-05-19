@@ -1,393 +1,77 @@
-> *The following text is extracted and transformed from the kiwico.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326200711id_/http%3A//kiwico.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwico.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519211946id_/https%3A//www.kiwico.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Introduction**
+KiwiCo, Inc. ("Company," "we," or "us") provides access to information through our website accessible at the URL <https://www.kiwico.com/> (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the "Services").  This privacy policy describes our information collection and use practices in connection with our Site and Service, as well as circumstances under which we disclose information collected from you.  Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
 
-|  | 
+In order to access and use the Site and Services, you must agree to our [Online Terms and Conditions](https://www.kiwico.com/terms/) (the “Terms and Conditions”) posted on the Site.  Persons and organizations with permission to use the Service are considered “Registered Users.”  You may view portions of the Site even if you are not an Registered User of the Service.  This privacy policy applies to Company’s collection, use and disclosure of Personal Information (defined below) from Registered Users of the Site, as well as from persons who merely visit the Site.  Company has adopted and implemented this privacy policy as part of our commitment to protecting your personal information from misuse.
 
-This statement includes: 
+By submitting Personal Information through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
 
-  * our _collection statement_ , explaining aspects of our collection and use of personal information 
+Your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
-  * our _privacy policy_ , further explaining how we manage personal information. 
+## What Information Do We Collect?
 
+“Personal Information” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data.  “Non-Personal Information” means data that is not associated with or linked to your Personal Information; Non-Personal Information does not, by itself, permit the identification of individual persons.  We collect Personal Information and Non-Personal Information, as described below.
 
-  
-|  |   
-|  | 
+Company collects Personal Information as required to offer Services, as listed in the Terms and Conditions, as voluntarily provided by you in the course of correspondence or registration, and as otherwise identified below.  In addition, we collect certain information which cannot be used to personally identify any user, such as anonymous, aggregate or statistical data.
 
-**COLLECTION STATEMENT**  
-  
-|  |   
-  
-**Who we are**
+In order to use some Services, you may be required to complete the applicable registration form accessible on the Site.  All persons who register are referred to as “Registered Users.”  Some Services may not require registration.  Company collects and maintains a record of all data provided through such registration forms, e.g. your name, e-mail, mailing addresses, and password and information about your child, e.g., your child’s name, birthday, interests, and gender. For example, individual users who desire to order a Product (as defined in the Terms and Conditions) must provide certain contact information, shipping information, billing information, and financial information (e.g., a credit card number and expiration date) (which will be collected by us or our third party payment processing service providers).
 
-|  | 
+For some Services, each Registered User may be provided a unique username and password that enable access to the Service. We may track the use of those usernames and passwords in order to collect and maintain records of individual transactions conducted through the Services by Registered Users, and those records may be associated with each Registered User’s individual account profile within the Company system.
 
-Dark Blue Sea Pty Ltd ABN 47 091 509 796 
+We also collect other types of Personal Information that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support.
 
-Fabulous.com Pty Ltd ABN 64 094 218 443 
+We also collect and maintain records of information that you voluntarily provide to us.  For example, we may ask you to participate in a survey, and may ask you to provide Personal Information, such as age, gender or other demographic data.  If you enter into a contest or promotion on our Site, we will collect the information your provide to participate in the contest or promotion.  If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.  When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.  However, unless such information is necessary for the Service or required by the Terms and Conditions, we do not require you to provide such information to us.
 
-Fabulous Parking Pty Ltd ABN 16 094 225 091 
+We collect additional information through the Site and the Service that is not associated with any online account or registration information, and that cannot be used to personally identify you.  Non-Personal Information ordinarily includes aggregate, summary, or other anonymous data, and may include, by way of example, statistics regarding popularity of particular pages within the Site, or information regarding types of Internet browsers used by Registered Users.
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994 
+ “Cookies” are small files placed on a user’s computer by a Web site in order to facilitate use of that Web site.  For example, a cookie may contain information about a user’s preferences, so that the Web site automatically complies with those preferences whenever the user visits that Web site.   When using the Service, we may create “cookies” on your computer for purposes of facilitating and maintaining your current user session, and may collect Personal Information using those cookies in order to enable Company to identify you in connection with the Service and to track use of the Service for purposes consistent with this policy. To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
 
-Roar.com Pty Ltd ABN 99 094 225 064 
+The Site is not directed to children and children are not eligible to use our Services.  Protecting the privacy of children is very important to us.  We do not collect or maintain Personal Information from people we actually know are under 18, and no part of our Site or Service is designed to attract people under 18.  If we later learn that a user is under 18, we will take steps to remove that user's Personal Information from our databases and to prevent the user from utilizing the Site and the Service.
 
-Pageseeker.com Pty Ltd ABN 45 090 513 849 
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party.  You or the third party may contact us at <https://www.kiwico.com/contact-us/> to request the removal of this information from our database.
 
-Darkblue.com Pty Ltd ABN 14 094 225 082 
+## Use and Disclosure of Collected Information
 
-Yexa.com Pty Ltd ABN 12 094 225 073 
+Company uses information collected from the Site and Service in several ways, as outlined in this policy.  For example, we use Personal Information as needed to provide Site and Services, to create Accounts, and to communicate with Registered Users.  We also use both Personal Information and Non-Personal Information when evaluating ways to improve the Site and the Service.  As further described below, in limited circumstances we may disclose collected information, including Personal Information, to certain third parties in connection with providing Services or as required by law.  We will not use or disclose collected information in ways different from what is described in this policy unless otherwise required by law.
 
-Drop.com.au Pty Ltd ABN 79 135 424 878 
+We also use information collected through the Site and the Service to communicate with Registered Users from whom such information was collected in order to provide promotional materials about us.  However, unlike communications which are necessary to provide Services (“Necessary Communications”), promotional communications are optional (“Optional Communications”), and Company will refrain from sending that kind of information to you if you inform us that you prefer not to receive them, as described in more detail below.
 
-Yexa.com.au Pty Ltd ABN 84 137 606 172 
+Company uses Non-Personal Information in a variety of ways, including, by way of example, to evaluate the performance of the Site and Service and the general preferences of users, or to generate anonymous statistics for our benefit or for our business partners.  Because Non-Personal Information is entirely anonymous, and therefore can never be used by us to identify you, this policy does not limit our ability to use or disclose Non-Personal Information. We may create Non-Personal Information records from Personal Information by excluding information (such as your name) that make the data personally identifiable to you.
 
-Whois Privacy Services Pty Ltd ABN 65 133 058 741 
+If we collect information through the Site and/or the Service that you provide to us voluntarily through online forms or surveys, through e-mail communications or by other means, we will treat that information as described above, as applied to both Personal Information and Non-Personal Information. 
 
-('the DBS Group', 'we' or 'our')   
-  
-|  |   
-  
-**Our contact details**
+As a necessary part of providing Services, we may disclose information collected from you as described in this policy.  For example, we may disclose certain Personal Information about you to our third-party service providers (e.g., our third party payment processors), so long as they are only using the Personal Information to provide services to us. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by it and us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. Under certain limited circumstances, we may cooperate with legal investigations and/or we may be subject to legal requirements to disclose information collected through the Site or Services, such as, by way of example, to a court or a governmental agency, and our policy is to provide such cooperation and comply fully with all such legal requirements.  We may also disclose Personal Information to protect or defend the rights or property of Company or users of the Services and/or to investigate any violation or potential violation of the law, this Privacy Policy, or Terms and Conditions.  The disclosures contemplated by this paragraph (“Necessary Disclosures”) are necessary if you wish to use the Service.  As mentioned above, Company may use and disclose Non-Personal Information without restriction.  If you do not want us to make such Necessary Disclosures, or to use Non-Personal Information without restriction, you must not use the Service.
 
-|  | 
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to www.networkadvertising.org/managing/opt_out.asp.
 
-  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+If you enter and win a contest or other promotion, you expressly consent to (a) Company providing your Personal Information (e.g., your name and address) to the third party providing the prize for the contest or other promotion, solely to provide you such prize and (b) Company publicly disclosing your name and the fact that you won the contest or promotion.  If we will be disclosing additional Personal Information in connection with a contest or other promotion, we will disclose that to you in a separate notice prior to your entering the contest or other promotion.  By entering such contest or other promotion, you expressly consent to such disclosures.
 
+Because we respect your privacy, we may from time to time provide certain opportunities for you to indicate your preferences regarding how we use and/or disclose information collected about you from the Site and the Service.  If you are an Registered User, by indicating your preferences in the online profile your create, which includes your registration information and other information voluntarily provided by you (your “Registration Profile”), you will be able to inform us whether you wish to receive certain Optional Communications from us. 
 
-  
-|  |   
-  
-**Collection from third party sources**
+We do not maintain responsibility for the manner in which third parties use or further disclose Personal Information collected from you through the Site or Services, after we have disclosed that information to those third parties.  However, we do require our third-party service providers to promise not to use such information except as necessary to provide the relevant services to us.  If you do not want Company to use or disclose Personal Information collected about you in the manners identified in this policy as Necessary Communications and/or Necessary Disclosures, you may not use the Site or any Service.
 
-|  | 
+The Site contains links to other Web sites.  Please be aware that we are not responsible for the privacy practices or the content of such other Web sites. We encourage our users to read the privacy statements of each and every Web site they visit.  This privacy statement applies solely to information collected by us through the Site.
 
-We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
+## Access To Personal Information Collected From You
 
-  * publicly available sources like phone books 
+Registered Users may access their Registration Profiles at any time to update Personal Information contained within that Registration Profile.  Subsequent uses or disclosures of information by us will reflect those changes, but we have no ability to update any information previously disclosed to any third party. 
 
-  * other companies in our group that you may have dealt with 
+You may request deletion of your Personal Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete any information, it will be deleted from the active database, but may remain in our archives.
 
-  * third parties like our business partners, your authorised representative/s 
+The Site has security measures in place to protect against the loss, misuse and unauthorized alteration of Personal Information in Company's possession and control.  For example, whenever the Service requests that Registered Users provide sensitive information, that information is encrypted with industry standard encryption techniques.  When you are viewing a secure page within the Site, such as our checkout form, an icon of a padlock will appear as “locked” at the bottom of web browsers such as Microsoft Internet Explorer, but the same icon will appear as "un-locked" when the user is merely “surfing.” We currently use an encryption program known as “SSL,” or “Secure Sockets Layer.”  To learn more about SSL, go to <https://www.ssl.com/>. Credit card authorization requests are sent using the same encryption technology.
 
-  * information brokers 
+Furthermore, access to Personal Information is physically restricted within our own offices, so that only certain of our employees are granted access to information as appropriate to perform specific jobs and tasks (e.g., performing customer service).
 
-  * fraud checking agencies 
+Please be aware that, although we endeavor to provide security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of Personal Information or Non-Personal Information arising in connection with the theft thereof.  Likewise, Registered Users are responsible for safeguarding the confidentiality of passwords to any Services, and we bear no liability for access to, or use or disclosure of, Personal Information, if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of a password.
 
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
+If you have any questions about our security measures, you can [click here to contact us](https://www.kiwico.com/contact-us/).
 
-  * our websites and how you use them (through the use of cookies) 
+## Changes to This Policy
 
-  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
+If we change our privacy policy, we will post those changes on the Site so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it. Any changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Your continued access to and/or use of the Site or Service following notice of such changes constitutes your assent to, and acceptance of, this policy, including all posted changes for which we have provided notice as described herein.
 
+## Contacting Company
 
-  
-|  |   
-  
-**Collection under law**
-
-|  | 
-
-We may be required to collect personal information in order to comply with the law.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-
-
-The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
-  
-|  |   
-  
-**Unavailability of personal information**
-
-|  | 
-
-If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Access and correction**
-
-|  | 
-
-Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
-  
-|  |   
-|  | 
-
-**PRIVACY POLICY**  
-  
-|  |   
-  
-**Personal information**
-
-|  | 
-
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
-  
-|  |   
-  
-**Kinds of personal information we collect and hold**
-
-|  | 
-
-Broadly, we may collect and hold: 
-
-  * _personal details_ like name, date of birth, gender, and occupation 
-
-  * _contact details_ like physical, postal, work and email addresses and phone numbers 
-
-  * _financial details_ like credit card numbers and your billing and payment history with us 
-
-  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
-
-  * _other details_ relating to special situations. 
-
-
-
-
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Collecting personal information**
-
-|  | 
-
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
-
-In other cases, we may collect personal information about you from: 
-
-  * publicly available sources like phone books 
-
-  * other companies in our group that you may have dealt with 
-
-  * third parties like our business partners, your authorised representative/s 
-
-  * information brokers 
-
-  * fraud checking agencies 
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
-
-  * our websites and how you use them (through the use of cookies) 
-
-  * various parties listed under _Disclosing personal information_ below. 
-
-
-  
-|  |   
-  
-**Holding personal information**
-
-|  | 
-
-We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-  
-|  |   
-  
-**Using personal information**
-
-|  | 
-
-We may use personal information: 
-
-  * to identify you 
-
-  * for credit checks 
-
-  * to prevent fraud 
-
-  * to supply products (including goods and/or services) to you 
-
-  * to give you information about us and our products, and product offers 
-
-  * for direct marketing – see _Direct marketing_ for details 
-
-  * to improve our products, our marketing and our website 
-
-  * to answer your enquiries 
-
-  * to give you customer support and service 
-
-  * to better understand your needs and respond to them 
-
-  * to manage and plan our products and business 
-
-  * to charge and bill you for products you use 
-
-  * to collect payment from you or make payment to you 
-
-  * to monitor, manage, test and improve our network and facilities 
-
-  * to comply with various laws or contractual obligations that apply to us 
-
-  * for other purposes related to the operation of our business. 
-
-
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required: 
-
-  * to contractors and suppliers who supply or support us in: 
-
-    * market research, sales and marketing 
-
-    * direct marketing – see _Direct marketing_ for details 
-
-    * identity and fraud checking 
-
-    * credit management 
-
-    * service provisioning 
-
-    * installation, maintenance and repairs 
-
-    * helpdesk and enquiries 
-
-    * support and complaint management 
-
-    * communications and mailing 
-
-    * billing, debt recovery and credit management 
-
-    * network and product design and maintenance 
-
-    * corporate strategy 
-
-    * legal and regulatory advice and compliance 
-
-    * accounting and financial planning 
-
-    * risk management 
-
-    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
-
-  * to your authorised representative/s 
-
-  * to identify you as a registrant of a domain name in publicly available Whois record 
-
-  * if you ask us to do so 
-
-  * to our agents, resellers, affiliates and members of our corporate group 
-
-  * to our business partners and wholesale suppliers 
-
-  * to organisations that provide credit or finance to us 
-
-  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
-
-
-
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Direct marketing**
-
-|  | 
-
-We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
-
-  * post 
-
-  * email 
-
-  * electronic messaging 
-
-  * social media 
-
-  * targeted web content 
-
-  * other direct marketing channels. 
-
-
-
-
-Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
-  
-|  |   
-  
-**Accessing and correcting personal information**
-
-|  | 
-
-Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
-
-  * acknowledge your complaint within a reasonable time 
-
-  * give you an estimated first response time 
-
-  * allocate your complaint to a suitably senior staff member 
-
-  * process and respond to your complaint as soon as we reasonably can. 
-
-
-  
-|  |   
-  
-**Contacting us**
-
-|  | 
-
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 3, 1 Buckingham St, Surry Hills, NSW 2010. 
+If you have any questions about this privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2b1a7a1a6bdbfb7a0b1b3a0b792b9bba5bbb1bdfcb1bdbf). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 170 State St. Suite 1B, Los Altos, CA 94022, or [click here to contact us](https://www.kiwico.com/contact-us/) or send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b382e282f34363e29383a293e1b30322c32383475383436).
