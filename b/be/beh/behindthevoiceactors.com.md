@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619182957id_/http%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthevoiceactors.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519042055id_/https%3A//www.behindthevoiceactors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Behind The Voice Actors
+# Privacy Policy | Behind The Voice Actors
 
 **EFFECTIVE DATE** : October 28, 2013 
 
-Your privacy is important to us. If you have any questions about this Policy, contact us at <http://www.behindthevoiceactors.com/contact/> or email us at team [@] behindthevoiceactors.com. 
+Your privacy is important to us. If you have any questions about this Policy, contact us at <https://www.behindthevoiceactors.com/contact/> or email us at team [@] behindthevoiceactors.com. 
 
 **1\. What's Covered Under this Privacy Policy:**
 
@@ -54,6 +54,17 @@ We retain information for as long as required, allowed or we believe it useful, 
 2.11 Advertising  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
 
+2.12 Advertising Privacy Statement  
+This Site is affiliated with AdThrive, LLC (â€œAdThriveâ€) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies. 
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. 
+
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. 
+
+For European Economic Area Residents 
+
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can [contact us here](https://www.behindthevoiceactors.com/contact/) and contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.) 
+
 **3\. Links to Other Sites**
 
 3.1 BTVA's site may contain links to other sites whose information practices may be different from ours. We do not have control over the information that is submitted to, or collected by, these third parties. You should consult the privacy policy of these other sites to learn how your privacy is protected. 
@@ -98,7 +109,7 @@ BTVA's site is not intended for use by children, especially those under 14. No o
 4.6 Editing and Deleting Your Account Information 
 
 (i) You can edit your account information at any time.  
-(ii) You can delete your account by contacting us at <http://www.behindthevoiceactors.com/contact/> or contacting any Administrator listed [here](http://www.behindthevoiceactors.com/forums/faq.php?faq=vb3_board_faq#faq_adminsandmods). 
+(ii) You can delete your account by contacting us at <https://www.behindthevoiceactors.com/contact/> or contacting any Administrator listed [here](https://www.behindthevoiceactors.com/forums/faq.php?faq=vb3_board_faq#faq_adminsandmods). 
 
 4.7 Changes to Policy 
 
@@ -114,7 +125,7 @@ If you have any question or concerns about this policy, please feel free to cont
 
 Your continued access to or use of our site shall be deemed your acceptance of the Privacy Policy.
 
-Please visit our [Terms of Use](http://www.behindthevoiceactors.com/terms-of-use/) page for more information concerning your use of BTVA's website and other services. The Terms of Use are incorporated by reference into this Privacy Policy.
+Please visit our [Terms of Use](https://www.behindthevoiceactors.com/terms-of-use/) page for more information concerning your use of BTVA's website and other services. The Terms of Use are incorporated by reference into this Privacy Policy.
 
 We recommend you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
 
