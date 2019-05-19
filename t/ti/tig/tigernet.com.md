@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104181148id_/https%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519211332id_/https%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
 # Disclaimer | TigerNet
 
 ### DISCLAIMER
 
-TigerNet.com is dedicated to providing information about Clemson University. It is in NO WAY endorsed by Clemson University, the Athletic Department, nor any other Clemson University department. The opinions and information expressed throughout this page are purely those of the authors and intended for entertainment purposes only. While this page provide links to other sites, the information located at those sites is neither maintained by nor endorsed by the authors of this page. 
+TigerNet.com is dedicated to providing information about Clemson Tigers. It is in NO WAY endorsed by Clemson Tigers. The opinions and information expressed throughout this page are purely those of the authors and intended for entertainment purposes only. While this page provide links to other sites, the information located at those sites is neither maintained by nor endorsed by the authors of this page. 
 
 ### PRIVACY STATEMENT
 
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/tigernet.com).  
 TigerNet believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We recognize the confidentiality of information that may be disclosed by members in registering and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Does TigerNet ask for personal information?**  
