@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbout.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215192441id_/https%3A//www.techbout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbout.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519095233id_/https%3A//www.techbout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Techbout
 
@@ -72,4 +72,4 @@ Hence, you are requested to refer to privacy policies of these external websites
 
 We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version.
 
-If you have any questions about this privacy policy or your personal data, please write to us by email to contact@techbout.com.
+If you have any questions about this privacy policy or your personal data, please email to techbout@hotmail.com.
