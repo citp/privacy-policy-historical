@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117182828id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519142415id_/http%3A//wsdot.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Notice | WSDOT
 
@@ -91,7 +91,7 @@ This Agency has taken steps to safeguard the integrity of its data and prevent u
 
 #### Section H. Copyright
 
-This site contains text, artwork, photos or other content that is copyrighted by others and is being used with permission of the copyright holder. Therefore, we recommend that you contact our [Webmaster ](mailto:communications@watech.wa.gov)for permission to use any content contained on this site.
+This site contains text, artwork, photos or other content that is copyrighted by others and is being used with permission of the copyright holder. Therefore, we recommend that you [contact us for permission](mailto:webfeedback@wsdot.wa.gov?subject=Privacy%20Policy%20-%20Section%20H.%20Copyright%20-%20Inquiry) to use any content contained on this site.
 
 ####   
      
