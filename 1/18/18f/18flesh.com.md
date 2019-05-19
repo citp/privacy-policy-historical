@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18flesh.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113211957id_/http%3A//www.18flesh.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18flesh.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519143152id_/http%3A//www.18flesh.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
