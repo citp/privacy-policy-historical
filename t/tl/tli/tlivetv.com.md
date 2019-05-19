@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlivetv.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101181209id_/http%3A//www.tlivetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlivetv.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519144538id_/http%3A//www.tlivetv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Telugu News, tollywood news, tv9 telugu live
 
