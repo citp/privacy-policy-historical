@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearbitragemagician.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118002112id_/http%3A//thearbitragemagician.com/members/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearbitragemagician.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519032716id_/http%3A//thearbitragemagician.com/members/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
