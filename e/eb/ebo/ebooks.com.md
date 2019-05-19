@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227203454id_/https%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519211434id_/https%3A//www.ebooks.com/information/privacy) for the most accurate reproduction.*
 
 # eBooks.com: Privacy Policy
 
 ### Last Updated: May 25, 2018
 
-[](https://privacy.truste.com/privacy-seal/Ebooks-com-Pty-Limited/validation?rid=d4c0906c-5618-4e62-9f3c-8a4fcb313dff "TRUSTe online privacy certification")
+This privacy policy applies to [www.ebooks.com](https://web.archive.org/en-bh/) owned and operated by Ebooks.com Pty Limited. This privacy policy describes how Ebooks.com Pty Limited collects and uses the personally identifiable information you provide on our web site: www.ebooks.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-This privacy policy applies to [www.ebooks.com](https://web.archive.org/) owned and operated by Ebooks.com Pty Limited. This privacy policy describes how Ebooks.com Pty Limited collects and uses the personally identifiable information you provide on our web site: www.ebooks.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
-
-eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
+eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/en-bh/information/terms/) which govern this Website.
 
 #### Collection of personally identifiable information
 
@@ -62,7 +58,7 @@ We use cookies to improve the functionality of it's site and to support all brow
 
 We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 #### Analytics/Log files
 
@@ -92,7 +88,7 @@ eBooks.com takes your privacy and the privacy of all its customers very seriousl
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact privacy@ebooks.com. We will respond to your request to access 30 days. 
 
-You may request that we provide you with a copy of the personally identifiable information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](https://web.archive.org/account/ticket.asp) and providing the requested details. 
+You may request that we provide you with a copy of the personally identifiable information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](https://web.archive.org/en-bh/home/support/) and providing the requested details. 
 
 #### E-commerce Policy
 
@@ -111,7 +107,7 @@ CB4 0WE
 United Kingdon  
 
 
-By default, credit card details are encrypted and stored for use with future purchases. Internally, eBooks.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personally identifiable information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you would like your details removed, please submit a request through our [support form](https://web.archive.org/account/ticket.asp). 
+By default, credit card details are encrypted and stored for use with future purchases. Internally, eBooks.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personally identifiable information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you would like your details removed, please submit a request through our [support form](https://web.archive.org/en-bh/home/support/). 
 
 #### Tell-a-Friend
 
@@ -378,7 +374,7 @@ We are obliged under our supply agreements with book publishers to take note of 
 
 We are obliged under our supply agreements with book publishers to impose limits on the frequency with which users download a given ebook. Tracking the date and time of your ebook downloads enables us to comply with these obligations.  
   
-**Each time you access an ebook using our**[ **online reader**](http://about.ebooks.com/ebooks-coms-online-ebook-reader-app/) **app. (That’s a web browser-based reading application. This is different from when you download a whole ebook to your computer or device.)**
+**Each time you access an ebook using our**[ **online reader**](https://about.ebooks.com/ebooks-coms-online-ebook-reader-app/) **app. (That’s a web browser-based reading application. This is different from when you download a whole ebook to your computer or device.)**
 
 The information below is collected in addition to the information we collect whenever you access our Website:
 
