@@ -1,384 +1,681 @@
-<!--The following is the downloaded HTML source of the atavist.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625023626id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atavist.com privacy policy that was archived on 2019-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190519034205id_/https%3A//atavist.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-		<title>Atavist: Privacy Policy</title>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta property="og:type" content="website">
-		<meta property="og:url" content="https://atavist.com">
-		<meta property="og:title" content="Atavist">
-		<meta property="og:site_name" content="Atavist">
-		<meta name="description" content="Make a story, design it your way, share it. Sign up for free.">
-		<meta property="og:description" content="Make a story, design it your way, share it. Sign up for free.">
-		<meta property="og:image" content="https://dilhmgn2fk8rc.cloudfront.net/v2_homesite/meta/atavist-meta-image.jpg">
-		<meta property="og:image:type" content="image/png">
-		<meta property="og:image:width" content="1024">
-		<meta property="og:image:height" content="600">
-		<meta property="fb:pages" content="160447940666078">
+<!DOCTYPE html><html dir="ltr" lang="en"><head>
+	<title>Privacy&nbsp;Policy —  Automattic</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Making the web a better place">
+	<meta name="robots" content="noodp">
+	<link rel="pingback" href="https://automattic.com/xmlrpc.php">
+	<meta name="google-site-verification" content="LsUOC70Kd1OVRa84YXSdDMeWfa_tu9k9Cyi9HUFlR60">
+	<link rel="start" href="https://automattic.com/" title="Automattic">
+	<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+	<link rel="stylesheet" href="https://use.typekit.net/fti4bum.css">
+	<script type="text/javascript">
+		(function(doc) {
+			var addEvent = 'addEventListener',
+			    type = 'gesturestart',
+			    qsa = 'querySelectorAll',
+			    scales = [1, 1],
+			    meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
+			function fix() {
+				meta.content = 'width=device-width,minimum-scale=' + scales[0] + ',maximum-scale=' + scales[1];
+				doc.removeEventListener(type, fix, true);
+			}
+			if ((meta = meta[meta.length - 1]) && addEvent in doc) {
+				fix();
+				scales = [.25, 1.6];
+				doc[addEvent](type, fix, true);
+			}
+		}(document));
+		</script>
+	<meta name="google-site-verification" content="XECAgs1qhOf9tfH5snpZFPxF4nDR6Jmy58IraJfFVo0">
 
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
-			/*!
-			loadCSS: load a CSS file asynchronously.
-			[c]2015 @scottjehl, Filament Group, Inc.
-			Licensed MIT
-			*/
-			(function(w){
-				"use strict";
-				/* exported loadCSS */
-				w.loadCSS = function( href, before, media ){
-					// Arguments explained:
-					// `href` [REQUIRED] is the URL for your CSS file.
-					// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
-						// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
-					// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
-					var doc = w.document;
-					var ss = doc.createElement( "link" );
-					var ref;
-					if( before ){
-						ref = before;
-					}
-					else {
-						var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
-						ref = refs[ refs.length - 1];
-					}
-			
-					var sheets = doc.styleSheets;
-					ss.rel = "stylesheet";
-					ss.href = href;
-					// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
-					ss.media = "only x";
-			
-					// Inject link
-						// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
-						// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
-					ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
-					// A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
-					var onloadcssdefined = function( cb ){
-						var resolvedHref = ss.href;
-						var i = sheets.length;
-						while( i-- ){
-							if( sheets[ i ].href === resolvedHref ){
-								return cb();
-							}
-						}
-						setTimeout(function() {
-							onloadcssdefined( cb );
-						});
-					};
-			
-					// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
-					ss.onloadcssdefined = onloadcssdefined;
-					onloadcssdefined(function() {
-						ss.media = media || "all";
-					});
-					return ss;
-				};
-			}(this));			loadCSS('/static/css/bootstrap/dist/css/homesite.min.css');
-		</script><link rel="stylesheet" href="/static/css/bootstrap/dist/css/homesite.min.css" media="all">
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
 
-		<style>
-.sr-only,svg:not(:root){overflow:hidden}.nav:after,.navbar:after{clear:both}#hs-nav-fixed,.btn{background-image:none}.btn,.hs-hero h1{text-align:center}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Thin-Web.svg#AtlasGrotesk-Thin) format('svg');font-weight:100;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-ThinItalic-Web.svg#AtlasGrotesk-ThinItalic) format('svg');font-weight:100;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Light-Web.svg#AtlasGrotesk-Light) format('svg');font-weight:300;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-LightItalic-Web.svg#AtlasGrotesk-LightItalic) format('svg');font-weight:300;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Regular-Web.svg#AtlasGrotesk-Regular) format('svg');font-weight:400;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-RegularItalic-Web.svg#AtlasGrotesk-RegularItalic) format('svg');font-weight:400;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Medium-Web.svg#AtlasGrotesk-Medium) format('svg');font-weight:500;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-MediumItalic-Web.svg#AtlasGrotesk-MediumItalic) format('svg');font-weight:500;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Bold-Web.svg#AtlasGrotesk-Bold) format('svg');font-weight:700;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BoldItalic-Web.svg#AtlasGrotesk-BoldItalic) format('svg');font-weight:700;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-Black-Web.svg#AtlasGrotesk-Black) format('svg');font-weight:900;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Grotesk Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasGrotesk-BlackItalic-Web.svg#AtlasGrotesk-BlackItalic) format('svg');font-weight:900;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Thin-Web.svg#AtlasTypewriter-Thin) format('svg');font-weight:100;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-ThinItalic-Web.svg#AtlasTypewriter-ThinItalic) format('svg');font-weight:100;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Light-Web.svg#AtlasTypewriter-Light) format('svg');font-weight:300;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-LightItalic-Web.svg#AtlasTypewriter-LightItalic) format('svg');font-weight:300;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Regular-Web.svg#AtlasTypewriter-Regular) format('svg');font-weight:400;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-RegularItalic-Web.svg#AtlasTypewriter-RegularItalic) format('svg');font-weight:400;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Medium-Web.svg#AtlasTypewriter-Medium) format('svg');font-weight:500;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-MediumItalic-Web.svg#AtlasTypewriter-MediumItalic) format('svg');font-weight:500;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Bold-Web.svg#AtlasTypewriter-Bold) format('svg');font-weight:700;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BoldItalic-Web.svg#AtlasTypewriter-BoldItalic) format('svg');font-weight:700;font-style:italic;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-Black-Web.svg#AtlasTypewriter-Black) format('svg');font-weight:900;font-style:normal;font-stretch:normal}@font-face{font-family:'Atlas Typewriter Web';src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.eot);src:url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.eot?#iefix) format('embedded-opentype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.woff) format('woff'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.ttf) format('truetype'),url(https://dilhmgn2fk8rc.cloudfront.net/fonts/atlas/AtlasTypewriter-BlackItalic-Web.svg#AtlasTypewriter-BlackItalic) format('svg');font-weight:900;font-style:italic;font-stretch:normal}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;position:relative;min-height:100%;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-size:16px}nav,section{display:block}a{background:0 0;color:#4a90e2;text-decoration:none}b{font-weight:700}h1{margin:.67em 0}*,:after,:before{box-sizing:border-box}body{margin:0 0 140px;font-family:Atlas Grotesk Web,Helvetica,Helvetica Neue,Arial,sans-serif;font-weight:400;line-height:1.42857143;color:#333;background-color:#fff}.btn,h1,h3{font-family:Atlas Grotesk Web}@media only screen and (min-width:320px) and (max-width:480px){body{margin-bottom:20px}}.sr-only{border:0;height:1px;position:absolute;width:1px;margin:-1px;padding:0;clip:rect(0,0,0,0)}h1,h3{font-weight:700;line-height:1.1;color:inherit;margin-top:30px;margin-bottom:20px}.btn,.btn-link{font-weight:400}h1{font-size:28px;color:#585858}h3{font-size:16px;color:#595959;line-height:21px}p{margin:0 0 10px}ul{margin-top:0;margin-bottom:10px}.btn,.nav{margin-bottom:0}.list-unstyled{padding-left:0;list-style:none}.btn{display:inline-block;vertical-align:middle;border:2px solid transparent;white-space:nowrap;font-size:14px;line-height:1.42857143;border-radius:0;padding:5px 14px 3px}.btn-link,.btn-upgrade{border-color:transparent}.btn-upgrade{color:#fff;background-color:#4a90e2}.btn-link,.navbar-default{background-color:transparent}.btn-link{color:#4a90e2;border-radius:0;box-shadow:none}.hs-hero h1,.hs-nav-main{font-family:Atlas Typewriter Web,Menlo,Monaco,Consolas,Courier New,monospace;font-weight:200}.btn-lg{padding:10px 16px;font-size:18px;line-height:1.33;border-radius:0}.nav{padding-left:0;list-style:none}.nav:after,.nav:before{content:" ";display:table}.nav>li,.nav>li>a{position:relative;display:block}.nav>li>a{margin:0 5px}.nav>li>a.btn{display:inline-block}.navbar{position:relative;min-height:50px;border:1px solid transparent}.navbar:after,.navbar:before{content:" ";display:table}#hs-nav-fixed .show-in-downscroll,.hs-menu-other .secondary-nav-links{display:none}.navbar-brand{float:left;padding:15px;font-size:18px;line-height:20px;height:50px}.navbar-nav,.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:10px;padding-bottom:10px;line-height:20px}@media (min-width:768px){.navbar{border-radius:0}.navbar-nav{float:left;margin:0}.navbar-nav>li{float:left}.navbar-nav>li>a{padding-top:15px;padding-bottom:15px}.navbar-nav>li>.btn{padding-top:8px;padding-bottom:8px;margin-top:8px;margin-bottom:8px}}.navbar-default{border-color:transparent}.navbar-default .navbar-brand{color:#777}body{font-size:16px}.hs{margin-bottom:450px}@media (max-width:992px){.hs{margin-bottom:0}}@media (max-width:480px){.hs-generic h3,.hs-generic p{text-align:center}}.hs-generic p a,.hs-nav-links a{color:#ef7357;border-bottom:1px solid #ef7357;text-decoration:none}section.bg-gray{background-color:#f6f6f9}.hs-nav-pages.navbar-nav a{color:#9a9a9a;font-size:16px;margin:0 5px 0 0;line-height:19px}.hs-nav-pages>li>a.btn{padding-top:9px;margin-top:5px}#atavist-logo-link{padding:0}#hs-nav-fixed>*,#hs-nav>*{height:50px}#hs-nav,#hs-nav-fixed{position:absolute;top:0;left:0;width:100%;padding:10px 10px 0}#hs-nav-fixed{position:fixed;left:auto;right:0;padding-top:9px;width:auto;z-index:5000}.hs-unfixed ul{margin-right:60px}@media (max-width:768px){.hs-unfixed ul{display:none}}.hs-nav-pages a{color:#585858;padding:15px;line-height:25px}.hs-nav-pages a.btn{color:#fff}.hs-nav-menu-trigger,.hs-nav-pages{float:right}.hs-menu-icon{height:50px;width:50px;margin-left:6px;margin-right:8px}.hs-menu-line{stroke:#9a9a9a}.hs-menu-other{position:fixed;right:0;top:0;height:100%;width:460px;background-color:#fff;padding:2em;color:#585858;z-index:5001;border-left:1px solid #f2f2f2;-webkit-transform:translateX(100%);transform:translateX(100%)}.hs-menu-other .btn-link{color:#8b8b8b;padding-left:0}.hs-menu-other .btn-upgrade{margin-right:16px}.hs-menu-other .hs-nav-links{margin-top:1em}.hs-menu-other .hs-nav-links>ul{border-bottom:1px solid rgba(88,88,88,.2);padding-bottom:1em;margin-bottom:.5em}.hs-menu-other .hs-nav-links>ul:last-of-type,.hs-nav-links a#mag-logo{border-bottom:0}@media (max-width:460px){.hs-menu-other{width:100%}}.hs-nav-main{font-size:28px}.hs-closer{position:absolute;z-index:1;top:1.675rem;right:1.675rem;width:2rem;height:2rem;opacity:.7}.hs-closer:after,.hs-closer:before{content:'';position:absolute;width:100%;height:.15em;background-color:#000;top:calc(50% - .075em);left:0}.hs-closer:before{-webkit-transform:rotate(45deg);transform:rotate(45deg)}.hs-closer:after{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}#mag-logo{margin-top:2em;display:block;width:200px}.hs-hero{padding:40px 0}.hs-hero h1{max-width:1200px;display:block;color:#585858;font-size:50.4px;line-height:1.25;padding:0 1em;margin:18px auto}@media screen and (min-width:768px){.hs-hero{padding-top:4em;padding-bottom:4em}}@media (max-width:768px){.hs-hero h1{margin-top:36px;font-size:30.8px;padding:0 .1em;font-weight:300}}.hs-generic{padding:4em}.hs-generic h3,.hs-generic p{max-width:780px;margin-left:auto;margin-right:auto}.hs-generic p{margin-top:0;margin-bottom:2em}@media (max-width:992px){.hs-generic p{width:100%}}.hs-generic .margin-top-60{margin-top:60px}@media (max-width:768px){.hs-generic{padding:1em}}
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9hdXRvbWF0dGljLmNvbQ%3D%3D"
+		+ "&wpcomid=54117"
+		+ "&time=1558229685";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//automattic.wordpress.com">
+<link rel="dns-prefetch" href="//s0.wordpress.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1556893897h&ver=5.2.1-alpha-45354"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s0.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1556893897h&amp;ver=5.2.1-alpha-45354" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
 </style>
-		<noscript>
-			<link rel="stylesheet" type="text/css" href="/static/css/bootstrap/dist/css/homesite.min.css">
-		</noscript>		
+	<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJx9UO1OwzAMfCGyrGNj/EE8i5Oa1Fu+lDgqe3vcFjYhRP5Ed85dLj5NOiYmm2K9g52t9UnPWQlhjKxDU9k3R6LxdMWqL8gZ7FWt7C6naH0b5VoGeqTK2vi0qkyBctOVbx53gWIvwKaCMg8ZeFEEHAnQYxBZzzbT6JC36A0rxs+uJeSXn6AFTrJQd/U5i1oZkwvWquQM1ILiSf7217eNNbxaDY1TAJZu1WE/DN81dIIcJiXFAVOKv4j68EClZy0olTuBbm3iQXsmsMvjBsoD/bfPdNTOJwN+EbyHt+F0Oh+Ow/l5f/kCpjTaMg==?cssminify=yes" type="text/css" media="all">
+<script type="text/javascript" src="https://s0.wp.com/_static/??-eJyFj9EOgjAMRX/IMRGIvhi/pcyCnWzDtZPo1zsTMTESTZr0oae9p3oaFXkzpCOytrkuCePt1QrLK/0LUI76CIKFIz/DJnhBL092DCwOmaHHhakLLQ2oEmPMgJcc04UF7lOJ/JVw+otZlBHMWUVkun+lywmzl4ad0ZAkOBAhozbrstTvXwXabBe6eYnzkYPbl01Tb6pqW9f2AdHAdNo="></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://automattic.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress.com">
+<link rel="shortlink" href="https://wp.me/Pe4R-d">
+	<style>
+		@font-face {
+			font-family: Recoleta;
+			src: url('https://s1.wp.com/i/fonts/recoleta/400.woff2')
+		}
+	</style>
+	<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fautomattic.com%2Fprivacy%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fautomattic.com%2Fprivacy%2F&amp;for=wpcom-auto-discovery">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy&nbsp;Policy">
+<meta property="og:url" content="https://automattic.com/privacy/">
+<meta property="og:description" content="Your privacy is critically important to us. At Automattic, we have a few fundamental principles: We are thoughtful about the personal information we ask you to provide and the personal information …">
+<meta property="article:published_time" content="2006-03-24T20:26:35+00:00">
+<meta property="article:modified_time" content="2019-04-01T16:02:15+00:00">
+<meta property="og:site_name" content="Automattic">
+<meta property="og:image" content="https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=200&amp;ts=1558229685">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:creator" content="@automattic">
+<meta name="twitter:site" content="@automattic">
+<meta name="twitter:text:title" content="Privacy&nbsp;Policy">
+<meta name="twitter:image" content="https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=240">
+<meta name="twitter:card" content="summary">
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom">
+<meta name="twitter:app:name:iphone" content="WordPress">
+<meta name="twitter:app:id:iphone" content="335703880">
+<meta name="twitter:app:name:ipad" content="WordPress">
+<meta name="twitter:app:id:ipad" content="335703880">
+<meta name="twitter:app:name:googleplay" content="WordPress">
+<meta name="twitter:app:id:googleplay" content="org.wordpress.android">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<link rel="shortcut icon" href="/favicon.ico">
-		<!-- start Mixpanel --><script type="text/javascript">(function(f,b){window.mixpanel=b;b.init=function(){};b.track=function(){};b.time_event=function(){};b.people={increment:function(){}};})(document,window.mixpanel||[]);var mpGlobal = {};
-mixpanel.init("7f21890c94dcb59578c81363edcfa920", {loaded: function() {
-}});
-</script><!-- end Mixpanel -->
-		<meta name="google-site-verification" content="rW8zHM5sAJs-K18nGgtrNZwU98xVTXRumahwGY5_7Vc">
-		<!-- Facebook Pixel Code -->
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=32" sizes="16x16">
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=32" sizes="16x16">
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=114">
+<link rel="openid.server" href="https://automattic.wordpress.com/?openidserver=1">
+<link rel="openid.delegate" href="https://automattic.wordpress.com/">
+<link rel="search" type="application/opensearchdescription+xml" href="https://automattic.com/osd.xml" title="Automattic">
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
+<link rel="canonical" href="https://automattic.com/privacy/">
+<meta name="application-name" content="Automattic"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Making the web a better place"><meta name="msapplication-task" content="name=Subscribe;action-uri=https://automattic.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/0d6c430459af115394a012d20b6711d6?s=16"><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico"><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico"><style type="text/css" id="syntaxhighlighteranchor"></style>
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&amp;csblog=e4R&amp;cscache=6&amp;csrev=33">
+		</head>
+
+<body class="page-template page-template-page-templates page-template-table-of-contents page-template-page-templatestable-of-contents-php page page-id-13 mp6 customizer-styles-applied highlander-enabled highlander-light">
+
+<div id="wrapper">
+
+	<div class="header">
+		<h1 class="logo"><a href="/">Automattic</a></h1>
+		<ol class="menu">
+			<li class="page-item page-item-home "><a href="/">Home</a></li>
+			<li class="page-item page-item-about "><a href="/about/">About Us</a></li>
+			<li class="page-item page-item-news "><a href="/news/">News</a></li>
+			<li class="page-item page-item-jobs "><a href="/work-with-us/">Work With Us</a></li>
+		</ol>
+	</div>
+
+<div id="container">
+	<div id="content" class="tier">
+		<h2>Privacy&nbsp;Policy</h2>
+								<div class="tertiary">
+				<div class="toc-wrapper">
+					<h3 class="table-of-contents--title">Sections</h3>
+					<ul class="table-of-contents"><li><a href="#who-we-are-and-what-this-policy-covers">Who We Are and What This Policy Covers</a></li><li><a href="#creative-commons-sharealike-license">Creative Commons Sharealike License</a></li><li><a href="#information-we-collect">Information We Collect</a></li><li><a class="toc-h4" href="#information-you-provide-to-us">Information You Provide to Us</a></li><li><a class="toc-h4" href="#information-we-collect-automatically">Information We Collect Automatically</a></li><li><a class="toc-h4" href="#information-we-collect-from-other-sources">Information We Collect from Other Sources</a></li><li><a href="#how-and-why-we-use-information">How and Why We Use Information</a></li><li><a class="toc-h4" href="#purposes-for-using-information">Purposes for Using Information</a></li><li><a class="toc-h4" href="#legal-bases-for-collecting-and-using-information">Legal Bases for Collecting and Using Information</a></li><li><a href="#sharing-information">Sharing Information</a></li><li><a class="toc-h4" href="#how-we-share-information">How We Share Information</a></li><li><a class="toc-h4" href="#information-shared-publicly">Information Shared Publicly</a></li><li><a href="#how-long-we-keep-information">How Long We Keep Information</a></li><li><a href="#security">Security</a></li><li><a href="#choices">Choices</a></li><li><a href="#your-rights">Your Rights</a></li><li><a href="#controllers-and-responsible-companies">Controllers and Responsible Companies</a></li><li><a href="#how-to-reach-us">How to Reach Us</a></li><li><a href="#other-things-you-should-know-keep-reading">Other Things You Should Know (Keep Reading!)</a></li><li><a class="toc-h4" href="#transferring-information">Transferring Information</a></li><li><a class="toc-h4" href="#ads-and-analytics-services-provided-by-others">Ads and Analytics Services Provided by Others</a></li><li><a class="toc-h4" href="#third-party-software-and-services">Third Party Software and Services</a></li><li><a class="toc-h4" href="#visitors-to-our-userse28099-websites">Visitors to Our Users’ Websites</a></li><li><a href="#privacy-policy-changes">Privacy Policy Changes</a></li><li><a href="#change-log">Change log</a></li></ul>				</div>
+			</div>
+			<div class="primary">
+				<p>Your privacy is critically important to us. At Automattic, we have a few fundamental principles:</p>
+<ul>
+<li>We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.</li>
+<li>We store personal information for only as long as we have a reason to keep it.</li>
+<li>We aim to make it as simple as possible for you to control what information on your website is shared publicly (or kept private), indexed by search engines, and permanently deleted.</li>
+<li>We help protect you from overreaching government demands for your personal information.</li>
+<li>We aim for full transparency on how we gather, use, and share your personal information.</li>
+</ul>
+<p>Below is our Privacy Policy, which incorporates and clarifies these principles.</p>
+<section id="who-we-are-and-what-this-policy-covers"><h3>Who We Are and What This Policy Covers</h3>
+<p>Howdy! We are the folks behind a variety of products and services designed to allow anyone — from bloggers, to photographers, small business owners, and enterprises — to take full advantage of the power and promise of the open web. Our mission is to democratize publishing and commerce so that anyone with a story can tell it, and anyone can turn their great idea into a livelihood. We believe in powering the open Internet with code that is open source and are proud to say that the vast majority of our work is available under the General Public License (“GPL”). Unlike most other services, because our GPL code is public, you can actually download and take a look at that code to see how it works.</p>
+<p>This Privacy Policy applies to information that we collect about you when you use:</p>
+<ul>
+<li>Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools);</li>
+<li>Our mobile applications (including the WordPress mobile app for Android and iOS);</li>
+<li>Our other Automattic products and services that are available on or through our websites (including WordPress.com plans, WordPress.com VIP, Jetpack, the WooCommerce Services Extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, and Happy Tools); and</li>
+<li>Other users’ websites that use our Services, while you are logged in to your account with us.</li>
+</ul>
+<p>Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on Controllers and Responsible Companies.</p>
+<p>Please note that this Privacy Policy does not apply to any of our products or services that have a separate privacy policy.</p>
+<p>Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.</p>
+</section><section id="creative-commons-sharealike-license"><h3>Creative Commons Sharealike License</h3>
+<p>We’ve decided to make this Privacy Policy available under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Sharealike</a> license. You can grab a copy of this Privacy Policy and other legal documents on <a href="https://github.com/Automattic/legalmattic">Github</a>. You’re more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. Also, if you do use the policy we’d appreciate a credit and link to Automattic somewhere on your site.</p>
+</section><section id="information-we-collect"><h3>Information We Collect</h3>
+<p>We only collect information about you if we have a reason to do so–for example, to provide our Services, to communicate with you, or to make our Services better.</p>
+<p>We collect information in three ways: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect.</p>
+</section><section id="information-you-provide-to-us"><h4><em>Information You Provide to Us</em></h4>
+<p>It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:</p>
+<ul>
+<li><strong>Basic Account Information:</strong> We ask for basic information from you in order to set up your account. For example, we require individuals who sign up for a WordPress.com account to provide an email address along with a username or name, <a href="https://en.support.wordpress.com/wpcc-faq/">depending on the service</a> – and that’s it. You may provide us with more information – like your address and other information you want to share – but we don’t require that information to create a WordPress.com account.</li>
+<li><strong>Public Profile Information:</strong> If you have an account with us, we collect the information that you provide for your public profile. For example, if you have a WordPress.com account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that — public — so please keep that in mind when deciding what information you would like to include.</li>
+<li><strong>Transaction and Billing Information:</strong> If you buy something from us –a subscription to a WordPress.com plan, a premium theme, a&nbsp;<a href="https://en.support.wordpress.com/domains/domain-registrations-and-privacy/">custom domain</a>, or some fun Longreads swag, for example – you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.</li>
+<li><strong>Happy Tools Information:</strong> If you are a Happy Tools user, you will provide us with information to make use of the Service’s features. For example, you might enter timezone and location information, company information, and contact information.</li>
+<li><strong>Ecommerce Site Information:</strong> If you use our ecommerce Services to sell products or services to others through your site (including <a href="https://en.support.wordpress.com/store/">Stores on WordPress.com</a>, the <a href="https://docs.woocommerce.com/document/woocommerce-services/">WooCommerce Services extension,</a> or other purchases on WooCommerce.com), you will have to create a WordPress.com account or connect an existing account and, for some of our ecommerce Services, provide your site URL. You may also provide us with information about your financial account to set up a payments integration, such as the email address for your Stripe or PayPal account or your bank account information.</li>
+<li><strong>Content Information:</strong> Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Crowdsignal survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!</li>
+<li><strong>Credentials:</strong> Depending on the Services you use, you may provide us with credentials for your website (like SSH, FTP, and SFTP username and password). For example, Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems on their site more quickly.</li>
+<li><strong>Communications with Us (Hi There!):</strong> You may also provide us information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question about your site in our public forums, or sign up for a newsletter like the one we send through Longreads. When you communicate with us via form, email, phone, WordPress.com comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).</li>
+</ul>
+</section><section id="information-we-collect-automatically"><h4><i>Information We Collect Automatically</i></h4>
+<p>We also collect some information automatically:</p>
+<ul>
+<li><strong>Log Information:</strong> Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services–for example, when you create or make changes to your website on WordPress.com.</li>
+<li><strong>Usage Information:</strong> We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site using our WordPress.com or Jetpack services–in other words, who did what, when and to what thing on a site (e.g., [WordPress.com username] deleted “[title of post]” at [time/date]). As another example, our <a href="https://woocommerce.com/usage-tracking/">WooCommerce Usage Tracker</a> tracks information like your email address, WooCommerce settings, PHP settings, and other features for your site, along with information about your online store, such as the aggregate number of orders and customers. We also collect information about what happens when you use our Services (e.g., page views, support document searches at en.support.wordpress.com, features enabled for your website, interactions with our <a href="https://en.support.wordpress.com/admin-bar/">Admin Bar</a> and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.</li>
+<li><strong>Location Information:</strong> We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. We may also collect information about your precise location via our mobile apps (when, for example, you post a photograph with location information) if you allow us to do so through your mobile device operating system’s permissions.</li>
+<li><strong>Stored Information:</strong> We may access information stored on your mobile device via our mobile apps. We access this stored information through your device operating system’s permissions. For example, if you give us permission to access the photographs on your mobile device’s camera roll, our Services may access the photos stored on your device when you upload a really amazing photograph of the sunrise to your website.</li>
+<li><strong>Interactions with Other Users’ Sites:</strong> We collect some information about your interactions with other users’ sites while you are logged in to your account with us, such as your “Likes” and the fact that you commented on a particular post, so that we can, for example, <a href="https://en.support.wordpress.com/algorithms-search-and-recommendations/">recommend posts</a> we think may interest you. As another example, for Intense Debate users, we collect information about the comments you make while logged in to your account, and use that information to, for example, tally up statistics about your comments (check them out in your dashboard!) and provide the information about your comments in your Intense Debate public profile.</li>
+<li><strong>Information from Cookies &amp; Other Technologies:</strong> A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Automattic uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see our <a href="http://www.automattic.com/cookies">Cookie Policy</a>.</li>
+</ul>
+</section><section id="information-we-collect-from-other-sources"><h4><i>Information We Collect from Other Sources</i></h4>
+<p>We may also get information about you from other sources. For example, if you create or log into your WordPress.com account through another service (like Google) or if you connect your website or account to a social media service (like Twitter) through our <a href="https://en.support.wordpress.com/publicize/">Publicize feature</a>, we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.</p>
+<p>We may also get information, such as a mailing address, from third party services about individuals who are not yet our users (…but we hope will be!), which we may use, for example, for marketing and advertising purposes like postcards and other mailers advertising our services.</p>
+</section><section id="how-and-why-we-use-information"><h3 style="margin-bottom:20px;">How and Why We Use Information</h3>
+</section><section id="purposes-for-using-information"><h4><i>Purposes for Using Information</i></h4>
+<p>We use information about you as mentioned above and for the purposes listed below:</p>
+<ul>
+<li>To provide our Services–for example, to set up and maintain your account, host your website, backup and restore your website, charge you for any of our paid Services,&nbsp;or provide essays and stories for your reading pleasure through Longreads;</li>
+<li>To further develop and improve our Services–for example, by adding new features that we think our users will enjoy or will help them to create and manage their websites more efficiently;</li>
+<li>To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;</li>
+<li>To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition — for example, we may analyze how many individuals purchased a paid plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;</li>
+<li>To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Automattic and others, which may result in us declining a transaction or the use of our Services;</li>
+<li>To communicate with you, for example through an email, about offers and promotions offered by Automattic and others we think will be of interest to you, solicit your feedback, or keep you up to date on Automattic and our products (which you can unsubscribe from at any time); and</li>
+<li>To personalize your experience using our Services, provide content recommendations (for example, through our <a href="https://en.support.wordpress.com/algorithms-search-and-recommendations/">Reader Post Suggestions</a>), target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.</li>
+</ul>
+</section><section id="legal-bases-for-collecting-and-using-information"><h4><i>Legal Bases for Collecting and Using Information</i></h4>
+<p>A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:</p>
+<p>(1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or</p>
+<p>(2) The use is necessary for compliance with a legal obligation; or</p>
+<p>(3) The use is necessary in order to protect your vital interests or those of another person; or</p>
+<p>(4) We have a legitimate interest in using your information — for example, to provide and update our Services; to improve our Services so that we can offer you an even better user experience; to safeguard our Services; to communicate with you; to measure, gauge, and improve the effectiveness of our advertising; and to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or</p>
+<p>(5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on, as described in our <a href="http://www.automattic.com/cookies">Cookie Policy</a>.</p>
+</section><section id="sharing-information"><h3 style="margin-bottom:20px;">Sharing Information</h3>
+</section><section id="how-we-share-information"><h4><i>How We Share Information</i></h4>
+<p>We do not sell our users’ private personal information.</p>
+<p>We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:</p>
+<ul>
+<li><strong>Subsidiaries, Employees, and Independent Contractors:</strong> We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our Services or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.</li>
+<li><strong>Third Party Vendors:</strong> We may share information about you with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you or your site. This group includes vendors that help us provide our Services to you (like payment providers that process your credit and debit card information, payment providers you use for your ecommerce operations, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, registrars, registries, and data escrow services that allow us to provide domain registration services, and your hosting provider if your site is not hosted by Automattic), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and companies that make products available on our websites (such as the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you. We require vendors to agree to privacy commitments in order to share information with them. Other vendors are listed in our more specific policies (e.g. our <a href="https://automattic.com/cookies/">Cookie Policy</a>).</li>
+<li><strong>Legal and Regulatory Requirements:</strong> We may disclose information about you in response to a subpoena, court order, or other governmental request. For more information on how we respond to requests for information about WordPress.com users, please see our <a href="https://en.support.wordpress.com/report-blogs/legal-guidelines/">Legal Guidelines</a>. Additionally, if you have a domain registered with WordPress.com, we may share your information to comply with the Internet Corporation for Assigned Names and Numbers’ (ICANN) regulations, rules, or policies. For example, your information relating to your domain registration may be available in the WHOIS database, or we may be required to share your information with ICANN-approved Dispute Resolution Service Providers. Please see our <a href="https://en.support.wordpress.com/domains/domain-registrations-and-privacy/">Domain Registrations and Privacy support document</a> for more details.</li>
+<li><strong>To Protect Rights, Property, and Others:</strong> We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we <a href="https://en.support.wordpress.com/report-blogs/legal-guidelines/#emergency-requests-from-government-agencieslaw-enforcement">may disclose information related to the emergency without delay</a>.</li>
+<li><strong>Business Transfers:</strong> In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the unlikely event that Automattic goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.</li>
+<li><strong>With Your Consent:</strong> We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties with which you authorize us to do so, such as the social media services that you connect to your site through our Publicize feature.</li>
+<li><strong>Aggregated or De-Identified Information:</strong> We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.</li>
+<li><strong>Site Owners: </strong>If you have a WordPress.com account and interact with a site, your information may be shared with the administrators of the site. For example, if you leave a comment on a site that uses our Services (like a site created on WordPress.com or a site running Jetpack), your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment.</li>
+<li><strong>Published Support Requests:</strong> And if you send us a request (for example, via a support email or one of our feedback mechanisms), we reserve the right to publish that request in order to help us clarify or respond to your request or to help us support other users.</li>
+</ul>
+</section><section id="information-shared-publicly"><h4><i>Information Shared Publicly</i></h4>
+<p>Information that you choose to make public is–you guessed it–disclosed publicly.</p>
+<p>That means, of course, that information like your public profile, posts, other content that you make public on your website, and your “Likes” and comments on other websites, are all available to others–and we hope you get a lot of views!</p>
+<p>For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your <strong>G</strong>lobally <strong>R</strong>ecognized Avatar, or Gravatar — get it? :). Your Gravatar, along with other public profile information, will display with the comments and “Likes” that you make on other users’ websites while logged in to your WordPress.com account. Your Gravatar + public profile information may also display with your comments, “Likes,” and other interactions on websites that use our Gravatar service, if the email address associated with your account with us is the same as the email address that you use on the other website.</p>
+<p>We also provide a “Firehose” stream of public data (like posts and comments) from some sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it, publicly.</p>
+<p>Public information may also be indexed by search engines or used by third parties.</p>
+<p>Please keep all of this in mind when deciding what you would like to share.</p>
+</section><section id="how-long-we-keep-information"><h3>How Long We Keep Information</h3>
+<p>We generally discard information about you when we no longer need the information for the purposes for which we collect and use it — which are described in the section above on How and Why We Use Information — and we are not legally required to continue to keep it.</p>
+<p>For example, we keep the web server logs that record information about a visitor to one of Automattic’s websites, such as the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites.</p>
+<p>As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days just in case you change your mind and would like restore that content — because starting again from scratch is no fun, at all. After the thirty days are up, the deleted content may remain on our backups and caches until purged.</p>
+</section><section id="security"><h3>Security</h3>
+<p>While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so, such as monitoring our Services for potential vulnerabilities and attacks.</p>
+<p>To enhance the security of your account, we encourage you to enable our advanced security settings, like <a href="https://en.support.wordpress.com/security/two-step-authentication/">Two Step Authentication</a>.</p>
+</section><section id="choices"><h3>Choices</h3>
+<p>You have several choices available when it comes to information about you:</p>
+<ul>
+<li><strong>Limit the Information that You Provide:</strong> If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — for example, paid, premium themes–may not be accessible.</li>
+<li><strong>Limit Access to Information on Your Mobile Device:</strong> Your mobile device operating system should provide you with the ability to discontinue our ability to collect stored information or location information via our mobile apps. If you do so, you may not be able to use certain features (like adding a location to a photograph, for example).</li>
+<li><strong>Opt-Out of Marketing Communications:</strong> You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.</li>
+<li><strong>Set Your Browser to Reject Cookies:</strong> At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.</li>
+<li><strong>Close Your Account:</strong> While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your account (for example, <a href="https://en.support.wordpress.com/close-account/">here</a>, for WordPress.com accounts).&nbsp;Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above — for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.</li>
+</ul>
+</section><section id="your-rights"><h3>Your Rights</h3>
+<p>If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:</p>
+<ul>
+<li>Request access to your personal data;</li>
+<li>Request correction or deletion of your personal data;</li>
+<li>Object to our use and processing of your personal data;</li>
+<li>Request that we limit our use and processing of your personal data; and</li>
+<li>Request portability of your personal data.</li>
+</ul>
+<p>You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us.</p>
+<p>EU individuals also have the right to make a complaint to a government supervisory authority.</p>
+</section><section id="controllers-and-responsible-companies"><h3>Controllers and Responsible Companies</h3>
+<p>Automattic’s Services are worldwide. Different Automattic companies are the controller (or co-controller) of personal information, which means that they are the company responsible for processing that information, based on the particular service and the location of the individual using our Services.</p>
+<p>Depending on the Services you use, more than one company may be the controller of your personal data. Generally, the “controller” is the Automattic company that entered into the contract with you under the Terms of Service for the the product or service you use. In addition, Automattic Inc., our US-based company, is the controller for some of the processing activities across all of our Services worldwide.</p>
+<p>The chart below explains the controllers for processing your personal information. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, and all countries located in the European continent.</p>
+<table style="width:100%;">
+<tbody>
+<tr>
+<td align="top">If you reside outside of the Designated Countries&nbsp; (for services other than those offered at WooCommerce.com):</td>
+<td><strong>Automattic Inc.</strong><br>
+60 29th Street #343<br>
+San Francisco, CA 94110</td>
+</tr>
+<tr>
+<td align="top">If you reside in the Designated Countries (for services other than those offered at WooCommerce.com):</td>
+<td align="top"><strong>Aut O’Mattic A8C Ireland Ltd.</strong><br>
+Business Centre, No.1 Lower Mayor Street<br>
+International Financial Services Centre<br>
+Dublin 1, Ireland<p></p>
+<p><strong>Automattic Inc.</strong> is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.</p></td>
+</tr>
+<tr>
+<td align="top">If you are using our Services offered at WooCommerce.com:</td>
+<td align="top"><strong>Bubblestorm Management (Pty) Ltd (WooCommerce.com)</strong><br>
+Unit A206, The Old Biscuit Mill (TOBM)<br>
+373 – 375 Albert Road, Woodstock<br>
+Cape Town, South Africa<p></p>
+<p><strong>Automattic Inc.</strong> is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).</p></td>
+</tr>
+</tbody>
+</table>
+</section><section id="how-to-reach-us"><h3>How to Reach Us</h3>
+<p>If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please <a href="mailto:privacypolicyupdates@automattic.com">contact us</a>.</p>
+</section><section id="other-things-you-should-know-keep-reading"><h3 style="margin-bottom:20px;">Other Things You Should Know (Keep Reading!)</h3>
+</section><section id="transferring-information"><h4><i>Transferring Information</i></h4>
+<p>Because Automattic’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processors. This is required for the purposes listed in the How and Why We Use Information section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include:</p>
+<ul>
+<li>In the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the <a href="https://www.privacyshield.gov/welcome">EU-US Privacy Shield</a>; or</li>
+<li>In the case of entities based in other countries outside the EEA, entering into European Commission approved standard contractual arrangements with them.</li>
+</ul>
+<p>You can ask us for more information about the steps we take to protect your personal information when transferring it from the EU.</p>
+</section><section id="ads-and-analytics-services-provided-by-others"><h4><i>Ads and Analytics Services Provided by Others</i></h4>
+<p>Ads appearing on any of our Services may be delivered by advertising networks. Other parties may also provide analytics services via our Services. These ad networks and analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain content, and deliver advertisements that may be more targeted to your interests. Please note this Privacy Policy only covers the collection of information by Automattic and does not cover the collection of information by any third party advertisers or analytics providers.</p>
+</section><section id="third-party-software-and-services"><h4><i>Third Party Software and Services</i></h4>
+<p>If you’d like to use WooCommerce extensions that enable services provided by third parties, third party plugins, embeds, or other third party software or services, please keep in mind that when you interact with them you may provide information about yourself (or your site visitors) to those third parties. For example, some third party services may request or require access to your (yours, your visitors’, or customers’) data, for example, via a pixel or cookie. Please note that if you use the third party service or grant access, your data will handled in accordance with the third party’s privacy policy and practices. We don’t own or control these third parties, and they have their own rules about collection, use, and sharing of information, which you should review before using the software or services.</p>
+</section><section id="visitors-to-our-userse28099-websites"><h4><i>Visitors to Our Users’ Websites</i></h4>
+<p>We also process information about visitors to our users’ websites, on behalf of our users and in accordance with our user agreements. Please note that our processing of that information on behalf of our users for their websites isn’t covered by this Privacy Policy. We encourage our users to post a privacy policy that accurately describes their practices on data collection, use, and sharing of personal information. If you’d like, you can also read more about the data we collect on behalf of our users in our <a href="https://automattic.com/privacy-notice">Privacy Notice</a>.</p>
+</section><section id="privacy-policy-changes"><h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or the <a href="https://en.blog.wordpress.com/">WordPress.com Blog</a>, or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.</p>
+<p>That’s it! Thanks for reading.</p>
+</section><section id="change-log"><h3>Change log</h3>
+<ul>
+<li><em>April 1, 2019:</em> Included information for Happy Tools.</li>
+<li><em>March 13, 2019:&nbsp;</em>Added clarifications and additional details to existing sections, for example about ICANN policies and what we may store when you communicate with us.</li>
+<li><em>February 1, 2019:</em> Included information for Longreads and additional information regarding Longreads accounts.</li>
+<li><em>November 6, 2018:</em> Removed references to Polldaddy, which has been rebranded as Crowdsignal.</li>
+<li><em>September 24, 2018:&nbsp;</em>Included information for Simplenote, Simperium, Cloudup, and Lean Domain Search.</li>
+<li><span style="font-weight:400;"><em>May 25, 2018:</em> Added more specific information to help clarify our practices, included information for Crowdsignal and Woocommerce.com services, and added information to reflect the requirements of the EU’s General Data Protection Regulation.&nbsp;</span></li>
+<li><i style="font-weight:400;"><span style="font-weight:400;">January 3, 2018</span></i><i style="font-weight:400;"><span style="font-weight:400;">: </span></i><span style="font-weight:400;">Revised and reorganized language throughout to help simplify the policy and clarify our practices</span><span style="font-weight:400;">. </span></li>
+<li><i><span style="font-weight:400;">August 22, 2017:</span></i><span style="font-weight:400;"> Added “Information We Collect from Other Sources” section.</span></li>
+<li><i><span style="font-weight:400;">November 2, 2016</span></i><span style="font-weight:400;">: Added that comments submitted as missed spam are retained by Akismet to improve future performance.</span></li>
+<li><i><span style="font-weight:400;">February 18, 2015:</span></i><span style="font-weight:400;">&nbsp;Updated Creative Commons license from 2.5 to 4.0.</span></li>
+<li><i><span style="font-weight:400;">September 18, 2013:</span></i><span style="font-weight:400;">&nbsp;Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.</span></li>
+<li><i><span style="font-weight:400;">February 1, 2011:</span></i><span style="font-weight:400;">&nbsp;Clarified subpoena language and added Business Transfers paragraph</span></li>
+<li><i><span style="font-weight:400;">January 3, 2011:</span></i><span style="font-weight:400;">&nbsp;Added court order and subpoena clarification</span></li>
+<li><i><span style="font-weight:400;">July 1, 2010:</span></i><span style="font-weight:400;">&nbsp;Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators</span></li>
+<li><i>October 29, 2009:</i>&nbsp;Added Comments paragraph to explain Akismet comment storage policy</li>
+<li><i>March 10, 2009:</i>&nbsp;Added Ads paragraph to alert users that ads from third parties may use cookies.</li>
+</ul>
+</section>			</div>
+			</div><!-- #content  -->
+</div><!-- #container -->
+
+	<div class="nav">
+		<div class="contactus"><a href="/contact/">Contact Us</a></div>
+		<div class="diversity"><a href="/diversity-and-inclusion/">Diversity</a></div>
+		<div class="press"><a href="/press/">Press</a></div>
+		<div class="privacy"><a href="/privacy/">Privacy Policy</a></div>
+		<div class="social-links">
+			<div class="twitter"><a class="noticon noticon-twitter" href="https://twitter.com/automattic" target="_blank"><!-- Twitter --></a></div>
+			<div class="facebook"><a class="noticon noticon-facebook" href="http://www.facebook.com/AutomatticInc" target="_blank"><!-- Facebook --></a></div>
+			<div class="facebook"><a class="noticon noticon-youtube" href="https://www.youtube.com/c/automattic" target="_blank"><!-- YouTube --></a></div>
+		</div>
+		<ol class="menu">
+			<li class="page-item "><a href="/">Home</a></li>
+			<li class="page-item "><a href="/about/">About Us</a></li>
+			<li class="page-item "><a href="/news/">News</a></li>
+			<li class="page-item "><a href="/work-with-us/">Work With Us</a></li>
+		</ol>
+	</div>
+	<div class="footer">
+		<p class="copyr">© Automattic Inc., purveyors of fine blogging and site-building services since 2005. Thank you for your&nbsp;time.</p>
+	</div>
+</div><!-- #wrapper -->
+
+<!--  -->
+			<!-- A8C Analytics [start] -->
+			<script type="text/javascript">
+				( function( $ ) {
+					'use strict';
+					if ( ! $ ) return; // No jQuery.
+
+					window.a8cAnalyticsConfig = {"cookieBanner":{"text":"Our websites and dashboards use cookies. By continuing, you agree to their use. <a target=\"_blank\" href=\"https:\/\/automattic.com\/cookies\">Learn more<\/a>, including how to control cookies.","buttonText":"Got It!","cookieName":"sensitive_pixel_option","skipBanner":false,"cssZIndex":50001,"cookieDomain":null},"fireAnalyticsOptions":[]};
+				} )( window.jQuery );
+			</script>
+
+			
+<script type="text/javascript">
+	$document = jQuery( window.document );
+	$document.on( 'a8c-analytics:loaded', function() {
+		'use strict';
+
+		var kit = window.a8cAnalytics.kit;
+
+		if ( kit.doNotTrack() ) {
+			return;
+		}
+
+		function fireGoogleAnalytics() {
+			kit.loadGoogleAnalytics();
+			ga( 'create', 'UA-52447-5', 'auto' );
+
+			ga( 'set', 'transport', 'function' === typeof navigator.sendBeacon ? 'beacon' : 'xhr' );
+			ga( 'set', 'anonymizeIp', true );
+
+			ga( 'send', 'pageview' );
+		}
+
+		// ------- Fire Normal Pixels -------
+
+				fireGoogleAnalytics();
+
+		// ------- Fire Sensitive Pixels -------
+
+		/* none for now
+		$document.on( 'a8c-analytics:fire-sensitive-pixels', function() {
+		} );
+		*/
+	} );
+</script>
+
+			<script type="text/javascript">
+				( function( $ ) {
+					'use strict';
+					if ( ! $ ) return; // No jQuery.
+
+					$.ajax( {
+						async: true,
+						cache: true,
+						dataType: 'script',
+						url: "https:\/\/s1.wp.com\/wp-content\/mu-plugins\/a8c-analytics\/a8c-analytics.js?v=1558085808",
+					} );
+				} )( window.jQuery );
+			</script>
+			<!-- A8C Analytics [end] -->
+			<div style="display:none">
+	</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"54117","siteName":"Automattic","siteURL":"https:\/\/automattic.com","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/0d6c430459af115394a012d20b6711d6?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"a8c\/automattic-2011","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fautomattic.com%2Fprivacy%2F&signup_flow=account&domain=automattic.com","themeURL":"","xhrURL":"https:\/\/automattic.com\/wp-admin\/admin-ajax.php","nonce":"6728dd0f04","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"89d6d05218\" \/>","referer":"https:\/\/automattic.com\/privacy\/","canFollow":"","feedID":"73075320","statusMessage":"","customizeLink":"https:\/\/automattic.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fautomattic.wordpress.com%2Fprivacy%2F","postID":"13","shortlink":"https:\/\/wp.me\/Pe4R-d","canEditPost":"","editLink":"https:\/\/wordpress.com\/page\/automattic.com\/13","statsLink":"https:\/\/wordpress.com\/stats\/post\/13\/automattic.com","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Automattic 2011","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 9,792 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fautomattic.com%2Fprivacy%2F&signup_flow=account&domain=automattic.com\">Log in now.<\/a>","stats":"Stats"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyVjMEOAiEMRH9IrBtXowfjtyA0WhYKtrD6+eJl42kTby8z8wZexbjMFblCUPA4k8Py3gbdwE+Vmimx3YkVIk2o8GzY8GHZR5SVsfWJ2NysQLJaUTqZPKMI+X6yZH8+VLFu0jXJVcr8lRbq62u6DIfxvB/G42kXPmKkXQM="></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async="" defer=""></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'54117','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'54117','v':'wpcom','tz':'0','user_id':'0','post':'13','subd':'automattic'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1lSiYrZXhzUkM5fD1uTDNLUGt6QzVbd3FKb3Q4aWxFU0VMK3ppSG1wamM0bi81JStxN2lKP1pvVnxQRHk3W0d3VEh0SklpNENJfHppaiZjVlFtdzJJS0ovSDNEYllHTGlmZ2N8XWpOY1p2LDE0dlY2QXZlTWtvMV0vVDBzL1U/cWZsMWMycitPXzRtay8mcTRxfktpdm9ZQ2pEKzZXOVp0UmZvbTZlZllzPWdRK24sJlhUQ1FxWmwlUiU/TUJEJSVMWVlmUUJ3eDNUZ2VEZi1XLTFIOVoxcEF4ZzglQmlLWj1fP0ppVVBtfmV4dD9WekZrTllHQnMuXUhmV3B8V2NFUWxXV1ZvOTFWdW1uRGpFNkIwUklQbS1FcTZNfCVzRnE0VGNn'}]);
+_stq.push([ 'clickTrackerInit', '54117', '13' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
 <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 
-fbq('init', '1626336347647668');
-fbq('track', "PageView");
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
 
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+<script type="text/javascript" src="/wp-content/themes/a8c/automattic-2011/includes/jquery.cookie.js"></script>
+<script type="text/javascript">
+
+console.log("Ready to wrangle JavaScript? https://automattic.com/work-with-us/");
+
+var pg = document.location.href;
+
+if ( pg.indexOf("work-with-us") != -1 ) { 	// check on jobs page
+	if ( pg.length > 37 ) { // check if detail page
+
+		var jvct = jQuery.cookie('jvct');
+		if ( typeof(jvct) == "undefined" ) { jvct = 0; }
+		else { jvct = parseInt(jvct); }
+		if ( isNaN(jvct) ) { jvct = 0; }
+
+		jvct = jvct + 1;
+		jQuery.cookie('jvct', jvct, { expires: 60, path: '/' });
+
+		if ( jvct > 3 ) {
+			var nudge = '<div class="jobs-notes-back card"><h4>Hey there!</h4><p>We couldn’t help but notice that you’ve visited this page a few times. It looks like you’re really thinking about working here, huh?</p><p>Give it a shot and apply already!</p></div>';
+			if ( jvct === 1337 ) {
+				nudge = '<div class="jobs-notes-back card"><h4>We saw what you did there!</h4><p>You like poking around in code, huh? Us too — you seem like just the kind of person we’re looking for. Apply already!</p></div>';
+			}
+
+			// display card flipper
+			jQuery( '.jobsidebar' ).wrap( '<div class="card-container"></div>' );
+			jQuery('.jobs-notes' ).addClass( 'card' );
+
+			jQuery( '.jobsidebar').append( nudge );
+			setTimeout( function() {
+				jQuery( '.jobsidebar' ).toggleClass( 'flipped' );
+			}, 1000 );
+		}
+	}
+}
+
+// check on Systems Wrangler page
+if ( pg.indexOf( 'systems-wrangler' ) != -1 ) {
+
+	// On page load/ready
+	jQuery( document ).ready( function () {
+		resizeMap();
+	});
+
+	// On resize
+	jQuery( window ).resize( function() {
+		clearTimeout( this.id );
+		this.id = setTimeout( resizeMap, 500 );
+	});
+
+	function resizeMap() {
+		var w = jQuery( '.jobs-list' ).width(),
+			h = Math.round( w / 2 );
+
+		jQuery( '.embed-anycast-map iframe' ).prop( 'src', 'https://ac-map.automattic.com/?w=' + w.toString() + 'h=' + h.toString() ).prop( 'width', w ).prop( 'height', h );
+	}
+}
 
 </script>
 
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1626336347647668&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-	</head>
-	<body id="hs-about" class="page-basic hs  has-projects-promo">
-		
-<nav id="hs-nav" class="navbar navbar-default hs-unfixed">
-	<a id="atavist-logo-link" href="/" class="navbar-brand">
-							<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-<svg width="133px" height="43px" preserveAspectRatio="xMaxYMax" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="atavist-logo-fill" sketch:type="MSLayerGroup" fill="#EF7357">
-            <g id="Oval-187-+-Fill-7" sketch:type="MSShapeGroup">
-                <path d="M21.5,43 C33.3741221,43 43,33.3741221 43,21.5 C43,9.62587788 33.3741221,0 21.5,0 C9.62587788,0 0,9.62587788 0,21.5 C0,33.3741221 9.62587788,43 21.5,43 Z M32.7269687,28.9285955 C32.7130074,28.8897493 31.13937,24.7967794 28.9580838,19.2403697 L27.1504285,20.0420126 C29.3310499,25.5963035 30.9046873,29.6871545 30.9179838,29.7245881 C31.3946623,31.0340559 31.2417528,31.8484121 30.445959,32.2015588 C29.6109406,32.5716565 28.9966436,32.1055029 28.4568069,30.8165176 C28.433538,30.7614267 23.4333999,17.950678 23.410131,17.892762 C22.9873032,16.8149583 22.7459723,15.8480428 23.108966,14.348582 C23.2758367,13.8329879 23.4340647,13.3463517 23.5344531,13.036289 C23.5663646,12.9557715 23.5876389,12.8851422 23.6215449,12.8017996 L23.6109078,12.8025059 C23.628858,12.7460024 23.6421545,12.7043311 23.6421545,12.7043311 C24.2850389,10.698458 23.6687474,9.07398331 21.6855787,8.28929141 C19.7502772,7.52366942 18.1367504,8.30412357 17.3795163,10.3177659 C17.358242,10.3756819 10.2951562,29.172973 10.2752115,29.2301827 C9.59842112,31.2000348 10.1482302,32.8287473 12.165305,33.6847748 C14.0514095,34.4842989 15.6110856,33.7257398 16.3962423,31.8307548 C16.4115332,31.792615 18.5103812,26.2566877 20.6112238,20.6663759 L18.7922664,19.8943973 C16.6914239,25.4840028 14.5939055,31.0178112 14.5792794,31.0545384 C14.0573929,32.3442301 13.4111844,32.8125025 12.6107368,32.4727754 C11.7703998,32.1168036 11.6387647,31.3271676 12.1021467,30.0049865 C12.1220914,29.9477768 19.1851772,11.151192 19.2071164,11.0925697 C19.73964,9.67503894 20.4131063,9.15520704 21.2561026,9.4885775 C21.9634749,9.76826967 22.2360526,10.6377168 21.8052469,11.981793 C21.7979339,12.0051007 21.6662988,12.4684291 21.4980984,13.0603029 C21.0932209,14.1684772 20.934328,15.184127 20.9489541,15.8741756 C20.9655747,16.6595738 21.3152719,18.0650976 21.469511,18.4062372 C21.5014225,18.4761603 26.6099269,31.5468249 26.6411737,31.6209857 C27.4555825,33.5315092 28.9208537,34.2865368 30.9252968,33.3980197 C32.8000993,32.5674188 33.4143963,30.8659581 32.7269687,28.9285955 Z" id="Oval-187"></path>
-            </g>
-            <path class="atavist-logo-text" d="M59.634,16.332 L59.778,16.332 C59.85,16.602 59.922,16.89 59.976,17.16 C60.102,17.646 60.21,18.222 60.336,18.636 L61.56,23.046 L57.834,23.046 L59.058,18.636 C59.256,17.862 59.634,16.422 59.634,16.332 L59.634,16.332 Z M61.938,24.396 L63.09,28.5 L64.89,28.5 L60.84,14.73 L58.644,14.73 L54.63,28.5 L56.322,28.5 L57.456,24.396 L61.938,24.396 Z M69.984,20.364 L69.984,25.854 C69.984,27.636 70.848,28.716 73.17,28.716 C74.106,28.716 74.772,28.5 75.294,28.302 L75.294,26.952 C74.628,27.186 74.178,27.33 73.278,27.33 C72.288,27.33 71.586,26.97 71.586,25.728 L71.586,20.364 L75.294,20.364 L75.294,19.014 L71.586,19.014 L71.586,16.098 L70.092,16.098 L70.092,18.024 C70.092,18.762 69.84,19.014 69.102,19.014 L66.546,19.014 L66.546,20.364 L69.984,20.364 Z M80.226,25.818 C80.226,25.332 80.406,24.954 80.748,24.684 C81.378,24.234 82.638,24.072 84.708,23.982 L84.708,24.198 C84.708,26.556 83.178,27.348 81.972,27.348 C80.892,27.348 80.226,26.826 80.226,25.818 L80.226,25.818 Z M84.726,26.79 L84.834,26.79 C84.906,27.996 85.392,28.5 86.814,28.5 L87.318,28.5 L87.318,27.186 L86.994,27.186 C86.418,27.186 86.256,27.042 86.256,26.466 L86.256,22.254 C86.256,19.806 84.834,18.78 82.638,18.78 C80.316,18.78 79.11,20.076 79.02,21.66 L80.586,21.66 C80.64,20.94 81.108,20.04 82.638,20.04 C84.006,20.04 84.708,20.688 84.708,22.29 L84.708,22.776 C82.566,22.848 81.036,23.046 80.028,23.568 C79.038,24.054 78.606,24.846 78.606,25.908 C78.606,27.618 79.758,28.662 81.684,28.662 C83.124,28.662 84.168,27.996 84.726,26.79 L84.726,26.79 Z M89.838,19.014 L93.456,28.5 L95.184,28.5 L98.802,19.014 L97.272,19.014 L94.932,25.296 C94.788,25.71 94.662,26.07 94.572,26.34 C94.518,26.502 94.482,26.646 94.428,26.79 L94.32,26.79 C94.266,26.646 94.23,26.502 94.176,26.34 C94.086,26.07 93.96,25.71 93.816,25.296 L91.476,19.014 L89.838,19.014 Z M104.67,14.82 L104.67,17.232 L107.082,17.232 L107.082,14.82 L104.67,14.82 Z M101.736,28.5 L110.322,28.5 L110.322,27.15 L106.776,27.15 L106.776,19.014 L102.258,19.014 L102.258,20.31 L105.228,20.31 L105.228,27.15 L101.736,27.15 L101.736,28.5 Z M119.52,21.39 L121.086,21.39 C120.942,19.842 119.808,18.78 117.378,18.78 C115.02,18.78 113.814,20.022 113.814,21.57 C113.814,23.28 114.804,24 116.298,24.234 L117.864,24.504 C119.25,24.738 119.7,25.062 119.7,25.926 C119.7,26.952 118.962,27.474 117.306,27.474 C115.776,27.474 115.11,26.736 114.984,25.818 L113.418,25.818 C113.652,27.942 115.218,28.734 117.306,28.734 C120.06,28.734 121.284,27.582 121.284,25.764 C121.284,24.27 120.456,23.46 118.368,23.1 L116.982,22.866 C115.902,22.668 115.362,22.308 115.362,21.462 C115.362,20.58 116.064,20.04 117.36,20.04 C118.584,20.04 119.358,20.4 119.52,21.39 L119.52,21.39 Z M127.584,20.364 L127.584,25.854 C127.584,27.636 128.448,28.716 130.77,28.716 C131.706,28.716 132.372,28.5 132.894,28.302 L132.894,26.952 C132.228,27.186 131.778,27.33 130.878,27.33 C129.888,27.33 129.186,26.97 129.186,25.728 L129.186,20.364 L132.894,20.364 L132.894,19.014 L129.186,19.014 L129.186,16.098 L127.692,16.098 L127.692,18.024 C127.692,18.762 127.44,19.014 126.702,19.014 L124.146,19.014 L124.146,20.364 L127.584,20.364 Z" id="Atavist-2" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
-</svg>
-		</a><ul class="hs-nav-pages  nav navbar-nav"><a id="atavist-logo-link" href="/" class="navbar-brand">
-	    	</a><li class=""><a id="atavist-logo-link" href="/" class="navbar-brand"></a><a href="/login">Log In</a></li>
-	    	<li class=""><a href="/signup">Sign Up</a></li>
-	    </ul>
-	
-</nav>
-<nav id="hs-nav-fixed" class="navbar navbar-default">
-	     <a class="hs-nav-menu-trigger ">
-	    	<span class="sr-only">Menu</span>
-	    	<svg class="hs-menu-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" enable-background="new 0 0 44 44"><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="22" x2="32" y2="22" fill="none"></line><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="16" x2="32" y2="16" fill="none"></line><line class="hs-menu-line" stroke="#231F20" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="12" y1="28" x2="32" y2="28" fill="none"></line></svg>
-	    </a>
-	    <ul class="hs-nav-pages  nav navbar-nav show-in-downscroll">
-	    	<li><a class="btn btn-lg btn-upgrade" href="/signup">Sign Up</a></li>
-	    </ul>
-</nav>
-<div class="hs-menu-other">
-	<div class="hs-closer"></div>
-		<a class="btn btn-lg btn-upgrade" href="/signup">Start for Free</a> <a class="btn btn-lg btn-link" href="/login">Log In</a>
-    <nav class="hs-nav-links">
-    <ul class="list-unstyled hs-nav-main">
-        <li><a href="/">Overview</a></li>
-        <li><a href="/examples">Examples</a></li>
-        <li><a href="/for/websites">Websites</a></li>
-        <li><a href="/for/publications">For Publications</a></li>
-    </ul>    <ul class="list-unstyled secondary-nav-links">
-    <li><a href="/page/about">About Us</a></li>
-    <li><a href="/plans">Plans &amp; Features</a></li>
-    <li><a href="/page/press">Press</a></li>
-    <li><a href="https://docs.atavist.com/faq" target="_blank">FAQ</a></li>
-    <li><a href="https://docs.atavist.com" target="_blank">Help Docs</a></li>
-    <li>&nbsp;</li>
-    <li>© 2016 Atavist</li>
-    <li><a href="/page/privacy">Privacy Policy</a></li>
-    <li><a href="/page/tos">Terms of Service</a></li>
-</ul>
-    <ul class="list-unstyled">
-    <li>
-        <a href="//magazine.atavist.com" id="mag-logo"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 471.2 47.5" enable-background="new 0 0 471.2 47.5" fill="#585858" xml:space="preserve">
-    <path d="M2.9,19.9v-5.5h2.9C8.3,14.4,9,13.6,9,11V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H2.9z"></path>
-    <path d="M41.1,22.5c0-1.2-0.2-2-0.6-2.6S39.3,19,38.4,19c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V4.3h7.6v13h0.1c0.9-1.8,2.7-3.6,6.4-3.6
-        c5.1,0,7.1,3,7.1,7.9v14.1h-7.6V22.5z"></path>
-    <path d="M63.6,36.4c-7.3,0-11.2-4.4-11.2-11.6c0-6.7,4.3-11.2,11.3-11.2c7.5,0,11.1,5.1,11.1,11.4v2h-15c0.3,3,1.6,4.1,3.8,4.1
-        c1.9,0,2.8-0.7,3.4-2.1h7.7C73.8,33.5,70.3,36.4,63.6,36.4z M63.7,18.5c-2.2,0-3.4,1.2-3.8,4.1h7.3v-0.2
-        C67.1,20.5,66.2,18.5,63.7,18.5z"></path>
-    <path d="M113.3,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H113.3z"></path>
-    <path d="M148.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
-        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.3-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-        c-1.6,0-2.6,0.8-2.7,2.3h-7.3C138.8,16.8,142.8,13.7,148.8,13.7z M151.3,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-        c0,1.3,0.8,2,2.2,2C150.2,31.3,151.3,29.1,151.3,26.7z"></path>
-    <path d="M168.8,14.2l2.7,8.5c0.6,1.7,0.9,3.2,1.2,4.3c0.1,0.6,0.3,1.2,0.4,1.7h0.2c0.1-0.5,0.2-1,0.3-1.7c0.3-1.1,0.6-2.6,1.2-4.3
-        l2.6-8.5h7l-7.7,21.6H169l-7.3-21.6H168.8z"></path>
-    <path d="M186.8,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M201.2,3.5v7.7h-8.1V3.5H201.2z"></path>
-    <path d="M397.5,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M411.8,3.5v7.7h-8.1V3.5H411.8z"></path>
-    <path d="M230.4,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-        c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H230.4z"></path>
-    <path d="M306.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
-        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-        c-1.6,0-2.6,0.8-2.7,2.3h-7.2C296.9,16.8,300.9,13.7,306.8,13.7z M309.4,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-        c0,1.3,0.8,2,2.2,2C308.2,31.3,309.4,29.1,309.4,26.7z"></path>
-    <path d="M322.8,36.6h7.3c0.2,1.5,1.3,2.2,3.2,2.2c2.3,0,3.4-1.3,3.4-3.6v-3h-0.2c-0.9,1.6-2.4,2.7-5.1,2.7c-6.1,0-9.3-3.6-9.3-10.3
-        c0-7.3,4-10.9,9.1-10.9c3.2,0,5,1.6,5.7,2.8h0.1v-2.4h7.2v19.2c0,6.9-3.8,10.4-11.2,10.4C325.7,43.7,323,40.6,322.8,36.6z
-         M333.3,18.8c-2.2,0-3.6,1.8-3.6,5.7s1.4,5.7,3.6,5.7c2.4,0,3.4-1.8,3.4-4.3v-2.4C336.6,20.3,335.6,18.8,333.3,18.8z"></path>
-    <path d="M358.9,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3H362
-        c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-        c-1.6,0-2.6,0.8-2.7,2.3H349C349,16.8,353,13.7,358.9,13.7z M361.5,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-        c0,1.3,0.8,2,2.2,2C360.3,31.3,361.5,29.1,361.5,26.7z"></path>
-    <path d="M393.1,14.2v5L383.2,30h10.2v5.7h-19.1v-5l10-10.9h-9.9v-5.7H393.1z"></path>
-    <path d="M433.1,20c-0.4-0.6-1.2-0.9-2.1-0.9c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V14.2h7.3v3.5h0.1c1.1-2.1,3-4,6.7-4c5.1,0,7.1,3,7.1,8
-        v14.1h-7.6V22.6C433.7,21.3,433.5,20.5,433.1,20z"></path>
-    <path d="M456.3,36.4c-7.3,0-11.2-4.4-11.1-11.6c0-6.7,4.4-11.2,11.4-11.1c7.5,0,11.1,5.1,11,11.5l0,2l-15-0.1c0.3,3,1.5,4.1,3.8,4.1
-        c1.9,0,2.8-0.7,3.4-2.1l7.7,0C466.5,33.6,463,36.4,456.3,36.4z M456.5,18.5c-2.2,0-3.4,1.2-3.8,4.1l7.3,0l0-0.2
-        C459.8,20.5,459,18.5,456.5,18.5z"></path>
-    <path d="M276.5,4.1l1.6,7.9c0.4,1.8,0.8,3.8,1,5.5c0.1,1,0.2,1.9,0.3,2.8h0.3c0.1-0.9,0.2-1.9,0.3-2.8c0.2-1.6,0.5-3.8,1-5.5
-        l1.6-7.8h8.9v31.7H285V15.5h-0.4l-2.7,12.3h-5.1c0,0-2.7-11.6-2.8-12.3h-0.4v20.3h-6.3V4.1H276.5z"></path>
-    <g>
-        <path d="M218.1,18.7c-1.8,0-2.8,0.6-2.8,1.5c0,0.9,0.8,1.6,2.6,1.9l4.6,0.6c3.9,0.6,5.9,2.5,5.9,5.7c0,5.1-3.9,8-10.2,8
-            c-7.6,0-10.3-3.5-10.2-7.1h6.7c0.2,1.4,1.2,2.2,3.6,2.2c2.2,0,3.4-0.6,3.4-1.6c0-0.9-1-1.6-2.4-1.8l-4.4-0.6
-            c-3.8-0.5-6.4-2.8-6.4-6.3c0-4.3,3.2-7.5,9.7-7.5c6.9,0,9.5,3.6,9.7,7.1h-6.7C221.1,19.6,220.3,18.7,218.1,18.7z"></path>
-    </g>
-    <path d="M106,3.7H94.3l-5.4,32h7.5l0.9-5.7h2.9h0h2.9l0.9,5.7h7.5L106,3.7z M98.1,24.4l0.7-5.5c0.3-2.1,0.5-4.4,0.6-6
-        c0.2-2.1,0.2-3.5,0.2-3.6h1c0,0.1,0.1,1.5,0.2,3.6c0.1,1.6,0.3,3.9,0.6,6l0.7,5.5H98.1z"></path>
-    </svg></a>
-        Visit <a href="//magazine.atavist.com" target="blank">The Atavist Magazine</a>, our team's very own, award-winning publication —&nbsp;made using Atavist. 
-    </li>
 
-</ul>
-    </nav>
-</div>
-		<section class="hs-hero">
-		
-		    <h1>Privacy Policy</h1>
-		</section>
-		
-		<section class="hs-generic bg-gray">
-			<div class="text-contents margin-top-60">
-				<p>This is the Privacy Policy for Atavist and <i>The Atavist Magazine,</i> published March 23, 2015: (To see the previous Privacy Policy, go <a href="https://magazine.atavist.com/privacy-policy-published-9-24-14/">here</a>.)</p>
-				
-				<p class="p1"><span class="s1">Atavist is committed to preserving the privacy of its readers and users. This policy outlines the handling of users’ personal information that is submitted at any point in the site. The information is used only in the ways specified when it was collected. That information is not shared in any other shape or manner otherwise.</span></p>
-				
-				<h3>Consent</h3>
-				
-				<p class="p1"><span class="s1">By using our web site and mobile apps you consent to the use of your personal information as described in this Privacy and Data Policy. Except as set forth in this policy, your personal information will not be used for any other purpose without your consent. We will not actively collect personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your personal information at any time. However, withdrawing consent may result in your inability to continue using our web site, apps, and/or other services.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Types and uses of personal information</b></span></p>
-				
-				<p class="p1"><span class="s1">In order to purchase a story or subscription from <i>The Atavist Magazine</i> or create content on Atavist, you must first create an account with a username and password. The registration system requires a valid email address, used to confirm the account. Accounts are backed up regularly, if the user changes the information on his or her account, Atavist’s stored data backups may include the user’s original information for up to six months. Separately, when any Atavist administrators are emailed, the addresses and correspondence are retained. This information is saved to respond to issues and inquiries of all types.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Credit card information</b></span></p>
-				
-				<p class="p1"><span class="s1">For collecting payments for purchase of Atavist stories, we utilize the payment processing service Stripe, which stores all credit cards securely. Atavist does not store any user credit card information on our own servers.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Aggregate Data Collection on Reading Habits</b></span></p>
-				
-				<p class="p1"><span class="s1">The Atavist application on iOS, Android, and other devices, as well as the Atavist web reader, may collect certain non-personally identifiable information, such as how you read and which multimedia components you take advantage of. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are reading and utilizing our content, in order to better serve our readers.</span></p>
-				
-				<p class="p1"><span class="s1">If you prefer that the Atavist app not collect any anonymized information about your reading habits in our iOS apps, you can go to Settings-&gt;Apps-&gt;The Atavist-&gt;Disable Analytics Data Collection, and turn it off.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Aggregate Data Collection on Atavist Feature Usage</b></span></p>
-				
-				<p class="p1"><span class="s1">Atavist may collect certain non-personally identifiable information on the users of Atavist, such as how many stories you create and publish, and which features you use. This data is stored securely on our servers and is used to enable us to understand broad trends in how people are creating content in our system, in order to better serve our readers.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Mailing list</b></span></p>
-				
-				<p class="p1"><span class="s1">If you send us your email address to be added to our list, we will not share it with anyone outside of Atavist Inc. We use email addresses only to send occasional updates on our latest stories from <i>The Atavist Magazine </i>or news about Atavist, features, and stories that we think our readers might be interested in.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Information sharing</b></span></p>
-				
-				<p class="p1"><span class="s1">Aggregated reading and demographic information about our audience may be shared with third parties, including browser information and traffic statistics. This data is not tied to any individual readers’ accounts or personally identifiable information.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Personally identifiable information:</b></span></p>
-				
-				<p class="p1"><span class="s1">No personally identifiable information is shared with third parties, with limited exceptions, namely: We reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.</span></p>
-				
-				<p class="p1"><span class="s1">We believe in freedom of expression, and, to the extent reasonable, we will try to protect our community from baseless legal demands.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Cookies</b></span></p>
-				
-				<p class="p1"><span class="s1">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Atavist uses cookies on this site. Some of the information stored in cookies is sometimes linked to readers’ accounts.</span></p>
-				
-				<p class="p1"><span class="s1">Atavist uses both short-term cookies and persistent cookies. A short-term cookie expires within a limited period of time. Session cookies are used so that readers with accounts can navigate Atavist without logging in multiple times over a short period of time. A persistent cookie remains on the user’s hard drive for an extended period of time. Persistent cookies are used to recognize account holders and present the site accordingly. Users can remove cookies by following directions provided in your Internet browser’s “help” file.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Other questions or issues</b></span></p>
-				
-				<p class="p1"><span class="s1">If you have any questions or issues around any of these matters, email us: support@atavist.com.</span></p>
-				
-				<p class="p1"><span class="s1"><b>Legal</b></span></p>
-				
-				<p class="p1"><span class="s1">All stories and other information are © 2010-2016 Atavist Inc. All rights reserved.</span></p>
-				
-			</div>              
-		</section>
-		
-		
-		<footer id="hs-footer">
-		        <nav class="hs-nav-links">
-			        <h3>Atavist <span class="pipe">|</span> <a href="/signup">Start for Free</a></h3>
-					<ul class="list-unstyled hs-nav-main">
-					    <li><a href="/">Overview</a></li>
-					    <li><a href="/examples">Examples</a></li>
-					    <li><a href="/for/websites">Websites</a></li>
-					    <li><a href="/for/publications">For Publications</a></li>
-					</ul>					<ul class="list-unstyled">
-						<li><a href="/for/pro">For Creative Professionals</a></li>
-						<li><a href="/for/journalists-publishers">For Journalists &amp; Publishers</a></li>
-						<li><a href="/for/education">For Education</a></li>
-						<li><a href="/for/nonprofit-cultural">For Non-Profit &amp; Cultural Institutions</a></li>
-						<li><a href="/for/facebook-instant-articles">For Social</a></li>
-						<li><a href="/for/brands">For Brands</a></li>
-						<li><a href="/for/photographers">For Photographers</a></li>
-						<li><a href="/for/chefs-recipes">For Chefs &amp; Food Writers</a></li>
-					</ul>
-				</nav>
-				<nav class="hs-nav-links">
-					<h3>Learn More</h3>
-			        <ul class="list-unstyled secondary-nav-links">
-			            <li><a href="/page/about">About Us</a></li>
-			            <li><a href="/plans">Plans &amp; Features</a></li>
-			            <li><a href="/page/press">Press</a></li>
-			            <li><a href="https://docs.atavist.com/faq" target="_blank">FAQ</a></li>
-			            <li><a href="https://docs.atavist.com" target="_blank">Help Docs</a></li>
-			            <li>&nbsp;</li>
-			            <li>© 2016 Atavist</li>
-			            <li><a href="/page/privacy">Privacy Policy</a></li>
-			            <li><a href="/page/tos">Terms of Service</a></li>
-			        </ul>		        </nav>
-		        <nav class="hs-nav-links pull-right">
-		        	<h3>Follow Atavist</h3>
-		    	    <a id="social-footer-twitter" class="social-footer-link" target="_blank" href="https://twitter.com/atavist"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M810.5 154.8c-123.7 0-222.6 98.9-222.6 222.6 0 19.8 0 34.6 4.9 49.5-188-9.9-351.2-98.9-465-232.5-14.8 34.6-29.7 74.2-29.7 113.7 0 79.2 39.6 148.4 98.9 188-34.6 0-69.3-9.9-103.9-29.7v4.9c0 108.8 79.2 197.9 178.1 222.6-9.9 0-29.7 4.9-54.4 4.9-14.8 0-29.7 0-44.5-4.9 29.7 89 113.8 153.4 207.8 158.3-69.3 59.4-168.2 94-272.1 94h-54.4c98.9 64.3 217.7 98.9 346.3 98.9 415.5 0 638.2-341.3 638.2-638.2v-29.7c44.5-29.7 84.1-69.3 113.8-118.7-39.6 19.8-84.1 29.7-128.6 34.6 44.5-29.7 84.1-74.2 98.9-123.7-44.5 24.7-89 44.5-143.5 54.4-44.5-39.3-103.9-69-168.2-69"></path></svg></a> <a id="social-footer-facebook" class="social-footer-link" target="_blank" href="https://www.facebook.com/atavist.inc"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200"><path fill="#fff" d="M470 1200v-546.7h-180v-213.3h186.7v-160c-6.7-180 106.6-280 266.6-280 80 0 146.7 6.7 166.7 6.7v193.3h-113.3c-86.7 0-106.7 40-106.7 106.7v133.3h213.3l-26.7 213.3h-180v546.7h-226.6z"></path></svg></a>
-		        	<hr>
-			        <ul class="list-unstyled">
-			            <li>
-			                <a href="//magazine.atavist.com" id="mag-logo"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 471.2 47.5" enable-background="new 0 0 471.2 47.5" fill="#585858" xml:space="preserve">
-			            <path d="M2.9,19.9v-5.5h2.9C8.3,14.4,9,13.6,9,11V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H2.9z"></path>
-			            <path d="M41.1,22.5c0-1.2-0.2-2-0.6-2.6S39.3,19,38.4,19c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V4.3h7.6v13h0.1c0.9-1.8,2.7-3.6,6.4-3.6
-			                c5.1,0,7.1,3,7.1,7.9v14.1h-7.6V22.5z"></path>
-			            <path d="M63.6,36.4c-7.3,0-11.2-4.4-11.2-11.6c0-6.7,4.3-11.2,11.3-11.2c7.5,0,11.1,5.1,11.1,11.4v2h-15c0.3,3,1.6,4.1,3.8,4.1
-			                c1.9,0,2.8-0.7,3.4-2.1h7.7C73.8,33.5,70.3,36.4,63.6,36.4z M63.7,18.5c-2.2,0-3.4,1.2-3.8,4.1h7.3v-0.2
-			                C67.1,20.5,66.2,18.5,63.7,18.5z"></path>
-			            <path d="M113.3,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H113.3z"></path>
-			            <path d="M148.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
-			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.3-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-			                c-1.6,0-2.6,0.8-2.7,2.3h-7.3C138.8,16.8,142.8,13.7,148.8,13.7z M151.3,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-			                c0,1.3,0.8,2,2.2,2C150.2,31.3,151.3,29.1,151.3,26.7z"></path>
-			            <path d="M168.8,14.2l2.7,8.5c0.6,1.7,0.9,3.2,1.2,4.3c0.1,0.6,0.3,1.2,0.4,1.7h0.2c0.1-0.5,0.2-1,0.3-1.7c0.3-1.1,0.6-2.6,1.2-4.3
-			                l2.6-8.5h7l-7.7,21.6H169l-7.3-21.6H168.8z"></path>
-			            <path d="M186.8,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M201.2,3.5v7.7h-8.1V3.5H201.2z"></path>
-			            <path d="M397.5,30h6.3V19.9h-5.5v-5.7h13.1V30h4.9v5.7h-18.9V30z M411.8,3.5v7.7h-8.1V3.5H411.8z"></path>
-			            <path d="M230.4,19.9v-5.5h2.9c2.5,0,3.2-0.7,3.2-3.4V7.4h6.8v6.7h7.5v5.7h-7.3v7.1c0,2.2,0.6,3.2,3.6,3.2c1.1,0,2.1-0.1,3.8-0.5v5.7
-			                c-1.2,0.3-3.2,0.7-6.4,0.7c-4.8,0-8.5-2.2-8.5-7.8v-8.5H230.4z"></path>
-			            <path d="M306.8,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3h-0.1
-			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-			                c-1.6,0-2.6,0.8-2.7,2.3h-7.2C296.9,16.8,300.9,13.7,306.8,13.7z M309.4,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-			                c0,1.3,0.8,2,2.2,2C308.2,31.3,309.4,29.1,309.4,26.7z"></path>
-			            <path d="M322.8,36.6h7.3c0.2,1.5,1.3,2.2,3.2,2.2c2.3,0,3.4-1.3,3.4-3.6v-3h-0.2c-0.9,1.6-2.4,2.7-5.1,2.7c-6.1,0-9.3-3.6-9.3-10.3
-			                c0-7.3,4-10.9,9.1-10.9c3.2,0,5,1.6,5.7,2.8h0.1v-2.4h7.2v19.2c0,6.9-3.8,10.4-11.2,10.4C325.7,43.7,323,40.6,322.8,36.6z
-			                 M333.3,18.8c-2.2,0-3.6,1.8-3.6,5.7s1.4,5.7,3.6,5.7c2.4,0,3.4-1.8,3.4-4.3v-2.4C336.6,20.3,335.6,18.8,333.3,18.8z"></path>
-			            <path d="M358.9,13.7c6.5,0,9.6,2.3,9.6,8.2v7.1c0,0.8,0.4,1.1,1.1,1.1h1v5.5h-4.8c-2.3,0-3.2-0.5-3.8-2.3H362
-			                c-0.9,1.4-3.1,2.8-6.1,2.8c-3.7,0-7.6-1.2-7.6-6.8c0-2.6,1.2-4.6,3.3-5.6c2.4-1.2,4.2-1.4,9.9-1.6v-0.8c0-1.7-0.8-2.8-2.5-2.8
-			                c-1.6,0-2.6,0.8-2.7,2.3H349C349,16.8,353,13.7,358.9,13.7z M361.5,26.7c-3.1,0.1-3.9,0.2-4.6,0.6c-0.8,0.4-1.1,1.2-1.1,2
-			                c0,1.3,0.8,2,2.2,2C360.3,31.3,361.5,29.1,361.5,26.7z"></path>
-			            <path d="M393.1,14.2v5L383.2,30h10.2v5.7h-19.1v-5l10-10.9h-9.9v-5.7H393.1z"></path>
-			            <path d="M433.1,20c-0.4-0.6-1.2-0.9-2.1-0.9c-2.2,0-3.2,1.7-3.2,6v10.7h-7.6V14.2h7.3v3.5h0.1c1.1-2.1,3-4,6.7-4c5.1,0,7.1,3,7.1,8
-			                v14.1h-7.6V22.6C433.7,21.3,433.5,20.5,433.1,20z"></path>
-			            <path d="M456.3,36.4c-7.3,0-11.2-4.4-11.1-11.6c0-6.7,4.4-11.2,11.4-11.1c7.5,0,11.1,5.1,11,11.5l0,2l-15-0.1c0.3,3,1.5,4.1,3.8,4.1
-			                c1.9,0,2.8-0.7,3.4-2.1l7.7,0C466.5,33.6,463,36.4,456.3,36.4z M456.5,18.5c-2.2,0-3.4,1.2-3.8,4.1l7.3,0l0-0.2
-			                C459.8,20.5,459,18.5,456.5,18.5z"></path>
-			            <path d="M276.5,4.1l1.6,7.9c0.4,1.8,0.8,3.8,1,5.5c0.1,1,0.2,1.9,0.3,2.8h0.3c0.1-0.9,0.2-1.9,0.3-2.8c0.2-1.6,0.5-3.8,1-5.5
-			                l1.6-7.8h8.9v31.7H285V15.5h-0.4l-2.7,12.3h-5.1c0,0-2.7-11.6-2.8-12.3h-0.4v20.3h-6.3V4.1H276.5z"></path>
-			            <g>
-			                <path d="M218.1,18.7c-1.8,0-2.8,0.6-2.8,1.5c0,0.9,0.8,1.6,2.6,1.9l4.6,0.6c3.9,0.6,5.9,2.5,5.9,5.7c0,5.1-3.9,8-10.2,8
-			                    c-7.6,0-10.3-3.5-10.2-7.1h6.7c0.2,1.4,1.2,2.2,3.6,2.2c2.2,0,3.4-0.6,3.4-1.6c0-0.9-1-1.6-2.4-1.8l-4.4-0.6
-			                    c-3.8-0.5-6.4-2.8-6.4-6.3c0-4.3,3.2-7.5,9.7-7.5c6.9,0,9.5,3.6,9.7,7.1h-6.7C221.1,19.6,220.3,18.7,218.1,18.7z"></path>
-			            </g>
-			            <path d="M106,3.7H94.3l-5.4,32h7.5l0.9-5.7h2.9h0h2.9l0.9,5.7h7.5L106,3.7z M98.1,24.4l0.7-5.5c0.3-2.1,0.5-4.4,0.6-6
-			                c0.2-2.1,0.2-3.5,0.2-3.6h1c0,0.1,0.1,1.5,0.2,3.6c0.1,1.6,0.3,3.9,0.6,6l0.7,5.5H98.1z"></path>
-			            </svg></a>
-			                Visit <a href="//magazine.atavist.com" target="blank">The Atavist Magazine</a>, our team's very own, award-winning publication —&nbsp;made using Atavist. 
-			            </li>
-			        
-			        </ul>		        </nav>
-		</footer>		<script src="/static/js/dist/homesite.min.js"></script>
-		<script>
-			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-			ga('create', 'UA-40296216-10', 'auto');
-			ga('send', 'pageview');
-
-		</script>
-	
-</body></html>
+<!--
+	generated 173 seconds ago
+	generated in 0.094 seconds
+	served from batcache in 0.002 seconds
+	expires in 127 seconds
+-->
+<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly9hdXRvbWF0dGljLmNvbQ%3D%3D&amp;wpcomid=54117&amp;time=1558229685" style="display: none;"></iframe></body></html>
