@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226031913id_/https%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519183605id_/https%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Babbel.com
+# Privacy Statement | Babbel
 
 “Babbel” is a service offered by Lesson Nine GmbH, Max-Beer-Str. 2, 10119 Berlin, Germany. Through this privacy statement, Lesson Nine wishes to inform you of how your personal data are processed and in what form some of these data are made accessible for other users. All personal data are treated with the utmost care at Lesson Nine. All the necessary steps are taken to guarantee the security of these data. This privacy statement supplements the General Terms and Conditions of Business of Babbel. Please write to [privacy@babbel.com](mailto:privacy@babbel.com) if you have any queries relating to this document.
 
