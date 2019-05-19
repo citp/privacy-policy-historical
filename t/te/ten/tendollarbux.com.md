@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tendollarbux.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105502id_/http%3A//tendollarbux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tendollarbux.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519103358id_/http%3A//tendollarbux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Diagrams
 
