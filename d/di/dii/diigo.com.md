@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616033557id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519174616id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
 
 # Diigo.com Privacy Policy
 
@@ -10,7 +10,7 @@ Further details of the Diigo's privacy policy are outlined below.
 
 ### Children
 
-For children under 13, Diigo offers a limited feature set and website experience. We require consent from a teacher when children under the age of 13 want to register on Diigo, and offer a limited version of the website that removes certain social features, such as public profile. The only identifiable information we collect from children under 13 is an email address input teachers.
+For children under 13, Diigo offers a limited feature set and website experience. We require consent from a teacher when children under the age of 13 want to register on Diigo, and offer a limited version of the website that removes certain social features, such as public profile. The only identifiable information we collect from children under 13 is an email address input teachers.Parents can request deletion of student data.Student data are retained only for education purposes.
 
 ### Information We Collect
 
