@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223174754id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520135220id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav) for the most accurate reproduction.*
 
 # Privacy Statement | MilliporeSigma
 
@@ -39,7 +39,7 @@ With this data protection declaration, we explain to you which personal data is 
 
   
   |   | You can disable or block cookies in your browser software; however, this may result in restrictions regarding the usability of our websites.  
-  |   | For more information on the cookies used on our websites please [click here](https://www.emdmillipore.com/US/en/systempage.cookie.policy.pagelet2-systempage.cookie.policy).  
+  |   | For more information on the cookies used on our websites please [click here](http://www.emdmillipore.com/US/en/systempage.cookie.policy.pagelet2-systempage.cookie.policy).  
   | 2.2 | Google Analytics:  
   |   | Our websites use Google Analytics, a web analysis service provided by Google Inc. ("Google") to store "analytical cookies" on your device. This means that information about users and the use of our websites is transmitted to Google and processed on our behalf for the purpose of compiling reports on website activity, measuring website visits and visitors and providing similar services for us. This includes the transmission of your IP address, but it will not be merged with other Google data. In addition, your IP address is shortened (usually within the European Union) and saved by Google only in an abridged form. For data storage in the United States, Google's self-certification according to the Privacy Shield provides an appropriate level of data protection.  
   |   | You can object to the processing of your data for these purposes by installing a browser plugin (<https://tools.google.com/dlpage/gaoptout>). Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html>.  
@@ -125,7 +125,7 @@ Frankfurter Straße 250
 
 E-Mail: [privacy@emdgroup.com](mailto:privacy@emdgroup.com)
 
-Please find the contact details of our entities [here](https://www.emdmillipore.com/US/en/20180822_192545).
+Please find the contact details of our entities [here](http://www.emdmillipore.com/US/en/20180822_192545).
 
 (1) Legal basis: Our legitimate interests according to Art. 6 (1) (f) GDPR  
 (2) Legal basis: Performance of a contract according to Art. 6 (1) (b) GDPR  
