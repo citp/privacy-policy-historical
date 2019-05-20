@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206015652id_/https%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520165119id_/https%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy
 
@@ -178,4 +178,4 @@ If you have questions regarding products or services, please click [here](https:
 
 Not a U.S. resident? [Click here](https://www.sonycreativesoftware.com/corporate/noticetoeu) to learn more about our data protection practices.
 
-© 2003-2018 Sony Creative Software Inc. All Rights Reserved.
+© 2003-2019 Sony Creative Software Inc. All Rights Reserved.
