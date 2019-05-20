@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624062223id_/http%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewtrusts.org privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520223554id_/https%3A//www.pewtrusts.org/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pew Charitable Trusts
 
-Effective Date: May 30, 2018
+Effective Date: January 10, 2019
 
 The Pew Charitable Trusts (“Pew,” “we,” “us,” or “our”) values your private information and understands the need for security and trust surrounding such information.  We are committed to protecting your privacy, and this privacy policy (“Policy”) is intended to describe our information collection and dissemination practices in connection with The Pew Charitable Trusts family of websites located at www.pewtrusts.org or any website or service that links to or refers to this Policy (collectively, the “Sites”).
 
@@ -12,17 +12,19 @@ Please review the entire Policy and feel free to contact us using the contact in
 
 We may collect the following kinds of information when you use the Sites:
 
-__Information you provide directly to us_._ For certain activities, such as when you subscribe to our updates or newsletters, or contact us directly, we may collect some or all of the following types of information:
+_Information you provide directly to us._ For certain activities, such as when you register, subscribe to our updates or newsletters, or contact us directly, we may collect some or all of the following types of information:
 
   * Contact information, such as your full name, email address, mobile phone number, and mailing address;
-  * If you choose to respond to a posting on _Careers@Pew_ , your resume and other information relating to potential employment; and
+  * Your username and password; 
+  * If you choose to respond to a posting on _Careers@Pew_ , your resume and other information relating to potential employment; 
+  * • If you provide us with a signed release form, your likeness, image, name and/or voice recordings; and
   * Any other information you choose to provide to us.
 
 
 
 We may combine such information with information we may already have about you.
 
-__Information we collect automatically_._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
+_Information we collect automatically._ We may collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device and advertising identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.  We may also collect certain location information when you use our Sites, such as your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers.
 
 We and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, Local Shared Objects, and similar technologies to automatically collect this information.  For more information about cookies, pixel tags, Local Shared Objects, and similar technologies, please see the “Cookies” section below. 
 
@@ -41,8 +43,8 @@ We generally use the information we collect online to:
   * Analyze the use of the Sites and user data to understand and improve the Sites;
   * Customize the content you see when you use the Sites;
   * Evaluate your application for a position of employment at Pew;
-  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our Terms and Conditions [ _hyperlink to Terms_ ]; and
-  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms and Conditions](https://web.archive.org/en/about/terms-and-conditions); and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent (including using your likeness, image, name and/or voice on Pew’s website, social media channels, multimedia materials, print materials, podcasts, and any other works made by Pew, where you have provided us with your consent to do so).
 
 
 
@@ -50,17 +52,21 @@ We generally use the information we collect online to:
 
 We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-__Authorized third-party vendors and service providers_._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.  We take steps to prevent these third parties from using your information for any purpose other than the services they are providing.
+_Authorized third-party vendors and service providers._ We may share your information with third-party vendors and service-providers that help us with specialized services, including billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing. If you register for the SPARK Platform, we also share your information with our third party host of the SPARK Platform website and other users of the SPARK Platform, as described in the SPARK Platform section below. We take steps to prevent these third parties from using your information for any purpose other than the services they are providing.
 
-__Corporate affiliates__. We may share your information with our corporate affiliates that are subject to this policy.
+_Corporate affiliates_. We may share your information with our corporate affiliates that are subject to this policy.
 
-__Business transfers_._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+_Business transfers._ We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
 
-__Legal purposes_._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of The Pew Charitable Trusts, our affiliates, users, or the public.
+_Legal purposes._ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of The Pew Charitable Trusts, our affiliates, users, or the public.
 
-__With your consent or at your direction__. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
+_With your consent or at your direction_. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
 
 If you access third-party services, such as Facebook, Google, LinkedIn, or Twitter, from the Sites or to share information about your experience on the Sites with others, these third-party services may be able to collect information about you, including information about your activity on the Sites, and they may notify your connections on the third-party services about your use of the Sites, in accordance with their own privacy policies.
+
+## Spark Platform
+
+Our Sites link to the Shared Platform for Antibiotic Research and Knowledge platform (“SPARK Platform”), which is hosted by a third party (“Host”). Users that wish to register for the SPARK Platform must provide their full name and email address, which is shared with us and Host. In addition, if you register for the SPARK Platform, your user name will be accessible to any other registered user of the SPARK Platform, and he or she may be able to send you messages (including to the email address you registered with) through the SPARK Platform, and Pew is not responsible for the content of those messages. If you do not want other SPARK Platform users to have access to your user name or send you messages, you should not register for the SPARK Platform. Host’s information practices are governed by its own separate privacy policy, which you can review [here](https://www.collaborativedrug.com/pages/privacy_policy). 
 
 ## Security 
 
@@ -68,7 +74,7 @@ We use reasonable measures to help protect information from loss, theft, misuse 
 
 ## Your Choices
 
-You may opt out of our email newsletters by clicking the “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.  You may also opt out of all communications from Pew by contacting us using the contact information below.
+You may opt out of our email newsletters by clicking the “unsubscribe” at the bottom of each newsletter and following the subsequent instructions.  You may also opt out of all communications from Pew by contacting us using the contact information below. Where you have provided us with your consent to use your likeness, image, name and/or voice on Pew’s website, social media channels, multimedia materials, print materials, podcasts, and any other works made by Pew, you can later withdraw your consent, although given the nature of the Internet, it may not be possible to ensure the complete removal of your information from the Internet.
 
 You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on Adobe’s [Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Sites may no longer be available to you.
 
@@ -84,7 +90,7 @@ Some third parties collect information about users of our Sites to provide inter
 
 To opt out of interest-based advertising across browsers and devices from companies that participate in the [Digital Advertising Alliance](http://www.aboutads.info/) or [Network Advertising Initiative](http://www.networkadvertising.org/) opt-out programs, please visit their respective websites.  You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable all cross-device linking for interest-based advertising.  If you opt out, you will still receive ads but they may not be as relevant to you and your interests, and your experience on our Sites may be degraded.
 
-__Do-Not-Track Signals and Similar Mechanisms__. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+_Do-Not-Track Signals and Similar Mechanisms_. Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
 ## Cookies
 
