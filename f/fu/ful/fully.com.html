@@ -1,27 +1,54 @@
-<!--The following is the downloaded HTML source of the fully.com privacy policy that was archived on 2017-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170317073549id_/https%3A//www.fully.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fully.com privacy policy that was archived on 2019-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190520162700id_/https%3A//www.fully.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NXDMV3"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy - Fully</title>
 <meta name="description" content="Please review all information on the privacy policy and user data at Fully.com, it contains some important stuff.">
 <meta name="keywords" content="Fully, Ergo Depot, Jarvis, Capisco, Humanscale, HAG, Ergonomic Office Furniture">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="https://cdn.fully.com/media/favicon/default/Favicon-16x16_2x.png" type="image/x-icon">
-<link rel="shortcut icon" href="https://cdn.fully.com/media/favicon/default/Favicon-16x16_2x.png" type="image/x-icon">
+<link rel="icon" href="https://cf1.fully.com/media/favicon/default/Favicon-16x16_2x.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://cf1.fully.com/media/favicon/default/Favicon-16x16_2x.png" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'https://cdn.fully.com/js/blank.html';
-    var BLANK_IMG = 'https://cdn.fully.com/js/spacer.gif';
+    var BLANK_URL = 'https://cf1.fully.com/js/blank.html';
+    var BLANK_IMG = 'https://cf1.fully.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="https://cdn.fully.com/media/css_secure/5ce516028f44334fe6596a326aac3eca.css?cdn=d66b37e3caeb77c50e02f4476320cae8" media="all">
-<script type="text/javascript" src="https://cdn.fully.com/media/js/0d9e9294a81ea1f2f89640c92f679b9d.js?cdn=80caca41feea400e60f740a69d806e1c"></script>
+
+<meta property="fb:app_id" content="1799085290419711">
+
+<link rel="alternate" hreflang="en-us" href="https://www.fully.com/privacy-policy">
+<link rel="alternate" hreflang="en" href="https://www.fully.com/privacy-policy">
+<link rel="alternate" hreflang="en-fr" href="https://www.fully.eu/pages/privacy">
+<link rel="alternate" hreflang="en-de" href="https://www.fully.eu/pages/privacy">
+<link rel="alternate" hreflang="en-gb" href="https://www.fully.eu/pages/privacy">
+<link rel="alternate" hreflang="en-be" href="https://www.fully.eu/pages/privacy">
+<link rel="alternate" hreflang="en-nl" href="https://www.fully.eu/pages/privacy">
+<link rel="alternate" hreflang="en-ie" href="https://www.fully.eu/pages/privacy">
+
+<meta property="og:title" content="Privacy Policy - Fully">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://cf1.fully.com/skin/frontend/rwd/ergo/images/pizza-friday.jpg">
+<meta property="og:url" content="https://www.fully.com/privacy-policy">
+<meta property="og:description" content="Please review all information on the privacy policy and user data at Fully.com, it contains some important stuff.">
+<meta property="og:site_name" content="Default Store View">
+
+<meta property="twitter:title" content="Privacy Policy - Fully">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="https://cf1.fully.com/skin/frontend/rwd/ergo/images/twitter/pizza-friday.jpg">
+<meta property="twitter:description" content="Please review all information on the privacy policy and user data at Fully.com, it contains some important stuff.">
+<meta property="twitter:site" content="Default Store View">
+
+
+<link rel="stylesheet" type="text/css" href="https://cf1.fully.com/media/css_secure/28b23963f332bb38b62b4550b4a8e68f.css?cdn=2fef250cc22585da8dd90f074cb36544" media="all">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/PVC03aqfRXaLpGrSE4dtQqp0pg8ZXPHB1U50hGI7/widget.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NXDMV3"></script><script type="text/javascript" src="https://cf1.fully.com/media/js/a7e60e804d654dbe2a4ab8904ce9fefc.js?cdn=cc9dae8a1fbc82b8852b9e25b7d684d1"></script>
 <link rel="canonical" href="https://www.fully.com/privacy-policy">
+<link rel="stylesheet" href="https://cloud.typography.com/6321176/6008792/css/fonts.css">
 <!--[if  (lte IE 8) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="https://cdn.fully.com/media/css_secure/8d25308177766ee7c493aa0e479137ed.css?cdn=ada88e83068681d21bef1f82864c539c" media="all" />
+<link rel="stylesheet" type="text/css" href="https://cf1.fully.com/media/css_secure/a4e55daeb47a39d9614cfec9e384944b.css?cdn=86998c21d619d568f8d47fb15c9ebdae" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -37,7 +64,14 @@ Mage.Cookies.domain   = '.www.fully.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-	<!-- Google Tag Manager -->
+<script type="text/javascript">
+        if (!AFFIRM_AFFIRM.promos.getIsInitialized()) {
+            AFFIRM_AFFIRM.promos.initialize("5F3I1OJF6X2W9R79","https://cdn1.affirm.com/js/v2/affirm.js");
+        }
+        if (!AFFIRM_AFFIRM.promos.getIsScriptLoaded()) {
+            AFFIRM_AFFIRM.promos.loadScript();
+        }
+        </script>	<!-- Google Tag Manager -->
 	<noscript>
 		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXDMV3"
 				height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -59,19 +93,25 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 		})(window, document, 'script', 'dataLayer', 'GTM-NXDMV3');
 	</script>
 	<!-- End Google Tag Manager -->
-<script type="text/javascript">//<![CDATA[
+<!-- Gene_Braintree (My4wLjA=) -->
+<script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/PVC03aqfRXaLpGrSE4dtQqp0pg8ZXPHB1U50hGI7/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script><script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"It looks like youre visiting from outside our free shipping zone. We will happily ship most of our products to Alaska"});
-        //]]></script><!-- Hotjar Tracking Code for http://www.fully.com -->
+        //]]></script><!-- Hotjar Tracking Code for https://www.fully.com/ -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:236396,hjsv:5};
+        h._hjSettings={hjid:236396,hjsv:6};
         a=o.getElementsByTagName('head')[0];
         r=o.createElement('script');r.async=1;
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="//static.hotjar.com/c/hotjar-236396.js?sv=5"></script></head>
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-236396.js?sv=6"></script>
+
+<!--https://account.magento.com/scanner/-->
+<!--d0ca95937daddb5d7351368ae7ef6b7e--></head>
 <body class=" cms-page-view cms-privacy-policy">
             <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
     <script type="text/javascript">
@@ -107,143 +147,26 @@ ga('send', 'pageview');
     <div class="page">
         
 
-<header id="header" class="page-header">
-    <div class="wp-page-header-container">
-    <div class="page-header-container">
-        <a id="skip-nav" href="#header-nav" class="skip-nav">
-            <span class="line"></span>
-            <span class="line"></span>
-            <span class="line"></span>
-        </a>
-        <a class="logo" href="https://www.fully.com/" title="Fully ergonomic office furniture for all">
-            <img src="https://cdn.fully.com/skin/frontend/rwd/ergo/images/logo-fully.png" alt="Fully ergonomic office furniture for all" class="large">
-            <img src="https://cdn.fully.com/skin/frontend/rwd/ergo/images/logo-fully.png" alt="Fully ergonomic office furniture for all" class="small">
-        </a>
-
-                    <!--<div class="store-language-container"></div> -->
-            <!-- Navigation -->
-            <div id="header-nav" class="skip-content">
-                
-    <nav id="nav">
-        <ol class="nav-primary">
-            <li class="level0 nav-1 first level-top parent"><a href="https://www.fully.com/adjustable-height-desks.html" class="level-top   menu-text" title="Desks"><span>Desks</span></a><div class="menu-sub"><div class="menu-sub-inner"><div class="container"><ul class="level0"><li class="level1 nav-1-1 first"><ul class="level1"><li class="level2 nav-1-1-1 first parent menu-title column-2"><a href="https://www.fully.com/desks/brands.html" class="menu-title column-2 menu-text" title="By Brand"><span>By Brand</span></a><ul class="level2"><li class="level3 nav-1-1-1-1 first"><a href="https://www.fully.com/desks/desks-by-brand/jarvis-desks.html" class="menu-text" title="Jarvis"><span>Jarvis</span></a></li><li class="level3 nav-1-1-1-2"><a href="https://www.fully.com/desks/desks-by-brand/humanscale-desks.html" class="menu-text" title="Humanscale"><span>Humanscale</span></a></li><li class="level3 nav-1-1-1-3"><a href="https://www.fully.com/desks/desks-by-brand/ad-series-desks.html" class="menu-text" title="AD Series"><span>AD Series</span></a></li><li class="level3 nav-1-1-1-4 last"><a href="https://www.fully.com/desks/desks-by-brand/focal-desks.html" class="menu-text" title="Focal Upright Furniture"><span>Focal Upright Furniture</span></a></li></ul></li><li class="level2 nav-1-1-2 last parent menu-title column-2"><a href="https://www.fully.com/desks/materials.html" class="menu-title column-2 menu-text" title="By Top Material"><span>By Top Material</span></a><ul class="level2"><li class="level3 nav-1-1-2-1 first"><a href="https://www.fully.com/desk-top-material/desk-material-bamboo.html" class="menu-text" title="Bamboo"><span>Bamboo</span></a></li><li class="level3 nav-1-1-2-2"><a href="https://www.fully.com/desk-top-material/desk-material-hardwood-and-veneer.html" class="menu-text" title="Hardwood and Wood Veneer"><span>Hardwood and Wood Veneer</span></a></li><li class="level3 nav-1-1-2-3 last"><a href="https://www.fully.com/desk-top-material/desk-material-laminate.html" class="menu-text" title="Laminate and Powdercoat"><span>Laminate and Powdercoat</span></a></li></ul></li></ul></li><li class="level1 nav-1-2"><ul class="level1"><li class="level2 nav-1-2-1 first menu-title column-1"><a href="https://www.fully.com/adjustable-height-desks.html" class="menu-title column-1 menu-text" style="font-size: 1.5em;" title="Desks"><span>Desks</span></a></li><li class="level2 nav-1-2-2 last parent menu-title column-1"><a href="https://www.fully.com/desks/solutions.html" class="menu-title column-1 menu-text" title="Solutions"><span>Solutions</span></a><ul class="level2"><li class="level3 nav-1-2-2-1 first"><a href="https://www.fully.com/desks/shop-desks-by-size/standard-rectangle-desks.html" class="menu-text" title="Standard Sizes"><span>Standard Sizes</span></a></li><li class="level3 nav-1-2-2-2"><a href="https://www.fully.com/desks/shop-desks-by-size/compact-adjustable-desks.html" class="menu-text" title="Standing Desks For Small Spaces"><span>Standing Desks For Small Spaces</span></a></li><li class="level3 nav-1-2-2-3"><a href="https://www.fully.com/desks/shop-desks-by-size/l-shaped-and-corner-desks.html" class="menu-text" title="L Shaped and Corner Desks"><span>L Shaped and Corner Desks</span></a></li><li class="level3 nav-1-2-2-4"><a href="https://www.fully.com/desks/shop-desks-by-size/complete-workstations.html" class="menu-text" title="Complete Workstations"><span>Complete Workstations</span></a></li><li class="level3 nav-1-2-2-5"><a href="https://www.fully.com/desks/shop-desks-by-size/treadmill-desks.html" class="menu-text" title="Treadmill Desks"><span>Treadmill Desks</span></a></li><li class="level3 nav-1-2-2-6"><a href="https://www.fully.com/desks/shop-desks-by-size/conference-tables.html" class="menu-text" title="Conference"><span>Conference</span></a></li><li class="level3 nav-1-2-2-7 last"><a href="https://www.fully.com/desks/shop-desks-by-size/desk-tops.html" class="menu-text" title="Desk Tops"><span>Desk Tops</span></a></li></ul></li></ul></li><li class="level1 nav-1-3 banner-background menu-title"><a class="menu-banner" href="https://www.fully.com/blog/we-stand-with-red"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/standwithred.png" border="0" alt="(JARVIS) RED"></a><div class="wrapper-description"><a href="https://www.fully.com/blog/we-stand-with-red" class="banner-background menu-title menu-text" title="(JARVIS) RED"><span>(JARVIS) RED</span></a><div class="description"><a class="button" href="/blog/we-stand-with-red" title="Learn More">Learn More</a></div></div></li><li class="level1 nav-1-4 last banner-background menu-title"><a class="menu-banner" href="https://www.fully.com/clearance-sale.html"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/desks-featured-wingtop.jpg" border="0" alt="Clearance Sale"></a><div class="wrapper-description"><a href="https://www.fully.com/clearance-sale.html" class="banner-background menu-title menu-text" title="Clearance Sale"><span>Clearance Sale</span></a><div class="description"><a class="button" href="/clearance-sale.html" title="Shop Clearance">Shop Clearance</a></div></div></li></ul></div></div></div></li><li class="level0 nav-2 level-top parent"><a href="https://www.fully.com/seats.html" class="level-top   menu-text" title="Seats"><span>Seats</span></a><div class="menu-sub"><div class="menu-sub-inner"><div class="container"><ul class="level0"><li class="level1 nav-2-1 first"><ul class="level1"><li class="level2 nav-2-1-1 first last parent menu-title column-2"><a href="https://www.fully.com/seats/brands.html" class="menu-title column-2 menu-text" title="By Brand"><span>By Brand</span></a><ul class="level2"><li class="level3 nav-2-1-1-1 first"><a href="https://www.fully.com/seats/seats-by-brands/aeris.html" class="menu-text" title="Aeris"><span>Aeris</span></a></li><li class="level3 nav-2-1-1-2"><a href="https://www.fully.com/seats/seats-by-brands/focal-seats.html" class="menu-text" title="Focal Upright Furniture"><span>Focal Upright Furniture</span></a></li><li class="level3 nav-2-1-1-3"><a href="https://www.fully.com/seats/seats-by-brands/hag.html" class="menu-text" title="HAG"><span>HAG</span></a></li><li class="level3 nav-2-1-1-4"><a href="https://www.fully.com/seats/seats-by-brands/humanscale.html" class="menu-text" title="Humanscale"><span>Humanscale</span></a></li><li class="level3 nav-2-1-1-5"><a href="https://www.fully.com/seats/seats-by-brands/ongo.html" class="menu-text" title="ONGO"><span>ONGO</span></a></li><li class="level3 nav-2-1-1-6"><a href="https://www.fully.com/tic-toc" class="menu-text" title="Tic Toc"><span>Tic Toc</span></a></li><li class="level3 nav-2-1-1-7"><a href="https://www.fully.com/seats/seats-by-brands/varier.html" class="menu-text" title="Varier Seating"><span>Varier Seating</span></a></li><li class="level3 nav-2-1-1-8"><a href="https://www.fully.com/seats/seats-by-brands/via.html" class="menu-text" title="Via"><span>Via</span></a></li><li class="level3 nav-2-1-1-9 last"><a href="https://www.fully.com/seats/seats-by-brands/mykolme.html" class="menu-text" title="myKolme"><span>myKolme</span></a></li></ul></li></ul></li><li class="level1 nav-2-2"><ul class="level1"><li class="level2 nav-2-2-1 first menu-title column-1"><a href="https://www.fully.com/seats.html" class="menu-title column-1 menu-text" style="font-size: 1.5em;" title="Seats"><span>Seats</span></a></li><li class="level2 nav-2-2-2 last parent menu-title column-1"><a href="https://www.fully.com/seats/solutions/active-seating.html" class="menu-title column-1 menu-text" title="Active Seating"><span>Active Seating</span></a><ul class="level2"><li class="level3 nav-2-2-2-1 first"><a href="https://www.fully.com/seats/solutions/sit-stand-seating.html" class="menu-text" title="Sit-Stand Seating"><span>Sit-Stand Seating</span></a></li><li class="level3 nav-2-2-2-2"><a href="https://www.fully.com/seats/solutions/kneeling-chairs.html" class="menu-text" title="Kneeling Chairs"><span>Kneeling Chairs</span></a></li><li class="level3 nav-2-2-2-3"><a href="https://www.fully.com/seats/solutions/saddle-seats.html" class="menu-text" title="Saddle Chairs"><span>Saddle Chairs</span></a></li><li class="level3 nav-2-2-2-4"><a href="https://www.fully.com/seats/task-chairs.html" class="menu-text" title="Task Chairs"><span>Task Chairs</span></a></li><li class="level3 nav-2-2-2-5 last"><a href="https://www.fully.com/seats/solutions/side-chairs-and-stackers.html" class="menu-text" title="Side Chairs/Stackers"><span>Side Chairs/Stackers</span></a></li></ul></li></ul></li><li class="level1 nav-2-3 banner-background menu-title"><a class="menu-banner" href="https://www.fully.com/clearance-sale.html"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/puls_sale_feature-2.png" border="0" alt="Clearance Sale"></a><div class="wrapper-description"><a href="https://www.fully.com/clearance-sale.html" class="banner-background menu-title menu-text" title="Clearance Sale"><span>Clearance Sale</span></a><div class="description"><a class="button" href="/clearance-sale.html" title="Shop Now">Shop Clearance</a></div></div></li><li class="level1 nav-2-4 last banner-background menu-title"><a class="menu-banner" href="http://www.fully.com/blog/this-goes-out-to-all-my-side-seats"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/menu-images-side-stools.jpg" border="0" alt="This Goes Out to All My Side Seats"></a><div class="wrapper-description"><a href="http://www.fully.com/blog/this-goes-out-to-all-my-side-seats" class="banner-background menu-title menu-text" title="This Goes Out to All My Side Seats"><span>This Goes Out to All My Side Seats</span></a><div class="description"><a class="button" href="/blog/this-goes-out-to-all-my-side-seats" title="Learn More">Learn More</a></div></div></li></ul></div></div></div></li><li class="level0 nav-3 level-top parent"><a href="https://www.fully.com/accessories.html" class="level-top   menu-text" title="Accessories"><span>Accessories</span></a><div class="menu-sub"><div class="menu-sub-inner"><div class="container"><ul class="level0"><li class="level1 nav-3-1 first"><ul class="level1"><li class="level2 nav-3-1-1 first last parent menu-title column-2"><a href="https://www.fully.com/accessories/desk-accessories.html" class="menu-title column-2 menu-text" title="Desk Accessories"><span>Desk Accessories</span></a><ul class="level2"><li class="level3 nav-3-1-1-1 first"><a href="https://www.fully.com/accessories/desk-accessories/anti-fatigue-mats.html" class="menu-text" title="Anti-Fatigue Mats &amp; Balance Boards"><span>Anti-Fatigue Mats &amp; Balance Boards</span></a></li><li class="level3 nav-3-1-1-2"><a href="https://www.fully.com/accessories/desk-accessories/cpu-holders.html" class="menu-text" title="CPU Holders"><span>CPU Holders</span></a></li><li class="level3 nav-3-1-1-3"><a href="https://www.fully.com/accessories/desk-accessories/keyboard-trays.html" class="menu-text" title="Keyboard Trays"><span>Keyboard Trays</span></a></li><li class="level3 nav-3-1-1-4"><a href="https://www.fully.com/accessories/desk-accessories/lighting.html" class="menu-text" title="Lighting"><span>Lighting</span></a></li><li class="level3 nav-3-1-1-5"><a href="https://www.fully.com/accessories/desk-accessories/monitor-arms.html" class="menu-text" title="Monitor Arms"><span>Monitor Arms</span></a></li><li class="level3 nav-3-1-1-6"><a href="https://www.fully.com/accessories/desk-accessories/drawers-and-trays.html" class="menu-text" title="Drawers and Pencil Trays"><span>Drawers and Pencil Trays</span></a></li><li class="level3 nav-3-1-1-7"><a href="https://www.fully.com/accessories/desk-accessories/treadmills.html" class="menu-text" title="Treadmills"><span>Treadmills</span></a></li><li class="level3 nav-3-1-1-8 last"><a href="https://www.fully.com/accessories/desk-accessories/wire-management.html" class="menu-text" title="Wire Management"><span>Wire Management</span></a></li></ul></li></ul></li><li class="level1 nav-3-2"><ul class="level1"><li class="level2 nav-3-2-1 first menu-title"><a href="https://www.fully.com/accessories.html" class="menu-title menu-text" style="font-size: 1.5em;" title="Accessories"><span>Accessories</span></a></li><li class="level2 nav-3-2-2 parent menu-title column-2"><a href="https://www.fully.com/accessories/seating-accessories.html" class="menu-title column-2 menu-text" title="Seating Accessories"><span>Seating Accessories</span></a><ul class="level2"><li class="level3 nav-3-2-2-1 first last"><a href="https://www.fully.com/accessories/seating-accessories/footring-footrest.html" class="menu-text" title="Footrings / Footrests"><span>Footrings / Footrests</span></a></li></ul></li><li class="level2 nav-3-2-3 last parent menu-title column-2"><a href="https://www.fully.com/accessories/office-accessories.html" class="menu-title column-2 menu-text" title="Office Accessories"><span>Office Accessories</span></a><ul class="level2"><li class="level3 nav-3-2-3-1 first"><a href="https://www.fully.com/accessories/office-accessories/floor-lamps.html" class="menu-text" title="Floor Lamps"><span>Floor Lamps</span></a></li><li class="level3 nav-3-2-3-2 last"><a href="https://www.fully.com/accessories/office-accessories/storage.html" class="menu-text" title="Storage"><span>Storage</span></a></li></ul></li></ul></li><li class="level1 nav-3-3 banner-background menu-title"><a class="menu-banner" href="https://www.fully.com/blog/roost-where-you-wanna-your-active-office-on-the-move"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/menu-images-roost.jpg" border="0" alt="Roost Where You Wanna"></a><div class="wrapper-description"><a href="https://www.fully.com/blog/roost-where-you-wanna-your-active-office-on-the-move" class="banner-background menu-title menu-text" title="Roost Where You Wanna"><span>Roost Where You Wanna</span></a><div class="description"><a class="button" href="/blog/roost-where-you-wanna-your-active-office-on-the-move" title="Learn More">Learn More</a></div></div></li><li class="level1 nav-3-4 last banner-background menu-title"><a class="menu-banner" href="https://www.fully.com/blog/desk-jams-vol-3"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/desk-jams-3.png" border="0" alt="Desk Jams: Vol. 3"></a><div class="wrapper-description"><a href="https://www.fully.com/blog/desk-jams-vol-3" class="banner-background menu-title menu-text" title="Desk Jams: Vol. 3"><span>Desk Jams: Vol. 3</span></a><div class="description"><a class="button" href="/blog/desk-jams-vol-3" title="Listen Now">Listen Now</a></div></div></li></ul></div></div></div></li><li class="level0 nav-4 last level-top parent"><a href="https://www.fully.com/about-us" class="level-top   menu-text" title="About Us"><span>About Us</span></a><div class="menu-sub"><div class="menu-sub-inner"><div class="container"><ul class="level0"><li class="level1 nav-4-1 first column-big"><ul class="level1"><li class="level2 nav-4-1-1 first last parent menu-title no-link"><a href="https://www.fully.com/about-us/" class="menu-title no-link menu-text" title="We are now Fully"><span>We are now Fully</span></a><ul class="level2"><li class="level3 nav-4-1-1-1 first column-sub"><ul class="level3"><li class="level4 nav-4-1-1-1-1 first item-text no-link"><a href="javascript:void(0)" class="item-text no-link menu-text no-link" style="no-link" title=""><span>The idea behind Fully is simple:</span></a></li><li class="level4 nav-4-1-1-1-2 no-link"><a href="javascript:void(0)" class="no-link menu-text no-link" style="item-text no-link" title=""><span>Movement is good. When you move, when you are fully in your body, you feel more present, engaged, and alive. More of you shows up to work, to relationships, to life.</span></a></li><li class="level4 nav-4-1-1-1-3 last no-link"><a href="javascript:void(0)" class="no-link menu-text no-link" style="item-text no-link" title=""><span>888-508-3725</span></a></li></ul></li><li class="level3 nav-4-1-1-2 column-sub column-sub-small"><ul class="level3"><li class="level4 nav-4-1-1-2-1 first"><a href="https://www.fully.com/about-us" class="menu-text" title="About Us"><span>About Us</span></a></li><li class="level4 nav-4-1-1-2-2"><a href="https://www.fully.com/our-manufacturers" class="menu-text" title="About Our Manufacturers"><span>About Our Manufacturers</span></a></li><li class="level4 nav-4-1-1-2-3"><a href="https://www.fully.com/press-media" class="menu-text" title="Press &amp; Media"><span>Press &amp; Media</span></a></li><li class="level4 nav-4-1-1-2-4 last"><a href="https://www.fully.com/blog" class="menu-text" title="Blog"><span>Blog</span></a></li></ul></li><li class="level3 nav-4-1-1-3 last column-sub column-sub-ssmall"><ul class="level3"><li class="level4 nav-4-1-1-3-1 first last only-banner"><a class="menu-banner" href="https://www.fully.com/b-corp"><img width="70" height="119" src="https://cdn.fully.com/media/catalog/category/certified.png" border="0" alt="Certified"></a><a href="https://www.fully.com/b-corp" class="only-banner menu-text" title="Certified"><span>Certified</span></a></li></ul></li></ul></li></ul></li><li class="level1 nav-4-2 banner-background menu-title"><a class="menu-banner" href="https://www.fully.com//about-us"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/who-we-are.png" border="0" alt="Who We Are"></a><div class="wrapper-description"><a href="https://www.fully.com//about-us" class="banner-background menu-title menu-text" title="Who We Are"><span>Who We Are</span></a><div class="description"><a class="button" href="/about-us" title="Learn More">Read More</a></div></div></li><li class="level1 nav-4-3 last banner-background menu-title"><a class="menu-banner" href="https://www.fully.com//blog"><img width="288" height="342" src="https://cdn.fully.com/media/catalog/category/how-we-work.png" border="0" alt="How We Work"></a><div class="wrapper-description"><a href="https://www.fully.com//blog" class="banner-background menu-title menu-text" title="How We Work"><span>How We Work</span></a><div class="description"><a class="button" href="/blog" title="Learn More">Learn More</a></div></div></li></ul></div></div></div></li>        </ol>
-    </nav>
-                <div class="show-mobile">
-                    <div class="block-social-links">
-<ul>
-<li><a class="ficon facebook" title="Facebook" href="https://www.facebook.com/fullyus" target="_blank" rel="nofollow">facebook</a></li>
-<li><a class="ficon twitter" title="Twitter" href="https://twitter.com/fully_us" target="_blank" rel="nofollow">twitter</a></li>
-<li><a class="ficon linkedin" title="Linkedin" href="https://www.linkedin.com/company/ergo-depot" target="_blank" rel="nofollow">linkedin</a></li>
-<li><a class="ficon instagram" title="Instagram" href="https://www.instagram.com/fully_us/" target="_blank" rel="nofollow">instagram</a></li>
-<li><a class="ficon googleplus" title="Googleplus" href="https://plus.google.com/u/1/115322259169290635445" target="_blank" rel="nofollow">googleplus</a></li>
-<li><a class="ficon youtube" title="Youtube" href="https://www.youtube.com/channel/UCTAD7xGtkQdKUmU5vbPnhVg" target="_blank" rel="nofollow">youtube</a></li>
-</ul>
-</div>                    <div class="account-cart-wrapper">
-                        <a href="#" data-target-element="#header-account-mobile" class="dropdown-link account-link" title="Account &amp; Help">
-                            <span class="label">Account &amp; Help</span>
-                        </a>
-
-                        <!-- Account -->
-                        <div id="header-account-mobile" class="dropdown-content dropdown-account">
-                            <div class="links">
+<div class="new-layout">
+    <div class="header-top">
+        <div class="contained">
+            <div class="header-top-left">
+              <ul>
+<li><a href="/workplace-solutions">Commercial Sales</a></li>
+<li><a href="/kids">Fully Kids</a></li>
+</ul>            </div>
+            <div class="header-top-right">
+              <ul>
+<li><a href="tel:1-888-508-3725">888-508-3725</a></li>
+<li><a href="/help-page">Help</a></li>
+</ul>              <div class="links">
         <ul>
-                                    <li class="first"><a href="https://www.fully.com/qquoteadv/index/" title="My Quote" class="top-link-qquoteadv">My Quote</a></li>
-                                                <li><a href="https://www.fully.com/sales/order/history/" title="My Orders">My Orders</a></li>
-                                                <li><a href="https://www.fully.com/customer/account/login/" title="Log In">Log In</a></li>
-                                                <li class=" last"><a href="https://www.fully.com/customer/account/create/" title="Register">Register</a></li>
+                                    <li class="first last"><a href="https://www.fully.com/customer/account/login/" title="Log In">Log In</a></li>
                         </ul>
 </div>
-                            <ul>
-<li><a title="FAQ" href="https://www.fully.com/faq">F.A.Q.</a></li>
-<li><a title="Shipping" href="https://www.fully.com/shipping">Shipping</a></li>
-<li><a title="Returns" href="https://www.fully.com/returns">Returns</a></li>
-<li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
-</ul>
-<p>Give us a ring <strong>888-508-3725</strong></p>                        </div>
-                    </div>
-                    <div class="block-contact-phone"><span class="phone">888-508-3725</span>
-<ul>
-<li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
-</ul>
-</div>                </div>
-            </div>
-
-            <div class="nav-right">
-                <!-- Moving utility nav into main nav -->
-                <div class="utility-links">
-                    <div class="block-contact-phone"><span class="phone">888-508-3725</span>
-<ul>
-<li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
-</ul>
-</div>                    <div class="account-cart-wrapper">
-                        <a href="#" data-target-element="#header-account" class="skip-link skip-account" title="Account &amp; Help">
-                            <span class="label">Account &amp; Help</span>
-                        </a>
-
-                        <!-- Account -->
-                        <div id="header-account" class="skip-content">
-                            <div class="links">
-        <ul>
-                                    <li class="first"><a href="https://www.fully.com/qquoteadv/index/" title="My Quote" class="top-link-qquoteadv">My Quote</a></li>
-                                                <li><a href="https://www.fully.com/sales/order/history/" title="My Orders">My Orders</a></li>
-                                                <li><a href="https://www.fully.com/customer/account/login/" title="Log In">Log In</a></li>
-                                                <li class=" last"><a href="https://www.fully.com/customer/account/create/" title="Register">Register</a></li>
-                        </ul>
-</div>
-                            <ul>
-<li><a title="FAQ" href="https://www.fully.com/faq">F.A.Q.</a></li>
-<li><a title="Shipping" href="https://www.fully.com/shipping">Shipping</a></li>
-<li><a title="Returns" href="https://www.fully.com/returns">Returns</a></li>
-<li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
-</ul>
-<p>Give us a ring <strong>888-508-3725</strong></p>                        </div>
-                    </div>
-                </div>
-                <!-- Skip Links -->
-                <div class="skip-links">
-                    <div class="tablet-utility-links">
-                        <div class="account-cart-wrapper">
-                            <div class="account-wrap">
-                                <a href="#" data-target-element="#header-account-tablet" class="skip-link " title="Account &amp; Help">
-                                    <svg id="account" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
-                                      <image class="account-wht" id="account.svg" width="42" height="42" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAQAAABvygHQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAggJChqm5DN3AAABRUlEQVRIx+WWS5WEMBBFX3CQkYCFWIgFLGABC2OhLWABJNASGAkg4c2CZk5gCFWB9KrvOrknv3opQIQ1W44kyZEta3mGJKxeupCR1R1lwxhNfuVVLT0lfLq0E6VdqtKJSpJ0x7OLiFW3tciomNRBQ+JKrUoaGVWoJicSkz5VsyOj3iKNQMtJfFATdScfaBtReqlQh1PlcEEJ0B7E3sqYvPVAe5wA3WXlS1zvjmGQs9+oxCU8LIAZvfm5tcZPQHWmAN1ypkZVmEZQeXi4TcTNeKJHr9NvdSWbk6e/PP+GpV5oFXX/V/+qMmClyKdtVkn9Ch9JwpXvs23Lf32MWBoIUScx5Nt4yGOv1N/3GeFfwDKLkpyCl3vjgva0q1JuGlPwy79/p9n+TwUYWkxZpcBXkXmdAOAL6JNGiyuUnWiS1HBS9qJ65l+P8ziCn8OsvQAAAABJRU5ErkJggg=="></image>
-                                      <image class="account-yellow" width="42" height="42" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEUAAAD/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1SQAAAAv8spXAAAAD3RSTlMAM3fdIszuEYhmu5lEVapPRUbyAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+EDCQgfB3ZJnVgAAADaSURBVDjL1ZRJDsMgDEWZJ4f6/rctomkUYgyWuupbP5kPtlGKoE1Dqz3GYseajeg8Xni3MnXAG2GRInoc8JFVEz5IbNGniYErm4mKWXo+n6BQtfyuAlWB6ylVue46qrK9Ben5rWwYzbAYmGNUD7XguNUNS7NluPKCUztchlIg78U/IlZT+oL5YmpciPU1tuBVGTFbOi52tjHa4xRPPgODLI+ZBVwAYnNwN+bNrTsT8Xy15+zPOPdhe/wVwUnMz+6KivayUZC0p42S638fIUnVNPv+5hQljNrCvgFFzTMWuDjcQwAAAABJRU5ErkJggg=="></image>
-                                    </svg>
-                                </a>
-                            </div>
-                            <div class="phone-number">
-                                <a href="#" data-target-element="#header-phone-number-tablet" class="phone-num skip-link " title="888-508-3725">
-                                    <svg id="phone-number" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="42" viewBox="0 0 43 42">
-                                        <image class="phone-wht" width="43" height="42" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAqCAQAAACACGruAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfhAggJChqm5DN3AAABSUlEQVRIx63XUZWDMBQE0GkdYGEtxEJWAhawEAuxEA0rgUqgEmohlTD7AUtheQkhL/nsKfcMw0tob6hYtDCwMOiWDx544uf2rLFm0DAwUl4jv6oycmR+RZqrKc9IkgwAu1KyoysgZ9QwcijLOV1CSZ52XJhzj5Iuj4YqlOxzjZbd/BENtWhsj0a6TT0B4KBH/d9cMqwodei030N0LVBhaGiL0ORIRdqT72dRl0BN9hqfmdN/t7RttPTwSLT6EpNqUID+6u2XoHIBVoUC4iHttGgvPSolCohbQNdqolevz3rcWdqxAgDhva99WLizxzHZW81CekuGopdytoLUzwoVLKfVr3RWOkXiJDofPX07dtjM8ljLThlUwYYMqihhyKCaIVs3b0t0zdsWXfrdo7G6U4H+oNojHPcF/Zxib3wr/mEJeT0jX/qkAPALLZuA3KMxWSIAAAAASUVORK5CYII="></image>
-                                        <image class="phone-yellow" width="42" height="42" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAM1BMVEUAAAD/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1ST/1SQAAAAv8spXAAAAD3RSTlMAIlV3RJnd7ogRM2bMu6pF34YoAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+EDCQggCckvmmMAAADnSURBVDjLjdRZAoQgCABQylypvP9tp5oySRH47SkCGgAf02zOWECIxbp8hw+Rd9EU98czJ43Pn7BMapdbmbCTO+Se9LmxaWVkdh+JnpPZU9lJfsj5Wm+ItF2JnR5QaU0tB3tuCU70SGTlPR2U5V5m3pOmktW5sJVzlTyRD85ROXlGtrGppVHLKj2OJexFBkEuRa6CrGoSDgqTOv17R32UaCnfSDKV/OKmb/udVNXbVHFU9WMWZkVkSDqKx0sYNozI8RhWIrlf3hWWyGETUC0heq28xqWUx2nV8ilNJeOulXBeb/FaAfwAfiYg8hpNSzIAAAAASUVORK5CYII="></image>
-                                    </svg>
-                                </a>
-                            </div>
-                            <!-- Account -->
-                            <div id="header-account-tablet" class="skip-content">
-                                <div class="links">
-        <ul>
-                                    <li class="first"><a href="https://www.fully.com/qquoteadv/index/" title="My Quote" class="top-link-qquoteadv">My Quote</a></li>
-                                                <li><a href="https://www.fully.com/sales/order/history/" title="My Orders">My Orders</a></li>
-                                                <li><a href="https://www.fully.com/customer/account/login/" title="Log In">Log In</a></li>
-                                                <li class=" last"><a href="https://www.fully.com/customer/account/create/" title="Register">Register</a></li>
-                        </ul>
-</div>
-                                <ul>
-<li><a title="FAQ" href="https://www.fully.com/faq">F.A.Q.</a></li>
-<li><a title="Shipping" href="https://www.fully.com/shipping">Shipping</a></li>
-<li><a title="Returns" href="https://www.fully.com/returns">Returns</a></li>
-<li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
-</ul>
-<p>Give us a ring <strong>888-508-3725</strong></p>                            </div>
-                            <div id="header-phone-number-tablet" class="skip-content">
-                                <p><a href="tel:888-508-3725">888-508-3725</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Cart -->
-                    <div class="header-minicart">
-                        <a href="#header-cart" class="skip-cart no-count">
+                <!-- Cart -->
+                <div class="header-minicart">
+                  <a href="#header-cart" class="skip-cart no-count">
 	<span class="label">Cart</span>
 	<span class="count">0</span>
 </a>
@@ -262,7 +185,7 @@ ga('send', 'pageview');
 				type: 'get',
 				success: function(response) {
 					if (response.length > 0) {
-						$('#header').find('.header-minicart').html(response);
+						$('.header-top').find('.header-minicart').html(response);
 
 						// Open Popup Cart
 						$j.openDropdownCart();
@@ -277,18 +200,24 @@ ga('send', 'pageview');
 	})(jQuery);
 //]]>
 </script>
-                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <header id="header" class="page-header">
+        <div class="page-header-container">
+            <div class="nav-right">
+                <div class="skip-links">
                     <div class="header-minisearch">
                         <a href="#header-search" class="skip-link skip-search">
                             <span class="label">Search</span>
                         </a>
-                        <!-- Search -->
                         <div id="header-search" class="skip-content">
                             
 <form id="search_mini_form" action="https://www.fully.com/catalogsearch/result/" method="get">
 	<div class="input-box category-search">
-		<select name="cat" id="search_category" class="" title=""><option value="">All Categories</option><option value="3">Desks</option><option value="5">Seats</option><option value="9">Accessories</option><option value="56">Desk Top Material</option><option value="83">Favorites</option><option value="94">Clearance Sale</option></select>	</div>
+		<select name="cat" id="search_category" class="" title=""><option value="">All Categories</option><option value="119">Standing Desks</option><option value="129">Chairs</option><option value="136">Accessories</option></select>	</div>
     <div class="input-box">
         <label for="search">Search:</label>
         <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search entire store here...">
@@ -305,13 +234,56 @@ ga('send', 'pageview');
 </form>
                         </div>
                     </div>
-
                 </div>
             </div>
+            <a class="logo" href="https://www.fully.com/" title="Fully ergonomic office furniture for all">
+                <img src="https://cf1.fully.com/skin/frontend/rwd/ergo/images/logo-fully.png" alt="Fully ergonomic office furniture for all" class="large">
+                <img src="https://cf1.fully.com/skin/frontend/rwd/ergo/images/logo-fully.png" alt="Fully ergonomic office furniture for all" class="small">
+            </a>
+            
+    <nav id="nav">
+        <ol class="nav-primary">
+            <li class="level0 nav-1 first parent"><a href="https://www.fully.com/standing-desks.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/Jarvis.png"><span>Standing Desks</span></a><ul class="level0" style="display:none"><li class="level1 nav-1-1 first"><a href="https://www.fully.com/standing-desks/jarvis.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/All-standing-desks.png"><span>Jarvis Adjustable Desks</span></a></li><li class="level1 nav-1-2"><a href="https://www.fully.com/standing-desks/desk-converters.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/desk-convertors.png"><span>Desk Converters</span></a></li><li class="level1 nav-1-3"><a href="https://www.fully.com/standing-desks/l-shaped.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/L-shaped.png"><span>L-Shaped</span></a></li><li class="level1 nav-1-4"><a href="https://www.fully.com/standing-desks/small-spaces.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-small-spaces.png"><span>For Small Spaces</span></a></li><li class="level1 nav-1-5"><a href="https://www.fully.com/standing-desks/kids.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kids-v2.png"><span>For Kids</span></a></li><li class="level1 nav-1-6 last"><a href="https://www.fully.com/standing-desks/conference-and-side-tables.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Conference-side-tables-v2_1_.png"><span>Conference &amp; Side Tables</span></a></li></ul></li><li class="level0 nav-2 parent"><a href="https://www.fully.com/chairs.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/For-standing-desks.png"><span>Chairs</span></a><ul class="level0" style="display:none"><li class="level1 nav-2-1 first"><a href="https://www.fully.com/chairs/for-standing-desks.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/All-chairs.png"><span>For Standing Desks</span></a></li><li class="level1 nav-2-2"><a href="https://www.fully.com/chairs/for-traditional-desks.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-traditional-desks.png"><span>For Traditional Desks</span></a></li><li class="level1 nav-2-3"><a href="https://www.fully.com/chairs/kneeling.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kneeling.png"><span>For Kneeling</span></a></li><li class="level1 nav-2-4"><a href="https://www.fully.com/chairs/small-spaces.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-small-spaces-1.png"><span>For Small Spaces</span></a></li><li class="level1 nav-2-5"><a href="https://www.fully.com/chairs/kids.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kids-1.png"><span>For Kids</span></a></li><li class="level1 nav-2-6 last"><a href="https://www.fully.com/chairs/home-and-beyond.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-home-beyond.png"><span>For Home &amp; Beyond</span></a></li></ul></li><li class="level0 nav-3 last parent"><a href="https://www.fully.com/accessories.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/All-accessories.png"><span>Accessories</span></a><ul class="level0" style="display:none"><li class="level1 nav-3-1 first"><a href="https://www.fully.com/accessories/jarvis-accessories.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Jarvis-accessories.png"><span>Jarvis Accessories</span></a></li><li class="level1 nav-3-2"><a href="https://www.fully.com/accessories/standing-mats.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Standing_mats-balance-boards.png"><span>Standing Mats &amp; Balance Boards</span></a></li><li class="level1 nav-3-3"><a href="https://www.fully.com/accessories/monitor-arms.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Monitor-arms.png"><span>Monitor Arms</span></a></li><li class="level1 nav-3-4"><a href="https://www.fully.com/accessories/wire-management.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Wire-mgmt.png"><span>Wire Management</span></a></li><li class="level1 nav-3-5"><a href="https://www.fully.com/accessories/storage.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Storage.png"><span>Storage</span></a></li><li class="level1 nav-3-6"><a href="https://www.fully.com/accessories/cpu-holders.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/CPU-holders.png"><span>CPU Holders</span></a></li><li class="level1 nav-3-7"><a href="https://www.fully.com/accessories/keyboard-trays.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Keyboard-trays.png"><span>Keyboard Trays</span></a></li><li class="level1 nav-3-8"><a href="https://www.fully.com/accessories/lighting.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Lighting.png"><span>Lighting</span></a></li><li class="level1 nav-3-9 last"><a href="https://www.fully.com/accessories/foot-rests.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Foot-rests.png"><span>Foot Rests</span></a></li></ul></li>        </ol>
+    </nav>
+        </div>
+    </header>
 
+    <div class="header-top-mobile">
+                <a id="skip-nav" href="#header-nav" class="skip-nav">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </a>
+        <div id="header-nav" class="skip-content">
+            <div class="show-mobile new-layout">
+                <div class="top-header">
+                    <div class="links">
+        <ul>
+                                    <li class="first last"><a href="https://www.fully.com/customer/account/login/" title="Log In">Log In</a></li>
+                        </ul>
+</div>
+                    <ul>
+<li><a href="/help-page">Help</a></li>
+</ul>                </div>
+                <div class="nav">
+                    
+    <nav id="nav">
+        <ol class="nav-primary">
+            <li class="level0 nav-1 first parent"><a href="https://www.fully.com/standing-desks.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/Jarvis.png"><span>Standing Desks</span></a><ul class="level0" style="display:none"><li class="level1 nav-1-1 first"><a href="https://www.fully.com/standing-desks/jarvis.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/All-standing-desks.png"><span>Jarvis Adjustable Desks</span></a></li><li class="level1 nav-1-2"><a href="https://www.fully.com/standing-desks/desk-converters.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/desk-convertors.png"><span>Desk Converters</span></a></li><li class="level1 nav-1-3"><a href="https://www.fully.com/standing-desks/l-shaped.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/L-shaped.png"><span>L-Shaped</span></a></li><li class="level1 nav-1-4"><a href="https://www.fully.com/standing-desks/small-spaces.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-small-spaces.png"><span>For Small Spaces</span></a></li><li class="level1 nav-1-5"><a href="https://www.fully.com/standing-desks/kids.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kids-v2.png"><span>For Kids</span></a></li><li class="level1 nav-1-6 last"><a href="https://www.fully.com/standing-desks/conference-and-side-tables.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Conference-side-tables-v2_1_.png"><span>Conference &amp; Side Tables</span></a></li></ul></li><li class="level0 nav-2 parent"><a href="https://www.fully.com/chairs.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/For-standing-desks.png"><span>Chairs</span></a><ul class="level0" style="display:none"><li class="level1 nav-2-1 first"><a href="https://www.fully.com/chairs/for-standing-desks.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/All-chairs.png"><span>For Standing Desks</span></a></li><li class="level1 nav-2-2"><a href="https://www.fully.com/chairs/for-traditional-desks.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-traditional-desks.png"><span>For Traditional Desks</span></a></li><li class="level1 nav-2-3"><a href="https://www.fully.com/chairs/kneeling.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kneeling.png"><span>For Kneeling</span></a></li><li class="level1 nav-2-4"><a href="https://www.fully.com/chairs/small-spaces.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-small-spaces-1.png"><span>For Small Spaces</span></a></li><li class="level1 nav-2-5"><a href="https://www.fully.com/chairs/kids.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-kids-1.png"><span>For Kids</span></a></li><li class="level1 nav-2-6 last"><a href="https://www.fully.com/chairs/home-and-beyond.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/For-home-beyond.png"><span>For Home &amp; Beyond</span></a></li></ul></li><li class="level0 nav-3 last parent"><a href="https://www.fully.com/accessories.html" class="level0 has-children"><img src="https://cf1.fully.com/media/catalog/category/All-accessories.png"><span>Accessories</span></a><ul class="level0" style="display:none"><li class="level1 nav-3-1 first"><a href="https://www.fully.com/accessories/jarvis-accessories.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Jarvis-accessories.png"><span>Jarvis Accessories</span></a></li><li class="level1 nav-3-2"><a href="https://www.fully.com/accessories/standing-mats.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Standing_mats-balance-boards.png"><span>Standing Mats &amp; Balance Boards</span></a></li><li class="level1 nav-3-3"><a href="https://www.fully.com/accessories/monitor-arms.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Monitor-arms.png"><span>Monitor Arms</span></a></li><li class="level1 nav-3-4"><a href="https://www.fully.com/accessories/wire-management.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Wire-mgmt.png"><span>Wire Management</span></a></li><li class="level1 nav-3-5"><a href="https://www.fully.com/accessories/storage.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Storage.png"><span>Storage</span></a></li><li class="level1 nav-3-6"><a href="https://www.fully.com/accessories/cpu-holders.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/CPU-holders.png"><span>CPU Holders</span></a></li><li class="level1 nav-3-7"><a href="https://www.fully.com/accessories/keyboard-trays.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Keyboard-trays.png"><span>Keyboard Trays</span></a></li><li class="level1 nav-3-8"><a href="https://www.fully.com/accessories/lighting.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Lighting.png"><span>Lighting</span></a></li><li class="level1 nav-3-9 last"><a href="https://www.fully.com/accessories/foot-rests.html" class="level1 "><img src="https://cf1.fully.com/media/catalog/category/Foot-rests.png"><span>Foot Rests</span></a></li></ul></li>        </ol>
+    </nav>
+                </div>
+                <div class="bottom-nav">
+                    <ul>
+<li><a href="/workplace-solutions">Commercial Sales</a></li>
+<li><a href="/kids">Fully Kids</a></li>
+</ul>
+<span><a href="tel:1-888-508-3725">888-508-3725</a></span>                </div>
+            </div>
         </div>
     </div>
-</header>
+</div>
+
+<!--{FULLY_NOTIFICATIONS_CONTAINER_2ca178da209daecef07be86e4dac41ea}--><!--/{FULLY_NOTIFICATIONS_CONTAINER_2ca178da209daecef07be86e4dac41ea}-->
 
 <!-- Config Nivo -->
 
@@ -374,45 +346,160 @@ ga('send', 'pageview');
     <div class="map-popup-text" id="map-popup-text">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
     <div class="map-popup-text" id="map-popup-text-what-this">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
 </div>
-<div class="std"><div class="page-title">
+
+    <script type="application/ld+json">
+        {"@context":"http:\/\/schema.org","@type":"Store","name":"Fully Portland","image":"https:\/\/cf1.fully.com\/skin\/frontend\/rwd\/ergo\/images\/logo-fully.png","description":"Fully ergonomic office furniture for all","openingHours":"Mo-Su 10:00-18:00","telephone":"5034777729","alternateName":"Ergo Depot","address":{"@type":"PostalAddress","streetAddress":"1010 SE Water Ave","addressLocality":"Portland","addressRegion":"OR","addressCountry":"USA"},"url":"https:\/\/www.fully.com\/","sameAs":["https:\/\/www.facebook.com\/fullyus\/","https:\/\/www.linkedin.com\/company\/fully-us","https:\/\/twitter.com\/fully_us",null]}    </script>
+    <script type="application/ld+json">
+        {"@context":"http:\/\/schema.org","@type":"Store","name":"Fully San Francisco","image":"https:\/\/cf1.fully.com\/skin\/frontend\/rwd\/ergo\/images\/logo-fully.png","description":"Fully ergonomic office furniture for all","openingHours":"Mo-Fr 10:00-18:00","telephone":"4156545467","alternateName":"Ergo Depot","address":{"@type":"PostalAddress","streetAddress":"245 Kansas St","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"USA"},"url":"https:\/\/www.fully.com\/","sameAs":["https:\/\/www.facebook.com\/fullyus\/","https:\/\/www.linkedin.com\/company\/fully-us","https:\/\/twitter.com\/fully_us",null]}    </script>
+<div class="std"><style>
+
+ul {
+  margin-bottom: 12px !important;
+}
+
+</style>
+
 <h1>Privacy Policy</h1>
-</div>
-<div class="title-desc">&nbsp;</div>
 <div class="content-page">
-<h4>What information does Fully collect?</h4>
+</div>
+<p>Last modified: 2019-03-08</p>
+
+<h4>Introduction</h4>
+<p>Fully LLC ("Fully" or "We") respects your privacy and are committed to protecting it through our compliance with this policy.</p>
+<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website fully.com (our "Website") and our practices for collecting, using, maintaining, protecting, and disclosing that information.</p>
+<p>This policy applies to information we collect:</p>
 <ul>
-<li>We collect information from you when you place an order on our site.</li>
-<li>When ordering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.</li>
-<li>We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is never used for marketing purposes.</li>
-<li>Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.</li>
+<li>On this Website.</li>
+<li>In email, text, and other electronic messages between you and this Website.</li>
+<li>When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.</li>
+<li>Through any post-purchase surveys, feedback provided on social media or other websites, and user experience testing.</li>
 </ul>
-<h4>How does Fully use your information?</h4>
-<p>We may use the information we collect from you in the following ways:</p>
-<p style="float: right; max-width: 50%; margin-left: 10px;"><img alt="Privacy Policy" src="https://cdn.fully.com/media/wysiwyg/snowden.jpg"></p>
+
+<p>It does not apply to information collected by:</p>
 <ul>
-<li>To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
-<li>To allow us to better service you in responding to your customer service requests.</li>
-<li>To quickly process your transactions.</li>
-<li>To administer a contest, promotion, survey or other site feature.</li>
+<li>us offline or through any other means, including on any other website operated by Fully or any third party (including our affiliates and subsidiaries); or</li>
+<li>any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.</li>
 </ul>
-<h4>How does Fully protect visitor information?</h4>
-<p>We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.</p>
-<h4>Does Fully use "cookies"?</h4>
-<p>Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
-<p>We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
-<p>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at 888-508-3725.</p>
-<h4>Does Fully disclose the information it collects to outside parties?</h4>
-<p>Never.</p>
-<p>We never sell, trade, or otherwise transfer to outside parties. However, non-personally identifiable, aggregate visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-<h4>Third party links</h4>
-<p>In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).</p>
-<h4>Questions and feedback</h4>
-<p>We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at <a href="mailto:sales@fully.com">sales@fully.com</a>.</p>
-<h4>Terms and Conditions</h4>
-<p>Please also visit our <a href="https://www.fully.com/terms">Terms and Conditions</a> section establishing use, disclaimers, and limitations of liability governing the use of our website.</p>
-<h4>Your consent</h4>
-<p>By using our site, you consent to our privacy policy.</p>
-</div></div>
+
+<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
+
+<h4>Children Under the Age of 13</h4>
+<p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, or email address. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at <a href="mailto:privacy@fully.com">privacy@fully.com</a>.</p>
+
+<h4>Information We Collect About You and How We Collect It</h4>
+<p>We collect several types of information from and about users of our Website, including information:</p>
+<ul>
+<li>by which you may be personally identified, such as name, postal address, e-mail address, telephone number, payment card information, or any other identifier by which you may be contacted online or offline ("personal information");</li>
+<li>that is about you but individually does not identify you, such as password, IP address, and location; and</li>
+<li>about your internet connection, the equipment you use to access our Website, and usage details.</li>
+</ul>
+<p>We collect this information:</p>
+<ul>
+<li>Directly from you when you provide it to us.</li>
+<li>Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.</li>
+<li>From third parties, for example, our business partners.</li>
+</ul>
+
+<h4>Information You Provide to Us</h4>
+<p>The information we collect on or through our Website may include:</p>
+<ul>
+<li>Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, posting material or reviews, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.</li>
+<li>Records and copies of your correspondence (including email addresses), if you contact us.</li>
+<li>Your responses to surveys that we might ask you to complete for research purposes.</li>
+<li>Details of transactions you carry out through our Website and of the fulfillment of your orders. You will be required to provide financial information before placing an order through our Website.</li>
+<li>Your search queries on the Website.</li>
+</ul>
+
+<p>You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
+
+<h4>Information We Collect Through Automatic Data Collection Technologies</h4>
+<p>As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:</p>
+<ul>
+<li>Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.</li>
+<li>Information about your computer and internet connection, including your IP address, operating system, and browser type.</li>
+</ul>
+<p>We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). Some internet browsers have incorporated Do Not Track features, and when turned on, they send a signal to the websites you visit, telling the website that you do not want to be tracked while browsing. Websites differ in how they respond to these Do Not Track signals, as there is not yet a common understanding of how to interpret the Do Not Track signal. Because of this lack of clarity, this Website does not respond to a browser's Do Not Track signal.</p>
+<p>The information we collect automatically may include personal information or we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:</p>
+<ul>
+<li>Estimate our audience size and usage patterns.</li>
+<li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
+<li>Speed up your searches.</li>
+<li>Recognize you when you return to our Website.</li>
+</ul>
+<p>The technologies we use for this automatic data collection may include:</p>
+<ul>
+<li>Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+Web Beacons. Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Fully, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
+<li>Google Analytics. We use a tool called "Google Analytics" to collect information about use of this Website. Google Analytics collects information such as how often users visit this Website, what pages they visit when they do so, and what other sites they used prior to coming to this Website. We use the information we get from Google Analytics only to improve this Website. Google Analytics collects only the IP address assigned to you on the date you visit this Website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Website, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.</li>
+<li>Google Tag Manager. To improve the user experience on our Website, we use Google Tag Manager (GTM). GTM is a code that helps us track user behavior on the Website and then pushes the data to our Google Analytics account. The data is organized and allows us to assess and review for potential site improvements. Learn more about Google Tag Manager online at <a href="https://www.google.com/analytics/tag-manager/" target="_blank">https://www.google.com/analytics/tag-manager/</a>.</li>
+<li>Hotjar.  We use a tool called Hotjar to provide analytics about the use of our Website.  More information on Hotjar and its data policies can be found here: <a href="https://www.hotjar.com/legal/policies/privacy" target="_blank">https://www.hotjar.com/legal/policies/privacy</a></li>
+<li>Bounce Exchange.  We use a tool called Bounce Exchange to provide analytics about the use of our Website.  More information on Bounce Exchange and its data policies can be found here: <a href="https://www.bouncex.com/privacy/" target="_blank">https://www.bouncex.com/privacy/</a></li>
+<li>GetSiteControl.    We use a tool called GetSiteControl to provide analytics about the use of our Website.  More information on GetSiteControl and its data policies can be found here: <a href="https://getsitecontrol.com/privacy/" target="_blank">https://getsitecontrol.com/privacy/</a></li>
+</ul>
+
+<h4>How We Use Your Information</h4>
+<p>We use information that we collect about you or that you provide to us, including any personal information:</p>
+<ul>
+<li>To present our Website and its contents to you.</li>
+<li>To provide you with information, products, or services that you request from us.</li>
+<li>To fulfill any other purpose for which you provide it.</li>
+<li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
+<li>To notify you about changes to our Website or any products or services we offer or provide though it.</li>
+<li>In any other way we may describe when you provide the information.</li>
+<li>For any other purpose with your consent.</li>
+</ul>
+<p>We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile.</p>
+
+<h4>Disclosure of Your Information</h4>
+<p>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
+<p>We may disclose personal information that we collect or you provide as described in this privacy policy:</p>
+<ul>
+<li>To our subsidiaries and affiliates.</li>
+<li>To contractors, service providers, and other third parties we use to support our business. These may include the following:</li>
+<ul>
+<li>Braintree. We use Braintree for some of our payment processing tasks.  More information about Braintree's data practices and usage may be found online at <a href="https://www.braintreepayments.com/legal/braintree-privacy-policy" target="_blank">https://www.braintreepayments.com/legal/braintree-privacy-policy</a>.</li>
+<li>Mailchimp.  We use Mailchimp for many of our emailing and marketing tasks. More information about Mailchimp's data practices may be found online at <a href="https://mailchimp.com/legal/privacy/" target="_blank">https://mailchimp.com/legal/privacy/</a>.</li>
+</ul>
+<li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Fully LLC's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Fully LLC about our Website users is among the assets transferred.</li>
+<li>To fulfill the purpose for which you provide it.</li>
+<li>For any other purpose disclosed by us when you provide the information.
+With your consent.</li>
+</ul>
+<p>We may also disclose your personal information:</p>
+<ul>
+<li>To comply with any court order, law, or legal process, including to respond to any government or regulatory request.</li>
+<li>To enforce or apply our <a href="/terms#general" target="_blank">terms of use</a> or <a href="/terms" target="_blank">terms of sale</a> and other agreements, including for billing and collection purposes.</li>
+<li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Fully, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
+
+<h4>Choices About How We Use and Disclose Your Information</h4>
+<p>We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:</p>
+<ul>
+<li>Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.</li>
+<li>Promotional Offers from Fully. If you do not wish to have your contact information used by Fully to promote our own or third parties' products or services, you can opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an email stating your request to <a href="mailto:privacy@fully.com">privacy@fully.com</a>. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions. This opt out does not apply to information provided to Fully as a result of a product purchase, warranty registration, product service experience, or other transactions.</li>
+</ul>
+
+<h4>Accessing and Correcting Your Information</h4>
+<p>You can review and change your personal information by logging into the Website and visiting your account profile page.</p>
+<p>You may also send us an email at <a href="mailto:privacy@fully.com">privacy@fully.com</a> to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.</p>
+<p>If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our <a href="/terms#general" target="_blank">terms of use</a>.</p>
+
+<h4>Your California Privacy Rights</h4>
+<p>California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We DO NOT disclose personal information to third parties for their direct marketing purposes.</p>
+
+<h4>Data Security</h4>
+<p>We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.</p>
+<p>The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website.</p>
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.]</p>
+
+<h4>Changes to Our Privacy Policy</h4>
+<p>It is our policy to post any changes we make to our privacy policy on this page.  If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.</p>
+
+<h4>Contact Information</h4>
+
+<p>To ask questions or comment about this privacy policy and our privacy practices, contact us at: <a href="mailto:privacy@fully.com">privacy@fully.com</a></p>
+
+
+</ul></div></div>
 <!-- Config Nivo -->
 
 <script type="text/javascript">
@@ -424,40 +511,53 @@ ga('send', 'pageview');
             </div>
         </div>
                 <div class="footer-container">
-    <div class="footer">
-        <div class="footer-links small">
+    <div class="footer footer-row">
+        <ul class="blocks-container">
+            <li>
+                <div class="footer-links">
+<h5>About</h5>
+<ul>
+<li><a title="Our Story" href="https://www.fully.com/about-us">Our Story</a></li>
+<li><a title="Blog" href="https://www.fully.com/blog">Blog</a></li>
+<li><a title="Customer Reviews" href="https://www.fully.com/reviews">Customer Reviews</a></li>
+<li><a title="Careers" href="https://www.fully.com/careers">Careers</a></li>
+<li><a title="Press &amp; Research" href="https://www.fully.com/press-media">Press &amp; Research</a></li>
+</ul>
+</div>            </li>
+            <li>
+                <div class="footer-links">
 <h5>Products</h5>
 <ul>
-<li><a title="Desks" href="https://www.fully.com/desks.html">Desks</a></li>
-<li><a title="Seats" href="https://www.fully.com/seats.html">Seats</a></li>
+<li><a title="Desks" href="https://www.fully.com/standing-desks.html">Desks</a></li>
+<li><a title="Chairs" href="https://www.fully.com/chairs.html">Chairs</a></li>
 <li><a title="Accessories" href="https://www.fully.com/accessories.html">Accessories</a></li>
 </ul>
-</div>        <div class="footer-links">
-<h5>Customer Service</h5>
+</div>            </li>
+            <li>
+                <div class="footer-links">
+<h5>Support</h5>
 <ul>
-<li><a title="F.A.Q." href="https://www.fully.com/faq">F.A.Q.</a></li>
+<li><a title="FAQ" href="https://www.fully.com/faq">FAQ</a></li>
 <li><a title="Shipping" href="/shipping-information">Shipping</a></li>
 <li><a title="Returns" href="https://www.fully.com/returns">Returns</a></li>
 <li><a title="Contact" href="https://www.fully.com/contacts">Contact</a></li>
+<li><a title="Commercial Sales" href="/workplace-solutions">Commercial Sales</a></li>
 </ul>
-</div>        <div class="footer-links large">
-<div class="sub-col sub-col-1">
-<h5>Nice To Meet You</h5>
-<ul>
-<li><a title="About Us" href="https://www.fully.com/about-us">About Us</a></li>
-<li><a title="Blog" href="https://www.fully.com/blog">Blog</a></li>
-<li><a title="About Our Manufacturers" href="https://www.fully.com/our-manufacturers">About Our Manufacturers</a></li>
-<li><a title="Press &amp; Media" href="https://www.fully.com/press-media">Press &amp; Media</a></li>
-</ul>
-</div>
-<div class="sub-col sub-col-2"><a title="B Corporation Certification" href="https://www.fully.com/b-corporation/"><img alt="" src="https://cdn.fully.com/media/wysiwyg/BCorp_logo_2016_black.png"> </a></div>
-</div>        <div class="footer-links last medium">
+</div>            </li>
+            <li class="certified-logos">
+                <div class="footer-links">
+<a title="B Corporation Certification"><img src="https://cf1.fully.com/media/wysiwyg/BBB-Logo.png" alt="" style="width: auto; height: 103px;"></a>
+&nbsp;&nbsp;
+<a title="B Corporation Certification" href="https://www.fully.com/b-corporation/"><img src="https://cf1.fully.com/media/wysiwyg/Certified-B-logo.png" alt="" style="width: auto; height: 103px;"></a>
+</div>            </li>
+            <li class="double-size">
+                <div class="footer-links contact-row" style="padding-top: 2px;">
 <div class="footer-contact-info">
 <h5>Portland Showroom</h5>
 <ul>
-<li>117 SE Taylor, Suite 301</li>
+<li>1010 SE Water Avenue</li>
 <li>Portland, OR 97214</li>
-<li><span class="phone">503-477-7729</span></li>
+<li><a href="tel:1-503-477-7729"><span class="phone">503-477-7729</span></a></li>
 <li><a title="Email to Portland Showroom" onclick="this.href=this.href
               .replace(/AT/,'@')
               .replace(/DOT/,'.')" href="mailto:visitpdxATfullyDOTcom" target="_blank">visitpdx<!-- >@. -->@<!-- >@. -->fully<!-- >@. -->.<!-- >@. -->com</a></li>
@@ -468,52 +568,101 @@ ga('send', 'pageview');
 <ul>
 <li>245 Kansas Street</li>
 <li>San Francisco, CA 94103</li>
-<li><span class="phone">415-654-5467</span></li>
+<li><a href="tel:1-415-654-5467"><span class="phone">415-654-5467</span></a></li>
 <li><a title="Email to San Francisco Showroom" onclick="this.href=this.href
               .replace(/AT/,'@')
               .replace(/DOT/,'.')" href="mailto:visitsfATfullyDOTcom" target="_blank">visitsf<!-- >@. -->@<!-- >@. -->fully<!-- >@. -->.<!-- >@. -->com</a></li>
 </ul>
 </div>
-<div class="footer-contact-info">
-<h5>Baltimore Showroom</h5>
-<ul>
-<li>10001 Franklin Square Dr., Ste C</li>
-<li>Nottingham, MD 21236</li>
-<li>410-261-4772</li>
-<li><a title="Email to Baltimore Showroom" onclick="this.href=this.href
-              .replace(/AT/,'@')
-              .replace(/DOT/,'.')" href="mailto:visitbtmATfullyDOTcom" target="_blank">visitbtm<!-- >@. -->@<!-- >@. -->fully<!-- >@. -->.<!-- >@. -->com</a></li>
-</ul>
-</div>
-</div>        <div class="footer-bottom">
-            <div class="social-footer">
-                <div class="block block-social-links">
-<h4>Share us with friends</h4>
+</div>            </li>
+            <li>
+                <div class="social-footer">
+                    <div class="block block-social-links">
 <ul>
 <li><a class="ficon facebook" title="Facebook" href="https://www.facebook.com/fullyus/" target="_blank" rel="nofollow">facebook</a></li>
 <li><a class="ficon twitter" title="Twitter" href="https://twitter.com/fully_us" target="_blank" rel="nofollow">twitter</a></li>
 <li><a class="ficon instagram" title="instagram" href="https://www.instagram.com/fully_us/" target="_blank" rel="nofollow">instagram</a></li>
-<li><a class="ficon googleplus" title="Googleplus" href="https://plus.google.com/u/1/115322259169290635445" target="_blank" rel="nofollow">googleplus</a></li>
+<li><a class="ficon linkedin" title="LinkedIn" href="https://www.linkedin.com/company/fully-us/" target="_blank" rel="nofollow">linkedin</a></li>
 <li><a class="ficon pinterest" title="Pinterest" href="https://www.pinterest.com/fully_us/" target="_blank" rel="nofollow">pinterest</a></li>
 <li><a class="ficon youtube" title="Youtube" href="https://www.youtube.com/channel/UCTAD7xGtkQdKUmU5vbPnhVg" target="_blank" rel="nofollow">youtube</a></li>
 </ul>
-</div>            </div>
-        	<address class="copyright">© Fully (Formerly Ergo Depot). All Rights Reserved.</address>
-        	
-<ul>
-	<li><a title="Terms" href="https://www.fully.com/terms">Terms</a></li>
-	<li><a title="Privacy Policy" href="https://www.fully.com/privacy-policy">Privacy Policy</a></li>
-</ul>
-        </div>
+</div>                </div>
+                <div class="footer-links">
+<a title="B Corporation Certification"><img src="https://cf1.fully.com/media/wysiwyg/BBB-Logo.png" alt="" style="width: auto; height: 103px;"></a>
+&nbsp;&nbsp;
+<a title="B Corporation Certification" href="https://www.fully.com/b-corporation/"><img src="https://cf1.fully.com/media/wysiwyg/Certified-B-logo.png" alt="" style="width: auto; height: 103px;"></a>
+</div>                
+            </li>
+        </ul>
+        <div class="footer-bottom">        
+            <address class="copyright">© Fully (Formerly Ergo Depot). All Rights Reserved.</address>
+            <ul>
+<li><a title="Terms" href="https://www.fully.com/terms">Terms</a></li>
+<li><a title="Privacy Policy" href="https://www.fully.com/privacy-policy">Privacy Policy</a></li>
+</ul>        </div>
     </div>
 </div>
                 
 
 <div id="wishlist_edit_action_container"></div>
 
-    </div>
+<div id="submissionSuccess" style="display: none;">
+    <ul class="messages">
+        <li class="success-msg">
+            <ul>
+                <li><span>Your request has been submitted</span></li>
+            </ul>
+        </li>
+    </ul>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"28b55e5d52","applicationID":"14982300","transactionName":"NVJSN0NXDEBQAkBeVgwYZRFYGQtdVQRMGUkKRw==","queueTime":0,"applicationTime":43,"atts":"GRVRQQtNH04=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="application/javascript">
+jQuery(document).on('ready', function () {
+    formSelection = jQuery(".cms-ajax-form, .cms-captcha-ajax-form");
+    formSelection.each(function (idx, el) {
+        var $form = jQuery(el);
+        var varienForm = new VarienForm(jQuery(el).attr('id'));
+        $form.on('submit', function (event) {
+            event.preventDefault();
+
+            if (varienForm.validator.validate()) {
+                submitButton = $form.closest('form').find(':submit');
+                submitButton.hide();
+                imgElement = jQuery('<img src="https://cf1.fully.com/skin/frontend/rwd/ergo/images/opc-ajax-loader.gif" />');
+                submitButton.before(imgElement);
+
+                var formUrl = 'https://www.fully.com/cms/form/processor/uncache/5cdf47af9ba72/';
+                if ($form.hasClass('cms-captcha-ajax-form')) {
+                    formUrl = 'https://www.fully.com/cms/form/captchaProcessor/uncache/5cdf47af9bccc/';
+                }
+
+                jQuery.ajax({
+                    url: formUrl,
+                    data: {
+                        form: $form.serialize(),
+                        action: $form.attr('action')
+                    },
+                    cache: false,
+                    type: 'POST'
+                }).success(function () {
+                    $form.prepend(jQuery('#submissionSuccess').html());
+                    jQuery('html, body').animate({
+                        scrollTop: $form.offset().top - 100
+                    }, 1000);
+                    submitButton.show();
+                    imgElement.hide();
+                }).error(function () {
+                    alert('An error has occurred. Please contact us for assistance.');
+                    window.location = '/contacts';
+                });
+            }
+
+            return false;
+        });
+    });
+});
+</script>    </div>
+
+
 
 
 </body></html>
