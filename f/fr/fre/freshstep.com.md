@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004114006id_/https%3A//www.thecloroxcompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520172915id_/https%3A//www.thecloroxcompany.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Clorox Company
 
-[Política de privacidad [Spanish]](https://web.archive.org/es-us-privacy/)
+[Política de privacidad](https://web.archive.org/es-us-privacy/)
 
-Clorox and its [family of companies](http://www.thecloroxcompany.com/products/our-brands/) (collectively, “we,” “us,” “our”) provide this Privacy Policy Statement (“Privacy Statement”) to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through our websites, our social media pages that we control, and other online or mobile services, applications or advertisements that link to this Privacy Statement (collectively hereinafter, our “Properties”).
+Clorox and its [family of companies](https://www.thecloroxcompany.com/brands/) (collectively, “we,” “us,” “our”) provide this Privacy Policy Statement (“Privacy Statement”) to inform you of our practices regarding the collection, use and disclosure of information that you provide to us or that we collect from you through our websites, our social media pages that we control, and other online or mobile services, applications or advertisements that link to this Privacy Statement (collectively hereinafter, our “Properties”).
 
 Before using our Properties or providing information to us, please carefully review this Privacy Statement. By using one of our Properties, including registering for an account or accessing one of our Properties, you agree that we may collect, process and use your information in accordance with this Privacy Statement, as revised from time to time.
 
