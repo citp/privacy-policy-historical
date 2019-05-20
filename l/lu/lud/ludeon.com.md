@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ludeon.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028212229id_/https%3A//ludeon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ludeon.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520093350id_/https%3A//ludeon.com/privacy) for the most accurate reproduction.*
 
 # Ludeon Privacy Policy
 
@@ -44,7 +44,7 @@ We collect information globally and primarily store that information in the Unit
 
 Users residing in certain countries, including the EEA, are afforded certain rights regarding their personal information. Except where an exception or exemption applies, these rights include the right to access, correct, and request deletion your personal information.
 
-If you believe we have data about you and you want a copy of that data, or want the data erased, please email Ludeon support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#35594051505a5b5d505945755258545c591b565a58) with the specifics of your subject access request (“SAR”). We will respond within thirty (30) days.
+If you believe we have data about you and you want a copy of that data, or want the data erased, please email Ludeon support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91fde4f5f4fefff9f4fde1d1f6fcf0f8fdbff2fefc) with the specifics of your subject access request (“SAR”). We will respond within thirty (30) days.
 
 In the case of erasure SARs, we will erase what we can but be aware that in some cases we need to retain data as required by law or for our legitimate business purposes (including tax reporting and security).
 
@@ -136,8 +136,6 @@ We may assign or transfer this Policy, as well as information covered by this Po
 
 ## Contact information
 
-For general support or questions please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#462a33222329282e232a3606212b272f2a6825292b)
+For general support or questions please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9c5dccdccc6c7c1ccc5d9e9cec4c8c0c587cac6c4)
 
-Data protection and privacy handling policies are the responsibility of Tynan Sylvester: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e094998e818ece93998c968593948592a0878d81898cce838f8d)
-
-Ludeon Studios Inc. 77 Buena Vista Rd, Ottawa, Ontario, Canada k1m0v4.
+Data protection and privacy handling policies are the responsibility of Tynan Sylvester: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d4a0adbab5bafaa7adb8a2b1a7a0b1a694b3b9b5bdb8fab7bbb9)
