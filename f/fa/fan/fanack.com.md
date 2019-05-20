@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908015708id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520215354id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
 
 # Fanack Privacy Statement - Fanack.com
 
 __October 31st, 2011 / September 5th, 2018
 
-**In this notice, we explain how we handle any personal data that we obtain through our web sites or when you contact us by mail or phone. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our Fanack web sites.**
+ **In this notice, we explain how we handle any personal data that we obtain through our web sites or when you contact us by mail or phone. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our Fanack web sites.**
 
 ### Summary
 
@@ -34,12 +34,12 @@ If you upload images to a Fanack web site, you should avoid uploading images wit
 
 We collect the following information when you use our web sites, contact us, or sign up for our newsletter. When you contact us by mail, phone or through the contact form or chat on our web sites: we collect your name, email address or phone number, and any other information you may provide to us. When you sign up for our newsletter: we collect your name and email address.
 
-**We use this information:**
+ **We use this information:**
 
 To reply to your information request when you contacted us or have a customer question.  
 For our own marketing communication correspondence, most importantly our newsletter.
 
-**We store:**
+ **We store:**
 
   * Customer support information for up to a year.
   * Marketing information for up to five years.
@@ -70,10 +70,10 @@ If you edit or publish an article, an additional cookie will be saved in your br
 
 We use the following cookies:
 
-Name | How Long | Placed By | Reason  
+Name| How Long| Placed By| Reason  
 ---|---|---|---  
-_gat | 1 minute | Google Inc. | We use Google Analytics. This is a web analytics service provided by Google, Inc. to count visitors to our web sites and analyse their usage of the sitesto help us determine the value of our content to our users. [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy/).  
-_ga | 2 years from set/update | Google Inc. | We use Google Analytics. This is a web analytics service provided by Google, Inc. to count visitors to our web sites and analyse their usage of the sitesto help us determine the value of our content to our users. [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy/).  
+_gat| 1 minute| Google Inc.| We use Google Analytics. This is a web analytics service provided by Google, Inc. to count visitors to our web sites and analyse their usage of the sitesto help us determine the value of our content to our users. [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy/).  
+_ga| 2 years from set/update| Google Inc.| We use Google Analytics. This is a web analytics service provided by Google, Inc. to count visitors to our web sites and analyse their usage of the sitesto help us determine the value of our content to our users. [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy/).  
   
 Visitor comments may be checked through an automated spam detection service, we use <https://akismet.com/>, see their privacy policy at <https://automattic.com/privacy/>
 
@@ -128,3 +128,15 @@ Finally, you have the right to lodge a complaint with a supervisory authority. I
 You can contact us with any questions you may have about the processing of your personal data or the use of cookies by us, or to exercise the above rights, at: [Fanack](https://fanack.com/contact/).
 
 [](https://fanack.com/privacy-statement/?print=pdf)[](https://fanack.com/privacy-statement/?print=print)
+
+## We would like to ask you something …
+
+Fanack is an independent media organisation, not funded by any state or any interest group, that distributes in the Middle East and the wider world unbiased analysis and background information, based on facts, about the Middle East and North Africa.
+
+The website grew rapidly in breadth and depth and today forms a rich and valuable source of information on 21 countries, from Morocco to Oman and from Iran to Yemen, both in Arabic and English. We currently reach six million readers annually and growing fast.
+
+In order to guarantee the impartiality of information on the Chronicle, articles are published without by-lines. This also allows correspondents to write more freely about sensitive or controversial issues in their country. All articles are fact-checked before publication to ensure that content is accurate, current and unbiased.
+
+### To run such a website is very expensive. With a small donation, you can make a huge impact. And it only takes a minute. Thank you.
+
+[Support fanack](https://fanack.com/about-fanack/donate-to-fanack/)
