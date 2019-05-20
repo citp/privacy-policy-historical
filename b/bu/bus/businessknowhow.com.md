@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002030150id_/https%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessknowhow.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520132339id_/https%3A//www.businessknowhow.com/privacy.htm) for the most accurate reproduction.*
 
 # Business Know-How® Privacy Statement
 
@@ -66,4 +66,4 @@ Can change your personal information:
 We do not specifically market to children under the age of 13 years old.  
 
 
-For further information, please contact Janet Attard, Attard Communications, Inc., 80 Orville Dr. Suite 100, Bohemia, NY 11716 (631)-467-8883. email: [[email protected]](https://www.businessknowhow.com/cdn-cgi/l/email-protection#34554040554650745641475d5a5147475f5a5b435c5b431a575b59)
+For further information, please contact Janet Attard, Attard Communications, Inc., 80 Orville Dr. Suite 100, Bohemia, NY 11716 (631)-467-8883. email: [[email protected]](https://www.businessknowhow.com/cdn-cgi/l/email-protection#eb8a9f9f8a998fab899e9882858e98988085849c83849cc5888486)
