@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227005916id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520030524id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
 
 # BrightNest | Privacy Policy
 
