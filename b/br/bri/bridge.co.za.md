@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bridge.co.za privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109011819id_/http%3A//www.bridge.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridge.co.za privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520163850id_/http%3A//www.bridge.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Bridge Loans
+# Privacy Policy | Bridge Loans
 
 Bridge respects (and is committed to protecting) your privacy. Bridge thus takes extraordinary steps to handle any personal information collected on this website only in ways compatible with this Privacy Policy.
 
