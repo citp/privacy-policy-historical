@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracenote.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115182454id_/http%3A//www.gracenote.com/index.php%3Fpage_id%3D14351) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracenote.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520235240id_/http%3A//www.gracenote.com/index.php%3Fpage_id%3D14351) for the most accurate reproduction.*
 
 # Gracenote | Privacy Statement
 
