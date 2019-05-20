@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the craftcravings.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527003906id_/http%3A//craftcravings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcravings.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520132112id_/https%3A//craftcravings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-I blog about family things, parenting disasters, helpful tips and things that can help you to be a happy and healthy family. Follow the fisher journey and you may pick some things up along the way! 
+# Privacy Policy - Craft Cravings
 
 Brenda Fisher (" **Brenda** ") operates CraftCravings.com and may operate other websites. It is Brenda's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -14,7 +12,7 @@ Brenda also collects potentially personally-identifying information like Interne
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Brenda's websites choose to interact with Brenda in ways that require Brenda to gather personally-identifying information. The amount and type of information that Brenda gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [CraftCravings.com](http://craftcravings.com/) to provide a username and email address. Those who engage in transactions with Brenda are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Brenda collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Brenda. Brenda does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Brenda's websites choose to interact with Brenda in ways that require Brenda to gather personally-identifying information. The amount and type of information that Brenda gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [CraftCravings.com](https://craftcravings.com/) to provide a username and email address. Those who engage in transactions with Brenda are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Brenda collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Brenda. Brenda does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
