@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119115950id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520092813id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
 SEO by the Sea does share some personally identifiable data to some third parties. 
 
-Information collected by SEO by the Sea about visits to the site in SEO by the Sea’s generic web logs will not be shared with others, except for the use of non-identifying and aggregated information to better the design of SEO by the Sea or attract advertisers. . 
+Information collected by SEO by the Sea about visits to the site in SEO by the Seaâ€™s generic web logs will not be shared with others, except for the use of non-identifying and aggregated information to better the design of SEO by the Sea or attract advertisers. . 
 
 SEO by the Sea uses [Google Analytics](https://policies.google.com/privacy?hl=en&gl=us) and Google Webmaster tools to learn about traffic to the site and improve the services offered by the site.
 
@@ -26,8 +26,8 @@ I recommend that anyone using the Web learn more about privacy issues online, an
 
   * [Electronic Privacy Information Center](https://epic.org/)
   * [Epic.org](https://www.epic.org/)
-  * [Federal Trade Commission – Privacy Initiatives](https://www.ftc.gov/tips-advice/business-center/privacy-and-security)
-  * [Data Collection – The European Commission](https://ec.europa.eu/info/law/law-topic/data-protection_en)
+  * [Federal Trade Commission â€“ Privacy Initiatives](https://www.ftc.gov/tips-advice/business-center/privacy-and-security)
+  * [Data Collection â€“ The European Commission](https://ec.europa.eu/info/law/law-topic/data-protection_en)
 
 
 
