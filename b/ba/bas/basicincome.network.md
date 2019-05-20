@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basicincome.network privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105743id_/http%3A//basicincome.network/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basicincome.network privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213414id_/http%3A//basicincome.network/privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome
 
