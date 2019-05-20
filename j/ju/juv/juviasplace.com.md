@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juviasplace.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005010253id_/https%3A//www.juviasplace.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juviasplace.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520144155id_/https%3A//www.juviasplace.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Juvia’s Place
 
