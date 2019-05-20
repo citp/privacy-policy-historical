@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921172952id_/https%3A//latinlawyer.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520050246id_/https%3A//latinlawyer.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy - Latin Lawyer
 
