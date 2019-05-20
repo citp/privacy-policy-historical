@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724101500id_/https%3A//www.mid-day.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mid-day.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520080248id_/https%3A//www.mid-day.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -102,7 +102,7 @@ In case you choose to decline to submit personal information on the Application/
 We will only collect and process personal data about you where we have lawful basis. Lawful basis on which we would process our personal information includes obtaining explicit consent from you for processing your personal information or processing for “legitimate interests” where processing is necessary by us to provide you with services (For e.g. processing your information by our group companies/affiliates).
 
   * We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with sensitive categories, such as those based on race, religion, sexual orientation or health.
-  * Send alerts and newsletter(s) to you (Provided you subscribe to the same). You may also raise a request to the mid-day team by filling the data subject form [www.mid-day.com/data-subject-form](https://web.archive.org/data-subject-form)
+  * Send alerts and newsletter(s) to you (Provided you subscribe to the same). You may also raise a request to the mid-day team by filling the data subject form [www.mid-day.com/data-request-form](https://web.archive.org/data-subject-form)
   * Send notification(s) to you on your handheld devices (To turn off the notifications, please visit your account settings)”
   * Communicate with you concerning our service (for example by email, push notifications), so that we can send you news about Midday, details about new features and content available on the Midday Services, promotional announcements, marketing purposes and surveys, other services of Midday affiliates and to assist you with operational requests such as password reset requests.
   * Improve our website/application and its content to provide better features and services
@@ -214,11 +214,9 @@ Midday shall provide information on action taken on a request pertaining to the 
 
 **E. Complaints**
 
-You can write to us in case of any grievance or compliant at the support e-mail address [contactus@jagrannewmedia.com](mailto:contactus@jagrannewmedia.com)
+If you have any complaints regarding processing of your personal information you may contact our privacy officer at [contactus@jagrannewmedia.com](mailto:contactus@jagrannewmedia.com). You have the right to complaint about the data processing activities carried out by Midday before the competent data protection authorities.
 
-If you have any complaints regarding processing of your personal information you may contact our privacy officer at the below mentioned e-mail address. You have the right to complaint about the data processing activities carried out by Midday before the competent data protection authorities.
-
-To invoke your data subject rights, please click here: [www.mid-day.com/data-subject-form](https://web.archive.org/data-subject-form)
+To invoke your data subject rights, please click here: [www.mid-day.com/data-request-form](https://web.archive.org/data-subject-form)
 
 **IX. Security and Compliance with Laws**
 
