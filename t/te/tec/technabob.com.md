@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231215901id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520083439id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Technabob
 
@@ -211,16 +211,18 @@ If you have any questions about this Privacy Policy, please contact us:
 
 
 
-Darth Vader Clapper
+NERF Zombie Strike Nailbiter
 
-Great Movies of 2018
+GoT: Daenerys & Cersei
 
-Mob Psycho 100 Season 2 (Trailer)
+Westworld Season 3 (Trailer)
 
 Advertisement
 
-Concepts from Future Past: Lamborghini Calà
+2019 Acura RDX Review: Precision, Performance, and a Pleasing Price
 
-10 Truly Imaginative Concept Dashboards
+Concepts from Future Past: 1986 Italdesign Machimoto
 
-This Chevy Sonic Rally Car Rocks LS3 V8 and AWD
+Only 35 2020 BMW M5 Edition 35 Years Cars will Come Stateside
+
+Advertisement
