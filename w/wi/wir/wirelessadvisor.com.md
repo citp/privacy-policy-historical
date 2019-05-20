@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620183446id_/https%3A//www.wirelessadvisor.com/privacy-statement-for-wirelessadvisor-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessadvisor.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520121149id_/http%3A//www.wirelessadvisor.com/privacy-statement-for-wirelessadvisor-com) for the most accurate reproduction.*
 
 # Privacy Statement for WirelessAdvisor.com
 
