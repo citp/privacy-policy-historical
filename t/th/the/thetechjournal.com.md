@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223425id_/https%3A//thetechjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechjournal.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520102013id_/https%3A//thetechjournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Tech Journal
+# Privacy Policy – The Tech Journal
 
 **Privacy Policy For _[TheTechJournal.com](http://thetechjournal.com/)_**  
 The privacy of our visitors to _[TheTechJournal.com](http://thetechjournal.com/)_ is important to us. As a Technological News Site, [TheTechJournal.com](http://thetechjournal.com/) is committed to the security of your information and pledges to follow the terms set out in this privacy policy (“Privacy Policy”).
