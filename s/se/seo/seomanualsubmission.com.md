@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seomanualsubmission.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119114054id_/http%3A//www.seomanualsubmission.com/legal-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomanualsubmission.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520143844id_/http%3A//www.seomanualsubmission.com/legal-privacy.php) for the most accurate reproduction.*
 
 # Legal & Privacy Policy of RS Seo Solution
 
 ## **Privacy Policy**
 
-My Company RS Seo Solutionâ€‹ We, operates â€‹http://www.seomanualsubmission.com RS Seo Solution. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+My Company RS Seo Solution​ We, operates ​http://www.seomanualsubmission.com RS Seo Solution. This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
 **What information do we collect?**
 
