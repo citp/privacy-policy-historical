@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaiusa.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824183446id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaiusa.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520082434id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Hyundai Website Privacy Policy
 
@@ -199,4 +199,4 @@ The Effective Date of this Privacy Policy is set forth at the top of this webpag
 ## HOW TO CONTACT US WITH QUESTIONS
 
   
-Please email us at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com), call us at (800) 633-5151, or write us at Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835 if you have any questions about this Privacy Policy.
+Please [Contact Us](https://owners.hyundaiusa.com/us/en/contact-us.html), call us at (800) 633-5151, or write us at Hyundai Motor America/Phoenix, P.O. Box 83835, Phoenix, AZ 85071-3835 if you have any questions about this Privacy Policy.
