@@ -1,17 +1,8 @@
-<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2018-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180917011743id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2019-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190520073345id_/https%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-  <title>Privacy Policy | Juvlon</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="assets/img/favicon.ico">
-
-  <meta name="keywords" content="">
-  <meta name="description" content="Go through our email and sms marketing privacy policies to know more about our customer and subscriber information and security.">
-  <link rel="canonical" href="http://www.juvlon.com/legal-info/privacy-policy/">
-
-
+ 
 
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://chatserver.comm100.com/livechat.ashx?siteId=48814"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
 window.addEventListener('DOMContentLoaded', function(){
@@ -19,7 +10,7 @@ window.addEventListener('DOMContentLoaded', function(){
   var params = url.split('?');
   var uri = (params[0]);
   //alert(uri);
-  if(uri.indexOf("email-marketing-automation.php") > 0)
+  if(uri.indexOf("email-marketing-automation.php") > 0 || (uri.indexOf("api") > 0 && params[1] !== undefined ) || (uri.indexOf("privacy-policy") > 0 && params[1] !== undefined))
   {
     //alert("In");
     document.getElementById('id_modified_url00').href ='https://app6.juvlon.com/auths/register?'+params[1];
@@ -67,7 +58,35 @@ window.addEventListener('DOMContentLoaded', function(){
           right: 26px;
           top: 27px;
       }
+       .navbar-right .dropdown-menu {
+      right: 0 !important;
+    left: 10px !important;
+
+     }
+
+    .btn-link:hover {
+      color: #d3682b !important;
+     }
+  
+     
   }
+  
+  @media (max-width: 767px){
+.navbar-nav .open .dropdown-menu {
+   
+    margin-left: 36% !important;
+   
+}
+
+.price-drop{
+  margin-bottom: 4%; 
+  
+  }
+  
+
+  }
+
+  
 
 </style>
 <script type="text/javascript">
@@ -84,7 +103,7 @@ var logo_url_homepage;
 
 //code for logo link
 
-if(link == "http://www.juvlon.com/")
+if(link == "https://www.juvlon.com/")
 {
     logo_url_homepage="https://app6.juvlon.com/auths/register";
  
@@ -93,7 +112,7 @@ else
 {
  
  
-logo_url_homepage="http://www.juvlon.com/";
+logo_url_homepage="https://www.juvlon.com/";
 
 }
 $("#brand").attr("href", logo_url_homepage);
@@ -147,17 +166,24 @@ src="https://www.facebook.com/tr?id=750745585035443&ev=PageView
   <div class="col-md-12">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a id="brand" class="navbar-brand" href="http://www.juvlon.com/"> <img src="/assets/img/Juvlon_logo.png" alt="Juvlon Email Marketing"></a> </div>
+        <a id="brand" class="navbar-brand" href="https://www.juvlon.com/"> <img src="/assets/img/Juvlon_logo.png" alt="Juvlon Email Marketing"></a> </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/features/">Features</a></li>
-          <li><a id="id_modified_price" href="/pricing/">Pricing</a></li>
+          <li id="id_modified_price"><div class="dropdown dropright price-drop "><button style=" font-family: Roboto,Roboto Light, Roboto Condensed, sans-serif;font-size: 14px !important;color: #5f5854;text-decoration:none;letter-spacing: 1px; margin-top: 21px; border:none; text-align: center;" type="button" class="btn btn-link dropdown-toggle " data-toggle="dropdown">Pricing
+     <label class="fa fa-caret-down"></label> 
+    </button>
+     <ul class="dropdown-menu">
+ <li><a class="dropdown-item" href="/pricing/" data-hover=" "><strong>·</strong> &nbsp;Email Plans</a></li> 
+
+ <li><a class="dropdown-item" href="/sms-pricing.php/" data-hover=" "><strong>·</strong> &nbsp;SMS Plans</a></li> </ul></div>
+  </li>
           <li><a href="/support/">Support</a></li>    
         <li><a href="/goodies/">Resources</a></li>    
         <li><a href="https://app6.juvlon.com/auths/login/" target="_blank">Login</a></li>   
           <li><a href="/request_demo.php">Demo</a></li>  
         </ul>
-       <div class="cta1"><a id="id_modified_url00" href="https://app6.juvlon.com/auths/register" target="_blank" class="headcta">Take A Free Trial</a></div>
+       <div class="cta1"><a id="id_modified_url00" href="https://app6.juvlon.com/auths/register" target="_blank" class="headcta">Sign Up For Free</a></div>
       </div>
     </div>
       <!-- /.nav-collapse -->
@@ -166,6 +192,34 @@ src="https://www.facebook.com/tr?id=750745585035443&ev=PageView
   </nav>
   <!-- /.navbar -->
 </header>
+ <script>
+$(document).ready(function(){
+var url = window.location.href;
+var params = url.split('?');
+var id = (params[1]);
+//alert(id);
+     $.ajax({
+        type:"POST",
+        url:"../session_page.php",
+        data: {'action':'getClientDetails','gclida':id} ,
+                   
+        success:function(result){
+        //alert(result);
+        }
+      
+        });
+   });
+   </script>
+  <title>Privacy Policy | Juvlon</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/img/favicon.ico">
+
+  <meta name="keywords" content="">
+  <meta name="description" content="Go through our email and sms marketing privacy policies to know more about our customer and subscriber information and security.">
+  <link rel="canonical" href="https://www.juvlon.com/legal-info/privacy-policy/">
+
+
 
 <section class="headermargin">
 </section>
@@ -209,11 +263,11 @@ var modifed_url;
 if(res!=-1)
 {
   temp = link.split("?");
-  modifed_url="http://www.juvlon.com/request_demo.php?"+temp[1];
+  modifed_url="/request_demo.php?"+temp[1];
 }
 else
 {
-modifed_url="http://www.juvlon.com/request_demo.php";
+modifed_url="/request_demo.php";
 }
 
 $("#id_modified_url").attr("href", modifed_url);
@@ -237,42 +291,17 @@ $("#id_modified_url").attr("href", modifed_url);
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-    <div class="col-md-12">
-          <div class="form-footer">
-            <div class="" data-wow-delay=".5s">      
-        <div class="form-footer-title">
-          <h3 style="margin-top:0px;border-bottom:1px solid #a9a9a9;display:inline-block;padding-bottom:2px;"><strong style="color:#fff;">Subscribe To Juvlon Newsletter</strong></h3>
-        </div>
-              <p style="margin-bottom:0px;color:#fff;">Get the free Juvlon Earmark newsletter written by industry experts and followed by more than 10,000 marketers</p>
-                <div class="row">
-                <form class="form-inline" id="contact-form">
-                <div class="row">
-                  <div class="form-group col-md-7 col-xs-12" style="padding-left: 30px;">
-                    <input type="email" class="form-control" id="email_news" name="email_news" style="padding-left: 2% !important; padding-right: 2% !important;" placeholder="Enter Valid Email Address" required="">
-                     <input type="hidden" id="dw1" name="dw1" value="">
-                  </div>
-                  <div class="col-md-5 col-xs-12">
-                    <button type="submit" class="btn btn-default subscribe btnstyle-3" style="padding:0.2em 1.3em; margin-top: 0px; margin:0px 15px">Subscribe</button>
-                  </div>
-                  </div>
-                </form>
-           <div class="form-group col-lg-12 error" id="conForm"> </div>
-         <div class="form-group col-lg-12 error" id="error"> </div>
-              </div>
-            </div>
-          </div>
-          <div class="clearfix"></div>
-        </div>
-        <div class="col-md-12">
+   
+        
           <div class="col-md-4 col-xs-6 col-sm-4" data-wow-delay="1s">
             <div class="footer-heading">
               <h4>About Juvlon</h4>
             </div>
             <ul class="footer-list">
-              <li><a href="http://www.juvlon.com/who-are-we/"><i class="fa fa-angle-double-right"></i> Who we are</a></li>
-              <li><a href="http://www.juvlon.com/our-clients/"><i class="fa fa-angle-double-right"></i> Our clients</a></li>
-              <li><a href="http://www.juvlon.com/testimonials/"><i class="fa fa-angle-double-right"></i> Testimonials</a></li>
-              <li><a href="http://www.juvlon.com/blog/"><i class="fa fa-angle-double-right"></i> Blog</a></li>
+              <li><a href="https://www.juvlon.com/who-are-we/"><i class="fa fa-angle-double-right"></i> Who we are</a></li>
+              <li><a href="https://www.juvlon.com/our-clients/"><i class="fa fa-angle-double-right"></i> Our clients</a></li>
+              <li><a href="https://www.juvlon.com/testimonials/"><i class="fa fa-angle-double-right"></i> Testimonials</a></li>
+              <li><a href="https://www.juvlon.com/blog/"><i class="fa fa-angle-double-right"></i> Blog</a></li>
             </ul>
           </div>
           <div class="col-md-4 col-xs-6 col-sm-4" data-wow-delay="1.3s">
@@ -280,10 +309,10 @@ $("#id_modified_url").attr("href", modifed_url);
               <h4>Information</h4>
             </div>
             <ul class="footer-list">
-              <li><a href="http://www.juvlon.com/legal-info/terms-conditions/"><i class="fa fa-angle-double-right"></i> Terms of use</a></li>
-              <li><a href="http://www.juvlon.com/legal-info/privacy-policy/"><i class="fa fa-angle-double-right"></i> Privacy policy</a></li>
-              <li><a href="http://www.juvlon.com/anti-spam-policy/"><i class="fa fa-angle-double-right"></i> Anti spam policy</a></li>
-              <li><a href="http://www.juvlon.com/api/"><i class="fa fa-angle-double-right"></i> Juvlon API</a></li>
+              <li><a href="https://www.juvlon.com/legal-info/terms-conditions/"><i class="fa fa-angle-double-right"></i> Terms of use</a></li>
+              <li><a href="https://www.juvlon.com/legal-info/privacy-policy/"><i class="fa fa-angle-double-right"></i> Privacy policy</a></li>
+              <li><a href="https://www.juvlon.com/anti-spam-policy/"><i class="fa fa-angle-double-right"></i> Anti spam policy</a></li>
+              <li><a href="https://www.juvlon.com/api/"><i class="fa fa-angle-double-right"></i> Juvlon API</a></li>
      <!--<li><a href="#"><i class="fa fa-angle-double-right"></i> Sitemap</a></li>-->
             </ul>
           </div>
@@ -295,52 +324,88 @@ $("#id_modified_url").attr("href", modifed_url);
             <!-- <strong>For sales queries, </strong>
      <p>Juvlon Sales,</p>
      <p> <i class="fa fa-phone"></i> +91.20.4141.7003</p>-->
+     <i class="fa fa-user" style="font-size:16px; margin-bottom:12px;"><a href="http://nichelive.com/careers/" style="font-size:16px;font-family: 'Roboto', sans-serif;"> Career</a></i>
             <ul class="footer-list">
-            <i class="fa fa-envelope-o" style="font-size:16px; margin-bottom:12px;"> <a href="mailto:sales@juvlon.io"><font style=" font-family: 'Roboto', sans-serif;">sales@juvlon.io</font></a></i>
+            <i class="fa fa-envelope" style="font-size:16px; display: block;margin-bottom:12px;"> <a href="mailto:sales@juvlon.io"><font style=" font-family: 'Roboto', sans-serif;">sales@juvlon.io</font></a></i>
 
-            <i class="fa fa-phone" style="font-size:17px;"><font style=" font-family: 'Roboto', sans-serif;"> +91-20-4141-7003</font></i></ul>
+            <i class="fa fa-phone" style="font-size:17px;display: block;"><font style=" font-family: 'Roboto', sans-serif;"> +91-20-4141-7003</font></i></ul>
             </address>
-            <a id="id_modified_url" href="http://www.juvlon.com/request_demo.php" class="btn btn-default subscribe1 mbottom10" style="margin-left:0px;">Get a Free Demo</a>
+            
           </div>
-        </div> 
-<div class="clearfix"></div>       
+      
+<div class="clearfix"></div>  
+   
       </div>
       <div class="col-md-4" data-wow-delay="1.9s" id="social">
-        <ul class="social">
-          <li class="facebook"><a href="https://www.facebook.com/juvlonemail/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
-          <li class="twitter"><a href="https://twitter.com/juvlon" target="_blank"><i class="fa fa-twitter fa-2x"></i></a></li>
-          <li class="pinterest"><a href="https://plus.google.com/u/0/+Juvlonmultichannelmarketing" target="_blank"><i class="fa fa-google-plus fa-2x"></i></a></li>
-          <li class="behance"><a href="https://www.linkedin.com/showcase/13449236/" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a></li>
-          <li class="youtube"><a href="https://www.youtube.com/user/juvlon" target="_blank"><i class="fa fa-youtube fa-2x"></i></a></li>
-        </ul>
-        <img src="http://www.juvlon.com/assets/img/Juvlon_Chat.png" alt="Chat with the Juvlon Team" class="img-responsive"> </div>
+        <div class="form-footer">
+            <div class="" data-wow-delay=".5s">      
+        <div class="footer-heading">
+              <h4>Subscribe To Juvlon Newsletter</h4>
+            </div>
+              <p style="margin-bottom:0px;">Get the free Juvlon Earmark newsletter written by industry experts and followed by more than 10,000 marketers</p>
+                <div class="row">
+                <form class="form-inline" id="contact-form">
+                <div class="row">
+                  <div class="form-group col-md-8 col-xs-12" style="padding-left: 30px;">
+                    <input type="email" class="form-control ft_mail" id="email_news" name="email_news" style="padding-left: 11px !important; padding-right: 11px !important;" placeholder="Enter your Email" required="">
+                     <input id="dw11" name="dw11" value="" type="hidden">
+                  </div>
+                  <div class="col-md-4 col-xs-12">
+                    <button type="submit" id="subscribe" class="btn btn-default subscribe btnstyle-3" style="  margin:0px 0px;padding-left: 9px;padding-right: 15px;text-align:  center;padding-top: 3px;">Subscribe</button>
+                  </div>
+                  
+                  
+                  </div>
+                </form>
+          <div class="form-group col-lg-12 error" id="error" style="margin: 10px 0px;"> </div>
+         <div id="show1" style="display:none !important;"></div>
+
+              </div>
+            </div>
+           
+            
+          </div>
       <div class="clearfix"></div>
+
     </div>
   </div>
- <!-- <a class="chatbutton" onclick="myFunction()"><img src="assets/img/chatapp.png" class="mailsend"></a>-->
- <!--Begin Comm100 Live Chat Code-->
+  <div class="row">
+    
+  </div>
+    <div>
+                  <ul class="list-inline social-icon">
+<li></li>
+<li><a href="https://www.facebook.com/juvlonemail/" target="_blank" rel="noopener"><img src="/wp-content/uploads/2017/06/facebook.png" alt="Share on Facebook" width="36" height="36"></a></li>
+<li><a href="https://twitter.com/juvlon" target="_blank" rel="noopener"><img src="/wp-content/themes/inovado/admin/assets/images/twitter.png" alt="Share on Twitter" width="36" height="36"></a></li>
+<li><a href="https://www.linkedin.com/showcase/13449236/" target="_blank" rel="noopener"><img src="/wp-content/uploads/2017/06/linkedin.png" alt="Share on Linkedin" width="36" height="36"></a></li>
+<li><a href="https://www.youtube.com/user/juvlon" target="_blank" rel="noopener"><img src="/wp-content/uploads/2017/06/youtube.png" alt="Share on Youtube" width="36" height="36"></a></li>
+</ul>
+
+                  </div> 
+  </div></footer>
+
+<div class="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p>Copyright © 2019 <span>Juvlon</span>. All Rights Reserved
+          <!--| Designed and Developed By <a href="http://srvmedia.com/" target="_blank">SRV Media Pvt. Ltd.</a>-->
+        </p>
+      </div>
+<!--Begin Comm100 Live Chat Code-->
 <div id="comm100-button-5000006"></div>
 <script type="text/javascript">
   var Comm100API=Comm100API||{};(function(t){function e(e){var a=document.createElement("script"),c=document.getElementsByTagName("script")[0];a.type="text/javascript",a.async=!0,a.src=e+t.site_id,c.parentNode.insertBefore(a,c)}t.chat_buttons=t.chat_buttons||[],t.chat_buttons.push({code_plan:5000006,div_id:"comm100-button-5000006"}),t.site_id=48814,t.main_code_plan=5000006,e("https://chatserver.comm100.com/livechat.ashx?siteId="),setTimeout(function(){t.loaded||e("https://hostedmax.comm100.com/chatserver/livechat.ashx?siteId=")},5e3)})(Comm100API||{})
 </script>
 <!--End Comm100 Live Chat Code-->
-</footer>
-<style>
-    .chatbutton:hover{cursor: pointer;}
-</style>
-<div class="copyright">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <p>Copyright © 2018 <span>Juvlon</span>. All Rights Reserved
-          <!--| Designed and Developed By <a href="http://srvmedia.com/" target="_blank">SRV Media Pvt. Ltd.</a>-->
-        </p>
-      </div>
     </div>
   </div>
 </div>
-<script src="http://www.juvlon.com/assets/js/custom.js"></script>
-<script src="http://www.juvlon.com/assets/js/wow.min.js"></script>
+
+
+
+<script src="https://www.juvlon.com/assets/js/custom.js"></script>
+<script src="https://www.juvlon.com/assets/js/wow.min.js"></script>
 <script type="text/javascript">
    new WOW().init();
 </script>
@@ -381,13 +446,13 @@ function newsletter_signup()
   
   call_juvlon_api(apikey, 'addSingleSubscriber', subscriber_details, function(response) {
        //alert(response);
-       //document.getElementById('show').innerHTML=response
+       document.getElementById('show').innerHTML=response
         var message=JSON.parse(response);
         var x=document.getElementById("show").innerHTML=message.status;
         var stat=x.split(":");
         document.getElementById('error').innerHTML=stat[1];
 
-        //alert(stat[1]);
+        /*alert(message);*/
         if(stat[1]=="Subscriber added successfully")
         {
           document.getElementById('error').innerHTML="Thank you for subscribing for Juvlon Earmark issues";
@@ -415,6 +480,7 @@ function newsletter_signup()
     {
     $(".subscribe").click(function (e) 
         {
+          //alert("cliked");
            $('#error').html("");
             e.preventDefault();
       /*if (!$("#contact-form")[0].checkValidity())
@@ -539,11 +605,11 @@ $(document).ready(function(){
     }
 </script>
 
-<link rel="stylesheet" type="text/css" href="http://www.juvlon.com/assets/fancybox/jquery.fancybox.css">
-<script type="text/javascript" src="http://www.juvlon.com/assets/fancybox/jquery.fancybox.js"></script>
-<!-- <link rel="stylesheet" href="http://www.juvlon.com/assets/isotop/style.css"> -->
-<!-- <script src="http://www.juvlon.com/assets/isotop/isotope.pkgd.min.js"></script> -->
-  <!-- <script src="http://www.juvlon.com/assets/isotop/custom.js"></script> -->
+<link rel="stylesheet" type="text/css" href="https://www.juvlon.com/assets/fancybox/jquery.fancybox.css">
+<script type="text/javascript" src="https://www.juvlon.com/assets/fancybox/jquery.fancybox.js"></script>
+<!-- <link rel="stylesheet" href="https://www.juvlon.com/assets/isotop/style.css"> -->
+<!-- <script src="https://www.juvlon.com/assets/isotop/isotope.pkgd.min.js"></script> -->
+  <!-- <script src="https://www.juvlon.com/assets/isotop/custom.js"></script> -->
  <!-- <script> -->
    <!-- $( document ).ready(function() {
    /* activate jquery isotope */
