@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intervalworld.com privacy policy that was archived on 2017-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170319174100id_/http%3A//www.intervalworld.com/web/cs%3Fa%3D60%26p%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intervalworld.com privacy policy that was archived on 2019-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190520020938id_/https%3A//www.intervalworld.com/web/cs%3Fa%3D60%26p%3Dprivacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,18 +7,20 @@
         <title>Interval International | Privacy Policy</title>
     
     
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="description" content="Interval International is a timeshare exchange company with locations around the world offering it?s members the ability to exchange their timeshare for time an another location.">
 	<meta name="keywords" content="Interval International timeshare exchange rental vacation Florida las vegas California Hawaii Orlando ocean beach ski hike Europe Caribbean Mexico.">
     <meta name="verify-v1" content="ECMibcU91JRQ0n9q2VB2kSIEW5VCjf97M/RY1xjAR7M=">
-     <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+    
 
     <link rel="stylesheet" href="/css/my/jquery-ui.css">
     <link rel="stylesheet" href="/css/iw/web.css">
-    <link rel="stylesheet" type="text/css" href="/css/ltpd/exchange.css">
+    
     <link rel="stylesheet" type="text/css" href="/css/my/my_iw_global.css">
     <link rel="stylesheet" href="/css/jquery.qtip.css">
     <link rel="stylesheet" href="/css/iw/iw-tooltip.css"> 
+    
+    
     
     
     <!--[if IE 6]>
@@ -50,58 +52,304 @@
 	<!-- Banner -->
 	 <link rel="stylesheet" href="/scripts/jquery/plugins/jquery.nivo.slider/themes/interval/interval.css">
      <link rel="stylesheet" href="/scripts/jquery/plugins/jquery.nivo.slider/nivo-slider.css">
+     
+     
         
     <script type="text/javascript" src="/scripts/spin.min.js"></script><style></style>
     <script type="text/javascript" src="/scripts/jquery/plugins/jquery.nivo.slider/jquery.nivo.slider.js"></script>
         
      <script src="/scripts/my/home/index.js"></script>
 	<script type="text/javascript">
-	$(document).ready(function(){
-		if ($.browser.msie && $.browser.version <=8){
-			
-			/*Don't show message if IE version >=9 and is in Compatibility View 						  
-			     Trident/7.0	IE11
-				 Trident/6.0	Internet Explorer 10
-				 Trident/5.0	Internet Explorer 9
-				 Trident/4.0	Internet Explorer 8
-			*/
-			var tridentIndex = navigator.userAgent.indexOf("Trident/");
-			if(tridentIndex > -1){
-				var tridentVersion = navigator.userAgent.substring(tridentIndex + 8, tridentIndex + 8 + 3);
-				
-				if(tridentVersion >= 5){
-					return;
-				}
-			}			
-			
-			$('body').animate({
-				top: '25px',
-				/* 'width': '100%', */
-				'background-position-y': '25px'
-			}, 600, 'linear');
-			
-			var website = "Intervalworld.com";
-			if (window.location.host.indexOf("leisuretimepassport") > -1){
-				website = "LeisureTimePassport.com";
-			} else if (window.location.host.indexOf("dreamvacationweek") > -1){
-				website = "DreamVacationWeek.com";
-			} else if (window.location.host.indexOf("vipclub") > -1){
-				website = "vipclub.condodirect.com";
-			} else if (window.location.host.indexOf("vip") > -1){
-				website = "VIP.Intervalworld.com";
-			} else if (window.location.host.indexOf("samplerplus") > -1){
-				website = "samplerplus.condodirect.com";
-			} else if (window.location.host.indexOf("friendsandfamily") > -1){
-				website = "friendsandfamily.condodirect.com";
-			}
-			
-			$('body').prepend("<div class='ie8_message'>"+
-					"We noticed you are using an older version of Internet Explorer. <a style='color:red;' href='http://windows.microsoft.com/en-us/internet-explorer/download-ie'>Please upgrade your browser to the latest version of Internet Explorer</a> for the best experience on "+website+"."+	
-					"</div>");
-			
+
+window.onload=function(){
+	showAlertMessage();
+}
+
+function showAlertMessage(){
+	var website = "Intervalworld.com";
+	if (window.location.host.indexOf("leisuretimepassport") > -1){
+		website = "LeisureTimePassport.com";
+	} else if (window.location.host.indexOf("dreamvacationweek") > -1){
+		website = "DreamVacationWeek.com";
+	} else if (window.location.host.indexOf("vipclub") > -1){
+		website = "vipclub.condodirect.com";
+	} else if (window.location.host.indexOf("vip") > -1){
+		website = "VIP.Intervalworld.com";
+	} else if (window.location.host.indexOf("samplerplus") > -1){
+		website = "samplerplus.condodirect.com";
+	} else if (window.location.host.indexOf("friendsandfamily") > -1){
+		website = "friendsandfamily.condodirect.com";
+	}
+	
+	if(IEVersion() == 6 || IEVersion() == 7 || IEVersion() == 8){
+		//animate(document.body, {top: 25, 'background-position-y': 25}, 600, 0.01);
+		var messageNode = document.createElement("div");
+		messageNode.setAttribute("class", 'ie8_message');
+		messageNode.setAttribute("className", 'ie8_message');  //For IE7
+		messageNode.innerHTML = "We noticed you are using an older version of Internet Explorer. <a style='color:red;' href='http://windows.microsoft.com/en-us/internet-explorer/download-ie'>Please upgrade your browser to the latest version of Internet Explorer</a> for the best experience on "+website+".";
+		document.body.insertBefore(messageNode, document.body.firstChild);			
+	}
+}
+
+
+function IEVersion(){
+	var userAgent = navigator.userAgent;
+	var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1;
+	var isEdge = userAgent.indexOf("Edge") > -1 && !isIE;
+	var isIE11 = userAgent.indexOf("Trident") > -1 && userAgent.indexOf("rv:11.0") > -1;
+
+	if(isIE){
+		var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+		reIE.test(userAgent);
+		var fIEVersion = parseFloat(RegExp["$1"]);
+		if(fIEVersion == 7){
+			return 7;
+		}else if(fIEVersion == 8){
+			return 8;
+		}else if(fIEVersion == 9){
+			return 9;
+		}else if(fIEVersion == 10){
+			return 10;
+		}else{
+			return 6; //IE version less than 7
 		}
-	});
+	}else if(isEdge){
+		return 'edge';
+	}else if(isIE11){
+		return 11;
+	}else{
+		return -1;
+	}
+}
+
 </script>
+	 
+
+
+
+
+
+
+
+
+
+ 
+
+
+				
+ 				
+ 				<script type="text/javascript" src="https://www.intervalworld.com/scripts/my/account/gdprPrompt.js"></script>
+ 				<script type="text/javascript" src="https://www.intervalworld.com/scripts/libs/jqueryui/jquery-ui.js"></script>
+				<script type="text/javascript" src="https://www.intervalworld.com/scripts/my/common/iw-dialog.js"></script>
+				<script type="text/javascript" src="https://www.intervalworld.com/scripts/my/common/iw-tooltip.js"></script>	
+ 				<!-- overlayed element gdpr consent -->
+	 
+							<style></style></head><body id="page_content" onload="if (window.onLoadEvent != null) onLoadEvent();"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-3938 " style=""><!--googleoff: all--><!--googleon: all--><div class="GDPR-container"><span id="cookieconsent:desc" class="cc-message2">
+						<!-- START template from this line down -->
+
+
+	<p>Interval uses cookies on this website. For individuals in the EU, by continuing to use this website you agree to us using cookies in accordance with our <a href="/web/cs?a=60&amp;;p=cookie-policy" target="_blank">Cookie Policy.</a></p>
+
+
+
+
+		<!--END iicontent_tc-->
+
+                    <!-- END template -->
+					</span><div class="cc-compliance"><a aria-label="dismiss cookie message" tabindex="0" class="cc-btn cc-dismiss"><i class="fas fa-times"></i></a></div></div></div><div class="overlay" id="overlay_gdprPrompt" style="display: none;">
+							<div class="custom-border">
+							  <!-- the external content is loaded inside this tag -->
+							  <div class="contentWrap_changeMemberPrompt contentWrap">
+							  <h2>PERSONAL DATA USAGE</h2>
+							  <br>
+								<p>This site uses cookies to improve your site experience. Please view our Cookies Policy to learn more. In order to provide you with services, we need your consent to process your personal information. Please click I consent to continue.</p>
+								<br>
+								<hr>
+								<!-- yes/no buttons --> 
+								<p> 
+									<button style="text-transform: none" id="gdpryes" class="btn_custom_2">I consent</button>
+									<a id="gdprno" href="#">I decline consent</a> 
+								</p> 
+							  </div>
+							  </div>
+							</div>
+<!-- overlayed element wait -->
+	 
+							<div class="overlay" id="overlay_wait" style="display: none;">
+							<div class="custom-border">
+							  <!-- the external content is loaded inside this tag -->
+							  <div class="contentWrap_changeMemberPrompt contentWrap signin_loader">
+							  <img src="/images/login_spinner.gif">
+							  <h2>Signing In...</h2>
+							 
+							  </div>
+							  </div>
+							</div>
+				
+
+	
+ 				
+ 				
+ 				
+ 				<input type="hidden" value="ii" id="brand">
+				
+ 				<input type="hidden" value="intervalworld.com" id="domain">
+ 				
+				<input type="hidden" value="true" id="privacyPolicyflag">
+				
+				<div id="cookieContent" style="display:none">
+					 
+						<!-- START template from this line down -->
+
+
+	
+
+
+
+
+		<!--END iicontent_tc-->
+
+                    <!-- END template -->
+						
+					<div id="cookieText1">
+						<!-- START template from this line down -->
+
+
+	<p>Interval uses cookies on this website. For individuals in the EU, by continuing to use this website you agree to us using cookies in accordance with our <a href="/web/cs?a=60&amp;;p=cookie-policy" target="_blank">Cookie Policy.</a></p>
+
+
+
+
+		<!--END iicontent_tc-->
+
+                    <!-- END template -->
+					</div>
+				</div>
+				<div id="policyContent" style="display:none">
+					<!-- START template from this line down -->
+
+
+	
+
+
+
+
+		<!--END iicontent_tc-->
+
+                    <!-- END template -->
+				</div>
+				<div class="cc-banner2" id="policyText">
+				</div>
+				<link rel="stylesheet" type="text/css" href="/scripts/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+				<link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+				<link rel="stylesheet" type="text/css" href="/css/all.css">  
+				<script src="/scripts/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+				
+				<script type="text/javascript">
+				
+				
+				
+				 	var cookieValue = document.cookie;
+                 	var brand = $("#brand").val();
+					var domainName = $("#domain").val();
+                 	var privacyFlag = $("#privacyPolicyflag").val();
+                	var policyMessage = $("#policyContent").html();
+                 	var cookieMessage = $("#cookieText1").html();
+                 	var message1;
+                 	
+                 	
+                 	
+				 	var sessionFlag = sessionStorage.getItem("policySession");
+				 	
+				 	if ((cookieValue.length === 0 || cookieValue.indexOf("cookiePolicyFlag=") === -1) && $.trim($('#cookieText1').text()).length > 0){
+				 		setCookie();
+				 		 if(privacyFlag === 'true' && $("#policyContent").children().length > 0) {
+				 			
+				 			//var policyBanner ="<span id='cookieconsent:desc' class='cc-message'>"+policyMessage+"<a target='_self' tabindex='0' class='cc-link' href="+privacyPolicylink+">Click here for details.</a></span>";
+				 			$("#policyText").append(policyMessage);
+				 		} 
+			 			message1 = cookieMessage;
+			 		
+				 		if(brand==='itw' || brand === 'svc' || brand==='clc') {
+				 			$("body").css("background-position-y", "46px");
+				 			$(".cc-banner2").css("position", "relative");
+				 		}
+				 		
+				 		sessionStorage.setItem("policySession", "false"); 
+				 	} else if(sessionFlag === null && privacyFlag === 'true' && $("#policyContent").children().length > 0 ){
+				 		//var policyBanner ="<span id='cookieconsent:desc' class='cc-message'>"+policyMessage+"<a target='_self' tabindex='0' class='cc-link' href="+privacyPolicylink+">Click here for details.</a></span>";
+				 		if(brand!=='pr') {
+				 			$("body").css("background-position-y", "42px");
+				 		}
+                       	if(brand==='pr') {
+				 			$("body").css("background-position-y", "25px");
+				 		}
+                       	
+			 			$(".cc-banner2").css("position", "relative");
+			 			$("#policyText").append(policyMessage);
+			 			
+                   		sessionStorage.setItem("policySession", "true");
+                   	 	
+                    } else {
+                	
+                		$("#policyText").hide();
+                	}
+                    
+                    
+                    var messageLink;
+                   
+                    	 
+                    
+                    if(message1){
+                    	messageLink='<span id="cookieconsent:desc" class="cc-message2">{{message1}}</span>';
+                        
+	        			window.addEventListener("load", function(){
+	        				
+	        			window.cookieconsent.initialise({
+	        			  "palette": {
+	        			   
+	        			  },
+	        			  elements: {
+	        				  header: '<span class="cc-header">{{header}}</span>&nbsp;',
+	        				  message: '<span id="cookieconsent:desc" class="cc-message">{{dismiss}}</span>',
+	        				  messagelink: messageLink,
+	        				  dismiss: '<a aria-label="dismiss cookie message" tabindex="0" class="cc-btn cc-dismiss">{{dismiss}}</a>',
+	        				  allow: '<a aria-label="allow cookies" tabindex="0" class="cc-btn cc-allow">{{allow}}</a>',
+	        				  deny: '<a aria-label="deny cookies" tabindex="0" class="cc-btn cc-deny">{{deny}}</a>',
+	        				  close: '<span aria-label="dismiss cookie message" tabindex="0" class="cc-close">{{close}}</span>',
+	        				},
+	        			  "content": {
+	        			    "message1": message1,
+	        			    "dismiss": ""
+	        			  }
+	        				
+	        			});
+	        			$( ".cc-btn" ).append( $( ".fas" ) );
+	        			$( ".GDPR-container" ).append( $( ".cc-message2" ) );
+	        			$( ".GDPR-container" ).append( $( ".cc-compliance" ) );  
+	        			$( ".cc-window" ).append( $( ".GDPR-container" ) );  
+	        			$( ".fas" ).removeAttr( "style" );
+	        			$( ".GDPR-container" ).removeAttr( "style" );
+	        			
+        				});
+
+	        			
+	        			
+	        			
+                    }
+                    
+        			
+				 	function setCookie() {
+                         //document.cookie = "cookiePolicyFlag=;expires= Sat, 12 May 2017 17:48:00 UTC"; //Deleting the cookie
+						  if(domainName.length > 0) {
+                        	 document.cookie = "cookiePolicyFlag=" + "true" + ";domain=."+domainName+";path=/;expires= Fri, 31 Dec 9999 23:59:59 UTC"; //Setting the cookie 
+                         } else {
+                        	 document.cookie = "cookiePolicyFlag=" + "true" + ";path=/;expires= Fri, 31 Dec 9999 23:59:59 UTC"; //Setting the cookie 
+                         }
+                   }
+				</script>
+				
+					 
 	<!-- App -->
 	<script type="text/javascript" src="/scripts/my/account/availablePoints.js"></script>
 	<script type="text/javascript" src="/scripts/my/account/availablePointsTool.js"></script>
@@ -143,22 +391,25 @@
 
     
     <!-- TradeDoubler site verification 1408259 -->
-</head>
-<body id="page_content" onload="if (window.onLoadEvent != null) onLoadEvent();">
+
+
     
     
 
 <script language="JavaScript" src="/scripts/page-title-rename.js"></script>
 
-    <!-- /* SiteCatalyst code version: H.24.1.
+    <script language="javascript" type="text/javascript">
+var s_account="intintervalworld"
+var tokenValue="45affd36-0790-4689-a51d-89d1b57952a6"
+</script>
+<script language="javascript" type="text/javascript" src="/scripts/putHiddenFieldScript.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ajaxSend(function(elm, xhr, s){if (s.type == 'POST') {xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');if (s.data){s.data += '&';} else {s.data = '';}s.data += 'CSRFToken=' + tokenValue;}});
+</script>
+<!-- /* SiteCatalyst code version: H.24.1.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com */ -->
 <!-- ***** Omniture Header Begin ***** -->
-<script language="javascript" type="text/javascript">
-var s_account="intintervalworld"
-var tokenValue="88213a31-4229-4422-9c93-7b0b1580c41c"
-</script>
 <script language="javascript" type="text/javascript" src="/scripts/s_code.js"></script>
-<script language="javascript" type="text/javascript" src="/scripts/putHiddenFieldScript.js"></script>
 <script language="javascript" type="text/javascript">
  s.trackingServer="metrics.intervalworld.com"
  s.trackingServerSecure="smetrics.intervalworld.com"
@@ -248,12 +499,13 @@ s.pageName="Privacy\x20Policy"
 
 
 
+<link rel="stylesheet" href="https://www.intervalworld.com/css/megamenu.css">
 
-<script type="text/javascript" src="http://www.intervalworld.com/scripts/nav.js"></script> 
-<link rel="stylesheet" href="http://www.intervalworld.com/css/megamenu.css">
+<script type="text/javascript" src="https://www.intervalworld.com/scripts/nav.js"></script> 
+<script type="text/javascript" src="https://www.intervalworld.com/scripts/jquery/plugins/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="https://www.intervalworld.com/scripts/jquery/plugins/jquery.megamenu.1.3.3.js"></script>
 
-<script type="text/javascript" src="http://www.intervalworld.com/scripts/jquery/plugins/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript" src="http://www.intervalworld.com/scripts/jquery/plugins/jquery.megamenu.1.3.3.js"></script>
+
 
 
  <!-- if not signed-in, show header with login form  -->
@@ -297,9 +549,10 @@ s.pageName="Privacy\x20Policy"
 
 <div id="header">
 
-    <link type="text/css" rel="stylesheet" href="http://www.intervalworld.com/css/my/jquery-ui.css">
-    <script type="text/javascript" src="http://www.intervalworld.com/scripts/libs/jqueryui/jquery-ui.js"></script>
-    <script type="text/javascript" src="http://www.intervalworld.com/scripts/components.js"></script>
+    <link type="text/css" rel="stylesheet" href="https://www.intervalworld.com/css/my/jquery-ui.css">
+    <script type="text/javascript" src="https://www.intervalworld.com/scripts/libs/jqueryui/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://www.intervalworld.com/scripts/components.js"></script>
+   
     <!--[if IE 6]>
         <script type="text/javascript" src="/scripts/DD_belatedPNG_0.0.8a-min.js"></script>
         <script type="text/javascript">
@@ -308,6 +561,9 @@ s.pageName="Privacy\x20Policy"
         </script>
     <![endif]-->
     
+ 
+	
+	 
   
     
     
@@ -337,11 +593,12 @@ s.pageName="Privacy\x20Policy"
             //-- language select implementation --//
             II.dropdown( $('#lang_dropdown') );
             
+            
         });
     </script>
     
-   <div class="header_logo" style="background-image:url(/images/iw-logo-original.gif); background-repeat: no-repeat; width:297px;"><a href="http://www.intervalworld.com/web/cs?a=0" target="_top">
-		<img src="http://www.intervalworld.com/images/spacer.gif" height="50" width="200" border="0"></a>
+   <div class="header_logo" style="background-image:url(/images/iw-logo-original.gif); background-repeat: no-repeat; width:297px;"><a href="https://www.intervalworld.com/web/cs?a=0" target="_top">
+		<img src="https://www.intervalworld.com/images/spacer.gif" height="50" width="200" border="0"></a>
 	</div>
     
 	<div class="extraordinary_escapes"></div>
@@ -491,6 +748,17 @@ s.pageName="Privacy\x20Policy"
 				      
 					        
 					       
+
+		<!-- List menu horizontal, Max-based on space available.
+		Links -->
+		<ul class="sub_list">
+			
+				<li><a href="/web/my/info/membership">Join Today</a></li>
+			
+		</ul>
+
+
+
 					        
 				      		   
 		</li>
@@ -649,6 +917,16 @@ s.pageName="Privacy\x20Policy"
                 NZ Privacy Policy
             </a>
         </li>
+        <li>
+            <a href="/web/cs?a=60&amp;p=privacy-policy-co">
+               CO Privacy Policy
+            </a>
+        </li>
+        <li>
+            <a href="/web/cs?a=60&amp;p=privacy-policy-mx">
+                MX Privacy Policy
+            </a>
+        </li>
     </ul>
 </div>
 
@@ -668,14 +946,14 @@ s.pageName="Privacy\x20Policy"
 					<!-- InstanceBeginEditable name="column2content" -->
 					
 					<!-- START template from this line down -->
+
                 <div id="iicontent_tc">
 
 
 <a name="top"></a>
 
-						<h1><p class="MsoNormal"><font face="Times New Roman, Times">INTERVALWORLD.COM PRIVACY POLICY<br>
-LAST UPDATED MARCH 5, 2013</font></p></h1>
-						<p>THIS DOCUMENT SETS FORTH THE ONLINE PRIVACY POLICY OF INTERVAL INTERNATIONAL, INC. (“INTERVAL”) FOR USERS OF INTERVALWORLD.COM (THE "SITE"). IF YOU HAVE OBJECTIONS TO THE PRIVACY POLICY, YOU SHOULD NOT USE THIS SITE. THIS PRIVACY POLICY DOES NOT GOVERN PRIVACY PRACTICES ASSOCIATED WITH OFFLINE ACTIVITIES AND IS NOT APPLICABLE TO RESIDENTS OF AUSTRALIA, NEW ZEALAND OR THE EUROPEAN UNION MEMBER STATES.</p>
+						<h1><p>INTERVALWORLD.COM PRIVACY POLICY<br>LAST UPDATED SEPTEMBER 1, 2018</p></h1>
+						<p>THIS DOCUMENT SETS FORTH THE PRIVACY POLICY OF INTERVAL INTERNATIONAL, INC. (“INTERVAL”) FOR USERS OF INTERVALWORLD.COM (THE "SITE"). IF YOU HAVE OBJECTIONS TO THE PRIVACY POLICY, YOU SHOULD NOT USE THIS SITE. THIS PRIVACY POLICY IS NOT APPLICABLE TO RESIDENTS OF AUSTRALIA OR NEW ZEALAND OR INDIVIDUALS IN THE EUROPEAN UNION MEMBER STATES. INDIVIDUALS IN THE EUROPEAN UNION SHOULD REFER TO OUR EU PRIVACY AND COOKIE POLICIES WHICH HAVE BEEN UPDATED EFFECTIVE SEPTEMBER 1, 2018. RESIDENTS OF AUSTRALIA AND NEW ZEALAND SHOULD REFER TO OUR PRIVACY POLICIES FOR EACH OF THOSE COUNTRIES.&nbsp;</p>
 						<ul>
 						
 							<li> <a href="#1" class="link"><em>Our Mobile Application</em></a></li>
@@ -703,106 +981,193 @@ LAST UPDATED MARCH 5, 2013</font></p></h1>
 		
 
 
+			
 					<a name="1"> </a>
+				
+			
 					<h3><em>Our Mobile Application</em></h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p><em>This section of the Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing services through our IntervalWorld Mobile App (the “App”).&nbsp; The privacy policy link within the App will point your device to our most current policy, so please check regularly for the most recent version of our Privacy Policy.</em></p><p><em>After download, the App solicits information from you.&nbsp; To use the App, you must sign in to your IntervalWorld.com account using your Interval Login ID and password.&nbsp; You will be asked by the App whether you want to use your current location. You may elect not to allow your current location to be used.</em></p><p><em>We collect and use information about you and your device through this App, as well as other information obtained from our Site, to maintain and provide you with services, to respond to your questions and instructions, to maintain the integrity of our network and address security issues, to investigate or take action regarding violations of suspected violations of law or our terms and conditions, and to improve our services.</em>&nbsp;</p><p><em>You may opt-out of information collection by uninstalling the App.&nbsp; You may use the standard uninstall application and data management process available as part of your mobile device or via the removal features provided in your chosen mobile app store or network.&nbsp; Once the App is uninstalled, information provided which is related to your IntervalWorld.com account (including but not limited to, purchase of Getaways, guest certificates, designating favorites or making an exchange request) will be stored in our server so that we may provide you with your requested services.</em><em><br></em></p><p><em>Except as stated in this section entitled Our Mobile Application, the terms of the IntervalWorld.com Privacy Policy below are applicable to the App.</em></p></small>
+			
+					<p>This section of the Privacy Policy describes our practices related to the use, storage and disclosure of information we collect from or about you in the course of providing services through our IntervalWorld Mobile App (the “App”).&nbsp; The privacy policy link within the App will point your device to our most current policy, so please check regularly for the most recent version of our Privacy Policy.&nbsp; </p>
+<p>After download, the App solicits information from you.&nbsp; To use the App, you must sign in to your IntervalWorld.com account using your Interval Login ID and password.&nbsp; You will be asked by the App whether you want to use your current location. You may elect not to allow your current location to be used.&nbsp;</p>
+<p>We collect and use information about you and your device through this App, as well as other information obtained from our Site, to maintain and provide you with services, to respond to your questions and instructions, to maintain the integrity of our network and address security issues, to investigate or take action regarding violations of suspected violations of law or our terms and conditions, and to improve our services.&nbsp;</p>
+<p>You may opt-out of information collection by uninstalling the App.&nbsp; You may use the standard uninstall application and data management process available as part of your mobile device or via the removal features provided in your chosen mobile app store or network.&nbsp; Once the App is uninstalled, information provided which is related to your IntervalWorld.com account (including but not limited to, purchase of Getaways, guest certificates, designating favorites or making an exchange request) will be stored in our server so that we may provide you with your requested services.&nbsp;</p>
+<p>Except as stated in this section entitled Our Mobile Application, the terms of the IntervalWorld.com Privacy Policy below are applicable to the App.&nbsp;&nbsp;&nbsp;</p>
+				
 					<hr>
 
+			
 					<a name="2"> </a>
+				
+			
 					<h3>Changes In Privacy Policy</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>All "personal information" ("personal information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains) that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection.</p><p>Interval reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the home page of the Site.&nbsp; When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy.&nbsp;&nbsp; If as the result of such changes, you want to alter the ways in which Interval is allowed to use your personal information, you can do so by following the procedure described below in the section titled "Updating your personal information and privacy preferences." You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Site after such notice has been posted for thirty (30) days with the following exception: If at the time you provide personal information to Interval you are given the opportunity (as you currently are) to limit how such information will be used to communicate with you, either by Interval or by third parties, Interval will not change your preference in this regard without your express consent.</p></small>
+			
+					<p>All "personal information" ("personal information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains) that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. </p>
+<p><br>Interval reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the home page of the Site.&nbsp; When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy.&nbsp;&nbsp; If as the result of such changes, you want to alter the ways in which Interval is allowed to use your personal information, you can do so by following the procedure described below in the section titled "Updating your personal information and privacy preferences." You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Site after such notice has been posted for thirty (30) days with the following exception: If at the time you provide personal information to Interval you are given the opportunity (as you currently are) to limit how such information will be used to communicate with you, either by Interval or by third parties, Interval will not change your preference in this regard without your express consent.</p>
+				
 					<hr>
 
+			
 					<a name="3"> </a>
+				
+			
 					<h3>Entities collecting personal information</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>Personal information on this Site is collected by Interval. Interval world headquarters are located at:</p><p>6262 Sunset Drive, Miami, Florida 33143 and its telephone number is 888-784-3447.</p><p>The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.</p></small>
+			
+					<p>Personal information on this Site is collected by Interval. Interval world headquarters are located at:</p>
+<p>6262 Sunset Drive, Miami, Florida 33143 and its telephone number is 888-784-3447.</p>
+<p>The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.</p>
+				
 					<hr>
 
+			
 					<a name="4"> </a>
+				
+			
 					<h3>Collection of information</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as registering on the site, performing an exchange or purchasing a getaway, we may ask you to provide certain information about yourself, such as your first and last name, mailing address (including ZIP code), member number, e-mail address, telephone and facsimile numbers and if you transact business with Interval, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p><p>Interval may also collect and store personal information about other people that you provide to us.&nbsp; For example, if you use the Site to make cruise or other travel reservations through our system, we may store your personal information and the personal information of each such travel companion.</p><p>When you submit personal information to Interval through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Interval and its affiliates and subsidiaries maintain offices, including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by third-party vendors of Interval. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.</p><p>Interval has established relationships with various third parties whose services are available to you from this Site or from Web sites that are linked to this Site. Typically, these providers offer services that Interval customers might find useful, such as those that can be used in conjunction with Interval services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Web site will be subject to the privacy policy posted on such site, and personal information that you provide while on this Site in conjunction with a provider's service will be subject to this Privacy Policy. You should be aware that our agreements with these service providers often provide that they will share with Interval personal information collected from you. In such instances, Interval may use this information in a manner consistent with this Privacy Policy. In the situation where sites have an Interval "look and feel," and you reasonably believe you are on an Interval site, the site is collecting information in a solely intermediary capacity and does not use personal information for secondary purposes.</p><p>Additionally, as a result of a business relationship with DoubleClick, a division of Google, Inc., we may allow third-parties, including our service providers, advertising companies, and ad networks, to display advertisements on our Site. Our Site does not provide any personal information to these third parties. These companies may use tracking technologies, such as <a href="#linked-cookies">cookies</a>, to collect information about users who view or interact with their advertisements. This information allows them to deliver targeted advertisements and gauge their effectiveness. If you would like to opt out of such ad targeting from DoubleClick, please click on the following link: <a href="http://www.doubleclick.com/privacy/index.aspx">http://www.doubleclick.com/privacy/index.aspx</a><br><br>
-Use of cookies. When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we use "<a href="#linked-cookies">cookies</a>" to track your visit. A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, and enables Interval to record your travel and site preferences. It cannot be executed as code or deliver viruses.<br><br>
-Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)<br><br>
-While Interval uses cookies to track your visit to our Site, and our web servers automatically log the IP/Internet address of your computer, we use this information for such purposes as responding to your requests, customizing future visits for you, improving our products and services, and communicating with you. In essence, we strive to ‘customize’ the look and feel of our Site to cater to your specific needs.&nbsp; We may collect information such as country of residence, member id, master resort code and other information that are exclusive to each individual so that we may provide you with a better experience while you are visiting our Site.</p><blockquote style="MARGIN-RIGHT: 0px" dir="ltr"><p>Your experience on our Site will be maximized if you keep cookies enabled. For example, cookies make it possible for:</p><ul><li>- us to personalize your experience of our Site</li><li>- you to use the convenience of Remember Me to avoid reentering your member number and password on every visit.</li></ul><p>If you prefer that we not place cookies on your computer, select the button below:</p><div style="MARGIN-LEFT: 4em"><p>&nbsp;</p><form onsubmit="return validateNoCookiesForm(this);" method="get" name="NoCookiesForm" action="/web/cs"><input name="a" value="103" type="hidden"><p align="center"><input class="button2" value="Disable Cookies" type="submit"></p></form><p>&nbsp;</p></div><p>Please note that <b>Remember Me</b> requires that a cookie be stored on your computer.</p></blockquote><p dir="ltr">Other Technologies. Interval may also use standard Internet technology, such as <a href="#linked-web-beacons">web beacons</a> and other similar technologies, to track your use of the Site. Interval may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information Interval obtains in this manner enables us to customize the services we offer our Site visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.</p></small>
+			
+					<p>As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as registering on the site, performing an exchange or purchasing a getaway, we may ask you to provide certain information about yourself, such as your first and last name, mailing address (including zip code), member number, e-mail address, telephone and facsimile numbers and if you transact business with Interval, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
+<p>Interval may also collect and store personal information about other people that you provide to us.&nbsp; For example, if you use the Site to make cruise or other travel reservations through our system, we may store your personal information and the personal information of each such travel companion.&nbsp;</p>
+<p>When you submit personal information to Interval through this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which Interval and its affiliates and subsidiaries maintain offices, including, without limitation, the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by third-party vendors of Interval. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.</p>
+<p><br>Interval has established relationships with various third parties whose services are available to you from this Site or from Web sites that are linked to this Site. Typically, these providers offer services that Interval customers might find useful, such as those that can be used in conjunction with Interval services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Web site will be subject to the privacy policy posted on such site, and personal information that you provide while on this Site in conjunction with a provider's service will be subject to this Privacy Policy. You should be aware that our agreements with these service providers often provide that they will share with Interval personal information collected from you. In such instances, Interval may use this information in a manner consistent with this Privacy Policy. In the situation where sites have an Interval "look and feel," and you reasonably believe you are on an Interval site, the site is collecting information in a solely intermediary capacity and does not use personal information for secondary purposes. </p>
+<p>Additionally, as a result of a business relationship with DoubleClick, a division of Google, Inc., we may allow third-parties, including our service providers, advertising companies, and ad networks, to display advertisements on our Site. Our Site does not provide any personal information to these third parties.&nbsp; These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.&nbsp; This information allows them to deliver targeted advertisements and gauge their effectiveness.&nbsp; If you would like to opt out of such ad targeting from DoubleClick,&nbsp;please click on the following link: <a href="http://support.google.com/dfp_premium/answer/2839090">http://support.google.com/dfp_premium/answer/2839090 </a></p>
+<p>Use of cookies.&nbsp; When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we use "cookies" to track your visit. A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, and enables Interval to record your travel and site preferences. It cannot be executed as code or deliver viruses.</p>
+<p>Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.)</p>
+<p>While Interval uses cookies to track your visit to our Site, and our web servers automatically log the IP/Internet address of your computer, we use this information for such purposes as responding to your requests, customizing future visits for you, improving our products and services, and communicating with you. In essence, we strive to ‘customize’ the look and feel of our Site to cater to your specific needs.&nbsp; We may collect information such as country of residence, member id, master resort code and other information that are exclusive to each individual so that we may provide you with a better experience while you are visiting our Site.</p>
+<blockquote dir="ltr" style="margin-right: 0px;">
+<p>Your experience on our Site will be maximized if you keep cookies enabled. For example, cookies make it possible for:</p>
+<ul>
+<li>us to personalize your experience of our Site</li>
+<li>you to use the convenience of Remember Me to avoid reentering your member number and password on every visit.</li>
+</ul>
+<p>If you prefer that we not place cookies on your computer, select the button below:</p>
+<div style="margin-left: 4em;">
+<p>&nbsp;</p>
+<form action="/web/cs" method="get" name="NoCookiesForm"><input name="a" type="hidden" value="103">
+<p align="center"><input class="button2" type="submit" value="Disable Cookies"></p>
+</form>
+<p>&nbsp;</p>
+</div>
+<p>Please note that <strong>Remember Me</strong> requires that a cookie be stored on your computer.</p>
+</blockquote>
+<p>Other Technologies.&nbsp; Interval may also use standard Internet technology, such as web beacons and other similar technologies, to track your use of the Site.&nbsp; Interval may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information Interval obtains in this manner enables us to customize the services we offer our Site visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.</p>
+				
 					<hr>
 
+			
 					<a name="5"> </a>
+				
+			
 					<h3>How your personal information is used</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>Interval collects your information in order to record and support your participation in the activities you select. Interval may use information that we collect about you to deliver the products and services that you have requested, manage your account and provide you with customer support, develop and display content and advertising tailored to your interests on our Site, enforce our terms and conditions, manage our business and perform functions as otherwise described to you at the time of collection.&nbsp; Additionally, if you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of Interval and selected third parties if you have so opted to receive such communications.</p><p>From time to time, we may send you notices of special offers, and other promotional communications on behalf of a third party. For example, we may send you an offer from a rental car agency that includes special fares for a particular time frame. Additionally we may provide your contact information (with the exception of e-mail address) to an authorized third party for the purpose of providing you with certain marketing promotions which extend Interval benefits and services. If you do not wish to receive such offers please visit <a href="/web/cs?a=80"><font color="#cc0000">http://www.intervalworld.com/iw/cs?a=80</font></a> and unsubscribe from this option.</p><p>Interval does not sell, rent or lease its customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.<br><br>
-Interval may collect information about the use of the Site, such as the types of services used and how many users we receive daily. We may use all or part of any information that you provide on this Site to personalize your experience the next time you visit us. This will make better use of your time and should make your visit much more productive.<br><br>
-Financial information.&nbsp; We may use financial information or payment method to process or collect payment for any purchases made on our Site and to protect against or identify possible fraudulent transactions.</p></small>
+			
+					<p>Interval collects your information in order to record and support your participation in the activities you select. Interval may use information that we collect about you to deliver the products and services that you have requested, manage your account and provide you with customer support, develop and display content and advertising tailored to your interests on our Site, enforce our terms and conditions, manage our business and perform functions as otherwise described to you at the time of collection.&nbsp; Additionally, if you enter a contest, information is collected to qualify the entry and contact you regarding the contest or prize awards. Your personal information is also used to keep you informed about product upgrades, special offers, and other products and services of Interval and selected third parties if you have so opted to receive such communications.</p>
+<p>From time to time, we may send you notices of special offers, and other promotional communications on behalf of a third party. For example, we may send you an offer from a rental car agency that includes special fares for a particular time frame. Additionally, we may provide your contact information (with the exception of e-mail address) to an authorized third party for the purpose of providing you with certain marketing promotions which extend Interval benefits and services. If you do not wish to receive such offers please&nbsp;please visit <a href="http://www.intervalworld.com/iw/cs?a=80">http://www.intervalworld.com/iw/cs?a=80</a> and unsubscribe from this option.</p>
+<p>Interval does not sell, rent or lease its customer lists to third parties. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party.</p>
+<p>Interval may collect information about the use of the Site, such as the types of services used and how many users we receive daily. We may use all or part of any information that you provide on this Site to personalize your experience the next time you visit us. This will make better use of your time and should make your visit much more productive. </p>
+<p>Financial information.&nbsp; We may use financial information or payment method to process or collect payment for any purchases made on our Site and to protect against or identify possible fraudulent transactions.</p>
+				
 					<hr>
 
+			
 					<a name="6"> </a>
+				
+			
 					<h3>With whom we share your information and your choices with respect to personal information</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p class="MsoNormal">Interval recognizes and appreciates the importance of responsible use of information collected on this Site. From time to time, Interval may communicate information to you regarding products, services, and special offers available from Interval, which may include communication regarding your use of the services on this Site. Except in the particular circumstances described in this Privacy Policy, Interval will not provide your name to other companies or organizations without your consent. We may share personal information with:</p><ul><li><div class="MsoNormal">- Authorized service providers:&nbsp; Interval may share your personal information with our authorized service providers that perform certain services on our behalf.&nbsp; These services may include fulfilling orders or reservations, processing credit card payments, delivering packages, and supporting contests, sweepstakes, surveys and other features offered through our Site.&nbsp; These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.</div></li><li><div class="MsoNormal">- Accommodation providers.&nbsp; By booking accommodations on our Site, you consent to our providing your personal information and booking information to these accommodation providers.&nbsp; Sharing this information with such providers allows them to contact you using the e-mail address or other contact information you provided regarding your stay.</div></li></ul><p class="MsoNormal">There are other instances in which Interval may divulge your personal information.&nbsp; Upon request of a resort, we may provide certain information from our membership records to your home resort(s).&nbsp; Such information may include but not be limited to, your first and last name, mailing address, telephone number and email address.&nbsp; If Interval sells assets (or the assets of a division or subsidiary) to another entity, or Interval (or a division or subsidiary) is acquired by, or merged with, another entity, Interval may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent.&nbsp; Interval may provide your personal information if necessary, in Interval's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Interval or others.</p><p class="MsoNormal">Aggregated and non-personal information.&nbsp; We may share aggregated and non-personal information we collect under any of the above circumstances.&nbsp; We may also share it with service providers to develop and deliver targeted advertising on our Site.&nbsp; We may combine non-personal information we collect with additional non-personal information collected from other sources.&nbsp; We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.&nbsp; For example, we may tell our advertisers the number of visitors to our Site and the most popular features or services accessed.&nbsp; This information does not contain any personal information and may be used to develop Site content and services that we hope you and other users will find of interest and to target content and advertising.</p></small>
+			
+					<p>Interval recognizes and appreciates the importance of responsible use of information collected on this Site. From time to time, Interval may communicate information to you regarding products, services, and special offers available from Interval, which may include communication regarding your use of the services on this Site. Except in the particular circumstances described in this Privacy Policy, Interval will not provide your name to other companies or organizations without your consent. We may share personal information with:</p>
+<p>•&nbsp;Authorized service providers:&nbsp; Interval may share your personal information with our authorized service providers that perform certain services on our behalf.&nbsp; These services may include fulfilling orders or reservations, processing credit card payments, delivering packages, and supporting contests, sweepstakes, surveys and other features offered through our Site.&nbsp; These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.<br>•&nbsp;Accommodation providers.&nbsp; By booking accommodations on our Site, you consent to our providing your personal information and booking information to these accommodation providers.&nbsp; Sharing this information with such providers allows them to contact you using the e-mail address or other contact information you provided regarding your stay. </p>
+<p>There are other instances in which Interval may divulge your personal information.&nbsp; Upon request of a resort, we may provide certain information from our membership records to your home resort(s).&nbsp; Such information may include but not be limited to, your first and last name, mailing address, telephone number and email address.&nbsp; If Interval sells assets (or the assets of a division or subsidiary) to another entity, or Interval (or a division or subsidiary) is acquired by, or merged with, another entity, Interval may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without your consent.&nbsp; Interval may provide your personal information if necessary, in Interval's good faith judgment, to comply with laws or regulations of a governmental or regulatory body or in response to a valid subpoena, warrant, or order or to protect the rights of Interval or others.</p>
+<p>Aggregated and non-personal information.&nbsp; We may share aggregated and non-personal information we collect under any of the above circumstances.&nbsp; We may also share it with service providers to develop and deliver targeted advertising on our Site.&nbsp; We may combine non-personal information we collect with additional non-personal information collected from other sources.&nbsp; We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.&nbsp; For example, we may tell our advertisers the number of visitors to our Site and the most popular features or services accessed.&nbsp; This information does not contain any personal information and may be used to develop Site content and services that we hope you and other users will find of interest and to target content and advertising.</p>
+				
 					<hr>
 
+			
 					<a name="7"> </a>
+				
+			
 					<h3>User-submitted content (blogs, bulletin boards, reviews chat rooms, etc.)</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>We may provide areas on our websites where you can post information about yourself and communicate with others, as well as post reviews of resorts, travel destinations, restaurants, and the like, or upload content (e.g. pictures, videos, audio files, etc).&nbsp; Such postings are governed by our&nbsp;<a href="/iimedia/pdf/iw/community_terms_of_use.pdf" target="_blank">Interval Community Terms of Use</a>.&nbsp; In addition, such postings may appear when searches are executed on the subject of your posting.&nbsp; Also, whenever you voluntarily disclose personal information on publicly-viewable web page, such as an Interval Community page, that information will be publicly available and can be collected and used by others.&nbsp; For example, if you post your email address on an Interval Community page, you may receive unsolicited messages.&nbsp; As it relates to publicly-viewable web pages, we cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.</p></small>
+			
+					<p>We may provide areas on our websites where you can post information about yourself and communicate with others, as well as post reviews of resorts, travel destinations, restaurants, and the like, or upload content (e.g. pictures, videos, audio files, etc).&nbsp; Such postings are governed by our <a href="https://www.intervalworld.com/web/cs?a=110">Interval Community Terms of Use</a>. &nbsp; In addition, such postings may appear when searches are executed on the subject of your posting.&nbsp; Also, whenever you voluntarily disclose personal information on publicly-viewable web page, such as an Interval Community page, that information will be publicly available and can be collected and used by others.&nbsp; For example, if you post your email address on an Interval Community page, you may receive unsolicited messages.&nbsp; As it relates to publicly-viewable web pages, we cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.</p>
+				
 					<hr>
 
+			
 					<a name="8"> </a>
+				
+			
 					<h3>Protection of your personal information</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>The personal information that you provide in connection with registering yourself as a user of Interval products or services or registering an Interval product is classified as Profile Information. Profile Information is protected in several ways. Access by you to your Profile Information is available through a password and unique customer ID either selected by you or chosen for you automatically. <em>Your password and profile information are encrypted while in transit</em>. We recommend that you do not divulge your password to anyone. In addition, your Profile Information resides on a secure server that only selected Interval personnel and contractors have access to via password.&nbsp;&nbsp;</p><p>Personal information that you provide that does not constitute Profile Information also resides on a secure server and is only accessible to selected Interval personnel and contractors via password. In addition to placing your information in secure servers, Interval utilizes state-of-the-art security architecture and technologies, such as multi-layer firewalls, Secure Socket Layer, Secure Shell, to protect all sensitive information.</p></small>
+			
+					<p>The personal information that you provide in connection with registering yourself as a user of Interval products or services or registering an Interval product is classified as Profile Information. Profile Information is protected in several ways. Access by you to your Profile Information is available through a password and unique customer ID either selected by you or chosen for you automatically. Your password and profile information are encrypted while in transit. We recommend that you do not divulge your password to anyone. In addition, your Profile Information resides on a secure server that only selected Interval personnel and contractors have access to via password.</p>
+<p>Personal information that you provide that does not constitute Profile Information also resides on a secure server and is only accessible to selected Interval personnel and contractors via password. In addition to placing your information in secure servers, Interval utilizes security architecture and technologies, such as multi-layer firewalls, and network-based intrusion detection monitors to protect all sensitive information.</p>
+				
 					<hr>
 
+			
 					<a name="9"> </a>
+				
+			
 					<h3>Updating your personal information and privacy preferences</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>You have the right to access and correct your personal information at any time. This may be accomplished by writing Interval at: 6262 Sunset Drive, Miami, Florida, 33143 or <a href="mailto:customerservice@interval-intl.com">customerservice@interval-intl.com</a>.&nbsp; Please include your name, address, and member number.&nbsp; You may also visit the “My Account” section of the Site.</p><p>Interval also provides you with the opportunity to specifically choose the promotional marketing e-mail communications you wish to receive from us by:&nbsp; 1) visiting the “My Account” section of the Site and un-checking the box next to the appropriate promotional marketing section, 2) writing to us at: Interval Customer Service, 6262 Sunset Drive, Miami, Florida 33143, 3) sending an email to <a href="mailto:customerservice@interval-intl.com">customerservice@interval-intl.com</a> or 4) visiting <a href="http://www.intervalworld.com/">http://www.intervalworld.com</a> “contact us” section.</p><p>In any commercial e-mail that we send to you, you will be given an opportunity to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. Interval may send you other types of transactional and relationship e-mail communications, such as exchange or Getaway confirmations, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from Interval.</p></small>
+			
+					<p>You have the right to access and correct your personal information at any time. This may be accomplished by writing Interval at: 6262 Sunset Drive, Miami, Florida, 33143 or <a href="mailto:customerservice@intervalintl.com">customerservice@intervalintl.com</a>.&nbsp; Please include your name, address, and member number.&nbsp; You may also visit the “My Account” section of the Site.</p>
+<p>Interval also provides you with the opportunity to specifically choose the promotional marketing e-mail communications you wish to receive from us by:&nbsp; 1) visiting the “My Account” section of the Site and un-checking the box next to the appropriate promotional marketing section, 2) writing to us at: Interval Customer Service, 6262 Sunset Drive, Miami, Florida 33143, 3) sending an email to <a href="mailto:customerservice@intervalintl.com">customerservice@intervalintl.com</a> or 4) visiting <a href="http://www.intervalworld.com">http://www.intervalworld.com</a> “contact us” section.&nbsp;</p>
+<p>In any commercial e-mail that we send to you, you will be given an opportunity to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. Interval may send you other types of transactional and relationship e-mail communications, such as exchange or Getaway confirmations, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from Interval.</p>
+				
 					<hr>
 
+			
 					<a name="#10"> </a>
+				
+			
 					<h3>Privacy-related inquiries and complaints</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>Interval takes its users' privacy concerns seriously. If you believe that Interval has not complied with this Online Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write to the Interval Chief Security Officer at the address indicated below.<br><br>
-In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Interval Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. If you do not receive acknowledgment of your inquiry or complaint or your inquiry or complaint is not satisfactorily addressed, you should write to: Interval General Counsel, 6262 Sunset Drive; Miami, Florida, 33143.<br><br>
-Please note that if you provide Interval with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Interval cannot guarantee that your most recent privacy preference will be honored.<br><br>
-Also, please note that Interval is not responsible for the content or privacy practices of non-Interval Web sites to which this site or any other Interval web site may link. You should review the privacy policy of such sites before using the sites.</p></small>
+			
+					<p>Interval takes its users' privacy concerns seriously. If you believe that Interval has not complied with this Privacy Policy with respect to your personal information or you have other related inquiries or concerns, you may write to the Interval Chief Information Security Officer at the address indicated below.</p>
+<p>In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Interval Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly. If you do not receive acknowledgment of your inquiry or complaint or your inquiry or complaint is not satisfactorily addressed, you should write to: Interval Associate General Counsel, 6262 Sunset Drive; Miami, Florida, 33143.</p>
+<p>Please note that if you provide Interval with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Interval cannot guarantee that your most recent privacy preference will be honored.</p>
+<p>Also, please note that Interval is not responsible for the content or privacy practices of non-Interval Web sites to which this site or any other Interval web site may link. You should review the privacy policy of such sites before using the sites. </p>
+				
 					<hr>
 
+			
 					<a name="#11"> </a>
+				
+			
 					<h3>Linked Sections</h3>
-					<p><small>[<a href="#top">back to top</a>]</small></p>
+				
 
-
-					<small><p>Cookies:<br id="linked-cookies"><br>
-A cookie is a small text file that is stored on a user’s computer for record keeping purposes.&nbsp; Cookies can be either session cookies or persistent cookies.&nbsp; A session cookie expires when you close your browser and is used to make it easier for you to navigate our website.&nbsp; A persistent cookie remains on your hard drive for an extended period of time.</p><p>For example, when you sign in to our Site, Interval will record your user or member ID, your country of residence, the name on your user or member account and other information that is exclusive to you in the cookie file on your computer.&nbsp; We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in.&nbsp; For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies.&nbsp; In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier.&nbsp; We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.</p><p>You may delete or decline cookies by clicking on the button included within the text of this Privacy Policy or by changing your browser settings.&nbsp; For web pages requiring authorization, cookies are not optional.&nbsp; Users choosing not to accept cookies will probably not be able to access those pages.&nbsp;</p><p>Web Beacons:<br id="linked-web-beacons"><br>Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.&nbsp; Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.</p><p>Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns.</p></small>
+			
+					<p>Cookies: <br>A cookie is a small text file that is stored on a user’s computer for record keeping purposes.&nbsp; Cookies can be either session cookies or persistent cookies.&nbsp; A session cookie expires when you close your browser and is used to make it easier for you to navigate our website.&nbsp; A persistent cookie remains on your hard drive for an extended period of time.</p>
+<p>For example, when you sign in to our Site, Interval will record your user or member ID, your country of residence, the name on your user or member account and other information that is exclusive to you in the cookie file on your computer.&nbsp; We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in.&nbsp; For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies.&nbsp; In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier.&nbsp; We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.</p>
+<p>You may delete or decline cookies by clicking on the button included within the text of this Privacy Policy or by changing your browser settings.&nbsp; For web pages requiring authorization, cookies are not optional.&nbsp; Users choosing not to accept cookies will probably not be able to access those pages.&nbsp;</p>
+<p>Web Beacons:<br>Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.&nbsp; Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.</p>
+<p>Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns.&nbsp;</p>
+				
 					<hr>
 
 
 					<p><small>[<a href="#top">back to top</a>]</small></p>
-		</div> <!--END iicontent_tc-->
+		</div>
+
+
+
+		<!--END iicontent_tc-->
 
                     <!-- END template -->
 					
@@ -896,22 +1261,29 @@ A cookie is a small text file that is stored on a user’s computer for record k
             
                       
         
-    <div id="footercontent">
-        
-        
-            <div id="footermenu">
-                <small><a href="http://www.intervalworld.com/web/cs?a=60&amp;p=about">About Interval</a> | <a href="http://www.intervalworld.com/web/cs?a=60&amp;p=privacy-policy">Privacy and Cookie Policies</a> | <a href="http://www.intervalworld.com/web/cs?a=60&amp;p=legal">Legal Information</a> | <a href="http://www.intervalworld.com/web/cs?a=60&amp;p=customer-service">Customer Support</a> | <a href="http://www.intervalworld.com/web/cs?a=60&amp;p=help-login">FAQs</a></small>
-            </div>
-        
-        <div id="footerlinks">
-            <small>Copyright© 2017 Interval International. All rights reserved.</small>
-        
-                    
-                  <div style="text-align:center; margin-top:50px; color:#4092ca"><small>Partner Sites: <a href="http://www.iilg.com/" target="_blank">ILG</a>, <a href="http://resortdeveloper.com/" target="_blank">ResortDeveloper</a>, <a href="http://www.astonhotels.com/" target="_blank">AstonHotels</a>, <a href="http://www.mauicondo.com/" target="_blank">MauiCondo</a>, <a href="http://tradingplaces.com/" target="_blank">TradingPlaces</a>, <a href="http://www.preferredresidences.com" target="_blank">PreferredResidences</a>, <a href="http://www.leisuretimepassport.com" target="_blank">LeisureTimePassport</a>, <a href="http://www.vriresorts.com" target="_blank">VRIResorts</a><small></small></small></div><small><small>
-                        
-        </small></small></div><small><small>
-    </small></small></div><small><small>
-</small></small></div><small><small>
+		<div id="footercontent">
+		    <div id="footermenu">
+		         <small>
+			         <a href="https://www.intervalworld.com/web/cs?a=60&amp;p=about">About Interval</a> | 
+			         <a href="https://www.intervalworld.com/web/cs?a=60&amp;p=privacy-policy">UPDATED Privacy and Cookie Policies</a> | 
+			         <a href="https://www.intervalworld.com/web/cs?a=60&amp;p=legal">Legal Information</a> | 
+			         <a href="https://www.intervalworld.com/web/cs?a=60&amp;p=customer-service">Customer Support</a>| 
+			         
+			         	
+			         	
+				         	
+				         	
+				         	 <a href="https://www.intervalworld.com/web/cs?a=60&amp;p=help-login">FAQs</a>
+				            
+			         	
+			         
+		         </small>
+		   </div>
+		   <div id="footerlinks">
+		       <small>Copyright© 2019 Interval International. All rights reserved.</small>
+		   </div>
+		</div>
+</div>
 
     
     
@@ -919,17 +1291,18 @@ A cookie is a small text file that is stored on a user’s computer for record k
 <script language="javascript" type="text/javascript">
 s.prop27=""
 s.eVar28="EN"
-s.prop46=s.eVar46=s.getTimeParting('h','-5','2017');
+s.prop46=s.eVar46=s.getTimeParting('h','-5','2019');
 var s_code=s.t();
 if(s_code)document.write(s_code);
 if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-');
 </script>
-<noscript><img src="http://intervalinternational.122.2o7.net/b/ss/intintervalworld/1/H.24.1--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 	<!-- End SiteCatalyst code version: H.24.1. -->
 <!-- ***** Omniture Footer End ***** -->
 
+    
+    
 
 
   
  
-  </small></small></body></html>
+  </body></html>
