@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onion.link privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208122835id_/https%3A//onion.link/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onion.link privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520165103id_/https%3A//onion.link/privacy.html) for the most accurate reproduction.*
 
 # OnionLink: Privacy Policy
 
