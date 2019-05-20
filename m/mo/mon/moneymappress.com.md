@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004153754id_/https%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymappress.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520145141id_/https%3A//moneymappress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
