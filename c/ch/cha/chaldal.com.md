@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chaldal.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215124238id_/https%3A//chaldal.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaldal.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520185657id_/https%3A//chaldal.com/t/PrivacyInfo) for the most accurate reproduction.*
 
-# Privacy policy - Chaldal.com
+# Privacy policy - Chaldal 🥚Online Grocery Shopping and Delivery in Dhaka | Buy fresh food items, personal care, baby products and more
 
 When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our website to make your experience safer and easier. More importantly, while doing so, we collect personal information from you that we consider necessary for achieving this purpose.
 
