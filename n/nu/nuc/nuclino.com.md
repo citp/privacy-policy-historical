@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuclino.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227112324id_/https%3A//www.nuclino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuclino.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520132617id_/https%3A//www.nuclino.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nuclino
 
@@ -131,7 +131,7 @@ When you use the Services, we share certain information about you with other Ser
 
 ### Sharing with third parties
 
-  *  _Service providers:_ We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you. If a service provider needs to access information about you to perform services on our behalf, they do so under instruction from us, including abiding by policies and procedures designed to protect your information. You can learn more about third-party service providers in the section “Nuclino Subprocessors” below.
+  *  _Service providers:_ We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, infrastructure, payment processing, analysis and other services for us, which may require them to access or use information about you. If a service provider needs to access information about you to perform services on our behalf, they do so under instruction from us, including abiding by policies and procedures designed to protect your information. You can learn more about third-party service providers on our [Nuclino Subprocessors](https://web.archive.org/legal/subprocessors) page.
 
   *  _Third-party services:_ You, your administrator or other Service users may choose to link or integrate third-party services with our Services. Doing so may give third-party apps access to your account and information about you like your name and email address, and any content you choose to use in connection with those third-party services. Third-party service policies and procedures are not controlled by us, and this privacy policy does not cover how third-party apps use your information. We encourage you to review the privacy policies of third parties before connecting to or using their services to learn more about their privacy and information handling practices. If you object to information about you being shared with these third parties, please disable or remove any undesired link or integration.
 
@@ -146,7 +146,7 @@ When you use the Services, we share certain information about you with other Ser
 
 ### Information storage and security
 
-We use data hosting service providers to host the information we collect, and we use technical measures to secure your data. You can learn more about services we use in the section “Nuclino Subprocessors” below. While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. You can learn more about selected security measures [here](https://www.nuclino.com/security). We will respond to requests about information storage and security within a reasonable timeframe.
+We use data hosting service providers to host the information we collect, and we use technical measures to secure your data. You can learn more about services we use on our [Nuclino Subprocessors](https://web.archive.org/legal/subprocessors) page. While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. You can learn more about selected security measures [here](https://web.archive.org/security). We will respond to requests about information storage and security within a reasonable timeframe.
 
 ### How long we keep information
 
@@ -182,28 +182,6 @@ We collect information globally. We transfer, process, and store your informatio
 
 ## Other important privacy-related information
 
-### Nuclino Subprocessors
-
-#### Infrastructure Subprocessors
-
-Nuclino may use the following Subprocessors to host Customer Data or provide other infrastructure that helps with delivery of our Services:
-
-Entity Name| Subprocessing Activities| Entity Country| Data Location  
----|---|---|---  
-Amazon Web Services EMEA SARL| Cloud Service Provider| Luxembourg| Europe  
-Heroku, Inc.| Cloud Service Provider| United States| Europe  
-  
-#### Other Subprocessors
-
-Nuclino may use the following Subprocessors to perform other Service functions:
-
-Entity Name| Subprocessing Activities| Entity Country| Data Location  
----|---|---|---  
-Mailjet SAS| Cloud-based Email Service Provider| France| Europe  
-FrontApp, Inc.| Cloud-based Customer Support Services| United States| United States, Europe  
-Stripe, Inc.| Cloud-based Payment Processing Services| United States| United States  
-Chargebee, Inc.| Cloud-based Billing and Subscription Services| United States| United States  
-  
 ### Notice to End Users
 
 The Services may be adopted for both personal use and use by organizations. Where the Services are made available to you through an organization (e.g. your employer), that organization is the administrator of the Services and is responsible for the end-users and/or Service sites over which it has control. If this is the case, please direct your data privacy questions to your administrator, as your use of the Services is subject to that organization's policies. We are not responsible for the privacy or security practices of an administrator's organization, which may be different than this policy.
