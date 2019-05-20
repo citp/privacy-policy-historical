@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229163600id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520195226id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: March 5th, 2018
+Last updated: April 17th, 2019
 
 Please note that all calls with the company may be recorded or monitored for quality assurance and training purposes.
 
@@ -43,19 +43,26 @@ We use this information to
 
 _We may provide your personal information to agents or service providers acting on our behalf for limited purposes_. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information only to perform the service they are providing for us.
 
-_We reserve the right to disclose your personal information as required by law_ (e.g., to comply with a subpoena, warrant, court order, or similar legal process served on our website) _and when we believe that disclosure is necessary to protect_ our _rights_ , protect your _safety_ or the safety of others, _investigate fraud, and/or respond to a government request_. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements. 
+_We reserve the right to disclose your personal information as required by law_ (e.g., to comply with a subpoena, warrant, court order, or similar legal process served on our website) _and when we believe that disclosure is necessary to protect_ our _rights_ , protect your _safety_ or the safety of others, _investigate fraud, and/or respond to a government request_. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including meeting national security or law enforcement requirements.
 
 _In the event Nationaldebtrelief.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred_. You will be notified via email and/or a prominent notice on our website of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
 
-**Choice/Opt-Out** You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com).
+**Choice/Opt-Out** You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com)
+
+**Legitimate Interests  
+**We use cookies, log files, enhanced email, connected mobile, and connected TV communications for our legitimate interests of providing you with relevant and personalized interactions, in accordance with Article 6(1)(f) of the GDPR.
 
 **Cookies and Other Tracking Technologies**
 
 _Cookies_
 
-National Debt Relief, LLC and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
+A cookie is a digital file that contains a string of text, storing information. Commonly, web servers which host and maintain websites send cookies to your computer. They are usually stored on your computer via your web browser. The web browser communicates information related to your interactions with the website, back to the web server of the website. This is a common way to drive personalization across internet enabled devices, as the storing of this information allows the website to know what it should know about you based on what you previously looked at or interacted with.
+
+National Debt Relief, LLC and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 _Log Files_
+
+A log file is a digital file that records interactions between software systems. Log files exists across all internet and IP enabled devices, including the connected mobile, connected TV, and enhanced email tactics described herein. Device type and location using latitude and longitude coordinates can also stored.
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or page views.
 
@@ -65,19 +72,33 @@ We may record your IP addresses when you place an order through our site in orde
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/> (or if located in the European Union click here). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-**Correcting and Updating Your Personal Information** Upon request we will provide you with information about whether we hold any of your personal information. If you wish to request access, or deletion of your personal information please contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com). We will respond to your request within a reasonable timeframe.
+**Connected Mobile Communications**  
+Through highly selective and privacy compliant partners, National Debt Relief, LLC may also use connected mobile devices to extend the reach of their marketing and advertising initiatives to maximize relevance for the client experience. Mobile devices may have cookies, but mainly use specifically anonymized device identifiers. Apple devices use the Apple ID for Advertising (IDFA) and Android devices user the Android Advertising ID (AAID). Unlike Cookies, IDFAs and AAIDs do not expire. Apple and Android customers must manually change their IDs on their specific devices, and may do so at any time.
 
-**Data Retention** We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Connected TV Communications**  
+Through highly selective and privacy compliant partners, National Debt Relief, LLC may also utilize addressable TV integrations in our marketing and advertising communication tactics. Set-top boxes (cable boxes) are assigned Subscriber IDs that represent a customer’s viewership preferences in a privacy compliant and anonymous fashion. Unlike Cookies, these Subscriber IDs do not expire. Customers of these cable providers must inform their cable providers if they would like to opt-out of targeted advertising content.
+
+**Enhanced Email Communications**  
+Email marketing communications that you may receive from National Debt Relief, LLC may contain code that operates similar to a cookie, called a pixel. Pixels are usually short lines of HTML code that are activated when you open or click content within an email. Measuring and analyzing these interactions enable more contextual and personalized email communications, as well as inform tactics across connected mobile and connected TV tactics through the process of data onboarding.
+
+**Data Onboarding**  
+Through highly selective and privacy compliant partners, National Debt Relief, LLC may engage in the process of transforming offline data into an online environment, or transforming online data into an offline environment. Such a process will entail at the very least, the anonymized matching of customer data across disparate data sets. The anonymization will ensure consumer privacy while still facilitating contextual relevance of the data. Once anonymized, this data would be shared with our advertising platform partners for marketing and advertising activities.
+
+**Correcting and Updating Your Personal Information** Upon request we will provide you with information about whether we hold any of your personal information. If you wish to request access, or deletion of your personal information please contact us at [success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com)
+
+. We will respond to your request within a reasonable timeframe.
+
+**Data Retention** We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Cookies and Devices will be stored in the DMP for up to 90 days, but could be stored with our advertising partners up to 180 days.
 
 **Links to Other Websites** Our site includes links to other websites whose privacy practices may differ from those of Nationaldebtrelief.com. If you submit personal information to any of those sites, your information is subject to their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
 **Social Media Widgets** Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
 
-**Testimonials** We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com).
+**Testimonials** We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com)
 
 **Security** The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com).
+If you have any questions about security on our website, you can contact us at [success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com)
 
 **Frames** Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to National Debt Relief, LLC.
 
@@ -101,7 +122,7 @@ In response to Vermont regulations, we automatically treat accounts with Vermont
 
 **Notice to Nevada Residents**
 
-We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by requesting that we cease calling you by contacting us directly and making such request in writing at [service@nationaldebtrelief.com](mailto:info@nationaldebtrelief.com). Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number: 702-486-3132; e-mail: [**BCPINFO@ag.state.nv.us**](mailto:BCPINFO@ag.state.nv.us) **.**
+We are providing you this notice pursuant to state law. You may be placed on our internal Do Not Call List by requesting that we cease calling you by contacting us directly and making such request in writing at [success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com). Nevada law requires that we also provide you with the following contact information: Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101; Phone number: 702-486-3132; e-mail: [**BCPINFO@ag.state.nv.us**](mailto:BCPINFO@ag.state.nv.us) **.**
 
 **Notice to Users Outside of the United States**
 
@@ -118,7 +139,8 @@ The Site is not directed to individuals under the age of thirteen (13) **,** and
 National Debt Relief, LLC  
 11 Broadway 16th Floor  
 New York NY 10004  
-[service@nationaldebtrelief.com ](mailto:info@nationaldebtrelief.com)  
+[success@nationaldebtrelief.com](mailto:success@nationaldebtrelief.com)
+
 800-300-9550
 
 **Please print and retain a copy of this privacy policy for your records.**
