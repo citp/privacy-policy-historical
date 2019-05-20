@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibusinessinfo.co.uk privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204065426id_/https%3A//www.nibusinessinfo.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibusinessinfo.co.uk privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213455id_/https%3A//www.nibusinessinfo.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nibusinessinfo.co.uk
 
@@ -38,6 +38,11 @@ When you complete the [Get export ready tool](https://web.archive.org/node/17669
   * **Get R &D ready tool**  
 When you complete the [Get R&D ready tool](https://web.archive.org/node/17675) and request to be contacted by a member of Invest NI’s Business Support Team, we collect your name, email address, telephone number and postcode. We will never share your information other than for the purpose for which it was provided to us.  
  
+  * **Using our live webchat**  
+Invest NI also hosts and operates a Live Chat service, which we use to handle customer enquiries in real time. If you use our Live Chat service we will collect your name, email address, telephone number, postcode and the contents of your Live Chat session. This information will be retained for 10 years and will not be shared with any other organisations except as noted below. 
+
+During a Live Chat session, you can request a transcript of the conversation when you provide your email address at the start of your session; or when prompted at the end. If the service that your enquiry relates to is provided by another public body, such as a local Council, please note that we will share your data with the relevant body to address your query.
+
   * **Calling our telephone helpline number**  
 When you call the nibusinessinfo.co.uk helpline number on Tel: 0800 181 4422, you will speak to Invest NI’s Business Support Team (BST). If you have an enquiry, you may provide your name, contact details and postcode, so that they can assist with your query. BST will make a file note of your query and add this to Invest NI’s customer relationship management (CRM) system. Invest NI will keep this for a period of ten years in line with the [Invest NI retention and disposal schedule (PDF, 1.65MB)](https://secure.investni.com/static/library/invest-ni/documents/retention-and-disposal-schedule.pdf).
 
