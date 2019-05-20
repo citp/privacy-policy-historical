@@ -1,227 +1,259 @@
-> *The following text is extracted and transformed from the extrememusic.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104957id_/https%3A//www.extrememusic.com/PDFs/cookies_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrememusic.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520152708id_/https%3A//extrememusic-public.s3.amazonaws.com/DOCUMENTS/PDFS/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
-                                                                           LAST UPDATED: [11/29/2012]
-                                        Extreme Production Music
-                                              PRIVACY POLICY
-This notice discloses the online data collection and use practices of Extreme Music Library Ltd of 30
-Golden Square, London W1F 9LD, England (“Extreme”, “we”, “us”, “our”). Extreme may modify, alter or
-otherwise update this policy at any time, and the date the most recent set of changes will be displayed at
-the “Last Updated” legend above. “Website” shall mean www.extrememusic.com and any other websites
-and online services operated by us. "User" means you, the Website end-user. We encourage you to
-review this policy from time to time. You will signify your acceptance of this privacy policy when you
-request download access to the Website or take a license of rights to use our production music. Your
-continued usage of the Website or your continued licensing of our production music following the posting
-of any changes to this policy will mean you accept those changes.
-1.       Privacy Practices and Policies & Our Use of Your Personal Information. Your e-mail
-address and other personally identifying data will be known to Extreme Music only when you voluntarily
-submit such information to the Website. We may use this personal information to contact you if we
-change our services or terms or if we need to give you notice under those terms.
-This Website is controlled by us from our offices in the United Kingdom (“UK”). Personal information
-collected from the Site is processed in accordance with the Data Protection Act 1998 (the “Act"), which
-regulates the processing of personal data in the UK. We are registered as a data controller in
-accordance with the Act and comply with UK data protection and privacy law.
-If you choose to visit the Website from outside the UK, you do so at your own risk, with the understanding
-that personal information collected from the Website may be collected, stored and used in a country
-whose privacy laws may be different and less protective than those of your home country.
-We use your personal information for various purposes such as fulfilling orders, responding to requests
-for information, and providing customer assistance. The information about your licensing of our
-production music may be used to send you information that we believe may be of interest to you, such as
-information about music or products or services offered by Extreme or its affiliates. If you prefer, you can
-choose not to receive such information from Extreme by indicating to us your preference in an e-mail
-message to: extreme@extrememusic.com or at the time you provide to us the requested information. In
-addition, with each communication you receive from Extreme, you will be given the opportunity to indicate
-if you do not wish to receive future communications.
-Extreme reserves the right to disclose any content, records, or electronic communication of any kind
-(including personal information or private electronic communication transmitted on the Website) under the
-following circumstances: (a) with your consent; (b) as may be required by law or court order; (c) to
-persons or companies with whom Extreme contracts to carry out the internal operations of the website or
-our business; or (d) under exigent circumstances to protect the personal safety or property of our Users,
-the public, or ourselves. Extreme also reserves the right to reject any order or to request additional
-information from any User.
-2.       With Whom We Share Information. As a general rule, we will not disclose any personal
-information we collect from you without your consent. However, we may disclose personal information in
+PRIVACY POLICY
+Last revision date: April 18th, 2019
+What does this policy cover?
+This policy describes Extreme Music Library Ltd and its affiliates' use of your data. References in this policy
+to Extreme, we or us shall mean Extreme Music Library, Ltd.
+This Privacy Policy applies to the information collected by Extreme both offline and online, including through
+the Extreme Website and through any interactive features, applications, widgets, blogs, social networks
+and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer,
+mobile device or other technology (collectively “Extreme Websites”).
+Please note that when you enter any subsites accessible through Extreme Websites, such subsites may
+have their own specific privacy policies. Additionally, the properties of affiliated Extreme companies,
+including some that are linked to/from the Extreme Websites, may have different policies; therefore,
+please review the privacy policies on those websites if you visit them.
+What information do we ask you to provide to us?
+With the exception of information related to establishing an account and login credentials for any of the
+Extreme Websites, Extreme does not generally require that you provide us with personal data in order to
+visit and use the Extreme Websites. Please note that in order to participate in some activities, such as
+sweepstakes, contests and other promotions (collectively, “Promotions”) and social media, we may ask you
+to provide information that could reasonably be used to contact you or to identify you personally (such as
+your name, company name, title, e-mail address, mailing address and telephone number). Extreme may
+also ask you to provide other information about yourself, which may include demographic information such
+as geographic region, etc., or certain information about your preferences and interests.
+Therefore, the information that we collect from you and process may include:
+     •   First name, last name, company name, and title
+     •   Your log-in credentials for any of the Extreme Websites
+     •   Demographic information, geographic region etc.
+     •   Contact information, such as email address, mailing address and phone number
+     •   Your payment and delivery details, including billing and delivery addresses and credit card details
+         where you make purchases from us.
+     •   Marketing preferences, including any consents you have given us
+We may offer opportunities to enter into Promotions, on our own or jointly with a third party. Such
+Promotions may require registration and the disclosure of both personal data and non-personal data. In the
+event that a Promotion is offered jointly with a third party, as a result of your participation in such Promotion,
+your personal data and non-personal data may be shared with such third party. This sharing will be
+                                                         1
 
 
-special cases, when we reasonably believe that disclosing this information is necessary to identify,
-contact or bring legal action against someone who may be causing injury to or interference with (either
-intentionally or unintentionally) our rights or property. We may disclose User information when we believe
-in good faith that the law requires it. We may also disclose your personal information to any member of
-our group of companies, which means our subsidiaries, our ultimate holding company and its
-subsidiaries, as defined in section 1159 of the UK Companies Act 2006 (whether based within or outside
-the European Economic Area).
-We may share with others, at our discretion, certain aggregate statistical data about licensing and the use
-of our production music. No personal information (such as names or email addresses) will be identifiable
-from such statistics.
-We may transfer, sell or assign any of the information described above, including personally identifiable
-information, to third parties, as a result of the sale, merger, consolidation, change in control, transfer of
-substantial assets, reorganization or liquidation of Extreme.
-3.       Where We Store Your Personal Information. All information you provide to us is stored on
-secure servers hosted by us or third parties providing hosting, payment or other services for us.
-The information we collect from you may be transferred to, and stored at, a destination outside the
-European Economic Area ("EEA"), including any destination where the privacy laws of the country
-concerned may be different and less protective than those of EEA countries. It may also be processed by
-personnel operating outside the EEA who work for us or for one of our suppliers. Such personnel may be
-engaged in, among other things, the processing of your payment details (where applicable) and the
-provision of support services.
-By submitting your personal information, you agree to this transfer, storing and processing.
-4.       Security. Extreme strictly protects the security of your personal information and your choices for
-its intended use. While Extreme cannot guarantee that unauthorized access will never occur, Extreme
-takes great care in maintaining the security of your personal information and in preventing unauthorized
-access to it through the use of appropriate technology and internal procedures. One easy and important
-way to protect your personal information is to keep your account password confidential and to close your
-browser when you are away from your computer.
-5.       Modify/opt-out. If at any point you no longer wish to receive communications from Extreme, or if
-you wish to check and edit the personal information we hold about you at any time, please forward such
-requests to us at the relevant office address which may be found in the “Dealers” section on the Website.
-6.       Cookies / Tracking Technology & IP Addresses. For each visitor to the Website, Extreme's
-web server automatically recognizes and stores information, such as the visitor's IP address/domain
-name combination and any referring websites. We use this information to understand visitor traffic
-patterns through our websites for purposes such as enhancing their usability and allow us to customize
-your experience to better match your interests and preferences, or to simply facilitate your signing in to
-use the services. Your computer provides this information automatically each time you log on, unless
-you've activated blocking technology available in some browsers. Most browsers will allow you to erase
-cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a
-cookie is stored. However, if you block or erase cookies, we may not be able to restore any preferences
-or customization settings you previously specified, and our ability to personalize your online experience
-would be limited. Please refer to your browser instructions or "help" screen to learn more about these
-functions.
+disclosed to you at the time you provide your information. By entering a Promotion, you are agreeing to the
+official rules that govern that Promotion, which may contain specific requirements of you, including, except
+where prohibited by law, allowing the sponsor and/or other third parties connected to the Promotion to use
+your name, voice and/or likeness in advertising and marketing materials. Therefore, always carefully read
+the rules of the Promotion before entering.
+What information do we collect from you automatically?
+In addition to any personal data or other information that you choose to provide to us via the Extreme
+Websites, whenever you visit or interact with the Extreme Websites, Extreme may automatically collect
+certain information such as your IP address and/or another unique identifier (“Device Identifier”) for the
+computer, mobile device, technology or other device (“Device”) you use to access the Extreme Websites
+and any referring property. (A Device Identifier is a number that is automatically assigned to your Device
+when you access a Website or other digital property or its servers. The Extreme Websites identify your
+Device by its Device Identifier).
+Some mobile service providers may also provide us or our third-party service providers with information
+regarding the physical location of the Device used to access the Extreme Websites.
+In addition, Extreme, as well as certain third-party analytics and other service providers, may use a variety
+of technologies that automatically or passively collect information about how you use the Extreme Websites
+("Usage Information"). Usage Information may include, in part, the Device you use to access the Extreme
+Websites, browser type, platform, operating system, IP address, viewport, the content served, the time at
+which a page was accessed and/or the time spent on a page, and the preceding pages views.
+Extreme may receive information about you from third parties. In addition, if you are on another Website
+and you opt-in to receive information from us, that Website will forward to us your e-mail address and other
+(personal data) about you so that we may contact you as requested. We may also supplement the
+information we collect about you with outside records from third parties in order to enhance our ability to
+serve you, to tailor our content to you and to offer you opportunities to use our services that we believe may
+be of interest to you. When we obtain personal data from third parties, we will apply this Privacy Policy to
+the personal data received, unless we have disclosed otherwise.
+Therefore, the information that we may automatically collect from you and process may include:
+     •    Your IP address or another unique identifier, such as a Device Identifier
+     •    Information related to your Device such as the platform, operating system, browser type, or physical
+          location
+     •    Your Usage Information such as the content served, the time at which the content was accessed
+          and/or the time spent using the content, and the preceding content views
+How do we use this information, and what is the legal basis for this use?
+We process this personal data for the following purposes:
+                                                        2
 
 
-For our internal purposes, we may gather information such as the date, time, browser type, navigation
-history, and IP address of all visitors to our site(s). We use this information for our internal security audit
-log, trend analysis, and system administration, and to gather broad demographic information about our
-User base for aggregate use.
-For further details of our use of cookies, please refer to our Cookies Policy.
-7.       Your Acceptance of this Policy. By using the Website, you signify your assent to our Privacy
-Policy. If you do not agree to this policy, please do not use the Website. We reserve the right, at our
-discretion, to change, modify, add, or remove portions from this policy at any time. Your continued use of
-the Site following the posting of changes to these terms means you accept these changes.
-8.       The Information You Submit. You are solely responsible and liable for the content, accuracy,
-completeness and legality of any information which you submit to Extreme via the Website. In particular,
-you must ensure that you have the legal right under all applicable laws to submit any and all information
-you provide to Extreme via the Website.
-9.       Contact. If you have any questions on this Privacy Policy or our use of your personal
-information, you can email us at extreme@extrememusic.com or write to us at Extreme Music Library Ltd,
-30 Golden Square, London W1F 9LD, England marking any correspondence for the attention of Data
-Controller.
+    •    As required for business purposes or to establish and fulfill a contract with you, for example if you
+         license music from us or enter a Promotion. This may include verifying your identity, taking
+         payments, communicating with you and providing services relevant to our business.
+    •    As required by Extreme to enable our business and pursue our legitimate interests, in particular:
+               o   we will use your information to provide services you have requested, and respond to any
+                   comments or complaints you may send us
+               o   we monitor use of the Extreme Websites, and may use your information to help us monitor,
+                   improve and protect our content, services and the Extreme Websites, both online and
+                   offline
+               o   we may use information you provide to tailor your experience on the Extreme Websites or
+                   personalize our services for you
+               o   to provide you with information about Promotions or other offerings that may be of interest
+                   to you
+               o   to provide you with support and answer questions or other requests
+               o   we may monitor any customer account to prevent, investigate and/or report fraud,
+                   terrorism, misrepresentation, security incidents or crime, in accordance with applicable law
+               o   if you provide a credit or debit card, we may also use third parties to check the validity of
+                   the sort code, account number and card number you submit in order to prevent fraud.
+               o   we may use information you provide to investigate any complaints received from you or
+                   from others, about the Extreme Websites or our services
+               o   we may also use the information we collect to improve the Extreme Websites and our
+                   content and services, for internal business purposes, and to contact you with regard to your
+                   use of the Extreme Websites and, in our discretion, changes to any of our policies
+    •    compliance with applicable laws and protection of Extreme's legitimate business interests and legal
+         rights, including, but not limited to, use in connection with legal claims, compliance, regulatory, and
+         investigative purposes (including disclosure of such information in connection with legal process or
+         litigation).
+In addition, with your consent we may send you direct marketing in relation to our services, or other services
+provided by us, our affiliates and carefully selected partners. Although these will only be sent where you
+have given your consent, or (where permissible) you have been given an opportunity to opt out, you will be
+able to opt-out of electronic direct marketing by following the instructions in the communication.
+Who will we share this data with, and where?
+To Affiliates, Other Extreme Companies and Third-Parties
+                                                          3
 
 
-                                                                              LAST UPDATED: 11/29/2012
-                                         Extreme Production Music
-                                             COOKIES POLICY
-This Cookies Policy relates to our website at www.extrememusic.com and any other websites and
-online services operated by us (collectively, the “Website”).
-This Cookies Policy explains how we use cookies on the Website, and forms part of our Privacy
-Policy. By using the Website, you consent to such use in accordance with this Cookies Policy.
-About cookies
-Cookies are widely used to allow websites to function efficiently. A "cookie" is a small text file that
-(depending on your browser settings) is deposited on the hard drive of your computer or mobile
-phone (each, a “device”) when you visit a website. The cookie may be sent back to that site when
-you visit again, and may then be used by the server to identify and track your use of the website.
-There are two main types of cookies. A “session cookie” is a temporary cookie that only remains in
-the cookie file of your browser until you leave a website. A “persistent” cookie is a long-term cookie
-that will be stored by your browser until its set expiry date (unless you delete it before the expiry date).
-How we use cookies
-In general, we use certain types of cookie:
-         to identify you as you use the Website;
-         (where applicable) to help us authenticate you as a Member and/or Registered User and to
-          give you access to your user profile;
-         to customise and personalise your experience of the Website; and
-         to compile anonymous statistics about the use of the Website.
-These cookies do not contain any information that, in itself, personally identifies you and do not
-provide us with access to the rest of your device. We may, however, associate the information
-contained in cookies with personal information that you have provided to us separately.
-More particularly, here is a list of the main cookies that we use on the Website, and what each is used
-for.
-  Cookie name               Cookie type                      Purpose
-  __utma Cookie             Persistent                       This cookie keeps track of the number of
-                                                             times a visitor has been to the Website
-                                                             pertaining to the cookie, when their first visit
-                                                             was, and when their last visit occurred.
-                                                             Google Analytics uses the information from
-                                                             this cookie to calculate information such as
-                                                             Days and Visits to purchase.
-  __utmb and __utmc         Session                          The B and C cookies work together to
-  Cookies                                                    calculate how long a visit takes. __utmb
-                                                       1
-3127595.1
+Extreme may share your personal data with companies affiliated with Extreme (“Affiliates")*, so that those
+Affiliates can (i) assist us with fulfilling your requests or improving our content, services or advertising;
+and/or (ii) contact you about other content, services or other offerings that may be of interest to you.
+* Affiliates: meaning worldwide affiliate offices, agents and administrators that represent and work with
+Extreme, such as sub-publishers, performance societies, licensees and local agents.
+We may from time to time employ third parties to perform functions on our behalf, and thus, we may also
+share your personal data with third-party service providers that assist us with providing content, fulfilling
+your requests, improving our content, services or advertising, or otherwise performing services for Extreme.
+As one example, if you access content or services that are published, developed or supported by an Affiliate
+or third party, your personal data may be shared with that Affiliate or third party for purposes related to that
+content or those services, including service administration and/or development. Additionally, we may share
+your information in order to host or operate the Extreme Websites, for data analysis purposes, and for the
+administration of Promotions, such as in connection with winner selection and prize fulfillment.
+When You Consent To Have Your Personal Data Shared or Otherwise Request That We Share Your
+Information
+We may offer you the opportunity to consent to the sharing of your information with third parties, for example
+so you are able to receive information and/or marketing offers from third parties. Additionally, you may
+request, sometimes through your use of an interactive feature or third- party application, that we share
+personal data about you with a third party, and we will typically do so in those circumstances. If you consent
+or request to receive communications from third parties, you will need to communicate with them directly if
+you later decide that you no longer wish to receive their communications.
+The provisions above apply to our sharing of personal data with Affiliates and third-party service providers.
+They do not cover use of personal data that those Affiliates and third-party service providers collect directly
+from you. Such use of personal data is covered by the relevant Affiliate’s and/or third party’s privacy policy
+and not this Privacy Policy.
+Business Transactions
+We may share your personal data with Affiliates for internal reasons, primarily for business and operational
+purposes, including any corporate reorganization, restructuring or other corporate change. In addition,
+Extreme or any of its assets, including the Extreme Websites, may be sold, or other transactions may occur
+in which your personal data is one of the key business assets in the transaction. In such a case, your
+personal data may be one of the business assets we transfer. Hence, Extreme reserves the right to disclose
+and transfer user information, including personal data, in connection with any activity and/or transaction
+described above.
+Legal Protections and Law Enforcement
+We may transfer and disclose information, including your personal data, (including Usage Information and
+Device Identifier (including IP address)), to third parties: (i) to comply with legal obligations; (ii) when we
+believe in good faith that the law requires it; (iii) at the request of governmental authorities conducting an
+investigation; (iv) to verify or enforce our Terms & Conditions or other applicable policies; (v) to respond to
+an emergency; or (vi) to otherwise protect the rights, property, safety or security of third parties, visitors to
+the Extreme Websites or the public. We may also use Device Identifiers to identify users, and may do so in
+                                                          4
 
 
-                                                            takes a timestamp of the exact moment in
-                                                            time when a visitor enters the Website, while
-                                                            __utmc takes a timestamp of the exact
-                                                            moment in time when a visitor leaves the
-                                                            Website. __utmb expires at the end of the
-                                                            session. __utmc waits 30 minutes, and then
-                                                            it expires. As __utmc has no way of knowing
-                                                            when a user closes their browser or leaves a
-                                                            website, so it waits 30 minutes for another
-                                                            pageview to happen, and if it doesn’t, it
-                                                            expires.
-  __utmz Cookie           Persistent                        This cookie keeps track of where a Website
-                                                            visitor came from, what search engine they
-                                                            used, what link they clicked on, what
-                                                            keyword they used, and where they were in
-                                                            the world when you accessed a website. It
-                                                            expires in 15,768,000 seconds – or, in 6
-                                                            months. This cookie allows Google Analytics
-                                                            to know to whom and to what source /
-                                                            medium / keyword to assign the credit for a
-                                                            Goal Conversion or an Ecommerce
-                                                            Transaction.
-  ASP.NET_SessionId       Session                           This cookie stores and retrieves values for a
-  Cookie                                                    Website user as the user navigates
-                                                            ASP.NET pages in a Web application. HTTP
-                                                            is a stateless protocol. This means that a
-                                                            Web server treats each HTTP request for a
-                                                            page as an independent request. The server
-                                                            retains no knowledge of variable values that
-                                                            were used during previous requests.
-                                                            ASP.NET session state identifies requests
-                                                            from the same browser during a limited time
-                                                            window as a session, and provides a way to
-                                                            persist variable values for the duration of that
-                                                            session. By default, ASP.NET session state
-                                                            is enabled for all ASP.NET applications.
-We may introduce further types of cookie from time to time to improve your experience of the
-Website. If we do so, we shall update the list above to note any further main cookies used on the
-Website.
-If you require any further information on the cookies that we use, you can contact us as described in
-the How to contact us section below.
-Third-party cookies
-Please note that our business partners’ or other websites that may be accessible via the Website may
-also use cookies, over which we have no control. You should check the privacy and cookies policies
-posted on the relevant third-party websites for further information on such cookies (including details of
-how to reject or delete such cookies).
-                                                     2
-3127595.1
+cooperation with copyright owners, internet service providers, wireless service providers or law enforcement
+agencies, in our discretion. Such disclosures may be carried out without notice to you.
+Cookies & Other Tracking Technologies
+We use cookies and other technologies to track the use of the Extreme Websites. We allow third parties to
+place such technologies on the Extreme Websites for analytics and other purposes. We may use cookies
+and other technologies to collect aggregate site visitation data by tracking how users navigate to and
+through our website.
+Cookies are files that web servers place on your device. The use of cookies on Extreme Websites allows
+you to enjoy more seamless visits and more accurately measures your behaviour on the Extreme Websites.
+You can learn more about the cookies and web beacons we use and how you can disable cookies and web
+beacons in our Cookie Policy.
+Social Media Applications
+Functionality on the Extreme properties may permit interactions between third-party properties, such as
+enabling you to “like” or “share” content to third-party properties. If you choose to “like” or “share” content
+or to otherwise post information from or via Extreme Websites to a third-party property, feature or
+application, that information may become public and the third-party property may have access to
+information about you and your use of the Extreme Websites, including personal data.
+You may also choose to participate in a third party application or feature (such as our Facebook, Instagram
+or other social media pages, or a similar feature on a third-party property) through which you allow us to
+collect and share (or the third party to share) information about you, including personal data. The third party
+may allow you to remove the application or feature, in which case we will no longer collect information about
+you through the application or feature, but we may retain the information previously collected. In addition,
+we may receive information about you if other users of a third-party property give us access to their profiles
+and you are one of their “connections,” or if information about you is otherwise accessible through your
+“connections” web page, profile page, or similar page on a social networking or other third-party property
+or interactive service.
+Security
+Extreme uses commercially reasonable safeguards to help protect and secure your personal data, and we
+use reasonable efforts to obtain the agreement of our Affiliates and third-party service providers to take
+steps to protect the confidentiality, security, and integrity of personal data we share with them. However,
+no electronic data transmission or storage of information can be guaranteed to be 100% private and secure.
+Please be careful to avoid ‘phishing’ schemes, where someone may send you an e-mail that looks like it is
+from Extreme asking for your personal data. You understand that any message or information you send to
+an Extreme Property may be read or intercepted by others. Extreme does not ensure or warrant the security
+of any information you transmit to us, and you use the Extreme Websites and provide us with your
+information at your own risk.
+To help protect you and others, we monitor use of the Extreme Websites, and we use the information we
+collect, including personal data, to identify fraudulent activities and transactions; prevent abuse of and
+investigate and/or seek prosecution for any potential threats to or misuse of the Extreme Websites; ensure
+compliance with the Terms and Conditions and this Privacy Policy; investigate violations of or enforce these
+                                                        5
 
 
-The Website also uses Google Analytics, a web analytics service provided by Google, Inc.
-(“Google”). Google Analytics uses cookies to help us analyse how users use the Website. The
-information generated by Google’s cookies about your use of the Website (including your IP address)
-is anonymous and will be sent to Google and held on Google’s servers in the USA in accordance with
-Google’s privacy policy (available at http://www.google.co.uk/intl/en/privacy/). Please note that Google
-may also transfer this information to third parties where required to do so by law, or where such third
-parties process the information on Google's behalf. Google will not associate your IP address with
-any other data held by Google.
-Rejecting and deleting cookies
-If you object to the use of cookies on the Website, most browsers can be configured to alert you to
-their use or to enable you to reject cookies. You can also delete cookies already stored on your
-device. To learn how to reject or delete cookies, we recommend that you consult the "Help" function
-of your internet browser or, for a mobile phone, your handset manual. Further information on rejection
-and deletion of cookies is provided on www.aboutcookies.org.
-If, however, you decide to disable or delete any cookies, some services or features on the Website
-(especially interactive features) may not work properly. Disabling or deleting cookies may also affect
-your ability to use other websites.
-How to contact us
-If you have any questions on this Cookies Policy or our use of your personal information, you can
-email us at extreme@extrememusic.com or write to us at Extreme Music Library Ltd, 30 Golden
-Square, London W1F 9LD, England marking any correspondence for the attention of Data Controller.
-Changes to this Cookies Policy
-We may at any time update or otherwise modify this Cookies Policy. We will notify you of any changes
-to our Cookies Policy by posting the modified Cookies Policy on the Website.
-                                                     3
-3127595.1
+agreements; and otherwise to protect the rights and property of Extreme, its partners, and customers.
+Monitoring may result in the collection, recording, and analysis of online activity or communications through
+the Extreme Websites. If you do not consent to these conditions, you must discontinue your use of the
+Extreme Websites.
+How do we treat children's personal data?
+The Extreme Websites are open to all individuals, though some Promotions may have age restrictions. We
+do not knowingly collect or permit the collection, storage or use of any personal data from anyone under 16
+years of age. If we become aware that a child under 16 is attempting to submit this information, we will
+inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
+For Residents of the United States
+If you are a parent or guardian who knows or has discovered that your child under the age of 13 has
+submitted his or her personal data or other information without your consent, permission or authorization,
+upon request, we will promptly: (a) provide direct notice to you indicating what, if any, personal data of your
+child has been collected and how it has been used and/or disclosed; (b) remove your child’s personal data
+or other information from our database, cease the use of such information and direct any other party with
+access to such information to do the same; and (c) by notice to you, confirm compliance with the foregoing.
+Access to your information (personal data) and your rights
+Notice to California Residents
+Your California Privacy Rights: If you are a California resident, you have the right to receive: (a) information
+identifying any third party(ies) to whom Extreme may have disclosed, within the preceding calendar year,
+your personal data for that third party’s direct marketing purposes; (b) a description of the categories of
+personal data disclosed; and (c) to obtain such information free of charge. To request such information,
+please submit your request to: privacy@extrememusic.com. Extreme will respond to these requests within
+thirty 30 days. Requests that come to Extreme by other means may result in a delayed response.
+For Residents of the European Economic Area (EEA)
+How can you access your personal data and what are your rights?
+If you would like a copy of the personal data that we store about you in our customer databases, please
+contact us using the details given in the “Contact us” section below.
+This is in addition to your legal rights, including the right to access a copy of your personal data, the right
+to request the deletion or updating of any inaccurate personal data and the right to object, in some cases,
+to our processing of your personal data. You can exercise these rights by contacting us using the details
+given in the “Contact us” section below.
+Where we are processing personal data based on your consent, you have the right to withdraw consent at
+any time, without affecting the lawfulness of the processing based on consent before its withdrawal.
+                                                         6
+
+
+You may also have, for some data processed by us, a right to data portability, i.e. the right to receive your
+personal data in a structured, commonly used machine-readable format and transmit your personal data to
+another data controller.
+You can exercise these rights by contacting us using the details given in the “Contact us” section below.
+You may be asked to provide some proof of identification so that we can verify that it is you making the
+request.
+If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may
+contact us or your local data protection authority.
+Retention of personal data
+We will only retain your personal data for as long as is reasonably necessary for the various purposes set
+out in this policy or to otherwise comply with any applicable laws and regulations concerning the mandatory
+retention of certain types of information.
+Policy governs use: changes to Privacy Policy
+The terms of this Privacy Policy will govern the use of any information collected while it is in place. Extreme
+reserves the right to change this Privacy Policy at any time, without prior notice to you, and any changes
+will become effective immediately upon posting. Thus, please review this Privacy Policy periodically.
+Contact us:
+If you have any questions or comments about our practices regarding personal data or about this Privacy
+Policy, please submit your request to Extreme Music Library, Ltd. 5th Floor Kent House, 14-17 Market
+Place, London W1W8AJ England, Attn: Data Controller or via e-mail to: privacy@extrememusic.com
+                                                       7
