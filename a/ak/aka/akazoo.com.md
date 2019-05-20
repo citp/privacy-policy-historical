@@ -1,115 +1,231 @@
-> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720051245id_/https%3A//www.akazoo.com/site/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akazoo.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520221056id_/https%3A//www.akazoo.com/public/documents/privacy-policy) for the most accurate reproduction.*
 
-# Unlimited music, made social – Akazoo
+# Unlimited music anytime, anywhere - Akazoo
 
-This is the official privacy policy and statement of privacy rights ("Privacy Policy) for the Akazoo proprietary branded mobile digital content and messaging services defined and described in our [**Terms of Use**](https://web.archive.org/site/documents/terms-of-use). 
+## General remarks
 
-The The Terms of Use, together with this Privacy Policy, Community Guidelines, any Additional Terms and, if applicable to you, our Subscription Agreement, forms your agreement with us and any terms not defined in this Privacy Policy have the meaning set forth in those documents. 
+Welcome to the Privacy and Cookie Policy the Akazoo Music Streaming Service which includes the website accessible at http://www.akazoo.com (hereinafter the “Site”), and its desktop, tablet, tv and mobile applications (hereinafter the “Application”).
 
-This Privacy Policy governs the Personal Information (as defined below) collected by our Website and our Service, but does not cover any other information, whether collected in any other manner or for any other purpose, nor on any other web site or service unless specifically stated. 
+The Site and Application are created, developed and operated by AKAZOO LIMITED (hereinafter “Akazoo”) a company with principal offices located at 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
 
-Our Service is offered and made available only to users 18 years of age or older. If you are not yet 18 years old or if your use of our Service is prohibited or restricted in any way by the laws, regulations or other governmental requirements of the jurisdiction in which you live, or if, for any reason and at any time, you do not agree with all of this Privacy Policy, please discontinue using all our Services immediately because by using or attempting to use the Service, you certify you are at least 18 years of age, that you meet all our eligibility requirements for your use of our Services and that you agree with all of the terms and conditions of and incorporated into our Terms of Use, referenced above. 
+## Purpose
 
-Overview: Our Privacy Policy is intended to explain our privacy practices and inform you as to: 
+This section illustrates Akazoo’s commitments with regard to the protection of the privacy and personal data of its members, subscribers or visitors (hereinafter referred to together as the “Users”), collected and processed during the use of the Site and the Application under the conditions set out in the Terms of Use (hereinafter the “Data”).
 
-  * The kinds of Personal Information we collect from users and how such Personal Information is collected; 
-  * How we use Personal Information; 
-  * The circumstances under which we disclose Personal Information to third parties; 
-  * How you can access, update or delete any Personal Information we collect about you; and 
-  * The mechanisms we have implemented to protect your Personal Information.
+Akazoo undertakes to comply with the applicable legislation relating to the protection of privacy, in particular the Regulation (EU) 2016/679 of the European Parliament and the Council of 27 April 2016 relating to the protection of natural persons with regard to the processing of personal data and on the free movement of such data, (hereinafter referred to together as the “Applicable Regulation”).
 
+The User acknowledges that, by using the Site and/or the Application and/or by using one of the free or paid services made available offered by Akazoo (hereinafter the “Services”), his/her Data are collected and processed according to the terms and conditions set out hereinafter.
 
+The present policy (the “Policy”) may be modified at any time, in particular in order to ensure compliance with any legislative, regulatory, case law, editorial or technical changes.
 
-There are, among other things, age and residency requirements you must comply with in order to use our Service and you must refer to our Terms of Use (including our Subscription Agreement and Community Guidelines) for the specific terms and conditions regarding these requirements. If for any reason, you do not agree with this Privacy Policy or any of our Terms of Use, please do not use any of our Services or Website at all.
+The User must therefore refer, before any use of the Services, to the latest version of the Policy.
 
-We have the right to change this Privacy Policy at any time and from time to time by posting an updated version on our Website, without advance notice to you, or we may, in our sole discretion, send you a message telling you we have made a change (for example, we may, email or text message you about the changes). The changes shall be effective to you immediately upon posting or when you receive our message. We encourage you to check this Privacy Policy often so you are aware of the most current terms and conditions that apply to you. 
+## Identity of the Data controller
 
-When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, home address, mobile device number, telephone number, profile, your photograph or audio-visual images of you, your instant-messenger nickname, blog, vlog or any personal website URL, your date of birth, email address, gender, and any other information that would allow someone to identify you or contact you. Personal Information also includes information about your personal preferences, survey responses, and your transactions and interactions with us, if you are or have been a registered user or Subscriber or you have provided this type of information to us. Personal information may also be contained in Postings or other User Generated Content you Post or submit to us or any other user or on our Website or Service. For example, if you are a Registered User or a Subscriber to our Subscription Services in addition to your name and contact information, we may also collect and maintain your billing address, Service selections, your wireless or mobile carrier name and account number, credit card or other payment instrument information, order numbers and your wireless or mobile deviceâ€™s identification and/or your computerâ€™s internet address and website, including any link that may have referred or directed you to our Service (e.g., to our Website from a referring URL). 
+The Data controller is the company AKAZOO LIMITED, a company with principal offices located at 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
 
-We are committed to protecting our usersâ€™ privacy. Keeping Personal Information you share with us through the use of our Service, secure, including Personal Information we obtain on our Website and from your Postings (as defined in our Terms of Use), but you understand, acknowledge and agree that we do not and cannot control your Postings, nor are or shall we be liable if you Post or make any information available to others (including allowing others to use your User ID or failing to protect your User ID from disclosure or use by others), on our Website, through our Service or otherwise. It is also important for us to explain to you how we collect, use, disclose and maintain your Personal Information and help you understand these things. We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission which is wireless or mobile or over the Internet is completely secure, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. 
+## Data collected
 
-##  YOUR PRIVACY RIGHT 
+In order to provide its Services, Akazoo may collect Data relating to the Users.
 
-You have the right to request from companies conducting business your country, a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an "Opt-outâ€ or "Opt-inâ€ choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
+### The Data provided directly by the User
 
-Akazoo qualifies for the alternative option: it has a comprehensive Privacy Policy and provides you with details on how you may either decline to permit ("Opt-out") or consent to ("Opt-in") the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
+During his/her registration and use of the Services, the User provides various Data directly to Akazoo. These Data include in particular:
 
-If you request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at Akazoo.com or you may contact us via postal mail at: 
-
-Akazoo â€“ Internetq SA, 340 Kifissias Ave., Neo Psychiko 154 51 Athens, Greece  
-Attn: Your Privacy Rights 
-
-All requests sent via postal mail must be labeled "Your Privacy Rightsâ€ on the envelope or post card and clearly stated on the actual request. For all requests, please include your name and home address. We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information. 
-
-To all users of the Website, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at Akazoo.com or: 
-
-Akazoo â€“ Internetq SA, 340 Kifissias Ave., Neo Psychiko 154 51 Athens, Greece   
-Attn: Your Privacy Rights 
-
-##  **OUR GENERAL PRIVACY POLICIES**
-
-All our Services are designed and targeted to audiences and governed by and operated in accordance with all applicable laws, regulations, and treaties. By your use of (or attempt to use) our Service, you certify you are at least 18 years of age (Please see our Terms of Use, our Subscription Agreement and any Additional Terms that may apply to Services you may register for, subscribe to and/or use). 
-
-Please be aware that Personal Information we obtain from you or that you provide to us may be transferred, stored, maintained and used on servers, communication and data processing facilities we maintain in Luxemburg, Luxemburg. Our servers in Luxemburg, Luxemburg are under the control of our parent company, Internetq, currently located at Internetq SA, 340 Kifissias Ave., Athens 154 51 Greece. By using our Services and providing us with your Personal Information, you consent to the transfer of your Personal Information to and from these servers and waive any claims that may arise relating to such transfers. All users of our Service are required to provide true, current, complete and accurate Personal Information when prompted and we have the right to refuse or revoke your right to use our Services and/or reject and delete any entry you make, if we have reason to believe information you provide to us is or may be false, fraudulent, or inconsistent with this Privacy Policy or in violation of the Terms of Use. Your continued use of our Service indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, maintenance, management and storage of your Personal Information as described. We may from time to time, transfer or merge your Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our advertisers and promotional partners. This Privacy Policy remains applicable to your Personal Information for as long as your Personal Information is in our possession, even if you terminate or discontinue your use of our Service and you acknowledge and agree you will be bound by its terms. 
-
-Collection and Use of Personal Information: We collect Personal Information about you when you use our Service, as a user, Registered User and/or Subscriber, whether or not you register, enroll or sign up for particular activities, services, features or functions, participate in promotions, order or purchase goods or services or simply in the course of exchanges of information, transactions and activities (including, but not limited to, Posting) in connection with our Service. We may use your Personal Information to tailor your experience on our Services, serve advertising we think may be of relevance to you, to understand your preferences, and among other things, to provide you with offers we think may be of interest to you. It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date. We cannot and shall not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. You are solely responsible for maintaining the confidentiality of your User ID. Bear in mind when you submit information to us, it does not guarantee that we will permit you to register, subscribe and/or participate in or use any or all of the activities, services, features or functions of our Service. 
-
-Registered Users and Subscribers. Registered Users and Subscribers are required to submit certain Personal Information and maintain a User ID. If a Trial Period is available to you when you subscribe to any of our Subscription Services, we will allow you, subject to the terms and conditions (including any applicable time limitations) of such Trial Period, to use certain features and functions of our Subscription Services available to Subscribers and to take advantage of such a Trial Period you will be required to also provide us with Personal Information. At a minimum, when you sign up, enroll, register for or subscribe to any of our Services, we will require you to submit your mobile phone or wireless device number and in order to take advantage of our Subscription Services you must also give us your wireless or mobile carrier account information. By doing so, you understand, acknowledge and agree you are giving us your consent to track your activities and use of our Service. You are also confirming your agreement to comply with all the terms and conditions in the Terms of Use, (and, if applicable our Subscription Agreement) of which this Privacy Policy forms a part. Registered Users and Subscribers may be provided with opportunities to subscribe to text-message and/or email newsletters, alerts and other periodic communications and information we may send you. In some cases, when you as a user (even if you are not a Registered User or Subscriber), sign up for certain features or functions or submit your wireless or mobile device number to us or you elect to receive Content, send User Generated Content and/or Post, your actions in doing so may also include and be deemed to give us your consent for us to create a non-subscription account, send you and for you to receive such text-messages, email, e-newsletters and other communications from us. We will always disclose this to you if that is the case and you will be given the opportunity at that time and thereafter, to Opt-Out of receiving or continuing to receive these. You understand, acknowledge and agree that you are giving us your consent to track your use of the Service and all your activities, exchanges of information and transactions in connection with any Services you have agreed to receive or participate in as described. You are also confirming your agreement to comply with all the terms and conditions in the Terms of Use, of which this Privacy Policy forms a part. 
-
-Promotions and Advertising. We may make certain advertisements, promotions and offers available on the Service (for example, sponsored contests or sweepstakes) and in addition to the Additional Terms that may apply, you may be required to submit Personal Information (e.g., your name, home address, email address, telephone number and date of birth) in order to participate. When you participate in any such promotion or offer, in addition to the Terms of Use, of which this Privacy Policy is a part, you are also confirming your agreement to comply with all of the Additional Terms that apply. We may also make advertisements and promotional material and offers from third parties available on all or certain portions of our Website or in connection with any or all of our Services. You understand, acknowledge and agree that if you respond, take advantage of and/or accept any offer or redirect or have your browser redirected from our Website, or otherwise engage in any transactions or activities with such third parties, their privacy policies, terms and conditions and policies (and not ours) will govern their relationship with you, including, without limitation, the treatment of Personal Information and we shall have no liability, nor do we control or have any responsibility. 
-
-Opt-Out Procedures. We may post notices, advertising and promotional material on our Website and/or we may contact you by email or text message or otherwise to promote our Services or to send you offers we believe may be of interest to you. You may chose to Opt-out of receiving marketing and promotional emails or text messages or similar electronic messages from us by sending us an email to [ support@akazoo.com](mailto:support@akazoo.com?subject=Support). We may always contact you via email or SMS for administrative or informational purposes, including follow-up messages regarding the administration of your subscription plan, any promotions you have entered or participated in, or offers you have accepted or services you have enrolled in or ordered or other transactions you have initiated in connection with our Service. 
-
-Sharing of Aggregate Information with Third Parties. Some of the aggregate data we collect in connection with our Service may be shared with our advertisers and other business partners, but we do not give any Personal Information to them as part of the relationship unless specifically stated in this Privacy Policy. When dealing with third parties, you are subject to their privacy policies and practices and for more information, please contact these third parties directly. 
-
-Marketing Services and Promotional Opportunities. We may provide our users with the opportunity to register for special promotions, alerts, services, music, video and other news, programming and information delivered via text messaging to your wireless or mobile device. If any of these are included in a sign up, registration or enrolment process, we will disclose that to you at the time you are requested to provide us with your Personal Information and we will advise you that continuing will constitute your consent to receive these from us. Users may be required to register or re-enter or provide additional Personal Information such as a wireless or mobile device number, email address and sometimes your wireless or mobile carrierâ€™s name to participate or take advantage of these Services. Optional information may be requested for specific offers, promotions or services and we may also collect an email address or other information. We caution that most wireless transmissions are not secure and there is a greater risk of an unknown third partyâ€™s interception of messages or a userâ€™s Personal Information when using a wireless or mobile device. In addition, while we make efforts to protect our Website from intrusion and unauthorized access, we cannot and do not guarantee that any of your Internet communications, Postings and/or activities on the World Wide Web, including our Website, are secure or are not subject to interception by third parties. 
-
-You understand and hereby acknowledge and agree you will be charged by your wireless or mobile carrier for all messages sent to you or your designated wireless or mobile device(s) and you are responsible for the standard message or other rates and charges that may apply to you. Under no circumstances will we be responsible for any wireless email, text messaging or other charges incurred by you or any other person that has access to your User ID or your wireless or mobile device, device number or email address.
-
-Use of Information. We will not use any Personal Information submitted to us in connection with our Service for any purpose but to provide the Services as you have requested, unless we provide advance notice to you of any other use. We will not share Personal Information we obtain solely in connection with our Service with any non-affiliated parties, unless you Opt-In. However, we will share information with our parent company, subsidiaries and affiliates, as well as our operational service providers that assist in delivering our Services to you. 
-
-Cookies and Similar Technology. We use "cookie" technology to collect data regarding your visits to our Website and your use of our Services. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:
-
-  * Saving your User ID, wireless or mobile device number or other information so you donâ€™t have to re-enter it each time you visit our Website or use our Services; 
-  * Keeping count of your return visits to our Website, advertisersâ€™ or partnersâ€™ sites;
-  * Accumulating and reporting aggregate, statistical information in connection with our Services and Content; and 
-  * Determining which Services, Content, features and functions users like best. 
+  * The Data necessary for the creation of the User account such as an email address or mobile phone number and login details via third-party services (Facebook).
+  * The User account personalization Data such as first name, last name, gender, date of birth, profile picture, musical preferences, favorite content (artists, albums, tracks, radios, playlists, liked tracks, disliked tracks). 
 
 
 
-Although we may track the numbers of users to inform us on how best to update and enhance our Service, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate, enhance, and improve our Services and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent or you can choose to turn off all such mechanisms. This is done through your browser. If you turn cookies off, you may not have access to many features and functions of our Service that make your experience more efficient and enjoyable and some of our Services may not function properly. 
+### The Data collected automatically by Akazoo
 
-Our Services may contain advertisements, references and links to other services, web sites and organizations. We may also use third parties to display or serve advertising and to communicate to you. Often these third parties employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules apply to the collection, storage, maintenance, use and disclosure of your information by third parties in connection with their advertisements, promotions, and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours and even if we have a relationship with a third party, we do not control their web sites, their technology or policies and practices regarding your information. This Privacy Policy does not cover any use of Personal Information that a third party, an advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. 
+During the use of the Services, Akazoo collects Data relating to the connection, browsing or the use of the Services.
 
-Postings. We respect the privacy of the contents of certain non-public Postings you provide or make, however, even with respect to private Postings (including, without limitation, User Generated Content), we do reserve the right to monitor, edit and disclose your use of our Services and/or any information pertaining to a Posting and any of the contents to a third party if we believe such action is required by law or is necessary to protect and defend our rights, to enforce our [**Terms of Use**](https://web.archive.org/site/documents/terms-of-use)or to protect our interests or the interests of our users, Registered Users, Subscribers, advertisers, suppliers, operational service providers or others. 
+**A. Services interaction Data**
 
-Disclosure to Third Parties. We do not sell, rent, lease or disclose your Personal Information to non-affiliated entities (i.e., entities that are not our parent or subsidiary or affiliated companies) or entities that are not our advertisers or operational service providers, except in the limited circumstances disclosed in this Privacy Policy. If we plan to disclose your Personal Information to any non-affiliated entities, we will ask you to Opt-in and allow it, in which case their use of your information is subject to their privacy policies. We may also offer co-branded services, features and functions, which are activities, events and promotions (for example, a contest) that we put together with another third party ("Co-Branded Partner"). We may share your Personal Information with our Co-Branded Partner and your voluntary use or participation in a co-branded promotion, activity, service, feature or function means you have given your affirmative consent to us and our Co-Branded Partner to collect, maintain, store and use your Personal Information. If you wish to Opt-out of a Co-Branded Partnerâ€™s future use of your Personal Information, you will need to contact the Co-Branded Partner directly. 
+These Data include in particular:
 
-We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining our Services and our operations. These third party specialists that provide support to our Services, Website and Content are our "operational service providersâ€ and we use them to efficiently provide the full range of Content, subscription plans, services, promotions, advertising, downloading, streaming and other features and functions we offer or make available to you. We request that our operational service providers also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Services although we are not responsible for their failure to do so. Additionally, these operational service providers are not permitted to use your Personal Information for their own marketing or promotional purposes. 
-
-We will make your Personal Information available to non-affiliated third parties in the following limited circumstances: 
-
-  * When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); 
-  * If we believe your actions violate any law, regulation, any term or condition of the Terms of Use, including, without limitation, this Privacy Policy, our Community Requirements or any Additional Terms or if you threaten the rights, property or safety of us, our parent, subsidiaries or affiliated companies, our Services, any of our operational service providers, suppliers, advertisers, customers, other users, registered users, Subscribers or any other party; 
-  * If in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries to protect our business and assets, to defend our interests, or to comply with any legal and regulatory obligations; or 
-  * In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us. 
+  * Favorite content (artists, albums, tracks, radios, created or followed playlists, liked tracks, disliked tracks);
+  * Listening history;
+  * Data on interaction with other users of the Services such as the users whose activity the User has decided to follow, or the users who decide to follow the activity of the User (subject to the privacy settings of the User).
 
 
 
-Security and Protection of Personal Information. We maintain reasonable standards of security and confidentiality. However, for most Internet sites and wireless and mobile communications, it is possible third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of our Service in the same way. We also limit access to our Services by our own employees to individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy although we are not responsible for their failure to do so. 
+**B. The Data that Akazoo collects in relation to the commercial relationship**
 
-Review, Update or Delete Your Personal Information. Generally, you may review, update or delete any of your Personal Information collected by or through our Service, as well as your profile or any other user information you may have entered during the registration and/or subscription process or your participation in our Services or any prior updates you may have given us. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age or wireless or mobile device numbers, may be modified with sufficient verification of the correct information, but cannot be deleted and if you delete or attempt to delete such information, it may result in the suspension of any and all rights you may have to use our Services, your status as a Registered User, Subscriber and/or other aspects of our Service or offers we make available to you. If you have registered for or subscribed to any Services or provided any information as part of an account or profile in connection with our Service, you may review, update or delete your Personal Information and you should go to our Website and follow the instructions there that will explain how you can edit, change, update and, with some exceptions noted, delete your Personal Information. 
+For the entire duration of the commercial relationship, Akazoo collects various Data for the management of the commercial relationship as well as for invoicing.
 
-If you do not understand or are not sure what Personal Information may be collected or used for particular purposes, you should contact our Privacy Administrator via email with a request at support@akazoo.com and be prepared to provide verification of your identity. 
+**B.1 Invoicing and transaction Data**
 
-Personal Information collected for certain offers and promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the userâ€™s request. We will not allow direct access to any Personal Information by any person without the Registered Userâ€™s or Subscriberâ€™s User ID or, if applicable, appropriate identification. 
+In the event of a subscription to one of the paid Services, Akazoo collects the Data necessary for the purposes of invoicing, managing the transactions, and accounting. These Data vary according to the payment method and the company responsible for collecting the payment (for example, in the event that payment is made through a telecommunications operator). They include in particular information relating to the type of subscription(s), the method of payment, and details of the transaction carried out.
 
-We reserve the right to deny, suspend, deactivate, terminate and/or cancel any registration, subscription, status as a Registered User, Subscriber, and/or the use of or access to any or all of our Services and any other services, content, activities, features or functions, if we believe there is a question about the identity of the person trying to use or access any portion of our Service, to use or access any information or to use a User ID. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide you access to such information. In such cases, we will provide you with an explanation of why access cannot be provided and a contact for further inquiries. 
+**B.2 Customer Service interaction Data**
 
-Questions. If you have any questions about our Privacy Policy, you may email us at [support@akazoo.com](mailto:support@akazoo.com?subject=Support). If you cannot find the answer to a question related to our Privacy Policy or if you do not understand the information about how we collect, maintain, store, use or share your Personal Information you may contact our Privacy Administrator at [ support@akazoo.com](mailto:support@akazoo.com?subject=Support). If you have any other questions about our Terms of Use or the terms and conditions that apply to you, you may contact us directly at [support@akazoo.com](mailto:support@akazoo.com?subject=Support). 
+In the event of interaction with the Customer Service the latter may collect certain Data in order to process the User’s request. These include in particular the Data allowing Customer Service to identify the User (Akazoo username, last name, first name), the date, time and reason for the User’s request, the content of exchanges with the Customer Service, the additional Data necessary for the handling of the request, as the case may be.
 
-Sole Statement. The foregoing statements, terms and conditions contained in this Privacy Policy is the sole statement of our privacy policy, and no summary, restatement or other version, or other statement or policy, in any form, including, without limitation, machine-generated, is valid. 
+**C. Connection and navigation Data**
 
-For ease of reference our Terms of Use can be reviewed at any time at [ http://www.akazoo.com/site/documents/terms-of-use](https://web.archive.org/site/documents/terms-of-use), 
+The Data relating to any device used to access the Services and the manner in which the User interacts with the Services. These Data include in particular:
 
-Â© Copyright 2015 Internetq, SA. All Rights Reserved
+**C.1 Data collected automatically**
+
+These Data in particular are as follows:
+
+  * the ID or unique device identifiers (including mobile devices) used to access the Services; the characteristics of the devices and software (type and version of the operating system, or the language used on the device) used for the connection to the Services. 
+  * the Services connection data, including: 
+    * the type of connection to the Services (3G, 4G, LTE, WiFi, offline),
+    * statistics on the pages of the Services displayed,
+    * the IP address (indicating the country and city of connection).
+  * the level of activity or inactivity on the Services.
+
+
+
+**C.2 Data collected via cookies and other trackers (for more information, see section “Cookies and other trackers”).**  
+**D. Data collected from telecommunications operators**
+
+Some Users access the Services through offers distributed by mobile network operators. In this context, certain Data are shared by the operator to Akazoo (for example the mobile phone number), in order to allow these Users to access the Service for which they are eligible according to their type of subscription.
+
+**E. Data relating to the participation of the User in marketing operations**
+
+In the event of participation in a competition, or in an event organized by Akazoo, the Data allowing the registration and participation in the said competition or event are collected.
+
+## Purpose of processing
+
+Akazoo gathers, collects, and stores the Data as set out above for the following purposes:
+
+  * Supply of the Services and ensuring their proper functioning;
+  * Improvement of the Services, to optimize them, or to offer new functionalities;
+  * Personalization of the Services according to the User’s preferences, location, tastes and interests (declared or deduced), resulting from his/her use of the Services, the information provided, his/her interactions with the Services and his/her navigation on this one;
+  * Informing the User of Akazoo’s offers and news;
+  * Informing the User of Akazoo partners’ offers and news;
+  * Handling the User relationship via the Customer Service;
+  * Handling invoicing and payment operations;
+  * Measuring the audience of the Services;
+  * Organizing competitions and promotional operations;
+  * Making available sharing tools for social networks where the User has agreed to the sharing of such information;
+  * Carrying out customer satisfaction surveys;
+  * Carrying out statistical, selection and segmentation analysis of the Users to improve the Services;
+  * Allowing the User to exercise their rights described in the section “Rights over the Data” of the present Policy;
+  * Fight fraud and payment defaults;
+  * Ensure the security of the Site, the Application and the Services.
+
+
+
+## Recipients of the Data
+
+The Data collected or processed during the use of the Services by the User are sent to Akazoo entities, to the approved and authorized persons within Akazoo who, due to their role, need to have access to such Data for the purposes of processing described above, as well as:
+
+  * The technical sub-contractors chosen by Akazoo may, on behalf of and following the instructions of Akazoo, host and store on their servers the Data of the Users and ensure the security of Akazoo’s technical infrastructure.
+  * Akazoo’s partners: certain partners, such as the telecommunications operators, the manufacturers of audio devices or marketing partners, may process Data in order to supply the Services and to implement joint communication plans. In the same way, Akazoo communicates the Data to social networks in order to ensure the promotion of the Services.
+  * The administrative or judicial authorities: Akazoo may communicate information relating to its Users, including Data, to the administrative or judicial authorities, in particular in the context of requisition.
+
+
+
+## Cross-border Data transfers outside the European Union
+
+The User is hereby informed that the Data may be transferred within the Akazoo group to a country other than his/her country of residence and in particular outside of the European Union. The transfer of Data is made in accordance with the Applicable Regulation.
+
+The User is also informed that the Data may be transferred to service providers, sub-contractors and partners located outside of the European Union. Prior to the transfer, and in accordance with the Applicable Regulation, Akazoo shall carry out the necessary requirements to obtain the necessary guarantees for the security of such transfers, in the countries that do not have an adequate level of protection, such as contractual clauses.
+
+## Data security
+
+In accordance with the Applicable Regulation, Akazoo shall take all necessary measures to process the Data in a secure and confidential manner. 
+
+In particular, Akazoo shall implement the technical and organizational measures that will guarantee the security and confidentiality of the Data collected and processed, and in particular to prevent them from being distorted, damaged or communicated to unauthorized third parties, by ensuring a level of security that is appropriate to the risks linked to the processing and to the nature of the Data, taking into consideration the technical level and cost of such implementation.
+
+Akazoo may not however guarantee the confidentiality of the Data rendered public by the User.
+
+The Services may include links to third-party websites or external sources. The User acknowledges that the Policy only applies to the use of the Services, and does not in any way cover the Data collected and/or processed by the third-party websites or external sources to which the Services may link. Consequently, Akazoo cannot be held liable for the personal data collection and processing practices of these websites or external sources, which are governed, as the case may be, by the personal data policies that are specific to each of these websites or external sources.
+
+## Duration of retention of the Data
+
+We take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. 
+
+When determining the retention period (no longer than 24 months), we take into account various criteria, such as the type of Services requested by or provided to you, the nature and length of our relationship with you, possible re-enrolment with our Services, the impact on the Services we provide to you, if we delete some information from or about you and mandatory retention periods provided by law and the statute of limitations.
+
+## Rights over the Data
+
+Akazoo recognizes that your privacy is very important and that Users have a number of rights in relation to how we process their personal data. These include: 
+
+  * The right to access the Data,
+  * The right to correct the Data,
+  * The right to object to the collection and processing of the Data,
+  * The right to delete their Data,
+  * The right to limit the collection and processing of their Data,
+  * The right to portability of their Data.
+
+
+
+The User may exercise his/her rights by sending a request by email to the address gdpr@akazoo.com or by post to the following address: AKAZOO LIMITED – Legal Department – 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
+
+The User is informed that the exercise of certain rights, in particular objection and deletion, may restrict or prevent access and/or use of the Services.
+
+Akazoo reserves the right to verify the User’s identity.
+
+## Children
+
+We do not knowingly collect, maintain, or use personal information, as defined by the US Federal Trade Commission’s Children’s Online Privacy Protection Act Rule, from children under 13 years of age, and no part of the Service is directed to children under the age of 13. 
+
+If you are located in the European Economic Area (hereinafter “EEA”), we do not knowingly collect, maintain, or use Personal Information from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with Personal Information without your consent, then you may alert us at gdpr@akazoo.com. If we learn that we have collected any Personal Information from children under 13 (or 16 in the EEA), then we will promptly take steps to delete such information and terminate the child’s account.
+
+## Contact details and Claims
+
+For any claim regarding the processing of his/her Data, the User may send a request to Akazoo’s data protection officer at the address gdpr@akazoo.com or by letter at the following address: 2 Melville Street, Falkirk, FK1 1HZ, United Kingdom.
+
+The data protection officer ensures the enforcement of the Applicable Regulation and of the Policy.
+
+## Cookies and other trackers
+
+A tracker is a cookie, a beacon, a tag, an invisible pixel, or any other system capable of storing and/or collecting information relating to navigation on the User’s terminal (computer, tablet, etc.) and/or their activity, subject to their prior consent and except where the User has objected.
+
+### Purposes of the trackers used on the Services
+
+The trackers, which are very useful, allow the Services to recognize the User, to signal the navigation through a particular page and to offer the User additional services: improvement of the browsing experience, ensuring the security of his/her connection or personalizing the page content based on his/her interests.
+
+The trackers allow information relating to the registration or access to Services to be memorized, to implement security measures or even to adapt the presentation of the Services to meet the display preferences of the terminal (language, operating system, etc.). 
+
+The trackers allow the creation of statistics, visits and use logs of the various parts that comprise the Services (pages and content visited, path taken), as well as the creation of studies in order to improve the content proposed on the Services.
+
+Akazoo may also give access to the collected Data, through trackers, to partners in order that the latter may carry out consumer behavioral studies.
+
+### Types of Data collected by the trackers
+
+The information stored by the cookies and o
+
+ther trackers, for a limited validity period (see section “Duration of retention of the Data” above), relate in particular to the pages visited, the banners on which the User has clicked, the type of navigator used, the information entered into a site, in order to avoid having to enter them again. 
+
+### The User’s choice concerning trackers
+
+The User may at any time express and modify his/her wishes in relation to the trackers.
+
+The User may configure his/her browser in such a way as to accept or reject trackers from Akazoo or third parties, on a case-by-case basis, or on a permanent basis.
+
+It is possible that the setting chosen may modify and/or restrict access to and use of the Services.
+
+Akazoo declines any liability concerning the consequences linked to the damaged functioning of the Services arising out of the impossibility for Akazoo to save or consult the trackers necessary for the operation of the Site and/or the Application that are refused or deleted by the User.
+
+In order to make a choice in relation to his/her browser, the User may consult the following pages:
+
+  * Internet Explorer™: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>
+  * Safari™: <https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
+  * Chrome™: [https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+  * Firefox™: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+  * Opera™: <http://help.opera.com/Windows/10.20/en/cookies.html>
+
+
+
+The User may also configure the settings on his/her browser in order to have the latter send a code to the websites indicating that he/she does not wish to be tracked (the “Do Not Track” option). For:
+
+  * Internet Explorer™: <https://support.microsoft.com/en-us/help/17288/windows-internet-explorer-11-use-do-not-track>
+  * Safari™: <https://support.apple.com/en-gb/guide/safari/prevent-tracking-sfri40732/mac>
+  * Chrome™: <https://support.google.com/chrome/answer/114836?>
+  * Firefox™: <https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature>
+  * Opera™: <http://help.opera.com/Windows/12.10/en/notrack.html>
+
+
+
+The Akazoo Site is using Google Analytics to track your activity on the Service. If you do not want Google Analytics to collect and use information about your use of the website, then you can install an opt-out in your web browser (<https://tools.google.com/dlpage/gaoptout/>). 
+
+The Akazoo Application is using Firebase Analytics to track your activity on the Service. If you do not want Firebase Analytics to collect and use information about your use of the Service, you can disable tracking in the Settings section of the Application.
+
+If the User wishes to obtain further information on cookies and other trackers, his/her rights and how to block them, they may consult the site <http://www.youronlinechoices.eu/>.
