@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226035351id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm%3FeOfferCode%3DINHOGNTFOPRIV) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520035616id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm%3FeOfferCode%3DINHOGNTFOPRIV) for the most accurate reproduction.*
 
 # Citibank
 
@@ -143,9 +143,10 @@ If a Customer does not wish to receive any marketing material / information from
 
 Customers can contact us by writing to us at the mailing address given below:
 
-Citibank N.A.,  
-P.O. Box 4830,  
-Anna Salai P.O.,  
-Chennai - 600 002.
+Citibank N.A., Mail Room,  
+ACROPOLIS, 9th Floor,  
+New Door No.148 (Old No.68),  
+Dr. Radhakrishnan Salai, Mylapore,  
+Chennai – 600 004.
 
-Request for access to Sensitive Personal Data or correction of Sensitive Personal Data or for information regarding policies and practices and kinds of data held should be addressed to: Ms. Nisha Shriram on [principal.nodal.officer@citi.com](mailto:principal.nodal.officer@citi.com "principal.nodal.officer@citi.com")
+Request for access to Sensitive Personal Data or correction of Sensitive Personal Data or for information regarding policies and practices and kinds of data held should be addressed to: Mr. M. Dhananjayan on [principal.nodal.officer@citi.com](mailto:principal.nodal.officer@citi.com "principal.nodal.officer@citi.com")
