@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628084354id_/http%3A//www.ooma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520060611id_/https%3A//www.ooma.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Home Phone Service | Ooma – Ranked # 1 Internet Home Phone Service
+# Privacy Policy - Ooma.com - Smart solutions for home and business.
 
 Last Updated: November 24, 2014
 
@@ -18,7 +18,7 @@ In addition to cookies, Ooma (and our third party advertisers) may also use clea
 
 You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your web browser preferences, in which case you may still use our web site, but it may interfere with some of its functionality.
 
-Or, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>
+Or, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://optout.networkadvertising.org/?c=1>
 
 ### Use of Information
 
