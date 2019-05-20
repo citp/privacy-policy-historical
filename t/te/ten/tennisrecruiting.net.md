@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183423id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520125528id_/https%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -12,15 +12,17 @@
 
 [](http://www.smithstearns.com/)
 
-[](http://www.advantagetennisacademy.com/)
+[](http://www.dunloptennis.us/)
 
-[](http://www.gammasports.com/)
+[](http://www.advantagetennisacademy.com/)
 
 [](http://www.wilson.com/tennis/)
 
+[](http://www.yonexusa.com/sports/tennis)
+
 [](http://www.kswiss.com/)
 
-[](http://www.tennisoncampus.com/)
+[](http://www.itatennis.com/)
 
 | 
 
@@ -134,26 +136,28 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://www.tennis-warehouse.com/player.html?ccode=SQUERREY&from=tenrec) |   |  **[Sam Querrey](http://www.tennis-warehouse.com/player.html?ccode=SQUERREY&from=tenrec)** [Babolat Pure Aero Plus](http://www.tennis-warehouse.com/Babolat_Pure_Aero_Plus/descpageRCBAB-BPAP.html?from=tenrec)  
-Buy Now: $219.00  
-[Review](http://www.tennis-warehouse.com/reviews/BPAP/BPAPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-BPAP.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=BPAP&productlist=BPAPd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYWMyTzJAMv4)  
+[**Wilson Rush Pro 3.0 Men's Tennis Shoe Review**](http://www.tennis-warehouse.com/tennis_recruit.html?&URL=http%3A%2F%2Fbit.ly%2FTennisWareh&from=tenrec)
+
+To purchase this product or for a much more detailed written review, [Click Here!](http://www.tennis-warehouse.com/tennis_recruit.html?&URL=http%3A%2F%2Fbit.ly%2FTennisWareh&from=tenrec)
+
+| [](http://www.tennis-warehouse.com/player.html?ccode=DSCHWARTZ&from=tenrec) |   |  **[Diego Schwartzman](http://www.tennis-warehouse.com/player.html?ccode=DSCHWARTZ&from=tenrec)** [Fila Axilus 2 Energized Blue/Black Men's Shoes](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FFila_Axilus_2_Energized_Blue_Black%2FdescpageMSFILA-FMA2EBB.html)  
+**Sale: $90.00**  
+[Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-FMA2EBB.html)  
 ---|---|---  
-[](http://www.tennis-warehouse.com/player.html?ccode=EGULBIS&from=tenrec) |   |  **[Ernests Gulbis](http://www.tennis-warehouse.com/player.html?ccode=EGULBIS&from=tenrec)** [Wilson Burn 100 CV](http://www.tennis-warehouse.com/Wilson_Burn_100_CV/descpageRCWILSON-B100CV.html?from=tenrec)  
-Buy Now: $199.00  
-[Review](http://www.tennis-warehouse.com/reviews/B100CV/B100CVreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-B100CV.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=B100CV&productlist=B100CVd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCzkoxCv1LcI)  
-[](http://www.tennis-warehouse.com/player.html?ccode=KNISHIKORI&from=tenrec) |   |  **[Kei Nishikori](http://www.tennis-warehouse.com/player.html?ccode=KNISHIKORI&from=tenrec)** [Wilson Burn 95](http://www.tennis-warehouse.com/Wilson_Burn_95/descpageRCWILSON-B95.html?from=tenrec)  
-Was: $229.00   **Now: $119.00**  
-[Review](http://www.tennis-warehouse.com/reviews/B95/B95review.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-B95.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=B95&productlist=B95d&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJnUejFx8kkw)  
-[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [Prince Textreme Tour 100P](http://www.tennis-warehouse.com/Prince_Textreme_Tour_100P/descpageRCPRINCE-T1HP.html?from=tenrec)  
-Buy Now: $199.00  
-[Review](http://www.tennis-warehouse.com/reviews/T1HP/T1HPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-T1HP.html?from=tenrec), [Demo](http://www.tennis-warehouse.com/demoselect.html?pcode=T1HP&productlist=T1HPd&from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDxguLW75Jr0)  
+[](http://www.tennis-warehouse.com/player.html?ccode=JSOCK&from=tenrec) |   |  **[Jack Sock](http://www.tennis-warehouse.com/player.html?ccode=JSOCK&from=tenrec)** [Nike Air Zoom Vapor X Beige/Crimson Men's Shoe](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FNike_Air_Zoom_Vapor_X_Beige_Crimson_Mens_Shoe%2FdescpageMSNIKE-NAZVXBC.html)  
+**Sale: $89.94**  
+[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FLearning_Center%2Freviews%2Fshoes%2FNike_Air_Zoom_Vapor_X_Mens.html%3Fpcode%3DNAZVXBC), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-NAZVXBC.html)  
+[](http://www.tennis-warehouse.com/player.html?ccode=FTIAFOE&from=tenrec) |   |  **[Frances Tiafoe](http://www.tennis-warehouse.com/player.html?ccode=FTIAFOE&from=tenrec)** [Nike Air Zoom Zero PRM Volt/Black/White Men's Shoe](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FNike_Air_Zoom_Zero_PRM_Volt_Black_White_Mens_Shoe%2FdescpageMSNIKE-NMAZZPV.html)  
+**Sale: $97.50**  
+[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2FLearning_Center%2Freviews%2Fshoes%2FNike_Air_Zoom_Zero_Mens.html%3Fpcode%3DNMAZZPV), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-NMAZZPV.html), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9wFoZASM400)  
+[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [adidas Ubersonic 2.0 Navy/Scarlet Men's Shoes](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Fadidas_Ubersonic_20_Navy_Scarlet_Mens_Shoes%2FdescpageMSADIDAS-AAUSN.html)  
+**Sale: $69.94**  
+[Review](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Freviews%2FAAUSN%2FAAUSNreview.html), [Feedback](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.tennis-warehouse.com%2Ffeedback-AAUSN.html), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dlsd1flk4IoE)  
  
 
-[**Advantage Tennis Academy Liveball Dril**](http://www.youtube.com/user/ATAtennis)
+[**Tourna Grip - Karolina Pliskova**](https://www.youtube.com/channel/UCEiUDDKo_0pCqV_nAT3LZvQ)
 
-Advantage Tennis Academy's mission is to help players build on their dreams. Whether the dream is to earn a college scholarship or make it on ... 
-
-[See More](https://web.archive.org/web/20170606183423id_/http%3a//www.tennisrecruiting.net/privacy.asp#?sessionid=26919B797BF7E7E4)
+Top WTA player Karolina Pliskova on playing with Tourna Grip.
 
  
 
