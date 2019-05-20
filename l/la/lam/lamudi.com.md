@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamudi.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918054849id_/http%3A//www.lamudi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamudi.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520021007id_/https%3A//www.lamudi.com/privacy.html) for the most accurate reproduction.*
 
 # Lamudi.com - Welcome to the best real estate marketplaces around the world -
 
