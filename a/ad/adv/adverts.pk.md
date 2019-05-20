@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adverts.pk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117114810id_/http%3A//www.adverts.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.pk privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520145748id_/http%3A//www.adverts.pk/privacy.php) for the most accurate reproduction.*
 
 # Each money online free at Adverts.pk
 
