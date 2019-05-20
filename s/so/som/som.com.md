@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the som.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111085544id_/http%3A//www.som.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the som.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520135243id_/https%3A//www.som.com/privacy_policy) for the most accurate reproduction.*
 
 # SOM | SOM.COM / Marketing Privacy Policy
 
