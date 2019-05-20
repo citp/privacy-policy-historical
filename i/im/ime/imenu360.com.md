@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imenu360.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221215224id_/http%3A//imenu360.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imenu360.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520075100id_/http%3A//imenu360.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Food Ordering Platform System | iMenu360
 
