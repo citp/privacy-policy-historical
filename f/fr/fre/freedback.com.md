@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116172658id_/http%3A//www.freedback.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedback.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520035233id_/http%3A//freedback.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Online Form Builder | Freedback
 
