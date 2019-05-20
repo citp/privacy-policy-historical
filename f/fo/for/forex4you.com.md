@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630180843id_/https%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4you.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520034309id_/https%3A//www.forex4you.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Forex4you: Privacy Policy
+# Privacy Policy | Forex4you
 
-#### OVERVIEW
+## Overview
 
 E-Global Trade & Finance Group, Inc. (hereinafter – “Forex4you”, “we”, “our” or “us”) notifies you that your privacy is important to us. Maintaining the confidentiality of your personal data is a core principle of our entire business operations.
 
@@ -10,7 +10,7 @@ During the rendering of services, we gather, collect and possess certain private
 
 Please note that this policy is only applicable to websites directly maintained by Forex4you and not to the other entities or persons to whom we might refer through banners or links within our websites.
 
-#### INFORMATION COLLECTED
+## Information collected
 
 While receiving or using any of our products/services, the following data about you shall be collected and processed for administrative, service related and/or legal purposes:
 
@@ -21,19 +21,19 @@ While receiving or using any of our products/services, the following data about 
 
 Your personal data is archived and secured in accordance with the legislation on the protection of personal data and its processing of the jurisdiction where Forex4you’s principal place of business is located.
 
-#### COOKIES
+## Cookies
 
 Forex4you websites contain cookies that ensure wider usage possibilities for the websites. Cookies can be rejected using the technological features of your browser; however, this is not advisable, as doing so will interfere with your use of Forex4you websites.
 
-#### DOUBLECLICK
+## Doubleclick
 
-DoubleClick: We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+DoubleClick: We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or [the Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#### USE OF INFORMATION
+## Use of information
 
 We use your personal information only to deliver you high quality service and secure our lawful interests. For example, we will use the information collected from you to verify your identity and contact information. We may also use this information to establish and set up your service account, issue an account number and a secure password, maintain your account activity, and contact you with account information. This information helps us improve our services to you and inform you about additional products, services or promotions that may be of interest to you.
 
-#### DISCLOSURE OF PERSONAL DATA
+## Disclosure of personal data
 
 Forex4you has executed all the reasonable and necessary measures in order to maintain a high level of security of your personal data. Our employees, directors, officers and/or representatives are obliged to respect your privacy and your personal data may only be disclosed to third parties when appropriate legal grounds exist.
 
@@ -43,16 +43,16 @@ We may transfer your personal data to associated or affiliated companies, agents
 
 Notwithstanding, we may disclose your personal data to third parties which have not established contractual relations with Forex4you on the grounds of their authority and their official status.
 
-#### YOUR RIGHTS
+## Your rights
 
 You have the right to request us to reveal the personal data we hold about you. In this case we may charge a reasonable fee. You also hold the right to know what kind of personal data about you is in our possession, the right to change any inaccuracies or discrepancies of the data, the right to know about the use of your data and the right to block the use of it if your privacy is violated.
 
-You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you via e-mail – [info@forex4you.com](mailto:info@forex4you.com).
+You may exercise these rights by submitting a written request to E-Global Trade & Finance Group, Inc., Forex4you via e-mail – [info@forex4you.com](mailto:/).
 
-#### HOW TO CORRECT YOUR INFORMATION
+## How to correct your information
 
 You may also modify your personal information using your Trader Room within our website. If you have any questions or concerns, please do not hesitate to contact us.
 
-#### OPT-OUT
+## Opt-out
 
-You are not required to supply us any of the personal data against your will; however, it may result in our being unable to provide services to you. As it is important to us that all of your private information is accurate, complete, and up to date, in accordance with your interests you should promptly notify us if there are any changes to your personal information. Also you may approach us in case you want to change your personal data within Forex4you systems. Please see above for contact information.
+You are not required to supply us any of the personal data against your will; however, it may result in our being unable to provide services to you. As it is important to us that all of your private information is accurate, complete, and up to date, in accordance with your interests you should promptly notify us if there are any changes to your personal information. Also you may approach us in case you want to delete your personal data within Forex4you systems. Please see above for contact information.
