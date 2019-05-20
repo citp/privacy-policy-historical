@@ -1,16 +1,23 @@
-<!--The following is the downloaded HTML source of the jiffyondemand.com privacy policy that was archived on 2017-01-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170112222854id_/https%3A//jiffyondemand.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jiffyondemand.com privacy policy that was archived on 2019-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190520223615id_/https%3A//jiffyondemand.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Jiffy is a web and mobile platform that connects homeowners with service providers in real time, based on proximity and availability." name="description">
-<meta content="3Vq6MJyRut8FKjs4oDbw0-9SaFFlj5P5ra6h0FwwmiI" name="google-site-verification">
+<meta content="UXOjaaWLtL3YOnLLlS68FQembZZdY6pkjgmNKUdQ8cg" name="google-site-verification">
 <meta content="pk_live_F1iKTSP71zDS9f9uWoqAogMl" name="stripe-publishable-key">
 <meta content="878010958960998" property="fb:app_id">
 <meta content="https://jiffyondemand.com/" property="og:url">
 <meta content="Jiffy - Easy Home Maintenance" property="og:title">
 <meta content="Jiffy is a web and mobile platform that connects homeowners with service providers in real time, based on proximity and availability." property="og:description">
 <meta content="https://jiffyondemand.com/assets/jerry/jerry-head-ea4a6cb2678e340483e136f357b0e5fd2d4cf6f5cae038f3282753737ed460b5.jpg" property="og:image">
+<meta content="website" property="og:type">
+<meta content="jiffy://" property="al:ios:url">
+<meta content="jiffy://" property="al:android:url">
+<meta content="1021162793" property="al:ios:app_store_id">
+<meta content="Jiffy" property="al:ios:app_name">
+<meta content="com.jiffyondemand.user" property="al:android:package">
+<meta content="Jiffy" property="al:android:app_name">
 <meta content="app-id=1021162793" name="apple-itunes-app">
 
 <title>Jiffy - Easy Home Maintenance</title>
@@ -19,14 +26,25 @@
 window.gon={};gon.init=null;
 //]]>
 </script>
-<link rel="stylesheet" media="all" href="/assets/application-a4f1129f30cecafafbc907b9e2de7eba79826476c1804c8fd9d1778bcdf9c859.css">
-<script src="/assets/application-e8c2fabccf42a3dc99db1c5a789154b6dd9b368731514257b18dd181fc170efa.js"></script>
+<link rel="stylesheet" media="all" href="/assets/landing-fb0dcf3e49b8ed84a01fde7266c16e8fb4b6fc715867f424ba699309f4a23340.css">
+<script src="/assets/preload-d8e9e824e6e1f8b98f2dce7123d97d35f24fd0e57ef2e8aaf38d67b8b3b8bcaa.js"></script>
+<script src="/assets/landing_preload-2ebbb0215b76943d7a6e45825aab502b71ef38d9a5fb23ffa3953c54edd6a5dc.js"></script>
+<script src="/assets/user_react_components-52b410b5f716bbc6d1f9bffed5d8814140022df7ddca936dd0084947f2328874.js"></script>
 <script src="https://js.stripe.com/v2/"></script>
-<script src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;key=AIzaSyAq8dBZ4VU-WvjqpbmIAgVUfuEzS7Vlj5g"></script>
-<script src="//www.google.com/jsapi"></script>
-<script src="/assets/chartkick-0fd2ea6f60b23487f80f90f63cbbc3bc26d5825c56120725a58a199a5520484d.js"></script>
-<script src="https://cdn.rawgit.com/alertifyjs/alertify.js/v1.0.10/dist/js/alertify.js"></script>
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script src="https://cdn.rawgit.com/alertifyjs/alertify.js/v1.0.10/dist/js/alertify.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;key=AIzaSyAq8dBZ4VU-WvjqpbmIAgVUfuEzS7Vlj5g"></script>
+<!-- / LEAFLET -->
+<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.9/leaflet.draw.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.9/leaflet.draw.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/3.0.6/flatpickr.min.js"></script>
+<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/flatpickr/3.0.6/flatpickr.min.css">
+
+<script src="https://www.gstatic.com/firebasejs/4.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.1/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/4.6.1/firebase-storage.js"></script>
 
 <script>
   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
@@ -55,7 +73,7 @@ window.gon={};gon.init=null;
   "script","//bat.bing.com/bat.js","uetq");
 </script>
 <noscript>
-<img height="0" width="0" style="display:none; visibility: hidden;" src="//bat.bing.com/action/0?ti=5321316&amp;Ver=2" alt="0?ti=5321316&amp;ver=2" />
+<img height="0" width="0" style="display:none; visibility: hidden;" src="//bat.bing.com/action/0?ti=5321316&amp;Ver=2" />
 </noscript>
 <!-- Facebook Pixel Code -->
 <script>
@@ -67,90 +85,92 @@ window.gon={};gon.init=null;
   
   fbq('init', '942498239130341');
   fbq('track', 'PageView');
-  if ("privacy_policy" == "woohoo") {
-    fbq('track', 'Purchase', { value: '0.00', currency: 'CAD' });
-  }
 </script>
-<noscript>
-<img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=942498239130341&amp;ev=PageView&amp;noscript=1" />
-</noscript>
 
 <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-abade7d6bd9c9887dadecc1d1ec3554dbeb4fef0bf73c7fa3ed683266d4f1383.ico">
-<link rel="apple-touch-icon apple-touch-icon-precomposed" type="image/png" href="/assets/favicon-52996f54c4a37389a27a4cfd0d2ec97ccdb38247bf19b888b965750c9477c7d1.png">
+<link rel="apple-touch-icon" type="image/png" href="/assets/favicon-52996f54c4a37389a27a4cfd0d2ec97ccdb38247bf19b888b965750c9477c7d1.png">
+<link rel="apple-touch-icon-precomposed" type="image/png" href="/assets/favicon-52996f54c4a37389a27a4cfd0d2ec97ccdb38247bf19b888b965750c9477c7d1.png">
 
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="yv+/X0wjt7fT4OuJSwcc8p8Tb5wyT1T1xs7boeDQpcZY1xewuTNCHk2l0SBnHzWzL89Hrm5fT4t4de3bG/MQfw==">
+<meta name="csrf-token" content="9jg3k74B33Z0fu7fuKPUalurV0I6kK/U9WdDlJ8JpSx/OZVc6Z9qZ4nBGhe+PcM6ITzcXs+H1K7LOO2eQ057yw==">
 </head>
 <body>
-<div class="navbar navbar-default" id="main-nav">
-<div class="container">
-<div class="navbar-header">
-<button class="navbar-toggle collapsed" data-target="#main-nav-collapse" data-toggle="collapse" type="button">
-<span class="sr-only">Toggle Navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="/"><h1 class="sr-only">Jiffy</h1>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="35.5 -13 85 50" style="enable-background:new 35.5 -13 85 50;" xml:space="preserve">
-	<path class="iffy" d="M111.1,1.8l-7,15h-0.1l-3.7-15h-9.2l0.5-3.6c0.2-1.5,0.6-2.4,1.3-3c0.6-0.5,1.5-0.7,2.6-0.7   c0.5,0,0.8,0,1.2,0.1c0.4,0.1,0.6,0.2,1.1,0.4l1.2-5.9c-0.6-0.2-1.3-0.3-2-0.4c-0.7-0.1-1.4-0.1-2.1-0.1c-1.9,0-3.4,0.3-4.7,0.7   c-1.3,0.5-2.3,1.2-3,2C86.5-8,85.9-7,85.6-5.9c-0.4,1.1-0.6,2.3-0.8,3.5l-0.5,4h-6.6L78.2-2c0.2-1.5,0.6-2.4,1.3-3   c0.6-0.5,1.5-0.7,2.6-0.7c0.5,0,0.8,0,1.2,0.1c0.2,0,0.4,0.1,0.5,0.2c0.3-1.3,0.9-4.7,1.1-5.9c-0.5-0.1-0.9-0.2-1.4-0.2   c-0.7-0.1-1.4-0.1-2.1-0.1c-1.9,0-3.4,0.3-4.7,0.7c-1.3,0.5-2.3,1.2-3,2C73-8,72.4-7.1,72.1-6s-0.6,2.3-0.8,3.5l-0.5,4H58.3   l-3.2,22.9h6.9l2.3-17h5.2l-2.3,17h6.9l2.3-17h6.6l-2.3,17h6.9l2.3-17h4l5,17.2l-0.7,1.3c-0.4,0.6-0.6,1.2-0.9,1.6   c-0.3,0.5-0.6,0.9-1,1.2c-0.4,0.4-0.8,0.5-1.4,0.7c-0.5,0.2-1.2,0.3-2,0.3c-1.1,0-2.2-0.3-3.2-0.7l-1.7,5.7c1.6,0.5,3.2,0.8,5,0.8   c1.7,0,3.1-0.2,4.1-0.5c1.1-0.4,2-0.8,2.7-1.4c0.7-0.6,1.4-1.4,2-2.3c0.5-0.9,1.2-2,1.8-3.2l14-26.3h-6.9V1.8z"></path>
-	<path class="j" d="M44,24.8c-0.1,0.5-0.2,0.9-0.3,1.4c-0.1,0.5-0.3,1-0.5,1.5c-0.2,0.5-0.5,0.8-0.9,1.2c-0.4,0.3-0.8,0.5-1.4,0.5   s-1.3-0.2-1.7-0.5L38,35.2c0.5,0.2,1,0.3,1.6,0.3c0.5,0.1,1.1,0.1,1.6,0.1c1.6,0,3-0.2,4.1-0.6c1.2-0.5,2.1-1.1,2.8-1.9   c0.7-0.8,1.4-1.8,1.8-3c0.5-1.2,0.7-2.4,0.9-4l3.4-24.2h-6.9L44,24.8z"></path>
-</svg>
-
+<nav class="nav">
+<div class="nav-container container">
+<div class="branding">
+<a class="toggle" data-target="#collapsed-menu" href="#"><i class="fa fa-reorder"></i>
+</a><a class="nav-logo" href="/"><h1 class="sr-only">Jiffy</h1>
+<img src="/assets/logos/logo-navbar-82ad596592975a0870f22d62e7fa12e9035bafdacbe24eed207593b43ac8539e.png">
 </a></div>
-<div class="navbar-collapse collapse" id="main-nav-collapse">
-<ul class="nav navbar-nav navbar-right">
-<li class="dropdown" id="location-picker">
-<div data-react-class="LocationPicker" data-react-props="{&quot;regions&quot;:[{&quot;id&quot;:3,&quot;name&quot;:&quot;Ottawa&quot;,&quot;created_at&quot;:&quot;2016-10-20T01:13:34.383-04:00&quot;,&quot;updated_at&quot;:&quot;2016-10-20T01:13:34.383-04:00&quot;,&quot;tax_rate&quot;:&quot;13.0&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;CA&quot;},{&quot;id&quot;:1,&quot;name&quot;:&quot;Toronto&quot;,&quot;created_at&quot;:&quot;2016-08-17T00:40:42.447-04:00&quot;,&quot;updated_at&quot;:&quot;2016-10-31T16:05:08.502-04:00&quot;,&quot;tax_rate&quot;:&quot;13.0&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;CA&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;Chicago&quot;,&quot;created_at&quot;:&quot;2016-08-17T03:11:10.588-04:00&quot;,&quot;updated_at&quot;:&quot;2016-10-31T16:05:19.517-04:00&quot;,&quot;tax_rate&quot;:&quot;0.0&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;time_zone&quot;:&quot;Central Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;US&quot;}],&quot;currentRegion&quot;:{&quot;id&quot;:1,&quot;name&quot;:&quot;Toronto&quot;,&quot;created_at&quot;:&quot;2016-08-17T00:40:42.447-04:00&quot;,&quot;updated_at&quot;:&quot;2016-10-31T16:05:08.502-04:00&quot;,&quot;tax_rate&quot;:&quot;13.0&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;CA&quot;}}"></div>
-</li>
-<li><a class="btn btn-secondary" href="/users/sign_up">Sign Up</a></li>
-<li><a class="btn btn-light btn-outline" href="/users/sign_in">Login</a></li>
-<li><a class="btn btn-light btn-outline" href="/professionals/sign_in">Pro Login</a></li>
+<div class="collapsible-menu" id="collapsed-menu">
+<div class="left">
+<a class="link" href="/jobs/service_picker">Book a Job</a>
+<a class="link" href="/about_us">About Us</a>
+<a class="link" target="_blank" href="http://blog.jiffyondemand.com">Blog</a>
+<a class="link" target="_blank" href="https://intercom.help/jiffy">Help Centre</a>
 
-</ul>
+</div>
+<div class="right">
+<div class="dropdown" id="region-picker-container">
+<div data-react-class="RegionPicker" data-react-props="{&quot;regions&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;Toronto&quot;,&quot;created_at&quot;:&quot;2016-08-17T00:40:42.447-04:00&quot;,&quot;updated_at&quot;:&quot;2018-03-10T01:56:42.800-05:00&quot;,&quot;tax_rate&quot;:&quot;0.13&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;CA&quot;,&quot;labour_tax_rate&quot;:&quot;0.13&quot;,&quot;parts_tax_rate&quot;:&quot;0.13&quot;,&quot;service_fee_tax_rate&quot;:&quot;0.13&quot;,&quot;province&quot;:&quot;ON&quot;},{&quot;id&quot;:3,&quot;name&quot;:&quot;Ottawa&quot;,&quot;created_at&quot;:&quot;2016-10-20T01:13:34.383-04:00&quot;,&quot;updated_at&quot;:&quot;2018-03-10T01:56:42.882-05:00&quot;,&quot;tax_rate&quot;:&quot;0.13&quot;,&quot;currency&quot;:&quot;CAD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;CA&quot;,&quot;labour_tax_rate&quot;:&quot;0.13&quot;,&quot;parts_tax_rate&quot;:&quot;0.13&quot;,&quot;service_fee_tax_rate&quot;:&quot;0.13&quot;,&quot;province&quot;:&quot;ON&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;Chicago (2019)&quot;,&quot;created_at&quot;:&quot;2016-08-17T03:11:10.588-04:00&quot;,&quot;updated_at&quot;:&quot;2018-10-03T21:25:41.135-04:00&quot;,&quot;tax_rate&quot;:&quot;0.0&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;time_zone&quot;:&quot;Central Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;US&quot;,&quot;labour_tax_rate&quot;:&quot;0.0&quot;,&quot;parts_tax_rate&quot;:&quot;0.0&quot;,&quot;service_fee_tax_rate&quot;:&quot;0.0&quot;,&quot;province&quot;:&quot;IL&quot;},{&quot;id&quot;:4,&quot;name&quot;:&quot;Boston&quot;,&quot;created_at&quot;:&quot;2017-12-04T00:41:16.964-05:00&quot;,&quot;updated_at&quot;:&quot;2018-12-04T13:51:10.436-05:00&quot;,&quot;tax_rate&quot;:&quot;0.0&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;time_zone&quot;:&quot;Eastern Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;US&quot;,&quot;labour_tax_rate&quot;:&quot;0.0&quot;,&quot;parts_tax_rate&quot;:&quot;0.0625&quot;,&quot;service_fee_tax_rate&quot;:&quot;0.0&quot;,&quot;province&quot;:&quot;MA&quot;}],&quot;currentRegion&quot;:{&quot;id&quot;:2,&quot;name&quot;:&quot;Chicago (2019)&quot;,&quot;created_at&quot;:&quot;2016-08-17T03:11:10.588-04:00&quot;,&quot;updated_at&quot;:&quot;2018-10-03T21:25:41.135-04:00&quot;,&quot;tax_rate&quot;:&quot;0.0&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;time_zone&quot;:&quot;Central Time (US \u0026 Canada)&quot;,&quot;country&quot;:&quot;US&quot;,&quot;labour_tax_rate&quot;:&quot;0.0&quot;,&quot;parts_tax_rate&quot;:&quot;0.0&quot;,&quot;service_fee_tax_rate&quot;:&quot;0.0&quot;,&quot;province&quot;:&quot;IL&quot;}}"></div>
+</div>
+<a class="nav-btn btn btn-tertiary" href="/professionals/sign_in">Pro Login</a>
+<a class="nav-btn btn btn-secondary" href="/users/sign_in">Login</a>
+
 </div>
 </div>
 </div>
+</nav>
+
 
 <div id="landing-container">
+<section class="hero hero-md">
 <div class="container">
-<h1>Privacy Policy</h1>
+<div class="hero-content">
+<h1 class="heading">
+PRIVACY POLICY
+</h1>
+</div>
+</div>
+</section>
+<section id="privacy-policy">
+<div class="container landing-section">
 <p>
-This privacy policy (this <strong>"Policy</strong>") describes the practices of Jiffy Inc. and its corporate affiliates (<strong>"we</strong>", <strong>"us</strong>", <strong>"our</strong>") with respect to our collection, use, storage and disclosure of personal information provided to us from users of (a) the website operated at www.jiffyondemand.com and such other locations as made available from time to time (the <strong>"Website</strong>"), (b) any <strong>"app</strong>" or other front-end software provided by us (for greater certainty, excluding third party software that may interact with the Website or the Service, as defined below) that interacts or interfaces with the Website (the <strong>"Software</strong>"), and (c) the services we provide through the Website and/or the Software (collectively, the <strong>"Service</strong>"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  This Policy is incorporated by reference to the general Terms of Service for Jiffy located at http://jiffyondemand.com/terms_and_conditions, and forms an integral part of it. All capitalized terms not otherwise defined herein have the meaning provided in the general Terms of Service for Jiffy.
+This privacy policy (this&nbsp;<strong>"Policy"</strong>) describes the practices of Jiffy Inc. and its corporate affiliates (<strong>"we"</strong>,&nbsp;<strong>"us"</strong>,&nbsp;<strong>"our"</strong>) with respect to our collection, use, storage and disclosure of personal information provided to us from users of (a) the website operated at www.jiffyondemand.com and such other locations as made available by us from time to time (the&nbsp;<strong>"Website"</strong>), (b) any&nbsp;<strong>"app"</strong> or other front-end software provided by us (for greater certainty, excluding third party software that may interact with the Website or the Service, as defined below) that interacts or interfaces with the Website (the&nbsp;<strong>"Software"</strong>), and (c) the services we provide through the Website and/or the Software (collectively, the&nbsp;<strong>"Service"</strong>). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy is incorporated by reference to the general Terms of Service for Jiffy located at http://jiffyondemand.com/terms_and_conditions, and forms an integral part of it. All capitalized terms not otherwise defined herein have the meaning provided in the general Terms of Service for Jiffy.
 </p>
 <ol class="decimal">
 <li>
-<strong>Introduction and General Concepts</strong>
+<strong>Introduction and General Concepts&nbsp; </strong>
 <br>
-We respect and uphold individual rights to privacy and the protection of personal information.  We know how important it is to protect your personal information and want to make every customer experience safe and secure. In keeping with that goal, we have developed this Policy to explain our practices for the collection, use, and disclosure of your personal information. We have appointed a Privacy Officer who is responsible for our compliance with this Policy.  Information on how to contact the Privacy Officer can be found below.
+We respect and uphold individual rights to privacy and the protection of personal information. We know how important it is to protect your personal information and want to make every customer experience as safe and secure as reasonably possible. In keeping with that goal, we have developed this Policy to explain our practices for the collection, use, storage and disclosure of your personal information
 <ol class="lower-alpha">
 <li>
 <u>
 <i>Personal Information</i>
 </u>
 <br>
-For the purposes of this Policy, <strong>"personal information</strong>" means information about an identifiable individual, including, for example, an individual's name, home address, telephone number, social insurance number, sex, income and family status. Personal information does not include information that would enable an individual to be contacted at a place of business, for example an employee's name, position or title, business telephone number, or business address. We will only collect, use or disclose personal information in accordance with this Policy, or in accordance with laws applicable to the collection, use and disclosure of your personal information by us (<strong>"Applicable Privacy Laws</strong>").
+For the purposes of this Policy,&nbsp;<strong>"personal information"</strong> means information about an identifiable individual, including, for example, an individual's name, home address, telephone number, social security number, sex, income and family status. Personal information does not include information that would enable an individual to be contacted at a place of business, for example an employee's name, position or title, business telephone number, or business address. We will only collect, use, store or disclose personal information in accordance with this Policy, or in accordance with laws applicable to the collection, use and disclosure of your personal information by us (<strong>"Applicable Privacy Laws"</strong>).
 </li>
 <li>
 <u>
 <i>Non-Personal Information</i>
 </u>
 <br>
-On the other hand, <strong>"non-personal information</strong>" is any type of information other than personal information, and is excluded from this Policy. For example, non-personal information would include business information, or information that enables an individual to be contacted at a place of business, for example an employee's name, position or title, business telephone number, or business address. Non-personal information also includes information that is anonymous or not about an identifiable information, such as web browsing information (such as the domain used to access the Website, or the type and version of device, browser or operating system being used to access the Service), or aggregate information that anonymizes the underlying data (like the number of visitors, what pages users visit, average time spent on the Website or on various parts of the Service). We will collect, use or disclose non-personal information in accordance with our ordinary business practices, but always in accordance with any applicable laws. This Policy, however, only covers our collection, use and disclosure of personal information.
+On the other hand,&nbsp;<strong>"non-personal information"</strong> is any type of information other than personal information, and is excluded from this Policy. For example, non-personal information would include business information, or information that enables an individual to be contacted at a place of business, for example an employee's name, position or title, business telephone number, or business address. Non-personal information also includes information that is anonymous or not about an identifiable individual, such as web browsing information (such as the domain used to access the Website, or the type and version of device, browser or operating system being used to access the Service), or aggregate information that anonymizes the underlying data (like the number of visitors, what pages users visit, average time spent on the Website or on various parts of the Service). We will collect, use, store or disclose non-personal information in accordance with our ordinary business practices and in our discretion, but always in accordance with any Applicable Privacy Laws.
 </li>
 <li>
 <u>
 <i>Information about Minors</i>
 </u>
 <br>
-This site is not intended for minors and no person under the age of majority may register for a User Account. We do not knowingly collect personal information about any person under the age of majority (usually the age of 18 or 19, but it varies in different jurisdictions) including any person under the age of 13, and no such person, nor any parent or guardian as it relates to such person, should submit their personal information to us for any reason. Please do not submit personal information about minors to us, whether through the Website, the Service or otherwise.
+The Website is not intended for minors and no person under the age of majority may register for a User Account. We do not knowingly collect personal information about any person under the age of majority (usually the age of 18 or 19, but it varies in different jurisdictions) including any person under the age of 13, and no such person, nor any parent or guardian on behalf of such person, should submit their personal information to us for any reason. Please do not submit personal information about minors to us, whether through the Website, the Service or otherwise. If a parent or guardian of a minor who is under 13 years of age discovers that the minor's personal information has been submitted to us without the parent's or guardian's consent, we will use commercially reasonable efforts to delete all such information in our possession or under our control at the parent's or guardian's request.  To request the removal of personal information of a minor who is under 13 years of age, a parent or guardian must contact the Privacy Officer as set forth below and provide all information requested by the Privacy Officer to assist in identifying the information to be deleted.
 </li>
 <li>
 <u>
 <i>Privacy Officer</i>
 </u>
 <br>
-We have appointed a Privacy Officer who is responsible for our compliance with this Policy.  Information on how to contact the Privacy Officer can be found below.
+We have appointed a Privacy Officer who is responsible for our compliance with this Policy.  All complaints, questions and requests for additional information regarding this Policy should be promptly submitted to the Privacy Officer.  Information on how to contact the Privacy Officer can be found below.
 </li>
 </ol>
 </li>
@@ -180,11 +200,11 @@ We may collect the following personal information from you:
 <i>Information we automatically collect</i>
 </u>
 <br>
-We also automatically gather information about your computer such as your IP address, browser type, referring/exit pages, operating system, as well as which aspects of our performance metric indicators available with our technology or our licensees' products you prefer using.  Some of this may be personal information, but in typical cases it is non-personal information.  Specific examples follow:
+We also automatically gather information about your computer such as your IP address, browser type, referring/exit pages, operating system, as well as which aspects of our performance metric indicators available with our technology or our licensees' products you prefer using. Some of this may be personal information, but in typical cases it is non-personal information. Specific examples follow:
 <ul>
-<li>IP, etc.—When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the website from which you linked directly to our Website, the operating system you are using, the sections of our Website you visit, the Website pages read and images viewed, and the content you download from the Website.  This information is used for Website and system administration purposes, and to improve the Website.</li>
-<li>Cookies—We use <strong>"cookies</strong>", a technology that installs a small amount of information on a user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website, to offer personalized content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.</li>
-<li>Geo-Location Information—When you use the Service through a mobile device, we may track or collect your geo-location information on a real time basis only. We may also use this real-time geo-location information to address support, technical, or business issues that may arise in the course of your use of the Service.  If you do not consent to the tracking of your geo-location, you may still be able to use some features of the Service, but it is intended to be used with geo-location information. For example, Home Service Professionals will enter their start location and throughout their trip to the Premises. You may at any time withdraw your consent as permitted through the Service, or , provided you are not a Home Service Professional, you can turn the geo-location tracking off at the device level as permitted by the manufacturer of your device. In our experience, your mobile device informs you when geo-location is tracked by displaying the GPS arrow icon.</li>
+<li>IP, etc.—When using our Website, we may collect the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access our Website, the Internet address of the website from which you linked directly to our Website, the operating system you are using, the sections of our Website you visit, the Website pages and images viewed, and the content you download from the Website. This information is used for Website and system administration purposes, and to improve the Website.</li>
+<li>Cookies—We use&nbsp;<strong>"cookies"</strong>, a technology that installs a small amount of information on a user's computer to permit the Website to recognize future visits using that computer. Cookies enhance the convenience and use of the Website. For example, the information provided through cookies is used to recognize you as a previous user of the Website, to offer personalized content and information for your use, to track your activity at the Website, to respond to your needs, and to otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your use of the Website and your ability to access certain features of the Website or engage in transactions through the Website.</li>
+<li>Geo-Location Information—When you use the Service through a mobile device, we may track or collect your geo-location information on a real time basis only. We may also use this real-time geo-location information to address support, technical, or business issues that may arise in the course of your use of the Service. If you do not consent to the tracking of your geo-location, you may still be able to use some features of the Service, but it is intended to be used with geo-location information. For example, Home Service Professionals will enter their start location and throughout their trip to the Premises. You may at any time withdraw your consent as permitted through the Service, or, provided you are not a Home Service Professional, you can turn the geo-location tracking off at the device level as permitted by the manufacturer of your device. In our experience, your mobile device may inform you when geo-location is tracked by displaying the GPS arrow icon.</li>
 </ul>
 </li>
 </ol>
@@ -209,66 +229,65 @@ We may use your personal information, in combination with your non-personal info
 <li>to enforce our Terms of Service;</li>
 <li>display content based upon your interests;</li>
 <li>for distribution to our Payment Processor for the provision of payment services;</li>
-<li>facilitate your transactions with other Users or Home Service Professionals, as applicable; and</li>
-<li>for other purposes as described in this Policy.</li>
+<li>facilitate your transactions with other Users or Home Service Professionals, as applicable;</li>
+<li>transfer to a third party purchasing all or substantially all of our assets</li>
+<li>to improve the Services; and</li>
+<li>for other purposes as described in this Policy or contemplated by the Terms of Service.</li>
 </ul>
 </li>
 <li>
 <strong>Your Consent</strong>
 <br>
-We will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by Applicable Privacy Laws.  When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Policy and as may be further identified at the time of collection.
+We will collect, use, store or disclose your personal information only with your knowledge and consent, except where required or permitted by Applicable Privacy Laws. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Policy and as may be further identified at the time of collection.
 <ol class="lower-alpha">
 <li>
 <u>
 <i>Express Consent</i>
 </u>
 <br>
-Sometimes you will be asked to give your express consent to our collection, use or disclosure of personal information – for example, by being asked to check a box to indicate your consent to receive marketing communications in compliance with Canada's anti-spam laws.
+Sometimes you will be asked to give your express consent to our collection, use, storage or disclosure of personal information – for example, by being asked to check a box to indicate your consent to receive marketing communications.
 </li>
 <li>
-<i>
-<u>Implied Consent</u>
-</i>
+<u>
+<i>Implied Consent</i>
+</u>
 <br>
-Other times, you may provide your implied consent to our collection, use or disclosure of personal information when we can reasonably conclude that you have given consent by some action you have taken or an action you have decided not to take.  Generally, this occurs where the purpose for the use of your personal information would be reasonably apparent to you – for example, when you provide us with your address through your Request forms while placing a Request, you provide us with implied consent to use that address in order to fulfill your order.
+Other times, you may provide your implied consent to our collection, use or disclosure of personal information when we can reasonably conclude that you have given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for the use of your personal information would be reasonably apparent to you – for example, when you provide us with your address through your Request forms while placing a Request, you provide us with implied consent to use that address in order to fulfill your order.
 </li>
 <li>
-<i>
-<u>Withdrawing Your Consent</u>
-</i>
+<u>
+<i>Withdrawing Your Consent</i>
+</u>
 <br>
-You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your personal information.  We will accommodate your request subject to legal and contractual restrictions.  The most common way of indicating this withdrawal of consent is (i) by changing your privacy preferences to the extent such functionality is made available through the Service, or (ii) deleting your account with the Service and stopping use of the Service.  In other situations, you may be able to opt out of the use of your personal information.  For example, if you have "opted in" or subscribed to one of our mailing lists, we will always provide you the opportunity to "opt out" or unsubscribe.  For example, if you receive emails from us, we will provide a link in the email which you can use to unsubscribe from that mailing list, or you may contact us at <a href="mailto:info@jiffyondemand.com">info@jiffyondemand.com</a>.
-You may also choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the Service, or information that you have requested. For example, we require your email address in order to verify your User Account, which is necessary so that notifications may be sent to you electronically.
+You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your personal information. We will accommodate your request subject to legal, technical and contractual restrictions. The most common way of indicating this withdrawal of consent is (i) by changing your privacy preferences to the extent such functionality is made available through the Service, or (ii) deleting your account with the Service and stopping use of the Service. In other situations, you may be able to opt out of the use of your personal information. For example, if you have "opted in" or subscribed to one of our mailing lists, we will always provide you the opportunity to "opt out" or unsubscribe. For example, if you receive emails from us, we will usually provide a link in the email which you can use to unsubscribe from that mailing list, or you may contact us at&nbsp;<a href="mailto:info@jiffyondemand.com">info@jiffyondemand.com</a>. You may also choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the Service, or information that you have requested. For example, we require your email address in order to verify your User Account, which is necessary so that notifications may be sent to you electronically.
 </li>
 </ol>
 </li>
 <li>
 <strong>Information Obtained from Third Parties</strong>
 <br>
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us and in accordance with this Policy and such policy under which that information was collected.
+If you provide us personal information about others, or if others give us your information, we will only use that in accordance with this Policy or any other such privacy policy under which that information was collected.
 </li>
 <li>
 <strong>Disclosure and Sharing of Your Information</strong>
 <br>
-We will share your personal information with third parties only in the ways that are described in this Policy. We will not sell your personal information to third parties, however the use of our Service necessarily requires some sharing or disclosure of your personal information.  Some of these activities may result in personal information collected by us being stored or processed in the United States or elsewhere outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the USA PATRIOT Act and other applicable laws of the United States or elsewhere.
+We will share your personal information with third parties only in the ways that are described in this Policy. Unless we sell to a third party all or substantially all of our assets, we will not sell your personal information to third parties, however the use of our Service necessarily requires some sharing or disclosure of your personal information. Some of these activities may result in personal information collected by us being stored or processed in the United States or elsewhere outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the USA PATRIOT Act and other applicable laws of the United States or elsewhere.
 <ol class="lower-alpha">
 <li>
-<i>
-<u>Third Party Processors</u>
-</i>
+<u>
+<i>Third Party Processors</i>
+</u>
 <br>
-We may provide your personal information to companies that provide services to help us with the Service such as web hosting providers, payment processors, product shipping providers, fulfilment agencies, or customer service agencies (<strong>"Third Party Processors</strong>"). These Third Party Processors are authorized to use your personal information only as necessary to provide these services to us, and in a manner consistent with this Policy.  We have selected Third Party Processors who will only use your information in compliance with this Policy, but they may have their own specific policies regarding the collection, use and personal information.  We will use commercially reasonable efforts to identify such Third Party Processors when we are collecting your personal information, as well as providing links to the relevant privacy policies that may apply.
-Here are some examples of the Third Party Processors we use as part of the Service:
+We may provide your personal information to companies that provide services to help us with the Service such as web hosting providers, payment processors, product shipping providers, fulfilment agencies, or customer service agencies (<strong>"Third Party Processors"</strong>). These Third Party Processors are authorized to use your personal information only as necessary to provide these services to us, and in a manner consistent with this Policy. We have attempted to select Third Party Processors who will only use your information in compliance with this Policy, but we have no control over, or liability for, their own specific policies regarding the collection, use, storage and disclosure of personal information. We will use commercially reasonable efforts to identify such Third Party Processors when we are collecting your personal information, as well as providing links to the relevant privacy policies that may apply. Here are some examples of the Third Party Processors we use as part of the Service:
 <ul>
-<li>Our Service is physically hosted by DigitalOcean Inc., a reputable hosting platform with industry standard security and practices.</li>
-<li>We do not directly process payments through our Service.  We use Stripe and their privacy terms are available here: https://stripe.com/ca/privacy.  We only ourselves collect and store limited parts of that information to provide a record of your transaction and to prevent fraud (such as a part of a credit card number, or a part of your billing address).</li>
+<li>Our Service is currently physically hosted by DigitalOcean Inc., a reputable hosting platform with industry standard security and practices.</li>
+<li>We do not directly process payments through our Service. We use Stripe and their privacy terms are available here: https://stripe.com/ca/privacy. We only ourselves collect and store limited parts of that information to provide a record of your transaction and to prevent fraud (such as a part of a credit card number, or a part of your billing address).</li>
 <li>When you enter into a Request for a Job through the Service, we forward certain aspects of the information you provide to the relevant Home Service Professional and Stripe to enable them to assist in performing parts of the Service. We have entered into arrangements with these parties to ensure that they respect privacy in a manner consistent with this Policy.</li>
-<li>We use a third party to gather information about how you and others use our Service. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.  We may also use unique codes, web beacons or single-pixel gif tags to compile tracking information reports regarding Service user demographics, Service traffic patterns, and other aggregated Website or Service statistics, both on the Website and in our electronic communications in order to determine which materials and links have been used by recipients.  We may then provide these reports to advertisers and others. For example, we may use Mixpanel services to track user activity on our site, and that information is transferred to and stored by Mixpanel and is subject to their privacy policy (https://mixpanel.com/privacy). You may choose to opt out of the Mixpanel cookie at any time at https://mixpanel.com/optout/.</li>
+<li>We use a third party to gather information about how you and others use our Service. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. We may also use unique codes, web beacons or single-pixel gif tags to compile tracking information reports regarding Service user demographics, Service traffic patterns, and other aggregated Website or Service statistics, both on the Website and in our electronic communications in order to determine which materials and links have been used by recipients. We may then provide these reports to advertisers and others. For example, we may use Mixpanel services to track user activity on our site, and that information is transferred to and stored by Mixpanel and is subject to their privacy policy (https://mixpanel.com/privacy). You may choose to opt out of the Mixpanel cookie at any time at https://mixpanel.com/optout/.</li>
 <li>We make your contact information available to Users or Home Service Professionals, as applicable, that you transact with on this site to help complete the transaction, in accordance with your selected preferences.</li>
 </ul>
 </li>
-</ol>
-</li><li>
+<li>
 <u>
 <i>Further Disclosures</i>
 </u>
@@ -280,57 +299,57 @@ We may also disclose your personal information (i) as required by law such as to
 <i>Third Party Links</i>
 </u>
 <br>
-Our Service may contain links to other websites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another website or Internet resource. We have no responsibility or liability for, or control over, those other websites or Internet resources or their collection, use and disclosure of your personal information.  We encourage you to read the privacy policies of those other websites to learn how they collect and use your personal information.
+Our Service may contain links to other websites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another website or Internet resource. We have no responsibility or liability for, or control over, those other websites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other websites to learn how they collect and use your personal information.
 </li>
 <li>
 <u>
 <i>Public Forums</i>
 </u>
 <br>
-We may from time to time provide publicly accessible blogs or community forums through the Service.  We will use your personal data as provided through those services to administrate and provide you with these public services, and you will have primary control over what information you make publicly available. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+We may from time to time provide publicly accessible blogs or community forums through the Service. We will use your personal data as provided through those services to administrate and provide you with these public services, and you will have primary control over what information you make publicly available. You should be aware that any information you provide in these areas may be read, collected, stored, disclosed and used by others who access them and who are not bound by this policy.
 </li>
-
+</ol>
+</li>
 <li>
 <strong>Security of Personal Information</strong>
+<br>
 <ol class="lower-alpha">
 <li>
 <u>
 <i>General Security Practices</i>
 </u>
 <br>
-The security of your personal information is important to us.  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. We employ physical, administrative, contractual and technological safeguards to protect personal information, and insist that our service providers do the same.  We insist that our personnel, and those of our providers, only access and use personal information in order to properly perform those duties, and even then only to the strict extent necessary to perform them.
+The security of your personal information is important to us. We follow commercially reasonable standards to protect the personal information submitted to us, both during transmission and once we receive it. We employ physical, administrative, contractual and technological safeguards to protect personal information, and insist that our service providers do the same. We insist that our personnel, and those of our providers, only access and use personal information in order to properly perform those duties.
 </li>
 <li>
 <u>
 <i>Online Security</i>
 </u>
 <br>
-When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  SSL encrypts information entered on our site before it is sent over the Internet, and we use SSL in an industry-recognized standard manner to encrypt our Internet transmissions to and from you.  In addition, to the extent we do store your personal information, we store it in encrypted form.  However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, and so you should always exercise caution when disclosing sensitive information over the Internet.
-If you have any questions about security on our Website, you can contact us at <a href="mailto:info@jiffyondemand.com">info@jiffyondemand.com</a>.
+When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). SSL encrypts information entered on our site before it is sent over the Internet, and we use SSL in an industry-recognized standard manner to encrypt our Internet transmissions to and from you. In addition, to the extent we do store your personal information, we store it in encrypted form. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, and so you should always exercise caution when disclosing sensitive information over the Internet. If you have any questions about security on our Website, you can contact us at&nbsp;<a href="mailto:info@jiffyondemand.com">info@jiffyondemand.com</a>.
 </li>
 </ol>
 </li>
 <li>
 <strong>Requests for Access to and Correction of Personal Information</strong>
 <br>
-Applicable Privacy Laws allow, to varying degrees, individuals the right to access and/or request the correction of errors or omissions in his or her personal information that is in our custody or under our control. Our Privacy Officer will assist you with such an access request. This includes:
+Some Applicable Privacy Laws allow, to varying degrees, individuals the right to access and/or request the correction of errors or omissions in his or her personal information that is in our custody or under our control. To the extent these laws apply to you, our Privacy Officer will assist you with such an access request. These requests may include:
 <ul>
 <li>identification of personal information under our custody or control;</li>
 <li>information about how personal information under our control may be or has been used by us; and</li>
 <li>the names of any individuals and organizations to which the individual's personal information has been disclosed.</li>
 </ul>
-We will respond to requests within the time allowed by Applicable Privacy Laws and will make every effort to respond as accurately and completely as possible. Any corrections made to personal information will be promptly sent to any organization it was disclosed to.
-In certain exceptional circumstances, we may not be able to provide access to certain personal information it holds about an individual. If access cannot be provided, we will notify the individual making the request within 30 days, in writing, of the reasons for the refusal.
+We will respond to requests within the time allowed by Applicable Privacy Laws and will make every effort to respond as accurately and completely as possible. If required by Applicable Privacy Laws, any corrections made to personal information will be promptly sent to any organization it was disclosed to. In certain exceptional circumstances, we may not be able to provide access to certain personal information we hold about an individual. If access cannot be provided, we will notify the individual making the request within 30 days, in writing, of the reasons for the refusal.
 </li>
 <li>
 <strong>Removal of Your Information</strong>
 <br>
-We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. Personal information used to make a decision that directly affects an individual will be kept for at least one year after such a decision. We have retention standards that meet these parameters. We destroy your information when it is no longer needed or required to be kept, or we remove your personally identifiable information to render it anonymous.
+We keep your information only as long as we need it for legitimate business purposes (as determined in our discretion) and to meet any legal requirements. We destroy your information when it is no longer needed or required to be kept, or we remove your personally identifiable information to render it anonymous.
 </li>
 <li>
 <strong>Updates or Changes to Privacy Policy</strong>
 <br>
-We may update this Policy to reflect changes to our information practices. If we make any material changes we will either (a) notify you by email (sent to the e-mail address specified in your account), or (b) provide a notice on the Website or otherwise through the Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Any change to this Privacy Policy will become effective on the date so indicated, and will apply to information collected from the date of the posting of the revised privacy policy and to existing information held by us.  The date on which the latest update was made is indicated at the bottom of this document.  We recommend that you print a copy of this privacy policy for your reference and revisit this policy from time to time to ensure you are aware of any changes.  Your continued use of the Service signifies your acceptance of any changes to this Policy.
+We may update this Policy to reflect changes to our information practices. If we make any material changes we will either (a) notify you by email (sent to the e-mail address specified in your account), or (b) provide a notice on the Website or otherwise through the Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Any change to this Privacy Policy will become effective on the date so indicated, and will apply to information collected from the date of the posting of the revised privacy policy and to existing information held by us. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this privacy policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Service signifies your acceptance of any changes to this Policy.
 </li>
 <li>
 <strong>Contact Information</strong>
@@ -342,92 +361,132 @@ Privacy Officer
 <br>
 Jiffy Inc.
 <br>
-89 Roehampton Avenue
+90 Tycos Drive, Suite 4
 <br>
 Toronto, Ontario
 <br>
-M4P 1P9, Canada
+M6B 1V9, Canada
 <br>
 Email: <a href="mailto:info@jiffyondemand.com">info@jiffyondemand.com</a>
 <br>
 <br>
-If you are not satisfied with our Privacy Officer's response to their question or concern you may be able to make a complaint under Applicable Privacy Laws.  Our Privacy Officer can provide you with the contact information to make such a complaint.
+If you are not satisfied with our Privacy Officer's response to their question or concern you may be able to make a complaint under Applicable Privacy Laws. Our Privacy Officer can provide you with the contact information to make such a complaint.
 </li>
 </ol>
-<p>
-<i>End of Privacy Policy (Last Updated: May 22, 2015)</i>
+<p class="text-hr">
+<i>End of Privacy Policy (Last Updated: April 4, 2019)</i>
 <br>
 </p>
 </div>
+</section>
 
 
 </div>
-<div id="footer">
+<section id="footer">
 <div class="container">
-<div class="row">
-<div class="col-sm-8 footer-links">
+<div class="footer-links">
+<img class="footer-logo" src="/assets/logos/logo-navbar-82ad596592975a0870f22d62e7fa12e9035bafdacbe24eed207593b43ac8539e.png">
+<div class="links-container">
+<div class="left-links">
 <ul>
-<li class="footer-secondary"><a href="/professionals/sign_up">BECOME A JIFFY PRO</a></li>
+<li><a href="/about_us">About Us</a></li>
+<li>
+<a target="_blank" href="http://blog.jiffyondemand.com/">Blog</a>
+</li>
+<li><a target="_blank" href="https://intercom.help/jiffy">Help Centre</a></li>
+<li class="highlighted"><a href="/account/sign_up">Become a Jiffy Pro</a></li>
+<li class="highlighted"><a href="/jobs/new">Book a Job</a></li>
+</ul>
+</div>
+<div class="right-links">
+<ul>
+<li><a href="/careers">Careers</a></li>
+<li><a href="/flash_deals">Jiffy Flash</a></li>
 <li><a href="/satisfaction_guarantee">Satisfaction Guarantee</a></li>
 <li><a href="/terms_and_conditions">Terms and Conditions</a></li>
 <li><a href="/privacy_policy">Privacy Policy</a></li>
-<li><a href="/faq">FAQ</a></li>
-<li><a href="/careers">Careers</a></li>
-<li><a href="/contact_us">Contact Us</a></li>
-<li><a href="http://blog.jiffyondemand.com/">Blog</a></li>
 </ul>
 </div>
-<div class="col-sm-4 social-links">
-<a target="_blank" href="http://www.facebook.com/jiffyondemand"><i class="fa fa-facebook-square"></i>
-</a><a target="_blank" href="http://www.twitter.com/JiffyOnDemand"><i class="fa fa-twitter-square"></i>
-</a><a target="_blank" href="https://www.linkedin.com/company/jiffy-on-demand"><i class="fa fa-linkedin-square"></i>
+</div>
+</div>
+<div class="services-list">
+<h4 class="list-header">
+Services
+</h4>
+<div class="services">
+<span class="service">
+<a href="/services/appliance-install">Appliance Install</a>
+</span>
+<span class="service">
+<a href="/services/appliance-repair">Appliance Repair</a>
+</span>
+<span class="service">
+<a href="/services/carpet-upholstery-cleaning">Carpet &amp; Upholstery Cleaning</a>
+</span>
+<span class="service">
+<a href="/services/duct-cleaning">Duct Cleaning</a>
+</span>
+<span class="service">
+<a href="/services/electrical">Electrical</a>
+</span>
+<span class="service">
+<a href="/services/furniture-assembly">Furniture Assembly</a>
+</span>
+<span class="service">
+<a href="/services/gas-services">Gas Services</a>
+</span>
+<span class="service">
+<a href="/services/handyman">Handyman Services</a>
+</span>
+<span class="service">
+<a href="/services/heating-cooling-hvac">Heating &amp; Cooling</a>
+</span>
+<span class="service">
+<a href="/services/junk-removal">Junk Removal</a>
+</span>
+<span class="service">
+<a href="/services/lawn-maintenance">Lawn Maintenance</a>
+</span>
+<span class="service">
+<a href="/services/locksmith">Locksmith</a>
+</span>
+<span class="service">
+<a href="/services/moving-delivery">Moving &amp; Delivery</a>
+</span>
+<span class="service">
+<a href="/services/plumbing">Plumbing</a>
+</span>
+<span class="service">
+<a href="/services/powerwash">Powerwash, Stain &amp; Seal</a>
+</span>
+<span class="service">
+<a href="/services/snow-removal">Snow Removal</a>
+</span>
+<span class="service">
+<a href="/services/windows-eaves-cleaning">Window &amp; Gutter Cleaning</a>
+</span>
+</div>
+</div>
+</div>
+</section>
+<section id="footer-banner">
+<div class="container">
+<div class="social-links">
+<a target="_blank" href="http://www.facebook.com/jiffyondemand"><i class="fa fa-facebook-f"></i>
+</a><a target="_blank" href="http://www.twitter.com/JiffyOnDemand"><i class="fa fa-twitter"></i>
+</a><a target="_blank" href="https://www.linkedin.com/company/jiffy-on-demand"><i class="fa fa-linkedin"></i>
 </a><a target="_blank" href="https://instagram.com/jiffyondemand/"><i class="fa fa-instagram"></i>
 </a></div>
-</div>
-<div class="row hidden-xs">
-<div class="col-sm-12 services-list">
-<p>
-<span class="service"><a href="/services/appliance-install">Appliance Install</a></span>
-<span class="service"><a href="/services/appliance-repair">Appliance Repair</a></span>
-<span class="service"><a href="/services/bbq-cleaning">BBQ Cleaning &amp; Repair</a></span>
-<span class="service"><a href="/services/carpet-upholstery-cleaning">Carpet &amp; Upholstery Cleaning</a></span>
-<span class="service"><a href="/services/duct-cleaning">Duct Cleaning</a></span>
-<span class="service"><a href="/services/electrical">Electrical</a></span>
-<span class="service"><a href="/services/furniture-assembly">Furniture Assembly</a></span>
-<span class="service"><a href="/services/garage-door-repair">Garage Door Repair</a></span>
-<span class="service"><a href="/services/gas-services">Gas Services</a></span>
-<span class="service"><a href="/services/handyman">Handyman Services</a></span>
-<span class="service"><a href="/services/heating-cooling-hvac">Heating &amp; Cooling</a></span>
-<span class="service"><a href="/services/holiday-lights">Holiday Lights Installation</a></span>
-<span class="service"><a href="/services/home-inspection">Home Inspection</a></span>
-<span class="service"><a href="/services/junk-removal">Junk Removal</a></span>
-<span class="service"><a href="/services/lawn-maintenance">Lawn Maintenance</a></span>
-<span class="service"><a href="/services/locksmith">Locksmith</a></span>
-<span class="service"><a href="/services/mobile-auto-detail">Mobile Auto Detail</a></span>
-<span class="service"><a href="/services/moving-delivery">Moving &amp; Delivery</a></span>
-<span class="service"><a href="/services/painting">Painting</a></span>
-<span class="service"><a href="/services/pest-control">Pest Control</a></span>
-<span class="service"><a href="/services/plumbing">Plumbing</a></span>
-<span class="service"><a href="/services/powerwash">Powerwash</a></span>
-<span class="service"><a href="/services/snow-removal">Snow Removal</a></span>
-<span class="service"><a href="/services/windows-eaves-cleaning">Window &amp; Eaves Cleaning</a></span>
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-6">
-<a rel="nofollow" href="https://mixpanel.com/f/partner"><img alt="Mobile Analytics" src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png">
-</a></div>
-<div class="col-sm-6 copyright">
-<p>
+<div class="copyright">
+<a rel="nofollow" class="hidden-xs" href="https://mixpanel.com/f/partner"><img alt="Mobile Analytics" src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png">
+</a><p>
 <i class="fa fa-copyright"></i>
-2017
-JIFFY Services on Demand
+2019
+Jiffy Inc.
 </p>
 </div>
 </div>
-</div>
-</div>
+</section>
 
 <div class="hidden">
 <!-- Google Code for Retargeting -->
@@ -446,6 +505,7 @@ JIFFY Services on Demand
 </noscript>
 </div>
 
+<script src="/assets/deferred-05c0175f9c1d0abdf06cf3174f143b2bd0c096ee3c22a1a23a17ee4fa75e3794.js"></script>
 
 
 </body></html>
