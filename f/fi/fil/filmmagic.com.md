@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119035706id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmmagic.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520140053id_/http%3A//www.filmmagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Getty Images
 
 #### GETTY IMAGES PRIVACY POLICY
 
-Last updated: October 2018
+Last updated: January 2019
 
 Getty Images, Inc., and its affiliates, (collectively, " **Getty Images** ") is committed to protecting your privacy. This privacy policy tells you about our collection, use, and disclosure of your personal data. The terms of this policy apply to all Getty Images websites and associated services that link to this privacy policy (the " **websites** "), it does not apply to websites or services that link to a different privacy notice. 
 
@@ -63,7 +63,7 @@ Personal data collected by Getty Images may be stored and processed in your coun
 
 We transfer personal data from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts where required by applicable law, to help ensure your rights and protections. To learn more about the European Commission's decisions on the adequacy of personal data protections, please visit: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en>.
 
-Getty Images has certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (individually and collectively, " **Privacy Shield** "). Getty Images complies with the Privacy Shield as set forth by the U.S. Department of Commerce with respect to the collection, use, transfer and retention of personal data from European Union member countries and Switzerland. Getty Images has certified that it adheres to the Privacy Shield principles based on Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+Getty Images has certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks (individually and collectively, " **Privacy Shield** "). Getty Images complies with the Privacy Shield as set forth by the U.S. Department of Commerce with respect to the collection, use, transfer and retention of personal data from European Union member countries, the United Kingdom and/or Switzerland (as applicable) to the United States in reliance on the Privacy Shield. Getty Images has certified that it adheres to the Privacy Shield principles based on Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
 
 We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. If third-party agents process personal data on our behalf in a manner inconsistent with the principles of Privacy Shield, we remain liable unless we prove we are not responsible for the event giving rise to the damage. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern.
 
@@ -90,7 +90,7 @@ We retain personal data for as long as necessary to provide the products and ful
 
 **Social Media**
 
-On some pages, we allow you to share personal data with third parties, such as social networks like Facebook. In these instances, you are agreeing to the data being shared and the shared data is subject to the privacy policies of the third parties. We do not control and do not assume any responsibility for the use of personal data by such third parties. For more information about the third party's purpose and scope of their use of personal data in connection with sharing features, please visit the privacy policies of such third parties.
+On some pages, we allow you to share personal data with third parties, such as social networks like Facebook. In these instances, you are agreeing to the data being shared and the shared data is subject to the privacy policies of such third parties. We may combine information we receive from those platforms (e.g., profile information, likes, pageviews) with other information we collect from you or other sources and use and disclose it as described in this privacy policy. Except where required by applicable law or regulation, we do not control and do not assume any responsibility for the use of personal data by such third parties. For more information about the third party's purpose and scope of their use of personal data in connection with sharing features, please visit the privacy policies of these third parties.
 
 **Accessing Your Personal Data**
 
@@ -137,8 +137,8 @@ Google's ability to use and share information collected by Google Analytics abou
 
 In other cases, we allow third parties to use Cookies for advertising purposes. Sometimes our web pages contain content or ads from third parties, such as videos, news content, or ads delivered by other ad networks. Because your browser connects to those third parties' web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services. We also work with third party partners to show their advertisements to you on our and third- party websites. Our partners may use demographic and preference information to allow advertising to be targeted to the users for whom they are most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.
 
-Our current third-party advertising partners can be viewed here: <https://www.gettyimages.com/ads.txt>. You may find more information on each company's practices, including the choices it offers, by clicking on the above and visiting those websites. Many of them are also members of the Network Advertising Initiative (NAI) or Digital Advertising Alliance (DAA), which each provide a simple way to opt out of ad targeting from participating companies, which you can access at:  
-<http://www.networkadvertising.org/managing/opt_out.aspx> and <http://www.aboutads.info/choices/> or if located in the European Union go here: <http://www.youronlinechoices.eu/>.
+Third-party advertising partners who are members of the Network Advertising Initiative (NAI) or Digital Advertising Alliance (DAA) are listed at the sites below. These sites provide a simple way to opt out of ad targeting from those participating companies, which you can access at:  
+<http://www.networkadvertising.org/managing/opt_out.aspx> and <http://www.aboutads.info/choices/> or if located in the European Union go here: <http://www.youronlinechoices.eu/>.
 
 **Choice and Preference**
 
@@ -194,4 +194,4 @@ For the EU
 
 Our data protection representative for the European Economic Area and Switzerland is located at Getty Images International. You can contact them by emailing [privacy@gettyimages.com](mailto:privacy@gettyimages.com) or by phone at 1800 931 768, or by postal mail at Attn: Privacy, Getty Images International, 1st Floor, The Herbert Building, The Park, Carrickmines, Dublin 18, Ireland.
 
- _© 1999-2018 Getty Images, Inc. All rights reserved. Privacy Policy._
+ _© 1999-2019 Getty Images, Inc. All rights reserved. Privacy Policy._
