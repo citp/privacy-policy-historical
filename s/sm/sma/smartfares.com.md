@@ -1,21 +1,13 @@
-> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606021814id_/http%3A//smartfares.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520055430id_/https%3A//www.smartfares.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement for SmartFares
-
-Round TripOne WayMulti-City
-
-Depart:
-
-Return:
-
-Search +/- 3 days for lowest fares
 
 This document defines the policies and practices that SmartFares.com (""SmartFares"") uses to protect your personal information. Our goal is to protect all the information that you provide us whenever you contact us or use this web site (""Site""). By visiting or using the Site, you are agreeing to these terms & conditions: 
 
   1. What information do we collect?
   2. How we use your information
   3. With whom we share your information?
-  4. What are your choices with respect to the collection and use of your information?
+  4. Your choices and rights with respect to your personal information
   5. How we protect your information?
   6. Children's Privacy
   7. External Links
@@ -32,7 +24,7 @@ SmartFares may update this Privacy Policy at any time in the future. You can che
 
 We receive and store every information that you enter on our Site or give us by telephone, e-mail, fax, or in any other form. This includes information that can identify you, including your first and last name, telephone number, postal and e-mail addresses, and, in some cases, billing information (such as credit card number, cardholder name, and expiration date), (personal information). We also may request information about your traveler preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions. 
 
-    * ####  Passenger Information 
+    * ####  Passenger Information
 
 When you book travel and other arrangements for someone else through SmartFares, we will ask for the personal information and travel preferences about that individual. You should obtain the consent of other individuals prior to providing SmartFares with their personal information and travel preferences, as any access to view or change their information will be available only through your account. 
 
@@ -44,9 +36,9 @@ We also may periodically collect information about you from our business partner
 
 We automatically save some information about your computer when you visit the Site. For example, we will collect your IP address, Web browser software (such as Netscape Navigator or Internet Explorer), and referring Web site. We also may collect information about your online activity. Our aim behind collecting this automatic information is to help customize your user experience. 
 
-    * #### Cookies and Other Web Technologies 
+    * #### Cookies and Other Web Technologies
 
-When you visit our Site, we may assign your computer a cookie (a small, unique identifier text file). For example, whenever you sign in as a SmartFares registered user, we record your member ID and the name on your member account in the cookie file on your computer. We also may record your password in this cookie file, if you checked the box entitled Save this password for automatic sign-in. Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purpose only. You can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Also, if you refuse to accept cookies from SmartFares, you may not be able to access many of the travel tools offered by SmartFares. 
+Please see our [Cookie Policy](https://web.archive.org/pages/cookiepolicy.aspx). 
 
     * ####  Information Collected by Third-Party Advertising Companies 
 
@@ -58,7 +50,7 @@ SmartFares uses responsive billing information (such as cardholder’s name, cre
 
   3. ###  With whom we share your information? 
 
-SmartFares may share your information with the following entities: 
+SmartFares may share your information with the following entities:
 
     * Suppliers, such as hotel, airline, cruise, or car rental companies, or activity providers, who fulfill your travel reservations. Throughout SmartFares, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made through SmartFares, and we restrict their use of this information to that purpose. We do not place limitations on our suppliers' use or disclosure of your other personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through SmartFares. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your travel reservation. 
 
@@ -76,15 +68,15 @@ We also may share your information:
 
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Web site receives or what are the most popular vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
 
-  4. ### What are your choices with respect to the collection and use of your information? 
+  4. ### Your choices and rights with respect to your personal information 
 
     * You can provide us with the information necessary to provide you with the travel products and services requested according to the terms defined in this Privacy Policy and SmartFares' Terms of Use. 
 
     * You can choose not to provide us with any information, although it may be needed to make travel purchases or to take advantage of certain features offered on SmartFares. 
 
-    * You also can add or update information on the Member pages or close your account as you choose. 
+    * You can access, update, or delete personal Information you have provided to us by contacting us as described below. For your protection, we may need to verify your identity before fulfilling your request. 
 
-    * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from SmartFares, you will not be able to access portions of our site. 
+    * We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
 
   5. ### How we protect your information? 
 
