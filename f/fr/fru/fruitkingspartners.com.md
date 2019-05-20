@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fruitkingspartners.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116043958id_/http%3A//www.fruitkingspartners.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruitkingspartners.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520063407id_/http%3A//www.fruitkingspartners.com/privacy) for the most accurate reproduction.*
 
 # Fruitkings Partners - Gaming Revenue Program
 
-**Dazzletag Gibraltar Privacy and Cookie Policy**  
-Last Updated 14th June 2018  
+**Dazzletag Gibraltar Privacy Policy**  
+Last Updated 30th May 2018  
 Fruitkings Partners is owned and operated by Dazzletag Gibraltar Limited. 
 
 This is the privacy policy for Dazzletag Gibraltar Limited. It sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. It is important that you read this policy in full to understand what information we hold about you, how we may use it and what rights you have in relation to your data. 
@@ -47,7 +47,7 @@ Following registration, Dazzletag Gibraltar Ltd may also collect:
 
 Identification (KYC) documents are not stored directly by us. These are stored by third-parties who we have verified as having necessary PCI-DSS compliance to handle and store such sensitive information. 
 
-**3) How We Use Your Information**
+**How We Use Your Information**
 
 We use the information we collect to provide, maintain, protect and improve our services, to develop products and to protect Dazzletag Gibraltar Ltd and you. 
 
@@ -63,7 +63,7 @@ We process your personal data for the purposes of:
 
 Any commercial analysis performed is solely for our benefit and is not transmitted to any third party provided; however, we do reserve the right to transmit any personal data to third parties in a manner consistent with legal and regulatory requirements such as for e.g., fraud, anti-money laundering purposes. 
 
-**4) Who we share your data with:**
+**Who we share your data with:**
 
 Certain trusted third-party companies provide services essential to our ability to offer our gambling products to you; for example. those that supply the software for our website, payment services, one or more entities in our corporate group and identity verification (such as verification service providers). We may be required to share some of your information with these companies to be able to offer our services to you. In these instances, we ensure that the third party has appropriate security and privacy arrangements in place, so that your data is protected. 
 
@@ -75,7 +75,7 @@ In the event of the completed sale of our business, or other business event whic
 
 Our site may contain links to and from the websites of third party organisations. Please note that these websites may have their own privacy policies and that we do not accept any responsibility whatsoever for these policies. Please check these policies carefully before you submit any personal data via those websites. 
 
-**5) Our Lawful Basis for Processing Your Personal Data**
+**Our Lawful Basis for Processing Your Personal Data**
 
 We will process your personal data based on one or more of the following: 
 
@@ -90,13 +90,12 @@ We will process your personal data based on one or more of the following:
 \- Financial information (such abank account numbers) in connection with a transaction  
 \- Actions that are part and parcel to provision of services; such as account creation, account functionality, payment processing and customer services;  
 \- Regulatory and statutory requirements, such as, as above combating crime, plus specific know-your-customer (KYC) issues; such as location, device used, which might be needed to comply with the Gambling Commission's Licence Conditions and Codes of Practice; and, Transmission of customer data within our corporate group for the purposes of internal administration.  
-\- Where we rely on legitimate interests to process your personal data, you have a right under data protection legislation to object to that processing if you believe that your particular situation means that your rights and freedoms are unduly negatively impacted. You can exercise that right by contacting us at info@fruitkingspartners.com. Please note that we may be able to continue to process your personal data for our legitimate interest reasons, even if you object, where we can show compelling reason(s) for doing so.
-
-**6) Marketing, Opting In and Opting Out**
+\- Where we rely on legitimate interests to process your personal data, you have a right under data protection legislation to object to that processing if you believe that your particular situation means that your rights and freedoms are unduly negatively impacted. You can exercise that right by contacting us at info@fruitkingspartners.com. Please note that we may be able to continue to process your personal data for our legitimate interest reasons, even if you object, where we can show compelling reason(s) for doing so.  
+\- Marketing, Opting In and Opting Out
 
 Dazzletag Gibraltar Ltd reserves the right to process personal data for marketing purposes and in certain limited circumstances to provide this to our third-party partners, such as email service providers. We will only send you marketing material that is relevant to your Dazzletag Gibraltar Ltd account and the websites to which your affiliate account is related. This typically involves us sending you regular updates on our website offers and promotions via email that you may wish to promote on your website. We request your consent to market to you when you first create an account with us. Thereafter, you can choose not to receive marketing/promotional from us at any time by clicking the unsubscribe link from promotional material being received, by changing your preference settings on the “My Account/Details” page or by contacting us at info@fruitkingspartners.com. If you have opted out of marketing from us, we will take all reasonable steps to ensure you no longer receive promotional material from Dazzletag Gibraltar Limited. Mailings that have been scheduled before your opt-out may still reach you. 
 
-**7) Access to your Information and your Rights**
+**Access to your Information and your Rights**
 
 You have the following rights in relation to your personal information: 
 
@@ -118,15 +117,7 @@ You can help us to maintain the accuracy of your information by notifying us of 
 
 Should you require additional information about how to exercise your rights please write to info@fruitkingspartners.com. 
 
-**8) Cookie Policy**
-
-Cookies are text files containing a small amount of information that are downloaded to your device when you visit one of our websites. They are generally used by most websites to improve your online experience and to ensure that content and functions are delivered and used more effectively. Cookies perform various different functions. For example, some cookies are session cookies, which are downloaded to your device temporarily for the period that you browse a particular website; these cookies will allow you to navigate between pages more efficiently or enable the website to remember the offers you are eligible to receive. Other cookies are persistent cookies, which can be used to help website remember you as a returning visitor or ensure the online adverts you receive are more relevant to your specific needs and interests. The primary use of cookies on our brand websites, either directly by ourselves or our chosen partner(s), is to: enable you to save time and facilitate future access to the site; identify how people navigate through our website to improve our service, content and the effectiveness of our communications; performance monitoring of the website; collect and share device data to detect and prevent devices associated with fraud and money laundering; identify account and device irregularities and detect and prevent fraudulent transactions and abuse of our customer accounts and our services. 
-
-The cookies we use can be split into two categories; necessary and functional. 
-
-Necessary cookies are required for the operation of our website and provision of our services. These include tracking of your location, unique user ID and session ID. You can manage and/or remove cookies via your browser settings. However, as some cookies are essential for the operation of our websites and services, we may not be able to serve you our products unless you choose to accept at least the necessary cookies from us, this is because these are often required for regulatory and anti-fraud obligations. If you have any questions regarding our cookie policy please contact info@fruitkingspartners.com. 
-
-**9) Storage Security and Retention of Personal Data**
+**Storage Security and Retention of Personal Data**
 
 The data we collect from you may be transferred to, and stored at, destinations outside the European Economic Area (“EEA”) including South Africa and the United States of America. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. These countries may not have equivalent data protection legislation to Europe. However, when we transfer your personal data in this way we will ensure that adequate measures are in place to keep your personal data secure, including via standard contractual clauses. 
 
@@ -136,6 +127,6 @@ We are required to keep full records of all financial and wagering transactions 
 
 We will hold your personal data for so long as you have your account with us, we are providing services to you and for up to six years following the end of the services. We provide to you or your last contact with us. We will delete any personal data sooner where it is no longer necessary for the purposes for which it was collected, but please be aware that this retention period may also be extended if any applicable statutory or regulatory obligation requires us to hold information for a longer period or if there is an active dispute or the possibility of an active dispute between us that extends past the normal retention period. 
 
-**10) Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
 We may occasionally update this privacy policy. When we do, we will take reasonable steps to make you aware of any changes to it. We would further recommend that you revisit this page regularly to keep informed of our current privacy practices 
