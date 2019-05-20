@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115842id_/https%3A//lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovevoodoo.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520191450id_/https%3A//lovevoodoo.com/Public/LV_privacy.asp) for the most accurate reproduction.*
 
 # LoveVoodoo.com Privacy Statement
 
