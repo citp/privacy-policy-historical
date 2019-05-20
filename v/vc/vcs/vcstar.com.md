@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcstar.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626125636id_/http%3A//static.vcstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcstar.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520080326id_/https%3A//cm.vcstar.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Ventura County Star
+# static.vcstar.com
 
 Last Updated: May 14, 2018
 
