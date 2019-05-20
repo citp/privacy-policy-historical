@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualcollective.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529033256id_/http%3A//old.casualcollective.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualcollective.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520213316id_/http%3A//old.casualcollective.com/help/privacypolicy) for the most accurate reproduction.*
 
 # The Casual Collective - Social Gaming & Casual Networking
 
