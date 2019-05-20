@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2018-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180713140610id_/https%3A//us.romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520144716id_/https%3A//us.romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
 
-# 
+# Privacy & Cookie Statement | ROMWE
 
 PRIVACY STATEMENT
 
