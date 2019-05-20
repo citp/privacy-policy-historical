@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bia2music.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107065303id_/https%3A//www.bia2.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bia2music.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520104350id_/https%3A//www.bia2.com/about/privacy.php) for the most accurate reproduction.*
 
 # Bia2.com
 
