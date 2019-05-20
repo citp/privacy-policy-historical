@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackblitz.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625153712id_/https%3A//stackblitz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackblitz.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520131545id_/https%3A//stackblitz.com/privacy-policy) for the most accurate reproduction.*
 
 # StackBlitz
 
@@ -60,7 +60,7 @@ You may update or correct your personal profile information and email preference
 
 StackBlitz uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to StackBlitz and stackblitz.com and you do so at your own risk. Once we receive your transmission of information, StackBlitz makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If StackBlitz learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. StackBlitz may post a notice on stackblitz.com if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@stackblitz.com](mailto:support@stackblitz.com).
+If StackBlitz learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. StackBlitz may post a notice on stackblitz.com if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [hello@stackblitz.com](mailto:hello@stackblitz.com).
 
 ## 8\. Changes and updates to this Privacy Policy
 
@@ -70,6 +70,6 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ## 9\. How to Contact Us
 
-If you have any questions about this Privacy Policy or stackblitz.com, please contact us at [support@stackblitz.com](mailto:support@stackblitz.com) or 2443 Fillmore St #380-7122, San Fransisco, CA 94115.
+If you have any questions about this Privacy Policy or stackblitz.com, please contact us at [hello@stackblitz.com](mailto:hello@stackblitz.com) or 2443 Fillmore St #380-7122, San Fransisco, CA 94115.
 
 Effective Date: July 20, 2017
