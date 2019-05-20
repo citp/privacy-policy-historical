@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115172705id_/https%3A//myinstantlist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521010744id_/https%3A//myinstantlist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-myinstantlist.com Privacy Policy  
+myinstantlist.com  
+Privacy Policy  
 
 
   
