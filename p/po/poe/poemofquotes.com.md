@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110504id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520174009id_/https%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy to PoemofQuotes.com
 
@@ -7,8 +7,6 @@ This policy is updated for GDPR.
 This website does not collect any personal information from users, except for IP addresses and tracking cookies.  We do not collect any email addresses, names, passwords, or other information. We use tracking cookies in order to maintain session information.  IP addresses are only stored in order to defend against DoS attacks.
 
 We have advertising and analytics partners that may track you via cookies and IP addresses.  We use Google Analytics with anonymized IP addresses, so that your individual information is not tracked.  Our advertisers may use cookies and other tracking methods. 
-
-Need help with a poetry or literature essay? [Get a professionally written paper with citations by tomorrow for $15.](http://track.fiverr.com/visit/?bta=19062&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fkirk007%2Fresearch-on-any-topic-in-english-and-literature)
 
 Our advertisers may show a popup confirming the use of cookies when you arrive at the website. If you don't accept that, you are required to leave the site.
 
@@ -24,4 +22,4 @@ Any changes to this Privacy Policy will be posted on this page so that you are a
 
 If you have any concerns or questions about any aspect of this policy, you may legal@westbourneinterational.com
 
-_Last update: Thu, 01/25/2018 - 06:09_
+_Last update: 2/25/2019 - 06:09_
