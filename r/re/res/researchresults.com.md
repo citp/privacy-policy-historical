@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchresults.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117232718id_/http%3A//researchresults.com/privacy-act-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchresults.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520124334id_/http%3A//researchresults.com/privacy-act-statement) for the most accurate reproduction.*
 
 # Privacy Act Statement - Research Results
 
@@ -42,7 +42,7 @@ Research Results Inc. uses Operating Information solely in the conduct of its re
 
 #### How We Share Information
 
-Personal Information regarding Panel Members will never be shared with any third parties without your express permission, except that we may disclose your information if we believe we are required to do so by law, if we need to do so to protect someone’s safety or our rights or property, or in order to comply with this policy or other policies that may be applicable. In addition, occasionally Research Results Inc. will share contact information, such as name and address, with third parties with whom we have partnered to provide specific services to Research Results Inc., or services on behalf of Research Results Inc., such as panel recruitment, contest entry processing or delivery of free gifts to Research Results Inc. Panel Members. These partners have agreed not to share or resell this data and they are contractually obligates not to use any personally identifiable information except for the purpose of providing these services, unless you enter into a relationship with them that would directly allow them to do so.
+Personal Information regarding Panel Members will never be shared with any third parties without your express permission, except that we may disclose your information if we believe we are required to do so by law, if we need to do so to protect someone’s safety or our rights or property, or in order to comply with this policy or other policies that may be applicable. In addition, occasionally Research Results Inc. will share contact information, such as name and address, with third parties with whom we have partnered to provide specific services to Research Results Inc., or services on behalf of Research Results Inc., such as panel recruitment, contest entry processing or delivery of free gifts to Research Results Inc. Panel Members. These partners have agreed not to share or resell this data and they are contractually obligated not to use any personally identifiable information except for the purpose of providing these services unless you enter into a relationship with them that would directly allow them to do so.
 
 Research Results Inc. collects and shares Demographic Information and Operating Information with its research clients in an anonymous form. Our research clients will never receive Personal Information or Panel Members, nor will they be able to identify Panel Members, without your express permission.
 
@@ -50,13 +50,13 @@ Research Results Inc. collects and shares Demographic Information and Operating 
 Your Personal Information, Demographic Information, and Operating Information will generally be stored in our Research Results Inc. databases, which are located in the United States. For easier processing of e-mail communications, contests, sweepstakes, or other marketing purposes, however, your Personal Information, Demographic Information, or Operating Information may be sent, usually on a temporary basis, to trusted partner companies. Research Results Inc. data protection standards are the same, regardless of where your information is stored.
 
 **Children’s Privacy**  
-Research Results Inc. believes that it’s especially important to protects children’s privacy online. We comply with all applicable national and international children’s privacy regulations.
+Research Results Inc. believes that it’s especially important to protect children’s privacy online. We comply with all applicable national and international children’s privacy regulations.
 
 Specifically, Research Results Inc. complies with the Children’s Online Privacy Act of 1998. We do not permit children under the age of 13 to become panel members. We do not collect any Personal Information from children under 13 years of age.
 
 If a panel member has provided us with Personal Information about a child in the panel member’s household who is under the age of 13, a parent or guardian of that child may contact us at the email address or mailing address listed at the bottom of this Privacy Statement if he or she would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our databases.
 
-If you would like to contact us about your child’s Personal Information, or find out how you can have your child’s Personal Information removed from our databases, please see the “Access To Your Information and Complaints” section later in this document.
+If you would like to contact us about your child’s Personal Information or find out how you can have your child’s Personal Information removed from our databases, please see the “Access To Your Information and Complaints” section later in this document.
 
 **Data Security and Responsibility**  
 Research Results Inc. is committed to keeping the data you provide us secure and will take reasonable precautions to protect your Personal Information from loss, misuse or alteration. Vendors, contractors, or partners of Research Results Inc. who have access to your Personal Information in Connection with providing service for Research Results Inc. are contractually required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Research Results Inc.
@@ -75,7 +75,7 @@ Prevent further use of your Personal or Demographic Information by emailing your
 Research Results Inc. is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by emailing us at: info@researchresults.com, with “privacy” in the subject line or send us a letter to:  
 Privacy Compliance Coordinator  
 Research Results Inc.  
-805 Main Street  
+915 South Street  
 Fitchburg, MA 01420
 
 **Opting Out**  
@@ -88,11 +88,11 @@ Research Results Inc. is not responsible for the privacy practices or the conten
 
 You may contact us at:  
 Research Results Inc.  
-805 Main Street  
+915 South Street  
 Fitchburg, MA 01420  
 978-345-5510  
 info@researchresults.com, (with “privacy” in the subject line)
 
 ### Your Acceptance of Our Privacy Practices
 
-By agreeing to become a Research Results Inc. panel member or participating in a Research Results Inc.’s service or program, you signify your acceptance of the terms and conditions of this Privacy Statement. Research Results Inc. may make changes to this Privacy Statement from time to time. We will post changes to our Privacy Statement on the Research Results Inc Panel Member Web Site. In addition we will alert you to significant changes to this Privacy Statement by providing you with written, electronic, or other notice from Research Results Inc.
+By agreeing to become a Research Results Inc. panel member or participating in a Research Results Inc.’s service or program, you signify your acceptance of the terms and conditions of this Privacy Statement. Research Results Inc. may make changes to this Privacy Statement from time to time. We will post changes to our Privacy Statement on the Research Results Inc Panel Member Web Site. In addition, we will alert you to significant changes to this Privacy Statement by providing you with written, electronic, or other notice from Research Results Inc.
