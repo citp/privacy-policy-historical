@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919152329id_/https%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520194343id_/https%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Complaints Board - Consumer Complaints, Reviews, Information
+# Complaints Board - Privacy Policy
 
 Your privacy is important to us, so ComplaintsBoard.com (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
+
+  
+
+
+### Protecting Your Privacy
 
 During the registration on the Site, we collect "Personally Identifiable Information", such as your name, postal address, telephone number, e-mail address, or other information that can be used to identify you or contact you. 
 
@@ -14,13 +19,28 @@ During the registration on the Site, we collect "Personally Identifiable Informa
 
 ComplaintsBoard.com, or people that submit posts on ComplaintsBoard.com, may provide links to third party web sites, which may have different privacy practices than ComplaintsBoard.com. We are not responsible for, nor have any control over, the privacy policies on these third party web sites. We encourage all users to read the privacy policies of every web site you visit. 
 
+  
+
+
+### Registration
+
 Registration is required to submit a post through our service or to use other types of functionality that require the service to recognize a user (e.g., personally contacting the site users by sending a message). If you decide to register or sign up for certain services, you will need to give us certain Personally Identifiable Information, such as a valid e-mail address, postal address, telephone number. This Personally Identifiable Information will be used to personalize and improve your experience of our service. This information will not be disclosed to any third-party without your explicit consent. 
 
 Registered users may choose to receive the notifications or receive other mailings from us regarding our service or the Site. You may opt-out of receiving future mailings as part of the registration process. 
 
 You can review and change your Personally Identifiable Information at any time on the My Profile in the My Account section. 
 
+  
+
+
+### Cookies
+
 Like many web sites, ComplaintsBoard.com uses a standard technology called "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use ComplaintsBoard.com. Cookies also help us understand how our users use the Site, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
+
+  
+
+
+### Data We Collect
 
 In addition to Personally Identifiable Information you provide at registration or by using the service, we collect the following information: 
 
@@ -28,7 +48,10 @@ In addition to Personally Identifiable Information you provide at registration o
   * Correspondence. Correspondence between you and the other party initiated through our site, and correspondence to us.
   * "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Site that you visit. This information is used to help us diagnose problems, administer the site and otherwise improve our service to you. 
 
+  
 
+
+### Data We Store
 
 The following information is stored in our database, even after deletion, and may be archived: 
 
@@ -40,6 +63,18 @@ The following information is stored in our database, even after deletion, and ma
 
 Although we make good faith efforts to store information in a secure environment that is not made available to the public, we cannot guarantee complete safety. 
 
+  
+
+
+### NAI opt-out
+
+The [NAI opt-out page](http://optout.networkadvertising.org/?c=1) is provided as a convenience to the public, but the opt-out cookie is set by participating NAI members, who are solely responsible for setting opt-out cookies and honoring your requests. Because no technology is perfect, neither NAI nor its members warrant that the opt-out tool will be error-free or always work as intended. As a condition of offering this page, NAI expressly disclaims any and all liability whatsoever and however caused arising out of or relating to your use of this page or the actions or inactions of NAI members.
+
+  
+
+
+### Use
+
 We may use the information you disclosed to us to: 
 
   * Provide our services to you.
@@ -48,7 +83,10 @@ We may use the information you disclosed to us to:
   * Enforce our Terms of Use.
   * Automatically scan messages to check for spam, fraud, phishing attacks and other malicious activity or illegal or prohibited content.
 
+  
 
+
+### Disclosure
 
 ComplaintsBoard.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to: 
 
@@ -60,3 +98,6 @@ ComplaintsBoard.com may disclose information about its users if required to do s
 
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
+
+  
+
