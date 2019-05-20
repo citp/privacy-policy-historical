@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824145155id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axon.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520101410id_/https%3A//www.axon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Many companies offer programs that help you to visit web sites anonymously. Whil
 
 ### (C) Email Communications
 
-Axon may receive a confirmation when you open an e-mail from Axon if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. Axon may also send out emails with information regarding Axon including promotions and events. Customers may opt out of receiving such emails by selecting the “unsubscribe” link in the Axon email or by visiting Axon’s unsubscribe webpage.
+Axon may receive a confirmation when you open an e-mail from Axon if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. Axon may also send out emails with information regarding Axon including promotions and events. Customers may opt out of receiving such emails by selecting the “unsubscribe” link in the Axon email.
 
 ## Information From Other Sources
 
@@ -85,7 +85,7 @@ Axon employs other companies and people to perform tasks on our behalf and may n
 
 ### (C) Promotional Offers
 
-Axon may send offers to certain customers on behalf of other businesses with whom Axon has a partnership. However, when Axon does so, Axon does not give the other business your name and address. If you are a user of the Axon Enterprise websites and do not wish to receive these offers, please [request to unsubscribe](https://web.archive.org/info/unsubscribe).
+Axon may send offers to certain customers on behalf of other businesses with whom Axon has a partnership. However, when Axon does so, Axon does not give the other business your name and address. If you are a user of the Axon Enterprise websites and do not wish to receive these offers, please request to unsubscribe.
 
 ### (D) With Your Consent
 
