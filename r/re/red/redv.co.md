@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redv.co privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018014441id_/https%3A//redv.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redv.co privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520194714id_/https%3A//redv.co/privacy) for the most accurate reproduction.*
 
 # Privacy | Reddit Video Downloader — Download v.redd.it Videos Online
 
