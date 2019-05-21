@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the josephprinceonline.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821144150id_/https%3A//www.josephprince.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josephprinceonline.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521190103id_/https%3A//www.josephprince.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Joseph Prince Resources
+# Privacy Policy | JosephPrince.com
 
 At JosephPrince.com, your privacy is of utmost importance to us and we take every measure to ensure that the data provided by you is kept secure and not misused. We will not use your personal information for any purpose other than that which it was given for.
 
@@ -12,19 +12,19 @@ When dealing with your personal information, JosephPrince.com adheres to all obl
 
 When you register for an account on JosephPrince.com, you will be required to provide us with your email address. The email address you provide will only be used to send you information about your orders, or to contact you about any important matters regarding your account. Please note that the password you will need to create to login will be securely stored and is accessible to no one but yourself.
 
-Should you choose to opt-in to our email newsletters during your registration, your email address will be added to the respective mailing lists you have selected. You can opt-out from these mailing lists at any time. For more information on our privacy policy regarding emails, [click here.](https://www.josephprince.com/privacy#pp-emails).
+Should you choose to opt-in to our email newsletters during your registration, your email address will be added to the respective mailing lists you have selected. You can opt-out from these mailing lists at any time. For more information on our privacy policy regarding emails, click here..
 
 ### Shopping on JosephPrince.com
 
 When you place an online order, you will be required to provide the following information: your name, email address, delivery address, billing address, contact number and any special delivery instructions. We may share selected information with our agents, sub-contractors (e.g. shipping company) and/or third parties (e.g. PayPal, the payment gateway that you make payments through) for the sole purpose of fulfilling your order.
 
-Please note that JosephPrince.com does not collect or receive your payment card details. This information is only received by PayPal, our payment gateway. For more details on PayPal’s privacy policy, [click here](https://www.paypal.com/webapps/mpp/ua/privacy-full).
+Please note that JosephPrince.com does not collect or receive your payment card details. This information is only received by PayPal, our payment gateway. For more details on PayPal’s privacy policy, click here.
 
 ### Emails from JosephPrince.com
 
 JosephPrince.com has found that attractive, graphics-rich emails are a quick and effective way to communicate with our registered users and subscribers about new resources, and clearance and sale items. We maintain an opt-in, user-customizable subscription database of users who have requested to receive these emails. Every email you receive provides an option for you to unsubscribe from such emails if you so wish to.
 
-### When You Fill Out a Form or Send Us an Email 
+### When You Fill Out a Form or Send Us an Email
 
 If you choose to provide us with personal information by sending an email to JosephPrince.com, or by filling out a form with your personal information and submitting it through the web site, we may use the information to respond to your message and to help us provide you with the information that you have requested.
 
@@ -50,7 +50,7 @@ In cases where we have obtained your permission to disclose your personal inform
 
 ## Accessing, Updating and Withdrawing Your Information
 
-In accordance to the applicable laws of the Singapore government, JosephPrince.com will provide you with access to update or amend the personal information stored with us. In the event that you may wish to request access to, update, amend, or withdraw your personal information, you may contact our Data Protection Officer using the details in the Contact Us section of this policy. 
+In accordance to the applicable laws of the Singapore government, JosephPrince.com will provide you with access to update or amend the personal information stored with us. In the event that you may wish to request access to, update, amend, or withdraw your personal information, you may contact our Data Protection Officer using the details in the Contact Us section of this policy.
 
 Please note that for security reasons, JosephPrince.com, in accordance with this section, will take steps to authenticate the identity of the requesting party before providing access to the personal information requested.
 
