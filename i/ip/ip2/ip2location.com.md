@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103061657id_/https%3A//www.ip2location.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip2location.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521164152id_/https%3A//www.ip2location.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IP2Location
+# Privacy Policy
 
 Effective on: May 25, 2018
-
-#### Introduction and Scope
 
 Hexasoft Development Sdn. Bhd. (“Hexasoft” “we,” “us,” “our”) takes the protection of your personally identifiable information (“Personal Data”) very seriously. This privacy policy (the “Notice”) addresses data subjects whose Personal Data we may process in our IP2Location application (the “App”) or in our IP2Location database (the “Database”) or in our IP geolocation solution located at [https://www.ip2location.com](https://www.ip2location.com/) and accompanying API (collectively, with the App and the Database, the “Service”). This Notice also explains our privacy practices in connection with Personal Data we may collect about you when you access our IP2location website located at [https://www.ip2location.com](https://www.ip2location.com/)(the “Website”). 
 
@@ -125,17 +123,9 @@ VeraSafe has been appointed as Hexasoft's representative in the European Union f
 
 Alternatively, VeraSafe can be contacted at: 
 
-Matthew Joseph  
-Zahradníčkova 1220/20A  
-Prague 15000  
-Czech Republic 
-
-VeraSafe Ireland Ltd  
-Unit 3D  
-North Point House  
-North Point Business Park  
-New Mallow Road  
-Cork T23AT2P  
-Ireland 
+VeraSafe Czech Republic s.r.o  
+Klimentská 46  
+Prague 1, 11002  
+Czech Republic
 
 If you are a resident of the European Union, you may have the right to lodge a complaint with a data protection regulator in one or more of the EU member states. 
