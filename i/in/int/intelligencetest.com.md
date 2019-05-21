@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencetest.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521094237id_/https%3A//www.intelligencetest.com/privacy.html) for the most accurate reproduction.*
 
 # IQ Test Labs - Privacy policy
 
@@ -31,7 +31,7 @@ User data is stored for the standardization and validity of test scores.
 
 Contact form
 
-The [contact form](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html) requires users to provide the following contact information: name and email address.
+The [contact form](https://web.archive.org/web/20190521094237id_/https%3A//www.intelligencetest.com/cntct.html) requires users to provide the following contact information: name and email address.
 
 The function of the contact form is to:
 
@@ -89,7 +89,7 @@ Each newsletter communication provides instructions on how to opt-out.
 
   * __
 
-Via the[contact form](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html).
+Via the[contact form](https://web.archive.org/web/20190521094237id_/https%3A//www.intelligencetest.com/cntct.html).
 
 
 
@@ -116,14 +116,30 @@ Google's use of advertising cookies enables it and its partners to serve ads to 
 
 Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads).
 
-Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [aboutads.info](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/www.aboutads.info).
+Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [aboutads.info](https://web.archive.org/web/20190521094237id_/https%3A//www.intelligencetest.com/www.aboutads.info).
 
 Google will show all users in the EEA only non-personalized ads. Non-personalized ads are targeted using contextual information rather than the past behavior of a user. Although these ads don’t use cookies for ads personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse.
 
 * * *
 
+Third party cookies
+
+Most browsers allow you to opt out of third party cookies, while leaving IntelligenceTestlcom cookies on.
+
+Third party cookies are issued by major sites and advertising networks. 
+
+Here is information on how to turn off third party cookies for some browsers.
+
+Change cookie settings for [Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en).
+
+Change cookie settings for [Firefox](http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies).
+
+Change cookie settings for [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
+
+* * *
+
 Correct/Update
 
-This site gives users the option to [update, correct, or delete](https://web.archive.org/web/20181101054244id_/https%3A//www.intelligencetest.com/cntct.html) information previously provided.
+This site gives users the option to [update, correct, or delete](https://web.archive.org/web/20190521094237id_/https%3A//www.intelligencetest.com/cntct.html) information previously provided.
 
 * * *
