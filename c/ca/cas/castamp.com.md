@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119005343id_/http%3A//castamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521102410id_/http%3A//castamp.com/privacy) for the most accurate reproduction.*
 
 # CastAMP
 
