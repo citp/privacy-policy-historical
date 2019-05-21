@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchuseek.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107095126id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dwatchuseek.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchuseek.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521133321id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dwatchuseek.com) for the most accurate reproduction.*
 
 # 
 
