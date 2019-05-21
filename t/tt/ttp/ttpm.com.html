@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ttpm.com privacy policy that was archived on 2018-10-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181021041345id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ttpm.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521021549id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
 <title>Privacy Policy | TTPM.com</title>
@@ -73,16 +73,17 @@
 </script>
 </head>
 <body>
+
 <div id="fb-root"></div>
 
 <script>
   window.fbAsyncInit = function() {
   FB.init({
     appId      : '197148034249',
-    cookie     : true,  // enable cookies to allow the server to access 
+    cookie     : true,  // enable cookies to allow the server to access 197148034249
                         // the session
     xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.0' // use version 2.2
+    version    : 'v2.2' // use version 2.2
   });
 };
   // Now that we've initialized the JavaScript SDK, we call 
@@ -114,7 +115,7 @@
             },
           });
           $.ajax({
-            url:"/account/signin/?return=http%3A%2F%2F%2Flegal%2Fprivacy-policy%2F",
+            url:"/account/signin/?return=https%3A%2F%2F%2Flegal%2Fprivacy-policy%2F",
             type: 'post',
             data:{'facebook': true, 'SignIn': true, 'username': email, 'fbid': fbid},
             success: function(){  
@@ -126,8 +127,10 @@
           });
         });
       } else if (response.status === 'not_authorized') {
+        console.log("not authorized");
         // The person is logged into Facebook, but not your app.
       } else {
+        console.log("third conditional");
         // The person is not logged into Facebook, so we're not sure if
         // they are logged into this app or not.
       }
@@ -155,6 +158,7 @@
   // successful.  See statusChangeCallback() for when this call is made.
 </script>
 
+
 <nav class="navbar navbar-default navbar-fixed-top">
 <div class="container-fluid nav-container">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navitems" aria-expanded="false" aria-controls="navbar">
@@ -167,10 +171,9 @@
 <a class="navbar-brand" href="https://ttpm.com/"><img style="height:50px;" src="https://ttpm.com/s3-img/global/header/nav/ttpm_flatlogo_tag.png" alt="TTPM" class="ttp_home_logo" id="timetoplay_logo"></a>
 </div>
 <div class="login-container nav navbar-nav navbar-right">
-<a href="https://ttpm.com/account/signin/" class="sign-in" data-toggle="popover" data-placement="bottom" data-content="" id="login">LOG IN</a>
+<a href="https://ttpm.com/account/signin/" class="sign-in" data-toggle="popover" data-placement="bottom" data-content="" id="login" title="Log In">LOG IN</a>
 <div id="login_content" class="logged_out">
-<a href="#" onclick="fb_login();"><img src="https://ttpm.com/s3-img/global/header/nav/login_fb.png" border="0" alt=""></a>
-<div class="login-or-thingy"><div class="sideline"></div><div class="or">OR</div><div class="sideline"></div></div>
+
 <form name="login" method="post" action="https://ttpm.com/account/signin/?return=https%3A%2F%2Fttpm.com%2Flegal%2Fprivacy-policy%2F">
 <ul class="sign_in_form">
 <li class="username">
@@ -185,10 +188,10 @@
 </ul>
 </form>
 <p class="create_account">Don’t have an account?<br>
-<a href="https://ttpm.com/account/register/">Create one here.</a>
+<a href="https://ttpm.com/account/register/" title="Create Account">Create one here.</a>
 </p>
 <p class="forgot_password">Forgot your password?<br>
-<a href="https://ttpm.com/account/password/forgot/">Reset it here.</a>
+<a href="https://ttpm.com/account/password/forgot/" title="Reset Password">Reset it here.</a>
 </p>
 </div>
 <script>
@@ -207,17 +210,15 @@
 
 <div id="navitems" class="navbar-collapse collapse nav-list">
 <ul class="desktop-nav nav navbar-nav">
-<li class="nav-item toy" id="nav_toys"><a href="https://ttpm.com/toys/" class="" data-target="#toyCollapse" data-toggle="collapse" role="button" aria-expanded="false">TOYS</a>
-</li><li class="nav-item baby" id="nav_baby"><a href="https://ttpm.com/baby/" class="" data-target="#babyCollapse" data-toggle="collapse" role="button" aria-expanded="false">BABY</a></li>
-<li class="nav-item pet" id="nav_pets"><a href="https://ttpm.com/pets/" class="" data-target="#petCollapse" data-toggle="collapse" role="button" aria-expanded="false">PETS</a></li>
-<li class="nav-item giveaways" id="nav_giveaways"><a href="https://ttpm.com/giveaway/" class="" data-target="#giveawaysCollapse" data-toggle="collapse" role="button" aria-expanded="false">GIVEAWAYS</a></li>
-<li class="nav-item videoreviews" id="nav_videos"><a href="https://ttpm.com/video/" class="" data-target="#videoCollapse" data-toggle="collapse" role="button" aria-expanded="false">VIDEOS</a></li>
-<li class="nav-item blog" id="nav_blog"><a href="https://ttpm.com/playforum/" class="" data-target="#blogCollapse" data-toggle="collapse" role="button" aria-expanded="false">BLOG</a></li>
-<li class="nav-item blog last" id="nav_blog"><a href="https://ttpm.com/mostwanted/" style="color: #d7272d !important;" class="" data-target="#blogCollapse" data-toggle="collapse" role="button" aria-expanded="false">MOST WANTED</a></li>
+<li class="nav-item toy" id="nav_toys"><a href="https://ttpm.com/toys/" class="nav-link" data-target="#toyCollapse" data-toggle="collapse" role="button" aria-expanded="false">TOYS</a>
+</li><li class="nav-item baby" id="nav_baby"><a href="https://ttpm.com/baby/" class="nav-link" data-target="#babyCollapse" data-toggle="collapse" role="button" aria-expanded="false">BABY</a></li>
+<li class="nav-item pet" id="nav_pets"><a href="https://ttpm.com/pets/" class="nav-link" data-target="#petCollapse" data-toggle="collapse" role="button" aria-expanded="false">PETS</a></li>
+<li class="nav-item giveaways" id="nav_giveaways"><a href="https://ttpm.com/giveaway/" class="nav-link" data-target="#giveawaysCollapse" data-toggle="collapse" role="button" aria-expanded="false">GIVEAWAYS</a></li>
+<li class="nav-item videoreviews" id="nav_videos"><a href="https://ttpm.com/video/" class="nav-link" data-target="#videoCollapse" data-toggle="collapse" role="button" aria-expanded="false">VIDEOS</a></li>
+<li class="nav-item blog last" id="nav_blog"><a href="https://ttpm.com/mostwanted/" style="color: #d7272d !important;" class="nav-link" data-target="#blogCollapse" data-toggle="collapse" role="button" aria-expanded="false">MOST WANTED</a></li>
 </ul>
 
 <ul class="mobile-nav nav navbar-nav">
-
 
 
 
@@ -322,11 +323,7 @@ VIDEOS
 
 </ul>
 </li>
-<li class="nav-item mobile blog last" id="nav_blog">
-<a href="https://ttpm.com/playforum/">
-BLOG
-</a>
-</li>
+
 <li class="nav-item mobile blog last" id="nav_blog">
 <a href="https://ttpm.com/mostwanted/">
 MOST WANTED
@@ -506,7 +503,7 @@ FirstLookToys
 </li>
 <li class="video-nav">
 <a href="https://ttpm.com/video/abc-kids-expo/">
-ABC Kids Expo
+ ABC Kids Expo
 </a>
 </li>
 
@@ -714,7 +711,6 @@ $(window).scroll(function(e) {
 <h3>Do we use cookies?</h3>
 <p>Yes. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
 <h3>Do we disclose any information to outside parties?</h3>
-
 <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
 <h3>California Online Privacy Protection Act Compliance</h3>
 <p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their profile and going to the “Edit Profile” page.</p>
@@ -741,9 +737,9 @@ $(window).scroll(function(e) {
 <div class="footer_links">
 <h3>REVIEWS</h3>
 <ul class="links">
-<li><a href="https://ttpm.com/toys/">Toy Reviews</a></li>
-<li><a href="https://ttpm.com/baby/">Baby Product Reviews</a></li>
-<li><a href="https://ttpm.com/pets/">Pet Product Reviews</a></li>
+<li><a href="https://ttpm.com/toys/" title="Toy Reviews">Toy Reviews</a></li>
+<li><a href="https://ttpm.com/baby/" title="Baby Product Reviews">Baby Product Reviews</a></li>
+<li><a href="https://ttpm.com/pets/" title="Pet Product Reviews">Pet Product Reviews</a></li>
 
 
 
@@ -753,45 +749,43 @@ $(window).scroll(function(e) {
 <div class="footer_links">
 <h3>General Information</h3>
 <ul class="links">
-<li><a href="https://ttpm.com/about/">About</a></li>
-<li><a href="https://ttpm.com/about/#contact">Contact</a></li>
-<li><a href="https://ttpm.com/newsroom/">Newsroom</a></li>
-<li><a href="https://ttpm.com/legal/privacy-policy/">Privacy Policy</a></li>
-<li><a href="https://ttpm.com/legal/terms-of-use/">Terms of Use</a></li>
-<li><a href="https://ttpm.com/safety/">Toy Safety Tips</a></li>
+<li><a href="https://ttpm.com/about/" title="About Us">About</a></li>
+<li><a href="https://ttpm.com/about/#contact" title="Contact Information">Contact</a></li>
+<li><a href="https://ttpm.com/newsroom/" title="Newsroom">Newsroom</a></li>
+<li><a href="https://ttpm.com/legal/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="https://ttpm.com/legal/terms-of-use/" title="Terms of Use">Terms of Use</a></li>
+<li><a href="https://ttpm.com/safety/" title="Toy Safety Tips">Toy Safety Tips</a></li>
 </ul>
 </div>
 <div class="footer_links">
 <h3>Giveaways</h3>
 <ul class="links">
-<li><a href="https://ttpm.com/giveaway/daily/">Daily Giveaway</a></li>
-<li><a href="https://ttpm.com/baby/giveaway/">Baby Gear Giveaway</a></li>
-<li><a href="https://ttpm.com/pets/giveaway/">Pet Product Giveaway</a></li>
-<li><a href="https://ttpm.com/playdate/">The Playdate</a></li>
-<li><a href="https://ttpm.com/ttpmlive/">#TTPMlive</a></li>
+<li><a href="https://ttpm.com/giveaway/daily/" title="Daily Giveaway">Daily Giveaway</a></li>
+<li><a href="https://ttpm.com/baby/giveaway/" title="Baby Gear Giveaway">Baby Gear Giveaway</a></li>
+<li><a href="https://ttpm.com/pets/giveaway/" title="Pet Product Giveaway">Pet Product Giveaway</a></li>
+<li><a href="https://ttpm.com/playdate/" title="The Playdate">The Playdate</a></li>
+<li><a href="https://ttpm.com/ttpmlive/" title="TTPM Live Twitter Game">#TTPMlive</a></li>
 
 </ul>
 </div>
 <div class="footer_links">
 <h3>Blogs</h3>
 <ul class="links">
-<li><a href="https://ttpm.com/playforum/">The PlayForum</a></li>
+<li><a href="https://ttpm.com/playforum/" title="The PlayForum">The PlayForum</a></li>
 </ul>
 </div>
 <div class="footer_links">
 <h3>Find Us</h3>
 <div class="social-container">
-<a href="https://www.facebook.com/TTPMOfficial" target="_blank" rel="noopener"><div class="social-sprite fb"></div></a>
-<a href="https://plus.google.com/+ttpm" target="_blank" rel="noopener"><div class="social-sprite gg"></div></a>
+<a href="https://www.facebook.com/TTPMOfficial" target="_blank" rel="noopener" title="TTPM Official Facebook"><div class="social-sprite fb"></div></a>
 <a href="https://www.instagram.com/TTPMOfficial" target="_blank" rel="noopener"><div class="social-sprite in"></div></a>
-<a href="https://www.pinterest.com/ttpmofficial/" target="_blank" rel="noopener"><div class="social-sprite pin"></div></a>
 <a href="https://www.twitter.com/ttpm" target="_blank" rel="noopener"><div class="social-sprite tw"></div></a>
 <a href="https://www.youtube.com/c/ttpm" target="_blank" rel="noopener"><div class="social-sprite yt"></div></a>
 </div>
 </div>
 </div>
 <div class="section" id="copyright">
-<p>© TTPM <sup>®</sup> 2008 – 2018</p>
+<p>© TTPM <sup>®</sup> 2008 – 2019</p>
 </div>
 </div>
 </div>
