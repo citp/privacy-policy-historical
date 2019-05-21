@@ -1,51 +1,135 @@
-> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219233348id_/http%3A//www.lsac.org/aboutlsac/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521150512id_/https%3A//www.lsac.org/about/lsac-policies/privacy-policy) for the most accurate reproduction.*
 
-# LSAC.org's PRIVACY POLICY
+# Privacy Policy | The Law School Admission Council
 
-We are committed to providing you the best possible online service and experience, and your privacy on the Internet is important to us. As part of the operation of LSAC.org, certain types of information are gathered about LSAC.org users, and we would like to explain the types of information we gather, and what we do with it. 
+Last updated: September 11, 2018
 
-Information Collected at LSAC.org
+This Privacy Policy explains how the Law School Admissions Council, Inc. (“LSAC,” “we” or “us”), a registered not-for-profit organization, collects, uses, discloses and otherwise processes information when you use our website ([www.LSAC.org](http://www.lsac.org/)), take the LSAT, apply for law school, submit a recommendation about a candidate, or otherwise interact with us (collectively, the “services”).  
 
-Two types of personally identifying information are collected from LSAC.org users: personal data that users supply to us voluntarily (such as names and e-mail addresses), and aggregated data (such as information about LSAC.org traffic patterns). 
+LSAC reserves the right to change this Privacy Policy at any time. If we decide to change our Privacy Policy, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage, or sending you a notification). We encourage you to review this Privacy Policy whenever you access our website to stay informed about our information practices and the choices available to you.
 
-Personal Data
+## How We Collect Your Information
 
-Personal data is collected when users voluntarily provide data on LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s [Data Retention and Confidentiality policy](https://web.archive.org/web/20091219233348id_/http%3A//www.lsac.org/aboutlsac/data-retention-policy.asp) is available on this website. 
+### **Information We Collect Directly from You**
 
-## Aggregated Information
+We collect information you provide directly to us. For example, we collect information when you create an online account, register for a test, take the LSAT, request that we send test scores to certain law schools, fill out a law school application, purchase our products, request customer support and otherwise communicate with us.
 
-When you visit the LSAC.org site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with hundreds of thousands of other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. 
+The type of information we may collect from you includes:
 
-Aggregated information, such as which pages users access or visit, and information volunteered by users, such as survey information and/or site registrations, is also collected through various methods. For example, IP addresses are collected at LSAC.org. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that serve up webpages, automatically identify your computer by its IP address, and when you request a page at LSAC.org, our servers log your IP address. IP addresses are not linked to anything personally identifiable at LSAC.org, so although your session will be logged, you will remain anonymous to us. IP addresses are collected at LSAC.org for the purposes of system administration and to provide aggregate data about the volume of use on LSAC.org. 
+  * Contact information, such as your name, email address, mailing address, and phone number;
+  * Account information, such as your LSAC account number, user ID, password, and security questions;
+  * Application information, such as your social security number, date of birth, education history, transcripts, essays, letters of recommendation, photo (for LSAT admission ticket), and language(s) spoken; and
+  * Optional information you choose to provide, such as information about race, ethnicity, gender identification, religious affiliation, sexual orientation, and disabilities.
 
-Use of Cookies 
 
-Cookies are also used at LSAC.org to collect information. A cookie is a small data file that most major websites write to your hard drive for record-keeping purposes when you visit them. Cookies allow activity to be measured on LSAC.org and are also used to improve your user experience; for example, opening special registration sessions within an LSAC.org account and LSAC Electronic Applications for plugins, searches, and data population, thus allowing you to cut steps. Except for personal information voluntarily provided by you (i.e., during registration or use of our online services), information transferred through cookies is not used by LSAC for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.
 
-Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as your LSAC.org account or LSAC product areas, will not function properly if you do so. 
+### **Information About Your Use of the Services**
 
-Use of Information Collected by Our Traffic Analysis Software 
+We collect information about your use of the services, such as the date of your most recent LSAT registration, test date and location, test attendance records (absences, delays, or cancelations), test answer sheet and writing sample, and LSAT results and score analysis. We also collect information about schools you apply to, and purchases you make.
 
-The personal and aggregated information we collect through our traffic analysis software is used for multiple purposes. The information is used to improve the content of the website, to customize the content and/or layout of the website for each individual user, and to be able to implement and provide a more user-friendly site that meets the system requirements of our users. This collected data also helps us get an overview of the number of users visiting our site so that our systems and servers are running at optimal performance. 
+### **Information We Collect Automatically About Your Use of our Website**
 
-## Security and Credit Card Processing
+We automatically collect information about you when you access and use our website, including:
 
-We use the latest encryption technology (SSL—secured sockets layer) to keep your personal information safe. All your personally identifiable information—including your name, address, and credit card number—is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our servers. To ensure that your information is even more secure, once we receive your personal or credit card information, we store it on a server that isn't accessible from the Internet. If you feel more comfortable doing so, you are welcome to call LSAC at 215.968.1001 to register for our services or order our products. 
+  * **Log Information:** We collect log information about your use of our website, including the type of browser you use, access times, pages viewed, your IP address, search terms entered and the page you visited before navigating to our website.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our website, including the hardware model, operating system and version, and unique device identifiers.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use different technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our website and your experience, see which areas and features of our website are popular, and count visits. Web beacons are electronic images that may be used on our website or in our emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about cookies and how to disable them, please see our [Cookie Policy](https://web.archive.org/about/lsac-policies/cookie-policy).
 
-Other 
 
-By using LSAC's website, you consent to the collection and use of your information by LSAC as described in this policy. 
 
-LSAC fully cooperates with law enforcement agencies in identifying those who use our services, including LSAC.org, for illegal activities. We reserve the right to release information about users who we believe are in violation of our content guidelines. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
+### **Information We Collect from Other Sources**
 
-LSAC wants you to be aware that when you click on links that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, LSAC cannot be responsible for the actions of third parties. 
+We may obtain information from other sources and combine that with information we collect through our services. For example, if someone submits a letter of recommendation about you, we collect that information and combine it with the information we collect directly from you. We also collect certain information from the law schools to which you apply, such as the admissions decision, scholarship offers, reviewer notes, and other information schools choose to provide.
 
-Your Consent 
+HOW WE USE YOUR INFORMATION
 
-By using LSAC's website, you consent to the collection and use of this information by LSAC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+We use your information to facilitate your law school testing and application processes and generally provide, maintain, and improve our services. We may also use your information to:
 
-LSAC reserves the right to change this privacy policy at any time. You can e-mail us with any further questions at [LSACinfo@LSAC.org](mailto:LSACinfo@LSAC.org). 
+  * Maintain and customize your account and our interactions with you (the legal basis for this processing is our legitimate interest in providing you with the services you request and improving your experience on our website and in our test centers);
+  * Send you technical notices, updates, security alerts, and support and administrative messages, and respond to your comments, questions, and customer service requests (the legal basis for this is our legitimate interest in maintaining the quality and security of our services and providing you with a good user experience);
+  * Send marketing communications about products, services, offers, and events offered by LSAC and others, and provide news and information we think will be of interest to you (the legal basis for this processing is our legitimate interest in providing information about products and services that may be of interest to you, unless applicable law requires us to obtain your consent, in which case we will do so). You can unsubscribe from these communications at any time (see Your Choices below for details);
+  * Monitor and analyze trends, usage, and activities in connection with our services (the legal basis for this processing is our legitimate interest in better understanding user needs and expectations);
+  * Detect, investigate, and prevent fraudulent transactions and other illegal activities and protect the rights and property of LSAC and others (the legal basis for this processing is our legitimate interest in preventing fraud and securing our services); and
+  * Carry out any other purpose described to you at the time the information was collected.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE [TERMS AND CONDITIONS OF USE](https://web.archive.org/web/20091219233348id_/http%3A//www.lsac.org/aboutlsac/terms-and-conditions.asp) AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.ORG WEBSITE. 
+
+## How We Share Your Information
+
+We do not share personal information about you with third parties, except as described in this Privacy Policy. We may share information as follows:
+
+  * With service providers, vendors, and consultants that perform services on our behalf, such as those that operate test centers and provide payment processing, customer service, and marketing support;
+  * When you submit a law school application, we share information about you with the relevant law school to facilitate the application process and enable the law school to communicate directly with you;
+  * If you sign up for the Candidate Referral Service (“CRS”), we share information about you with [law schools and organizations](https://web.archive.org/about/lsac-policies/privacy-policy/crs-information-recipients) so they can send you promotional materials about their programs, events, and other information that may be of interest to you (for information about how to opt out of having your information shared in this way, see Your Choices below); 
+  * To comply with a legal or regulatory obligation, protect and defend LSAC’s rights and property, protect the safety of our users and/or the public, and protect against legal liability;
+  * In connection with, or during negotiations of, any merger, sale of assets, financing, or acquisition of all or a portion of our business by another entity;
+  * Between and among LSAC’s current and future parents, subsidiaries, affiliates, and other entities under common control and ownership; and
+  * With your consent and at your direction.
+
+
+
+We also share aggregated or de-identified data that does not identify you personally (such as information about LSAC.org traffic patterns).
+
+## Third Party Advertising And Analytics
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our website and third-party websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LSAC and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our website and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices), or if you are in the EU, <http://www.youronlinechoices.eu/>. For more information about cookies and how to disable them, please see our [Cookie Policy](https://web.archive.org/about/lsac-policies/cookie-policy).
+
+## Your Choices
+
+### **Managing Your LSAC.org Account**
+
+You may review, update, or modify your account information, including profile and contact information, at any time by logging into your LSAC.org account.
+
+### **Opting out of LSAC Promotional Communications**
+
+You may unsubscribe from LSAC promotional emails at any time by following the instructions included in those emails. If you opt out of receiving such communications, note that we may continue to send you non-promotional emails (such as test registration and application submission confirmation emails or emails about changes to our legal terms and policies).
+
+### **Opting out of Promotional Communications from Law Schools**
+
+If you sign up for CRS, we share information about you with law schools as described in the How We Share Your Information section above. If you later want to unsubscribe from these communications, you will need to contact the law schools directly and/or follow the opt out instructions provided in those communications or the law schools’ privacy policies. To request that LSAC stop sharing your information with CRS recipients going forward, please log on to your LSAC account, go to the [Candidate Referral Services page](https://os.lsac.org/MyLSAC/Profile/crs.aspx) and opt-out of LSAC sharing your information with Law Schools.
+
+### **California Privacy Rights**
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. However, under the law, an organization is not required to provide this information if it permits California residents to opt in to, or opt out of, this type of sharing. LSAC qualifies for this alternative option. To opt out of having your information shared with law schools for their own marketing purposes, please write to us at [privacy@lsac.org](mailto:privacy@lsac.org) with the subject line “Opt out request.”
+
+## Data Transfers
+
+LSAC is based in the United States and we and our vendors process and store personal data in the United States and, if you take the LSAT outside of the United States, [other jurisdictions](https://web.archive.org/lsat/lsat-test-centers/lsat-test-centers-outside-united-states-caribbean-canada). These jurisdictions may not provide equivalent levels of data protection as your home jurisdiction. We transfer personal data across borders when we have your consent to do so, or when such processing is necessary to perform our contractual obligations to you (for example, to process a payment). If the transfer is based on your consent, you have the right to withdraw such consent at any time by contacting us at [privacy@lsac.org](mailto:privacy@lsac.org). We take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. 
+
+## Individuals in The European Economic Area
+
+If you are in the European Economic Area (“EEA”), you have certain additional rights and protections under the law regarding the processing of your personal data.
+
+Subject to certain limitations and exceptions, you have the following legal rights:
+
+  * A right to obtain information: You have the right to request information about how we process your personal data.
+  * A right of access: You have the right to request access to, or a copy of, the personal data we process about you.
+  * A right of rectification: You have the right to request that we correct or supplement inaccurate or incomplete personal data we process about you.
+  * A right of erasure: You have the right to request that we delete personal data about you.
+  * A right to restriction of processing: You have the right to request that we restrict processing of your personal data, so that we can store such data but not further process it.
+  * A right to data portability: You have the right to request that we provide the personal data which you provided to us in a structured, commonly used and machine-readable format, and you have the right to transmit such data to another controller without hindrance from LSAC.
+  * A right to object to processing: You have the right to request that we stop processing personal data about you (for example, when your personal data is processed for direct marketing purposes, you have the right to object to the processing of such data at any time by writing to [privacy@lsac.org](mailto:privacy@lsac.org) or clicking on the “unsubscribe” link available at the bottom of the messages received).
+  * A right to revoke your consent: When our processing is based on your consent, you have the right to revoke such consent at any time by contacting us at [privacy@lsac.org](mailto:privacy@lsac.org).
+  * The right to file a complaint: You have the right to file a complaint regarding our data protection practices with a supervisory authority. Contact details for your supervisory authority are available at <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>.
+
+
+
+To exercise these rights, please email us at [privacy@lsac.org](mailto:privacy@lsac.org).  
+
+## Data Retention
+
+Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the data was collected, and any other permissible, related purpose. We may also retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired. Generally, electronic data for all LSAC account registrants will be held for a period of 5 years from the last financial transaction made with LSAC, with the exception of LSAT scores and misconduct findings which are kept indefinitely to be reported to schools based upon the reporting policy adopted for each year. Financial transactions include, but are not limited to, paying for the Credential Assembly Service (CAS) and paying for a test registration. Paper CAS records are retained for one year and then destroyed, and hard copies of testing answer sheets are held for six months.
+
+## Links to Other Websites
+
+LSAC wants you to be aware that when you click on links that take you to third-party websites, you will be subject to these third parties' privacy policies. While we support the protection of privacy on the Internet, LSAC cannot be responsible for the actions of third parties.
+
+## Contacting LSAC
+
+If you have questions or concerns regarding this Privacy Policy or our data protection practices, please contact our Data Protection Officer by emailing [privacy@lsac.org](mailto:privacy@lsac.org) or writing to:
+
+Law School Admission Council, Inc.  
+Attn: Data Protection Officer  
+662 Penn Street  
+Newtown, PA 18940  
+USA
