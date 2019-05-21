@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904133419id_/https%3A//www.discoverybenefits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522003323id_/https%3A//www.discoverybenefits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discovery Benefits
 
@@ -90,7 +90,7 @@ By providing any information to this Site, all users, including without limitati
 
 ### Contact:
 
-Discovery Benefits, Inc.   
+Discovery Benefits, LLC.   
 4321 20th Avenue S.   
 Fargo, ND 58103 
 
