@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotdelivers.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103152931id_/http%3A//www.pilotdelivers.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotdelivers.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521182743id_/http%3A//www2.pilotdelivers.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Pilot Freight Services
 
