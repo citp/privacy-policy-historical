@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021041345id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521021549id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TTPM.com
 
