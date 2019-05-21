@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowville.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120234633id_/http%3A//www.shadowville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowville.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521100821id_/http%3A//www.shadowville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beats by Shadowville Productions
 
