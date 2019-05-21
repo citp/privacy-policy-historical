@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getvideostream.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124025804id_/https%3A//getvideostream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getvideostream.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522000127id_/https%3A//getvideostream.com/privacy) for the most accurate reproduction.*
 
 # Groupnotes Inc. dba Videostream, Privacy Policy
 
@@ -22,7 +22,7 @@ We may collect data passively as you use our website. This is known as "Usage Da
 
 We provide notifications for certain activities relating to Customers' use of our Services despite Customers' indicated e-mail preferences, for example we may send notices of any updates to our Terms of Use, Service issues or shutdowns, or Privacy Policy. 
 
-You may withdraw your consent for receiving marketing communications by clicking the "unsubscribe" link located within each communication, or contacting us at the email: team@getvideostream.com. 
+You may withdraw your consent for receiving marketing communications by clicking the "unsubscribe" link located within each communication, or contacting us at the email: team@getvideostream.com.
 
 ### Why we need and what we do with your information: 
 
