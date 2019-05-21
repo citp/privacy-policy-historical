@@ -1,176 +1,377 @@
-> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130001028id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521094642id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MeccaBingo
 
-**1\. INTRODUCTION**
+Privacy Policy
 
-1.1 We are committed to protecting and respecting your privacy. This Policy explains the basis on which personal information we collect from you, or that you provide to us, will be processed by us for all online services. Please read it carefully to understand our practices regarding your personal information and how we will treat it.
+Cookies Policy
 
-1.2 We, Rank Digital Gaming (Alderney) Limited (a company registered in Alderney under number 1480), comply with all applicable data protection laws including the Data Protection (Bailiwick of Guernsey) Law 2001 and the Data Protection Act 1998.
+## Privacy Policy
 
-1.3 The data controller is Rank Digital Gaming (Alderney) Limited.
+#### 1.  Who we are, what we do and how to contact us.
 
-**2\. INFORMATION COLLECTION AND USE**
+These online services are provided by Rank Digital Gaming (Alderney) Limited, a company registered in Alderney under company number 1480 (“Rank”, “we”, “us” or “our” in this policy). 
 
-2.1 Personal information is collected primarily during the registration process, but is also monitored and collected when there is activity on your account and when you use our site [http://www.meccabingo.com](http://www.meccabingo.com/) including versions of our website viewed on mobile phones, tablets or other electronic devices (in all cases referred to as the “ **website** ”).  Personal information (as used in this Policy) refers to such types of information that can be used to personally identify you and which are described in more detail below.
-
-_Types of information_
-
-2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone (we may record such calls), e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
-
-2.3 If you create an account during the registration process certain information will be stored by us under your account profile include your username, email address, and password.
-
-2.4 We may collect technical information about your computer or device including your IP address, operating system, browser type, time-zone, and browser plug-in details.
-
-2.5 In relation to your activity on our website, we may collect information relating to web addresses that you arrive from or click through to, pages viewed, page response times, download errors, length of time spent on certain pages, page interaction information such as scrolling, clicks, and wagers, and methods used to browse away from pages.
-
-2.6 We may receive information about you if you use any of the other websites we operate or the other services we provide.
-
-_How we may use that information_
-
-2.7 Personal information submitted by you to the website or collected by us will be used for the following purposes only. We will only collect and retain personal information to the extent that it is required for our purposes.
-
-2.8 These purposes are to:
-
-  * 2.8.1 ensure that content from our website is presented in the most effective manner for you and for your computer;
-  * 2.8.2 carry out our obligations arising from any contracts entered into between you and us including payment processing;
-  * 2.8.3 verify your identity and undertake checks for the purposes of the prevention of fraud and risk management;
-  * 2.8.4 allow you to participate in interactive features of our service, when you choose to do so;
-  * 2.8.5 notify you about changes to our service;
-  * 2.8.6 assist us in setting up and managing your account and to build up an accurate customer profile of you;
-  * 2.8.7 provide you, or permit selected third parties to provide you, with information, offers, products or services which we feel may interest you and contact you, or permit selected third parties to contact you, for market research purposes. If you do not want us to use your information in this way please tick the relevant box on the registration form or contact us by one of the methods described in paragraph 4.2 below;
-  * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation;
-  * 2.8.9 to use your chat name and any photograph of you in any promotion of our website, including the promotion of winners; and
-  * 2.8.10 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
-
-
-
-2.9 We may combine some aspects of your information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
-
-**3\. COOKIES**
-
-3.1 We may also obtain information about you by using cookies. Cookies are small software files, typically consisting of numbers and letters, which are placed by a website onto the computer or other device used to access that website.
-
-3.2 We will place cookies onto any devices you use to access our website. These cookies will enable information to be:
-
-  * 3.2.1 stored on your devices; and
-  * 3.2.2 sent to and from our website and your devices.
-
-
-
-3.3 Cookies help us to improve our website and to deliver a better and more personalised service. They enable us to:
-
-  * 3.3.1 estimate our audience size and usage pattern;
-  * 3.3.2 store information about your preferences, and so allow us to customise our website according to your individual interests (including the delivery of advertising that we think might be of interest to you);
-  * 3.3.3 analyse the impact and effectiveness of marketing activities;
-  * 3.3.4 speed up your searches; and
-  * 3.3.5 recognise you when you return to our website.
-
-
-
-3.4 An indication of the types of cookies that may be placed on your devices can be found in the table below:
-
-**Cookie Name or ID**  
----  
-Purpose of the Cookie| Information held by the Cookie| Cookie Expiry Date  
-**AFF_ID**  
-Tracking | A unique tracking identification code | 30 days  
-**SUB_ID**  
-Tracking | A unique tracking identification code | 30 days  
-**PreRegCookie**  
-Conversion tracking | Registration progress | 24 hours  
-**AFF_CREATION_DATE**  
-Tracking | Integer string to mark the creation of AFF_ID | 30 days  
-**NR**  
-Tracking | Integer string. A unique marketing identification code | 30 days  
-**muid**  
-Session Tracking | Session reference for logged in users | 30 days  
-**JSESSIONID**  
-Apache routing | Used to route traffic across load balancers | Session only  
-**ga**  
-Tracking / Google Analytics | Contains an anonymous data used to distinguish users | 2 years  
-**mmcore.pd**  
-Test & Metrics | Maxymiser Visitor ID + Content served | 365 days  
-**mmcore.srv**  
-Test & Metrics | Maxymiser Visitor ID + Content served | 365 days  
-**mmcore.tst**  
-Test & Metrics | Maxymiser Visitor ID + Content served | 31 days  
-**mm_monitoring**  
-Metric | Recording if visitor completed Pre-Reg | 35 days  
-**mm-t81-reg-start**  
-Metric | Recording if visitor starts registration | Session only  
-**mm_tracked_account**  
-Metric | Recording if visitor completes registration | 60 days  
-**mm_reg_complette**  
-Metric | Recording if visitor completes registration | 1 day  
-**mm_current_register_session**  
-Test | Recording if a visitor registered in that session | Session only  
-**mm-t66-counter**  
-Test & Metrics | Cookie used for Test 66 tracking | 365 days  
-**mm-t66-generated**  
-Test & Metrics | Cookie used for Test 66 tracking | 365 days  
-**mm-t66-hompepage-active**  
-Test & Metrics | Cookie used for Test 66 tracking | 365 days  
-**s_cc**  
-Test | Boolean | Session only  
-**s_sq**  
-Test & Metrics | Previous Page URL | Session only  
-**s_vi**  
-Tracking | Unique visitor ID time/date stamp | 2 years  
-**s_fid**  
-Tracking | Fallback unique visitor ID time/date stamp | 2 years  
-**AMCV_###@AdobeOrg**  
-Tracking | Unique visitor IDs used by Marketing Cloud Solutions | 2 years  
-**da_sid**  
-Tracking | Contains unique session ID. Can [opt-out](http://www.meccabingo.com/?da_optOut). | Session only  
-**da_lid**  
-Tracking | Contains unique ID of the lead. Can [opt-out](http://www.meccabingo.com/?da_optOut). | 24 months  
   
-3.5 You may refuse to accept cookies by activating the setting on your internet browser which allows you to refuse the setting of all or some cookies. However, if you do not accept cookies you may be unable to access the whole or part of our website or may be unable to enjoy the benefit of the full functionality of it.
+We are part of The Rank Group Plc group of companies (‘Rank Group’) which operates gaming venues in Europe and digital gaming sites, including the Bella Casino, Enracha, Grosvenor Casino, Luda Bingo and Mecca Bingo brands.
 
-3.6 Please note that third parties (including, for example, our sports book provider, advertising networks and providers of external services like web traffic analysis) may also place cookies on your computer or device as a result of you using our website. We have no control over these cookies or how they are used and they are not listed in the table above.
+  
+If you have any questions about this policy or your rights please contact us at:
 
-**4\. MARKETING**
+  
+We are committed to protecting and respecting your privacy. This policy explains the basis on which personal information we collect about you will be processed by us. Where we decide the purpose, or means, for which personal data is processed, we are the ‘data controller’. We will comply with all applicable data protection laws, including the General Data Protection Regulation 2016/679.
 
-4.1 If you do not wish to receive promotional or other marketing information from us or third parties then please tick the appropriate opt-out box during the registration process.
+This policy explains the following:
 
-4.2 Alternatively you can easily opt-out of marketing communications at a later date by clicking on the 'My Account' section of our website and clicking on 'Personal Details'; you can then change your communication methods and opt-out. Alternatively, you can send us an email to [support@meccabingo.com](mailto:support@meccabingo.com) and we will change your contact status as soon as reasonably possible.
-
-**5\. DISCLOSURE OF YOUR PERSONAL DATA**
-
-5.1 We may share your personal information with any member of our group, which includes all subsidiaries of our parent company, The Rank Group Plc.
-
-5.2 We may also share your personal information in the manner set out below:
-
-  * 5.2.1 to reputable marketing partners selected by us for the purposes of selecting and serving relevant promotional materials and adverts to you and others (unless you have told us not to);
-  * 5.2.2 to a third party in the event that all or a substantial part of our business and assets are acquired (or it is proposed that they be acquired) by that third party and, in such circumstances, personal information held by us about our customers is likely to be one of the transferred assets;
-  * 5.2.3 to any competent legal, regulatory or law enforcement authority, in order to comply with any legal obligation or in order to enforce or apply our terms and conditions and other agreements; or to protect the rights, property or safety of Rank Digital Gaming (Alderney) Limited, our customers, or others. In the event of disclosure to a law enforcement authority, you may not be informed of any disclosure nor of any reasons for such disclosure;
-  * 5.2.4 to exchange information with other companies and organisations for the purposes of age verification, fraud protection, credit checking and/or risk reduction; 
-  * 5.2.5 to our suppliers to the extent required for them to fully perform their services, such as our sports book provider, payment processors and card issuing banks; and
-  * 5.2.6 to our professional advisers or other appropriate third parties, including for example if your use of our gaming services or our website is in breach of the terms and conditions or this Policy.
+  *  • What personal information we collect;
+  *  • How we use that information;
+  *  • Who we may disclose that information to; and
+  *  • Your rights.
 
 
 
-**6\. DATA ACCESS AND CORRECTIONS**
+This policy incorporates our cookie policy which can be found here.
 
-6.1 You have the right to access information held about you in accordance with data protection laws. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+  
+Our services contain hyperlinks to websites operated by third parties. These third-party websites will have their own privacy policies and we recommend you review them. They will govern the use of personal information you submit or which are collected by cookies whilst visiting those websites. We do not accept any responsibility or liability for them and your use of them is at your own risk.
 
-6.2 Written requests should be addressed to: The Data Protection Officer at Rank Digital Gaming (Alderney) Limited, c/o Statesman House, Stafferton Way, Maidenhead, Berkshire SL6 1AY or you can email dpr@rank.com.
+#### 2\. What information do we collect?
 
-6.3 Upon receipt of your written request we will disclose to you your personal data held by us. We shall also correct or delete inaccurate details, and notify any third party recipients of the necessary changes. Changes to certain parts of your account information can also be made by accessing 'My Account'.
+We collect and process the following information which may include your personal data.  Click on a heading to find out more.
 
-**7\. TRANS-BORDER DATA TRANSFERS**
+Information provided by you when using our services. 
 
-Your personal data may be transferred outside the European Economic Area. Whenever such transfers are effected pursuant to arrangements made by us, we shall enter into agreements requiring the recipients of your personal data to adhere to standards of data protection substantially similar to those prevailing in the European Economic Area. By visiting the website and communicating electronically with us you consent to these transfers.
+  
+You may give us information about you during the registration process or when using our services, requesting to join our mailing lists, taking part in market research or customer satisfaction surveys or dealing with our customer services team.
 
-**8\. CHANGES TO OUR POLICY**
+  
+In addition, we are required to comply with anti-money laundering and responsible gambling legislation and we may request proof of identity and source of funds information from you from time to time, which you must provide to us promptly.
 
-We may make changes to this Policy at any time. We will make reasonable efforts to notify you of any significant changes by e-mail, notice on the website or account message. However, it is your responsibility to check the Policy from time to time to ensure that you agree with it and your continued use of the website will be deemed to be your acceptance of any changes that we make.
+  
+This may include your name, username, age, date of birth, gender, address, image, telephone number, e-mail address, password and other identity or source of funds information.
 
-**9\. CONTACT INFORMATION**
+Your Browsing Activities. 
 
-Telephone number: 0800 083 1988
+  
+In relation to your activity on our online services, we may collect information relating to the web address that you arrive from or click through to, pages viewed, page response times, download errors, the length of time you spend on certain pages, page interaction information such as scrolling, clicks, wagers, and methods used to browse away from our pages.
 
-E-mail: [support@meccabingo.com](mailto:support@meccabingo.com)
+Your Location Data. 
 
-Last updated on: 1st November 2016
+  
+When you are logged into your Rank user account, we may use GPS technology (or other similar technology) to determine your current location to verify your identity, ensure that your location is within our permitted territories and to display relevant advertisements and promotions to you.
+
+How you use our Services (Analytics).
+
+  
+We may collect technical information about your computer and/or device that may identify you, including your IP and MAC address, operating system, browser type, time-zone and browser plug-in details.
+
+Payment Information. 
+
+  
+In order for you to use all the functions of our services we collect payment information from you including your debit or credit card number and bank account details.
+
+Information collected from Third Parties.
+
+  
+We may collect information about you from third party service providers. This may include information to check your age, identity or source of funds and to reduce risk or prevent fraud or other illegal activities.
+
+  
+Our providers may check the details we supply against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
+
+  
+The service providers we use for these purposes may include:
+
+C6 Intelligence Information Systems
+
+Experian
+
+GB Group
+
+Kroll Associates
+
+#### 3\. Information Sharing
+
+We will share your information with third parties only in the ways that are described in this privacy policy. If you would like to find out more about how the third parties listed in this policy use your information, this should be set out in their respective privacy policies.
+
+  
+We keep your information confidential, but may disclose it to our personnel, other companies within the Rank Group, suppliers or subcontractors insofar as it is reasonably necessary for the purposes set out in this privacy policy. However, this is on the basis that they have agreed to safeguard this information.
+
+  
+In addition to the third parties listed in this policy, examples of the types of third parties we work with are:
+
+  *  • IT companies who support our IT systems;
+  *  • Direct Marketing companies that help us deliver our service to you;
+  *  • Data insight companies to help us ensure your details are correct and up to date; and
+  *  • Third party sites such as Google and Facebook which might advertise our services.
+
+
+
+In addition, we may disclose your information to the extent that we are required to do so by law (which may include to government bodies and law enforcement agencies); in connection with any legal proceedings or prospective legal proceedings; and in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention).
+
+  
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email, account message and/or a prominent notice on our website of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+
+#### 4\. How we use your information and who we share it with
+
+To Provide the Services to You 
+
+As applicable, we will use information about you for delivering our service under the agreement between us, including to respond to your enquiries; to contact you about matters requiring your attention; and to provide you with a responsible gaming environment. We may use third parties to assist us with this.
+
+All our services’ financial transactions are handled through our payment services providers, who will have access to your payment information.
+
+The service providers we use for these purposes may include:
+
+Safecharge International
+
+Worldpay
+
+Barclays
+
+Paysafe Group
+
+Paypal
+
+Trustly
+
+In order to provide the games to you, we may share your user ID, country code, username, full name, date of birth and gender with various third-party games providers.  
+The service providers we use for these purposes may include:
+
+Bede Gaming
+
+Blueprint Gaming
+
+Evolution Gaming
+
+Eyecon
+
+Extreme Live Gaming
+
+Gameiom
+
+Gamevy
+
+Kambi Sports Solutions
+
+International Game Technology
+
+Microgaming Software Systems
+
+NetEnt
+
+Novomatic
+
+NYX Gaming
+
+OpenBet Technologies
+
+Play n Go
+
+Playtech Software
+
+Pragmatic Play
+
+Realistic Games
+
+Red Tiger Gaming
+
+Scientific Games
+
+The Games Company
+
+Yggdrasil
+
+To Prevent Fraud and Illegal Activity 
+
+We process personal data for our legitimate interests of ensuring that your use of our online services is lawful and non-fraudulent, does not disrupt the operation of our services, does not harass our staff or other individuals, and to enforce our legal rights and comply with our legal obligations.
+
+We may use third party providers to assist us with this. To do so they may check the details we supply against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained.
+
+The service providers we use for these purposes may include:
+
+C6 Intelligence Information Systems
+
+Experian
+
+GB Group
+
+Kroll Associates
+
+Where we reasonably believe that you are or may be in breach of any of the applicable laws, we may use your personal information to inform relevant third parties such as your email/internet provider or law enforcement agencies about the content.
+
+To personalise our Services 
+
+We will use information about you (in particular, how you use our services), to optimise and tailor our services to you and allow us to cater to your preferences. This may mean that when you are accessing our website though your account, the website looks different than when another person accesses it through their account.
+
+We process personal data in this way for the legitimate interests of ensuring that you and other users have the best experience when using our services.
+
+Marketing 
+
+Direct Marketing: We might send you marketing e-mails about products or services which are similar to or related to those available via our online services, or contact you by phone, SMS or post. We do this in our legitimate interest of marketing our business and we only do this in accordance with the laws relating to marketing directly to individuals.
+
+Group Marketing: With your consent, we may use various forms of marketing to provide you with promotional materials about the services of other companies in the Rank Group.
+
+Targeted Marketing: With your consent, we may use the information we collect about you to serve you targeted advertisements via our own channels (i.e. our websites, apps, display advertising) and third-party channels, including across multiple devices or browsers. We do this to provide you with more relevant advertising content.
+
+The third-party channels we use for these purposes may include:
+
+Facebook
+
+Twitter
+
+Instagram
+
+LinkedIn
+
+Snapchat
+
+Google
+
+Bing
+
+App Store
+
+Affiliate networks and partner channels
+
+Wi-Fi, Bluetooth and near field communication
+
+We may use third-party providers to assist us with our marketing.
+
+To re-set your consent preferences at any time please see section 5.
+
+To Understand how our Services are used 
+
+We process information to understand how visitors use our website and to compile statistical reports regarding that activity.
+
+This processing is necessary for us to pursue our legitimate interests of improving our services, and providing a better and more personalised experience to our users.
+
+We may use third party analytics providers.
+
+The third-party providers we use for these purposes may include:
+
+Adobe
+
+Tealium
+
+Optimisely
+
+Monetate
+
+DoubleClick
+
+Google
+
+Decibel Insights
+
+#### 5\. Your Consent Preferences
+
+You may from time to time be asked to give your consent to your information being used for specific purposes, including marketing.
+
+If you wish to alter your consent preferences at any time you can do so in the My Account section of this site. It may take us a short time to action these preferences.
+
+#### 6\. Your Rights
+
+You have the following rights over the way we process personal data relating to you. We aim to respond without undue delay, and within one month at the latest. To make a request, please see our contact details at section 1.
+
+Ask for a copy of your data and have it deleted or inaccuracies corrected 
+
+You have the right to request a copy of the personal information we hold about you and to have data deleted or any inaccuracies corrected.
+
+We will use reasonable efforts to the extent required by law to supply, correct or delete personal information held about you on our files (and with any third parties to whom it has been disclosed to).
+
+Object to us processing your data 
+
+You can ask us to restrict, stop processing, or to delete your personal data if:
+
+  *  • You consented to Rank processing the personal data, and have withdrawn that consent;
+  *  • Rank no longer needs to process that personal data for the reason it was collected;
+  *  • Rank is processing that personal data because it is in the public interest or it is in order to pursue a legitimate interest of Rank, you don’t agree with that processing, and there is no overriding legitimate interest for us to continue processing it;
+  *  • The personal data was unlawfully processed; or
+  *  • You need the personal data to be deleted in order to comply with a legal obligation.
+
+
+
+Obtain a machine-readable copy of your data, which you can use with another service provider
+
+  *  • If we are processing data to perform our obligations to you, or because you consented, if that processing is carried out by automated means, we will help you to move, copy or transfer your personal data to other IT systems.
+  *  • If you request, Rank will supply you with the relevant personal data in CSV format. Where it is technically feasible, you can ask us to send this information directly to another IT system provider if you prefer.
+
+
+
+Make a complaint to a Supervisory Authority
+
+You can ask us to restrict, stop processing, or to delete your personal data if:
+
+  *  • If you are unhappy with the way Rank is processing your personal data, please let us know.
+  *  • If you do not agree with the way we have processed your data or responded to your concerns, an alternative is to submit a complaint to a Data Protection Supervisory Authority, which for UK customers will be the Information Commissioner’s Office.
+
+
+
+#### 7\. information Retention
+
+We will cease use of your data for marketing purposes no more than two years after your last transaction with us. We typically retain your data for seven years from when our relationship ends to satisfy our regulatory obligations, including anti-money laundering regulations. If we hold any information relating to problem gambling matters or any suspension or termination of your account, we may hold this for a longer period, as we reasonably deem necessary.
+
+#### 8\. Children
+
+We do not use the Application to knowingly solicit data from or market to children under the age of 18.  If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at Information.Centre@rank.com. We will delete such information from our files within a reasonable time.
+
+#### 9\. Security
+
+We will take all reasonable technical and organisational precautions to prevent the loss or misuse of your personal information.
+
+Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+#### 10\. Changes
+
+We will notfiy you of any significant changes to this policy by email, notice on the site or by account message.
+
+#### 11\. International Transfers
+
+Where we transfer your data outside of the EEA, we have agreements in place with those parties which include standard data protection clauses to ensure that appropriate safeguards are in place to protect your personal data. 
+
+Last Updated: 11 May 2018
+
+## Cookies Policy
+
+#### A. Introduction
+
+Cookies may constitute personal data. This cookie policy explains how Rank uses cookies on our online services. It should be read in conjunction with our privacy policy, which can be found on our website here.
+
+We may obtain information about you by using cookies. Cookies are small software files, typically consisting of numbers and letters, which are placed by a website or app onto the device used to access that our online services.
+
+We will place cookies onto any devices you use to access our online services. These cookies will enable information to be stored on your devices and sent between our online services and your devices.
+
+Cookies help us to improve our website and deliver a better and more personalised service.
+
+You may refuse to accept cookies by activating the setting on your internet browser or device which allows you to refuse the setting of all or some cookies. However, if you do not accept cookies you may be unable to access the whole or part of our online services or may be unable to enjoy the benefit of their full functionality.
+
+#### B. Third Party Cookies
+
+We work with third parties who may also set cookies on our website, including, for example, our media buying partners, advertising networks and providers of external services like web traffic analysis, which we use to enable gambling functionality, enable social networking functionality, deliver ads, and monitor how visitors use our online services. These third party suppliers are responsible for the cookies they set on your device. We have no control over these cookies or how they are used. Further information about these third party cookies may be provided in the cookie policies of the relevant third parties.
+
+#### C. Overview of the Cookie Type
+
+An indication of the types of cookies that may be placed on your devices can be found in the table below:
+
+**Authentication**
+
+To log you into our online services and keep you logged in.
+
+**Wagers**
+
+To keep track of wagers that you have placed.
+
+**Preferences**
+
+To remember information about you such as your preferred language and configuration. This allows us to customise our online services according to your individual interests.
+
+**Analytics**
+
+To help us understand how you use our online services, and how often, so we can improve them to deliver a better experience for our users.
+
+To carry out research and statistical analysis to help improve our content, products and services. This also enables us to estimate our audience size and usage patterns.
+
+**Advertising**
+
+To deliver ads which are more relevant to your interests, and to measure their performance.
+
+Last updated: 11 May 2018
