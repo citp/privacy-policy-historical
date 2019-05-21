@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellyreviews.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119112022id_/http%3A//tellyreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyreviews.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521120400id_/http%3A//tellyreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TellyReviews
 
