@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the newshounds.us privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521115851id_/http%3A//www.newshounds.us/privacy_policy) for the most accurate reproduction.*
+
+# Privacy Policy - NewsHounds
+
+NewsHounds collects only information necessary for the operation of the site. This information includes, but is not limited to; email address, internet protocol (IP) address, browser statistics, visitor trending and date/time of visits. This information will not be sold or shared with any other party, except to comply with any laws.
+
+NewsHounds may collect statistics about the behavior of visitors to its websites. For instance, we may monitor the most popular content on NewsHounds.us. NewsHounds may display this information publicly or provide it to others. However, NewsHounds does not disclose personally-identifying information other than as described below.
+
+NewsHounds discloses personally-identifying or potentially personally-identifying information only to those of its contractors, volunteers, employees and affiliated organizations that need to know that information in order to process it on NewsHounds’ behalf or to provide services available on the NewsHounds website(s) and who have agreed not to disclose it to others. Some of those contractors, volunteers, employees and affiliated organizations may be located outside of your home country; by using NewsHounds websites, you consent to the transfer of such information to them.
+
+NewsHounds will not rent or sell personally-identifying or potentially personally-identifying information to anyone or to any organization. Other than to those contractors, volunteers, employees and affiliated organizations described above, NewsHounds discloses personally-identifying information or potentially personally-identifying information only when required to do so by law, or when NewsHounds believes in good faith that disclosure is reasonably necessary to protect the safety, property or rights of NewsHounds, NewsHounds contractors, volunteers or employees, third parties or the public at large.
+
+If you are a registered user of NewsHounds, the site may contact you privately, either to convey information about your account, notify you of a violation of our policy, or for some other reason related to the administration of the website. NewsHounds takes all reasonably necessary measures to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying information.
+
+NewsHounds uses cookies to help identify and track visitors, their usage of the NewsHounds website, and their website access preferences. NewsHounds visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the NewsHounds website. However, be advised that certain features of the site may not function properly without the cookies. Third party services may also use cookies to help identify users. It is the end users responsibility to check with those third party sites for their own privacy policies.
+
+We allow third-party companies to serve ads, manage user polls and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to NewsHounds or other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
+Although most changes are likely to be minor, NewsHounds may change its privacy policies from time to time, and in its sole discretion. NewsHounds encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
+
+Updated November 16, 2018
