@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssd.ab.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222020id_/http%3A//www.cssd.ab.ca/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssd.ab.ca privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521053742id_/https%3A//www.cssd.ab.ca/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # CCSD
 
@@ -10,21 +10,19 @@
 
 #### Freedom of Information and Protection of Privacy (FOIP)
 
-#### FOIP at CCSD
-
 The Calgary Catholic School District (CCSD) website connects you to CCSD schools and departments. This website is maintained to assist you in finding information about the CCSD, its schools, programs and services. The Calgary Catholic School District is subject to the Alberta Freedom of Information and Protection of Privacy (FOIP) Act, and is committed to providing a website that respects your privacy while you visit us online. This privacy statement summarizes the privacy practices of the Calgary Catholic School District with respect to our website located at www.cssd.ab.ca. 
 
 We do not automatically gather any personal information from you, such as your name, phone number, or email address. This information is obtained only if you supply it voluntarily, usually through contacting us via email or by providing it on an online form. You should review the privacy statement each time you submit personal information on the website. 
 
 Any personal information you do provide is managed according to the FOIP Act. This means that at the point of collection, you will be informed of the purpose for which your personal information is being collected, the legal authority for collection and the person who can answer your questions about the collection. The Calgary Catholic School District does not sell or otherwise distribute any information collected to third parties. 
 
-#### Information Collected in Emails and Online Forms
+#### Information collected in Emails & online forms
 
 We treat emails with the same respect we treat letters sent to the Calgary Catholic School District. We do not collect personal information for any purpose other than to respond to you. The only personal information collected that is used to identify you is information you give voluntarily. When you submit a question or comment, you may be asked for your name, email address, or other information. This personal information is used to process and respond to your question or comment and is only disclosed to those who need it to answer your question, to the person that your inquiry relates to or to parties legislatively authorized to receive the information. 
 
 If you complete an online form and submit it to us through our website, we use that information for the purposes described on the form. Personal information collected from an online form will be treated in accordance with the privacy protection provisions of the FOIP Act. 
 
-#### Information Collected and Stored Automatically
+#### Information collected & stored automatically
 
 When you visit the Calgary Catholic School District website, our web server automatically collects a limited amount of standard information essential to the operation, security and evaluation of the website. This information includes: 
 
@@ -44,39 +42,37 @@ If you are concerned about the use of cookies, you can refer to the help informa
 
 For site security purposes and to ensure that web services remain available to all users, the district’s computer system uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the service we provide. No attempt is made to identify an individual user or their usage patterns except for law enforcement investigations. 
 
-#### Links to Other Websites
+#### Links to other websites
 
 This website contains links to other sites. The Calgary Catholic School District is not responsible for the content or the privacy practices of other websites. You are encouraged to examine each site’s privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found. 
 
-#### Contact Information
+#### Questions about the FOIP Act?  
+
 
 Questions about the FOIP Act as it relates to the Calgary Catholic School District and concerns regarding privacy or access to information issues should be directed to: 
 
-##### Calgary Catholic School District
-
-FOIP Office, St Brother Andre Centre  
-3743-64Th Ave SE  
-Calgary, Alberta T2C 2V5  
-Phone: 403-500-2817  
-Fax: 403-500-2911 
+FOIP Coordinator  
+Calgary Catholic School District, Central Office  
+1000 – 5 Avenue SW  
+Calgary, Alberta T2P 4T9  
+Phone: 403-500-2000  
+Fax: 403-500-2914 
 
 #### Freedom of Information and Protection of Privacy (FOIP)
 
-#### FOIP at CCSD
-
 The Calgary Catholic School District (CCSD) website connects you to CCSD schools and departments. This website is maintained to assist you in finding information about the CCSD, its schools, programs and services. The Calgary Catholic School District is subject to the Alberta Freedom of Information and Protection of Privacy (FOIP) Act, and is committed to providing a website that respects your privacy while you visit us online. This privacy statement summarizes the privacy practices of the Calgary Catholic School District with respect to our website located at www.cssd.ab.ca. 
 
 We do not automatically gather any personal information from you, such as your name, phone number, or email address. This information is obtained only if you supply it voluntarily, usually through contacting us via email or by providing it on an online form. You should review the privacy statement each time you submit personal information on the website. 
 
 Any personal information you do provide is managed according to the FOIP Act. This means that at the point of collection, you will be informed of the purpose for which your personal information is being collected, the legal authority for collection and the person who can answer your questions about the collection. The Calgary Catholic School District does not sell or otherwise distribute any information collected to third parties. 
 
-#### Information Collected in Emails and Online Forms
+#### Information collected in Emails & online forms
 
 We treat emails with the same respect we treat letters sent to the Calgary Catholic School District. We do not collect personal information for any purpose other than to respond to you. The only personal information collected that is used to identify you is information you give voluntarily. When you submit a question or comment, you may be asked for your name, email address, or other information. This personal information is used to process and respond to your question or comment and is only disclosed to those who need it to answer your question, to the person that your inquiry relates to or to parties legislatively authorized to receive the information. 
 
 If you complete an online form and submit it to us through our website, we use that information for the purposes described on the form. Personal information collected from an online form will be treated in accordance with the privacy protection provisions of the FOIP Act. 
 
-#### Information Collected and Stored Automatically
+#### Information collected & stored automatically
 
 When you visit the Calgary Catholic School District website, our web server automatically collects a limited amount of standard information essential to the operation, security and evaluation of the website. This information includes: 
 
@@ -96,18 +92,18 @@ If you are concerned about the use of cookies, you can refer to the help informa
 
 For site security purposes and to ensure that web services remain available to all users, the district’s computer system uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the service we provide. No attempt is made to identify an individual user or their usage patterns except for law enforcement investigations. 
 
-#### Links to Other Websites
+#### Links to other websites
 
 This website contains links to other sites. The Calgary Catholic School District is not responsible for the content or the privacy practices of other websites. You are encouraged to examine each site’s privacy policy and disclaimers and make your own decisions regarding the accuracy, reliability and correctness of material and information found. 
 
-#### Contact Information
+#### Questions about the FOIP Act?  
+
 
 Questions about the FOIP Act as it relates to the Calgary Catholic School District and concerns regarding privacy or access to information issues should be directed to: 
 
-##### Calgary Catholic School District
-
-FOIP Office, St Brother Andre Centre  
-3743-64Th Ave SE  
-Calgary, Alberta T2C 2V5  
-Phone: 403-500-2817  
-Fax: 403-500-2911 
+FOIP Coordinator  
+Calgary Catholic School District, Central Office  
+1000 – 5 Avenue SW  
+Calgary, Alberta T2P 4T9  
+Phone: 403-500-2000  
+Fax: 403-500-2914 
