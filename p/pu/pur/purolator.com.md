@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919235204id_/https%3A//www.purolator.com/en/legal/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purolator.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521155113id_/https%3A//www.purolator.com/en/legal/privacy.page) for the most accurate reproduction.*
 
 # Purolator - Privacy Statement
 
@@ -7,6 +7,8 @@ At Purolator, we are committed to protecting our customers’ privacy. The purpo
 **Meaning of “Customer” and “Personal Information”**
 
 For the purposes of this Privacy Statement,
+
+“business contact information” means any information that is used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession such as the individual’s name, position name or title, work address, work telephone number, work fax number or work electronic address.
 
 “commercial electronic message” is a message encouraging the participation in a commercial activity, including surveys, invitations, market studies, and messages relating to Purolator’s new products, services, special offers, promotions, contests, and service tips.
 
@@ -61,6 +63,10 @@ When our customers log on to our websites and are authenticated through their Us
 
 We also use session cookies to track our customers’ visits to our website.  We use that information to determine the type of information that our customers are looking for on our website and to improve our website. We use information about the site our customers visited immediately prior to our site to assess the viability of links to our site that we have created on third party sites.  The information stored in "persistent cookies" is written onto our customer’s hard drive and remains there until the expiry date of the cookie.  From time to time, we use persistent cookies to store non-sensitive personal information. Currently, most browsers do not distinguish between session cookies and persistent cookies. For our websites to operate, our customer’s browser must be set to accept cookies. If a customer is concerned about having his or her browser enabled to accept cookies while he or she is surfing other websites, we recommend that his or her browser be set to notify him or her when it is receiving a cookie. This gives the customer the ability to accept or reject cookies presented by the web server he or she is visiting. We suggest contacting the browser’s programmer on how to do this.
 
+**Google Analytics  
+** Purolator uses Google Analytics to collect data on how its customers navigate and use Purolator’s E Ship® Server (“ESS”). There is limited use of cookies to analyze what functions customers use the most, and which pages and buttons are most frequently accessed. The data collected is only used for analytical purposes to facilitate an enhanced customer shipping experience through the development of improved features for ESS in the future. As well, there is a two (2) year expiry date for the data collected using cookies. There is no personal information collected and Purolator does not track shipment data using Google Analytics. Please refer to the site "How Google uses data when you use our partners' sites or apps" at this link: <https://policies.google.com/technologies/partner-sites>, for a discussion of how Google may use data collected from Google Analytics. **  
+**
+
 **How We Protect Personal Information**  
 We make all commercially reasonable efforts to ensure that personal information collected is protected against loss and unauthorized access.  Access to our customers’ personal information is restricted to selected Purolator employees and contractors. In addition, we employ generally accepted information security techniques, such as firewalls, access control procedures and cryptography, to protect personal information against loss and unauthorized access.  While we use commercially reasonable efforts to limit access to our vehicles and premises to authorized personnel, we cannot guarantee the confidentiality of information that is displayed on any shipment package or shipment label.
 
@@ -69,6 +75,9 @@ We retain our customers’ personal information for as long as necessary to fulf
 
 **Links to Third Party Sites**   
 Our website may offer links to other websites. Customers should be aware that operators of linked websites may also collect our customers’ personal information (including information generated through the use of cookies) when they link to those websites. We are not responsible for how such third parties collect, use or disclose our customers’ personal information, so it is important for our customers to familiarize themselves with the privacy policies of such third parties before providing them with personal information.
+
+**Breaches of Personal Information  
+** We will investigate any breach of our security safeguards to protect personal information that is in our custody or control and comply with our reporting and recordkeeping obligations in accordance with our privacy policies and applicable privacy laws.
 
 **Changes to this Privacy Statement**   
 We reserve the right to modify this Privacy Statement at anytime without notice. The Privacy Statement posted at any time or from time to time via this website shall be deemed to be the Privacy Statement then in effect.
