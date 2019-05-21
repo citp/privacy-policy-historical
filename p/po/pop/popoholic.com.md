@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popoholic.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134048id_/http%3A//www.popoholic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popoholic.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521030650id_/http%3A//www.popoholic.com/privacy-policy) for the most accurate reproduction.*
 
 # Popoholic » Privacy Policy
 
