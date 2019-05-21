@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724170936id_/https%3A//www.travlu.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521131824id_/https%3A//www.travlu.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Travlu.com
+
+**Spam Alert:** Travlu.com will never send you an email requesting for a copy of your identity card or your credit card. If you receive any such spam emails, DO NOT reply and report them to info@travlu.com
 
 We highly value your trust in choosing Travlu.com for your online hotel reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal details (including your credit card details).
 
