@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-power-point-templates.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306205710id_/https%3A//www.free-power-point-templates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-power-point-templates.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521042117id_/https%3A//www.free-power-point-templates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
