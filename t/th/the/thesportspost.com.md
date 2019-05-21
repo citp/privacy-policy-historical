@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009013332id_/https%3A//thesportspost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportspost.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521180446id_/https%3A//primesportsnet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » The Sports Post
+# Privacy Policy » Prime Sports Net
 
 The Sports Post knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -12,7 +12,7 @@ We only collect personal information that is relevant to the purpose of our webs
 
 2\. Automatic Information:We receive and store certain types of information whenever you interact with us.A�The Sports PostA�and its authorized agents automatically receive and record certain a�?traffic dataa�? on their server logs from your browser including your IP address,A�The Sports PostA�cookie information, and the page you requested.A�The Sports PostA�uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
 The Sports PostA�may collect and, on any page, display the total counts that page has been viewed.  
-Many companies offer programs that help you to visit websites anonymously. WhileA�The Sports PostA�will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,A�[click here](http://www.networkadvertising.org/managing/opt_out.asp)
+Many companies offer programs that help you to visit websites anonymously. WhileA�The Sports PostA�will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,A�[click here](https://www.networkadvertising.org/managing/opt_out.asp)
 
 E-mail Communications
 
