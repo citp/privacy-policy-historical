@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileleadmonster.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118000642id_/http%3A//www.mobileleadmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileleadmonster.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521081534id_/http%3A//www.mobileleadmonster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Lead Monster
 
