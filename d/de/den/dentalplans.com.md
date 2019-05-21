@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019190733id_/https%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521154055id_/https%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.*
 
 # Privacy Policy | Dental Plans
 
@@ -89,7 +89,7 @@
 > 
 > **_Do Not Track_**
 > 
-> You can opt out of being targeted by certain third party advertising companies online by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp),  [Aperture](http://rt.displaymarketplace.com/optout.html), [PrivacyChoice](http://www.privacychoice.org/privacymark), and/or [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+> You can opt out of being targeted by certain third party advertising companies online by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp), [PrivacyChoice](http://www.privacychoice.org/privacymark), and/or [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 > 
 > We do not currently actively respond to "Do Not Track" browser signals or mechanisms that indicate a request to disable online tracking of individual users who use our sites and services.
 > 
