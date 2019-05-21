@@ -1,94 +1,448 @@
-> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613200421id_/http%3A//www.irishrugby.ie/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521081719id_/https%3A//www.irishrugby.ie/privacy) for the most accurate reproduction.*
 
-# Irish Rugby : The IRFU : Legal Notice & Privacy Policy
+# Irish Rugby | Privacy Policy
 
-At the Irish Rugby Football Union we are committed to protecting your privacy & security. Please read our Privacy Policy carefully so that you are aware of the steps we take to protect you privacy, what information we collect and how we use it now or may use it in the future.
+**Registered Office**
 
-## Controllers of Information
+IRFU  
+10/12 Lansdowne Road  
+Dublin 4  
+Ireland
 
-Any personal information provided to or gathered by <http://www.irishrugby.ie/> or <http://www.irfu.ie/> is controlled by IRFU, Registered office 10/12 Lansdowne Road Dublin 4-Ireland. The person responsible for Data Protection is Mr Maurice Dowling.
+## Data Protection Notice
 
-## What Information do we collect? How do we use it?
+## 1\. Purpose And Scope Of Notice
 
-When you order over our website we need to know your name, e-mail address, delivery address, credit or debit card number, expiry date (and valid from date and issue number for Switch cards). This allows us to process and fulfil your orders and to notify you of the status of your order. You will find that it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to complete your transaction.
+As the body with overall responsibility for managing rugby union in Ireland, we at the Irish Rugby Football Union (the “IRFU”, “we”, “our” and “us”) will often have reason to process information (“Personal Data”) of those who interact with us directly and others who are involved in the game at various levels in Ireland (“you” or “your”).  We respect and value your privacy. That is why we have set out in this Data Protection Notice (this “Notice”) how and why Personal Data relating to you will be collected and processed by the IRFU and/or on our behalf by our third party service providers.
 
-We also ask for your telephone number which enables us to contact you urgently if there is a problem with your order. We will give your name and address to our couriers and we may also give them your telephone number to aid the delivery of your order.
+Please review the sections of this Notice which are relevant to you based on your interactions with the IRFU:
 
-When you register on the website or, during the process of purchasing goods from the website and choose to receive further information from us, we may use the information you provide us with for the following purposes:-
-
-  * We monitor customer traffic patterns and site usage to help us to develop the design and layout of the website.
-  * Personal details may be for purposes such as notifying you of IRFU news, events, fixture, ticket, merchandising and player information which we think may be of interest to you.
-  * The IRFU will not put any information about you on general release nor will it sell such information to organisations not associated with the IRFU. Personal data will not be transferred outside of the European Economic Area.
+  * when you are involved with Irish rugby (see section 1.1);
+  * for purchase, subscription and marketing purposes (see section 1.2); and
+  * when you visit [www.irishrugby.ie](https://www.irishrugby.ie/) (our “Website”) (see section 1.3).
 
 
 
-We employ other companies and individuals to perform functions on our behalf such as delivering packages, analysing data, providing marketing assistance, processing credit card payments and designing and operating our website. Such companies and individuals have access to your personal information for the purpose of carrying out this work only. These enterprises will not use your data for any other purpose. Under no circumstances will these enterprises use any additional data about you to which they are party for any other purposes.
+For the purposes of this notice, the controller of your Personal Data is the Irish Rugby Football Union of 10/12 Lansdowne Road, Dublin 4, Ireland.
 
-## Cookies
+## 1.1 Processing Your Data When You Are Involved With Irish Rugby
 
-EU Cookie directive
+e.g. registered club player, volunteer, coach, committee member, club or  school
 
-From 26 May 2011 a new European Union directive requires us to gain the consent of our users to download cookies on to their machines. There are various methods we could use to gain users consent. For example, we could use pop-ups; prompting users to tick a box to confirm they give permission for us to download cookies on their machine.
+**1.1.1 How we process your Personal Data when you are involved with Irish rugby**
 
-Alternatively, we could use an online form that all users must complete before using the website.
+There are many ways in which you can become involved with Irish rugby. This could be when you play, volunteer or coach with a rugby club; when you attend one of our events or seminars; or when you or your organisation enquire about how you can contribute to or collaborate with the IRFU.
 
-We consider both of these solutions as obtrusive. We want our users find information and services quickly.
+**1.1.2 What Personal Data we process when you are involved with Irish rugby**
 
-Therefore, we have taken the decision to promote how we use cookies on our website instead. This will enable users to make an informed decision whether they want to disable this feature.  
-There are links on our terms and conditions and disclaimer pages which are in the footer of every web page pointing to this information.
+We may collect and process the following Personal Data about you, which we may obtain either directly from you or from the third parties listed in section 1.1.6:
 
-What is a Cookie
+**  Individual Details** |  This may include general Personal Data about who you are, such as your name, address, contact details, gender, date of birth and occupation.  
+---|---  
+**  Hospitality Information** |  This may include any dietary preferences or requirements you have, or any mobility assistance you may require.  
+**  Query Information** |  You may choose to give us information such as your name, address, e-mail address, telephone number and other details when you contact us or a body with which we are affiliated.  
+**  Club Registration Information** |  Individuals who play rugby with a recognised club must be registered with the IRFU. Many rugby clubs use the Clubhouse system for purposes of club administration and to register and manage players. Clubhouse accounts may also be created for coaches and volunteers. Personal Data processed through Clubhouse can include your name, address, gender, date of birth, nationality, your image, your next of kin and your contact details.  
+**  Device Information** |  When logging-on to any of the Wi-Fi services  we offer at our offices, stadiums or events, we may collect information about your device such as the IP address, hardware model, operating system and version, software and file names and versions, preferred language, unique device identifier, advertising identifiers, serial number, device motion information and mobile network information.  
+  
+We may collect and process the following special category of Personal Data about you which we may obtain either directly from you or from the third parties listed in section 1.1.6:
 
-Information may be sent to your computer in the form of an Internet "cookie" to allow our servers to monitor your requirements. The cookie is stored on your computer. Our server may request that your computer return a cookie to it.
+  **Health** | This may include any information relating to any injuries you receive while playing rugby at any level, general fitness information, information on any pre-existing medical conditions you may have, information obtained in the course of conducting our anti-doping measures and information on any disability or mobility requirements you may have.  
+---|---  
+  
+We may also collect and process the following Personal Data relating to criminal convictions and offences, which we may obtain either directly from you or from the third parties listed in section 1.1.6:
 
-These return cookies do not contain any information supplied by you or any personally identifiable information about you. However, we use cookies to keep track of your shopping cart when you are using the IRFU Store Online.
+  **Criminal** | This may include any information relating to any injuries you receive while playing rugby at any level, general fitness information, information on any pre-existing medical conditions you may have, information obtained in the course of conducting our anti-doping measures and information on any disability or mobility requirements you may have.  
+---|---  
+  
+We shall only ever process this special category Personal Data or data relating to criminal convictions on the basis of your (or where you are under 18, your parent’s) explicit consent or where such processing is necessary for the establishment, exercise or defence of legal claims or on the basis of reasons of substantial public interest in accordance with applicable law.
 
-Such measures are necessary to allow IRFU to measure the usability of the systems, which will help to continually improve user experience of our websites. Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit <http://www.allaboutcookies.org/>.
+**1.1.3  Legal Basis**
 
-Strictly Necessary Cookies
+The following table details the legal bases under which (“Legal Basis”) and the reasons why (“Purposes”) we collect, obtain and process your Personal Data:
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+  **Legal Basis** | **  Purpose(s)**  
+---|---  
+**Legitimate Interests**  
+It is in our legitimate interests to collect and process your Personal Data for a range of operational, business and organisational purposes.  
+  
+When we process your Personal Data based on our legitimate interests, we make sure to consider and balance any potential impact on you and your data protection rights. We will not process your Personal Data for activities where our interests are overridden by the impact on you.
 
-Performance Cookies
+**Administration of Rugby Union in Ireland**
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Tracking statistics and performance details across all rugby union matches played in Ireland; and
+  * maintaining records of those involved with rugby union at all levels in Ireland, including referees, coaches, volunteers and others engaged in the running of clubs, including preparing public facing directories of certain of this information.
+  * Preparing handbooks of contact information of committee members and others involved in the administration of rugby at a provincial level.
 
-Functionality Cookies
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.
 
-These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+**Clubhouse**
 
-Targeting or Advertising Cookies
+  * To register you as a player or volunteer with your club; and
+  * to maintain your registration within the database of registered players.
 
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-Google Analytics
 
-IRFU uses Google Analytics, a web analytics service provided by Google. Google Analytics collects first party cookies, which are text files placed on your computer to collect standard internet log information and visitor behaviour. This information is sent to Google and is used to evaluate how our website is being used. This enablesIRFU to compile statistical reports. A full list of cookies used by Google Analytics and explanations on how these work are available on the Google code website. 
+**Business and Operational**
 
-IRFU does not collect (nor allow any third party to collect) personally identifiable information of visitors to our site. We will not associate any data gathered with any personally identifying information. We will not link or seek to link an IP address with the identity of a computer user. In short, Google Analytics doesn't identify who you are, but it does track your movements on our websites.
+  * To develop and maintain our relationship with you or your organisation;
+  * to invite you to and host you at our events and meetings; and
+  * to conduct administrative and operational processes within the IRFU and our associated organisations.
 
-How to disable cookies
 
-You can stop cookies being downloaded on to your computer by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website.
 
-There is more information about cookies, including how to delete them on the website aboutcookies.org. You may also opt out of being tracked by Google Analytics.
+**Communication**
 
-Consent
+  * To process and respond to any enquiries, requests and complaints you may submit to us. **Compliance with a   Legal Obligation**  
+We may process your Personal Data where it is necessary to comply with legal obligations to which we are subject.
+  * To comply with our obligations under Irish and EU laws, including but not limited to safeguarding and complying with law enforcement requests; and
+  * in particular to comply with our obligations under the National Vetting Bureau (Children and Vulnerable Persons) Acts 2012-2016.
 
-By using our website you consent to collection and use of any information you provide to us by IRFU Limited for the purposes described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from IRFU, please contact us.
 
-## Disclaimer
 
-The IRFU recognise that we have legal obligations in terms of the collection and use of personal data made available to us.
+**To Defend, Establish or be a Party to Legal Claims**
 
-This website is provided on an "AS IS" basis and the IRFU excludes all warranties or representations of any kind with respect to this website or its contents. In particular, the IRFU does not warrant or represent that the information contained on this website is accurate or up to date.
+We may process your Personal Data as necessary in order for us to establish, investigate, exercise or defend a legal claim to which you are a party. ï To file legal proceedings; and to investigate, establish, exercise or defend a legal claim.
 
-The contents of this website are designed to comply with Irish law. You may be viewing the website in a market in which we do not commonly sell our goods. The IRFU cannot be held responsible for non-compliance with any local advertising or other laws in relation to this website or its contents.
+**1.1.4  Sharing and Disclosure of your Personal Data  
+**  
+We will disclose your personal data to other members of our group which means our subsidiaries, our ultimate holding company and its subsidiaries, as well as to provincial branches, rugby clubs and other bodies affiliated with the IRFU (the “IRFU Group”).  
+We will only disclose your personal information to third parties outside the IRFU Group in the following circumstances:
 
-## Your Consent
+**  Recipient(s)** | **  Purpose(s)**  
+---|---  
+  **IRFU subcontractors, service providers and third party partners** |  ï For the purpose of inviting you to and hosting you at events and meetings; and  
+ï to allow you access to matches and other events.  
+  **Regulatory Authorities, Law Enforcement Agencies, Public Bodies and Third Party Companies** |  ï To comply with any applicable legal obligation, court order, summons, search warrants, or any other legal or regulatory obligation or request to which the IRFU is subject;  
+ï to protect the rights, property or safety of the IRFU, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and  
+ï to enforce or apply the Terms and other agreements or to investigate potential breaches.  
+  **Teams, competition organisers and international rugby organisations   ** |  ï To facilitate rugby games and competitions at a national and international level.  
+  
+**1.1.5  Data Retention**
 
-By using our website you consent to collection and use of any information you provide to us bythe IRFU for the purposes described above. If we decide to change our privacy policy, we will post those changes on this page. We recommend you re-visit this page periodically to check for changes. We endeavour to take all reasonable steps to protect your personal data including the use of encryption technology, but cannot guarantee the security of any data you disclose online. You accept the inherent security implications of sending information over the Internet and will not hold us responsible for any breach of security unless we have been negligent.
+In accordance with our policy on data retention we shall keep your Personal Data which we process on the basis of your involvement with Irish rugby for a period of time after your engagement with the IRFU which depends on why you have interacted with us. Please contact [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie) for further information about our retention periods.
 
-If you are under the age of 18 you may register on the website to receive newsletters and other information but only with parental or guardian consent. You may only make purchases on this website if you are aged 18 or over or, if under 18, have received parental or guardian consent.
+Please note that in certain circumstances, we may hold your Personal Data for a longer period, for example, if we are processing an ongoing claim or believe in good faith that the law or a relevant regulator may reasonably in our view expect or require us to preserve your Personal Data.  Where you have registered as a rugby player, we may also retain some of your Personal Data within our player registration database unless you request us to delete such information.
+
+**1.1.6  Third Party Sources**
+
+We may obtain Personal Data about you from the following third parties:
+
+**  Social Media Information** |  We may receive information about you from social media platforms, such as Facebook, Twitter, LinkedIn and Instagram, when you interact with us via such platforms. This includes information which you provide to us or otherwise make available via such platforms.  
+---|---  
+  **Rugby Clubs** |  If you play, volunteer or are otherwise involved with a rugby club we may be provided with your Personal Data in our role as the body managing rugby union on the island of Ireland.  
+  **Provincial Branches** |  If you play, work for, volunteer or are otherwise involved with a provincial branch we may be provided with your Personal Data in our role as the body managing rugby union on the island of Ireland.  
+  **Event Organisers** |  We will often engage the services of third parties to assist us in running and operating events.  When you attend or express an interest in such an event we will often be provided with your Personal Data.  
+  **Businesses and Organisation** |  If you work for or are otherwise involved in a business or other organisation (such as a charity, school or voluntary group) that seeks to collaborate with, contribute to or otherwise become involved with the IRFU or one of our affiliated bodies then we may be provided with your Personal Data.  
+  
+## 1.2 PROCESSING YOUR PERSONAL DATA FOR PURCHASE, SUBSCRIPTION AND MARKETING PURPOSES
+
+**1.2.1  How we process your Personal Data for Purchase, Subscription and Marketing Purposes**
+
+We may process your Personal Data in connection with purchase, subscription and marketing purposes whenever you purchase match tickets, merchandise or other products from the IRFU or our authorised sellers; when you subscribe to the IRFU Newsletter; when you sign up for the Irish Rugby Official Supporters Club; or when you enter a competition with the IRFU or one of our affiliated bodies.
+
+**1.2.2  What Personal Data we process for Purchase, Subscription and Marketing Purposes  
+**We may collect and process the following Personal Data about you, which we may obtain either directly from you or from the third parties listed in section 1.2.6:
+
+**  Individual Details** |  ï This may include general Personal Data about who you are, such as your name, address, contact details, gender, date of birth and occupation.  
+---|---  
+**  Customer Account Information** |  ï This is information that you provide to us when creating a customer account on the Website shop and subsequently using it to make purchases. This information may include your name, date of birth, phone number, email address, billing address, shipping address, phone number and credit card information.  
+ï If you choose to purchase an item on the Website shop for a third party beneficiary, you need to provide us with information about the beneficiary during the purchase process. In such circumstances, it is your responsibility to make sure the beneficiary or beneficiaries would have no objection to you sharing their Personal Data for the purposes set out in this Notice.  
+**  Purchase Information** |  ï Details of any products, services or match, event or season tickets that you purchase from us, or the provincial branches or clubs, or from our authorised sellers and retailers.  
+**  Supporters Club Information** |  ï Information you provide in the course of registering to join the Irish Rugby Official Supporters Club and to gain access to the Members Only Area on the Website.  This information may include your email address, chosen username, chosen password, title, name, gender, date of birth, address and phone number(s).  
+**  Subscription Information** |  ï Information you provide in the course of subscribing to the IRFU Newsletter.  This information may include your email address, your name, your age range, the province you support and your address.  
+ï We also collect information in the course of providing you with the IRFU Newsletter and any marketing material you subscribe to, or consent to receiving, on the Website.  
+**  Patrons Club  or Season Ticket Holder Information** | ï If you purchase a Patrons Club ticket or Season ticket we may process copies of documentation from which you can be identified.  
+**  Device Information** |  ï When logging-on to any of the Wi-Fi services  we offer at our offices, stadiums or events, we may collect information about your device such as the IP address, hardware model, operating system and version, software and file names and versions, preferred language, unique device identifier, advertising identifiers, serial number, device motion information and mobile network information.  
+  
+**1.2.3  Legal Basis**
+
+The following table details the legal bases under which (“Legal Basis”) and the reasons why (“Purposes”) we collect, obtain and process your Personal Data:
+
+**  Legal Basis** | **  Purpose(s)**  
+---|---  
+**Contract**  
+It is necessary to process this Personal Data to enter into and perform our contract(s) with you.  
+  
+This could be a contract for tickets or products that you purchase from us, for access to our Website, for setting up a customer account or for becoming a member according to the applicable terms, etc.
+
+If you do not wish to provide us with your Personal Data for these purposes, we will not be able to enter into or perform our contract(s) with you.
+
+**Fulfilling your Orders and Requests**
+
+  * To provide you with information and items that you request from us and to fulfil orders you place with us;
+  * to process your purchases;
+  * to process your subscription to the Irish Rugby Official Supporters Club;
+  * to personalise products and services we provide you;
+  * to process your payments through our third party payment providers;
+  * to process your purchase of tickets to matches;
+  * to enter you into competitions and contests;
+  * grant access to tickets, products and/or special offers as part of the package of offers provided to season ticket holders pursuant to a season ticket contract; and
+  * to prevent the fraudulent use of gift vouchers.
+
+
+
+**Customer Account**
+
+  *  To create your online customer account for you to use on the Website;
+  * to process your purchases through this account; and
+  *  to otherwise manage and administer your customer account.
+
+
+
+**IRFU Newsletter**
+
+  * To subscribe you to, and send you, the IRFU Newsletter.
+
+
+
+**Irish Rugby Official Supporters Club**
+
+  * To enrol you into the Irish Rugby Official Supporters Club and to provide you with the associated benefits, such as access to the Members Area of the Website.
+
+
+
+**Payment**
+
+  * To receive payment in exchange for the products, services and tickets you purchase from us;
+  * to refund you any sums that may be owed to you; and
+  * to resolve any issues that may arise if an order is lost, processed incorrectly or otherwise encounters difficulty.
+
+
+
+**Patrons Club Ticket or Season Ticket**
+
+  * To process your purchase of a Patrons Club or Season ticket;
+  * to assign your identity to a Patrons Club or Season ticket;
+  * to check and verify your identity matches your ticket; and
+  * to prevent fraudulent use of a Patrons Club or Season ticket.
+
+
+
+**Registered Rugby Player**
+
+  * To register you as a rugby union player; and
+  *  to maintain your registration within the registered player database. ** **
+
+
+
+**Legitimate Interests**  
+It is in our legitimate interests to collect and process your Personal Data for a range of operational, business and organisational purposes.
+
+When we process your Personal Data based on our legitimate interests, we make sure to consider and balance any potential impact on you and your data protection rights. We will not process your Personal Data for activities where our interests are overridden by the impact on you.
+
+**Marketing**
+
+  * To send you marketing material provided you have not opted-out of receiving this during the collection of your Personal Data (please note that you may opt-out of receiving such marketing material by contacting us at [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie) or following the unsubscribe instructions in any marketing communication we send you; and
+  * to keep you updated on news, competitions and events provided you have not objected to receiving this information during the collection of your Personal Data.
+
+
+
+**Notification and Information**
+
+  * To notify you about changes to the Website and/or our services;
+  * to notify you of changes to this or another Data Protection Notice or any terms and conditions to which you may be a party; and
+  * to provide you with updates and information such as fixture changes and where and how you can collect tickets.
+
+
+
+**Responding to Queries and Complaints**
+
+  *  To process and respond to any queries, requests and complaints you may submit to us.
+
+
+
+**Market Research**
+
+  * To gain an insight into the preferences and behaviour of our supporters;
+  *  to conduct surveys, which you can opt-out of;
+  * to better understand where we can make improvements; and
+  * to invite you to give feedback and to analyse same. ** **
+
+
+
+**Compliance with a   Legal Obligation**
+
+We may process your Personal Data where it is necessary to comply with legal obligations to which we are subject. ï To comply with our obligations under Irish and EU laws, including but not limited to safeguarding and complying with law enforcement requests.
+
+**To Defend, Establish or be a Party to Legal Claims**
+
+  * We may process your Personal Data as necessary in order for us to establish, investigate, exercise or defend a legal claim to which you are a party. ï To file legal proceedings; and
+  *  to investigate, establish, exercise or defend a legal claim.
+
+
+
+**1.2.4  Sharing and Disclosure of your Personal Data**
+
+We will disclose your Personal Data to other members of the Irish rugby ecosystem such as provincial branches, clubs and rugby organisations based outside of Ireland.
+
+We will only disclose your personal information to third parties outside the above organisations in the following circumstances:
+
+**  Recipient(s)** | **  Purpose(s)**  
+---|---  
+ IRFU subcontractors, service providers,  
+ticketing providers and third party partners |  ï to assist the IRFU in providing you products and services;  
+ï for logistical and IT service purposes, including but not limited to, ticketing services providers;  
+ï to send you promotional or direct marketing material (in circumstances where you expressly consented to receiving any such material from third party partners);  
+ï to allow for access to matches and other events; and  
+ï to send you surveys or polls.  
+ Regulatory Authorities, Law Enforcement Agencies, Public Bodies and Third Party Companies |  ï To comply with any applicable legal obligation, court order, summons, search warrants, or any other legal or regulatory obligation or request to which the IRFU is subject;  
+ï to protect the rights, property or safety of the IRFU, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and  
+ï to enforce or apply the Terms and other agreements or to investigate potential breaches.  
+  
+**1.2.5  Data Retention**
+
+In accordance with our policy on data retention we shall keep your Personal Data which we process on the basis of your involvement with Irish rugby for a period of time after your engagement with the IRFU which depends on why you have interacted with us.
+
+Please contact [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie) for further information about our retention periods.
+
+Please note that in certain circumstances, we may hold your Personal Data for a longer period, for example, if we are processing an ongoing claim or believe in good faith that the law or a relevant regulator may reasonably in our view expect or require us to preserve your Personal Data.
+
+**1.2.6  Third Party Sources**
+
+We may obtain Personal Data about you from the following third parties:
+
+ Social Media Information |  We may receive information about you from social media platforms, such as Facebook, Twitter, LinkedIn and Instagram, when you interact with us via such platforms. This includes information which you provide to us or otherwise make available via such platforms.  
+---|---  
+ Marketing Information |  We may receive information about you from other third parties where we offer co-branded services or engage in joint-marketing activities.  
+ Ticket Sellers |  When you buy match tickets from one of our authorised sellers we may be provided with your Personal Data.  
+ Event Organisers |  We will often engage the services of third parties to assist us in running and operating events.  When you attend or express an interest in such an event we will often be provided with your Personal Data.  
+ Licensees of our Brand |  We may receive your Personal Data from licensees of our brand such as retail outlets, sponsors and vendors where you opt-in to receive information from us.  
+ Stadia and Match Venues |  We may receive your Personal Data from stadiums and match venues when you attend matches.  
+  
+## 1.3 PROCESSING YOUR PERSONAL DATA WHEN YOU USE OUR WEBSITE
+
+**1.3.1  How we process your Personal Data when you use our Website**  
+For information about how we collect your Personal Data when you visit our Website, [please see our Cookie Policy.](https://web.archive.org/web/20190521081719id_/http://www.irishrugby.ie/privacy/\[ioID\]6F9483DB6E0C4929ABE6E1B57A0B762B/Irish_Rugby_Football_Union.pdf)
+
+**1.3.2  What Personal Data we Process when you visit our Website**  
+We may collect and process the following Personal Data about you when you use our Website:
+
+ Technical Information |  ï When using our Website and availing of services through our Website, we may collect Personal Data about you from you and by using cookies and web analytics technology. This includes information about:  
+ï your device type, operating system, browser, IP address and other information derived from cookies used on the Website. Please see our Cookies Policy  for further information on our use of cookies; and  
+ï details of your visits to the Website such as traffic data, location data and the resources, advertisements and linked websites that you access through the Website.  
+---|---  
+ Customer Account Information |  ï This is information that you provide to us when creating a customer account on the Website shop and subsequently using it to make purchases. This information may include your name, date of birth, phone number, email address, billing address, shipping address, phone number and credit card information.  
+ï If you choose to purchase an item on the Website shop for a third party beneficiary, you need to provide us with information about the beneficiary during the purchase process. In such circumstances, it is your responsibility to make sure the beneficiary or beneficiaries would have no objection to you sharing their Personal Data for the purposes set out in this Notice.  
+ Payment Information |  ï This includes your payment card details plus any other information necessary for billing purposes such as your billing address or your bank account information.  
+ Supporters Club Information |  ï Information you provide in the course of registering to join the Irish Rugby Official Supporters Club and to gain access to the Members Only Area on the Website.  This information may include your email address, chosen username, chosen password, title, name, gender, date of birth, address and phone number(s).  
+ Subscription Information |  ï Information you provide in the course of subscribing to the IRFU Newsletter.  This information may include your email address, your name, your age range, the province you support and your address.  
+ï We also collect information in the course of providing you with the IRFU Newsletter and any marketing material you subscribe to, or consent to receiving, on the Website.  
+  
+**1.3.3  Legal Basis**
+
+The following table details the legal bases under which (“Legal Basis”) and the reasons why (“Purposes”) we collect, obtain and process your Personal Data:
+
+  **Legal Basis** | **  Purpose(s)**  
+---|---  
+  **Contract**  
+It is necessary to process this Personal Data to enter into and perform our contract(s) with you.  
+  
+This could be a contract for tickets or products that you purchase from us, for access to our Website, for setting up a customer account or for becoming a member according to the applicable terms, etc.
+
+If you do not wish to provide us with your Personal Data for these purposes, we will not be able to enter into or perform our contract(s) with you. Fulfilling your Orders and Requests  
+ï To provide you with information and items that you request from us and to fulfil orders you place with us;  
+ï to process your purchases;  
+ï to process your subscription to the Irish Rugby Official Supporters Club;  
+ï to personalise products and services we provide you;  
+ï to process your payments through our third party payment providers;  
+ï to process your purchase of tickets to matches;  
+ï to enter you into competitions and contests; and  
+ï to prevent the fraudulent use of gift vouchers.
+
+Customer Account  
+ï To create your online customer account for you to use on the Website;  
+ï to process your purchases through this account; and  
+ï to otherwise manage and administer your customer account.
+
+Payment  
+ï To receive payment in exchange for the products, services and tickets you purchase from us;  
+ï to refund you any sums that may be owed to you; and  
+ï to resolve any issues that may arise if an order is lost, processed incorrectly or otherwise encounters difficulty.  **Legitimate Interests**  
+It is in our legitimate interests to collect and process your Personal Data for a range of operational, business and organisational purposes.
+
+When we process your Personal Data based on our legitimate interests, we make sure to consider and balance any potential impact on you and your data protection rights. We will not process your Personal Data for activities where our interests are overridden by the impact on you. **  Improving Website Functionality & Efficiency**  
+ï To provide, improve, test and monitor the effectiveness of the Website;  
+ï to monitor metrics such as total number of visitors, traffic data and demographic patterns;  
+ï to personalise and improve your experience on our digital platforms; and  
+ï to ensure the content on the Website is presented in the most effective manner for you and to enhance your use of the Website.
+
+**1.3.4  Sharing and Disclosure of your Personal Data**
+
+We will disclose your Personal Data to other members of the Irish rugby ecosystem such as provincial branches, clubs and rugby organisations based outside of Ireland.  
+We will only disclose your personal information to third parties outside the above organisations in the following circumstances:
+
+**  Recipient(s)** | **  Purpose(s)**  
+---|---  
+ IRFU subcontractors, service providers and third party partners |  ï For logistical and IT service purposes.  
+ Regulatory Authorities, Law Enforcement Agencies, Public Bodies and Third Party Companies |  ï To comply with any applicable legal obligation, court order, summons, search warrants, or any other legal or regulatory obligation or request to which the IRFU is subject;  
+ï to protect the rights, property or safety of the IRFU, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction; and  
+ï to enforce or apply our website terms and other agreements or to investigate potential breaches.  
+  
+**1.3.5  Data Retention**
+
+For information about how long we retain Personal Data collected when you visit our Website for, please see our Cookie Policy. In accordance with our policy on data retention we shall keep your Personal Data which we process on the basis of your involvement with Irish rugby for a period of time after your engagement with the IRFU which depends on why you have interacted with us. Please contact [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie) for further information about our retention periods.  
+Please note that in certain circumstances, we may hold your data for a longer period, for example, if we are processing an ongoing claim or believe in good faith that the law or a relevant regulator may reasonably in our view expect or require us to preserve your data.
+
+## 2\. IF YOU ARE UNDER 16 OR A PARENT/LEGAL GUARDIAN
+
+If you are under the age of 16, you should always speak to your parent or legal guardian before you send us an email or information, ask us to send you any information, subscribe to our Newsletter, join the Irish Rugby Official Supporters Club, purchase anything from us or provide us Personal Data in any other way.  We will need the consent of your parent or legal guardian before we can allow you to access the Irish Rugby Official Supporters Club content on our Website.
+
+If you are a parent or legal guardian of a child whose Personal Data we are processing, then you may at any time request that we stop processing the Personal Data of your child in so far as we are able, or exercise the rights listed below at section 4 over your child’s Personal Data by emailing us at [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie).  Please note that before we disclose or otherwise process a child’s Personal Data on the basis of such a request we may first request that you provide reasonable information about yourself and your child for identification purposes.
+
+## 3\. STORING OF AND TRANSFERS OF YOUR PERSONAL DATA
+
+Your Personal Data may be stored and transferred inside or outside the European Economic Area (“EEA”). We only transfer your Personal Data outside the EEA where the EU Commission has decided that the third country in question ensures an adequate level of protection in line with EU data protection standards or if there are appropriate safeguards in place to protect your Personal Data. Where we transfer Personal Data to a third country, we may do so on the basis of Standard Contractual Clauses which are a form of data processing contract approved by the European Commission. You can find a copy of these clauses here.
+
+If you would like to find out more about the appropriate safeguards that we have in place to govern the transfer of your Personal Data you can contact us at [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie).
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will always do our best to protect your Personal Data, we cannot guarantee the security of any information you transmit to us; any transmission is at your own risk. Once we have received your information, we will endeavour to use strict procedures and security features to try to prevent unauthorised access.
+
+## 4\. YOUR RIGHTS AND HOW TO EXERCISE THEM
+
+This section sets out the rights which you have to address any concerns or queries with us about our processing of your Personal Data. Note that in certain circumstances, these rights may not be absolute:
+
+**  Right** | **  Further Information**  
+---|---  
+ Right of Access |  ï You have the right to request a copy of the Personal Data held by us about you and to access the following information in relation to the processing of your Personal Data:  
+(1) the  purposes of processing;  
+(2) the categories of Personal Data concerned;  
+(3) the recipients of your Personal Data;  
+(4) the period for which your Personal Data will be stored;  
+(5) the existence of your right to lodge a complaint with the Data Protection Commission; and  
+(6) the source of your Personal Data.  
+ï We will only charge you for making an access request where we feel your request is unjustified or excessive.  
+ Right to Rectification |  ï You have the right to request that we amend any inaccurate Personal Data that we have about you.  
+ Right to Erasure |  ï You have the right to ask us to erase your Personal Data where:  
+(1) it is no longer necessary to perform our contract with you;  
+(2) you withdraw your consent and there is no other legal basis permitting us to process your Personal Data;  
+(3) you object and we have no overriding legitimate interest;  
+(4) your Personal Data has been unlawfully processed; or  
+(5) it must be erased to comply with a legal obligation.  
+ï Please note that erasure may not be complete or immediate to the extent that some of your Personal Data is necessary for the purpose for which it was collected.  
+ Right to Restriction of Processing |  ï You have the right to ask us to restrict processing your Personal Data in the following situations:  
+(1) where you contest the accuracy of your Personal Data;  
+(2) where the processing is unlawful and you do not want us to delete your Personal Data;  
+(3) where we no longer need your Personal Data for the purposes of processing but you require the data in relation to a legal claim; or  
+(4) where you have objected to us processing your Personal Data pending verification as to whether or not our legitimate interests override your interests or in connection with legal proceedings.  
+ï When you exercise this right we may only store your Personal Data and may not further process it unless you consent or the processing is necessary in relation to a legal claim or to protect the rights of another person or legal person or for reasons of important public interest.  
+ Right to Data Portability |  ï You may request us to provide you with your Personal Data which you have given us in a structured, commonly used and machine-readable format and you may request us to transmit your Personal Data directly to another data controller where this is technically feasible.  
+ï This right only arises where:  
+(1) we process your Personal Data with your consent or where it is necessary to perform our contract with you; and  
+(2) the processing is carried out by automated means.  
+ Right to Object |  ï You have a right to object at any time to our processing of your Personal Data where we process your Personal Data on the legal basis of pursuing our legitimate interests.  
+  
+You can exercise any of these rights by submitting a request to our Data Protection Executive whose contact details are set out in section 5 of this Notice.
+
+We will provide you with information on any action taken upon your request in relation to any of these rights without undue delay and at the latest within one month of receiving your request. We may extend this timeframe by one more month if necessary having regard to the circumstances of the request. However we will inform you if this arises.
+
+## 5\. QUESTIONS AND COMPLAINTS
+
+If you have any concerns about the way your Personal Data are being used or processed by the IRFU, please contact our Data Protection Executive at [dataprivacy@irishrugby.ie](mailto:dataprivacy@irishrugby.ie).
+
+If you have any concern in relation to how your Personal Data is used or processed, you have the right to lodge a complaint with your national data protection regulator.  For further information and to find your national data protection regulator, please see here.
+
+## 6\. CHANGES TO THIS NOTICE
+
+If we amend this notice, in whole or part, at our sole discretion, any changes will be effective immediately upon communicating the revised notice to you.
+
+If at any time we decide to use your Personal Data in a manner significantly different from that stated in this notice, or otherwise disclosed to you at the time it was collected, we will notify you and you will have a choice as to whether or not we use your information in the new manner.
