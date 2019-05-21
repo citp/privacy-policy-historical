@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622165431id_/http%3A//www.resultsmail.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521115729id_/https%3A//www.resultsmail.com/privacy.cfm) for the most accurate reproduction.*
 
 # ResultsMail - Privacy Policy
 
 ## PRIVACY STATEMENT
+
+Last Updated 5/24/2018
 
 At ResultsMail™, we respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the ResultsMail site and how that information is used.
 
@@ -10,7 +12,11 @@ Maintaining the privacy of your information is of paramount importance to us as 
 
 **Information Collection and Use**
 
-ResultsMail explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. Demographic and profile data collected by ResultsMail may be used to tailor the Website or any requested email communications, and to display information that is more relevant to you. ResultsMail also compiles demographic and product use information, but in the aggregate only, and may make that aggregate information publicly available. Under no circumstances will ResultsMail make any personal information about an individual user available to anyone.
+ResultsMail explicitly asks when we need information that personally identifies you ("Personal Information"). Your personal information is used to create your personal access to products on the site, and to contact you in the course of using the products. Financial information that is collected is used to verify identity, and to bill either you or your company for products and services, as applicable. 
+
+Once an individual signs up for an account to use the ResultsMail application we collect usage statistics associated with each account. This data is used to help us support each individual customer as necessary as they use the application, to help us troubleshoot issues with the application, as well as determine other usage trends. Demographic and profile data collected by ResultsMail may be used to tailor the Website or any requested email communications, and to display information that is more relevant to you. 
+
+Under no circumstances will ResultsMail make any personal information about an individual user available to anyone.
 
 Your email address is used to only send you information that you have requested. As part of your use of any ResultsMail product, ResultsMail allows you to elect to receive, or not receive, certain information from ResultsMail or its partners. ResultsMail adheres strictly to permission-based email policy. Except as mentioned above, ResultsMail will not send you unsolicited email information, commercial offers or advertisements ResultsMail will not sell, rent, or loan our contact lists or our customer's contact lists (including customer data) to any outside firms nor will ResultsMail use customer contact lists for our own marketing purposes. All emails that you have requested will have an option to unsubscribe. Unsubscribe requests are fulfilled within minutes and no further communications will be sent to users who have stated that they do not wish to receive the specified information. All ResultsMail partners who offer you information via email from our Website must adhere to this unsubscribe policy.
 
@@ -18,7 +24,7 @@ While IP addresses (address of a computer) are logged to track a user's session,
 
 **Contact Lists, Campaign Content and Campaign Reports**
 
-ResultsMail ensures that all contact lists, email content and reports remain private and confidential. ResultsMail may scan the content of your campaigns to ensure it complies with our Terms of Use â€” to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. ResultsMail will not sell, rent, loan or invite external access to a customer's contact lists. Nor will ResultsMail themselves use customer's contact lists for any purpose.
+ResultsMail ensures that all contact lists, email content and reports remain private and confidential. ResultsMail may scan the content of your campaigns to ensure it complies with our Terms of Use — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. ResultsMail will not sell, rent, loan or invite external access to a customer's contact lists. Nor will ResultsMail themselves use customer's contact lists for any purpose.
 
 **Communications from the Site**
 
@@ -78,7 +84,7 @@ When our registration/order form asks users to enter sensitive information, such
 
 **Credit Card Information**
 
-ResultsMail allows you to purchase email marketing services. When credit card billing is chosen, information is transferred to ResultsMail's Credit Card Authorization Partner, Authorize.net, using industry-leading, secure transmission technology including TLS and HTTPS (the transmission standard used for transactions by major financial institutions). The information is then encrypted using Data Encryption Standard 3 (Triple DES) and stored securely so that it is ready to handle your transactions. Financial transactions are verified through GeoTrustÂ®, a leading provider of Internet security solutions. GeoTrust is accredited by all major Security, Privacy and Certification Authorities (CAs).
+ResultsMail allows you to purchase email marketing services. When credit card billing is chosen, information is transferred to ResultsMail's Credit Card Authorization Partner, Authorize.net, using industry-leading, secure transmission technology including TLS and HTTPS (the transmission standard used for transactions by major financial institutions). The information is then encrypted and stored securely so that it is ready to handle your transactions. Financial transactions are verified through GeoTrust®, a leading provider of Internet security solutions. GeoTrust is accredited by all major Security, Privacy and Certification Authorities (CAs).
 
 While we use TLS encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage, in a locked and guarded facility.
 
@@ -94,10 +100,24 @@ We use Authorize.net to verify a user's address against their credit card during
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the user account page or by emailing our Customer Support at support@resultsmail.com.
+Your personal information has been provided to us by you when you signed up for an account to use the ResultsMail service. You can access it and make corrections to it from within your account.
+
+You can review and update your account information, including your organizational information and email address, by logging in and then clicking on the "My Account" tab. Account information, such as your username and password, can be changed by logging in and then clicking on the "Username and Password" tab within the My Account section. If you wish to suspend or cancel your account, you can contact us via our Help feature online or call 888-737-6245.
+
+We will retain and use your information as long as your account is active as well as is necessary to comply with our obligations under this privacy statement and US law.
+
+Concerning your personal data received or transferred, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+**International Use**
+
+We are located in the United States of America. You acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts or law enforcement or regulatory agencies of the United States to obtain disclosure of your personal information.
+
+With regards to the EU General Data Protection Regulation, concerning your data, we are a data controller, and concerning your contacts' information, we are a data processor.
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+
+## Start Getting Results From Your Email - [Sign Up Free](https://web.archive.org/signup.cfm) Today!
