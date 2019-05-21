@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809144723id_/https%3A//cm.naplesnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521143608id_/https%3A//cm.naplesnews.com/privacy) for the most accurate reproduction.*
 
 # static.naplesnews.com
 
