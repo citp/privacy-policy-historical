@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wkow.com privacy policy that was archived on 2018-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181121004956id_/https%3A//wkow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wkow.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521105738id_/https%3A//wkow.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - WKOW</title>
     
@@ -53,7 +53,8 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="cordillera-ads-styles-css" href="http://wkow.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="cordillera-intra-articles-css" href="http://wkow.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://wkow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-video-embed-css" href="http://wkow.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://wkow.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -95,7 +96,7 @@ img.emoji {
 <script type="text/javascript" src="http://wkow.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"https:\/\/wkow.com\/wp-admin\/admin-ajax.php","security":"80279af870","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wkow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/wkow.com\/wp-admin\/admin-ajax.php","security":"546ea479c1","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wkow.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wkow.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
@@ -121,7 +122,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-T7J729R');//]]>
 </script>
 <!-- End Google Tag Manager -->
-<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Droid+Serif:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"><style type="text/css">body{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 17px;line-height: 1.5em;}#primary{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;}button,.button,#commentform .button{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 15px;text-transform: uppercase;background-color: #e74c3c;border-color: #e74c3c;}button:hover,.button:hover,#commentform .button:hover{color: #e74c3c;background-color: #ffffff;border-color: #e74c3c;}div.logo-text a{color: #34495e; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 44px;line-height: 1;}.logo{margin-top: 10px;margin-bottom: 0px;}#top-bar{background-color: rgba(0, 0, 0, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}#top-bar, #top-bar .widget-title{color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-weight: 600; font-size: 12px;text-transform: uppercase;letter-spacing: 0px;font-style: normal;line-height: 45px;}#top-bar a{color: #8224e3;}#top-bar a:hover{color: #e74c3c;}#header, .sticky-header{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}.sf-menu a, .mobile-menu a{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 18px;text-transform: uppercase;}.sf-menu a:hover,.sf-menu li.active a, .sf-menu li.current-menu-item > a,.sf-menu .sfHover > a,.sf-menu .sfHover > li.current-menu-item > a,.sf-menu li.current-menu-ancestor > a,.mobile-menu a:hover,.mobile-menu li.current-menu-item > a, a.search-toggle .fa-times{color: #a30c11;}.nav-main .sf-menu .sub-menu{background-color: #2c3e50;}.nav-main .sf-menu .sub-menu li:hover > a,.nav-main .sf-menu .sub-menu li.current-menu-item > a{background-color: #a30c11;color: #ecf0f1;}.nav-main .sf-menu .sub-menu li a{color: #ecf0f1; font-family: 'Roboto', Arial, sans-serif; font-weight: 400; font-size: 13px;text-transform: capitalize;line-height: 3.3em;}.search-section{background-color: rgba(255, 255, 255, 0.1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}.search-section,.search-section .form-search .field{color: #000000;}#sub-header{background-color: rgba(186, 9, 9, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}#sub-header, #sub-header .widget-title{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 20px;text-transform: none;letter-spacing: 1.5px;font-style: normal;line-height: 30px;}#sub-header a{color: #ffffff;}#sub-header a:hover{color: #cccccc;}#title-bar{height: 100px;line-height: 100px;color: #7f8c8d; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 17px;text-transform: uppercase;}#title-bar.title-bar-style-custom_bg{background-color: rgba(236, 240, 241, 1);background-position: center center;background-repeat: repeat;background-size: cover;background-attachment: scroll;}#title-bar div.breadcrumbs, #title-bar div.breadcrumbs a{color: #7f8c8d; font-family: 'Droid Serif', Arial, sans-serif; font-weight: normal; font-size: 11px;text-transform: uppercase;letter-spacing: 1.2px;font-style: italic;}a{color: #dd3333;}a:hover, a:focus{color: #e81700;}::selection{color: #ffffff;background: #e74c3c;}::-moz-selection{color: #ffffff;background: #e74c3c;}h1{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 30px;text-transform: none;letter-spacing: -0.5px;font-style: normal;line-height: 1.2em;}h2{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 400; font-size: 32px;text-transform: none;font-style: normal;line-height: 1.2em;}h3{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 18px;text-transform: none;font-style: italic;line-height: 1.2em;}h4{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 17px;text-transform: none;font-style: normal;line-height: 1.2em;}h5{color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: 700; font-size: 18px;text-transform: uppercase;font-style: normal;line-height: 1.2em;}h6{color: #e74c3c; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 17px;text-transform: none;font-style: normal;line-height: 1.2em;}h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 18px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-two h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-three h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 15px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-format h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 27px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-one h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 22px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-two h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 20px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-three h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-four h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.cover-item .caption .grid-heading,.grid-item.cover-item .caption .entry-meta span,.grid-item.cover-item .caption .entry-excerpt p,.grid-item.cover-item .caption .read-more{color: #ffffff;}.posts-group .featured-post h3.media-heading,.posts-group .featured-post h3.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.posts-group h3.media-heading,.posts-group h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.entry-meta > span, .more-link span,.read-more{color: #95a5a6; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 12px;text-transform: none;font-style: normal;}.entry-post .entry-meta > span{color: #95a5a6; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 12px;text-transform: none;font-style: normal;line-height: 1em;}.entry-excerpt{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;font-style: normal;line-height: 1.3em;}.entry-post .entry-excerpt{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: bold; font-size: 17px;text-transform: none;font-style: italic;line-height: 20px;}.category-label{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 11px;text-transform: uppercase;font-style: normal;}#primary #breadcrumbs,#primary #breadcrumbs a, nav.post-navigation{color: #7f8c8d; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: none;font-style: normal;line-height: 1em;}#sidebar{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;font-style: normal;line-height: 21px;}#sidebar a{color: #5e5e5e;}#sidebar a:hover{color: #e74c3c;}#sidebar .widget-title{color: #7f8c8d; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 15px;text-transform: uppercase;font-style: normal;line-height: 1;}#footer-widgets{background-color: rgba(236, 240, 241, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #000000; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: none;font-style: normal;line-height: 1.5em;}#footer-widgets a{color: #000000;}#footer-widgets a:hover{color: #a30c11;}#footer-widgets .widget-title{color: #a30c11; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 17px;text-transform: uppercase;font-style: normal;line-height: 2;}#footer-copyright{background-color: rgba(236, 240, 241, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 10px;text-transform: uppercase;font-style: normal;line-height: 70px;}#footer-copyright a{color: #a02323;}#footer-copyright a:hover{color: #ce2f2f;}#pojo-scroll-up{width: 50px;height: 50px;line-height: 50px;background-color: rgba(51, 51, 51, 0.6);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;}#pojo-scroll-up a{color: #eeeeee;}#primary #main.sidebar-right,#primary #main.sidebar-left,.align-pagination .pagination,.single .entry-post .entry-meta, body.rtl #primary #main.sidebar-right,body.rtl #primary #main.sidebar-left,.media .media-body,.media.list-format .media-body, .media.grid-item .item-inner,.media.grid-item.list-two:nth-child(n+3) .item-inner,.media.grid-item.list-three:nth-child(n+4) .item-inner,.posts-group.featured-list-aside .media.list-item .item-inner, .posts-group .grid-item.media.featured-post .item-inner,.posts-group .grid-item.media.list-item:nth-child(n+4) .item-inner,.posts-group.featured-list-aside .media.list-item:nth-child(n+3) .item-inner,.posts-group.featured-list-two-below .media.featured-post .media-body,.posts-group.featured-list-below .grid-item, .posts-group.featured-list-below .media,nav.post-navigation,.commentlist li{border-color: #ffffff;}#footer-copyright .content-copyright{border-color: #ecf0f1;}.sf-menu a, .menu-no-found,.sf-menu li.pojo-menu-search,.search-header{line-height: 30px;}.sf-menu li:hover ul, .sf-menu li.sfHover ul{top: 30px;}a.search-toggle{color: #2c3e50;}.navbar-toggle{border-color: #2c3e50;}.icon-bar{background-color: #2c3e50;}#sub-header ul.social-links li a .social-icon:before{line-height: 30px;height: 30px;width: 30px;}</style>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Droid+Serif:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"><style type="text/css">body{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 17px;line-height: 1.5em;}#primary{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;}button,.button,#commentform .button{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 15px;text-transform: uppercase;background-color: #e74c3c;border-color: #e74c3c;}button:hover,.button:hover,#commentform .button:hover{color: #e74c3c;background-color: #ffffff;border-color: #e74c3c;}div.logo-text a{color: #34495e; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 44px;line-height: 1;}.logo{margin-top: 10px;margin-bottom: 0px;}#top-bar{background-color: rgba(0, 0, 0, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}#top-bar, #top-bar .widget-title{color: #000000; font-family: 'Open Sans', Arial, sans-serif; font-weight: 600; font-size: 12px;text-transform: uppercase;letter-spacing: 0px;font-style: normal;line-height: 45px;}#top-bar a{color: #8224e3;}#top-bar a:hover{color: #e74c3c;}#header, .sticky-header{background-color: rgba(255, 255, 255, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}.sf-menu a, .mobile-menu a{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 18px;text-transform: uppercase;}.sf-menu a:hover,.sf-menu li.active a, .sf-menu li.current-menu-item > a,.sf-menu .sfHover > a,.sf-menu .sfHover > li.current-menu-item > a,.sf-menu li.current-menu-ancestor > a,.mobile-menu a:hover,.mobile-menu li.current-menu-item > a, a.search-toggle .fa-times{color: #a30c11;}.nav-main .sf-menu .sub-menu{background-color: #2c3e50;}.nav-main .sf-menu .sub-menu li:hover > a,.nav-main .sf-menu .sub-menu li.current-menu-item > a{background-color: #a30c11;color: #ffffff;}.nav-main .sf-menu .sub-menu li a{color: #ffffff; font-family: 'Roboto', Arial, sans-serif; font-weight: 400; font-size: 13px;text-transform: capitalize;line-height: 3.3em;}.search-section{background-color: rgba(10, 10, 10, 0.1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}.search-section,.search-section .form-search .field{color: #000000;}#sub-header{background-color: rgba(186, 9, 9, 1);background-position: top center;background-repeat: repeat-x;background-size: auto;background-attachment: scroll;}#sub-header, #sub-header .widget-title{color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 20px;text-transform: none;letter-spacing: 1.5px;font-style: normal;line-height: 30px;}#sub-header a{color: #a30c11;}#sub-header a:hover{color: #cccccc;}#title-bar{height: 100px;line-height: 100px;color: #7f8c8d; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 17px;text-transform: uppercase;}#title-bar.title-bar-style-custom_bg{background-color: rgba(236, 240, 241, 1);background-position: center center;background-repeat: repeat;background-size: cover;background-attachment: scroll;}#title-bar div.breadcrumbs, #title-bar div.breadcrumbs a{color: #7f8c8d; font-family: 'Droid Serif', Arial, sans-serif; font-weight: normal; font-size: 11px;text-transform: uppercase;letter-spacing: 1.2px;font-style: italic;}a{color: #dd3333;}a:hover, a:focus{color: #e81700;}::selection{color: #ffffff;background: #e74c3c;}::-moz-selection{color: #ffffff;background: #e74c3c;}h1{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 30px;text-transform: none;letter-spacing: -0.5px;font-style: normal;line-height: 1.2em;}h2{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 400; font-size: 32px;text-transform: none;font-style: normal;line-height: 1.2em;}h3{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 18px;text-transform: none;font-style: italic;line-height: 1.2em;}h4{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 17px;text-transform: none;font-style: normal;line-height: 1.2em;}h5{color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: 700; font-size: 18px;text-transform: uppercase;font-style: normal;line-height: 1.2em;}h6{color: #e74c3c; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 17px;text-transform: none;font-style: normal;line-height: 1.2em;}h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 18px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-two h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-three h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 500; font-size: 15px;text-transform: none;font-style: normal;line-height: 1.2em;}.media.list-format h3.media-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 27px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-one h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 22px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-two h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 20px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-three h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.grid-four h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.grid-item.cover-item .caption .grid-heading,.grid-item.cover-item .caption .entry-meta span,.grid-item.cover-item .caption .entry-excerpt p,.grid-item.cover-item .caption .read-more{color: #ffffff;}.posts-group .featured-post h3.media-heading,.posts-group .featured-post h3.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.posts-group h3.media-heading,.posts-group h4.grid-heading{color: #2c3e50; font-family: 'Montserrat', Arial, sans-serif; font-weight: 600; font-size: 16px;text-transform: none;font-style: normal;line-height: 1.2em;}.entry-meta > span, .more-link span,.read-more{color: #95a5a6; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 12px;text-transform: none;font-style: normal;}.entry-post .entry-meta > span{color: #95a5a6; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 12px;text-transform: none;font-style: normal;line-height: 1em;}.entry-excerpt{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;font-style: normal;line-height: 1.3em;}.entry-post .entry-excerpt{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: bold; font-size: 17px;text-transform: none;font-style: italic;line-height: 20px;}.category-label{color: #ffffff; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 11px;text-transform: uppercase;font-style: normal;}#primary #breadcrumbs,#primary #breadcrumbs a, nav.post-navigation{color: #7f8c8d; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: none;font-style: normal;line-height: 1em;}#sidebar{color: #5e5e5e; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 15px;text-transform: none;font-style: normal;line-height: 21px;}#sidebar a{color: #5e5e5e;}#sidebar a:hover{color: #e74c3c;}#sidebar .widget-title{color: #7f8c8d; font-family: 'Montserrat', Arial, sans-serif; font-weight: bold; font-size: 15px;text-transform: uppercase;font-style: normal;line-height: 1;}#footer-widgets{background-color: rgba(236, 240, 241, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #000000; font-family: 'Roboto', Arial, sans-serif; font-weight: normal; font-size: 14px;text-transform: none;font-style: normal;line-height: 1.5em;}#footer-widgets a{color: #000000;}#footer-widgets a:hover{color: #a30c11;}#footer-widgets .widget-title{color: #a30c11; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 17px;text-transform: uppercase;font-style: normal;line-height: 2;}#footer-copyright{background-color: rgba(236, 240, 241, 1);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;color: #000000; font-family: 'Montserrat', Arial, sans-serif; font-weight: normal; font-size: 10px;text-transform: uppercase;font-style: normal;line-height: 70px;}#footer-copyright a{color: #a02323;}#footer-copyright a:hover{color: #ce2f2f;}#pojo-scroll-up{width: 50px;height: 50px;line-height: 50px;background-color: rgba(51, 51, 51, 0.6);background-position: top center;background-repeat: repeat;background-size: auto;background-attachment: scroll;}#pojo-scroll-up a{color: #eeeeee;}#primary #main.sidebar-right,#primary #main.sidebar-left,.align-pagination .pagination,.single .entry-post .entry-meta, body.rtl #primary #main.sidebar-right,body.rtl #primary #main.sidebar-left,.media .media-body,.media.list-format .media-body, .media.grid-item .item-inner,.media.grid-item.list-two:nth-child(n+3) .item-inner,.media.grid-item.list-three:nth-child(n+4) .item-inner,.posts-group.featured-list-aside .media.list-item .item-inner, .posts-group .grid-item.media.featured-post .item-inner,.posts-group .grid-item.media.list-item:nth-child(n+4) .item-inner,.posts-group.featured-list-aside .media.list-item:nth-child(n+3) .item-inner,.posts-group.featured-list-two-below .media.featured-post .media-body,.posts-group.featured-list-below .grid-item, .posts-group.featured-list-below .media,nav.post-navigation,.commentlist li{border-color: #ffffff;}#footer-copyright .content-copyright{border-color: #ecf0f1;}.sf-menu a, .menu-no-found,.sf-menu li.pojo-menu-search,.search-header{line-height: 30px;}.sf-menu li:hover ul, .sf-menu li.sfHover ul{top: 30px;}a.search-toggle{color: #2c3e50;}.navbar-toggle{border-color: #2c3e50;}.icon-bar{background-color: #2c3e50;}#sub-header ul.social-links li a .social-icon:before{line-height: 30px;height: 30px;width: 30px;}</style>
 		<style type="text/css">
 #pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
 #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
@@ -161,57 +162,57 @@ body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width
                       var mapping1 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[300, 250]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wkow/wkow.com/1:1_a', [300,250], 'div-gpt-ad-1').
-            defineSizeMapping(mapping1).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_A Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wkow/wkow.com/1:1_a', [300,250], 'div-gpt-ad-1')
+            .defineSizeMapping(mapping1)
+        .setTargeting("wp_unit", "1:1_A Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping2 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[300, 250]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wkow/wkow.com/1:1_b', [300,250], 'div-gpt-ad-2').
-            defineSizeMapping(mapping2).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_B Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wkow/wkow.com/1:1_b', [300,250], 'div-gpt-ad-2')
+            .defineSizeMapping(mapping2)
+        .setTargeting("wp_unit", "1:1_B Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping3 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[[320,50], [320,90]]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wkow/wkow.com/8:1_a', [[728,90],[320,50],[320,90]], 'div-gpt-ad-3').
-            defineSizeMapping(mapping3).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_A Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wkow/wkow.com/8:1_a', [[728,90],[320,50],[320,90]], 'div-gpt-ad-3')
+            .defineSizeMapping(mapping3)
+        .setTargeting("wp_unit", "8:1_A Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping4 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[320, 50]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wkow/wkow.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4').
-            defineSizeMapping(mapping4).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_B Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wkow/wkow.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4')
+            .defineSizeMapping(mapping4)
+        .setTargeting("wp_unit", "8:1_B Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
 
@@ -258,42 +259,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="current-conditions-slides">
                     <div class="station" data-slide-number="0" data-station-id="KMSN">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-night-clear" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Madison                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        45°
                     </div>
                             </div>
                     <div class="station" data-slide-number="1" data-station-id="KJVL">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-night-clear" data-condition="Partly Cloudy" data-condition-abbrv="sct" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Janesville                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        30°
-                    </div>
                             </div>
                     <div class="station" data-slide-number="2" data-station-id="KDLL">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Portage                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        43°
                     </div>
                             </div>
                     <div class="station" data-slide-number="3" data-station-id="KRYV">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Watertown                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        45°
                     </div>
                             </div>
             </div>
@@ -306,8 +304,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-news menu-item-128"><a href="https://wkow.com/news/"><span>News</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-latest-news menu-item-5330"><a href="https://wkow.com/news/"><span>Latest News</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-election-results menu-item-142277"><a href="https://wkow.com/election-results/"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-live-streaming-video menu-item-31008"><a href="https://wkow.com/news/wkow-live-streaming-video/"><span>Live Streaming Video</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-election-results menu-item-74444"><a href="https://wkow.com/?page_id=1389"><span>Election Results</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-crime menu-item-3980"><a href="https://wkow.com/crime/"><span>Crime</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-politics menu-item-3997"><a href="https://wkow.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-digging-deeper menu-item-3982"><a href="https://wkow.com/digging-deeper/"><span>Digging Deeper</span></a></li>
@@ -322,10 +320,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-latest-weather menu-item-30992"><a href="https://wkow.com/weather/"><span>Latest Weather</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-interactive-radar menu-item-1399"><a href="https://wkow.com/weather/interactive-radar/"><span>Interactive Radar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1386"><a href="https://wkow.com/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1386"><a href="https://wkow.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-27-traffic-tracker menu-item-4367"><a href="https://wkow.com/27-traffic-tracker/"><span>27 Traffic Tracker</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-bus-stop-forecast menu-item-4368"><a href="https://wkow.com/bus-stop-forecast/"><span>Bus Stop Forecast</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meet-27-stormtrack-weather-team menu-item-44898"><a href="https://wkow.com/meet-the-wkow-storm-track-weather-team/"><span>Meet 27 StormTrack weather team</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-snow-totals menu-item-109476"><a href="https://www.weather.gov/source/crh/snowmap.html?sid=dvn"><span>Snow Totals</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-4-degree-guarantee menu-item-120919"><a href="https://wkow.com/4-degree-guarantee/"><span>4 Degree Guarantee</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-27-stormtrack-team menu-item-44898"><a href="https://wkow.com/meet-the-wkow-storm-track-weather-team/"><span>27 StormTrack team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-sports menu-item-281"><a href="https://wkow.com/sports/"><span>Sports</span></a>
@@ -335,17 +334,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-packers menu-item-4385"><a href="https://wkow.com/packers/"><span>Packers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-brewers menu-item-4384"><a href="https://wkow.com/brewers/"><span>Brewers</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-high-school-sports menu-item-4383"><a href="https://wkow.com/high-school-sports/"><span>High School Sports</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wiaa menu-item-4382"><a href="https://wkow.com/wiaa/"><span>WIAA</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wiaa-magic-of-march menu-item-4382"><a href="https://wkow.com/wiaa/"><span>WIAA – Magic of March</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-magic-of-march-app menu-item-123666"><a href="https://wkow.com/sport/wiaa/2019/02/26/get-the-magic-of-march-app-watch-the-tournament-action/"><span>Magic of March app</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meet-the-wkow-sports-team menu-item-44899"><a href="https://wkow.com/meet-the-wkow-sports-team/"><span>Meet the WKOW sports team</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-watch menu-item-618"><a href="https://wkow.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-tv-listings menu-item-4414"><a href="https://wkow.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wkow-live-streaming-video menu-item-5275"><a href="https://wkow.com/news/wkow-live-streaming-video/"><span>WKOW Live Streaming Video</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-tv-schedule menu-item-4414"><a href="https://wkow.com/watch/"><span>TV schedule</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-27-1-wkow-tv menu-item-4689"><a href="https://wkow.com/watch/"><span>27.1 WKOW TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-27-2-metv menu-item-4690"><a href="https://www.metv.com/"><span>27.2 MeTV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-27-3-decades menu-item-4691"><a href="https://decades.com/"><span>27.3 Decades</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-court-tv menu-item-155946"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-justice-network-tv menu-item-155947"><a href="http://www.justicenetworktv.com/"><span>Justice Network TV</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-watch-abc menu-item-4411"><a href="https://abc.go.com/schedule"><span>Watch ABC</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-discover-wisconsin menu-item-4413"><a href="https://discoverwisconsin.com/"><span>Discover Wisconsin</span></a></li>
 </ul>
@@ -353,7 +355,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-things-to-do menu-item-619"><a href="https://wkow.com/things-to-do/"><span>Things to Do</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-community-calendar menu-item-29579"><a href="https://wkow.com/things-to-do/#/"><span>Community Calendar</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-toys-for-tots-2018 menu-item-71388"><a href="https://wkow.com/community/toys/2018/11/01/toys-for-tots-2018/"><span>Toys for Tots 2018</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-contests menu-item-5355"><a href="https://wkow.com/contests/"><span>Contests</span></a></li>
 </ul>
 </li>
@@ -364,18 +365,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-psa-policy menu-item-5353"><a href="https://wkow.com/psa-policy/"><span>PSA policy</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-advertise-with-wkow menu-item-800"><a href="https://wkow.com/advertise-with-wkow/"><span>Advertise with WKOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-advertiser-services menu-item-801"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincify-digital-marketing menu-item-802"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-careers-at-wkow menu-item-799"><a href="https://wkow.com/wkow-careers/"><span>Careers at WKOW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincy-media-careers menu-item-803"><a href="https://quincymediacareers.com/"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
-</ul><ul id="menu-tablet-menu" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-home first-item menu-item-3316"><a href="https://wkow.com/"><span>Home</span></a></li>
+</ul><ul id="menu-tablet-menu" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-home first-item menu-item-106183"><a href="https://www.wkow.com"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-news menu-item-3318"><a href="https://wkow.com/news/"><span>News</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-weather menu-item-3315"><a href="https://wkow.com/weather/"><span>Weather</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-radar menu-item-50587"><a href="https://wkow.com/weather/interactive-radar/"><span>Radar</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-sports menu-item-3319"><a href="https://wkow.com/sports/"><span>Sports</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-watch menu-item-3313"><a href="https://wkow.com/watch/"><span>Watch</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-things-to-do menu-item-3314"><a href="https://wkow.com/things-to-do/"><span>Things to Do</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-contests menu-item-120848"><a href="https://wkow.com/contests/"><span>Contests</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-contact menu-item-3317"><a href="https://wkow.com/contact-us/"><span>Contact</span></a></li>
 </ul>                                                                    <div class="search-header hidden-xs">
                                         <a href="javascript:void(0);" class="search-toggle" data-target="#search-section-primary">
@@ -430,21 +430,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <nav class="nav-main" role="navigation">
                         <div class="navbar-collapse collapse">
                             <div class="nav-main-inner">
-                                                                    <ul id="menu-tablet-menu-1" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-item menu-item-3316"><a href="https://wkow.com/"><span>Home</span></a></li>
+                                                                    <ul id="menu-tablet-menu-1" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-106183"><a href="https://www.wkow.com"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3318"><a href="https://wkow.com/news/"><span>News</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3315"><a href="https://wkow.com/weather/"><span>Weather</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50587"><a href="https://wkow.com/weather/interactive-radar/"><span>Radar</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3319"><a href="https://wkow.com/sports/"><span>Sports</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3313"><a href="https://wkow.com/watch/"><span>Watch</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3314"><a href="https://wkow.com/things-to-do/"><span>Things to Do</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120848"><a href="https://wkow.com/contests/"><span>Contests</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3317"><a href="https://wkow.com/contact-us/"><span>Contact</span></a></li>
-</ul><ul id="menu-tablet-menu-2" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home first-item menu-item-3316"><a href="https://wkow.com/"><span>Home</span></a></li>
+</ul><ul id="menu-tablet-menu-2" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-106183"><a href="https://www.wkow.com"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3318"><a href="https://wkow.com/news/"><span>News</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3315"><a href="https://wkow.com/weather/"><span>Weather</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50587"><a href="https://wkow.com/weather/interactive-radar/"><span>Radar</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3319"><a href="https://wkow.com/sports/"><span>Sports</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3313"><a href="https://wkow.com/watch/"><span>Watch</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3314"><a href="https://wkow.com/things-to-do/"><span>Things to Do</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120848"><a href="https://wkow.com/contests/"><span>Contests</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3317"><a href="https://wkow.com/contact-us/"><span>Contact</span></a></li>
 </ul>                                                                            <div class="search-header hidden-xs">
                                             <a href="javascript:void(0);" class="search-toggle" data-target="#search-section-sticky">
@@ -528,42 +528,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="current-conditions-slides">
                     <div class="station" data-slide-number="0" data-station-id="KMSN">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-night-clear" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Madison                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        45°
                     </div>
                             </div>
                     <div class="station" data-slide-number="1" data-station-id="KJVL">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-night-clear" data-condition="Partly Cloudy" data-condition-abbrv="sct" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Janesville                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        30°
-                    </div>
                             </div>
                     <div class="station" data-slide-number="2" data-station-id="KDLL">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Portage                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        43°
                     </div>
                             </div>
                     <div class="station" data-slide-number="3" data-station-id="KRYV">
                 <div class="station-condition">
-                    <i class="wi wi-night-clear" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
+                    <i class="wi wi-day-sunny" data-condition="Clear" data-condition-abbrv="skc" style="color:#0A246A"></i>
                 </div>
                 <div class="station-title" style="color:#212121">
                     Watertown                </div>
                                     <div class="station-temperature" style="color:#212121">
-                        28°
+                        45°
                     </div>
                             </div>
             </div>
@@ -583,22 +580,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 			</div>
 		</div>
-		</div></section><section id="pojo_recent_posts-1" class="widget widget_pojo_recent_posts"><div class="widget-inner"><div class="theme-color-9"><div class="list-items"><div class="recent-post grid-item grid-one post-79958 post type-post status-publish format-image has-post-thumbnail hentry category-news category-weather-now tag-coldest tag-madison tag-november post_format-post-format-image ">
+		</div></section><section id="pojo_recent_posts-1" class="widget widget_pojo_recent_posts"><div class="widget-inner"><div class="theme-color-9"><div class="list-items"><div class="recent-post grid-item grid-one post-166231 post type-post status-publish format-image has-post-thumbnail hentry category-weather-now tag-chills tag-chilly tag-madison tag-warm tag-wind post_format-post-format-image ">
 	<div class="item-inner">
 					<div class="entry-thumbnail">
-				<a href="https://wkow.com/news/2018/11/20/second-coldest-november-in-20-years-continues/" title="Second-coldest November in 20 years continues" rel="bookmark" class="image-link">
-					<img src="https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2018/11/18.jpg" alt="Second-coldest November in 20 years continues" class="media-object">
+				<a href="https://wkow.com/weather/weather-now/2019/05/20/chilly-start-to-the-week-then-a-big-warm-up/" title="Chilly start to the week, then a big warm-up!" rel="bookmark" class="image-link">
+					<img src="https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2019/05/13.jpg" alt="Chilly start to the week, then a big warm-up!" class="media-object">
 									</a>
 			</div>
 				<div class="caption">
 							<h4 class="grid-heading entry-title">
-					<a href="https://wkow.com/news/2018/11/20/second-coldest-november-in-20-years-continues/" title="Second-coldest November in 20 years continues" rel="bookmark">Second-coldest November in 20 years continues</a>
+					<a href="https://wkow.com/weather/weather-now/2019/05/20/chilly-start-to-the-week-then-a-big-warm-up/" title="Chilly start to the week, then a big warm-up!" rel="bookmark">Chilly start to the week, then a big warm-up!</a>
 				</h4>
 						<div class="entry-meta">
-													<span><time datetime="2018-11-20" class="entry-date date published updated">November 20, 2018</time></span>
+													<span><time datetime="2019-05-20" class="entry-date date published updated">May 20, 2019</time></span>
 															</div>
 							<div class="entry-excerpt">
-					<p>Compared to recent history, it’s been a pretty cold November. Temps are running more than 7° below average.</p>
+					<p>After a soggy and relatively cool weekend, temps fall even further before rebounding.</p>
 				</div>
 								</div>
 	</div>
@@ -637,49 +634,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 			</div>
 		</div>
-		</div></section><section id="pojo_recent_posts-9" class="widget widget_pojo_recent_posts"><div class="widget-inner"><h5 class="widget-title"><span>Top Stories</span></h5><div class="list-items"><div class="recent-post media list-item post-80356 post type-post status-publish format-image has-post-thumbnail hentry category-news category-top-stories tag-cooking tag-cooking-fire tag-cooking-safety tag-fire tag-madison-fire tag-madison-fire-department tag-preventing-fires tag-thanksgiving tag-wkow post_format-post-format-image ">
+		</div></section><section id="pojo_recent_posts-9" class="widget widget_pojo_recent_posts"><div class="widget-inner"><h5 class="widget-title"><span>Top Stories</span></h5><div class="list-items"><div class="recent-post media list-item post-166668 post type-post status-publish format-image has-post-thumbnail hentry category-news category-top-stories tag-chief-mike-koval tag-koval tag-madison tag-madison-police tag-police tag-police-academy tag-police-recruitment post_format-post-format-image ">
 		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/2018/11/20/preventing-cooking-fires-this-holiday-season/">Preventing cooking fires this holiday season</a></h3>
+					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/2019/05/20/madison-police-expecting-record-breaking-recruitment-class/">Madison police expecting record breaking recruitment class</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
-				<p>Madison fire officials are reminding people about cooking safety ahead of the Thanksgiving holiday.&nbsp;Thanksgiving is the most common day of</p>
+				<p>The Madison Police Department plans to swear in their largest recruitment class in history, with 50 future officers taking their</p>
 			</div>
 					</div>
-</div><div class="recent-post media list-item post-80370 post type-post status-publish format-image has-post-thumbnail hentry category-health category-top-stories tag-divine-savior-healthcare tag-helicopter tag-hospital tag-madison tag-med-flight tag-medflight tag-portage tag-university-hospital tag-uw-hospital tag-wkow post_format-post-format-image ">
+</div><div class="recent-post media list-item post-166670 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories tag-appleton tag-appleton-fire-department tag-fire tag-firefighter tag-funeral tag-funeral-service tag-mitch-lundgaard tag-mourning post_format-post-format-image ">
 		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/top-stories/2018/11/20/med-flight-expands-north-of-madison/">Med Flight expands north of Madison</a></h3>
+					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/top-stories/2019/05/20/emotional-service-wraps-up-day-of-mourning-appleton-firefighter/">Emotional service wraps up day of mourning Appleton firefighter</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
-				<p>A helicopter base will be set up in Portage at Divine Savior Healthcare. </p>
+				<p>The community said their final goodbyes to Firefighter Mitch Lundgaard Monday evening at an Appleton-area church. 
+</p>
 			</div>
 					</div>
-</div><div class="recent-post media list-item post-80322 post type-post status-publish format-image has-post-thumbnail hentry category-political category-top-stories tag-jason-stein tag-property-taxes tag-record-setting tag-school-referendums tag-wisconsin-policy-forum post_format-post-format-image ">
+</div><div class="recent-post media list-item post-166329 post type-post status-publish format-image has-post-thumbnail hentry category-featured category-health category-news category-top-stories tag-alert tag-family tag-food tag-health tag-kids tag-recall tag-study post_format-post-format-image ">
 		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/top-stories/2018/11/20/school-referendums-break-records-as-more-taxpayers-want-to-invest-in-schools/">School referendums break records as more taxpayers vote to invest in schools</a></h3>
+					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/2019/05/20/food-flaws-more-food-recalls-reported-than-ever-before-3/">Food Flaws: More food recalls reported than ever before</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
-				<p>The Wisconsin Policy Forum said school referendums reached a new record this election, nearly 90% of voters approving them totaling</p>
+				<p>Food recalls are being reported at an alarming rate leaving many people in the dark when it comes to grocery</p>
 			</div>
 					</div>
-</div><div class="recent-post media list-item post-80167 post type-post status-publish format-image has-post-thumbnail hentry category-crime category-news category-top-stories tag-madison tag-robbery post_format-post-format-image ">
+</div><div class="recent-post media list-item post-166653 post type-post status-publish format-image has-post-thumbnail hentry category-top-stories tag-27-news tag-haylee-akers tag-madison-police tag-missing-persons tag-missing-teen tag-wkow post_format-post-format-image ">
 		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/2018/11/20/couple-connected-to-madison-robbery-arrested-after-a-standoff-in-south-carolina/">Couple connected to Madison robbery arrested after a standoff in South Carolina</a></h3>
+					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/top-stories/2019/05/20/madison-police-searching-for-missing-teen/">Madison Police searching for missing teen</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
-				<p>The suspect fled in a maroon SUV occupied by an adult female white and a baby in a car seat.&nbsp;</p>
+				<p>Madison police officers are searching for a missing teenager who hasn't been seen since Monday afternoon.&nbsp;</p>
 			</div>
 					</div>
-</div><div class="recent-post media list-item post-80298 post type-post status-publish format-image has-post-thumbnail hentry category-crime category-news category-top-stories tag-monona tag-police post_format-post-format-image ">
+</div><div class="recent-post media list-item post-166418 post type-post status-publish format-image has-post-thumbnail hentry category-political category-top-stories category-wisconsin-news-from-the-associated-press post_format-post-format-image ">
 		<div class="media-body">
-					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/2018/11/20/monona-woman-accused-of-making-multiple-false-911-calls/">Monona woman accused of making multiple false 911 calls</a></h3>
+					<h3 class="media-heading entry-title"><a href="https://wkow.com/news/wisconsin-news-from-the-associated-press/2019/05/20/the-latest-evers-weighs-in-on-sexism-claims-against-gop/">The Latest: Evers weighs in on sexism claims against GOP</a></h3>
 				<div class="entry-meta">
 														</div>
 					<div class="entry-excerpt">
-				<p>Police have arrested a 60-year-old Monona woman for making multiple false 911 calls over the past four days.</p>
+				<p>Evers spokeswoman on Saturday accused Assembly Speaker Robin Vos and Senate Majority Leader Scott Fitzgerald of refusing to negotiate with</p>
 			</div>
 					</div>
 </div></div></div></section>        <div id="div-gpt-ad-2" class="div-gpt-ad div-gpt-widget"></div>
@@ -697,11 +695,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div id="footer-widgets">
 	<div class="container">
 		<div class="row">
-			<section id="pojo_image_text-3" class="widget widget_pojo_image_text col-sm-4"><div class="widget-inner"><div class="pojo-image-text"><img src="http://wkow.com/wp-content/uploads/sites/8/2018/07/WKOWflat512x512.png" alt="" class="image-text-thumbnail alignleft"><div class="image-text-body"><p class="image-text-description"><br><b>WKOW 27</b><br>
+			<section id="pojo_image_text-3" class="widget widget_pojo_image_text col-sm-4"><div class="widget-inner"><div class="pojo-image-text"><img src="https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/8/2018/07/22171112/WKOWflat512x512.png" alt="" class="image-text-thumbnail alignleft"><div class="image-text-body"><p class="image-text-description"><br><b>WKOW 27</b><br>
 5727 Tokay Blvd., Madison, WI 53719<br>
 News Tips: 608-273-2727 <br>
 or <a href="mailto:news@wkow.com">news@wkow.com</a></p></div></div></div></section><section id="custom_html-3" class="widget_text widget widget_custom_html col-sm-4"><div class="widget_text widget-inner"><div class="textwidget custom-html-widget"><a href="mailto:news@wkow.com"><br></a><a href="/wkow-careers">Careers</a>&nbsp;&nbsp;<a href="/advertise-with-wkow">Advertise with us</a>&nbsp;&nbsp;<a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp">Advertiser Services</a><br>
-<a href="https://publicfiles.fcc.gov/tv-profile/wkow">FCC Public File</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/78a0a698-e3a7-625d-408c-19e575ad519e/10406ac8-954d-4748-a42d-f9f14436edcb.pdf">EEO Report</a><br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1352">
+<a href="https://publicfiles.fcc.gov/tv-profile/wkow">FCC Public File</a> &nbsp;<a href="https://wkow.com/contact/about-us/2019/05/20/fcc-public-file-help/">Public File Help</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/78a0a698-e3a7-625d-408c-19e575ad519e/10406ac8-954d-4748-a42d-f9f14436edcb.pdf">EEO Report</a><br> <a href="/closed-captioning">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1352">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 							<div data-id="1352" class="elementor-element elementor-element-1352 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
@@ -742,7 +740,7 @@ or <a href="mailto:news@wkow.com">news@wkow.com</a></p></div></div></div></secti
 			<div class="container">
 				<div class="content-copyright">
 					<div class="pull-left-copyright">
-						All content © Copyright 2000 - 2018 WKOW Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
+						All content © Copyright 2000 - 2019 WKOW Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
 					<div class="pull-right-copyright">
 											</div>
 				</div>
@@ -814,9 +812,9 @@ or <a href="mailto:news@wkow.com">news@wkow.com</a></p></div></div></div></secti
 				</div>
 			</div>
 		</div>
-		<link rel="stylesheet" id="elementor-post-35409-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-35409.css?ver=1542651113" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-post-35415-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-35415.css?ver=1542651113" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-post-1352-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-1352.css?ver=1542426214" type="text/css" media="all">
+		<link rel="stylesheet" id="elementor-post-35409-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-35409.css?ver=1555964490" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-35415-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-35415.css?ver=1557412666" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-1352-css" href="http://wkow.com/wp-content/uploads/sites/8/elementor/css/post-1352.css?ver=1557412293" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var breakingNews = {"siteURL":"http:\/\/wkow.com","breakingNewsTitle":"NEWS ALERT","breakingWeatherTitle":"WEATHER ALERT","breakingNewsBg":"#C13131","breakingWeatherBg":"#E9CD00"};
@@ -828,13 +826,7 @@ var breakingNews = {"siteURL":"http:\/\/wkow.com","breakingNewsTitle":"NEWS ALER
 var pollsL10n = {"ajax_url":"https:\/\/wkow.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wkow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var distributorCustomizations = {"title_text":"Click to refresh page and enable Distributor."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wkow.com/wp-content/plugins/cordillera-distributor-customizations/assets/js/cordillera-distributor-customizations.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://wkow.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
 <script type="text/javascript" src="http://wkow.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -864,7 +856,7 @@ var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommer
 <script type="text/javascript" src="http://wkow.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wkow.com\/wp-admin\/admin-ajax.php","nonce":"a525c1305e","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wkow.com\/wp-admin\/admin-ajax.php","nonce":"a5da59526d","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wkow.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
@@ -942,5 +934,5 @@ var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0
 									</div>
 			</div>
 		</nav>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":776,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":596,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
