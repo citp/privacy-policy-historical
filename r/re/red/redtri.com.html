@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redtri.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230073319id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redtri.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521021808id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -30,21 +30,150 @@
 <![endif]-->
 <meta name="google-site-verification" content="dPJfvS7r1WS6BOLmvYsV3jZcB-orVT0P4iBXI2A8gmw">
 <meta name="p:domain_verify" content="e40995c473f19943d609af9dd69eebcd">
-		<script id="pubexchange-jssdk" async="" src="//main.pubexchange.com/loader.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/3272.js?438993" async="" type="text/javascript"></script><script async="" src="//ao.redtri.com/cdnr/46/acton/bn/tracker/20625"></script><script async="" src="//acridtwist.com/d32421658ccd3b087716f9a10285677295ab6157ac8ed29d6b8b4c30572ad5aa6f702b2de3f2e0d0b228d8fd0382525505905ec90822927462bb7cafa15b"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://r-login.wordpress.com/remote-login.php?action=js&amp;host=redtri.com&amp;id=45477576&amp;t=1546155199&amp;back=http%3A%2F%2Fredtri.com%2Fprivacy-policy%2F" type="text/javascript"></script>
-		<script type="text/javascript">
-		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
-				}
+
+<!-- Async WordPress.com Remote Login -->
+<script id="pubexchange-jssdk" async="" src="//main.pubexchange.com/loader.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/3272.js?438993" async="" type="text/javascript"></script><script async="" src="//ao.redtri.com/cdnr/46/acton/bn/tracker/20625"></script><script async="" src="//acridtwist.com/d32421658ccd3b087716f9a10285677295ab6157ac8ed29d6b8b4c30572ad5aa6f702b2de3f2e0d0b228d8fd0382525505905ec90822927462bb7cafa15b"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
 			}
-		/* ]]> */
-		</script>
-		<link rel="dns-prefetch" href="//connect.facebook.net">
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cDovL3JlZHRyaS5jb20%3D"
+		+ "&wpcomid=45477576"
+		+ "&time=1558405088";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//connect.facebook.net">
 <link rel="dns-prefetch" href="//s2.wp.com">
-<link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//connect.facebook.net">
 <link rel="dns-prefetch" href="//redtricom.wordpress.com">
 	<script type="text/javascript">
@@ -62,18 +191,10 @@
 		}
 		/* ]]> */
 	</script>
-	<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJx9jdEOgjAMRX/IUUkEn4zfso1Gquu2rFsIf28hwSfDS9PennsvLNn4FCvGCtxMDu1FUSDQBwXeWLP1H7NfnRe5gOIUfWiTvlWAiaSCC2mnXLFlBalrwI4p/hx/CmROpfp0xBxNyJaCkebEF3J4luBTQdU527oRjBNZDMiKndk4j4drW2dtlTN+yUob53JBEaOTqbGpsxbtvic/+uF2G/vhOtzfXwwLfMQ=?cssminify=yes" type="text/css" media="all">
-<link rel="stylesheet" id="screenprojection-css-1-1" href="https://s2.wp.com/_static/??-eJyNy00OQEAMBtALoUOMxEKcRepLjJiftA1xe9zA7m0eXaXmnAzJyDZEKJ2hkGA1CXzzAWJViosapHlZ0b8h0JKThhPfmuPU+t53g/Oj2x9FcisP?cssminify=yes" type="text/css" media="screen, projection">
-<link rel="stylesheet" id="all-css-2-1" href="https://s0.wp.com/_static/??-eJylUdtuwjAM/aEFQ7UiXhDfElwT3CVxl7hM/XtCK9YhNATi7RyfiyUbfjqDEpWigh4pUIYTd5Co0cQ4oCfAnKH97ikNpmczKfNgETguiuUD3m4aU6/0cUTofO845qvboooXN4xam0E5UMf4RenP5nlobNPI/b7Qm99ebhxpLn1ZrUs2zOiZWBZk6w0Xyy2ZwgxRdBKv4FGrIzFe0CpLvCHm4C2nR9FE+3KXAt34hpn+d+zjJzgve+svhl3YruqqWm7WVb1pz4Oz1SE=?cssminify=yes" type="text/css" media="all">
-<script type="text/javascript">
-/* <![CDATA[ */
-var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyFkmFuwyAMhS80iqJVXfdj2lkoeMwpYAamUXb6OVOjqVpaJCSE/emZ90BPWWGyoTmoepT11aDM12031if9CFARfTEMu4hphS0lhsQLG+mEAVSrUIyXmgh90AaXqXKEWgXa6N5eCdMFYepiI3A29qwKVPz+p8qfIPP0BbMu4LignW2AReVExJWLyQ+8N9SWyo3pbWpC54H7nJMIM9ozlD4rWSEjpT4ZIbV7lBzNMMx9EdOYLMUcYPuV7yQpYjqH5jHVlTaWKZCff3sygzFeTa+fqaH6KyrjHC3j3uPbsH89HA/Px5f9+AMBCwGG"></script>
-<script type="text/javascript">
-jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-</script>
+	<link rel="stylesheet" id="all-css-0-1" href="https://s1.wp.com/_static/??-eJx9jt0OgjAMRl/IUVGRK+OzbKPRwTqWtQvh7S0kemW4afpzTr7Cko2fk2ASoGpyrK+QGGKYkGFEydZPZp8az3wCxUPysQ561gUMgQVcnHfKFVtWYFkjNhTSz/gT4OeCuqdsZSMIh2AxIil2pFG+f62tfet3fMQvWWnjXC7IbLRSqGTkrUG796RH23X95db21/P4AVviY4Y=?cssminify=yes" type="text/css" media="all">
+<link rel="stylesheet" id="screenprojection-css-1-1" href="https://s2.wp.com/_static/??-eJyNy00OQDAQBtALYUJbVuIsUl+ioj+ZmVTcHjewe5tHV2l9ToqkpDsihGooxNiUg7/9CfIiFFdRcPeyoX+DISUnCRXfWuLcOzdO1prBHA9FlysS?cssminify=yes" type="text/css" media="screen, projection">
+<link rel="stylesheet" id="all-css-2-1" href="https://s2.wp.com/_static/??-eJylkN0OgjAMhV/IUSViuDE+yxh1lOwHtw7C2zshkZgoN96d057vJC1Mg1DeMToG7tBihJEGCNhyIDUrg6BihP6RMMwikVg326Cw5IocOcDfTQv1tc8mMZikyUWYqNXIEbJmqYO0m1oxAueZMhnfYq9PoxfGK8nk3YcRdyMp7KEBG+N1lnq5bLO//tGdQRvfSPMK3Oz1VJXlsb6UVd0/AaHfkuw=?cssminify=yes" type="text/css" media="all">
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyFztsOgjAMBuAXciyGjHhjfJYxCnayg22B4NM7Er0wEk2a9KJf218vWWF049QBa1/qPgGtr1Z5PuhfQAUcyApUAeMbuxQFomw2J5YAzHaAnWlILY6gJgYqIEp506cd9xkJ44yw/GUeJFt3UwSMj6/vcoWSS8+YNUEnhG51I2xX2pSEhWwuK5dwPhpzqk3TmNo/Adxvb2M="></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://redtricom.wordpress.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress.com">
@@ -100,7 +221,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 <script type="text/javascript">
 	window.ad_slots = [];
 	googletag.cmd.push(function() {
-			window.ad_slots['1x1'] = googletag.defineSlot('/107357230/NATL-CAT-1x1', [1, 1], 'dfp-tag-1x1').addService(googletag.pubads());window.ad_slots['SKIN-1x1'] = googletag.defineSlot('/107357230/NATL-CAT-SKIN-1x1', [1, 1], 'dfp-tag-SKIN-1x1').addService(googletag.pubads());window.ad_slots['ATF-MODAL'] = googletag.defineSlot('/107357230/NATL-CAT-ATF-MODAL', [750, 600], 'dfp-tag-ATF-MODAL').addService(googletag.pubads());window.ad_slots['ATF-728'] = googletag.defineSlot('/107357230/NATL-CAT-ATF-728', [[970,250],[728,90]], 'dfp-tag-ATF-728').addService(googletag.pubads());window.ad_slots['BTF-RT1-300'] = googletag.defineSlot('/107357230/NATL-CAT-BTF-RT1-300', [[300,250],[300,600]], 'dfp-tag-BTF-RT1-300').addService(googletag.pubads());			googletag.pubads().enableSingleRequest();
+			window.ad_slots['1x1'] = googletag.defineSlot('/107357230/BABY-CAT-1x1', [1, 1], 'dfp-tag-1x1').addService(googletag.pubads());window.ad_slots['SKIN-1x1'] = googletag.defineSlot('/107357230/BABY-CAT-SKIN-1x1', [1, 1], 'dfp-tag-SKIN-1x1').addService(googletag.pubads());window.ad_slots['ATF-MODAL'] = googletag.defineSlot('/107357230/BABY-CAT-ATF-MODAL', [750, 600], 'dfp-tag-ATF-MODAL').addService(googletag.pubads());window.ad_slots['ATF-728'] = googletag.defineSlot('/107357230/BABY-CAT-ATF-728', [[970,250],[728,90]], 'dfp-tag-ATF-728').addService(googletag.pubads());window.ad_slots['BTF-RT1-300'] = googletag.defineSlot('/107357230/BABY-CAT-BTF-RT1-300', [[300,250],[300,600]], 'dfp-tag-BTF-RT1-300').addService(googletag.pubads());			googletag.pubads().enableSingleRequest();
 						googletag.pubads().collapseEmptyDivs();
 									googletag.enableServices();
 
@@ -133,25 +254,25 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 	</script>
 	<!-- end AO beacon -->
 	<script type="text/javascript">setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/3272.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script><meta property="og:image" content="https://redtricom.files.wordpress.com/2013/02/kids-weekend-events-5.jpg">
-<meta name="application-name" content="Red Tricycle"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://redtri.com/feed/;icon-uri=http://1.gravatar.com/blavatar/1f15849c1aff7b3eba55369f4c3bd501?s=16"><meta property="og:site_name" content="Red Tricycle">
+<meta name="application-name" content="Red Tricycle"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-tooltip" content="Fueling the parenting universe with inspiration for family fun."><meta name="msapplication-task" content="name=Subscribe;action-uri=http://redtri.com/feed/;icon-uri=http://1.gravatar.com/blavatar/1f15849c1aff7b3eba55369f4c3bd501?s=16"><meta property="og:site_name" content="Red Tricycle">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="fb:app_id" content="402918363127925">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://redtri.com/privacy-policy/">
 <style type="text/css" id="syntaxhighlighteranchor"></style>
-		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&amp;csblog=34ONi&amp;cscache=6&amp;csrev=14">
+		<link rel="stylesheet" id="custom-css-css" type="text/css" href="https://s1.wp.com/?custom-css=1&amp;csblog=34ONi&amp;cscache=6&amp;csrev=15">
 		</head>
 <body>
 	<div id="wrapper">
-		<div class="desktop-nav-wrapper mobile-hidden ">
+		<div class="desktop-nav-wrapper mobile-hidden bump-baby">
 	<div class="upper">
 		<div class="left">
 			<a href="http://redtri.com/about/" class="about">ABOUT US</a>
 			<span class="line"></span>
 			<div class="nav-location">
 				<select id="header-location" class="location-select">
-					<option value="everywhere">National</option><option value="atlanta">Atlanta</option><option value="bump-baby">Bump + Baby</option><option value="chicago">Chicago</option><option value="los-angeles">Los Angeles</option><option value="new-york">New York</option><option value="portland">Portland</option><option value="san-francisco">San Francisco</option><option value="seattle">Seattle</option><option value="socal">SoCal</option><option value="dc">Washington D.C.</option>				</select>
+					<option value="everywhere">National</option><option value="atlanta">Atlanta</option><option value="bump-baby" selected="">Bump + Baby</option><option value="chicago">Chicago</option><option value="los-angeles">Los Angeles</option><option value="new-york">New York</option><option value="portland">Portland</option><option value="san-francisco">San Francisco</option><option value="seattle">Seattle</option><option value="socal">SoCal</option><option value="dc">Washington D.C.</option>				</select>
 				<span class="nav-caret"></span>
 			</div>
 		</div>
@@ -168,7 +289,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 			</div>
 			<div id="search-container" class="search-container">
 				<form action="http://redtri.com">
-					<input class="search-input" placeholder="Enter your search term..." type="search" value="" name="s" id="search">
+					<input class="search-input" placeholder="Enter your search term..." type="search" value="" name="s" id="search"><span class="glyphicon glyphicon-search"></span>
 					<input type="submit" value="" class="icon">
 				</form>
 			</div>
@@ -184,106 +305,109 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 		<div class="clearfix"></div>
 	</div>
 	<div class="main-navigation">
-		<div class="logo-link"><a href="http://redtri.com/" title="Home"></a></div>
+		<div class="logo-link"><a href="http://redtri.com/bump-baby" title="Home"></a></div>
 		<div class="holder">
-			<ul id="menu-primary-navigation" class="menu"><li id="menu-item-1743040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1743040 nav-sprite"><a href="http://redtri.com/events/">Events</a>
+			<ul id="menu-baby-nav" class="menu"><li id="menu-item-1743049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1743049 nav-sprite"><a href="http://redtri.com/events/">Events</a>
 <ul class="sub-menu">
-	<li id="menu-item-1762363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1762363 nav-sprite"><a href="http://redtri.com/events/">Events Calendar</a></li>
-	<li id="menu-item-1762364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1762364 nav-sprite"><a href="https://ap.redtri.com/#/events/landing?ed=everywhere">Add an Event</a></li>
+	<li id="menu-item-1762329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1762329 nav-sprite"><a href="http://redtri.com/events/">Events Calendar</a></li>
+	<li id="menu-item-1762330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1762330 nav-sprite"><a href="https://ap.redtri.com/#/events/landing?ed=bump-baby">Add an Event</a></li>
+	<li id="menu-item-1808990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1808990 nav-sprite"><a href="http://redtri.com/event-calendar-faq/">Event FAQ</a></li>
 </ul>
 </li>
-<li id="menu-item-1565665" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565665 nav-sprite"><a href="/things-to-do-with-kids/">THINGS TO DO</a>
+<li id="menu-item-1566048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566048 nav-sprite"><a href="/things-to-do-with-kids/">Things to Do</a>
 <ul class="sub-menu">
-	<li id="menu-item-1566116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566116 nav-sprite"><a href="/books/">Books</a></li>
-	<li id="menu-item-1566431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566431 nav-sprite"><a href="/crafts-for-kids/">Carefree Crafting</a></li>
-	<li id="menu-item-1619260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1619260 nav-sprite"><a href="/family-entertainment-and-movies/">Entertainment &amp; Movies</a></li>
-	<li id="menu-item-1763780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1763780 nav-sprite"><a href="http://redtri.com/events">Events Calendar</a></li>
-	<li id="menu-item-1566106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566106 nav-sprite"><a href="/kids-indoor-activities/">Indoor Fun</a></li>
-	<li id="menu-item-1566110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566110 nav-sprite"><a href="/outdoor-activities-for-kids/">Outdoor Fun</a></li>
-	<li id="menu-item-1566104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566104 nav-sprite"><a href="/family-restaurants/">Family Restaurants</a></li>
-	<li id="menu-item-1566113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566113 nav-sprite"><a href="/just-opened/">Just Opened</a></li>
-	<li id="menu-item-1566120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566120 nav-sprite"><a href="/kids-party-ideas/">party ideas</a></li>
-	<li id="menu-item-1566119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566119 nav-sprite"><a href="/school-breaks/">School Breaks</a></li>
-	<li id="menu-item-1566103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566103 nav-sprite"><a href="/what-to-do-this-weekend/">What to Do This Weekend</a></li>
+	<li id="menu-item-1566279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566279 nav-sprite"><a href="/books/">Books</a></li>
+	<li id="menu-item-1566418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566418 nav-sprite"><a href="/crafts-for-kids/">Carefree Crafting</a></li>
+	<li id="menu-item-1566291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566291 nav-sprite"><a href="http://redtri.com/family-entertainment-and-movies/bump-baby/">Entertainment and movies</a></li>
+	<li id="menu-item-1763765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1763765 nav-sprite"><a href="http://redtri.com/events">Events Calendar</a></li>
+	<li id="menu-item-1566263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566263 nav-sprite"><a href="/family-restaurants/">Family Restaurants</a></li>
+	<li id="menu-item-1802861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1802861 nav-sprite"><a href="http://redtri.com/games-for-kids/bump-baby/">Games for Babies</a></li>
+	<li id="menu-item-1566264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566264 nav-sprite"><a href="/kids-indoor-activities/">Indoor Fun</a></li>
+	<li id="menu-item-1566265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566265 nav-sprite"><a href="/outdoor-activities-for-kids/">Outdoor Fun</a></li>
+	<li id="menu-item-1566266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566266 nav-sprite"><a href="/just-opened/">Just Opened</a></li>
+	<li id="menu-item-1566282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566282 nav-sprite"><a href="/kids-party-ideas/">Kids Party Ideas</a></li>
+	<li id="menu-item-1566280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566280 nav-sprite"><a href="/school-breaks/">School Breaks</a></li>
+	<li id="menu-item-1795362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1795362 nav-sprite"><a href="http://redtri.com/simple-fun/">Simple Fun</a></li>
+	<li id="menu-item-1566250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566250 nav-sprite"><a href="/what-to-do-this-weekend/">What to Do This Weekend</a></li>
 </ul>
 </li>
-<li id="menu-item-1565666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565666 nav-sprite"><a href="/food/">FOOD</a>
+<li id="menu-item-1566049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566049 nav-sprite"><a href="/food/">Food</a>
 <ul class="sub-menu">
-	<li id="menu-item-1621653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621653 nav-sprite"><a href="/first-food/">Baby’s First Foods</a></li>
-	<li id="menu-item-1566127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566127 nav-sprite"><a href="/family-restaurants/">Family Restaurants</a></li>
-	<li id="menu-item-1566131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566131 nav-sprite"><a href="/recipes-for-kids/">Recipes for Kids</a></li>
-	<li id="menu-item-1566132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566132 nav-sprite"><a href="/kitchen-tools-and-hacks/">Kitchen Tools &amp; Hacks</a></li>
+	<li id="menu-item-1621649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621649 nav-sprite"><a href="/first-food/">Baby’s First Foods</a></li>
+	<li id="menu-item-1566288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566288 nav-sprite"><a href="/family-restaurants/">Family Restaurants</a></li>
+	<li id="menu-item-1566302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566302 nav-sprite"><a href="/kitchen-tools-and-hacks/">Kitchen Tools &amp; Hacks</a></li>
+	<li id="menu-item-1566290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566290 nav-sprite"><a href="/recipes-for-kids/">Recipes for Kids</a></li>
 </ul>
 </li>
-<li id="menu-item-1565667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565667 nav-sprite"><a href="/news/">NEWS</a>
+<li id="menu-item-1566051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566051 nav-sprite"><a href="/news/">News</a>
 <ul class="sub-menu">
-	<li id="menu-item-1774358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774358 nav-sprite"><a href="/celeb/">Celeb &amp; Entertainment</a></li>
-	<li id="menu-item-1774360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774360 nav-sprite"><a href="/health/">Healthy Families</a></li>
-	<li id="menu-item-1774357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774357 nav-sprite"><a href="/shopping/">Shopping &amp; Food</a></li>
-	<li id="menu-item-1774356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774356 nav-sprite"><a href="/work-life/">Work &amp; Life</a></li>
-	<li id="menu-item-1774359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774359 nav-sprite"><a href="/viral/">Viral &amp; Trending</a></li>
+	<li id="menu-item-1774368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774368 nav-sprite"><a href="/celeb/">Celeb &amp; Entertainment</a></li>
+	<li id="menu-item-1774369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774369 nav-sprite"><a href="/health/">Healthy Families</a></li>
+	<li id="menu-item-1774370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774370 nav-sprite"><a href="/shopping/">Shopping &amp; Food</a></li>
+	<li id="menu-item-1774371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774371 nav-sprite"><a href="/work-life/">Work &amp; Life</a></li>
+	<li id="menu-item-1774377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1774377 nav-sprite"><a href="/viral/">Viral &amp; Trending</a></li>
 </ul>
 </li>
-<li id="menu-item-1565668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565668 nav-sprite"><a href="/products-gear/">PRODUCTS &amp; GEAR</a>
+<li id="menu-item-1566052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566052 nav-sprite"><a href="/products-gear/">products &amp; gear</a>
 <ul class="sub-menu">
-	<li id="menu-item-1566150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566150 nav-sprite"><a href="/kids-clothes-gear/">Kids Clothes &amp; Gear</a></li>
-	<li id="menu-item-1566145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566145 nav-sprite"><a href="/kids-room-decor/">Kids Room Decor</a></li>
-	<li id="menu-item-1566154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566154 nav-sprite"><a href="/cool-kids-picks/">One Cool Thing</a></li>
-	<li id="menu-item-1566137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566137 nav-sprite"><a href="/school-supplies/">School Supplies</a></li>
-	<li id="menu-item-1566136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566136 nav-sprite"><a href="/technology-for-kids/">Technology</a></li>
-	<li id="menu-item-1566133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566133 nav-sprite"><a href="/toys-and-gear-for-babies/">Toys &amp; Gear for Babies</a></li>
-	<li id="menu-item-1566135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566135 nav-sprite"><a href="/toys-and-gear-for-toddlers/">Toys &amp; Gear for Toddlers</a></li>
-	<li id="menu-item-1566134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566134 nav-sprite"><a href="/toys-and-gear-for-kids/">Toys &amp; Gear for Kids</a></li>
+	<li id="menu-item-1566310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566310 nav-sprite"><a href="/kids-clothes-gear/">Kids Clothes &amp; Gear</a></li>
+	<li id="menu-item-1566309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566309 nav-sprite"><a href="/kids-room-decor/">Kids Room Decor</a></li>
+	<li id="menu-item-1566311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566311 nav-sprite"><a href="/cool-kids-picks/">One Cool Thing</a></li>
+	<li id="menu-item-1566308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566308 nav-sprite"><a href="/school-supplies/">School Supplies</a></li>
+	<li id="menu-item-1566307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566307 nav-sprite"><a href="/technology-for-kids/">Technology</a></li>
+	<li id="menu-item-1566304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566304 nav-sprite"><a href="/toys-and-gear-for-babies/">Baby Toys &amp; Gear</a></li>
+	<li id="menu-item-1566306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566306 nav-sprite"><a href="/toys-and-gear-for-toddlers/">Toddler Toys &amp; Gear</a></li>
+	<li id="menu-item-1566305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566305 nav-sprite"><a href="/toys-and-gear-for-kids/">Kids Toys &amp; Gear</a></li>
 </ul>
 </li>
-<li id="menu-item-1565669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565669 nav-sprite"><a href="/family-holiday/">HOLIDAYS</a>
+<li id="menu-item-1566059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566059 nav-sprite"><a href="/family-holiday/">holidays</a>
 <ul class="sub-menu">
-	<li id="menu-item-1566157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566157 nav-sprite"><a href="/independence-day/">4th of July</a></li>
-	<li id="menu-item-1566167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566167 nav-sprite"><a href="/christmas/">Christmas</a></li>
-	<li id="menu-item-1566169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566169 nav-sprite"><a href="/easter/">Easter</a></li>
-	<li id="menu-item-1566171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566171 nav-sprite"><a href="/fathers-day/">Father’s Day</a></li>
-	<li id="menu-item-1566172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566172 nav-sprite"><a href="/halloween/">Halloween</a></li>
-	<li id="menu-item-1566174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566174 nav-sprite"><a href="/hanukkah/">Hanukkah</a></li>
-	<li id="menu-item-1566176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566176 nav-sprite"><a href="/labor-day/">Labor Day</a></li>
-	<li id="menu-item-1566178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566178 nav-sprite"><a href="/mlk-day/">MLK Jr. Day</a></li>
-	<li id="menu-item-1566184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566184 nav-sprite"><a href="/memorial-day/">Memorial Day</a></li>
-	<li id="menu-item-1566181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566181 nav-sprite"><a href="/mothers-day-things-to-do/">Mother’s Day</a></li>
-	<li id="menu-item-1566186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566186 nav-sprite"><a href="/national-days/">National Days</a></li>
-	<li id="menu-item-1566189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566189 nav-sprite"><a href="/new-years-eve/">New Year’s Eve</a></li>
-	<li id="menu-item-1566191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566191 nav-sprite"><a href="/presidents-day/">President’s Day</a></li>
-	<li id="menu-item-1566192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566192 nav-sprite"><a href="/st-pattys-day/">St. Patrick’s Day</a></li>
-	<li id="menu-item-1566196" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566196 nav-sprite"><a href="/thanksgiving/">Thanksgiving</a></li>
-	<li id="menu-item-1566198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566198 nav-sprite"><a href="/kids-valentines-day/">Valentine’s Day</a></li>
+	<li id="menu-item-1566318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566318 nav-sprite"><a href="/independence-day/">4th of July</a></li>
+	<li id="menu-item-1566319" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566319 nav-sprite"><a href="/christmas/">Christmas</a></li>
+	<li id="menu-item-1566320" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566320 nav-sprite"><a href="/easter/">Easter</a></li>
+	<li id="menu-item-1566321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566321 nav-sprite"><a href="/fathers-day/">Father’s Day</a></li>
+	<li id="menu-item-1566322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566322 nav-sprite"><a href="/halloween/">Halloween</a></li>
+	<li id="menu-item-1566323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566323 nav-sprite"><a href="/hanukkah/">Hanukkah</a></li>
+	<li id="menu-item-1566324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566324 nav-sprite"><a href="/labor-day/">Labor Day</a></li>
+	<li id="menu-item-1566325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566325 nav-sprite"><a href="/mlk-day/">MLK Jr. Day</a></li>
+	<li id="menu-item-1566326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566326 nav-sprite"><a href="/memorial-day/">Memorial Day</a></li>
+	<li id="menu-item-1566328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566328 nav-sprite"><a href="/mothers-day-things-to-do/">Mother’s Day</a></li>
+	<li id="menu-item-1566329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566329 nav-sprite"><a href="/national-days/">National Days</a></li>
+	<li id="menu-item-1566331" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566331 nav-sprite"><a href="/new-years-eve/">New Year’s Eve</a></li>
+	<li id="menu-item-1566333" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566333 nav-sprite"><a href="/presidents-day/">President’s Day</a></li>
+	<li id="menu-item-1566335" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566335 nav-sprite"><a href="/st-pattys-day/">St. Patrick’s Day</a></li>
+	<li id="menu-item-1566336" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566336 nav-sprite"><a href="/thanksgiving/">Thanksgiving</a></li>
+	<li id="menu-item-1566337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566337 nav-sprite"><a href="/kids-valentines-day/">Valentine’s Day</a></li>
 </ul>
 </li>
-<li id="menu-item-1565670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565670 nav-sprite"><a href="/family-travel/">TRAVEL</a>
+<li id="menu-item-1566060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566060 nav-sprite"><a href="/family-travel/">Family Travel</a>
 <ul class="sub-menu">
-	<li id="menu-item-1566226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566226 nav-sprite"><a href="/camping-with-kids/">Camping with Kids</a></li>
-	<li id="menu-item-1566223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566223 nav-sprite"><a href="/family-vacation-ideas/">Family Vacation Ideas</a></li>
-	<li id="menu-item-1566227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566227 nav-sprite"><a href="/road-trips/">Road Trips</a></li>
-	<li id="menu-item-1566228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566228 nav-sprite"><a href="/theme-parks/">Theme Parks</a></li>
-	<li id="menu-item-1566224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566224 nav-sprite"><a href="/tips-for-traveling-with-kids/">Traveling Tips</a></li>
+	<li id="menu-item-1566356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566356 nav-sprite"><a href="/camping-with-kids/">Camping with Kids</a></li>
+	<li id="menu-item-1566353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566353 nav-sprite"><a href="/family-vacation-ideas/">Family Vacation Ideas</a></li>
+	<li id="menu-item-1566374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566374 nav-sprite"><a href="/road-trips/">Road Trips</a></li>
+	<li id="menu-item-1566377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566377 nav-sprite"><a href="/theme-parks/">Theme Parks</a></li>
+	<li id="menu-item-1566355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566355 nav-sprite"><a href="/tips-for-traveling-with-kids/">Traveling Tips</a></li>
 </ul>
 </li>
-<li id="menu-item-1565671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565671 nav-sprite"><a href="/parenting/">PARENTING</a>
+<li id="menu-item-1566061" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1566061 nav-sprite"><a href="/parenting/">Parenting</a>
 <ul class="sub-menu">
-	<li id="menu-item-1566203" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566203 nav-sprite"><a href="/baby-help/">Baby</a></li>
-	<li id="menu-item-1566217" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566217 nav-sprite"><a href="/toddler-help/">Toddler</a></li>
-	<li id="menu-item-1566220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566220 nav-sprite"><a href="/preschool-help/">Preschool</a></li>
-	<li id="menu-item-1566222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566222 nav-sprite"><a href="/kindergarten-help/">Kindergarten</a></li>
-	<li id="menu-item-1621654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621654 nav-sprite"><a href="/big-kids/">Big Kids</a></li>
-	<li id="menu-item-1566206" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566206 nav-sprite"><a href="/mom-hacks/">Mom Hacks</a></li>
+	<li id="menu-item-1566349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566349 nav-sprite"><a href="/baby-help/">Baby</a></li>
+	<li id="menu-item-1566351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566351 nav-sprite"><a href="/preschool-help/">Preschool</a></li>
+	<li id="menu-item-1566352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566352 nav-sprite"><a href="/toddler-help/">Toddler</a></li>
+	<li id="menu-item-1566350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566350 nav-sprite"><a href="/kindergarten-help/">Kindergarten</a></li>
+	<li id="menu-item-1621651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621651 nav-sprite"><a href="/big-kids/">Big Kids</a></li>
+	<li id="menu-item-1795363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1795363 nav-sprite"><a href="http://redtri.com/simple-fun/">Humor</a></li>
+	<li id="menu-item-1566348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566348 nav-sprite"><a href="/mom-hacks/">Mom Hacks</a></li>
 </ul>
 </li>
 </ul>		</div>
 		<div id="whatson">
-			<ul id="menu-quick-links" class="menu"><li id="menu-item-1769748" class="bold menu-item menu-item-type-custom menu-item-object-custom menu-item-1769748 nav-sprite"><a href="http://redtri.com/holiday-guides/national/">Holiday Guide</a></li>
-<li id="menu-item-1565679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1565679 nav-sprite"><a href="/sales-deals/">Sales &amp; Deals</a></li>
-<li id="menu-item-1566853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566853 nav-sprite"><a href="http://redtri.com/baby-kids-gear/national/">Baby &amp; Kids Gear</a></li>
-<li id="menu-item-1566854" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566854 nav-sprite"><a href="http://redtri.com/parent-resources/national/">Parent Resources</a></li>
-<li id="menu-item-1570149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1570149 nav-sprite"><a href="/spoke-contributor-network/">Spoke Network</a></li>
-<li id="menu-item-1566855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566855 nav-sprite"><a href="http://redtri.com/nanny-childcare/national/">Nanny &amp; Childcare</a></li>
-<li id="menu-item-1565681" class="bold menu-item menu-item-type-custom menu-item-object-custom menu-item-1565681 nav-sprite"><a href="http://redtri.com/favorites/national/">More Favorite Businesses</a></li>
+			<ul id="menu-baby-quick-links" class="menu"><li id="menu-item-941634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941634 nav-sprite"><a href="http://redtri.com/sales-deals/bump-baby/">Sales &amp; Deals</a></li>
+<li id="menu-item-1566863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566863 nav-sprite"><a href="http://redtri.com/baby-kids-gear/bump-baby/">Baby Gear</a></li>
+<li id="menu-item-1566864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566864 nav-sprite"><a href="http://redtri.com/bath-feeding/bump-baby/">Bath &amp; Feeding Products</a></li>
+<li id="menu-item-1566865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566865 nav-sprite"><a href="http://redtri.com/parent-resources/bump-baby/">Parent Resources</a></li>
+<li id="menu-item-1570150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1570150 nav-sprite"><a href="/spoke-contributor-network/">Spoke Network</a></li>
+<li id="menu-item-1313582" class="bold menu-item menu-item-type-custom menu-item-object-custom menu-item-1313582 nav-sprite"><a href="http://redtri.com/favorites/bump-baby/">More of Our Favorite Businesses</a></li>
 </ul>		</div>
 		<div class="billboard-ad hidden-xs">
 			<div id="dfp-tag-ATF-728" class="rt-ad" style="margin: 0 auto;">
@@ -460,8 +584,8 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 				<img src="https://s2.wp.com/wp-content/themes/vip/redtricycle/img/logos.png">
 			</div>
 			<div class="footer-bottom col-xs-12">
-				<p>2006-2018 redtri.com All Rights Reserved. Content property of Red Tricycle Inc. unless otherwise specified. Duplication, distribution or other uses by permission only.</p>
-				<p class="wpcom">Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=redtri.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>				</p></div>
+				<p>2006-2019 redtri.com All Rights Reserved. Content property of Red Tricycle Inc. unless otherwise specified. Duplication, distribution or other uses by permission only.</p>
+				<p class="wpcom">Powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=redtri.com" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>				</p></div>
 			</div>
 		</div>
 
@@ -474,7 +598,7 @@ jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeTex
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	  ga('create', 'UA-11178332-1', {'siteSpeedSampleRate': 50});ga('send', 'pageview');</script><script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201852y"></script>
+	  ga('create', 'UA-11178332-1', {'siteSpeedSampleRate': 50});ga('send', 'pageview');</script><script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201921y"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -506,7 +630,7 @@ var WPGroHo = {"my_hash":""};
 	</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var RedTri = {"ajaxurl":"http:\/\/redtri.com\/wp-admin\/admin-ajax.php","home_url":"http:\/\/redtri.com","path_url":"https:\/\/s2.wp.com\/wp-content\/themes\/vip\/redtricycle","referer_url":"http%3A%2F%2Fredtri.com%2Fbest-advice-to-a-newly-single-mom%2F","client_ip":"207.241.231.163","city":"","modal_delay":"8","is_mobile":"","sub_center":{"thankyou":"http:\/\/redtri.com\/thank-you-2","unsub":"http:\/\/redtri.com\/were-sorry-to-see-you-go\/","subcenter_link":"http:\/\/redtri.com\/subscribe"},"algolia_index":"production-calendar-events","event_search":{"metro_keys":["albuquerque","ann-arbor","ashburn","atlanta","austin","baltimore","beaverton","bellevue","birmingham","boston","chicago","cincinnati","columbus","dallas","denver","detroit","fort-worth","honolulu","houston","indianapolis","jersey-city","kansas-city","kirkland","las-vegas","los-angeles","louisville","memphis","miami","milwaukee","minneapolis","nashville","new-orleans","new-york","oakland","oklahoma-city","omaha","orange-county","orlando","philadelphia","phoenix","pittsburgh","portland","providence","raleigh","sacramento","saint-louis","salt-lake-city","san-antonio","socal","san-francisco","san-jose","santa-rosa","seattle","tacoma","tampa","washington-dc"],"metro_radius":{"albuquerque":{"radius":"","zoom":"","text":"Albuquerque"},"ann-arbor":{"radius":"","zoom":"","text":"Ann Arbor"},"ashburn":{"radius":"","zoom":"","text":"Ashburn"},"atlanta":{"radius":121000,"zoom":9,"text":"Atlanta"},"austin":{"radius":"","zoom":"","text":"Austin"},"baltimore":{"radius":"","zoom":"","text":"Baltimore"},"beaverton":{"radius":"","zoom":"","text":"Beaverton"},"bellevue":{"radius":"","zoom":"","text":"Bellevue"},"birmingham":{"radius":"","zoom":"","text":"Birmingham"},"boston":{"radius":"","zoom":"","text":"Boston"},"chicago":{"radius":121000,"zoom":9,"text":"Chicago"},"cincinnati":{"radius":"","zoom":"","text":"Cincinnati"},"columbus":{"radius":"","zoom":"","text":"Columbus"},"dallas":{"radius":"","zoom":"","text":"Dallas"},"denver":{"radius":"","zoom":"","text":"Denver"},"detroit":{"radius":"","zoom":"","text":"Detroit"},"fort-worth":{"radius":"","zoom":"","text":"Fort Worth"},"honolulu":{"radius":"","zoom":"","text":"Honolulu"},"houston":{"radius":"","zoom":"","text":"Houston"},"indianapolis":{"radius":"","zoom":"","text":"Indianapolis"},"jersey-city":{"radius":"","zoom":"","text":"Jersey City"},"kansas-city":{"radius":"","zoom":"","text":"Kansas City"},"kirkland":{"radius":64000,"zoom":10,"text":"Kirkland"},"las-vegas":{"radius":"","zoom":"","text":"Las Vegas"},"los-angeles":{"radius":121000,"zoom":9,"text":"Los Angeles"},"louisville":{"radius":"","zoom":"","text":"Louisville"},"memphis":{"radius":"","zoom":"","text":"Memphis"},"miami":{"radius":"","zoom":"","text":"Miami"},"milwaukee":{"radius":"","zoom":"","text":"Milwaukee"},"minneapolis":{"radius":"","zoom":"","text":"Minneapolis"},"nashville":{"radius":"","zoom":"","text":"Nashville"},"new-orleans":{"radius":"","zoom":"","text":"New Orleans"},"new-york":{"radius":"","zoom":"","text":"New York"},"oakland":{"radius":"","zoom":"","text":"Oakland"},"oklahoma-city":{"radius":"","zoom":"","text":"Oklahoma City"},"omaha":{"radius":"","zoom":"","text":"Omaha"},"orange-county":{"radius":"","zoom":"","text":"Orange County"},"orlando":{"radius":"","zoom":"","text":"Orlando"},"philadelphia":{"radius":"","zoom":"","text":"Philadelphia"},"phoenix":{"radius":"","zoom":"","text":"Phoenix"},"pittsburgh":{"radius":121000,"zoom":9,"text":"Pittsburgh"},"portland":{"radius":121000,"zoom":9,"text":"Portland"},"providence":{"radius":"","zoom":"","text":"Providence"},"raleigh":{"radius":121000,"zoom":9,"text":"Raleigh"},"sacramento":{"radius":"","zoom":"","text":"Sacramento"},"saint-louis":{"radius":121000,"zoom":9,"text":"Saint Louis"},"salt-lake-city":{"radius":"","zoom":"","text":"Salt Lake City"},"san-antonio":{"radius":"","zoom":"","text":"San Antonio"},"socal":{"radius":121000,"zoom":9,"text":"San Diego, CA"},"san-francisco":{"radius":"","zoom":"","text":"San Francisco"},"san-jose":{"radius":"","zoom":"","text":"San Jose"},"santa-rosa":{"radius":"","zoom":"","text":"Santa Rosa"},"seattle":{"radius":64000,"zoom":10,"text":"Seattle"},"tacoma":{"radius":"","zoom":"","text":"Tacoma"},"tampa":{"radius":"","zoom":"","text":"Tampa"},"dc":{"radius":121000,"zoom":9,"text":"Washington DC"}}},"ads":{"tokens":{"%zone%":"CAT"}}};
+var RedTri = {"ajaxurl":"http:\/\/redtri.com\/wp-admin\/admin-ajax.php","home_url":"http:\/\/redtri.com","path_url":"https:\/\/s2.wp.com\/wp-content\/themes\/vip\/redtricycle","referer_url":"","client_ip":"54.165.59.7","city":"bump-baby","modal_delay":"8","is_mobile":"","sub_center":{"thankyou":"http:\/\/redtri.com\/thank-you-2","unsub":"http:\/\/redtri.com\/were-sorry-to-see-you-go\/","subcenter_link":"http:\/\/redtri.com\/subscribe"},"algolia_index":"production-calendar-events","algolia_site_search_index":"production-redtri-posts","event_search":{"metro_keys":["albuquerque","ann-arbor","ashburn","atlanta","austin","baltimore","beaverton","bellevue","birmingham","boston","chicago","cincinnati","columbus","dallas","denver","detroit","fort-worth","honolulu","houston","indianapolis","jersey-city","kansas-city","kirkland","las-vegas","los-angeles","louisville","memphis","miami","milwaukee","minneapolis","nashville","new-orleans","new-york","oakland","oklahoma-city","omaha","orange-county","orlando","philadelphia","phoenix","pittsburgh","portland","providence","raleigh","sacramento","saint-louis","salt-lake-city","san-antonio","socal","san-francisco","san-jose","santa-rosa","seattle","tacoma","tampa","washington-dc"],"metro_radius":{"albuquerque":{"radius":"","zoom":"","text":"Albuquerque"},"ann-arbor":{"radius":"","zoom":"","text":"Ann Arbor"},"ashburn":{"radius":"","zoom":"","text":"Ashburn"},"atlanta":{"radius":121000,"zoom":9,"text":"Atlanta"},"austin":{"radius":"","zoom":"","text":"Austin"},"baltimore":{"radius":"","zoom":"","text":"Baltimore"},"beaverton":{"radius":"","zoom":"","text":"Beaverton"},"bellevue":{"radius":"","zoom":"","text":"Bellevue"},"birmingham":{"radius":"","zoom":"","text":"Birmingham"},"boston":{"radius":"","zoom":"","text":"Boston"},"chicago":{"radius":121000,"zoom":9,"text":"Chicago"},"cincinnati":{"radius":"","zoom":"","text":"Cincinnati"},"columbus":{"radius":"","zoom":"","text":"Columbus"},"dallas":{"radius":"","zoom":"","text":"Dallas"},"denver":{"radius":"","zoom":"","text":"Denver"},"detroit":{"radius":"","zoom":"","text":"Detroit"},"fort-worth":{"radius":"","zoom":"","text":"Fort Worth"},"honolulu":{"radius":"","zoom":"","text":"Honolulu"},"houston":{"radius":"","zoom":"","text":"Houston"},"indianapolis":{"radius":"","zoom":"","text":"Indianapolis"},"jersey-city":{"radius":"","zoom":"","text":"Jersey City"},"kansas-city":{"radius":"","zoom":"","text":"Kansas City"},"kirkland":{"radius":64000,"zoom":10,"text":"Kirkland"},"las-vegas":{"radius":"","zoom":"","text":"Las Vegas"},"los-angeles":{"radius":121000,"zoom":9,"text":"Los Angeles"},"louisville":{"radius":"","zoom":"","text":"Louisville"},"memphis":{"radius":"","zoom":"","text":"Memphis"},"miami":{"radius":"","zoom":"","text":"Miami"},"milwaukee":{"radius":"","zoom":"","text":"Milwaukee"},"minneapolis":{"radius":"","zoom":"","text":"Minneapolis"},"nashville":{"radius":"","zoom":"","text":"Nashville"},"new-orleans":{"radius":"","zoom":"","text":"New Orleans"},"new-york":{"radius":"","zoom":"","text":"New York"},"oakland":{"radius":"","zoom":"","text":"Oakland"},"oklahoma-city":{"radius":"","zoom":"","text":"Oklahoma City"},"omaha":{"radius":"","zoom":"","text":"Omaha"},"orange-county":{"radius":"","zoom":"","text":"Orange County"},"orlando":{"radius":"","zoom":"","text":"Orlando"},"philadelphia":{"radius":"","zoom":"","text":"Philadelphia"},"phoenix":{"radius":"","zoom":"","text":"Phoenix"},"pittsburgh":{"radius":121000,"zoom":9,"text":"Pittsburgh"},"portland":{"radius":121000,"zoom":9,"text":"Portland"},"providence":{"radius":"","zoom":"","text":"Providence"},"raleigh":{"radius":121000,"zoom":9,"text":"Raleigh"},"sacramento":{"radius":"","zoom":"","text":"Sacramento"},"saint-louis":{"radius":121000,"zoom":9,"text":"Saint Louis"},"salt-lake-city":{"radius":"","zoom":"","text":"Salt Lake City"},"san-antonio":{"radius":"","zoom":"","text":"San Antonio"},"socal":{"radius":121000,"zoom":9,"text":"San Diego, CA"},"san-francisco":{"radius":"","zoom":"","text":"San Francisco"},"san-jose":{"radius":"","zoom":"","text":"San Jose"},"santa-rosa":{"radius":"","zoom":"","text":"Santa Rosa"},"seattle":{"radius":64000,"zoom":10,"text":"Seattle"},"tacoma":{"radius":"","zoom":"","text":"Tacoma"},"tampa":{"radius":"","zoom":"","text":"Tampa"},"dc":{"radius":121000,"zoom":9,"text":"Washington DC"}}},"ads":{"tokens":{"%market%":"BABY","%zone%":"CAT"}}};
 /* ]]> */
 </script>
 <script type="text/javascript">
@@ -514,7 +638,10 @@ var RedTri = {"ajaxurl":"http:\/\/redtri.com\/wp-admin\/admin-ajax.php","home_ur
 var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s2.wp.com/_static/??-eJydj8sKwjAQRX/IZGqxigvxW0Iy2kmTSc1DiV9vdVGKCyluL+dcOPAYhQ6ckTP4IkZXrsQJHA2Y4FawYK/YOIzSpg0s4Nyjn5A7jRDR5Ei6aodgE9hJi1XqEAbC9dqlsM4UOK1XfDDKfeOLila8JftxhWLlaib963/OV88qXFBGNPKwaEqBVZSe+J+PeZjksz9tu13X7pvu2NgXBdyPsg=="></script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyNkEsOwjAMBS9EagqqYIM4S+QYcJo4JR9QOT0BiaoLBN1aM/bzg/ugMEgmyeCLGlw5syRw3FOCa6FCFy3GUWxsWsEMzhfyFbnxAJFMjowjOgKbwFYtjg2G0DMt105FMHOQtFzxwWj3wVnQFVPBKQIUBgyRGs/ym7qzOVP+zxmdaWDsax0z9kt/G/WKa9+plRbtxsz467OpeP0YlQvaqHWzm7WZguivR5fsmAZVPvpD23Xtvu022619Aq4jvQY="></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"https:\/\/redtricom.wordpress.com\/wp-content\/themes\/vip\/plugins\/facebook\/channel.php","xfbml":true,"appId":"402918363127925"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
@@ -539,14 +666,14 @@ try{
 }catch(e){}
 })();
 // ]]>
-</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async="" defer=""></script>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async="" defer=""></script>
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'45477576','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
-_stq.push(['view', {'blog':'45477576','v':'wpcom','tz':'-8','user_id':'0','post':'121','subd':'redtricom'}]);
-function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=45477576&v=wpcomvt&tz=-8&user_id=0&post=121&subd=redtricom&rand="+Math.random();}
-_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdZYm8wSmVuWn5+VXctdEJxVkl1M2x0YkMlZVZoJUhZYW5ybE5KZzZBaFFYMS5DPUtXTUZkfDg4N09BX3lJc2ZTWjlsOC14SCxjVk9yL1dxRWh2TX5VRDd6SEJMVEdjMHdWdiVlXUNMa2l0OTJtejJGRWlzZUclbjIuRXZ8M2lKWWpKWWY5WmJzJTFsfGlybn5xaXJUV1RYdX5FMVtSZ1ZaaEJ2ZTFkZDV3Q3E4TkNq'}]);
+_tkq.push(['storeContext', {'blog_id':'45477576','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'45477576','v':'wpcom','tz':'-7','user_id':'0','post':'121','subd':'redtricom'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=45477576&v=wpcomvt&tz=-7&user_id=0&post=121&subd=redtricom&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdZYm8wSmVuWn5+VXctdEJxVkl1M2x0YkMlZVZTODBUUmc9JlhqYzBMck0/YVRocmpwUCtGSWh+UUZ4cU5Hb345Ly9SM1Y4dDJuL0Y9N0hDVzgvcz1JK0J8dF1BVnlFNDhTVDJPLV9rW01wKyUtbHIuZ1ovWUMsUDhGT29HclFPNXRQLjAtN1ItW3FSS01+dWY/bVs5YytibmhZeXJHRTlNNl1acEt5SVRuMGs0MFRo'}]);
 _stq.push([ 'clickTrackerInit', '45477576', '121' ]);
 	</script>
 <noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
@@ -604,13 +731,13 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 		<div class="lightbox-mail">
 			<form id="newsletter-signup" class="basic-white">
 									<input type="hidden" value="rtkube_user_signup" name="action">
-					<input type="hidden" name="list_id" value="Daily|Daily">
-								<input type="hidden" id="_wpnonce" name="_wpnonce" value="05c94fac64"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">				<input type="hidden" name="optin" id="optin" value="RedTri New Modal">
+					<input type="hidden" name="folder_list[]" value="National Lists|Baby">
+								<input type="hidden" id="_wpnonce" name="_wpnonce" value="4eebd31cf2"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">				<input type="hidden" name="optin" id="optin" value="RedTri New Modal">
 				<div class="form-group">
 					<input name="email" type="email" class="form-control large-4" onfocus="this.placeholder = '' " required="" placeholder="ENTER YOUR EMAIL ADDRESS">
 					<input type="submit" class="button" value="YES! SEND ME YOUR AWESOME IDEAS!" disabled="">
 					<input class="checkbox" id="modaleuCheck" type="checkbox" name="euModal" value="1"><label for="modaleuCheck" style="font-size:12px;">I am not a European Union resident</label>
-					<a href="#" id="no" class="button but-black">NO, I'M GOOD.</a>
+					<a href="#" id="no" class="button but-black">NO, I'M GOOD</a>
 				</div>
 			</form>
 			<div class="close-lb">
@@ -693,4 +820,4 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 }(window, document, "script", "pubexchange-jssdk"));</script>
 	
 
-</body></html>
+<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cDovL3JlZHRyaS5jb20%3D&amp;wpcomid=45477576&amp;time=1558405088" style="display: none;"></iframe></body></html>
