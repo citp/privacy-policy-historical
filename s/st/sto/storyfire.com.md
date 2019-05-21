@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyfire.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925001454id_/https%3A//storyfire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyfire.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521162248id_/https%3A//storyfire.com/privacy) for the most accurate reproduction.*
 
 # 
 
