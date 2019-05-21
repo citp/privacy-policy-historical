@@ -1,73 +1,119 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020220701id_/https%3A//zerista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521232616id_/https%3A//www.simpleviewinc.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy - Zerista
+# Simpleview | Privacy Notice
 
-“Zerista” is a trade name used by Jackrabbit Systems, Inc.  Zerista software and services are a product line offered by Jackrabbit Systems, Inc.  All references herein to Zerista refer to Jackrabbit Systems, Inc.
+_Last updated: 2/22/2019_
 
-Zerista is committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information.
+To review historical copies of our privacy policy, contact [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com).
 
-Zerista offers a full suite of products, including a desktop website, mobile web- site, Android and iOS native applications and web services.  Together these are referred to as the “Site.”
+Simpleview complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom or Switzerland to the United States in reliance on Privacy Shield. Simpleview has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-Your use of the Site and our use of the personal information you provide to us is subject to the terms of this privacy policy and our Terms of Use.
+This Privacy Policy explains the types of personal information we collect through our website, [www.simpleviewinc.com](http://www.simpleviewinc.com/), how we use it, what we do _not_ do with it, how you can view your information and update it, and how we keep it safe.
 
-###  **Collection and Registration of Personal Information**
+#####   
+**Contact Information**
 
-We request users of the Site to provide personally identifiable information. The information collected from you is strictly voluntary. You may decline to submit personally identifiable information, in which case we may not be able to provide certain services to you. The type of information collected during the registration process includes basic contact information including your name and e-mail address. You may choose to provide additional profile information such as your postal address, phone number, country of residence (“Registration Information”), photo, company/organization affiliation, profile description, tags, location and other information which may be collected and displayed on your  profile page to other attendees. It is your choice to post content (for example, company affiliation) and make it publicly available. You are solely responsible for the content you post. We do not collect any financial information.
+#####   
+**What Information Do We Collect About You?**
 
-When you use our site, we collect information about what pages you visit and what actions (create meetings, send messages, build your schedule, etc) you take.  This information is aggregated together to provide analytics to conference organizers. These analytics help organizers measure the success of their events. They include statistics on overall adoption rate, most popular actions, most visited exhibitor pages, etc.
+User Data/Data Collection: Personal Identification Information  
+User Data/Data Collection: Non-personal identification information  
+User Data/Data Collection: Web Browser Cookies and Other Tracking Technologies  
+User Data/Data Collection: Mobile Applications & Location Awareness  
+User Data/Data Collection: Social Media (Features) and Widgets  
+User Data/Data Collection: Automated Decision Making and Profiling
 
-Our Site is not meant to be used by children under the age of 13, and we do not knowingly collect personal information from children under 13. If you are under 13 years of age, please do not use our Site and do not provide any personal information to us. If we discover that a child under 13 has provided us with personal information, we will delete it.
+#####   
+**How Do We Use Your Information?**
 
-###  **Use of Personal Information**
+Use of Information  
+Links to Other Websites/Third Party Disclosure  
+Data Collection For Clients and Partners
 
-If you submit personally identifiable information to us through the Site, then we use your personal information to operate, maintain, and provide customized features and functionality.
+#####   
+**How Do We Protect Your Information**
 
-Any personal information or other content that you voluntarily disclose online (for example, on your public profile, in posts, comments, or notes) becomes publicly available and could be collected and used by others. Your account User Name is displayed to other users when you post, send direct messages, or comment. Any post made in public mode or comment that you submit to the Site may be redistributed through the Internet and other media, and could be viewed by the general public.
+Data Security  
+Reviewing/Updating Your Information  
+Dispute Resolution  
+Changes to This Privacy Policy  
+Report Concerns
 
-We do not use your email address, phone number, or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes).
+8950 N. Oracle Road  
+Tucson, AZ 85704  
++1 520.575.1151
 
-We use certain non-personally-identifiable information (such as anonymous usage data, cookies, IP addresses, browser type, clickstream data, and user location) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends.
+For questions about privacy and data collection through [www.simpleviewinc.com](http://www.simpleviewinc.com/), contact [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com).
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors or pages viewed; and (e) track your posts, submissions, and status in promotions, sweepstakes, and contests.  A cookie is a very small text file that a website can save onto your computer’s hard disk to store your information and settings.
+**User Data/Data Collection: Personal Identification Information**
 
-###  **Disclosure of Personal Information to Third Parties**
+We do not collect any personal information through [www.simpleviewinc.com](http://www.simpleviewinc.com/) except that knowingly and willingly supplied by the visitor for the purpose of providing the services/information requested through our site. We will collect personal identification information from users only if they voluntarily submit such information to us. Personal identifying information may be collected through e-newsletter forms, online request forms, contests, feedback forms, surveys, personal interest forms, and mobile application forms. Any information that the customer provides, such as name, address, email, ZIP code, gender, and income will be stored in a secure location and will be used only for those purposes stated. When you choose to submit such information, you are transferring that information into the United States of America and are consenting to such transfer. All data transferred will be/is encrypted (Hypertext Transfer Protocol Secure, or HTTPS) transfer, through Secure Sockets Layer, or SSL. Visitors can always refuse to supply personal identification information, noting that choosing to do so may prevent the user from engaging in certain site-related activities. Users of our services, such as e-newsletter subscriptions, may also withdraw consent for the use of their personal information at any time. To review, update, or delete your collected data, or to withdraw consent for use, contact [privacy@simpleviewinc.com](mailto:privacy@simpleview.com).
 
-Access to your personal information is restricted to use by Zerista, and entities acting as our agents, representatives, or partners. We do share non-personally-identifiable information (such as anonymous usage data, referring / exit pages and URLs, platform types, number of clicks, and user location) with interested third-parties to assist with understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality for the Site.
+**User Data/Data Collection: Non-personal identification information**
 
-In addition, conference organizers have access to your personal information as well as aggregated usage information (see analytics above).  In some cases, organizers may request in-depth information about your specific actions. This is almost always done for the specific purposes of debugging issues that have arisen.
+We may collect non-personal identification information about users whenever they interact with our website. We collect the domain name from each site visitor as well as statistical information, such as the number of visitors and the pages viewed. Non-personal identification information may include the browser name, the type of computer being use, and technical information about the user’s means of connection to our site, such as the operating system and the Internet service providers utilized, and other similar information.
 
-We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; and if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.
+**User Data/Data Collection: Web Browser Cookies and Other Tracking Technologies**
 
-###  **Access and Changes to Your Registration Information and Preferences**
+Our site may use "cookies", tags, or scripts to enhance user experience, track users’ movements around the website, and to gather demographic information about our user base. You will have the option to choose whether to “opt in” for the use of “cookies” when you access the site. If you do choose to allow the use of the “cookies”, you may, at any time, choose to “opt out” of the use of the “cookies.”
 
-You may update or correct your personal information and email preferences at any time. The accuracy of such information is solely your responsibility.
+A user's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. In these cases, please note that some parts of the site may not function properly.
 
-To help us make e-mails more useful and interesting for registered users, we may receive a confirmation when you open e-mail from the Site. We may also compare our registered user list to lists received from other companies, in an effort to avoid sending unnecessary messages to our registered users.
+**User Data/Data Collection:** **Mobile Applications & Location Awareness**
 
-###  **Retention of Personal Information**
+VisitApps, a Simpleview company, collects some personal and location information for the function of mobile applications, if the application user opts in. Any information that the customer provides, such as name, address, email, ZIP code, gender, and income will be stored in a secure location and will be used only for those purposes expressly stated. Users can always refuse to supply personal identification information, understanding that choosing to do so may prevent the user from engaging in certain mobile application activities. Our Destination Marketing Organisation clients who provide VisitApps mobile apps to customers, can collect registration and form information from the mobile applications upon the user’s agreement via opt-in. Location information is collected if the user agrees to show their location or check-in to venues by GPS.
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting Zerista using the contact information provided below.
+**User Data/Data Collection: Social Media (Features) and Widgets**
 
-###  **Our Commitment to Data Security**
+Our website includes social media programs and features, such as Simpleview UGC powered by Stackla, the Facebook Like button and widgets, and the Share button. If you choose to use these features, they may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. The : social media programs, features, and widgets we use are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing the feature(s).
 
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. For example, to protect your privacy and security, we take reasonable steps (such as requesting a unique Password) to verify your identity before granting access to a user’s account or making changes to a user’s account information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties’ use or misuse of personal information. You are solely responsible for maintaining the secrecy of your unique Password and account information at all times.
+**User Data/Data Collection:** **Automated Decision Making and Profiling**
 
-###  **In the Event of Merger, Sale, or Bankruptcy**
+Simpleview partners with companies that utilize automated decision making processes, including user profiling, in order to provide more relevant marketing materials to those users who opt in to receiving emails from us.
 
-In the event that Zerista is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles
+**Use of Information**
 
-###  **Privacy Shield**
+The information that we collect is used to enhance the usability and improve the content of our web pages. It may be used to personalize information and for statistical purposes. Personal information will not be shared with third parties unless indicated and when approved by the user (in other words, if the user opts-in to sharing information) or unless required to do so by law, such as to comply with a subpoena, court orders, legal process from law enforcement agencies, or similar legal proceedings. We provide information to investigate or prevent suspected illegal activities. Personal data may be shared in the following situations, as well:
 
-In accordance with our commitment to protect personal privacy, Zerista complies with the Privacy Shield Principles of [Notice](https://www.privacyshield.gov/article?id=1-NOTICE), [Choice](https://www.privacyshield.gov/article?id=2-CHOICE), [Accountability for Onward Transfer](https://www.privacyshield.gov/article?id=3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER), [Security](https://www.privacyshield.gov/article?id=4-SECURITY), [Data Integrity and Purpose Limitation](https://www.privacyshield.gov/article?id=5-DATA-INTEGRITY-AND-PURPOSE-LIMITATION), [Access](https://www.privacyshield.gov/article?id=6-ACCESS) and [Recourse, Enforcement and Liability.](https://www.privacyshield.gov/article?id=7-RECOURSE-ENFORCEMENT-AND-LIABILITY)
+  * As required by law, such as to comply with a subpoena, legal proceedings, or similar legal process
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, and
+  * To a third party with your prior consent to do so.
 
-Zerista complies with the _EU-U.S. Privacy Shield Framework_ as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the _European Union, as applicable_ , to the United States. Zerista, has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-###  **Dispute Resolution**
 
-Any questions or concerns regarding the use or disclosure of personal information should be directed to Zerista via our [help desk](https://zerista.zendesk.com/hc/en-us/requests/new). Zerista will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. Zerista has committed to refer unresolved Privacy Shield complaints to the International Centre for Dispute Resolution, operated by the American Arbitration Association (ICDR/AAA), an alternative dispute resolution provider. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the ICDR/AAA for more information or to file a complaint (<http://go.adr.org/privacyshield.html>).  The services of the ICDR/AAA are provided at no cost to you. Zerista will also cooperate with the EU data protection authorities (DPAs) in the investigation and resolution of complaints brought under the Privacy Shield. Zerista is subject to the investigatory and enforcement powers of the Federal Trade Commission with regard to Zerista’s Privacy Shield commitments. Zerista complies with the Privacy Shield Principles for all onward transfers of personal data, including the onward transfer liability in cases of onward transfers to third parties. Under certain conditions, more fully described on the Privacy Shield Website [[https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-aComplaint)] , you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Simpleview will retain personal data we process until the visitor/user notifies us that he/she no longer wishes to receive the services or information for which the data was collected. Simpleview will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-###  **Changes to the Privacy Policy**
+**Links to Other Websites/Third Party Disclosure**
 
-We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Site. Your continued use of the Site thereafter constitutes acceptance of the changes. This privacy policy came into effect on January 1, 2018.
+[www.simpleviewinc.com](https://www.simpleviewinc.com/) contains links to other sites. Please be aware that we are not responsible for the information collection processes on these sites and cannot control how the information is used. Please view the privacy policies on these other websites for further information.
 
-For further questions regarding our data policy, feel free to email us at [privacy@zerista.com](mailto:privacy@zerista.com)
+**Data Collection For Clients and Partners**
+
+Simpleview supports the development and operation of [partner services/products](https://www.simpleviewinc.com/our-world/partners/) that interact with client user information. We request that our partners meet industry standards for security data storage and maintenance equivalent to those that we uphold or higher in regards to any data collected by our partners or by Simpleview in conjunction with these partner services/products. Where applicable, we enter into binding agreements ensuring all parties meet minimum data security standards.
+
+We acknowledge that we may face liability in cases where there is an onward transfer of your personal information from us to a third party. We hold those third parties with whom we do business to the same rigorous security standards that we impose on ourselves.
+
+**Data Security**
+
+Simpleview employs processes intended to protect user information and maintain security of data. We seek to protect our servers by locating them in areas with documented security procedures, by using firewalls, and by implementing other security technologies. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data. However, despite our preventative measures and those of our partners, NO GUARANTEE CAN BE MADE THAT YOUR INFORMATION AND DATA WILL BE SECURE FROM INTRUSIONS AND UNAUTHORIZED RELEASE TO THIRD PARTIES.
+
+**Reviewing/Updating Your Information**
+
+You have the right to review your information at any time. If you would like to review your information within our contacts database, update it, or remove it, please contact [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com).
+
+If you would like to be removed from or change your subscriptions to any of our newsletters, there is a link at the bottom of every newsletter that allows you to do so.
+
+**Dispute Resolution**
+
+Under certain circumstances, an individual may be allowed to invoke binding arbitration for a violation of that individual’s privacy rights.
+
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+
+**Changes to This Privacy Policy**
+
+We reserve the right to change and update our privacy policy. Any changes to our policy will be prominently posted on this site. Last updated: 3/6/2018
+
+**Report Concerns**
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
