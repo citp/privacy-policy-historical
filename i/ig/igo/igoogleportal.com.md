@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igoogleportal.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119214007id_/http%3A//www.igoogleportal.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igoogleportal.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521100628id_/http%3A//www.igoogleportal.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
