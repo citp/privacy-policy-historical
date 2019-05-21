@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poco.net privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020183840id_/https%3A//www.mi.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poco.net privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521115102id_/https%3A//www.mi.com/en/about/privacy) for the most accurate reproduction.*
 
 # Mi Global Home
 
@@ -8,7 +8,7 @@ Please take a moment to familiarize yourself with our privacy practices and let 
 
 ### Our commitment to you
 
-This Privacy Policy sets out how Xiaomi Inc. and its affiliated companies within the Xiaomi Group (“Xiaomi”, “we”, “our” or “us”) collect, use, disclose, process and protect any information that you give us when you use our products and services located at www.mi.com, en.miui.com, account.xiaomi.com, MIUI and our Suite of applications that we offer on our mobile devices, for a list of these applications, please click [here](http://privacy.truste.com/privacy-seal/validation?rid=2a8dc25b-165b-449b-aeb4-fea7228974fa). Should we ask you to provide certain information by which you can be identified when using Xiaomi products and services, it will only be used in accordance with this Privacy Policy and/or our terms and conditions for users.
+This Privacy Policy sets out how Xiaomi Inc. and its affiliated companies within the Xiaomi Group (“Xiaomi”, “we”, “our” or “us”) collect, use, disclose, process and protect any information that you give us when you use our products and services located at www.mi.com, en.miui.com, account.xiaomi.com, MIUI and our Suite of applications that we offer on our mobile devices, for a list of these applications, please click [here](https://privacy.truste.com/privacy-seal/validation?rid=2a8dc25b-165b-449b-aeb4-fea7228974fa). Should we ask you to provide certain information by which you can be identified when using Xiaomi products and services, it will only be used in accordance with this Privacy Policy and/or our terms and conditions for users.
 
 The Privacy Policy is designed with you in mind, and it is important that you have a comprehensive understanding of our personal information collection and usage practices, as well as full confidence that ultimately, you have control of any personal information provided to Xiaomi.
 
@@ -19,6 +19,8 @@ By using Xiaomi products and services or other acting permitted by the applicabl
 If you use our products and services in the European Economic Area (EEA), Xiaomi Singapore Pte. Ltd. will act as the data controller and be responsible for the processing of the data. Contact details of Xiaomi Singapore Pte. Ltd. can be found in the "Contact Us" section.
 
 Ultimately, what we want is the best for all our users. Should you have any concerns with our data handling practice as summarized in this Privacy Policy, please contact [privacy@xiaomi.com](mailto:privacy@xiaomi.com) to address your specific concerns. We will be happy to address them directly.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=2a8dc25b-165b-449b-aeb4-fea7228974fa)
 
 If you have questions or concerns regarding our Privacy Policy or practices, please contact us at privacy@xiaomi.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request).
 
@@ -182,7 +184,7 @@ If you have previously agreed to us using your personal information for the abov
   * You have the right to request access to and/or correction of any other personal information that we hold about you. When you update your personal information, you will be asked to verify your identity before we proceed with your request. Once we obtain sufficient information to accommodate your request for access to or correction of your personal information, we shall proceed to respond to your request within any timeframe set out under your applicable data protection laws.
   * A copy of your personal data collected and processed by us will be provided to you upon your request free of charge. For any extra requests of the same information, we may charge a reasonable fee based on actual administrative costs according to the applicable laws.
   * If you would like to request access to your personal data held by us or if you believe any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the email address below. Email: privacy@xiaomi.com
-  * For details relating to the personal information in your Mi Account, you may also access and change them at [//account.mi.com](https://account.mi.com/) or by logging into your account on your device.
+  * For details relating to the personal information in your Mi Account, you may also access and change them at [https://account.mi.com](https://account.mi.com/) or by logging into your account on your device.
   * If you are Europe Union user under General Data Protection Regulation (GDPR), you have the right to obtain from us the erasure of your personal information. We shall consider the grounds regarding your erasure request and take reasonable steps, including technical measures, if the grounds apply to GDPR.
   * If you are Europe Union user under GDPR, you have the right to obtain from us the restriction of processing your personal information. We shall consider the grounds regarding your restriction request. If the grounds apply to GDPR, we shall only process your personal information under applicable circumstances in GDPR and inform you before the restriction of processing is lifted.
   * If you are Europe Union user under GDPR, you have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
