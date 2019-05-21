@@ -1,343 +1,454 @@
-<!--The following is the downloaded HTML source of the josephprinceonline.com privacy policy that was archived on 2016-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160821144150id_/https%3A//www.josephprince.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the josephprinceonline.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521190103id_/https%3A//www.josephprince.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head>
-    <meta charset="utf-8"><script type="text/javascript" async="" src="https://widget.intercom.io/widget/iql44lps"></script><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(u(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(2),u=t(3),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],p="api-",l=p+"ixn-";a(s,function(t,e){f[e]=o(p+e,!0,"api")}),f.addPageAction=o(p+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){d[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],2:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],3:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?u(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var s=f[m[n]];return s&&s.push([w,n,r,i]),i}function p(t,e){g[t]=l(t).concat(e)}function l(t){return g[t]||[]}function d(t){return s[t]=s[t]||o(n)}function v(t,e){c(t,function(t,n){e=e||"feature",m[n]=e,e in f||(f[e]=[])})}var g={},m={},w={on:p,emit:n,get:d,listeners:l,context:e,buffer:v};return w}function i(){return new r}var a="nr@context",u=t("gos"),c=t(2),f={},s={},p=e.exports=o();p.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!h++){var t=y.info=NREUM.info,e=s.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(m,function(e,n){t[e]||(t[e]=n)});var n="https"===g.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=t("handle"),c=t(2),f=window,s=f.document,p="addEventListener",l="attachEvent",d=f.XMLHttpRequest,v=d&&d.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:d,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(1);var g=""+location,m={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},w=d&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:g,features:{},xhrWrappable:w};s[p]?(s[p]("DOMContentLoaded",i,!1),f[p]("load",r,!1)):(s[l]("onreadystatechange",o),f[l]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-    <meta name="viewport" content="width=1040">
-    <title>Privacy Policy | Joseph Prince Resources</title>
-    <link rel="shortcut icon" href="/favicon.ico">
-    <meta name="description" content="For the latest, most exclusive &amp; best-priced Joseph Prince Resources.">
-    <!-- Facebook Tags -->
-    <meta property="og:title" content="Privacy Policy">
-    <meta property="og:site_name" content="Joseph Prince Resources">
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    
+    <script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PGLNSZ"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+var GOOGLE_ANALYTICS_ID = "UA-47301659-4";
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-47301659-4', 'auto');
+ga('require', 'GTM-5MVZHZW');
+ga('require', 'ec');
+</script>
+<script>
+var FB_ID = "1487189494905926";
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1487189494905926');
+fbq('track', 'PageView');
+</script>
+<script>
+ga('send', 'pageview');
+</script>
+
+<script>
+dataLayer = [{
+    }];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PGLNSZ');</script>
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="ix:host" content="jpcom.imgix.net">
+    <meta property="ix:useHttps" content="true">
+
+    
+    <title>Privacy Policy | JosephPrince.com</title>
+
+    <meta name="description" content="Get updates on the latest sermons. Watch this week’s free sermon screening. Tune in to the monthly free videostream. Read stories of lives transformed by grace.">
+    <meta name="keywords" content="Privacy Policy, grace, christian, bible, gospel of grace, unmerited favor, hope, faith, love, book, sermon">
+    <meta name="author" content="Joseph Prince">
+    <meta name="copyright" content="© JosephPrince.com">
+
+    
+    <meta property="og:title" content="Privacy Policy | JosephPrince.com">
+    <meta property="og:site_name" content="JosephPrince.com">
     <meta property="og:url" content="https://www.josephprince.com/privacy">
-    <meta property="og:description" content="For the latest, most exclusive &amp; best-priced Joseph Prince Resources.">
-    <meta property="og:type" content="website">
+    <meta property="og:description" content="Get updates on the latest sermons. Watch this week’s free sermon screening. Tune in to the monthly free videostream. Read stories of lives transformed by grace.">
+    <meta property="og:type" content="">
     <meta property="fb:app_id" content="454120441353390">
     <meta property="fb:pages" content="102470493134142">
-        <!-- Twitter Tags -->
+
+                <meta property="og:image" content="https://jpcom.imgix.net/cms/homepage_elements/jp-og-image.png?&amp;w=1200&amp;h=630">
+        <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:image" content="https://jpcom.imgix.net/cms/homepage_elements/jp-og-image.png?&amp;w=1024&amp;h=512">
+        
     <meta name="twitter:site" content="@josephprince">
     <meta name="twitter:creator" content="@josephprince">
-    <meta name="twitter:title" content="Privacy Policy">
-    <meta name="twitter:description" content="For the latest, most exclusive &amp; best-priced Joseph Prince Resources.">
+    <meta name="twitter:title" content="Privacy Policy | JosephPrince.com">
+    <meta name="twitter:description" content="Get updates on the latest sermons. Watch this week’s free sermon screening. Tune in to the monthly free videostream. Read stories of lives transformed by grace.">
     <meta name="twitter:url" content="https://www.josephprince.com/privacy">
     <meta name="twitter:card" content="summary">
-        <!-- End of social media tags -->
-    <link rel="stylesheet" href="//jpcomstatic.imgix.net/build/css/app-8aafb563.css">
-    <!--[if lt IE 9]>
-      <link rel="stylesheet" href="//jpcomstatic.imgix.net/build/css/ie8-05193cee.css" />
-      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
-      <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-      <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+    
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    
+    <!--[if lte IE 9]>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/g/html5shiv@3.7.3,respond@1.4.2"></script>
+    <![endif]-->
+    <link href="/css/app.css?id=bcb328bd4b45a527db1e" rel="stylesheet">
+    <!--[if lte IE 9]>
+        <link href="/css/bootstrap-ie8.css?id=e2033f2d670cff9c143a" rel="stylesheet">
     <![endif]-->
 
-    <script src="//jpcomstatic.imgix.net/build/js/app-header-d41d8cd9.js"></script>
-        <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-47301659-4', 'auto');
-      ga('send', 'pageview');
-
-    </script>
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/v5/bugsnag.min.js"></script>
     <script>
-  window.intercomSettings = {
-    app_id: "iql44lps"
-  };
-  </script>
-<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/iql44lps';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
-        
-  </head>
+        window.Bugsnag = bugsnag({
+            apiKey: "17f52a3324c009e5bdeb5436d56faffd",
+            releaseStage: "production",
+        });
+    </script>
 
-  <body>
-    <div class="row">
-        <div class="medium-12 columns">
-            <div id="top"></div>
-        </div>
-    </div>
-    <div class="row" id="header">
-        <div class="medium-8 columns" id="top-logo">
-            <a href="/"><img src="//jpcomstatic.imgix.net/images/jp-header-2x.png" width="474" height="63" alt="JosephPrince.com"></a>
-        </div>
-        <div class="medium-4 columns">
-            <div class="row">
-                <div class="small-12 columns text-right">
-                        <img src="//jpcomstatic.imgix.net/images/flags/us.png" alt="United States Store" title="United States Store" style="height:19px;border:1px solid #e0e0e0;margin-right:3px;">
-                                    		<a href="https://www.josephprince.com/login" class="button auth">Login | Sign Up</a>
-                	                	                    <a class="button" href="https://www.josephprince.com/cart" id="headercart">Cart (0)</a>
-                    <div id="minicart">
-                    </div>
-                </div>
-            </div>
+    <!--[if IE]><link rel="shortcut icon" href="/favicon.ico" /><![endif]-->
+    <link rel="icon" href="/favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="/launcher-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/launcher-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/launcher-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/launcher-icon-ipad-retina.png">
 
-            <div class="row">
-                <div class="medium-12 columns" id="top-search">
-                    <form method="GET" action="https://www.josephprince.com/search" accept-charset="UTF-8" class="search-field">
-                        <div class="find-something">
-                        <input placeholder="I'm looking for..." name="term" type="text">
-                        </div>
-                        <div class="submit-find">
-                        <input type="submit" value="Search">
-                        </div>
-                    </form>
-                </div>
-            </div>
-
+    </head>
+<body id="app-layout"><div class="alert alert-danger">Your browser is not allowing scripts on this page to load. Please refresh, enable JavaScript or <a href="http://browser-update.org/update.html?force_outdated=true" style="color:#000">upgrade to the latest browser</a>.</div>
+    <noscript>
+        <div class="alert alert-danger" role="alert">
+            Please enable JavaScript in your browser for this page to load correctly. <a href="https://www.whatismybrowser.com/guides/how-to-enable-javascript/" target="_blank">How?</a>
         </div>
-    </div>
-    <div class="row" id="header-nav">
-        <div class="medium-9 medium-centered columns">
-            <nav class="top-bar" data-topbar="" role="navigation">
-                <ul class="title-area">
-                    <li class="name visible-for-small-only"><h1><a href="#">JosephPrince.com</a></h1></li>
-                    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-                </ul>
-                <section class="top-bar-section">
-                    <ul class="left">
-                        <li class="has-dropdown">
-                            <a href="https://www.josephprince.com/sermons">Sermons</a>
-                            <ul class="dropdown">
-                              <li><a href="https://www.josephprince.com/mp3-sermons">MP3 Sermons</a></li>
-                              <li><a href="https://www.josephprince.com/cd-sermons">CD Sermons</a></li>
-                                                          </ul>
-                        </li>
-                        <li class="has-dropdown">
-                            <a href="#">Series</a>
-                            <ul class="dropdown">
-                              <li><a href="https://www.josephprince.com/dvd-albums">DVD Albums</a></li>
-                              <li><a href="https://www.josephprince.com/mp3-albums">MP3 Albums</a></li>
-                              <li><a href="https://www.josephprince.com/cd-albums">CD Albums</a></li>
-                              <li><a href="https://www.josephprince.com/sku/20140001GC">Grace Capsule</a></li>
-                              <li><a href="https://www.josephprince.com/sku/2014001RBC">Right Believing Capsule</a></li>
-                              <li><a href="https://www.josephprince.com/music">Music</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-dropdown">
-                            <a href="https://www.josephprince.com/books">Books</a>
-                            <ul class="dropdown">
-                              <li><a href="https://www.josephprince.com/books">Books</a></li>
-                              <li><a href="https://www.josephprince.com/books/other-languages">Other Languages</a></li>
-                                                          </ul>
-                        </li>
-                        <li class="has-dropdown">
-                            <a href="https://www.josephprince.com/deals">Deals</a>
-                            <ul class="dropdown">
-                                <li><a href="https://www.josephprince.com/deals">Deals</a></li>
-                                <li><a href="https://www.josephprince.com/bundles">Bundles</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-dropdown">
-                            <a href="http://blog.josephprince.com">Blog</a>
-                            <ul class="dropdown">
-                                <li><a href="http://blog.josephprince.com/category/articles/">Articles</a></li>
-                                <li><a href="https://www.josephprince.com/videos">Videos</a></li>
-                                <li class="has-dropdown">
-                                    <a href="http://blog.josephprince.com/category/praise-reports">Praise Reports</a>
-                                    <ul class="dropdown">
-                                        <li><a href="http://blog.josephprince.com/category/praise-reports">All Praise Reports</a></li>
-                                        <li><a href="https://www.josephprince.com/testimony">Share With Us</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="http://blog.josephprince.com/category/updates/">News &amp; Events</a></li>
-                                <li><a href="http://blog.josephprince.com/home-page/homepage-2/about/">About Joseph</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </section>
-            </nav>
-        </div>
-    </div>
-    <div class="row" id="header-info">
-        <div class="medium-12 columns">
-            <hr>
-            <div class="store-info">
-                <span>Transactions are in USD</span>
-                <span style="color:#14CFDD"><strong>FREE SHIPPING</strong> within US for orders above US$80</span>
-                <span><img src="https://www.paypalobjects.com/webstatic/mktg/logo/PP_AcceptanceMarkTray-NoDiscover_243x40.png" height="21" width="121" style="margin-top:-3px" alt="Buy now with PayPal"></span>
-            </div>
-        </div>
-    </div>
-        
-    <!-- body content here -->
-        
-<div class="row">
-    <div class="medium-10 medium-centered columns">
-        <h1>Privacy Policy</h1>
-        <p>At JosephPrince.com, your privacy is of utmost importance to us and we take every measure to ensure that the data provided by you is kept secure and not misused. We will not use your personal information for any purpose other than that which it was given for.</p>
-
-        <p>When dealing with your personal information, JosephPrince.com adheres to all obligations set forth in Singapore’s Personal Data Protection Act. This policy dictates how we use your personal information that we collect.</p>
-        
-        <h2>Information You Choose To Submit</h2>
-        <div class="indent">
-        	<h3>When you sign up for a JosephPrince.com account</h3>
-        	<p>When you register for an account on JosephPrince.com, you will be required to provide us with your email address. The email address you provide will only be used to send you information about your orders, or to contact you about any important matters regarding your account. Please note that the password you will need to create to login will be securely stored and is accessible to no one but yourself.</p>
-        	
-        <p>Should you choose to opt-in to our email newsletters during your registration, your email address will be added to the respective mailing lists you have selected. You can opt-out from these mailing lists at any time. For more information on our privacy policy regarding emails, <a href="https://www.josephprince.com/privacy#pp-emails">click here.</a>.</p>	
-        <h3>Shopping on JosephPrince.com</h3>
-        	<p>When you place an online order, you will be required to provide the following information: your name, email address, delivery address, billing address, contact number and any special delivery instructions. We may share selected information with our agents, sub-contractors (e.g. shipping company) and/or third parties (e.g. PayPal, the payment gateway that you make payments through) for the sole purpose of fulfilling your order.</p>
-        	
-        	<p>Please note that JosephPrince.com does not collect or receive your payment card details. This information is only received by PayPal, our payment gateway. For more details on PayPal’s privacy policy, <a href="https://www.paypal.com/webapps/mpp/ua/privacy-full">click here</a>.</p>
-        	<a name="pp-emails"></a>
-        	<h3>Emails from JosephPrince.com</h3>
-        	<p>JosephPrince.com has found that attractive, graphics-rich emails are a quick and effective way to communicate with our registered users and subscribers about new resources, and clearance and sale items. We maintain an opt-in, user-customizable subscription database of users who have requested to receive these emails. Every email you receive provides an option for you to unsubscribe from such emails if you so wish to.</p>
-        	<h3>When You Fill Out a Form or Send Us an Email </h3>
-        	<p>If you choose to provide us with personal information by sending an email to JosephPrince.com, or by filling out a form with your personal information and submitting it through the web site, we may use the information to respond to your message and to help us provide you with the information that you have requested.</p>
-        	
-        	<h3>When You Send Us a Testimony</h3>
-        	<p>Should you wish to send us your testimony to encourage readers of this website, be assured that before it is published, a separate release agreement will be sent to you for your consent.</p>
-        	<h3>When you participate in any contest or promotion</h3>
-        	<p>When you participate in any contest or promotion, we may ask for your name, address, email address and/or other information so that we can administer the contest/promotion and notify winners. Unless you have given us permission to do so, we will not add you to our mailing lists or use your information for other purposes.</p>
-        </div>
-        
-        <h2>Information We Collect Automatically</h2>
-        <div class="indent">
-        <h3>Visiting JosephPrince.com</h3>
-        <p>We collect information automatically about your visit whenever you interact with this website, for example, when you browse through the website, read pages, or download information. This is done with the use of "cookies," which are small text files placed on your computer to collect standard Internet log information and visitor behaviour information in an anonymous form. Please be assured that this information is anonymised and cannot be used to identify you personally.</p>
-        
-        <p>This information includes your Internet Protocol (IP) address, which is captured in our web server log files by default. This information will only be used internally to help diagnose problems with our server, and to monitor network traffic to identify unauthorized attempts to upload, change information, or cause damage to our servers.</p>
-        </div>
-        
-        <p>The information we collect from you will be used only for administrative purposes. Unless specifically mentioned to you at the point where the information is collected, or in this privacy policy, we will not release or sell your personal information to any third party without your permission except where JosephPrince.com considers the release appropriate to comply with the law, or to protect the rights, property and safety of JosephPrince.com, its members, or others.</p>
-        
-        <p>In cases where we have obtained your permission to disclose your personal information to any third party, all such parties will be obliged to maintain the same or better level of security and confidentiality of your information as stated by this policy, and to process the data only according to our instruction.</p>
-        
-        <h2>Accessing, Updating and Withdrawing Your Information</h2>
-        <p>In accordance to the applicable laws of the Singapore government, JosephPrince.com will provide you with access to update or amend the personal information stored with us. In the event that you may wish to request access to, update, amend, or withdraw your personal information, you may contact our Data Protection Officer using the details in the Contact Us section of this policy. </p>
-        
-        <p>Please note that for security reasons, JosephPrince.com, in accordance with this section, will take steps to authenticate the identity of the requesting party before providing access to the personal information requested.</p>
-        
-        <h2>Retention of Your Information</h2>
-        <p>Because JosephPrince.com website stores your personal information, we take reasonable steps to ensure the security of the personal and sensitive information we hold and to protect it against loss, misuse or unauthorized access, destruction, use, modification, or disclosure.</p>
-        
-        <p>Our IT systems are password protected and comply with applicable security standards. Only authorised personnel are permitted to access these details.</p>
-        
-        <p>It is our policy to:</p>
-        <ul>
-        	<li>Permanently de-identify personal information where reasonable and possible; and</li>
-        	<li>Destroy personal information once the purpose which it was collected is no longer served.</li>
-        </ul>
-        <h2>Variation</h2>
-        <p>JosephPrince.com may amend this Privacy Policy from time to time. We encourage you to visit the website regularly to stay updated with these changes.</p>
-        <h2>Governing Law</h2>
-        <p>These Terms and Conditions shall be governed and construed in accordance with the laws of the Republic of Singapore. You hereby submit to the non-exclusive jurisdiction of the courts of the Republic of Singapore.</p>
-        <h2>Contact Us</h2>
-        <p>The JosephPrince.com Data Protection Officer helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This Officer also helps educate JosephPrince.com employees concerning compliance to the policy. If you have questions, comments or concerns about data privacy, JosephPrince.com’s Privacy Policy or the security of personal information that we process, you may send an e-mail to <a href="mailto:dpo@josephprince.com">dpo@josephprince.com</a></p>
+    </noscript>
     
+    <div class="alert--storewide d-print-none">
+        FREE SHIPPING for orders above $80 within United States.
+            </div>
+    
+
+        <header class="header  not-home ">
+    <nav class="nav__wrapper nav navbar navbar-expand-md  not-home " id="nav">
+                <button class="header__hamburger" type="button" aria-label="Toggle navigation">
+        </button>
+        
+        <a class="navbar-brand nav__logo-wrapper " href="/">
+            <div class="nav__logo"></div>
+        </a>
+
+                <div class="header__navbar" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto mr-auto">
+                <li class="nav__cross header__close">
+                    <button class="nav__cross__icon nav-link" type="button" aria-label="Toggle navigation">
+                    </button>
+                </li>
+                <li class="nav-item show-mobile-only">
+                    <a class="nav-link" href="https://www.josephprince.com">
+                        Home
+                    </a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="sermonsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Sermons
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="sermonsDropdown">
+                        <a class="dropdown-item" href="/sermons">Sermons</a>
+                        <a class="dropdown-item" href="/series">Sermon Series</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/capsules">Capsules</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="/credits/josephprincecom-app-credit">JP App Credits</a>
+                                            </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="booksDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Books
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="booksDropdown">
+                        <a class="dropdown-item" href="/books">Books</a>
+                        <a class="dropdown-item" href="/book-bundles">Book Bundles</a>
+                        <a class="dropdown-item" href="/books/other-languages">Other Languages</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="Deals" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Deals
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="Deals">
+                        <a class="dropdown-item" href="/deals">Deals</a>
+                        <a class="dropdown-item" href="/cd-deals">CD Deals</a>
+                        
+                        
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="gifts" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Gifts
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="gifts">
+                        <a class="dropdown-item" href="/apparel">Apparel</a>
+                        
+                        <a class="dropdown-item" href="/home-decor">Home Decor</a>
+                        
+                        <a class="dropdown-item" href="/music">Music</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="Blog" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Blog
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="Blog">
+                        <a class="dropdown-item" href="https://www.josephprince.com/sermon-notes">Sermon Notes</a>
+                        <a class="dropdown-item" href="http://blog.josephprince.com/category/articles/">Articles</a>
+                        <a class="dropdown-item" href="http://blog.josephprince.com/category/praise-reports/">Praise Reports</a>
+                        <a class="dropdown-item" href="http://blog.josephprince.com/category/updates/">News &amp; Events</a>
+                        <a class="dropdown-item" href="http://blog.josephprince.com/home-page/homepage-2/about/">About Joseph Prince</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" id="Videostream" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="far fa-play-circle"></i>&nbsp;Videostream
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="Videostream">
+                        <a class="dropdown-item" href="/videostream">Videostream Home</a>
+                        <a class="dropdown-item" href="/videostream/sermons">Sermons</a>
+                        <a class="dropdown-item" href="/videostream/series">Sermon Series</a>
+                        <a class="dropdown-item" href="/videostream/free">Watch Free Videostream</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+        
+                <div class="nav__iconsWrapper">
+            <div>
+                <div class="nav__icon nav__search-icon" id="search-icon" role="img" aria-label="Search"></div>
+            </div>
+            <div class="dropdown">
+                <a href="#" id="profileDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <div class="nav__icon nav__profile-icon"></div>
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="profileDropdown">
+                                            <a class="dropdown-item" href="/login">Log In / Sign Up</a>
+                                    </div>
+            </div>
+            <div>
+                <a href="/cart" class="nav__cart-icon nav__icon">
+                    <div class="nav__cart-icon__count">
+                        0
+                    </div>
+                </a>
+            </div>
+        </div>
+            </nav>
+</header>
+        
+    
+
+<div class="container checkout">
+    <div class="row justify-content-center">
+        <div class="col-md-10 col-12">
+                            <h1 class="h1--checkout">Privacy Policy</h1>
+                    </div>
+    </div>
+
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-10 col-12">
+                        <div class="staticPage">
+                <p>At JosephPrince.com, your privacy is of utmost importance to us and we take every measure to ensure that the data provided by you is kept secure and not misused. We will not use your personal information for any purpose other than that which it was given for.</p><p>When dealing with your personal information, JosephPrince.com adheres to all obligations set forth in Singapore’s Personal Data Protection Act. This policy dictates how we use your personal information that we collect.</p><h2>Information You Choose To Submit</h2><h3>When you sign up for a JosephPrince.com account</h3><p>When you register for an account on JosephPrince.com, you will be required to provide us with your email address. The email address you provide will only be used to send you information about your orders, or to contact you about any important matters regarding your account. Please note that the password you will need to create to login will be securely stored and is accessible to no one but yourself.</p><p>Should you choose to opt-in to our email newsletters during your registration, your email address will be added to the respective mailing lists you have selected. You can opt-out from these mailing lists at any time. For more information on our privacy policy regarding emails, click here..</p><h3>Shopping on JosephPrince.com</h3><p>When you place an online order, you will be required to provide the following information: your name, email address, delivery address, billing address, contact number and any special delivery instructions. We may share selected information with our agents, sub-contractors (e.g. shipping company) and/or third parties (e.g. PayPal, the payment gateway that you make payments through) for the sole purpose of fulfilling your order.</p><p>Please note that JosephPrince.com does not collect or receive your payment card details. This information is only received by PayPal, our payment gateway. For more details on PayPal’s privacy policy, click here.</p><h3>Emails from JosephPrince.com</h3><p>JosephPrince.com has found that attractive, graphics-rich emails are a quick and effective way to communicate with our registered users and subscribers about new resources, and clearance and sale items. We maintain an opt-in, user-customizable subscription database of users who have requested to receive these emails. Every email you receive provides an option for you to unsubscribe from such emails if you so wish to.</p><h3>When You Fill Out a Form or Send Us an Email</h3><p>If you choose to provide us with personal information by sending an email to JosephPrince.com, or by filling out a form with your personal information and submitting it through the web site, we may use the information to respond to your message and to help us provide you with the information that you have requested.</p><h3>When You Send Us a Testimony</h3><p>Should you wish to send us your testimony to encourage readers of this website, be assured that before it is published, a separate release agreement will be sent to you for your consent.</p><h3>When you participate in any contest or promotion</h3><p>When you participate in any contest or promotion, we may ask for your name, address, email address and/or other information so that we can administer the contest/promotion and notify winners. Unless you have given us permission to do so, we will not add you to our mailing lists or use your information for other purposes.</p><h2>Information We Collect Automatically</h2><h3>Visiting JosephPrince.com</h3><p>We collect information automatically about your visit whenever you interact with this website, for example, when you browse through the website, read pages, or download information. This is done with the use of "cookies," which are small text files placed on your computer to collect standard Internet log information and visitor behaviour information in an anonymous form. Please be assured that this information is anonymised and cannot be used to identify you personally.</p><p>This information includes your Internet Protocol (IP) address, which is captured in our web server log files by default. This information will only be used internally to help diagnose problems with our server, and to monitor network traffic to identify unauthorized attempts to upload, change information, or cause damage to our servers.</p><p>The information we collect from you will be used only for administrative purposes. Unless specifically mentioned to you at the point where the information is collected, or in this privacy policy, we will not release or sell your personal information to any third party without your permission except where JosephPrince.com considers the release appropriate to comply with the law, or to protect the rights, property and safety of JosephPrince.com, its members, or others.</p><p>In cases where we have obtained your permission to disclose your personal information to any third party, all such parties will be obliged to maintain the same or better level of security and confidentiality of your information as stated by this policy, and to process the data only according to our instruction.</p><h2>Accessing, Updating and Withdrawing Your Information</h2><p>In accordance to the applicable laws of the Singapore government, JosephPrince.com will provide you with access to update or amend the personal information stored with us. In the event that you may wish to request access to, update, amend, or withdraw your personal information, you may contact our Data Protection Officer using the details in the Contact Us section of this policy.</p><p>Please note that for security reasons, JosephPrince.com, in accordance with this section, will take steps to authenticate the identity of the requesting party before providing access to the personal information requested.</p><h2>Retention of Your Information</h2><p>Because JosephPrince.com website stores your personal information, we take reasonable steps to ensure the security of the personal and sensitive information we hold and to protect it against loss, misuse or unauthorized access, destruction, use, modification, or disclosure.</p><p>Our IT systems are password protected and comply with applicable security standards. Only authorised personnel are permitted to access these details.</p><p>It is our policy to:</p><ul><li>Permanently de-identify personal information where reasonable and possible; and</li><li>Destroy personal information once the purpose which it was collected is no longer served.</li></ul><h2>Variation</h2><p>JosephPrince.com may amend this Privacy Policy from time to time. We encourage you to visit the website regularly to stay updated with these changes.</p><h2>Governing Law</h2><p>These Terms and Conditions shall be governed and construed in accordance with the laws of the Republic of Singapore. You hereby submit to the non-exclusive jurisdiction of the courts of the Republic of Singapore.</p><h2>Contact Us</h2><p>The JosephPrince.com Data Protection Officer helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This Officer also helps educate JosephPrince.com employees concerning compliance to the policy. If you have questions, comments or concerns about data privacy, JosephPrince.com’s Privacy Policy or the security of personal information that we process, you may send an e-mail to <a href="mailto:dpo@josephprince.com">dpo@josephprince.com</a></p>
+            </div>
+        </div>
     </div>
 </div>
 
 
-    <footer>
-        <div class="row">
-            <div class="medium-3 columns">
-                <ul class="footer-nav no-bullet">
-                    <li class="heading"><a href="https://www.josephprince.com/sermons">Sermons</a></li>
-                    <li><a href="https://www.josephprince.com/cd-sermons">CD Messages</a></li>
-                    <li><a href="https://www.josephprince.com/mp3-sermons">MP3 Messages</a></li>
-                    <li class="heading"><a href="https://www.josephprince.com/books">Books</a></li>
+    
+        <footer class="footer d-print-none" id="footer">
+    <div class="container">
+                <div class="row">
+            <div class="col-12 col-md-3">
+                <ul class="footer__nav">
+                    <li class="footer__nav__heading"><a href="https://www.josephprince.com/sermons">Sermons</a></li>
+                    <li><a href="https://www.josephprince.com/sermons">Sermons</a></li>
+                    <li><a href="https://www.josephprince.com/series">Sermon Series</a></li>
+                    <li><a href="https://www.josephprince.com/capsules">Capsules</a></li>
+                    <li><a href="https://www.josephprince.com/credits/josephprincecom-app-credit">JP App Credits</a></li>
+
+                    <li class="footer__nav__heading">BOOKS</li>
                     <li><a href="https://www.josephprince.com/books">Books</a></li>
-                    <li><a href="https://www.josephprince.com/books/other-languages">Other Languages</a></li>
+                    <li><a href="/book-bundles">Book Bundles</a></li>
+                    <li><a href="/books/other-languages">Other Languages</a></li>
+                    <li class="footer__nav__heading">DEALS</li>
+                    <li><a href="https://www.josephprince.com/deals">Deals</a></li>
+                    <li><a href="https://www.josephprince.com/cd-deals">CD Deals</a></li>
                 </ul>
             </div>
-            <div class="medium-3 columns">
-                <ul class="footer-nav no-bullet">
-                    <li class="heading">Albums</li>
-                    <li><a href="https://www.josephprince.com/dvd-albums">DVD Albums</a></li>
-                    <li><a href="https://www.josephprince.com/cd-albums">CD Albums</a></li>
-                    <li><a href="https://www.josephprince.com/mp3-albums">MP3 Albums</a></li>
-                    <li><a href="https://www.josephprince.com/sku/20140001GC">Grace Capsule</a></li>
-                    <li><a href="https://www.josephprince.com/sku/2014001RBC">Right Believing Capsule</a></li>
+            <div class="col-12 col-md-3">
+                <ul class="footer__nav">
+                    <li class="footer__nav__heading">Videostream</li>
+                    <li><a href="https://www.josephprince.com/videostream">Videostream Home</a></li>
+                    <li><a href="https://www.josephprince.com/videostream/sermons">Videostream Sermons</a></li>
+                    <li><a href="https://www.josephprince.com/videostream/series">Videostream Series</a></li>
+                    <li><a href="https://www.josephprince.com/videostream/free">Watch Free Videostream</a></li>
+                    
+                    <li class="footer__nav__heading">GIFTS</li>
+                    <li><a href="https://www.josephprince.com/apparel">Apparel</a></li>
+                    <li><a href="https://www.josephprince.com/home-decor">Home Decor</a></li>
                     <li><a href="https://www.josephprince.com/music">Music</a></li>
                 </ul>
             </div>
-            <div class="medium-3 columns">
-                <ul class="footer-nav no-bullet">
-                    <li class="heading">Blog</li>
+            <div class="col-12 col-md-3">
+                <ul class="footer__nav">
+                    <li class="footer__nav__heading">Blog</li>
+                    <li><a href="https://www.josephprince.com/sermon-notes">Sermon Notes</a></li>
                     <li><a href="http://blog.josephprince.com/category/articles/">Articles</a></li>
-                    <li><a href="https://www.josephprince.com/videos">Latest Videos</a></li>
+                    <li><a href="http://blog.josephprince.com/category/praise-reports">Praise Reports</a></li>
+                    <li><a href="http://blog.josephprince.com/category/updates/">News &amp; Events</a></li>
+                    <li><a href="http://blog.josephprince.com/home-page/homepage-2/about/">About Joseph Prince</a></li>
+                       
+                    <li class="footer__nav__heading">MY ACCOUNT</li>
+                                            <li><a href="https://www.josephprince.com/login">Log In / Sign Up</a></li>
+                        <li><a href="https://www.josephprince.com/redeem">Redeem Digital Sermon</a></li>
+                                        
                 </ul>
             </div>
-            <div class="medium-3 columns">
-                <ul class="footer-nav no-bullet">
-                    <li class="heading">More Info</li>
-                    <li>
-                        <span id="mce-label">Be the first to hear about the latest messages by Joseph Prince.</span>
-                        <form action="//josephprince.us2.list-manage.com/subscribe/post?u=a150d1f30f96378c872f47725&amp;id=2d97a07cb1" method="post" name="mc-embedded-subscribe-form" data-abide="">
-                            <div class="row">
-                                <div class="medium-12 columns">
-                                    <div class="row collapse postfix-radius">
-                                        <div class="small-8 columns">
-                                                                                        <input type="email" name="EMAIL" placeholder="email address" required="">
-                                            <small class="error">Invalid email address</small>
-                                            <input type="hidden" name="SRC" value="JP">
-                                            <input type="hidden" name="CTRY" value="United States">
-                                            <input type="hidden" name="STORE" value="US">
-                                            <div style="position: absolute; left: -5000px;"><input type="text" name="b_a150d1f30f96378c872f47725_2d97a07cb1" tabindex="-1" value=""></div>
-                                        </div>
-                                        <div class="small-4 columns">
-                                            <input type="submit" class="button postfix" value="Subscribe">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </li>
+            <div class="col-12 col-md-3">
+                <ul class="footer__nav">
+                    <li class="footer__nav__heading">More Info</li>
                     <li><a href="https://www.josephprince.com/support">FAQ</a></li>
                     <li><a href="https://www.josephprince.com/support">Contact Us</a></li>
                     <li><a href="https://www.josephprince.com/shipping">Shipping Info</a></li>
-                    <li><a href="https://www.josephprince.com/careers">Career</a></li>
-                    <li><span id="siteseal"><img src="//jpcomstatic.imgix.net/images/siteseal_gd_3_h_l_m.gif"></span></li>
+                    <li><a href="https://www.josephprince.com/careers">Careers</a></li>
+
+                    
+
+                    
+                    <li class="footer__nav__social-icons mt-2">
+                        <a href="http://www.facebook.com/josephprince" target="_blank"><span class="fab fa-facebook-square"></span></a>
+                        <a href="http://www.twitter.com/josephprince" target="_blank"><span class="fab fa-twitter-square"></span></a>
+                        <a href="http://www.youtube.com/josephprinceonline" target="_blank"><span class="fab fa-youtube-square"></span></a>
+                        <a href="http://www.instagram.com/josephprince" target="_blank"><span class="fab fa-instagram"></span></a>
+                    </li>
+                </ul>
+                <div class="mt-2">
+                    <small>
+                    You are browsing the United States store.
+                    </small>
+                </div>
+                <ul class="footer__nav">
+                    <li class="footer__nav__heading">We Accept</li>
                     <li>
-                        <a href="http://www.facebook.com/josephprince">
-                            <img src="//jpcomstatic.imgix.net/images/footer_fb.gif" alt="Joseph Prince on Facebook">
-                        </a>
-                        <a href="http://www.twitter.com/josephprince">
-                            <img src="//jpcomstatic.imgix.net/images/footer_twitter.gif" alt="Joseph Prince on Twitter">
-                        </a>
-                        <a href="http://pinterest.com/josephprince">
-                            <img src="//jpcomstatic.imgix.net/images/footer_pinterest.gif" alt="Joseph Prince on Pinterest">
-                        </a>
-                        <a href="http://instagram.com/josephprince">
-                            <img src="//jpcomstatic.imgix.net/images/footer_instagram.gif" alt="Joseph Prince on Instagram">
-                        </a>
+                        <img src="/assets/images/cc-visa-white.png" height="12" width="auto" alt="Visa" class="mr-3">
+                        <img src="/assets/images/cc-mastercard-white.png" height="30" width="auto" alt="Mastercard" class="mr-3">
+                        <img src="/assets/images/cc-paypal-white.png" height="15" width="auto" border="0" alt="PayPal Logo">
                     </li>
                 </ul>
             </div>
         </div>
-        <div class="row">
-            <div class="medium-12 columns text-center" id="copyright">
-                © Copyright Joseph Prince 2016. <a href="https://www.josephprince.com/privacy">Privacy Policy</a>. <a href="https://www.josephprince.com/terms">Terms of Use</a>.
+                
+        <div class="row footer__copyright">
+            <div class="col-12 text-center">
+                © Copyright Joseph Prince 2019. <br class="show-mobile-only"><a href="https://www.josephprince.com/privacy">Privacy Policy</a>. <a href="https://www.josephprince.com/terms">Terms of Use</a>. <br>
+            </div>
+            <div class="col-12 text-center mt-3">
+                Site handcrafted by <br><a href="http://assembly.one" target="_blank"><img src="/assets/images/assembly-logo2.png" alt="Assembly" width="110" height="auto" class="mt-1"></a>
             </div>
         </div>
+    </div>
+</footer>
 
-    </footer>
+<div id="full-screen-search" class="full-screen-search">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true" class="close">×</span>
+    </button>
+    <div class="container-fluid full-screen-search__inner">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8 col-lg-7">
+                <form method="GET" action="https://www.josephprince.com/search" accept-charset="UTF-8" class="search-box__wrapper">
+    <div class="search-box__input-group input-group mb-3">
+        <input type="text" name="query" class="form-control search-box__field" placeholder="I'm Searching For..." aria-label="Search" id="term">
+        <div class="input-group-append">
+            <button class="nav__pop-up search-box__button showLoader" type="submit"></button>
+        </div>
+    </div>
+    <div class="search-box__formats__wrapper" style="display:none">
+        <span class="search-box__formats">IN THESE FORMATS: </span>
+        <div class="btn-group btn-group-toggle mt-1 search-box__format-btn-group" data-toggle="buttons">
+            <label class="search-box__format-btn btn btn-primary
+                                    active
+                            ">
+                <input type="radio" name="type" value="" id="option1" autocomplete="off" checked=""> ALL
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                            ">
+                <input type="radio" name="type" value="mp3" id="option2" autocomplete="off"> MP3
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                            ">
+                <input type="radio" name="type" value="videostream" id="option3" autocomplete="off"> Videostream
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                            ">
+                <input type="radio" name="type" value="cd" id="option4" autocomplete="off"> CD
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                                ">
+                <input type="radio" name="type" value="dvd" id="option5" autocomplete="off"> DVD
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                                ">
+                <input type="radio" name="type" value="USB" id="option6" autocomplete="off"> USB
+            </label>
+            <label class="search-box__format-btn btn btn-primary
+                                ">
+                <input type="radio" name="type" value="book" id="option7" autocomplete="off"> Books
+            </label>
+        </div>
+    </div>
+</form>
 
-    <script src="//jpcomstatic.imgix.net/build/js/libs-a9023b0e.js"></script>
-    <script src="//cdn.jsdelivr.net/classlist/2014.01.31/classList.min.js"></script>
-    <script src="//jpcomstatic.imgix.net/build/js/app-footer-392223ef.js"></script>
 
-        <script>
-    $("#siteseal img")
-        .on("click", verifyGoDaddySSLSeal)
-        .preloadImages(function() { $(this).fadeIn(2000); });
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
 
-    function verifyGoDaddySSLSeal()
-    {
-        window.open
-        (
-            "https://seal.godaddy.com/verifySeal?sealID=ReSqjf3B9LrYf1BPiYbXseVggXzlTa6SCGVUYmLAeVzhuInx4WjRiUEgRTJ",
-            "SealVerfication",
-            "location=yes,status=yes,resizable=yes,scrollbars=no,width=592,height=433"
-        );
-        ga('send', 'event', 'godaddy-seal', 'verified-seal');
-    }
+    
+    <script>
+                        Bugsnag.user = {
+                name: "Guest"
+            };
+                        </script>
+    <script src="/js/manifest.js?id=01c8731923a46c30aaed"></script>
+    <script src="/js/vendor.js?id=e03313d09a86800a2333"></script>
+    <script defer="" src="/js/imgix.min.js"></script>
+    <script defer="" src="/js/app-footer.js?id=1b9188f4dced0d6648ee"></script>
+    <!--[if lte IE 9]>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/rem/1.3.4/js/rem.min.js"></script>
+    <![endif]-->
+
+    <noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=1487189494905926&ev=PageView&noscript=1"/>
+</noscript>
+    <script>
+    window.addEventListener('DOMContentLoaded', function() {
+        $("#term, .search-box__field").on("change paste keyup", function(){
+            $(".search-box__formats__wrapper").fadeIn();
+        });
+    });
     </script>
-
-    <script src="//jpcomstatic.imgix.net/build/js/rem-d10fce19.js" type="text/javascript"></script>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0e714a61f7","applicationID":"6174222","transactionName":"bwdQYkRRW0NXVEEIDlZNc1VCWVpeGUdUBgRLTEJEX0ZUU08=","queueTime":2,"applicationTime":148,"atts":"Q0BTFAxLSE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
+        <script>
+    window.addEventListener('DOMContentLoaded', function() {
+        // Check if jQuery can load
+        var interval = setInterval(function() {
+            if(document.readyState === 'complete') {
+                clearInterval(interval);
+                if (!window.jQuery) {
+                    var alertDiv = document.createElement("div");
+                    alertDiv.setAttribute('class', 'alert alert-danger');
+                    alertDiv.innerHTML = "Your browser is not allowing scripts on this page to load. Please refresh, enable JavaScript or <a href='http://browser-update.org/update.html?force_outdated=true' style='color:#000'>upgrade to the latest browser</a>.";
+                    document.body.insertBefore(alertDiv,document.body.childNodes[0]);
+                    Bugsnag.notify("No jQuery", "jQuery failed to load.");
+                }
+            }
+        }, 500);
+    });
+    </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0e714a61f7","applicationID":"134888574","transactionName":"bwdQYkRRW0NXVEEIDlZNc1VCWVpeGVRUFQJQT1NaWg==","queueTime":7,"applicationTime":610,"atts":"Q0BTFAxLSE0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
