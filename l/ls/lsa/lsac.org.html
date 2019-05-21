@@ -1,446 +1,1093 @@
-<!--The following is the downloaded HTML source of the lsac.org privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219233348id_/http%3A//www.lsac.org/aboutlsac/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lsac.org privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521150512id_/https%3A//www.lsac.org/about/lsac-policies/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script src="https://www.googletagmanager.com/gtm.js?id=GTM-KRGD3W" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="title" content="Privacy Policy | The Law School Admission Council">
+<link rel="canonical" href="https://www.lsac.org/about/lsac-policies/privacy-policy">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="862421c6-24a8-4ca5-a8cb-4c3d08970001" async="async"></script>
+<link rel="revision" href="/about/lsac-policies/privacy-policy">
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&amp;l='+l:'';j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRGD3W');</script>
 
-<title>LSAC.org's PRIVACY POLICY</title>
+    <title>Privacy Policy | The Law School Admission Council</title>
+    <!-- inject:html -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/themes/custom/lsac/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/themes/custom/lsac/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/themes/custom/lsac/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/themes/custom/lsac/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/themes/custom/lsac/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/themes/custom/lsac/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/themes/custom/lsac/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/themes/custom/lsac/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/lsac/images/favicons/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="lsac">
+<link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/lsac/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/lsac/images/favicons/favicon-16x16.png">
+<link rel="shortcut icon" href="/themes/custom/lsac/images/favicons/favicon.ico">
+<link rel="manifest" href="/themes/custom/lsac/images/favicons/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="application-name" content="lsac">
+    <!-- endinject -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Arimo:400,400i,700" media="all">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Work+Sans:700,800" media="all">
+<link rel="stylesheet" href="//use.typekit.net/uas7eal.css" media="all">
+<link rel="stylesheet" href="/sites/default/files/css/css_ls-g2YAC-WXTmL-h4IZkGlayxd1NQMMLosx5z7MuyP0.css?prp78a" media="all">
 
-<meta name="description" content="We are committed to providing you the best possible online service and
-experience and your privacy on the internet is important to us. As part of the
-operation of LSAC.org, we gather certain types of information about LSAC.org
-users, and we would like to explain the types of information we gather, and what
-we do with it.">	
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
 
-<link href="../lsac-mainlayout-stylesheet.css" rel="stylesheet" media="screen" type="text/css">
-<link href="../lsac-stylesheet.css" rel="stylesheet" media="screen" type="text/css">
-<link href="../lsac-stylesheet-print.css" rel="stylesheet" media="print" type="text/css">
-<link rel="Shortcut Icon" href="../images/LsacLogo.ico">
-
-<!-- Masthead rotator-->
-
-<!-- End Masthead rotator-->
-</head>
-
-<body>
-
-<div id="containerInterior"> 
-<div id="masthead">
-	<div id="msthd_topbar"></div>
-	<div id="logo-img"><a href="../../AboutLSAC/about-lsac.asp"><img src="../../images/lsac-logo.gif" alt=" LSAC.org " width="77" height="77" title="LSAC"></a></div>
-    <div id="books"></div>
-	<div id="rotatingimage"><img src="../../../images/rotating-masthead/masthead-rotatingimage-7.jpg" width="111" height="105" alt=" Welcome to LSAC.org ">
-</div>
-        <div id="login">	             
-            <div id="login-btn"><a href="https://os.lsac.org/release/startup.aspx">Login to LSAC Account</a></div>
-            <div id="login-txt">(or create a new account)</div>
-        </div>
-        <!--[if !IE]> login <![endif]-->
-	<div id="logo-txt"><a href="../../AboutLSAC/about-lsac.asp"><img src="../../images/lsac-text.gif" alt="Law School Admission Council" width="287" height="16" title="Law School Admission Council"></a></div>
-</div><!--[if !IE]> masthead <![endif]-->
-
-<script type="text/javascript"><!-- 
-var menuhide="off";
-//-->
-</script>
-<noscript>
-<p style="background:#990033; color: #FFFFFF;">A JavaScript function is used to hide a dropdown select box on the contact page. If you are not on the contact page, then this feature is automatically disabled. Please enable JavaScript.</p>
-</noscript><div id="topnav">
-	<ul>
-        <li class="hme"><a href="../../../index.asp"><span>Home</span></a></li>
-        <li class="abt"><a href="../../../AboutLSAC/about-lsac.asp"><span>About LSAC</span></a></li>
-        <li class="resdata"><a href="http://www.lsacnet.org/"><span>Research/Data</span></a></li>
-		<li class="shop"><a href="https://os.lsac.org/release/startup.aspx?po=Y"><span>Shop</span></a></li>
-        <li class="faq"><a href="../../../aboutlsac/faq.asp"><span>FAQs</span></a></li>
-	</ul>
-    <div id="searchbar"><form method="get" action="../../../search.asp"><div id="form">
-        <input type="text" name="zoom_query" class="search" id="srchfld" style="vertical-align: top; margin-top: 2px; width:180px" value="Search LSAC website" onfocus="javascript: document.getElementById('srchfld').value=' ';"> 
-        <input type="image" src="../../images/btn-search.gif" style="vertical-align:bottom" alt=" Search " onfocus="javascript:document.searchwin.submit();"></div></form>
+  </head>
+  <body class="not-logged-in sticky-footer layout-one-sidebar layout-sidebar-first typeset path-node page-node-type-page">
+    <div class="white center">
+      <a href="#maincontent" id="skip-link" class="visually-hidden skip-link">
+        Skip to main content
+      </a>
     </div>
-    <!--[if !IE]> searchbar <![endif]-->
-</div><!--topnav<![endif]-->
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRGD3W" height="0" width="0" title="Google Tag Manager"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
 
-<div id="leftmenubar">
-  <script type="text/javascript"><!-- 
-function hide(){
-	if (menuhide=="on"){
-	document.forms[1].WhatService.style.visibility = 'hidden';
-	}
-}
-	
+<div class="inset-layout has-sidebar without-second-sidebar">
 
-function show(){
-	if (menuhide=="on"){
-	document.forms[1].WhatService.style.visibility = 'visible';
-	};
-}//-->
-</script>
+                        <header class="inset-layout__row -top">
+                <div class="inner">
+                    <div class="wrapper-header">
+  <div class="wrapper-header__wrapper container mx-auto">
+    <div class="pt05 pb05 flex items-center justify-between wrapper-header__inner bg-white" role="banner">
+      
 
-<div class="menu" id="leftsidemenu">
-<a class="skiplink" href="#startcontent">Skip over navigation</a>
-<ul>
-<!-- THINK ABOUT LS MENU -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../AboutLawSchool/AboutLawSchool-menu.asp">Thinking About Law School<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]--> 
-            <ul class="flyout" style="background: #d3e0ef;">
-            <li class="flyoutSub"><a href="../../AboutLawSchool/getting-started.asp">Getting Started</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/lsat-lsdas-checklist.asp">Checklist for the Law School Application Process</a></li>
-            <li class="flyoutSub"><a href="../../pdfs/ThinkAboutLawSchool.pdf">Think About Law School <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a href="http://officialguide.lsac.org/">Official Guide to ABA-Approved Law Schools <img src="../images/mag-glass.gif" alt=" Search Icon " width="13" height="14" style="vertical-align:bottom"></a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/Lawyers-Skills.asp">Lawyers and Their Skills</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/Fields-of-Law.asp">Fields of Law</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/Preparing-for-Law-School.asp">Preparing for Law School</a></li>
-            <li class="flyoutSub"><a href="http://sri.lsac.org">Skills Readiness Inventory</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/Juris-Doctor-Degree.asp">The Juris Doctor Degree</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/bar-exam.asp">The Bar Examination</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/admission-to-bar.asp">Admission to the Bar</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/bar-associations.asp">Bar Associations</a></li>
-            <li class="flyoutSub"><a href="../../AboutLawSchool/after-law-school.asp">After Law School</a></li>
-            <li class="flyoutSub"><a href="../../pdfs/LegalEducationStatistics.pdf">Legal Education Statistics <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- CHOOSING A LAW SCHOOL MENU -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../Choosing/choosing-menu.asp">Choosing a Law School<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSub"><a href="../../Choosing/choosing-a-law-school.asp">How to Choose a Law School</a></li>
-            <li class="flyoutSub"><a href="../../Choosing/assessing-yourself-realistically.asp">Assessing Yourself Realistically</a></li>
-			<li class="flyoutSub"><a href="http://officialguide.lsac.org/">Official Guide to ABA-Approved Law Schools <img src="../images/mag-glass.gif" alt=" Search Icon " width="13" height="14" style="vertical-align:bottom"></a></li>
-            <li class="flyoutSub"><a href="../../Choosing/recruitment-calendar.asp">Recruitment Events</a></li>
-            <li class="flyoutSub"><a href="../../Choosing/law-school-recruitment-forums.asp">Meet Law School Representatives</a></li>
-            <li class="flyoutSub"><a href="../../pdfs/Resources-for-the-Prelaw-Candidate.pdf">Resources for the Prelaw Candidate <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-<!--            <li class="flyoutSub"><a href="../../Choosing/forum-attendance.asp">Law School Forum Attendance Data</a></li>
- -->
-            <li class="flyoutSub"><a href="../../Choosing/evaluating-law-schools.asp">Evaluating Law Schools</a></li>
-            <li class="flyoutSub"><a href="../../Choosing/ranking-law-schools.asp">Ranking Law Schools</a></li>
-            <li class="flyoutSub"><a href="../../Choosing/law-school-links.asp">Law School Links</a></li>
-            <li class="flyoutSub"><a href="../../Choosing/www-sites-related-to-legal-education.asp">Links Related to Legal Education</a></li>
-        <!--<li class="flyoutSub"><a href="../../Choosing/ranking-law-schools.asp">Ranking Law Schools</a></li>-->
-            <li class="flyoutSub"><a href="../../pdfs/StatementofGoodAdm.pdf">Statement of Good Admission and Financial Aid Practices <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a href="../../canadianCFC/Canadian_homepage.asp">Canadian Law Schools</a></li>
-            </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- The LSAT MENU -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../LSAT/TheLSAT-menu.asp">The LSAT<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSub"><a class="sublinkhead" href="../../LSAT/about-the-lsat.asp">About the LSAT</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../LSAT/LSAT-score.asp">About Your LSAT Score</a></li>            <li class="flyoutSub" style="display:block;"><a href="../../pdfs/ScoreCancellationForm.pdf">LSAT Score Cancellation Form <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../LSAT/test-dates-deadlines.asp">Test Dates and Deadlines</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../LSAT/saturday-sabbath.asp">Saturday Sabbath Observers</a></li>            
-            <li class="flyoutSub"><a class="sublinkhead" href="../../LSAT/testing-locations.asp">Test Centers</a></li><li class="flyoutSub"><a href="../../LSAT/non-published-test-centers.asp">Requesting a Nonpublished Test Center</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/lsat-and-lsdas-fees.asp">LSAT and Credential Assembly Service (LSDAS) Fees</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/fee-waivers.asp">LSAC Fee Waivers</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/lsat-registration-methods.asp">LSAT Registration Methods</a></li>
-            <li class="flyoutSub"><a href="../../pdfs/InformationBookweb.pdf"><em>Law School Admission Information Book</em> <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a href="../../LSAT/lsat-prep-materials.asp">LSAT Prep Materials</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/day-of-test.asp">Day of the Test</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/Refunds.asp">Refund Information</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/test-date-center-change.asp">Test Date and Center Changes</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/accommodated-testing.asp">Accommodated Testing</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/tests-administered.asp">Tests Administered Data</a></li>
-            <li class="flyoutSub"><a href="../../pdfs/Policies-web.pdf">Challenges to LSAT Questions <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a href="../../LSAT/preparing-for-lsat.asp">Preparing for the LSAT</a></li>
-            <li class="flyoutSub"><a href="../../LSAT/day-of-test.asp#misconduct">Misconduct or Irregularity</a></li>
-            <!--<li class="flyoutSub"><a href="../../LSAT/LSAT.asp">The Law School Admission Test (LSAT)</a></li> -->
-            </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- Applying to Law School MENU -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../Applying/Applying-menu.asp">Applying to Law School<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSub"><a class="sublinkhead" href="../../pdfs/expectationsinadmissionprocess.pdf">The Law School Admission Process:<br>What to Expect <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../Applying/applying-to-law-school.asp">The Application Process: An Overview</a></li>
-        	<li class="flyoutSubAlt"><a class="sublinkhead" href="../../Applying/lsdas-general-information.asp">About the Credential Assembly Service (LSDAS)<!--[if IE 7]><!--></a><!--<![endif]--><!--//Secondary Flyout--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="flyout2" id="secondsub">
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-registering-for-the-lsdas.asp">Registering for the Credential Assembly Service (LSDAS)</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-completing-your-lsdas-file.asp">Completing Your Credential Assembly Service (LSDAS) File</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-requesting-transcripts.asp">Requesting Transcripts</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-fees.asp">Fees</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-fee-waivers.asp">Fee Waivers</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-law-school-reports.asp">Law School Reports</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/letters-of-recommendation.asp">Letters of Recommendation</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-other-information.asp">Other Important Information about LSAC Services</a></li>
-            <li class="flyoutSub2"><a href="../../Applying/lsdas-jdcas-educated-outside.asp">Credential Assembly Service Authentication and Evaluation for International Applicants</a></li>
-    		<li class="flyoutSub2"><a href="../../Applying/lsdas-exceptions-lsdas-requirements.asp">Exceptions to the Credential Assembly Service (LSDAS) Requirement</a></li>
-            </ul><!--[if lte IE 6]></td></tr></table></a><![endif]--><!--END secondary Flyout--></li>
-            <li class="flyoutSub"><a href="../../Applying/lsac-volume-summary.asp">Law School Applicant Data</a></li>
-            <li class="flyoutSub"><a href="http://officialguide.lsac.org/">Official Guide to ABA-Approved Law Schools <img src="../images/mag-glass.gif" alt=" Search Icon " width="13" height="14" style="vertical-align:bottom"></a></li>
-            <li class="flyoutSub"><a href="../../pdfs/Resources-for-the-Prelaw-Candidate.pdf">Resources for Prelaw Candidates <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-            <li class="flyoutSub"><a href="../../Applying/misconduct-and-irregularities.asp">Misconduct and Irregularities</a></li>
-            <li class="flyoutSub"><a href="../../Applying/admission-process.asp">The Admission Process</a></li>
-            <li class="flyoutSub"><a href="../../Applying/transferring-law-schools.asp">Transferring to Another Law School</a></li>
-            <li class="flyoutSub"><a href="../../Applying/whom-to-admit.asp">How Law Schools Determine Whom to Admit</a></li>
-            </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- Financing Law School MENU -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../Financing/Financing-menu.asp">Financing Law School<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSub"><a class="sublinkhead" href="../../Financing/financial-aid-introduction.asp">Introduction</a></li>
-        	<li class="flyoutSub"><a class="sublinkhead" href="../../Financing/financial-aid-best-bets.asp">Best Bets</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../Financing/financial-aid-options.asp">Financial Aid Options</a></li>
-        	<li class="flyoutSub"><a href="../../Financing/financial-aid-determining-eligibility.asp">Determining Eligibility</a></li>
-            <li class="flyoutSub"><a href="../../Financing/financial-aid-applying-for-aid.asp">Applying for Aid Step by Step</a></li>
-            <li class="flyoutSub"><a href="../../Financing/financial-aid-repayment.asp">Repayment: An Overview</a></li>
-            <li class="flyoutSub"><a href="../../Financing/financial-aid-after-graduation.asp">After Graduation</a></li>
-            <li class="flyoutSub"><a href="../../Financing/financial-aid-publications.asp">Helpful Websites</a></li>
-            <li class="flyoutSub"><a href="../../videoStreams/financing-a-legal-ed_main.asp">View Video: Financing a Legal Education</a></li>
-            <li class="flyoutSub"><a href="../pdfs/FINAIDWeb.pdf">Financial Aid Brochure <img src="../../images/icon-pdf-sm.gif" alt=" PDF Icon "></a></li>
-      </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- The Diversity in Law School -->
-<li class="flylink" onmouseover="javascript: hide();" onmouseout="javascript: show();"><a class="subhead" href="../../SpecialInterests/SpecialInterest-menu.asp">Special Interests<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSubAlt"><a class="sublinkhead" href="../../SpecialInterests/minorities-in-legal-education.asp">Diversity Initiatives
-              <!--[if IE 7]><!--></a><!--<![endif]--><!--//Secondary Flyout--><!--[if lte IE 6]><table><tr><td><![endif]-->
-              <ul class="flyout2" id="secondsub2">
-        	<li class="flyoutSub2"><a class="sublinkhead" href="../../SpecialInterests/minorities-in-legal-education-faq.asp">FAQs About Minority Status</a></li>
-       		<li class="flyoutSub2"><a class="sublinkhead" href="../../SpecialInterests/minorities-in-legal-education-what-shld-know.asp">The LSAT</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-applying-to-ls.asp">Applying to Law School</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-fin-aid.asp">Financial Aid</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-opp-in-law.asp">Opportunities in Law for Minority Men and Women</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-tips.asp">Tips and Resources</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-scholarships.asp">Scholarship Opportunities</a></li>
-            <li class="flyoutSub2"><a href="../../SpecialInterests/minorities-in-legal-education-min-enroll.asp">Statistics on Minority Enrollments (Charts)</a></li>
-            <li class="flyoutSub2"><a href="../Choosing/law-school-recruitment-forums-MinorityWorkshop.asp">Minority Workshop at the Forum Video</a></li>
-            <li class="flyoutSub2"><a href="../../videostreams/maindvdlist.asp">View Videos</a></li>
-            <li class="flyoutSub2"><a href="http://new.abanet.org/PipelineDiversity/Pages/DirectoryHome.aspx">ABA/LSAC Pipeline Diversity Directory</a></li>
-            </ul><!--[if lte IE 6]></td></tr></table></a><![endif]--><!--END secondary Flyout--></li>
-            <li class="flyoutSubAlt"><a href="../../SpecialInterests/information-lesbian-gay-bisexual-applicants.asp">Information for LGBT Applicants<!--[if IE 7]><!--></a><!--<![endif]--><!--//Secondary Flyout--><!--[if lte IE 6]><table><tr><td><![endif]--><ul class="flyout2" id="secondsub3">
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-research.asp">Researching Law Schools</a></li>
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-comingout.asp">Coming Out on the Application</a></li>
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-institutional-support.asp">The Law School Experience</a></li>
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-career-planning.asp">Career Planning</a></li>
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-resources.asp">Resources</a></li>
-                <li class="flyoutSub2"><a href="../SpecialInterests/lgbt-chart.asp">Survey of Law Schools</a></li>
-                <li class="flyoutSub2"><a href="../videoStreams/Outlooks_Main.asp">View Video: OUTlooks</a></li>
-            </ul>
-            <!--[if lte IE 6]></td></tr></table></a><![endif]--><!--END secondary Flyout--></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../SpecialInterests/llm-intro.asp">International LLM applicants</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../australia.asp">Apply to Law School in Australia</a></li>
-             </ul><!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-<!-- LSAC -->
-<li class="flylink"><a class="subhead" href="../../AboutLSAC/AboutLSAC-menu.asp">The LSAC<!--[if IE 7]><!--></a><!--<![endif]-->
-        <!--[if lte IE 6]><table><tr><td><![endif]-->
-            <ul class="flyout" style="background: #d3e0ef">
-            <li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/about-lsac.asp">About LSAC</a></li>
-        	<li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/employment-opportunities.asp">Employment Opportunities</a></li>
-       		<li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/lsac-scheduled-holidays.asp">LSAC Scheduled Holidays</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/terms-and-conditions.asp">Terms &amp; Conditions of Use</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/privacy-policy.asp">Privacy Policy</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="../../AboutLSAC/help.asp">Contact LSAC</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="http://www.lsacnet.org/">LSACnet.org</a></li>
-            <li class="flyoutSub"><a class="sublinkhead" href="http://www.lsacnet.org/">Research</a></li>
-           </ul>    
-        <!--[if lte IE 6]></td></tr></table></a><![endif]-->	
-</li>
-</ul>
-<br>
-</div>
-</div>
+  
+  
+  
+            <a href="/" rel="home" class="branding-block block">
+      <img src="/themes/custom/lsac/images/logo.png" alt="Home" class="branding-block__logo">
+    </a>
+  
+  
+  
 
-<div id="mainContent"><a name="startcontent" id="startcontent"></a>
-<!-- Page Content -->
 
-<h1>LSAC.org's PRIVACY POLICY</h1>
-<p>We are committed to providing you the best possible online service and experience, and your privacy on the Internet is important to us. As part of the operation of LSAC.org, certain types of information are gathered about LSAC.org users, and we would like to explain the types of information we gather, and what we do with it. 
-</p><p class="subhead2">
-Information Collected at LSAC.org</p>
-<p>
-Two types of personally identifying information are collected from LSAC.org users: personal data that users supply to us voluntarily (such as names and e-mail addresses), and aggregated data (such as information about LSAC.org traffic patterns).
-</p><p class="subhead2">
-Personal Data</p>
-<p>
-Personal data is collected when users voluntarily provide data on LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s <a href="data-retention-policy.asp">Data Retention and Confidentiality policy</a> is available on this website.
-</p>
-<h2>Aggregated Information</h2>
-<p>
-When you visit the LSAC.org site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with hundreds of thousands of other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
-</p>
-<p>
-Aggregated information, such as which pages users access or visit, and information volunteered by users, such as survey information and/or site registrations, is also collected through various methods. For example, IP addresses are collected at LSAC.org. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that serve up webpages, automatically identify your computer by its IP address, and when you request a page at LSAC.org, our servers log your IP address. IP addresses are not linked to anything personally identifiable at LSAC.org, so although your session will be logged, you will remain anonymous to us. IP addresses are collected at LSAC.org for the purposes of system administration and to provide aggregate data about the volume of use on LSAC.org.
-</p><p class="subhead2">
-Use of Cookies
-</p>
-<p>
-Cookies are also used at LSAC.org to collect information. A cookie is a small data file that most major websites write to your hard drive for record-keeping purposes when you visit them. Cookies allow activity to be measured on LSAC.org and are also used to improve your user experience; for example, opening special registration sessions within an LSAC.org account and LSAC Electronic Applications for plugins, searches, and data population, thus allowing you to cut steps. Except for personal information voluntarily provided by you (i.e., during registration or use of our online services), information transferred through cookies is not used by LSAC for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever.</p>
-<p>
-Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as your LSAC.org account or LSAC product areas, will not function properly if you do so.
-</p><p class="subhead2">
-Use of Information Collected by Our Traffic Analysis Software
-</p><p>
-The personal and aggregated information we collect through our traffic analysis software is used for multiple purposes. The information is used to improve the content of the website, to customize the content and/or layout of the website for each individual user, and to be able to implement and provide a more user-friendly site that meets the system requirements of our users. This collected data also helps us get an overview of the number of users visiting our site so that our systems and servers are running at optimal performance.
-</p><h2>Security and Credit Card Processing</h2>
-<p>
-We use the latest encryption technology (SSL—secured sockets layer) to keep your personal information safe. All your personally identifiable information—including your name, address, and credit card number—is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our servers. To ensure that your information is even more secure, once we receive your personal or credit card information, we store it on a server that isn't accessible from the Internet. If you feel more comfortable doing so, you are welcome to call LSAC at 215.968.1001 to register for our services or order our products.
-</p><p class="subhead2">
-Other
-</p><p>
-By using LSAC's website, you consent to the collection and use of your information by LSAC as described in this policy.
-</p><p>
-LSAC fully cooperates with law enforcement agencies in identifying those who use our services, including LSAC.org, for illegal activities. We reserve the right to release information about users who we believe are in violation of our content guidelines. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful.
-</p><p>
-LSAC wants you to be aware that when you click on links that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, LSAC cannot be responsible for the actions of third parties.
-</p><p class="subhead2">
-Your Consent
-</p><p>
-By using LSAC's website, you consent to the collection and use of this information by LSAC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-</p><p>
-LSAC reserves the right to change this privacy policy at any time. You can e-mail us with any further questions at <a href="mailto:LSACinfo@LSAC.org">LSACinfo@LSAC.org</a>.
-</p>
-<p>
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+      <button class="js-menu-open wrapper-header__menu-toggle -opener text-small lg-hide" aria-label="Open navigation menu">
+        <span class="wrapper-header__menu-toggle-bars" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+        Menu      </button>
 
-</p><p class="note">
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE <a href="terms-and-conditions.asp" class="note">TERMS AND CONDITIONS OF USE</a> AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.ORG WEBSITE.
-</p>
-<!-- End Page Content -->
-</div><!--[if !IE]> end #mainContent <![endif]-->
+      <button class="js-menu-close wrapper-header__menu-toggle -closer text-small hide lg-hide" aria-label="Close navigation menu">
+        <span class="wrapper-header__menu-toggle-bars" aria-hidden="true">
+          <span class="left"></span>
+          <span class="right"></span>
+        </span>
+        Menu      </button>
+    </div>
+    
+  
+      <section class="region region--navigation_top -navigation -navigation-top flex">
+  
+  
+      
 
-<!--[if !IE]> Bottom Nav Bar <![endif]-->
-<!-- SHARE CODE --><div id="sharecode" style="float:left; padding-left: 214px; clear: right;"><!-- AddThis Button BEGIN -->
-<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=lsaccomm"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=lsaccomm"></script>
-<!-- AddThis Button END -->
-</div>
-<div id="bottomnavint">
-                <div id="bottomnavnested" style="white-space:nowrap;">
-                    <ul>
-                        <li><a href="../../../aboutlsac/privacy-policy.asp">Privacy Policy</a></li>
-                        <li><a href="../../../aboutlsac/terms-and-conditions.asp">Terms &amp; Conditions of Use</a></li>
-                        <li><a href="../../../Research/lsac-legal-education-grant-program.asp">Grants</a></li>
-                        <li><a href="http://www.lsacnet.org/">LSACnet.org</a></li>
-                        <li><a href="../../../aboutlsac/employment-opportunities.asp">Employment</a></li>
-                        <li><a href="../../../aboutlsac/help.asp">Contact LSAC</a></li>
-                        <li><a href="../../../sitemap.asp">Site Map</a></li>                        
+<nav role="navigation" id="block-lsac-aboutlsacmenu" class="nav nav--about-lsac-menu block-lsac_aboutlsacmenu block-lsac_aboutlsacmenu--navigation_top in-navigation_top">
+            
+    
+        
+
+                                <ul data-block-id="lsac_aboutlsacmenu" class="accessible flyout menu-about menu -level-0 m0 list-reset " role="menubar">
+                                            <li class="menu-about__item menu__item -expanded -active-trail -level-0 ml1" role="none presentation">
+                                                                <span class="menu-about__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/about" class="text-small bold c-body text-decoration-on-hover menu-about__link menu__link -active -has-popup" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/680">About LSAC</a>
+
+                                    </li>
+                                            <li class="menu-about__item menu__item -collapsed -level-0 ml1" role="none presentation">
+                                                            <a href="/events" class="text-small bold c-body text-decoration-on-hover menu-about__link menu__link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1185">Events</a>
+
+                                    </li>
+                                            <li class="menu-about__item menu__item -level-0 ml1" role="none presentation">
+                                                            <a href="/blog" class="text-small bold c-body text-decoration-on-hover menu-about__link menu__link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1851">Blog</a>
+
+                                    </li>
+                                            <li class="menu-about__item menu__item -collapsed -level-0 ml1" role="none presentation">
+                                                            <a href="/contact" class="text-small bold c-body text-decoration-on-hover menu-about__link menu__link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1207">Contact Us</a>
+
+                                    </li>
+                                            <li class="expandable log-in-menu menu-about__item menu__item -expanded -level-0 ml1" role="none presentation">
+                                                                <span class="menu-about__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/" class="btn -secondary text-small bold c-body text-decoration-on-hover menu-about__link menu__link -has-popup" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="<front>">Log in as...</a>
+
+                                                                            <ul data-block-id="lsac_aboutlsacmenu" class="accessible flyout menu-about__sub-menu menu__sub-menu -level-1 m0 list-reset bg-white p1" role="menu">
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="https://os.lsac.org/Logon/Access.aspx" target="_blank" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" rel="noopener">JD Applicants</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="https://llm.lsac.org/LOGIN/Access.aspx" target="_blank" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" rel="noopener">LLM or Other Applicants</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="/members/login" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1059">Member Law School</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="/prelaw/login" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1060">Prelaw Advisor</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="https://applicantreferences.lsac.org/Release/Logon/Access.aspx" target="_blank" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" rel="noopener">Recommender</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="/registrar/login" target="_self" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1057">Registrar Staff</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="https://members.lsac.org/Account/TAIC-Login.aspx" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" target="_blank" rel="noopener">Supervisor</a>
+
+                                    </li>
+                                            <li class="menu-about__sub-item menu__sub-item -level-1" role="none presentation">
+                                                            <a href="https://lsac.csod.com/" target="_blank" class="text-small bold c-body text-decoration-on-hover menu-about__sub-link menu__sub-link btn-lg -secondary" aria-haspopup="false" role="menuitem" tabindex="0" rel="noopener">Test Center Training</a>
+
+                                    </li>
                     </ul>
+    
+                                    </li>
+                                            <li class="menu-about__item menu__item -level-0 ml1" role="none presentation">
+                                                            <a href="/search" class="text-small bold c-body text-decoration-on-hover menu-about__link menu__link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="search">Search</a>
+
+                                    </li>
+                    </ul>
+    
+
+
+
+  </nav>
+
+  
+      </section>
+  
+
+  </div>
+  
+  
+      <section class="region region--navigation_bottom -navigation -navigation-bottom">
+  
+  
+      
+
+  
+<nav role="navigation" id="block-lsac-main-menu" class="nav nav--main block-lsac_main_menu block-lsac_main_menu--navigation_bottom in-navigation_bottom bg-primary" aria-labelledby="block-lsac-main-menu-menu">
+            
+    <h2 class="block__title visually-hidden" id="block-lsac-main-menu-menu">Main navigation menu</h2>
+    
+        
+                                <ul data-block-id="lsac_main_menu" class="accessible flyout relative container mx-auto m0 list-reset lg-flex lg-items-center lg-justify-center menu-main menu -level-0  -children-count-5" role="menubar">
+
+                                            <li class="-expanded -level-0 menu-main__item menu__item" role="presentation">
+                                                                <span class="menu-main__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/discover-law" class="bold text-decoration-none c-white c-hover-white bg-hover-primary-medium p05 text-decoration-on-hover -has-popup block menu-main__link menu__link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1204">Discover Law</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-1  -children-count-4" role="menu">
+
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/pathways-legal-career" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1236">Pathways to a Legal Career</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-3" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/types-law-degrees" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1248">Types of Degrees</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/pathways-legal-career/fields-law" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/989">Fields of Law</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/pathways-legal-career/quiz" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="webform/which_field_of_law_is_right_for_">Quiz—The Right Field for You</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/what-you-can-expect-your-law-school-experience" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1120">What to Expect in Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-1" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/what-you-can-expect-your-law-school-experience/student-stories" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1324">Student Stories</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/how-prepare-your-legal-education" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/981">Preparing for Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-1" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/ten-quick-tips-how-miguel-prepared-law-school" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/2138">Ten Quick Tips</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/diversity-law-school" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1119">Diversity in Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/diversity-law-school/raciallyethnically-diverse-applicants" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1024">Racially/Ethnically Diverse Applicants</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/diversity-law-school/lgbtq-law-school" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/649">LGBTQ &amp; Law School</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/diversity-law-school/applicants-disabilities" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1660">Applicants with Disabilities</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/discover-law/diversity-law-school/prelaw-undergraduate-scholars-plus-programs" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1590">Prelaw Undergraduate Scholars (PLUS) Programs</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/data-research/data?f%5B0%5D=category%3A48" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-query="{&quot;f&quot;:[&quot;category:48&quot;]}" data-drupal-link-system-path="node/1165">Diversity Enrollment Data</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-0 menu-main__item menu__item" role="presentation">
+                                                                <span class="menu-main__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/lsat" class="bold text-decoration-none c-white c-hover-white bg-hover-primary-medium p05 text-decoration-on-hover -has-popup block menu-main__link menu__link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1193">The LSAT</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-1  -children-count-5" role="menu">
+
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/963">Test Dates &amp; Deadlines</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates/registering-lsat" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/742">Registering for the LSAT</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates/lsat-cas-fees-and-refunds" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/995">Fees &amp; Refunds</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates/test-date-changes" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/661">Test Date Changes</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates/test-center-changes" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1389">Test Center Changes</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-dates-deadlines-score-release-dates/future-lsat-dates" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1867">Future LSAT Dates</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-test-centers" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/643">Testing Locations</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-3" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-test-centers/lsat-test-centers-united-states-caribbean-canada" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/840">Test Centers in the US, Caribbean &amp; Canada</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-test-centers/lsat-test-centers-outside-united-states-caribbean-canada" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/590">Test Centers Outside the US, Caribbean &amp; Canada</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/published-test-centers/requesting-nonpublished-test-center" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/598">Requesting a Nonpublished Test Center</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1291">Taking the LSAT</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-9" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/about-digital-lsat" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1760">About the Digital LSAT</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-test-center-admission-requirements" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/928">Test Center Admission Requirements</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-test-center-rules" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/732">Test Center Rules</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-test-center-problems-complaints" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/827">Test Center Problems &amp; Complaints</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-scoring" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/731">Scoring</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/spanish-lsat" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/835">Spanish LSAT</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/sabbath-observers" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/911">Sabbath Observers</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-faqs" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/938">LSAT FAQs</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/taking-lsat/lsat-writing-faqs" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1908">LSAT Writing FAQs</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/910">Test Takers with Disabilities</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-7" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/accommodations-may-be-available-lsat" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/704">Accommodations That May Be Available on the LSAT</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/documentation-requirements" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/823">Documentation Requirements</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/policy-prior-testing-accommodations" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/913">Policy on Prior Testing Accommodations on Certain Other Standardized Postsecondary Admission Tests</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/procedures-policies-use-readers-lsat-blind" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/719">Procedures &amp; Policies on the Use of Readers on the LSAT</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/common-reasons-why-documentation-deemed" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/876">Common Reasons Why Documentation Is Deemed Insufficient by LSAC</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/appeal-procedure-accommodation-requests" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/891">Appeal Procedures for Accommodation Requests</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsac-policy-accommodations-test-takers-disabilities/frequently-asked-questions-about-process" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/927">FAQs</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-prep" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/613">LSAT Test Prep</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-prep/types-lsat-questions" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/592">Types of LSAT Questions</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-prep/sample-tests" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1249">Sample Tests</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-prep/prep-books-ebooks" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/599">LSAT Prep Books &amp; eBooks</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/lsat/lsat-prep/how-prepare-digital-lsat" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1889">Digital LSAT Prep</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="https://www.khanacademy.org/prep/lsat?utm_source=lsac-site&amp;utm_medium=lsac&amp;utm_campaign=lsac-postlaunch&amp;utm_term=lsat-menu-link" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" target="_blank" rel="noopener">Khan Academy Official LSAT Prep</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-0 menu-main__item menu__item" role="presentation">
+                                                                <span class="menu-main__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/choosing-law-school" class="bold text-decoration-none c-white c-hover-white bg-hover-primary-medium p05 text-decoration-on-hover -has-popup block menu-main__link menu__link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1244">Choosing a Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-1  -children-count-5" role="menu">
+
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-school" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1243">Find a School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="https://officialguide.lsac.org/" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" target="_blank" rel="noopener">ABA-Approved Law Schools</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-school/canadian-law-schools" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/558">Canadian Law Schools</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-school/study-jd-australia" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/626">Australian Law Schools</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-school/llm-and-other-law-programs-us-canada" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/771">LLM &amp; Other Law Programs</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-school/non-aba-approved-law-schools" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1250">Non-ABA-Approved Law Schools</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/best-law-school-you" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/849">The Best School for You</a>
+                                    </li>
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/candidate-referral-service" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/726">Candidate Referral Service</a>
+                                    </li>
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/find-law-fair-near-you" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/822">Law School Forums &amp; Fairs</a>
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/573">Paying for Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school/financial-aid-eligibility" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/679">Eligibility</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school/financial-aid-options" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/730">Financial Aid Options</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school/applying-aid" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/600">Applying for Aid</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school/law-school-scholarships" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1912">Law School Scholarships</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/choosing-law-school/paying-law-school/student-loan-debt-resources" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1386">Student Loan &amp; Debt Resources</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-0 menu-main__item menu__item" role="presentation">
+                                                                <span class="menu-main__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/applying-law-school" class="bold text-decoration-none c-white c-hover-white bg-hover-primary-medium p05 text-decoration-on-hover -has-popup block menu-main__link menu__link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1195">Applying to Law School</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-1  -children-count-4" role="menu">
+
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/types-law-degrees" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1248">Types of Degrees</a>
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/jd-application-process" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/939">JD Application Process</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-5" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/jd-applicants/steps-apply-jd-programs" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/568">Steps to Apply</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/jd-application-process/credential-assembly-service-cas" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/685">Credential Assembly Service (CAS)</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/jd-application-process/jd-application-requirements" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/914">Application Requirements</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/jd-application-process/infographic" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1348">Applying to Law School: Infographic</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/contact/jd-help" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/770">JD Help &amp; FAQs</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs" class="bold c-body c-hover-primary p05 text-decoration-on-hover -has-popup menu-main__sub-link menu__sub-link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/673">LLM &amp; Other Law Programs Application Process</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-2 p0 -children-count-6" role="menu">
+
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/steps-apply-llm-other" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1251">Steps to Apply</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/llm-credential-assembly" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/666">Credential Assembly Service (LLM CAS)</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/information-llm" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/884">LLM Eligibility</a>
+                                    </li>
+                                            <li class="-collapsed -level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/application" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1373">Application Requirements</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/contact/help-llm-other-law-program-applicants" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/601">LLM &amp; Other Law Programs Help</a>
+                                    </li>
+                                            <li class="-level-2 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/llm-other-law-programs" class="c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1723">Refund Policy</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/applying-law-school/misconduct-irregularities" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/651">Misconduct &amp; Irregularities</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="-expanded -level-0 menu-main__item menu__item" role="presentation">
+                                                                <span class="menu-main__toggle-sub-menu menu__toggle-sub-menu lg-hide" aria-label="Open submenu">
+                            <span aria-hidden="true" class="text-small">open</span>
+                        </span>
+                                        <a href="/data-research" class="bold text-decoration-none c-white c-hover-white bg-hover-primary-medium p05 text-decoration-on-hover -has-popup block menu-main__link menu__link" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1197">Data &amp; Research</a>
+                                                                            <ul data-block-id="lsac_main_menu" class="list-style-none bg-primary-light menu-main__sub-menu menu__sub-menu -level-1  -children-count-2" role="menu">
+
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/data-research/research" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1152">Research Library</a>
+                                    </li>
+                                            <li class="-level-1 menu-main__sub-item menu__sub-item" role="presentation">
+                                                            <a href="/data-research/data" class="bold c-body c-hover-primary p05 text-decoration-on-hover menu-main__sub-link menu__sub-link" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1165">Data Library</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+
+
+
+  </nav>
+
+  
+      </section>
+  
+
+  <div class="wrapper-header__overlay" aria-hidden="true"></div>
+</div>
+
+
                 </div>
-</div><!--[if !IE]> bottomnav <![endif]-->
+            </header>
+            
+        <div class="inset-layout__row -center flex flex-column items-center bg-off-white">
+        
+            <header class="relative flex flex-column inset-layout__content-header col-12">
+                                <div class="inset-layout__content-header-image">
+                    
+        <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/sites/default/files/styles/banner_large/public/hero/aboutlsac_6.jpg?h=68b698d3&amp;itok=1IGZxdx5 1x, /sites/default/files/styles/banner_large_retina/public/hero/aboutlsac_6.jpg?h=68b698d3&amp;itok=k8R6Sx9L 2x" media="all and (min-width: 64em)" type="image/jpeg">
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/default/files/styles/banner_large/public/hero/aboutlsac_6.jpg?h=68b698d3&amp;itok=1IGZxdx5" alt="LSAC sign outside office building">
 
-<!--[if !IE]> Footer <![endif]-->
-<div id="footer">All contents © 2009 Law School Admission Council, Inc.<br>
-All rights reserved. <a href="../../aboutlsac/terms-and-conditions.asp" style="color:#fff">Trademark information</a>.</div>
-
-<script type="text/javascript">
-//<!--
-function noshow(){
-element1 = document.getElementById('masthead').style;
-element1.display = 'none';
-
-element2 = document.getElementById('topnav').style;
-element2.display = 'none';
-
-element3 = document.getElementById('leftsidemenu').style;
-element3.display = 'none';
-
-element4 = document.getElementById('bottomnavint').style;
-element4.display = 'none';
-
-element5 = document.getElementById('footer').style;
-element5.display = 'none';
-
-element6 = document.getElementById('containerInterior').style;
-element6.background = 'none';
-
-element7 = document.getElementById('mainContent').style;
-element7.margin = '4px';
-
-/*Hide registration buttons*/
-var totalbutns = 6;
-for (i = 1; i < totalbutns; i++){
-			var hidebut = "butn_"+i;
-			//hide old dates
-			if (!document.getElementById(hidebut)){
-				//this id doesn't exist, so do nothing. Without this check the function fails.
-				//ex date_1_1
-			}else{ 
-				//this id exists, hide the date because it has past
-				hidden = document.getElementById(hidebut).style;
-				hidden.display = 'none';
-			}
-	}
-}
-
-function noshow2(){
-element1 = document.getElementById('login-btn').style;
-element1.display = 'none';
-
-element2 = document.getElementById('login-txt').style;
-element2.display = 'none';
-
-element3 = document.getElementById('logo-txt').style;
-element3.right = '11px';
-
-/*Hide registration buttons*/
-var totalbutns = 6;
-for (i = 1; i < totalbutns; i++){
-			var hidebut = "butn_"+i;
-			//hide old dates
-			if (!document.getElementById(hidebut)){
-				//this id doesn't exist, so do nothing. Without this check the function fails.
-				//ex date_1_1
-			}else{ 
-				//this id exists, hide the date because it has past
-				hidden = document.getElementById(hidebut).style;
-				hidden.display = 'none';
-			}
-	}
-}
-//-->
-function noshow3(){
-/*Resets everything back to normal - unhides content*/
-
-}
-//-->
-</script>
+  </picture>
 
 
-<!--Content hiding code-->
+
+                </div>
+                
+                            </header>
+
+            <main class="flex flex-column inset-container z3 p1 mx-auto bg-white container mx-auto  inset-layout__main" role="main">
+
+                <section class="region-pre-content mb1">
+                    
+  
+  
+  
+      
+      <div id="block-lsac-breadcrumbs" class="block-lsac_breadcrumbs block-lsac_breadcrumbs--pre_content in-pre_content block system">
+  
+  
+              <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+  <h2 class="visually-hidden" id="system-breadcrumb">Breadcrumb navigation</h2>
+  <ol class="breadcrumb__list m0 p0 list-style-none">
+          <li class="breadcrumb__item inline mr025">
+                  <a class="breadcrumb__link mr025 text-decoration-on-hover" href="/">Home</a>
+                            <span aria-hidden="true">›</span>
+              </li>
+          <li class="breadcrumb__item inline mr025">
+                  <a class="breadcrumb__link mr025 text-decoration-on-hover" href="/about">About the Law School Admission Council</a>
+                            <span aria-hidden="true">›</span>
+              </li>
+          <li class="breadcrumb__item inline mr025">
+                  <a class="breadcrumb__link mr025 text-decoration-on-hover" href="/about/lsac-policies">LSAC Policies</a>
+                            <span aria-hidden="true">›</span>
+              </li>
+          <li class="breadcrumb__item inline mr025">
+                  Privacy Policy
+                      </li>
+      </ol>
+</nav>
+
+    
+          </div>
+    
+
+  
+  
+
+                </section>
+
+                <div class="md-flex">
+                                                                                                <section id="maincontent" class="inset-layout__content col-12 order-2 md-col-8 lg-col-main pr1 ">
+                                <div class="inner">
+                                                                        
+  
+  
+  
+      
+      <div id="block-lsac-page-title--2" class="block--page-title block-lsac_page_title block-lsac_page_title--content in-content block core">
+  
+  
+            
+  <h1 class="page-title">  <span>
+    Privacy Policy
+  </span>
+</h1>
 
 
-</div><!--[if !IE]> end #container <![endif]-->
+    
+          </div>
+    
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. -->
-<!-- Version: 1.1.0 -->
-<!-- Created: 1/11/2008 8:43:00 AM -->
-<script type="text/javascript">
-//<![CDATA[
-function DcsInit(){
-	var that=this;
-	this.dcsid="dcs4bfrs610000ch1242grlzs_8e5t";
-	this.domain="statse.webtrendslive.com";
-	this.enabled=true;
-	this.exre=(function(){return(window.RegExp?new RegExp("dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)","i"):"");})();
-	this.fpc="WT_FPC";
-	//this.fpcdom=".lsac.org";
-	this.i18n=false;
-	this.images=[];
-	this.index=0;
-	this.qp=[];
-	this.re=(function(){return(window.RegExp?(that.i18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g}):"");})();
-	this.onsitedoms="";
-	this.downloadtypes="xls,doc,pdf,txt,csv,zip";
-	this.timezone=-5;
-	this.trackevents=true;
-	(function(){if(that.enabled&&(document.cookie.indexOf(that.fpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){document.write("<scr"+"ipt type='text/javascript' src='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+that.domain+"/"+that.dcsid+"/wtid.js"+"'><\/scr"+"ipt>");}})();
-}
-var DCS={};
-var WT={};
-var DCSext={};
-var dcsInit=new DcsInit();
-//]]>>
-</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcs4bfrs610000ch1242grlzs_8e5t/wtid.js"></script>
-<script src="../../javascript/wtbase.js" type="text/javascript"></script>
-<noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs4bfrs610000ch1242grlzs_8e5t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.1.0"/></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
+
+      <div id="block-lsac-content--2" class="block--main block-lsac_content block-lsac_content--content in-content block system">
+  
+  
+            
+
+
+  <article role="article" class="node-page -vm-full">
+
+              
+    
+    
+    
+<div class="field field-body type-text-with-summary no-label clearfix">
+              <p>Last updated: September 11, 2018</p>
+
+<p>This Privacy Policy explains how the Law School Admissions Council, Inc. (“LSAC,” “we” or “us”), a registered not-for-profit organization, collects, uses, discloses and otherwise processes information when you use our website (<a href="http://www.LSAC.org">www.LSAC.org</a>), take the LSAT, apply for law school, submit a recommendation about a candidate, or otherwise interact with us (collectively, the “services”). &nbsp;</p>
+
+<p>LSAC reserves the right to change this Privacy Policy at any time. If we decide to change our Privacy Policy, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage, or sending you a notification). We encourage you to review this Privacy Policy whenever you access our website to stay informed about our information practices and the choices available to you.</p>
+
+<h2>How We Collect Your Information</h2>
+
+<h3><strong>Information We Collect Directly from You</strong></h3>
+
+<p>We collect information you provide directly to us. For example, we collect information when you create an online account, register for a test, take the LSAT, request that we send test scores to certain law schools, fill out a law school application, purchase our products, request customer support and otherwise communicate with us.</p>
+
+<p>The type of information we may collect from you includes:</p>
+
+<ul><li>Contact information, such as your name, email address, mailing address, and phone number;</li>
+	<li>Account information, such as your LSAC account number, user ID, password, and security questions;</li>
+	<li>Application information, such as your social security number, date of birth, education history, transcripts, essays, letters of recommendation, photo (for LSAT admission ticket), and language(s) spoken; and</li>
+	<li>Optional information you choose to provide, such as information about race, ethnicity, gender identification, religious affiliation, sexual orientation, and disabilities.</li>
+</ul><h3><strong>Information About Your Use of the Services</strong></h3>
+
+<p>We collect information about your use of the services, such as the date of your most recent LSAT registration, test date and location, test attendance records (absences, delays, or cancelations), test answer sheet and writing sample, and LSAT results and score analysis. We also collect information about schools you apply to, and purchases you make.</p>
+
+<h3><strong>Information We Collect Automatically About Your Use of our Website</strong></h3>
+
+<p>We automatically collect information about you when you access and use our website, including:</p>
+
+<ul><li><strong>Log Information:</strong> We collect log information about your use of our website, including the type of browser you use, access times, pages viewed, your IP address, search terms entered and the page you visited before navigating to our website.</li>
+	<li><strong>Device Information: </strong>We collect information about the computer or mobile device you use to access our website, including the hardware model, operating system and version, and unique device identifiers.</li>
+	<li><strong>Information Collected by Cookies and Other Tracking Technologies: </strong>We use different technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our website and your experience, see which areas and features of our website are popular, and count visits. Web beacons are electronic images that may be used on our website or in our emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about cookies and how to disable them, please see our <a data-entity-type="node" data-entity-uuid="66bb7af6-082b-4147-9c4b-be6383bcf993" href="/about/lsac-policies/cookie-policy">Cookie Policy</a>.</li>
+</ul><h3><strong>Information We Collect from Other Sources </strong></h3>
+
+<p>We may obtain information from other sources and combine that with information we collect through our services. For example, if someone submits a letter of recommendation about you, we collect that information and combine it with the information we collect directly from you. We also collect certain information from the law schools to which you apply, such as the admissions decision, scholarship offers, reviewer notes, and other information schools choose to provide.</p>
+
+<p>HOW WE USE YOUR INFORMATION</p>
+
+<p>We use your information to facilitate your law school testing and application processes and generally provide, maintain, and improve our services. We may also use your information to:</p>
+
+<ul><li>Maintain and customize your account and our interactions with you (the legal basis for this processing is our legitimate interest in providing you with the services you request and improving your experience on our website and in our test centers);</li>
+	<li>Send you technical notices, updates, security alerts, and support and administrative messages, and respond to your comments, questions, and customer service requests (the legal basis for this is our legitimate interest in maintaining the quality and security of our services and providing you with a good user experience);</li>
+	<li>Send marketing communications about products, services, offers, and events offered by LSAC and others, and provide news and information we think will be of interest to you (the legal basis for this processing is our legitimate interest in providing information about products and services that may be of interest to you, unless applicable law requires us to obtain your consent, in which case we will do so). You can unsubscribe from these communications at any time (see <a href="#Your_Choice">Your Choices</a> below for details);</li>
+	<li>Monitor and analyze trends, usage, and activities in connection with our services (the legal basis for this processing is our legitimate interest in better understanding user needs and expectations);</li>
+	<li>Detect, investigate, and prevent fraudulent transactions and other illegal activities and protect the rights and property of LSAC and others (the legal basis for this processing is our legitimate interest in preventing fraud and securing our services); and</li>
+	<li>Carry out any other purpose described to you at the time the information was collected.</li>
+</ul><h2><a id="How_We_Share" name="How_We_Share"></a>How We Share Your Information</h2>
+
+<p>We do not share personal information about you with third parties, except as described in this Privacy Policy. We may share information as follows:</p>
+
+<ul><li>With service providers, vendors, and consultants that perform services on our behalf, such as those that operate test centers and provide payment processing, customer service, and marketing support;</li>
+	<li>When you submit a law school application, we share information about you with the relevant law school to facilitate the application process and enable the law school to communicate directly with you;</li>
+	<li>If you sign up for the Candidate Referral Service (“CRS”), we share information about you with <a data-entity-type="node" data-entity-uuid="557a7f9e-df45-4011-b7f8-ed7acce85b16" href="/about/lsac-policies/privacy-policy/crs-information-recipients">law schools and organizations</a> so they can send you promotional materials about their programs, events, and other information that may be of interest to you (for information about how to opt out of having your information shared in this way, see <a href="#Your_Choice">Your Choices</a> below);&nbsp;</li>
+	<li>To comply with a legal or regulatory obligation, protect and defend LSAC’s rights and property, protect the safety of our users and/or the public, and protect against legal liability;</li>
+	<li>In connection with, or during negotiations of, any merger, sale of assets, financing, or acquisition of all or a portion of our business by another entity;</li>
+	<li>Between and among LSAC’s current and future parents, subsidiaries, affiliates, and other entities under common control and ownership; and</li>
+	<li>With your consent and at your direction.</li>
+</ul><p>We also share aggregated or de-identified data that does not identify you personally (such as information about LSAC.org traffic patterns).</p>
+
+<h2>Third Party Advertising And Analytics</h2>
+
+<p>We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our website and third-party websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LSAC and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our website and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, or if you are in the EU, <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>. For more information about cookies and how to disable them, please see our <a data-entity-type="node" data-entity-uuid="66bb7af6-082b-4147-9c4b-be6383bcf993" href="/about/lsac-policies/cookie-policy">Cookie Policy</a>.</p>
+
+<h2><a id="Your_Choice" name="Your_Choice"></a>Your Choices</h2>
+
+<h3><strong>Managing Your LSAC.org Account</strong></h3>
+
+<p>You may review, update, or modify your account information, including profile and contact information, at any time by logging into your LSAC.org account.</p>
+
+<h3><strong>Opting out of LSAC Promotional Communications</strong></h3>
+
+<p>You may unsubscribe from LSAC promotional emails at any time by following the instructions included in those emails. If you opt out of receiving such communications, note that we may continue to send you non-promotional emails (such as test registration and application submission confirmation emails or emails about changes to our legal terms and policies).</p>
+
+<h3><strong>Opting out of Promotional Communications from Law Schools</strong></h3>
+
+<p>If you sign up for CRS, we share information about you with law schools as described in the <a href="#How_We_Share">How We Share Your Information</a> section above. If you later want to unsubscribe from these communications, you will need to contact the law schools directly and/or follow the opt out instructions provided in those communications or the law schools’ privacy policies.&nbsp;To request that LSAC stop sharing your information with CRS recipients going forward, please log on to your LSAC account, go to the <a href="https://os.lsac.org/MyLSAC/Profile/crs.aspx">Candidate Referral Services page</a> and opt-out of LSAC sharing your information with Law Schools.</p>
+
+<h3><strong>California Privacy Rights</strong></h3>
+
+<p>California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. However, under the law, an organization is not required to provide this information if it permits California residents to opt in to, or opt out of, this type of sharing. LSAC qualifies for this alternative option. To opt out of having your information shared with law schools for their own marketing purposes, please write to us at <a href="mailto:privacy@lsac.org">privacy@lsac.org</a> with the subject line “Opt out request.”</p>
+
+<h2>Data Transfers</h2>
+
+<p>LSAC is based in the United States and we and our vendors process and store personal data in the United States and, if you take the LSAT outside of the United States, <a data-entity-type="node" data-entity-uuid="0b4ed6a5-ce0a-4aa1-a314-35e1f301d0bd" href="/lsat/lsat-test-centers/lsat-test-centers-outside-united-states-caribbean-canada">other jurisdictions</a><span class="MsoCommentReference">. These jurisdictions may not provide equivalent levels of data protection as your home jurisdiction. We transfer personal data across borders when we have your consent to do so, or when such processing is necessary to perform our contractual obligations to you (for example, to process a payment). If the transfer is based on your consent, you have the right to withdraw such consent at any time by contacting us at <a href="mailto:privacy@lsac.org">privacy@lsac.org</a>. We take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. </span></p>
+
+<h2>Individuals in The European Economic Area</h2>
+
+<p>If you are in the European Economic Area (“EEA”), you have certain additional rights and protections under the law regarding the processing of your personal data.</p>
+
+<p>Subject to certain limitations and exceptions, you have the following legal rights:</p>
+
+<ul><li>A right to obtain information: You have the right to request information about how we process your personal data.</li>
+	<li>A right of access: You have the right to request access to, or a copy of, the personal data we process about you.</li>
+	<li>A right of rectification: You have the right to request that we correct or supplement inaccurate or incomplete personal data we process about you.</li>
+	<li>A right of erasure: You have the right to request that we delete personal data about you.</li>
+	<li>A right to restriction of processing: You have the right to request that we restrict processing of your personal data, so that we can store such data but not further process it.</li>
+	<li>A right to data portability: You have the right to request that we provide the personal data which you provided to us in a structured, commonly used and machine-readable format, and you have the right to transmit such data to another controller without hindrance from LSAC.</li>
+	<li>A right to object to processing: You have the right to request that we stop processing personal data about you (for example, when your personal data is processed for direct marketing purposes, you have the right to object to the processing of such data at any time by writing to <a href="mailto:privacy@lsac.org">privacy@lsac.org</a> or clicking on the “unsubscribe” link available at the bottom of the messages received).</li>
+	<li>A right to revoke your consent: When our processing is based on your consent, you have the right to revoke such consent at any time by contacting us at <a href="mailto:privacy@lsac.org">privacy@lsac.org</a>.</li>
+	<li>The right to file a complaint: You have the right to file a complaint regarding our data protection practices with a supervisory authority. Contact details for your supervisory authority are available at <a href="http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm" target="_self">http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm</a>.</li>
+</ul><p>To exercise these rights, please email us at <a href="mailto:privacy@lsac.org">privacy@lsac.org</a>. &nbsp;</p>
+
+<h2>Data Retention</h2>
+
+<p>Our retention periods for personal data are based on our business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the data was collected, and any other permissible, related purpose. We may also retain certain transaction details and correspondence until the time limit for claims arising from the transaction has expired. Generally, electronic data for all LSAC account registrants will be held for a period of 5 years from the last financial transaction made with LSAC, with the exception of LSAT scores and misconduct findings which are kept indefinitely to be reported to schools based upon the reporting policy adopted for each year. Financial transactions include, but are not limited to, paying for the Credential Assembly Service (CAS) and paying for a test registration. Paper CAS records are retained for one year and then destroyed, and hard copies of testing answer sheets are held for six months.</p>
+
+<h2>Links to Other Websites</h2>
+
+<p>LSAC wants you to be aware that when you click on links that take you to third-party websites, you will be subject to these third parties' privacy policies. While we support the protection of privacy on the Internet, LSAC cannot be responsible for the actions of third parties.</p>
+
+<h2>Contacting LSAC</h2>
+
+<p>If you have questions or concerns regarding this Privacy Policy or our data protection practices, please contact our Data Protection Officer by emailing <a href="mailto:privacy@lsac.org">privacy@lsac.org</a> or writing to:</p>
+
+<p>Law School Admission Council, Inc.<br>
+Attn: Data Protection Officer<br>
+662 Penn Street<br>
+Newtown, PA 18940<br>
+USA</p>
+      </div>
+<div class="bg-primary c-white py2 px1 mt1 mb1 in-this-section"><h3 class="text-align-center in-this-section__title">In This Section</h3>
+    
+                    
+        <ul data-menu-type="in_this_section" class="mx-auto mt0 mb0 flex flex-wrap justify-center clearfix list-reset menu-in-this-section -level-0" role="menubar">
+                                            <li class="mb05 inline pr1 menu-in-this-section__item -level-0" role="none presentation">
+                                                            <a href="/about/lsac-policies/privacy-policy/crs-information-recipients" class="goto-arrow text-decoration-on-hover flex align-center c-white c-hover-off-white menu-in-this-section__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/1815">                        CRS Information Recipients
+                        <span aria-hidden="true" class="fill-accent menu-in-this-section__link-arrow">
+                            <svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1278.000000, -1017.000000)" fill="#000000" fill-rule="nonzero">
+            <g transform="translate(0.000000, 708.218750)">
+                <g transform="translate(1066.000000, 305.000000)">
+                    <g transform="translate(212.000000, 4.000000)">
+                        <g>
+                            <path d="M10,0 C4.4775,0 0,4.4775 0,10 C0,15.5225 4.4775,20 10,20 C15.5225,20 20,15.5225 20,10 C20,4.4775 15.5225,0 10,0 Z M10.019375,15 L10.019375,11.25 L5,11.25 L5,8.75 L10.019375,8.75 L10.019375,5.019375 L15,10 L10.019375,15 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+                        </span>
+                    </a>
+                                    </li>
+                    </ul>
+    
+
+</div>
+
+  
+    
+  </article>
+
+
+    
+          </div>
+    
+
+  
+  
+
+                                </div>
+                            </section>
+                                            
+                                                                        <aside class="col-12 md-col-4 lg-col-sidebar inset-layout__sidebar -left order-1" role="complementary">
+                                <div class="inner">
+                                    
+  
+  
+  
+      
+
+
+
+    
+
+<h2 class="m0 py05 px1 center bg-tertiary c-white bold text-small">
+<a href="/about/lsac-policies" class="text-decoration-on-hover">LSAC Policies</a>
+</h2>
+
+<nav role="navigation" id="block-lsacsubnav" class="block-lsacsubnav block-lsacsubnav--sidebar_first in-sidebar_first block block-lsac-subnav mb1">
+                        
+
+        
+            
+                    
+        <ul class="clearfix list-reset-style m0 pt05 pl1 pr1 pb1 bg-off-white -level-0 menu-subnav" role="menubar">
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/jd-refunds" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/1784">JD Refunds</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs/llm-other-law-programs" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/1723">LLM &amp; Other Law Program Refunds</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/lsac-data-retention-confidentiality" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/722">LSAC Data Retention &amp; Confidentiality</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/lsat-fairness-procedures" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/979">LSAT Fairness Procedures</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/nursing-mothers" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/678">Nursing Mothers</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/policies-procedures-governing-challenges-lsat-questions" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/984">Policies &amp; Procedures Governing Challenges to LSAT Questions</a>
+                                    </li>
+                                            <li class="m0 mt05 -expanded -active-trail -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/privacy-policy" class="block text-small bold text-decoration-on-hover c-black -has-popup menu-subnav__link is-active" aria-haspopup="true" role="menuitem" data-drupal-link-system-path="node/967">Privacy Policy</a>
+                                                
+                    
+        <ul class="list-reset-style pl05 menu-subnav__sub-menu -level-1" role="menu">
+                                            <li class="m0 mt025 -level-1 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/privacy-policy/crs-information-recipients" class="block text-small bold text-decoration-on-hover c-black menu-subnav__sub-link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/1815">CRS Information Recipients</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/cookie-policy" title="Cookie Policy" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/1662">Cookie Policy</a>
+                                    </li>
+                                            <li class="m0 mt05 -level-0 menu-subnav__item" role="none presentation">
+                                        <a href="/about/lsac-policies/terms-conditions-use" class="block text-small bold text-decoration-on-hover c-grey-medium-dark menu-subnav__link" aria-haspopup="false" role="menuitem" data-drupal-link-system-path="node/631">Terms &amp; Conditions of Use</a>
+                                    </li>
+                    </ul>
+    
+
+    </nav>
+
+
+
+  
+  
+
+                                </div>
+                            </aside>
+                                            
+                                    </div>
+            </main>
+
+        
+    </div>
+
+                        <footer class="inset-layout__row -bottom">
+                <div class="inner">
+                    <div class="site-footer">
+        <div class="site-footer__content bg-tertiary c-white">
+        <div class="container mx-auto">
+            
+  
+  
+  
+      
+
+<nav role="navigation" id="block-lsac-footer" class="nav nav--footer block-lsac_footer block-lsac_footer--footer in-footer">
+            
+    
+        
+
+                                <ul data-block-id="lsac_footer" class="menu-footer -level-0 flex flex-wrap m0 list-reset" role="menubar">
+
+                                            <li class="menu-footer__item -expanded" role="presentation">
+                                        <a href="/jd-applicants" class="menu-footer__link text-large bold -has-popup text-decoration-none bold" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1198">JD Applicants</a>
+                                                                            <ul data-block-id="lsac_footer" class="menu-footer__sub-menu -level-1 mt05 m0 list-reset" role="menu">
+
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/discover-law" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1204">Discover Law</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/jd-applicants/steps-apply-jd-programs" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/568">Application Checklist</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/choosing-law-school/paying-law-school" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/573">Paying for Law School</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/discover-law/diversity-law-school/applicants-disabilities" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1660">Applicants with Disabilities</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/events?search=&amp;location=&amp;audience%5B31%5D=31" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-query="{&quot;audience&quot;:{&quot;31&quot;:&quot;31&quot;},&quot;location&quot;:&quot;&quot;,&quot;search&quot;:&quot;&quot;}" data-drupal-link-system-path="node/1185">JD Applicant Events</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/lawschoolforums" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1253">Law School Forums</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="https://os.lsac.org/Logon/Access.aspx" class="login-link menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" target="_blank" rel="noopener">JD Applicant Login</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="menu-footer__item -expanded" role="presentation">
+                                        <a href="/llm-other-law-program-applicants" class="menu-footer__link text-large bold -has-popup text-decoration-none bold" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1199">LLM &amp; Other Law Program Applicants</a>
+                                                                            <ul data-block-id="lsac_footer" class="menu-footer__sub-menu -level-1 mt05 m0 list-reset" role="menu">
+
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/choosing-law-school/find-law-school/llm-and-other-law-programs-us-canada" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/771">Choosing an LLM or Other Law Program</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/llm-other-law-program-applicants/application-process-llm-other-law-programs" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/673">Application Process for LLM &amp; Other Law Programs</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/lawschoolforums" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1253">Law School Forums</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="https://llm.lsac.org/LOGIN/Access.aspx" class="login-link menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" target="_blank" rel="noopener">LLM or Other Law Programs Login</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="menu-footer__item -expanded" role="presentation">
+                                        <a href="/members" class="menu-footer__link text-large bold -has-popup text-decoration-none bold" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="members">Member Law Schools</a>
+                                                                            <ul data-block-id="lsac_footer" class="menu-footer__sub-menu -level-1 mt05 m0 list-reset" role="menu">
+
+                                            <li class="menu-footer__sub-item -collapsed" role="presentation">
+                                        <a href="/members/lsac-law-school-forums" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/804">Law School Forums</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item -collapsed" role="presentation">
+                                        <a href="/members/lsac-grant-programs" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/604">LSAC Grants Program</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/data-research" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1197">Data &amp; Research</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/contact/member-law-school" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1208">Law School Support</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/members/login" class="login-link menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1059">Law School Staff Login</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="menu-footer__item -expanded" role="presentation">
+                                        <a href="/prelaw" class="menu-footer__link text-large bold -has-popup text-decoration-none bold" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="prelaw">Prelaw Advisors</a>
+                                                                            <ul data-block-id="lsac_footer" class="menu-footer__sub-menu -level-1 mt05 m0 list-reset" role="menu">
+
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/data-research" class="menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1197">Data &amp; Research</a>
+                                    </li>
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/prelaw/login" class="login-link menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1060">Prelaw Advisor Login</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                                            <li class="menu-footer__item -expanded" role="presentation">
+                                        <a href="/registrar" class="menu-footer__link text-large bold -has-popup text-decoration-none bold" aria-haspopup="true" role="menuitem" tabindex="0" data-drupal-link-system-path="registrar">Registrars</a>
+                                                                            <ul data-block-id="lsac_footer" class="menu-footer__sub-menu -level-1 mt05 m0 list-reset" role="menu">
+
+                                            <li class="menu-footer__sub-item" role="presentation">
+                                        <a href="/registrar/login" class="login-link menu-footer__sub-link text-smallish text-decoration-none bold" aria-haspopup="false" role="menuitem" tabindex="0" data-drupal-link-system-path="node/1057">Registrar Login</a>
+                                    </li>
+                    </ul>
+    
+                                    </li>
+                    </ul>
+    
+
+
+
+  </nav>
+
+      <div id="block-contactinfo" class="block-contactinfo block-contactinfo--footer in-footer block block-content mt1 mx-auto p1 bg-white c-body center">
+  
+  
+            
+<div class="field field-body type-text-with-summary no-label clearfix">
+              <p><img alt="LSAC logo" data-entity-type="file" data-entity-uuid="b9a91943-3a8f-4f7f-9faf-ca5ef3b6d893" data-responsive-image-style="" src="/sites/default/files/wysiwyg/logo.png"></p>
+
+<h2 class="h4">Law School Admission Council</h2>
+
+<p>662 Penn Street<br>
+Newtown PA 18940<br>
+USA</p>
+
+<p><a class="bold c-secondary" href="tel:+2159681001">215.968.1001</a></p>
+
+<p><a class="contact-support btn -secondary" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="aa8afd76-9c05-4e05-947b-cff72e258542" href="/contact">Contact &amp; Support</a></p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="e3d12695-01b4-4fb2-8963-61430fa8668e" href="/about/lsac-policies/privacy-policy">Privacy Policy</a></p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="66bb7af6-082b-4147-9c4b-be6383bcf993" href="/about/lsac-policies/cookie-policy">Cookie Policy</a></p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f8f7fdc2-0de6-415f-8b81-eb617bc77154" href="/electronic-information-technology-web-accessibility-policy">Website Accessibility</a></p>
+
+<p>&nbsp;</p>
+
+<p class="flex justify-center"><a class="facebook" href="https://www.facebook.com/LawSchoolAdmissionCouncil/" rel="noopener" target="_blank">Facebook</a><br><a class="twitter" href="https://twitter.com/LSAC_Official" rel="noopener" target="_blank">Twitter</a><br><a class="instagram" href="https://www.instagram.com/official_lsac" rel="noopener" target="_blank">Instagram</a></p>
+
+      </div>
+
+    
+          </div>
+    
+
+  
+  
+
+        </div>
+    </div>
+    <div class="site-footer__info pb1 bg-tertiary c-white" role="contentinfo">
+        <div class="container mx-auto">
+            
+  
+      <section class="region region--site_info -site-info flex flex-column justify-between px1">
+  
+  
+      
+      <div id="block-copyright" class="block-copyright block-copyright--site_info in-site_info block block-content">
+  
+  
+            
+<div class="field field-body type-text-with-summary no-label clearfix">
+              <p>All contents <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0f72f86f-4719-4dac-85e8-dfaeb9eec5b1" href="/about/lsac-policies/terms-conditions-use" style="font-weight:bold;">©&nbsp;2019 Law School Admission Council, Inc.</a>&nbsp;All rights reserved.</p>
+
+      </div>
+
+    
+          </div>
+    
+
+  
+      </section>
+  
+
+        </div>
+    </div>
+</div>
+                </div>
+            </footer>
+            
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/967","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","user":{"uid":0,"permissionsHash":"1763999ff02597d5dd26c984af886e80a5dee706f60e3dfc166198f32936d8d8"}}</script>
+<script src="/sites/default/files/js/js_cJjlz3QEcfoqXn3kOJDODeG3pGHb3D4Qn_RIkrgnODU.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.3/ofi.js"></script>
+<script src="/sites/default/files/js/js_rYAbG1uYwuQGFijum7YCw9MORJcpNC1pKc979HPhxHY.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"11050874a3","applicationID":"140553013","transactionName":"bwdWMkZQVktZUxBbWlZNdQVAWFdWF3QWR0VZDmgLUV9NZ1FEAV9qSg1YA2tQW1tdQxdueF0MQS9AVFVqV1wBc1ZbB0cVeFhWU2xCAVd4WQxdFkFdWUxXQkkMUl0MURRVRV1xVlQBSnRWBmcJRkU=","queueTime":0,"applicationTime":594,"atts":"Q0BVRA5KRUU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
