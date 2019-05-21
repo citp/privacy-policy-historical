@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roonlabs.com privacy policy that was archived on 2017-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129120350id_/https%3A//roonlabs.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roonlabs.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521074753id_/https%3A//roonlabs.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Roon Labs: Privacy Policy</title>
@@ -574,15 +574,6 @@
 <script src="/roon.js"></script>
 
 <style>
-.topbarsignin {
-    display: none;
-}
-.topbarsignout {
-    display: none;
-}
-.topbaraccount {
-    display: none;
-}
 
 .allbodyloading {
     width: 100%;
@@ -652,6 +643,40 @@
   } 
 }
 
+</style>
+
+<script>
+function showmain() {
+    $(".allbodyloading").hide();
+    $(".allbody").show();
+}
+</script>
+
+<div class="allbodyloading" style="display: none;">
+    <div class="sk-cube-grid">
+    <div class="sk-cube sk-cube1"></div>
+    <div class="sk-cube sk-cube2"></div>
+    <div class="sk-cube sk-cube3"></div>
+    <div class="sk-cube sk-cube4"></div>
+    <div class="sk-cube sk-cube5"></div>
+    <div class="sk-cube sk-cube6"></div>
+    <div class="sk-cube sk-cube7"></div>
+    <div class="sk-cube sk-cube8"></div>
+    <div class="sk-cube sk-cube9"></div>
+    </div>
+</div>
+
+<style>
+.topbarsignin {
+    display: none;
+}
+.topbarsignout {
+    display: none;
+}
+.topbaraccount {
+    display: none;
+}
+
 .topbar .wrap {
     max-width: 1200px;
     margin: 0 auto;
@@ -661,8 +686,7 @@
     padding: 0;
     margin: 0;
 }
-.topbar li {
-    display: inline;
+.topbar li { display: inline;
 }
 
 .topbar {
@@ -684,6 +708,13 @@
     font-size: 20px;
     line-height: 60px;
     color: #000;
+}
+.topbar-subtitle {
+    font-size:   10px;
+    color:       #666;
+    margin-left: 7px;
+    line-height: 9px;
+    display:     inline-block;
 }
 .topbar-item {
 }
@@ -718,10 +749,14 @@
     height: 34px;
     line-height: 28px;
 }
+</style>
+
+<style>
 @media screen and (min-width: 0px) {
     .topbar .menupricing   { display: none; }
     .topbar .menupartners  { display: none; }
     .topbar .menucommunity { display: none; }
+    .topbar .menunucleus   { display: none; }
     .topbar .menutryfree   { display: none; }
     .topbar .menusignin    { display: none; }
     .topbar .menusignout   { display: none; }
@@ -735,6 +770,11 @@
 @media screen and (max-width: 680px) {
     .topbar .topcommunity  { display: none; }
     .topbar .menucommunity { display: block; }
+}
+
+@media screen and (max-width: 610px) {
+    .topbar .topnucleus  { display: none; }
+    .topbar .menunucleus { display: block; }
 }
 
 @media screen and (max-width: 560px) {
@@ -761,28 +801,6 @@
 
 </style>
 
-<script>
-function showmain() {
-    $(".allbodyloading").hide();
-    $(".allbody").show();
-}
-</script>
-
-
-<div class="allbodyloading" style="display: none;">
-    <div class="sk-cube-grid">
-    <div class="sk-cube sk-cube1"></div>
-    <div class="sk-cube sk-cube2"></div>
-    <div class="sk-cube sk-cube3"></div>
-    <div class="sk-cube sk-cube4"></div>
-    <div class="sk-cube sk-cube5"></div>
-    <div class="sk-cube sk-cube6"></div>
-    <div class="sk-cube sk-cube7"></div>
-    <div class="sk-cube sk-cube8"></div>
-    <div class="sk-cube sk-cube9"></div>
-    </div>
-</div>
-
 <div class="allbody" style="">
 
 <div class="topbar">
@@ -795,57 +813,70 @@ function showmain() {
             <li class="topbar-item toppricing"><a href="/pricing.html">Pricing</a></li>
             <li class="topbar-item toppartners"><a href="/partners.html">Partners</a></li>
             <li class="topbar-item topcommunity"><a href="http://community.roonlabs.com/">Community</a></li>
-            <li class="topbar-item topbar-right topsignin hidesignin"><a href="/signin.html">Sign In</a></li>
-            <li class="topbar-item topbar-right topsignout hidesignout"><a href="/signin.html">Sign Out</a></li>
-            <li class="topbar-item topbar-right topaccount hideaccount"><a href="/account.html">Account</a></li>
+            <li class="topbar-item topnucleus"><a href="/nucleus.html">Nucleus</a></li>
+            <li class="topbar-item topbar-right topsignin tophidesignin"><a href="/signin.html">Sign In</a></li>
+            <li class="topbar-item topbar-right topsignout tophidesignout"><a href="/signin.html">Sign Out</a></li>
+            <li class="topbar-item topbar-right topaccount tophideaccount"><a href="/account.html">Account</a></li>
 
             <li class="topbar-item dropdown">
                 <a href="#" class="dropdown-toggle moremenu" data-toggle="dropdown"><span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li class="menutryfree"><a href="/pricing.html">Try It Free</a></li>
+                    <li class="menutryfree tophidetrial hidden" style="display: none;"><a href="/pricing.html">Try It Free</a></li>
                     <li class="menupricing"><a href="/pricing.html">Pricing</a></li>
                     <li class="menupartners"><a href="/partners.html">Partners</a></li>
                     <li class="menucommunity"><a href="http://community.roonlabs.com/">Community Site / Forums</a></li>
+                    <li class="menunucleus"><a href="/nucleus.html">Nucleus</a></li>
                     <li class="menudownloads"><a href="/downloads.html">Download</a></li>
                     <li><a href="/howroonworks.html">How Roon works</a></li>
                     <li><a href="/support.html">Support</a></li>
                     <li><a href="/jobs.html">Jobs</a></li>
-                    <li class="menusignin   hidesignin"><a href="/signin.html">Sign In</a></li>
-                    <li class="menusignout  hidesignout"><a href="/signin.html">Sign Out</a></li>
-                    <li class="menuaccount  hideaccount"><a href="/account.html">Account</a></li>
+                    <li><a href="/partner-go.html">Partner Login</a></li>
+                    <li class="menusignin  tophidesignin"><a href="/signin.html">Sign In</a></li>
+                    <li class="menusignout tophidesignout"><a href="/signin.html">Sign Out</a></li>
+                    <li class="menuaccount tophideaccount"><a href="/account.html">Account</a></li>
                 </ul>
             </li>
-            <li class="topbar-item topbar-right toptryfree"><a class="button" style="text-transform:none; margin-top: 14px;" href="/pricing.html">Try It Free</a></li>
+            <li class="topbar-item topbar-right toptryfree tophidetrial" style="display: none;"><a class="button" style="text-transform:none; margin-top: 14px;" href="/pricing.html">Try It Free</a></li>
         </ul>
     </div>
 </div>
 
-
-<!--
-            <li class='topbarsignin' ><a href="/signin.html">SIGN IN</a></li>
-            <li class='topbarsignout' ><a href="/signin.html">SIGN OUT</a></li>
-            <li class='topbaraccount'><a href="/account.html">ACCOUNT</a></li>
--->
-
 <script>
+$('.topbar .tophidetrial').hide();
 $(document).ready(function () {
     if (typeof(topbarforcesignout) !== 'undefined') {
-        $('.topbar .hideaccount').remove();
-        $('.topbar .hidesignin').remove();
+        $('.topbar .tophideaccount').remove();
+        $('.topbar .tophidesignin').remove();
+
     } else if (typeof(topbarforcesignin) !== 'undefined') {
-        $('.topbar .hideaccount').remove();
-        $('.topbar .hidesignout').remove();
+        $('.topbar .tophideaccount').remove();
+        $('.topbar .tophidesignout').remove();
+
     } else {
         if (roon_token()) {
-            $('.topbar .hidesignin').remove();
-            $('.topbar .hidesignout').remove();
-            var userid = roon_userid();
-            if (userid) ga('set', 'userId', userid);
+            $('.topbar .tophidesignin').remove();
+            $('.topbar .tophidesignout').remove();
         } else {
-            $('.topbar .hideaccount').remove();
-            $('.topbar .hidesignout').remove();
+            $('.topbar .tophideaccount').remove();
+            $('.topbar .tophidesignout').remove();
         }
     }
+
+    if (roon_token()) {
+	var userid = roon_userid();
+	if (userid) ga('set', 'userId', userid);
+	roon_get_email(roon_token(), function(data) {
+	    if (data.status == "Success") {
+		$(".topbar .tophideaccount a").text(data.user.email);
+		if (data.user.trialallowed) $('.topbar .tophidetrial').css("display", "block");
+	    } else {
+		$('.topbar .tophidetrial').css("display", "block");
+	    }
+	});
+    } else {
+	$('.topbar .tophidetrial').css("display", "block");
+    }
+
 });
 </script>
 
@@ -1031,7 +1062,9 @@ showmain();
                     <li><a href="http://blog.roonlabs.com/">Blog</a></li>
                     <li><a href="/contact.html">Contact</a></li>
                     <li><a href="/privacypolicy.html">Privacy&nbsp;&nbsp;Policy</a></li>
+<!--
                     <li><a href="/termsandconditions.html">Terms&nbsp;&nbsp;&amp;&nbsp;&nbsp;Conditions</a></li>
+-->
                 </ul>
             </div>
         </div>
