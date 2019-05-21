@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsleap.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213200631id_/https%3A//www.qsleap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsleap.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521035114id_/https%3A//www.qsleap.com/privacy-policy) for the most accurate reproduction.*
 
 # Guidelines for our Online GMAT, GRE, SAT prep community | QS LEAP
 
@@ -174,7 +174,7 @@ Cheshire
 SK9 5AF  
 UNITED KINGDOM
 
-Website: [www.ico.org.uk](https://web.archive.org/web/20181213200631id_/https://www.qsleap.com/privacy-policy/www.ico.org.uk)  
+Website: [www.ico.org.uk](https://web.archive.org/web/20190521035114id_/https://www.qsleap.com/privacy-policy/www.ico.org.uk)  
 Email: casework@ico.org.uk 
 
 If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), and you think that some, or all, of the issues you are concerned about have taken place in your country of residence, you can complain to your national data protection regulator. For contact details of national data protection regulators in the EU and EEA, please use the following link:
