@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903055154id_/https%3A//forums.fedoraforum.org/showthread.php%3F318414-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedoraforum.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521041623id_/https%3A//forums.fedoraforum.org/showthread.php%3F318414-Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  1. 8th June 2018, 10:01 AM [#1](https://forums.fedoraforum.org/showthread.php?318414-Privacy-Statement&s=403057025edde18791f3f6c116d39eac&p=1808736#post1808736)
+  1. 8th June 2018, 10:01 AM [#1](https://forums.fedoraforum.org/showthread.php?318414-Privacy-Statement&s=440ba7a5f6c925f02a6c302c2bc02519&p=1808736#post1808736)
 
 > **Privacy Statement** The following policy outlines the types of information that we gather about you and the way that way we use and don't use this information.
 > 
