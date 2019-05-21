@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119050951id_/http%3A//luxuryhotelsguides.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521020531id_/http%3A//luxuryhotelsguides.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Luxury Hotels Guides | Manage Booking & About Us
 
@@ -32,4 +32,6 @@ This statement may change from time to time , so please check back regularly.
 
  
 
-_Contact us today - ** admin (the at symbol) huno.com**_
+_Contact us today -_
+
+**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a52554e5f56495d4f535e5f4914545f4e) **
