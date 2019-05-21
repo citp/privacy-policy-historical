@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinewebmarks.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118104939id_/http%3A//www.onlinewebmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinewebmarks.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521085751id_/http%3A//www.onlinewebmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › OnlineWebmarks.com : User Driven Internet Marketing Community For Submitting Links, Social Bookmarklet & Bookmarking Webmarks | Store News, Images, Videos & Share Anywhere In The Web
 
