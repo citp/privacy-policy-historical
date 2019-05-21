@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227170244id_/http%3A//www.mintel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintel.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521221134id_/https%3A//www.mintel.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mintel.com
 
@@ -170,7 +170,7 @@ We shall seek your permission when we collect your personal data regardless of t
 
 ### Manage your cookie preferences:
 
-  * A descriptive of Mintel’s cookie usage inclusive of how to choose, opt out or reject cookies is available [here](http://www.mintel.com/cookie-use)
+  * A descriptive of Mintel’s cookie usage inclusive of how to choose, opt out or reject cookies is available [here](https://www.mintel.com/cookie-use)
   * Select a general setting for cookies from your browser. [www.Allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/) has guidance on how to do this.
   * Your browser may incorporate the “Do Not Track” feature which sends a request to websites. At this time no industry standard exists and as such our websites may not respect this. As the standard is developed, Mintel will consider how to respond
 
