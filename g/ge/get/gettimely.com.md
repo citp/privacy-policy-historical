@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettimely.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903171209id_/https%3A//www.gettimely.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettimely.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521171629id_/https%3A//www.gettimely.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Timely Salon & Spa Software
 
@@ -18,7 +18,7 @@ Any of the information we collect from you may be used in one of the following w
 
   * To personalize your experience (your information helps us to better respond to your individual needs)
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions
   * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * To send periodic emails
@@ -34,7 +34,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember that you’ve logged into Timely, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-As you browse gettimely.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with gettimely.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page to opt out of AdRoll and their partners’ targeted advertising.
+As you browse gettimely.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with gettimely.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this [page](https://app.adroll.com/optout) to opt out of AdRoll and their partners’ targeted advertising.
 
 Timely sends billing information, product information, Service updates and Service notifications to you via email. Our emails will contain clear and obvious instructions describing how you can choose to be removed from any mailing list not essential to the Service. Timely will remove you at your request.
 
