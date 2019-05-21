@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119192637id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawmygosh.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521194549id_/http%3A//www.pawmygosh.com/privacy-policy) for the most accurate reproduction.*
 
-# PawMyGosh Privacy Policy
+# Privacy Policy « Paw My Gosh
 
 Effective date: May 22, 2018
 
