@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921080301id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522013329id_/https%3A//www.statisticshowto.datasciencecentral.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Statistics How To
 
 **Privacy Policy / Cookie Policy for www.statisticshowto.com** and the Statistics How To app
 
-If you require any more information or have any questions about our privacy policy and cookie policy, please feel free to contact us by email at andalepublishing@gmail.com.
+If you require any more information or have any questions about our privacy policy and cookie policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 At www.statisticshowto.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www,statisticshowto.com and how it is used.
 
@@ -38,10 +38,10 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 \------------------------------------------------------------------------------ 
 
-**Need help with a homework or test question?** With [Chegg Study](http://chggtrx.com/click.track?CID=267627&AFID=423464&ADID=1095978&SID=), you can get step-by-step solutions to your questions from an expert in the field. If you'd rather get 1:1 study help, [Chegg Tutors](http://chggtrx.com/click.track?CID=286409&AFID=423464&ADID=1873486&SID=) offers 30 minutes of **free tutoring** to new users, so you can try them out before committing to a subscription. 
+**Need help with a homework or test question?** With [Chegg Study](https://prf.hn/click/camref:1100l4rEQ/creativeref:1011l32299), you can get step-by-step solutions to your questions from an expert in the field. Your first 30 minutes with a Chegg tutor is free! 
 
-If you prefer an **online interactive environment** to learn R and statistics, this [_free R Tutorial by Datacamp_](https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&tap_s=109699-3b32b3) is a great way to get started. If you're are somewhat comfortable with R and are interested in going deeper into Statistics, try [_this Statistics with R track_](https://www.datacamp.com/tracks/statistics-with-r?tap_a=5644-dce66f&tap_s=109699-3b32b3). 
+[_Statistical concepts explained visually_](https://www.datasciencecentral.com/page/search?q=in+one+picture) \- Includes many concepts such as sample size, hypothesis tests, or logistic regression, explained by [Stephanie Glen](https://www.datasciencecentral.com/profile/StephanieGlen), founder of StatisticsHowTo. 
 
 **Comments? Need to post a correction?** Please post a comment on our [_Facebook page_](https://www.facebook.com/statisticshowto/). 
 
-[Check out our updated Privacy policy and Cookie Policy](http://www.statisticshowto.com/blog/privacy-policy/)
+[Check out our updated Privacy policy and Cookie Policy](https://www.statisticshowto.datasciencecentral.com/blog/privacy-policy/)
