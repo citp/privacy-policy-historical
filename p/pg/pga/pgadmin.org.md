@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgadmin.org privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925180139id_/https%3A//www.pgadmin.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgadmin.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521112901id_/https%3A//www.pgadmin.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
