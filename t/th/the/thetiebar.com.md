@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823072050id_/https%3A//www.thetiebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521201553id_/https%3A//www.thetiebar.com/privacy) for the most accurate reproduction.*
 
 # The Tie Bar - Privacy Policy
 
 ### Who We Are
 
-This Privacy Policy describes how The Tie Bar Operating Company, LLC, along with its representatives, officers, shareholders, subsidiaries, affiliates, parents, employees, and agents (collectively “The Tie Bar” or “we” or “us” or “our”), uses and collects your personal information (defined below) on thetiebar.com (our “website”) and elsewhere. We may amend or change this Privacy Policy from time to time. Changes to the Privacy Policy will be posted to our website. 
+This Privacy Policy describes how The Tie Bar Operating Company, LLC, along with its representatives, officers, shareholders, subsidiaries, affiliates, parents, employees, and agents (collectively "The Tie Bar" or "we" or "us" or "our"), uses and collects your personal information (defined below) on thetiebar.com (our "website") and elsewhere. We may amend or change this Privacy Policy from time to time. Changes to the Privacy Policy will be posted to our website. 
 
 You may contact us regarding this policy by emailing [privacy@thetiebar.com](mailto:privacy@thetiebar.com) or through the mail: The Tie Bar, attn: Privacy, 224 N Desplaines St #200, Chicago, IL 60661. 
 
@@ -23,7 +23,7 @@ If you are a service provider or personnel, how we handle your personal informat
 
 ### Information We Collect
 
-To provide you with services, including access to our website, we need to collect and process some information about you (your “personal information”).
+To provide you with services, including access to our website, we need to collect and process some information about you (your "personal information").
 
 We collect and retrieve your personal information in a number of different ways. Why we collect your information and what we do with it depends on the type of information. The tables below provide more details.
 
@@ -44,7 +44,7 @@ Email |
   * To send updates about your order
   * To contact you regarding issues around your order
   * To update you on items in your cart
-  * To keep you up to date about The Tie Bar products and promotions. We will only send you these emails with your permission, and you can unsubscribe at any time – just use the “unsubscribe” link at the bottom of any The Tie Bar email
+  * To keep you up to date about The Tie Bar products and promotions. We will only send you these emails with your permission, and you can unsubscribe at any time – just use the "unsubscribe" link at the bottom of any The Tie Bar email
   * To prevent and detect fraud against either you or The Tie Bar
   * To help us identify new customers
 
@@ -107,7 +107,7 @@ Last Four Digits of Credit Card |
   
 #### Your Contact History With Us
 
-What you’ve said to us — for example, over the phone, on email, or on live chat.
+What you've said to us — for example, over the phone, on email, or on live chat.
 
 Email Correspondence | 
 
@@ -140,7 +140,7 @@ Survey or Site Feedback |
   
 #### Purchase and Product Feedback History and Saved Products
 
-What you’ve bought, what’s in your shopping cart, and what’s on your wishlist.
+What you've bought, what's in your shopping cart, and what's on your wishlist.
 
 Purchased Items | 
 
@@ -155,14 +155,14 @@ Purchased Items |
 ---|---  
 Items Added to Your Cart | 
 
-  * To allow your order to be completed smoothly when you’re ready to check out
+  * To allow your order to be completed smoothly when you're ready to check out
   * To update you on items in your cart, including low quantity or sale status
   * To tailor your experience around your interests
 
   
 Wishlist Items | 
 
-  * To allow you to save, organize, recall, and share items you’ve selected
+  * To allow you to save, organize, recall, and share items you've selected
   * To allow us to personalize product recommendations toward your interests
 
   
@@ -208,7 +208,7 @@ Identification Cookies |
   
 #### Specific Details About You
 
-We collect body information related to fit measurements and photographs for product representations. We collect fit details you provide when placing an order to ensure that we provide you with products in the proper size. You can choose to enter your fit details (height, body type, weight, and measurements) in your profile. There are three ways we might have your photographs: if you post a photo review, if you accepted our request to use your photo from a third-party site (like Instagram), or if the photo is provided to us by a third party (such as a wedding photographer). We will never use your photograph without your express permission or when a third party warrants that it has your express permission to share your photograph with us. You may withdraw this consent at any time by emailing us at [privacy@thetiebar.com](mailto:privacy@thetiebar.com) or, in the case where we receive your picture through a third party, by contacting the third party and withdrawing your consent, or by changing your privacy settings on the third party website to prohibit us from being able to access the picture.
+We collect body information related to fit measurements and photographs for product representations. We collect fit details you provide when placing an order to ensure that we provide you with products in the proper size. You can choose to enter your fit details (height, body type, weight, and measurements) in your profile. There are four ways we might have your photographs: if you post a photo review, if you email us your photo, if you accepted our request to use your photo from a third-party site (like Instagram), or if the photo is provided to us by a third party (such as a wedding photographer). We will never use your photograph without your express permission or when a third party warrants that it has your express permission to share your photograph with us. You may withdraw this consent at any time by emailing us at [privacy@thetiebar.com](mailto:privacy@thetiebar.com) or, in the case where we receive your picture through a third party, by contacting the third party and withdrawing your consent, or by changing your privacy settings on the third party website to prohibit us from being able to access the picture.
 
 With the exception of fit measurements for specific purchases, your provision of this information is completely optional and we will not use this information without your consent. You may withdraw your consent any time by emailing us at [privacy@thetiebar.com](mailto:privacy@thetiebar.com).
 
@@ -235,7 +235,7 @@ Your Gender |
   
 #### Your Public Reviews, Blog Comments, and Social Media Information
 
-We allow our customers to provide public feedback in the form of reviews about our website and comments on our blog posts. Please remember that any information that you disclose on public portions of the website, such as the reviews and blog comments, are not private and may be viewed (and potentially shared) on our website and elsewhere. Please use caution when deciding to disclose your personal information in the public portions of our website.
+We allow our customers to provide public feedback in the form of reviews about our website and comments on our blog posts. Please remember that any information that you disclose on public portions of the website, such as the reviews and blog comments, through any email you send to us for any purpose, or through any social media site that we use are not private and may be viewed (and potentially shared) on our website and elsewhere. Please use caution when deciding to disclose your personal information in the public portions of our website, in an email to us or on social media.
 
 We also allow you to use social media websites to contact us and share your Tie Bar purchases. By doing so, we may collect information from your social media profile. You can control how much of the information you place on social media websites is public by visiting these websites and adjusting your privacy settings.
 
@@ -268,7 +268,7 @@ When you access or use our website, we collect, use, and otherwise process your 
   * As necessary to perform a contract with you or to take steps in preparation for a contract with you, including enabling you to make a purchase from us;
   * Because you have consented to the processing, such as for receiving marketing messages or third-party data sharing related to advertising;
   * As necessary to comply with a legal obligation, a court order, or to exercise or defend legal claims;
-  * As necessary for the purposes of our or a third party’s legitimate interests; and
+  * As necessary for the purposes of our or a third party's legitimate interests; and
   * As necessary for the vital interests of you or a third party.
 
 
@@ -277,7 +277,7 @@ Here are some of our legitimate interests for collecting and processing your per
 
 Detecting and preventing fraud: We have a legitimate interest in detecting and preventing fraud. To do so, it is necessary that we collect and retain information about each transaction made at The Tie Bar. The credit card companies and payment processors we work with require some of this information in the event that fraudulent charges are made using your credit card. We also use information about your orders and transactions ourselves for our in-house fraud detection processes.
 
-Providing access to and improving thetiebar.com: We may use your information to improve and customize our website, including sharing of your information for such purposes, and this is necessary to pursue our legitimate interests of improving our website and our products. This is also necessary to enable us to pursue our legitimate interest in understanding how our website is being used, and to develop and expand our customer base. It is also necessary to allow us to pursue our legitimate interest in improving our website’s functionality and in obtaining insights into what our customers and potential customers want.
+Providing access to and improving thetiebar.com: We may use your information to improve and customize our website, including sharing of your information for such purposes, and this is necessary to pursue our legitimate interests of improving our website and our products. This is also necessary to enable us to pursue our legitimate interest in understanding how our website is being used, and to develop and expand our customer base. It is also necessary to allow us to pursue our legitimate interest in improving our website's functionality and in obtaining insights into what our customers and potential customers want.
 
 Providing access to and improving our customer service: We may use your information to provide you with customer service, and also to improve the service we provide to all customers. This is necessary for us to pursue our legitimate interest in providing great customer service.
 
@@ -291,7 +291,7 @@ Sharing information about our products: we may use your information to contact y
 
 Except as otherwise set forth in this Privacy Policy, we will not provide access to your personal information to third parties for any unauthorized purpose. We never sell or share your contact information to other companies for their direct marketing purposes.
 
-The Tie Bar works closely with third-party businesses (our “vendors”) for a variety of purposes, including assisting us to perform and improve our website, to deliver your orders, and to provide advertising and email services. These vendors include payment processors, research companies, marketing providers, and analytics and security providers. These third parties have limited access to your information, and may use your information only to perform these tasks on our behalf. We make sure our vendors have contractually agreed to implement technical and organizational measures that are appropriate under this Privacy Policy.
+The Tie Bar works closely with third-party businesses (our "vendors") for a variety of purposes, including assisting us to perform and improve our website, to deliver your orders, and to provide advertising and email services. These vendors include payment processors, research companies, marketing providers, and analytics and security providers. These third parties have limited access to your information, and may use your information only to perform these tasks on our behalf. We make sure our vendors have contractually agreed to implement technical and organizational measures that are appropriate under this Privacy Policy.
 
 It is necessary for us to share your information with some of our vendors in order to complete our contract with you; for example, to allow them to process payments and shipments and to help us keep our website secure. Other vendors help us improve our website and our products; for example, by helping us conduct research into how we could better serve our customers, or reach new customers. We have a legitimate interest in working with these vendors to improve our business.
 
@@ -299,13 +299,13 @@ The Tie Bar also may share demographic information about our website visitors wi
 
 Your information will remain subject to the terms of this Privacy Policy even if we undergo a business transition. However, we may transfer your information to a successor person or entity upon an acquisition or other corporate reorganization. Any party who receives your information as a result of a business transition will be obligated to treat your information according to the terms of this Privacy Policy.
 
-We may also disclose your information if we have a good faith belief that we are required to do so by law or if acting with a good faith belief that such disclosure is reasonably necessary to: (1) comply with legal process; (2) enforce our Terms of Service; (3) respond to legal claims; (4) respond to your requests for customer service or transaction completion; or (5) protect the rights, property or personal safety of The Tie Bar, the website’s users or the public. In these cases, our use of your information may be necessary for the purposes of our or a third party’s legitimate interest in keeping our website secure, preventing harm or crime, enforcing or defending legal rights, or preventing damage. Such use may also be necessary to comply with a legal obligation, a court order, or to exercise or defend legal claims. It may also be necessary in the public interest (such as to prevent crime).
+We may also disclose your information if we have a good faith belief that we are required to do so by law or if acting with a good faith belief that such disclosure is reasonably necessary to: (1) comply with legal process; (2) enforce our Terms of Service; (3) respond to legal claims; (4) respond to your requests for customer service or transaction completion; or (5) protect the rights, property or personal safety of The Tie Bar, the website's users or the public. In these cases, our use of your information may be necessary for the purposes of our or a third party's legitimate interest in keeping our website secure, preventing harm or crime, enforcing or defending legal rights, or preventing damage. Such use may also be necessary to comply with a legal obligation, a court order, or to exercise or defend legal claims. It may also be necessary in the public interest (such as to prevent crime).
 
 ### Correcting, Deleting, and Receiving Your Information
 
 Much of your information is stored in your The Tie Bar account profile for as long as your account is active. You may change or correct the information in your account profile by clicking here or emailing [privacy@thetiebar.com](mailto:privacy@thetiebar.com). Only your first and last name and email address are required to have an account with The Tie Bar.
 
-You may unsubscribe from marketing communications from The Tie Bar at any time. To do so, you may click the “unsubscribe” link in each marketing email or email your request to [privacy@thetiebar.com](mailto:privacy@thetiebar.com).
+You may unsubscribe from marketing communications from The Tie Bar at any time. To do so, you may click the "unsubscribe" link in each marketing email or email your request to [privacy@thetiebar.com](mailto:privacy@thetiebar.com).
 
 Depending on your location, such as the EEA or Canada, you may also have certain additional rights with respect to your information, such as:
 
@@ -327,7 +327,7 @@ Unless you are located in the EEA or Canada and have exercised one of your right
 
 ### Cookies and Advertising
 
-When you visit thetiebar.com we insert some instructions on your computer or mobile device. These instructions will be in the form of a “cookie” or similar file. Cookies are small pieces of instruction stored on your hard drive or device, not on our website. Cookies provide us with information that we use to enhance your experience on thetiebar.com. Right now, there are two basic types of cookies. One is a session cookie which terminates when the user’s session ends. The second is a persistent cookie, which is a text file that remains stored on your computer for a period of time. Your Internet browser contains instructions about how to remove or block persistent cookies. If you reject all cookies, you may not be able to create or sign in to your account with us or otherwise take full advantage of the thetiebar.com website.
+When you visit thetiebar.com we insert some instructions on your computer or mobile device. These instructions will be in the form of a "cookie" or similar file. Cookies are small pieces of instruction stored on your hard drive or device, not on our website. Cookies provide us with information that we use to enhance your experience on thetiebar.com. Right now, there are two basic types of cookies. One is a session cookie which terminates when the user's session ends. The second is a persistent cookie, which is a text file that remains stored on your computer for a period of time. Your Internet browser contains instructions about how to remove or block persistent cookies. If you reject all cookies, you may not be able to create or sign in to your account with us or otherwise take full advantage of the thetiebar.com website.
 
 Cookies we use fall into one of five categories: strictly necessary, analytics, functionality, advertising, and social media . The purposes performed by these cookies are summarized in the table below. You can obtain more information about cookies at <http://www.allaboutcookies.org/>. For a full list of the cookies we use on our website, you may contact us at [privacy@thetiebar.com](mailto:privacy@thetiebar.com).
 
@@ -358,7 +358,7 @@ We partner with third parties to manage our advertising on other sites. Our thir
 
 #### Do Not Track Signals
 
-Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we respond to browser “do not track” signals by blocking placement of cookies on your device. Please note that you will not be able to place an order without accepting the following cookies:
+Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we respond to browser "do not track" signals by blocking placement of cookies on your device. Please note that you will not be able to place an order without accepting the following cookies:
 
   * _ttb_cart_id
   * _ttb_payment_nonce
