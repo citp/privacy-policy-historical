@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234059id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521205412id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
-Effective date: 24 August 2018
+Effective date: 19 February 2019
 
 For Tresorit, security and data privacy are of paramount importance. This Privacy Policy describes our commitment to protect the privacy of individuals in accordance with the GDPR.
 
@@ -53,7 +53,7 @@ Even though we can’t read or access the files and folders you store in Tresori
 
 ## Who will process your personal data?
 
-Tresorit services are provided by Tresorit AG (company registration no: CH-300.3.017.920-5; address: Minervastrasse 3, 8032 Zurich) (Tresorit), a company registered under the laws of Switzerland. If you have a subsciption with Tresorit as an individual user, Tresorit will be the controller of your personal data under EU law.
+Tresorit services are provided by Tresorit AG (company registration no: CH-300.3.017.920-5; address: Minervastrasse 3, 8032 Zurich) (Tresorit), a company registered under the laws of Switzerland. If you have a subscription with Tresorit as an individual user, Tresorit will be the controller of your personal data under EU law.
 
 Your data is processed by Tresorit. However, if you are a part of a business subscription, certain data is processed upon the instructions of your organization.
 
@@ -69,7 +69,7 @@ In any case, certain activites of Tresorit are outsourced to third parties (proc
 
 Certain basic information, like your name and email address, is necessary for setting up a Tresorit account.
 
-**Billing Information.** At the time of registration, you also need to provide certain billing information. You might also provide payment information, such as payment card details, which we collect via secure payment processing services. This data is necessary to provide you with Tresorit services.
+**Billing information.** At the time of registration, you also need to provide certain billing information. You might also provide payment information, such as payment card details, which we collect via secure payment processing services. This data is necessary to provide you with Tresorit services.
 
 When you purchase a subscription, you also need to provide payment information, which will be handled by secure processing services.
 
@@ -79,11 +79,15 @@ In order to send and deliver invitations upon your instructions, Tresorit stores
 
 Some information about your Tresorit Folders is unencrypted, like its name, size and members. This is needed for features like your activity wall.
 
-**Detailed access logs.** If you open a Tresorit link where Detailed access logs are enabled, certain information (such as your email address, IP address and approx. location) may be logged for your open attempts. Please note that such information will be visible to the sender of the link.
+**Access logs.** Content owners may apply certain security settings to protect the content of share links. If you open a Tresorit link where Detailed access logs are enabled, certain information (such as your IP address, approx. location, and the platforms that were used to download the contents of the link) will be logged for your open attempts.
 
-Detailed access logs is a security setting on share links. When turned on, content owners can track useful information such as the date, IP address, and the platforms that were used to download the contents of the link. And if you are signed in to Tresorit Web Access, your email address will also be visible to those who can access the logs.
+Tresorit users may also require an email verification before you can download the content they shared with you. If you are signed in to Web Access, the email address associated with your account will be used by default for such purposes. Otherwise, the email you use for verification will be logged.
 
-**Other Information.** You may decide to share further information, including personal data, with us when you contact our Support or Sales Teams, submit forms on our website or otherwise communicate with us. It is solely your decision to share any detailed, non-aggregated logs (which may contain e.g. non-encrypted filenames), your screen or any other data with us during such communications, so our processing of such data will be based on your consent.
+Please note that, the above information will be visible to the sender of the link and other users who have rights to share that specific file or folder. If you have any questions about this, please refer to the policies of the relevant Business Domain.
+
+When sharing content, Tresorit users can enable access logs or request an email verification from those who wish to download their content. In these cases certain information about you will be logged and shared with the content’s owners.
+
+**Other information.** You may decide to share further information, including personal data, with us when you contact our Support or Sales Teams, submit forms on our website or otherwise communicate with us. It is solely your decision to share any detailed, non-aggregated logs (which may contain e.g. non-encrypted filenames), your screen or any other data with us during such communications, so our processing of such data will be based on your consent.
 
 Sometimes, when you require assistance from our Sales and Support teams, you may choose to share additional information with us.
 
@@ -209,7 +213,7 @@ We use your data to generate aggregate user insights that we use to research and
 
 ## How do you use your personal data?
 
-Please remember that if you share Your Encrypted Content with someone, you may reveal details about yourself. Your email address, first and last name are visible by the people you send an invitation to, or from whom you accept an invitation. We are not responsible for your use of any otherwise personal data, which you make available to others via invitations, or the activities of other users or other third parties to whom you give or make available your information.
+Please remember that if you use our Service to share Your Encrypted Content with someone, your personal data might be shared with such third party. For example, your email address, first and last name are visible by the people you send an invitation to, or from whom you accept an invitation. To learn more about our sharing features, we recommend that you visit the Tresorit [Knowledge Base](https://support.tresorit.com/hc/en-us/articles/229250247-Step-3-Sharing-files-and-tresors-with-others). We are not responsible for your use of any otherwise personal data, which you make available to others via invitations, or the activities of other users or other third parties to whom you give or make available your information.
 
 ## Do we share your personal data with third parties?
 
@@ -227,29 +231,35 @@ In certain cases we need to share information, including personal data with our 
 
 As any other business, we may need to share personal data with other service providers that we use in our operation for billing, backup, analytics etc.
 
-### 3) Sharing content by you
+### 3) Content shared by you
 
-We may also share personal data with third parties when we have your consent to do so. For example, information, including personal data, will be shared with a third-party when you share content using our service with a third party (e.g. through share links and collaborating in Tresorit Folders). When you share content or content is shared with you – either by accepting, downloading, assessing a Tresorit link or invitation –, your activity, relevant metadata of file edits or downloads, might also be disclosed to the shared party. You acknowledge that once you shared all or a part of Your Encrypted Content by using our service with any person who accepted your invitation, such content goes out of your control and remains accessible to the extent you granted access. Accordingly, we ask you to pay special attention with whom you share Your Encrypted Content.
+Information, including personal data, will be shared with a third-party when you share content using our service with a third party (e.g. through share links and collaborating in Tresorit Folders). You acknowledge that once you shared all or a part of your Encrypted Content by using our service with any person who accepted your invitation, such content goes out of your control and remains accessible to the extent you granted access. Accordingly, we ask you to pay special attention with whom you share your Encrypted Content.
 
 When you are a member of a shared folder, besides its content, your activity will also be visible to other members.
 
-### 4) Your Subscription Owner
+### 4) Downloading content
 
-If your account is subject to Advanced Control, your Subscription Owner may also be able to access Your Encrypted Content as set out in section III of our Terms. You can always check whether Advanced Control is set up in respect of your account, under the Settings menu.
+When content is shared with you – either by accepting, downloading, assessing a Tresorit link or invitation –, certain information regarding your activity, might also be disclosed to the shared party.
+
+### 5) Subscription Owners
+
+If your account is part of a Business Domain – in accordance with section III of our Terms – the relevant Subscription Owner may be able to view certain information about your interactions with the relevant Business Domain. Such information may include your email and activity. If you have any questions about this, please refer to the policies of the relevant Business Domain.
+
+If your account is subject to Advanced Control, your Subscription Owner may also be able to access your Encrypted Content as set out in section III of our Terms. You can always check whether Advanced Control is set up in respect of your account, under the Settings menu. 
 
 By accepting Advanced Control, you give your Subscription Owner permission to have cryptographic access to your files.
 
-### 5) Business Transactions
+### 6) Business transactions
 
 We may assign or transfer this policy, as well as your account and related information and data, including any personal information, to any person or entity that acquires all or substantially all of our business, stock or assets, or with whom we merge.
 
 Regardless of any changes that might happen in our company, your personal data will be protected the same way as it is right now.
 
-### 6) Testimonials
+### 7) Testimonials
 
 From time to time, we may post testimonials on our website that may contain personal data. We obtain your consent to post your name along with your testimonial. If you wish to update or delete your testimonial, you can contact us at [support@tresorit.com](mailto:support@tresorit.com).
 
-### 7) Referrals
+### 8) Referrals
 
 If you choose to use our referral service to tell a friend about our products and services, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to visit our website and will store this information for the purpose of sending this initial email, tracking the success of our referral program and other marketing activities. We will not contact him or her more than once. Your referral may contact us at [support@tresorit.com](mailto:support@tresorit.com) to request that we remove their information from our database.
 
@@ -354,13 +364,41 @@ Köztelek utca 6.
 
 We want to be as transparent as possible about the changes we make to our Privacy Policy. In this archive you can see the previous versions of the policy.
 
-  * [Current version (08/24/2018)](https://web.archive.org/legal/privacy-policy)
+  * [Current version (19/02/2019)](https://web.archive.org/legal/privacy-policy)
 
 Key changes:
 
-    * We have updated this policy to reflect the changes in our data processing activities as a result of the introduction of our Access logs feature, that enables the tracking of shared links.
+    * We have updated this policy to reflect the changes in our data processing activities as a result of the introduction of our Email verification feature.
 
+  * [08/24/2018](https://web.archive.org/legal/privacy-policy/archive/24-08-2018)
   * [25/05/2018](https://web.archive.org/legal/privacy-policy/archive/25-05-2018)
   * [24/10/2017](https://web.archive.org/legal/privacy-policy/archive/24-10-2017)
+
+
+
+Did you know that Tresorit is the most secure place for your files in the cloud?
+
+  * End-to-end encryption & Swiss privacy
+  * Highly secure European data centers
+  * Helps with GDPR Compliance
+
+
+
+Let me know if I can help!
+
+just now
+
+Write a reply...
+
+_ _
+
+## Cookie and Privacy Settings
+
+### Information that we collect about you on our website.
+
+When you visit our website, we and our partners may use cookies and other information gathering technologies. These technologies may provide us with personal data, information about devices and networks you utilize to access our website, and other information regarding your interactions with our website. For detailed information about the use of cookies on the website, please read and review our [Website Cookie Policy](https://tresorit.com/cookie-policy).
+
+  * **Enable Do Not Track:** We respect your right to decline certain cookies by changing your setting here. If you enable Do Not Track, we will not use third-party cookies for re-marketing and advertisement purposes.
+
 
 
