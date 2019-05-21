@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euractiv.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910184644id_/https%3A//www.euractiv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euractiv.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521174932id_/https%3A//www.euractiv.com/privacy) for the most accurate reproduction.*
 
 # EURACTIV Privacy Policy – EURACTIV.com
 
@@ -325,7 +325,7 @@ The current Privacy Policy is subject to Belgian law. For cases related to the c
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: info@euractiv.com
+  * By email: privacy@euractiv.com
   * By visiting this page on our website: <http://www.euractiv.com/privacy>
 
 
