@@ -1,62 +1,158 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329010149id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522013717id_/https%3A//moneyandmarkets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy — Money and Markets - Financial Advice | Financial Investment Newsletter
+# Privacy Policy | Money and Markets
 
-**PRIVACY STATEMENT**  
-Our company is committed to preserving your trust and confidence. Because your privacy is important, we have created this privacy statement in order to demonstrate this commitment. The following discloses our information gathering and dissemination practices for this website.
+_Last updated: 8/28/2018_
 
-**ADVERTISING**  
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://www.google.com/settings/ads/anonymous>. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+## Email Address
 
-**USE OF YOUR IP ADDRESS**  
-An IP (Internet Protocol) address is a 32-bit numeric address written as four numbers separated by periods. It is a unique identifier for a computer or device on a network like the Internet. We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to help identify you and to gather broad information to help us better serve you.
+We know that your personal information is important to you and we are committed to ensuring it is kept secure and used carefully. _  _Below you will find a short summary of how and why we collect your data, who we share it with, and what we’re doing to make sure your data is safe and secure.  You will also find information about your privacy rights.
 
-**COOKIES**  
-A “cookie” is a small piece of information that is stored by your Internet browser software on your computer’s hard drive. Cookies are commonly used to facilitate secure website connections via a unique user name and password, so that you can buy things in an online store and access services that are in password protected areas of a site. They also may be used to facilitate automatic log-in (you can save your own user name and password so you don’t have to re-enter it each time you visit). Cookies are used to authenticate website users and keep track of the user session. They allow us to better analyze our site’s traffic patterns and to provide improved content, throughput, advertisements, products and services. They help us to refine and enhance the visitor registration process and add personalization features to customize the site to your needs. Cookies also help identify information that we may need to better serve you should there be any problems with your use of this site. This kind of information may include the web browser you use, the type of computer, the operating system, the Internet service providers, and other similar information. This information is used for various personalization features. We may share this information with our partners, suppliers, and other third parties so that they can better serve you too. We may sometimes display advertisements on this site from companies outside of our own. These ads may contain their own cookies. While we use cookies in other parts of our website, cookies received with electronic ads are collected by these other companies, and we do not have access to this information. Select customer data may be shared with the advertising companies.
+This is the privacy policy of Money and Markets.  If we change our privacy policy, we will notify you of those changes here.
 
-**COLLECTION AND USE OF DATA**  
-Our site’s registration form requires users to give us contact information (such as name and e-mail address), unique identifiers, and demographic information (such as sex or age). We use this information to enhance the site so that it can offer you a more personalized experience. We also use the information to communicate information about our company, promotional material such as contests, questionnaires and surveys, and promotional material from some of our partners. Users may opt-out of receiving future mailings by using the tool explained in the “Updating and Removal of Data” section below. Unique identifiers are collected to verify the user’s identity, for use as account numbers in our record system, and for other purposes. Demographic profile data is also collected at our site. We use this data to tailor the user experience, showing you content that is most likely to be of interest to you, and displaying the content according to your preferences..
+Our **Website**[https://moneyandmarkets.com](https://moneyandmarkets.com/) may include hyperlinks to other websites that are not operated or controlled by us. This privacy policy only applies to our Website and we are not responsible for the content or the privacy practices of third party websites.
 
-**THIRD PARTY ADVERTISING**  
-As an active subscriber to _Money and Markets_ and/or _Uncommon Wisdom_ , you may receive third party advertisements. These offers are paid advertisements provided by our external partners or external advertisers. “Third party advertisements will often indicate that the sender is “Weiss Research Advertising,” “Partner Advertising,” “Weiss Advertising Sponsors,” or a name that uses similar terms.” If you click on these offers you will be proceeding under the terms of that third party advertiser’s privacy policy. Most offers will be sent from Weiss Research, Inc. Weiss Research is not responsible for the content of these advertisements. Weiss Research makes no guarantee or warranty about what is advertised, and no coupon or special Weiss Research, Inc. offer will be valid with these third party advertisements at any time. If you wish to opt out of our advertising policy, [click here](http://www.emailpreferencecenter.com/).
+If you want to navigate directly to a particular section of this policy please click on the relevant link below.
 
-**LINKS TO WEBSITES OUTSIDE OF THIS ONE**  
-This site contains links to other sites outside of our own network. We are not responsible for the privacy practices or the content of such websites.
-
-**CUSTOMER ORDER INFORMATION**  
-Our site uses order forms for customers to request information, products and services. Contact information from the order form is used to send orders, communicate information and promotional material from our company and partner companies. Financial information that is collected is used to bill you for products and services ordered.
-
-**SECURITY**  
-The security of your information is of concern to us. When you place orders on this site, your information is transmitted using Secure Sockets Layer (SSL) technology. Furthermore, we have implemented industry standard security mechanisms and procedures to protect data from loss, misuse, and unauthorized access, disclosure, alteration and destruction. While we are focused on the security of your information, no security is 100% effective and we cannot promise (and you should not expect), that your information will remain secure in all circumstances.
-
-**SHARING YOUR INFORMATION**  
-We share the information that you provide to us in the following circumstances:
-
-  1. Service Providers. From time to time we may share information with companies and individuals who provide servicing, administrative, marketing and other services for us, or on our behalf. These services may include fulfillment centers, mailing houses, event providers, and customer support organizations.
-  2. Affiliates. From time to time we may share information with our affiliates. These include (a) companies that we own or control, companies that own or control us, or companies that are owned or controlled by the same companies that own or control us. Such information may be used by our affiliates to promote their products and services to you. Where such information sharing occurs, our affiliates will follow the terms contained in this policy.
-  3. Third Parties. From time to time we may share your contact information with third parties so that they may promote their products and services to you.
-  4. Law Enforcement. We may cooperate with reasonable requests for information from law enforcement agencies. As a result, we reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect our, your, or another person’s rights, property or safety.
-  5. Other Persons As Permitted by Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights or defend against legal claims that have been brought against us, or possible legal claims that we determine in our sole discretion might be brought against us.
-  6. Transfers. In the event that all, or substantially all of our assets, are acquired, your information will be transferred to the acquiring company.
+  * **What does Money and Markets do?**
+  * **What personal information does Money and Markets collect and why?**
+  * **Who does Money and Markets share my personal information with?**
+  * **Legal basis for processing personal information**
+  * **How does Money and Markets keep my personal information secure?**
+  * **International data transfers**
+  * **Data retention**
+  * **Your data protection rights**
+  * **Updates to this privacy policy**
+  * **Do you collect sales tax?**
+  * **How to contact us**
 
 
 
-**NOTICE**  
-If we are legally required to notify you about a security incident we will either notify you by e-mail, writing, or phone at our discretion.
+## What does Money and Markets do?
 
-**SUPPLEMENTAL** **INFORMATION**  
-This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location.
+Money and Markets is a privately owned publishing company based in Delray Beach, Florida, USA.  We publish newsletters which provide insight and advice on investing.  You can learn more about Money and Markets in the [About Us](https://moneyandmarkets.com/about-money-markets) section of our Website.
 
-**UPDATING AND REMOVAL OF DATA**  
-You may have your name removed from our e-mail marketing lists at any time, by visiting the [_Money and Markets_ e-mail preference control center ](http://www.emailpreferencecenter.com/)at [http://www.emailpreferencecenter.com](http://www.emailpreferencecenter.com/) and adjusting your communication preferences. Please read the information in this area very carefully so that you do not inadvertently discontinue the receipt of materials that you actually do wish to receive. You can send a request by mail to the following postal address: Weiss Research, Inc., 4400 Northcorp Parkway, Palm Beach Gardens, FL 33410
+## What personal information does Money and Markets collect and why?
 
-**CONTACTING THE WEBSITE**  
-If you have any questions about this statement, the practices of this website, or your dealings with this website, you can [use our online form](http://www.moneyandmarkets.com/contact-us/), call 1-800-291-8545, or write:  
-_Money and Markets_ Website  
-4400 Northcorp Parkway  
-Palm Beach Gardens, FL 33410
+We collect information in order to allow us to provide the publications you have subscribed to, and to personalize and improve your experience of our services, Website, and communications with you.  All such information is held on secure servers.
 
-**CHANGES AND CLARIFICATIONS**  
-We reserve the right to modify, amend, or clarify this policy at any time by posting a revised privacy policy on our website.
+We only use personal data you have given us or that we have collected from you when you visit our Website and order forms.  We do not obtain personal information from or sell it to third parties.  We sometimes share your personal information with third parties, but only to provide your subscriptions to you or to personalize and improve your experience with us.  We never release your personal information to others for their mailing or marketing purposes.
 
-Effective Date: September 27, 2010
+The personal information that we may collect about you broadly falls into two categories:
+
+  * __Information that you provide__
+
+
+
+We may ask you to provide personal information in order to provide our services to you.  This includes asking you to provide your contact details to deliver subscriptions to you or to register an account with us so you can access the subscriber-only areas of our Website.  It also includes asking you to provide payment information so you can pay for subscriptions or use a one-click order process.
+
+The personal information you are asked to provide, and the reasons why you are being asked to provide it, will be made clear to you at the point you are asked to provide it.
+
+  * __Information that we collect automatically__
+
+
+
+When you visit our Website and order forms, we may collect certain information automatically from your device.
+
+The data we collect may include information like your IP address, device type, unique device identification numbers, browser-type, and other technical information.  We may also collect information about how your device has interacted with our Website or order form, including the pages accessed and links clicked.
+
+We collect this information so we can better understand the visitors who come to our Website [and look at our order forms] and what content may be of interest to them.  Using the information allows us to improve the quality and relevance of our Website and services.
+
+Some of this information may be collected using cookies and similar technology.
+
+## Who does Money and Markets share my personal information with?
+
+We may disclose your personal information to the following categories of recipients:
+
+  * to our **group companies** who provide data processing services to us, for example, enhancing the security of our Website, or who process personal information for the purposes described in this privacy policy or notified to you when we collect your personal information. Publishing Services LLC (based in Baltimore, Maryland) provides the majority of the data processing services we use including hosting our customer database on their servers.
+  * to **reputable third party service providers** who provide additional data processing services, for example, analyzing data, providing marketing assistance, and assisting with the processing of credit card and direct debit payments. They have access to personal information needed to perform their functions, but may not use it for other purposes. In addition, they must process the personal information in accordance with this privacy notice and as permitted by applicable data protection laws;
+  * to any **competent law enforcement body, regulatory, government agency, or similar other third party** where we believe disclosure is necessary (i) as a matter of applicable law or regulation, or (ii) to exercise, establish or defend our legal rights; and
+  * to any **other person with your consent.**
+
+
+
+## Legal basis for processing personal information
+
+Our legal basis for collecting and using the personal information described above will depend on the information concerned and the context in which we collect it.
+
+We will normally collect personal information from you where:
+
+  * we need the personal information to perform a contract with you (for example, your email address when you subscribe to a free or paid service);
+  * the processing is in our legitimate interests and not overridden by your rights;
+  * we have your consent to do so (for example, to receive marketing emails from us about another publisher’s publications or services which we think might be of interest to you); or
+  * We need the personal information to comply with our legal obligations (for example, our tax and audit requirements and other regulatory obligations)
+
+
+
+We fund our free daily editorial emails, _Sovereign Investor Daily_ and _The Winning Investor Daily_ by advertising our services and those of other group companies (occasionally we may carry advertising for a third party service).  There are two to three small ads in each editorial email, and three to five times a week we send separate promotional emails.  By subscribing to the free emails, you are consenting to receive these promotions (we cannot send a free email alone without the promotional emails).  There is an unsubscribe link in each of these emails and you can unsubscribe at any time.
+
+If we collect and use your personal information in reliance on our legitimate interests, this will normally be to operate and improve our services, Website, and communications.  It would also include responding to your questions, undertaking marketing, or detecting or preventing illegal activities.  We may have other legitimate interests and, if appropriate, we will make clear to you at the relevant time what those legitimate interests are.
+
+## How does Money and Markets keep my personal information secure?
+
+We use appropriate technical and organizational measures to protect the personal information that we collect and process.  The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.  Where we share data with third parties, we ensure that your data will be kept secure and will not be provided or sold to another party.
+
+## International data transfers
+
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident.  These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective). However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this privacy policy.
+
+## Data retention
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## Your data protection rights
+
+You have the following data protection rights:
+
+  * You have the right to **opt-out of marketing communications** we send you at any time. You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.  To opt-out of other forms of marketing (such as postal marketing or telemarketing), then please contact us using the contact details provided under the “How to contact us” heading _below_.
+  * If we have collected and process your personal information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+## Updates to this privacy policy
+
+We may update this privacy policy from time to time in response to changing legal, technical or business developments. When we update our privacy policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  We will obtain your consent to any material privacy policy changes if and where this is required by applicable data protection laws.
+
+You can see when this privacy policy was last updated by checking the “last updated” date displayed at the top of this privacy policy.
+
+## Do you collect sales tax?
+
+Money and Markets is registered in the states below and is therefore required to collect sales tax on items sold to customers in these states, to the extent the items are taxable. Whether or not an item is taxable depends upon the laws in effect in the state.
+
+  * Alabama
+  * Colorado
+  * Florida
+  * Georgia
+  * Kentucky
+  * Louisiana
+  * Maine
+  * Maryland
+  * Mississippi
+  * North Carolina
+  * Hawaii
+  * Oklahoma
+  * Pennsylvania
+  * Rhode Island
+  * Vermont
+
+
+
+_**Alabama Tax Disclosure_  Sovereign Offshore Services, LLC  has collected the Simplified Sellers Use Tax on transaction(s) for Alabama customers. The tax will be remitted on the customer’s behalf to the Alabama Department of Revenue. The company’s Alabama account number is R009872653.
+
+Sales tax is generally calculated on the total selling price of each item. Depending upon the state’s tax laws, the total selling price of the item may include shipping and handling charges.
+
+Although tax is not required to be collected in states where Money and Markets is not registered, this does not necessarily mean the transaction is not subject to sales tax.  Purchases may be subject to use tax which must be remitted directly to the state by the customer purchasing the item. Purchases are not exempt from sales tax solely because they are purchased on the internet, by catalog or by other remote means. Please contact the tax authorities in your state for additional information about your responsibilities for remitting use tax.  Links to all the states’ tax administrative agencies can be found at <https://www.taxadmin.org/state-tax-agencies>. Sales tax is generally calculated on the total selling price of each item. Depending upon the state’s tax laws, the total selling price of the item may include shipping and handling charges.
+
+Please note that amount of estimated tax appearing on an order may differ from the sales taxes ultimately charged at the time of credit card authorization.
+
+A sales tax rate calculator can accessed from the link below. You should use the Use Tax rate when calculating the tax to include on your order payment.  If you are unsure if the product you are purchasing is taxable, please contact Customer Service.  Please note that we do not own or control information contained on this website and we are merely providing the link for your convenience.
+
+<http://thestc.com/>
+
+## How to contact us
+
+If you have any questions or concerns about our use of your personal information, please contact us by clicking [here](https://moneyandmarkets.com/contact-us).
