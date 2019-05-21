@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frommybowl.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822232314id_/https%3A//frommybowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommybowl.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521035929id_/https%3A//frommybowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - From My Bowl
 
@@ -10,7 +10,7 @@ This privacy policy sets out how From My Bowl uses and protects any information 
 
 ### **Who We Are**
 
-From My Bowl (http://frommybowl.com) is owned and operated by Caitlin Shoemaker, From My Bowl LLC.
+From My Bowl (https://frommybowl.com) is owned and operated by Caitlin Shoemaker, From My Bowl LLC.
 
 ### **Our Use of Cookies**
 
