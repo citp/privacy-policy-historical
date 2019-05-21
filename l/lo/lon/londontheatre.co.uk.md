@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londontheatre.co.uk privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815193717id_/https%3A//www.londontheatre.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londontheatre.co.uk privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521094743id_/https%3A//www.londontheatre.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LondonTheatre.co.uk
 
@@ -14,10 +14,12 @@ Encore Tickets, the UK’s largest independent ticket company, sells tickets for
 We are a data Controller for the purposes of the General Data Protection Regulation (GDPR), and other data protection laws applicable in the United Kingdom and Member states of the European Union. Our address is –
 
 Encore Tickets Limited  
-86 Fetter Lane  
-EC4A 1EN London  
+Harling House,  
+47-51 Great Suffolk Street,  
+London  
+SE1 0BS  
 United Kingdom  
-Phone: 00447957323387  
+Phone: 020 7492 1500  
 Email: [dpo@encore.co.uk](mailto:dpo@encore.co.uk)  
 Website: [www.encore.co.uk](http://www.encore.co.uk/)
 
@@ -33,7 +35,7 @@ Our venues are also joint “Controllers” with regard to your personal data. F
 
 **How we collect data**
 
-**Directly**. Most of the personal data we hold about you is collected directly, for example when you make a purchase from the website, when you subscribe to receive marketing, or when you contact our customer services team. We might also collect your personal data if you create an account with us, enter a competition or free prize draw, register for a promotion, post a comment on our website, ask us a question, email us or otherwise interact with our staff and call centres.
+**Directly**. Most of the personal data we hold about you is collected directly, for example when you make a purchase from the website, when you subscribe to receive marketing, or when you contact our customer services team. We might also collect your personal data if you create an account with us, enter a competition or free prize draw, register for a promotion, post a comment on our website, ask us a question, provide your date of birth via forms, email us or otherwise interact with our staff and call centres.
 
 **Indirectly.** We may also collect some personal data indirectly through your use of our websites and email. We use cookies and other technologies such as pixel tags on our websites and in our emails to collect information about your usage, and to better target our advertising to you. For more information on how we provide our marketing services please see the Marketing section below. To learn more about how cookies work, please see our Cookies Policy.
 
@@ -79,7 +81,7 @@ We may also process some personal data relating to other data subjects, such as 
   * Your **online** **web usage and browsing information** , obtained through website cookies, such as which browser and device you're using, and your IP address (a number that identifies a specific network device on the internet and is required for your device to communicate online). We might look at what site you came from, what you did and didn't use our site for, or what site you visit when you leave us. Typically we cannot tie this information to any individual and use it only to improve the web services we offer. For more information on this please have a look at our Cookie Policy.
   * Your **correspondence and communications** with Encore Tickets, including any customer service queries you may have made, or any service emails we may have sent you;
   * Your **communication and marketing preferences** ;
-  * Your **interests, preferences, feedback and survey responses** , such as which events you like or products you usually buy or enquire about (for example, as part of a survey, or which emails you are more likely to be interested in). We may also hold information on interests and demographic categories inferred from your interactions with us in order to provide you a better service and to provide you with more focused information. For example, if you buy tickets to a certain show and lots of people who went to that show also bought tickets for a different concert, we might send you information about that concert. If you click on certain emails but not others, we will keep a record so that we can tailor our marketing to your interests. For more information on what data we process to provide marketing services, please see the Marketing section below; and
+  * Your **interests,** **date of birth,  ** **preferences, feedback and survey responses** , such as which events you like or products you usually buy or enquire about (for example, as part of a survey, or which emails you are more likely to be interested in in and birthday promotions we may be running). We may also hold information on interests and demographic categories inferred from your interactions with us in order to provide you a better service and to provide you with more focused information. For example, if you buy tickets to a certain show and lots of people who went to that show also bought tickets for a different concert, we might send you information about that concert. If you click on certain emails but not others, we will keep a record so that we can tailor our marketing to your interests. For more information on what data we process to provide marketing services, please see the Marketing section below; and
   * **Other publicly available personal data** , including any which you have shared via a public platform (such as a Twitter feed or public Facebook page), or if you have interacted with us via a box office, by phone or other social media.
 
 
@@ -227,7 +229,7 @@ More detailed information on cookies is available in our Cookie Policy.
 
 **11\. Marketing**
 
-With your consent, we will collect your personal data including your name and email address for the provision of advertising, including the sharing of promotional offers, and to update you about products and services which may be of interest and relevance. Encore Tickets informs its customers and business partners regularly about our products and services, by means of sending marketing about our offers. The personal data collected as part of a registration for marketing will only be used in the sending of such marketing, and can be terminated at any time by using the unsubscribe link included in each communication, or by contacting us using our contact details below.
+With your consent, we will collect your personal data including your name, email address and date of birth for the provision of advertising, including the sharing of promotional offers, and to update you about products and services which may be of interest and relevance. Encore Tickets informs its customers and business partners regularly about our products and services, by means of sending marketing about our offers. The personal data collected as part of a registration for marketing will only be used in the sending of such marketing, and can be terminated at any time by using the unsubscribe link included in each communication, or by contacting us using our contact details below.
 
 Your privacy is of the highest importance to Encore, and we promise never to release your personal details to any other outside company for mailing or marketing purposes, other than those detailed in this Privacy Policy, without your consent.
 
@@ -238,7 +240,7 @@ You have the right to opt out of receiving promotional communications at any tim
 
 **Personalisation**
 
-If you have asked us to send you promotions and other special offers on products, we may use your purchase history to tailor content to match your interests, in order to deliver you more relevant content. We also use your approximate location so we can send information on shows that are nearby, and your “opens” and “clicks” history from the emails we send you, so we can tailor our email content to your interests.
+If you have asked us to send you promotions and other special offers on products, we may use your purchase history to tailor content to match your interests, in order to deliver you more relevant content. We also use your approximate location so we can send information on shows that are nearby, and your “opens” and “clicks” history from the emails we send you, so we can tailor our email content to your interests. If you have provided us with your date of birth, then we may send you promotional activity to celebrate your birthday.
 
 In doing so, we will always ensure that meaningful control over such processing is in the hands of our staff, rather than based on automated processing, and that such profiling does not create legal or other significant effects on individuals.
 
@@ -271,10 +273,11 @@ If your personal information is held by Encore tickets, you have the following r
 
 The Data Protection Officer  
 Encore Tickets Limited  
-Barnards Inn  
-86 Fetter Lane  
+Harling House,  
+47-51 Great Suffolk Street,  
 London  
-EC4A 1EN
+SE1 0BS  
+ 
 
 Your rights request will be free, unless the request is manifestly unfounded or excessive, in which case Encore shall reserve the right, in accordance with Article 12 of the GDPR, to charge a fee or refuse the request. In the rare case of such a refusal, you will have the right to complain to the ICO as the Supervisory Authority, and to a judicial remedy without undue delay and at the latest within one month.
 
