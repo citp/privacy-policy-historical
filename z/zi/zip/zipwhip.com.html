@@ -1,54 +1,972 @@
-<!--The following is the downloaded HTML source of the zipwhip.com privacy policy that was archived on 2012-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121222101144id_/http%3A//www.zipwhip.com/html/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipwhip.com privacy policy that was archived on 2019-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190521031432id_/https%3A//www.zipwhip.com/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body><div class="content" style="padding-right: 35px;">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KZQQJN"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width">	  
+	<!--<link rel="stylesheet" type="text/css" href="https://www.zipwhip.com/wp-content/themes/zipwhip/style.css" /> -->
+	<link type="text/css" media="all" href="https://www.zipwhip.com/wp-content/uploads/autoptimize/css/autoptimize_85be947a5bf25cc1aa4e04417e68fb04.css" rel="stylesheet"><title>Privacy Policy | Zipwhip</title>
 
-<h1>Zipwhip Privacy Policy</h1>
-<!--
-<div class="date">Dated January 1st, 2009</div>
--->
+<!-- This site is optimized with the Yoast SEO Premium plugin v7.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Zipwhip is committed to protecting your privacy. We've prepared this Privacy Policy to inform users what data we collect, why we do so, and what we do with it.">
+<link rel="canonical" href="https://www.zipwhip.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Zipwhip">
+<meta property="og:description" content="Zipwhip is committed to protecting your privacy. We've prepared this Privacy Policy to inform users what data we collect, why we do so, and what we do with it.">
+<meta property="og:url" content="https://www.zipwhip.com/privacy/">
+<meta property="og:site_name" content="Zipwhip">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Zipwhip is committed to protecting your privacy. We've prepared this Privacy Policy to inform users what data we collect, why we do so, and what we do with it.">
+<meta name="twitter:title" content="Privacy Policy | Zipwhip">
+<!-- / Yoast SEO Premium plugin. -->
 
-<p>Zipwhip's Privacy Policy is designed to help you understand the collection, use, and disclosure of personal information that may be collected by Zipwhip anytime you interact with Zipwhip websites, applications, and services (referred to collectively as the "Services" in this document).  Your personal information and privacy is a priority at Zipwhip and we go to great lengths to ensure it is protected both internally at Zipwhip and with any partners or affiliates we do business with.  By using or accessing Zipwhip either directly or through one of our partner or affiliates, you are accepting the practices described in this Privacy Policy. Please take a few moments to read this policy and learn more about the type of information gathered and how we use it.</p>
-<p>Zipwhip is actively working to become a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because Zipwhip wants to demonstrate our commitment to your privacy we will be sharing our information practices and having our practices reviewed for compliance by TRUSTe.</p>
-
-
-<h2>Information Collected and Why</h2>
-
-<p>As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, operating system, date/time stamp, and clickstream data.</p>
-<p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track user movements around the site and to gather demographic information about our user base as a whole.</p>
-<p>This information is gathered for all visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. This allows our server to recognize your computer and any settings you created on our sites. It restores those settings so you don't have to enter the same information every time you visit. We use session ID cookies to confirm that users are logged in and keep you logged in until you log out. By default, we use a persistent cookie that stores your login ID and password to make it easier for you to login when you return to use the Zipwhip service. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.</p>
-<p>When using Zipwhip you may register and setup your account, send messages, create contacts, and receive messages.  We retain this information so that, for instance, you can return to view prior messages you have sent or easily see your Contacts. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable any legal audits of that information.</p>
-<ul>
-    <li>We use personal information about you such as mobile phone number and name to validate your identity and protect other Zipwhip users against spam.</li>
-    <li>We ask for you to identify your mobile device because this helps us to build the Zipwhip mobile ecosystem enabling us to offer you future enhanced services.</li>
-    <li>Your email address enables us to contact you with Service updates and administrative notices by means other than your mobile device.</li>
-    <li>Other information we collect such as your location, birthday, etc. are used so that we can deliver a superior level of customer service and present you with applicable offerings.</li>
-    <li>We collect information regarding customer activities on our websites to determine how best to improve our Services.</li>
-</ul>
-
-
-<h2>Security</h2>
-
-<p>Zipwhip takes precautions including administrative, technical, and physical measures to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.  Your account information is located on a secured server behind a firewall.</p>
+<link rel="dns-prefetch" href="//www.zipwhip.com">
+<link rel="alternate" type="application/rss+xml" title="Zipwhip » Feed" href="https://www.zipwhip.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Zipwhip » Comments Feed" href="https://www.zipwhip.com/comments/feed/">
 
 
-<h2>Disclosure of Information</h2>
-
-<p>Zipwhip takes your privacy extremely serious. We do not sell or rent your contact information to other marketers.</p>
-<p>To make sure your personal information is secure, we communicate these guidelines to Zipwhip employees and strictly enforce privacy safeguards within the company. We ensure only authorized legal personnel have access to message data.  Other personal information is available for authorized Zipwhip employees for the purpose of troubleshooting support requests.</p>
-<p>We make your mobile device type available to other Zipwhip users that have entered your mobile number as a contact. You may set your preferences for sharing your mobile device on the Settings Window.</p>
-<p>There are times when it may be advantageous for Zipwhip to make certain personal information about you available to companies that Zipwhip has a strategic relationship with or that perform work for Zipwhip to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with Zipwhip's policies.</p>
-<p>We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Zipwhip service or using the Zipwhip name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.</p>
 
 
-<h2>Terms of Use, Notices, and Revisions</h2>
-
-<p>Zipwhip may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
 
 
-<h2>Contact Us</h2>
 
-<p>If you have questions or concerns regarding this Privacy Policy you should contact our privacy staff at <a href="mailto:privacy@zipwhip.com">privacy@zipwhip.com</a>.</p>
 
-</div>
+<link rel="stylesheet" id="jet-menu-100-css" href="https://www.zipwhip.com/wp-content/uploads/autoptimize/css/autoptimize_single_731e4c16ddfa0f3b521c8d33399d6692.css?ver=1552516732" type="text/css" media="all">
+
+
+
+<style id="elementor-frontend-inline-css" type="text/css">
+body { overflow-x: hidden; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-default > .elementor-row { width: calc(100% + 20px); margin-left: -10px; margin-right: -10px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-narrow > .elementor-row { width: calc(100% + 10px); margin-left: -5px; margin-right: -5px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-extended > .elementor-row { width: calc(100% + 30px); margin-left: -15px; margin-right: -15px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-wide > .elementor-row { width: calc(100% + 40px); margin-left: -20px; margin-right: -20px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-wider > .elementor-row { width: calc(100% + 60px); margin-left: -30px; margin-right: -30px; }
+.elementor-72 .elementor-element.elementor-element-fbe26f2{padding:50px 45px 50px 60px;}.elementor-72 .elementor-element.elementor-element-924edfa.elementor-widget-heading .elementor-heading-title{color:#2f333a;}.elementor-72 .elementor-element.elementor-element-924edfa .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:44px;font-weight:500;}.elementor-72 .elementor-element.elementor-element-768dea88 > .elementor-container{min-height:34vh;}.elementor-72 .elementor-element.elementor-element-768dea88 > .elementor-container:after{content:"";min-height:inherit;}.elementor-72 .elementor-element.elementor-element-768dea88:not(.elementor-motion-effects-element-type-background), .elementor-72 .elementor-element.elementor-element-768dea88 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#fb713f;background-image:url("https://www.zipwhip.com/wp-content/uploads/2018/11/zw-orange-horizontal-background-v1-min-1.jpg");}.elementor-72 .elementor-element.elementor-element-768dea88{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-72 .elementor-element.elementor-element-768dea88 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-72 .elementor-element.elementor-element-5c037a45 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:40px;}.elementor-72 .elementor-element.elementor-global-65771{text-align:center;}.elementor-72 .elementor-element.elementor-global-65771.elementor-widget-heading .elementor-heading-title{color:#ffffff;}.elementor-72 .elementor-element.elementor-global-65771 .elementor-heading-title{font-size:34px;font-weight:600;line-height:1.2em;}.elementor-72 .elementor-element.elementor-global-65763 a.elementor-button, .elementor-72 .elementor-element.elementor-global-65763 .elementor-button{font-family:"proxima-nova", Sans-serif;font-size:14px;font-weight:600;text-transform:uppercase;line-height:16px;letter-spacing:1.1px;color:#fb713f;background-color:#ffffff;border-radius:5px 5px 5px 5px;padding:13px 31px 13px 31px;}.elementor-72 .elementor-element.elementor-global-65763 a.elementor-button:hover, .elementor-72 .elementor-element.elementor-global-65763 .elementor-button:hover, .elementor-72 .elementor-element.elementor-global-65763 a.elementor-button:focus, .elementor-72 .elementor-element.elementor-global-65763 .elementor-button:focus{color:#ffffff;background-color:rgba(255,255,255,0);border-color:#ffffff;}.elementor-72 .elementor-element.elementor-global-65763 .elementor-button{border-style:solid;border-width:2px 2px 2px 2px;border-color:#ffffff;}@media(max-width:1024px){.elementor-72 .elementor-element.elementor-global-65763 a.elementor-button, .elementor-72 .elementor-element.elementor-global-65763 .elementor-button{font-size:10px;padding:10px 20px 10px 20px;}}@media(max-width:767px){.elementor-72 .elementor-element.elementor-global-65771 .elementor-heading-title{line-height:1.2em;}}
+.elementor-79 .elementor-element.elementor-element-d5cbfb2{padding:0px 10px 0px 10px;}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(27px/2);}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(27px/2);}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(27px/2);margin-left:calc(27px/2);}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-27px/2);margin-left:calc(-27px/2);}body.rtl .elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-27px/2);}body:not(.rtl) .elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-27px/2);}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-icon{width:14px;}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-icon i{font-size:14px;}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-text{color:#6e747c;}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-item:hover .elementor-icon-list-text{color:rgba(110,116,124,0.63);}.elementor-79 .elementor-element.elementor-element-1423c7a .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:14px;}.elementor-79 .elementor-element.elementor-element-8ccb63d:not(.elementor-motion-effects-element-type-background), .elementor-79 .elementor-element.elementor-element-8ccb63d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#ffffff;}.elementor-79 .elementor-element.elementor-element-8ccb63d{border-style:solid;border-width:1px 0px 1px 0px;border-color:#d1d6dd;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:10px 20px 10px 20px;}.elementor-79 .elementor-element.elementor-element-8ccb63d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-79 .elementor-element.elementor-element-7f3b5dee.elementor-column .elementor-column-wrap{align-items:flex-start;}.elementor-79 .elementor-element.elementor-element-7f3b5dee.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;}.elementor-79 .elementor-element.elementor-element-7f3b5dee > .elementor-element-populated{text-align:left;}.elementor-79 .elementor-element.elementor-element-b39f90c{text-align:left;}.elementor-79 .elementor-element.elementor-element-b39f90c .elementor-image img{width:100%;max-width:100%;}.elementor-79 .elementor-element.elementor-element-b39f90c > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-2bb20ed8.elementor-column .elementor-column-wrap{align-items:center;}.elementor-79 .elementor-element.elementor-element-2bb20ed8.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;}.elementor-79 .elementor-element.elementor-element-de7fe70 .jet-menu{justify-content:flex-start !important;}.jet-desktop-menu-active .elementor-79 .elementor-element.elementor-element-de7fe70 .jet-menu > .jet-menu-item{flex-grow:0;}.jet-desktop-menu-active .elementor-79 .elementor-element.elementor-element-de7fe70 .jet-menu{min-width:900px;}.elementor-79 .elementor-element.elementor-element-de7fe70 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-79b03b2e > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-global-247 a.elementor-button, .elementor-79 .elementor-element.elementor-global-247 .elementor-button{font-family:"proxima-nova", Sans-serif;font-size:12px;font-weight:600;text-transform:uppercase;line-height:16px;letter-spacing:1.1px;background-color:#fb713f;border-radius:5px 5px 5px 5px;padding:13px 31px 13px 31px;}.elementor-79 .elementor-element.elementor-global-247 a.elementor-button:hover, .elementor-79 .elementor-element.elementor-global-247 .elementor-button:hover, .elementor-79 .elementor-element.elementor-global-247 a.elementor-button:focus, .elementor-79 .elementor-element.elementor-global-247 .elementor-button:focus{background-color:#dd592d;}@media(max-width:1024px){.elementor-79 .elementor-element.elementor-element-8ccb63d{padding:0px 10px 0px 10px;}.elementor-79 .elementor-element.elementor-element-b39f90c .elementor-image img{width:126px;}.elementor-79 .elementor-element.elementor-element-b39f90c > .elementor-widget-container{margin:13px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-global-247 a.elementor-button, .elementor-79 .elementor-element.elementor-global-247 .elementor-button{font-size:10px;padding:10px 20px 10px 20px;}}@media(max-width:767px){.elementor-79 .elementor-element.elementor-element-8ccb63d{padding:0px 0px 10px 0px;}.elementor-79 .elementor-element.elementor-element-7f3b5dee{width:50%;}.elementor-79 .elementor-element.elementor-element-7f3b5dee > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-b39f90c > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-2bb20ed8{width:50%;}.elementor-79 .elementor-element.elementor-element-2bb20ed8 > .elementor-element-populated{margin:0px 0px 0px 0px;}.elementor-79 .elementor-element.elementor-element-79b03b2e{width:50%;}}@media(min-width:768px){.elementor-79 .elementor-element.elementor-element-7f3b5dee{width:19.289%;}.elementor-79 .elementor-element.elementor-element-2bb20ed8{width:62.335%;}.elementor-79 .elementor-element.elementor-element-79b03b2e{width:18.376%;}}@media(max-width:1024px) and (min-width:768px){.elementor-79 .elementor-element.elementor-element-7f3b5dee{width:14%;}.elementor-79 .elementor-element.elementor-element-2bb20ed8{width:57%;}.elementor-79 .elementor-element.elementor-element-79b03b2e{width:29%;}}/* Start custom CSS for icon-list, class: .elementor-element-1423c7a */.elementor-79 .elementor-element.elementor-element-1423c7a a{
+    transition:all .3s ease-in-out;
+}/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-b39f90c */body{
+    padding: 0;
+    margin: 0;
+}
+
+.elementor-79 .elementor-element.elementor-element-b39f90c a {
+    width: 100%;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-8ccb63d */.jet-sub-mega-menu{
+    width: auto;
+    min-width: 0;
+    left: auto;
+    right: auto;
+}
+.elementor-79 .elementor-element.elementor-element-8ccb63d a{
+    transition:all .3s ease-in-out;
+}
+.elementor-79 .elementor-element.elementor-element-8ccb63d .mobile-only{
+    display: none;
+}
+@media (max-width:768px){
+    .elementor-79 .elementor-element.elementor-element-8ccb63d{
+        border-top:none;
+    }
+    .elementor-79 .elementor-element.elementor-element-8ccb63d .mobile-only{
+        display:block;
+    }
+}/* End custom CSS */
+.elementor-65496 .elementor-element.elementor-element-90fdfaf{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:30px 0px 30px 0px;}.elementor-65496 .elementor-element.elementor-element-90fdfaf > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-65496 .elementor-element.elementor-element-838abfd{text-align:left;}.elementor-65496 .elementor-element.elementor-element-838abfd .elementor-image img{width:80px;}.elementor-65496 .elementor-element.elementor-element-3880c24.elementor-widget-heading .elementor-heading-title{color:#6e747c;}.elementor-65496 .elementor-element.elementor-element-3880c24 .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:0.7px;}.elementor-65496 .elementor-element.elementor-element-3880c24 > .elementor-widget-container{margin:0px 30px 0px 0px;padding:0px 0px 05px 5px;border-style:solid;border-width:0px 0px 1px 0px;border-color:#edeff2;}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-icon{width:14px;}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-icon i{font-size:14px;}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-text{color:#2f333a;}.elementor-65496 .elementor-element.elementor-element-8a99b45 .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:17px;}.elementor-65496 .elementor-element.elementor-element-dee5aa2.elementor-widget-heading .elementor-heading-title{color:#6e747c;}.elementor-65496 .elementor-element.elementor-element-dee5aa2 .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:0.7px;}.elementor-65496 .elementor-element.elementor-element-dee5aa2 > .elementor-widget-container{margin:0px 30px 0px 0px;padding:0px 0px 05px 5px;border-style:solid;border-width:0px 0px 1px 0px;border-color:#edeff2;}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-icon{width:14px;}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-icon i{font-size:14px;}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-text{color:#2f333a;}.elementor-65496 .elementor-element.elementor-element-ad417bd .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:17px;}.elementor-65496 .elementor-element.elementor-element-e98d74d.elementor-widget-heading .elementor-heading-title{color:#6e747c;}.elementor-65496 .elementor-element.elementor-element-e98d74d .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:0.7px;}.elementor-65496 .elementor-element.elementor-element-e98d74d > .elementor-widget-container{margin:0px 30px 0px 0px;padding:0px 0px 05px 5px;border-style:solid;border-width:0px 0px 1px 0px;border-color:#edeff2;}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-icon{width:14px;}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-icon i{font-size:14px;}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-text{color:#2f333a;}.elementor-65496 .elementor-element.elementor-element-80995f2 .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:17px;}.elementor-65496 .elementor-element.elementor-element-2d3de31.elementor-widget-heading .elementor-heading-title{color:#6e747c;}.elementor-65496 .elementor-element.elementor-element-2d3de31 .elementor-heading-title{font-family:"proxima-nova", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:0.7px;}.elementor-65496 .elementor-element.elementor-element-2d3de31 > .elementor-widget-container{margin:0px 30px 0px 0px;padding:0px 0px 05px 5px;border-style:solid;border-width:0px 0px 1px 0px;border-color:#edeff2;}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-icon{width:14px;}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-icon i{font-size:14px;}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-text{color:#2f333a;}.elementor-65496 .elementor-element.elementor-element-e83f5f3 .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:17px;}.elementor-65496 .elementor-element.elementor-element-5c7d802{border-style:solid;border-width:1px 0px 0px 0px;border-color:#edeff2;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:10px 35px 10px 35px;}.elementor-65496 .elementor-element.elementor-element-5c7d802 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-65496 .elementor-element.elementor-element-e053e32{text-align:left;}.elementor-65496 .elementor-element.elementor-element-e053e32 .elementor-social-icon:not(:hover){background-color:#ffffff;}.elementor-65496 .elementor-element.elementor-element-e053e32 .elementor-social-icon:not(:hover) i{color:#f97147;}.elementor-65496 .elementor-element.elementor-element-e053e32 .elementor-social-icon{font-size:18px;padding:0.3em;}.elementor-65496 .elementor-element.elementor-element-e053e32 .elementor-social-icon:hover{background-color:#ffffff;}.elementor-65496 .elementor-element.elementor-element-e053e32 .elementor-social-icon:hover i{color:#ea542e;}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(24px/2);}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(24px/2);}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(24px/2);margin-left:calc(24px/2);}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-24px/2);margin-left:calc(-24px/2);}body.rtl .elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-24px/2);}body:not(.rtl) .elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-24px/2);}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-icon{width:14px;}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-icon i{font-size:14px;}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-text{color:#6e747c;}.elementor-65496 .elementor-element.elementor-element-c0fd037 .elementor-icon-list-item{font-family:"proxima-nova", Sans-serif;font-size:13px;}@media(min-width:768px){.elementor-65496 .elementor-element.elementor-element-7e70b3f{width:16.696%;}}@media(max-width:1024px) and (min-width:768px){.elementor-65496 .elementor-element.elementor-element-9de28d9{width:28%;}.elementor-65496 .elementor-element.elementor-element-013c551{width:28%;}.elementor-65496 .elementor-element.elementor-element-376fd47{width:28%;}.elementor-65496 .elementor-element.elementor-element-5dfc222{width:50%;}}@media(max-width:767px){.elementor-65496 .elementor-element.elementor-element-838abfd{text-align:center;}.elementor-65496 .elementor-element.elementor-element-e053e32{text-align:center;}}/* Start custom CSS for icon-list, class: .elementor-element-8a99b45 */.elementor-65496 .elementor-element.elementor-element-8a99b45{
+    display: inline-block;
+}
+.elementor-65496 .elementor-element.elementor-element-8a99b45 a{
+    transition:all .3s ease-in-out;
+    font-weight: 500;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.elementor-65496 .elementor-element.elementor-element-8a99b45 a:hover{
+    font-weight: 600;
+    background: #edeff2;
+}/* End custom CSS */
+/* Start custom CSS for icon-list, class: .elementor-element-ad417bd */.elementor-65496 .elementor-element.elementor-element-ad417bd{
+    display: inline-block;
+}
+.elementor-65496 .elementor-element.elementor-element-ad417bd a{
+    transition:all .3s ease-in-out;
+    font-weight: 500;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.elementor-65496 .elementor-element.elementor-element-ad417bd a:hover{
+    font-weight: 600;
+    background: #edeff2;
+}/* End custom CSS */
+/* Start custom CSS for icon-list, class: .elementor-element-80995f2 */.elementor-65496 .elementor-element.elementor-element-80995f2{
+    display: inline-block;
+}
+.elementor-65496 .elementor-element.elementor-element-80995f2 a{
+    transition:all .3s ease-in-out;
+    font-weight: 500;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.elementor-65496 .elementor-element.elementor-element-80995f2 a:hover{
+    font-weight: 600;
+    background: #edeff2;
+}/* End custom CSS */
+/* Start custom CSS for icon-list, class: .elementor-element-e83f5f3 */.elementor-65496 .elementor-element.elementor-element-e83f5f3{
+    display: inline-block;
+}
+.elementor-65496 .elementor-element.elementor-element-e83f5f3 a{
+    transition:all .3s ease-in-out;
+    font-weight: 500;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.elementor-65496 .elementor-element.elementor-element-e83f5f3 a:hover{
+    font-weight: 600;
+    background: #edeff2;
+}/* End custom CSS */
+/* Start custom CSS for social-icons, class: .elementor-element-e053e32 */.elementor-65496 .elementor-element.elementor-element-e053e32 a i{
+    transition:all .3s ease-in-out;
+}/* End custom CSS */
+/* Start custom CSS for icon-list, class: .elementor-element-c0fd037 */.elementor-65496 .elementor-element.elementor-element-c0fd037 a span{
+    color:#fb713f!important;
+}
+.elementor-65496 .elementor-element.elementor-element-c0fd037 a span:hover{
+    color:#444444!important;
+}/* End custom CSS */
+.elementor-66672 .elementor-element.elementor-element-cc09db1:not(.elementor-motion-effects-element-type-background), .elementor-66672 .elementor-element.elementor-element-cc09db1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#fb713f;background-image:url("https://www.zipwhip.com/wp-content/uploads/2019/02/zw-orange-modal-header-background.jpg");}.elementor-66672 .elementor-element.elementor-element-cc09db1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:2em 0em 2em 0em;}.elementor-66672 .elementor-element.elementor-element-cc09db1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-66672 .elementor-element.elementor-element-3d896ba.elementor-widget-heading .elementor-heading-title{color:#ffffff;}#elementor-popup-modal-66672 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-66672{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-66672 .dialog-close-button{display:block;}#elementor-popup-modal-66672 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}
+.elementor-64456 .elementor-element.elementor-element-c4cf5b1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-64456 .elementor-element.elementor-element-c4cf5b1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-64456 .elementor-element.elementor-element-41c1d30 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-64456 .elementor-element.elementor-element-41c1d30 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-64456 .elementor-element.elementor-element-aa83b5b{padding:30px 30px 30px 30px;}.elementor-64456 .elementor-element.elementor-element-5f41cb0{text-align:center;}/* Start custom CSS for image, class: .elementor-element-91f1e01 */.elementor-64456 .elementor-element.elementor-element-91f1e01{
+    position:relative;
+    overflow: hidden;
+    max-height:250px;
+}
+.elementor-64456 .elementor-element.elementor-element-91f1e01 img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%
+}/* End custom CSS */
+body { overflow-x: hidden; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-default > .elementor-row { width: calc(100% + 20px); margin-left: -10px; margin-right: -10px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-narrow > .elementor-row { width: calc(100% + 10px); margin-left: -5px; margin-right: -5px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-extended > .elementor-row { width: calc(100% + 30px); margin-left: -15px; margin-right: -15px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-wide > .elementor-row { width: calc(100% + 40px); margin-left: -20px; margin-right: -20px; }
+.elementor-section.elementor-columns-alignment-fix-enabled > .elementor-column-gap-wider > .elementor-row { width: calc(100% + 60px); margin-left: -30px; margin-right: -30px; }
+</style>
+
+<link rel="stylesheet" id="eci-icon-fonts-css" href="https://www.zipwhip.com/wp-content/uploads/autoptimize/css/autoptimize_single_6b669dfc7c5aaab2493dcbe3a275505e.css?ver=1549411175" type="text/css" media="all">
+<script type="text/javascript" src="https://www.zipwhip.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+
+<script type="text/javascript" src="https://www.zipwhip.com/wp-content/themes/zipwhip/assets/zipwhip.min.js?ver=5.2"></script>
+<link rel="https://api.w.org/" href="https://www.zipwhip.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.zipwhip.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.zipwhip.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2">
+<link rel="shortlink" href="https://www.zipwhip.com/?p=72">
+<link rel="alternate" type="application/json+oembed" href="https://www.zipwhip.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zipwhip.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.zipwhip.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zipwhip.com%2Fprivacy%2F&amp;format=xml">
+ 		<script>
+ 			 				// Inline our JS files
+!function(e){"use strict";var n=function(n,t,o){var i,r=e.document,d=r.createElement("link");if(t)i=t;else{var a=(r.body||r.getElementsByTagName("head")[0]).childNodes;i=a[a.length-1]}var l=r.styleSheets;d.rel="stylesheet",d.href=n,d.media="only x",function e(n){if(r.body)return n();setTimeout(function(){e(n)})}(function(){i.parentNode.insertBefore(d,t?i:i.nextSibling)});var f=function(e){for(var n=d.href,t=l.length;t--;)if(l[t].href===n)return e();setTimeout(function(){f(e)})};function s(){d.addEventListener&&d.removeEventListener("load",s),d.media=o||"all"}return d.addEventListener&&d.addEventListener("load",s),d.onloadcssdefined=f,f(s),d};"undefined"!=typeof exports?exports.loadCSS=n:e.loadCSS=n}("undefined"!=typeof global?global:this);
+				// Also inline all of the contents from fontfaceobserver.js
+!function(){"use strict";var t,e=[];function n(){for(;e.length;)e[0](),e.shift()}function o(t){this.a=i,this.b=void 0,this.f=[];var e=this;try{t(function(t){!function t(e,n){if(e.a==i){if(n==e)throw new TypeError;var o=!1;try{var r=n&&n.then;if(null!=n&&"object"==typeof n&&"function"==typeof r)return void r.call(n,function(n){o||t(e,n),o=!0},function(t){o||a(e,t),o=!0})}catch(t){return void(o||a(e,t))}e.a=0,e.b=n,s(e)}}(e,t)},function(t){a(e,t)})}catch(t){a(e,t)}}t=function(){setTimeout(n)};var i=2;function r(t){return new o(function(e){e(t)})}function a(t,e){if(t.a==i){if(e==t)throw new TypeError;t.a=1,t.b=e,s(t)}}function s(n){!function(n){e.push(n),1==e.length&&t()}(function(){if(n.a!=i)for(;n.f.length;){var t=(r=n.f.shift())[0],e=r[1],o=r[2],r=r[3];try{0==n.a?o("function"==typeof t?t.call(void 0,n.b):n.b):1==n.a&&("function"==typeof e?o(e.call(void 0,n.b)):r(n.b))}catch(t){r(t)}}})}o.prototype.g=function(t){return this.c(void 0,t)},o.prototype.c=function(t,e){var n=this;return new o(function(o,i){n.f.push([t,e,o,i]),s(n)})},window.Promise||(window.Promise=o,window.Promise.resolve=r,window.Promise.reject=function(t){return new o(function(e,n){n(t)})},window.Promise.race=function(t){return new o(function(e,n){for(var o=0;o<t.length;o+=1)r(t[o]).c(e,n)})},window.Promise.all=function(t){return new o(function(e,n){function o(n){return function(o){a[n]=o,(i+=1)==t.length&&e(a)}}var i=0,a=[];0==t.length&&e(a);for(var s=0;s<t.length;s+=1)r(t[s]).c(o(s),n)})},window.Promise.prototype.then=o.prototype.c,window.Promise.prototype.catch=o.prototype.g)}(),function(){function t(t,e){document.addEventListener?t.addEventListener("scroll",e,!1):t.attachEvent("scroll",e)}function e(t){this.a=document.createElement("div"),this.a.setAttribute("aria-hidden","true"),this.a.appendChild(document.createTextNode(t)),this.b=document.createElement("span"),this.c=document.createElement("span"),this.h=document.createElement("span"),this.f=document.createElement("span"),this.g=-1,this.b.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.c.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.f.style.cssText="max-width:none;display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;",this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;max-width:none;",this.b.appendChild(this.h),this.c.appendChild(this.f),this.a.appendChild(this.b),this.a.appendChild(this.c)}function n(t,e){t.a.style.cssText="max-width:none;min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;white-space:nowrap;font-synthesis:none;font:"+e+";"}function o(t){var e=t.a.offsetWidth,n=e+100;return t.f.style.width=n+"px",t.c.scrollLeft=n,t.b.scrollLeft=t.b.scrollWidth+100,t.g!==e&&(t.g=e,!0)}function i(e,n){function i(){var t=r;o(t)&&t.a.parentNode&&n(t.g)}var r=e;t(e.b,i),t(e.c,i),o(e)}function r(t,e){var n=e||{};this.family=t,this.style=n.style||"normal",this.weight=n.weight||"normal",this.stretch=n.stretch||"normal"}var a=null,s=null,c=null,d=null;function f(){return null===d&&(d=!!document.fonts),d}function l(){if(null===c){var t=document.createElement("div");try{t.style.font="condensed 100px sans-serif"}catch(t){}c=""!==t.style.font}return c}function u(t,e){return[t.style,t.weight,l()?t.stretch:"","100px",e].join(" ")}r.prototype.load=function(t,o){var r=this,c=t||"BESbswy",d=0,l=o||3e3,h=(new Date).getTime();return new Promise(function(t,o){if(f()&&!function(){if(null===s)if(f()&&/Apple/.test(window.navigator.vendor)){var t=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))(?:\.([0-9]+))/.exec(window.navigator.userAgent);s=!!t&&603>parseInt(t[1],10)}else s=!1;return s}()){var p=new Promise(function(t,e){!function n(){(new Date).getTime()-h>=l?e(Error(l+"ms timeout exceeded")):document.fonts.load(u(r,'"'+r.family+'"'),c).then(function(e){1<=e.length?t():setTimeout(n,25)},e)}()}),m=new Promise(function(t,e){d=setTimeout(function(){e(Error(l+"ms timeout exceeded"))},l)});Promise.race([m,p]).then(function(){clearTimeout(d),t(r)},o)}else!function(t){document.body?t():document.addEventListener?document.addEventListener("DOMContentLoaded",function e(){document.removeEventListener("DOMContentLoaded",e),t()}):document.attachEvent("onreadystatechange",function e(){"interactive"!=document.readyState&&"complete"!=document.readyState||(document.detachEvent("onreadystatechange",e),t())})}(function(){function s(){var e;(e=-1!=w&&-1!=v||-1!=w&&-1!=y||-1!=v&&-1!=y)&&((e=w!=v&&w!=y&&v!=y)||(null===a&&(e=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent),a=!!e&&(536>parseInt(e[1],10)||536===parseInt(e[1],10)&&11>=parseInt(e[2],10))),e=a&&(w==g&&v==g&&y==g||w==b&&v==b&&y==b||w==x&&v==x&&y==x)),e=!e),e&&(E.parentNode&&E.parentNode.removeChild(E),clearTimeout(d),t(r))}var f=new e(c),p=new e(c),m=new e(c),w=-1,v=-1,y=-1,g=-1,b=-1,x=-1,E=document.createElement("div");E.dir="ltr",n(f,u(r,"sans-serif")),n(p,u(r,"serif")),n(m,u(r,"monospace")),E.appendChild(f.a),E.appendChild(p.a),E.appendChild(m.a),document.body.appendChild(E),g=f.a.offsetWidth,b=p.a.offsetWidth,x=m.a.offsetWidth,function t(){if((new Date).getTime()-h>=l)E.parentNode&&E.parentNode.removeChild(E),o(Error(l+"ms timeout exceeded"));else{var e=document.hidden;!0!==e&&void 0!==e||(w=f.a.offsetWidth,v=p.a.offsetWidth,y=m.a.offsetWidth,s()),d=setTimeout(t,50)}}(),i(f,function(t){w=t,s()}),n(f,u(r,'"'+r.family+'",sans-serif')),i(p,function(t){v=t,s()}),n(p,u(r,'"'+r.family+'",serif')),i(m,function(t){y=t,s()}),n(m,u(r,'"'+r.family+'",monospace'))})})},"object"==typeof module?module.exports=r:(window.FontFaceObserver=r,window.FontFaceObserver.prototype.load=r.prototype.load)}();
+				// Async load the CSS file
+				loadCSS('//use.typekit.net/kqz0lad.css');
+
+				// When the font loads, as the .fonts-loaded class to the <html> element
+				var font = new FontFaceObserver('proxima-nova');
+				font.load().then(function () {
+					var expires = new Date(+new Date() + (7 * 24 * 60 * 60 * 1000)).toUTCString();
+					document.cookie = 'fontsLoaded=true; expires=' + expires;
+					document.documentElement.className += ' fonts-loaded';
+				});
+					</script><link rel="stylesheet" href="//use.typekit.net/kqz0lad.css" media="all">
+ 	<link rel="icon" href="https://www.zipwhip.com/wp-content/uploads/2018/10/cropped-zw-mark-color-1-270x270-150x150.png" sizes="32x32">
+<link rel="icon" href="https://www.zipwhip.com/wp-content/uploads/2018/10/cropped-zw-mark-color-1-270x270.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.zipwhip.com/wp-content/uploads/2018/10/cropped-zw-mark-color-1-270x270.png">
+<meta name="msapplication-TileImage" content="https://www.zipwhip.com/wp-content/uploads/2018/10/cropped-zw-mark-color-1-270x270.png">
+
+	<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-KZQQJN');</script>
+	<!-- End Google Tag Manager -->
+	<meta name="ahrefs-site-verification" content="54d7a4ff9f392759eef5e8926953f7c0ce18a607ed3ec3da959a3c6974b90cdf">
+<script>
+// Start Visual Website Optimizer Asynchronous Code
+
+var _vwo_code=(function(){
+var account_id=398323,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+	
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=398323&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190521031432id_%2Fhttps%3A%2F%2Fwww.zipwhip.com%2Fprivacy%2F&amp;r=0.716134387273615" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<style title="cherry-collected-dynamic-style" type="text/css">body:not(.jet-mobile-menu-active) .jet-menu-item-64064 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-64064 > .jet-sub-mega-menu {width:250px !important;; }body:not(.jet-mobile-menu-active) .jet-menu-item-65267 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-65267 > .jet-sub-mega-menu {width:600px !important;; }body:not(.jet-mobile-menu-active) .jet-menu-item-64067 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-64067 > .jet-sub-mega-menu {width:500px !important;; }</style></head>
+<body data-rsssl="1" class="page-template-default page page-id-72 elementor-default elementor-page elementor-page-72">
+<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZQQJN"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+		<div data-elementor-type="header" data-elementor-id="79" class="elementor elementor-79 elementor-bc-flex-widget elementor-location-header" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-d5cbfb2 elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d5cbfb2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d38d8ef elementor-column elementor-col-100 elementor-top-column" data-id="d38d8ef" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1423c7a elementor-icon-list--layout-inline elementor-align-right elementor-widget elementor-widget-icon-list" data-id="1423c7a" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://app.zipwhip.com/login">					<span class="elementor-icon-list-text">Log In</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://support.zipwhip.com/s/">					<span class="elementor-icon-list-text">Support</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/blog/">					<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<header class="elementor-element elementor-element-8ccb63d elementor-section-content-middle elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8ccb63d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7f3b5dee elementor-column elementor-col-25 elementor-top-column" data-id="7f3b5dee" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b39f90c elementor-widget elementor-widget-image" data-id="b39f90c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.zipwhip.com" data-elementor-open-lightbox="">
+							<img width="1" height="1" src="https://www.zipwhip.com/wp-content/uploads/2018/10/zw-logo-color.svg" class="attachment-large size-large" alt="">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2bb20ed8 elementor-column elementor-col-50 elementor-top-column" data-id="2bb20ed8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-de7fe70 elementor-widget elementor-widget-jet-mega-menu" data-id="de7fe70" data-element_type="widget" data-widget_type="jet-mega-menu.default">
+				<div class="elementor-widget-container">
+			<div class="menu-main-menu-new-container"><div class="jet-menu-container"><div class="jet-menu-inner"><ul class="jet-menu jet-preset-100 jet-menu--animation-type-move-down "><li id="jet-menu-item-64064" class="jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-mega-menu-item jet-mega-menu-position-relative-item jet-regular-item jet-menu-item-has-children jet-menu-item-64064"><a href="#" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Product</div><i class="jet-dropdown-arrow fa fa-angle-down"></i></div></a><div class="jet-sub-mega-menu">		<div data-elementor-type="post" data-elementor-id="64074" class="elementor elementor-64074 elementor-bc-flex-widget" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-80fdbd1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="80fdbd1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b0dd508 elementor-column elementor-col-100 elementor-top-column" data-id="b0dd508" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1f4ada5 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="1f4ada5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/features/">					<span class="elementor-icon-list-text">Features</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/integrations/">					<span class="elementor-icon-list-text">Integrations</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/landline-texting/">					<span class="elementor-icon-list-text">Landline Texting</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/api/">					<span class="elementor-icon-list-text">API</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/downloads/">					<span class="elementor-icon-list-text">Download Our Apps</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/clicktotext/">					<span class="elementor-icon-list-text">Click-to-Text</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></li>
+<li id="jet-menu-item-65267" class="jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-mega-menu-item jet-mega-menu-position-relative-item jet-regular-item jet-menu-item-has-children jet-menu-item-65267"><a href="#" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Solutions</div><i class="jet-dropdown-arrow fa fa-angle-down"></i></div></a><div class="jet-sub-mega-menu">		<div data-elementor-type="post" data-elementor-id="65268" class="elementor elementor-65268" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-05737f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="05737f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d131c6d elementor-column elementor-col-50 elementor-top-column" data-id="d131c6d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2109ede elementor-widget elementor-widget-heading" data-id="2109ede" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Type</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-011e61e elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="011e61e" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/small-medium-business/">					<span class="elementor-icon-list-text">Small Business</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/enterprise/">					<span class="elementor-icon-list-text">Enterprise</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/franchise/">					<span class="elementor-icon-list-text">Franchise</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/compliance/">					<span class="elementor-icon-list-text">Compliance</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1af3dc7 elementor-column elementor-col-50 elementor-top-column" data-id="1af3dc7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4d9ee0a elementor-widget elementor-widget-heading" data-id="4d9ee0a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Industry</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-254844e elementor-section-content-top elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="254844e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ccce514 elementor-column elementor-col-33 elementor-inner-column" data-id="ccce514" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a13d2e9 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="a13d2e9" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/industries/dealerships/">					<span class="elementor-icon-list-text">Automotive</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/financial-services/">					<span class="elementor-icon-list-text">Finance</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/fitness/">					<span class="elementor-icon-list-text">Fitness</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/insurance/">					<span class="elementor-icon-list-text">Insurance</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-42eca05 elementor-column elementor-col-33 elementor-inner-column" data-id="42eca05" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d1c5c06 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="d1c5c06" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/industries/legal/">					<span class="elementor-icon-list-text">Legal</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/medical/">					<span class="elementor-icon-list-text">Medical</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/radio/">					<span class="elementor-icon-list-text">Radio</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/retail/">					<span class="elementor-icon-list-text">Retail</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-954e8c6 elementor-column elementor-col-33 elementor-inner-column" data-id="954e8c6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dbe628b elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="dbe628b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/industries/sports/">					<span class="elementor-icon-list-text">Sports</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/staffing/">					<span class="elementor-icon-list-text">Staffing</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/veterinary/">					<span class="elementor-icon-list-text">Veterinary</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></li>
+<li id="jet-menu-item-64065" class="jet-menu-item jet-menu-item-type-post_type jet-menu-item-object-page jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-64065"><a href="https://www.zipwhip.com/pricing/" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Pricing</div></div></a></li>
+<li id="jet-menu-item-73482" class="jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-73482"><a href="/customers/" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Customers</div></div></a></li>
+<li id="jet-menu-item-64067" class="jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-mega-menu-item jet-mega-menu-position-relative-item jet-regular-item jet-menu-item-has-children jet-menu-item-64067"><a href="#" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Resources</div><i class="jet-dropdown-arrow fa fa-angle-down"></i></div></a><div class="jet-sub-mega-menu">		<div data-elementor-type="post" data-elementor-id="64082" class="elementor elementor-64082 elementor-bc-flex-widget" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-5694279 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5694279" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1c5ebbe animated-fast elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="1c5ebbe" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInDown&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-624ebbf elementor-widget elementor-widget-heading" data-id="624ebbf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Education</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8df7a3e elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="8df7a3e" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/resource-center/">					<span class="elementor-icon-list-text">Resource Center</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/blog/">					<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a6bd67b animated-fast elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="a6bd67b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInDown&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d298070 elementor-widget elementor-widget-heading" data-id="d298070" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Support</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-714c588 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="714c588" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://support.zipwhip.com/s/" target="_blank">					<span class="elementor-icon-list-text">Help Center</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://developers.zipwhip.com/">					<span class="elementor-icon-list-text">Developer Center</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/downloads/">					<span class="elementor-icon-list-text">Download Our Apps</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></li>
+<li id="jet-menu-item-64073" class="mobile-only jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-64073"><a title="Log In" href="https://app.zipwhip.com/login" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Log In</div></div></a></li>
+<li id="jet-menu-item-64071" class="mobile-only jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-64071"><a target="_blank" href="https://support.zipwhip.com/s/" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Support</div></div></a></li>
+<li id="jet-menu-item-64384" class="mobile-only jet-menu-item jet-menu-item-type-post_type jet-menu-item-object-page jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-64384"><a href="https://www.zipwhip.com/blog/" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Blog</div></div></a></li>
+<li id="jet-menu-item-64072" class="mobile-only jet-menu-item jet-menu-item-type-custom jet-menu-item-object-custom jet-no-roll-up jet-simple-menu-item jet-regular-item jet-menu-item-64072"><a href="/freetrial/" class="top-level-link"><div class="jet-menu-item-wrapper"><div class="jet-menu-title">Sign Up</div></div></a></li>
+</ul></div></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-79b03b2e elementor-column elementor-col-25 elementor-top-column" data-id="79b03b2e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5096b80 elementor-align-right elementor-tablet-align-right elementor-hidden-phone elementor-widget elementor-widget-global elementor-global-247 elementor-widget-button" data-id="5096b80" data-element_type="button.default" data-widget_type="global.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY2NjcyIiwidG9nZ2xlIjpmYWxzZX0%3D" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Try For Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</header>
+						</div>
+			</div>
+		</div>
+		<section id="content" role="main">
+		<div data-elementor-type="post" data-elementor-id="72" class="elementor elementor-72 elementor-bc-flex-widget" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-fbe26f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fbe26f2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b9ed709 elementor-column elementor-col-100 elementor-top-column" data-id="b9ed709" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-924edfa elementor-widget elementor-widget-heading" data-id="924edfa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Privacy Policy</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-20d8901 elementor-widget elementor-widget-text-editor" data-id="20d8901" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><div class="vc_custom_1491856567083 border-color-gyho-color row-container" data-parent="true" data-section="0"><div class="row quad-top-padding quad-bottom-padding single-h-padding limit-width row-parent" data-imgready="true"><div class="row-inner"><div class="pos-top pos-left align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light font-762333"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="uncode_text_column"><p><strong>Privacy Policy</strong></p><p><strong>Revised and Effective: December 9, 2017</strong></p><p><strong>Version 2.3</strong></p><p>Zipwhip, Inc. (“<strong>Company</strong>“) appreciates your trust and is committed to protecting your privacy.&nbsp; We have prepared this Privacy Policy to describe to you what data we collect, why we do so, and what we do with it. It applies to the personal information we collect from users of our website located at&nbsp;<a href="https://www.zipwhip.com/">https://www.zipwhip.com</a>(the “<strong>Site</strong>“), our Application Program Interfaces (collectively the “<strong>API</strong>“), our downloadable software applications (to include mobile applications) (each, an “<strong>Application</strong>“), and online services available therein (the “<strong>Services</strong>“).</p><ol><li><strong>Questions; Contacting Company; Reporting Violations</strong>. If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at&nbsp; the following address or phone number:</li></ol><p>Zipwhip, Inc.</p><p>1501 1st Ave South<br>Suite 500<br>Seattle, WA 98134</p><p><a href="tel:+18559479447">1-855-ZIPWHIP (947-9447)</a></p><ol start="2"><li><strong>Types of Data We Collect.</strong></li></ol><p><strong>(a)&nbsp;</strong>We collect personal information from users or prospective customers during their use of the website, use of our products, or communication with our employees. This includes: (1) basic data passed during text message transmission (including, but not limited to, message content, photos, files, and message count/volume), (2) information entered in website forms or when creating or using accounts, (3) mobile device information including mobile devise identification, service provider, and location, (4) payment information, and (5) information or feedback provided through e-mail, voice, letter, or online posting. We also collect data (including phone number, transmission, and message data) from general text messaging users who send messages to users of Company Services.</p><p><strong>(b)&nbsp;&nbsp;</strong>We also collect information using technology. We gather (1) clicking, browsing, and use data/patterns (including, but not limited to, information gathered through “cookies” and “pixel tags” as well as information about your IP address, browser, internet service provider, pages, operating system, date/time stamps, and clickstream data), (2) information about your mobile device, use of our app, or app performance and (3) information (via “pixel tags”) about how emails we have sent have been accessed. Third party advertisers or data analytics providers also gather similar information and/or match this information to that from other sources.</p><ol start="3"><li><strong>Use of Your Information</strong></li></ol><p><strong>(a)&nbsp; General Use.&nbsp;&nbsp;</strong>In general, personal information you submit to us is used to provide the Services, for our direct marketing purposes, to respond to requests that you make, or to aid us in serving you better. We will also use the information to contact you via e-mail or phone call for (1) phone number verification, (2) marketing/promotional purposes, (3) enrollment/activation activities, (5) response to your request/inquiry, (6) encouraging or enabling your use of the Services including, but not limited to, specific features, (7) billing inquiries, (8) to address possible inappropriate use, or at our Company”s discretion, (9) to provide users material updates related to the Services.</p><p><strong>(b) User Feedback.</strong>&nbsp; If you provide us with feedback, we may post it on the Site or our blog from time to time.&nbsp; (We love to share positive customer experiences!) If we desire to post your full first and full last name along with the feedback, we will ensure that we obtain your consent prior to posting.</p><p><strong>(c)&nbsp; Creation of Anonymous Data.&nbsp;&nbsp;</strong>We may create anonymous data records from personal information by excluding information that makes the data personally identifiable to you or your business.&nbsp; We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.</p><ol start="4"><li><strong>Disclosure of Your Personal Information.&nbsp;</strong>We disclose your personal information as described below and as described elsewhere in this Privacy Policy.</li></ol><p><strong>(a)&nbsp; Third Parties Designated by You.</strong>&nbsp; When you use the Services, the personal information you provide will be shared with the third parties that you designate to receive it (for example, the person you are texting).</p><p><strong>(b)&nbsp; Third Party Service Providers.&nbsp;&nbsp;</strong>We may share your personal information with third party service providers:&nbsp; (1) to provide you with the Services that we offer you through our Site, (2) to enable message transmission, (3) to conduct quality assurance testing or audits, (4) for our own marketing purposes, (5) to facilitate enrollment and creation of accounts, (6) to provide technical support, (7) to facilitate data storage, (8) for billing, (9) to manage sales accounts, and/or (10) to provide other services to our Company.&nbsp; These third party service providers are required to not use your personal information other than to provide the services requested by our Company.</p><p><strong>(c)&nbsp;&nbsp; Public Profile.&nbsp;&nbsp;</strong>Profile information, such as your profile photo, name, and telephone number, may be shared between users of Zipwhip Services when communicating via text-enabled landlines.</p><p><strong>(d)&nbsp; Corporate Restructuring.&nbsp;</strong>&nbsp;We may share some or all of your personal information in connection with or during negotiation of any merger or change in ownership of all or a portion of our business or assets.</p><p><strong>(e) Marketing</strong>.&nbsp; Personal information will not be used for third party marketing purposes with the following exceptions:&nbsp; (1) Third party analytics companies or advertisers on our website may collect and use information via their own technical tools such as cookies. This policy does not apply to, and we are not responsible for, cookies used by analytics companies or in third party ads. We encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:&nbsp;<a href="http://www.networkadvertising.org/">http://www.networkadvertising.org</a>. And, (2) third parties may track and record user clicking/browsing data as related to retargeting display adds.</p><p><strong>(f) &nbsp;Other Disclosures</strong>.&nbsp; Regardless of any choices you make regarding your personal information (as described below), our Company may disclose your personal information if it believes in good faith that such disclosure is necessary (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Company; (iii) to protect or defend the rights or property of Company or users of the Application or Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.</p><ol start="5"><li><strong>Your Choices Regarding Your Information.&nbsp;</strong>You have several choices regarding use of information on our Services:</li></ol><p><strong>(a)&nbsp; Email Communications.&nbsp;&nbsp;</strong>You may indicate a preference to stop receiving further marketing e-mail from us and may “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communications.</p><p><strong>(b)&nbsp; Changing Your Personal Information</strong>.&nbsp; You may change certain elements of personal information in your Account by logging into the Site. You may requested deletion of your personal information by us, and at our discretion, we may use commercially reasonable efforts to honor your request; but, please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).&nbsp; When we delete any information, it will be deleted from the active database, but may remain in our archives.&nbsp; We may also retain your information for fraud prevention or similar purposes.</p><ol start="6"><li><strong>Security of Your Personal information.&nbsp;</strong>Your security matters to us. We use a variety of security technologies and procedures designed to help protect your personal information from unauthorized access, use, or disclosure.</li><li><strong>Information from Children.</strong>&nbsp;From time to time as part of a special Zipwhip promotion, such as “texting to Santa,” we may request information from children under 13 years of age. We will take all necessary steps to protect the privacy and safety of any child participating in these activities in accordance with the Children’s Online Privacy Protection Act (COPPA).</li><li><strong>Obtaining Verifiable Parental Consent.</strong>&nbsp;We will use reasonable effort to obtain verifiable parental consent prior to the collection and use of personally identifiable information from children under 13. The method of parental consent verification may vary according to the event in which the child wishes to participate. Means of obtaining such consent may include, but are not limited to, offline consent such as printing and submitting a permission form by mail or fax or online consent that contains information that enables Zipwhip to verify the identity of the parent.</li><li><strong>Parental Review.</strong>&nbsp;Zipwhip will allow parents to review any personal information collected from their children, based on verifying the identity of the consenting parent. Parents may revoke their consent and delete information collected from their children at their discretion. In such event, Zipwhip will then stop collecting, using, or disclosing information from that child, and will end that child’s participation in that event.</li><li><strong>When Parental Consent is not Required.</strong>&nbsp;We do not require parental consent in order to collect and use information texted to Zipwhip to:</li></ol><ul><li>Respond more than once directly to a specific request from a child and not used to re-contact the child beyond the scope of the child’s request (e.g. a response to a child’s text to Santa);</li><li>Request the name or online contact information of a parent for the sole purpose of obtaining a verifiable parental consent or providing parental notification; or</li><li>Respond directly to a child’s request on a one-time basis to a specific request where the information is not used for purposes other than the event (e.g. Santa’s response to a child’s text request).</li></ul><p>Texts received from children under the age of 13 will not be used for any purpose unrelated to a particular event; each will only be stored long enough to complete the event and will be promptly deleted thereafter from Zipwhip databases.</p><ol start="11"><li><strong>Changes to This Privacy Policy.&nbsp;</strong>This Privacy Policy is subject to occasional revision. When changes are made, the Company will make a new copy of the Privacy Policy available at the Site.&nbsp; Any changes to this Privacy Policy will be effective upon thirty (30) calendar days following our posting of the changes on our Site.&nbsp; These changes will be effective immediately for new users of our Service.&nbsp; If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us.&nbsp; Continued use of our Site, Application or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</li></ol></div></div></div></div></div></div></div></div></div><div class="vc_custom_1491856703312 border-color-gyho-color row-container" data-parent="true" data-section="2"><div class="row col-double-gutter double-top-padding double-bottom-padding single-h-padding limit-width row-parent" data-imgready="true"><div class="row-inner"><div class="pos-top pos-center align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="uncode_text_column">&nbsp;</div></div></div></div></div></div></div></div></div></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-768dea88 elementor-section-stretched elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="768dea88" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5c037a45 elementor-column elementor-col-100 elementor-top-column" data-id="5c037a45" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-65877ae elementor-widget elementor-widget-global elementor-global-65771 elementor-widget-heading" data-id="65877ae" data-element_type="heading.default" data-widget_type="global.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Start Texting With a Free Trial of Zipwhip</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2cfe5a3 elementor-align-center elementor-tablet-align-right elementor-mobile-align-center elementor-widget elementor-widget-global elementor-global-65763 elementor-widget-button" data-id="2cfe5a3" data-element_type="button.default" data-widget_type="global.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY2NjcyIiwidG9nZ2xlIjpmYWxzZX0%3D" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Try For Free</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</section>
+<div class="clear"></div>
+
+<footer id="footer" role="contentinfo">
+			<div data-elementor-type="footer" data-elementor-id="65496" class="elementor elementor-65496 elementor-bc-flex-widget elementor-location-footer" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-90fdfaf elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="90fdfaf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4e75887 elementor-column elementor-col-100 elementor-top-column" data-id="4e75887" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-ba22e8c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="ba22e8c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9de28d9 elementor-column elementor-col-20 elementor-inner-column" data-id="9de28d9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-838abfd elementor-widget elementor-widget-image" data-id="838abfd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="/" data-elementor-open-lightbox="">
+							<img width="80" height="80" src="https://www.zipwhip.com/wp-content/uploads/2019/01/Zipwhip-logo-only.png" class="attachment-large size-large" alt="Zipwhip Logo">								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f7302ec elementor-widget elementor-widget-html" data-id="f7302ec" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			Text or call<br> (855) 947-9447		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7e70b3f elementor-column elementor-col-20 elementor-inner-column" data-id="7e70b3f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3880c24 elementor-widget elementor-widget-heading" data-id="3880c24" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Product</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8a99b45 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="8a99b45" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/features/">					<span class="elementor-icon-list-text">Features</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/integrations/">					<span class="elementor-icon-list-text">Integrations</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/api/">					<span class="elementor-icon-list-text">API</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/clicktotext/">					<span class="elementor-icon-list-text">Click-to-Text</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/pricing/">					<span class="elementor-icon-list-text">Pricing</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-013c551 elementor-column elementor-col-20 elementor-inner-column" data-id="013c551" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-dee5aa2 elementor-widget elementor-widget-heading" data-id="dee5aa2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solutions</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ad417bd elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="ad417bd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/small-medium-business/">					<span class="elementor-icon-list-text">Small Business</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/enterprise/">					<span class="elementor-icon-list-text">Enterprise</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/compliance/">					<span class="elementor-icon-list-text">Compliance</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/industries/">					<span class="elementor-icon-list-text">Industries</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-376fd47 elementor-column elementor-col-20 elementor-inner-column" data-id="376fd47" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e98d74d elementor-widget elementor-widget-heading" data-id="e98d74d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Resources</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-80995f2 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="80995f2" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/blog/">					<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/resource-center/">					<span class="elementor-icon-list-text">Resource Center</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/downloads/">					<span class="elementor-icon-list-text">Download Our Apps</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://developers.zipwhip.com/">					<span class="elementor-icon-list-text">Developers</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://support.zipwhip.com/s/" target="_blank">					<span class="elementor-icon-list-text">Support</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5dfc222 elementor-column elementor-col-20 elementor-inner-column" data-id="5dfc222" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2d3de31 elementor-widget elementor-widget-heading" data-id="2d3de31" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Company</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e83f5f3 elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="e83f5f3" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="/company/">					<span class="elementor-icon-list-text">About Us</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://boards.greenhouse.io/zipwhip" target="_blank">					<span class="elementor-icon-list-text">Careers</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/press/">					<span class="elementor-icon-list-text">Press</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/contact-us/">					<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5c7d802 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5c7d802" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2ae4c59 elementor-column elementor-col-50 elementor-top-column" data-id="2ae4c59" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e053e32 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="e053e32" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter" href="https://twitter.com/zipwhip" target="_blank" rel="nofollow">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fa fa-twitter"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook" href="https://www.facebook.com/zipwhip/" target="_blank" rel="nofollow">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fa fa-facebook"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin" href="https://www.linkedin.com/company/zipwhip" target="_blank" rel="nofollow">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fa fa-linkedin"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram" href="https://www.instagram.com/zipwhip/?hl=en" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fa fa-instagram"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube" href="https://www.youtube.com/channel/UCmXzy-dVYeZfymeUDyLjj5A" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fa fa-youtube"></i>
+				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-99b0aca elementor-column elementor-col-50 elementor-top-column" data-id="99b0aca" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c0fd037 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-icon-list" data-id="c0fd037" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item">
+					<a href="/terms/">					<span class="elementor-icon-list-text">Terms</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="/privacy/">					<span class="elementor-icon-list-text">Privacy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">© 2019 Zipwhip</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</footer>
+		<div data-elementor-type="popup" data-elementor-id="66672" class="elementor elementor-66672 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInUp&quot;,&quot;prevent_scroll&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-cc09db1 modal-cta elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="cc09db1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-263e1b9 elementor-column elementor-col-100 elementor-top-column" data-id="263e1b9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3d896ba text-center elementor-widget elementor-widget-heading" data-id="3d896ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Try Zipwhip Today</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-0688546 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0688546" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-341d036 elementor-column elementor-col-100 elementor-top-column" data-id="341d036" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f1a8738 elementor-widget elementor-widget-html" data-id="f1a8738" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<form id="mktoForm_1524"></form>
+<script>Zipwhip.loadForm("//app-ab30.marketo.com", "013-HWD-293", 1524, function(f){
+document.dispatchEvent(Zipwhip.makeEvent('modalLoaded'));
+  f.onSuccess(function(){
+    dataLayer.push({
+      event: "formSubmit",
+      eventCategory: "Form",
+      eventAction: "Sales request",
+      eventLabel: "Free Trial",
+    });
+    window.VWO = window.VWO || [];
+	window.VWO.push(['track.goalConversion',7]);
+	window.VWO.push(['nls.formAnalysis.markSuccess', f.getFormElem(), 1]);
+	window._vis_opt_queue = window._vis_opt_queue || [];
+	window._vis_opt_queue.push(function() {_vis_opt_goal_conversion(201);});
+    jQuery('.modal-cta').hide();
+    jQuery('#mktoForm_1524').parent().html('<h2 class="text-center">Thank you, your request was sent!</h2><div class="sub-heading"><p class="text-center">We will review your info and get in touch shortly.</p><p class="text-center">Stay up to date with all of Zipwhip’s news, announcements, and other random thoughts on our <a href="https://zipwhip.com/blog/" target="_blank" rel="noopener">blog</a> and <a href="https://www.linkedin.com/company/zipwhip" target="_blank" rel="noopener">LinkedIn</a> page.</p></div>');
+    return false;
+  });
+
+});</script>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+/* <![CDATA[ */
+var wp_load_style = ["zw_main_stylesheet.css","wp-block-library.css","essential_addons_elementor-slick-css.css","essential_addons_elementor-css.css","essential_addons_lightbox-css.css","jet-menu-public.css","cherry-handler-css.css","jet-menu-100.css","elementor-icons.css","font-awesome.css","elementor-animations.css","elementor-frontend.css","elementor-pro.css","eci-icon-fonts.css"];
+var wp_load_script = ["zw_main_js.js","cherry-js-core.js","disqus_count.js","eael-scripts.js","essential_addons_elementor-data-table-js.js","jquery.js","jet-menu-public.js","cherry-handler-js.js"];
+var cherry_ajax = "8acc71d7da";
+var ui_init_object = {"auto_init":"false","targets":[]};
+var CherryCollectedCSS = {"type":"text\/css","title":"cherry-collected-dynamic-style","css":"body:not(.jet-mobile-menu-active) .jet-menu-item-64064 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-64064 > .jet-sub-mega-menu {width:250px !important;; }body:not(.jet-mobile-menu-active) .jet-menu-item-65267 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-65267 > .jet-sub-mega-menu {width:600px !important;; }body:not(.jet-mobile-menu-active) .jet-menu-item-64067 > a {padding-top:10px !important; padding-right:10px !important; padding-bottom:10px !important; padding-left:10px !important; }.jet-menu-item-64067 > .jet-sub-mega-menu {width:500px !important;; }"};
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+function CherryCSSCollector(){"use strict";var t,e=window.CherryCollectedCSS;void 0!==e&&(t=document.createElement("style"),t.setAttribute("title",e.title),t.setAttribute("type",e.type),t.textContent=e.css,document.head.appendChild(t))}CherryCSSCollector();
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"zipwhip"};
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var jetMenuPublicSettings = {"menuSettings":{"jetMenuRollUp":"false","jetMenuMouseleaveDelay":"400","jetMenuMegaWidthType":"selector","jetMenuMegaWidthSelector":"body","jetMenuMegaOpenSubType":"hover","jetMenuMobileBreakpoint":"980"}};
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var jet_menu_save_options_ajax = {"action":"jet_menu_save_options_ajax","nonce":"55350d0ebd","type":"POST","data_type":"json","is_public":"false","sys_messages":{"invalid_base_data":"Unable to process the request without nonce or server error","no_right":"No right for this action","invalid_nonce":"Stop CHEATING!!!","access_is_allowed":"","wait_processing":"Please wait, processing the previous request"}};
+var jet_menu_restore_options_ajax = {"action":"jet_menu_restore_options_ajax","nonce":"8f023aca9b","type":"POST","data_type":"json","is_public":"false","sys_messages":{"invalid_base_data":"Unable to process the request without nonce or server error","no_right":"No right for this action","invalid_nonce":"Stop CHEATING!!!","access_is_allowed":"","wait_processing":"Please wait, processing the previous request"}};
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.zipwhip.com\/wp-admin\/admin-ajax.php","nonce":"f4c08526de","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+
+
+
+
+
+<script type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.5.14","urls":{"assets":"https:\/\/www.zipwhip.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":72,"title":"Privacy Policy","excerpt":""}};
+</script>
+
+
+<script type="text/javascript" defer="" src="https://www.zipwhip.com/wp-content/uploads/autoptimize/js/autoptimize_bb98f7a6c0113a9bf0038a4c9fb7d218.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9466466533","applicationID":"260420783","transactionName":"YQBSYEZZVkFSAhVaVlhKcVdAUVdcHBEAVFw=","queueTime":0,"applicationTime":1101,"atts":"TUdRFg5DRU8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
