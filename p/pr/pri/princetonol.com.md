@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012085402id_/https%3A//princetonol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521160929id_/https%3A//princetonol.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Privacy Policy
 
