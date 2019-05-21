@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528205024id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521151305id_/https%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha Bank
+
+##  Privacy Policy 
 
 ##  On-Line Privacy Policy
 
@@ -101,7 +103,7 @@ If you have any questions or comments about our Policy and/or the way it affects
 
 
 > Mutual of Omaha Bank  
->  3333 Farnam St  
+>  1299 Farnam Street, Suite 1400  
 >  Omaha, NE 68131
 > 
 > Attention: Bank Compliance
