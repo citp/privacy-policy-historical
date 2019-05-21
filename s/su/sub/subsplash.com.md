@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211205816id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521060141id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy — Subsplash.com | Engage your audience like never before.
 
@@ -6,7 +6,7 @@
 
 [Cliquez ici pour le français/Click here for French](https://web.archive.org/privacy-french)
 
-Last updated May 24, 2018. Version 3.6
+Last updated March 04, 2019. Version 3.7
 
 This privacy policy describes the collection, use, protection, disclosure, correction and deletion of your personal information by Subsplash.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.  Your privacy is a priority at Subsplash, and we go to great lengths to protect it.
 
@@ -19,9 +19,13 @@ Subsplash may update its privacy policy from time to time.  When we change the 
 We collect your personal information because:
 
   * It helps Subsplash deliver the Subsplash Account Services;
+
   * It helps Subsplash deliver a superior level of customer service;
+
   * It enables Subsplash to give you convenient access to our products and services and focus on categories of greatest interest to you;
+
   * It helps Subsplash keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about. If you do not want Subsplash to keep you up to date with Subsplash news, software updates and the latest information on products and services please send an email request to privacy@subsplash.com.
+
 
 
 
@@ -32,10 +36,15 @@ If you wish to utilize Subsplash Account Services, Subsplash needs your informat
 Also, there are a number of situations in which your personal information may help us give you better service.  For example:
 
   * We may ask for your personal information when you’re discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product;
+
   * When you interact with Subsplash, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the Subsplash products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue;
+
   * We collect information regarding customer activities on our websites and applications.  This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them;
+
   * When you visit the Subsplash mobile application, we may ask you to opt in to allow us to use GPS technology (or other similar technology) to determine your current location for purposes of reporting on user activity and engagement.  If you do not want us to use your location for the purposes set forth above, you should not opt in or turn off the location services for the Subsplash mobile application located in your account settings or in your mobile phone settings and/or within the mobile application;
+
   * We may use personal information to provide products and/or services that you have requested as well as for auditing, research, and analysis to improve Subsplash’s products.
+
 
 
 
@@ -75,7 +84,7 @@ Like many services, Google Analytics uses first-party cookies to track visitor i
 
 We also may use other Google Analytics tools, such as Demographics and Interest Reporting, which enable us to learn more about the characteristics and interests of the users who visit our Site, and Remarketing with Google Analytics, which enables us to provide relevant advertising on different websites and online services.
 
-Google Analytics collects information anonymously.  It reports website trends without identifying individual visitors.  You can opt out of Google analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across websites you use, visit this [Google page](https://tools.google.com/dlpage/gaoptout). 
+Google Analytics collects information anonymously.  It reports website trends without identifying individual visitors.  You can opt out of Google analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across websites you use, visit this [Google page](https://tools.google.com/dlpage/gaoptout). 
 
 We use this information, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
@@ -109,9 +118,9 @@ If the event that any dispute between you and Subsplash regarding your personal 
 
 The following provisions govern information collected in reliance on the EU-U.S. Privacy Shield Framework Principles for transfers of personal data from the EU to the United States.  Subsplash adheres to the Privacy Shield Principles (“Principles”) and is committed to subject to the Principles all personal data received from the EU in reliance on the Privacy Shield.  Individuals from whom Subsplash collects personal information under the Privacy Shield have the right to access their personal data by contacting Subsplash at privacy@subsplash.com. As a result of certification to the Privacy Shield, Subsplash is subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body.
 
-You may access the Privacy Shield List [here. ](https://www.privacyshield.gov/list)
+You may access the Privacy Shield List [here. ](https://www.privacyshield.gov/list)
 
- **Notice and Choice**
+**Notice and Choice**
 
 When Subsplash collects personal information from individuals, it may share this information with its client organizations or third parties as described above in the Privacy Policy. Individuals should review the privacy policy of the client organization. Individuals will have the choice of signing up for Subsplash services or not.  A link to the Subsplash privacy policy will be provided when individuals are first asked to provide personal information when opting in to Subsplash services.
 
@@ -121,6 +130,7 @@ In instances in which Subsplash is not the controller or collector of the person
 
 Subsplash will not make disclosures of personal information to third parties without notifying individuals that such disclosure may be made.  In those instances in which Subsplash collects personal information from individuals, prior to disclosing personal information to a third party, Subsplash shall notify the individual of the fact that their information may be disclosed. If individuals do not wish to have their personal information disclosed to any third parties, the individual should not register for such Subsplash services.  With regard to Subsplash Giving, donor information will be shared with the Gift Recipient. The Gift Recipient may utilize a third party for purposes of receipt and management of such information and donors should review the privacy policies of Gift Recipient in this regard. In the case of third parties (e.g., churches) for whom Subsplash gathers personal information, Subsplash shall enter into a contract that provides that such data may only be processed for limited and specified purposes consistent with consent provided and that such third party will provide the same level of protection as is required by the Principles.  For third party agent recipients (e.g., payment processors) of personal information, Subsplash shall: transfer only such data for limited and specified purposes; ascertain that the agent is obligated to provide at least the same level of privacy protection as is required by the Principles, and; upon notice, take reasonable and appropriate steps to stop and remediate unauthorized processing.
 
+  
  **Data Security**
 
 Subsplash shall take reasonable steps to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Subsplash has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Subsplash cannot guarantee the security of information on or transmitted via the Internet.
@@ -147,7 +157,7 @@ c) GDPR (General Data Protection Regulation)
 
 The GDPR replaces Directive 95/46/EC and becomes enforceable on May 25, 2018. The following statement is intended to supplement the preceding discussion of the EU-U.S. Privacy Shield. As to personal data collected and controlled by Subsplash, subject to the qualifications and limitations stated in the preceding discussion, EU data subjects retain their full rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions. As to personal data collected by third parties, and as to which Subsplash is a mere processor, EU data subjects should contact the controller (e.g., church or ministry) with regard to their rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions.  Such rights may be subject to certain qualifications and limitations as stated in the discussion of EU-US Privacy Shield.
 
-Our Data Processing Officer—Justin Lohman—will assist EU residents with these requests free of charge and may be contacted at privacy@subsplash.com.
+Our Data Processing Officers will assist EU residents with these requests free of charge and may be contacted at privacy@subsplash.com.
 
 Subsplash understands that the adoption of global data security practices is not a one-time activity.  Subsplash’s “privacy by design” approach requires that our default user data protection levels be at the highest setting by default. In the unlikely event of breach, Subsplash will notify data subjects and Supervisory Authorities (SAs) in the EU according to procedures provided in GDPR Articles 33 and 34.
 
@@ -163,10 +173,10 @@ If you are communicating with or making a donation to any organization or instit
 
 ### Inquires, complaints, and dispute resolution
 
-If you wish to verify, correct or delete any personal information we have collected, or if you have any questions or concerns, or if you have any complaints, please contact privacy@subsplash.com. If there is a dispute between you and Subsplash regarding your personal information or this policy, you agree to use reasonable efforts to resolve such dispute with Subsplash informally and to consult and negotiate with Subsplash in good faith to reach a fair and equitable solution.  
+If you wish to verify, correct or delete any personal information we have collected, or if you have any questions or concerns, or if you have any complaints, please contact privacy@subsplash.com. If there is a dispute between you and Subsplash regarding your personal information or this policy, you agree to use reasonable efforts to resolve such dispute with Subsplash informally and to consult and negotiate with Subsplash in good faith to reach a fair and equitable solution. 
 
 ### Privacy questions
 
 If you have questions or concerns about Subsplash’s privacy policy, please contact our Privacy Officer.  Our Privacy Officer can be contacted at:
 
-Subsplash, Inc. 3257 16th Ave W, Seattle, Washington, USA 98119 or [privacy@subsplash.com](mailto:privacy@subsplash.com)
+Subsplash, Inc. 3257 16th Ave W, Seattle, Washington, USA 98119 or privacy@subsplash.com
