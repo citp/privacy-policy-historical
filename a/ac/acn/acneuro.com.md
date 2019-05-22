@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120211223id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522170718id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
 
 # ACN Europe Privacy Policy
 
@@ -49,7 +49,7 @@ ACN will not contact You by telephone or email to request information such as cr
 
 **Use of Cookies**
 
-Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You visit the website again or visit a new page on the same website. We also use Cookies to measure how You use our websites so that We can make sure that they meet your needs. The first time You visit one of our websites, You will receive notice about our use of Cookies. You can control whether or not your computer accepts Cookies, by adjusting your browser’s settings (for example, under the “Internet Options”, “Settings” or “Preferences” feature of your browser). Please, note, however, that refusing to accept Cookies may affect your experience using our websites. For more information about how to manage or delete Cookies, please go to the website [www.allaboutcookies.org](https://web.archive.org/web/20181120211223id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/www.allaboutcookies.org).
+Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You visit the website again or visit a new page on the same website. We also use Cookies to measure how You use our websites so that We can make sure that they meet your needs. The first time You visit one of our websites, You will receive notice about our use of Cookies. You can control whether or not your computer accepts Cookies, by adjusting your browser’s settings (for example, under the “Internet Options”, “Settings” or “Preferences” feature of your browser). Please, note, however, that refusing to accept Cookies may affect your experience using our websites. For more information about how to manage or delete Cookies, please go to the website [www.allaboutcookies.org](https://web.archive.org/web/20190522170718id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/www.allaboutcookies.org).
 
 **How Do We Use Your Personal Data?**
 
