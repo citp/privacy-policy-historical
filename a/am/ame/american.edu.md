@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105113616id_/https%3A//american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523001553id_/https%3A//american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
 
 # Web Copyright | Office of Information Technology | American University, Washington, DC
+
+Office of Information Technology 4400 Massachusetts Avenue NW Washington, DC 20016-8019 United States
+
+Back to top 
 
 ## Copyright Statement
 
