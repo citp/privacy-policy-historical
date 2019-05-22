@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115181516id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougowords.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522203211id_/http%3A//www.yougowords.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - You Go Words!
 
@@ -9,7 +9,6 @@ Your information is used solely for the purpose of You Go Words, You Go Rhymes a
 I hope you enjoy the privacy I provide on this website, and my other personal projects. If you have any concerns or questions, please ensure you contact me or leave feedback in the comment areas throughout this website.
 
 Thank You,  
-[James Cordeiro](https://plus.google.com/+JamesCordeiro/about)  
 You Go Words
 
 ### My Policy
@@ -82,10 +81,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:  
 [You Go Words!  
 http://www.yougowords.com](http://www.yougowords.com/)  
-James A. Cordeiro Direct: james@yougomedia.com  
-(204) 869-6297  
-support@yougowords.com
+0 info@yougowords.com
 
-This document was last updated on June 6th, 2018
+This document was last updated on December 12th, 2018
 
 loading...
