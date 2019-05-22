@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230150156id_/https%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522192928id_/https%3A//www.accountingweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AccountingWEB
 
