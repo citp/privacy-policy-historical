@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028041419id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calm.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522223444id_/https%3A//www.calm.com/privacy) for the most accurate reproduction.*
 
 # Calm - Privacy Policy
 
@@ -8,89 +8,51 @@ We acquire, hold, use, and process Personal Information about Individuals for a 
 
 We may use information about you to fulfill requests for products, Services, or information, including information about potential or future Services, including to:
 
-• 
+• Generally manage Individual information and Accounts
 
-Generally manage Individual information and Accounts
+• Respond to questions, comments, and other requests
 
-• 
+• Provide access to certain areas, functionalities, and features of Calm’s Services
 
-Respond to questions, comments, and other requests
+• Contact you to answer requests for customer support or technical support
 
-• 
-
-Provide access to certain areas, functionalities, and features of Calm’s Services
-
-• 
-
-Contact you to answer requests for customer support or technical support
-
-• 
-
-Allow you to register for events
+• Allow you to register for events
 
 ### Administrative Purposes
 
 We may use Personal Information about you for administrative purposes, including to:
 
-• 
+• Measure interest in Calm’s Services
 
-Measure interest in Calm’s Services
+• Develop new products and Services
 
-• 
+• Ensure internal quality control
 
-Develop new products and Services
+• Verify Individual identity
 
-• 
+• Communicate about Individual Accounts and activities on our Services and systems, and, in Calm’s discretion, changes to any Calm policy
 
-Ensure internal quality control
+• Send email to the email address you provide to us to verify your Account and for informational and operational purposes, such as Account management, customer service, or system maintenance
 
-• 
+• Process payment for products or services purchased
 
-Verify Individual identity
+• Process applications and transactions
 
-• 
-
-Communicate about Individual Accounts and activities on our Services and systems, and, in Calm’s discretion, changes to any Calm policy
-
-• 
-
-Send email to the email address you provide to us to verify your Account and for informational and operational purposes, such as Account management, customer service, or system maintenance
-
-• 
-
-Process payment for products or services purchased
-
-• 
-
-Process applications and transactions
-
-• 
-
-Prevent potentially prohibited or illegal activities
+• Prevent potentially prohibited or illegal activities
 
 ### Marketing Calm Products and Services
 
 We may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. We may provide you with these materials by phone, postal mail, facsimile, or email, as permitted by applicable law. Such uses include:
 
-• 
+• To tailor content, advertisements, and offers
 
-To tailor content, advertisements, and offers
+• To notify you about offers, products, and services that may be of interest to you
 
-• 
+• To provide Services to you and our sponsors
 
-To notify you about offers, products, and services that may be of interest to you
+• For other purposes disclosed at the time that Individuals provide Personal Information, or
 
-• 
-
-To provide Services to you and our sponsors
-
-• 
-
-For other purposes disclosed at the time that Individuals provide Personal Information, or
-
-• 
-
-Otherwise with your consent
+• Otherwise with your consent
 
 You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in this Privacy Policy.
 
