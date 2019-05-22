@@ -1,37 +1,315 @@
-<!--The following is the downloaded HTML source of the firstfederal.com privacy policy that was archived on 2018-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180908025239id_/https%3A//www.southstatebank.com/help/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstfederal.com privacy policy that was archived on 2019-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522113615id_/https%3A//www.southstatebank.com/help/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="no-js"><!--<![endif]--><head>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/aquant.js?a=p-HqfERPdE02gnT" async="" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KV86HBN"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000148606" domain=".southstatebank.com" session-timeout="86400000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+  (function(BEJSSDKObserver, $, undefined) {
+    var observer = void 0;
+    var listeners = [];
+    var readySet = [];
+    var doc = window.document;
+    var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+    function checkSelector(selector, fn, indexList) {
+      var elements = doc.querySelectorAll(selector);
+  /**
+    issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+    elements = Array.from(elements);
+
+    */
+    for (var i = 0, len = elements.length; i < len; i++) {
+      /* -1 means all instances */
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      for (var j = 0; j < readySet.length; j++) {
+        if (readySet[j] == element.className || readySet[j] == element.id) {
+          return;
+        }
+      }
+      if (element.className) {
+        readySet.push(element.className);
+      }
+      if (element.id) {
+        readySet.push(element.id);
+      }
+
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+        fn.call(element, element);
+      }
+    }
+  }
+
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+      return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
+
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
+
+/**
+ * Fire event on first js selector
+ * @param selector string to watch on
+ * @param fn       callback function
+ * @param index_list can be undefined which means only first one
+ *                   or -1 which means all
+ *                   or a list of allowable indexes
+ */
+ BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+  if (index_list === undefined) {
+    index_list = [];
+    index_list.push(0);
+  }
+
+  if (MutationObserver != null) {
+    if (!observer) {
+      observer = new MutationObserver(checkListeners);
+      observer.observe(doc.documentElement, {
+        childList: true,
+        subtree: true
+      });
+    }
+    listeners.push({ selector: selector, fn: fn, indexList: index_list });
+  } else {
+    /* <= IE8 */
+    if (!document.addEventListener) {
+      /* log("<=IE8 attachEvent assignment"); */
+      document.addEventListener = document.attachEvent;
+    }
+    document.addEventListener("DOMContentLoaded", function(event) {
+      var elements = doc.querySelectorAll(selector);
+      for (var i = 0, len = elements.length; i < len; i++) {
+        /* -1 means all instances */
+        if (index_list != -1 && !(i in index_list)) {
+          continue;
+        }
+        var element = elements[i];
+        element.ready = true;
+        fn.call(element, element);
+      }
+    });
+  }
+
+  checkSelector(selector, fn, index_list);
+  return function () {
+    return removeListener(selector, fn);
+  };
+};
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
+
+if (window.BELinkBlockGenerator === undefined) {
+  (function(BELinkBlockGenerator, $, undefined) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
+
+    BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+    BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+    BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+    BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
+
+    BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+    BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+    BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+    BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+
+    BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+      BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+    };
+
+    BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+      BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+    };
+
+    BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+      var link_level_element_tag = linkStructure[0];
+      var link_level_element = document.createElement(link_level_element_tag);
+      var link_attribute_dictionary = linkStructure[1];
+      var allowable_elements = linkStructure[2];
+      var children_link_structures = linkStructure[3];
+      for (var link_attribute_key in link_attribute_dictionary) {
+        link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+      }
+
+      var added_something = false;
+      if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+        link_level_element.setAttribute('href', link.url);
+        added_something = true;
+      }
+      if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+        var headline_text = link.h1;
+        if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+          headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+        }
+        var text_node = document.createTextNode(headline_text);
+        link_level_element.appendChild(text_node);
+        added_something = true;
+      }
+      if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+        var desc_text = link.desc;
+        if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+          desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+        }
+        var text_node = document.createTextNode(desc_text);
+        link_level_element.appendChild(text_node);
+        added_something = true;
+      }
+      if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+        link_level_element.setAttribute('src', link.image);
+        added_something = true;
+      }
+/**
+    don't emit for empty links, desc, headline, image
+    except for parent structures where allowable_length=0
+    */
+    if (!added_something && allowable_elements.length != 0) {
+
+      return;
+    }
+    /* go depth first */
+    for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+      var childLinkStructure = children_link_structures[childrenIndex];
+      BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+    }
+    parentElement.appendChild(link_level_element);
+  };
+
+  BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                   titleStructure) {
+    if (targetElement == null) {
+      return;
+    }
+
+    if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+      while (targetElement.firstChild) {
+        targetElement.removeChild(targetElement.firstChild);
+      }
+    }
+
+    var previousElement = targetElement;
+    for (var i=0;i<overallStructure.length;i++) {
+      var level_definition = overallStructure[i];
+      var level_element_tag = level_definition[0];
+      var level_element = document.createElement(level_element_tag);
+      var attribute_dictionary = level_definition[1];
+      for (var attribute_key in attribute_dictionary) {
+        level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+      }
+
+      /* need to place title structure */
+      if (titleStructure && titleStructure[0] == i) {
+        var title_element_tag = titleStructure[1];
+        var title_element = document.createElement(title_element_tag);
+        var title_attribute_dictionary = titleStructure[2];
+        var title_text_content = titleStructure[3];
+        for (var title_attribute_key in title_attribute_dictionary) {
+          title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+        }
+
+        var title_text_node = document.createTextNode(title_text_content);
+        title_element.appendChild(title_text_node);
+
+
+        level_element.appendChild(title_element);
+      }
+
+      /* last level place links */
+      if (i == overallStructure.length-1) {
+        for (var link_i=0; link_i < links.length; link_i++) {
+          var link = links[link_i];
+          for (var linkStructureIndex=0;linkStructureIndex < linkStructure.length; linkStructureIndex++) {
+            BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+          }
+        }
+      }
+
+      /* first level child we need to check placement */
+      if (previousElement == targetElement) {
+        if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+          /* 2 means insert right before */
+          previousElement.insertBefore(level_element, targetElement.firstChild);
+        } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+          /* 3 means insert right before at parent level */
+          var parentElement = previousElement.parentElement;
+          parentElement.insertBefore(level_element, previousElement);
+        } else {
+          previousElement.appendChild(level_element);
+        }
+      } else {
+        previousElement.appendChild(level_element);
+      }
+      previousElement = level_element;
+    }
+  };
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}))
+};
+</script>
+<style>
+.be-ix-link-block .three-column-cta{background:0 0}
+.be-ix-link-block .be-label{font:30px/35px lemonde-courrier,serif;text-align:center}
+.be-ix-link-block .be-related-link-container .column{height:auto;text-align:left}
+</style>
+<script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000148606");
+      bec.setAttribute("domain", ".southstatebank.com");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
-<title>South State Privacy Notice - South State Bank</title>
+<title>South State Privacy Notice | South State Bank</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <meta name="format-detection" content="telephone=no">
 <meta name="p:domain_verify" content="676e2d38151f8e8dd50d92ba764bedf6">
-<link rel="icon" href="/favicon.ico?x11919" type="image/x-icon">
-<link rel="apple-touch-icon" sizes="57x57" href="/south-state-57x57.jpg?x11919">
-<link rel="apple-touch-icon" sizes="72x72" href="/south-state-72x72.jpg?x11919">
-<link rel="apple-touch-icon" sizes="114x114" href="/south-state-114x114.jpg?x11919">
-<link rel="apple-touch-icon" sizes="144x144" href="/south-state-144x144.jpg?x11919">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="/south-state-57x57.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/south-state-72x72.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/south-state-114x114.jpg">
+<link rel="apple-touch-icon" sizes="144x144" href="/south-state-144x144.jpg">
 
 <link rel="canonical" href="https://www.southstatebank.com/help/privacy-statement/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="South State Privacy Notice - South State Bank">
+<meta property="og:title" content="South State Privacy Notice | South State Bank">
 <meta property="og:description" content="Regardless of changes in technology and information, South State Bank has always been-and will continue to be-committed to the principles...">
 <meta property="og:url" content="https://www.southstatebank.com/help/privacy-statement/">
 <meta property="og:site_name" content="South State Bank">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/aquant.js?a=p-HqfERPdE02gnT" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MS8BV2"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.southstatebank.com\/","sameAs":[],"@id":"https:\/\/www.southstatebank.com\/#organization","name":"South State Bank","logo":""}</script>
+<meta property="article:publisher" content="https://www.facebook.com/SouthStateBank/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.southstatebank.com/","sameAs":["https://www.facebook.com/SouthStateBank/","https://www.instagram.com/southstatebank/?hl=en","https://www.linkedin.com/company/south-state-bank/","https://www.pinterest.com/southstatebank/","https://twitter.com/SouthStateBank"],"@id":"https://www.southstatebank.com/#organization","name":"South State Bank","logo":""}</script>
 
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="South State Bank » Feed" href="https://www.southstatebank.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="South State Bank » Comments Feed" href="https://www.southstatebank.com/comments/feed/">
-<link rel="stylesheet" id="southstate-main-css" href="https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/css/style.css?x11919" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.southstatebank.com/internet/wp-content/cache/minify/6475c.css" media="all">
 <!--[if IE]>
-<link rel='stylesheet' id='southstate-ie-css'  href='https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/css/ie.css?x11919' type='text/css' media='all' />
+<link rel='stylesheet' id='southstate-ie-css'  href='https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="hopscotch-styles-css" href="https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/css/hopscotch.css?x11919" type="text/css" media="all">
-<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/4eb32.js?x11919"></script>
+<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/4eb32.js"></script>
 <link rel="https://api.w.org/" href="https://www.southstatebank.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.southstatebank.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.southstatebank.com%2Fhelp%2Fprivacy-statement%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.southstatebank.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.southstatebank.com%2Fhelp%2Fprivacy-statement%2F&amp;format=xml">
@@ -40,6 +318,7 @@ border-bottom: 1px solid #4C4C4E;}
 th {color: #FFF; background: #033572; padding: 8px 8px;
 border-bottom: 1px solid #4C4C4E;}
 tr:hover {background: #F6F6F6;}</style>
+<style type="text/css">.wpupg-grid { transition: height 0.3s; }</style>
 
 <script>
     (function(h,o,t,j,a,r){
@@ -65,8 +344,23 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 /></noscript>
 
+<meta name="google-site-verification" content="9_CYsDOiuEVVK0oqC_X5zMIswTsHqL99npnjteAQCRo">
 <meta name="google-site-verification" content="fDI8mq8TCSKaqwbz0oxIE6tHSdk9XWg_uLkxxaGbLeA">
-<style type="text/css" id="wp-custom-css">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1391911-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1391911-12');
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KV86HBN');</script>
+<style type="text/css">.select2wpupg-selection, .select2wpupg-dropdown { border-color: #AAAAAA!important; }.select2wpupg-selection__arrow b { border-top-color: #AAAAAA!important; }.select2wpupg-container--open .select2wpupg-selection__arrow b { border-bottom-color: #AAAAAA!important; }.select2wpupg-selection__placeholder, .select2wpupg-search__field, .select2wpupg-selection__rendered, .select2wpupg-results__option { color: #444444!important; }.select2wpupg-search__field::-webkit-input-placeholder { color: #444444!important; }.select2wpupg-search__field:-moz-placeholder { color: #444444!important; }.select2wpupg-search__field::-moz-placeholder { color: #444444!important; }.select2wpupg-search__field:-ms-input-placeholder { color: #444444!important; }.select2wpupg-results__option--highlighted { color: #FFFFFF!important; background-color: #5897FB!important; }</style> <style type="text/css" id="wp-custom-css">
 			.home-pre-footer {padding:0;}		</style>
 <script type="text/javascript" src="//use.typekit.net/xop0hlb.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -86,34 +380,57 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 	}
 </script><meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/us/app/south-state-mobile-banking-for-ipad/id754670885?mt=8">
 
-<link rel="stylesheet" href="https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/css/smartbanner.min.css?x11919" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="https://www.southstatebank.com/internet/wp-content/cache/minify/fc376.css" media="all">
 <meta name="smartbanner:title" content="South State Mobile Banking">
 <meta name="smartbanner:author" content="South State Bank">
 <meta name="smartbanner:price" content="FREE">
 <meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
 <meta name="smartbanner:price-suffix-google" content=" - In Google Play">
-<meta name="smartbanner:icon-apple" content="http://a3.mzstatic.com/us/r30/Purple60/v4/c1/3b/b0/c13bb085-64c0-cc90-f97a-521b96963986/icon350x350.jpeg">
-<meta name="smartbanner:icon-google" content="http://lh3.ggpht.com/f4oX61ljZ6x8aYDELZOgxlvdUEu73-wSQ4fy5bx6fCRISnZP8T353wdaM43RO_DbGg=w300">
+<meta name="smartbanner:icon-apple" content="https://www.southstatebank.com/south-state-144x144.jpg?x68290">
+<meta name="smartbanner:icon-google" content="https://www.southstatebank.com/south-state-144x144.jpg?x68290">
 <meta name="smartbanner:button" content="View">
 <meta name="smartbanner:enabled-platforms" content="android,ios">
 
 
-<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/6badc.js?x11919"></script>
+<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/6badc.js"></script>
 <script type="text/javascript">
 	var onLoadHandlerForConflictTesting = function() {};
     window.onload = onLoadHandlerForConflictTesting;
  </script>
+
+<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/cf092.js"></script>
 </head>
 <body class="page-template-default page page-id-417 page-child parent-pageid-399">
+<script type="text/javascript">
+    function positionLinkBlock(targetContainer) {
+        if (targetContainer != null) {
+            var strLinkBlock = '<div class="three-column-cta three-col transparent wrap"><h3 class="be-label">Related Pages</h3><div class="be-related-link-container columns clear"><div class="column"><h4 class="headline">Mortgage</h4><p class="desc">From application to closing, we&#39;re here every step of the way. Let&#39;s get moving. Contact a South State mortgage lender today.</p><a class="be-related-link caps" href="https://www.southstatebank.com/mortgage/">Learn More</a></div><div class="column"><h4 class="headline">Security/Privacy Information</h4><p class="desc">We want to help you keep your personal data secure and educate you on the various ways you can protect yourself.</p><a class="be-related-link caps" href="https://www.southstatebank.com/help/securityprivacy-information-2/">Learn More</a></div><div class="column"><h4 class="headline">BUSINESS DEPOSIT ACCOUNT AGREEMENT</h4><p class="desc">BUSINESS DEPOSIT ACCOUNT AGREEMENT Printable PDF Table of Contents WELCOME TO SOUTH STATE BANK GENERAL LEGAL What is the purpose...</p><a class="be-related-link caps" href="https://www.southstatebank.com/businessaccountinformation/#_Toc459283016">Learn More</a></div></div></div>';
+            targetContainer.insertAdjacentHTML('afterbegin', strLinkBlock);
+        }
+    }
+ 
+    jsElementReady('.be-ix-link-block', positionLinkBlock)
+     
+</script>
+<ul id="be_sdkms_capsule_open" style="display:none!important">
+<li class="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.18</li>
+<li id="be_sdkms_capsule_connect_timer">47 ms</li>
+<li id="be_sdkms_capsule_index_time">iy_2019; im_05; id_22; ih_04; imh_21; i_epoch:1558524074970</li>
+<li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+<li id="be_sdkms_capsule_date_modified">py_2019; pm_05; pd_15; ph_08; pmh_27; p_epoch:1557934036615</li>
+</ul>
+<ul class="be_sdkms_node" style="display:none!important">
+<li class="be_sdkms_pub">link-block-publisher; link-block-publisher_link-block-publisher; bodystr</li>
+<li class="be_sdkms_date_modified">pn_tstr:Wed May 15 08:27:16 PST 2019; pn_epoch:1557934036615</li>
+<li class="be_sdkms_timer">0 ms</li>
+</ul>
+<ul id="be_sdkms_capsule" style="display:none!important">
+<li class="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.18</li>
+<li id="be_sdkms_original_url">https://www.southstatebank.com/help/privacy-statement/</li>
+<li id="be_sdkms_normalized_url">https://www.southstatebank.com/help/privacy-statement/</li>
+</ul>
 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MS8BV2"
-    height="0" width="0" style="display:none;visibility:hidden" title="Google tag manager"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
-    {'gtm.start': new Date().getTime(),event:'gtm.js'}
-    );var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MS8BV2');</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV86HBN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <a href="#maincontent" name="maincontent" id="skipnav">Skip to Main Content</a>
 <header class="global-header" id="SiteHeader">
@@ -138,6 +455,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <div class="select_wrap">
 <select name="login-type" id="TopLoginType" aria-labelledby="TopLoginType-destination">
 <option value="Online Banking" data-form="1">Online Banking</option>
+<option value="Treasury Navigator" data-form="7">Treasury Navigator</option>
 <option value="Business Link" data-form="2">Business Link</option>
 <option value="Credit Cards" data-form="3">Credit Cards</option>
 <option value="Mortgage" data-form="6">Mortgage Online</option>
@@ -147,9 +465,9 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </div>
 <div class="standard_form form_box form_1" data-form="1">
 <div class="message">
-<p>Online Banking is temporarily unavailable. We apologize for any inconvenience this may cause. As a reminder, you can also view your accounts using our Mobile App.</p>
+<p>Online Banking, Mobile Banking and Business Link are currently unavailable. We apologize for the inconvenience and are working to restore access.</p>
 </div>
-<form action="https://web13.secureinternetbank.com/pbi_pbi1151/login/remote/053200983" id="desktop_nav_form_online_banking" name="desktop_nav_form_online_banking" method="POST" class="fiserv_login_form form_online_banking_message" data-type="online" target="_self" autocomplete="off">
+<form action="https://web14.secureinternetbank.com/pbi_pbi1151/login/remote/053200983" id="desktop_nav_form_online_banking" name="desktop_nav_form_online_banking" method="POST" class="fiserv_login_form form_online_banking_message" data-type="online" target="_self" autocomplete="off">
 <label for="desktop_nav_form_1_username" id="desktop_nav_form_1_username_label" class="small" aria-hidden="true">Username</label>
 <input type="text" name="username" aria-labelled="desktop_nav_form_1_username_label" id="desktop_nav_form_1_username" autocomplete="off">
 <label for="desktop_nav_form_1_password" id="desktop_nav_form_1_password_label" class="small" aria-hidden="true">Password</label>
@@ -158,12 +476,19 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <input type="submit" class="button splash-login-submit" value="LOG IN">
 </form>
 </div>
+<div class="hidden_form form_box form_7" data-form="7">
+<div class="message">
+<a href="https://treasurynavigator.southstatebank.com/smallbusiness" id="desktop_hero_link_treasury_navigator_message" name="desktop_hero_link_treasury_navigator_message" rel="noindex, nofollow">Continue</a>
+</div>
+<a href="https://treasurynavigator.southstatebank.com/smallbusiness" id="desktop_hero_link_treasury_navigator" name="desktop_hero_link_treasury_navigator" rel="noindex, nofollow" class="button splash-login-submit form_treasury_navigator_message" target="_blank">LOG IN</a>
+</div>
 <div class="hidden_form form_box form_2" data-form="2">
 <div class="message">
-<p>Business Link and Business Link Mobile are temporarily unavailable. We apologize for any inconvenience this may cause.</p>
-<p><strong>&nbsp;</strong></p>
+<p><strong>Business Link will be disabled on May 3.</strong></p>
+<p>If you have not transitioned to Treasury Navigator, please call Treasury Management Client Support at (877) 840-8588.</p>
+<a href="https://web14.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983">Continue</a>
 </div>
-<form action="https://web13.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983" id="desktop_nav_form_business_link" name="desktop_nav_form_business_link" method="post" class="fiserv_login_form form_business_link_message" data-type="business" autocomplete="off">
+<form action="https://web14.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983" id="desktop_nav_form_business_link" name="desktop_nav_form_business_link" method="post" class="fiserv_login_form form_business_link_message" data-type="business" autocomplete="off">
 <label for="nmUID" id="desktop-header-login-2" class="small">Access ID</label>
 <input type="text" placeholder="Access ID" aria-labelledby="desktop-header-login-2" name="nmUID" required="" maxlength="19" autocomplete="off" id="desktop_nav_input_business_link">
 <input type="hidden" name="nmRTN" value="053200983">
@@ -211,7 +536,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </div>
 <div class="links">
 <a href="/help/online-education-center/">View our Online Demos</a>
-<a href="https://web13.secureinternetbank.com/pbi_pbi1151/enroll/053200983" rel="noindex, nofollow">Enroll Now for Online Banking</a>
+<a href="https://web14.secureinternetbank.com/pbi_pbi1151/enroll/053200983" rel="noindex, nofollow">Enroll Now for Online Banking</a>
 </div>
 </div>
 </div>
@@ -222,7 +547,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <div class="wrap">
 <a href="https://www.southstatebank.com/" class="logo" title="South State Bank">South State Bank</a>
 <div class="header-main-nav-right">
-<ul id="menu-main-menu" class="main-nav"><li id="menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-433"><a title="Personal" href="https://www.southstatebank.com/personal/">Personal</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Personal Banking" href="https://www.southstatebank.com/personal/personal-banking/">Personal Banking</a></strong> <ul> <li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a title="Checking Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/">Checking Accounts</a></li> <li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a title="Savings Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/">Savings Accounts</a></li> <li id="menu-item-11315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11315"><a title="Round Up To Save<sup>TM</sup>" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/round-up-to-save/">Round Up To Save<sup>TM</sup></a></li> <li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a title="Refer a Friend" href="https://www.southstatebank.com/personal/personal-banking/refer-a-friend/">Refer a Friend</a></li> <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a title="Rx Savings Program" href="https://www.southstatebank.com/personal/personal-banking/rx-card/">Rx Savings Program</a></li> <li id="menu-item-2511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2511"><a title="Overdraft Protection" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/overdraft-protection/">Overdraft Protection</a></li> <li id="menu-item-17599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17599"><a title="Order Checks" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/reorder-checks/">Order Checks</a></li> </ul><strong><a title="Help" href="https://www.southstatebank.com/help/">Help</a></strong> <ul> <li id="menu-item-6459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6459"><a title="Online Education Center" href="https://www.southstatebank.com/help/online-education-center/">Online Education Center</a></li> <li id="menu-item-6461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6461"><a title="Security/Privacy Information" href="https://www.southstatebank.com/help/securityprivacy-information-2/">Security/Privacy Information</a></li> <li id="menu-item-17924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17924"><a title="Travel Notification" href="https://www.southstatebank.com/faq/im-traveling-can-still-use-debit-card/">Travel Notification</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Online and Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/">Online and Mobile Banking</a></strong> <ul> <li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a title="Online Banking" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/">Online Banking</a></li> <li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a title="Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/mobile-banking/">Mobile Banking</a></li> </ul><strong><a title="Ways to Pay" href="https://www.southstatebank.com/personal/ways-to-pay/">Ways to Pay</a></strong> <ul> <li id="menu-item-20441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20441"><a title="Debit Cards" href="https://www.southstatebank.com/personal/ways-to-pay/debit-cards/">Debit Cards</a></li> <li id="menu-item-13953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13953"><a title="Digital Wallet" href="https://www.southstatebank.com/personal/ways-to-pay/digital-wallet/">Digital Wallet</a></li> <li id="menu-item-20575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20575"><a title="Popmoney<sup>®</sup>" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/popmoney/">Popmoney<sup>®</sup></a></li> <li id="menu-item-20448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20448"><a title="BillPay" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/online-bill-pay/">BillPay</a></li> <li id="menu-item-20446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20446"><a title="eBills" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/ebills/">eBills</a></li> <li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a title="Credit Cards" href="https://www.southstatebank.com/personal/personal-banking/credit-cards/">Credit Cards</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Personal Lending" href="https://www.southstatebank.com/personal/personal-lending/">Personal Lending</a></strong> <ul> <li id="menu-item-17825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17825"><a title="Home Equity Line of Credit" href="https://www.southstatebank.com/personal/personal-lending/home-equity-line-of-credit-2/">Home Equity Line of Credit</a></li> <li id="menu-item-12496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12496"><a title="Car Loans" href="https://www.southstatebank.com/personal/personal-lending/car-loans-2/">Car Loans</a></li> <li id="menu-item-11535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11535"><a title="Boat Loans" href="https://www.southstatebank.com/personal/personal-lending/boat-loans-2/">Boat Loans</a></li> <li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a title="Manufactured Housing Loans" href="https://www.southstatebank.com/personal/personal-lending/mobile-home-loans/">Manufactured Housing Loans</a></li> <li id="menu-item-12746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12746"><a title="RV Loans" href="https://www.southstatebank.com/personal/personal-lending/rv-loans/">RV Loans</a></li> <li id="menu-item-12747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12747"><a title="Motorcycle Loans" href="https://www.southstatebank.com/personal/personal-lending/motorcycle-loans/">Motorcycle Loans</a></li> <li id="menu-item-12748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12748"><a title="Personal Watercraft Loans" href="https://www.southstatebank.com/personal/personal-lending/personal-watercraft-loans/">Personal Watercraft Loans</a></li> <li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a title="Personal Loans" href="https://www.southstatebank.com/personal/personal-lending/personal-loans/">Personal Loans</a></li> <li id="menu-item-12961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12961"><a title="Personal Line of Credit" href="https://www.southstatebank.com/personal/personal-lending/personal-line-credit/">Personal Line of Credit</a></li> <li id="menu-item-15341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15341"><a title="Apply Now" href="https://umnasg7.umonitor.com/consumerloan/uLoan/welcome.do?auth=c5947ed87392d6ee">Apply Now</a></li> <li id="menu-item-15825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15825"><a title="Contact a Banker" href="https://www.southstatebank.com/personal/personal-lending/apply-for-a-personal-loan/">Contact a Banker</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2016/03/Boat-Loans-Promo-Pic.jpg?x11919"></div><strong>Great rates on Boat Loans</strong><p>Set sail on the boat of your dreams this summer with a South State boat loan.</p><a href="https://www.southstatebank.com/personal/personal-lending/boat-loans-2/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-759"><a title="Business" href="https://www.southstatebank.com/business/">Business</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Banking" href="https://www.southstatebank.com/business/business-financial-services/">Business Banking</a></strong> <ul> <li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a title="Checking Accounts" href="https://www.southstatebank.com/business/business-financial-services/business-checking-account/">Checking Accounts</a></li> <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a title="Savings Accounts" href="https://www.southstatebank.com/business/business-financial-services/business-savings-accounts/">Savings Accounts</a></li> </ul><strong><a title="Treasury Management" href="https://www.southstatebank.com/business/treasury-management/">Treasury Management</a></strong> <ul> <li id="menu-item-20444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20444"><a title="Cash Flow Solutions" href="https://www.southstatebank.com/business/treasury-management/cash-flow/">Cash Flow Solutions</a></li> <li id="menu-item-14613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14613"><a title="Merchant Services" href="https://www.southstatebank.com/business/treasury-management/cash-flow/receivables/merchant-services/">Merchant Services</a></li> <li id="menu-item-20445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20445"><a title="Information Management Solutions" href="https://www.southstatebank.com/business/treasury-management/information-management-solutions/">Information Management Solutions</a></li> <li id="menu-item-3131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3131"><a title="Risk Management Solutions" href="https://www.southstatebank.com/business/treasury-management/risk-management-solutions/">Risk Management Solutions</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Online Services" href="https://www.southstatebank.com/business/treasury-management/business-online-services/">Business Online Services</a></strong> <ul> <li id="menu-item-20438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20438"><a title="Treasury Navigator" href="https://www.southstatebank.com/business/treasury-management/business-online-services/treasury-navigator/">Treasury Navigator</a></li> <li id="menu-item-21178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21178"><a title="Online Banking" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-online-banking/">Online Banking</a></li> <li id="menu-item-20439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20439"><a title="Business Link Support" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-link-support/">Business Link Support</a></li> </ul><strong><a title="Ways to Pay" href="https://www.southstatebank.com/business/ways-to-pay-business/">Ways to Pay</a></strong> <ul> <li id="menu-item-20473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20473"><a title="Business Debit Cards" href="https://www.southstatebank.com/business/ways-to-pay-business/business-debit-cards/">Business Debit Cards</a></li> <li id="menu-item-21141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21141"><a title="Digital Wallet" href="https://www.southstatebank.com/business/ways-to-pay-business/business-digital-wallet/">Digital Wallet</a></li> <li id="menu-item-1399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1399"><a title="Credit Cards" href="https://www.southstatebank.com/business/business-loans/revolving-credit/business-credit-cards/">Credit Cards</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Lending" href="https://www.southstatebank.com/business/business-loans/">Business Lending</a></strong> <ul> <li id="menu-item-3169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3169"><a title="Revolving Credit" href="https://www.southstatebank.com/business/business-loans/revolving-credit/">Revolving Credit</a></li> <li id="menu-item-1384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a title="Term Loans" href="https://www.southstatebank.com/business/business-loans/term-loans/">Term Loans</a></li> <li id="menu-item-3701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3701"><a title="Construction Loans" href="https://www.southstatebank.com/business/business-loans/construction-loans/">Construction Loans</a></li> <li id="menu-item-1397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1397"><a title="Letters of Credit" href="https://www.southstatebank.com/business/business-loans/letters-of-credit/">Letters of Credit</a></li> <li id="menu-item-3171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3171"><a title="SBA Loans" href="https://www.southstatebank.com/business/business-loans/government-sponsored-loans/">SBA Loans</a></li> <li id="menu-item-16286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16286"><a title="Contact a Banker" href="https://www.southstatebank.com/business/business-loans/business-loan-inquiry-form/">Contact a Banker</a></li> </ul><strong><a title="Employee Benefits Solutions" href="https://www.southstatebank.com/business/employee-benefit-solutions/">Employee Benefits Solutions</a></strong> <ul> <li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1387"><a title="Retirement Plan Services" href="https://www.southstatebank.com/business/employee-benefit-solutions/retirement-plan-services/">Retirement Plan Services</a></li> <li id="menu-item-1388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a title="South State at Work" href="https://www.southstatebank.com/business/employee-benefit-solutions/south-state-at-work/">South State at Work</a></li> <li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a title="Health Savings Accounts" href="https://www.southstatebank.com/business/employee-benefit-solutions/health-savings-accounts/">Health Savings Accounts</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2018/02/Merchant-Promo.png?x11919"></div><strong>Merchant Services</strong><p>Switch now and purchase an Ingenico iCT220 for $99. Limited time offer! </p><a href="https://www.southstatebank.com/business/treasury-management-solutions/receivable-solutions/merchant-services/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-760"><a title="Mortgage" href="https://www.southstatebank.com/mortgage/">Mortgage</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Mortgage Loan Programs" href="https://www.southstatebank.com/mortgage/loan-programs/">Mortgage Loan Programs</a></strong> <ul> <li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a title="Conventional Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/conventional-mortgage/">Conventional Mortgages</a></li> <li id="menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a title="FHA/VA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/fha-va-loans/">FHA/VA Loans</a></li> <li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a title="Construction/Permanent Loans" href="https://www.southstatebank.com/mortgage/loan-programs/construction-loans/">Construction/Permanent Loans</a></li> <li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a title="Jumbo Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/jumbo-mortgage/">Jumbo Mortgages</a></li> <li id="menu-item-1407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1407"><a title="Lot Loans" href="https://www.southstatebank.com/mortgage/loan-programs/lot-loans/">Lot Loans</a></li> <li id="menu-item-1408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a title="USDA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/usda-loans/">USDA Loans</a></li> <li id="menu-item-1409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a title="Refinancing" href="https://www.southstatebank.com/mortgage/loan-programs/refinancing/">Refinancing</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Mortgage FAQs" href="https://www.southstatebank.com/mortgage/mortgage-faqs/">Mortgage FAQs</a></strong><strong><a title="Mortgage Calculator" href="https://www.southstatebank.com/personal/personal-banking/financial-tools/mortgage-calculator/">Mortgage Calculator</a></strong></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Find a Mortgage Loan Officer" href="https://www.southstatebank.com/mortgage/find-a-mortgage-loan-officer/">Find a Mortgage Loan Officer</a></strong><strong><a title="The Loan Process" href="https://www.southstatebank.com/mortgage/loan-process/">The Loan Process</a></strong><strong><a title="First Time Home Buyers" href="https://www.southstatebank.com/mortgage/first-time-home-buyer-loans/">First Time Home Buyers</a></strong><strong><a title="Apply Now" href="https://www.southstatebank.com/mortgage/#apply-now">Apply Now</a></strong></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2015/02/FirstTimeHomebuyer.jpg?x11919"></div><strong>Buying your first home?</strong><p>View helpful advice to guide you and answer any questions you may have.</p><a href="https://www.southstatebank.com/mortgage/first-time-home-buyer-loans/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1421"><a title="Wealth" href="https://www.southstatebank.com/wealth-management/">Wealth</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Private Wealth" href="https://www.southstatebank.com/wealth-management/private-wealth-management/">Private Wealth</a></strong> <ul> <li id="menu-item-17557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17557"><a title="Financial &amp; Estate Planning" href="https://www.southstatebank.com/wealth-management/private-wealth-management/financial-estate-planning/">Financial &amp; Estate Planning</a></li> <li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a title="Asset Management" href="https://www.southstatebank.com/wealth-management/asset-management-group/">Asset Management</a></li> <li id="menu-item-17552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17552"><a title="Trust Administration" href="https://www.southstatebank.com/wealth-management/private-wealth-management/trust-services/">Trust Administration</a></li> <li id="menu-item-17555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17555"><a title="Estate Settlement" href="https://www.southstatebank.com/wealth-management/private-wealth-management/estate-settlement/">Estate Settlement</a></li> <li id="menu-item-17558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17558"><a title="Find a Wealth Advisor" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#wealth-advisor">Find a Wealth Advisor</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Investment Services" href="https://www.southstatebank.com/wealth-management/investment-management/">Investment Services</a></strong> <ul> <li id="menu-item-17559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17559"><a title="Investments &amp; Financial Plans" href="https://www.southstatebank.com/wealth-management/investment-management/investments-financial-plans/">Investments &amp; Financial Plans</a></li> <li id="menu-item-17560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17560"><a title="Retirement Savings and Income" href="https://www.southstatebank.com/wealth-management/investment-management/retirement-savings-income/">Retirement Savings and Income</a></li> <li id="menu-item-17561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17561"><a title="Life Insurance and Long Term Care" href="https://www.southstatebank.com/wealth-management/investment-management/life-insurance-long-term-care/">Life Insurance and Long Term Care</a></li> <li id="menu-item-20443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20443"><a title="Guided Wealth Portfolios" href="https://www.southstatebank.com/wealth-management/guided-wealth-portfolios/">Guided Wealth Portfolios</a></li> <li id="menu-item-17562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17562"><a title="College Savings" href="https://www.southstatebank.com/wealth-management/products-services/investment-advice/college-savings-2/">College Savings</a></li> <li id="menu-item-17563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17563"><a title="Find an Investment Consultant" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#investment-consultant">Find an Investment Consultant</a></li> </ul><strong><a title="Private Banking" href="https://www.southstatebank.com/wealth-management/private-banker/">Private Banking</a></strong> <ul> <li id="menu-item-17564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17564"><a title="Find a Private Banker" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#private-banker">Find a Private Banker</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Find a Wealth Team Member" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee/">Find a Wealth Team Member</a></strong><strong><a title="Products &amp; Services" href="https://www.southstatebank.com/wealth-management/products-services/">Products &amp; Services</a></strong><strong><a title="Corporate &amp; Institutional Services" href="https://www.southstatebank.com/wealth-management/commercial-institutional-services/">Corporate &amp; Institutional Services</a></strong></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2018/07/Menu-Promo-Wealth.jpg?x11919"></div><strong>Guided Wealth Portfolios</strong><p>Investment independence at your fingertips. Guidance within reach. </p><a href="/wealth-management/guided-wealth-portfolios/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-1454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1454"><a title="Advice Center" href="https://www.southstatebank.com/advice-center-overview/">Advice Center</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Tools for Every Stage of Life" href="https://www.southstatebank.com/advice-center-overview/">Tools for Every Stage of Life</a></strong> <ul> <li id="menu-item-3966" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3966"><a title="Students" href="https://www.southstatebank.com/life-cycle/students/">Students</a></li> <li id="menu-item-3968" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3968"><a title="Working Professionals" href="https://www.southstatebank.com/life-cycle/working-professionals/">Working Professionals</a></li> <li id="menu-item-3970" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3970"><a title="Couples" href="https://www.southstatebank.com/life-cycle/couples/">Couples</a></li> <li id="menu-item-3969" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3969"><a title="Families" href="https://www.southstatebank.com/life-cycle/families/">Families</a></li> <li id="menu-item-3967" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3967"><a title="Retirees" href="https://www.southstatebank.com/life-cycle/retirees/">Retirees</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="&nbsp;Popular Topics" href="https://www.southstatebank.com/advice-center-overview/">&nbsp;Popular Topics</a></strong> <ul> <li id="menu-item-4925" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-4925"><a title="Getting Started" href="https://www.southstatebank.com/advice-category/getting-started/">Getting Started</a></li> <li id="menu-item-4927" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-4927"><a title="Small Businesses" href="https://www.southstatebank.com/advice-category/small-businesses/">Small Businesses</a></li> <li id="menu-item-5573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a title="Calculators &amp; Tools" href="https://www.southstatebank.com/personal/personal-banking/financial-tools/">Calculators &amp; Tools</a></li> <li id="menu-item-7772" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7772"><a title="Money Management" href="https://www.southstatebank.com/advice-category/money-management/">Money Management</a></li> <li id="menu-item-7796" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7796"><a title="Loans" href="https://www.southstatebank.com/advice-category/loans/">Loans</a></li> </ul></div><div class="column column-third hide-title menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="&nbsp;Popular Topics" href="https://www.southstatebank.com/advice-center-overview/">&nbsp;Popular Topics</a></strong> <ul> <li id="menu-item-7774" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7774"><a title="Mortgage" href="https://www.southstatebank.com/advice-category/mortgage/">Mortgage</a></li> <li id="menu-item-7771" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7771"><a title="Planning for the Future" href="https://www.southstatebank.com/advice-category/planning-for-the-future/">Planning for the Future</a></li> <li id="menu-item-7773" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7773"><a title="Understanding Credit" href="https://www.southstatebank.com/advice-category/understanding-credit/">Understanding Credit</a></li> <li id="menu-item-7797" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7797"><a title="Protecting Yourself" href="https://www.southstatebank.com/advice-category/protecting-yourself/">Protecting Yourself</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2018/06/OnlineTravelDeals.png?x11919"></div><strong>Travel Tips for Finding Online Deals</strong><p>The world is at your fingertips when you book online, but how do you know you’re finding the best deals? Here are some tips to finding a great summer vacation online.</p><a href="https://www.southstatebank.com/advice/travel-tips-for-finding-online-deals/" class="more">Learn More</a></div></div></div></div></div></li></ul> <div class="search">
+<ul id="menu-main-menu" class="main-nav"><li id="menu-item-433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-433"><a title="Personal" href="https://www.southstatebank.com/personal/">Personal</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Personal Banking" href="https://www.southstatebank.com/personal/personal-banking/">Personal Banking</a></strong> <ul> <li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a title="Checking Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/">Checking Accounts</a></li> <li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a title="Savings Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/">Savings Accounts</a></li> <li id="menu-item-11315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11315"><a title="Round Up To Save" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/round-up-to-save/">Round Up To Save</a></li> <li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a title="Refer a Friend" href="https://www.southstatebank.com/personal/personal-banking/refer-a-friend/">Refer a Friend</a></li> <li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a title="Rx Savings Program" href="https://www.southstatebank.com/personal/personal-banking/rx-card/">Rx Savings Program</a></li> <li id="menu-item-2511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2511"><a title="Overdraft Protection" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/overdraft-protection/">Overdraft Protection</a></li> <li id="menu-item-17599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17599"><a title="Order Checks" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/reorder-checks/">Order Checks</a></li> </ul><strong><a title="Help" href="https://www.southstatebank.com/help/">Help</a></strong> <ul> <li id="menu-item-6459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6459"><a title="Online Education Center" href="https://www.southstatebank.com/help/online-education-center/">Online Education Center</a></li> <li id="menu-item-6461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6461"><a title="Security/Privacy Information" href="https://www.southstatebank.com/help/securityprivacy-information-2/">Security/Privacy Information</a></li> <li id="menu-item-17924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17924"><a title="Travel Notification" href="https://www.southstatebank.com/faq/im-traveling-can-still-use-debit-card/">Travel Notification</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Online and Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/">Online and Mobile Banking</a></strong> <ul> <li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a title="Online Banking" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/">Online Banking</a></li> <li id="menu-item-23259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23259"><a title="Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/mobile-banking/">Mobile Banking</a></li> </ul><strong><a title="Ways to Pay" href="https://www.southstatebank.com/personal/ways-to-pay/">Ways to Pay</a></strong> <ul> <li id="menu-item-20441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20441"><a title="Debit Cards" href="https://www.southstatebank.com/personal/ways-to-pay/debit-cards/">Debit Cards</a></li> <li id="menu-item-13953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13953"><a title="Digital Wallet" href="https://www.southstatebank.com/personal/ways-to-pay/digital-wallet/">Digital Wallet</a></li> <li id="menu-item-20575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20575"><a title="Popmoney<sup>®</sup>" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/popmoney/">Popmoney<sup>®</sup></a></li> <li id="menu-item-20448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20448"><a title="BillPay" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/online-bill-pay/">BillPay</a></li> <li id="menu-item-20446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20446"><a title="eBills" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/ebills/">eBills</a></li> <li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a title="Credit Cards" href="https://www.southstatebank.com/personal/personal-banking/credit-cards/">Credit Cards</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Personal Lending" href="https://www.southstatebank.com/personal/personal-lending/">Personal Lending</a></strong> <ul> <li id="menu-item-17825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17825"><a title="Home Equity Line of Credit" href="https://www.southstatebank.com/personal/personal-lending/home-equity-line-of-credit-2/">Home Equity Line of Credit</a></li> <li id="menu-item-12496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12496"><a title="Car Loans" href="https://www.southstatebank.com/personal/personal-lending/car-loans-2/">Car Loans</a></li> <li id="menu-item-11535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11535"><a title="Boat Loans" href="https://www.southstatebank.com/personal/personal-lending/boat-loans-2/">Boat Loans</a></li> <li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a title="Manufactured Housing Loans" href="https://www.southstatebank.com/personal/personal-lending/mobile-home-loans/">Manufactured Housing Loans</a></li> <li id="menu-item-12746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12746"><a title="RV Loans" href="https://www.southstatebank.com/personal/personal-lending/rv-loans/">RV Loans</a></li> <li id="menu-item-12747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12747"><a title="Motorcycle Loans" href="https://www.southstatebank.com/personal/personal-lending/motorcycle-loans/">Motorcycle Loans</a></li> <li id="menu-item-12748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12748"><a title="Personal Watercraft Loans" href="https://www.southstatebank.com/personal/personal-lending/personal-watercraft-loans/">Personal Watercraft Loans</a></li> <li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a title="Personal Loans" href="https://www.southstatebank.com/personal/personal-lending/personal-loans/">Personal Loans</a></li> <li id="menu-item-12961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12961"><a title="Personal Line of Credit" href="https://www.southstatebank.com/personal/personal-lending/personal-line-credit/">Personal Line of Credit</a></li> <li id="menu-item-15341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15341"><a title="Apply Now" href="https://umnasg7.umonitor.com/consumerloan/uLoan/welcome.do?auth=c5947ed87392d6ee">Apply Now</a></li> <li id="menu-item-15825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15825"><a title="Contact a Banker" href="https://www.southstatebank.com/personal/personal-lending/apply-for-a-personal-loan/">Contact a Banker</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2016/09/digitalwallet-370x302.png"></div><strong>More Ways to Pay</strong><p>With Google<sup>TM</sup> Pay, Samsung Pay<sup>TM</sup> and Apple Pay®, South State customers can securely pay on the go with just a tap of their phone.</p><a href="/personal/ways-to-pay/digital-wallet/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-759"><a title="Business" href="https://www.southstatebank.com/business/">Business</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Banking" href="https://www.southstatebank.com/business/business-financial-services/">Business Banking</a></strong> <ul> <li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a title="Checking Accounts" href="https://www.southstatebank.com/business/business-financial-services/business-checking-account/">Checking Accounts</a></li> <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a title="Savings Accounts" href="https://www.southstatebank.com/business/business-financial-services/business-savings-accounts/">Savings Accounts</a></li> </ul><strong><a title="Treasury Management" href="https://www.southstatebank.com/business/treasury-management/">Treasury Management</a></strong> <ul> <li id="menu-item-20444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20444"><a title="Cash Flow Solutions" href="https://www.southstatebank.com/business/treasury-management/cash-flow/">Cash Flow Solutions</a></li> <li id="menu-item-14613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14613"><a title="Merchant Services" href="https://www.southstatebank.com/business/treasury-management/cash-flow/receivables/merchant-services/">Merchant Services</a></li> <li id="menu-item-20445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20445"><a title="Information Management Solutions" href="https://www.southstatebank.com/business/treasury-management/information-management-solutions/">Information Management Solutions</a></li> <li id="menu-item-3131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3131"><a title="Risk Management Solutions" href="https://www.southstatebank.com/business/treasury-management/risk-management-solutions/">Risk Management Solutions</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Online Services" href="https://www.southstatebank.com/business/treasury-management/business-online-services/">Business Online Services</a></strong> <ul> <li id="menu-item-20438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20438"><a title="Treasury Navigator®" href="https://www.southstatebank.com/business/treasury-management/business-online-services/treasury-navigator/">Treasury Navigator®</a></li> <li id="menu-item-21178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21178"><a title="Online Banking" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-online-banking/">Online Banking</a></li> <li id="menu-item-20439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20439"><a title="Business Link Support" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-link-support/">Business Link Support</a></li> </ul><strong><a title="Ways to Pay" href="https://www.southstatebank.com/business/ways-to-pay-business/">Ways to Pay</a></strong> <ul> <li id="menu-item-20473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20473"><a title="Business Debit Cards" href="https://www.southstatebank.com/business/ways-to-pay-business/business-debit-cards/">Business Debit Cards</a></li> <li id="menu-item-21141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21141"><a title="Digital Wallet" href="https://www.southstatebank.com/business/ways-to-pay-business/business-digital-wallet/">Digital Wallet</a></li> <li id="menu-item-1399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1399"><a title="Credit Cards" href="https://www.southstatebank.com/business/business-loans/revolving-credit/business-credit-cards/">Credit Cards</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Business Lending" href="https://www.southstatebank.com/business/business-loans/">Business Lending</a></strong> <ul> <li id="menu-item-3169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3169"><a title="Revolving Credit" href="https://www.southstatebank.com/business/business-loans/revolving-credit/">Revolving Credit</a></li> <li id="menu-item-1384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a title="Term Loans" href="https://www.southstatebank.com/business/business-loans/term-loans/">Term Loans</a></li> <li id="menu-item-3701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3701"><a title="Business Construction Loans" href="https://www.southstatebank.com/business/business-loans/construction-loans/">Business Construction Loans</a></li> <li id="menu-item-1397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1397"><a title="Letters of Credit" href="https://www.southstatebank.com/business/business-loans/letters-of-credit/">Letters of Credit</a></li> <li id="menu-item-3171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3171"><a title="SBA Loans" href="https://www.southstatebank.com/business/business-loans/government-sponsored-loans/">SBA Loans</a></li> <li id="menu-item-16286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16286"><a title="Contact a Banker" href="https://www.southstatebank.com/business/business-loans/business-loan-inquiry-form/">Contact a Banker</a></li> </ul><strong><a title="Employee Benefits Solutions" href="https://www.southstatebank.com/business/employee-benefit-solutions/">Employee Benefits Solutions</a></strong> <ul> <li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1387"><a title="Retirement Plan Services" href="https://www.southstatebank.com/business/employee-benefit-solutions/retirement-plan-services/">Retirement Plan Services</a></li> <li id="menu-item-1388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a title="South State at Work" href="https://www.southstatebank.com/business/employee-benefit-solutions/south-state-at-work/">South State at Work</a></li> <li id="menu-item-1389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a title="Health Savings Accounts" href="https://www.southstatebank.com/business/employee-benefit-solutions/health-savings-accounts/">Health Savings Accounts</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2018/07/Menu-Promo-Business.jpg"></div><strong>Treasury Navigator</strong><p>A fully automated, secure treasury management platform offering intuitive online functionality. </p><a href="/business/treasury-management/business-online-services/treasury-navigator/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-760"><a title="Mortgage" href="https://www.southstatebank.com/mortgage/">Mortgage</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Mortgage Loan Programs" href="https://www.southstatebank.com/mortgage/loan-programs/">Mortgage Loan Programs</a></strong> <ul> <li id="menu-item-1403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a title="Conventional Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/conventional-mortgage/">Conventional Mortgages</a></li> <li id="menu-item-1405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a title="FHA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/fha-loans/">FHA Loans</a></li> <li id="menu-item-23904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23904"><a title="VA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/va-loans/">VA Loans</a></li> <li id="menu-item-1406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a title="Construction Loans" href="https://www.southstatebank.com/mortgage/loan-programs/construction-loans/">Construction Loans</a></li> <li id="menu-item-1404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a title="Jumbo Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/jumbo-mortgage/">Jumbo Mortgages</a></li> <li id="menu-item-1407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1407"><a title="Lot Loans" href="https://www.southstatebank.com/mortgage/loan-programs/lot-loans/">Lot Loans</a></li> <li id="menu-item-1408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a title="USDA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/usda-loans/">USDA Loans</a></li> <li id="menu-item-1409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a title="Refinancing" href="https://www.southstatebank.com/mortgage/loan-programs/refinancing/">Refinancing</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Mortgage FAQs" href="https://www.southstatebank.com/mortgage/mortgage-faqs/">Mortgage FAQs</a></strong><strong><a title="Mortgage Calculator" href="https://www.southstatebank.com/personal/personal-banking/financial-tools/mortgage-calculator/">Mortgage Calculator</a></strong></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Find a Mortgage Loan Officer" href="https://www.southstatebank.com/mortgage/find-a-mortgage-loan-officer/">Find a Mortgage Loan Officer</a></strong><strong><a title="The Loan Process" href="https://www.southstatebank.com/mortgage/loan-process/">The Loan Process</a></strong><strong><a title="First Time Home Buyers" href="https://www.southstatebank.com/mortgage/first-time-home-buyer-loans/">First Time Home Buyers</a></strong><strong><a title="Apply Now" href="https://www.southstatebank.com/mortgage/#apply-now">Apply Now</a></strong></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2016/01/MovingFamily2-380x302.png"></div><strong>Apply Online Today</strong><p>Get moving a little faster with our convenient online mortgage applications.</p><a href="https://www.southstatebank.com/mortgage/#apply-now" class="more">Apply Now</a></div></div></div></div></div></li><li id="menu-item-1421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1421"><a title="Wealth" href="https://www.southstatebank.com/wealth-management/">Wealth</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Private Wealth" href="https://www.southstatebank.com/wealth-management/private-wealth-management/">Private Wealth</a></strong> <ul> <li id="menu-item-17557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17557"><a title="Financial &amp; Estate Planning" href="https://www.southstatebank.com/wealth-management/private-wealth-management/financial-estate-planning/">Financial &amp; Estate Planning</a></li> <li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a title="Asset Management" href="https://www.southstatebank.com/wealth-management/private-wealth-management/asset-management-group/">Asset Management</a></li> <li id="menu-item-17552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17552"><a title="Trust Administration" href="https://www.southstatebank.com/wealth-management/private-wealth-management/trust-services/">Trust Administration</a></li> <li id="menu-item-17555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17555"><a title="Estate Settlement" href="https://www.southstatebank.com/wealth-management/private-wealth-management/estate-settlement/">Estate Settlement</a></li> <li id="menu-item-17558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17558"><a title="Find a Wealth Advisor" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#wealth-advisor">Find a Wealth Advisor</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Investment Services" href="https://www.southstatebank.com/wealth-management/investment-management/">Investment Services</a></strong> <ul> <li id="menu-item-17559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17559"><a title="Investments &amp; Financial Plans" href="https://www.southstatebank.com/wealth-management/investment-management/investments-financial-plans/">Investments &amp; Financial Plans</a></li> <li id="menu-item-17560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17560"><a title="Retirement Savings and Income" href="https://www.southstatebank.com/wealth-management/investment-management/retirement-savings-income/">Retirement Savings and Income</a></li> <li id="menu-item-17561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17561"><a title="Life Insurance and Long Term Care" href="https://www.southstatebank.com/wealth-management/investment-management/life-insurance-long-term-care/">Life Insurance and Long Term Care</a></li> <li id="menu-item-20443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20443"><a title="Guided Wealth Portfolios (Digital Investing)" href="https://www.southstatebank.com/wealth-management/guided-wealth-portfolios/">Guided Wealth Portfolios (Digital Investing)</a></li> <li id="menu-item-17562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17562"><a title="College Savings" href="https://www.southstatebank.com/wealth-management/products-services/investment-advice/college-savings-2/">College Savings</a></li>  <li id="menu-item-17563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17563"><a title="Find an Investment Consultant" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#investment-consultant">Find an Investment Consultant</a></li> </ul><strong><a title="Private Banking" href="https://www.southstatebank.com/wealth-management/private-banker/">Private Banking</a></strong> <ul> <li id="menu-item-17564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17564"><a title="Find a Private Banker" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#private-banker">Find a Private Banker</a></li> </ul></div><div class="column column-third menu-item menu-item-type-post_type menu-item-object-page"><strong><a title="Find a Wealth Team Member" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee/">Find a Wealth Team Member</a></strong><strong><a title="Products &amp; Services" href="https://www.southstatebank.com/wealth-management/products-services/">Products &amp; Services</a></strong><strong><a title="Corporate &amp; Institutional Services" href="https://www.southstatebank.com/wealth-management/commercial-institutional-services/">Corporate &amp; Institutional Services</a></strong></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2018/07/Menu-Promo-Wealth.jpg"></div><strong>Guided Wealth Portfolios</strong><p>Investment independence at your fingertips. Guidance within reach. </p><a href="/wealth-management/guided-wealth-portfolios/" class="more">Learn More</a></div></div></div></div></div></li><li id="menu-item-1454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1454"><a title="Advice Center" href="https://www.southstatebank.com/advice-center-overview/">Advice Center</a><div class="main-nav-dropdown"><div class="wrap"><div class="columns clear"><div class="column column-first menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="Tools for Every Stage of Life" href="https://www.southstatebank.com/advice-center-overview/">Tools for Every Stage of Life</a></strong> <ul> <li id="menu-item-3966" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3966"><a title="Students" href="https://www.southstatebank.com/life-cycle/students/">Students</a></li> <li id="menu-item-3968" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3968"><a title="Working Professionals" href="https://www.southstatebank.com/life-cycle/working-professionals/">Working Professionals</a></li> <li id="menu-item-3970" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3970"><a title="Couples" href="https://www.southstatebank.com/life-cycle/couples/">Couples</a></li> <li id="menu-item-3969" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3969"><a title="Families" href="https://www.southstatebank.com/life-cycle/families/">Families</a></li> <li id="menu-item-3967" class="menu-item menu-item-type-taxonomy menu-item-object-life_cycle menu-item-3967"><a title="Retirees" href="https://www.southstatebank.com/life-cycle/retirees/">Retirees</a></li> </ul></div><div class="column column-second menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="&nbsp;Popular Topics" href="https://www.southstatebank.com/advice-center-overview/">&nbsp;Popular Topics</a></strong> <ul> <li id="menu-item-22310" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22310"><a title="Banking Basics" href="https://www.southstatebank.com/advice-category/banking-basics/">Banking Basics</a></li> <li id="menu-item-22312" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22312"><a title="Credit &amp; Loans" href="https://www.southstatebank.com/advice-category/credit-and-loans/">Credit &amp; Loans</a></li> <li id="menu-item-22314" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22314"><a title="Budgeting &amp; Saving" href="https://www.southstatebank.com/advice-category/budgeting-and-saving/">Budgeting &amp; Saving</a></li> <li id="menu-item-5573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a title="Calculators &amp; Tools" href="https://www.southstatebank.com/personal/personal-banking/financial-tools/">Calculators &amp; Tools</a></li> </ul></div><div class="column column-third hide-title menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><strong><a title="&nbsp;Popular Topics" href="https://www.southstatebank.com/advice-center-overview/">&nbsp;Popular Topics</a></strong> <ul> <li id="menu-item-22313" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22313"><a title="Homeownership" href="https://www.southstatebank.com/advice-category/homeownership/">Homeownership</a></li> <li id="menu-item-22311" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22311"><a title="Retiring &amp; Investing" href="https://www.southstatebank.com/advice-category/retiring-and-investing/">Retiring &amp; Investing</a></li> <li id="menu-item-22315" class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22315"><a title="Managing Your Business" href="https://www.southstatebank.com/advice-category/managing-your-business/">Managing Your Business</a></li> </ul></div><div class="column column-fourth"><div class="drop-down-promo"><div class="promo-img-wrap"><img alt="promotional image" src="https://www.southstatebank.com/internet/wp-content/uploads/2019/03/first-time-home-buyers.jpg"></div><strong>The Loan Process for First-Time Homebuyers</strong><p>Our guide breaks down how the loan process works so you can be prepared, know what questions to ask and be one step closer to your new home.</p><a href="https://www.southstatebank.com/advice/loan-process-first-time-homebuyers/" class="more">Read More</a></div></div></div></div></div></li></ul> <div class="search">
 <form action="https://www.southstatebank.com">
 <label for="s" class="invisible" id="header-search-box-1">Search South State Bank</label>
 <input type="search" name="s" id="s" aria-labelledby="header-search-box-1" class="header-search-box" value="" placeholder="Search..." autocomplete="off">
@@ -236,7 +561,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <header class="mobile-header" id="MobileHeader">
 <div class="wrap">
 <a href="https://www.southstatebank.com/" class="logo">
-<img src="https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/img/header-logo-tablet.png?x11919" alt="South State Bank">
+<img src="https://www.southstatebank.com/internet/wp-content/themes/SouthStates/assets/img/header-logo-tablet.png" alt="South State Bank">
 </a>
 <div class="right">
 <a href="#mobile-menu" class="login" id="MobileLoginLink">Log In</a>
@@ -254,6 +579,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <div class="select_wrap">
 <select name="login-type" id="MobileTopLoginType" aria-labelledby="MobileTopLoginType-destination">
 <option value="Online Banking" data-form="1">Online Banking</option>
+<option value="Treasury Navigator" data-form="7">Treasury Navigator</option>
 <option value="Business Link" data-form="2">Business Link</option>
 <option value="Credit Cards" data-form="3">Credit Cards</option>
 <option value="Mortgage" data-form="6">Mortgage Online</option>
@@ -263,9 +589,9 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </div>
 <div class="standard_form form_box form_1" data-form="1">
 <div class="message">
-<p>Online Banking is temporarily unavailable. We apologize for any inconvenience this may cause. As a reminder, you can also view your accounts using our Mobile App.</p>
+<p>Online Banking, Mobile Banking and Business Link are currently unavailable. We apologize for the inconvenience and are working to restore access.</p>
 </div>
-<form action="https://web13.secureinternetbank.com/pbi_pbi1151/login/remote/053200983" id="mobile_nav_form_online_banking" name="mobile_nav_form_online_banking" method="POST" class="fiserv_login_form form_online_banking_message" data-type="online" target="_self" autocomplete="off">
+<form action="https://web14.secureinternetbank.com/pbi_pbi1151/login/remote/053200983" id="mobile_nav_form_online_banking" name="mobile_nav_form_online_banking" method="POST" class="fiserv_login_form form_online_banking_message" data-type="online" target="_self" autocomplete="off">
 <label for="mobile_nav_form_1_username" id="mobile_nav_form_1_username_label" class="small" aria-hidden="true">Username</label>
 <input type="text" name="username" aria-labelled="mobile_nav_form_1_username_label" id="mobile_nav_form_1_username" autocomplete="off">
 <label for="mobile_nav_form_1_password" id="mobile_nav_form_1_password_label" class="small" aria-hidden="true">Password</label>
@@ -274,12 +600,19 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <input type="submit" class="button splash-login-submit" value="LOG IN">
 </form>
 </div>
+<div class="hidden_form form_box form_7" data-form="7">
+<div class="message">
+<a href="https://treasurynavigator.southstatebank.com/smallbusiness" id="desktop_hero_link_treasury_navigator_message" name="desktop_hero_link_treasury_navigator_message" rel="noindex, nofollow">Continue</a>
+</div>
+<a href="https://treasurynavigator.southstatebank.com/smallbusiness" id="desktop_hero_link_treasury_navigator" name="desktop_hero_link_treasury_navigator" rel="noindex, nofollow" class="button splash-login-submit form_treasury_navigator_message" target="_blank">LOG IN</a>
+</div>
 <div class="hidden_form form_box form_2" data-form="2">
 <div class="message">
-<p>Business Link and Business Link Mobile are temporarily unavailable. We apologize for any inconvenience this may cause.</p>
-<p><strong>&nbsp;</strong></p>
+<p><strong>Business Link will be disabled on May 3.</strong></p>
+<p>If you have not transitioned to Treasury Navigator, please call Treasury Management Client Support at (877) 840-8588.</p>
+<a href="https://web14.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983">Continue</a>
 </div>
-<form action="https://web13.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983" id="mobile_nav_form_business_link" name="mobile_nav_form_business_link" method="post" class="fiserv_login_form form_business_link_message" data-type="business" autocomplete="off">
+<form action="https://web14.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=Process&amp;wce=RemoteLogon&amp;irl=T&amp;mfa=2&amp;rt=053200983" id="mobile_nav_form_business_link" name="mobile_nav_form_business_link" method="post" class="fiserv_login_form form_business_link_message" data-type="business" autocomplete="off">
 <label for="nmUID" id="mobile-header-login-2" class="small">Access ID</label>
 <input type="text" placeholder="Access ID" aria-labelledby="mobile-header-login-2" name="nmUID" required="" maxlength="19" autocomplete="off" id="mobile_nav_input_business_link">
 <input type="hidden" name="nmRTN" value="053200983">
@@ -327,7 +660,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </div>
 <div class="links">
 <a href="/help/online-education-center/">View our Online Demos</a>
-<a href="https://web13.secureinternetbank.com/pbi_pbi1151/enroll/053200983" rel="noindex, nofollow">Enroll Now for Online Banking</a>
+ <a href="https://web14.secureinternetbank.com/pbi_pbi1151/enroll/053200983" rel="noindex, nofollow">Enroll Now for Online Banking</a>
 </div>
 </div>
 </div>
@@ -350,7 +683,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a title="Checking Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/">Checking Accounts</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a title="Savings Accounts" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/">Savings Accounts</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11315"><a title="Round Up To Save<sup>TM</sup>" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/round-up-to-save/">Round Up To Save<sup>TM</sup></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11315"><a title="Round Up To Save" href="https://www.southstatebank.com/personal/personal-banking/personal-savings-accounts/round-up-to-save/">Round Up To Save</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a title="Refer a Friend" href="https://www.southstatebank.com/personal/personal-banking/refer-a-friend/">Refer a Friend</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a title="Rx Savings Program" href="https://www.southstatebank.com/personal/personal-banking/rx-card/">Rx Savings Program</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2511"><a title="Overdraft Protection" href="https://www.southstatebank.com/personal/personal-banking/personal-checking-accounts/overdraft-protection/">Overdraft Protection</a></li>
@@ -373,7 +706,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <a href="#" class="back">Back</a>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a title="Online Banking" href="https://www.southstatebank.com/personal/online-banking/free-online-banking/">Online Banking</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a title="Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/mobile-banking/">Mobile Banking</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23259"><a title="Mobile Banking" href="https://www.southstatebank.com/personal/online-banking/mobile-banking/">Mobile Banking</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20442"><a title="Ways to Pay" href="https://www.southstatebank.com/personal/ways-to-pay/">Ways to Pay</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -407,7 +740,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15825"><a title="Contact a Banker" href="https://www.southstatebank.com/personal/personal-lending/apply-for-a-personal-loan/">Contact a Banker</a></li>
 </ul>
 </li>
-<li id="menu-item-21836" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-21836"><a title="Boat Loan" href="https://www.southstatebank.com/promo/boat-loan-rate-as-allow-as-4-25-apr/">Boat Loan</a></li>
+<li id="menu-item-24750" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-24750"><a title="Payment Solutions" href="https://www.southstatebank.com/promo/payment-solutions/">Payment Solutions</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-759"><a title="Business" href="https://www.southstatebank.com/business/">Business</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -440,7 +773,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="back_li">
 <a href="#" class="back">Back</a>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20438"><a title="Treasury Navigator" href="https://www.southstatebank.com/business/treasury-management/business-online-services/treasury-navigator/">Treasury Navigator</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20438"><a title="Treasury Navigator®" href="https://www.southstatebank.com/business/treasury-management/business-online-services/treasury-navigator/">Treasury Navigator®</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21178"><a title="Online Banking" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-online-banking/">Online Banking</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20439"><a title="Business Link Support" href="https://www.southstatebank.com/business/treasury-management/business-online-services/business-link-support/">Business Link Support</a></li>
 </ul>
@@ -462,7 +795,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3169"><a title="Revolving Credit" href="https://www.southstatebank.com/business/business-loans/revolving-credit/">Revolving Credit</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1384"><a title="Term Loans" href="https://www.southstatebank.com/business/business-loans/term-loans/">Term Loans</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3701"><a title="Construction Loans" href="https://www.southstatebank.com/business/business-loans/construction-loans/">Construction Loans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3701"><a title="Business Construction Loans" href="https://www.southstatebank.com/business/business-loans/construction-loans/">Business Construction Loans</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1397"><a title="Letters of Credit" href="https://www.southstatebank.com/business/business-loans/letters-of-credit/">Letters of Credit</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3171"><a title="SBA Loans" href="https://www.southstatebank.com/business/business-loans/government-sponsored-loans/">SBA Loans</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16286"><a title="Contact a Banker" href="https://www.southstatebank.com/business/business-loans/business-loan-inquiry-form/">Contact a Banker</a></li>
@@ -478,7 +811,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1389"><a title="Health Savings Accounts" href="https://www.southstatebank.com/business/employee-benefit-solutions/health-savings-accounts/">Health Savings Accounts</a></li>
 </ul>
 </li>
-<li id="menu-item-22135" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-22135"><a title="Merchant Services Promotion" href="https://www.southstatebank.com/promo/merchant-services-promotion/">Merchant Services Promotion</a></li>
+<li id="menu-item-24751" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-24751"><a title="Treasury Navigator" href="https://www.southstatebank.com/promo/treasury-navigator/">Treasury Navigator</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-760"><a title="Mortgage" href="https://www.southstatebank.com/mortgage/">Mortgage</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -492,8 +825,9 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <a href="#" class="back">Back</a>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1403"><a title="Conventional Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/conventional-mortgage/">Conventional Mortgages</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a title="FHA/VA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/fha-va-loans/">FHA/VA Loans</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a title="Construction/Permanent Loans" href="https://www.southstatebank.com/mortgage/loan-programs/construction-loans/">Construction/Permanent Loans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1405"><a title="FHA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/fha-loans/">FHA Loans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23904"><a title="VA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/va-loans/">VA Loans</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1406"><a title="Construction Loans" href="https://www.southstatebank.com/mortgage/loan-programs/construction-loans/">Construction Loans</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1404"><a title="Jumbo Mortgages" href="https://www.southstatebank.com/mortgage/loan-programs/jumbo-mortgage/">Jumbo Mortgages</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1407"><a title="Lot Loans" href="https://www.southstatebank.com/mortgage/loan-programs/lot-loans/">Lot Loans</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a title="USDA Loans" href="https://www.southstatebank.com/mortgage/loan-programs/usda-loans/">USDA Loans</a></li>
@@ -506,7 +840,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1416"><a title="The Loan Process" href="https://www.southstatebank.com/mortgage/loan-process/">The Loan Process</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1417"><a title="First Time Home Buyers" href="https://www.southstatebank.com/mortgage/first-time-home-buyer-loans/">First Time Home Buyers</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11198"><a title="Apply Now" href="https://www.southstatebank.com/mortgage/#apply-now">Apply Now</a></li>
-<li id="menu-item-21837" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-21837"><a title="First Time Homebuyers" href="https://www.southstatebank.com/promo/first-time-homebuyers/">First Time Homebuyers</a></li>
+<li id="menu-item-24749" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-24749"><a title="Online Mortgage Applications" href="https://www.southstatebank.com/promo/online-mortgage-applications/">Online Mortgage Applications</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1421"><a title="Wealth" href="https://www.southstatebank.com/wealth-management/">Wealth</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -520,7 +854,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <a href="#" class="back">Back</a>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17557"><a title="Financial &amp; Estate Planning" href="https://www.southstatebank.com/wealth-management/private-wealth-management/financial-estate-planning/">Financial &amp; Estate Planning</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a title="Asset Management" href="https://www.southstatebank.com/wealth-management/asset-management-group/">Asset Management</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a title="Asset Management" href="https://www.southstatebank.com/wealth-management/private-wealth-management/asset-management-group/">Asset Management</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17552"><a title="Trust Administration" href="https://www.southstatebank.com/wealth-management/private-wealth-management/trust-services/">Trust Administration</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17555"><a title="Estate Settlement" href="https://www.southstatebank.com/wealth-management/private-wealth-management/estate-settlement/">Estate Settlement</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17558"><a title="Find a Wealth Advisor" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#wealth-advisor">Find a Wealth Advisor</a></li>
@@ -534,7 +868,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17559"><a title="Investments &amp; Financial Plans" href="https://www.southstatebank.com/wealth-management/investment-management/investments-financial-plans/">Investments &amp; Financial Plans</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17560"><a title="Retirement Savings and Income" href="https://www.southstatebank.com/wealth-management/investment-management/retirement-savings-income/">Retirement Savings and Income</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17561"><a title="Life Insurance and Long Term Care" href="https://www.southstatebank.com/wealth-management/investment-management/life-insurance-long-term-care/">Life Insurance and Long Term Care</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20443"><a title="Guided Wealth Portfolios" href="https://www.southstatebank.com/wealth-management/guided-wealth-portfolios/">Guided Wealth Portfolios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20443"><a title="Guided Wealth Portfolios (Digital Investing)" href="https://www.southstatebank.com/wealth-management/guided-wealth-portfolios/">Guided Wealth Portfolios (Digital Investing)</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17562"><a title="College Savings" href="https://www.southstatebank.com/wealth-management/products-services/investment-advice/college-savings-2/">College Savings</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17563"><a title="Find an Investment Consultant" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee#investment-consultant">Find an Investment Consultant</a></li>
 </ul>
@@ -550,7 +884,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="column column-third menu-item menu-item-type-post_type menu-item-object-page menu-item-1423"><a title="Find a Wealth Team Member" href="https://www.southstatebank.com/wealth-management/find-a-wealth-employee/">Find a Wealth Team Member</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1431"><a title="Products &amp; Services" href="https://www.southstatebank.com/wealth-management/products-services/">Products &amp; Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430"><a title="Corporate &amp; Institutional Services" href="https://www.southstatebank.com/wealth-management/commercial-institutional-services/">Corporate &amp; Institutional Services</a></li>
-<li id="menu-item-21834" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-21834"><a title="Guided Wealth Portfolio" href="https://www.southstatebank.com/promo/guided-wealth-portfolio/">Guided Wealth Portfolio</a></li>
+<li id="menu-item-24442" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-24442"><a title="Guided Wealth Portfolio" href="https://www.southstatebank.com/promo/guided-wealth-portfolio/">Guided Wealth Portfolio</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1454"><a title="Advice Center" href="https://www.southstatebank.com/advice-center-overview/">Advice Center</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -575,11 +909,10 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="back_li">
 <a href="#" class="back">Back</a>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-4925"><a title="Getting Started" href="https://www.southstatebank.com/advice-category/getting-started/">Getting Started</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-4927"><a title="Small Businesses" href="https://www.southstatebank.com/advice-category/small-businesses/">Small Businesses</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22310"><a title="Banking Basics" href="https://www.southstatebank.com/advice-category/banking-basics/">Banking Basics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22312"><a title="Credit &amp; Loans" href="https://www.southstatebank.com/advice-category/credit-and-loans/">Credit &amp; Loans</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22314"><a title="Budgeting &amp; Saving" href="https://www.southstatebank.com/advice-category/budgeting-and-saving/">Budgeting &amp; Saving</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5573"><a title="Calculators &amp; Tools" href="https://www.southstatebank.com/personal/personal-banking/financial-tools/">Calculators &amp; Tools</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7772"><a title="Money Management" href="https://www.southstatebank.com/advice-category/money-management/">Money Management</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7796"><a title="Loans" href="https://www.southstatebank.com/advice-category/loans/">Loans</a></li>
 </ul>
 </li>
 <li class="column column-third hide-title menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5666"><a title="&nbsp;Popular Topics" href="https://www.southstatebank.com/advice-center-overview/">&nbsp;Popular Topics</a><a href="#" class="arrow"><span class="invisible">Next</span></a>
@@ -587,13 +920,12 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li class="back_li">
 <a href="#" class="back">Back</a>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7774"><a title="Mortgage" href="https://www.southstatebank.com/advice-category/mortgage/">Mortgage</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7771"><a title="Planning for the Future" href="https://www.southstatebank.com/advice-category/planning-for-the-future/">Planning for the Future</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7773"><a title="Understanding Credit" href="https://www.southstatebank.com/advice-category/understanding-credit/">Understanding Credit</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-7797"><a title="Protecting Yourself" href="https://www.southstatebank.com/advice-category/protecting-yourself/">Protecting Yourself</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22313"><a title="Homeownership" href="https://www.southstatebank.com/advice-category/homeownership/">Homeownership</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22311"><a title="Retiring &amp; Investing" href="https://www.southstatebank.com/advice-category/retiring-and-investing/">Retiring &amp; Investing</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-advice_category menu-item-22315"><a title="Managing Your Business" href="https://www.southstatebank.com/advice-category/managing-your-business/">Managing Your Business</a></li>
 </ul>
 </li>
-<li id="menu-item-21745" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-21745"><a title="Travel Tips for Finding Online Deals" href="https://www.southstatebank.com/promo/travel-tips-for-finding-online-deals/">Travel Tips for Finding Online Deals</a></li>
+<li id="menu-item-24326" class="menu-item menu-item-type-post_type menu-item-object-a_promo menu-item-24326"><a title="First-Time Homebuyers" href="https://www.southstatebank.com/promo/first-time-homebuyers-2/">First-Time Homebuyers</a></li>
 </ul>
 </li>
 </ul></nav>
@@ -622,18 +954,19 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <p>Regardless of changes in technology and information, South State Bank has always been-and will continue to be-committed to the principles of customer privacy. We understand that when you open an account with us, apply for a loan, or deal with us or one of our affiliated companies in any way, we ask you to provide us with private financial and personal information.</p>
 <p>We honor the trust you place in us by maintaining the confidentiality and accuracy of that information, and we use it in manners consistent with the confidence you have placed in us. We will uphold both the letter and the spirit of federal and state laws as they relate to this important issue.</p>
 <ul>
-<li><a title="Privacy Notice" href="https://www.southstatebank.com/internet/wp-content/uploads/2018/09/Privacy-Statement-8-18.pdf?x11919">Privacy Notice [PDF]</a></li>
+<li><a title="Privacy Notice" href="https://www.southstatebank.com/internet/wp-content/uploads/2019/01/SSB-Privacy-Notice-Rev-1.11.19.pdf">Privacy Notice [PDF]</a></li>
 <li><a title="Customer Opt Out" href="https://www.southstatebank.com/customeroptout/">Privacy Notice Opt Out&nbsp;Form</a></li>
 </ul>
 <p>We reserve the right to change this notice&nbsp;at any time by posting a new privacy policy&nbsp;notice. We encourage you to carefully review the notice and the choices it outlines. If you have already requested a change in your information sharing, you do not need to respond again. We will continue to honor your previous sharing preferences.</p>
-<p>Rev. 7/18</p>
-<p></p><table style="width: 100%;">
+<p>Rev. 01/19</p>
+<p>&nbsp;</p>
+<table style="width: 100%;">
 <tbody>
 <tr>
 <th width="108"><strong>FACTS</strong></th>
 <th colspan="3" width="612"><strong>WHAT DOES SOUTH STATE BANK&nbsp;</strong><strong>DO WITH YOUR PERSONAL INFORMATION?</strong></th>
-
-</tr><tr>
+</tr>
+<tr>
 <td width="108"><strong>Why?</strong></td>
 <td colspan="3" width="612">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
 </tr>
@@ -649,7 +982,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </tr>
 <tr>
 <td width="108"><strong>How?</strong></td>
-<td colspan="3" width="612">All financial companies need to share customers’ personal information to run their everyday businesss. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons South State Bank chooses to share; and whether you can limit this sharing.</td>
+<td colspan="3" width="612">All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons South State Bank chooses to share; and whether you can limit this sharing.</td>
 </tr>
 <tr>
 <th colspan="2" width="348"><strong>Reasons we can share your personal information</strong></th>
@@ -746,7 +1079,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </tr>
 <tr>
 <td width="216"><strong>What happens when I limit sharing for an account I hold jointly with someone else?</strong></td>
-<td width="504">Your choices will apply to individually unless you tell us otherwise. However, any account holder may express a privacy preference on behalf of the other joint account holders.</td>
+<td width="504">Your choices will apply individually unless you tell us to also opt out other joint account holders.</td>
 </tr>
 </tbody>
 </table>
@@ -760,7 +1093,7 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <tr>
 <td width="216"><strong>Affiliates</strong></td>
 <td width="504">Companies related by common ownership or control. They can be financial and nonfinancial companies.<p></p>
-<p><em>Our affiliates include financial companies such as South State Corporation, SSB</em><em>&nbsp;Properties, Inc., Minis &amp; Co., Inc. and South State Advisory, Inc.</em></p></td>
+<p><em>Our affiliates include companies such as South State Corporation, SSB</em><em>&nbsp;Properties, Inc., and South State Advisory, Inc.</em></p></td>
 </tr>
 <tr>
 <td width="216"><strong>Nonaffiliates</strong></td>
@@ -780,6 +1113,8 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </article>
 </div>
@@ -803,18 +1138,19 @@ src="https://www.facebook.com/tr?id=1583836481908621&ev=PageView&noscript=1"
 <li id="menu-item-16969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16969"><a title="Investor Relations" href="https://www.southstatebank.com/about/investor-relations/">Investor Relations</a></li>
 <li id="menu-item-16970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16970"><a title="CRA" href="https://www.southstatebank.com/cra/">CRA</a></li>
 </ul></div> <div class="menu-footer-column-2-container"><ul id="menu-footer-column-2" class="column"><strong><a title="Help" href="https://www.southstatebank.com/help/">Help</a></strong> <li id="menu-item-16972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16972"><a title="Online Education Center" href="https://www.southstatebank.com/help/online-education-center/">Online Education Center</a></li>
+<li id="menu-item-23606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23606"><a title="DocuSign" href="https://www.southstatebank.com/docusign/">DocuSign</a></li>
 <li id="menu-item-16973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a title="Security/Privacy Information" href="https://www.southstatebank.com/help/securityprivacy-information-2/">Security/Privacy Information</a></li>
 <li id="menu-item-16975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16975"><a title="FAQs" href="https://www.southstatebank.com/help/faqs/">FAQs</a></li>
 </ul></div> </div>
 <div class="column_half">
-<div class="menu-footer-column-3-container"><ul id="menu-footer-column-3" class="column"><strong><a title="Connect With Us" href="/contact">Connect With Us</a></strong><li class="social facebook"><a href="//www.facebook.com/SouthStateBank">Facebook</a></li><li class="social twitter"><a href="//www.twitter.com/SouthStateBank">Twitter</a></li><li class="social linkedin"><a href="//www.linkedin.com/company/south-state-bank?trk=company_name">LinkedIn</a></li><li class="social instagram"><a href="//www.instagram.com/SouthStateBank">Instagram</a></li><li class="social pinterest"><a href="//www.pinterest.com/southstatebank/">Pinterest</a></li><li class="social enews"><a href="https://www.southstatebank.com/subscribe-monthly-enews/">Subscribe to Monthly eNews</a></li></ul></div> <div class="menu-footer-column-4-container"><ul id="menu-footer-column-4" class="column"><strong><a title="Enroll" rel="nofollow" href="https://web13.secureinternetbank.com/pbi_pbi1151/enroll/053200983">Enroll</a></strong> <li id="menu-item-16978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16978"><a title="Enroll in Online Banking" rel="nofollow" href="https://web13.secureinternetbank.com/pbi_pbi1151/enroll/053200983">Enroll in Online Banking</a></li>
+<div class="menu-footer-column-3-container"><ul id="menu-footer-column-3" class="column"><strong><a title="Connect With Us" href="/contact">Connect With Us</a></strong><li class="social facebook"><a href="//www.facebook.com/SouthStateBank">Facebook</a></li><li class="social twitter"><a href="//www.twitter.com/SouthStateBank">Twitter</a></li><li class="social linkedin"><a href="//www.linkedin.com/company/south-state-bank?trk=company_name">LinkedIn</a></li><li class="social instagram"><a href="//www.instagram.com/SouthStateBank">Instagram</a></li><li class="social pinterest"><a href="//www.pinterest.com/southstatebank/">Pinterest</a></li><li class="social enews"><a href="https://www.southstatebank.com/subscribe-monthly-enews/">Subscribe to Monthly eNews</a></li></ul></div> <div class="menu-footer-column-4-container"><ul id="menu-footer-column-4" class="column"><strong><a title="Enroll" rel="nofollow" href="https://web14.secureinternetbank.com/pbi_pbi1151/enroll/053200983">Enroll</a></strong> <li id="menu-item-16978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16978"><a title="Enroll in Online Banking" rel="nofollow" href="https://web14.secureinternetbank.com/pbi_pbi1151/enroll/053200983">Enroll in Online Banking</a></li>
 <li><a href="https://itunes.apple.com/us/app/south-state-mobile-banking/id542716529?mt=8" class="app_link ios">Download on the App Store</a></li><li><a href="https://play.google.com/store/apps/details?id=com.scbt.mobile" class="app_link android">Get it on Google Play</a></li></ul></div>
 </div>
 </div>
 <div class="bottom-bar">
-<div class="copyright" style="color: #686868;">Copyright 2018 South State Bank</div>
+<div class="copyright" style="color: #686868;">Copyright 2019 South State Bank</div>
 <div class="right">
-<ul id="menu-footer-secondary" class="links"><li id="menu-item-2166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2166"><a title="FDIC Coverage" rel="nofollow" href="http://www.fdic.gov">FDIC Coverage</a></li>
+<ul id="menu-footer-secondary" class="links"><li id="menu-item-2166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2166"><a title="FDIC Coverage" rel="nofollow" href="https://www.southstatebank.com/fdic">FDIC Coverage</a></li>
 <li id="menu-item-1488" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-417 current_page_item menu-item-1488"><a title="Privacy Notice" href="https://www.southstatebank.com/help/privacy-statement/">Privacy Notice</a></li>
 <li id="menu-item-1497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1497"><a title="Sitemap" href="https://www.southstatebank.com/sitemap/">Sitemap</a></li>
 <li id="menu-item-16526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16526"><a title="Member FDIC" rel="nofollow" href="https://www.fdic.gov/">Member FDIC</a></li>
@@ -893,16 +1229,16 @@ qacct:"p-v1v4Y1j2PR0bE"
 <script type="text/javascript">
 	;(function($) {
 		$('body').rciBumper({
-			links : ["apply.southstatebank.com","treasurynavigator.southstatebank.com","southstate401k.com","www.clickvue.com","web13.secureinternetbank.com","web13.secureinternetbank.com","web13.secureinternetbank.com","umnasg7.umonitor.com","southstatebank.cconnect.com","web13.secureinternetbank.com","dmimtg.com","mortgage.southstatebank.com","d10mmjxlq7t4ef.cloudfront.net","www.southstatebank.com","www.onlinebanktours.com","maps.google.com","www.onlinebanktours.com","www.ezcardinfo.com","www.snl.com","www.onlinebanktours.com","","web13.secureinternetbank.com","rew22.ultipro.com","www.myaccountaccess.com","american-pensions.com","www.account3000.com","myaccountviewonline.com","web13.secureinternetbank.com"]		});
+			links : ["southstatebank.mtgsvc.com","web14.secureinternetbank.com","web14.secureinternetbank.com","web14.secureinternetbank.com","web14.secureinternetbank.com","","apply.southstatebank.com","treasurynavigator.southstatebank.com","southstate401k.com","www.clickvue.com","web13.secureinternetbank.com","web13.secureinternetbank.com","web13.secureinternetbank.com","umnasg7.umonitor.com","southstatebank.cconnect.com","web13.secureinternetbank.com","dmimtg.com","mortgage.southstatebank.com","d10mmjxlq7t4ef.cloudfront.net","www.southstatebank.com","www.onlinebanktours.com","maps.google.com","www.onlinebanktours.com","www.ezcardinfo.com","www.snl.com","www.onlinebanktours.com","","web13.secureinternetbank.com","rew22.ultipro.com","www.myaccountaccess.com","american-pensions.com","www.account3000.com","myaccountviewonline.com","web13.secureinternetbank.com"]		});
 	})(jQuery);
 </script>
-<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/4c6af.js?x11919"></script>
+<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/4c6af.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajax_global = {"ajax_url":"https:\/\/www.southstatebank.com\/internet\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/e674e.js?x11919"></script>
+<script type="text/javascript" src="https://www.southstatebank.com/internet/wp-content/cache/minify/e674e.js"></script>
 <script>
 			if (navigator.userAgent.toLowerCase().indexOf("iphone") > -1){
 			document.write('<meta name="apple-itunes-app" content="app-id=542716529"/>');
