@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraladstore.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223045139id_/http%3A//viraladstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraladstore.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522231750id_/http%3A//www.viraladstore.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ViralAdStore - Privacy Policy
 
