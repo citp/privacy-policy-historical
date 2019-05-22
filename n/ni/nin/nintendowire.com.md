@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615035604id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522225246id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Nintendo Wire
 
