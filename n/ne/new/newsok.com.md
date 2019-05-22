@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213221640id_/https%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522170628id_/https%3A//newsok.com/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK Privacy Policy | NewsOK.com
 
