@@ -1,23 +1,44 @@
-> *The following text is extracted and transformed from the eufic.org privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424140440id_/http%3A//www.eufic.org/en/using-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eufic.org privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522075721id_/https%3A//www.eufic.org/en/using-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy: (EUFIC)
 
-EUFIC attaches the highest importance to protecting the privacy of users of its site. Although most of the information is available on or via the website without users having to provide personal data, it is possible that users may be requested to provide personal data. In such a case, the data shall be processed in accordance with the legal requirements of on privacy protection in relation to health and personal information that apply in Europe (Regulation 45/2001), where EUFIC is located. In concrete terms, this means in particular that:
+Thank you for your continued use of our website.
 
-  * any personal information voluntarily given by visitors wishing to subscribe to our website, including their identity, remains confidential;
-  * personal data are collected and processed solely for the purpose of replying to a request for information submitted by the sender;
-  * personal data will not be communicated to third parties nor used for marketing purposes;
-  * subscribers have the right to consult their personal data and verify that they are accurate and, if applicable, have any errors corrected. For that purpose, users can contact the webmaster.
+This policy outlines the criteria by which The European Food Information Council (EUFIC) collects and processes personal data on EUFIC website.
+
+Although most of the information is available on or via the website without users having to provide personal information, it is still possible that users may be requested to provide personal data or that personal data may be recorded by the Data Controller (EUFIC).
+
+Your personal data are processed in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC  (hereinafter GDPR), and Belgian Law of 30 July 2018 on the protection of natural persons with regard to the processing of personal data.
+
+EUFIC has implemented numerous technical and organisational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every data subject is free to transfer personal data to us via alternative means, e.g. by telephone.
+
+## HOW DO YOU CONTACT US?
+
+The Data Controller for the processing operations mentioned here is:
+
+EUFIC, Rue des Deux Églises 14, 3rd Floor, 1000 Brussels, Belgium
+
+  * T:       +3225068989
+  * E:       eufic@eufic.org
+  * W:      http://www.eufic.org
 
 
 
-The website collects the following information from registered users: email.
+## WHAT IS BEING COLLECTED?
 
-### Cookies
+### _Cookies_
 
-Currently we are using Google Analytics to analyse the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go to <http://www.google.com/analytics/learn/privacy.html>.
+The website pages of EUFIC uses cookies.
 
-Our website also collects cookies through the usage of AddThis and Woopra.
+Cookies are text files that are stored in a computer system via an Internet browser. Many cookies contain cookie ID’s. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.
+
+Through the use of cookies, EUFIC can provide the users of this website with more user-friendly services that would not be possible without the cookie setting like preventing the pop-up sign up form from continuously reappearing.
+
+By means of a cookie, the information on our website can be optimised with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website.
+
+Currently we are using Google Analytics to analyse the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please click [here](https://policies.google.com/privacy?hl=en).
+
+Our website also collects cookies through the usage of [AddThis](http://www.addthis.com/) and [Woopra](https://www.woopra.com/).
 
 Please note that you can block or allow cookies. Our entire website would be still accessible if cookies are blocked. To learn how to enable and disable cookies, please visit your browser's website:
 
@@ -26,5 +47,236 @@ Please note that you can block or allow cookies. Our entire website would be sti
   * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
   * [Safari](http://support.apple.com/kb/ph17191)
   * [Opera](http://www.opera.com/help/tutorials/security/privacy/)
+
+
+
+## COLLECTION OF GENERAL DATA AND INFORMATION
+
+The EUFIC website collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Information collected may include (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time (so-called timestamp) of access to the Internet site, (6) an Internet protocol address (IP address), (7) the internet service provider (ISP) of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.
+
+When using this general data and information, EUFIC does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, EUFIC may analyse anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our organisation, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.
+
+## SUBSCRIPTION TO OUR NEWSLETTER
+
+EUFIC users are given the opportunity to subscribe to our newsletter. The input mask used for this purpose determines what personal data is transmitted, as well as when the newsletter is ordered from the controller.
+
+EUFIC informs its users regularly by means of a newsletter about new site content or updates. Our newsletter may only be received by the data subject if (1) the data subject has a valid e-mail address and (2) the data subject registers for the newsletter. A confirmation e-mail will be sent to the e-mail address registered by a data subject for the first time for newsletter receipt.
+
+During the registration for the newsletter, we also store the IP address of the computer system assigned by the internet service provider (ISP) and used by the data subject at the time of the registration, as well as the date and time of the registration. The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address of a data subject at a later date, and it therefore serves the aim of the legal protection of the controller.
+
+The personal data collected as part of a registration for the newsletter will only be used to send our newsletter. In addition, subscribers to the newsletter may be informed by e-mail, as long as this is necessary for the operation of the newsletter service or a registration in question, as this could be the case in the event of modifications to the newsletter offer, or in the event of a change in technical circumstances. There will be no transfer of personal data collected by the newsletter service to third parties. The subscription to our newsletter may be terminated by the data subject at any time. The consent to the storage of personal data, which the data subject has given for shipping the newsletter, may be revoked at any time. For the purpose of revocation of consent, a corresponding link (‘unsubscribe’) is found in each newsletter. It is also possible to unsubscribe from the newsletter at any time directly on the website of the controller, or to communicate this to the controller in a different way.
+
+## NEWSLETTER TRACKING
+
+The EUFIC newsletter contains tracking pixels. A tracking pixel is a miniature graphic embedded in our e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of our newsletter marketing campaigns. Based on the embedded tracking pixel, EUFIC may see if and when an e-mail was opened by a data subject, and which links in the e-mail were called up (clicked on) by data subjects.
+
+Such personal data collected in the tracking pixels contained in the newsletters are stored and analysed by the controller in order to optimize the shipping of the newsletter, as well as to continuously adapt the content of future newsletters to the interests of the data subject. These personal data will not be passed on to third parties. Data subjects are at any time entitled to revoke the respective separate declaration of consent issued by means of an unsubscribe option. After a revocation, your personal data will be deleted by the controller. EUFIC automatically regards a withdrawal from the receipt of the newsletter as a revocation.
+
+## CONTACT VIA OUR WEBSITE
+
+The EUFIC website contains a form that enables fast electronic contact to our organisation, as well as direct communication with us, including a general address of our electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject is automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller is stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.
+
+## RIGHTS OF THE DATA SUBJECT
+
+### _Right of confirmation_
+
+Each data subject shall have the right to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact us to request this information
+
+### _Right of access_
+
+Each data subject shall have the right to obtain from the controller information about his or her personal data stored at any time and a copy of this information. This applies to the following information:
+
+  * the purposes of the processing;
+  * the categories of personal data concerned;
+  * the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
+  * where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+  * the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing;
+  * the existence of the right to lodge a complaint with a supervisory authority;
+  * where the personal data are not collected from the data subject, any available information as to their source;
+  * the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject.
+
+
+
+Furthermore, the data subject shall have a right to obtain information as to whether personal data is transferred to a third country or to an international organisation. Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer.
+
+### _Right to rectification_
+
+Each data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+If a data subject wishes to exercise this right to rectification, he or she may, at any time, contact us.
+
+### _Right to erasure (Right to be forgotten)_
+
+Each data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
+
+  * The personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed.
+  * The data subject withdraws consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing.
+  * The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR.
+  * The personal data has been unlawfully processed.
+  * The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
+  * The personal data has been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
+
+
+
+If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by EUFIC, he or she may at any time contact us. We shall promptly ensure that the erasure request is complied with immediately.
+
+Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. We will arrange the necessary measures in individual cases.
+
+### _Right of restriction of processing_
+
+Each data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:
+
+  * The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data.
+  * The processing is unlawful and the data subject opposes the erasure of the personal data and requests instead the restriction of their use instead.
+  * The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims.
+  * The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject.
+
+
+
+If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by EUFIC, he or she may at any time contact us.
+
+### _Right to data portability_
+
+Each data subject shall have the right to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+
+Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
+
+In order to assert the right to data portability, the data subject may at any time contact us.
+
+### _Right to object_
+
+Each data subject shall have the right to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions.
+
+EUFIC shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject, or for the establishment, exercise or defence of legal claims.
+
+If EUFIC processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to EUFIC to the processing for direct marketing purposes, EUFIC will no longer process the personal data for these purposes.
+
+In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by EUFIC for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+
+In order to exercise the right to object, the data subject may directly contact EUFIC. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
+
+### _Automated individual decision-making, including profiling_
+
+Each data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, or (3) is not based on the data subject’s explicit consent.
+
+If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject’s explicit consent, EUFIC shall implement suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
+
+If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may at any time directly contact us.
+
+### _Right to withdraw consent_
+
+Each data subject shall have the right to withdraw his or her consent to processing of his or her personal data at any time.
+
+If the data subject wishes to exercise the right to withdraw the consent, he or she may at any time directly contact us.
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AND USE OF FACEBOOK
+
+On this website, the controller has integrated components of the enterprise Facebook. Facebook is a social network.
+
+A social network is a place for social meetings on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Facebook allows social network users to include the creation of private profiles, upload photos, and network through friend requests.
+
+The operating company of Facebook is Facebook, Inc., 1 Hacker Way, Menlo Park, CA 94025, United States. If a person lives outside of the United States or Canada, the controller is the Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland.
+
+With each call-up to one of the individual pages of this Internet website, which is operated by the controller and into which a Facebook component (Facebook plug-ins) was integrated, the web browser on the information technology system of the data subject is automatically prompted to download display of the corresponding Facebook component from Facebook through the Facebook component. An overview of all the Facebook Plug-ins may be accessed [here](https://developers.facebook.com/docs/plugins/). During the course of this technical procedure, Facebook is made aware of what specific sub-site of our website was visited by the data subject.
+
+If the data subject is logged in at the same time on Facebook, Facebook detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-site of our Internet page was visited by the data subject. This information is collected through the Facebook component and associated with the respective Facebook account of the data subject. If the data subject clicks on one of the Facebook buttons integrated into our website, e.g. the “Like” button, or if the data subject submits a comment, then Facebook matches this information with the personal Facebook user account of the data subject and stores the personal data.
+
+Facebook always receives, through the Facebook component, information about a visit to our website by the data subject, whenever the data subject is logged in at the same time on Facebook during the time of the call-up to our website. This occurs regardless of whether the data subject clicks on the Facebook component or not. If such a transmission of information to Facebook is not desirable for the data subject, then he or she may prevent this by logging off from their Facebook account before a call-up to our website is made.
+
+The data protection guideline published by Facebook, which is available [here](https://facebook.com/about/privacy/), provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook, e.g. the Facebook blocker of the provider Webgraph, which may be obtained [here](http://webgraph.com/resources/facebookblocker/). These applications may be used by the data subject to eliminate a data transmission to Facebook.
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AND USE OF GOOGLE ANALYTICS
+
+On this website, the controller has integrated the component of Google Analytics. Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behaviour of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
+
+The operator of the Google Analytics component is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States.
+
+The purpose of the Google Analytics component is to analyse the traffic on our website. Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us.
+
+Google Analytics places a cookie on the information technology system of the data subject. The definition of cookies is explained above. With the setting of the cookie, Google is enabled to analyse the use of our website. With each call-up to one of the individual pages of this Internet site, which is operated by the controller and into which a Google Analytics component was integrated, the Internet browser on the information technology system of the data subject will automatically submit data through the Google Analytics component for the purpose of online advertising and the settlement of commissions to Google. During the course of this technical procedure, the enterprise Google gains knowledge of personal information, such as the IP address of the data subject, which serves Google, inter alia, to understand the origin of visitors and clicks, and subsequently create commission settlements.
+
+The cookie is used to store personal information, such as the access time, the location from which the access was made, and the frequency of visits of our website by the data subject. With each visit to our Internet site, such personal data, including the IP address of the Internet access used by the data subject, will be transmitted to Google in the United States of America. These personal data are stored by Google in the United States of America. Google may pass these personal data collected through the technical procedure to third parties.
+
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies. Such an adjustment to the Internet browser used would also prevent Google Analytics from setting a cookie on the information technology system of the data subject. In addition, cookies already in use by Google Analytics may be deleted at any time via a web browser or other software programs.
+
+In addition, the data subject has the possibility of objecting to a collection of data that are generated by Google Analytics, which is related to the use of this website, as well as the processing of this data by Google and the chance to preclude any such. For this purpose, the data subject must download a browser add-on [here](https://tools.google.com/dlpage/gaoptout) and install it. This browser add-on tells Google Analytics through a JavaScript, that any data and information about the visits of Internet pages may not be transmitted to Google Analytics. The installation of the browser add-ons is considered an objection by Google. If the information technology system of the data subject is later deleted, formatted, or newly installed, then the data subject must reinstall the browser add-ons to disable Google Analytics. If the browser add-on was uninstalled by the data subject or any other person who is attributable to their sphere of competence, or is disabled, it is possible to execute the reinstallation or reactivation of the browser add-ons.
+
+Further information and the applicable data protection provisions of Google may be retrieved under <https://www.google.com/intl/en/policies/privacy/> and under <http://www.google.com/analytics/terms/us.html>. Google Analytics is further explained [here](https://marketingplatform.google.com/about/analytics/).
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AND USE OF HOTJAR
+
+Hotjar provides analysis tools for online behaviours, allowing us to understand how users interact with our website to ensure the best possible experience.
+
+You can opt out of tracking here: <https://www.hotjar.com/legal/compliance/opt-out>. You can learn more about Hotjar's terms (<https://www.hotjar.com/legal/policies/terms-of-service>) and privacy policy (<https://www.hotjar.com/privacy>) as well as their policy on data safety, privacy and security (<https://help.hotjar.com/hc/en-us/sections/115003180467-Privacy-Security-and-Operations>).
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AN USE OF GOOGLE-ADWORDS
+
+On this website, the controller has integrated Google AdWords. Google AdWords is a service for Internet advertising that allows the advertiser to place ads in Google search engine results and the Google advertising network. Google AdWords allows an advertiser to pre-define specific keywords with the help of which an ad on Google’s search results only then displayed, when the user utilizes the search engine to retrieve a keyword-relevant search result. In the Google Advertising Network, the ads are distributed on relevant web pages using an automatic algorithm, taking into account the previously defined keywords.
+
+The operating company of Google AdWords is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, UNITED STATES.
+
+The purpose of Google AdWords is the promotion of our website by the inclusion of relevant advertising on the websites of third parties and in the search engine results of the search engine Google and an insertion of third-party advertising on our website.
+
+If a data subject reaches our website via a Google ad, a conversion cookie is filed on the information technology system of the data subject through Google. The definition of cookies is explained above. A conversion cookie loses its validity after 30 days and is not used to identify the data subject. If the cookie has not expired, the conversion cookie is used to check whether certain sub-pages, e.g., the shopping cart from an online shop system, were called up on our website. Through the conversion cookie, both Google and the controller can understand whether a person who reached an AdWords ad on our website generated sales, that is, executed or cancelled a sale of goods.
+
+The data and information collected through the use of the conversion cookie is used by Google to create visit statistics for our website. These visit statistics are used in order to determine the total number of users who have been served through AdWords ads to ascertain the success or failure of each AdWords ad and to optimize our AdWords ads in the future. Neither our company nor other Google AdWords advertisers receive information from Google that could identify the data subject.
+
+The conversion cookie stores personal information, e.g. the Internet pages visited by the data subject. Each time we visit our Internet pages, personal data, including the IP address of the Internet access used by the data subject, is transmitted to Google in the United States of America. These personal data are stored by Google in the United States of America. Google may pass these personal data collected through the technical procedure to third parties.
+
+The data subject may, at any time, prevent the setting of cookies by our website, as stated above, by means of a corresponding setting of the Internet browser used and thus permanently deny the setting of cookies. Such a setting of the Internet browser used would also prevent Google from placing a conversion cookie on the information technology system of the data subject. In addition, a cookie set by Google AdWords may be deleted at any time via the Internet browser or other software programs.
+
+The data subject has a possibility of objecting to the interest based advertisement of Google. Therefore, the data subject must access from each of the browsers in use the link [www.google.de/settings/ads](http://www.google.de/settings/ads) and set the desired settings.
+
+Further information and the applicable data protection provisions of Google may be retrieved [here](https://www.google.com/intl/en/policies/privacy/).
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AND USE OF LINKEDIN
+
+The controller has integrated components of the LinkedIn Corporation on this website. LinkedIn is a web-based social network that enables users with existing business contacts to connect and to make new business contacts. LinkedIn is currently the largest platform for business contacts and one of the most visited websites in the world.
+
+The operating company of LinkedIn is LinkedIn Corporation, 2029 Stierlin Court Mountain View, CA 94043, UNITED STATES. For privacy matters outside of the UNITED STATES LinkedIn Ireland, Privacy Policy Issues, Wilton Plaza, Wilton Place, Dublin 2, Ireland, is responsible.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a LinkedIn component (LinkedIn plug-in) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to the download of a display of the corresponding LinkedIn component of LinkedIn. Further information about the LinkedIn plug-in may be accessed [here](https://developer.linkedin.com/plugins). During the course of this technical procedure, LinkedIn gains knowledge of what specific sub-page of our website was visited by the data subject.
+
+If the data subject is logged in at the same time on LinkedIn, LinkedIn detects with every call-up to our website by the data subject—and for the entire duration of their stay on our Internet site—which specific sub-page of our Internet page was visited by the data subject. This information is collected through the LinkedIn component and associated with the respective LinkedIn account of the data subject. If the data subject clicks on one of the LinkedIn buttons integrated on our website, then LinkedIn assigns this information to the personal LinkedIn user account of the data subject and stores the personal data.
+
+LinkedIn receives information via the LinkedIn component that the data subject has visited our website, provided that the data subject is logged in at LinkedIn at the time of the call-up to our website. This occurs regardless of whether the person clicks on the LinkedIn button or not. If such a transmission of information to LinkedIn is not desirable for the data subject, then he or she may prevent this by logging off from their LinkedIn account before a call-up to our website is made.
+
+LinkedIn provides under <https://www.linkedin.com/psettings/guest-controls> the possibility to unsubscribe from e-mail messages, SMS messages and targeted ads, as well as the ability to manage ad settings. LinkedIn also uses affiliates such as Eire, Google Analytics, BlueKai, DoubleClick, Nielsen, Comscore, Eloqua, and Lotame. The setting of such cookies may be denied under <https://www.linkedin.com/legal/cookie-policy>. The applicable privacy policy for LinkedIn is available under <https://www.linkedin.com/legal/privacy-policy>. The LinkedIn Cookie Policy is available [here](https://www.linkedin.com/legal/cookie-policy).
+
+## DATA PROTECTION PROVISIONS ABOUT THE APPLICATION AND USE OF TWITTER
+
+On this website, the controller has integrated components of Twitter. Twitter messages (tweets)  are available for everyone, including those who are not logged on to Twitter. The tweets are also displayed to so-called followers of the respective user. Followers are other Twitter users who follow a user’s tweets. Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets.
+
+The operating company of Twitter is Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, UNITED STATES.
+
+With each call-up to one of the individual pages of this Internet site, which is operated by the controller and on which a Twitter component (Twitter button) was integrated, the Internet browser on the information technology system of the data subject is automatically prompted to download a display of the corresponding Twitter component of Twitter. Further information about the Twitter buttons is available under <https://about.twitter.com/de/resources/buttons>. During the course of this technical procedure, Twitter gains knowledge of what specific sub-page of our website was visited by the data subject. The purpose of the integration of the Twitter component is a retransmission of the contents of this website to allow our users to introduce this web page to the digital world and increase our visitor numbers.
+
+If the data subject is logged in at the same time on Twitter, Twitter detects with every call-up to our website by the data subject and for the entire duration of their stay on our Internet site which specific sub-page of our Internet page was visited by the data subject. This information is collected through the Twitter component and associated with the respective Twitter account of the data subject. If the data subject clicks on one of the Twitter buttons integrated on our website, then Twitter assigns this information to the personal Twitter user account of the data subject and stores the personal data.
+
+Twitter receives information via the Twitter component that the data subject has visited our website, provided that the data subject is logged in on Twitter at the time of the call-up to our website. This occurs regardless of whether the person clicks on the Twitter component or not. If such a transmission of information to Twitter is not desirable for the data subject, then he or she may prevent this by logging off from their Twitter account before a call-up to our website is made.
+
+The applicable data protection provisions of Twitter may be accessed under <https://twitter.com/privacy?lang=en>.
+
+## OTHER WEBSITES
+
+This website occasionally contains links to other websites to allow original sources to be found by the reader. 
+
+EUFIC is not responsible for the privacy practices or the content of such Web sites. We do not follow your browsing path outside of our website.
+
+## SECURITY
+
+This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect a user’s personal information, we cannot ensure or warrant the security of any information you transmit to us or from our online services. Once we receive a user’s transmission, we use our best effort to ensure its security on our systems.
+
+## CONTACT US
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the address/details below. We will promptly correct any information found to be incorrect. Also, if you would like your data removed from our database, call, write or email and we will comply immediately.
+
+If you have any questions regarding our Privacy Policy please contact us:
+
+EUFIC, Rue des Deux Églises 14, 3rd Floor, 1000 Brussels, Belgium
+
+  * T:       +3225068989
+  * E:       eufic@eufic.org
+  * W:      [http://www.eufic.org](http://www.eufic.org/)
 
 
