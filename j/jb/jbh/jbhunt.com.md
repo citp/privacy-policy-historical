@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930063309id_/https%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbhunt.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522033303id_/https%3A//www.jbhunt.com/privacy) for the most accurate reproduction.*
 
-# Become a Freight Carrier and Find Loads with J.B. Hunt | J.B. Hunt Transport
+# SMS Terms and Condition | J.B. Hunt Transport | J.B. Hunt Transport
 
-##### Last Updated: May 4, 2018
+##### Last Updated: January 14, 2019
 
 J.B. Hunt Transport Services, Inc. and its subsidiaries and affiliates (“J.B. Hunt,” “we,” “us,” or “our”) take your privacy seriously, so we want you to know how we collect, use, share and protect your personal information.
 
@@ -16,7 +16,7 @@ J.B. Hunt Transport Services, Inc. and its subsidiaries and affiliates (“J.B. 
 
 
 
-This Privacy Policy applies to personal information that we collect about you on this website, jbhunt.com (the “Website”), and our blog, blog.jbhunt.com, and to personal information that you submit to us or that we collect via our mobile applications, software, or any other J.B. Hunt product or service that incorporates this Privacy Policy by reference (all of which, including the Website, are collectively referred to in this Policy as the “Site”).
+This Privacy Policy applies to personal information that we collect about you on this website, jbhunt.com (the “Website”) and to personal information that you submit to us or that we collect via online fillable forms, email or [SMS campaigns](https://web.archive.org/sms-policy), our mobile applications, software, or any other J.B. Hunt product or service that incorporates this Privacy Policy by reference (all of which, including the Website, are collectively referred to in this Policy as the “Site”).
 
 For all non-U.S. users of, or visitors to, the Site, any information you provide, including any personal information, will be transferred to and processed by, a computer server located within the United States. Your personal information will be handled in accordance with this Privacy Policy and U.S. law, which may be less stringent than the law where you reside.
 
@@ -29,6 +29,8 @@ We collect information that you voluntarily share with us or permit us to receiv
   * Your fax number
   * Your address
   * Your organization
+  * Your customer number
+  * Your rep group
   * Information that you enter, in narrative form, into request forms, live customer service chats, or inquiries or other communications submitted by email
   * Your username and password for your account
   * U.S. Department of Transportation Number
@@ -45,21 +47,25 @@ From time-to-time, our Site may request information in order for you to particip
  **Information We Collect Through Technology**  
 We collect information through technology to enhance our ability to serve you. For example, when you visit the Site, we may collect your domain name, Internet Protocol (IP) address, browser version, operating system, and the website you passed through to reach our Site. In addition, our Site gathers certain usage information like the numbers and frequency of visitors to the Site and its areas, activity levels, most used browsers, and other useful statistics similar to the television ratings which tell how many people tuned into a program.
 
- **Do we use cookies on our site?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser that enables the Website to recognize your browser and capture and remember certain information. We use cookies to help us understand and save your preferences for future visits to the Website. For example, when you return to the Website after prior visits, cookies provide information to the Website so that it will immediately recognize you as a return visitor, which can improve your browsing experience and save you time when returning to the Website or specific pages on our Website.
+ **Do we use Cookies on our site?**  
+Yes. Cookies, tags, and related tracking technologies (“Cookies”) are small files that a site or its service provider transfers to your computer’s hard drive through your web browser, your device, or the page you are viewing that enables the Site to recognize your browser and capture and remember certain information. We use Cookies to help us understand and save your preferences for future visits to the Site. For example, when you return to the Site after prior visits, Cookies provide information to the Site so that it will immediately recognize you as a return visitor, which can improve your browsing experience and save you time when returning to the Site or specific pages on our Site. We also rely on Cookies from our third party advertising providers to better understand how you interact with the Site and other websites you may visit, in order to present advertising that may be of interest to you (also known as interest-based advertising).
 
-Depending on the browser you use, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies by adjusting your browser settings. Like other websites, if you turn your cookies off, some of the features on jbhunt.com may not function properly.
+Depending on the browser you use, you can choose to have your computer warn you each time certain Cookies are used, or you can choose to turn off certain Cookies by adjusting your browser settings. Like other websites, if you turn off certain Cookies, some of the features on the Site may not function properly.
 
- **Google Analytics and Other Third Parties**  
-We use cookies provided by Google Analytics, a third-party service provider, to assist us in better understanding visitors to the Website. These cookies collect data tied to a user’s IP address such as the length of time a user spends on a page, the pages a user visits, and the websites a user visits before and after visiting jbhunt.com. Based on this information, Google Analytics compiles aggregate data about Website traffic and Website interactions, which we use to offer you a better experience when you visit jbhunt.com. Other Google advertising features we use include Dynamic Remarketing, DoubleClick, and AdWords Conversion. You can obtain more information about Google Analytics here: <https://www.google.com/analytics/learn/privacy.html?hl=en-GB>. For information about how to prevent your data from being used by Google Analytics, visit [https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
+In addition, please also visit the Digital Advertising Alliance, Network Advertising Initiative, and Digital Advertising Alliance of Canada to learn more about Cookies used for interest-based advertising by third parties, and the choices you have to opt out of such Cookies.
 
-We may use other trusted third-party services from time to time, including but not limited to Adobe Analytics (Omniture). Omniture uses cookies either stored or retrieved from your computer to help us analyze visitor behavior and improve our offerings and design based on user needs. You can obtain more information about Adobe’s Omniture service, including how to opt-out, here: <http://www.adobe.com/privacy.html#optout>.
+ **Google Analytics, Facebook, and Other Third Parties**  
+We use Cookies provided by Google Analytics, a third-party service provider, to assist us in better understanding visitors to the Site. These Cookies collect data tied to a user’s IP address such as the length of time a user spends on a page, the pages a user visits, and the websites a user visits before and after visiting jbhunt.com. Based on this information, Google Analytics compiles aggregate data about Site traffic and Site interactions, which we use to offer you a better experience when you visit jbhunt.com. Other Google advertising features we use include Dynamic Remarketing, DoubleClick, and AdWords Conversion. You can obtain more information about Google Analytics here: <https://www.google.com/analytics/learn/privacy.html?hl=en-GB>. For information about how to prevent your data from being used by Google Analytics, visit [https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
+
+Facebook and other third parties may use Cookies, web beacons, and other storage technologies to collect or receive information from JBHunt.jobs and elsewhere on the internet and use that information to provide measurement services and targeted ads to website users. You may opt out of the collection and use of your information for ad targeting by visiting <http://www.aboutads.info/choices>. You may also view your [Facebook ads settings](https://www.facebook.com/help/568137493302217?helpref=faq_content) to update your preferences at any time.
 
  **Device Identification**  
-We may collect your unique device identification, advertising identifier, user identification, and other persistent identifiers (collectively, “Device ID”) to evaluate and improve Site functionality, for JBHT’s internal business purposes (including but not limited to business analytics, sales, marketing, and recruiting), and to serve advertising.
+We may collect your unique device identification, advertising identifier, user identification, and other persistent identifiers (collectively, “Device ID”) to evaluate and improve software functionality, for J.B. Hunt’s internal business purposes (including but not limited to business analytics, sales, marketing, and recruiting), and in certain cases, to serve advertising.
 
  **Your ‘Do Not Track’ Browser Setting**  
-Do Not Track (“DNT”) is a preference you can set in your browser’s settings to let the websites you visit know that you do not want the websites collecting your personal information. Our Site does not currently respond to DNT browser settings across all pages and features of the Site. We will not collect personal information about your online activities over time and across third-party websites or online services, regardless of whether you choose the DNT browser preference. However, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. These tools may collect personal information about you or your online activities at this Site or across different sites over time by using cookies or by any other means.
+Do Not Track (“DNT”) is a preference you can set in your browser’s settings to let the websites you visit know that you do not want the websites collecting your personal information. Our Site does not currently respond to DNT browser settings across all pages and features of the Site. We will not collect personal information about your online activities over time and across third-party websites or online services, regardless of whether you choose the DNT browser preference. However, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. These tools may collect personal information about you or your online activities at this Site or across different sites over time by using Cookies or by any other means.
+
+We may also use aggregated data to improve business efficiencies, our Site, and related services to you.
 
  **Links to and Plug-Ins from Other Websites or Media**  
 The Site includes links from the Site to sites or applications operated by third parties as well as plug-ins that permit access to third-party sites (such as Twitter buttons) and, with respect to the J.B. Hunt 360 applications, a hosted payment portal (collectively, “Third-Party Sites”). We do not control any Third -Party Sites, and we are not responsible for any information they may collect. The information collection practices of a Third -Party Site are governed by that site’s privacy policy. It is your choice to enter any Third -Party Site. We recommend that you read the privacy policy of any Third-Party site that you choose to visit from the Site.
@@ -76,6 +82,8 @@ We use the information we collect about you to serve you and improve your experi
   * Continuously evaluating and improving customer service and our online user experience
 
 
+
+We may also use aggregated data to improve business efficiencies, our Site, and related services to you.
 
 ### How We May Share Information About You
 
@@ -113,7 +121,7 @@ Microsoft MapPoint Terms of Use:
 <http://go.microsoft.com/fwlink/?LinkId=21969>
 
 Privacy Statement:  
-<http://go.microsoft.com/fwlink/?LinkId=21970>
+<https://privacy.microsoft.com/en-us/privacystatement>
 
 #### Copyright Notice:
 
