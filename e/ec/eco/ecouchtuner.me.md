@@ -1,24 +1,33 @@
-> *The following text is extracted and transformed from the ecouchtuner.me privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623074718id_/http%3A//www.couchtuner.fr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecouchtuner.me privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522123751id_/https%3A//ecouchtuner.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Watch Privacy Policy Online | CouchTuner
 
-This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+## Watch Privacy Policy Online
 
-**Collection of Information**  
-We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request, unless you give us permission to use it in another manner, for example, to add you to one of our mailing lists.
+**Privacy Policy**
 
-**Cookie/Tracking Technology**  
-Our site may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+It gives viewers information on personal stuffs collected or left on the site. Take time to read the privacy policy before watching your favorite TV SHOWS or submitting any information. Using the site, we assume that you have read and understand the policy.
 
-**Distribution of Information**  
-We do not share your personally identifiable information to any third party for marketing purposes. However, we may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place.
+**Information Collected/Left**
 
-**Commitment to Data Security**  
-Your personally identifiable information is kept secure. Only authorized staff of this site (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+Information is collected only if users submitted the information voluntarily. The information such as name, email address, etc are used to send replies to specific requests, unless the user grant the administrator the permission to use the information in other matters such as mailing lists.
 
-**Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+**Cookie/Tracking Technology**
 
-By e-mail: contactmeowner[at] gmail [dot] com
+CouchTuner may use tracking and/or cookies technology, useful for collecting data like operating system, checking the number of viewers, browser type, and the site’s usefulness to its users. Your personal information can’t be gathered using this technology; on the other hand, if you previously provided your personal information, cookies may link back to that information. Our advertisers or other third parties may use cookies to collect data to provide specific ads. Most of the browsers automatically recognize cookies, but you may modify your browser settings to decline cookies.
 
-We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Information Distribution**
+
+Information provided on the site is secured and is not provided to any third party individuals for marketing gains. For companies investigating frauds or other government agencies, we may share information with appropriate documents or concerns, e.g. protecting individuals due to fraud issues, required and permitted by the law and other fraud concerns.
+
+**Our Commitment to Data Safety**
+
+Information provided on the site is kept safe and secured. Authorized and reliable staffs (who understand and values information security) can see and have access to the information provided. We may send emails and newsletters and it includes option whether you agree or not to receive future mails from us.
+
+**Concerns on Privacy and Data Security**
+
+For concerns, questions or comments, contact us at
+
+(not available yet)
+
+**Changes are made to this policy without asking further permission from its users. You have to check and read the privacy policy from time to time to make sure that you understand the information posted on this page or the privacy policy.**
