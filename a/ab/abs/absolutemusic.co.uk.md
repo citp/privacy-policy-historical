@@ -1,49 +1,74 @@
-> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129014616id_/https%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522175823id_/https%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | Absolute Music
+# Privacy Policy | Absolute Music
 
-**OUR COMMITMENT TO PRIVACY**
+## Absolute Music Privacy Policy - Effective 24th May 2018
 
-Thank you for visiting the Absolute Music website. Protecting consumer privacy is very important to us. Our Online Privacy Statement is available to inform you about our collection and use of personal information so that you can make informed choices about how your own information is collected and used. This Online Privacy Statement reflects the Absolute Music policies covering personal information collected at this website on or after the effective date shown above. We believe that information used responsibly benefits consumers and the economy, whether it is information we house on behalf of consumers conducting transactions or information we collect on behalf of our business clients. For example, we use consumer information every day to ensure fast and accurate processing of hundreds of thousands of money transfers. In addition, Absolute Music strives to better serve our customers by offering goods and services that we believe fit their needs and interests. When identifying an opportunity, Absolute Music may use consumer information it has collected in an effort to identify consumers who may be interested in that opportunity. For more than few years, consumers and businesses have relied on Absolute Music for safe and reliable service. The relationships we have developed through the years have been established based on mutual trust. Each day we and employees and agents strive to reinforce our commitment to our clients and consumers. Central to that commitment is ensuring that we abide by a set of privacy policies, which are outlined below. These policies guide us in the collection and use of information as well as employee responsibilities in protecting your privacy. We use personal information about consumers only in a manner consistent with these policies. 
+Here at Absolute Music Solutions we take your privacy seriously. We adopt a fair, honest and transparent privacy policy and adhere to all UK and EU regulations surrounding your personal data. 
 
-**COLLECTION OF INFORMATION**
+### What information do we collect?
 
-Absolute Music collects personal information in order to offer or provide goods and services to consumers and our customers. We may obtain this information from a variety of sources: · Directly from customer applications, questionnaires and other materials submitted to us by customers; · From transactions in which Absolute Music and consumers are involved; · From clickthru activity on our web sites; and · From a variety of third-party sources, such as our business customers, government repositories, consumer reporting agencies and other financial institutions. 
+Absolute Music collects information from our customers when a transaction is made or when a quote is created. We also store your personal data if you have opted in to our VIP membership, and through cookie technology on our websites 
 
-**DISCLOSURE OF INFORMATION**
+[Please read our cookie information here](https://www.absolutemusic.co.uk/privacy-policy-cookie-restriction-mode)
 
-Absolute Music does not disclose customer information to third parties without first giving customers an opportunity to opt-out of certain kinds of disclosures. There are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud. Finally, Absolute Music may disclose information about former customers to third parties and companies with which Absolute Music is affiliated, as well as unaffiliated third parties. Those disclosures may consist of the following: · Financial background information describing a customer's financial status; · Identification information, such as name and address data; · Transaction information, such as account activity, debit activity or credit activity; and · Other information relating to financial matters. 
+Where provided, the personal data that we will keep will consist of your name, telephone number, email address, billing address, delivery address, the goods you purchased, the IP address used at the time of transaction, the products and product categories of goods you have purchased or discussed with us, whether you wish to receive marketing communication and your communication preferences. 
 
-**RECIPIENTS OF INFORMATION**
+If you visit our store we record CCTV images for security purposes. 
 
-Absolute Music may disclose consumer information to companies affiliated with Absolute Music and to companies or other parties not affiliated with Absolute Music (subject to consumers' opt-out rights) These recipients include: · Financial institutions, such as banks, credit card companies and brokerage houses; · Companies that process transactions or provide other services for us; · Government agencies; and · In addition, under {country} law Absolute Music is permitted to disclose customer information to certain recipients, like credit reporting. 
+Our website is not directed at children under the age of 13. 
 
-**WE ARE COMMITTED TO PROTECTING THE CONFIDENTIALITY OF PERSONAL CONSUMER INFORMATION.**
+### How do we use the data?
 
-Absolute Music limits access to personal information to those employees of Absolute Music and its affiliates who need it to fulfill their business responsibilities. Employees must adhere to Absolute Music privacy policies. Employees violating these policies may be subject to disciplinary action, up to and including dismissal. Vendors and other outside contractors we engage are subject to our contractual requirements to ensure that sensitive personal information is safeguarded. 
+  * We will use your personal data to process your order and manage your account for the purposes of completing a contract of sale of goods or services, or generating a quote for goods or services. Additionally, if you have given your consent, we will use your data to provide you with information on products, services, and for other relevant marketing communication. 
+  * Your data is required by us and specific third parties for the processing of transactions, delivery of goods, and account management. We will only give your data to a third party if it is required to complete a transaction, (for example if we deliver your order from one of suppliers directly). Additionally, we will use relevant sales data to decide on business strategies and for other statistical purposes. 
+  * For the purpose of processing your order to complete a contract of sale, if you do not supply the required personal information we may be unable to complete the transaction and you may not receive your goods and complete the contract. 
+  * We use automated decision making to tailor marketing content to your preferences if you have agreed to receive marketing communication from us. In this case, we will use the information you supply to us that is relevant to our products and services to ensure you receive communication based on your interests and preferences. 
 
-**PAYPAL TRANSACTIONS.**
 
-All PayPal transactions are subject to the PayPal Privacy Policy which can be found [here](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full?locale.x=en_GB)
 
- **WE USE APPROPRIATE SECURITY SAFEGUARDS.**
+### 
 
-At Absolute Music, security is a priority. We employ appropriate measures to protect consumer information against unauthorized access, disclosure, alteration or destruction. These may include, among others, encryption, physical access security and other appropriate technologies. Absolute Music continually reviews and enhances its security systems, as necessary. 
+To complete a transaction and to allow delivery of goods, it will be necessary for us to pass relevant information to courier and delivery services that we use. These are DPD, Fedex, Royal Mail, Schenker, Wyvern Cargo. If the item is to be delivered by one of our suppliers directly, then we will inform you before we pass your data to the supplier that needs your information to allow successful delivery of goods. In this case, they will pass your details on to their courier for delivery purposes only. 
 
-**WE MAINTAIN PROCEDURES TO ASSURE THE QUALITY OF INFORMATION WE COLLECT AND WHERE APPLICABLE, WE WILL INFORM CONSUMERS ABOUT HOW THEY CAN ACCESS THEIR PERSONAL INFORMATION AND MAKE CORRECTIONS, IF NECESSARY.**
+Some instant download products we sell use an automated system to process your order with a specific third-party software supplier – Plugin Boutique. If you order a 'PiB' product your data will be passed to them so that your order can be processed. Plugin Boutique will also keep your data on their internal system to track customer purchases of their software. 
 
-Absolute Music employs appropriate measures to assure the quality of information we collect directly from consumers. Where Absolute Music collects information directly from consumers or sources other than our business customers, we permit them, if possible, to dispute or correct any erroneous or out-of-date personally identifiable information. Of course, this correction would not be possible if the information is proprietary to one of our business customers, reflects historical transaction information or if correction would violate the privacy or legal rights of a third party. Where applicable, we abide by laws related to such information. You can correct factual errors in your personally identifiable information by sending us a written request that credibly shows error. We reserve the right to independently verify claims made. To protect your privacy and security, we also will take reasonable steps to verify your identity before making corrections. We reserve the right to assess a service charge for providing you any information in connection with your request. 
+### How do we protect your data?
 
-**THE Absolute Music WEBSITE IS NOT DIRECTED AT CHILDREN UNDER THE AGE OF 13.**
+  * Any personal data we hold is kept and processed on secure computer systems, and is protected against unauthorised or unlawful processing, accidental loss, destruction and damage through encryption, access control, physical security and other appropriate technologies. Absolute Music continually reviews and enhances its security systems, as necessary. 
+  * The agreements and contracts that we have in place with all third parties who process your data ensure that your information will not be used for any other purpose other than for what it was intended, and that the data will be suppressed or deleted after a reasonable time after the data has been processed. 
+  * Absolute Music limits access to personal information to those employees of Absolute Music and its affiliates who need it to fulfill their business responsibilities. Employees must adhere to Absolute Music privacy policies. Employees violating these policies may be subject to disciplinary action, up to and including dismissal. Vendors and other outside contractors we engage are subject to our contractual requirements to ensure that sensitive personal information is safeguarded. 
+  * Your personal data will generally be kept by us for a period of five years after a purchase to ensure we comply with any financial and legal requirements, or at least for the length of any warranty period. If you have agreed to receive marketing communication from us, then we will keep your details until such time as you ask for them to be removed or updated, or such a time where the data is no longer required or is known to be out of date. 
 
-Our website is not directed at children under the age of 13 and Absolute Music does not collect or maintain information at our website from those we actually know are under the age of 13. 
 
-**WEBSITE MAY BE LINKED TO OTHER WEBSITES**
 
-Absolute Music may create links to third party websites. Absolute Music is not responsible for the content or privacy practices employed by websites that are linked from our website. 
+### Your rights - access to your information and correction
 
-**OPT OUT RIGHT**
+  * You have legal rights as to how we are able to use your data. The relevant legislation to which we comply is the DPA (Data Protection Act 1998), PECR (Privacy and Electronic Communications Regulations 2003), and the GDPR (General Data Protection Regulation 2016). 
+  * You have the right to request a copy of the information that we hold about you. If any of the information is incorrect or incomplete we will change it if you have provided us with enough information to verify your identity. 
+  * You have the right to object to your data being processed
+  * You have the right to withdraw consent for us to retain and process your data at any time, subject to legal requirements and with respect to warranty periods. 
+  * You have the right to lodge a complaint with a supervisory authority if you believe that we have not used your data fairly and honestly. 
 
-Absolute Music may disclose consumer information to third parties as described earlier in this notice. Many of these disclosures are beneficial to consumers because they permit goods and services of interest to consumers to be offered to consumers at attractive rates. We strive to give consumers choices about how their data will be used. You have the right to opt-out of (direct us not to make) these disclosures when the consumer information is about you. Of course, there are some disclosures to third parties that are not subject to the opt-out, such as disclosures necessary to effect, administer or enforce a transaction requested by you, to companies that perform services for us or to prevent fraud. When you use this service, you will be asked whether you wish to opt out. If you wish to opt out, simply check the appropriate box and submit your choice. If you have any questions or indeed comments about our Online Privacy Statement,or for some reason believe we have not adhered to our statement, please contact: Absolute Music Data Protection Officer: [EMAIL](https://web.archive.org/cdn-cgi/l/email-protection#a1d2c9ced1e1c0c3d2cecdd4d5c4ccd4d2c8c28fc2ce8fd4ca) We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. Absolute Music reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time.
 
-For details on our cookie policy, please see our [cookie policy page](https://www.absolutemusic.co.uk/privacy-policy-cookie-restriction-mode)
+
+To exercise any of the above rights, then please contact our Privacy department - please find these details below. 
+
+### Other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you follow a link to other websites you should read their own privacy policies. We cannot accept responsibility for the content of other websites. 
+
+### Data protection contact details:
+
+Email: privacy@absolutemusic.co.uk   
+Telephone: 01202 597180   
+Address: 
+
+Data Protection  
+Absolute Music Solutions Ltd  
+3-5 Knighton Heath Estate  
+855 Ringwood Road  
+Bournemouth  
+Dorset  
+BH11 8NE  
+
