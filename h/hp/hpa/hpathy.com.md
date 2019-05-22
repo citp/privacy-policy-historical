@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919152716id_/https%3A//help.hpathy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522061448id_/https%3A//hpathy.com/hpathy-com-privacy-policy) for the most accurate reproduction.*
 
-# Hpathy.com Privacy Policy - Hpathy User Guides
+# Hpathy.com Privacy Policy - Hpathy.com
 
 Your privacy is very important to us. Please contact us from our [Contact Us](https://hpathy.com/contact-hpathy/) page if you have any questions or comments about privacy, or how any information you send us may be used. [Hpathy.com](https://hpathy.com/) has created this statement to demonstrate our firm commitment to privacy. The following text discloses our information gathering practices for this Web site (Homeopathy for Everyone – Hpathy.com), and explains how the information is used, protected, and, in certain limited instances that do not violate your privacy, disseminated.
 
