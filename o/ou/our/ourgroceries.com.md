@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323232926id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522190029id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
 
 # OurGroceries - Privacy Policy
 
@@ -92,6 +92,10 @@ We use various security measures to help protect your information from accidenta
 
 Our servers are located, and your information is stored, in the United States of America. If you choose to use our Services from outside the U.S.A., then please be aware that you are transferring your Personal Information outside of your country and into the U.S.A. for storage and processing. By providing your Personal Information to us through your use of our Services, you agree to that transfer, storage, and processing in the U.S.A. You should be aware that the privacy and data security laws of the U.S.A. may in some cases provide fewer protections than those of your own country.
 
+### General Data Protection Regulation
+
+The [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR) is a European Union regulation intended to protect the data and privacy of individuals in the European Union. We process your “personal data” as defined by the GDPR (i.e., data that can be traced back to you as an individual), and we are therefore required to justify why we are lawfully permitted to process this data. Simply put, we collect and process the data that you give us (your email address, your shopping lists, your recipes) in order to provide you with a multi-user shopping list app. Doing so is the core purpose of our Services. We therefore have a “legitimate interest” (as defined by the GDPR) in processing this data (see [Article 6](https://gdpr-info.eu/art-6-gdpr/), paragraph 1(f)). We do not process personal data that is incidental to the Services (such as your demographic data). Please feel free to [contact us](mailto:privacy@ourgroceries.com) if you have questions about our GDPR compliance.
+
 ### Changes To This Privacy Policy
 
 If we make a material change to this privacy policy, we will notify you by email or within the OurGroceries apps so that you may review the new terms and decide whether to continue using the Services. We encourage you to periodically review this privacy policy to stay informed about how we collect, use, and share information.
@@ -100,4 +104,4 @@ If we make a material change to this privacy policy, we will notify you by email
 
 If you have questions or comments about this privacy policy, please contact us at [privacy@ourgroceries.com](mailto:privacy@ourgroceries.com).
 
-This policy was last updated May 27, 2015.
+This policy was last updated April 11, 2018.
