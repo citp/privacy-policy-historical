@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quimbee.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919210723id_/https%3A//www.quimbee.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quimbee.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523014608id_/https%3A//www.quimbee.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Quimbee
+# Privacy - Quimbee
 
-1\. **Introduction**.
+## 1\. **Introduction**.
 
 1.1. Effective Date. The effective date of this Privacy Policy is December 1, 2017.
 
@@ -14,15 +14,17 @@
 
 1.5. **_No Permission Without Agreement. By using the Service, you represent and warrant that you have read and understood, and agree to the terms of, this Privacy Policy. If you do not understand or do not agree to be bound by this Privacy Policy, you must immediately cease using or accessing the Service_**.
 
-2\. **Updates and Changes to Privacy Policy**.
+## 2\. **Updates and Changes to Privacy Policy**.
 
 2.1. Each time you access the Service, the then-current version of this Privacy Policy will apply. Each time you use the Service, we recommend that you check the date of this Privacy Policy in Section 1.1 (Effective Date) and review any changes since the last time you used the Service.
 
 2.2. Although most changes are likely to be minor, Quimbee reserves the right, at any time and without notice, to add to, update, change, or modify this Privacy Policy, simply by posting a new version on this page. Any such addition, update, or change will be effective immediately on posting. Unless Quimbee obtains your express consent, any revised Privacy Policy will apply only to information collected after the effective date of the revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
 
-3\. **Children’s Privacy**. Quimbee does not solicit or knowingly collect Personal Information from children under the age of 13. If Quimbee obtains actual knowledge that it has collected Personal Information from a child under the age of 13, Quimbee will immediately delete that information from its database. Because Quimbee does not collect Personal Information from children under the age of 13, Quimbee has no such information to use or disclose to third parties. Quimbee has designed this Privacy Policy to comply with the Children’s Online Privacy Protection Act (“COPPA”).
+## 3\. **Children’s Privacy**. 
 
-4\. **Information Collection Practices**.
+Quimbee does not solicit or knowingly collect Personal Information from children under the age of 13. If Quimbee obtains actual knowledge that it has collected Personal Information from a child under the age of 13, Quimbee will immediately delete that information from its database. Because Quimbee does not collect Personal Information from children under the age of 13, Quimbee has no such information to use or disclose to third parties. Quimbee has designed this Privacy Policy to comply with the Children’s Online Privacy Protection Act (“COPPA”).
+
+## 4\. **Information Collection Practices**.
 
 4.1. **Traffic Data**. Like most website and mobile application operators, Quimbee collects information that web browsers automatically make available, including: (i) IP addresses; (ii) Internet domain names; (iii) types of devices accessing the Service; and (iv) types of Web browsers accessing the Service (collectively “ **Traffic Data** ”). Traffic Data is not meant to personally identify you, although it may be possible to identify you using Traffic Data in combination with other data.
 
@@ -74,7 +76,7 @@ Quimbee selects Third Party Analytics Services to help provide the Service to yo
 
 4.9. **Geolocation**. Quimbee may access and collect information regarding the physical geographic location of your computer or mobile device.
 
-5\. **Information Use and Disclosure Practices**.
+## 5\. **Information Use and Disclosure Practices**.
 
 5.1. **Traffic Data and Information Gathered Using Cookies**. Quimbee analyzes Traffic Data and information gathered using Cookies to help Quimbee better understand who is using the Service and how they are using it. By identifying patterns and trends in usage, Quimbee is able to better design the Service to improve your experience, and to serve you more relevant and interesting content. From time to time, Quimbee may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Service. Quimbee does not attempt to link information gathered using Cookies to Personal Information.
 
@@ -94,18 +96,34 @@ Quimbee selects Third Party Analytics Services to help provide the Service to yo
 
 5.2.2.5. **Unpaid Accounts**. If you fail to pay any balance owed in consideration of services, Quimbee may, as permitted by law, report your Personal Information, including without limitation your unpaid balance, to consumer credit reporting services, collection agencies, and others.
 
-6\. **Consent to Receive Electronic Communications From Company**. Without limitation, by registering for the Service and/or by providing your name, email, postal or residential address, and/or phone number through the Service, you expressly consent to receive electronic and other communications from Quimbee, over the short term and periodically, including email communications, regarding the Service, new product offers, promotions, and other matters. You may opt out of receiving electronic communications at any time by (a) following the unsubscribe instructions contained in each communication; or (b) sending an email to support@quimbee.com.
+## 6\. **Consent to Receive Electronic Communications From Company**. 
 
-7\. **Security of Personal Information**. Quimbee takes security seriously. We use commercially reasonable safeguards to protect against the unauthorized access, use, modification, destruction, or disclosure of your Personal Information. However, due to the realities of data security, Quimbee is unable to guarantee that any information provided to us will not be accessed, hacked, disclosed, altered, or destroyed by unauthorized parties.
+Without limitation, by registering for the Service and/or by providing your name, email, postal or residential address, and/or phone number through the Service, you expressly consent to receive electronic and other communications from Quimbee, over the short term and periodically, including email communications, regarding the Service, new product offers, promotions, and other matters. You may opt out of receiving electronic communications at any time by (a) following the unsubscribe instructions contained in each communication; or (b) sending an email to support@quimbee.com.
 
-8\. **Lost or Stolen Information**. You must promptly notify us if your credit, bank, other financial institution information, username, or password is lost, stolen, or used without permission. In such an event, we will remove the compromised information and update our records accordingly.
+## 7\. **Security of Personal Information**.
 
-9\. **User Ability to Access, Update, and Correct Personal Information**. Quimbee wants your Personal Information to be complete and accurate. As stated in the Terms of Service, by using the Service, you represent and warrant that all information you provide in connection with your use of the Service is current, complete, and accurate, and that you will update that information as needed to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, your Personal Information, visit your Settings page. Through your Settings page, you may review and update your Personal Information that we have already collected.
+Quimbee takes security seriously. We use commercially reasonable safeguards to protect against the unauthorized access, use, modification, destruction, or disclosure of your Personal Information. However, due to the realities of data security, Quimbee is unable to guarantee that any information provided to us will not be accessed, hacked, disclosed, altered, or destroyed by unauthorized parties.
 
-10\. **Third Party Websites**. Quimbee neither owns nor controls Third Party Websites. Accordingly, Third Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by Quimbee. Before visiting or providing Personal Information to Third Party Websites, you should inform yourself of the privacy policies and practices (if any) of those Third Party Websites, and should take those steps necessary to, in your discretion, protect your privacy.
+## 8\. **Lost or Stolen Information**. 
 
-11\. **Promotional Activities**. From time to time, Quimbee may conduct contests, giveaways, and other promotions (collectively, “ **Promotional Activities** ”). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, Quimbee may also ask you to participate in surveys designed to help Quimbee improve the Service. Any Personal Information provided to Quimbee in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
+You must promptly notify us if your credit, bank, other financial institution information, username, or password is lost, stolen, or used without permission. In such an event, we will remove the compromised information and update our records accordingly.
 
-12\. **Business Transitions**. In the event Quimbee goes through a business transition, including without limitation any merger, acquisition, partnership, business reorganization, debt finance, or sale of company assets, or in the event of an insolvency, bankruptcy, or receivership (together a “ **Business Transition** ”), Quimbee may use information collected in accordance with this Privacy Policy and subject to its restrictions, as part of any such Business Transition. In such instances, your information can be part of the assets transferred.
+## 9\. **User Ability to Access, Update, and Correct Personal Information**. 
 
-13\. **Do-Not-Track Disclosure**. Quimbee does not respond to “Do Not Track” signals sent by browsers.
+Quimbee wants your Personal Information to be complete and accurate. As stated in the Terms of Service, by using the Service, you represent and warrant that all information you provide in connection with your use of the Service is current, complete, and accurate, and that you will update that information as needed to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, your Personal Information, visit your Settings page. Through your Settings page, you may review and update your Personal Information that we have already collected.
+
+## 10\. **Third Party Websites**. 
+
+Quimbee neither owns nor controls Third Party Websites. Accordingly, Third Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by Quimbee. Before visiting or providing Personal Information to Third Party Websites, you should inform yourself of the privacy policies and practices (if any) of those Third Party Websites, and should take those steps necessary to, in your discretion, protect your privacy.
+
+## 11\. **Promotional Activities**. 
+
+From time to time, Quimbee may conduct contests, giveaways, and other promotions (collectively, “ **Promotional Activities** ”). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, Quimbee may also ask you to participate in surveys designed to help Quimbee improve the Service. Any Personal Information provided to Quimbee in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
+
+## 12\. **Business Transitions**. 
+
+In the event Quimbee goes through a business transition, including without limitation any merger, acquisition, partnership, business reorganization, debt finance, or sale of company assets, or in the event of an insolvency, bankruptcy, or receivership (together a “ **Business Transition** ”), Quimbee may use information collected in accordance with this Privacy Policy and subject to its restrictions, as part of any such Business Transition. In such instances, your information can be part of the assets transferred.
+
+## 13\. **Do-Not-Track Disclosure**. 
+
+Quimbee does not respond to “Do Not Track” signals sent by browsers.
