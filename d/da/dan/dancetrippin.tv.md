@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dancetrippin.tv privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727223252id_/https%3A//www.dancetelevision.net/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancetrippin.tv privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522202354id_/https%3A//www.dancetelevision.net/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DanceTelevision | Privacy Policy
 
 DanceTelevision is committed to safeguarding your privacy. Contact us at if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you. 
 
