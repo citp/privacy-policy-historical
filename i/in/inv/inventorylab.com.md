@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventorylab.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817071607id_/https%3A//inventorylab.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorylab.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522113812id_/https%3A//inventorylab.com/privacy.html) for the most accurate reproduction.*
 
 # InventoryLab - Privacy Policy
 
@@ -98,7 +98,7 @@ The security of your information is important to us. When you enter sensitive in
 
 InventoryLab uses commercially reasonable and industry-standard physical, managerial, and technical safeguards to preserve the integrity and security of your information. For example, we continuously and regularly back up your data to help prevent data loss and aid in data recovery. We also guard against common web attack vectors, host data in secure SAS 70 audited data centers, and implement firewalls and access restrictions on our servers to secure our network and better protect your information.
 
-If you have any questions about security on our Service, you can view our Security Overview Page or contact us at [admin@inventorylab.com](mailto:admin@inventorylab.com).
+If you have any questions about security on our Service, you can view our [End User Licensing Agreement and Terms of Service](https://inventorylab.com/termsofuse.html) section 4.6 or contact us at [admin@inventorylab.com](mailto:admin@inventorylab.com).
 
 #### Risks Inherent in Sharing Information
 
