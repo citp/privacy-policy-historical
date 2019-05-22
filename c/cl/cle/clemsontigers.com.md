@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clemsontigers.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219114420id_/http%3A//clemsontigers.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clemsontigers.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522151700id_/https%3A//clemsontigers.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – Clemson Tigers Official Athletics Site
 
 ### ONLINE PRIVACY POLICY AGREEMENT
 
-WMT, is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with WMT of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+WMT is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with WMT of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
 
 THEREFORE, this Privacy Policy Agreement shall apply to WMT , and thus it shall govern any and all data collection and usage thereof. Through the use of WMT you are herein consenting to the following data procedures expressed within this agreement.
 
@@ -28,4 +28,10 @@ The aforementioned Privacy Policy Agreement applies only and solely to the infor
 
 Acceptance of Terms Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
-How to Contact Us If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address. Email: info@webmetech.com Telephone Number: 305-200-8720 Mailing Address: WMT 75 Valencia Ave Coral Gables, Florida 33134
+How to Contact Us If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
+
+Email: info@webmetech.com
+
+Telephone Number: 305-200-8720
+
+Mailing Address: WMT 75 Valencia Ave Coral Gables, Florida 33134
