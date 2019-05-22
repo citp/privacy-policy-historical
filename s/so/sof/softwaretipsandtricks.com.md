@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaretipsandtricks.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209054602id_/http%3A//www.softwaretipsandtricks.com/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaretipsandtricks.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522071212id_/http%3A//www.softwaretipsandtricks.com/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
