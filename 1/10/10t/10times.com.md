@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10times.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121162815id_/https%3A//10times.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10times.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522042303id_/https%3A//10times.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -262,6 +262,6 @@ If you have any queries or grievances relating to the processing/usage of inform
 
 Ten Times Online Private Limited 
 
-E-75, First Floor, Sector 63   
-Noida, Uttar Pradesh 201301   
+3rd Floor, Fusion Square, Sector 126   
+Noida, Uttar Pradesh 201313   
 India 
