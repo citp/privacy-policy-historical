@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinylfg.net privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229035509id_/http%3A//planetdestiny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinylfg.net privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522024345id_/http%3A//planetdestiny.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetDestiny.com
 
@@ -60,6 +60,8 @@ PlanetDestiny has the discretion to update this privacy policy at any time. When
 ### DestinyLFG.net
 
 DestinyLFG.net does not sell or trade your user information in any way, shape or form. Your data is stored on the DestinyLFG.net database. The personal information stored is your PSN ID and/or Xbox Live Gamertag, language, comment, class, level, activity selected and IP address. Your PSN ID or Xbox Live Gamertag, language, comment, class, level and activity selected are used to display your listing; your IP address is stored for security purposes.
+
+[divider]
 
 ## Contact
 
