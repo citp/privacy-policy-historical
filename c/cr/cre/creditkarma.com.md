@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220150549id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522170816id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma privacy policy | Credit Karma
 
-_Effective date: May 31, 2018_
+_Effective date: April 4, 2019_
 
 Welcome to Credit Karma!
 
@@ -87,6 +87,8 @@ Now that we've covered the No-Nos, let us explain how we could share with third 
 
 We may also share with third parties de-identified or aggregated data we collect, such as de-identified or aggregated credit reports or scores, de-identified demographic information, or information about the computer or device from which you access the Service. We share such information for a variety of purposes, including to analyze Service usage, develop shared services, and improve our own products and features.
 
+**Special notice to Vermont Residents:** Credit Karma will not share your non-public personal information with unaffiliated third parties without your consent, other than as permitted by law. Further, Credit Karma will not share credit reports with our affiliates without your consent.
+
 ### How to Access, Update or Deactivate Your Account
 
 #### Accessing and Updating Your Account Information
@@ -136,4 +138,4 @@ Thanks for taking the time to read through all this. If you have questions regar
 
 * * *
 
-Looking for our previous version? You can access our prior Privacy Policy [here](https://www.creditkarma.com/about/privacy20161115)
+Looking for our previous version? You can access our prior Privacy Policy [here](https://www.creditkarma.com/about/privacy20180531)
