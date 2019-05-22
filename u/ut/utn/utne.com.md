@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928215955id_/https%3A//www.utne.com/store/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522131204id_/https%3A//www.utne.com/store/help/privacy-policy) for the most accurate reproduction.*
 
 # Utne Magazine - Privacy Policy
 
