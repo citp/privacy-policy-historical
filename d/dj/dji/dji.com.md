@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913184848id_/https%3A//www.dji.com/policy%3Fsite%3Dbrandsite%26from%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522193122id_/https%3A//www.dji.com/policy%3Fsite%3Dbrandsite%26from%3Dfooter) for the most accurate reproduction.*
 
 # DJI Privacy Policy - Everything You Need To Know
 
@@ -101,7 +101,7 @@ DJI Products and Services may contain features or links to websites and services
 
 ## Children’s Privacy
 
-DJI Products and Services are not directed to children under the age of 13. We do not knowingly collect information from children under the age of 13 without obtaining parental consent.
+DJI Products and Services are not directed to children under the age of 16. We do not knowingly collect information from children under the age of 16 without obtaining parental consent.
 
 We use certain physical, organizational, and technical safeguards that are designed to improve the integrity and security of information that we collect and maintain. Please be aware that no security measures are perfect or impenetrable and thus we cannot and do not guarantee that your information will not be accessed, viewed, disclosed, altered, or destroyed by breach of any of our physical, technical, or organizational safeguards.
 
