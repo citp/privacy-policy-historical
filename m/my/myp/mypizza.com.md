@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012105842id_/https%3A//slicelife.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypizza.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522072130id_/https%3A//slicelife.com/pages/privacy) for the most accurate reproduction.*
 
-# Slice - Order Pizza Online, Find Pizza Restaurants, Pizza Menu, Pizza Delivery
+# Privacy Policy - Slice Local Pizza Delivery
 
-This Privacy Policy describes the policies and procedures of MyPizza Technologies, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.slicelife.com (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of MyPizza Technologies, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.slicelife.com and our mobile applications (collectively, the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
 ## What Does This Privacy Policy Cover?
 
@@ -30,7 +30,7 @@ We do not currently collect financial information, such as your payment method (
 
   * We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
   * Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
-  * We may collect some device-specific information if you access the Services using a mobile device. Device information may include but is not limited to unique device identifiers, network information, and hardware model, as well as information about how the device interacts with our Services.
+  * We may collect some device-specific information if you access the Services using a mobile device. Device information may include but is not limited to unique device identifiers, network information, and hardware model, and uniquely identifies your mobile device, as well as information about how the device interacts with our Services. We may use this information to deliver notifications through our mobile applications based on information associated with your mobile device as well as to learn how you browse and use the Services, which may help us or others provide reports or personalized content and ads. Some features of the Services may not function properly if use or availability of device identifiers is impaired or disabled.
 
 
 
@@ -69,9 +69,11 @@ By using these tools, you acknowledge that some Third Party Account Information 
 
 The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
 
-### Information Shared with Restaurants:
+### Information Shared with Restaurants and Third Party Service Providers:
 
-In order to process your order, we must share the following information every time you place an order with a Restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the Restaurant may optionally verify that the order is not fraudulent. We restrict this information flow to only the bare minimum elements required to prepare and fulfill your orders. You should contact restaurants directly to determine the privacy policies that apply to the information that Slice transfers to the restaurants.
+In order to process your order, we must share the following Personal Information every time you place an order with a restaurant: your name, delivery address (if applicable), food order, and credit card information (if applicable). We also share your telephone number so the restaurant may optionally verify that the order is not fraudulent.
+
+We also employ and contract with people and other entities that perform certain tasks on our behalf (our “Service Providers”). We may need to share Personal Information with our Service Providers in order to provide products or services to you, or we may allow those Service Providers to collect Personal Information about your online activities, over time and across different sites, services, and applications in accordance with this Privacy Policy, solely to the extent necessary to provide the Services to you. Service Providers may, for example, assist us with fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through the Services. For example, we may need to share your Personal Information with payment processors and operators of point-of-sale systems in order to fulfill your orders. Unless we tell you differently, our Service Providers do not have any right to use Personal Information or other information we share with them or that they collect from you beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Service Providers.
 
 ### Public Information About Your Activity on the Services:
 
@@ -93,13 +95,13 @@ You may access other Third Party Services through the Services, for example by c
 
 We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
 
-### Email and Telephone Communications with Us:
+### Communications with Us:
 
-As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery.
+As part of the Services, you may receive email, mobile phone notifications and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Services, such as password recovery. By creating an Account, you are, by default, opted in to receiving promotional email communications from us. Upon downloading our mobile application, you will be provided the option to opt in to receiving push notifications or in-app notifications from us on your mobile device.
 
-We may occasionally use your name and email address to send you notifications regarding new services offered by the Services that we think you may find valuable. In addition, we may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party.
+We may use your name, email address, or mobile device identifiers to send you email messages, in-app messages or push notifications advertising new services offered by the Services, or our third-party partners, that we think you may find valuable. In addition, we may present offers to you on behalf of third party partners. If you accept an offer, we will share your name, address and credit card information with this third party.
 
-Our customer service representatives may use your telephone number and E-mail address to notify you of the status of your order as necessary and appropriate. Slice reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above.
+Our customer service representatives may use your telephone number, E-mail address and mobile device identifier to notify you of the status of your order as necessary and appropriate. Slice reserves the right to use the information collected to send special offers on behalf of third party partners or vendors (including Restaurants) participating in our service. However, we do not share your information with the Restaurant other than the information necessary to conduct business as stated above.
 
 Slice does not purchase bulk E-mail addresses nor do we use the services of bulk E-mail companies for promoting our service. This means we will not distribute, sell or rent your e-mail address to any third party.
 
@@ -110,6 +112,10 @@ User profile information including your username and other information you enter
 ### Financial Information:
 
 As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Services, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.
+
+### Geolocation Information:
+
+If you are accessing the Services from a mobile device or through a mobile application, you may be asked to share your precise geo-location information with us so we can customize your experience on the Services. We will ask you to opt-in before we use geolocation information to identify your precise location. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in our mobile application.
 
 ### Information Shared with Our Agents:
 
@@ -151,13 +157,14 @@ California Privacy Rights: Under California Civil Code sections 1798.83-1798.84,
 
 ## How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing [support@slicelife.com]. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
+Should you ever decide to delete your Account, you may do so by emailing [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)]. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
 ## What Choices Do I Have Regarding My Information?
 
   * You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
   * You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
   * You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+  * You can change your settings regarding communications received from us. If you agree to receive push notifications on our mobile application, in most cases, you will be able to turn off such notifications at any time by accessing the settings of your mobile device and/or through the settings in the mobile application. If you do not wish to receive marketing e-mail communications from us, you may opt-out of receiving future communications by clicking the unsubscribe link featured at the end of our emails or by going to your account settings or contacting us using the contact information below.
 
 
 
@@ -167,6 +174,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ## What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to legal@slicelife.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will make every effort to resolve your concerns.
 
-**Effective Date:** October 13, 2016
+**Effective Date:** November 19, 2018
