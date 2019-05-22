@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccr.gov.in privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206123629id_/http%3A//www.iccr.gov.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccr.gov.in privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522031041id_/http%3A//iccr.gov.in/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Council for Cultural Relations | Government of India
 
