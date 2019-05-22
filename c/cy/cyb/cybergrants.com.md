@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207014756id_/http%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergrants.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522022706id_/https%3A//www.cybergrants.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CyberGrants
 
