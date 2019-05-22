@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockwatch.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118105051id_/https%3A//www.stockwatch.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockwatch.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522020348id_/https%3A//www.stockwatch.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Stockwatch
 
@@ -102,4 +102,4 @@ The Stockwatch Privacy Policy will be updated from time-to-time and is subject t
 
 Regardless of any changes, errors or omissions to this Privacy Policy, the approach Stockwatch takes to privacy will be respectful of our customers, will be consistent with generally accepted industry practices, and will be compliant with legal requirements.
 
-Copyright © 2018, Canjex Publishing Ltd. All rights reserved. “Stockwatch” is a registered trademark of Canjex Publishing Ltd.
+Copyright © 2019, Canjex Publishing Ltd. All rights reserved. “Stockwatch” is a registered trademark of Canjex Publishing Ltd.
