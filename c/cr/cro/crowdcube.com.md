@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227193939id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522181017id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
