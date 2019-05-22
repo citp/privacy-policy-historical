@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the southstatebank.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025239id_/https%3A//www.southstatebank.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southstatebank.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522113615id_/https%3A//www.southstatebank.com/help/privacy-statement) for the most accurate reproduction.*
 
-# South State Privacy Notice - South State Bank
+# South State Privacy Notice | South State Bank
 
 Regardless of changes in technology and information, South State Bank has always been-and will continue to be-committed to the principles of customer privacy. We understand that when you open an account with us, apply for a loan, or deal with us or one of our affiliated companies in any way, we ask you to provide us with private financial and personal information.
 
 We honor the trust you place in us by maintaining the confidentiality and accuracy of that information, and we use it in manners consistent with the confidence you have placed in us. We will uphold both the letter and the spirit of federal and state laws as they relate to this important issue.
 
-  * [Privacy Notice [PDF]](https://www.southstatebank.com/internet/wp-content/uploads/2018/09/Privacy-Statement-8-18.pdf?x11919 "Privacy Notice")
+  * [Privacy Notice [PDF]](https://www.southstatebank.com/internet/wp-content/uploads/2019/01/SSB-Privacy-Notice-Rev-1.11.19.pdf "Privacy Notice")
   * [Privacy Notice Opt Out Form](https://www.southstatebank.com/customeroptout/ "Customer Opt Out")
 
 
 
 We reserve the right to change this notice at any time by posting a new privacy policy notice. We encourage you to carefully review the notice and the choices it outlines. If you have already requested a change in your information sharing, you do not need to respond again. We will continue to honor your previous sharing preferences.
 
-Rev. 7/18
+Rev. 01/19
 
 **FACTS** | **WHAT DOES SOUTH STATE BANK  ** **DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -25,7 +25,7 @@ Rev. 7/18
   * Employment information and credit history.
 
   
-**How?** | All financial companies need to share customers’ personal information to run their everyday businesss. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons South State Bank chooses to share; and whether you can limit this sharing.  
+**How?** | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons South State Bank chooses to share; and whether you can limit this sharing.  
 **Reasons we can share your personal information** | **Does South State Bank share?** | **Can you limit this sharing?**  
 **For our everyday business purposes –**
 
@@ -88,12 +88,12 @@ We also collect your personal information from others, such as credit bureaus, a
 
 State laws and individual companies may give you additional rights to limit sharing.  
   
-**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to individually unless you tell us otherwise. However, any account holder may express a privacy preference on behalf of the other joint account holders.  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply individually unless you tell us to also opt out other joint account holders.  
 **Definitions** |   
 ---|---  
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-_Our affiliates include financial companies such as South State Corporation, SSB_ _  Properties, Inc., Minis & Co., Inc. and South State Advisory, Inc._  
+_Our affiliates include companies such as South State Corporation, SSB_ _  Properties, Inc., and South State Advisory, Inc._  
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
