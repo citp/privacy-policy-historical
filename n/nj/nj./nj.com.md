@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117064821id_/https%3A//www.nj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522195036id_/https%3A//www.nj.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
+
+## PRIVACY POLICY 
 
 Last Revised: May 25, 2018
 
