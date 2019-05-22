@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180222id_/https%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522114701id_/https%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ Of your registration data, only your Mumsnet username is displayed on screen for
 
 We also provide an anonymised copy of all Talk posts to a handful of carefully chosen organisations so that they can analyse social trends. None of your personal information is ever shared and we remove Mumsnet usernames before sharing this information.
 
-Registered members of Mumsnet can start discussions and add comments, pictures and videos to existing discussions within Mumsnet Talk’s forums under Mumsnet’s [Terms of Use](https://web.archive.org/web/20181230180222id_/https%3A//www.mumsnet.com/info/terms-of-use). This is optional in the sense that it’s up to you whether you post on Mumsnet or not; if you do post we always store the contents of those posts. These posts are public, but of your registration data, only your Mumsnet username is displayed on screen. Your Mumsnet username is picked by you when you [join Mumsnet](https://web.archive.org/register); you can change it at any time in [My Account](https://web.archive.org/member/registration-details).
+Registered members of Mumsnet can start discussions and add comments, pictures and videos to existing discussions within Mumsnet Talk’s forums under Mumsnet’s [Terms of Use](https://web.archive.org/web/20190522114701id_/https%3A//www.mumsnet.com/info/terms-of-use). This is optional in the sense that it’s up to you whether you post on Mumsnet or not; if you do post we always store the contents of those posts. These posts are public, but of your registration data, only your Mumsnet username is displayed on screen. Your Mumsnet username is picked by you when you [join Mumsnet](https://web.archive.org/register); you can change it at any time in [My Account](https://web.archive.org/member/registration-details).
 
 Mumsnet’s forums (with the exception of some topics, like [“Off the beaten track”](https://web.archive.org/Talk/off_the_beaten_track)) are visible to search engines. This means that any personal information users choose to share in their posts on Mumsnet can be seen widely. We cannot control who sees these posts. However, wherever appropriate we remind users that Mumsnet’s forums are highly visible and can be read by anyone, anywhere.
 
