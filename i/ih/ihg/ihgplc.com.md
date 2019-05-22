@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826051606id_/https%3A//www.ihgplc.com/en/services/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522093643id_/https%3A//www.ihgplc.com/en/services/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Services - InterContinental Hotels Group PLC
 
@@ -14,13 +14,7 @@ Your information may also be collected and used by IHG-branded hotels. In most c
 
 If you would like to learn more about IHG and our relationship with our IHG-branded hotels, click below.
 
-[Open all]()
-
-## About IHG
-
 We are a global hospitality company with IHG-branded hotels in nearly 100 countries. We predominantly franchise our brands to, and manage hotels on behalf of, independent third-party owners. We also operate a number of programmes that are related to our hotel business such as IHG Rewards Club, which is our core loyalty programme.
-
-## About our IHG-branded hotels
 
 We franchise our brands to, and manage hotels on behalf of, third-party owners. Most hotels operating under IHG’s brands are independently owned and operated by parties that have entered into a franchise agreement with IHG that allows them to use an IHG brand for the purposes of operating a hotel (referred to as “Franchisees” or “Franchised Hotels”). If you make a reservation through us to stay at an IHG-branded hotel, we will share your information with that hotel. However, as IHG-branded hotels are not owned or controlled by IHG, their use of your information will be governed by their own privacy practices and is only covered in this Privacy Statement where specifically noted.
 
@@ -31,10 +25,6 @@ We collect and use personal information if you make a booking through our reserv
 You do not have to provide us with your information although in some cases, if you do not, it may mean that you are unable to use our services. For example, we may be unable to complete any booking you may wish to make, or you may be unable to participate in our loyalty programmes.
 
 To learn more about how we collect, use and share your information, please click the relevant section below.
-
-[Open all]()
-
-## If you make a reservation or stay at an IHG-branded hotel
 
 **Information we collect:** We collect information from you when you make a booking through our reservation system or stay at an IHG-branded hotel. Information collected during the course of the reservation and during your stay may include: 
 
@@ -50,7 +40,7 @@ This information may be provided to us directly when you make a reservation thro
 
 In some instances where we have your consent or where permitted under applicable law, we may send you marketing communications (which may include text messages or calls placed using autodialer technology) for products and services that we believe would be relevant for you. We also may use information related to your stay to display targeted advertisements on our websites or on third-party websites or to send you more relevant messaging. Additionally, we use this information for purposes of aggregated trend and statistical analysis to evaluate and improve our products and services, plan new hotel locations and services and other market research. 
 
-**Who we share your information with:** We will share your information with the hotel you are staying at to fulfil your reservation. We may also share your information with third-party service providers to provide services in relation to our business as well as to help us improve our products and services. For example, we might use a third party or a third-party product for the purposes of market research and data analytics, or share data with online partners we work with, so we, or our online partners on our behalf, can communicate with you and serve advertisements through their platforms or on other websites or platforms. In certain instances, subject to local consent requirements, third-party service providers may also assist us with various marketing campaigns. These companies are authorised to use your personal information only as necessary to provide these services to us. We may also share your information with third parties, including our IHG® Rewards Club partners and other third parties, to extend special offers about their own products and services to you. These parties have agreed to comply with our privacy requirements. If you do not want us to share your personal information with these companies, contact our global customer care offices or the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office). 
+**Who we share your information with:** We will share your information with the hotel you are staying at to fulfil your reservation. We may also share your information with third-party service providers to provide services in relation to our business as well as to help us improve our products and services. For example, we might use a third party or a third-party product for the purposes of market research and data analytics, or share data with online partners we work with, so we, or our online partners on our behalf, can communicate with you and serve advertisements through their platforms or on other websites or platforms. In certain instances, subject to local consent requirements, third-party service providers may also assist us with various marketing campaigns. These companies are authorised to use your personal information only as necessary to provide these services to us. We may also share your information with third parties, including our IHG® Rewards Club partners and other third parties, to extend special offers about their own products and services to you. These parties have agreed to comply with our privacy requirements. If you do not want us to share your personal information with these companies, contact our global customer care offices or the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office). 
 
 We also share your stay information with other third parties in circumstances such as: 
 
@@ -59,8 +49,6 @@ We also share your stay information with other third parties in circumstances su
   * in the event of a merger, asset sale, or other related transaction. 
 
 
-
-## If you join one of our loyalty programs
 
 **Information we collect:** We collect information from you during the course of your membership in any of our loyalty programmes and services, including our core loyalty programme, IHG® Rewards Club. Information collected during the course of your enrolment and participation in these programmes may include: 
 
@@ -90,15 +78,13 @@ Although provision of much of the information requested is voluntary, the failur
 
 We occasionally run promotions where we ask IHG Rewards Club Members to refer a friend to the IHG Rewards Club.  In these cases, we always ask members to make sure anyone they refer is happy for their personal information to be passed to us, and to direct friends to read this privacy policy if they want to find out more about how we use their information.
 
-**How you can manage your marketing preferences** **:**  You can manage your preferences and decide what marketing communications you would like to receive from us in our online preference centre. You can find out more [information here](https://web.archive.org/web/20180826051606id_/https%3A//www.ihgplc.com/en/services/privacy-statement?accordion=accordion4_tab1).
+**How you can manage your marketing preferences** **:**  You can manage your preferences and decide what marketing communications you would like to receive from us in our online preference centre. You can find out more [information here](https://web.archive.org/web/20190522093643id_/https%3A//www.ihgplc.com/en/services/privacy-statement?accordion=accordion4_tab1).
 
 In addition you can opt out of collection of your personal information for use in targeted advertising.  Please click here for more information on how to do this.
 
 We also recommend you routinely review the privacy notices and preference settings that are available to you on any social media platforms as well as your preferences within your Rewards Club account.
 
-**Who we share your information with:** During the course of your participation in our loyalty programmes, it may be necessary to share your information with third parties such as our third-party partners and service providers for the purposes of operating the programme and to provide you with the products and services that you have requested. We also use third-party service providers to assist us with managing, carrying out and improving our advertising. These companies are authorised to use your personal information only as necessary to provide these services to us. We may also share your information with third parties, including our IHG® Rewards Club partners and other third parties, to extend special offers about their own products and services to you. These parties have agreed to comply with our privacy requirements. If you do not want us to share your personal information with these companies, contact our [global customer care offices](https://www.ihg.com/hotels/gb/en/customer-care/) or the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office). 
-
-## If you interact with us through our corporate site
+**Who we share your information with:** During the course of your participation in our loyalty programmes, it may be necessary to share your information with third parties such as our third-party partners and service providers for the purposes of operating the programme and to provide you with the products and services that you have requested. We also use third-party service providers to assist us with managing, carrying out and improving our advertising. These companies are authorised to use your personal information only as necessary to provide these services to us. We may also share your information with third parties, including our IHG® Rewards Club partners and other third parties, to extend special offers about their own products and services to you. These parties have agreed to comply with our privacy requirements. If you do not want us to share your personal information with these companies, contact our [global customer care offices](https://www.ihg.com/hotels/gb/en/customer-care/) or the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office). 
 
 **Information we collect:** We collect information from you when you sign up to receive corporate news or shareholder documents. Information collected may include: 
 
@@ -111,7 +97,7 @@ This information may be provided to us directly when you sign up for corporate n
 
 **How we use this information:** We use the information collected from you to provide you with corporate news and shareholder documents for which you have signed up. For corporate news, you may change your communication preferences in accordance with the “Managing your communication preferences” section below 
 
-**Who we share your information with:** We may share your information with third parties who provide services on our behalf to help with our corporate site and our shareholder functions. These services may include the provision of shareholder documents. These companies are authorized to use your personal information only as necessary to provide these services to us. If you do not want us to share your personal information with these companies, contact our [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office).
+**Who we share your information with:** We may share your information with third parties who provide services on our behalf to help with our corporate site and our shareholder functions. These services may include the provision of shareholder documents. These companies are authorized to use your personal information only as necessary to provide these services to us. If you do not want us to share your personal information with these companies, contact our [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office).
 
 
 
@@ -135,11 +121,11 @@ We will only collect, use and share your information where we are satisfied that
   * you have provided your consent to us using the personal information; 
   * our use of your information is necessary to perform our contract with you, for example, making and managing your booking and operating and providing services in connection with our Loyalty Programme in accordance with the terms of our agreement with you;
   * our use of your information is necessary to meet responsibilities we have to our regulators, tax officials, law enforcement, or otherwise meet our legal responsibilities;
-  * our use of your information is in our legitimate interest as a commercial organisation, for example to operate and improve our services and to keep people informed about our products and services (including for profiling and targeted advertising) - in these cases we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in [your rights under EU data protection laws](https://web.archive.org/en/services/privacy-statement/your-rights-under-eu-data-protection-laws). 
+  * our use of your information is in our legitimate interest as a commercial organisation, for example to operate and improve our services and to keep people informed about our products and services (including for profiling and targeted advertising) - in these cases we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in [your rights under EU data protection laws](https://web.archive.org/services/privacy-statement/your-rights-under-eu-data-protection-laws). 
 
 
 
-If you would like to find out more about the legal basis for which we process personal information, please contact [our offices](https://web.archive.org/en/contact-us/privacy-office). If you have provided your consent to our processing of your information you can withdraw this consent at any time by contacting the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office). 
+If you would like to find out more about the legal basis for which we process personal information, please contact [our offices](https://web.archive.org/contact-us/privacy-office). If you have provided your consent to our processing of your information you can withdraw this consent at any time by contacting the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office). 
 
 ###  Data transfer 
 
@@ -158,21 +144,13 @@ Where we transfer information which originates in the European Union ( **"EU"** 
 
 We and our third-party service providers use cookies, pixels, web beacons, tracking tools and other similar technologies on our websites, mobile applications and in other areas of our business to collect information and provide you with the services that you have requested or participate in and to provide targeted advertising. Subject to local consent requirements, we may use this and other information we collect, such as a hashed email address, to help us and our third-party service providers identify other devices that you use (e.g., a mobile phone, tablet, other computer, etc.). We, and our third party service providers, also may use the cross-device tracking and other information we learn about you to serve targeted advertising on your devices. We also use the information that we collect to improve our products and services as well as your experience when visiting our websites and using our mobile applications. For more information on these subjects, please click the relevant section below.
 
-[Open all]()
-
-## Location information and services
-
 We may receive information about your location during the course of and for the purpose of providing you the services described above through your use of our websites and mobile applications. For example, if you are using our mobile applications and have consented to sharing your location information with us, this information might be collected through GPS or Bluetooth technologies to enable us to provide certain services to you such as customised offers and promotions. In addition to your use of our websites and mobile applications, we may also receive location information from wireless networks or cellular towers in proximity to your mobile device, through your Internet protocol (“IP”) address or through your use of other services we provide at our hotels. We may also have access to location information that you provide to us through your use of social media, such as when you “tweet” your location. Your location preferences can be set or modified at the device level or through modifying your settings with the relevant social media platform.
-
-## Mobile applications
 
 We receive information about you when you use our mobile applications. Some information such as your device manufacturer, type and operating system version are collected automatically, while other information is only collected if you choose to provide it, such as your location information. Where we process and use your personal information in connection with any mobile applications, we will do this in line with the general principles outlined in this Statement unless we tell you otherwise. 
 
 If you use our mobile app, we also send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information. 
 
 We use mobile analytics software to allow us to better understand the functionality of our mobile applications on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. 
-
-## Online channels
 
 We may use information from online sources, such as websites, social media and information sharing platforms. This information may be used to help tailor and improve our services and communicate with you effectively, as we know many of our customers use a range of media channels to communicate and share information. 
 
@@ -243,23 +221,15 @@ We are committed to protecting the confidentiality and security of the informati
 
 We want to ensure that you have the necessary tools at your disposal to control the information that you provide to us, including how we communicate with you. It is also important that you contact us to update your information if any of it is inaccurate or changes. Please click the relevant section below to learn more about how to control how we communicate with you and how to update, modify and delete your information.
 
-[Open all]()
-
-## Managing your communication preferences
-
 Through the provision of the services described above, we and in some instances our Franchisees, third-party partners and service providers, may communicate with you in relation to a reservation, as a member of any of our loyalty programmes, through online digital services (e.g. online advertising, social media communications), or to support any other services that we provide. 
 
-In some instances, especially if you are a member of IHG ® Rewards Club or an InterContinental Ambassador, you can go to your account, sign in and click on the “Communication Preferences” section to revise your communication preferences. IHG ® Rewards Club members can also contact any of our [IHG Rewards Club Service Centres](https://www.ihg.com/hotels/us/en/customer-care/contact-us). Additionally, the option to unsubscribe from marketing communications will be included within the communication itself. In all other cases, or if you are having difficulties with unsubscribing from any particular communication, please contact one of our [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office). 
+In some instances, especially if you are a member of IHG ® Rewards Club or an InterContinental Ambassador, you can go to your account, sign in and click on the “Communication Preferences” section to revise your communication preferences. IHG ® Rewards Club members can also contact any of our [IHG Rewards Club Service Centres](https://www.ihg.com/hotels/us/en/customer-care/contact-us). Additionally, the option to unsubscribe from marketing communications will be included within the communication itself. In all other cases, or if you are having difficulties with unsubscribing from any particular communication, please contact one of our [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us) or the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office). 
 
 Please be aware that unsubscribing from one type of communication may not unsubscribe you from another type. Likewise, unsubscribing from our communications may not mean that you are unsubscribed from certain communications carried out independently by our Franchisees. 
 
-## Managing your information
-
-In the event any information that you provide to us is inaccurate, changes or you would like this information deleted, your information can be updated by contacting one of our  [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us). In some instances, especially if you are an IHG ® Rewards Club or InterContinental Ambassador member, you can update certain aspects of your personal information by going to your account, signing in and clicking on the “Personal Information” section to update and amend your personal information. For all other cases, please contact the [IHG Privacy Office](https://web.archive.org/en/contact-us/privacy-office). We will respond to your request within a reasonable timeframe. 
+In the event any information that you provide to us is inaccurate, changes or you would like this information deleted, your information can be updated by contacting one of our  [global customer care offices](https://www.ihg.com/hotels/us/en/customer-care/contact-us). In some instances, especially if you are an IHG ® Rewards Club or InterContinental Ambassador member, you can update certain aspects of your personal information by going to your account, signing in and clicking on the “Personal Information” section to update and amend your personal information. For all other cases, please contact the [IHG Privacy Office](https://web.archive.org/contact-us/privacy-office). We will respond to your request within a reasonable timeframe. 
 
 Please note that in some instances it may not be possible to delete certain pieces of your information and a portion of the information may be needed for suppression purposes. In other instances, we may not have the ability to delete certain pieces of information that are stored on our systems or that have been provided to third parties in connection with the services discussed in this Privacy Statement. 
-
-## Special information for California consumers
 
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us through one of the methods listed under the “How to contact us” section. Please allow up to thirty (30) days for a response. 
 
@@ -294,9 +264,7 @@ Atlanta, Georgia 30346
 
 You may also contact our Data Protection Officer by emailing privacyoffice@ihg.com.
 
-To the extent permitted under the local law, you may also use the above contact details to request access to any of your personal information that is held by IHG. These requests will be reviewed and processed in line with the local law.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider [ here](https://feedback-form.truste.com/watchdog/request).
+To the extent permitted under the local law, you may also use the above contact details to request access to any of your personal information that is held by IHG. These requests will be reviewed and processed in line with the local law. 
 
 Where EU data protection laws apply, you have a right to lodge a complaint with your local data protection supervisory authority at any time.  However, we ask that you please try to resolve any issues with us first before referring your complaint to the supervisory authority.
 
