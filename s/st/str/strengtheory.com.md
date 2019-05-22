@@ -1,116 +1,71 @@
-> *The following text is extracted and transformed from the strengtheory.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101201452id_/http%3A//www.strongerbyscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengtheory.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522225150id_/https%3A//www.strongerbyscience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Stronger by Science
 
-**StrongerByScience.com Privacy Policy**
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from strongerbyscience.com (the “Site”).
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+**PERSONAL INFORMATION WE COLLECT**
 
-**What personal information do we collect from the people that visit our blog, website or app?**  
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-**When do we collect information?**  
-We collect information from you when you subscribe to a newsletter or enter information on our site.
+We collect Device Information using the following technologies:
 
-**How do we use your information?  **  
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: To send periodic emails regarding your order or other products and services.
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-**How do we protect visitor information?**  
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-We use regular Malware Scanning.
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers or PayPal addresses), email address, and phone number. We refer to this information as “Order Information.”
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-**Do we use ‘cookies’?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-We use cookies to:  
-• Understand and save user’s preferences for future visits.
+**SHARING YOUR PERSONAL INFORMATION**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use SendOwl to power our online store–you can read more about how SendOwl uses your Personal Information here: https://www.sendowl.com/privacy. We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-However, you can still place orders .
+**BEHAVIORAL ADVERTISING**
 
-**Third Party Disclosure**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You can opt out of targeted advertising by:  
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads  
+]] 
 
-**Third party links**  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-**Google**  
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+**DO NOT TRACK**
 
-We use Google AdSense Advertising on our website.
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**YOUR RIGHTS**
 
-We have implemented the following:  
-• Demographics and Interests Reporting
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+**DATA RETENTION**
 
-**California Online Privacy Protection Act**  
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
-According to CalOPPA we agree to the following:  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.  
-Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By emailing us  
-• By logging in to their account  
-How does our site handle do not track signals?  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.  
-Does our site allow third party behavioral tracking?  
-It’s also important to note that we do not allow third party behavioral tracking
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-**COPPA (Children Online Privacy Protection Act)**  
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+**CHANGES**
 
-We do not specifically market to children under 13.
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-**Fair Information Practices**  
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+**CONTACT US**
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via email  
-• Within 1 business day
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@strongerbyscience.com or by mail using the details provided below:
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**  
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-We collect your email address in order to:  
-• Send information, respond to inquiries, and/or other requests or questions.  
-• Process orders and to send information and updates pertaining to orders  
-• We may also send you additional information related to your product and/or service.  
-• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred  
-To be in accordance with CANSPAM we agree to the following:  
-• NOT use false, or misleading subjects or email addresses  
-• Identify the message as an advertisement in some reasonable way  
-• Monitor third party email marketing services for compliance, if one is used.  
-• Honor opt-out/unsubscribe requests quickly  
-• Allow users to unsubscribe by using the link at the bottom of each email
-
-If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-StrongerByScience.com  
-support@strengtheory.com
+P.O. Box 6383, Raleigh, NC, 27628, United States
