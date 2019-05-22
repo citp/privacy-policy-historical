@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbikegamer.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119222428id_/http%3A//www.carbikegamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbikegamer.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522030753id_/http%3A//carbikegamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
