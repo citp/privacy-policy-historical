@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327164926id_/http%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522160230id_/https%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Samplewords.com
 
@@ -42,4 +42,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies [please click here to email us](mailto:info@samplewords.com)
+Should you have other questions or concerns about these privacy policies [please click here to email us](https://web.archive.org/cdn-cgi/l/email-protection#afc6c1c9c0efdccec2dfc3cad8c0ddcbdc81ccc0c2)
