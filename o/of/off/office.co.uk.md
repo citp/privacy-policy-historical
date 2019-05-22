@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928190239id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522163913id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -245,11 +245,18 @@ Salecycle privacy policy: [Click Here](https://bazaarvoice.secure.force.com/cp/C
 |  6 months   
 Sessioncam (Website recording)  | 
 
-Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from "insert company name" website is for "insert company name"internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting
+Our web site may use SessionCam for analysis. SessionCam is a product that has been developed by SessionCam LTD. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from the OFFICE website is for OFFICE internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting
 
 Sessioncam privacy policy: [Click Here](https://sessioncam.com/privacy-policy-cookies/)
 
 |  6 months   
+MentionMe  | 
+
+MentionMe help our customers refer a friend to send and receive incentives. To do this we use a permanent cookie to track order completions on our site which allow us to tie a referral reward back to you. A temporary token is also used to keep track of your session when using the site.
+
+MentionMe privacy policy: [Click Here](https://mention-me.com/help/privacy_policy_s)
+
+|  Up to 5 years   
 Adobe CRM  | 
 
 To make our emails and SMS marketing more tailored and relevant to you, we collect data to help understand your shopping journey and how you interact with marketing material so that we can improve what we send you via targeted and tailored marketing messages.
