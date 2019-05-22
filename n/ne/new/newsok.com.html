@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsok.com privacy policy that was archived on 2018-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213221640id_/https%3A//newsok.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsok.com privacy policy that was archived on 2019-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522170628id_/https%3A//newsok.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
         <!-- Google Tag Manager - global_templates/google-tag-manager.tpl -->
@@ -17,7 +17,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>NewsOK Privacy Policy | NewsOK.com</title>
-                        <meta name="copyright" content="Copyright (c) 2018 NewsOK.com. All Rights Reserved">
+                        <meta name="copyright" content="Copyright (c) 2019 NewsOK.com. All Rights Reserved">
                 <meta name="description" content="NewsOk protects your personal information.  Read the NewsOK privacy Policy for the most up to date policies">
                 <meta name="keywords" content="privacy policy, newsok, privacy, policy, user information">
         <meta name="apple-mobile-web-app-title" content="NewsOK">
@@ -86,40 +86,23 @@
         .addSize([980, 0], [[300, 600],[300, 250]])
         .build();
 
-      adSlot_leaderboard = googletag.defineSlot('/5173/okp.newsok/Header', [[970,90]], 'div-gpt-ad-divid-1')
+      adSlot_leaderboard = googletag.defineSlot('/11564835/oklahoman.com/info', [[970,90]], 'div-gpt-ad-divid-1')
+            .addService(googletag.pubads())
             .defineSizeMapping(sizeMapLeaderboard)
-            .setTargeting("kw",["pagename"])
-            .addService(googletag.pubads())
+            .setTargeting("keyword",["pagename"])
+            .setTargeting("slot",["Base Leaderboard"])
+            .setTargeting("Ad-Type",["Standard"])
             .setCollapseEmptyDiv(true);
+            
+            googletag.pubads().setTargeting("pubState", "OK");
+        googletag.pubads().setTargeting("pgtype", "section");
+        googletag.pubads().setTargeting("platform", "web");
+        googletag.pubads().setTargeting("SOV", "base ros");
 
-      adSlot_sidebar1 = googletag.defineSlot('/5173/okp.newsok/Sidebar1', [[300,250]], 'div-gpt-ad-divid-2')
-            .defineSizeMapping(sizeMapSideBar)
-            .setTargeting("kw",["pagename"])
-            .addService(googletag.pubads())
-            .setCollapseEmptyDiv(true);
-
-      adSlot_sidebar2 = googletag.defineSlot('/5173/okp.newsok/Sidebar1', [[300,250]], 'div-gpt-ad-divid-3')
-            .defineSizeMapping(sizeMapSideBar)
-            .addService(googletag.pubads())
-            .setTargeting("kw",["pagename"])
-            .setCollapseEmptyDiv(true);
-
-      adSlot_sidebar3 = googletag.defineSlot('/5173/okp.newsok/Sidebar1', [[300,250]], 'div-gpt-ad-divid-4')
-            .defineSizeMapping(sizeMapSideBar)
-            .setTargeting("kw",["pagename"])
-            .addService(googletag.pubads())
-            .setCollapseEmptyDiv(true);
-
-      adSlot_footer = googletag.defineSlot('/5173/okp.newsok/Body', [[970,250]], 'div-gpt-ad-divid-5')
-            .defineSizeMapping(sizeMapLeaderboard)
-            .setTargeting("kw",["pagename"])
-            .addService(googletag.pubads())
-            .setCollapseEmptyDiv(true);
 
         googletag.pubads().enableSingleRequest();
         googletag.enableServices();
     });</script>
-
 
 
 
@@ -142,30 +125,41 @@
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
     googletag.cmd.push(function() {
+       googletag.pubads().setTargeting("pubState", "OK");
+        googletag.pubads().setTargeting("pgtype", "section");
+        googletag.pubads().setTargeting("platform", "web");
+        googletag.pubads().setTargeting("SOV", "base ros");
       googletag.pubads().disableInitialLoad();
     });
 
+
   pbjs.que.push(function() {
       const customConfigObject = {
-          "buckets" : [
-           {
-               "precision": 2,  //default is 2 if omitted - means 2.1234 rounded to 2 decimal places = 2.12
-               "min" : 0,
-               "max" : 22,
-               "increment" : 0.01
-           },
-           /*{
-               "precision": 2,
-               "min" : 20,
-               "max" : 50,
-               "increment" : 0.25
-           },*/
-           {
-               "precision": 2,
-               "min" : 22,
-               "max" : 100,
-               "increment" : 10.00
-           }
+   /*Setup in GH DFP
+  $0.01 increments from $0.10 to $5.00
+  $0.05 increments from $5.05 to $20.00
+  $0.50 increments from $20.50 to $70.00
+  */
+
+  "buckets": [
+    {
+      "precision": 2,  //default is 2 if omitted - means 2.1234 rounded to 2 decimal places = 2.12
+      "min"      : 0.10,
+      "max"      : 5.00,
+      "increment": 0.01
+    },
+    {
+       "precision": 2,
+       "min" : 5.05,
+       "max" : 20.00,
+       "increment" : 0.05
+    },
+    {
+      "precision": 2,
+      "min"      : 20.50,
+      "max"      : 70.00,
+      "increment": 0.50
+    }
           ]
       };
       pbjs.setPriceGranularity(customConfigObject);
@@ -226,6 +220,18 @@ loadScript('https://www.googletagservices.com/tag/js/gpt.js');
 
 <script type="text/javascript">
   googletag.cmd.push(function () {
+      var sizeMapLeaderboard = googletag.sizeMapping()
+        .addSize([320, 0], [[320, 50],[300, 50]])
+        .addSize([320, 0], [300, 250])
+        .addSize([768, 0], [728, 90])
+        .addSize([980, 0], [[728, 90],[970, 90],[970, 250]])
+        .build();
+      var sizeMapSideBar = googletag.sizeMapping()
+        .addSize([320, 0], [300, 250])
+        .addSize([768, 0], [300, 600],[300, 250])
+        .addSize([980, 0], [[300, 600],[300, 250]])
+        .build();
+
         
       googletag.pubads().enableSingleRequest();
       googletag.enableServices();
@@ -244,7 +250,6 @@ loadScript('https://www.googletagservices.com/tag/js/gpt.js');
     });
   }
 </script>
-
         <script>
         </script>
     </head>
@@ -595,7 +600,7 @@ Pittsford, NY 14534</p>
                 <li><a href="/termsofuse">Terms of Use</a></li>
                 <li><a href="/privacypolicy/#aboutourads">About Our Ads</a></li>
                 <li><a href="http://www.theomc.com/">Advertise With Us</a></li>
-                <li>© 2018 Produced by NewsOK.com</li>
+                <li>© 2019 Produced by NewsOK.com</li>
             </ul>
         </div>
     </div>
