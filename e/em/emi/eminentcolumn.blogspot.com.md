@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eminentcolumn.blogspot.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917060550id_/http%3A//eminentcolumn.blogspot.com/2010/07/privacy-policy-of-eminent-column.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eminentcolumn.blogspot.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522101837id_/http%3A//eminentcolumn.blogspot.com/2010/07/privacy-policy-of-eminent-column.html) for the most accurate reproduction.*
 
 # Privacy Policy of Eminent Column | Eminent Column
 
