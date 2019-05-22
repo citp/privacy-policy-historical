@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922095400id_/https%3A//sitelock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522142349id_/https%3A//www.sitelock.com/privacy-policy) for the most accurate reproduction.*
 
 # SiteLock Privacy Policy
 
@@ -163,5 +163,19 @@ We will respond to all requests, inquiries or concerns within 30 days.
 [Download our Privacy Policy.](https://web.archive.org/downloads/SiteLockPrivacyPolicy_May2018.pdf)
 
 Disclaimer: Google Translate is a third-party translation tool and may make some errors in translating the privacy policy text. SiteLock does not guarantee the accuracy of the translated text. Any translation discrepancies are not binding and have no legal effect for compliance or enforcement purposes.
+
+### Contact Us
+
+  * Toll-Free: [855.378.6200](tel:8553786200)
+  * International: [415.390.2500](tel:14153902500)
+
+
+
+### HEADQUARTERS
+
+8701 East Hartford Drive  
+Suite 200  
+Scottsdale, AZ 85255  
+USA 
 
 [ ](https://secure.sitelock.com/public/verify/www.sitelock.com)
