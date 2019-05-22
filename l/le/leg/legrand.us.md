@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115223859id_/https%3A//www.legrand.us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522130424id_/https%3A//www.legrand.us/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Legrand
 
