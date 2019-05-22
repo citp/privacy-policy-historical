@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919213835id_/https%3A//jda.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522154611id_/https%3A//jda.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JDA Software
 
