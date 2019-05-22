@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120053549id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522185746id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
 # Bidnapper - Free eBay Auction Sniper.
 
@@ -294,4 +294,4 @@
     
 
 eBay is a registered trade mark of eBay, Inc. Bidnapper.com sniper is not affiliated with eBay, Inc.  
-Copyright © Abercrombie Online, 2001-2018 | [Privacy](https://web.archive.org/privacy.php3) | [Terms](https://web.archive.org/eula.php)
+Copyright © Abercrombie Online, 2001-2019 | [Privacy](https://web.archive.org/privacy.php3) | [Terms](https://web.archive.org/eula.php)
