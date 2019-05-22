@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027225727id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522134448id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
 
 # Tello Mobile | Privacy Policy & Statement | You are safe with us
 
-## Tello Privacy Policy 
+## Tello Privacy and Cookie Policy
 
 Effective Date: May 25, 2018
 
@@ -60,8 +60,6 @@ If you want to restrict or block the cookies that are set by our Site, or any ot
 
 To opt-out of third-parties collecting any data regarding your interaction on our Site, please refer to their websites for further information. 
 
-You can at any time change or withdraw your consent from the Privacy and Cookie Policy on our website.
-
 **Personal information we collect from third parties**
 
 We partner with third party ad networks to either display advertising on our web site or to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect other information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/), or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
@@ -88,7 +86,7 @@ We partner with third party ad networks to either display advertising on our web
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Upon request Tello will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by making the change on our member information page or by emailing our Customer Service at customerservice@tello.com. We will respond to your request to access within a reasonable timeframe.
+Upon request Tello will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by making the change on our member information page or by emailing our Customer Support at customerservice@tello.com. We will respond to your request to access within a reasonable timeframe.
 
 ## How do we protect your personal information
 
@@ -106,7 +104,7 @@ Our partners, affiliates and service providers use cookies in order to make it e
 
 We may disclose your personal information to other members of our group of companies who may use it to: 
 
-  * provide you access to our services (account registration, customer service)
+  * provide you access to our services (account registration, customer support)
   * help detect, investigate, mitigate and prevent potentially fraudulent and illegal acts and data security breaches
   * provide you personalized advertising
 
@@ -118,7 +116,7 @@ We may share your information with third parties who provide services on our beh
 
   * Fulfilling orders and delivering packages
   * Payment processing
-  * Providing customer service
+  * Providing customer support
   * Sending marketing communications
   * Fulfilling subscription services
   * Designate a cell network
