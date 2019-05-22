@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrustmaster.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119221818id_/http%3A//www.thrustmaster.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrustmaster.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522025847id_/https%3A//www.thrustmaster.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thrustmaster
 
