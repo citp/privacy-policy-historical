@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newscorp.com privacy policy that was archived on 2018-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180508015307id_/https%3A//newscorp.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newscorp.com privacy policy that was archived on 2019-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522211048id_/https%3A//newscorp.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,18 +8,147 @@
 
 		<title>Privacy Policy  |  News Corp</title>
 
-				<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://r-login.wordpress.com/remote-login.php?action=js&amp;host=newscorp.com&amp;id=53250460&amp;t=1525744387&amp;back=https%3A%2F%2Fnewscorp.com%2Fprivacy-policy%2F" type="text/javascript"></script>
-		<script type="text/javascript">
-		/* <![CDATA[ */
-			if ( 'function' === typeof WPRemoteLogin ) {
-				document.cookie = "wordpress_test_cookie=test; path=/";
-				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
-					WPRemoteLogin();
-				}
+		
+<!-- Async WordPress.com Remote Login -->
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.remove(); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[i].remove();
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
 			}
-		/* ]]> */
-		</script>
-		<link rel="dns-prefetch" href="//s2.wp.com">
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9uZXdzY29ycC5jb20%3D"
+		+ "&wpcomid=53250460"
+		+ "&time=1558559448";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//s2.wp.com">
 <link rel="dns-prefetch" href="//s1.wp.com">
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//newscorpcom.wordpress.com">
@@ -41,9 +170,9 @@
 		/* ]]> */
 	</script>
 			<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1516999477h&ver=4.9.5"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1516999477h&amp;ver=4.9.5" type="text/javascript" defer=""></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1556893897h&ver=5.2.2-alpha-45377"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s2.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1556893897h&amp;ver=5.2.2-alpha-45377" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -58,18 +187,18 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="all-css-0-1" href="https://s0.wp.com/_static/??-eJx9kV1uAjEMhC/U1C0qVH2oepZsMMFgJ1Gc7Wpvj5cVEtAqL5Enns+TH5iKCzk1TA1kdIXHSElhKiGLUyHG+Um9BtUX+B9jOqPCCVvx4eyuqmcPuaLtS/FtcQjuySOjmK2HSdndqKU8WlY3Zj3+MJSKqs5WoVFcO1pQn6N9xKagOZBnR2Z5FCtMkHJbm7eiNzVidpyDb5TTg3AH9lR7aMWBc7Qygrnu5B9ovRz8UoGEk9pDLz2xDxqqr/MV1zYzLuSPfL9vNx+fu6+3zfZ0AVfexyY=?cssminify=yes" type="text/css" media="all">
+	<link rel="stylesheet" id="all-css-0-1" href="https://s1.wp.com/_static/??-eJyNkdFOwzAMRX+IzGww9oT4ljQ1nbc4iWKXqn+P27EhYIp4ia4dn9i+gam4kJNiUuDRlTgOlASmEjI7YYo4/4o2QeQB7mORzihwQi0+nN0a3cophTj2dm0J6EkUupjXqq76OoPoHHHDlFoNQq5oeS5elwrGnjxGZCtrYVxertQijzZdc4/Lwl1XKoo4O5lGdnq0Rl8cQcpKhspNtB4cMDvb1ivl9CNw79FTbaEVzafB5LA69x3+gS7zwQcVSDiJebXcMVwdXnAxt4Lu7vr8L379JVNv/Lrd7w+75+3h6fH0Ca8J2sg=?cssminify=yes" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='newscorp-ie-only-css'  href='https://s2.wp.com/wp-content/themes/vip/newscorp-com/library/css/ie.css?m=1372347988h&#038;ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='newscorp-ie-only-css'  href='https://s2.wp.com/wp-content/themes/vip/newscorp-com/library/css/ie.css?m=1372347988h&#038;ver=5.2.2-alpha-45377' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='newscorp-ie-only-header-css'  href='https://s2.wp.com/wp-content/themes/vip/newscorp-com/library/css/ie-header.css?m=1486591695h&#038;ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='newscorp-ie-only-header-css'  href='https://s2.wp.com/wp-content/themes/vip/newscorp-com/library/css/ie-header.css?m=1548947032h&#038;ver=5.2.2-alpha-45377' type='text/css' media='all' />
 <![endif]-->
 <link rel="stylesheet" id="all-css-4-1" href="https://s0.wp.com/wp-content/themes/vip/newscorp-com/library/css/font-awesome.min.css?m=1415823451h&amp;cssminify=yes" type="text/css" media="all">
-<link rel="stylesheet" id="dialog-admin-ui-css-css" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css?ver=4.9.5" type="text/css" media="all">
+<link rel="stylesheet" id="dialog-admin-ui-css-css" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css?ver=5.2.2-alpha-45377" type="text/css" media="all">
 <link rel="stylesheet" id="all-css-6-1" href="https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&amp;cssminify=yes" type="text/css" media="all">
-<script type="text/javascript" src="https://s1.wp.com/_static/??-eJydkN0OgjAMRl/IMTEYuTE+C46Kxf3g2kHg6d0iXhCJGpMlXdaTs6+VQyfQKh1qINnGcw/gx7lkLW3kJ0AYbHzFkBm0L1g5y2A5scadUYMIBL5q4lsUXdwK1zliA0QRWukuI6HtEYavWAvcVeomPBBOb1a+QvxP9thJCwMp51PPSI1nXyUJpWsaoAZvcfKZCsTOrM35q2sOpkalIdPIf4eaRc/lLoOdzDEvysOuzPfFtn0AJrSy5g=="></script>
-<link rel="stylesheet" id="all-css-0-2" href="https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1522184747h&amp;cssminify=yes" type="text/css" media="all">
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJylke8KglAMxV8ovVQofYmeRa8nm90/djcVffqU7IMkFQWDDfbj7Bymujoip01TgFU11q1B6OcWV7xR74DIUhkyQWzJPWHtncDJxNaexYI5K7GytT4ng6hhhBFwMp45+xVuaYlcS+g+YhWkzvQ1CmAaXq7LBaMv1VKtHDrWPkw7qwzlIZtEeBpZMQy07NbifSthfYHgaAixbli8/UdrzqZ7bRAbkp9zzUKPDyyNnexxmySHfZKmyb66A3Puy/0="></script>
+<link rel="stylesheet" id="all-css-0-2" href="https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&amp;cssminify=yes" type="text/css" media="all">
 <!--[if lt IE 8]>
 <link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
 <![endif]-->
@@ -163,7 +292,7 @@ img.emoji {
 					<div id="searchform">
 						<form method="get" action="https://newscorp.com//">
 							<input type="text" size="18" value="" name="s" id="s">
-							<input type="image" src="https://s0.wp.com/wp-content/themes/vip/newscorp-com/library/images/search-large.png">
+							<input type="image" src="https://s2.wp.com/wp-content/themes/vip/newscorp-com/library/images/search-large.png">
 						</form>
 					</div>
 					<div id="social-follow">
@@ -196,7 +325,11 @@ img.emoji {
 	<li id="menu-item-819" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://newscorp.com/corporate-governance/">Corporate Governance</a></li>
 </ul>
 </li>
-<li id="menu-item-15" class="careers menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://newscorp.com/careers/">Careers</a></li>
+<li id="menu-item-6668" class="careers menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6668"><a href="https://newscorp.com/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-6669" class="secondary-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-6669"><a href="/careers/search/">Search Jobs</a></li>
+</ul>
+</li>
 <li id="menu-item-17" class="investor-relations menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17"><a href="http://investors.newscorp.com">Investor Relations</a>
 <ul class="sub-menu">
 	<li id="menu-item-820" class="secondary-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-820"><a href="http://investors.newscorp.com/stock-information">Stock Quotes &amp; Charts</a></li>
@@ -208,9 +341,7 @@ img.emoji {
 	<li id="menu-item-825" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="https://newscorp.com/investor-relations-2/contact-info/">Contact Info</a></li>
 	<li id="menu-item-824" class="secondary-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-824"><a href="http://investors.newscorp.com/information-request">Information Request</a></li>
 	<li id="menu-item-826" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://newscorp.com/investor-relations-2/electronic-delivery/">Electronic Delivery</a></li>
-	<li id="menu-item-895" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="https://newscorp.com/investor-relations-2/tax-information-3/">Tax Information</a></li>
 	<li id="menu-item-3783" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-3783"><a href="https://newscorp.com/annual-meeting-information/">Annual Meeting Info</a></li>
-	<li id="menu-item-4782" class="secondary-nav menu-item menu-item-type-post_type menu-item-object-page menu-item-4782"><a href="https://newscorp.com/investor-relations-2/offer-for-wireless-group-plc/">Offer for Wireless Group</a></li>
 </ul>
 </li>
 <li id="menu-item-13" class="press-room menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13"><a href="https://newscorp.com/press-room/">Press Room</a>
@@ -246,13 +377,16 @@ img.emoji {
 							<article class="single" id="post-204" role="article" itemscope="" itemtype="http://schema.org/BlogPosting">
 					<section class="entry-content clearfix" itemprop="articleBody">
 						<p style="text-align:center;"><strong>Privacy Notice</strong><br>
-Effective Date: October 17, 2017</p>
-<p>We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company, through <a href="http://www.newscorp.com" rel="nofollow">http://www.newscorp.com</a> (the “Site”). When you visit the Site, you are visiting News Corp’s corporate website. Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products. Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates. A list of News Corp affiliates is <a href="https://newscorp.com/about/our-businesses/">here</a>. By using the Site, you agree to the terms and conditions of this Privacy Notice.</p>
-<p>The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Site is for a general audience, is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.</p>
+Effective Date: January 17, 2019</p>
+<p><span style="font-weight:400;">We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy. &nbsp;This Privacy Notice (“Notice”) applies to personal information obtained by the Company of visitors to the </span><a href="http://www.newscorp.com"><span style="font-weight:400;">www.newscorp.com</span></a> <span style="font-weight:400;">site (the “Site”). &nbsp;When you visit the Site, you are visiting News Corp’s corporate website. &nbsp;Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products. &nbsp;Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates. &nbsp;A list of News Corp affiliates is </span><a href="https://newscorp.com/about/our-businesses/"><span style="font-weight:400;">here</span></a><span style="font-weight:400;">. &nbsp;By using the Site, you agree to the terms and conditions of this Privacy Notice.</span></p>
+<p><span style="font-weight:400;">The Notice describes the types of personal information we obtain about visitors, how we use the information and with whom we share it. &nbsp;We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. &nbsp;The Site is for a general audience, is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age. </span></p>
 <p>Click on one of the links below to jump to the listed section:</p>
 <ul>
-<li><a href="#Information">Information We Obtain</a></li>
+<li><a href="#Information">Information We Obtain</a>
+<ul>
 <li><a href="#Automated">Information Obtained by Automated Means Through the Site</a></li>
+</ul>
+</li>
 <li><a href="#How">How We Use the Information We Obtain</a></li>
 <li><a href="#Share">Information We Share</a></li>
 <li><a href="#Accessing">Accessing, Reviewing, Updating and Modifying Personal Information</a></li>
@@ -264,83 +398,88 @@ Effective Date: October 17, 2017</p>
 <li><a href="#Contact">How To Contact Us</a></li>
 </ul>
 <p><span style="text-decoration:underline;"><strong><a name="Information"></a>Information We Obtain</strong></span></p>
-<p>We obtain information about customers through this Site from you directly and by automated means, and may also obtain personal information from publicly and commercially available sources and from our Company affiliates and/or business partners (such as social media networks). The types of personal information we may obtain include:</p>
+<p><span style="font-weight:400;">We obtain information through this Site from you directly and by automated means, and may also obtain personal information from publicly and commercially available sources and from our Company affiliates and/or business partners (such as social media networks). &nbsp;The types of personal information we may obtain include: </span></p>
 <ul>
-<li>Contact information (such as name, postal address, email address and telephone and/or mobile numbers);</li>
-<li>Username and password when you register on the Site;</li>
-<li>Geolocation data;</li>
-<li>Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature (such as gender and zip code); and</li>
-<li>If you are a News Corp investor, information you may submit for stockholder benefits, such as through the “Electronic Delivery Enrollment” feature (such as social security number or tax ID number).</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Contact information (such as name, postal address, email address and telephone and/or mobile numbers);</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Username and password when you register on the Site;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Geolocation data; </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature (such as gender and zip code); and </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">If you are a News Corp investor, information you may submit for stockholder benefits, such as through the “Electronic Delivery Enrollment” feature (such as social security number or tax ID number).</span></li>
 </ul>
 <p><span style="text-decoration:underline;"><strong><a name="Automated"></a>Information Obtained by Automated Means Through the Site</strong></span></p>
-<p>When you access and interact with the Site, we may obtain certain information through the Site by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of the Site. The information we obtain in this manner may include IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on the Site, and dates and times you access or use the Site.</p>
-<p>A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored.</p>
-<p>We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, what search queries you may have run. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash Website Storage Settings Panel and Global Storage Settings Panel. Please note, however, that without cookies you may not be able to use all of the features of the Site.</p>
-<p>The providers of third-party apps, tools, widgets and plug-ins on the Site, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.</p>
+<p><span style="font-weight:400;">When you access and interact with the Site, we may obtain certain information through the Site by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of the Site. &nbsp;The information we obtain in this manner may include IP address, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on the Site, and dates and times you access or use the Site. </span></p>
+<p><span style="font-weight:400;">A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. &nbsp;A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. &nbsp;As the visitor clicks through the website, a record of the action may be collected and stored.</span></p>
+<p><span style="font-weight:400;">We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, what search queries you may have run. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. &nbsp;Y</span><span style="font-weight:400;">ou also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash </span><a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"><span style="font-weight:400;">Website Storage Settings Panel</span></a><span style="font-weight:400;"> and </span><a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html"><span style="font-weight:400;">Global Storage Settings Pane</span></a><span style="font-weight:400;">l</span><span style="font-weight:400;">.</span> <span style="font-weight:400;">Please note, however, that without cookies you may not be able to use all of the features of the Site. </span></p>
+<p><span style="font-weight:400;">The providers of third-party apps, tools, widgets and plug-ins on the Site, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. &nbsp;This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices. &nbsp;</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="How"></a>How We Use the Information We Obtain</strong></span></p>
-<p>We may use the information collected from and about you to:</p>
+<p><span style="font-weight:400;">We may</span> <span style="font-weight:400;">use the information collected from and about you to:</span></p>
 <ul>
-<li>Provide our products and services;</li>
-<li>Create and manage online accounts;</li>
-<li>Send promotional materials, alerts regarding available offers and other communications, including communications through the Site and outside of the Site, such as via email and through third-party websites and apps;</li>
-<li>Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;</li>
-<li>Anonymize personal information to provide our affiliates and third parties with aggregated data reports showing anonymized information and other non-personal information;</li>
-<li>Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners (a link to a list of News Corp affiliates can be found above and under the Information We Share section of this Notice);</li>
-<li>Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content and other operational purposes;</li>
-<li>Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving the Site; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);</li>
-<li>Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and</li>
-<li>Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Provide our products and services;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Create and manage online accounts;</span></li>
+<li><b><span style="font-weight:400;">Send promotional materials, alerts regarding available offers and other communications, including communications through the Site and outside of the Site, such as via email and through third-party websites and apps;</span></b></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">De-identify personal information to provide our affiliates and third parties with aggregated data reports showing de-identified information and other non-personal information;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners (a link to a list of News Corp affiliates can be found above and under the </span><i><span style="font-weight:400;">Information We Share</span></i><span style="font-weight:400;"> section of this Notice);</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content and other operational purposes;</span></li>
+<li style="font-weight:400;"><b><span style="font-weight:400;">Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving the Site; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);</span></b></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies. </span></li>
 </ul>
-<p>In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of the Site, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use the Site, and (3) managing the Site and other aspects of our business.</p>
-<p>We may use third-party analytics services on the Site, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Site. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Site. To learn more about how to opt out of Google Analytics services, please visit the link below:</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of the Site, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use the Site, and (3) managing the Site and other aspects of our business. </span></p>
+<p><span style="font-weight:400;">We may use third-party analytics services on the Site, such as those of Google Analytics. &nbsp;The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Site. &nbsp;The information collected through these means may be disclosed to these analytics providers and other relevant third parties</span> <span style="font-weight:400;">who use the information, for example, to evaluate use of the Site. &nbsp;To learn more about how to opt out of Google Analytics services, please visit the link below:</span></p>
+<p>&nbsp;</p>
 <ul>
-<li>Google Analytics: <a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow">https://tools.google.com/dlpage/gaoptout</a></li>
+<li><b><span style="font-weight:400;">Google Analytics: &nbsp;</span><a href="https://tools.google.com/dlpage/gaoptout"><span style="font-weight:400;">https://tools.google.com/dlpage/gaoptout</span></a></b></li>
 </ul>
-<p>We also may use your personal information in other ways for which we provide specific notice at the time of collection.</p>
+<p>&nbsp;</p>
+<p><span style="font-weight:400;">We also may use your personal information in other ways for which we provide specific notice at the time of collection. &nbsp;</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Share"></a>Information We Share</strong></span></p>
-<p>We may share customer personal information with</p>
+<p><span style="font-weight:400;">We may share your personal information with</span></p>
 <ul>
-<li>Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. A current list of our affiliated companies is available at <a href="https://newscorp.com/about/our-businesses/" rel="nofollow">https://newscorp.com/about/our-businesses/</a>.</li>
-<li>Service providers in the US and other jurisdictions who perform services on our behalf.</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes. &nbsp;A current list of our affiliated companies is available at </span><a href="https://newscorp.com/about/our-businesses/"><span style="font-weight:400;">https://newscorp.com/about/our-businesses/</span></a><span style="font-weight:400;">.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Service providers in the US and other jurisdictions who perform services on our behalf.</span></li>
 </ul>
-<p>In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.</p>
-<p>We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).</p>
+<p><span style="font-weight:400;">In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.</span></p>
+<p><span style="font-weight:400;">We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. &nbsp;We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation). </span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Accessing"></a>Accessing, Reviewing, Updating and Modifying Personal Information</strong></span></p>
-<p>We provide you with an opportunity to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his/her personal information records.</p>
+<p><span style="font-weight:400;">We provide you with an opportunity to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. &nbsp;You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. Subject to applicable law, you may have additional rights with respect to your personal information, which you may exercise by contacting us as set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to his/her personal information records.</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Notice"></a>Notice to California Residents</strong></span></p>
-<p>Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.</p>
+<p><span style="font-weight:400;">Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. &nbsp;To make this request, California residents may contact us as specified in the How to </span><a href="https://docs.google.com/document/d/17PVtiaf74aKcIfTkTUH9FGgWn0HTdfLXs83JtdI-TzE/edit#bookmark=id.3j2qqm3"><span style="font-weight:400;">Contact Us</span></a><span style="font-weight:400;"> section</span> <span style="font-weight:400;">below.</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Protect"></a>How We Protect Personal Information</strong></span></p>
-<p>We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.</p>
+<p><span style="font-weight:400;">We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Transfers"></a>Transfers of Information</strong></span></p>
-<p>The Site may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice.</p>
+<p><span style="font-weight:400;">The Site may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. &nbsp;We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. &nbsp;When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. &nbsp;Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice. </span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Links"></a>Links to Affiliate and Third-Party Sites, Apps and Services</strong></span></p>
-<p>For your convenience and information, the Site may provide links to News Corp affiliates’ sites, apps and services, as well as those of third parties that may be operated by companies not affiliated with News Corp. Our affiliates have their own privacy notices or policies, which we strongly suggest you review. Third-party sites may carry advertisements or offer content, functionality, newsletters or applications developed and maintained by those unaffiliated third-party companies. We are not responsible for the privacy practices of any non-News Corp sites, apps or services.</p>
+<p><span style="font-weight:400;">For your convenience and information, the Site may provide links to News Corp affiliates’ sites, including their careers sites, apps and services, as well as those of third parties</span> <span style="font-weight:400;">that may be operated by companies not affiliated with News Corp. Our affiliates have their own privacy notices or policies, which we strongly suggest you review. &nbsp;Third-party sites may carry advertisements or offer content, functionality, newsletters or applications developed and maintained by those unaffiliated third-party companies. &nbsp;We are not responsible for the privacy practices of any non-News Corp</span> <span style="font-weight:400;">sites, apps or services.</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Updates"></a>Updates to Our Privacy Notice</strong></span></p>
-<p>This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. Changes to this Privacy Notice will become effective when the revised Notice is posted on newscorp.com. The Effective Date of the Privacy Notice can be found at the beginning of the Notice. For significant changes, we will notify you by posting a prominent notice on the Site indicating at the top of the Notice when it was most recently updated.</p>
+<p><span style="font-weight:400;">This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. Changes to this Privacy Notice will become effective when the revised Notice is posted on </span><a href="http://www.newscorp.com"><span style="font-weight:400;">newscorp.com</span></a><span style="font-weight:400;">. The Effective Date of the Privacy Notice can be found at the beginning of the Notice. For significant changes, we will notify you by posting a prominent notice on the Site indicating at the top of the Notice when it was most recently updated.</span></p>
 <p><span style="text-decoration:underline;"><strong><a name="Contact"></a>How To Contact Us</strong></span></p>
-<p>If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:</p>
-<p>Email: <a href="mailto:nc-privacypolicy@newscorp.com">nc-privacypolicy@newscorp.com</a></p>
-<p>You also may write to:</p>
-<p>News Corporation<br>
-1211 Avenue of the Americas<br>
-New York, NY 10036</p>
+<p><span style="font-weight:400;">If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:</span></p>
+<p><span style="font-weight:400;">Email: </span><a href="mailto:privacypolicy@newscorp.com"><span style="font-weight:400;">privacypolicy@newscorp.com</span></a></p>
+<p><span style="font-weight:400;">You also may write to:</span></p>
+<p><span style="font-weight:400;">News Corporation<br>
+</span><span style="font-weight:400;">1211 Avenue of the Americas<br>
+</span><span style="font-weight:400;">New York, NY 10036</span></p>
 					</section> <!-- end article section -->
 				</article> <!-- end article -->
 					</div> <!-- end #main -->
 	</div> <!-- end #inner-content -->
 </div> <!-- end #content -->
-			<footer class="footer" role="contentinfo">
+
+						<footer class="footer" role="contentinfo">
 				<div id="inner-footer" class="wrap clearfix">
 					<p><span class="footer-logo"></span></p>
 					<ul><li id="menu-item-1004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004 current-menu-item"><a href="https://newscorp.com/about/leadership/">Executives</a></li>
 <li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1005 current-menu-item"><a href="https://newscorp.com/press-room/general-inquiries/">Contact Us</a></li>
 <li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008 current-menu-item"><a href="https://newscorp.com/terms-of-use/">Terms</a></li>
-<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-204 current_page_item menu-item-1006 current-menu-item"><a href="https://newscorp.com/privacy-policy/">Privacy</a></li>
-<li id="item-id">© 2018 News Corporation. All Rights Reserved</li></ul>				</div> <!-- end #inner-footer -->
+<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-204 current_page_item menu-item-1006 current-menu-item"><a href="https://newscorp.com/privacy-policy/" aria-current="page">Privacy</a></li>
+<li id="item-id">© 2019 News Corporation. All Rights Reserved</li></ul>				</div> <!-- end #inner-footer -->
 			</footer> <!-- end footer -->
 		</div> <!-- end #container -->
 		<!-- wpcom_wp_footer -->
-<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201819y"></script>
+<script type="text/javascript" src="//0.gravatar.com/js/gprofiles.js?ver=201921y"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
@@ -372,16 +511,21 @@ var WPGroHo = {"my_hash":""};
 	</div>
 <script type="text/javascript">
 /* <![CDATA[ */
-var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/newscorpcom.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/newscorpcom.wordpress.com\/wp-login.php?action=logout&_wpnonce=eda1684c4e","homeURL":"https:\/\/newscorp.com\/","postID":"204","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/newscorpcom.wordpress.com\/public.api\/connect\/?action=request&domain=newscorp.com","logoutURL":"https:\/\/newscorpcom.wordpress.com\/wp-login.php?action=logout&_wpnonce=681a5da98e","homeURL":"https:\/\/newscorp.com\/","postID":"204","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1521806916j"></script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1551752381j"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyVkOtOwzAMhV+ILGzTgD+IZ3ETq3OXG7bTbjw9KZdpElJXfiWxv3N8YjsV43JSTGoHsR5HcljOm0Ee7E0rVlNC7SmJDXRCse8VKx4h+YC8AO/MSGU2boeBBOGi5GRBAD5SMh2wjSCK3G4mj8hMvk291v7poAzu9GesHjHiVzSbcBKXee7F9sOOgS9zbHFMRa9KSi7UOUhrDW0FDapkmxA3begyNZHvUe9zMVdZYcco9AFdWIF6hr5fh3ZVNaf7XMlCSmtITxByf8utXb/LIXOXzz9mm9+3+fZ6i6/bw+7xsH16ed4Pn6cSCgg="></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var newscorp = {"careers_load_more_endpoint":"\/careers\/search\/","careers_location_endpoint":"\/wp-json\/newscorp\/v1\/careers\/locations\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyVkOtOwzAMhV+ILJRpEvxAPIubWJ273LCdduPpSblMk5C68iuJ/Z3jE9u5GJeTYlI7ivU4kcNy3o3yYG9asZoS6kBJbKATin2vWPEIyQfkFfjJTFQW43YYSBAuSk5WBOAjJdMD2wiiyO1m8oTM5NvUa+2fDsrgTn/G6hEjfkWzCWdxmZdebD/sGfiyxBbHVPSqpORCXYK01thW0KBKtglx14auUzP5AfU+F3OVDXaMQh/Qhw2oZxiGbWhfVXO6z5UspLSF9AQhD7fc1vW7HDL3+fxjtvt9m2+vt/jaHQ5d9/L4vO/GT6cbCgQ="></script>
 <script type="text/javascript">
 // <![CDATA[
 (function() {
@@ -399,14 +543,14 @@ try{
 }catch(e){}
 })();
 // ]]>
-</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async="" defer=""></script>
+</script><script src="//stats.wp.com/w.js?60" type="text/javascript" async="" defer=""></script>
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'53250460','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 _stq.push(['view', {'blog':'53250460','v':'wpcom','tz':'-4','user_id':'0','post':'204','subd':'newscorpcom'}]);
 function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=53250460&v=wpcomvt&tz=-4&user_id=0&post=204&subd=newscorpcom&rand="+Math.random();}
-_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdhX18vYmh2eHVlVmFPRXNmM3xVflA0X254azJ0MUJNbU9La0FaVixYcXVmSXFPb01BenZsUU9GaVhKPVhUN1VURmVHdURqZXJGK2J+PyZoaXl0Zi0lLVBLLUR6PV1ib2F8fDFmaS1fflJXQlVXcDlRNW10Y1U9Q0FaNEFbMmhHV01tMF1qamxhRldTX09fMVlGMVhXd1ZFLENdblhGQ20mWUFsTWR8LEQ5WFc1fDJjcA=='}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTdhX18vYmh2eHVlVmFPRXNmM3xVflA0X254azJ0SGd4dUs/JWtCL0xHYmNBfDhXUFRaQjQtfk9GaVhKPVhUN1VURmVHdURqZXJGK2J+PyZoaXl0Zi0lLVBLLUR6PV1ib2F8fDFmaS1fflJXQlVXcDlRNW10Y1U9Q0FaNEFbMmhHV01tMF1qamxhRldTX09fMVlGMVhXd1ZFLENdblhGQ20mWUFsTWR8LEQ5SmpbSitIYw=='}]);
 _stq.push([ 'clickTrackerInit', '53250460', '204' ]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
@@ -431,4 +575,5 @@ if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 	
 }
 </script>	
-</body></html>
+
+<iframe scrolling="no" id="wpcom_remote_login_key" src="https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly9uZXdzY29ycC5jb20%3D&amp;wpcomid=53250460&amp;time=1558559448" style="display: none;"></iframe></body></html>
