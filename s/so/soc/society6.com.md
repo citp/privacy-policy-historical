@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230132233id_/https%3A//society6.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the society6.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522211021id_/https%3A//society6.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Society6
 
