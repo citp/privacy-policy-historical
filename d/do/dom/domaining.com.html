@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domaining.com privacy policy that was archived on 2017-02-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170222093549id_/https%3A//www.domaining.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domaining.com privacy policy that was archived on 2019-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522213944id_/https%3A//www.domaining.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -55,29 +55,6 @@
 <div class="container" style="background-color:transparent;">
 
 
-<!-- GUTTER ADS HERE -->
-
-<div class="unireg-ad-gutter unireg-ad-left" style="z-index: initial !important;">
-<iframe src="https://external.tldpros.com/Domaining/VerticalLeftBanner" style="border: none; width: 100%; height: 400px;"></iframe>
-</div>
-
-<div class="unireg-ad-gutter unireg-ad-right" style="z-index: initial !important;">
-<iframe src="https://external.tldpros.com/Domaining/VerticalRightBanner" style="border: none; width: 100%; height: 400px;"></iframe>
-</div>
-
-	
-<!-- TOP AD HERE -->
-
-<div class="unireg-ad-narrow">
-<a href="https://select.auction?channel=HorizontalBanner"><img src="/images/select.auction/top.png" style="width: 100%;"></a>
-</div>
-
-<!-- TOP AD MOBILE HERE -->
-
-<div class="unireg-ad-mobile">
-<a href="https://select.auction?channel=MobileBanner"><img src="https://external.tldpros.com/Content/Domaining/Images/750-118.jpg" style="width: 100%"></a>
-</div>
-<div class="unireg-ad-topspace"></div>
 
   <nav role="navigation" class="navbar navbar-inverse" style="margin-top:0;">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -95,10 +72,11 @@
         <div id="navbarCollapse" class="collapse navbar-collapse" style="padding-top:13px">
             <ul class="nav navbar-nav">
 
-                <li><a href="/feeds/">Feeds</a></li>
-                <li><a href="/forsale/">For Sale</a></li>
-                <li><a href="/topsales/">Top sales</a></li>
+                <li><a href="/sell/">Sell</a></li>
                 <li><a href="/directory/">Directory</a></li>
+                <li><a href="/feeds/">Feeds</a></li>
+                <li><a href="/lendme/">Get Loan</a></li>
+                <li><a href="https://www.namepros.com/">Forum</a></li>
 								
             </ul>
             <ul class="nav navbar-nav navbar-right">
@@ -110,175 +88,6 @@
         </div>
     </nav>
 
-
-
-
-<script>
-	
-$( document ).ready(function() {
-/*	
-	var adleft = document.getElementById('ad-left');
-	if(adleft)
-		adleft.style.zIndex = 777;
-	var adright = document.getElementById('ad-right');
-		adright.style.zIndex = 777;
-*/
-	});
-
-window.scrollBarWidth = function() 
-{
-  document.body.style.overflow = 'hidden'; 
-  var width = document.body.clientWidth;
-  document.body.style.overflow = 'scroll'; 
-  width -= document.body.clientWidth; 
-  if(!width) width = document.body.offsetWidth - document.body.clientWidth;
-  document.body.style.overflow = ''; 
-  return width; 
-}
-
-function PtInClient(x, y)
-{
-	var winW = 630, winH = 460;
-	if (document.body && document.body.offsetWidth) 
-	{
- 		winW = document.body.offsetWidth;
- 		winH = document.body.offsetHeight;
-	}
-	if (document.compatMode=='CSS1Compat' && document.documentElement && document.documentElement.offsetWidth ) 
-	{
- 		winW = document.documentElement.offsetWidth;
- 		winH = document.documentElement.offsetHeight;
-	}
-	if (window.innerWidth && window.innerHeight) 
-	{
- 		winW = window.innerWidth;
- 		winH = window.innerHeight;
-	}
-
-	if (document.body.scrollWidth> document.body.clientWidth)
-		winH -= 20;
-	if (document.body.scrollHeight > document.body.clientHeight)
-		winW -= 20;
-
-	if(x >= winW || y >= winH)
-		return false;
-	return true;
-}
-
-function getStyle(el,styleProp)
-{
-	if (el.currentStyle)
-		var y = el.currentStyle[styleProp];
-	else if (window.getComputedStyle)
-		var y = document.defaultView.getComputedStyle(el,null).getPropertyValue(styleProp);
-	return y;
-}
-
-
-function IsElementOpaque(e)
-{
-	var n;
-	
-	if (e.target) 
-		n = e.target;
-	else 
-	{
-		if (e.srcElement) 
-			n = e.srcElement;
-	}
-	if (n.nodeType == 3) // defeat Safari bug
-		n = n.parentNode
-
-	return IsNodeOpaque(n);
-}
-
-
-function IsNodeOpaque(n)
-{
-	var IsOpaque = false;
-
-	var bi = "background-image";
-	var bc = "background-color";
-	if(window.opera)
-	{
-		bi = "backgroundImage";
-		bc = "backgroundColor";
-	}	
-	
-		while(!IsOpaque && n != document.body && n.tagName != 'HTML')
-		{
-		if(n.tagName != 'SPAN' && n.tagName != 'DIV' && n.tagName != 'CENTER' && n.tagName != 'TABLE' && n.tagName != 'TH' && n.tagName != 'TR' && n.tagName != 'TD')
-		{
-			IsOpaque = true;
-		}
-		if(getStyle(n, bi) != "none")
-		{
-			IsOpaque = true;
-		}
-		if(getStyle(n, bc) != "transparent"  && getStyle(n, bc) != "rgba(0, 0, 0, 0)")
-		{
-			IsOpaque = true;
-		}			
-		n = n.parentNode
-	}	
-	return IsOpaque;
-}
-
-
-
-function MouseOnBody(e)
-{
-	if (!e) var e = window.event;
-
-	if(PtInClient(e.clientX, e.clientY) && !IsElementOpaque(e))
-			document.body.style.cursor = "pointer";
-		else
-			document.body.style.cursor = "default";
-}
-
-function BodyClicked(e)
-{
-	if (!e) var e = window.event;
-	
-    if ('which' in e) 
-    {
-
-		if(e.which != 1)
-			return;  	
-     }
-	else 
-	{
-		if ('button' in e) 
-		{
-
-            if (!(e.button & 1)) 
-				return;  	
-        }
-	}
-
-	if(PtInClient(e.clientX, e.clientY) && !IsElementOpaque(e))
-	{	
-		document.location = 'https://select.auction?channel=Background';
-	}
-}
-
-		var SBW = window.scrollBarWidth();
-
-		document.body.style.cursor = "pointer";
-		document.getElementsByTagName("HTML")[0].style.cursor = "pointer";
-
-		if (document.body.addEventListener)
-		{
-			window.addEventListener("mousemove", MouseOnBody, false); 
-			window.addEventListener("mousedown", BodyClicked, false); 
-		} 
-		else if (document.body.attachEvent)
-		{
-  		window.attachEvent('onmousemove', MouseOnBody);
-  		window.attachEvent('onmousedown', BodyClicked);
-		}
-
-</script>
 
 
 
@@ -373,8 +182,6 @@ info@cybertonic.com<br>
 <a href="http://www.twitter.com/domainingcom/"><img src="/images/Twitter-Bird.png" border="0"></a> 
 &nbsp;
 <a href="http://www.facebook.com/domainingcom/"><img src="/images/facebook.png" border="0"></a>
-&nbsp;
-<a href="http://www.domainware.com/"><img src="/images/wordpress.png" border="0"></a> 
 
 
 </center>
@@ -387,7 +194,7 @@ info@cybertonic.com<br>
 
 		<div class="col_100">
   		<div class="center">
-				<nobr><a href="/privacy/" style="font-weight:bold;color:white">Privacy</a> <font color="white">|</font> <a href="http://www.domaining.com/newsletter/" style="font-weight: bold;color: #ffffff;">Newsletter</a> <font color="white">|</font> <a href="/advertising/" style="font-weight:bold;color:white">Advertise</a> <font color="white">|</font> <a href="/contact/" style="font-weight:bold;color:white">Contact</a></nobr>
+				<nobr><a href="/privacy/" style="font-weight:bold;color:black">Privacy</a> <font color="black">|</font> <a href="http://www.domaining.com/newsletter/" style="font-weight: bold;color:black;">Newsletter</a> <font color="black">|</font> <a href="/advertising/" style="font-weight:bold;color:black">Advertise</a> <font color="black">|</font> <a href="/contact/" style="font-weight:bold;color:black">Contact</a></nobr>
     	</div>         		
   	</div>                
 	</footer>
