@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofmaster.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120003748id_/http%3A//www.dofmaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofmaster.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522045811id_/http%3A//dofmaster.com/privacy.html) for the most accurate reproduction.*
 
 # Hyperfocal Distance and Depth of Field Calculator - DOFMaster
 
