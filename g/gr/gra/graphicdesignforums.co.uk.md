@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicdesignforums.co.uk privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120052524id_/http%3A//www.graphicdesignforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicdesignforums.co.uk privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522053131id_/http%3A//www.graphicdesignforums.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Graphic Design Forums: A friendly forum for designers
 
