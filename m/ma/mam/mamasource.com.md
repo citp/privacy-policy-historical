@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mamasource.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119145238id_/http%3A//www.mamasource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasource.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522035045id_/http%3A//www.mamasource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mama Source
 
-This Privacy Policy governs the manner in which Mama Source collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.mamasource.com](http://www.mamasource.com/ "Mama Source") website (“Site”). This privacy policy applies to the Site and all products and services offered by Mama Source.
+This Privacy Policy governs the manner in which Mama Source collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://new.mamasource.com](http://new.mamasource.com/ "Mama Source") website (“Site”). This privacy policy applies to the Site and all products and services offered by Mama Source.
 
 **Personal identification information**
 
@@ -45,6 +45,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact our account manager at: [Mama Source](http://www.mamasource.com/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact our account manager at: [Mama Source](http://new.mamasource.com/)
 
 _This document was last updated on May 30, 2018_
