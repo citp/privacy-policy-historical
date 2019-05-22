@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906190717id_/https%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literarydevices.net privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522173230id_/https%3A//literarydevices.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Literary Devices
 
@@ -17,7 +17,7 @@ literarydevices.net does use cookies to store information about visitors prefere
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on literarydevices.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to literarydevices.net and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – //www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
