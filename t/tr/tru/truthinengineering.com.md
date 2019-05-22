@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005184542id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinengineering.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522125116id_/https%3A//www.audiusa.com/privacy) for the most accurate reproduction.*
 
 # Audi privacy statement | Audi USA
 
-##### Last Modified September 11, 2018
+##### Last Modified January 1, 2019
 
-This statement applies to Model Year 2019 vehicles and newer, unless a more specific privacy statement applies to an individual model.
+With regard to data collected from or about your vehicle, the Model Year 2019 Privacy Statement applies to all Model Year 2019 vehicles and newer as well as to any older vehicles if an owner or registered user agrees to the Model Year 2019 Privacy Statement (including all vehicles where an owner or registered user sign up to be a Key User or for Connect PRIME services on or after January 1, 2019). If you own a used vehicle and are unsure which privacy statement applies to you, you may contact us at auditalk@audi.com or by phone, 24 hours a day, at: 1-800-822-AUDI, for more information.
 
 At Audi of America, Inc., an operating division of Volkswagen Group of America, Inc. (“AoA,” “We,” or “Us”), we value your privacy and your desire to know how your information will be handled and used.  To better protect your privacy, we provide this Privacy Statement, which explains our information practices.  This statement applies to information we obtain from and about individuals interacting with AoA and its websites, mobile applications, vehicles, products and services; however, it does not apply to job applicants or AoA employees.
 
@@ -32,12 +32,12 @@ The types of information that AoA collects from and about you and your vehicle i
 
   * **Information you provide,** such as **** your preferences, **** photographs and other user-generated content, and other materials that you may submit
   * **Vehicle purchase/lease/service information,** such as contact information (such as name, address, telephone number, email) and vehicle purchase or lease information (such as VIN, make, model, year, dealer, date of purchase or lease, purchase/lease price, vehicle equipment, and service history) ****
-  * **Vehicle data transmitted from your vehicle** , such as general status data (such as warning lights, upcoming service schedule, fuel level, battery level, tire pressure); service history and fault or trouble codes; ambient data (such as outside temperature and brightness); vehicle performance data; other data about your vehicle including its identification, condition, equipment status, or collision information; vehicle/technology usage data (such as usage of start/stop and remote start technology); ** _and GPS location data_**
+  * **Vehicle data transmitted from your vehicle** , such as general status data (such as warning lights, upcoming service schedule, fuel level, battery level, tire pressure); service history and fault or trouble codes; ambient data (such as outside temperature and brightness); vehicle performance data; other data about your vehicle including its identification, condition, equipment status, or collision information; vehicle/technology usage data (such as usage of start/stop and remote start technology); driver behavior data (such as vehicle speed, seat belt use, and information about braking habits);  ** _and GPS location data_**
   * **Other information about you and how you interact with us** , such as data gathered by technology when you visit our website or use our mobile applications (such as IP address, browser information, ICCID, device type, app and OS version, etc.), demographic information and product preferences
 
 
 
-**This data _, including GPS location data_ , will be collected regardless of whether you sign up for or use additional services, described below, and may be used or shared for the purposes described below.**  **However, your connected vehicle may be equipped with a “Privacy Mode” that allows you to control what information is collected from the vehicle, including the ability to discontinue any sharing of vehicle data.   Please see the “Your Choices” section below for more information. **Vehicle models that offer limited connected services from third parties only (such as online traffic and infotainment), but not any remote services from Audi (TT, R8, A3, and Q3 models) are not equipped with Privacy Mode because Audi does not collect data from such vehicles.
+**This data _, including driver behavior GPS location data_ , will be collected regardless of whether you sign up for or use additional services, described below, and may be used or shared for the purposes described below.**  **However, your connected vehicle may be equipped with a “Privacy Mode” that allows you to control what information is collected from the vehicle, including the ability to discontinue any sharing of vehicle data.   Please see the “Your Choices” section below for more information. **Vehicle models that offer limited connected services from third parties only (such as online traffic and infotainment), but not any remote services from Audi (TT, R8, A3, and Q3 models) are not equipped with Privacy Mode because Audi does not collect data from such vehicles.
 
 If you set up a myAudi account, additional information will be collected, including:
 
@@ -77,7 +77,7 @@ We may use your information in a number of ways, including:
   * **To provide you with products and services,** such as **** to provide products and services you may request; support your vehicle, products and services; diagnose, repair and track service and quality issues; communicate with you about your vehicle, products or services; install and configure changes and updates to your services; authenticate users of our products and services; or verify your eligibility for certain programs or benefits ****
   * **For our own internal business purposes** , such as to evaluate the usage, performance and safety of our vehicles, products and services; improve the quality of our vehicles, products and services, and design new products and services; operate the AoA website and digital properties and customize the content; or maintain internal records
   * **For legal, safety or security reasons,** such as to comply with legal requirements; protect the safety, property or rights of AoA, owners, registered users, drivers, passengers or others; or prevent and detect fraud or misuse of the vehicles, products or services
-  * **For marketing.   **However, please note that GPS location data will not be used for AoA marketing purposes or shared with unaffiliated third parties to use for their own purposes without your affirmative consent. ****
+  * **For marketing.   **However, please note that GPS location and driver behavior data will not be used for AoA marketing purposes or shared with unaffiliated third parties to use for their own purposes without your affirmative consent. ****
   * **In an anonymized or aggregated format.**   We may also use any information we collect about you or your vehicle in an anonymized or aggregate manner for any purpose. ****
 
 
@@ -118,7 +118,7 @@ The types of information that AoA collects about you include:
 
   * **Information you provide,** such as **** your preferences, **** photographs and other user-generated content, and other materials that you may submit
   * **Vehicle purchase/lease/service information,** such as contact information (such as name, address, telephone number, email) and vehicle purchase, lease or service information (such as VIN, make, model, year, dealer, date of purchase or lease, purchase/lease price, vehicle equipment, and service history) ****
-  * **Vehicle data transmitted from your vehicle** , such as general status data(such as warning lights, upcoming service schedule, fuel level, battery level, and tire pressure); service history and fault or trouble codes; ambient data (such as outside temperature and brightness); vehicle performance data and other data about your vehicle including its identification, condition, equipment status, or collision information; vehicle/technology usage data (such as usage of start/stop and remote start technology); ** _and GPS location data_**
+  * **Vehicle data transmitted from your vehicle** , such as general status data(such as warning lights, upcoming service schedule, fuel level, battery level, and tire pressure); service history and fault or trouble codes; ambient data (such as outside temperature and brightness); vehicle performance data and other data about your vehicle including its identification, condition, equipment status, or collision information; vehicle/technology usage data (such as usage of start/stop and remote start technology); driver behavior data (such as vehicle speed, seat belt use, and information about braking habits); ** _  and GPS location data_**
   * **Other Information about you and how you interact with us** , such as data gathered by technology when you visit our website or use our mobile applications (such as IP address, browser information, ICCID, device type, app and OS version, etc.), demographic information and product preferences
 
 
@@ -143,7 +143,7 @@ We may use your information in a number of ways, including:
   * **To provide you with products and services,** such as **** to provide products and services you may request; support your vehicle, products and services; diagnose, repair and track service and quality issues; communicate with you about your vehicle, products or services; install and configure changes and updates to your services; authenticate users of our products and services; or verify your eligibility for certain programs or benefits ****
   * **For our own internal business purposes** , such as to evaluate the usage, performance and safety of our vehicles, products and services; improve the quality of our vehicles, products and services and design new products and services; operate the AoA website and digital properties and customize the content; or maintain internal records
   * **For legal, safety or security reasons,** such as to comply with legal requirements; protect the safety, property or rights of AoA, owners, registered users, drivers, passengers or others; or prevent and detect fraud or misuse of the vehicles, products or services
-  * **For marketing.   **However, please note that GPS location data will not be used for AoA marketing purposes or shared with unaffiliated third parties to use for their own purposes without your affirmative consent. ****
+  * **For marketing.   **However, please note that GPS location or driver behavior data will not be used for AoA marketing purposes or shared with unaffiliated third parties to use for their own purposes without your affirmative consent. ****
   * **In an anonymous or aggregated format.**   We may also use or share your information in an anonymized or aggregate manner for any purpose.
 
 
@@ -269,7 +269,7 @@ At present, the following third-party Content Providers offer services via Audi 
   * Twitter: Twitter Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107, USA – www.twitter.com
   * News: www.afp.com, www.npr.com and any other RSS feed providers that you may choose to add;
   * City events: Wcities.com, Inc., 512 2nd Street Second Floor, San Francisco , CA 94107, USA – www.wcities.com;
-  * Traffic information: INRIX Inc., 10210 NE Points Drive, Suite 300, Kirkland, WA 98033, USA – www.inrix.com
+  * Traffic information: HERE Global B.V., Kennedyplein 222 -226, 5611 ZT Eindhoven, The Netherlands
   * Parking information: Parkopedia Limited,  232 Sladepool Farm Road, Birmingham, West Midlands, B14 5EE – _[www.parkopedia.com](http://www.parkopedia.com/)_
   * Fuel price information: OPISNAVX c/o IHS, 18 rue du Quatre Septembre, 75002 Paris, France - www.opisnavx.com/
   * Flight information: FlightStats, Inc., 522 SW 5th Avenue, Suite 200, Portland, OR 97204, USA – www.flightstats-inc.com
@@ -301,13 +301,9 @@ At the time of Key User Registration, the “Audi Service Request” function is
 
 To opt-out of the Audi Service Request feature, please log in to your myAudi account.
 
-##### **If You Use Audi e-tron connect Services**
+##### Last Modified January 1, 2019
 
-Click _[here](https://etron.audiusa.com/web/aucwp/privacy-policy)_ to link to the Audi e-tron connect Privacy Statement.
-
-##### Last Modified September 11, 2018
-
-This statement applies to Model Year 2018 vehicles and older, unless a more specific privacy statement applies to an individual model.
+With regard to data collected from or about your vehicle, the Model Year 2018 Privacy Statement applies to Model Year 2018 vehicles and older, unless a more specific privacy statement applies to an individual model or if an owner or registered user agrees to the Model Year 2019 Privacy Statement.  The Model Year 2019 Privacy Statement will apply to all Model Year 2018 or older vehicles where an owner or registered user signed up to be a Key User or for Connect PRIME services on or after January 1, 2019. If you own a used vehicle and are unsure which privacy statement applies to you, you may contact us at [auditalk@audi.com](mailto:auditalk@audi.com) or by phone, 24 hours a day, at: 1-800-822-AUDI, for more information.
 
 At Audi of America, Inc., an operating division of Volkswagen Group of America, Inc. (“AoA” “We” or “Us”), we value your privacy and your desire to know how your information will be handled and used.  To better protect your privacy we provide this Privacy Statement, which explains our information practices.  This statement applies to information we obtain from and about individuals interacting with AoA and its websites, vehicles, products and services, however, it does not apply to job applicants or AoA employees.
 
@@ -583,7 +579,7 @@ At present, the following third-party Content Providers offer services via Audi 
   * Twitter: Twitter Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107, USA – www.twitter.com
   * news: www.afp.com, www.npr.com and any other RSS feed providers that you may choose to add;
   * city events: Wcities.com, Inc., 512 2nd Street Second Floor, San Francisco , CA 94107, USA – www.wcities.com;
-  * traffic information: INRIX Inc., 10210 NE Points Drive, Suite 300, Kirkland, WA 98033, USA – www.inrix.com
+  * traffic information: INRIX Inc., 10210 NE Points Drive, Suite 300, Kirkland, WA 98033, USA – www.inrix.com in addition to: HERE Global B.V., Kennedyplein 222 -226, 5611 ZT Eindhoven, The Netherlands
   * parking information: Parkopedia Limited,  232 Sladepool Farm Road, Birmingham, West Midlands, B14 5EE – [www.parkopedia.com](http://www.parkopedia.com/)
   * fuel price information: OPISNAVX c/o IHS,
   * 18 rue du Quatre Septembre, 75002 Paris, France - www.opisnavx.com/
@@ -616,6 +612,6 @@ At the time of Key User Registration, the “Audi Service Request” function is
 
 To opt-out of the Audi Service Request feature, please log in to your myAudi account.
 
-##### **If You Use Audi e-tron connect Services**
+##### **If You Use Audi A3 e-tron connect Services**
 
-_[Click here](https://www.audiusa.com/models/audi-e-tron/faqs)_ to link to the Audi e-tron connect Privacy Statement.
+_[Click here](https://etron.audiusa.com/web/aucwp/privacy-policy)_ to link to the Audi e-tron connect Privacy Statement.
