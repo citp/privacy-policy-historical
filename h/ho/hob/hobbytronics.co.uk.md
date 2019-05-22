@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbytronics.co.uk privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121181833id_/http%3A//www.hobbytronics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbytronics.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523012224id_/http%3A//www.hobbytronics.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
