@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-friv-games.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114225207id_/http%3A//www.top-friv-games.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-friv-games.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522132958id_/http%3A//www.top-friv-games.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Friv Games
 
