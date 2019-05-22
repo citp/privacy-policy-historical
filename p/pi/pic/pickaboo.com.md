@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pickaboo.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609155111id_/https%3A//pickaboo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaboo.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522023333id_/https%3A//www.pickaboo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | pickaboo.com
 
-## **Who Are We?**
+## Who Are We?
 
-Pickaboo.com offers online shopping in Bangladesh for all kinds of electronic products such as mobiles, tablets, laptops, accessories, televisions, home appliances at best price. Corporate office located at Flat no B-5 Plot 06 Block SW (H), Gulshan Avenue, Dhaka - 1212, Bangladesh.
+Pickaboo.com offers online shopping in Bangladesh for all kinds of electronic products such as mobiles, tablets, laptops, accessories, televisions, home appliances at best price. Corporate office located at House 10, Road 12, Block F, Niketan, Gulshan 1, Dhaka - 1212, Bangladesh
 
 ##  **What Do We Do with Your Information?**
 
