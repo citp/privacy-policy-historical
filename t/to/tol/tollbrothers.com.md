@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollbrothers.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020013837id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollbrothers.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522130558id_/https%3A//www.tollbrothers.com/privacy) for the most accurate reproduction.*
 
 # Toll Brothers - Privacy Policy
 
@@ -38,7 +38,7 @@ Our websites do not support Do Not Track at this time. Do Not Track (DNT) is a p
 
 **Special Notice to California Residents**
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [TBMAILER@tollbrothers.com](mailto:TBMAILER@tollbrothers.com?subject=California%20Privacy%20Request) and please include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [TBMAILER@tollbrothers.com](mailto:TBMAILER@tollbrothers.com?subject=California%20Privacy%20Request) and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
 **Unsubscribing from Emails**
 
