@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roboticsbusinessreview.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004174822id_/https%3A//www.roboticsbusinessreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboticsbusinessreview.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523164200id_/https%3A//www.roboticsbusinessreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Robotics Business Review
 
@@ -96,7 +96,7 @@ European Visitors under General Data Protection Regulation
 
 If you are visiting the site from Europe, our site will use geo-location to determine your relative country of origin. Upon first visit European users will be presented with a dialog box that describes the types of cookies the site is using and will ask for explicit consent to accept cookies in use for Personalization, Statistics and Marketing cookies. This consent is stored for 12 months, at which time the dialog will be presented to the user again to provide explicit consent for another 12 months. Acceptance of each cookie type is not required; however some site functions may be limited or not function as intended if the cookie is not accepted and cannot be placed in the users browser. Browser based “Do Not Track” requests are automatically accepted by our system for European site visitors. Click here to renew or change your cookie consent _Note: Cookie Declaration Link Will Only Function for European Visitors_
 
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right and request an audit or deletion of your data, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d3c0dff0d5d8c0c5d29ed3dfdd). Please allow up to 3 business days (72 hours) for a response from us. 
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right and request an audit or deletion of your data, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3a0b3ac83a6abb3b6a1eda0acae). Please allow up to 3 business days (72 hours) for a response from us. 
 
 Additionally, if you are a European resident we note that we are processing your transactional information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
@@ -126,7 +126,7 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **CONTACT US**
 
-For more information about our privacy practices, if you have questions, or if you would like to submit a complaint, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2241524d62474a5257400c414d4f) or by mail using the details provided below.
+For more information about our privacy practices, if you have questions, or if you would like to submit a complaint, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7112011e3114190104135f121e1c) or by mail using the details provided below.
 
 **WEB SITE OWNED AND OPERATED BY:**
 
