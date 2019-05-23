@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gyrosco.pe privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812151436id_/https%3A//gyrosco.pe/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyrosco.pe privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523083919id_/https%3A//gyrosco.pe/privacy) for the most accurate reproduction.*
 
-# Gyroscope
+# Gyroscope – Track your sleep, mood, travel, health, and more!
 
 ## What is Gyroscope?
 
