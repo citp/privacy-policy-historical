@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227095323id_/https%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523182826id_/https%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | City of Vancouver
 
