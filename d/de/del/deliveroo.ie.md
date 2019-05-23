@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101064545id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523083605id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
 
 # Deliveroo Privacy Policy - Deliveroo
 
@@ -20,7 +20,7 @@ We will only process the data we collect about you if there is a reason for doin
 
 ## 5\. Deliveroo For Business
 
-We also process your information to determine whether you may be interested in hearing about our Deliveroo for Business service.
+We also process your information to determine whether you may be interested in hearing about our Deliveroo for Business service and, if your employer signs up for Deliveroo for Business, to make this service available to you.
 
 ## 6\. Cookies
 
