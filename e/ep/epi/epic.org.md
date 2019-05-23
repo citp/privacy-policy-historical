@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013015540id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523140553id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
 
@@ -16,7 +16,7 @@ The EPIC Alert mailing list is managed through MailChimp, and their privacy poli
 
 EPIC acts as a data controller in relation to personal data (our subscribers’ e-mail addresses) from the EPIC Alert list. We only process data necessary to our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. Our legitimate interests include educating subscribers (and the public) about emerging privacy and civil liberties issues, promoting EPIC’s activities, and supporting EPIC. We have also deactivated tracking features in MailChimp and require “double opt-in” for subscriptions. We also include links to modify or cancel your subscription in every message to the EPIC Alert mailing list.
 
-You have the right to confirm whether or not your personal data we are processing your personal data. In the event you wish to view, receive a copy of, In the event you wish to view, receive a copy of, update, or delete an email address in our possession at any time for any reason, please contact [privacy-request@epic.org](mailto:privacy-request@epic.org) to make those changes.
+You have the right to confirm whether or not your personal data we are processing your personal data. In the event you wish to view, receive a copy of, update, or delete an email address in our possession at any time for any reason, please contact [privacy-request@epic.org](mailto:privacy-request@epic.org) to make those changes.
 
 ### Donor Privacy
 
@@ -34,6 +34,12 @@ You can read more about EPIC's work to defend donor privacy [here](https://epic.
 
 EPIC makes information on its website freely available to Internet users without storing any personal data. We do not enable cookies. We do not collect web logs and we promote Privacy Enhancing Techniques through our Practical Privacy Tools resource <https://epic.org/privacy/tools.html>. 
 
+### Personal Data Gathered for Events, Petitions, and Campaigns
+
+We request, but do not require, certain personal data for events, petitions, and campaigns. We will retain the data for as long as the petition or campaign continues, or until soon after the event concludes. We will treat name information you provide as public information. We will treat email addresses as private information and will not make public. We may use the email address to contact for purposes related to the event, petition, or campaign. In the event that any information provided will be made public (such as when you sign a petition), we will notify you on the form prior to submission.
+
+You have the right to confirm whether or not your personal data we are processing your personal data. In the event you wish to view, receive a copy of, update, or delete personal data in EPIC’s possession at any time for any reason, please contact privacy-request@epic.org to make those changes.
+
 ### EPIC Bookstore
 
 We offer links to relevant publications in the [EPIC Bookstore](http://www.epic.org/bookstore/). The items listed there are offered for sale on Amazon.com subject to their applicable privacy policies, which are available here: https://www.amazon.com/privacy/. We also collect limited personal data from NGOs that request complimentary copies of our publications. Our use of this information is limited to processing payments and shipping publications. This information is neither made available to any third parties nor combined with any other information at our disposal. As with any other personal information you have given us, any subpoena or attempts by law enforcement to gain access to this information will be challenged. In the event that you want to view, update, or delete this information, please contact _[privacy-request@epic.org.](mailto:privacy-request@epic.org.)_
@@ -41,3 +47,5 @@ We offer links to relevant publications in the [EPIC Bookstore](http://www.epic.
 ### Questions?
 
 For any other information about our privacy policy, please contact  _[privacy-request@epic.org.](mailto:privacy-request@epic.org.)_
+
+This policy was updated on March 15, 2019.
