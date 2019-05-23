@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812184418id_/https%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signingtime.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523033210id_/https%3A//www.signingtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Two Little Hands & Signing TIme
 
@@ -6,7 +6,7 @@
 
 **INTRODUCTION**
 
-Two Little Hands Productions LLC (TLH) is committed to your privacy. This privacy notice serves to help you better understand what information we collect, how we use that information, how we process your personal data and with whom we may share a limited portion of that information with through your use of our sites, signingtime.com and mysigningtime.com. If you have questions or concerns regarding this policy, you may contact our Customer Care Team at [info@twolittlehands.com](mailto:info@twolittlehands.com) or 801-676-4440 M-F, 9-5 MST.
+Two Little Hands Productions LLC (TLH) is committed to your privacy. This privacy notice serves to help you better understand what information we collect, how we use that information, how we process your personal data and with whom we may share a limited portion of that information with through your use of our sites, signingtime.com and mysigningtime.com. If you have questions or concerns regarding this policy, you may contact our Customer Care Team at [info@twolittlehands.com](mailto:info@twolittlehands.com).
 
 By providing us with your data, you warrant to us that you are over 18 years of age.
 
@@ -19,7 +19,6 @@ Our full details are:
 Two Little Hands Productions, LLC  
 870 E. North Union Ave.  
 Midvale, UT 84047  
-801-676-4440  
 Email address: info@signingtime.com
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by logging into your account at [www.signingtime.com](https://www.signingtime.com/) or at [www.mysigningtime.com](http://www.mysigningtime.com/) and updating your information or by emailing us at info@signingtime.com
@@ -139,4 +138,4 @@ Under data protection laws you have rights in relation to your personal data tha
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-## _Last modified 05/25/2018_
+## _Last modified 4/1/2019_
