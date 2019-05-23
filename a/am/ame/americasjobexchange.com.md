@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209192315id_/https%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasjobexchange.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524005845id_/https%3A//www.americasjobexchange.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Americas Job Exchange
 
