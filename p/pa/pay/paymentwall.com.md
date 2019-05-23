@@ -1,69 +1,83 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107174116id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523092323id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Paymentwall
 
-Welcome to Paymentwall, Inc. (www.paymentwall.com). This policy covers how Paymentwall, Inc. protects and uses the collected information about the user. Paymentwall, Inc. protects the privacy of all users who visit or use our Service (collectively or individually, "you" or "Users").
+Welcome to Paymentwall, a service provided by PW Inc., a Nevada corporation, and its affiliates. This privacy policy describes how Paymentwall (“us,” “we”) uses and protects the personal information it collects about its end users (“you,” “your”). The term “personal information” refers to information that can be used to identify, contact, or locate a single person or that can be used with other information to uniquely identify a single individual.
 
-The purpose of the Privacy Policy informs you about the information we collect, share and protect when you visit or use the Paymentwall, Inc. payment platform (the “Service”). By using the Service you express your agreement with this Privacy Policy. This Privacy Policy applies to all personally identifiable information collected on the website where this Privacy Policy is posted. You must be at least 18 years of age to use the Paymentwall, Inc. service. Please note if the user is under the age of 18, the user must get consent of a parent or legal guardian to access the Service. Paymentwall, Inc. does not knowingly collect or maintain personally identifiable information from persons under the age of 18 years. If Paymentwall, Inc. learns that personally identifiable information of those under the age of 18 years has been collected on our website or through our Service, then Paymentwall, Inc. will take the appropriate action to delete the information.
+Paymentwall is committed to safeguarding the information of the individuals who interact with its service, and ensuring that your information is used fairly and with your full understanding of how we’ll use it. This policy describes our practices in detail, but in general, here is what you need to know:
 
-### Use of Information
+  * We **collect** information you enter while using the Paymentwall service, information you provide to the merchants who have partnered with us, and information collected pursuant to our [Cookie policy](https://www.paymentwall.com/en/cookies-policy). We also track your IP addresses and information about the devices you use when accessing our services.
 
-When opening a Paymentwall, Inc. account, we will collect the users contact information including - your name, address, phone number, email, date of birth, and other similar information. This information can be reviewed and edited at any time by logging into your account and clicking on "My Settings" found under the "My Account" tab.
+  * We **use** the information we collect to process transactions you have initiated through our service, verify your identity, and carry out our legal and contractual obligations to prevent fraud and money laundering on our service.
 
-You can close your account through the Service or on the Paymentwall, Inc. website by editing your Paymentwall, Inc. Account information. If you close your Paymentwall, Inc. account, we will mark your account in our database as "Closed". Your account information will remain in our database. This information will not be sold or rented to any third parties.
+  * We may **disclose** information we gain during your use of the Paymentwall service to your bank, our third party partners to the extent necessary to provide our services, or to law enforcement upon receipt of a valid legal request.
 
-Standard web information is collected when you visit the Paymentwall, Inc. website or access the Service. The information is sent to us by your computer, mobile phone, or other device you use to access the Internet and contains your IP address, operating system, and standard web log information such as your browser type, sites you visited featuring the Service, and the pages you access on our website.
 
-Additional user information is collected from third party payment service providers, the website by which you access our Service and when you contact our support team. Paymentwall, Inc. uses user information to provide additional features found on the Service. Paymentwall, Inc. aggregates user information on what pages users access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer (such as surveys and/or site registrations), digital goods purchases, name, address, limited payment information (e.g., partial credit card information), to allow Paymentwall, Inc. to track user-generated content and users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 
-User information is also used to deliver relevant advertisements to each user. We have relationships with ad servers to place ads on our web pages and our platform. The ad server companies may collect information such as your domain type, IP address, and clickstream information but not limited to those. We do not have control over the information that is submitted to, or collected by, these third parties. You can consult the privacy policy of these other sites to learn how your privacy is protected.
 
-Paymentwall, Inc. processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
+More information about our collection, use and disclosure of your information can be found in the sections below.
 
-### Personal Information Privacy
+### Data Collecion
 
-The term “personal information” is used to describe the information that can be used to identify, contact, or locate a single person or can be used with other sources to uniquely identify a single individual.
+We will gather personal information about you under the following circumstances:
 
-We will not share your personal information with third parties unless we believe in good faith that:
+  * **When you access our website or visit a page that integrates our widget:** Our service gathers information automatically transmitted from the device(s) you use to access our website or the sites integrating our service, such as your IP address, unique device identifier, browser information, and system (e.g., operating system) information. This information, alone or combined with other information, may allow you to be identified.
 
-(I) such information is permitted being subject to access, use, preservation or disclosure to reasonably and necessarily satisfy any applicable law, regulation or legal process.
+  * **When you complete a transaction using our service:** During the course of a transaction, you will be prompted to enter certain information about yourself. This information may include your full name, address, date of birth, and details about the payment method you are using.
 
-(II) such action is appropriate to enforce the Terms of Use for the Service.
+  * **When it is provided to us by third party sources in connection with your use of our service:** Our merchants may send to us any information you have provided them, including your personal details (e.g., name, contact information) and details regarding your past and current purchases and activity on their site. Additionally, we may receive information about you from the provider of the payment method you use on our service to the extent such information is necessary to process your transaction, or if it later becomes necessary during an investigation into fraudulent or otherwise suspicious transactions.
 
-(III) such action assists in detecting, preventing and, vice versa, addressing fraud, security or technical issues associated with the Service.
+  * **When you communicate with our customer support team:** If you initiate communication with our customer support team, you will be prompted to provide additional information about yourself and your transaction. Additionally, our customer support team may contact you to request proof of personal identity, such as a picture of a legal identification document, in order to ensure your transaction is valid or to the extent it otherwise may be necessary to comply with our legal obligations as a financial institution.
 
-(IV) such action is appropriate to protect the rights and property as well as encourage safety of Paymentwall, its employees, users of the Service and others.
 
-Customers may prevent their information from being used by other services by e-mailing or mailing Paymentwall, Inc. a letter to the address below. We respect each request and will provide site visitors a description of information that we maintain about them.
 
-### Protection of your Personal Information
 
-Paymentwall, Inc. has taken appropriate physical, electronic, and procedural security measures to protect against loss, misuse or alteration of the information that we have collected from you at our site or through the Service.
+Children under the age of 18 are not allowed to use our service, and we do not knowingly collect or use any information from children or other individuals legally prohibited from using our website. To the extent you believe we have collected any information from children, please notify us immediately so we can take appropriate measures, including by promptly deleting it to the extent we are permitted to do so by law.
 
-### How We Use Cookies
+### Data Use
 
-Like many websites, we use "cookies" to collect information. Cookies are small data files used to recognize Paymentwall, Inc. users, to store user preferences, record user-specific information on what pages users access or visit, record past activity at a site to provide better service when visitors return to our site, help prevent fraud, and to provide trust and safety. Browser settings can be changed to alert you of accepting cookies and will prompt you to accept a cookie or it can disallow cookies. If cookies are disallowed, you may have limited access to Paymentwall’s Services.
+We only use your data for the following reasons:
 
-### Payments Safety and Security
+  * **To offer the Paymentwall service:** We will use your personal information as necessary to provide the Paymentwall service, including to the extent necessary to process the transaction you initiated, verify your identity, authenticate your access of a Paymentwall account, and communicate with you about the service.
 
-Paymentwall’s goal is to provide you with a safe and convenient online checkout experience. We always protect the security of your information by using Secure Sockets Layer (SSL) technology for each transmission that encrypts the information you input. All purchases made via a credit card or alternative direct payment must use an SSL-enabled browser. Using SSL-enabled browsers better protect the confidentiality of your personal and credit card information while it is being transmitted over the Internet. When you enter sensitive information (such as e-wallet account details, mobile number, credit card number or your password) and place an order online, we encrypt that information using Secure Socket Layer (SSL) technology that is the approved industry standard.
+  * **To manage risk and protect you, the site and the Paymentwall service:** Fraud prevention is a critical part of providing payment services, and we use your information to help us detect and prevent fraud.
 
-Users can check the security of their internet connection by looking at address bar of your browser window as you place your order online. If you see an unbroken key or a closed lock, then the SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". For credit card transactions, we will securely transmit the entire credit card number to be processed by the credit card company. We will only reveal the last 4 digits of your credit card number when printing an order confirmation. For security purposes we do not keep or store your credit card information as it is only used to complete the secure transaction. Your credit card number and other sensitive information will not be stored after the transaction is complete to help protect your credit card information. To further protect against unauthorized access to your account and to your computer, be sure to sign off when finished.
+  * **To comply with our legal obligations,** including all applicable anti-money laundering laws, anti-terrorist financing laws, financial services regulations, and our contractual obligations to the third party partners who provide or help to provide any payment method(s) you use on our service.
 
-### Unsolicited e-mails
+  * **For our other legitimate business needs:** We may need to use your personal information in order to enforce our contracts and terms of service and monitor activity on the site.
 
-Paymentwall, Inc. does not send unsolicited e-mails to private addresses or to anyone who has asked to remove from all Paymentwall, Inc. email lists. Any newsletters that we send are only sent to those who have subscribed to them. To stop receiving e-mails or newsletters from Paymentwall, click on the unsubscribe link in the e-mail or newsletter.
 
-### Paymentwall, Inc. User Info
 
-Paymentwall, Inc. does not and will not, at any time, request your full credit card information, your account ID and password or national identification numbers in a non-secure or unsolicited email or through telephone communication. Please never disclose your passwords for any reason.
 
-If you feel that this site is not following the above policy or you have any questions about our Privacy Policy, you may contact us at the details below:
+### Data Disclosure
 
-Paymentwall, Inc.  
-255 9th Street  
-San Francisco, CA 94103  
-You may reach us via e-mail at [info@paymentwall.com](mailto:info@paymentwall.com)
+Your data may be disclosed to third parties in any or all of the following circumstances. Because your privacy is important to us, we have taken measures to ensure that all of the entities we share your information with have implemented strong data privacy and data protection practices of a level comparable to that which we employ.
 
-Privacy Policy effective as of April 20, 2010  
-Privacy Policy last modified on February 13, 2015
+  * **When our affiliates need it to help provide the Paymentwall service:** PW Inc. has several affiliates around the world that assist it in providing the Paymentwall service. We may provide your information to these affiliates for any of the purposes we would ourselves use your information, including carrying out the transaction you requested, preventing fraud or illegal activity, and enforcing our terms and conditions.
+
+  * **When our payment partners need it to process a transaction you initiated:** We have contracts with banks and other third party financial institutions for every payment method we offer on our service. When you authorize a transaction, we will transmit to the relevant third party any information they require to process this transaction. What information is required will vary by payment type, but may include your name, address, and details of the purchase you are attempting to make.
+
+  * **When our merchants need it to process a transaction you initiated:** Where necessary, we will share certain information about you with our third party merchants to help facilitate the transactions. This data will never include your sensitive payment details (such as credit card number).
+
+  * **When other third parties that provide us with services related to the Paymentwall service require it in order to provide the services,** such as our server hosting providers and independent auditors we engage for the purposes of analyzing our compliance with the law or relevant independent standards.
+
+  * **To the extent required by law:** We will share your information with third parties to the extent we are required to do so by law. For example, we are required by law to undergo certain routine audits, which may require us to share your information with the third party auditors we have engaged in relation to these requirements. Additionally, we may have to disclose your information when we receive a valid subpoena or other law enforcement request, or when the law requires us to affirmatively notify law enforcement in order to prevent harm or illegal activity. The necessity of all such disclosures will be determined in our sole discretion. For more information on our procedures related to legal requests, please review our law enforcement policy.
+
+  * **To the extent our legitimate business interests require us to do so,** for example by transmitting it to our third party partners for inclusion on their blacklists or lists of terminated merchants, to help us engage in our fraud reduction efforts, to support our corporate governance activities or facilitate the sale or other transfer of all or part of our business, or to protect us or our service.
+
+### Data Retention
+
+We are required to retain many types of your personal information by law, often for a period of several years. We may additionally retain your information for a longer period than is required by law to the extent it is in our legitimate business interests to do so (for instance, we may retain it to prevent fraud on our service) and is not otherwise prohibited by law.
+
+### Data Location
+
+We use servers located in the United States and the European Union to store personal information gathered by the Paymentwall service. Additionally, to the extent we transfer your information to a third party, including our affiliates, as described in this policy, these third parties may be located outside our usual business location and your country of residence. In all such cases, data transfers will be carried out only after we ensure the third party provides comparable levels of data protection and that they will use your information only for the purposes set out in this policy.
+
+### End User Questions and Access
+
+Please feel free to contact us at [support@paymentwall.com](mailto:support@paymentwall.com) if you have any questions about our privacy practices.
+
+Users located in the EU: To exercise your right of data access, correction, or deletion, please use our privacy request form by [logging in](https://api.paymentwall.com/pwaccount/signin) to your Paymentwall User Account, though in all cases we may not be able to comply where we are prohibited from doing so by other legal obligations. Note that photo identification may be required in order to grant an individual access to their requested personal information. For further questions and concerns, you may reach our Data Protection Officer at [dataprotection@paymentwall.com](mailto:dataprotection@paymentwall.com). If you are not satisfied with the way we resolve your inquiries, you have the right to lodge a complaint with the Supervisory Authority for data protection located in your country of residence.
+
+
+
