@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121202438id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523185437id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | UEFA Nations League 2018 | ATP London Finals 2018 | Croatia vs Spain | Belgium vs Iceland | Federer vs Anderson
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | UFC Fight Night 152 | Rafael dos Anjos vs Kevin Lee | Deontay Wilder vs Dominic Breazeale | Billy Joe Saunders vs Sefat Isufi | Napoli vs Inter
 
 **General**
 
