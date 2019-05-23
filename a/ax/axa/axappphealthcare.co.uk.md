@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the axappphealthcare.co.uk privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209101657id_/https%3A//www.axappphealthcare.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axappphealthcare.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523091539id_/https%3A//www.axappphealthcare.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - AXA PPP healthcare
 
-Here is a summary of our data privacy notice. If you would like to read the full notice you can find it on the AXA UK website at [axa.co.uk/privacy-policy](http://www.axa.co.uk/privacy-policy "AXA UK Privacy Policy").
+Here is a summary of our data privacy notice. If you would like to read the full notice you can find it on the AXA UK website at [www.axa.co.uk/privacy-policy](http://www.axa.co.uk/privacy-policy "AXA UK Privacy Policy").
 
 We want to reassure you we never sell personal member information to third parties. We will only use your information in ways we are allowed to by law, which includes only collecting as much information as we need. We will get your consent to process information such as your medical information when it's necessary to do so.
 
@@ -10,10 +10,12 @@ We get information about you and any family members from you, those family membe
 
 If you have access to a product or service we process your information mainly for managing that product / service, including investigating fraud. We also have a legal obligation to do things such as report suspected crime to law enforcement agencies. We also do some processing because it helps us run our business, such as research, finding out more about you and statistical analysis for example to help us decide on premiums and marketing.
 
-We may disclose your information to other people of organisations. For example we'll do this to:
+We may disclose your information to other people or organisations. For example we'll do this to:
 
-  * manage your claims/services, e.g. to deal with your doctors;
+  * manage your claims/services, e.g. to deal with your doctors or any reinsurers
   * manage your policy with your insurance broker;
+  * facilitate access to the Doctor@Hand service, provided by Doctor Care Anywhere;
+  * help us reclaim claims costs if your claim relates to an injury caused by a third party (we use external law firms to help us with this)  
   * help us prevent and detect crime and medical malpractice by talking to other insurers and relevant agencies; and
   * allow other AXA companies in the UK to contact you if you have agreed.
 
