@@ -1,39 +1,147 @@
-> *The following text is extracted and transformed from the current.com privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722121953id_/http%3A//current.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523092252id_/https%3A//current.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Current TV // Current TV
+# Privacy Policy | Current
 
-Current respects your privacy. We recognize the potential of technology to help you communicate with us via our website and through e-mail and we would like to use this technology over time to develop a relationship with you. The privacy policy below details the measures taken by CURRENT TV, LLC (“Current”) to protect your privacy in connection with your use of www.current.tv and other sites owned by Current (collectively, “Site”). Please read the following to learn more about our privacy policy.
+This Privacy Policy (“Policy”) explains how Current may collect, use and disclose information we obtain through the Current Service.
 
-This privacy policy is incorporated into and is subject to the Current [Terms of Use](https://web.archive.org/terms/). If you do not agree to the terms of this privacy policy or the Terms of Use, please do not provide Current with any information and do not use the Site. Your continued use of the Site after the privacy policy has been modified will signify your acceptance of the changes for information gathered after the date of the change.
+The _“Current Service”_ means any websites, mobile applications, and other services under the control of Current, in connection with providing an online or digital platform for Current's services, including the provision of a digital platform on which customers can convert personal funds into digital vouchers redeemable at third party providers of goods and services.
 
-This policy statement discloses our privacy practices including the notification of:
+ _“Personal Information”_ means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-  * Personally identifiable information (“PII”) collected through our Site;
-  * Intended usage of this PII;
-  * Choices available regarding opt-in/opt-out, data collection, use and distribution of the information;
-  * Security measures to protect the loss or misuse of information under Current’s control;
-  * How to maintain the accuracy of your information.
+## 1\. How We Collect Your Information
+
+We collect information, including Personal Information when you:
+
+  * register to use the Current Service;
+  * connect your social media account(s);
+  * use the Current Service; and
+  * communicate with us.
 
 
 
-In general, you may visit our Site and access information while not revealing any individual user information other than Technology Related Information (defined below). If you upload content to this Site, the content will be governed by the Terms of Use and any other terms or conditions on the upload pages. The types of individual user information collected in the registration process may include your name, contact information, other PII and other information volunteered by you.
+### 1.1. Creating a Current Account.
 
-Current collects PII when you register with Current, when you visit Current pages and when you deliver communications or content to the Site. Current may combine information about you that we have with information we obtain from business associates or otherwise. Without limitation, information collected, including PII, may be used by Current for internal research purposes, marketing, promotions and public relations, subject only to the terms of our privacy policy.
+You must register to use the Current Service. When you choose to create an account, you must provide information including your email address and phone number. You may also choose to provide additional, optional information such as your zip code, financial account information, a profile picture, and other information. You may decline to provide additional Personal Information, however, doing so may prevent you from engaging with and using certain parts of the Current Service.
 
-Current will not disclose, transfer, sell or otherwise communicate your PII to any third party, other than Current’s parent, subsidiaries and affiliates, and each of (i) their employees or (ii) vendors and contractors operating under confidentiality agreements and subject to Current’s privacy policy, unless you give Current permission to do so, except as set forth in this privacy policy. Notwithstanding the foregoing or anything to the contrary, Current may disclose any information you provide if required to do so by law or pursuant to a request by law enforcement or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with the legal process; (2) protect and defend the rights or property of Current or third parties; or (3) act in an emergency to protect someone’s safety or legal rights (“Mandatory Disclosures”). As we develop our business, we may buy or sell assets or change our name or form of entity, and, depending upon the transaction, your personal information may be one of the transferred assets; provided, however, we will not sell or transfer PII except subject to the terms of our privacy policy. For instance, in the event that Current is acquired by another company, your PII may be part of the assets transferred to the acquiring party. Current will notify you before PII about you becomes subject to a different privacy policy. The collected information may be provided in the aggregate to third parties, including potential business partners and advertisers, but this information is not linked to any PII before it is disclosed unless Current has obtained your consent.
+### 1.2. Social Media Connection.
 
-To help administer our Site and provide a positive experience while visiting our Site, Current does collect technology-related information. “Technology-Related Information” may include, but is not limited to the following: source IP address, domain name, date and time visited and visited pages. A “cookie” is a small line of text that is stored with your Web browser for record-keeping purposes and to help us provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. We use cookies for many purposes such as to save your password so you don’t have to re-enter it each time you visit our site. We also use cookies to deliver content (which may include third party advertisements) specific to your interests. Current may set and access Current “cookies” on your computer. Current lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Advertisers or other companies do not have access to Current’s cookies. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Current has no control over the information collected from or about you by any third party after you have left the Site. By clicking on links to other websites, advertisers and other third parties, you are leaving the Site. Once you have left the Site, Current does not control the data collection and privacy practices, or other activities, of any third party linked to this Site and Current assumes no liability and is not responsible for any practices of such third party websites.
+We collect information, including Personal Information, from social media websites, such as Facebook or Twitter, when you connect to your Current account using your social media account. For example, when you log in with your Facebook credentials, we may collect Personal Information from Facebook, such as your email address, profile picture, and friend list.
 
-Current may consider requests from unrelated third parties to contact you, but we will not give that third party any PII unless Current has obtained your consent. You may give this consent by “opting-in” to having your information shared with third parties when you register. Additionally, Current provides you the opportunity to be sent newsletters and information about programming, promotional events, marketing events and opportunities to participate in research studies. If you would like to exercise your right under the CAN SPAM Act to not receive future e-mail correspondence from us, except with respect to your prior financial transactions or communications, regarding Mandatory Disclosures or as otherwise required by law, you may do so by using a link provided at the bottom of these communications. You can also send us an email at [privacy@current.com](mailto:privacy@current.com) for any opt-out or opt-in purpose. You may review, change or delete any information you submitted to Current by going to the registration page at any time. You must include your name and password, and a description of the information you would like to change. Alternatively, you can send mail to the following postal address: Current TV, LLC, 118 King Street, San Francisco, CA 94107 (Attn: Privacy).
+### 1.3. Using the Current Service.
 
-Current endeavors to ensure the commercially reasonable protection of user’s PII. We have implemented security measures to protect PII collected on our Site against loss, misuse or alteration. However, the Internet is an open system and technology and human operators are not infallible. Accordingly, we cannot and do not guarantee that the individual user information you have transmitted, including PII, will not be intercepted by others and/or decrypted or accidentally disclosed. We cannot ensure or warrant the security of any information transmitted to us over the Internet, and we accept no liability for any unintentional disclosure.
+We collect information from you as you use the Current Service, such as when you initiate a transaction, when you send payments or otherwise engage with or use the Service.
 
-As a user of the Site, please understand that our privacy policy may change from time to time. If we decide to make any material changes, we will post these changes on the Site. If, at any point, we decide to use PII in a manner different than what was stated at the time it was collected, we will notify users of this change by email. Users will have a choice as to whether or not we use their information in this different manner. Current will use information in accordance with the privacy policy under which the information was collected unless you agree otherwise.
+### 1.4. Customer Support.
 
-A Special Note about Children, Children’s Privacy and Our Compliance with the Children’s Online Privacy Protection Act
+We may collect information, including Personal Information from you through your communications with our customer support team.
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA), we are a general audience site and do not intend to collect any PII from children under 13 years of age, unless we believe such collection to be permitted by law. Our Site targets an audience that is over the age of 18 and some content may not be appropriate for all ages. Parental supervision is recommended. If you are the parent or guardian of a child under 13 and believe that he or she has disclosed PII to us, please contact us at [privacy@current.com](mailto:privacy@current.com). Upon request, the parent or guardian of a child under 13 may review and request the deletion of such child’s PII, as well as refuse to permit the further collection or use of such PII.
+### 1.5. Mobile Device Information.
 
-Still have Questions? If you have any questions, or believe Current is not abiding by our posted privacy policy, you should contact Current’s privacy manager by email at [privacy@current.com](mailto:privacy@current.com). Alternatively, you can send mail to the following postal address: Current TV, LLC, 118 King Street, San Francisco, CA 94107 (Attn: Privacy).
+We may obtain information from your mobile device such as your device type, machine or mobile device identification number, location data including time zone, language setting, browser type and IP address.
 
-This privacy policy was last changed and posted on our Site on April 4, 2005.
+### 1.6. Location data.
+
+If you have ‘background location’ turned on, the Current app will, from time to time, tell us about your device’s location even if you are not directly interacting with the application.
+
+When we have location information, we use it to tailor our Services for you and others, like helping reduce card fraud by matching your card activity with your location.
+
+### 1.7. Cookies, Automatic Data Collection, and Related Technologies.
+
+When you visit the Current Service, we and third parties that provide certain functionality on the Current Service may engage, receive and record information from your use of the Current Service and server logs from your browser, including your IP address, and from cookies and similar technology. This information is used for security purposes, to authenticate your identity, to improve the quality of the Current Service, such as to store your preferences, customize the Current Service, and provide more relevant advertising. Most browsers allow you to block and delete cookies. However, if you do that, the Current Service may not work properly.
+
+## 2\. How We Use Your Information
+
+We use the information we collect, including Personal Information to:
+
+  * facilitate and improve the Current Service; and
+  * communicate with you.
+
+
+
+### 2.1. Internal and Service-Related Usage.
+
+We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the Current Service. We may use and retain any data we collect to provide and improve our services.
+
+### 2.2. Communications.
+
+We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
+
+### 2.3. Marketing.
+
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We also do not provide any Personal Information to any third-party ad networks. We may use your Personal Information and other information to communicate with you by email or text message to provide you with information and offers we think may be of interest to you. We will send you text messages only with your consent, and you may opt out of emails by using the opt-out link in an email.
+
+### 2.4. Aggregate Data.
+
+We may anonymize and aggregate data collected through the Current Service and use it for any purpose. We do not consider information that has been anonymized so that it does not allow a third party to easily identify a specific individual to be Personal Information.
+
+We may share your information, including Personal Information:
+
+  * with our third-party service providers;
+  * with social networks, at your direction;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission.
+
+
+
+## 3\. How We May Disclose Your Information
+
+### 3.1. Vendors and Service Providers.
+
+We may share any information we receive with vendors and service providers retained in connection with the provision of the Current Service.
+
+### 3.2. Social Networking and Other Website Services.
+
+The Current Service may allow you to share information, including Personal Information, with third-party services and social networking websites, such as Facebook and Twitter. We do not share your Personal Information with them unless you direct the Current Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+
+### 3.3. As Required By Law and Similar Disclosures.
+
+We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours', ours' or others' rights, property, or safety.
+
+### 3.4. Merger, Sale, or Other Asset Transfers.
+
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information. We may also disclose your Personal Information with your permission.
+
+## 4\. Security of Your Information
+
+We take steps to ensure that your information is treated securely and in accordance with this Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+
+By using the Current Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Current Service. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Current Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [support@current.com](mailto:support@current.com?Subject=Privacy%20policy)
+
+## 5\. Links to Third Party Services
+
+The Current Services may allow you to access third party services to provide information about you, including Personal Information, to the Current Service. This Policy applies only to the information collected by the Current Service. When logging into a third party service or following a link to third party websites from the Current Service, please be aware that the privacy practices of those services may differ. We encourage you to carefully read the privacy policy for each website you visit. We are not responsible for the privacy policies or practices of linked third party sites or services.
+
+## 6\. International Users
+
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
+
+## 7\. Update Your Information or Pose a Question
+
+If you have any questions or concerns about this Policy or the use of your information, or to modify or update any information we have received, please contact [support@current.com](mailto:support@current.com?Subject=Privacy%20policy)
+
+### 7.1. Modifying Your Information.
+
+If you are a registered user of the Current Service, you may modify your account settings and information through the Settings portal within the Service.
+
+### 7.2. Deleting Your Current Account.
+
+You can delete your Current account through the Settings portal. When you delete your account, you and other Current users will no longer be able to view your account or profile information, but we may continue to have access to your information for a period of time in order to comply with applicable legal or service obligations.
+
+### 7.3. Data Retention.
+
+We will retain your account and associated information for as long as your account is active or as needed to provide you the Current Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## 8\. Changes to Our Policy and Practices
+
+### 8.1. Posting of Revised Policy. 
+
+We may update this Policy to reflect changes to our information practices. If we make any change in how we use Personal Information we will notify you by means of a notice on the Current Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### 8.2. New Uses of Personal Information. 
+
+From time to time, we may desire to use Personal Information for uses not previously disclosed in our Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+
+## 9\. Contact Information
+
+Finco Services, Inc. d/b/a Current217 Centre Street #180New York, NY 10013[support@current.com](mailto:support@current.com?Subject=Privacy%20policy)
