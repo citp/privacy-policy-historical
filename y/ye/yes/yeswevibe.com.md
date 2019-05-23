@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yeswevibe.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314190757id_/https%3A//yeswevibe.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeswevibe.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523121237id_/https%3A//yeswevibe.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – YesWeVibe
+# Privacy Policy - YesWeVibe
 
 YES WE VIBE PRIVACY POLICY
 
@@ -42,13 +42,13 @@ When you use our Website, we automatically collect certain computer information 
 
 Cookies  
 
-Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place PII in Cookies.
+Our Website uses Google Analytics and “Cookies” to identify the areas of our Website that you have visited. Aside from the approximate location (IP address), the information collected by Google Analytics is mostly anonymous traffic data including browser information, device information, language. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place PII in Cookies.
 
-Web Beacons 
+Web Beacons
 
 We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails. Our Web Beacons are not used to track your activity outside of our Website. We do not link NPI from Web Beacons to PII without your permission.
 
-Automatic Information 
+Automatic Information
 
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
 
@@ -70,7 +70,7 @@ Opting Out Of Sharing Information  
 
 You can always opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
 
-Protecting Your Child’s Privacy 
+Protecting Your Child’s Privacy
 
 We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
 
@@ -80,7 +80,7 @@ We comply with the federal CAN-SPAM Act. You can always opt out of receipt of fu
 
 Our Security Policy
 
-We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII. When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as establishing for conducting secure online transactions. We also use industry standard technologies such as secure routers and fire walls to make sure that your PII is safe. Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature. Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our Website and not share it with anyone. You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
+We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII. When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as established for conducting secure online transactions. We also use industry standard technologies such as secure routers and firewalls to make sure that your PII is safe. Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature. Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our Website and not share it with anyone. You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
 
 Use of Credit Cards
 
