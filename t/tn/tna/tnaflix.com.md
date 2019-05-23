@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114013056id_/https%3A//www.tnaflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523192105id_/https%3A//www.tnaflix.com/privacy) for the most accurate reproduction.*
 
 # TnaFlix Privacy Policy
 
