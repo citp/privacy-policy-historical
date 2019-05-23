@@ -1,27 +1,18 @@
-<!--The following is the downloaded HTML source of the ipsw.me privacy policy that was archived on 2017-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170904122331id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipsw.me privacy policy that was archived on 2019-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190523233634id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" ng-app="app"><head>
-    <title>Privacy Policy - IPSW Downloads</title>
-    <meta charset="utf-8">
-
-    
-        <link rel="stylesheet" type="text/css" href="https://ipsw.me/assets/css/app.css?cb=1504294766">
-    
-
-    <link rel="shortcut icon" href="https://ipsw.me/assets/images/favicon.ico?cb=1504294766">
-
-    
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="googlebot" content="NOODP, nofollow">
-    <meta name="y_key" content="5a3f0dd1613f1141">
-    <meta name="apple-mobile-web-app-title" content="ipsw.me">
-    <meta name="theme-color" content="#007fff">
-
-    <meta name="description" content="Download current and previous versions of Apple's iOS Firmware and receive push notifications when new firmwares are released">
-
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<!DOCTYPE html><html lang="en"><head>
+<title>Privacy Policy - IPSW Downloads</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="https://ipsw.me/assets/css/app.css?cb=1557681257">
+<link rel="shortcut icon" href="https://ipsw.me/assets/images/favicon.ico?cb=1557681257">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="googlebot" content="NOODP, nofollow">
+<meta name="y_key" content="5a3f0dd1613f1141">
+<meta name="apple-mobile-web-app-title" content="ipsw.me">
+<meta name="theme-color" content="#007fff">
+<meta name="description" content="Download current and previous versions of Apple's iOS Firmware and receive push notifications when new firmwares are released">
+<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -30,8 +21,7 @@
         ga('create', 'UA-26022325-1', 'auto');
         ga('send', 'pageview');
     </script>
-
-    <script>
+<script>
         var _prum = [['id', '59a562f7602da6b8c6b7afa0'],
             ['mark', 'firstbyte', (new Date()).getTime()]];
         (function() {
@@ -42,8 +32,7 @@
             s.parentNode.insertBefore(p, s);
         })();
     </script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
         window.cookieconsent_options = {
             "message": "we use cookies to ensure you get the best experience from our website.",
             "dismiss": "ok, cool!",
@@ -52,382 +41,260 @@
             "theme": "light-bottom"
         };
     </script>
-
-    
-        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
             (adsbygoogle = window.adsbygoogle || []).push({
                 google_ad_client: "ca-pub-9421549393799412",
                 enable_page_level_ads: true
             });
         </script>
-    
 </head>
-
 <body>
-
-    <div id="fb-root"></div>
-    <script>
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s);
-            js.id = id;
-            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-
-
 <div class="container-fluid">
-    <div ng-controller="FlashMessageCtrl" class="flash-messages" ng-cloak="">
-        <div uib-alert="" ng-repeat="message in messages" class="alert alert-dismissible" close="closeAlert($index)" role="alert" type="{{message.status}}" dismiss-on-timeout="10000">
-            <div ng-bind-html="trust(message.message)"></div>
-            <button ng-show="closeable" type="button" class="close" ng-click="closeAlert($index)">
-                <span aria-hidden="true">×</span>
-                <span class="sr-only">Close</span>
-            </button>
-        </div>
-    </div>
-<div ng-app="app.module.accounts" ng-controller="UserCtrl">
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" ng-init="isCollapsed = true" ng-click="isCollapsed = !isCollapsed" ng-class="{'collapsed': isCollapsed}" ng-cloak="">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+<div class="flash-messages" id="flash-messages"></div>
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="navbar-branding">
+<a class="navbar-brand brand-logo" href="/"></a>
+<a class="navbar-brand" href="/">
+IPSW Downloads
+</a>
+</div>
+</div>
+<div class="collapse navbar-collapse" id="navbar-collapse">
+<ul class="nav navbar-nav hidden-sm hidden-md hidden-lg">
+<li>
+<a href="/"><i class="fa fa-fw fa-home"></i> <span class="navigation-label">Home</span></a>
+</li>
+<li>
+<a href="/device-finder"><i class="fa fa-fw fa-tablet"></i> <span class="navigation-label">Identify my iOS Device</span></a>
+</li>
+<li>
+<a href="/otas"><i class="fa fa-fw fa-cloud-download"></i> <span class="navigation-label">OTA Firmwares</span></a>
+</li>
+<li>
+<a href="/history"><i class="fa fa-fw fa-calendar-check-o"></i> <span class="navigation-label">Release History</span></a>
+</li>
 
-            <div class="navbar-branding">
-                <a class="navbar-brand brand-logo" href="/"></a>
-
-                <a class="navbar-brand" href="/">
-                    IPSW Downloads
-                </a>
-            </div>
-        </div>
-
-        <div class="collapse navbar-collapse" id="navbar-collapse" uib-collapse="isCollapsed">
-            <ul class="nav navbar-nav hidden-sm hidden-md hidden-lg">
-                
-                
-                    
-                        
-                            <li>
-                            <a href="/"><i class="fa fa-fw fa-home"></i> <span class="navigation-label">Home</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/device-finder"><i class="fa fa-fw fa-tablet"></i> <span class="navigation-label">Identify my iOS Device</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/otas"><i class="fa fa-fw fa-cloud-download"></i> <span class="navigation-label">OTA Firmwares</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/history"><i class="fa fa-fw fa-calendar-check-o"></i> <span class="navigation-label">Release History</span></a>
-                        </li>
-                    
-                
-                    
-                        <li class="dropdown-big-header">
-                            <span>Jailbreak</span>
-                        </li>
-                        
-                        
-                            <li>
-                            <a href="https://canijailbreak.com"><i class="fa fa-fw fa-unlock-alt"></i> <span class="navigation-label">Can I Jailbreak?</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/keys"><i class="fa fa-fw fa-key"></i> <span class="navigation-label">Firmware Keys</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/iPhoneDev"><i class="fa fa-fw fa-flask"></i> <span class="navigation-label">iPhone Dev Team Tools</span></a>
-                        </li>
-                    
-                
-                    
-                        <li class="dropdown-big-header">
-                            <span>My Account</span>
-                        </li>
-                        
-                        
-                            <li ng-if="user &amp;&amp; user.logged_in" class="ng-cloak">
-                            <a href="/user/settings"><i class="fa fa-fw fa-cog"></i> <span class="navigation-label">Settings</span></a>
-                        </li>
-                    
-                            <li class="ng-cloak" ng-if="user &amp;&amp; user.logged_in">
-                            <a href="/user/logout"><i class="fa fa-fw fa-sign-out"></i> <span class="navigation-label">Sign Out</span></a>
-                        </li>
-                    
-                            <li ng-if="user &amp;&amp; !user.logged_in" class="ng-cloak">
-                            <a href="/user/signup"><i class="fa fa-fw fa-star"></i> <span class="navigation-label">Create an Account</span></a>
-                        </li>
-                    
-                            <li ng-if="user &amp;&amp; !user.logged_in" class="ng-cloak">
-                            <a href="/user/login"><i class="fa fa-fw fa-sign-in"></i> <span class="navigation-label">Sign In</span></a>
-                        </li>
-                    
-                
-                    
-                        <li class="dropdown-big-header">
-                            <span>Other</span>
-                        </li>
-                        
-                        
-                            <li>
-                            <a href="/notifications"><i class="fa fa-fw fa-bell-o"></i> <span class="navigation-label">Notifications</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/help"><i class="fa fa-fw fa-support"></i> <span class="navigation-label">Support</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/api/ios/docs/"><i class="fa fa-fw fa-wrench"></i> <span class="navigation-label">IPSW Downloads API</span></a>
-                        </li>
-                    
-                            <li>
-                            <a href="/contact"><i class="fa fa-fw fa-envelope-o"></i> <span class="navigation-label">Contact</span></a>
-                        </li>
-                    
-                
-            </ul>
-
-            <ul class="nav navbar-nav navbar-right">
-                <li class="navbar-search">
-                    <form class="navbar-form" role="search" type="GET" action="/search">
-                        <div class="input-group">
-                            <input type="text" class="form-control input-sm" placeholder="search ipsw.me" name="q" id="q" autocomplete="off">
-
-                            <div class="input-group-btn">
-                                <button class="btn btn-sm btn-default btn-nav-search" type="submit">
-                                    <i class="fa fa-search"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </form>
-                </li>
-                <li class="search-link">
-                    <a href="/search"><i class="fa fa-search"></i></a>
-                </li>
-                <li ng-include="'app/module/canijailbreak/view/jailbreaks.html'">
-                </li>
-                <li class="dropdown hidden-xs" ng-include="'app/module/accounts/view/user-details.html'" ng-cloak="" uib-dropdown="">
-                </li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="col-sm-3 col-md-2 sidebar">
-        <ul class="nav nav-sidebar">
-            
-            
-                
-                
-                    <li>
-                        <a href="/"><i class="fa fa-fw fa-home"></i> <span class="navigation-label">Home</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/device-finder"><i class="fa fa-fw fa-tablet"></i> <span class="navigation-label">Identify my iOS Device</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/otas"><i class="fa fa-fw fa-cloud-download"></i> <span class="navigation-label">OTA Firmwares</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/history"><i class="fa fa-fw fa-calendar-check-o"></i> <span class="navigation-label">Release History</span></a>
-                    </li>
-                
-            
-                
-                    <li class="dropdown-big-header">
-                        <span>Jailbreak</span>
-                    </li>
-                
-                
-                    <li>
-                        <a href="https://canijailbreak.com"><i class="fa fa-fw fa-unlock-alt"></i> <span class="navigation-label">Can I Jailbreak?</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/keys"><i class="fa fa-fw fa-key"></i> <span class="navigation-label">Firmware Keys</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/iPhoneDev"><i class="fa fa-fw fa-flask"></i> <span class="navigation-label">iPhone Dev Team Tools</span></a>
-                    </li>
-                
-            
-                
-                    <li class="dropdown-big-header">
-                        <span>My Account</span>
-                    </li>
-                
-                
-                    <li ng-if="user &amp;&amp; user.logged_in" class="ng-cloak">
-                        <a href="/user/settings"><i class="fa fa-fw fa-cog"></i> <span class="navigation-label">Settings</span></a>
-                    </li>
-                
-                    <li class="ng-cloak" ng-if="user &amp;&amp; user.logged_in">
-                        <a href="/user/logout"><i class="fa fa-fw fa-sign-out"></i> <span class="navigation-label">Sign Out</span></a>
-                    </li>
-                
-                    <li ng-if="user &amp;&amp; !user.logged_in" class="ng-cloak">
-                        <a href="/user/signup"><i class="fa fa-fw fa-star"></i> <span class="navigation-label">Create an Account</span></a>
-                    </li>
-                
-                    <li ng-if="user &amp;&amp; !user.logged_in" class="ng-cloak">
-                        <a href="/user/login"><i class="fa fa-fw fa-sign-in"></i> <span class="navigation-label">Sign In</span></a>
-                    </li>
-                
-            
-                
-                    <li class="dropdown-big-header">
-                        <span>Other</span>
-                    </li>
-                
-                
-                    <li>
-                        <a href="/notifications"><i class="fa fa-fw fa-bell-o"></i> <span class="navigation-label">Notifications</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/help"><i class="fa fa-fw fa-support"></i> <span class="navigation-label">Support</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/api/ios/docs/"><i class="fa fa-fw fa-wrench"></i> <span class="navigation-label">IPSW Downloads API</span></a>
-                    </li>
-                
-                    <li>
-                        <a href="/contact"><i class="fa fa-fw fa-envelope-o"></i> <span class="navigation-label">Contact</span></a>
-                    </li>
-                
-            
-        </ul>
-    </div>
+<li>
+<a href="https://justapengu.in/slide"><i class="fa fa-fw fa-download"></i> <span class="navigation-label">Download Slide Wallpaper Changer</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>Jailbreak</span>
+</li>
+<li>
+<a href="https://canijailbreak.com"><i class="fa fa-fw fa-unlock-alt"></i> <span class="navigation-label">Can I Jailbreak?</span></a>
+</li>
+<li>
+<a href="/keys"><i class="fa fa-fw fa-key"></i> <span class="navigation-label">Firmware Keys</span></a>
+</li>
+<li>
+<a href="/iPhoneDev"><i class="fa fa-fw fa-flask"></i> <span class="navigation-label">iPhone Dev Team Tools</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>My Account</span>
+</li>
+<li class="visible-logged-in">
+<a href="/user/settings"><i class="fa fa-fw fa-cog"></i> <span class="navigation-label">Settings</span></a>
+</li>
+<li class="visible-logged-in">
+<a href="/user/logout"><i class="fa fa-fw fa-sign-out"></i> <span class="navigation-label">Sign Out</span></a>
+</li>
+<li class="visible-logged-out">
+<a href="/user/signup"><i class="fa fa-fw fa-star"></i> <span class="navigation-label">Create an Account</span></a>
+</li>
+<li class="visible-logged-out">
+<a href="/user/login"><i class="fa fa-fw fa-sign-in"></i> <span class="navigation-label">Sign In</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>Other</span>
+</li>
+<li>
+<a href="/notifications"><i class="fa fa-fw fa-bell-o"></i> <span class="navigation-label">Notifications</span></a>
+</li>
+<li>
+<a href="/help"><i class="fa fa-fw fa-support"></i> <span class="navigation-label">Support</span></a>
+</li>
+<li>
+<a href="https://ipswdownloads.docs.apiary.io"><i class="fa fa-fw fa-wrench"></i> <span class="navigation-label">IPSW Downloads API</span></a>
+</li>
+<li>
+<a href="/contact"><i class="fa fa-fw fa-envelope-o"></i> <span class="navigation-label">Contact</span></a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="navbar-search">
+<form class="navbar-form" role="search" type="GET" action="/search">
+<div class="input-group">
+<input type="text" class="form-control input-sm" placeholder="search ipsw.me" name="q" id="q" autocomplete="off">
+<div class="input-group-btn">
+<button class="btn btn-sm btn-default btn-nav-search" type="submit">
+<i class="fa fa-search"></i>
+</button>
+</div>
+</div>
+</form>
+</li>
+<li class="search-link">
+<a href="/search"><i class="fa fa-search"></i></a>
+</li>
+<li>
+<div id="canijailbreak-widget"></div>
+</li>
+<li class="dropdown hidden-xs" id="account-info-navbar">
+</li>
+</ul>
+</div>
+</div>
+<div class="col-sm-3 col-md-2 sidebar">
+<ul class="nav nav-sidebar">
+<li>
+<a href="/"><i class="fa fa-fw fa-home"></i> <span class="navigation-label">Home</span></a>
+</li>
+<li>
+<a href="/device-finder"><i class="fa fa-fw fa-tablet"></i> <span class="navigation-label">Identify my iOS Device</span></a>
+</li>
+<li>
+<a href="/otas"><i class="fa fa-fw fa-cloud-download"></i> <span class="navigation-label">OTA Firmwares</span></a>
+</li>
+<li>
+<a href="/history"><i class="fa fa-fw fa-calendar-check-o"></i> <span class="navigation-label">Release History</span></a>
+</li>
+<li>
+<a href="https://justapengu.in/slide"><i class="fa fa-fw fa-download"></i> <span class="navigation-label">Download Slide Wallpaper Changer</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>Jailbreak</span>
+</li>
+<li>
+<a href="https://canijailbreak.com"><i class="fa fa-fw fa-unlock-alt"></i> <span class="navigation-label">Can I Jailbreak?</span></a>
+</li>
+<li>
+<a href="/keys"><i class="fa fa-fw fa-key"></i> <span class="navigation-label">Firmware Keys</span></a>
+</li>
+<li>
+<a href="/iPhoneDev"><i class="fa fa-fw fa-flask"></i> <span class="navigation-label">iPhone Dev Team Tools</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>My Account</span>
+</li>
+<li class="visible-logged-in">
+<a href="/user/settings"><i class="fa fa-fw fa-cog"></i> <span class="navigation-label">Settings</span></a>
+</li>
+<li class="visible-logged-in">
+<a href="/user/logout"><i class="fa fa-fw fa-sign-out"></i> <span class="navigation-label">Sign Out</span></a>
+</li>
+<li class="visible-logged-out">
+<a href="/user/signup"><i class="fa fa-fw fa-star"></i> <span class="navigation-label">Create an Account</span></a>
+</li>
+<li class="visible-logged-out">
+<a href="/user/login"><i class="fa fa-fw fa-sign-in"></i> <span class="navigation-label">Sign In</span></a>
+</li>
+<li class="dropdown-big-header">
+<span>Other</span>
+</li>
+<li>
+<a href="/notifications"><i class="fa fa-fw fa-bell-o"></i> <span class="navigation-label">Notifications</span></a>
+</li>
+<li>
+<a href="/help"><i class="fa fa-fw fa-support"></i> <span class="navigation-label">Support</span></a>
+</li>
+<li>
+<a href="https://ipswdownloads.docs.apiary.io"><i class="fa fa-fw fa-wrench"></i> <span class="navigation-label">IPSW Downloads API</span></a>
+</li>
+ <li>
+<a href="/contact"><i class="fa fa-fw fa-envelope-o"></i> <span class="navigation-label">Contact</span></a>
+</li>
+</ul>
 </div>
 <div class="col-sm-9 col-md-10 col-sm-offset-3 col-md-offset-2 main">
-        
 <h1 class="text-center">Privacy Policy</h1>
-
-This Privacy Policy governs the manner in which Just a Penguin collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="https://ipsw.me/">IPSW Downloads</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Just a Penguin.<br><br>
-
-<b>Personal identification information</b><br><br>
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.<br><br>
-
-<b>Non-personal identification information</b><br><br>
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.<br><br>
-
-<b>Web browser cookies</b><br><br>
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.<br><br>
-
-<b>How we use collected information</b><br><br>
-
-Just a Penguin may collect and use Users personal information for the following purposes:<br>
+<p>This Privacy Policy governs the manner in which Just a Penguin collects, uses, maintains and discloses information collected from users (each, a "User") of the IPSW Downloads website ("Site").</p>
+<h3><a id="PERSONAL_INFORMATION_WE_COLLECT_5"></a>PERSONAL INFORMATION WE COLLECT</h3>
+<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, an email address. Users may, however, visit our Site without providing an email address (registering).</p>
+<p>We will collect personal identification information from Users only if they <em>voluntarily</em> submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+<h3><a id="DATA_RETENTION_12"></a>DATA RETENTION</h3>
+<p>When you register with the IPSW Downloads website, we retain the following data about you:</p>
 <ul>
-    <li><i>- To personalize user experience</i><br>
-        We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
-    <li><i>- To improve our Site</i><br>
-        We may use feedback you provide to improve our products and services.</li>
-    <li><i>- To send periodic emails</i><br>
-        If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</li>
+<li>Your email address</li>
+<li>An encrypted hash of your password. We do not store your password in plain text.</li>
 </ul>
-<b>How we protect your information</b><br><br>
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.<br><br>
-
-<b>Sharing your personal information</b><br><br>
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.<br><br>
-
-<b>Third party websites</b><br><br>
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.<br><br>
-
-<b>Changes to this privacy policy</b><br><br>
-
-Just a Penguin has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><br>
-
-<b>Your acceptance of these terms</b><br><br>
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br><br>
-
-<b>Contacting us</b><br><br>
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
-<a href="http://www.icj.me/">Just a Penguin</a><br>
-<a href="https://ipsw.me/">https://ipsw.me/</a><br>
-cj@icj.me<br>
+<p>You may delete this data at any time for any reason using the "Delete Account" button within your account settings. All data will be immediately deleted. It will remain in our encrypted database backups for one week, before then being deleted permanently.</p>
+<h3><a id="SHARING_YOUR_PERSONAL_INFORMATION_21"></a>SHARING YOUR PERSONAL INFORMATION</h3>
+<p>We share your Personal Information with third parties to help us use your Personal Information, as described above.</p>
+<ul>
+<li>We use <strong>Google Analytics</strong> to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: <a href="https://www.google.com/intl/en/policies/privacy/">https://www.google.com/intl/en/policies/privacy/</a>. You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</li>
+<li>We also use <strong>Cloudflare</strong> to provide the Site with safety, reliability and security features. You can view more information about Cloudflare’s commitment to user privacy here: <a href="https://www.cloudflare.com/security-policy/">https://www.cloudflare.com/security-policy/</a>.</li>
+<li>When you sign up for email notifications, we use <strong>Sendgrid</strong> to automatically send the emails to you. In doing so, Sendgrid will receive your email address, and may track further information about your interactions with the emails sent to you. This is an opt-in service, and can be unsubscribed from within any email, or on the account section of the Site. You can view Sendgrid’s privacy statements here: <a href="https://sendgrid.com/policies/privacy/">https://sendgrid.com/policies/privacy/</a>.</li>
+</ul>
+<p>Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.</p>
+<h3><a id="BEHAVIOURAL_ADVERTISING_31"></a>BEHAVIOURAL ADVERTISING</h3>
+<p>As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s ("NAI") educational page at <a href="https://www.networkadvertising.org/understanding-online-advertising/how-does-it-work">http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work</a>.</p>
+<p>Just a Penguin use Google Adsense to provide adverts which support the upkeep of the Site. You can opt out of targeted advertising from Google by following the instructions at: <a href="https://www.google.com/settings/ads/anonymous">https://www.google.com/settings/ads/anonymous</a>.</p>
+<p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href="http://optout.aboutads.info/">http://optout.aboutads.info/</a>.</p>
+<h3><a id="DEVICE_IDENTIFICATION_INFORMATION_38"></a>DEVICE IDENTIFICATION INFORMATION</h3>
+<p>When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information."</p>
+<p>We use the Device Information that we collect to help us generally improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns). We also use this data to identify and prevent malicious activity towards the Site.</p>
+<p>We collect Device Information using the following technologies:</p>
+<ul>
+<li>"Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <a href="http://www.allaboutcookies.org">http://www.allaboutcookies.org</a>. Just a Penguin use cookies to provide an Accounts System, as well as for our advertising partner, Google Adsense to serve adverts to you.</li>
+<li>"Log files" track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps. Log files are removed from the Site every 24 hours, and are never shared with any third party.</li>
+<li>"Web beacons," "tags," and "pixels" are electronic files used to record information about how you browse the Site.</li>
+</ul>
+<h3><a id="DO_NOT_TRACK_50"></a>DO NOT TRACK</h3>
+<p>Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.</p>
+<h3><a id="YOUR_RIGHTS_53"></a>YOUR RIGHTS</h3>
+<p>Any user from any country has the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. Just a Penguin have built tools in the accounts system on the Site which allow you to exercise this right. If you are not registered with the Site, we do not collect any personal information about you. We do however collect Device Information as described above. You may also contact us using the information below if you have any further questions about this.</p>
+<h3><a id="CHANGES_56"></a>CHANGES</h3>
+<p>Just a Penguin has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+<h3><a id="YOUR_ACCEPTANCE_OF_THESE_TERMS_59"></a>YOUR ACCEPTANCE OF THESE TERMS</h3>
+<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+<h3><a id="CONTACT_US_62"></a>CONTACT US</h3>
+<p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:cj@icj.me">cj@icj.me</a> or using the contact details provided here: <a href="https://ipsw.me/contact">https://ipsw.me/contact</a></p>
+<p>This document was last updated on 1st May 2018</p>
+<div class="clearfix"></div>
+<footer>
+<div class="description">
+<small>
+ All information on these pages is auto updated at least every minute.
+When you click on any Apple Software link on the site, you are redirected
+to an Apple server. We <strong>do not</strong> (and never will) mirror these files.
+</small>
 <br>
-This document was last updated on 25th June 2016<br><br>
-
-
-
-        <div class="clearfix"></div>
-
-        <footer>
-            <div class="description">
-                <small>
-                    All information on these pages is auto updated at least every minute.
-                    When you click on any Apple Software link on the site, you are redirected
-                    to an Apple server. We <strong>do not</strong> (and never will) mirror these files.
-                </small>
-
-                <br>
-
-                <small>
-                    <em>
-                        "Apple", "iOS", "iPhone", "iPad", "Apple Watch", "iPod Touch" and "iTunes"
-                    </em>
-                    are trademarks of Apple Inc.
-
-                    The <a href="https://api.ineal.me">TSSstatus API</a> is maintained by <a href="https://twitter.com/iNeal">Neal</a>.
-                </small>
-            </div>
-
-            <div class="links">
-                <ul>
-                    <li><a href="https://api.ipsw.me"><i class="fa fa-fw fa-code"></i> IPSW Downloads API</a></li>
-                    <li><a href="/thanks"><i class="fa fa-fw fa-smile-o"></i> Credits/Thanks</a></li>
-                    <li><a href="/privacypolicy"><i class="fa fa-fw fa-user-secret"></i> Privacy Policy</a></li>
-                    <li><a href="https://github.com/cj123"><i class="fa fa-fw fa-github"></i> GitHub</a></li>
-                    <li><a href="/donate"><i class="fa fa-fw fa-paypal"></i> Donate via PayPal</a></li>
-                    <li><a href="/timeline.rss"><i class="fa fa-fw fa-rss"></i> RSS Feed</a></li>
-                </ul>
-            </div>
-
-            <div class="branding">
-                <img src="https://ipsw.me/assets/images/brand/penguin.png?cb=1504294766" class="img img-responsive penguin">
-
-                <span>© 2010-2017 <a href="https://justapengu.in">Just a Penguin</a></span>
-            </div>
-
-            <br><br>
-
-            <div class="build">
-                ipsw-downloads ve32f3c1
-            </div>
-        </footer>
-    </div>
+<small>
+<em>
+"Apple", "iOS", "iPhone", "iPad", "Apple Watch", "iPod Touch" and "iTunes"
+</em>
+are trademarks of Apple Inc.
+</small>
 </div>
-
-
-    <script type="text/javascript" src="https://ipsw.me/assets/js/deps.min.js?cb=1504294766"></script>
-    <script type="text/javascript" src="https://ipsw.me/assets/js/app.min.js?cb=1504294766"></script>
-    <script type="text/javascript" src="https://ipsw.me/assets/js/templates.js?cb=1504294766"></script>
-
-
-
+<div class="links">
+<ul>
+<li><a href="https://ipswdownloads.docs.apiary.io"><i class="fa fa-fw fa-code"></i> IPSW Downloads API</a></li>
+<li><a href="/thanks"><i class="fa fa-fw fa-smile-o"></i> Credits/Thanks</a></li>
+<li><a href="/privacypolicy"><i class="fa fa-fw fa-user-secret"></i> Privacy Policy</a></li>
+<li><a href="https://github.com/cj123"><i class="fa fa-fw fa-github"></i> GitHub</a></li>
+<li><a href="/donate"><i class="fa fa-fw fa-paypal"></i> Donate via PayPal</a></li>
+<li><a href="/timeline.rss"><i class="fa fa-fw fa-rss"></i> RSS Feed</a></li>
+</ul>
+</div>
+<div class="branding">
+<img src="https://ipsw.me/assets/images/brand/penguin.png?cb=1557681257" class="img img-responsive penguin">
+<span>© 2010-2019 <a href="https://justapengu.in">Just a Penguin</a></span>
+</div>
+<br><br>
+<div class="build">
+ipsw-downloads v5.1.9-3 (#214)
+</div>
+</footer>
+</div>
+</div>
+<script async="" type="text/javascript" src="https://ipsw.me/assets/js/frontend.js?cb=1557681257"></script>
 
 
 </body></html>
