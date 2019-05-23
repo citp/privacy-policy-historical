@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independentnig.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006205112id_/http%3A//independent.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentnig.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523174132id_/https%3A//www.independent.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Independent News Nigeria
+# Privacy Policy | Independent Newspapers Nigeria
 
 Independent Newspapers Limited (the producer of independent.ng) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with important information about our privacy practices. This Privacy Policy applies when you use a website, mobile or tablet application, or other online service (collectively, the “Services”) that links or refers to it. It does not govern or apply to information collected or used by Independent Newspapers Limited through other means.
 
