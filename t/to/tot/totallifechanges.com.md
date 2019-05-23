@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826110755id_/https%3A//totallifechanges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallifechanges.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524000848id_/https%3A//totallifechanges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Total Life Changes
+
+Privacy Policy[Rick Berg](https://totallifechanges.com/author/rberg32/ "Posts by Rick Berg")2019-03-14T22:16:49-04:00
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to Total Life Changes, LLC. to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
 We believe your business is no one else’s. Your privacy is important to you…and to us. So we’ll protect the information you share with us. To protect your privacy, Total Life Changes, LLC. follows different principles in accordance with world-wide practices for customer privacy and data protection.
 
-  * __
+  *  __
 
 We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
 
@@ -17,11 +19,11 @@ We’ll use state-of-the-art security measures to protect your information from 
 
 
 
- **NOTICE**
+**NOTICE**
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order e-mail newsletters or join a limited-access premium site. We use your Personal Information for four things:
 
-  * __
+  *  __
 
 To make the site easier for you to use by not having to enter information more than once.
 
@@ -40,7 +42,7 @@ To alert you to product upgrades, special offers, updated information and other 
 
 
 
- **CONSENT**
+**CONSENT**
 
 If you choose not to register or provide personal information, you can still use most of Total Life Changes, LLC. But you will not be able to access areas that require registration.  
 If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding Total Life Changes, LLC. products, programs, events, or services by e-mail, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from Total Life Changes, LLC.  
@@ -50,7 +52,7 @@ Total Life Changes, LLC. occasionally allows other companies to offer our regist
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
 
-  * __
+  *  __
 
 View and edit personal information you have already given us.
 
@@ -69,7 +71,7 @@ Register. Once you register, you won’t need to do it again. Wherever you go on
 
 
 
- **SECURITY**
+**SECURITY**
 
 Total Life Changes, LLC. has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you’re utilizing a secure server software SSL, which encrypts your personal information before it’s sent over the Internet. SSL is one of the safest encryption technologies available.
 
@@ -96,7 +98,7 @@ When you buy and install a new product, we may ask you to register your purchase
 As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.  
 When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across TotalLifeChanges.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.
 
-_Online Advertising We Use_
+ _Online Advertising We Use_
 
 We use Google AdWords Remarketing to advertise trigger across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the Total Life Changes website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER The cookie is used to say “This person visited this page, so show them ads relating to that page.” Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. We use data from Google’s interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. You can opt-out by going [here](https://tools.google.com/dlpage/gaoptout/).
 
