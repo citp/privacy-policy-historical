@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embedsocial.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209070728id_/https%3A//embedsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedsocial.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523220758id_/https%3A//embedsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EmbedSocial
 
