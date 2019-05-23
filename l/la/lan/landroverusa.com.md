@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903113030id_/http%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landroverusa.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523175416id_/https%3A//www.landroverusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Land Rover Documentation - Privacy Policy | Land Rover USA
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how and for what purposes we are collecting, processing and using your Personal Information (as defined herein). We pledge that we will take reasonable steps to ensure that your Personal Information will only be used in ways that are in compliance with this Privacy Policy.  
 
-**This Privacy Policy is in effect for any web pages, mobile applications, third party social media sites, email lists, on-site electronic data collection, generic information and personal information collected and/or owned by Jaguar Land Rover North America, LLC (“JLR USA”, “our” or “we”), including but not limited to the Jaguar USA and the Land Rover USA websites, no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey), including collection through this website and any online features, services and/or programs offered by JLR USA (collectively, the “Web Properties”). SureSource LLC d/b/a BrandShop operates our Jaguar USA shopping website located at[http://shop.jaguarusa.com](http://shop.jaguarusa.com/) and Land Rover USA shopping website located at [http://shop.landroverusa.com](http://shop.landroverusa.com/) on our behalf. Your use of the Web Properties is also governed by Terms and Conditions located at <http://www.jaguarusa.com/terms-conditions.html>.  
+**This Privacy Policy is in effect for any web pages, mobile applications, third party social media sites, email lists, on-site electronic data collection, generic information and personal information collected and/or owned by Jaguar Land Rover North America, LLC (“JLR USA”, “our” or “we”), including but not limited to the Jaguar USA and the Land Rover USA websites, no matter the method of collection (e.g., mail, facsimile, sign-up/sign-in page, survey), including collection through this website and any online features, services and/or programs offered by JLR USA (collectively, the “Web Properties”). SureSource LLC d/b/a BrandShop operates our Jaguar USA shopping website located at[http://shop.jaguarusa.com](http://shop.jaguarusa.com/) and Land Rover USA shopping website located at [http://shop.landroverusa.com](http://shop.landroverusa.com/) on our behalf. Your use of the Web Properties is also governed by Terms and Conditions located at <https://www.jaguarusa.com/terms-conditions.html>.  
 
 Notwithstanding the foregoing, this Privacy Policy is not applicable to any other web pages, mobile applications, social media sites, email lists, generic information and Personal Information collected and/or owned by any entity other than JLR USA, including, but not limited to, Tata Motors, Jaguar Land Rover, Jaguar Cars Limited, Land Rover, and any automobile dealership or service center. Users of the foregoing resources should refer to the Privacy Policy in effect for the applicable owner. _For clarity, this Privacy Policy does not apply to your use of the InControl services, which is governed by the InControl Privacy Policy and Terms and Conditions found at the websites identified below:_
 
@@ -12,8 +12,8 @@ Notwithstanding the foregoing, this Privacy Policy is not applicable to any othe
 
 **_US Land Rover InControl_**
 
-_<http://www.landroverusa.com/ownership/incontrol/terms-and-conditions.html>_   
-_<http://www.landroverusa.com/ownership/incontrol/privacy-policy.html>_   
+_<https://www.landroverusa.com/ownership/incontrol/terms-and-conditions.html>_   
+_<https://www.landroverusa.com/ownership/incontrol/privacy-policy.html>_   
 
 
 **_US Jaguar InControl_**
@@ -65,6 +65,7 @@ You can opt-out of certain online behavioral services through any one of the way
   * You can opt-out via the Consumer Choice Page at [www.aboutads.info](http://www.aboutads.info/)
   * You can opt-out via the IAB UK's industry opt-out at [www.youronlinechoices.com](http://www.youronlinechoices.com/)
   * You can configure your web browser (Chrome, Firefox, Internet Explorer, Safari, etc.) to delete and/or control the use of cookies. More information can be found in the Help system of your browser. It is at your discretion whether you use the opt-out described above or manage cookies via the browser.
+  * To opt out of cookies used for Conversant online tracking please click here.
 
 
 
@@ -91,7 +92,7 @@ We use reasonable precautions to keep the information that is disclosed to us se
 
 We may share non-personally identifiable information (such as anonymous user usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with third parties to demonstrate the usage patterns for JLR USA’s advertisements, content, functionality promotions, competitions, games and/or services on the Web Properties and/or on third party websites.
 
-We also reserve the right to disclose Personal Information and/or non-personally-identifiable information in connection with the enforcement of our Terms and Conditions located at [Jaguar](http://www.jaguarusa.com/terms-conditions.html) and [Land Rover](http://www.landroverusa.com/terms-and-conditions.html), to take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Web Properties, and to protect our rights, property, or personal safety of JLR USA, and that of our users or others.
+We also reserve the right to disclose Personal Information and/or non-personally-identifiable information in connection with the enforcement of our Terms and Conditions located at [Jaguar](https://www.jaguarusa.com/terms-conditions.html) and [Land Rover](https://www.landroverusa.com/terms-and-conditions.html), to take precautions against liability, to investigate and defend against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the Web Properties, and to protect our rights, property, or personal safety of JLR USA, and that of our users or others.
 
 We reserve the right to transfer your Personal Information, as well as any other information, in connection with the sale or other disposition of all or part of the JLR USA business and/or assets. We also cannot make any representations regarding the use or transfer of your Personal Information or other information that we may have in the event of our bankruptcy, reorganization, insolvency, receivership or an assignment for the benefit of creditors, and you expressly agree and consent to the use and/or transfer of your Personal Information or other information in connection with a sale or transfer of some or all of our assets in any of the above described proceedings. Furthermore, we cannot and will not be responsible for any breach of security by any third parties or for any actions of any third parties that receive any of the information that is disclosed to us.
 
@@ -144,13 +145,13 @@ By using the Web Properties, you consent to the collection and use of your infor
 If you have additional questions or comments of any kind, or if you see anything on the Web Properties that you think is inappropriate or incorrect, please let us know by email or by sending your comments or requests to:
 
 Jaguar Land Rover North America, LLC   
-555 MacArthur Blvd.   
-Mahwah, New Jersey 07430   
+100 Jaguar Land Rover Way    
+Mahwah, New Jersey 07495    
 Attn: Customer Care – Privacy Issues   
 (800) 346-3493   
 [privacy@jaguarlandrover.com](mailto:privacy@jaguarlandrover.com)
 
-© 2016 Jaguar Land Rover North America, LLC. All Rights Reserved. 
+© 2019 Jaguar Land Rover North America, LLC. All Rights Reserved. 
 
 EFFECTIVE AS OF: March 1, 2013   
-LAST UPDATED: August 11, 2016
+LAST UPDATED: September 7, 2018
