@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012430id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524012126id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jolla
 
@@ -29,15 +29,29 @@ As described below, we collect and process a minimal amount of personal data and
 We may collect the following types of personal data from you:
 
 **Personal and contact details.**
-    For example, when creating a Jolla account, or when contacting us, we may ask you to provide some personal information such as your name, email address, postal address, and phone number. We may also ask for data such as your age, country, and preferred language.
+    
+
+For example, when creating a Jolla account, or when contacting us, we may ask you to provide some personal information such as your name, email address, postal address, and phone number. We may also ask for data such as your age, country, and preferred language.
+
 **Payment information.**
-    If you make a purchase from us, we utilize a third party payment service provider that will collect your credit card or other payment information as necessary to process your payment.
+    
+
+If you make a purchase from us, we utilize a third party payment service provider that will collect your credit card or other payment information as necessary to process your payment.
+
 **Device details.**
-    If you have a Sailfish device (meaning a device running on Sailfish OS), we may collect information about your device such the IMEI number of the device, and the IP address when it is connected to the internet. In very exceptional cases, if you contact us and request that we provide certain customer care services, we may ask you to install and use certain tools providing us with access to diagnostic data.
+    
+
+If you have a Sailfish device (meaning a device running on Sailfish OS), we may collect information about your device such the IMEI number of the device, and the IP address when it is connected to the internet. In very exceptional cases, if you contact us and request that we provide certain customer care services, we may ask you to install and use certain tools providing us with access to diagnostic data.
+
 **Information from third party sources.**
-    If you connect your Sailfish device to a third party service such as Facebook, Google or Twitter, information, including your contacts, calendar entries, photos, check-ins, and similar entries you have stored in the third party service in question may also be stored on your Sailfish device, but we will not collect, store, or have access to such data without your permission.
+    
+
+If you connect your Sailfish device to a third party service such as Facebook, Google or Twitter, information, including your contacts, calendar entries, photos, check-ins, and similar entries you have stored in the third party service in question may also be stored on your Sailfish device, but we will not collect, store, or have access to such data without your permission.
+
 **Location data.**
-    If you use location services on your Sailfish device, information about your location, including GPS coordinates, WLAN SSID's and WLAN signal strength will be temporarily stored on your device, but we will not collect, store or have access to such data without your permission. As some of the location services available on Sailfish devices - e.g., the Mozilla and HERE location services - are provided by third parties, those third parties may collect such information. In such cases you will be asked to expressly accept the third party's privacy policy or other comparable set of terms governing their processing of your data.
+    
+
+If you use location services on your Sailfish device, information about your location, including GPS coordinates, WLAN SSID's and WLAN signal strength will be temporarily stored on your device, but we will not collect, store or have access to such data without your permission. As some of the location services available on Sailfish devices - e.g., the Mozilla and HERE location services - are provided by third parties, those third parties may collect such information. In such cases you will be asked to expressly accept the third party's privacy policy or other comparable set of terms governing their processing of your data.
 
 ### Usage Data
 
@@ -108,7 +122,7 @@ If you are under the age of 13, you are not permitted to create a Jolla account 
 
 ## 11 General information
 
-The name of the data controller is Jolla Ltd., business id 2399817-6, with a registered office at Kalevantie 2, 33100, Tampere, Finland.
+The name of the data controller is Jolla Ltd., business id 2399817-6, with a registered office at Polttimonkatu 3, 33210, Tampere, Finland.
 
 The name of the personal data register is the Jolla Account User Register.
 
