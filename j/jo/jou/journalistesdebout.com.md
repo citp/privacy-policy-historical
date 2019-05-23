@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalistesdebout.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120082217id_/http%3A//journalistesdebout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalistesdebout.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523071801id_/http%3A//journalistesdebout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download PDF Journalist Esdebout
 
