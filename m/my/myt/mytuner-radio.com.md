@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytuner-radio.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919192631id_/https%3A//mytuner-radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytuner-radio.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165435id_/https%3A//mytuner-radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myTuner Radio
 
