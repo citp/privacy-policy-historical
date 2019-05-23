@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119073325id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523203742id_/https%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
 
-# Totally Free Stuff - new freebies, deals, coupons, & bargains every dayTotally Free Stuff
+# Totally Free Stuff - new freebies, deals, coupons, & bargains every day
 
 TotallyFreeStuff.com is committed to protecting your privacy when you visit our Web site. You can access TotallyFreeStuff.com and browse our site without disclosing any of your personal data. TotallyFreeStuff.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which TotallyFreeStuff.com will use it. 
 
