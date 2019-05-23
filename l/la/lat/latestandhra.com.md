@@ -1,37 +1,69 @@
-> *The following text is extracted and transformed from the latestandhra.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125083828id_/http%3A//www.latestandhra.com/article.php%3Fart_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestandhra.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523173633id_/http%3A//www.latestandhra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LatestAndhra.com
+# Privacy Policy – LATESTANDHRA.COM
 
-The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information you provide to us through the greatandhra.com website.
+## Who we are
 
-You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
+Our website address is: http://www.latestandhra.com.
 
-**Information Collection**  
-You can visit/surf our website without providing any personal information. However, if you choose to avail of certain services on our website, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, financial information, content, IP address, standard web log information and such other information as may be required for your interaction with the services.
+## What personal data we collect and why we collect it
 
-**Use**  
-If you choose to provide us with the abovementioned information, you consent to the use, transfer and storage of the information so provided by you on our servers. The information provided by you shall not be sold/given/rented to third parties (third parties for this purpose do not include our group / holding / subsidiary companies and or our service partners / associates) for marketing purposes and other related activities without your prior consent.
+### Comments
 
-The information provided by you shall be used by us to:
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-  * Improve our website and enable us to provide you the most user-friendly experience which is safe, smooth and customized;
-  * Improve and customize our services, content and other commercial /non - commercial features on the website;
-  * Send you information on our products, services, special deals, promotions;
-  * Send you service-related announcements on rare occasions when it is necessary to do so;
-  * Resolve disputes, if any and troubleshooting;
-  * Provide service updates and promotional offers related to our services/products.
-  * Comply with any court judgment / decree / order / directive / legal & government authority /applicable law;
-  * Investigate potential violations or applicable national & international laws;
-  * Investigate deliberate damage to the website/services or its legitimate operation;
-  * Detect, prevent, or otherwise address security and/or technical issues;
-  * Respond to Claims of third parties;
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
+### Media
 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
+### Contact forms
 
-  
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement and such other places we deem appropriate so that you are updated about the manner we collect information, what information we collect, how we use it and under what circumstances, if any, we disclose it.
+### Cookies
 
-Any questions or clarifications with respect to this Policy can be sent to : latestandhra@gmail.com.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
