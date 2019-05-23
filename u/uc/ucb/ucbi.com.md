@@ -1,6 +1,56 @@
-> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031203035id_/https%3A//www.ucbi.com/About/Inside-UCBI/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523074429id_/https%3A//www.ucbi.com/About/Inside-UCBI/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | United Community Bank
+
+[ ](https://web.archive.org/)
+
+  * [Personal](https://web.archive.org/Personal)
+
+    * ### Customer Support
+
+1-800-UCBANK1  
+(1-800-822-2651)
+
+### Online & Mobile Banking Support
+
+1-800-UCBANK1  
+(1-800-822-2651)  
+[onlinebanking@ucbi.com](mailto:onlinebanking@ucbi.com "Link to Customer Support Email Contact")
+
+[Learn More](https://web.archive.org/facts)
+
+Before you buy, renovate or mortgage a home, get the facts. We have home remedies made for you. 
+
+  * [Business](https://web.archive.org/Business)
+
+    * ### Customer Support
+
+1-800-UCBANK1  
+(1-800-822-2651)
+
+### Online & Mobile Banking Support
+
+1-800-UCBANK1  
+(1-800-822-2651)  
+[onlinebanking@ucbi.com](mailto:onlinebanking@ucbi.com "Link to Customer Support Email Contact")
+
+    * ### Treasury Management Banking Support
+
+1-866-270-6100  
+[ecorp@ucbi.com](mailto:ecorp@ucbi.com "Link to Treasury Management Banking Support Email Contact")
+
+[Get Started](https://web.archive.org/Business/Accounts/Online-and-Mobile-Banking)
+
+Take your branch on-the-go with Business Online and Mobile Banking. 
+
+  * [Why Choose United? ](https://web.archive.org/Why-Choose-United)
+
+[Read More](https://web.archive.org/Why-Choose-United/Discover/Forbes)
+
+It's an honor to have been named to Forbes' list of World's Best Banks.
+
+
+
 
 rev. 12/2010
 
