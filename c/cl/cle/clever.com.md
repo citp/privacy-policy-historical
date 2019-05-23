@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clever.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925171958id_/https%3A//clever.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clever.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523162857id_/https%3A//clever.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Clever
 
