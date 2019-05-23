@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apnacomplex.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110215231id_/https%3A//www.apnacomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnacomplex.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523144443id_/https%3A//www.apnacomplex.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | ApnaComplex
 
-## Privacy Policy of www.apnacomplex.com
+## Privacy Policy of Eukleia Technologies Pvt. Ltd.
 
 What information do we collect?
 
@@ -17,7 +17,7 @@ Any of the information we collect from you may be used in one of the following w
   * To personalize your experience - your information helps us to better respond to your individual needs.
   * To improve our website - we continually strive to improve our website offerings based on the information and feedback we receive from you.
   * To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs.
-  * To send periodic emails - the email address you provide shall be used to provide periodic updates to you that are only related to www.apnacomplex.com and nothing else. If at any time you would like to stop receiving future emails, you can email support@apnacomplex.com requesting the unsubscription and your email address shall be removed from the distribution list.
+  * To send periodic emails - the email address you provide shall be used to provide periodic updates to you that are related to ApnaComplex and its affiliates, partners and nothing else. If at any time you would like to stop receiving future emails, you can email support@apnacomplex.com requesting the unsubscription and your email address shall be removed from the distribution list.
 
 
 
@@ -41,7 +41,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://www.apnacomplex.com/common_public/terms_of_service/). 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://www.apnacomplex.com/terms-of-service/). 
 
 Your Consent
 
@@ -49,8 +49,4 @@ By using our site, you consent to this privacy policy.
 
 Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-For any further information please email support@apnacomplex.com
-
-This policy was last modified on 6th April 2010.
+If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes. 
