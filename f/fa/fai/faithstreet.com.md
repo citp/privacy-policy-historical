@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faithstreet.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130180638id_/http%3A//faithstreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithstreet.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523221914id_/https%3A//www.faithstreet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FaithStreet
-
-## Privacy Policy
 
 At FaithStreet we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by FaithStreet, Inc. collectively, FaithStreet’s “services.”
 
