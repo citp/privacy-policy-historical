@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mncourts.gov privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228180639id_/http%3A//www.mncourts.gov/SpecialPages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mncourts.gov privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523071519id_/http%3A//www.mncourts.gov/SpecialPages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Minnesota Judicial Branch - Privacy Policy
+
+Planned maintenance on the Minnesota Judicial Branch website will take place on Friday, May 24, from 8:00 p.m. to 11:00 p.m. The website may be inaccessible during that period, but all applications, such as eFile and eServe (eFS) and access to case records (MPA Remote), will still be available.
 
 This policy addresses collection, use, and accessibility of information that may be obtained through use of the Minnesota Judicial Branch website by a website user.
 
