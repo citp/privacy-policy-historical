@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briskgames.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120164000id_/http%3A//www.briskgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskgames.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523135928id_/http%3A//www.briskgames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
