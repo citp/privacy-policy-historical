@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezbuy.sg privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919184119id_/https%3A//ezbuy.sg/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezbuy.sg privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523083714id_/https%3A//ezbuy.sg/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Most efficient, cost effective and reliable agent.
 
