@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madfingergames.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008202456id_/https%3A//www.madfingergames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madfingergames.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165847id_/https%3A//www.madfingergames.com/privacy-policy) for the most accurate reproduction.*
 
 # MADFINGER Games
 
@@ -12,7 +12,7 @@ Thank you for playing our games! This Privacy Policy contains:
 
 
 
-MADFINGER Games (including their games, websites and other applications) understands the importance of your privacy. This policy outlines the type of data we collect when you download and play our games, browse our websites, or use other applications made by MADFINGER Games. It also describes how we or any of our partners may collect, use, disclose and store your information while you are playing our games.
+MADFINGER Games (including their games, websites and other applications) understands the importance of your privacy. This policy outlines the type of data we collect when you download and play our games, browse our websites, or use other applications made by MADFINGER Games. It also describes how we or any of our partners may collect, use, disclose and store your information while you are playing our games. Please be aware that by accepting this Privacy Policy you are giving us permission for your data to be saved outside of EU - this may occur if you choose to download the game through Google Play.
 
 Your privacy comes first and since the implementation of the GDPR (General Data Protection Regulation) we have decided to apply its directives globally to all our players, not just those residing in the EU. Please take a moment to familiarize yourself with all privacy policy practices related to playing our games. If you have any questions, please don’t hesitate to contact us.
 
@@ -28,7 +28,7 @@ Email: [legal@madfingergames.com](mailto:legal@madfingergames.com)
 
 ### 2\. THE DATA WE COLLECT
 
-The data you provide us -
+The data you provide us
 
   * Contact information (eg. username, nickname and/or email address)
   * Username and password
@@ -37,7 +37,7 @@ The data you provide us -
 
 
 
-Data we collect automatically -
+Data we collect automatically:
 
  **a) Data about your account and game progress**
 
@@ -60,7 +60,7 @@ Data we collect automatically -
 
 ### 3\. WHY WE COLLECT YOUR DATA
 
-To make the Service work successfully we process data necessary to -
+To make the Service work successfully we process data necessary to:
 
  **a) Perform the contract**
 
@@ -112,7 +112,7 @@ In all of the above cases and purposes, we may analyze, profile and segment all 
 
 ### 4\. WHO CAN SEE YOUR DATA
 
-Apart from MADFINGER Games, your data can be accessed by others in the following situations -
+Apart from MADFINGER Games, your data can be accessed by others in the following situations:
 
  **a ) Other Players**
 
@@ -120,7 +120,7 @@ Social features are a core component of our games. Other players and users may s
 
  **b) Partners working on behalf of MADFINGER Games**
 
-MADFINGER Games employs partners to perform a variety of services. Said partners only process your data according to MADFINGER Games’ instructions in order to provide the Service, including hosting, player support, advertising, analytics, and fraud prevention.
+MADFINGER Games employs partners to perform a variety of services. Said partners only process your data according to MADFINGER Games instructions in order to provide the Service, including hosting, player support, advertising, analytics, and fraud prevention.
 
  **c) Other companies and public authorities**
 
@@ -136,11 +136,11 @@ Our Service is global by nature and your data can therefore be transferred to an
 
 ### 5\. YOUR RIGHTS AND OPTIONS
 
- **a ) Opt-out of marketing emails and other direct marketing**
+ **a) Opt-out of marketing emails and other direct marketing**
 
 You may opt-out of receiving promotional communications, such as marketing emails by following the instructions included within the communications.
 
- **b ) Opt-out of targeted advertising**
+ **b) Opt-out of targeted advertising**
 
 You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of interest based ads" (Android).
 
@@ -168,7 +168,7 @@ To help ensure a secure and safe player experience, we are always developing and
 
  **b) Data retention**
 
-We retain your data for as long as your account is active, or as required to provide you the Service. We periodically de-identify unused game accounts and regularly review and de-identify unnecessary data.
+We retain your data for as long as your account is active, or as required to provide you the Service. We periodically remove unused game accounts and regularly review and remove unnecessary data.
 
 Please note that if you ask us to remove your personal data, we may retain your data as necessary for our legitimate business interests, such as to comply with legal obligations, resolve disputes, and enforce our agreements.
 
