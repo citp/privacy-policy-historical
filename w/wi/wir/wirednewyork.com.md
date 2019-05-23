@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130163756id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirednewyork.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524013047id_/http%3A//wirednewyork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wired New York
 
