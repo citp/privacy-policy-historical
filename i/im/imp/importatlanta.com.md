@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122083730id_/http%3A//www.importatlanta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importatlanta.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523172427id_/http%3A//www.importatlanta.com/privacy.php) for the most accurate reproduction.*
 
 # ImportAtlanta Privacy Policy
 
