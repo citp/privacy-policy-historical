@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starlingbank.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915054250id_/https%3A//www.starlingbank.com/legal/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starlingbank.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165952id_/https%3A//www.starlingbank.com/legal/privacy-notice) for the most accurate reproduction.*
 
 # Starling Privacy Notice - Starling Bank
 
@@ -153,7 +153,7 @@ We process your information for the purposes set out above on the following grou
 
 **If you want more detail:**
 
-  * 4.1. We use credit reference agencies and fraud prevention agencies. For a detailed explanation of what they do and what they do with information about you, please click here <https://www.callcredit.co.uk/crain>, here, <https://www.equifax.co.uk/crain> or here <http://www.experian.co.uk/crain/index.html>.
+  * 4.1. We use credit reference agencies and fraud prevention agencies. For a detailed explanation of what they do and what they do with information about you, please click here <https://www.callcredit.co.uk/crain>, here, <https://www.equifax.co.uk/crain> or here [http://www.experian.co.uk/crain/index.html](https://www.experian.co.uk/crain/index.html).
 
   * 4.2. We use systems to make automated decisions in the following areas:
 
@@ -202,7 +202,7 @@ We process your information for the purposes set out above on the following grou
 
   * 6.1.1. if you are a customer of Starling, please make a request through the App;
 
-  * 6.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97e7e5fee1f6f4eed7e4e3f6e5fbfef9f0f5f6f9fcb9f4f8fa).
+  * 6.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5525273c2334362c1526213427393c3b3237343b3e7b363a38).
 
   * 6.2. Managing your information:
 
@@ -210,7 +210,7 @@ We process your information for the purposes set out above on the following grou
 
   * 6.2.2. If you wish to update information about you which is inaccurate or incorrect:
   * 6.2.2.1. if you are a customer of Starling, please make a request through the App;
-  * 6.2.2.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#eece9e9c87988f8d97ae9d9a8f9c828780898c8f8085c08d8183).
+  * 6.2.2.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3c3c1dac5d2d0caf3c0c7d2c1dfdaddd4d1d2ddd89dd0dcde).
   * 6.2.3. We may need to ensure that your information is accurate and correct and this may involve a number of further steps.
 
   * 6.3. Deleting your information:
@@ -228,7 +228,7 @@ We process your information for the purposes set out above on the following grou
   * 6.4.1. You can ask us to stop using all or some of your information or to limit our use of it:
 
   * 6.4.1.1. if you are a customer of Starling, please make a request through the App;
-  * 6.4.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7404061d0215170d3407001506181d1a1316151a1f5a171b19).
+  * 6.4.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3242405b4453514b72414653405e5b5c5550535c591c515d5f).
   * 6.4.2. We will do so but:
   * 6.4.2.1. only if we do not need to retain or use it for any of the matters set out in the section “HOW DO WE USE THE INFORMATION AND WHAT IS THE LAWFUL BASIS?” above;
   * 6.4.2.2. your information which you have shared with others (e.g. on our websites) may remain publicly available;
@@ -239,7 +239,7 @@ We process your information for the purposes set out above on the following grou
   * 6.5.1. You can ask to have transferred elsewhere information about you that you have provided to us:
 
   * 6.5.1.1. if you are a customer of Starling, please make a request through the App;
-  * 6.5.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b787f6a796762656c696a656025686466).
+  * 6.5.1.2. if you are not a customer, please email Starling at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8b8baa1bea9abb188bbbca9baa4a1a6afaaa9a6a3e6aba7a5).
   * 6.5.2. We will do so but:
   * 6.5.2.1. we may also need to retain it for any of the matters set out in the section “HOW DO WE USE YOUR INFORMATION AND WHAT IS THE LAWFUL BASIS?” above;
   * 6.5.2.2. we may be restricted from doing so for the same reasons.
@@ -259,7 +259,7 @@ We process your information for the purposes set out above on the following grou
 
   * 7.2. Contact:
 
-  * 7.2.1. If you have any questions about this notice or suggestions on any ways it can be improved, please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a5a58435c4b49536a595e4b584643444d484b444104494547) or by getting in touch. Our Data Protection Officer can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7115011e31020510031d181f1613101f1a5f121e1c).
+  * 7.2.1. If you have any questions about this notice or suggestions on any ways it can be improved, please let us know at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1464667d6275776d5467607566787d7a7376757a7f3a777b79) or by getting in touch. Our Data Protection Officer can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d0b4a0bf90a3a4b1a2bcb9beb7b2b1bebbfeb3bfbd).
 
   * 7.2.2. For the purposes of GDPR, the data controller is Starling Bank Limited company number 09092149 and we have our registered office at 3rd Floor, 2 Finsbury Avenue, London EC2M 2PP.
 
