@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121072200id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanmail.biz privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523063229id_/http%3A//www.fanmail.biz/privacy_statement.php) for the most accurate reproduction.*
 
 # ★ FanMail.biz: Privacy Statement
 
@@ -49,6 +49,10 @@ This site contains links to other sites. Fanmail.biz.com is not responsible for 
 Copyrights:
 
 The published images as well as the other information in this Web, have been extracted of sites where they were offered gratuitously and therefore are property of their respective creators. The material is not used commercially by any of the organizations related directly to this site. If some image has copyright that prohibe its publication, send us an e-mail and we will retire it immediately. 
+
+Opt Out
+
+You can opt out of sharing your personal information with the Fanmail.biz, being contacted by the Fanmail.biz for promotional purposes, or having your Personal Information disclosed to third parties for such third parties’ marketing use. To exercise your choice to opt out, simply check or un-check the appropriate box on the form or web page on which you are providing your personal information, or you may always update your opt-out preferences in your web Site account (if any and if applicable) or by contacting the Fanmail.biz by following the instructions set forth in the Contact Us section of this Privacy Policy below. From each of its promotional e-mails, Fanmail.biz also enables you to opt-out of receiving future promotional emails from the Fanmail.biz. Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your personal information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personal information prior to such request. In these cases, please contact that entity directly. 
 
 Contacting the Web Site:
 
