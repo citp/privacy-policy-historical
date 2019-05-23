@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921014857id_/http%3A//afv.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afv.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523223323id_/https%3A//afv.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **PRIVACY POLICY**
 
-Last Updated: November 15, 2014
+Last Updated: October 10, 2018
 
 Thank you for visiting the America’s Funniest Home Videos website, AFV.com. AFV.com provides a unique way to keep in touch with America’s Funniest Home Videos (“AFV”). Check tune-in times, upload your video for a chance to win cash prizes, watch viral videos, read blog posts, share content and join the conversation with the AFV community.
 
@@ -43,7 +43,11 @@ AFV may share or disclose your information with your express consent, such as wh
 We may share aggregate and demographic data with the following third parties: advertisers, sponsors, and investment firms. However, we will not provide those third parties with private information like names, ages and email addresses. AFV does not sell or share your personal information.  
 ** **  
 **Disclosure to Third-Party Service Providers**  
-AFV may use a variety of third-party services to help provide services on the Website and to help us understand the use of the Website, such as Google Analytics for application statistics, among others. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. At no time will we or any third-party service store your personally identifiable information.  
+AFV may use a variety of third-party services to help provide services on the Website and to help us understand the use of the Website, such as Google Analytics for application statistics, among others. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address. At no time will we or any third-party service store your personally identifiable information.
+
+AFV uses one or more companies to place advertisements for our products and services and those of third-parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site , as well as on third- party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use information about your visits to our and other Web sites. The information collected and used by this process  does not enable any third-party to identify you individually.
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.  
 ** **  
 **External Links**  
 We may offer links to third-party or AFV-affiliated websites. Should Users thereafter click links to other third-party websites, we encourage them to read the privacy policies and terms of use of those respective third-party websites as their standards may differ from ours. AFV is not responsible for any content accessed through external links.
