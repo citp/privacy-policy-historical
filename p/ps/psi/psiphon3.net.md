@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120133646id_/http%3A//psiphon3.net/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523215219id_/http%3A//www.psiphon3.net/en/privacy.html) for the most accurate reproduction.*
 
 # Psiphon | Privacy Policy
 
@@ -15,7 +15,7 @@ Psiphon is designed to provide you with open access to online content. Psiphon d
 
 ## What user information does Psiphon collect?
 
-From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20181120133646id_/http%3A//psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20190523215219id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
 
 ### Psiphon Client Software
 
@@ -113,7 +113,7 @@ The PsiCash server stores per-user information to allow for operation of the sys
   * generated user access tokens
   * balance
   * last activity timestamp
-  * PsiCash earning history, including what the actions the rewards were granted for
+  * PsiCash earning history, including what actions the rewards were granted for
   * PsiCash spending history, including what purchases were made
 
 
