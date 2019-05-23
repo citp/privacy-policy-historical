@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invesco.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119011710id_/https%3A//www.invesco.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invesco.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523141620id_/https%3A//www.invesco.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Invesco | Privacy policy
 
