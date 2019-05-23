@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831184348id_/https%3A//www.headspace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523164805id_/https%3A//www.headspace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Headspace
+# None
 
-Headspace, Inc. (“Headspace,” “us,” "we," or “our”) is committed to protecting and respecting your privacy in connection with your use of our website, www.headspace.com (the “Website(s)”), applications (“Apps”) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of Headspace). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+Headspace, Inc. (“Headspace,” “us,” "we," or “our”) is committed to protecting and respecting your privacy in connection with your use of our website, [www.headspace.com](http://www.headspace.com/) (the “Website(s)”), applications (“Apps”) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of Headspace). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <http://go.adr.org/privacyshield.html>.
 
 ## 1\. INFORMATION WE MAY COLLECT FROM YOU
 
@@ -35,11 +35,11 @@ If you provide your phone number to us directly or through a third-party for the
 
 ## 4\. TRACKING TECHNOLOGIES
 
-Headspace and our analytics partners use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same information several times during one task, recognize that you may have already given a username and password so you don't need to do it for every web page requested, and to measure how people are using the Products.
+Headspace and our analytics partners use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same information several times during one task, recognize that you may have already given a password so you don't need to do it for every web page requested, and to measure how people are using the Products.
 
 We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
-We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We will acquire consent from you in order to use such trackers for advertising purposes to the extent required by applicable law. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account.
+We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We will acquire consent from you in order to use such trackers for advertising purposes to the extent required by applicable law. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account.
 
 We use third party trackers to let us know when users have visited the Products by “clicking-through” our sponsored advertising or content hosted on third party platforms. The Products use Google Analytics code to gather statistical information. Google Analytics sets cookies to help us accurately estimate the number of visitors to the Products and the volumes of usage of the Products. This is done to ensure that the Products are available when you want them and are fast. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](https://www.google.com/analytics "Google Analytics").
 
@@ -61,7 +61,9 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 ## 6\. CORPORATE AND OTHER COMMUNITY SHARING
 
-There is interest by large consumer communities (companies, universities, hospitals, etc.) (“Communities”) to introduce the Products to their employees and members. If you have registered to use the Products through a code or other registration credential furnished by a Community (a “Community Subscription”), the Community will have access to your name and the date you registered to use the Products and will have access to your usage information on an **aggregated basis** with all other members of the Community that are using the Products. Your Community may also have access to your usage information on an individual basis if you have provided appropriate consent under applicable law for such sharing. For example, many employers are offering incentive programs based on employee participation in health & wellness programs and desire to better understand how each of their individual employees is using the Products.
+There is interest by large consumer communities (companies, universities, hospitals, etc.) (“Communities”) to introduce the Products to their employees and members. If you have registered to use the Products through a code or other registration credential furnished by a Community (a “Community Subscription”), the Community will have access to your email address,, and the date you registered to use the Products, and the date on which you last used the Products. The Community will also have access to general usage information on an anonymized and aggregated basis with all other members of the Community that are using the Products. 
+
+Your Community may also have access to your usage information on an individual basis if you have provided appropriate consent under applicable law for such sharing. For example, many employers are offering incentive programs based on employee participation in health & wellness programs and desire to better understand how each of their individual employees is using the Products.
 
 ## 7\. SINGLE SIGN-ON
 
@@ -73,7 +75,7 @@ Upon request, Headspace will provide you with information about whether we hold,
 
 You may access your personal information to modify or update at any time via an online account, or by emailing [help@headspace.com](mailto:help@headspace.com "Help").
 
-To request the deletion of your personal data that we have on file please email us at help@headspace.com. Upon request, Headspace will permanently and irrevocably anonymize your data such that it can never be reconstructed to identify you as an individual. 
+To request the deletion of your personal data that we have on file please email us at [help@headspace.com](mailto:help@headspace.com). Upon request, Headspace will permanently and irrevocably anonymize your data such that it can never be reconstructed to identify you as an individual. 
 
 We will respond to your request in a reasonable timeframe.
 
@@ -151,13 +153,13 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [help@headspace.com](mailto:help@headspace.com "Help"). In the alternative, you may reach Headspace customer support at 855-432-3822.
 
-Our registered agent within the European Economic Area is Headspace Meditation Limited, located at WeWork Waterhouse Square, 138 Holborn, London EC1N 2SW. 
+Our registered agent within the European Economic Area is Tricor, which can be contact at Tricor Suite, 4th Floor, 50 Mark Lane, London, EC3R 7QR.
 
-This Privacy Policy is effective and was last updated on May 25, 2018. Headspace’s physical address is 2415 Michigan Avenue, Santa Monica, CA 90404.
+This Privacy Policy is effective and was last updated on January 17, 2019. Headspace’s physical address is 2415 Michigan Avenue, Santa Monica, CA 90404.
 
 ## 19\. EU-U.S. and Swiss-U.S. Privacy Shield
 
-We participate in and have certified our compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks. Headspace is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+We participate in and have certified our compliance with the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks. Headspace is committed to subjecting all personal data received from European Union (EU) member countries and the United Kingdom and/or Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
 Headspace is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Headspace complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
