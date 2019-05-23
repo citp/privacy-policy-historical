@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117101256id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdiclub.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523061333id_/http%3A//www.tdiclub.com/Disclaimer/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
