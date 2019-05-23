@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928180524id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523073329id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Reading Eggs
 
@@ -12,7 +12,7 @@ By providing personal information to the Company and having access to this Polic
 
 ### Free trial registration
 
-When you sign up for a free trial of Reading Eggs, Reading Eggs Junior, Reading Eggspress and Mathseeds, we collect your first and last name, email address, phone number, your country and postcode. Once you log into your free trial account, we also collect your child’s first and last name and their date of birth. Collection of these details is necessary for us to tailor our communications to you, manage your child’s progress through the programs, and ensure we can better respond to your customer service requests. You are entitled to provide us with a pseudonym if you wish to sign up anonymously. If you choose to sign up anonymously you will still have full access to the trial and all its features.
+When you sign up for a free trial of Reading Eggs, Reading Eggs Junior, Reading Eggspress and Mathseeds, we collect your first and last name, email address, phone number, your country and postcode. Once you log into your free trial account, we also collect your child's first and last name and their date of birth. Collection of these details is necessary for us to tailor our communications to you, manage your child's progress through the programs, and ensure we can better respond to your customer service requests. You are entitled to provide us with a pseudonym if you wish to sign up anonymously. If you choose to sign up anonymously you will still have full access to the trial and all its features.
 
 ### Subscription and product purchases
 
@@ -20,11 +20,13 @@ When you subscribe to Reading Eggs, Reading Eggs Junior, Reading Eggspress or Ma
 
 ### Surveys
 
-Our surveys are designed to collect your feedback so that we can improve our programs and the way we market to you. When you complete one of our surveys, we may collect your first and last name, your email address, your home address if the survey entitles you to a free gift, your child’s age, your income, as well as your opinion or other personal information relating to our survey questions. You are not obliged to complete any of our surveys, either as part of our free trial or subscription programs or otherwise. You are entitled to provide us with a pseudonym if you wish to complete our surveys anonymously, although if completion of our survey entitles you to a free gift, we will require your correct name and address details to deliver it to you.
+Our surveys are designed to collect your feedback so that we can improve our programs and the way we market to you. When you complete one of our surveys, we may collect your first and last name, your email address, your home address if the survey entitles you to a free gift, your child's age, your income, as well as your opinion or other personal information relating to our survey questions. You are not obliged to complete any of our surveys, either as part of our free trial or subscription programs or otherwise. You are entitled to provide us with a pseudonym if you wish to complete our surveys anonymously, although if completion of our survey entitles you to a free gift, we will require your correct name and address details to deliver it to you.
 
 ### Social media
 
-We periodically run competitions on our [Reading Eggs](https://www.facebook.com/ReadingEggs) and [Mathseeds](https://www.facebook.com/mathseeds) Facebook pages. To enter these competitions, you may be required to provide your correct name, email address and/or delivery address if these are required for you to receive the competition prize.
+We periodically run competitions through the Website and our social media channels. By entering into a competition, you acknowledge that we may use your personal information for the purposes of administering the competition and to contact you about our products and services.
+
+We may also provide you with joint promotional offers in conjunction with other third parties. These offers are designed to be relevant to you, but should you not wish to receive this, you may select the 'Unsubscribe' link at the bottom of every email we send you. Alternatively you may contact us at [dpo@blake.com.au](mailto:dpo@blake.com.au) for home data enquiries. For Reading Eggs school data enquiries please contact [readingeggssupport@edmentum.com](mailto:readingeggssupport@edmentum.com). For Mathseeds school data enquiries please contact [privacy@3plearning.com](mailto:privacy@3plearning.com).
 
 ### Cookies
 
@@ -32,11 +34,11 @@ Like many websites, we use cookies to enhance your experience and gather informa
 
 We may contract third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your web browser (like Google Chrome or Internet Explorer) warn you each time a cookie is being sent, or you can choose to turn off all cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our [customer service team](https://web.archive.org/contact-us).
+You can choose to have your web browser (like Google Chrome or Internet Explorer) warn you each time a cookie is being sent, or you can choose to turn off all cookies. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our [customer service team](https://web.archive.org/contact-us).
 
 ### Email communications
 
-When you sign up for a free trial, you will automatically receive promotional and student report emails from Reading Eggs, Reading Eggs Junior, Reading Eggspress and Mathseeds. To opt out of these email communications, you can click on the 'Unsubscribe' link at the bottom of the email, or you can simply log into your account and click on the ‘My Account’ option, where you can choose to opt in or out of emails.
+When you sign up for a free trial, you will automatically receive promotional and student report emails from Reading Eggs, Reading Eggspress and Mathseeds. To opt out of these email communications, you can click on the 'Unsubscribe' link at the bottom of the email, or you can simply log into your account and click on the 'My Account' option, where you can choose to opt in or out of emails.
 
 ### Data storage and security
 
@@ -64,9 +66,9 @@ All data transferred within Reading Eggs, Reading Eggs Junior, Reading Eggspress
 
 ## Disclosure of information to third parties
 
-Blake eLearning does not sell, trade, or otherwise transfer your personal information to third party sources. The term ‘third party sources’ does not include Blake eLearning’s related companies. 
+Blake eLearning does not sell, trade, or otherwise transfer your personal information to third party sources. The term 'third party sources' does not include Blake eLearning's related companies. 
 
-It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
+It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
 
 ## Third party links
 
@@ -74,7 +76,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 ## Changes to our privacy policy
 
-Blake eLearning will endeavour to keep this privacy policy up to date to reflect any necessary changes. If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on 21 July 2017.
+We may change, modify, or revise this Privacy Policy in order to comply with any applicable laws, to reflect changes in our processes or for any other reason at any time. Material changes in our Privacy Policy will be communicated to you, but we also encourage you to check our Privacy Policy periodically to read about any changes, modifications, or revisions. You will be deemed to have consented to any variations by your continued use of the Websites or Platforms following any changes being made.
 
 ## Terms of use
 
@@ -82,25 +84,26 @@ Please also visit our [Terms of Use](https://web.archive.org/terms) section esta
 
 ## Access to and correction of personal information
 
-Blake eLearning will take reasonable steps to ensure that all your personal information it holds is accurate, up-to-date and relevant. You can request access to or corrections of your personal information held by Blake eLearning by contacting our [customer service team](https://web.archive.org/contact-us).
+Blake eLearning will take reasonable steps to ensure that all your personal information it holds is accurate, up-to-date and relevant. You can request access to or corrections of your personal information held by Blake eLearning by contacting our Data Protection and Privacy Officer at [dpo@blake.com.au](mailto:dpo@blake.com.au) for home data enquiries. For Reading Eggs school data enquiries please contact [readingeggssupport@edmentum.com](mailto:readingeggssupport@edmentum.com). For Mathseeds school data enquiries please contact [privacy@3plearning.com](mailto:privacy@3plearning.com).
 
-In addition to the above, you can also delete or change your personal information online. To do so simply log into your account and click on the ‘My Account’ tab, where you can remove or change your address, or change your name, email and/or phone number. If you wish to delete all your information, please contact our [Customer service team](https://web.archive.org/contact-us).
+In addition to the above, you can also delete or change your personal information online. To do so simply log into your account and click on the 'My Account' tab, where you can remove or change your address, or change your name, email and/or phone number. If you wish to delete all your information, please contact our [Customer service team](https://web.archive.org/contact-us).
 
 ## If information or consent is not provided
 
 Without all of the required personal information being provided or consent being given, the Company will not be able to provide the product or service an individual is seeking, and may not be able to handle enquiries or claims in connection with those products or services.
 
-## How can I make a complaint?
+## Contact us
 
-If you wish to lodge a complaint with Blake eLearning about your privacy, please contact our Privacy Officer with the details below. Blake eLearning regards any complaints very seriously and will take all necessary steps to address your complaint in a timely manner by phone and or email.
+All requests to access, update and delete personal data as well as questions and concerns about your personal data and this Privacy Policy should be directed to the Blake eLearning Data Protection and Privacy Officer at [dpo@blake.com.au](mailto:dpo@blake.com.au). For Reading Eggs school accounts this should be directed to [readingeggssupport@edmentum.com](mailto:readingeggssupport@edmentum.com). For Mathseeds school accounts this should be directed to [privacy@3plearning.com](mailto:privacy@3plearning.com). We will endeavour to respond to your query as quickly as possible.
 
-**Blake eLearning Privacy Officer:**
+Phone number for home accounts: 1‑877‑661‑4898  
+Phone number for Reading Eggs school accounts: 1‑800‑447‑5286  
+Phone number for Mathseeds school accounts: 1‑866‑387‑9138  
 
-Ph: 1-877-661-4898
 
-Email: socialmedia@readingeggs.com
-
-Address: 37 West 26th Street Suite 201, New York, NY 10010, USA
+Email for home accounts: [dpo@blake.com.au](mailto:dpo@blake.com.au)  
+Email for Reading Eggs school accounts: [readingeggssupport@edmentum.com](mailto:readingeggssupport@edmentum.com)  
+Email for Mathseeds school accounts: [privacy@3plearning.com](mailto:privacy@3plearning.com)
 
 ## Your consent
 
@@ -108,6 +111,6 @@ When an individual accesses the website or opens an email on which this Privacy 
 
 This website is published by Blake Publishing, with support from Edmentum.
 
-This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth) and the Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth), the New Zealand Privacy Act 1993, the United Kingdom Data Protection Act 1998 and the United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
+This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth) and the Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth), the New Zealand Privacy Act 1993, the United Kingdom Data Protection Act 1998 and the United States Children's Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
 
-Policy last updated: 21 July 2017
+Policy last updated: 7 February 2019
