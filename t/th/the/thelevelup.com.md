@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelevelup.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203120700id_/https%3A//www.thelevelup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelevelup.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165627id_/https%3A//www.thelevelup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LevelUp | Mobile Ordering, Restaurant Loyalty, Customer Engagement, and CRM
 
