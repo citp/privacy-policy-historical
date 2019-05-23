@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123105850id_/http%3A//santaclaraca.gov/government/about-santa-clara/policies/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523154759id_/http%3A//santaclaraca.gov/government/about-santa-clara/policies/policies) for the most accurate reproduction.*
 
 # Privacy Policy | City of Santa Clara
 
@@ -93,7 +93,6 @@ Cookies
 This Web site uses "cookies." A cookie contains unique information a Web site can use to track various categories of information, such as IP address, browser version, and browser preferences. Cookies created on your computer by using this Web site do not contain personally identifying information. You can refuse the cookie or delete the cookie file from your computer. If you choose not to accept a cookie on your computer, it will not prevent or prohibit you from gaining access to or using this site. 
 
 Updates and Changes to Privacy Policy  
-We reserve the right, at any time and without notice, to add to, change, update or modify this Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. Information we gather is subject to the Policy in effect at the time of use. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
-
+We reserve the right, at any time and without notice, to add to, change, update or modify this Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. Information we gather is subject to the Policy in effect at the time of use. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  
   
 Effective Date: May 11, 2017
