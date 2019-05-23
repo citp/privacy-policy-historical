@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writingexplained.org privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110130833id_/https%3A//writingexplained.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writingexplained.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523215426id_/https%3A//writingexplained.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Writing Explained
 
