@@ -1,37 +1,48 @@
-> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112235209id_/https%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523190441id_/https%3A//www.nu.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for National University | National University
+# Privacy Policy - National University
 
-**_Who are we?_**
+## Who are we?
 
 National University System (NUS) was established in 2001 to meet the emerging demands and challenges for education in the 21st century. The nonprofit system is comprised of university and education-related affiliates that, together, endeavour to provide an exceptional student experience to lifelong learners. National University, the flagship institution in the System, has pioneered new approaches to serving adults and veterans since its inception in 1971.
 
 With programs available both online and at its many campus locations, NUS is a leader in creating innovative solutions to education and meeting the needs of a diverse student population, including adult learners and working professionals.
 
-NUS affiliates include:
+## NUS affiliates include:
 
-_National University:_ An accredited private nonprofit university with a unique one-course-per-month format and flexible online and onsite certificate, credential, and degree programs. National University is a private, nonprofit institution of higher education in California. Founded in 1971, National University is headquartered in La Jolla, California, United States.
+### National University:
 
-_John F. Kennedy University:_ An accredited private nonprofit institution with doctoral, master’s and bachelor’s degrees, certificates, and extended education programs. 
+An accredited private nonprofit university with a unique one-course-per-month format and flexible online and onsite certificate, credential, and degree programs. National University is a private, nonprofit institution of higher education in California. Founded in 1971, National University is headquartered in La Jolla, California, United States.
 
-_City University of Seattle:_ An accredited private nonprofit university offering doctoral, master’s, bachelor’s, and associate’s degree programs delivered onsite and online. 
+### John F. Kennedy University:
 
-_National University Virtual High School:_ An accredited online high school offering Advanced Placement and UC "a-g" approved courses in a flexible, student-centered format. 
+An accredited private nonprofit institution with doctoral, master’s and bachelor’s degrees, certificates, and extended education programs.
 
-_National University Academy:_ Tuition-free K-12 public charter schools offering a dynamic, innovative learning environment. 
+### City University of Seattle:
 
-National University owns and operates its website and is strongly committed to protecting the privacy of its user community. The intent of this Privacy Policy is to detail the information National University may gather about individuals who visit its website, how that information is used, and National University disclosure practices. Please note that this policy applies only to its website and not to the websites of other companies or organizations to which we provide links or to any software that may be downloaded from National University website. 
+An accredited private nonprofit university offering doctoral, master’s, bachelor’s, and associate’s degree programs delivered onsite and online.
 
-Our Postal address and Phone contacts are:  
+### National University Virtual High School:
+
+An accredited online high school offering Advanced Placement and UC “a-g” approved courses in a flexible, student-centered format.
+
+### National University Academy:
+
+Tuition-free K-12 public charter schools offering a dynamic, innovative learning environment.
+
+National University owns and operates its website and is strongly committed to protecting the privacy of its user community. The intent of this Privacy Policy is to detail the information National University may gather about individuals who visit its website, how that information is used, and National University disclosure practices. Please note that this policy applies only to its website and not to the websites of other companies or organizations to which we provide links or to any software that may be downloaded from National University website.
+
+Our Postal address and Phone contacts are:
+
 11255 North Torrey Pines Road  
 La Jolla, CA 92037-1013  
 Toll Free: (866) 366-8847  
 Student Concierge Service: (866) 628-8988  
 Fax: (858) 642-8750
 
-**_Website_**
+## Website
 
-**What We Collect and Why**
+### What We Collect and Why
 
 National University collects some anonymous information each time you visit its website, so it can improve the overall quality of your online experience. It collects your IP address, referral data, and browser and platform type. You do not have to register with National University before we can collect this anonymous information.
 
@@ -39,13 +50,13 @@ National University website does not require you to share information that ident
 
 From time-to-time the National University website requests information from you that may identify you personally in addition to the anonymous information described above. The requested information typically includes contact information (such as name, e-mail address, shipping address, and zip code), and demographic information (such as age, gender, occupation, and household income). National University will not use or disclose your individual user information except as described in this privacy policy and without first obtaining your consent.
 
-**Cookies**
+### Cookies
 
 National University may set and access National University or partner cookies on your computer. A cookie is a small data file that a website may send to your browser and which may then be stored on your system. We may occasionally use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-We use cookie and web beacon technology to track which pages on the National University websites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various National University websites in a way that may be linked to individual user information that you elect to share with us. We may also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user’s browser. Then we track where that number shows up on our site.
+We use cookie and web beacon technology to track which pages on the National University websites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various National University websites in a way that may be linked to individual user information that you elect to share with us. We may also use “action tags” to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user’s browser. Then we track where that number shows up on our site.
 
-**Special Notification with respect to Children’s Privacy (Users under the age of 13)**
+### Special Notification with respect to Children’s Privacy (Users under the age of 13)
 
 In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with National University policy and COPPA regulations, we DO NOT:
 
@@ -54,7 +65,7 @@ In response to concerns about protecting children’s privacy online, Congress e
 
 
 
-**Choice/Opt-out**
+### Choice/Opt-out
 
 We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to National University and that National University controls.
 
@@ -64,21 +75,21 @@ If you supply us with your postal address online you may receive periodic mailin
 
 Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online. If you would not like to be contacted, please provide us with your name and phone number to ensure that we remove the correct person from the list.
 
-**Sharing**
+### Sharing
 
 National University will make every effort to preserve your privacy. National University may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our website. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of National University or such National University websites’ terms of use, or as otherwise required by law.
 
-**Legal Notice**
+### Legal Notice
 
 Notwithstanding any language to the contrary, nothing contained herein constitutes nor is intended to constitute an offer, inducement, promise, or contract of any kind. The data contained herein is for informational purposes only and is not represented to be error free. Any links to information not owned by National University System and/or its affiliates are provided as a courtesy. They are not intended to, nor do they constitute an endorsement by the National University System and/or its affiliates of the linked materials, products, services, or information contained therein. National University System and/or its affiliates do not have any control over the privacy practices of these websites or information, and all visitors of these websites should read and understand the policies and privacy practices for external sites.
 
-**Copyright Infringement**
+### Copyright Infringement
 
 National University is committed to complying with US copyright law and respecting the rights of copyright holders, while simultaneously defending the academic freedom of faculty and providing the optimal learning experience for students. Faculty and staff will make a good faith effort to only use or distribute third-party copyrighted materials as allowed by purchase, license, fair use, or other legal provision. Anyone who participates in the unauthorized distribution of copyrighted material may be subject to civil and criminal liabilities, in addition to sanctions imposed by National University. For more information, please see the website of the US Copyright Office at [www.copyright.gov](https://www.copyright.gov/), and the related frequently asked questions at [www.copyright.gov/help/faq](https://www.copyright.gov/help/faq/). Pursuant to 17 U.S.C. Sec. 512(c)(2), notice of claims of copyright infringement should be directed to [dataprotection@nu.edu](mailto:dataprotection@nu.edu). For additional copyright-related information, please send an email to [dataprotection@nu.edu](mailto:dataprotection@nu.edu).
 
-[**_European Union General Data Protection Regulation (GDPR) Privacy Notice_**](https://iso.nu.edu/NUS-EU-GDPR-Policy.html)
+[**European Union General Data Protection Regulation (GDPR) Privacy Notice**](https://iso.nu.edu/NUS-EU-GDPR-Policy.html)
 
-**Lawful Basis for Collecting and Processing of Personal Data**
+### Lawful Basis for Collecting and Processing of Personal Data
 
 In order for educational institutions to educate their students both in class and on-line, it is essential and necessary that they have lawful bases to collect, process, use, and maintain data for its student, employees, applicants, and others involved in its educational programs. The lawful bases include, without limitation, admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, program analysis for improvements, and records retention. Examples of data that National University System and/or its affiliates may need to collect in connection with the lawful bases are: name, email address, IP address, physical address or other location identifier, photos, as well as some sensitive personal data obtained with prior consent. For more information regarding the EU GDPR, please review the [National University System EU General Data Protection Regulation Privacy Policy](https://iso.nu.edu/NUS-EU-GDPR-Policy.html).
 
@@ -93,7 +104,7 @@ Most of the collection and processing of personal data will include:
 
 There will be some instances where the collection and processing of personal data will be pursuant to other lawful bases.
 
-**Types of Personal Data Collected and Why**
+### Types of Personal Data Collected and Why
 
 National University System and/or its affiliates collect a variety of personal and sensitive data to meet one of its lawful bases, as referenced above. Most often the data is used for admission, registration, delivery of classroom, on-line, and study abroad education, grades, communications, employment, program analysis for improvements, and records retention. If you have specific questions regarding the collection and use of your personal data, please contact the Office of Information Technology Information Security Office at [dataprotection@nu.edu](mailto:dataprotection@nu.edu).
 
@@ -105,7 +116,15 @@ Personal data typically includes, but is not limited to:
 ---|---  
 First name, last name, address, and any other contact information that can directly or indirectly identify the data subject. | Collected directly from you, the data subject, through: application forms, online forms, emails, phone calls, chats, SMS, shared files.  
   
-**Individual Rights of the Data Subject under the EU GDPR**
+### Express Consent to Receive Emails, Prerecorded Voice Messages, Phone Calls, Text/SMS Messages and Calls Using Automated Technology
+
+If you have provided prior express written consent in the process of requesting information from National University, the National University System and/or its affiliates about its/their educational offerings or services, or if you have provided prior express consent after becoming a student to receive communications related to purposes other than marketing, we may use email communications, pre-recorded messages, phone calls, and/or SMS/Text Messages – using automated technology – about educational opportunities from National University, the National University System and/or its affiliates.
+
+In the case of text communications, you may receive text messages periodically regarding National University and its affiliates. Message and data rates may apply. You may opt out at any time by texting STOP to cancel future text messages. By sending **STOP** , you agree to one additional confirmation message stating that you’ve opted out and will no longer receive text messages from National University or its affiliates. You may also get additional support or help by sending an email to [dataprotection@nu.edu](mailto:dataprotection@nu.edu) or by calling [855-355-6288](tel:+1-855-355-6288). 
+
+By consenting to receive texts you specifically authorize National University to send text communications using an automatic telephone dialing system or an artificial or prerecorded voice. Your participation and/or your consent is not a condition of purchasing any goods or services. Your consent also provides authorization for the specific telephone number that may be contacted via this program.
+
+### Individual Rights of the Data Subject under the EU GDPR
 
 Individual data subjects covered by National University System EU General Data Protection Regulation Privacy Policy will be afforded the following rights:
 
@@ -123,17 +142,17 @@ Individual data subjects covered by National University System EU General Data P
 
 All personal data and sensitive personal data collected or processed by National University System and/or its affiliates under the scope of the National University System EU General Data Protection Regulation Privacy Policy must comply with the security controls and safeguards of FERPA, GLBA, and PCI as set forth in the National University System Global Information, Security, and Privacy Program.
 
-**_Retention Period_**
+### Retention Period
 
 National University System and/or its affiliates will process and store personal data for no longer than it is necessary for the specified above purpose(s).
 
-**_Policy Updates_**
+### Policy Updates
 
-National University System and/or its affiliates reserves the right to modify this privacy policy at any time. We encourage visitors to frequently check this page for any changes to this Privacy Policy. If we make changes we will post an updated effective date below. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. This policy has been updated on May 16, 2018.
+National University System and/or its affiliates reserves the right to modify this privacy policy at any time. We encourage visitors to frequently check this page for any changes to this Privacy Policy. If we make changes we will post an updated effective date below. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. This policy has been updated on December 12, 2018.
 
-**_Contacts:_**
+### Contacts:
 
-Our Data Protection Officer can be contacted directly here: 
+Our Data Protection Officer can be contacted directly here:
 
 National University System  
 Office of Information Technology, Information Security Office  
