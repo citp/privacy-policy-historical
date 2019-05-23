@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226061402id_/https%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523173649id_/https%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Savills UK | Privacy Policy
 
