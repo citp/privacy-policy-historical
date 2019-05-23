@@ -1,69 +1,104 @@
-> *The following text is extracted and transformed from the canpl.ca privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215012803id_/http%3A//canpl.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canpl.ca privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523170903id_/https%3A//canpl.ca/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – Canadian Premier League
 
-**Protection and respect of your privacy on the Canadian Premier League  website.**
+This Privacy Policy describes the manner in which the Canadian Premier League and its affiliates (collectively, the “Canadian Premier League”, “we”, “our” and “us”) use information in operating our websites, our mobile and other apps, and any other online service that displays or provides an authorized link to this Privacy Policy (collectively, the “Services”).
 
-The Canadian Premier League appreciates the concerns you may have with respect to the circulation of personal information on the Internet and, with your collaboration, wishes to address these issues. This is why we feel it is important that you fully understand the type of information we collect from you when visiting our Website along with its intended use. Please read the following sections carefully. We also strongly suggest that you refer to this section periodically for changes or updates. Please be assured that the Canadian Premier League will not collect any personal information without your prior consent.
+The official sites of the Member Clubs of the Canadian Premier League are part of the canpl.ca website and are governed by this Privacy Policy.
 
-**The collection and processing of personal information**
+By using our Services, you accept all of the terms and conditions of this Privacy Policy and consent to the practices described herein. In particular, by submitting your personal data to us, you will be deemed to have given your permission for the use and disclosures referred to herein.
 
-When?
+**Collection and Use of Personal Information**
 
-The collection and processing of personal information takes place under very precise conditions and at specific times. When registering for our various personalized e-mail services, or for participating in online contests, the Canadian Premier League requests that you enter your name, postal address, e-mail and other personal information by filling out an online form. At these very specific times, and prior to entry, the Canadian Premier League will explicitly advise you that the information that you are about to submit will be processed and be subject to a host of data collection practices including saving, storing, editing, detailing, archiving and destruction. The Canadian Premier League also provides, within reasonable limits, means to verify the accuracy and to update your personal information. As well, on certain online forms, the Canadian Premier League asks you if you wish to receive information on other services, contests or news about the Canadian Premier League and its partners. You are always given the option to decline such offers or to end your subscription to a previously requested service.
+The Canadian Premier League’s collection and processing of the personal information of users takes place under limited circumstances and at specific times, including during registration for our various personalized e-mail services and participation in various online contests. The user information collected by the Canadian Premier League may include both: (i) personal information directly provided by users, such as a user’s name, postal address, e-mail and other personal information collected through online forms, as well as (ii) the automatic collection by cookies, web beacons and other technologies of certain information, such as log information (i.e., your Internet Protocol address) and device information (i.e., device identifiers which may be unique to your device).
 
-Why?
+Neither the Canadian Premier League nor its affiliates use personal information for any other purpose than providing and facilitating the provision of Services, improving our operation and Services, providing effective advertising, or as otherwise described to you at the point of collection and pursuant to your consent. Specific examples of these permitted uses include:  
+• providing you with the products, promotions, services, newsletters, and information you request and responding to correspondence that we receive from you;  
+• contacting you via email and otherwise about your account, products, services, contests, and events that we think might be of interest to you;  
+• sending you promotional material or special offers on our behalf or on behalf of our marketing partners and/or their respective affiliates and other third parties;  
+• maintaining or administering the Services, performing business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer; and  
+• customizing and personalizing your use of the Services.  
+Persons aged thirteen (13) or under shall not be permitted to become registered users of this site. The Canadian Premier League does not intentionally collect, use or disclose personal information of persons under the age of 13 years old except as permitted by applicable law. If we discover that we have collected personal information from a person under the age of 13 years old other than as permitted by applicable law, we will forthwith delete the relevant information.
 
-The collection of personal information allows the Canadian Premier League to provide services relevant to your needs and, in the event that you win one of our contests, it allows us to reach you. It also allows us to send you, from time to time, requested information by e-mail.
+**Disclosure of Personal Information**
 
-The length of time the Canadian Premier League retains your personal information will vary depending upon the rules and requirements of each individual contest, promotion, or activity.
+We will not disclose, trade, rent, sell or otherwise transfer personal information to parties outside of the Canadian Premier League without your explicit prior consent, except as otherwise set out herein.  
+We may transfer or disclose personal information as follows:
 
-Who?
+• Service Provider Arrangements: In connection with the provision of our Services, we may disclose (or otherwise make available) personal information to third parties who provide Services on our behalf. For example, we may use service providers to process payments, host our website and store information on our behalf. Personal information may be maintained and processed by third party service providers in Canada and may be accessed by the courts, law enforcement and national security authorities as required under the laws of this jurisdiction. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
 
-It is important to note that the Canadian Premier League will never disclose your personal information with sponsors, advertisers, partners and other clients. Your personal information can only be accessed by the Canadian Premier League. If ever we request information for another purpose, you will be automatically and explicitly informed at the time such information is requested.
+• Member Clubs: We may share your information with representatives of Member Clubs, each of whom is governed by this Privacy Policy.
 
-We will never disclose any personal information to parties outside of the Canadian Premier League without your explicit prior consent. Furthermore, please be advised that all personal information collected by the Canadian Premier League is stored in server sectors that are inaccessible to the public.
+• Select Business Partners and Third Parties: We may share your information with select business partners that are not service providers, such as our sponsors and broadcast partners, and/or other third parties from time to time, so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. If you do not elect to have your information shared, it will not be shared with such third parties. We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them. However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes.
 
-Despite the above, at any time, you may request that the Canadian Premier League end its use or planned use of your personal information.
+• Third-Party Ad Serving and Audience and Traffic Measurement Services: Some of the content, advertising and functionality on our Services may be provided by third parties that are not affiliated with us. For example:
 
-In summary, the following are the only times at which the Canadian Premier League may disclose your personal information: upon request by a legal authority or in good faith when such action is deemed necessary (a) in order to abide by applicable laws or regulations or to intervene in a lawsuit against the Canadian Premier League; (b) in order to protect or defend the legal or property rights of the Canadian Premier League or those of its users; and (c) to intervene, under extreme circumstances, in order to protect the personal safety of Canadian Premier League users or the safety of the general public.
+  * content providers, which may operate contests, sweepstakes, fantasy or interactive games or public forums on our Services;
+  * retail and other companies that may process transactions, provide customer service, and perform other related functions;
+  * advertising providers, which may help us and our advertisers provide ads (on our Services or elsewhere online) that are tailored to users’ interests and understand users’ response to those ads;
+  * audience-measurement companies, which help us measure the overall usage of our Services and compare that usage to other online services; and
+  * social networking services, which enable you to log in to certain of our Services, to comment on content available on our Services, and to share things you find on our Services with your social network.
+
+
+
+• Sale of Business: The Canadian Premier League may transfer personal information as an asset in connection with a merger or sale (including transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of the Canadian Premier League or as part of a corporate reorganization or other change in corporate control.
+
+• Legal: The Canadian Premier League and our affiliates and service providers may disclose personal information to third parties as required or permitted by applicable law. For greater certainty, we may disclose your information to third parties in order to: (i) protect the legal rights, safety, and security of the Canadian Premier League, our affiliates, subsidiaries, business partners and the users of our Services; (ii) respond to and resolve claims or complaints; (iii) prevent fraud or for risk management purposes; and (iv) comply with or respond to law enforcement or legal process or a request for cooperation by a government, regulatory or other entity, whether or not legally required. Where a disclosure of our users’ personal information is required by applicable law, we will endeavour to notify the affected user(s) prior to complying with such requirements (to the extent we are not prohibited from doing so).
+
+**Information about Our Services**
+
+As you access our Services, certain information may be passively collected by cookies, navigational data like Uniform Resource Locators (URLs) and third party tracking services, including:
+
+• Activity Information: We may keep track of some of the actions you take on the website, such as the content of searches you perform on the website, solely for the purpose of internal evaluation of website effectiveness. This information will not be shared with third parties.
+
+• Cookies: We may use cookies and other local storage technologies for a variety of purposes, such as analyzing trends, administering the Services, analyzing how users interact with the Services, and gathering demographic information. By using the Services, you consent to our use of cookies and similar technologies. For more information, please see “Cookies, Web Beacons and Other Technologies” below.
+
+• Third Party Links: Our website may contain links to other websites or platforms that the Canadian Premier League does not own or operate. Also, links to our website may be featured on third party websites or platforms on which we advertise. Except as provided in this Privacy Policy, we will not provide your personal information to these third parties without your consent. We may provide links to third party websites or platforms as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites or platforms. The linked websites or platforms have separate and independent privacy statements, notices and terms of use, unless otherwise stated. We do not have any control over such websites or platforms, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites or platforms may collect, use or disclose, secure and otherwise treat personal information.
+
+**Cookies, Web Beacons and Other Technologies**
+
+Our Services may use online technologies called “cookies” and “web beacons”, as well as other local storage technologies. This section explains what these technologies are and how they may be used.
+
+_Cookies and Other Local Storage Technologies_
+
+Generally speaking, “cookies” are text files that are placed in your device’s browser, and that can be used to help recognize your browser across different web pages, websites and browsing sessions. They are saved, either temporarily or permanently, on your hard drive, leaving a trace of your passage. The information can include such things as the date and time of your last visit, a given answer to an online question, personal information, etc. Cookies can also enhance your web experience by recording your navigation preferences for a given website.
+
+Your browser or device may offer settings related to cookies. For example, you may be able to configure your browser not to accept cookies or to notify you when a cookie is being sent. However, if you decide not to accept cookies from us, you may not be able to take advantage of all of the features of our Services. For more information about whether these settings are available, what they do, and how they work, visit your browser or device’s help material.
+
+_Web Beacons_
+
+Web beacons are small pieces of code placed on web pages, in videos and in emails that can communicate information about your browser and device to a server. Beacons can be used, among other things, to count the users who visit a web page or read an email, or to deliver a cookie to the browser of a user viewing a Web page or email.
+
+**Security of Personal Information**
+
+We understand that data security is a critical issue for our users and we are committed to safeguarding the personal information in our custody and under our control.
+
+The Canadian Premier League has implemented reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. However, please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot and do not guarantee or warrant the security of any information you disclose or transmit to our Services and cannot be responsible for the theft, destruction or inadvertent disclosure of your information, or any other disclosures out of our control.
+
+Your online access to some of your information may be protected with a password that you select. We strongly recommend that you select a unique password that is difficult to guess and that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages).
+
+Our privacy practices are intended to comply with applicable privacy laws, including, without limitation, the Personal Information Protection and Electronic Documents Act (Canada) (“ **PIPEDA** ”). We will maintain the privacy of your personal information as required by applicable privacy laws, including PIPEDA and the regulations promulgated thereunder. To the extent anything contained in this Privacy Policy conflicts with PIPEDA or other applicable privacy legislation, the terms of this Privacy Policy shall be deemed to be reformed to align with such legislation.
 
 **Opting-out**
 
-You can opt-out of providing personal information and from receiving information on Canadian Premier League updates and new services, as well as direct email offers from selected Canadian Premier League partners and sponsors. This is done at the point of initial collection of information and during the editing or updating process. The process to opt out of most Canadian Premier League email materials is the same as the process for updating user information profiles described above. In addition, all such email materials have easy-to-follow unsubscribe directions posted at the bottom of the email. If you have any questions or concerns, please contact us.
+Users may opt-out of providing personal information and from receiving information on Canadian Premier League updates and new services, as well as direct email offers from selected Canadian Premier League partners and sponsors. [ **This is done at the point of initial collection of information and during the editing or updating process.** ] The process to opt out of most Canadian Premier League email materials may be found in the easy-to-follow unsubscribe directions posted at the bottom of such emails.
 
-**Security**
+**De-Identified Information**
 
-The Canadian Premier League has set up security measures to protect you from the loss or unauthorized use of your supplied personal information. As well, our Canadian Premier League servers are equipped with firewall technology. Despite these measures, and given that no technology is foolproof, we must advise you that there will always remain a certain amount of risk and that your personal information may be disclosed, without your consent, unintentionally, and without fault on the part of the Canadian Premier League. The Canadian Premier League declines any responsibility in the event that such confidential information is disclosed, unless caused by negligence on the part of the Canadian Premier League.
+We may use de-identified information created by us from your personal information without restriction.
 
-**Protection of children and teens on the Internet**
+**Data Retention**
 
-Children and teenagers are increasingly using the Internet and discovering its many advantages. However, as is the case in many other environments, their greater vulnerability may be targeted for crime and exploitation. This is why we urge you to monitor the Internet use of your children and teenagers and provide them with advice on security and recommendations based on common sense. Such measures will often prevent your children and teenagers from being exposed to offensive content, or from becoming victims of harassment or other criminal acts.
+We will retain your information for as long [as your account is active,] as needed to provide you the Services, and as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-To reduce these risks, as a parent, you should exercise a reasonable amount of supervision of Internet use by your children and teenagers. They should be told to never give out their personal information, such as their name, address or phone number, on any Internet forum.
+**Changes to this Privacy Policy**
 
-It is also important that children and teenagers be encouraged to share their concerns with you in the event that they receive disturbing or provocative messages.
+This Privacy Policy may be updated periodically to reflect changes to our personal information practices and/or the laws applicable to same. The revised Privacy Policy will be posted on the website. If we make any substantial changes to this Privacy Policy and the way in which we use your personal data, we will post these changes on this page and will do our best to notify you of any significant changes. Please check our Privacy Policy on a regular basis.
 
-These recommendations will help your children and teenagers surf the Internet in an informed fashion and allow you to ensure that they fully benefit from the learning and development possibilities that exist online.
+**Contact Us**
 
-**“Cookies”**
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us [ **by filling out the form found at[canpl.ca/contact](https://canpl.ca/contact/) or write to us**] at:
 
-Cookies are little bits of information that are sent to your computer when you visit a Web site. They are saved, either temporarily or permanently, on your hard drive, leaving a trace of your passage. The information can include such things as the date and time of your last visit, a given answer to an online question, personal information, etc. Cookies can also enhance your Web experience by recording your navigation preferences for a given Web site.
-
-The use of cookies on the Web has become standard practice. Most Internet browsers will accept them by default. If you so choose, you may, at any time, change your browser parameters to disallow the use of cookies. However, in doing so, you will be unable to access the full features of certain sites.
-
-It should be noted that the actual cookie files stored on your hard drive are harmless. They may be read and deleted at any time. Thus, you always have complete control.
-
-**The use of cookies on  CanPL.ca**
-
-On the one hand, the Canadian Premier League uses cookies to monitor traffic, anonymously, on its Website. It allows us to estimate the size of our audience.
-
-Each visitor is assigned a unique cookie, for a temporary period that allows us to determine the total number of repeat visits to the Canadian Premier League.
-
-While the information cannot be used to identify a visitor, cookies provide important data for our marketing initiatives. Indeed, this information enables us to inform our sponsors of the total number of visitors for each of our sites and the length of each visit. In turn, it allows our sponsors to estimate or measure the probable or actual impact of their ads. It also allows us to determine our ad rates. While this information helps our sponsors buy ad space, it does not allow them to identify you individually.
-
-On the other hand, the Canadian Premier League uses cookies to offer you personalized services such as speciality content, personalized bulletins, etc. To access these services, the Canadian Premier League asks that you complete an online form, supplying certain personal information along with your online content preferences. Upon registration, and by allowing us to remember your password, a cookie file is created and stored on your computer, enabling us to “recognize” you every time you visit one of our sites.
-
-Personal information collected by the Canadian Premier League is used for the sole purpose of offering you relevant content, tools and advertising based on your indicated preferences, allowing you to make the most of our services each time you visit our website. Your information stays exclusively within the Canadian Premier League and is, at no time, shared with clients, partners, sponsors or other outside parties.
-
-We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that the Canadian Premier League reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes.
+The Canadian Premier League  
+204 King Street East, Suite 102  
+Toronto, ON M5A 1J5
