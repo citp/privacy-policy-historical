@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18babysitters.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117193217id_/http%3A//www.18babysitters.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D31929%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18babysitters.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523053244id_/http%3A//www.18babysitters.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D31929%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
