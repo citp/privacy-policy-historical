@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212083050id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huaweimobileservices.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165625id_/http%3A//consumer.huawei.com/en/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Legal | HUAWEI Global
 
 The Huawei Consumer Business Privacy Statement was updated on  
 April 15, 2018. 
 
-Huawei Device (Shenzhen) Co., Ltd. and its global affiliates (collectively, "Huawei", "we", "us", and "our") respect your privacy. Therefore, we have developed a Privacy Statement (hereinafter referred to as "this Statement") that covers how we collect, use, disclose, protect, store and transfer your personal data. Please take a moment to read and understand our privacy statement and [let us know](https://consumer.huawei.com/en/legal/privacy-questions/) if you have any questions.
+Huawei Device Co., Ltd. and its global affiliates (collectively, "Huawei", "we", "us", and "our") respect your privacy. Therefore, we have developed a Privacy Statement (hereinafter referred to as "this Statement") that covers how we collect, use, disclose, protect, store and transfer your personal data. Please take a moment to read and understand our privacy statement and [let us know](https://consumer.huawei.com/en/legal/privacy-questions/) if you have any questions.
 
 Personal data means any electronic or other information which alone or jointly with other information can be used to identify a natural person or make him/her identifiable. This Statement explains how Huawei processes your personal data, but does not cover all processing scenarios as you will be informed in specific processing activity. Therefore, before using a specific product or service, it is recommended that you read the privacy notice or supplementary statement released by Huawei for that product or service to understand how it processes your personal data.
 
@@ -121,7 +121,7 @@ Sometimes, Huawei stores cookies on computers or mobile devices for the purpose 
 
 (5) Social Media Cookies. Social media cookies are linked to services provided by third parties, such as ‘Like’ buttons and ‘Share’ buttons. The third party provides these services in return for recognising that you have visited our websites.
 
-You can manage or delete cookies at your own preference. For details, visit [AboutCookies.org](http://aboutcookies.org/). You can clear all the cookies stored on your computer, and most current web browsers provide the option of blocking cookies. However, blocking cookies will require you to change your user settings every time you visit our website. Find out how to manage cookie settings for your browser here: [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies) > [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en) > [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies) > [Safari](https://support.apple.com/kb/PH19214?locale=en_US&viewlocale=en_US) > [Opera](http://www.opera.com/help/tutorials/security/privacy/).
+You can manage or delete cookies at your own preference. For details, visit [AboutCookies.org](http://aboutcookies.org/). You can clear all the cookies stored on your computer, and most current web browsers provide the option of blocking cookies. However, blocking cookies will require you to change your user settings every time you visit our website. Find out how to manage cookie settings for your browser here: [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies) > [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en) > [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies) > [Safari](https://support.apple.com/kb/PH19214?locale=en_US&viewlocale=en_US) > [Opera](https://help.opera.com/en/latest/security-and-privacy/).
 
 If you clear cookies, you will need to change your settings the next time you visit Huawei websites. Note that some Huawei services require the use of cookies. Disabling cookies may affect your use of some or all functions of these services.
 
@@ -263,8 +263,10 @@ Should this Statement be revised from time to time, Huawei will release the chan
 
 ## XI. How to Contact Us
 
-We have set up a dedicated personal data protection department (or data protection officer). If you have any questions, comments, or suggestions, please contact us by visiting the [contact us](https://consumer.huawei.com/en/legal/privacy-questions/) page or submitting them to our global offices. To obtain the complete list of Huawei offices, please visit the [global offices](https://consumer.huawei.com/en/contact-us/) page.
+We have set up a dedicated personal data protection department (or data protection officer). If you have any questions, comments, or suggestions, please contact us by visiting the [contact us](https://consumer.huawei.com/en/legal/privacy-questions/) page or submitting them to our global offices. To obtain the complete list of Huawei offices, please visit the [global offices](https://www.huawei.com/en/contact-us?tab=Offices#Offices) page.
+
+If you want to exercise your privacy rights, or have any privacy issues for which you need to lodge a privacy complaint with our Data Protection Officer (DPO), or want to consult our DPO regarding general data protection, please visit our [Data Subject Right Portal.](https://consumer.huawei.com/en/legal/privacy-questions/)
 
 Note: Due to differences in local laws and languages, the local versions of Huawei Consumer Business Privacy Statement may be different from this version. In the case of any conflicts, the local versions shall prevail.
 
-Copyright ©2018 Huawei Device (Shenzhen) Co., Ltd. All rights reserved.
+Copyright ©2018 Huawei Device Co., Ltd. All rights reserved.
