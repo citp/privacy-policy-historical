@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041711id_/https%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redoute.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523165138id_/https%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # La Redoute Privacy Policy | La Redoute
 
@@ -409,6 +409,8 @@ We may require proof of identity before fulfilling any request.
 
 We will contact you to acknowledge receipt of your request and we will then answer fully within one month. In some cases, we may extend this period by up to 2 months.
 
+ **By[clicking here](https://web.archive.org/privacy_center.aspx) and submitting your request.**
+
 ### 5.3 Consequences of exercising the right of opposition to marketing profiling
 
 In relation to marketing profiling (selecting you for specific promotions and making recommendations), you may continue to receive marketing promotions but they may be less relevant and no longer targeted to your interests.
@@ -649,4 +651,4 @@ You can find out more about data protection and your rights via your supervisory
 
 If we change or replace this Notice, we will notify you by updating our websites.
 
-Edition date: 22 May 2018
+Edition date: 22 January 2019
