@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116012053id_/https%3A//www.redgiant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgiantsoftware.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523212523id_/https%3A//www.redgiant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Red Giant | Privacy Policy
 
-Red Giant, LLC (“ **Red Giant** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the personal information (as defined below) we collect from users of our website, located at _www.redgiant.com_ (the “ **Site** ”). 
+Red Giant, LLC (“ **Red Giant** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the personal information (as defined below) we collect from users of our website, located at _www.redgiant.com_ (the “ **Site** ”).
 
 * Particularly Important Information
 
@@ -10,8 +10,9 @@ Red Giant, LLC (“ **Red Giant** ”) is committed to protecting your privacy. 
 
 Red Giant, LLC  
 Email: privacy@redgiant.com  
-14525 SW Millikan Way #41659  
-Beaverton, OR 97005-2343
+4230 SE King Rd  
+Unit #345  
+Portland, OR 97222
 
  **Must Read Sections:** We draw your attention in particular to the sections entitled “ **International Data Transfer** ” and “ **Your Rights** ”
 
@@ -21,7 +22,7 @@ Changes to this Policy: We will post any modifications or changes to this Privac
 
  **What is personal data?**
 
-We collect information about you in a range of forms, including personal data. As used in this Privacy Policy, “personal data” is as defined in the UK Data Protection Act 1998/the European Data Protection Directive 95/46/EC/General Data Protection Regulation 2018 and any successor legislation, this includes any information which, either alone or in combination with other information we hold about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number. 
+We collect information about you in a range of forms, including personal data. As used in this Privacy Policy, “personal data” is as defined in the UK Data Protection Act 1998/the European Data Protection Directive 95/46/EC/General Data Protection Regulation 2018 and any successor legislation, this includes any information which, either alone or in combination with other information we hold about you, identifies you as an individual, including, for example, your name, postal address, email address and telephone number.
 
 **Why do we need your personal data?**
 
@@ -55,13 +56,13 @@ We do not use your personal data for the purposes of automated decision-making. 
 
 We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site.
 
-We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits our Site; and (2) third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites. 
+We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which are used only by us to recognize your computer or mobile device when it revisits our Site; and (2) third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognize your computer or mobile device when it visits other websites.
 
 **Cookies we use**
 
 Our Site uses the following types of cookies for the purposes set out below:
 
-**Type of cookie** |  **Purpose**  
+**Type of cookie** | **Purpose**  
 ---|---  
   
 Essential Cookies
@@ -98,11 +99,11 @@ You can disable cookies which remember your browsing habits and target advertisi
   
 **Disabling cookies**
 
-You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. 
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings.
 
 Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org&sa=D&ust=1528386920381000) and [www.youronlinechoices.com.uk](https://www.google.com/url?q=http://www.youronlinechoices.com.uk&sa=D&ust=1528386920381000).
 
-If you do not accept our cookies, you will experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may not be able to complete transactions in our online store. 
+If you do not accept our cookies, you will experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may not be able to complete transactions in our online store.
 
 * Pixel Tags
 
@@ -148,7 +149,7 @@ If you wish to exercise any of these rights, please contact us using the details
 
 * Retention
 
-We will only retain your personal data as long reasonably required for you to use the Site unless a longer retention period is required or permitted by law (for example for regulatory purposes). 
+We will only retain your personal data as long reasonably required for you to use the Site unless a longer retention period is required or permitted by law (for example for regulatory purposes).
 
 * Sensitive Personal Data
 
