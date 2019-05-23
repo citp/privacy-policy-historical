@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the teeoff.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820162006id_/https%3A//www.teeoff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeoff.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523044929id_/https%3A//www.teeoff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeOff.com
 
 **PRIVACY POLICY  
-LAST UPDATED: May 2018**
+LAST UPDATED: May 2019**
 
 **INTRODUCTION**
 
@@ -116,7 +116,7 @@ Phone: 1.855.383.3633
 Mail: EZLinks Golf LLC  
 401 La Salle Street, Suite 302  
 Chicago, IL 60605  
-Attn: Chris Kapcar  
+Attn: Bart Dolega  
  
 
 If EZLinks is able to process the request of personal data deletion, you acknowledge EZLinks may no longer have the ability to provide or facilitate promotional offers associated with your email including the administration of loyalty points or promotion; inform you of business events (eg: policy updates); support use of features (eg; scorecard history). By requesting to be removed, you actively relieve EZLinks of obligations that require use of your data.
@@ -124,4 +124,4 @@ If EZLinks is able to process the request of personal data deletion, you acknowl
 Furthermore, by reengaging with EZLinks marketing efforts (direct or indirect through a third party), visiting the EZLinks Platforms, or submitting information, you are opting in to EZLinks Policies and EZLinks may begin collecting and retaining your information as outlined and protected in this policy.
 
 **Contact Us**  
-We take your data seriously and have appointed a Data Protection Officer to fulfill this commitment. If you have questions or comments about this privacy policy, you can contact our Data Protection Officer by: sending an email to privacy@ezlinks.com, by calling our customer service number at 1.855.383.3633, or by writing us at EZLinks Golf LLC, 401 S LaSalle Street, Suite 302, Chicago, IL 60605, Attn: Chris Kapcar. 
+We take your data seriously and have appointed a Data Protection Officer to fulfill this commitment. If you have questions or comments about this privacy policy, you can contact our Data Protection Officer by: sending an email to privacy@ezlinks.com, by calling our customer service number at 1.855.383.3633, or by writing us at EZLinks Golf LLC, 401 S LaSalle Street, Suite 302, Chicago, IL 60605, Attn: Bart Dolega. 
