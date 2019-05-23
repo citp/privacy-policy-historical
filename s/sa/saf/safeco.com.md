@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229091005id_/https%3A//www.safeco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523120522id_/https%3A//www.safeco.com/privacy-policy) for the most accurate reproduction.*
 
 # Consumer Privacy Policy | Safeco Insurance
 
