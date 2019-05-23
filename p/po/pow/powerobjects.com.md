@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027231830id_/https%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerobjects.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523091643id_/https%3A//www.powerobjects.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PowerObjects, an HCL Technologies Company
+# Privacy Policy – PowerObjects, an HCL Technologies Company | Microsoft Dynamics 365 | PowerObjects
 
 We are PowerTeam LLC. (“PowerObjects”, “we” or “us”). Our registered address is 718 Washington Ave N, Suite #101, Minneapolis, Minnesota 55401, USA.
 
