@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mummyweekly.com.au privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120050951id_/http%3A//mummyweekly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mummyweekly.com.au privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523054120id_/http%3A//mummyweekly.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mummy Weekly | Mummy Weekly
 
