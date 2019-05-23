@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026082548id_/http%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523170800id_/https%3A//www.statravel.co.uk/general-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | STA Travel
 
-Your privacy is important to us and we endeavour to maintain the privacy of registered users. Please take time to read through this Privacy Policy and our  **[Cookies Policy](http://www.statravel.co.uk/cookies-policy.htm)** , including the section on third party advertising to ensure you are aware of how we will use your Personal Information. 
+Your privacy is important to us and we endeavour to maintain the privacy of registered users. Please take time to read through this Privacy Policy and our  **[Cookies Policy](https://www.statravel.co.uk/cookies-policy.htm)** , including the section on third party advertising to ensure you are aware of how we will use your Personal Information. 
 
 **Key points to note**
 
@@ -14,13 +14,13 @@ Your privacy is important to us and we endeavour to maintain the privacy of regi
 
 • We will keep your Personal Information for as long as is required to provide our services to you and to comply with our legal obligations. After this period of time we will delete or anonymise your Personal Information.
 
-• You can ask us to stop using your Personal Information at any time and have the right to ask us to delete any Personal Information that we hold about you. Just contact us at via [**this form**](http://forms-customercare.statravel.com/?division=uk#/customer_care). You can also use this form address if you have any questions about this Privacy Policy.
+• You can ask us to stop using your Personal Information at any time and have the right to ask us to delete any Personal Information that we hold about you. Just contact us at via [**this form**](https://forms-customercare.statravel.com/?division=uk#/customer_care). You can also use this form address if you have any questions about this Privacy Policy.
 
 • Whilst we will implement appropriate security measures to protect the Personal Information that we hold, you accept the inherent security implications of disclosing Personal Information online and will not hold us responsible for any breach of security unless such breach has been caused by our negligence.
 
 • Any changes we may make to our Privacy Policy in the future will be posted on our Website and, where appropriate, notified to you when you next access the Website. It is your responsibility to ensure you are happy with any revised terms.
 
-• In addition to this Privacy Policy please take the time to read our [**Cookies Policy**](http://www.statravel.co.uk/cookies-policy.htm) which will also govern your use of our Website and app.
+• In addition to this Privacy Policy please take the time to read our [**Cookies Policy**](https://www.statravel.co.uk/cookies-policy.htm) which will also govern your use of our Website and app.
 
 ## 1\. Company Statement
 
@@ -28,7 +28,7 @@ We will only use information from which you can be identified, such as your name
 
 By visiting and/or contacting us in one of our stores or through the Website (or otherwise engaging with us), you acknowledge that we may collect, use and transfer your Personal Information as set out in this Policy. STA Travel reserves the right to change this Policy from time to time and you should therefore check this page frequently to ensure that you are happy with any changes.
 
-In this Policy, " **STA Travel** ", " **we** ", " **us** " and " **our** ", refer to STA Travel Limited, registered in the United Kingdom with registered address Priory House, 6 Wrights Lane, London W8 6TA. Our company registration number is 01263330. Also, this policy applies to the websites operated in partnership with STA Experiences Ltd ([http://tours.statravel.co.uk](http://tours.statravel.co.uk/)) and International Rail ([https://rail.statravel.co.uk](https://rail.statravel.co.uk/)).
+In this Policy, " **STA Travel** ", " **we** ", " **us** " and " **our** ", refer to STA Travel Limited, registered in the United Kingdom with registered address Priory House, 6 Wrights Lane, London W8 6TA. Our company registration number is 01263330. Also, this policy applies to the websites operated in partnership with STA Experiences Ltd ([https://tours.statravel.co.uk](https://tours.statravel.co.uk/)) and International Rail ([https://rail.statravel.co.uk](https://rail.statravel.co.uk/)).
 
 For the purposes of the Data Protection Legislation, we are deemed to be the " **data controller** " in respect of any Personal Information that you provide to us in connection with the operation of our business or we otherwise obtain about you. Where you provide us with Personal Information to be shared with a third party who will provide services directly to you (for example an airline), they shall also be a data controller of that information and you should review their own privacy policy for details as to how they handle your Personal Information.
 
@@ -52,7 +52,7 @@ Where you make use of our Website we may also collect technical information abou
 
 We collect some of the above information via our STA Travel Live Chat.
 
-Some of the technical data set out above will be collected by cookies that we use on our Website. For more information on the ways in which we make use of cookies, please see our **[Cookies Policy.](http://www.statravel.co.uk/cookies-policy.htm)**
+Some of the technical data set out above will be collected by cookies that we use on our Website. For more information on the ways in which we make use of cookies, please see our **[Cookies Policy.](https://www.statravel.co.uk/cookies-policy.htm)**
 
 ## 4\. Personal Information that we receive from other sources
 
@@ -94,13 +94,13 @@ You are entitled to know what Personal Information we hold about you and how tha
 
 If you change your mind and decide you do not wish to receive communications from STA Travel (including our marketing and Checkout Assistance communications), you can unsubscribe by clicking on the 'unsubscribe' link at the bottom of any emails you receive from us.If you have previously agreed to STA Travel sharing your Personal Information with third parties for direct marketing purposes, you may change your mind at any time by using the unsubscribe option in the relevant communication or contacting the third party directly.
 
-You are entitled to know what Personal Information we hold about you and how that information is processed. If you would like a copy of the Personal Information we hold about you, please contact us via **[this form](http://forms-customercare.statravel.com/?division=uk#/customer_care)**.
+You are entitled to know what Personal Information we hold about you and how that information is processed. If you would like a copy of the Personal Information we hold about you, please contact us via **[this form](https://forms-customercare.statravel.com/?division=uk#/customer_care)**.
 
 You have the right to request that we correct any Personal Information that we are holding about you that is incorrect or incomplete.
 
 You also have the right to ask us to erase or stop processing any Personal Information we have about you where there is no longer a legal ground for us to hold it and, in some circumstances, you have the right to request that we transfer any information we hold about you to a third party. 
 
-If you wish to exercise any of these rights, please contact us as soon as possible via **[this form](http://forms-customercare.statravel.com/?division=uk#/customer_care)**. We will promptly correct any information found to be incorrect.
+If you wish to exercise any of these rights, please contact us as soon as possible via **[this form](https://forms-customercare.statravel.com/?division=uk#/customer_care)**. We will promptly correct any information found to be incorrect.
 
 You may also have similar rights with our third-party partners and you should consult their privacy policies and/or contact them for further information (e.g. airlines with whom you have booked a flight).
 
@@ -112,23 +112,23 @@ We will only retain your Personal Information for so long as is permitted by the
 
 We may share your Personal Information with third parties where it is necessary (i) for the performance of the services you have requested or booked, (ii) for us to comply with our legal obligations or (iii) for our legitimate business interests. 
 
-Some of the services on our Website and mobile apps, are delivered or served by third party companies, which may collect information about your use of the services. For example, where you have booked flights with us for a third-party airline, we will need to share your Personal Information with the relevant airline and where this is the case, they shall be the data controller over such information. These third parties may also place or recognise cookies, web beacons or other technology to track your behaviour and we advise you to read their privacy policy as to how they will process your data. For more information about cookies please see our **[Cookies Policy](http://www.statravel.co.uk/cookies-policy.htm)**.
+Some of the services on our Website and mobile apps, are delivered or served by third party companies, which may collect information about your use of the services. For example, where you have booked flights with us for a third-party airline, we will need to share your Personal Information with the relevant airline and where this is the case, they shall be the data controller over such information. These third parties may also place or recognise cookies, web beacons or other technology to track your behaviour and we advise you to read their privacy policy as to how they will process your data. For more information about cookies please see our **[Cookies Policy](https://www.statravel.co.uk/cookies-policy.htm)**.
 
 We run promotions with third parties at specific times of the year - however, we will not share your data with these third parties unless you choose to opt-in via the form for that specific promotion - this will be made very clear.
 
 Third parties advertise on our Website and in our newsletter, however your data is kept on our records only, no other company will be given this data by STA Travel unless it is necessary to perform the services you have requested, or you have given your explicit consent to such a transfer. We ensure that we manage and process all data in accordance with the principles laid down by the Data Protection Legislation.
 
-We use third-party advertising companies to serve ads when you visit our Website. STA Travel is partnered with Google regarding ad serving but also works with several other advertising partners. These companies may use your Personal Information (not including your name, address, email address or telephone number) about your visits, to enhance user experience, offer a greater variety of content and provide advertisements about goods and services of interest to you. [This may include the use of cookies. For more information about cookies please see our **[Cookies Policy](http://www.statravel.co.uk/cookies-policy.htm)** ].
+We use third-party advertising companies to serve ads when you visit our Website. STA Travel is partnered with Google regarding ad serving but also works with several other advertising partners. These companies may use your Personal Information (not including your name, address, email address or telephone number) about your visits, to enhance user experience, offer a greater variety of content and provide advertisements about goods and services of interest to you. [This may include the use of cookies. For more information about cookies please see our **[Cookies Policy](https://www.statravel.co.uk/cookies-policy.htm)** ].
 
-If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, visit: <http://www.youronlinechoices.com/uk/your-ad-choices>.
+If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, visit: <https://www.youronlinechoices.com/uk/your-ad-choices>.
 
 In exceptional circumstance, if we are sold or merged with another company we may disclose your information to a potential buyer, including your Personal Information and other information concerning your relationship with us, so that they can continue to provide the services you have requested.
 
-Data Protection Notice: Your personal data will be processed in accordance with the applicable carrier’s privacy policy and, if your booking is made via a reservation system provider (“GDS”), with its privacy policy. These are available at [http://www.iatatravelcenter.com/privacy](https://protect-eu.mimecast.com/s/uYF9C0R1nsJpoY1tW9yQJ?domain=iatatravelcenter.com) or from the carrier or GDS directly. You should read this documentation, which applies to your booking and specifies, for example, how your personal data is collected, stored, used, disclosed and transferred. (applicable for interline carriage).
+Data Protection Notice: Your personal data will be processed in accordance with the applicable carrier’s privacy policy and, if your booking is made via a reservation system provider (“GDS”), with its privacy policy. These are available at [https://www.iatatravelcenter.com/privacy](https://protect-eu.mimecast.com/s/uYF9C0R1nsJpoY1tW9yQJ?domain=iatatravelcenter.com) or from the carrier or GDS directly. You should read this documentation, which applies to your booking and specifies, for example, how your personal data is collected, stored, used, disclosed and transferred. (applicable for interline carriage).
 
 ## 10\. Cookies
 
-For more information on our use of cookies, please see our [**Cookies Policy**](http://www.statravel.co.uk/cookies-policy.htm).
+For more information on our use of cookies, please see our [**Cookies Policy**](https://www.statravel.co.uk/cookies-policy.htm).
 
 ## 11\. Links
 
@@ -150,7 +150,7 @@ By submitting your Personal Information to us, you acknowledge this transfer, st
 
 ## 14\. Complaints
 
-Should you have any queries or complaints in relation to how we use your Personal Information, please contact us via **[this form](http://forms-customercare.statravel.com/?division=uk#/customer_care)**. Should you wish to take any complaints or queries further, you have the right to contact the Information Commissioner's Office regarding such issues.
+Should you have any queries or complaints in relation to how we use your Personal Information, please contact us via **[this form](https://forms-customercare.statravel.com/?division=uk#/customer_care)**. Should you wish to take any complaints or queries further, you have the right to contact the Information Commissioner's Office regarding such issues.
 
 ## 15\. Changes to this Privacy Policy
 
@@ -158,4 +158,4 @@ Any changes we may make to our Privacy Policy in the future will be posted on ou
 
 ## 16\. Contact us
 
-If you have any questions, please feel free to contact us via **[this form](http://forms-customercare.statravel.com/?division=uk#/customer_care).**
+If you have any questions, please feel free to contact us via **[this form](https://forms-customercare.statravel.com/?division=uk#/customer_care).**
