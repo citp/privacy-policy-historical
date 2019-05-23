@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005160957id_/https%3A//www.asha.org/sitehelp/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523191717id_/https%3A//www.asha.org/sitehelp/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement for ASHA
 
@@ -15,6 +15,7 @@ see also: [Cookie Statement](https://web.archive.org/sitehelp/cookie-statement/ 
   * Information Use
   * Cookies
   * Remarketing
+  * Customer Match and Custom Audience
   * Log Files
   * Links
   * Surveys and Promotions
@@ -43,7 +44,7 @@ The American Speech-Language-Hearing Association ("ASHA") respects your privacy 
 **ASHA-Branded Websites Provided By Third Parties:**
 
   * **ASHA Online Buyers Guide ([http://buyersguide.asha.org](http://buyersguide.asha.org/ "http://buyersguide.asha.org"))**
-  * **ASHA Manuscripts Submission Site (<https://mc.manuscriptcentral.com/asha>)**
+  *  **ASHA Manuscripts Submission Site (<https://mc.manuscriptcentral.com/asha>)**
 
 
 
@@ -101,9 +102,13 @@ Please see our [Cookie Statement](https://web.archive.org/sitehelp/cookie-statem
 
 Our third-party service providers use pixels that cause cookies, or similar technology, to be stored on your browser when you visit the System. This is necessary for our third-party service providers to provide remarketing services. Remarketing allows ASHA to display highly targeted ads to people who have visited the System. 
 
-As a user browses a website that has partnered with a specific remarketing advertising network, the advertising network provider stores a number in the user's browser (using a cookie) in order to remember the user's visits to the site. This number uniquely identifies a web browser on a specific computer, not a person. ASHA can then target advertisements to specific users based on their behavior on the System.
+As a user browses a website that has partnered with a specific remarketing advertising network, the advertising network provider stores a number in the user's browser (using a cookie) in order to remember the user's visits to the site. This number uniquely identifies a web browser on a specific computer, not a person. ASHA can then target advertisements to specific users based on their behavior on the System. Please refer to [our cookie statement](https://www.asha.org/sitehelp/cookie-statement/ "our cookie statement") for more information on the cookies that are set on our System and how you can manage your preferences.
 
-In addition to adjusting the settings on your Internet browser as described above, you can opt out of Google's use of cookies by visiting [Google's Ads Settings](https://adssettings.google.com/). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+## Customer Match and Custom Audience
+
+ASHA may share your User Information with Google for Customer Match ad targeting and Facebook for Custom Audience targeting. Customer Match allows ASHA to use your User Information to reach you via Google's ad network (i.e., Search, Shopping, Gmail, and YouTube). Custom Audiences allow ASHA to use your User Information to reach you via Facebook. Using information that you have provided to ASHA, Google’s Customer Match and Facebook’s Custom Audiences will target ads to ASHA's existing customers and other customers like them.
+
+Google and Facebook [do not use your data files](https://support.google.com/google-ads/answer/6334160?hl=en "does not use your data files") for any purpose other than to create Customer Match audiences and Custom Audiences and ensure compliance with Google and Facebook policies. Google users can control the ads they see on Google services, including Customer Match ads, in their [Google Ads Settings](https://adssettings.google.com/ "Google Ads Settings"). Facebook users can control the ads they see in their Facebook account, including Customer Audience ads, in [Your Ad Preferences](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen). 
 
 ##  Log Files 
 
@@ -210,4 +215,4 @@ We respond to all requests we receive from individuals residing in the EEA and w
 
 If we decide to change our Privacy Statement, we will post changes to our Privacy Statement on ASHA's homepage so that our users are always informed of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The most recent version of the Privacy Statement is reflected by the version date located at the bottom of this Privacy Statement. All such updates and amendments are effective immediately upon notice thereof, which we may give by any means, including, but not limited to, posting a revised version of this Privacy Statement or other notice on the Website and the Mobile Applications. You should view this Privacy Statement often to stay informed of changes that may affect you, as your continued use of the System signifies your continuing consent to be bound by this Privacy Statement. We expressly reserve the right to make any changes to this Privacy Statement at any time, without prior notice to you. The version of this Privacy Statement posted here on each respective date you visit the System shall be the Privacy Statement applicable to your access and use of the System on that date. Our electronically or otherwise properly stored copies of this Privacy Statement shall be deemed to be the true, complete, valid, authentic, and enforceable copies of the version of this Privacy Statement in force on each respective date you visit the System. This Privacy Statement is not intended to—and does not—create any contractual or other legal right in or on behalf of any party other than ASHA. 
 
-**This Privacy Statement was last updated on June 13, 2018.**
+**This Privacy Statement was last updated on April 22, 2019.**
