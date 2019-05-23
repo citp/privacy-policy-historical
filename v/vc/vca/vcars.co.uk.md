@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcars.co.uk privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213055029id_/https%3A//www.theaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcars.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523072334id_/https%3A//www.theaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice | AA
 
