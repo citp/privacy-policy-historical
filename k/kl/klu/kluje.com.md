@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kluje.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901191226id_/https%3A//kluje.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluje.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523210336id_/https%3A//www.kluje.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kluje
 
