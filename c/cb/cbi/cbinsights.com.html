@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbinsights.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228005846id_/https%3A//www.cbinsights.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbinsights.com privacy policy that was archived on 2019-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190523174247id_/https%3A//www.cbinsights.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox history opacity csstransforms video svg no-ipad no-iphone no-ipod no-ios no-ios6 no-ios7 no-ios8 no-ios9 no-windowsphone no-android no-android_4_2 no-macos no-mobile no-ie10 no-ie11 no-firefox safari videoautoplay" lang="en-US"><head>
   <meta charset="utf-8">
@@ -99,6 +99,12 @@
             <ul>
                               <li>
                   <strong>
+                                          <a href="https://www.cbinsights.com/business-relationships">Business Relationships</a>
+                                      </strong>
+                </li>
+
+                                              <li>
+                  <strong>
                                           <a href="https://www.cbinsights.com/business-social-graph">Business Social Graph</a>
                                       </strong>
                 </li>
@@ -136,6 +142,12 @@
                                               <li>
                   <strong>
                                           <a href="https://www.cbinsights.com/market-sizings">Market Sizings</a>
+                                      </strong>
+                </li>
+
+                                              <li>
+                  <strong>
+                                          <a href="https://www.cbinsights.com/notes-collaboration">Notes</a>
                                       </strong>
                 </li>
 
@@ -319,9 +331,25 @@
             </div>
                         
                         
-                                                            </div>
+                                                                <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+            <script>
+              function validateRequest(event) {
+                if ( !$('#email-form').data('passed')) {
+                    event.preventDefault();
+                    grecaptcha.reset();
+                    grecaptcha.execute();
+                }
+              }
+
+              function onSubmit(response) {
+                $('#email-form').data('passed', true);
+                $('#email-form').submit();
+              }
+            </script>
+        </div>
     </div>
-</div>  
+</div>
+  
       
 
 
@@ -1045,7 +1073,7 @@ New York, NY 10018</div>
     </section>
   </div>
   <div id="footer-end">
-    <div class="copyright"> Copyright 2018 CB Information Services, Inc. All rights reserved. </div>
+    <div class="copyright"> Copyright 2019 CB Information Services, Inc. All rights reserved. </div>
     <div class="outer-container">
         <a href="https://www.cbinsights.com/">
           <img alt="CB Insights Logo" src="../../images/cbi_logo_marketing.png" srcset="../../images/cbi_logo_marketing.png 1x, ../../images/cbi_logo_marketing@2x.png 2x, ../../images/cbi_logo_marketing@3x.png 3x">
@@ -1056,8 +1084,16 @@ New York, NY 10018</div>
       <!--[if lt IE 9]><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><![endif]-->
     <!--[if gte IE 9]><!--><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><!-- <![endif]-->
     <script src="/scripts/bundle.marketing.js"></script>
+    <script>
+      (function() {
+        window.sendSegmentTrackEvent("public page viewed", {
+          activityType: "pageview",
+        })
+      })();
+    </script>
   
         
+    
   
 
 </body></html>
