@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915234036id_/https%3A//www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebra.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523073806id_/https%3A//www.zebra.com/us/en/about-zebra/company-information/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Zebra Technologies
 
@@ -81,9 +81,17 @@ Zebra will keep your data, which may include Personal Information, for as long a
 
 ### **GENERAL DATA PROTECTION REGULATION (GDPR)**
 
-This [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) applies in circumstances where Zebra’s privacy practices are subject to the EU General Data Protection Regulation (“GDPR”). If applicable to you, the [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) should be read in conjunction with this Privacy Policy.
+The [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) applies in circumstances where Zebra’s privacy practices are subject to the EU General Data Protection Regulation (“GDPR”). If applicable to you, the [GDPR Addendum](https://web.archive.org/us/en/about-zebra/company-information/legal/gdpr.html) should be read in conjunction with this Privacy Policy.
 
-### **REVISIONS TO THIS PRIVACY STATEMENT  **
+### **OTHER COUNTRY PRIVACY STATEMENTS THAT MAY APPLY**
+
+The following Policy Statements apply to the indicated countries:
+
+[Argentina – Aviso de Privacidad Para Argentina](https://web.archive.org/content/dam/zebra/corporate-policies/en/argentina-privacy-statement-es-la.pdf)  
+[Colombia – Politica de Tratamiento de Datos Personales](https://web.archive.org/content/dam/zebra/corporate-policies/en/colombia-privacy-statement-es-la.pdf)  
+[Mexico – Aviso de Privacidad Integral Para Mexico](https://web.archive.org/content/dam/zebra/corporate-policies/en/mexico-privacy-statement-es-la.pdf)
+
+**REVISIONS TO THIS PRIVACY STATEMENT  **
 
 Zebra reserves the right to change this Privacy Statement from time to time at Zebra’s discretion. Please check this Privacy Statement frequently and particularly before you submit Personal Information via the Sites.  
  
@@ -100,4 +108,4 @@ Lincolnshire, IL 60069 USA
 
 Email:  [Privacy@Zebra.com](mailto:Privacy@Zebra.com)
 
-V2 Date: June 28, 2017
+V3 Date: December, 2018
