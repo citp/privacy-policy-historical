@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122155919id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostfunnyonlinegames.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523154735id_/http%3A//mostfunnyonlinegames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MFOGS.COM
 
