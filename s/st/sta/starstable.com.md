@@ -1,107 +1,194 @@
-> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005191013id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523073606id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Star Stable
 
-### General Privacy Policy
+Star Stable is an online horse game for players all over the world where they can dive into the joys of riding and adventure. Star Stable Online is a product owned and developed by Star Stable Entertainment AB in Stockholm, Sweden.
 
-Star Stable Entertainment AB only collects personal information on a voluntary basis. If an on-line visitor submits information to Star Stable Online, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) eCards or Recruit-a-Friend e-mails, (4) warranty registrations, (5) contest registrations, (6) a consumer complaint, (7) surveys, (8) customer service or technical support, and/or (9) newsletters. Personal information collected may include your name, home address, phone number and/or e-mail address. We do not require this information to gain access to our websites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided. 
+This privacy policy applies to the online game and interactions contained in Star Stable Online available at [https://www.starstable.com](https://www.starstable.com/). The policy also applies to any services provided by Star Stable relating to the game: Star Stable website, mobile apps “services” and from different international variations. This privacy policy does not apply to third party companies or to sites which may link, or redirect, to Star Stable Entertainment AB sites or products. 
 
-Visitors purchasing products or services will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses. 
+Our privacy policy may change from time to time. If we make any major changes to our policies, we will put a notice on our website or the application. If the change significantly affects registered users, we will send a notice to you by email. If we make any substantial changes in the way we handle children’s personal information, we will first notify and obtain the prior consent of a parent or legal guardian. 
 
-Actual credit card/payment data is not stored by Star Stable Entertainment AB but by our international hosted payment solution providers that are regulated and conform to the high level of security to be able to store information of this nature. 
+Star Stable is compliant with the United States Federal Children’s Online Privacy Protection Act (COPPA) and a member of FTC approved PRIVO’s COPPA Safe Harbor Program. 
 
-Please note that, depending on the Star Stable Entertainment AB website that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
+* ###  Our Privacy Policy 
 
-#### What other types of information may we collect?
+Your personal data is valuable, and Star Stable appreciates that you rely on us to keep it safe. We constantly strive to earn the trust of our players and parents or legal guardians. So, although we’re required to change our data privacy policy to reflect global changes and EU legislation, we also want to take this opportunity to improve user experience. By updating our new policy, we hope that reading and navigating your way around is a more pleasant experience. We aim to do this by making communication simple and speaking in a clear, transparent voice. Our policy updates will make it easier for players and parents to have control over the data you entrust us with, so that we can provide you with a better game and a smarter way for you to manage your data on “My Account”. 
 
-For some activities, we may ask you to create a username and password and/or to provide other personal and non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, we may combine such information with other personal and/or non-personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Star Stable Entertainment AB. Star Stable Entertainment AB may use this information to generate aggregate statistics about our user community and may provide such information to advertisers and/or our partners. In addition, Star Stable Entertainment AB may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. From time to time, we may also post customer testimonials that contain personally identifiable information on Star Stable Entertainment AB’s websites. However, we will obtain the customer’s consent to post these testimonials prior to publication in accordance with the applicable Star Stable Entertainment AB’s Terms of Use (TOU). 
+* ###  The data we collect 
 
-#### How do we use your personal information?
+We require users to register an account to play Star Stable Online. Star Stable will not collect from a child more personal data than is reasonably required to provide a technically stable and safe online game experience. 
 
-The personal information you provide Star Stable Entertainment AB will allow us to fulfill your product or service order; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; to send eCards or “Recruit-a-Friend” emails; and/or notify you of upgrade opportunities, contests, promotions, or special events and offers. Star Stable Entertainment AB may enhance or merge the personal information collected at a Star Stable Entertainment’s website with data from third parties in order to update your contact information, perform market analysis, or improve our products, services, or systems. Star Stable Entertainment AB may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out. 
+By agreeing to the Terms and Conditions, or obtaining parent or legal guardian approval, Star Stable may possibly collect some of the following data: 
 
-Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve our customers. 
+  * Player email address 
+  * Parent email address where applicable 
+  * Purchase data/history 
+  * Customer I.D and data, such as name and age 
+  * Account data 
+  * IP address and log in details 
 
-Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
-#### What type of communications may I receive?
 
-Special Offers and Updates 
+* ### What do we use the data for?
 
-We will occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice” section below. 
+The reason Star Stable store player’s personal information is: 
 
-Service-related Announcements 
+  * So that we can create your unique account profile. 
+  * To identify in which area you live, so that we know which laws and regulations apply to you. 
+  * To identify the consent age in your area, so that we can help you to get parental/ legal guardian approval if needed. 
+  * To make sure that you get the right version of the game for your country. 
+  * So that you can get access to the site and game, in order to progress and get the best possible game experience. 
+  * So that we can communicate with you about your account. 
+  * So that we can send you news, if you have opted for this. 
+  * For us to reach you regarding market offers, if you opted for it. 
+  * For password maintenance. 
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. 
 
-Customer Service 
 
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. 
+The reason we store personal data for you as a parent or legal guardian: 
 
-Recruit a Friend/E-cards/Share Wish List 
+  * To set up your payment method when you start a membership. 
+  * To allow future payments processes. 
+  * To maintain your consent history for privacy policy transparency, and guidelines on how Star Stable is allowed to use the player data. 
+  * To store your billing address for future payments. 
+  * To store your email address. 
 
-If you choose to use our recruit-a-friend, Share Wish List, or e-card features, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Star Stable Entertainment AB does not store this information and uses it for the sole purpose of sending this one-time email and to track the success of our referral program. 
 
-#### Who is collecting your information?
 
-When you are asked for information while on a Star Stable Entertainment AB's website, you are sharing that information with Star Stable Entertainment AB, and its various affiliates unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Star Stable’s affiliates. From time to time, Star Stable Entertainment AB may use third party contractors to collect and process personal information on its behalf (for product and prize fulfillment, credit card processing, etc.). 
+Actual credit card or payment data is not stored by Star Stable Online but by our international-hosted payment providers. To be able to store information of this nature, we only use regulated providers who conform to the highest level of security. 
 
-In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by a company other than Star Stable Entertainment AB and not on Star Stable Entertainment AB’s behalf, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+* ### How do we handle your data rights at Star Stable?
 
-Please be aware that we cannot control the activities of third parties to whom we provide data, and as such we cannot guarantee that they adhere to the same privacy and security procedures as Star Stable Entertainment AB. 
+To follow the EU legislation as well as an increasing Global demand for enhanced data privacy we have updated our data handling processes and will continue delivering improved support to strengthen your personal rights to control how we at Star Stable handle your data. 
 
-Please be aware that advertisers or websites with links to and from our websites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. We encourage you to carefully read the privacy policy of any advertiser or website you visit. 
+  1. ### CAN I CORRECT THE INFORMATION YOU HAVE ABOUT ME?
 
-Our websites may include certain social media features such as the Facebook "Like" button, and widgets such as the Share this button or interactive mini-programs that run on our websites. These features may collect your Internet protocol (“IP”) address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing it. 
+In case you would notice that we have the incorrect information about you, you can update and correct some information under “My Account”. If you find that you do not have the possibility to update the data you want please contact our Customer Support Team using our web-form. 
 
-#### With whom may your personal information be shared?
+  2. ### CAN I WITHDRAW MY CONSENT AND RESTRICT DATA PROCESSING OF MY PERSONAL DATA?
 
-Star Stable Entertainment AB will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may, however, share non-personally identifiable, aggregated, and/or public information with third parties. 
+If you decide that you no longer want to have an account with us you can always send a request to our Customer Support Team using our web-form. 
 
-We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements for a Star Stable Entertainment AB website or product, or may be causing injury to or interference (intentionally or unintentionally) with Star Stable Entertainment AB's rights or property, other users of a Star Stable Entertainment AB website or product, or anyone else who could be harmed by your activities. We also reserve the right to disclose your personal information if we have a good faith belief that it is necessary to prevent fraud or other illegal activities. 
+As a registered player you can update the consent for restricting us to contact you for Offers and Campaigns and/or contacting you for News and Information using “My Account”. 
 
-As with any business, your personal information is also an asset of Star Stable Entertainment AB and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Star Stable Entertainment AB's successor or assign. 
+We will handle most requests for consent removal, data update or removal or request for information within 30 days. In cases we need to verify your identification and ensure from a data integrity point of view that we are handling your account correctly, it may take up to 60 days. We will notify you if the process will take longer than 30 days. 
 
-Star Stable Entertainment AB websites may also have message boards, forums, and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board, forum, or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk. If your personal information is posted on one of our community forums, you may contact us at privacy@starstable.com to request removal. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+  3. ### CAN I REQUEST INFORMATION OR ASK FOR MY PERSONAL DATA TO BE REMOVED?
 
-#### What choices do I have regarding the collection, use, and distribution of my personal information?
+As a registered player you can request for your old email address to be removed. 
 
-Star Stable Entertainment AB allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Star Stable Entertainment AB may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Star Stable Entertainment AB may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. 
+As a registered parent or legal guardian, you can request for any old email addresses to be deleted or payment methods to be removed. 
 
-#### What are tracking technologies and how are they used?
+For safety purposes we securely store and archive old data. This is so it can be used to investigate any complaints or violations of our terms and conditions, or on the off-chance that it has been requested by law enforcement agencies or data protection authorities. 
 
-As is true with most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, or website functionality. 
+Most of the data is fully available for you as a registered player under “My Account” or in the game. Please contact @Privacy (see section 11 below) if you have any additional requirements on obtaining more information about your persona data. 
 
-Star Stable and our partners, such as marketing partners and analytics providers, may use tracking technologies such as cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the websites, tracking users’ movements around the websites, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well aggregated basis. 
+  4. ### CAN I MOVE MY DATA FROM STAR STABLE?
 
-We use cookies for various purposes including our shopping cart, to remember users’ settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our websites, but your ability to use some features or areas of our websites may be limited. 
+Star Stable is under the EU GDPR law considered to be a Data Controller. As part of the law you should be able to move or port out your data to another Data Controller where so is applicable. For Star Stable this is only applicable to the private persons requesting the data since the products and services cannot be transferred to another Company. 
 
-We may also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. For this reason, these types of clear gifs are tied to personally identifiable information. 
 
-We, and third parties with whom we partner to provide certain features on our websites or to display advertising based on your web browsing activity, use Local Shared Objects such as Flash cookies, and Local Storage such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 
 
-We partner with third party ad networks to either display advertising on our websites or to manage our advertising on other sites. Our ad network partners may use tracking technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. If you are located in the European Union, click here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+* ### Community or social features we offer and how we keep these areas safe.
 
-#### What are Internet protocol addresses?
+Star Stable Online offers in-game chat and mail for our users. To keep our players safe, and actively prevent the exchange of personal information in line with COPPA and General Data Protection Regulation requirements, all in-game communications are filtered and behavior-profiled using technology provided by industry leader CRISP THINKING. All chat and mails are stored securely for investigation purposes should there be any cause for our trained team of moderators to thoroughly examine an interaction (such as a complaint, a violation of our terms of service, or a request for information from a law enforcement agency). 
 
-An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Star Stable Entertainment AB may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused. See tracking technology discussion above. 
+This is currently the only automated decision making at Star Stable. 
 
-#### What do I do if I want to correct or delete my personal information?
+* ###  Cookies and web technology 
 
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact Star Stable Entertainment AB, Attention: Privacy Policy Administrator, Jakobsbergsgatan 31, 111 44 Stockholm, Sweden. You can also contact us by e-mailing us at [ privacy@starstable.com](mailto:privacy@starstable.com). We will respond to any request for access within 30 days. 
+####  Cookies 
 
-In some cases, we may not be able to delete your personal information and will retain and use our information as long as necessary to comply with our legal obligations, resolve disputes, and/or enforce our agreements. 
+Star Stable Online uses so-called cookies on the website in order to provide the user access to certain functions and to obtain information regarding visits to the website. 
 
-Please note that the deletion of your data will lead to the termination of your account and all applicable services. 
+####  What are cookies? 
 
-#### How secure is my personal information?
+A cookie is a small text file which is stored on the user's computer and which contains information. There are two types of cookies. One type of cookie is a ’permanent’ cookie which saves a file permanently on the user's computer until the file is removed. The other type of cookie is called a session cookie which disappears when the user closes his or her web browser. 
 
-The security of your personal information is important to us. Star Stable Entertainment has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. 
+Session cookies are sent between the user's computer and Star Stable Online's servers in order to keep track of information regarding the user, for example, which user name is used. 
 
-In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. 
+To make it easier for our players, Star Stable uses permanent cookies, which can provide the user with access to stored information, such as how to use our services. 
 
-#### What if I have a question or complaint?
+The information collected via cookies may be linked to personal information we’ve collected about you. 
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@starstable.com](mailto:privacy@starstable.com) or send a letter addressed to Star Stable Entertainment AB, Attention: Privacy Policy Administrator, Jakobsbergsgatan 31, 111 44 Stockholm, Sweden. 
+Anonymized information from permanent cookies is also used for maintaining statistics, regarding the use of the website, to conduct surveys in order to improve the service, or to determine which parts of our services are most popular, so we can make it as user-friendly as possible. 
 
-By using this website and/or any of Star Stable Entertainment AB’s online or mobile products or services, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change prior to the change becoming effective. Your continued use of the Star Stable Entertainment AB websites will signify your acceptance of these changes. 
+####  Star Stable Online also uses the following third-party cookies: 
+
+Google Analytics - cookies are used to collect information regarding the way the user uses the website, e.g. which parts the user visits most frequently. This is so that we can in analyze how the website is used and improve user experience. More information is available at: [https://developers.google.com](https://developers.google.com/)
+
+Star Stable may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. The reasons are to allow our third-party service providers to collect information that helps us with traffic measurement, research, and analytics. 
+
+####  How can the user remove cookies? 
+
+The user can choose whether he or she wishes to accept cookies. By adjusting the web browser, the user may avoid receiving cookies. However, this could cause failure in the function of the service. The method used to block cookies will depend on the web browser used. Consult the "Help" or corresponding menu in the web browser for instructions. 
+
+* ###  Do we have e-commerce or advertisements on our site? 
+
+Star Stable Online does not advertise any third-party products or services. To allow us to operate as an advertising-free business, our website Star Stable Online sells membership time (subscription) and in-game currency (Star Coins) that can be used to purchase in-game items. 
+
+* ###  What is a Star Stable membership? 
+
+We want everyone to have the opportunity to play Star Stable Online. That’s why we have a free area of the game that can be played indefinitely. For those wishing to get into the game in more depth, there is a Star Stable world reserved for subscription members (or Star Riders as they are called in Star Stable). Star Stable subscription is a paid service, with different subscription packages according to your level of commitment. 
+
+Our purchase packages range from recurring 1 month or 3 months Star Rider subscriptions or the 'pay once' Star Rider option that gives you access to the member area of Star Stable. Prices of these memberships vary by national region and currency. Star Stable memberships can be cancelled at any time on your “My Account” pages or by contacting customer support through our web contact form. 
+
+Purchases must be approved by the cardholder or the payment method account holder. Should a payment method be used without permission, please contact us via our support form as soon as possible. 
+
+* ###  With whom do we share your information? 
+
+Personal information is not shared with independent third parties for their own marketing purposes. To operate the service, we may make personal and anonymous information available to third parties in these limited circumstances: (1) with vendors who help us operate our website or online service, such as payment processors, (2) with your express consent (or the prior consent of a parent or legal guardian), (3) when we believe it to be required by law, (4) when we believe that it is necessary to protect our rights or property, or (5) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets, provided they adhere to the same practices in this policy. 
+
+* ###  How do we keep your information secure? 
+
+At Star Stable we respect the information you entrust to us and take pride in protecting it from unauthorized access or disclosure. Therefore, we have updated both administrative routines, work constantly with training our staff in data privacy protection, and are constantly updating and improving our electronic solutions to keep your data safe. This includes utilizing Secure Sockets Layer (SSL) software, which encrypts all the personal information you give us, and storing your information behind a firewall designed to block access from outside our network. However, although we always do our utmost to protect your data, no security or encryption method can be completely guaranteed to protect information from hackers or human error. 
+
+Information we collect may be stored or processed on computers located in any country where we do business. 
+
+* ###  How do we comply with privacy regulations for children 12   
+and under in the United States? 
+
+Children and their parents in the US have the same rights as our users in the EU which are outlined in this privacy policy. Parents must provide consent for their child to use Star Stable. Please refer to section [2](https://www.starstable.com/en/privacy#b) and [3](https://www.starstable.com/en/privacy#c) to find out what personal information we collect and how we use it. 
+
+Star Stable (owned and operated by Star Stable Entertainment AB) is included in PRIVO’s Kids Privacy Assured COPPA Safe Harbor Certification Program (“the Program”). The Program certification applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO seal. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO COPPA certification seal posted on this page indicates Star Stable has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us using the category Privacy on our [web-form](https://www.starstable.com/en/support). If you have further concerns after you have contacted us, you can contact PRIVO directly at [[email protected]](https://www.starstable.com/cdn-cgi/l/email-protection#4434362d3225273d0434362d322b6a272b29)
+
+#### Kids Privacy Assured by PRIVO: COPPA Safe Harbor Certification & GDPRkids™
+
+[ ](https://privo.com/privo-site-validation/?company=891)
+
+#### GDPRkids™ Privacy Assured
+
+[ ](https://www.privo.com/gdprkids-certification?company=891)
+
+The Program applies to the digital properties listed on the validation page that is viewable by clicking on the PRIVO GDPRkids™ Verified Shield. The PRIVO GDPRkids™ Privacy Assured Program supports child directed services known as Information Society Services under the General Data Protection Regulation (GDPR), to comply with the requirements of this legislation. It impacts any child directed service in an EU Member State and any service globally that collects and or processes the personal data of children and minors. There is no safe harbor for the GDPR to date, but to ensure this company's services meet the program requirements, we conduct regular monitoring and consulting. 
+
+THIRD PARTY SERVICE PROVIDERS
+
+We use the following third-party service providers in relation to users 12 and under in the U.S. These third-party services do not share your information with any other third parties. Please contact Star Stable at [web-form](https://www.starstable.com/en/support) for more information on their collection and use practices. 
+
+  * Google Analytics in our apps
+  * Google Ad services
+  * Zendesk for customer service
+  * Crisp Thinking for chat moderation
+
+
+
+* ### How can you Contact us with Privacy Questions or Concerns?
+
+We are happy to answer any questions you might have concerning your personal Data, third-party processors or in-game safety. For general questions, please contact our Customer Support Team using our [web-form](https://www.starstable.com/en/support). 
+
+Should you have specific Data Privacy and Internet Safety questions and/or concerns or want to have information about your private data or reach our Data Protection Officer (DPO), please use our category Privacy on our [web-form](https://www.starstable.com/en/support). Should you not find any good choice for your questions, please email at [[email protected]](https://www.starstable.com/cdn-cgi/l/email-protection#cdbdbfa4bbacaeb48dbeb9acbfbeb9acafa1a8e3aea2a0) or call at +46 10 3300106. 
+
+If you have further compliance questions regarding EU law and GDPR please use this link to find the relevant contact details for the Data Protection Authority in your country:  
+[ http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080 ](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080)
+
+Or reach us at our corporate headquarters at: 
+
+Star Stable Entertainment AB  
+Att: Privacy Request / Customer Care  
+Vasagatan 16  
+111 20 Stockholm  
+SWEDEN  
+
+
+Privacy Policy Version 1.2.1 
