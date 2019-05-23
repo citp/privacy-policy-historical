@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220143108id_/https%3A//www.snp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523235745id_/https%3A//www.snp.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy — Scottish National Party
+
+### European Election Letter
+
+On Thursday 9 May 2019 mail arrived with some electors that had the wrong addressee name on the letter.
+
+A clerical error has been identified in our office and we are truly sorry if you are one of the electors affected.
+
+There is no ongoing issue with the integrity and security of data and no issue of identity theft.
+
+It was certainly a mistake, and for that we apologise.
 
 This is the Privacy Policy for the Scottish National Party.
 
