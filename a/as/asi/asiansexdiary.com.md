@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiansexdiary.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093720id_/https%3A//asiansexdiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiansexdiary.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525000908id_/https%3A//asiansexdiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Asian Sex Diary ™
 
