@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codedfilm.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128214650id_/http%3A//wap.codedfilm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedfilm.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524081108id_/http%3A//wap.codedfilm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy CodedFilm | CodedFilm
 
