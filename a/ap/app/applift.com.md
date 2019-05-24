@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applift.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213194846id_/https%3A//www.applift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applift.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524145736id_/https%3A//applift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Applift
 
@@ -8,7 +8,7 @@ Personal data means information that refers to an identified or identifiable per
 
 I. Who is the Data Processing Controller?
 
-The controller in the sense of the European General Data Protection Regulation (GDPR) for this website is Applift GmbH, Rosenstraße 17, 10178 Berlin, Germany. For more information, please see our [**imprint**](https://www.applift.com/imprint).
+The controller in the sense of the European General Data Protection Regulation (GDPR) for this website is Applift GmbH, Rosenstraße 17, 10178 Berlin, Germany. For more information, please see our [**imprint**](https://applift.com/imprint).
 
 You may contact the data protection officer of AppLift about any questions and concerns about data protection at AppLift directly by email at dataprotection@applift.com or by regular mail by adding, e.g., “Subject: Data Protection.”
 
@@ -42,7 +42,7 @@ Our newsletters use customary market technologies that allow interactions with t
 
 
 
-You may use our [jobs portal](https://www.applift.com/jobs) to apply for open positions. The according data is collected for applicant selection purposes and for the potential establishment of an employment relationship. To receive and process your application, we will collect personal data, e.g., your first and last name, email address, application documents (e.g., references, CV), earliest possible date for beginning work and wage expectations. The legal basis for the processing of your applicant data is Art. 6(1) Sentence 1 Letter b and Art. 88(1) of the GDPR in connection with Section 26(1) Sentence 1 of the German Federal Data Protection Act [Bundesdatenschutzgesetz, BDSG]. We will save your application for up to six months after the completion of the application process. If you granted your consent, we will save your application for up to one year following the completion of the application process.
+You may use our [jobs portal](https://applift.com/jobs) to apply for open positions. The according data is collected for applicant selection purposes and for the potential establishment of an employment relationship. To receive and process your application, we will collect personal data, e.g., your first and last name, email address, application documents (e.g., references, CV), earliest possible date for beginning work and wage expectations. The legal basis for the processing of your applicant data is Art. 6(1) Sentence 1 Letter b and Art. 88(1) of the GDPR in connection with Section 26(1) Sentence 1 of the German Federal Data Protection Act [Bundesdatenschutzgesetz, BDSG]. We will save your application for up to six months after the completion of the application process. If you granted your consent, we will save your application for up to one year following the completion of the application process.
 
   5. Use of Own Cookies
 
