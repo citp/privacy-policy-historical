@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320103613id_/http%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524080656id_/https%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
 
-# PAHO WHO | PAHO Website Privacy Policy
+# PAHO/WHO | PAHO Website Privacy Policy
 
 Your privacy on the Internet is of utmost importance to the Pan American Health Organization (PAHO). This privacy statement describes PAHO's policy concerning the gathering and sharing of visitors' information through the PAHO web site. It applies to all "PAHO sites" - that is, all sites within the "PAHO.org" domain name.
 
@@ -67,7 +67,3 @@ For questions or queries regarding this privacy policy, please contact us [here]
 * * *
 
 _*Cookies :  A cookie is a small amount of data that is sent from a web server to your browser. It is normally used to assign a unique identification to your computer and securely store information such as user IDs, passwords, preferences, and online profiles. It is stored on the hard drive of your computer. You can choose not to have cookies delivered by PAHO/WHO sites by changing your browser settings. Different web sites can send their own cookies to your computer. To protect your privacy, your browser only allows a web site to access the cookies it has already sent you, not the cookies sent by other sites._
-
-Last Updated on Monday, 12 December 2016 11:19
-
-    
