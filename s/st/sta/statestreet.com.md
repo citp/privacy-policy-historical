@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213141152id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statestreet.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524060135id_/http%3A//www.statestreet.com/content/ssbsr/en_US/utility/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice | State Street Corporation
 
@@ -171,4 +171,5 @@ To help protect your privacy and provide security, State Street takes reasonable
 
 If you have questions or comments about this Privacy Notice, or about how your data is processed, please [Contact Us](https://web.archive.org/content/ssbsr/en_US/contact-us.html) here.
 
-Effective date: December 31, 2016  
+Effective date: December 31, 2016    
+Last reviewed: May 30, 2018
