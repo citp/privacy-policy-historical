@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivehive.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701000603id_/https%3A//thrivehive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivehive.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524034800id_/https%3A//thrivehive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThriveHive
 
@@ -29,6 +29,8 @@ From time to time, we may obtain e-mail addresses from third party sources to be
 We may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to: (1) comply with the law, government action or with legal process served on us; (2) protect and defend our rights or property, including without limitation these Websites; or (3) protect the personal safety or property of our users or the public (by way of example, if you provide false information or pretend to be someone else, information about you may be disclosed as part of an investigation).
 
 In the event of a change of control of GateHouse or any of its subsidiaries (such as through a merger or sale of equity) or in the event of a direct or indirect sale of any Website through a sale of assets, liquidation or other transaction, any personal information of users of the affected Websites in our possession will be transferred to the new company as part of the transaction. We are not obligated to notify Website users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.
+
+Users in the EU may submit requests relating to their own personal data collected by ThriveHive through our owned and operated websites by visiting our GDPR Data Subject Access Request [Web Form](https://app.onetrust.com/app/#/webform/93930fc4-9a49-4d09-b9f3-2dd58e5bdaa9)
 
 ### AGGREGATE INFORMATION
 
