@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212012341id_/https%3A//grantcardone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantcardone.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524214500id_/https%3A//grantcardone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Grant Cardone Training
+# Privacy Policy - Grant Cardone - 10X Your Business and Life
+
+**_PRIVACY POLICY_**
 
 At GRANT CARDONE, we take privacy issues seriously. By ensuring that you are aware of and understand the GRANT CARDONE Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
@@ -14,13 +16,21 @@ GRANT CARDONE collects personal information in a variety of ways when you intera
 
 Information we collect may include: your name, e-mail address, phone number, address, product preference information, billing information, demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information) and personal interest information. On occasion, we may ask for additional information to enable us to provide with access to and use of certain information, materials and services. GRANT CARDONE may combine information about you that we have the information we obtain from business partners or other companies.
 
-**What other kinds of information do we collect?**
-
-GRANT CARDONE automatically receives and records information on our server logs from your browser, including your IP address, information about which pages you visit on GRANT CARDONE, and information from GRANT CARDONE cookies.
-
 **What are cookies and how do we use them?**
 
 Cookies are small data files that write to your hard drive for record keeping purposes when you visit a website. Cookies allow GRANT CARDONE to measure traffic activity as well as to improve your user experience, for example by remembering your passwords and viewing preferences. Like other major websites, GRANT CARDONE uses cookies to provide you with a tailored experience when visiting GRANT CARDONE and using our major products. We treat any personal information that may be contained in cookies with the same level of confidentiality as other information you provide to us. If you wish to disable cookie functionality, you may do so by changing the security settings on your browser. However, portions of GRANT CARDONE may not function or function as efficiently, without them.
+
+What information is collected from other sources?
+
+_Social Media Widgets:_
+
+The Websites include social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Websites. These features may collect your Internet protocol address, which page you are visiting on the Websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the Websites. Your interactions with these features are governed by the privacy statement of the companies that provide them.
+
+_Information From Third Party Services:_
+
+We may also obtain other information, including personal information, from third parties and combine that with information we collect through our Websites. For example, we may have access to certain information from a third-party social media or authentication service if you log into our Services through such a service or otherwise provide us with access to information from the service. Any access that we may have to such information from a third-party social media or authentication service is in accordance with the authorization procedures determined by that service. If you authorize us to connect with a third-party service, we will access and store your name, email address(es), current city, profile picture URL, and other personal information that the third-party service makes available to us, and use and disclose it in accordance with this Policy. You should check your privacy settings on these third-party services to understand and change the information sent to us through these services. For example, you can log in to the Services using single sign-in services such as Facebook Connect or an Open ID provider.
+
+These single sign-on services will authenticate your identity, provide you with the option to share certain personal information (such as your name and email address) with us, and pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities in the Services to your profile page to share with others within your network.
 
 **How do we protect your personal information?**
 
@@ -58,4 +68,76 @@ GRANT CARDONE may also include third party advertising. These third parties’ w
 
 GRANT CARDONE also contains links to other Websites and products. GRANT CARDONE is not responsible for the privacy practices or the content of such Websites or products. Please visit the privacy policies of these third party sites in order to understand their privacy policies and data collection practices.
 
-If you would like to contact us for any reason regarding our privacy practices, please e-mail us at the following address: [info@grantcardone.com](mailto:info@grantcardone.com). We may change this privacy policy at any time. If we make material changes to this privacy policy, we will prominently post that the policy has changed.
+What rights do you have regarding your data?
+
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection.
+
+You may also, of course, file a complaint with the competent regulatory authorities.
+
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient.
+
+The data processed before we receive your request may still be legally processed.
+
+If you no longer wish to receive communications from GRANT CARDONE, you can opt-out from receiving such messages in the future by following the instructions in the message or contacting us at privacy@grantcardone.com.
+
+With respect to the Site’s use of cookies and other similar technologies, by adjusting settings on your browser, you may elect not to allow cookies to be places, and thus opt-out of certain features of the Site and the Site’s automatic collection of certain data about you.
+
+You may also adjust your advertising preferences on various social media websites by adjusting your settings on the platform.
+
+If you are accessing the Site from the European Economic Area, which includes the European Union, Iceland, Liechtenstein, and Norway, or you are a citizen of a member state of the European Economic Area, you have the following rights under the EU General Data Protection Regulation (GDPR).
+
+  1. Right to be informed about the collection and use of your personal data
+  2. Right to access your personal data
+  3. Right to have any inaccurate personal data corrected
+  4. Right to have your personal data erased
+  5. Right to restrict use of your personal data
+  6. Right to personal data portability
+  7. Right to object to the processing of your personal data
+
+
+
+**What are the Legal reasons we collect and disclose certain information?**
+
+**Legal basis for processing (EEA visitors only):**
+
+**If you are a visitor from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.**
+
+**However, we will normally collect personal information from you only where we need the personal information to perform a contract with you (e.g. to provide you with our Services), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms, or where we have your consent. In some cases, we may also have a legal obligation to collect personal information from you.**
+
+**If we ask you to provide personal information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).**
+
+**Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time why we need to use your personal information. If we process personal information in reliance on your consent, you may withdraw your consent at any time.**
+
+**If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact** us using the contact details provided under the “Contact Us” section below.
+
+Compliance with Laws and Law Enforcement Requests; Protection of Our Rights:
+
+In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Service Agreement, or as otherwise required by law.
+
+Testimonials:
+
+From time to time, we may post testimonials on the Websites that may contain personal information. We obtain Your consent to post Your name along with Your testimonial. If you wish to update or delete your testimonial, you can contact us at [privacy@grantcardone.com](mailto:privacy@grantcardone.com).
+
+_Community Forums:_
+
+The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“ **Interactive Areas** “). You should be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. To request removal of your personal information from an Interactive Area, contact us at [privacy@grantcardone.com](mailto:privacy@grantcardone.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Notice concerning the party responsible for this website.
+
+The party responsible for processing data on this website is:
+
+CARDONE TRAINING TECHNOLOGIES, INC.
+
+18909 NE 29th Avenue
+
+Aventura, FL 33180
+
+Telephone: +1 310 777 0255
+
+Email: privacy@grantcardone.com
+
+If you are a resident of California, California law permits you to request certain information regarding the disclosure of your personal data by GRANT CARDONE, or its affiliates and subsidiaries, to a third-party for direct marketing purposes. To make such a request, please email us at privacy@grantcardone.com or write us at the address listed above.
+
+We respect children’s privacy in particular. We do not target knowingly or intentionally collect personally identifiable information from children under the age of 13. By using the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under 13, you may not use the Site. If you become aware that your child has provided us with personal information without your consent, you are urged to email us at privacy@grantcardone.com.
+
+If you would like to contact us for any reason regarding our privacy practices, please e-mail us at the following address: privacy@grantcardone.com. We may change this privacy policy at any time. If we make material changes to this privacy policy, we will prominently post that the policy has changed.
