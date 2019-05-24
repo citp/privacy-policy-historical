@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westernmirror.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122152724id_/http%3A//westernmirror.com/%3Fpage_id%3D1675) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernmirror.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524123508id_/http%3A//westernmirror.com/%3Fpage_id%3D1675) for the most accurate reproduction.*
 
 # Privacy Policy | Western Mirror
 
