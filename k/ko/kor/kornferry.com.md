@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kornferry.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229174223id_/https%3A//www.kornferry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kornferry.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524231116id_/http%3A//www.kornferry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ YOUR PRIVACY
 
 **Last Updated: 21 May 2018**
 
-Korn Ferry takes the privacy and security of your information seriously. This Policy describes how Korn/Ferry International and its affiliates and subsidiaries (collectively “Korn Ferry”, “we” or “us”) collect, use, transfer, and disclose your information. A list of our affiliates and subsidiaries is available from our Privacy Office as described below, or at **_<https://cdn.kornferry.com/privacy/subsidiariesalliances.pdf>_**
+Korn Ferry takes the privacy and security of your information seriously. This Policy describes how Korn Ferry and its affiliates and subsidiaries (collectively “Korn Ferry”, “we” or “us”) collect, use, transfer, and disclose your information. A list of our affiliates and subsidiaries is available from our Privacy Office as described below, or at **_<https://cdn.kornferry.com/privacy/subsidiariesalliances.pdf>_**
 
 This Policy covers information Korn Ferry collects in connection with our Recruitment Services, Consulting Services, and Products (collectively, the “Services”). This Policy also covers information collected through:
 
@@ -76,9 +76,9 @@ Top of page ↑
   
 **QUESTIONS**
 
-Korn/Ferry International is responsible for collection, use, and disclosure of your Personal Information under this Policy. 
+Korn Ferry is responsible for collection, use, and disclosure of your Personal Information under this Policy. 
 
-Questions regarding this Policy should be directed to Korn Ferry at privacy@kornferry.com or, if by postal mail, at Korn/Ferry International, 1900 Avenue of the Stars, Suite 2600, Los Angeles, CA 90067, Attn: Privacy Office. 
+Questions regarding this Policy should be directed to Korn Ferry at privacy@kornferry.com or, if by postal mail, at Korn Ferry, 1900 Avenue of the Stars, Suite 2600, Los Angeles, CA 90067, Attn: Privacy Office. 
 
 Top of page ↑ 
 
