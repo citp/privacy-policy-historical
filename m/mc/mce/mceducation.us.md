@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mceducation.us privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123024200id_/http%3A//www.mceducation.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mceducation.us privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525000352id_/http%3A//www.mceducation.us/privacy-policy) for the most accurate reproduction.*
 
 # Marshall Cavendish Education Privacy Policy - Marshall Cavendish Education
 
@@ -62,5 +62,3 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties (i.e. parties not related to Marshall Cavendish Education) unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly update any information found to be incorrect. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-[](https://www.pinterest.com/pin/create/button/)
