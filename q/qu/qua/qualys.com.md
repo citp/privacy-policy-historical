@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908011551id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180726id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Qualys Privacy Statement
 
@@ -39,20 +39,6 @@ We will share your personal information with third parties only in the ways that
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We may also disclose your personal information if Qualys, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets. 
 
-### Qualys Supported Blogs and Forums
-
-If you use a blog, forum, or other chat tool on a Qualys Website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Qualys is not responsible for the personal information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the applicable Terms of Use or other terms and conditions set forth on the relevant forum site. To request removal of your personal information from our blog or community forum, please contact Qualys as described below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Testimonials
-
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact Qualys as described below.
-
-### Surveys
-
-From time-to-time we may request information via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for improving our customer service and service offerings. The feedback and data we collect from these surveys are aggregated and we do not single out individual responses, unless the respondent chooses to be identified.
-
-The Sites include social media features. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are hosted either by a third party or directly on The Sites. Your interactions with these features are governed by the privacy statement of the company providing it.
-
 ### Public Profiles
 
 The profile you create on a Qualys Website will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
@@ -65,7 +51,7 @@ If you would like to change your preferences online, please visit <https://www.q
 
 ### Access or Update Personal Information
 
-If your personal information changes, then please contact us at [privacy@qualys.com](mailto:privacy@qualys.com).
+If your personal information changes, or you wish to request deletion then please contact us at [privacy@qualys.com](mailto:privacy@qualys.com). We will respond to your request within a reasonable timeframe. 
 
 ### Our Security Procedures
 
@@ -115,7 +101,7 @@ With respect to marketing emails, EEA and Swiss Persons may opt-out of receiving
 
 ### Access and Review
 
-EEA and Swiss Persons whose EEA and Swiss Data Qualys holds may request access to, and the opportunity to update, correct or delete some or all of the EEA and Swiss Data that Qualys holds about them. To submit such requests or raise any other questions, please contact Qualys as described below. Qualys reserves the right to take appropriate steps to authenticate an applicant’s identity, charge an adequate fee before providing access and deny requests, except as required by the Privacy Shield Framework.
+EEA and Swiss Persons whose EEA and Swiss Data Qualys holds may request access to, and the opportunity to update, correct or delete some or all of the EEA and Swiss Data that Qualys holds about them. To submit such requests or raise any other questions, please contact Qualys as described below. Qualys reserves the right to take appropriate steps to authenticate an applicant’s identity, charge an adequate fee before providing access and deny requests, except as required by the Privacy Shield Framework. We will respond to any request received within a reasonable timeframe. 
 
 Qualys complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Qualys has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/ "PrivacyShield").
 
