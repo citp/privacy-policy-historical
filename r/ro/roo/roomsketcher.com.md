@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020211836id_/http%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomsketcher.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524060814id_/https%3A//www.roomsketcher.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for RoomSketcher | RoomSketcher
 
-Revised as per April 28 2016
+Revised as per October 22 2017
 
 Welcome to the RoomSketcher app or web site, an app or web site operated by RoomSketcher AS (“us,” “we,” or “RoomSketcher”). This privacy policy (the ‘Privacy Policy’) explains you of our policies with respect to information collected from any services and content, including the web site, provided by RoomSketcher (the “RoomSketcher Services”).
 
 Your use of the RoomSketcher Services constitutes your acceptance of this Privacy Policy and your consent to the practices it describe.
 
-We reserve the right, at our sole discretion, to change, modify, add, or delete whole or portions of this Privacy Policy at any time without further notice. If we do this, we will post the changes to this Privacy Policy on RoomSketcher’s web site and the date of last revision will be indicated at the top of the Privacy Policy. It is your responsibility to regularly check the web site to determine if there have been changes to these Terms of Use and to review such changes.
+We reserve the right, at our sole discretion, to change, modify, add, or delete whole or portions of this Privacy Policy at any time without further notice. If we do this, we will post the changes to this Privacy Policy on RoomSketcher’s web site and the date of last revision will be indicated at the top of the Privacy Policy. It is your responsibility to regularly check the web site to determine if there have been changes to the Privacy Policy and to review such changes.
 
 The complete terms and conditions for your use of the RoomSketcher Services (the “Terms of Use”) are posted on RoomSketcher’s web site.
 
@@ -57,7 +57,7 @@ RoomSketcher use third-party advertising companies to serve ads when you visit a
 
 ### DISCLOSURE OF INFORMATION
 
-RoomSketcher does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. We may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. We may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as RoomSketcher’s business develops, RoomSketcher may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If RoomSketcher, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
+RoomSketcher does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. We may use unaffiliated companies to help us maintain and operate our website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. We may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as RoomSketcher’s business develops, RoomSketcher may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If RoomSketcher, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
 
 ### CHILDREN’S PRIVACY
 
@@ -71,9 +71,9 @@ A “cookie” is a small piece of data that can be sent by a web server to your
 
 The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by the RoomSketcher Services. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. We are not responsible for any such cookies.
 
-Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the RoomSketcher Services.
+Most web browser applications (such as Microsoft Edge and Google Chrome) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of the RoomSketcher Services.
 
-[Click this link for more information.](http://www.roomsketcher.com/cookies/)
+[Click this link for more information.](https://www.roomsketcher.com/cookies/)
 
 ### EXTERNAL LINKS
 
