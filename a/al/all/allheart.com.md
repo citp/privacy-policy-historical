@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819185643id_/https%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524070302id_/https%3A//www.allheart.com/privacy/a/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | allheart.com
 
@@ -13,7 +13,12 @@ allheart.com, allheartchefs.com and MyNursingUniforms.com are all properties of 
 
 
 
-**Information we receive from other sources. We may receive information from you if you use any of the websites we operate or access the other services we provide (see below). We also work with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers) to fulfill your orders and may receive information about you from them.**
+**Information we receive from other sources.**
+
+  * We may receive information from you if you use any of the websites we operate or access the other services we provide (see below). We also work with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers) to fulfill your orders and may receive information about you from them.
+  * These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [ Network Advertising Choices](http://www.networkadvertising.org/choices/).
+
+
 
 ## How does allheart use my information?
 
