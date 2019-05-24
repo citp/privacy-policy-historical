@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blenderguru.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707035225id_/https%3A//www.blenderguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blenderguru.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524094139id_/https%3A//www.blenderguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Blender Guru
 
