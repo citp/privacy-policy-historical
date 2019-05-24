@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226132916id_/https%3A//promotelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landingpagemonkey.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525000107id_/https%3A//promotelabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal – Privacy Policy – PromoteLabs
 
 **Privacy Notice**
 
  **  
-Effective Date:** May 12th 2018 **  Notice Version:** 1.0 **  
+Effective Date:** **** April 13th 2019 **Notice Version:** 2.0 **  
 **
 
  **Data Controller Contact Information  
 ** Promote Labs Inc  
 2248 Meridian Boulevard Suite H.   
-Minden, NV 89423 **** **This document governs the privacy notice of our websites.**
+Minden, NV 89423 ****
+
+ **This document governs the privacy notice of our websites.**
 
 Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
 
@@ -50,11 +52,33 @@ You have the right to object to us processing your personal data for the followi
 **Filing a complaint with authorities**  
 You have the right to file a complaint with supervisory authorities if your information has not been processed in compliance with the General Data Protection Regulation. If the supervisory authorities fail to address your complaint properly, you may have the right to a judicial remedy.
 
-For details about your rights under the law, visit 
+ **Your California  Privacy Rights**
 
-[https://goo.gl/F41vAV](https://goo.gl/F41vAV)
+As a Californian consumer you have certain rights under the California Consumer Privacy Act (CaCPA) AB 375, some of these rights are:  
 
-**Definitions**  
+
+  * the right of Californians to know what personal information is being collected about them
+  * the right of Californians to know whether their personal information is sold or disclosed and to whom
+  * the right of Californians to say no to the sale of their personal information
+  * the right of Californians to access their personal information
+  * the right of Californians of the deletion of their personal information
+  * the right of Californians of equal service, price, and not being discriminated against even if they exercise their privacy rights
+  * one or more designated means for Californian consumers to submit requests under the CACPA including (at minimum) a toll-free number, and if the business maintains an Internet website, a website address.
+
+
+
+ **Personal information includes:**
+
+  * categories of personal information that a business collected about the consumer
+  * categories of sources from which the personal information was collected
+  * specific pieces of personal information that the business has collected about consumers
+  * categories of third parties with whom the business shares personal information
+  * the business or commercial purpose of collecting or selling personal information
+
+
+
+  
+ **Definitions**  
 ‘Non-personal data’ (NPD) is information that is in no way personally identifiable.   
 ‘Personal data’ (PD) means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. PD is in many ways the same as Personally Identifiable Information (PII). However, PD is broader in scope and covers more data.
 
@@ -62,7 +86,7 @@ A “visitor” is someone who merely browses our website. A “member” is som
 
  **Topics Covered in Our Privacy notice**
 
-  *  **​** Information We Collect
+  * Information We Collect
   * Our Use of Cookies
   * How Your Information Is Used
   * Retaining and Destroying Your PD 
@@ -84,7 +108,7 @@ A “visitor” is someone who merely browses our website. A “member” is som
 Generally, you control the amount and type of information that you provide to us when using our website.   
 
 
-Our Legal Basis for Collecting and Processing Personal Data  
+**Our Legal Basis for Collecting and Processing Personal Data**  
 
 
 Our legal basis for collecting and processing your PD when you buy our products or services is based on and the necessity for the performance of a contract or to take steps to enter into a contract. Our legal basis for collecting and processing your PD when you sign up for our newsletter and information about our products and services through our website opt-in forms is based on consent.
@@ -152,9 +176,11 @@ Most web browsers can be set to disable the use of cookies. However, if you disa
 We may also use a technology called web beacons to collect general information about your use of our website and your use of special promotions or newsletters. The information we collect by web beacons allows us to statistically monitor the number of people who open our emails. Web beacons also help us to understand the behavior of our customers, members, and visitors. 
 
 **Google Analytics Privacy Notice**  
-Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with PD. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website. For more information on how Google collects and processes your data, visit 
+Our website uses Google Analytics to collect information about the use of our website. Google Analytics collects information from users such as age, gender, interests, demographics, how often they visit our website, what pages they visit, and what other websites they have used before coming to our website. We use the information we get from Google Analytics to analyze traffic, remarket our products and services to users, improve our marketing, advertising, and to improve our website. We have enabled Google Analytics advertising features such as remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. Google Analytics collects only the IP address assigned to you on the date you visit our website, not your name or other identifying information. We do not combine the information collected using Google Analytics with PD. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our website, the cookie cannot be used by anyone but Google. Google also uses specific identifiers to help collect information about the use of our website and that such data may be accessed and/or deleted by end users via 
 
-[https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
+[My Activity](https://myactivity.google.com/myactivity). 
+
+For more information on how Google collects and processes your data, visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 
 You can prevent Google Analytics from using your information by opting out at this link:
 
@@ -194,10 +220,11 @@ When we communicate with you about our website, we will use the email address yo
 
 You can change your contact preferences at any time through your account or by sending us an email with your request to: Privacy@promotelabs.com
 
- **Sharing Information With Affiliates and Other Third Parties**  
+ **Sharing Information With Third Parties**  
 We do not sell or rent your PD to third parties for marketing purposes. However, for data aggregation purposes we may use your NPD, which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PD. We may provide your PD to third-party service providers we hire to provide services to us. These third-party service providers may include but are not limited to: payment processors, web analytics companies, advertising networks, call centers, data management services, help desk providers, accountants, law firms, auditors, shopping cart and email service providers, and shipping companies.
 
-We may share your information with third parties by using an Application Program Interface “API” or other similar software. Such third parties may include companies who process information on our behalf (processors). This sharing of information helps us provide you with our services and a better experience.
+ **Sharing Information With Business Partners**  
+We may share your PD with our business partners. The business partners include general business partners, affiliates, and joint venture partners. Typically the sharing of PD is done by using an Application Program Interface “API” or other similar software.  We share this information with them so that you can use their products and services. When you choose to take part in our services and/or offerings, you are authorizing us to provide your email address and other PD to our business partners so you can use their services. Please understand that when we share your PD with our business partners, your PD becomes subject to our business partners’ as well as our privacy notice.
 
  **Sharing Information With Facebook and Google for Marketing Purposes**  
 We may share your PD with third parties for similar audience marketing purposes. Similar audience marketing is also called lookalike audience marketing. The third parties we share your PD with for this type of marketing include Facebook and/or Google. Using your PD, for similar audience marketing or lookalike audience marketing helps us find new audiences (users and customers) based on similar interests to yours, this helps us improve our marketing services. Your PD is only shared with Facebook and Google for this type of marketing. By using our website and agreeing to our privacy notice, you are giving your consent for your PD to be used for the marketing purposes described within this section.
@@ -247,9 +274,11 @@ You may have to provide a credit card to buy products and services from our webs
 **Transferring PD From the European Union**  
 (PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, specifically the United States. The European Union has not found the United States and some other countries to have an adequate level of protection of PD under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your PD may be transferred outside the European Union to the United States and or other countries. We will use your PD to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your PD, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your PD described within this section.
 
+  
+​
+
  **Changes to Our Privacy notice**  
 We reserve the right to change this privacy notice at any time. If our company decides to change this privacy notice, we will post those changes on our website so that our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your PD in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email address on file in your account). Otherwise we will use and disclose our users’ and customers’ PD in agreement with the privacy notice in effect when the information was collected. In all cases, your continued use of our website, services, and products after any change to this privacy notice will constitute your acceptance of such change.
 
  **Questions About Our Privacy notice**  
-If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice. **  
-**
+If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice. ****
