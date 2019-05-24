@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115101225id_/http%3A//admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionhelp.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524170753id_/http%3A//www.admissionhelp.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Admissionhelp.com-Powered by Cyberica Net Technologies Pvt. Ltd.
+# Admissionhelp.com - Online Admission Help to Apply online for Colleges and Universities in India and Worldwide
+
+MENU
+
+## Privacy Policy
 
 The Privacy Policy provided below is with respect to our use and protection of any personal information you provide to us through the www.admissionhelp.com website. Firefly e-Ventures Limited (hereinafter referred to as CNTPL) is the sole owner of the website www.admissionhelp.com . The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
 
