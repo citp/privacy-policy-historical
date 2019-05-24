@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826113839id_/https%3A//www.yell.com/legal/data-protection-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yell.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524105850id_/https%3A//www.yell.com/legal/data-protection-privacy-policy) for the most accurate reproduction.*
 
 # Yell Privacy Policy | Yell.com
 
@@ -50,7 +50,7 @@ We collect the following personal data from you:
 
 We also obtain information about you from other sources:
 
-  * **Cookies and similar technologies:** We track your use of our website through cookies and other similar technologies so that we can provide important features and functionality on our website, monitor its usage, and provide you with a more personalised experienced. Please see our [**Cookie Policy**](https://www.yell.com/legal/cookie-policy/) to find out more.
+  * **Cookies and similar technologies:** We track your use of our website through cookies and other similar technologies so that we can provide important features and functionality on our website, monitor its usage, and provide you with a more personalised experience. Our website uses pixels from Facebook to tailor the advertising you see on Facebook to relevant products, services, businesses or causes you may be interested in based on your searches on Yell.com. Please see our [**Cookie Policy**](https://www.yell.com/legal/cookie-policy/) to find out more.
   * **Third parties:** We obtain personal data about you from third parties where you have given that third party consent to share such information with us. Details of these third parties, the type of personal data we obtain from them and why, are set out in the table below.
 
 **Type of data** | **Source** | **Nature of source (public / private)** | **Location of source** | **Why we need this information**  
