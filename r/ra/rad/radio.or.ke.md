@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radio.or.ke privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018001131id_/http%3A//www.radio.or.ke/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radio.or.ke privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524225408id_/https%3A//radio.or.ke/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Radio.or.ke
 
