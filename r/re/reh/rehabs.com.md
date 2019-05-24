@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005231311id_/https%3A//www.rehabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehabs.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524150857id_/https%3A//www.rehabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rehabs and Drug Rehab Options
+# Privacy Policy - Drug Rehab Options
 
 This is a web site of Recovery Brands LLC.
 
@@ -111,10 +111,12 @@ Our helpline is offered at no cost to you and with no obligation to enter into t
 
 For more information on AAC’s commitment to ethical marketing and treatment practices, or to learn more about how to select a treatment provider, visit our [About AAC](https://web.archive.org/about) page.
 
-If you wish to explore additional treatment options or connect with a specific rehab center, you can browse [top-rated listings](https://web.archive.org/top-rated-treatment-centers/), visit our [homepage](https://web.archive.org/) and browse by state, or visit [SAMHSA](http://www.samhsa.gov/treatment/index.aspx).
+If you wish to explore additional treatment options or connect with a specific rehab center, you can visit our [homepage](https://web.archive.org/#find-treatment-by-state) and browse by state, or visit [SAMHSA](http://www.samhsa.gov/treatment/index.aspx).
 
 ##  This Facility is Rehabs.com Verified. 
 
 They are confirmed to be accredited, credentialed, and certified to provide the levels of care they claim to offer. Facilities cannot pay to be Rehabs.com Verified. 
 
 More info at [rehabs.com/faq/](https://web.archive.org/faq/)
+
+Rehabs.com collects “Web Ratings” from dozens of popular sites around the web to help our users get a sense of a provider’s reputation and customer satisfaction. Our “Overall Rehabs.com Rating” and specific ratings on criteria such as Treatment Effectiveness, Meals and Nutrition, and others found on provider listing pages are collected from surveys taken directly by our visitors. 
