@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122171125id_/https%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheckys.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524134226id_/https%3A//www.sheckys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sheckys.com
 
@@ -32,7 +32,7 @@ We [may] use [both] [“session” cookies] [and “persistent” cookies] on th
 
 [Session cookies will be deleted from your computer when you close your browser.] [Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.]
 
-[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html.]
+[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: //www.google.com/privacypolicy.html.]
 
 [Our [advertisers/payment services providers] may also send you cookies.]
 
