@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venum.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412145744id_/https%3A//www.venum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venum.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524091350id_/https%3A//www.venum.com/privacy-policy) for the most accurate reproduction.*
 
-# B2C Privacy policy - Venum official store
+# PRIVACY POLICY | Venum.com US
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy sets out the ways your personal data will be processed by us.
 
@@ -10,15 +10,17 @@ This policy covers how Venum Fight treats personal information that Venum Fight 
 
 **The customer information we collect**
 
-We collect the following data:
+We collect the following data (we use Magento, Google Analytics, Criteo, Facebook & Zendesk):
 
-\- Information that you provide by filling in forms on our site. This includes information provided at the time of opening an account, subscribing to our Newsletters, ordering products or when requesting further services or information from us.
+  * Information that you provide by filling in forms on our site. This includes information provided at the time of opening an account, subscribing to our Newsletters, ordering products or when requesting further services or information from us.
+  * Information about your computer including where available: your IP address, operating system and browser type.
+  * Information about your Internet usage obtained using a cookie file which is stored on the hard drive of your computer. You can refuse to accept cookies by activating the setting on your browser which allows you to refuse the sending of cookies.
 
-\- Information about your computer including where available: your IP address, operating system and browser type.
 
-\- Information about your Internet usage obtained using a cookie file which is stored on the hard drive of your computer. You can refuse to accept cookies by activating the setting on your browser which allows you to refuse the sending of cookies.
 
 We do not receive any of your credit card or financial details from payments handled on our behalf by the payment provider Ogone.
+
+If you don't allow us to collect your personal information, we may not be able to deliver certain services to you, and some of them may not be able to take account of your interests and preferences. If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please  **[contact us](https://euro.venum.com/en/contact/)**.
 
 **The way we use customer information**
 
