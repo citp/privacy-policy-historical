@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmbnet.in privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415043427id_/https%3A//tmbnet.in/privacyy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmbnet.in privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524035222id_/https%3A//www.tmbnet.in/privacyy.htm) for the most accurate reproduction.*
 
 # TMB eBanking - Privacy Policy
 
