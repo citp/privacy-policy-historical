@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226022734id_/http%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitz.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524161900id_/https%3A//www.adhitz.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # AdHitz.com - Advertising for all budgets. Website owners make money
 
-[Home](http://www.adhitz.com/) › **Privacy Policy**[](http://www.adhitz.com/en/Privacy_Policy "Reload Page")
+[Home](https://www.adhitz.com/) › **Privacy Policy**[](https://www.adhitz.com/en/Privacy_Policy "Reload Page")
 
 **Fino Investment LLC ("us", "we", or "our") operates the website (the "Service").**
 
@@ -12,7 +12,7 @@
 
 **This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.**
 
-**We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from[here](http://www.adhitz.com/en/User_Agreement)**
+**We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from[here](https://www.adhitz.com/en/User_Agreement)**
 
 Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -31,7 +31,7 @@ The User is the individual using our Service. The User corresponds to the Data S
 Consent of the data subject is any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
 **Full name of legal entity:** Fino Investment LLC  
-**Email address:** [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)  
+**Email address:** [[email protected]](https://www.adhitz.com/cdn-cgi/l/email-protection)  
 **Postal address:** 7890 Ashbrook Drive, Haslett, Mi. 48840
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
@@ -135,7 +135,7 @@ In certain circumstances, you have rights under data protection laws in relation
 
 **Withdraw consent** at any time where we are relying on consent to process your personal data. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-To exercise your rights as detailed above, please contact us at [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)
+To exercise your rights as detailed above, please contact us at [[email protected]](https://www.adhitz.com/cdn-cgi/l/email-protection)
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
 
@@ -167,4 +167,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-**By email** : [[email protected]](http://www.adhitz.com/cdn-cgi/l/email-protection)itz.com
+**By email** : [[email protected]](https://www.adhitz.com/cdn-cgi/l/email-protection)
