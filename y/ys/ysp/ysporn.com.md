@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ysporn.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521051107id_/http%3A//www.ysporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysporn.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524094836id_/https%3A//www.ysporn.com/static/privacy) for the most accurate reproduction.*
 
-# WorldStar XXX | WorldStar Porn | Free Black Amateur Girls Having Sex
+# Amateur Black Porn and Ebony BigBooty Videos - YSPorn
 
 **PRIVACY POLICY**
 
