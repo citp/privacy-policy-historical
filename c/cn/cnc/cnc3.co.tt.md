@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122171148id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524064435id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CNC3
 
@@ -223,7 +223,7 @@ Chaguanas,
 
 Trinidad & Tobago
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ce8e5ebe5f8ede0ccebf9edfee8e5ede2a2efe3a2f8f8)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#680c010f011c0904280f1d091a0c010906460b07461c1c)
 
 868-225-4465
 
