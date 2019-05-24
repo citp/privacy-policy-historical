@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718003106id_/http%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524104004id_/https%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ComputerHowtoGuide.com
 
-The privacy of our visitors to [ComputerHowToGuide.com](http://www.computerhowtoguide.com/) is important to us.
+The privacy of our visitors to [ComputerHowToGuide.com](https://www.computerhowtoguide.com/) is important to us.
 
 At ComputerHowToGuide.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit ComputerHowToGuide.com, and how we safeguard your information. We never sell your personal information to third parties.
 
