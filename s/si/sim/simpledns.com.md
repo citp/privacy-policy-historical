@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120163806id_/https%3A//jhsoftware.dk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524092630id_/https%3A//jhsoftware.dk/privacy-statement) for the most accurate reproduction.*
 
 # JH Software - Privacy Statement
 
