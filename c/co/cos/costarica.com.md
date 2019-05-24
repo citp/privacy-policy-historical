@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906222644id_/https%3A//www.costarica.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costarica.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524033006id_/https%3A//www.costarica.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
