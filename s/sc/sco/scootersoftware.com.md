@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119164606id_/http%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootersoftware.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524133819id_/https%3A//www.scootersoftware.com/index.php%3Fzz%3Dkb_privacy) for the most accurate reproduction.*
 
 # Scooter Software: Home of Beyond Compare
 
@@ -29,3 +29,7 @@ Scooter Software does not sell, trade, or rent your personal information to othe
 ## Your Consent
 
 By using our website, you consent to the collection and use of this information by Scooter Software.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  Regardless of any changes we make to our privacy policy, we will always use your personal information in accordance with the version of the policy in place at the time you provided your information, unless you give your express consent for us to do otherwise. 
+
+## GENERAL DATA PROTECTION REGULATION - GDPR
+
+Scooter Software's collection and handling of Personal Identifiable Information (PII) is compliant with the EU General Data Protection Regulation (GDPR).  To exercise your GDPR rights to request your PII or request your PII is erased, please [contact us](https://web.archive.org/web/20190524133819id_/https%3A//www.scootersoftware.com/index.php?zz=contact). 
