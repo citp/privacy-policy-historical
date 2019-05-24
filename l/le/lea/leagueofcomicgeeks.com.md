@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueofcomicgeeks.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127000427id_/http%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofcomicgeeks.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524032802id_/https%3A//leagueofcomicgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # League of Comic Geeks Privacy Policy
 
