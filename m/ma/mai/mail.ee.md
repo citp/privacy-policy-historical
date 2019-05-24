@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail.ee privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123163708id_/https%3A//help.mail.ee/%3Fkeyword%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.ee privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525005400id_/https%3A//help.mail.ee/%3Fkeyword%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Mail.ee Help
 
