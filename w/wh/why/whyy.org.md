@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318050125id_/https%3A//whyy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whyy.org privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524222705id_/https%3A//whyy.org/privacy) for the most accurate reproduction.*
 
 # Privacy - WHYY
 
@@ -121,6 +121,6 @@ WHYY will keep a complete and accurate record of all uses of the WHYY Membership
 
 WHYY will take appropriate measures to ensure against unauthorized use of Membership and donor lists, including requiring any third party, including but not limited to, list brokers, mail-list management organizations, Friends organizations, fundraising organizations, or advertising or public relations agencies, to abide by WHYY’s compliance requirements.
 
-This policy will be reviewed by the Director of Member Communications on an annual basis.
+The Membership List Policy will be reviewed by the Director of Member Communications on an annual basis.
 
-Rev. 01/17
+Rev. 04/18
