@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motionworship.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120113522id_/http%3A//www.motionworship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionworship.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524104648id_/http%3A//www.motionworship.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motion Worship – Video Loops, Countdowns, & Moving Backgrounds for the Christian Church
 
