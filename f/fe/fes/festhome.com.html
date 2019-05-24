@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the festhome.com privacy policy that was archived on 2018-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181201042239id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the festhome.com privacy policy that was archived on 2019-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190525013152id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Title" content="Festhome Films &amp; Film Festivals Platform">
@@ -27,19 +27,21 @@
 	outline: none;
 	outline:#f15122 solid 0px;
 }
+.input_pay_class input[type=radio]:checked+label{border-color: #22c2f1;}
+.input_pay_class label > img {height: 44px;}
 </style>
 	
 <script>
-function analytics_script(){
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	
-	ga('create', 'UA-28992614-1', 'festhome.com');
-	ga('send', 'pageview');
+function analytics_script(){  
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-28992614-1', 'auto');
+  ga('send', 'pageview');
 }
 </script>
+
 
 <!-- Google Sign In -->
 <meta name="google-signin-scope" content="profile email"><meta name="google-signin-client_id" content="790093190230-a01d1bj6l6eknacsuvk26i9aeor7lb7j.apps.googleusercontent.com">
@@ -96,18 +98,27 @@ function analytics_script(){
 
 <script>
 function uservoice_script(){
+	
 	// Include the UserVoice JavaScript SDK (only needed once on a page)
 	UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/tb9T1temMc2SuUSs42nIA.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
 	// Set colors
-	UserVoice.push(['set', {
+			UserVoice.push(['set', {
 	  accent_color: '#f15122',
 	  trigger_color: 'white',
 	  trigger_background_color: '#f15122',
 	  left: '5px',
 	  height: '400px',
+	  menu_enabled: false,
+	  post_suggestion_enabled: false,
+	  smartvote_enabled: false,
+	  permalinks_enabled: false,
+	  ticket_custom_fields: {
+	    	    'type': 'FESTHOME'
+	  },
 	  	  strings: {
 	  	contact_title: 'Send a message or call us',
-	  	contact_message_placeholder: 'Give feedback or ask for help' + "\n" + "\n" + 'ES:+34 683 158 619' + "\n" + 'US:+1 (516) 858 4285' + "\n" + 'UK:+44(0)20 3286 4140﻿' + "\n" + '(13:00-19:00GMT) - PHONE SUPPORT LIMITED IN AUGUST',
+	  	contact_message_placeholder: '' + 'FESTHOME Support:' + '\n' + 'E-mail: Message us here' + '\n' + 'Phone ES: +34 683 158 619' + '\n' + 'Phone US: +1 (516) 858 4285' + '\n' + 'Phone UK: +44(0)20 3286 4140﻿' + '\n' + '(Phone 12:00 to 18:00GMT - Now: 01:31)' + '\n' + '\n' + 'Note: Messages sent here are not sent to festival contacts, only Festhome Support.',
+	  	//contact_message_placeholder: 'Give feedback or ask for help!' + '\n' + '\n' + 'Support limited from 4th to 10th February due to our assistance to the Clermont-Ferrand and Berlin Film Markets',
 	  	contact_skip_instant_answers_button: 'Skip and send message',
 	  	contact_success_title: 'Message sent!',
 	  	contact_success_body: 'We will get back to you soon!',
@@ -122,6 +133,7 @@ function uservoice_script(){
 <script type="text/javascript">    
     window.display_menu = 0;
     function DisplayMenu(){
+    	$('#nav-icon1, #nav-icon2').toggleClass('open');
 		if(window.display_menu == 0){
 			$('.toggle-menu label').fadeOut( 300 );
 			$('.main-nav').animate({'left': '0'}, 500, 'easeInOutCubic');
@@ -146,7 +158,7 @@ function uservoice_script(){
 </head>
 <body>
 	<!--
-	    <p style="height:12px;background:#f15122;font-size:9px;text-align:center;font-weight:bold;margin: 0px;">Maintenance: We are updating our services  and the service may be interrupted temporarily at certain times.</p>
+	    <p style="height:14px;background:#f15122;font-size:12px;text-align:center;font-weight:bold;margin: 0px;">Maintenace: Some services may not be accessible temporarily at certain periods.</p>
     	-->
 	<noscript>
     	<p class="festhome-bg-color padding-half text-center">Your browser has JavaScript disabled. This website requires JavaScript to function properly. Please turn on JavaScript or get in touch with support@festhome.com</p>
@@ -183,7 +195,7 @@ function uservoice_script(){
 <div class="menu row col-12">
     
 	<div class="toggle-menu left col-1" onclick="DisplayMenu();" style="max-width: 16.6%;">
-        <label>☰<span class="mobile_hide" style="font-size: 0.5em; vertical-align: middle; text-transform: uppercase;">&nbsp;Menu</span></label>
+        <label><span id="nav-icon1"><span></span><span></span><span></span></span><span class="mobile_hide" style="font-size: 0.5em; vertical-align: middle; text-transform: uppercase;">&nbsp;Menu</span></label>
 	</div>
 	
 	<div class="mobile_hide col-4"></div>
@@ -215,12 +227,12 @@ function uservoice_script(){
 		    	    		        </header>
     <div id="preWrap">
 	
-					<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/jquery.fancybox3.min.css" defer="defer">						<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/chosen.css" defer="defer">												<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/fa/fontawesome-all.min.css" defer="defer">						<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/jquery-ui.min.css" defer="defer">			<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/fh_css_v5.2.6.min.css" defer="defer">					
+					<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/jquery.fancybox3.min.css" defer="defer">						<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/chosen.css" defer="defer">												<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/fap-5.8.1/css/all.min.css" defer="defer">						<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/jquery-ui.min.css" defer="defer">			<link rel="stylesheet" type="text/css" href="https://festhomedocs.com/css/fh_css_v5.3.8.min.css" defer="defer">					
 	    
 <div id="main-nav" class="main-nav row col-1" style="">
 	
 	<div class="navbar_item col-1" onclick="DisplayMenu();" style="text-align: center;">
-		<i style="cursor: pointer; float: none; font-weight: 100; font-size: 0.4em;" class="fa fa-times"></i>
+		<span id="nav-icon2"><span></span><span></span><span></span></span> <!--<i style="cursor: pointer; float: none; font-weight: 100; font-size: 0.4em;" class="fa fa-times"></i>-->
 	</div>
 	
 	<div class="navbar_air_separator col-1"></div>
@@ -308,7 +320,7 @@ function uservoice_script(){
 		    <td>We track you through our website in order to have reliable use data to know what services on our website are being used and how to improve them, or to help our support team when you have a problem.</td>
 		  </tr>
 		  <tr style="border: 1px solid #333; ">
-		    <td>We request your consent to do all of this when you create an account, without this account and consent, it is impossible for us to deliver our services. Since we have been GDPR compliant way before it became compulsory, we will not bother you with re-requesting consent.</td>
+		    <td>We request your consent to do all of this when you create an account, without this account and consent, it is impossible for us to deliver our services.</td>
 		  </tr>
 		</tbody></table>
 	  
@@ -447,7 +459,7 @@ function uservoice_script(){
 			<div class="footer_icons">
 				<a href="http://facebook.com/festhome" class="fab fa-facebook-f"></a>				<a href="http://twitter.com/festhome" class="fab fa-twitter"></a>				<a href="https://www.youtube.com/user/Festhome" class="fab fa-youtube"></a>				<a href="https://instagram.com/festhomeplatform" class="fab fa-instagram"></a>				<a href="https://vimeo.com/festhome" class="fab fa-vimeo"></a>			</div>
 			<div class="footer_icons">
-				<p class="text-center">Copyright 2012-2018</p>
+				<p class="text-center">Copyright 2012-2019</p>
 				<p class="text-center">All Rights Reserved</p>
 			</div>
 		</div>
@@ -464,10 +476,12 @@ function uservoice_script(){
 				<a href="/return_policy">Returns Policy</a>			</div>
 		</div>
 		<div class="col-4">
+			<!--
 			<div class="footer_icons">
-				<i class="fab fa-cc-paypal"></i>&nbsp;
+				<i class="fab fa-paypal"></i>&nbsp;
 				<i class="fab fa-stripe"></i>
 			</div>
+			-->
 			<br>
 			<a href="http://fairsubmissions.com" style="content: none;"><img src="https://festhomedocs.com/img/fairs_logo.png" style="max-width: 14%;" alt=""></a>		</div>
 		
@@ -481,10 +495,6 @@ function uservoice_script(){
 	<script>
 	function home_script(){
 	    $(function(){
-		    if(typeof jwplayer !== 'undefined'){
-		    	jwplayer.key="F+aOIVcUf/Q1HEdGKE3frad0wCumGRVVOb4D4Q==";
-		    	//jwplayer.key="DaZrdO7tjs7smuBVJuTF39WYeM4xyA4nXaZrMhtPk6JVaqAh";
-		    }
 		    
 		    window.window_size = $( window ).width();
 		    window.bodysize = $('body').innerWidth();
@@ -511,7 +521,7 @@ function uservoice_script(){
 				    show: false,
 				    //hide: false,
 					position: {
-						my: "center bottom-20",
+						my: "center bottom-25",
 						at: "center top",
 						using: function( position, feedback ) {
 						  $( this ).css( position );
@@ -609,6 +619,6 @@ function uservoice_script(){
 		</script>
 	
 			
-	<script type="text/javascript" src="https://festhomedocs.com/js/jquery.fancybox3.min.js" defer="defer"></script>		<script type="text/javascript" src="https://festhomedocs.com/js/chosen.jquery.min.js" defer="defer"></script>						<script type="text/javascript" src="https://festhomedocs.com/js/datepicker/datepicker-en.js" defer="defer"></script>			
+	<script type="text/javascript" src="https://festhomedocs.com/js/jquery.fancybox3.min.js" defer="defer"></script>		<script type="text/javascript" src="https://festhomedocs.com/js/chosen.jquery.min.js" defer="defer"></script>						<script type="text/javascript" src="https://festhomedocs.com/js/datepicker/datepicker-en.js" defer="defer"></script>				
 	
 </body></html>
