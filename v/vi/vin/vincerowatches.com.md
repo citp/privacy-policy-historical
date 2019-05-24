@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincerowatches.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221222213id_/https%3A//vincerowatches.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincerowatches.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180756id_/https%3A//vincerowatches.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Vincero Watches
 
