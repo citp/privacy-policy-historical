@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookmark4you.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083854id_/http%3A//www.bookmark4you.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmark4you.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524143931id_/http%3A//www.bookmark4you.com/privacy) for the most accurate reproduction.*
 
 # Bookmark4You | Privacy Policy
 
-Remember your favorite pages of the internet. Bookmark and share interesting links for free! | 16,701,265 bookmarks 
+Remember your favorite pages of the internet. Bookmark and share interesting links for free! | 17,515,579 bookmarks 
 
 ## Privacy
 
