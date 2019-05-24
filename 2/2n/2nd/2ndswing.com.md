@@ -1,123 +1,209 @@
-> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223323id_/https%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525015347id_/https%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective January 1, 2013
+Effective May 25, 2018
 
-This privacy statement describes how 2ndswing.com collects and uses the personal information you provide on our web site, [www.2ndswing.com](http://www.2ndswing.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+2nd Swing is operated by GOLF STIX, INC. (hereinafter, “we”, “our” or “us”). We respect your privacy and are committed to protecting your information. The privacy policy below discloses our practices regarding information collection and usage for the website located at [www.2ndswing.com](http://www.2ndswing.com/). 
 
-### Collection and Use of Personal Information
+This privacy policy aims to give you information on how we collect and processed your information through your use of this website, including any data you may provide through this website when you use our Service or contact us using the contact information below.
 
-##### Why we collect information?
+It is important that you read this privacy policy together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing information about you so that you are fully aware of how and why we are using your data.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
+Collection and Use of Personal Information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter personal information. you may, however, visit our site anonymously. We collect the following personal information from you:
+Information we collect
 
-  * Contact information such as name, email addresses, mailing address, and phone number
-  * Billing information such as credit card number and billing address. We do not store or have access to the credit card information you provide
-  * Unique identifiers such as user name, account number, and password
-  * Preferences information such as information provided in the Club Finder program and order history
+We collect information you provide directly to us. For example, we collect information when you use our website; provide product reviews; shop in our stores; call us on the phone; create an online account; sign up to receive our emails;; participate in a sweepstakes, contest, promotion or survey; communicate with us via third-party social media sites; request customer support; or otherwise communicate with us.
 
+The types of information we may collect include your name, email address, zip or postal code, billing address, shipping address, phone number, payment card information (we do not store or have access to the payment card information you provide), product preferences, demographic information and any other information you choose to provide. 
 
+We collect information about your use of our Services, such as the products you purchase or express interest in.
 
-As is true of most web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+Information we collect automatically
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookies enables it to serve ads to your users based on their visit to your sites and other sites on the INTERNET. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+We automatically collect certain information about you when you access or use our Services, including:
 
-##### What do we use your information for?
-
-We use this information to:
-
-  * Fulfill your order and process transactions
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs
-  * Administer your account
-  * Respond to your questions and concerns
-  * Improve our web site and marketing offers
-  * Conduct research and analysis
-  * To personalize your experience - your information helps us to better respond to your individual needs
-  * To improve our website - we continually strive to improve our website offerings based on the information and feedback we receive from you
+  * Log Information: We collect information about your use of our websites, such as the type of browser you use, access times, pages viewed, your IP address and the referring link through which you accessed our websites.
+  * Device Information: We collect information about the device you use to access our online Services, including the hardware model and operating system and version.
+  * Transaction Information: When you purchase or return a product, we collect information about the transaction, such as product details and the date and location of the purchase/return.
+  * Information Collected by Cookies and Similar Tracking Technologies: We may use cookies, web beacons (also known as "tracking pixels") and other tracking technologies to collect information about you when you on our site. We use cookies, web beacons (also known as “tracking pixels”) and similar tracking technologies to collect information about you when you interact with our website or emails, including information about your browsing and purchasing behavior. We may combine this information with other information we collect about you and use it for various purposes, such as improving our websites and your online experience, understanding which areas and features of our sites are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an email has been opened and links within the email have been clicked and for other internal business purposes. For more information about how we use cookies, please see the “Cookie Policy” below.
 
 
 
-##### Unsubscribe
+Information we collect from our partners and other sources
 
-If at any time you would like to unsubscribe from receiving our newsletter or marketing emails, we include detailed unsubscribe instructions at the bottom of each email.
+We may obtain information from other sources and combine that with information we collect directly. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers, and publicly available sources.
 
-### Information Security
+What do we use your information for?
 
-##### How do we protect your information?
+We may use information about you for various purposes, including to:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+  * Provide, maintain and improve our Services, including to facilitate and improve your in-store and online shopping experiences;
+  * Deliver the products and services you request, process transactions and send you related information, including confirmations and receipts;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, and events and provide news and information we think will be of interest to you (for information about how to manage these communications, please visit the Preference Center within your Account page);
+  * Manage your online account(s) and send you technical notices, updates, security alerts and support and administrative messages;
+  * Personalize your online experience and provide advertisements, content or features that match your profile and interests;
+  * Monitor and analyze trends, usage and activities;
+  * Process and deliver contest, promotion and sweepstakes entries and rewards;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect our and others’ rights and properties;
+  * Carry out any other purpose readily apparent to you or described to you at the time the information is collected.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your credit card numbers will not be stored on our servers.
 
-##### Do we use cookies?
-
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the site or service providers systems to recognize your browser and capture and remember certain information.
-
-We use cookies to help us remember and process the items in your shopping cart and compile aggregate data bout site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service (contact information can be found below).
-
-Users may opt out of Google's use of cookies by visiting the [Google Advertising opt-out page](http://www.google.com/policies/privacy/ads/).
-
-##### Do we disclose any information to outside parties?
+Sharing of Information
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
 We may also disclose your personal information:
 
-  * As required by law such as to comply with a subpoena, or similar legal process 
+  * As required by law such as to comply with a subpoena, or similar legal process
   * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
   * If 2nd Swing is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * To any other third party with your prior consent to do so
 
 
 
-##### PayPal/Google Checkout
+PayPal/Google Checkout
 
 If you choose to use PayPal or Google Checkout to finalize and pay for your order, you will provide your credit card number directly to PayPal or Google. The privacy policy for PayPal and Google will apply to the information you provide on their web site.
 
-### Additional Privacy Policy Information
+Cookie Policy
 
-##### Third party links
+Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our websites. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+  * Cookies are small data files stored on your browser or device. They may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”). For example, we partner with third-party analytics providers, like Google, that set cookies when you visit our websites. This helps us understand how you are using our services so that we can improve them.
+  * Pixels are small images on a web page or in an email. Pixels collect information about your browser or device and can set cookies.
+  * Local storage allows data to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
+  *  
 
-Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act).
 
-##### Online Privacy Policy Only
+## How We Use Cookies
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+We use cookies for a number of reasons, like helping us see which features are most popular, counting visitors to a page, improving our users’ experience, keeping our services secure and generally providing you
 
-##### Terms and Conditions
+Category of Cookies
 
-Please visit our Terms and Conditions section establishing the use, disclaimer, and limitations of liability governing the use of our website at <https://www.2ndswing.com/t-terms-and-conditions.aspx>
+| 
 
-##### Your Consent
+Why We Use These Cookies  
+  
+---|---  
+  
+Technical
+
+| 
+
+These cookies are essential for our services to function properly. Like the other cookies we use, technical cookies may be either first-party cookies or third-party cookies.  
+  
+Preferences
+
+| 
+
+We use these cookies to remember your settings and preferences. For example, we may use these cookies to remember your language preferences.  
+  
+Security
+
+| 
+
+We use these cookies to help identify and prevent security risks.  
+  
+Performance
+
+| 
+
+We use these cookies to collect information about how you interact with our services and to help us improve them. For example, we may use these cookies to determine if you have interacted with a certain page.  
+  
+Analytics
+
+| 
+
+We use these cookies to help us understand and improve our services. For example, we can use these cookies to learn more about which features are the most popular with our users and where we may need to make improvements.  
+  
+Advertising
+
+| 
+
+We and our advertising partners use these cookies to deliver advertisements, make the ads more relevant and meaningful to visitors to our website and track the efficiency of our advertising campaigns, both on our services and on other websites.  
+  
+You have a number of options to control or limit how we and our partners use cookies and similar technologies, including for advertising.
+
+  * Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do so, some features of this site might not work as intended.
+  * Although most browsers and devices accept cookies by default, their settings usually allow you to clear or decline cookies.
+  * To prevent your data from being used by Google Analytics, you can install Google’s opt-out browser add-on.
+  * For information on how our advertising partners allow you to opt out of receiving ads based on your web browsing history, please visit http://optout.aboutads.info/. European users may opt out of receiving targeted advertising through the European Interactive Digital Advertising Alliance.
+
+
+
+Unsubscribing and opting out of promotional communications
+
+You can opt out of receiving promotional communications from us at any time by doing the following:
+
+To opt out of promotional emails and text messages: Follow the instructions provided in those communications or contact us at [service@2ndswing.com](mailto:service@2ndswing.com)
+
+Data Rentention
+
+We store the information we collect for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
+
+Data Security
+
+We take reasonable measures to help protect your personal data from loss, theft, misuse, and other unauthorized access, disclosure, alteration, and destruction.
+
+Additional Privacy Policy Information
+
+Children
+
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://www.yelp.com/support/contact/legal_inquiries). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+
+## Customers who are residents of the European Economic Area (“EEA”)
+
+If you are a resident of the European Economic Area (EEA), you have certain rights and protections under the law regarding the processing of your personal data.
+
+Legal Basis for Processing  
+If you are a resident of the EEA, we will only process your personal data:
+
+  * To perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested);
+  * When we have a legitimate interest in processing your personal data (e.g., to communicate with you about changes to our services, to advertise our services, and to provide, secure, and improve our services); or
+  * To comply with our legal or regulatory obligations.
+
+
+
+Data Subject Requests  
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to have certain personal data corrected or erased. You may also have the right to restrict certain processing of your data.  
+To make any of these requests please email hi@smartling.com. We will respond as soon as practicable and no later than one month after receipt of your request. We may request proof of identification to verify your request.  
+We may deny or restrict fulfillment of your request in some cases, such as when your access to data places another individual’s privacy rights at risk, or the continued processing of your data is necessary to comply with a legal obligation. If so, we will notify you of the reason(s) for this denial.
+
+Questions or Complaints  
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+## Customers who are California residents: California privacy rights
+
+California law permits residents of California to request notice of how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like a copy of this notice, please submit a written request to the contact address in “Contact Information” section below.
+
+Terms and Conditions
+
+Please visit our Terms and Conditions section establishing the use, disclaimer, and limitations of liability governing the use of our website at [https://www.2ndswing.com/t-terms-and-conditions.aspx](https://www.2ndswing.com/t-terms-and-conditions.aspx)
+
+Your Consent
 
 By using our site, you consent to our web site Privacy Policy.
 
-##### Changes to our Privacy Policy
+Changes to our Privacy Policy
 
 If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified January 1, 2013.
+This policy was last modified May 25, 2018
 
-##### Contact Information
+Contact Information
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-**2nd Swing**  
+2nd Swing  
 6752 Shady Oak Rd  
-Eden Prairie, MN 55344   
-United States  [service@2ndswing.com  
-(612) 216-4152 ](mailto:service@2ndswing.com)
+Eden Prairie, MN 55344   
+United States
+
+[service@2ndswing.com  
+(612) 216-4152](mailto:service@2ndswing.com)
