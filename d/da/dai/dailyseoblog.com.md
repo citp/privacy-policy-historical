@@ -1,27 +1,70 @@
-> *The following text is extracted and transformed from the dailyseoblog.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304022719id_/http%3A//www.dailyseoblog.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyseoblog.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524095406id_/https%3A//dailyseoblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy | DailySEOblog
 
-This is the web site of **DailySEOblog.com**. 
+**What information do we collect?**
 
-Our postal address is   
-**DD Nest, Cochin  
-Kerala, India 682017**
+We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.
 
-We can be reached via e-mail at [mani@dailyseoblog.com](mailto:mani@dailyseoblog.com)  
-or you can reach us by telephone at 919846644499 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+**What do we use your information for?**
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas.
+Any of the information we collect from you may be used in one of the following ways:
 
-The information we collect is used to notify consumers about updates to our Web site, .
+  * To personalize your experience : (your information helps us to better respond to your individual needs)
+  * To improve our website : (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service : (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To send periodic emails : The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit.
 
-If you do not want to receive e-mail from us in the future, please let us know by or Clicking the unsubscribe link in your introduction email..
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacy.html
+**How do we protect your information?**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Affiliate links**
+
+Articles on this website might include links to third party websites and products which might earn us a commission on successful purchase of products from those websites.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.dailyseoblog.com](https://www.dailyseoblog.com/)
+
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may [contact us](https://dailyseoblog.com/contact/).
+
+### Here’s the Ferrari of WordPress themes!
+
+[](http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=391_5_1_19)
+
+Super fast load time, drag and drop building, 24+ premium features!
+
+[__Check it out!](http://www.elegantthemes.com/affiliates/idevaffiliate.php?id=391_5_1_19)
