@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popapp.in privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923202722id_/https%3A//marvelapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popapp.in privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524111830id_/https%3A//marvelapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Marvel
 
