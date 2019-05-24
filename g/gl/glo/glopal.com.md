@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the glopal.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221160917id_/http%3A//pages.webinterpret.com/rs/658-RPA-926/images/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glopal.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524073824id_/http%3A//pages.webinterpret.com/rs/658-RPA-926/images/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
-Last Updated October 26, 2018
+Last Updated April 04, 2019
                                  WEBINTERPRET Privacy Policy
 This privacy policy (the “Privacy Policy”) sets forth the collection and use practices of
-Webinterpret, a French Société par actions simplifiée, with a share capital of 2,661,854.23 Euros,
+Webinterpret, a French Société par actions simplifiée, with a share capital of 2,183,151.60 Euros,
 registered with the Registry of Trade and Companies under RCS number 501 216 071 Grasse,
 which registered office is located at 1501, route des Dolines - Le Thélème, Sophia Antipolis, 06560
 Valbonne, France (“ Webinterpret”, “ we”, “ us” or “ our”) for personal data that Webinterpret
@@ -89,12 +89,12 @@ We may use data gathered automatically from your computer (i) to help us recogni
 previous visitor to the Site, (ii) with your prior consent, to serve relevant online advertising to you
 or (iii) with your prior consent to analyze trends and statistics to improve your experience of the
 Site. This data is not being used in automatic user profiling in the meaning of the General Data
-Protection Regulation (EU) 2016/679 (GDPR) You can set your browser to reject cookies or to
-notify you when you are sent a cookie. You can also order and download software that will allow
-you to visit the Site without providing the information gathered by cookies. You are welcome to
-use the Site if you use such software, but your experience while visiting the Site may not be
-optimal. When your prior consent is required for the implementation of certain types of cookies, it
-will be specifically collected.
+Protection Regulation (EU) 2016/679 (GDPR).
+You can set your browser to reject cookies or to notify you when you are sent a cookie. You can
+also order and download software that will allow you to visit the Site without providing the
+information gathered by cookies. You are welcome to use the Site if you use such software, but
+your experience while visiting the Site may not be optimal. When your prior consent is required
+for the implementation of certain types of cookies, it will be specifically collected.
 2. Use of Data Collected by Us
 We use the Personal Data described above to:
      - fulfill the agreement between you and Webinterpret;
@@ -134,8 +134,8 @@ European Commission pursuant to article 45 of GDPR (should the service providers
 technical providers be located outside the EEA area). Some of these third parties to whom your
 Personal Data will be shared are located outside of the European Economic Area, in countries
 where data protection laws may not be as extensive as those which apply to us. For the sellers
-with their seats in the People’s Republic of China, their personal may be transferred to our Chinese
-entity (Webinterpret China).
+with their seats in the People’s Republic of China, their Personal Data may be transferred to our
+Chinese entity (Webinterpret China).
 The entities mentioned above that together with us provide the services to you are joint personal
 data controllers (together with us). Our agreement with those entities establishes mutual
 obligations of all the parties to protect your rights and it stipulates as follows:
@@ -217,14 +217,25 @@ We will identify you (the requester) to avoid fraudulent requests and we will an
 delay, in any case not later than within one month. You may also contact our Privacy Officer at
 privacy@webinterpret.com.
 You have also right to lodge complaint to data protection supervisory office in France - CNIL.
-9. Reservation of right to modify the Privacy Policy
+9. Integration
+If you are using third-party providers (i.e. Channel Advisor) in combination with our (Webinterpret)
+solution you may request from time to time that we send some Personal Data being under your
+control to such solution providers. Such data includes but is not limited to Personal Data of your
+buyers received on your behalf from third-party marketplaces, like e-Bay or Amazon.
+Such data will not be stored on our servers, and it is your obligation to establish a proper
+agreement with that third-party provider to ensure an adequate level of Personal Data protection.
+We will process this data in accordance with Article 28 of GDPR (data processing is necessary for
+the proper operation of our service with your third-party solution).
+10. Reservation of right to modify the Privacy Policy
 Webinterpret reserves the right to modify the Site and this Privacy Policy at any time, in particular
 to reflect changes in market conditions affecting Webinterpret activities, changes in technology,
 changes in relevant laws and regulatory requirements and changes in Webinterpret system's
 capabilities. In the event that Webinterpret modifies this Privacy Policy, Webinterpret’s revised
 Privacy Policy shall be effective immediately upon the posting of such revised Privacy Policy on
 the Site. Accordingly, we would recommend that you periodically rereview this Privacy Policy.
-10. Contact Information
+
+
+11. Contact Information
 If you have any questions or concerns about this Privacy Policy, please email us at
-privacy@webinterpret.com or send a letter to: WebInterpret SAS, 1501, route des Dolines - Le
+privacy@webinterpret.com or send a letter to: Webinterpret SAS, 1501, route des Dolines - Le
 Thélème, Sophia Antipolis, 06560 Valbonne.
