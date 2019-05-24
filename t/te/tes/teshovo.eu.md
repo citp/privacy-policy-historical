@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teshovo.eu privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122234440id_/http%3A//www.teshovo.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teshovo.eu privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524102835id_/http%3A//www.teshovo.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
