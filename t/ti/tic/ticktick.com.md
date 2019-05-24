@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818210357id_/https%3A//ticktick.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524091221id_/https%3A//ticktick.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - TickTick
 
