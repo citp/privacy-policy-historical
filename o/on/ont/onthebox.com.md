@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221022904id_/https%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524204941id_/https%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | OnTheBox
 
@@ -131,8 +131,6 @@ Streatham,
 London SW16 2PJ  
 Tel: (020) 7034 1900
 
- _Privacy Policy/OnTheBox.com (October 2016)_
+ _Privacy Policy/OnTheBox.com (May 2018)_
 
-Privacy policy | OnTheBox
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok[Read more](https://www.onthebox.com/privacy-policy/)
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok
