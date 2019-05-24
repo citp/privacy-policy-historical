@@ -1,36 +1,103 @@
-> *The following text is extracted and transformed from the englishtown.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishtown.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524020245id_/https%3A//englishlive.ef.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EF English Live
 
-##  The security of your information is very important to us. Find out how we keep your details safe. 
+The security of your information is very important to us. Find out how we keep your details safe. 
 
-Effective Date: 13/04/2011
+Learn more
 
-EF Language Learning Solutions Ltd (hereinafter referred to as "EF English Live" and/or "EF") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: www.englishlive.ef.com.
+Effective Date: 2018-05-24
 
-### Your Personal Profile
+EF Language Learning Solutions Ltd (hereinafter referred to as "EF English Live" and/or "EF") has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: http://englishlive.ef.com.
 
-When we ask information of you, our primary interest is to provide you with more personalized service. We respect your privacy and do not sell, rent or trade your name or personal details to other organizations except as outlined in this policy.
+EF LLS Privacy Policy
 
-By providing your personal information and photo, you understand and consent to EF using your image, photo, video, and comments. This information is displayed as part of your public profile in our community and can be seen by others. You have the ability to opt-out from the use of your information by updating the choices in the Privacy section on the Account Settings page located [here](http://www.englishtown.com/Community/Profile/Settings.aspx). From time to time we may use some of our customer information in our marketing materials. However, we will never do this without contacting you first and receiving your prior written and explicit consent.
+_Our Commitment to Your Privacy_
 
-### Security measures
+EF Language Learning Solutions Ltd. (“ **EF LLS** ”) is committed to protecting the privacy of our potential and existing customers. The EF LLS privacy policy (the “ **Privacy Policy** ”) applies to all Personal Data (as defined below) processed by us, including Personal Data collected or submitted through our websites, mobile applications or through our official social media pages or through other channels online and offline as further described below (collectively the “ **EF Products** ”). 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+  
+If you cannot, or will not, provide us with the personal information we reasonably require, we may be unable to provide you with the information, goods or services you have requested.  
+ 
 
-If you ever discover a fraudulent charge from EF English Live on your billing statement, please contact us and you must report it immediately to your credit card provider, in accordance with their standard procedures. 
+EF LLS, Haldenstrasse 4, 6006 Lucerne, Switzerland is the controller for the processing of your personal data as set out in this Privacy Policy. Being the controller means that EF LLS is responsible for ensuring that your Personal Data is processed in compliance with applicable privacy and data protection legislation.
 
-This site makes use of forums, bulletin boards and chat rooms. Please remember that any information you disclose in these areas becomes public. You should always be cautious about the amount of personal information you give to anyone in this context. 
+PERSONAL DATA
 
-We also insist on password verification at sign-in to protect against unauthorized access to your personal profile and course history. If you leave the computer unattended without logging out of the site, we log you out automatically after some time has passed. 
+“ **Personal Data** ” is information or pieces of information that could allow you to be identified, such as for example:
 
-Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+  * Name and contact details (e.g. postal and email address, telephone number)
+  * Account information (e.g. user name, profile picture or social media account ID)
+  * Country of residence
+  * Birth date
+  * Technical information, e.g. screen/user name, IP address, browser and device data, information collected through cookies, pixel tags and other technologies, server log file data, app usage data and location data
+  * Preferences (e.g. shopping habits, preferred educational courses)
+  * Company name and address
+  * Credit and debit card number  
 
-Despite these security procedures and practices, as is the case with all computer networks connected to the Internet, EF English Live cannot guarantee the security of your personal information or any other information provided over the Internet and will not be responsible for breaches of security.
 
-No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-### Communications From The Site
+
+**How do we collect Personal Data?**
+
+We collect Personal Data in a variety of ways:
+
+  * **Directly from you** :  Information is collected directly from you, either by you providing the information directly to us or you acting in a manner that provides us with the information, for example:
+    * **Offline** :  We collect Personal Data from you offline, for example when you contact customer service, enrol in a product or service or provide information to us in writing.
+    * **Online** :  We collect your Personal Data through the EF Products, for example when you sign up for a newsletter or a brochure, enrol in a product or service. We also collect Personal Data:
+      * **Through cookies.** Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes. If you do not want  
+information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit <http://www.allaboutcookies.org/>. For detailed information about the cookies we use and the purposes for which we use them, please see our **cookie policy**. ** **
+      * **Through your use of a mobile application.   **When you download and use one of our mobile applications, and to the extent allowed by your privacy settings in the application, we track and collect mobile application usage data, such as the date and time the mobile application on your device accessing our servers and what information and files have been downloaded to the mobile application based on your device number.
+      * **Through your device.**   Provided that you have enabled that function on your device, we collect the physical location of it to provide you with personalized location-based services and content. Read more about such services under “How do we use Personal Data?”
+      * **From our corporate affiliates, business partners, assistance providers or claim handlers**. We may receive Personal Data from other parties in conjunction with your course/program, including:
+        * Our corporate affiliates, such as the local EF company that promotes the sales of our services and offers customer service in your country of residence and provides us with the Personal Data that is needed to come to an agreement with you on your order or provide you the services you have signed up for
+      * **From other sources**.  We may receive your Personal Data from other sources, such as public databases; joint marketing partners such as marketing agencies or providers of software and services for digital marketing automation and analytics; social media platforms, including but not limited to; Facebook, Instagram, Snapchat, Musically, LinkedIn, Twitter, YouTube and messenger services such as WhatsApp or Facebook Messenger; from people with whom you are friends or otherwise connected with on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your EF Products account, such personal data that you have registered in your profile, such as your email address, phone number, postal address, date of birth, name and user name will be shared with us. Furthermore, we use cookies to track members of social media networks as further explained in our **cookie policy**.
+      * **If you browse our sites    
+**We may also collect information about your use of our services through your browser to trace activity on our sites, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, service provider, and the name and version of the EF Product you are using. In addition, an IP Address is identified and logged automatically in our server log files whenever you visit the EF English Live online school, along with the time of the visit and the page(s) that were visited. These data are only stored and used together with other Personal Data that you have submitted if you have given your consent to do so. You can read more about collection of your IP address and other browsing data in our **cookie policy**.  
+ 
+
+
+
+**How do we use Personal Data?**
+
+  * Your Personal Data will be processed by EF LLS for the purposes of providing you with the products and services that you have ordered, for customer service, administrative services or as otherwise necessary to perform the contract between you and us or as further described in this policy.
+  * We may also use Personal Data:
+    * For statistical purposes, calculating usage levels, and helping diagnose server problems with the EF Products as well as to ensure that the EF LLS Products function properly.
+    * To allow you to contact and be contacted by other users through the EF Products, as permitted by the applicable product.
+    * To allow you to participate on message boards, chat, profile pages and blogs and use other services enabling you to post information and materials.
+    * If you have given your consent:
+      * To analyse and improve our offers by identifying usage trends, determining the effectiveness of our promotional campaigns and tailoring the EF Products experience and content based on your past activities on the EF Products. For example, depending on what EF Product you have searched for on our website, or in previous browsing, the offer presented to you on the EF Products may be limited to a specific language, course length or budget.
+      * To provide you with personalized location-based services and content through the use of your device’s physical location. For example, you will be redirected to the local EF website in your language if your device indicates that you are browsing from that country, or you may be suggested the nearest EF office to your location for visits or information.
+      * To market our products and services, including special promotions based on your interests, for example through email marketing solutions such as Salesforce Marketing Cloud’s management software which maintains mailing lists and schedules and modifies email messages based on what recipients read, click-on or forward. All such email communication will include a clear unsubscribe link.  
+ 
+
+
+
+**How do we share Personal Data?**
+
+  * We may share your Personal Data with our corporate affiliates, business partners and service providers both within and outside the EEA/Switzerland:
+    * Our corporate affiliates are for example a local EF company that promotes the sales of our services and offers customer service in your country of residence, or one of the principal companies that is offering another of EF’s program.
+    * Service providers, such as providers of IT systems, for example for managing customer relations or payments, scheduling classes or storing learning results; or providers of software and services for digital marketing automation and analytics. 
+  * We have put appropriate safeguards in place for transfers of your Personal Data outside the EEA/Switzerland, including the standard data protection clauses adopted by the European Commission, available at [http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0915) and [http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087](http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087). For more information on standard data protection clauses in place, please see the contact section below. __
+  * We also share Personal Data as we believe to be necessary: (a) under applicable law; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions or a contract; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.  
+ 
+
+
+
+**On what do we base our right to collect and use Personal Data?**
+
+We base our right to collect and use your Personal Data on the need to do so in order to provide you with the services or products that you have ordered from us, or when there is a legitimate interest for us (i.e. the service provider) to use your personal data, such as for the marketing of products or services similar to the one(s) you have already purchased from that same legal entity.  
+ 
+
+**Please note that we ask you not to disclose any sensitive personal information on or through the site or otherwise to us.**
+
+To the extent that we use your Personal Data to send you offers beyond what is considered to be within our legitimate interest, such as marketing of products and services provided by an EF affiliate, we base this on your specific consent.
+
+SECURITY
+
+We use appropriate organizational, technical and administrative measures to keep the Personal Data under our control accurate and up-to-date, as well as to protect the Personal Data against unauthorised or unlawful processing and the accidental loss, destruction or damage of the Personal Data.
+
+COMMUNICATIONS FROM THE SITE
 
 To send you an Email English lesson every day, we would, of course, need to know your email address. As an Email English subscriber, you will be added to our mailing list to receive occasional emails about service updates, special offers, and promotions from EF English Live and other companies within the EF group of companies.
 
@@ -40,45 +107,45 @@ We will send you strictly service-related announcements on rare occasions when i
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-### Protection of Children’s Information
+UNSUBSCRIBE
 
-We are committed to protecting the privacy of children. This and all of our websites are general audience sites and not designed or intended to attract children under the age of 13. We do not knowingly collect or solicit personal information from any person we actually know is under the age of 13, nor do we send them requests for personal information, unless we first obtain permission from that child's parent or legal guardian.
+If at any time you wish to stop receiving marketing communications from us you can use the unsubscribe feature in the marketing communication you received or let us know by using the contact information listed in the “Contact Us” section or by changing your privacy settings in the EF English Live online school. In your request, please indicate that you wish to stop receiving marketing communications from us.
 
-### Membership and Registration for a subscription
+Please note that changes may not be effective immediately. We will endeavour to comply with your request(s) as soon as reasonably practicable.
 
-EF English Live offers English courses online at competitive prices. To take one of these courses, enjoy a free trial or become a user of our community services, you need to become a member of EF English Live. During registration we collect information such as your name and email address. We also ask for demographic information (such as age and gender) in order for you to create a profile. You may also be asked to supply us with credit card information, so that you can pay for the services you request. This information is encrypted on a secure server. As a member, you will be added to our mailing list to receive occasional emails about service information, special offers, and promotions from EF English Live and other companies within the EF group of companies.
+THIRD PARTY SITES
 
-### Access To Personal Information
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which the EF Product contain a link. The inclusion of a link on EF Products does not imply endorsement of the linked site by us or by our affiliates.  
+ 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, amend or delete your personal information by making the change on our member information page, by contacting our Customer Support [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access your personal information within 30 days. 
+Additionally, we may provide you with access to third-party functionality that permits you to share your activities on EF Products to your social media account(s), for example Facebook or LinkedIn. Please note that any information that you provide through the use of this functionality is governed by the applicable third party’s privacy policy, and not by this Privacy Policy. We have no control over, and shall not be responsible for, any third party’s use of information that you provide through use of this functionality.
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Note that your free account remains active even if your subscription to our paid services has expired.
+HOW LONG DO WE STORE PERSONAL DATA?
 
-### Changing or Removing Profile Information
+We will only keep your Personal Data for five (5) years after the expiry of your account, in order to be able to provide you the possibility to re-activate your account, should you decide to purchase additional courses from us; or otherwise for as long as it is necessary for the purposes for which it has been collected or in accordance with time limits stipulated by law and market practice, unless further retention is necessary for compliance with a legal obligation or for the establishment, exercise or defence of legal claims or unless a specific time period has been communicated.
 
-**Editing your profile.**  You may change your profile at any time by updating the My Profile page in our Community [here](http://www.englishtown.com/Community/Profile/Settings.aspx). Your changes will be updated immediately.
+We will keep limited parts of your Personal Data which are necessary for marketing purposes until you withdraw your consent, but in no event for longer than 5 years after your last completed service or delivery of product.
 
-**Deleting or deactivating your profile.**  You may delete or deactivate your profile at any time by contacting our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
+IF YOU ARE UNDER THE AGE OF 16
 
-**Removal of an unauthorized profile**. If you wish to request the removal of an unauthorized profile you may do so by contacting our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
+If you are under the age of 16, you should review this text together with your parent or guardian to make sure you both understand them. We are not responsible for checking your age but sometimes we still do verification checks. If we learn that you are under the age of 16 and that we have collected information about you without consent from your parent or guardian, we will delete the information as soon as possible and you will not be able to use EF Products.
 
-### Privacy Settings
+SENSITIVE DATA
 
-You may change the privacy settings by updating the Privacy section of the account settings [here](http://www.englishtown.com/Community/Profile/Settings.aspx). Changing your privacy settings will allow you to control who is able to see information about you such as your personal information, your photo, your online status, and your status updates.
+We do not generally seek to collect any sensitive Personal Data. Sensitive Personal Data is data related to racial or ethnic origin, political opinions, religious or philosophical beliefs, health or medical condition, criminal background or trade union membership. In certain situations, this might however be necessary (for example in order to provide you with the services and products you have ordered). We will make sure that we receive your explicit consent to such processing and treat this information securely.
 
-### Who We Share Your Information With
+UPDATES TO THIS PRIVACY POLICY
 
-  * We share your personal information with other companies within the EF group of companies so that these companies can market their products or services to you. For a complete picture of what EF Products and Services are available, please visit [www.ef.com](http://www.ef.com/). The only information we share with other companies within the EF group of companies is your name, age group, email address, and country. If you do not want us to share your personal information with these companies, contact our Customer Service team [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
-  * We may provide your personal information to companies that provide services to help us with our business activities such as processing your payment or offering customer service. These companies are authorized to use your personal information  _only as necessary to provide  _these services to us
-  * We may also disclose your personal information
-    * as required by law, such as to comply with a subpoena, or similar legal process
-    * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-    * if EF English Live is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-    * to any other third party with your prior consent to do so.
+Our Privacy Policy may change from time to time. We will not significantly reduce your rights under this Privacy Policy without informing you. We will post any Privacy Policy changes on this page and, prior to implementing such changes, we will provide a more prominent notice. Where required by law, we will seek your prior consent to any change.
 
+YOUR RIGHTS
 
+You have a right to, once per calendar year, contact us and without cost find out which information about you that is being used. You have a right to receive your personal data in a machine readable format and you have a right to transfer your personal to another data controller.  
+ 
 
-### Cookies
+You have the right to, at any time, withdraw your consent or object to us using your Personal Data for direct marketing purposes and you may at any time request that the use of your personal data is restricted or that we shall delete your personal data. Note however that a restriction or deletion could mean that we are not able to provide you with information, services or products as you have requested. Upon your request, we are also obliged to correct personal data about you that is incorrect, incomplete or misleading.
+
+COOKIES
 
 "Cookies" are small pieces of information that we store on your computer's browser or hard drive. We and our partners use cookies to remember personal information when you visit our website. For example, if you choose the view our site in French we will store that information in your cookie so we can show you our site in French the next time you visit. We also use them to store your login ID to make it easier for you to login to our site. Most browsers allow you the option of preventing cookies from being stored on your computer, though doing so will cause you to lose many of the benefits of EF English Live.
 
@@ -88,36 +155,13 @@ We use the service of a third party tracking utility company to track the behavi
 
 As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole.
 
-### Web Beacons
+CONTACT US
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+If you would like to have a copy of the information EF LLS holds about you; a copy of the standard data protection clauses or would like to exercise any of your rights, please contact us at the address EF Language Learning Solutions Ltd., Haldenstrasse 4, 6006 Lucerne, Switzerland or click [**here**](https://web.archive.org/en-us/contact-us/).  
+ 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+If you have complaints about our handling of your Personal Data, you have a right to contact the supervisory authority in the country where you live.
 
-In some of our email messages, we use a “click-through URL” linked to content on the EF English Live website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
+Cookies 
 
-### Quizzes and Contests
-
-We may provide you the opportunity to participate in quizzes or contests on our site. If you participate, we will request certain personally identifiable information from you. Participation in these quizzes and contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as zip code).
-
-We may use this information to personalize our communications to you and to suggest more relevant products and services.
-
-### Public Forums
-
-Our Web site offers publicly accessible blogs or community forums.You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Links to other websites
-
-This site contains links to other sites. Please be aware that EF English Live is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any website that collects personally identifiable information. This privacy statement applies only to information collected by the English Live website.
-
-### Testimonials
-
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request to have your testimonial removed you contact our Customer Service [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/).
-
-### Refer a friend
-
-If you decide to refer a friend to our site as part of EF English Live contests or other promotions, we ask you for the friend's email address and give you the option of sending them a personal message. EF English Live will then send a one-time, automatically generated email message inviting your friend to visit our site. EF English Live stores the email address in your personal file solely for the purpose of crediting you if your friend becomes a member. Your friend may contact us at [here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) to request that we remove this information from our database.
-
-We also utilize an import contacts feature to help you keep in touch with your contacts and other members. We make it easy for you to invite people from your email address books to join you on our Site. At your request we will search your email address book to help you import your contacts to our site. When we do this, we do not store any of your contacts' information our our servers. We may send an email on your behalf to your contacts, but we do not keep their email address or any other information until they register for our site themselves.
-
-The EF English Live privacy policy is subject to change. If we decide to change the way we collect, use or share information, we will take commercially reasonable steps to notify members by way of an email that explains the changes and gives them the choice as to whether or not we may use their information in the new manner. If you have any questions about this policy statement, or about any of EF English Live's other policies and practices, please [contact us here](https://web.archive.org/web/20161212092417id_/http%3A//englishlive.ef.com/contact-us/) or at EF English Live, Haldenstrasse 4, 6006 Luzerne, CH.
+We use cookies to provide you with a better service. Close this message if you're happy with this, or find out how to manage [cookies](https://web.archive.org/en-us/privacy-policy/).
