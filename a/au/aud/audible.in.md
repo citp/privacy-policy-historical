@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audible.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230042339id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.in privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524184414id_/https%3A//www.amazon.in/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D200534380) for the most accurate reproduction.*
 
 # Amazon.in Help: Amazon.in Privacy Notice
 
