@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229011703id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524053936id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
@@ -13,7 +13,7 @@ Your privacy is our priority, but your trust in us is equally important. **That'
 
 
 
-**Effective Date: August 28, 2018**
+**Effective Date: January 18, 2019**
 
 This Privacy Policy (the "Policy”) applies to the information we collect about visitors to [www.ipvanish.com](https://web.archive.org/) (the "Site") and subscribers to the IPVanish VPN service (the "Services"), which are owned and operated by IPVanish (contact information below). Our Terms of Use, including their limitation on liability, apply to the Privacy Policy. You can read them at [www.ipvanish.com/tos.php](https://web.archive.org/tos.php). 
 
@@ -37,6 +37,7 @@ This Privacy Policy (the "Policy”) applies to the information we collect about
     * [Unsubscribing from Promotional Emails](https://web.archive.org/privacy-policy.php#emails-unsubscribing)
   * [Children's Privacy](https://web.archive.org/privacy-policy.php#childrens-privacy)
   * [Changes to this Policy](https://web.archive.org/privacy-policy.php#changes-policy)
+  * [Fraud Detection and Prevention](https://web.archive.org/privacy-policy.php#fraud-detection)
   * [GDPR Compliance](https://web.archive.org/privacy-policy.php#gdpr-compliance)
   * [Privacy Settings and Requests](https://web.archive.org/privacy-policy.php#privacy-settings)
   * [How To Contact Us](https://web.archive.org/privacy-policy.php#contact-us)
@@ -52,7 +53,7 @@ While you are not required to provide any identifiable ("personal") information 
 
 ### _Site_
 
-We aggregate information from Site visitors using cookies, pixels, and similar technologies, such as Google Analytics. In such cases of automated collection, the focus of this data collection is on our Site performance, not on your personal information. You can browse our Site without submitting any personal information. The only non-personal data we collect from all visitors is in order to improve our Site. This information is aggregated, offering a high-level view of our Site activity, including: 
+We aggregate and process information from Site visitors using cookies, pixels, and similar technologies, such as Google Analytics. In such cases of automated collection, the focus of this data collection is on our Site performance, fraud detection, and prevention purposes, not on your personal information. You can browse our Site without submitting any personal information. The only non-personal data we collect from all visitors is in order to improve our Site. This information is aggregated, offering a high-level view of our Site activity, including: 
 
   * Page requests
   * Browser type
@@ -73,7 +74,7 @@ To create an account, you will need to provide:
 
 
 
-You may also need to provide additional personal information such as your name, street address, city, state, country, and billing zip code, depending on your chosen payment method. We will only use this information to collect and process payments for you. Once you have created an account, this personal information can be modified by you at any time through your [Account Control Panel](http://account.ipvanish.com/).
+You may also need to provide additional personal information such as your name, street address, city, state, country, and billing zip code, depending on your chosen payment method. We will only use this information to collect and process payments for you. Once you have created an account, this personal information can be modified by you at any time through your [Account Control Panel](https://account.ipvanish.com/).
 
 ### _Website Cookies_
 
@@ -83,7 +84,7 @@ We use third-party service providers to aggregate non-personally identifiable Si
 
 ### Opt-Out for All Website Cookies
 
-Many web browsers accept cookies automatically. There are many resources that advise you on adjusting cookie settings, such as [About Cookies](http://www.aboutcookies.org/). You can block cookies any time by adjusting your browser settings, visiting the Network Advertising Initiative [opt-out page](http://optout.networkadvertising.org/#/), or by disabling specific third-party pixels (see below). Please note that some of the features on our Site depend on cookies to properly function. 
+Many web browsers accept cookies automatically. There are many resources that advise you on adjusting cookie settings, such as [About Cookies](https://www.aboutcookies.org/). You can block cookies any time by adjusting your browser settings, visiting the Network Advertising Initiative [opt-out page](http://optout.networkadvertising.org/#/), or by disabling specific third-party pixels (see below). Please note that some of the features on our Site depend on cookies to properly function. 
 
 ### Opt-Out from Third-Party Pixels
 
@@ -113,11 +114,11 @@ The information we collect through our Services is used for the following genera
 
 **As previously outlined IPVanish does not collect or log any traffic of its Services, under any circumstances. We may, however, compile some statistical information related to app crashes.**
 
-In addition, your information is used by third-party service providers who provide services on our behalf, such as processing payments ([Stripe](http://stripe.com/)), fraud detection ([MaxMind](https://www.maxmind.com/en/home)), and sending email messages ([SendGrid](http://sendgrid.com/)) for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information. We do not share your personal information with third parties for their own marketing, advertising or research purposes, under any circumstance. This data does not link back to any personal identifiable information on our VPN. 
+In addition, your information is used by third-party service providers who provide services on our behalf, such as processing payments ([Stripe](https://stripe.com/)), fraud detection ([Sift Science](https://sift.com/)) ([MaxMind](https://www.maxmind.com/en/home)), app crash information ([Firebase](https://firebase.google.com/)), and sending email messages ([SendGrid](https://sendgrid.com/)) for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information. We do not share your personal information with third parties for their own marketing, advertising or research purposes, under any circumstance. This data does not link back to any personal identifiable information on our VPN. 
 
 ### How To Modify Your Personal Information
 
-Personal information can be modified by you at any time via the [Account Control Panel](http://account.ipvanish.com/). Additional inquiries and technical requests should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We do our best to answer all requests in a timely manner. 
+Personal information can be modified by you at any time via the [Account Control Panel](https://account.ipvanish.com/). Additional inquiries and technical requests should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We do our best to answer all requests in a timely manner. 
 
 ### Security Measures We Have In Place
 
@@ -171,6 +172,12 @@ Our Site and Services are not intended for anyone under the age of 18 years old.
 ### Changes to This Policy
 
 From time to time, we may change and/or update this Privacy Policy. We recommend you regularly review this page for updates. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy.
+
+### Fraud Detection and Prevention
+
+In the interest of preventing fraudulent transactions, our order process collects, may use and store specific information about visitors. The information is used to detect, prevent and analyze fraudulent transactions. We share this information with a third party, Sift Science, Inc. located at 23 Mission Street, 20th Floor, San Francisco, CA 94105. The information provided to Siftscience is analyzed, monitored, and reported to us exclusively to help prevent and detect fraudulent transactions.
+
+Sift Science is certified for the EU-US Privacy Agreement, "Privacy Shield." Further information on the processing of data by Sift Science is found in their respective Privacy Policy.
 
 ### GDPR Compliance
 
