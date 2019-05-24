@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressthemesgallery.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716002410id_/https%3A//wpthemesgallery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressthemesgallery.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525011042id_/https%3A//wpthemesgallery.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | WordPress Themes Gallery
 
@@ -16,7 +16,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
- **COOKIE POLICY**  
+**COOKIE POLICY**  
 To enhance your experience on our sites, many of our web pages use “cookies”. Cookies are small text files that we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your email address or other personal information unless you choose to provide this information to us by, for example, registering at one of our sites. Once you choose to provide a web page with personal information, this information may be linked to the data stored in the cookie. A cookie is like an identification card. It is unique to your computer and can only be read by the server that gave it to you.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalise your experience on our web pages (e.g. to recognise you by name when you return to our site). We also may use cookies to offer you products and services.
