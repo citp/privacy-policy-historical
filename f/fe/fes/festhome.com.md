@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201042239id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festhome.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525013152id_/https%3A//festhome.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,7 +14,7 @@ All information collected about you on this website is always presently availabl
 We do not share personal information with third parties for any marketing purposes but we do use third party services to make our services work. These services are GDPR compliant and allow us to make simple functionality such as hosting materials or sending e-mails, or help with support tasks such as the Chat or Support Ticket system.  
 We use the collected data for a variety of purposes all within the requested services of our website, such as contacting you, delivering the information to the film festivals you decide to submit to, protecting our service and all clients from frauds, applying filters to your films and settings so that you do not submit a film to a festival where it does not apply, making payments and sending you our newsletters.  
 We track you through our website in order to have reliable use data to know what services on our website are being used and how to improve them, or to help our support team when you have a problem.  
-We request your consent to do all of this when you create an account, without this account and consent, it is impossible for us to deliver our services. Since we have been GDPR compliant way before it became compulsory, we will not bother you with re-requesting consent.  
+We request your consent to do all of this when you create an account, without this account and consent, it is impossible for us to deliver our services.  
 * ### What information do we collect?
 
 We may collect, store and use the following kinds of personal information ;
