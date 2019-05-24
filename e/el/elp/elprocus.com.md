@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2016-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160901194040id_/https%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524224414id_/https%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ElProCus - ElProCus - Electronic Projects for Engineering Students
 
@@ -78,9 +78,8 @@ The internet is an ever evolving medium. We may alter our privacy policy from ti
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-edgefxkits.com  
-Edgefx Technologies Pvt. Ltd.,  
-Plot No. 105, 3rd Floor,  
+Elprocus,  
+Plot No. 106, 3rd Floor,  
 Liberty Plaza, Himayath nagar,  
 Hyderabad – 500029,  
 Telangana, India  
