@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyflip.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213084727id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyflip.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524151601id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyFlip
 
