@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossiptrender.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630222038id_/http%3A//gossiptrender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossiptrender.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525003557id_/https%3A//gossiptrender.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gossip Trender
 
