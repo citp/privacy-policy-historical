@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925220330id_/https%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524102713id_/https%3A//www.stickergiant.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | StickerGiant
 
