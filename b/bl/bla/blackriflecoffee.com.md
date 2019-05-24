@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackriflecoffee.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023044251id_/https%3A//www.blackriflecoffee.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackriflecoffee.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524225104id_/https%3A//www.blackriflecoffee.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Black Rifle Coffee Company
 
