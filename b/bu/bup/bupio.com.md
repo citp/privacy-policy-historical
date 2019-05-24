@@ -1,33 +1,100 @@
-> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224112856id_/https%3A//www.bavun.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bupio.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524110156id_/http%3A//www.bupio.com/privacy) for the most accurate reproduction.*
 
-# Bavun - Privacy policy
+# Privacy policy
 
-Bavun has established its privacy policy to explain how your information within the purview of Bavun is protected, collected and used. This policy may be updated by Bavun. Bavun will post notices of its policy changes on the Bavun site at: <https://www.bavun.in/privacy.html>
+### Privacy policy
 
-**PRIVACY PROTECTION**
+## Vereo Privacy Policy
 
-Bavun does not share your information with third parties for marketing purposes, or engage in cross-marketing or link-referral programs with other similar sites. Bavun recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). Bavun does not knowingly collect any information from persons under the age of 13. If Bavun learns that a posting is by a person under the age of 13, Bavun will remove that posting. Bavun, or persons who post on Bavun, may provide links to third party websites, with different privacy policies. Bavun is not responsible for, nor have any control over, those third party websites. 
+Section Links:
 
-**INFORMATION COLLECTION AND USE**
+  * [Personal Information We Collect](https://www.vereo.com/privacy/#personal-info)
+  * [How Do We Use Your Personal Information?](https://www.vereo.com/privacy/#how-we-use)
+  * [Sharing Your Personal Information](https://www.vereo.com/privacy/#sharing)
+  * [Behavioural Advertising](https://www.vereo.com/privacy/#advertising)
+  * [Do Not Track](https://www.vereo.com/privacy/#do-not-track)
+  * [Your Rights](https://www.vereo.com/privacy/#your-rights)
+  * [Data Retention](https://www.vereo.com/privacy/#retention)
+  * [Minors](https://www.vereo.com/privacy/#minors)
+  * [Changes](https://www.vereo.com/privacy/#changes)
+  * [Contact Us](https://www.vereo.com/privacy/#contact)
 
-Bavun collect traditional contact information such as your name, mailing and/or billing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, to provide subscription email services, to register for forums, to process any credit card charges, etc.
 
-Bavun does not store full credit card information but Bavun may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by Bavun are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL 128 Bit) protocol.
 
-Your personal information may be collected by Bavun if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.vereo.com (the "Site"). For more about Vereo, please [About Vereo](http://www.bupio.com/about-us/).
 
-Should you expect your personal information to be private please do not post any personal information on Bavun site. Standard web log entries for each page served, including visitors IP address, page URL, and timestamp are collected by Bavun web logs in order to help diagnose problem with Bavun servers, to administer Bavun site, and to otherwise enhance visitors use of Bavun sites and services. 
+### Personal Information We Collect
 
-**DATA STORAGE**
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information."
 
-Bavun stores in its database all user generated content (classified ads, forums, guestbook postings etc.) even after they are deleted, as well as can archive such data elsewhere. Bavun indefinitely stores web logs and other records. Registered members can access and update personal account information through the account homepage. 
+We collect Device Information using the following technologies:
 
-**DISCLOSURE OF PERSONAL INFORMATION**
+  * "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * "Log files" track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * "Web beacons," "tags," and "pixels" are electronic files used to record information about how you browse the Site.
 
-Bavun may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. Bavun may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-party; or protect the rights, property, or personal safety of Bavun, its users or the general public. Bavun complies with the provisions of C.R.S. § 6-1-716 pertinent to the breaches of security notifications effective September 1st, 2006. 
 
-**GLOBAL USE**
 
-By providing us with data and by visiting Bavun you acknowledge and agree that due to the global use of Bavun we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to Bavun may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations. 
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers [[INSERT ANY OTHER PAYMENT TYPES ACCEPTED]]), email address, and phone number. We refer to this information as "Order Information."
 
-**IF YOU DO NOT AGREE WITH Bavun PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**
+When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+### How Do We Use Your Personal Information?
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
+
+  * Communicate with you;
+  * Screen our orders for potential risk or fraud; and
+  * When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+### Sharing Your Personal Information
+
+We do not share your Personal Information with third parties. We use Google Analytics to help us understand how our customers use the Site - you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+
+We may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+### Behavioural Advertising
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative's ("NAI") educational page at [ http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
+
+To opt-out of targeted advertising please visit these providers:
+
+  * FACEBOOK - <https://www.facebook.com/settings/?tab=ads>;
+  * GOOGLE - <https://www.google.com/settings/ads/anonymous>;
+  * BING - <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>;
+
+
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: <http://optout.aboutads.info/>.
+
+### Do Not Track
+
+Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
+
+### Your Rights
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+### Data Retention
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+### Minors
+
+The Site is not intended for individuals under the age of 18.
+
+### Changes
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+### Contact Us
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at sales@vereo.com or by mail using the details provided below:
+
+**Vereo.com, 15/28, Moo 2, Wiset Road, Rawai, Phuket, 83130, Thailand**
