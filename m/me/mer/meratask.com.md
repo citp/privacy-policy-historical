@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the meratask.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182617id_/https%3A//www.meratask.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meratask.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524154756id_/https%3A//www.meratask.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Meratask Refund Policy | Same day delivery service
+# Privacy Policy | Meratask
+
+Privacy Policy
 
 **Frizcon Logistics Private Limited**  (“Company”) is the author and publisher of the mobile/tablet application ‘Meratask’ (“ **Application** ”) and its website [www.meratask.com](http://www.meratask.com/) nbsp;(Collectively “ **Meratask** ”) The Company owns and operates the services provided by Meratask. The Company is committed to the protection of your privacy and your personal information in accordance with applicable law.  
 This privacy policy (“ **Privacy Policy** ”) discloses the Company’s practices for Meratask including the type of information being collected, the method of such information collection, use of such information and manner of sharing such information. As per this Privacy Policy the Company protects personal information about the End-Users of the Services (as defined in the terms and conditions of use (hereinafter referred to as “ **Terms of Use** ”) available at [Meratask] entered into between the Company and the End-User, and the visitors of the Website (jointly and severally referred to as “ **you** ” or “ **User(s)** ” in this Privacy Policy). The End-User’s use of and access to the Meratask is subject to this Privacy Policy and our Terms of Use. Any capitalized term used but not defined in this Privacy Policy shall have the meaning attributed to it in our Terms of Use.  
