@@ -1,29 +1,49 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424173823id_/http%3A//www.nationalarchives.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524235824id_/http%3A//www.nationalarchives.ie/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | National Archives of Ireland
+# Privacy statement - The National Archives of Ireland
 
-**Website of the National Archives**
+## Privacy statement
 
-This statement relates to the privacy practices of the National Archives in connection with its website. Our website contains links to other sites but the National Archives is not responsible for the privacy practices within any of these other sites. We encourage you to be aware of this when you leave our site and to remember to read the privacy statements on other websites you may visit which collect personally identifiable information. This privacy statement applies solely to information collected on our website.
+### Privacy Statement
 
-**General statement and collection and usage of personal information**
+The National Archives is committed to protecting and respecting your privacy and employs appropriate technical and organisational measures to protect your information from unauthorised access. The National Archives will not process your personal data for any purpose other than that for which they were collected. Personal data may be exchanged with our parent department, the Department of Culture, Heritage and the Gaeltacht, or other public bodies, in certain circumstances where this is provided for by law.
 
-The National Archives respects the rights of its users and does not, as a general rule, collect personal information of any kind. Where a user voluntarily provides personal information, the data will be used for information, research or analysis purposes only. Any personal information which you volunteer to the National Archives will be treated with the highest standard of security and confidentiality, strictly in accordance with the Data Protection Acts of 1988 and 2003.
+The National Archives will only retain your personal data for as long as it is necessary for the purposes for which they were collected and subsequently processed. When the business need to retain this information has expired, it will be examined with a view to destroying the personal data as soon as possible, and in line with Department of Culture, Heritage and the Gaeltacht’s policy. Further information on Data Protection can be found on the website of our parent department at: <https://www.chg.gov.ie/help/legal-notices/data-protection/>
 
-This website does not use cookies, apart from temporary ‘session’ cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser.
+##### Collection and Use of Personal Information
 
-For general web browsing, no personal information is revealed to us, although certain statistical information is available to us via our internet service provider. This information may include the logical address of the server you are using, the top level domain name from which you access the internet (for example, .ie, .com, etc, the type of browser you are using, the date and time you access our site and the internet address used to link to our site).
+The National Archives respects the rights of its users and does not collect any personal data about you on its website.
 
-Some of the above information is used to create summary statistics which allow us to assess the number of visitors to our site and to identify what pages are accessed most frequently. We use these statistics to help us make our site more user friendly.
+By contacting us via email, you may be sending us personal information such as your name, address, and email address. We may store your name, address and email address in order to respond to your request or otherwise resolve the subject matter of the email.
 
-**Cookies**
+Where a user voluntarily provides personal information, this data will be used only for the purposes for which it is provided, and not passed to any third party, unless obliged to disclose such information by a rule of law.
 
-A cookie is a piece of data that contains information about your activities on the internet. On our website we only use session cookies to track users’ progress through the site, allowing us to maintain the security and integrity of the data being used. The information on a cookie is not linked to any personally identifiable information you submit to our site. Once you close your browser, our access to the cookie simply terminates.
+##### Collection and Use of Technical Information
 
-**Log files**
+Technical details in connection with visits to the National Archives’ websites are logged for statistical and other administrative purposes. No information is collected that could be used by the National Archives to identify website visitors. The details logged are confined to the following items:
 
-When you use the internet, you are assigned a unique address known as an IP address. We use IP addresses to analyse trends, to administer the site, track users’ movements and gather statistical information. IP addresses are not linked to personally identifiable information.
+  * The IP address of the visitor’s web client;
+  * The top-level domain name used (for example .ie, .com, .org, .net);
+  * The previous website address from which the visitor reached us, including any search terms used;
+  * Clickstream data which shows the traffic of visitors around this website (for example, webpages accessed and documents downloaded);
+  * The type of web browser used by the website visitor.
 
-**Notification of changes to our privacy policy**
 
-The National Archives reserves the right in its sole discretion to amend this privacy statement at any time and you should regularly check this privacy statement for any amendments.
+
+The National Archives will make no attempt to identify individual visitors, or to associate the technical details listed above with any individual except in the investigation of any inappropriate or malicious use of the National Archives’ website itself. It is the policy of the National Archives never to disclose any technical information in respect of individual website visitors to any third party, unless legally obliged to make such disclosure.
+
+##### Use of cookies on our website
+
+The National Archives’ websites use SiteImprove to help analyse how users use the sites. This analytical tool uses ‘cookies’, which are text files placed on your computer, to collect standard internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including your IP address) is transmitted to and stored by Google on servers in the United States. This information is then used to evaluate your use of the website and to compile statistical reports on website activity for the Department of Culture, Heritage and the Gaeltacht.
+
+The National Archives will not (and will not allow any third party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our sites. We will not associate any data gathered from this site with any personally identifying information from any source as part of our use of the Google statistical analytics tool. Google will not associate your IP address with any other data held by Google. Neither the National Archives nor Google will link, or seek to link, an IP address with the identity of a computer user.
+
+The National Archives will also use a simple cookie to record that a site visitor has acknowledged the use of cookies on this site. This is to prevent the visitor being shown the pop-up advisement each time they visit the site but will not collect or store any other information about the visitor.
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser as outlined in the links below. However, this can affect your browsing experience and some services on this site and others may not function properly, or at all. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+[Google Chrome Browser](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
+[Microsoft Internet Explorer Browser](http://windows.microsoft.com/en-IE/windows-vista/Block-or-allow-cookies)  
+[Mozilla Firefox Browser](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)  
+[Apple Safari Browser](http://support.apple.com/kb/HT1677)  
+[Opera Web Browser](http://www.opera.com/help/tutorials/security/)
