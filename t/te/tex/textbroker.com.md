@@ -1,55 +1,276 @@
-> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515190944id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524223806id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
 
-# Privacy policy | Textbroker
+# Data Protection | textbroker.com
 
-### Textbroker.com takes your privacy seriously:
+Table of Contents
 
-Our privacy policy is clear and simple: We will collect no personally identifiable information about you when you visit our website or use our services unless you choose to provide that information to us. 
+  1. Protection of your personal data
+  2. Data collection
+  3. Data usage and data transfer
+  4. Consent and revocation
+  5. Customer accounts
+  6. Newsletter
+  7. Push Notifications
+  8. Use of Cookies
+    1. General information about the use of Cookies
+    2. An overview of the use of Cookies can be found here
+    3. WebAnalytics/ Google Analytics/ Google Remarketing/ Ads/Doubleclick by Google
+    4. Kissmetrics
+    5. Bing Ads (Microsoft Corporation)
+    6. Social Media Plugins
+    7. Mouseflow
+    8. Retargeting via AdRoll
+    9. Conversion measurement with Facebook Pixel’s visitor tracking 
+  9. Your rights, information
+  10. DATA PROTECTION OFFICER
 
-### What Does our Privacy Policy Cover?
 
-This Privacy Policy covers Textbroker.com's treatment of personally identifiable information that Textbroker.com collects when you are on the Textbroker.com site and when you use Textbroker.com's services. This policy does not describe or cover information collection policies on other sites, including those linked to or from Textbroker.com. 
 
-###  No Children under the Age of 13
+## 1\. Protection of your personal data
 
-Textbroker.com is not directed to children under the age of 13, and children under the age of 13 shall not use the website or services offered by Textbroker.com to submit any individually identifiable information about themselves. 
+We appreciate your interest in our website and our offers. When you visit our website, the protection of your personal data is our primary concern. We take this protection very seriously, especially regarding the collection, transmission, processing and use of your personal data when you visit our website.
 
-### What Type of Information Do We Collect?
+We reserve the right to adapt or change this privacy statement. The most current version always applies. As such, we recommend that you check this statement regularly.  
 
-Textbroker.com does not collect any personally identifiable information about you other than information that you choose to submit to us, such as your e-mail address, name and address, etc., for example, when you apply to or register as an author or text user on this website or you use or apply to or register for other services on our website. 
 
-Textbroker.com also may automatically collect aggregate information about the use of our website, including, but not limited to, which pages are most frequently visited, how many visitors we receive daily, how long visitors stay on each page, how often the individual user visits our website, how many visitors click on each individual webpage on our website, etc. 
+## 2\. Data collection
 
-### Cookies and related technologies
+We collect data about visits to our pages and about initiating, concluding, processing and cancelling a contract.  
+Your visit to our website will be logged. The main details recorded are the IP address, date and time currently used by your PC, the browser type and operating system used on your PC, as well as the pages viewed by you. It is not normally intended or possible for data to be related to any specific person.  
 
-The Textbroker website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites.
 
-###  How Do We Use the Information?
+## 3\. Data usage and data transfer
 
-The personally identifiable information we collect from and about you may be used to provide e-mail-based newsletters and other information to you and to notify you from time to time about services offered by Textbroker.com or other entities associated with Textbroker.com. 
+The personal data we collect and that you give us when placing an order, or via email will be processed only for the purpose for which it was intended and for corresponding with you. We only pass on your data to third parties when this is absolutely necessary to fulfil our contractual obligations.
 
-### With Whom Will We Share Information?
+When processing payments, we pass on your payment information to the bank responsible for the payment.  
+We assure you that we do not pass your personal data on to third parties unless we are legally obliged to do so or you have given us prior consent. As far as we use service providers for the handling and implementation of data processing, the contractual relationships are governed by the provisions of the General Data Protection Regulation (GDPR) and the Federal Data Protection Act (BDSG).  
 
-We may disclose information about you if we have a good-faith belief that we are required to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Textbroker.com, its users, or others. In particular, if a text user brings a claim and/or legal action against the author of a text, we may disclose name, address and other contact information of the author to the text user. 
 
-### We Will Delete Personally Identifiable Information Collected About You   
-If You Ask Us To Do So.
+## 4\. Consent and revocation
 
-You have always the right to demand that we delete personally identifiable information we had collected about you. In this case we will delete all data of or about you from our records / database, unless law or legal process says or demands otherwise (see section "With Whom Will We Share Information?"). 
+If you have provided us with personal data, you can ask us to delete this data at any time. We will delete your personal data, unless legal storage periods prevent us from doing so.
 
-### What about Updates and Revisions of our Privacy Policy?
+If you have consented to the processing of your personal data for specific purposes, e.g. for a newsletter, etc., you can revoke this consent at any time with future effect. We will then stop using your personal information.
 
-Textbroker.com may revise and update its Privacy Policy at any time without notice by posting such revised or updated Privacy Policy at www.textbroker.com/us/privacy.php. Your continued usage of Textbroker.com or any of its services will mean that you accept these changes. 
+Duration of storage: Personal data that has been provided to us through our website will only be stored until the purpose for which it was entrusted to us is fulfilled. As far as commercial and tax retention periods, which must be observed, the storage period for certain data may be up to 10 years.  
 
-### Terms of Service
 
-The Textbroker.com Terms of Service for customers are available at <https://www.textbroker.com/terms-condition>. The Textbroker.com Terms of Service for authors are available at <https://www.textbroker.com/terms-condition#tos-authors>. Please read the Terms of Service Section carefully before using Textbroker.com. 
+## 5\. Customer accounts
 
-### Contact us
+Customer account: When you open a customer account, you agree that your data such as name, address, email address and bank details, as well as your user data (user name, password) and IP address, will be stored.  
 
-If you have questions or comments about our privacy practices, please feel free to contact us at: mail@textbroker.com. 
 
-Our postal address is:  
-Textbroker International LLC  
-8076 West Sahara Avenue  
-Las Vegas, Nevada 89117 
+## 6\. Newsletter
+
+By registering for the newsletter, your first name, last name and e-mail address will be used with your consent for our own advertising purposes. Registration for the newsletter is performed via the double opt-in procedure (EU citizens only) to ensure the documentation of your consent to receive the newsletter.
+
+The newsletter is sent by a service provider.  
+The e-mail addresses of our newsletter recipients, as well as their further data described in the context of these notes concerning the newsletter, are stored on the service provider’s servers in Germany. The service provider uses this information for sending and evaluating the newsletter on our behalf. Consent to receive a newsletter by e-mail can be revoked at any time. In each newsletter you will find a link with which you can revoke your consent.
+
+### Statistical surveys and analyses
+
+The newsletters contain a so-called “web-beacon”, i.e. a pixel-sized file that is retrieved from the service provider’s server when the newsletter is opened. Within the scope of this retrieval, technical information, such as information about the browser and your system, as well as your IP address and time of retrieval are initially collected. This information is used to technically improve the services based on the technical data or the target groups and their reading behaviour based on their retrieval locations (which can be determined using the IP address) or access times.
+
+The statistical surveys also include determining whether the newsletters are opened, when they are opened and which links are clicked. For technical reasons, this information can be assigned to the individual newsletter recipients. However, it is neither our nor the service provider’s endeavour to observe individual users. The evaluations serve us much more to recognize the reading habits of our users and to adapt our contents to them or to send different contents according to the interests of our users.  
+
+
+## 7\. Push notifications
+
+You can opt in to receive our push notifications. To send our push notifications, we use the delivery service “CleverPush”, which is provided by CleverPush UG (haftungsbeschränkt), Tondernstr. 1, 22049 Hamburg (“CleverPush”).
+
+You will receive regular information about exciting online marketing topics – especially in the areas of content marketing, SEO, analytics, social media and better web texts – as well as about tips, tricks and exciting developments at Textbroker. Furthermore, you will receive exclusive discounts (e.g. voucher or BonusBack campaigns on text orders) and offers by Textbroker and their partners (such as information regarding events, products or services).
+
+To opt in, you must confirm your browser’s request to receive notifications. This process is documented and stored by CleverPush. This includes saving the opt in time and your browser ID or device ID. The collection of this data is required so that we can understand the processes in case of misuse and therefore serves our legal protection.  
+To show you the push notifications, CleverPush collects and processes your browser ID on our behalf and your device ID in the case of mobile access.
+
+By subscribing to our push notifications, you agree to their receipt. Legal basis for the processing of your data after registration for our push notifications is in the presence of your consent Art. 6 para. 1 lit. a GDPR. CleverPush also statistically evaluates our push notifications. CleverPush can detect if and when our push notifications were displayed and clicked by you.
+
+Your consent to the storage and use of your personal information to receive our push notifications and the statistical survey described above may be revoked at any time with future effect. To revoke consent, you can change the setting to receive push notifications in your browser. If you use our push notifications on a desktop PC with the operating system “Windows”, you can also unsubscribe our push notifications by right-clicking on the respective push notification in the settings that appear there.
+
+Your data will be deleted as soon as they are no longer necessary to achieve the purpose of their survey. Your data will be stored as long as the subscription to our push notifications is active.
+
+Under the following link, the process of unsubscribing will be explained in detail: <https://cleverpush.com/faq>.  
+
+
+## 8\. Use of Cookies
+
+The use of our website offers is made possible using Cookies. A prerequisite for this is that you have activated cookies in your browser settings.  
+
+
+### a) General information about the use of Cookies
+
+Cookies are small text files that make it possible to store specific user-related information on the user’s device while accessing the website.
+
+We use two types of “Cookies”. Cookies are small files which typically consist of a sequence of text and numbers used to give you a unique ID. A “client cookie” is sent to your browser so our system remembers your searches and tracks the pages you visit on our site as well as the services you use. A “server cookie” is installed on our system to recognize when you return to access this site again. This information enables us to better manage the website and customize our services to make them more user-friendly. We only evaluate the data collected in an anonymized form.
+
+You can configure your browser so that you are notified of the receipt of a cookie or socookies cannot be received; in which case, you may be limiting the scope of the services you may expect when you visit our site.
+
+Our use of cookies makes it possible, in particular, to determine the frequency of use and the number of users of our pages, to analyze user behavior while using our pages, but also to make our offers more customer-friendly. Cookies are stored at the end of a browser session and can be recalled when the page is visited again. If you do not want this to happen, we ask you to set your Internet browser to refuse to accept cookies. Where necessary, a cookie will store your customer ID in order to recognize you as a registered customer.  
+
+
+### b) An overview of the use of Cookies can be found here:
+
+Third Party Cookie/Pixel| Details  
+---|---  
+Google Tag Manager| Conversion Linker Tag for Google Ads  
+Mouseflow| <https://mouseflow.com/gdpr/>  
+AB Tasty| <https://www.abtasty.com/gdpr-compliance/>  
+Unbounce Conversion Pixel| Only on Thank You Pages to record successful registration  
+IBM Watson Campaign (Silverpop)| Monitoring all email activity of individual contacts  
+Data Processing Addendum:  
+<https://www.ibm.com/support/customer/zz/en/dpa.html>  
+LinkedIn Analytics  
+LinkedIn Ads|  **Without** enhanced comparison (we do not upload any personal customer information to LinkedIn)  
+AdRoll|  **Without** enhanced comparison (we do not upload any personal customer information to AdRoll)  
+Outbrain| Only on Thank You Pages to record successful registration  
+YouTube| YouTube Videos are loaded into iframes  
+First Party Cookie/Pixel| Details  
+---|---  
+Google Analytics incl. Data Collection for Advertising Features (Remarketing and Advertising Reporting Features)| No use of User ID  
+Includes Ads, Search Console and Tag Manager Linking  
+With IP address anonymization  
+<https://policies.google.com/privacy/update?hl=en>  
+<https://tools.google.com/dlpage/gaoptout>  
+Kissmetrics Analytics| <https://signin.kissmetrics.com/privacy/>  
+Google Ads Conversion Tracking| Only on Thank You Pages to record successful registrations or monies paid into account (incl. amount)  
+Google Ads| (Audiences, Doubleclick, Dynamic Remarketing, Remarketing User Lists)  
+Facebook Pixel inkl. Facebook Custom Audiences|  **Without** enhanced comparison of Custom Audiences from File (we do not upload any personal customer information to Facebook)  
+  
+### c) WebAnalytics/ Google Analytics/ Google Remarketing/ Ads/Doubleclick by Google
+
+This website uses Google Analytics and Google Remarketing web analytics services provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
+
+Google Analytics and Google Remarketing use “Cookies” – text files which are stored on your computer and allow us to analyze your use of our website. When you visit our site, your data is collected by a cookie provided to us by Google. This data as well as the information generated about your use of this website (including your IP address) is transmitted to and stored on a Google server located in the US. Google will use the information to evaluate your use of our website, to compile reports about website activity for website operators, and to provide other services related to website activity and Internet usage.
+
+Google will also transfer this information to third parties if required by law, or if third parties process this data on Google’s behalf. Google will never associate your IP address with other Google data. You can prevent the installation of cookies by setting your browser software accordingly; however, please note that if you do this, you may not be able to use the full functionality of our website. By using our website, you agree to the processing of data about you by Google in the manner and for the purposes described above.
+
+You can opt-out of the collection of data for the future at any time by using the Google Analytics Opt-out Browser Add-on at: [https://tools.google.com/dlpage/gaoptout?hl=en ](https://tools.google.com/dlpage/gaoptout?hl=en)  
+Please note that this website uses Google Analytics with the extension “_anonymizeIp()”. As a result, IP addresses are stored exclusively in anonymous form, which rules out direct personal reference in connection with the stored data.
+
+Using Google Remarketing allows third parties, including Google, to serve ads to sites on the Internet. Third parties, including Google, use stored cookies to serve ads based on your previous visits to our site. In addition, we use Google Analytics to analyze data from Google Ads and the DoubleClick-Cookie for statistical purposes and to display relevant targeted ads for you.
+
+If you do not want this to happen, you can disable this function via the Ads Preferences Manager at: <https://adssettings.google.com/u/0/authenticated?hl=en>. Alternatively, you can disable the DoubleClick-Cookies via the Digital Advertising Alliance website at the following link: <http://www.aboutads.info/choices/>
+
+DoubleClick by Google assigns your browser a pseudo identification number (ID). This is used internally to check which ads have appeared in your browser and which ads have been viewed. The cookies used do not contain any personal information. Using the DoubleClick cookie allows Google and its affiliate websites to serve ads based on prior visits to our, and other, websites and services on the Internet. The information generated by these cookies is transmitted by Google to a server in the USA for evaluation and stored there.
+
+Ads also stores cookies on your device. When you visit our site, your data is collected by us through a cookie provided by Google. This data is then sent to Google. The cookie is set when a user clicks on an ad served by Google. This is not used for personal identification. If the user visits certain pages of our offer, Google and the advertiser can then see they have been redirected to the page via the corresponding ad. Each Google Ads customer receives a different cookie. Thus, no conclusions can be drawn about user behavior on the advertiser‘s website. The data collected with the help of cookies serves statistical purposes. At no point in time will Ads advertisers receive information that could personally identify users.
+
+You can find more information about terms of use and data protection either at: <https://www.google.com/analytics/terms/us.html> or at: <https://policies.google.com/?hl=en>.  
+
+
+### d) Kissmetrics
+
+This website uses the Kissmetrics Analytical Service developed by Space Pencil Inc. (407 Morning Lane Redwood City, CA 94065). Kissmetrics-Tracking uses only first-party cookies. You can remove them simply by deleting your browser cookies. If you want to prevent Kissmetrics tracking in general, just activate the “Do-Not-Track” function in your browser. Kissmetrics will then no longer gather information in your browser.
+
+Alternatively, you can exercise your right to opt out with future effect at: <https://signin.kissmetrics.com/privacy/>  
+Please note that you must repeat this procedure for each different device you use, and then delete all cookies or use a different browser afterwards.  
+
+
+### e) Bing Ads (Microsoft Corporation)
+
+This website uses the conversion-tracking technology “Bing Ads” from Microsoft (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). Microsoft Bing Ads places a cookie on your computer if you have reached our website via a Microsoft Bing advertisement. Cookies are small text files that are stored on your computer system. These cookies lose their validity after 180 days and are not used for personal identification. If the user visits certain pages of this website and the cookie has not expired, we and Microsoft may recognize that the user clicked on the ad and was directed to that page (conversion page).
+
+The information collected through the conversion cookie is used to compile conversion statistics, i.e. how many users click on an ad to access a conversion page. This tells us the total number of users who clicked on our ad and were directed to a page with a conversion tracking tag. However, we do not receive information that personally identifies users.
+
+Microsoft Corporation, headquartered in the United States, is certified under the US European Privacy Shield Agreement, which ensures compliance with EU privacy standards.
+
+If you do not wish to participate in tracking, you can object by easily deactivating the Bing Ads Conversion Tracking cookie in your Internet browser under User Settings. Then you will not be included in the conversion-tracking statistics. Alternatively, you can use the US consumer opt-out page at <http://optout.aboutads.info/> to check whether Microsoft advertising cookies are placed in your browser and opt-out of them.
+
+You can find out more about Microsoft Bing Ads’ privacy policy at the following Internet address: <https://privacy.microsoft.com/en-us/privacystatement>
+
+### f) Social Media Plugins
+
+We use various social media plugins on some of our web pages including Facebook, Twitter and Google+ buttons. We now inform you about the individual social media plugins we use as follows:
+
+#### i) Facebook Plugin
+
+We use the “Facebook-Button” Plugin on our web pages, which is developed by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (Facebook). You can use it to inform your friends whether you like our website, and to reference or share content. The plugin is indicated by the Facebook logo or by the addition of a “Like” label. Personal data can be transferred to Facebook via the plugin if you are logged in on that site.
+
+When you visit our site, your data will be transmitted to Facebook to the same extent that it would be if you visited their website, even if you are not a registered user on Facebook and do not click a plugin on our pages. In this case, however, Facebook is not immediately able to make any direct personal reference by, for example, establishing your IP address. This would only be possible via information from your service provider.
+
+Where applicable, the following data will be transmitted:
+
+  * IP address
+  * Your user ID, if you are registered and logged in to Facebook
+  * Date and time of your visit
+  * Browser version and operating system you are using, and screen resolution
+  * Visitor origins (Referrer), if you followed a link
+  * Installed plugins like Flash or Adobe Reader
+  * URL of our page on which the plugin is integrated.
+
+
+
+If you are registered with Facebook, then their data protection regulations, which can be found at: <https://www.facebook.com/privacy/explanation> will also apply. This privacy policy also explains the precise purpose of the transmitted data.
+
+#### ii) Twitter
+
+The “Twitter” plugin, a microblogging service developed by the American company Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107), allows your browser to establish a direct connection to the Twitter servers, thus allowing the Twitter button to be loaded from there. Information can then be transmitted to Twitter indicating the corresponding website has been activated. Even if you are not logged in, Twitter can collect and save usage data as required. A prerequisite for this is that you must have activated the Twitter button and clicked on one of our web pages. You can then “tweet” information via an open Twitter window, and then submit your tweeted information to Twitter. This information will then be published in your Twitter user profile. Further information on the collection, analysis and processing of your data by Twitter as well as your related rights, can be found in Twitter’s privacy policy, which is available at: <https://twitter.com/privacy?lang=en>.
+
+#### iii) Google Plus
+
+We use the Google Plus plug-in‘s “+ 1-Button” as developed by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”) on our web pages. This plugin is indicated by the Google + logo or by the addition of a “+1” label.
+
+By sending a request to the page containing the plugin, Google receives information about which website pages you have visited. If you are logged in to Google+ at this time, Google may associate the visit with your Google + account. This transmission can also take place without interaction with the plugin, and it can only be avoided by logging out of Google+ before visiting the respective page. When interacting with a plugin (especially clicking the + 1 button), information is also transmitted directly to Google and stored there. You can prevent this data transfer by signing out of Google+ before executing such interactions.
+
+Google + plugins are designed to allow users to publish information worldwide and receive personalized content from Google and partners. In addition to information about which pages were visited and for which content a “+1” was assigned, Google also stores information about the page that was viewed when clicking the +1 button. The results of these interactions, along with the Google+ profile name and profile photo, can be viewed in Google services (in search results, Google Profile, other websites, and ads).
+
+Additional information about the purpose and scope of data collection via the +1 Button and the further processing and use of the data by Google, as well as your rights in this regard and setting options for the protection of your privacy, can be found in the privacy policy relating to the Google +1 button at: [https://developers.google.com/+/web/buttons-policy ](https://developers.google.com/+/web/buttons-policy). The data will be used in accordance with the general Google Privacy Policy, and more information can be found at: [https://policies.google.com/privacy?hl=en ](https://policies.google.com/privacy?hl=en).
+
+#### iv) LinkedIn Plugins
+
+Our web pages use plugins developed by the LinkedIn Corporation(„LinkedIn“), 2029 Stierlin Court, Mountain View, CA 94043, USA. These plugins are indicated by the LinkedIn logo or appear as a “share button” (“Recommend”).
+
+If you access LinkedIn from our site, LinkedIn collects information about your devices and networks.  
+As soon as you visit our website, your browser establishes a direct connection to LinkedIn’s servers. LinkedIn automatically obtains the URL of the webpage you came from or the page to which you are being directed. LinkedIn also receives the Internet Protocol (“IP”) address of your computer or the proxy server through which you access the Internet as well as information about your computer’s operating system and the web browser you use, your mobile device (including the mobile device identifier provided by your mobile device’s operating system), the operating system of your mobile device (if you are accessing LinkedIn from a mobile device), and the name of your Internet service provider or wireless service provider. LinkedIn may also receive geolocation information.
+
+If you are logged into your account as a LinkedIn member while visiting our website and link the contents of this website to your LinkedIn profile, LinkedIn will be able to associate your visit to this website with your user account. The current data protection information from LinkedIn, in particular information about your rights and set-up options, is available on the following website: <https://www.linkedin.com/legal/privacy-policy>.  
+
+
+### g) Mouseflow
+
+This website uses Mouseflow, a web analytics tool developed by Mouseflow ApS, Flaesketorvet 68, 1711 Kopenhagen, Dänemark, to record randomly selected individual visits (using anonymized IP addresses only). The result is a log of mouse movements and clicks acquired with the intention of randomly sampling individual website visits and deriving potential improvements for the website. The information is not personal and will not be shared. If you do not want a record to be created, you can disable the function on all websites that use Mouseflow by visiting the following link: <https://mouseflow.com/opt-out/>.  
+
+
+### h) Retargeting via AdRoll
+
+This website uses AdRoll, the Web and Facebook Retargeting Software developed by the service provider Semantic Sugar Inc. (dba AdRoll), 972 Mission Street, San Francisco, CA 94103, USA (European location: AdRoll EMEA, Level 6; 1, Burlington Plaza Burlington Road; Dublin 4, Ireland). When you visit this website, cookies or smart pixels are set in your browser, which allow AdRoll to discern your interests and then show you our relevant product advertising when you visit your Facebook account. To obtain more information about AdRoll, you can view their privacy policy at: <https://www.adrollgroup.com/privacy>. There is no collection of personal data and your IP address is stored in an anonymized form. No analysis takes place via your Facebook account, nor is a user profile created. You can delete the cookies via the settings in your browser. You can also opt-out of cookies by using the following portals: [“Interest Based Advertising Policies”](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false), [“NAI opt out tool“](http://optout.networkadvertising.org/?c=1#!/) or [“opt out via the DAA“](http://www.aboutads.info/choices/).  
+
+
+### i) Conversion measurement with Facebook Pixel’s visitor tracking
+
+With your agreement, which you have given as follows:  
+**“I consent to the use of Facebook’s Visitor Action Pixels”** ,  
+we employ “visitor action pixels” developed by:
+
+Facebook Inc.  
+1601 S. California Ave,  
+Palo Alto, CA 94304, USA  
+(“Facebook”)
+
+on our website. When you visit our site, your data is collected by us through a cookie provided by Facebook. This data is then sent to Facebook. This means users’ behavior can be tracked after they have been redirected to a provider’s website by clicking on a Facebook ad. This process is designed to assess the effectiveness of Facebook advertisements for statistical and market research purposes and may help to optimize future advertising measures.
+
+The data collected is anonymous to us, so we cannot reach any conclusions about the identity of the users. However, the data is stored and processed by Facebook, so that a connection to the respective user profile is possible, and Facebook can use the data for its own advertising purposes according to the following Facebook data usage directive: <https://www.facebook.com/about/privacy/>. This facility enables Facebook and its affiliates to display ads both on Facebook and elsewhere. A cookie may be stored on your computer for these purposes.
+
+A consent to the use of visitor action pixels may only be declared by users who are 13 years old and above. So, if you are younger, we request that you ask your parents or legal guardians for permission.  
+Please click [here](http://www.youronlinechoices.eu/) if you wish to withdraw your consent.  
+
+
+## 9\. Your rights, information
+
+If you no longer agree to the storage of your personal data or if it has become inaccurate, we will initiate the deletion or blocking of your data or make the necessary corrections (as far as this is possible under statutory provisions) upon receiving an appropriate instruction. Upon request, at any time we can send you information free of charge about all your personal data which we have saved.  
+For questions regarding the collection, processing or use of your personal data, or for enquiries about the correction, blocking or deletion of data, please call (702) 534-3832 or send an email to us at: [clients@textbroker.com](mailto:clients@textbroker.com) or [authors@textbroker.com](mailto:authors@textbroker.com)  
+
+
+## DATA PROTECTION OFFICER
+
+Sario Marketing GmbH
+
+Data Protection Officer  
+Grosse Bleiche 46  
+55116 Mainz  
+Germany
+
+E-Mail: [privacy@textbroker.eu](mailto:privacy@textbroker.eu)  
+Tel.: +49 (0) 6131 32 720 – 0  
+Fax: +49 (0) 6131 32 720 – 84
