@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesia-investments.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819154332id_/https%3A//www.indonesia-investments.com/privacy-and-security/item20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesia-investments.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524185848id_/https%3A//www.indonesia-investments.com/privacy-and-security/item20) for the most accurate reproduction.*
 
 # Privacy and Security | Indonesia Investments
 
