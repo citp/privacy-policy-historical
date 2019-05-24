@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628003651id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedindia.co.in privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524104656id_/http%3A//www.classifiedindia.co.in/privacy.php) for the most accurate reproduction.*
 
-# Free Noida classifieds, Free classifieds in Noida, Classifieds Noida,Noida classifieds, All India classifieds - Noida, India - Classified india
+# Free Coimbatore classifieds, Free classifieds in Coimbatore, Classifieds Coimbatore,Coimbatore classifieds, All India classifieds - Coimbatore, India - Classified india
 
 adsense ads 
 
