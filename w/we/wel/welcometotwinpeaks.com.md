@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the welcometotwinpeaks.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919200639id_/http%3A//welcometotwinpeaks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welcometotwinpeaks.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525015058id_/https%3A//welcometotwinpeaks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
@@ -152,5 +150,3 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can follow  the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.**
-
-Last Edited on 2017-03-14
