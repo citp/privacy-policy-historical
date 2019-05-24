@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ektron.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204012350id_/https%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ektron.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180505id_/https%3A//www.episerver.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Episerver
 
@@ -285,7 +285,7 @@ With regards to the Digital Experience Cloud and other products and services we 
 
 
   * **How you can opt out of marketing**
-    * If you don’t want to receive marketing communications from us, you can at any time use the “Unsubscribe” link present in all marketing emails from us, or go to our [unsubscribe page](https://web.archive.org/actions/unsubscribe/).
+    * If you don’t want to receive marketing communications from us, you can at any time use the “Unsubscribe” link present in all marketing emails from us, or go to our [unsubscribe page](https://www.episerver.com/actions/unsubscribe/).
     * Please note that opting out of email marketing typically doesn’t mean that you won’t see ads from us – please see the section below on how you can opt out of web tracking, although it doesn’t mean that you will opt out of ads altogether.
 
 
