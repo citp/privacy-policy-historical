@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925070708id_/https%3A//www.keyt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524223449id_/https%3A//www.keyt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KEYT
 
