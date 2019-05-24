@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215191920id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkana.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524183313id_/http%3A//www.gorkana.com/about-gorkana/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gorkana
 
