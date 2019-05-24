@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marijuanamoment.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231015219id_/https%3A//www.marijuanamoment.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanamoment.net privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524022653id_/https%3A//www.marijuanamoment.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marijuana Moment
 
