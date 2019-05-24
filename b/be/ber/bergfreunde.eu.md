@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergfreunde.eu privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824021434id_/https%3A//www.bergfreunde.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergfreunde.eu privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524190414id_/https%3A//www.bergfreunde.eu/privacy) for the most accurate reproduction.*
 
 # Privacy | Bergfreunde.eu
 
@@ -68,17 +68,17 @@ The legal basis for the processing is the consent you have given when participat
 
 We would also like to use the data you have entered or accrued when using the websites to inform you about our products and services (advertising) or to improve our offerings and services (product development).
 
-On our website, you can subscribe to a free newsletter. The data collected during registration will be processed (the data displayed as mandatory fields are absolutely necessary for receipt of the newsletter, while voluntary data fields are only used for a more personal form of address and selecting the information displayed).
+On the basis of your explicit consent, you can subscribe to our free _e-mail newsletter_ on our website. We use our e-mail newsletter to inform you regularly about all areas of our offering. The data collected during registration will be processed (the data displayed as mandatory fields are absolutely necessary for receipt of the newsletter, while voluntary data fields are only used for a more personal form of address and selecting the information displayed). We process data about your usage behaviour after we have sent you e-mails (e.g. click behaviour). You can object to receiving our newsletter at any time (see below for how to object).
 
-We will contact you via e-mail with information, special sales and offers for Bergfreunde services tailored to you and your interests on the basis of either your explicit consent or - if you purchase similar goods or services from us and store your e-mail address here - even without your extra consent. We process data about your usage behaviour after we have sent you e-mails (e.g. click behaviour).
+_Without having separate consent_ , we will contact you directly via email outside of our email newsletter with customer satisfaction surveys as well as information, offers and promotions that are tailored to you and your interests only if and to the extent that (a) we have received your email address from you in connection with a service or the sale of a product, (b) we use you for direct marketing of our similar products or services, and (c) you have not objected to receiving it (see below for how to object). We will inform you about this use and your right to object each time you enter your e-mail address. We also process data about your usage behaviour after we have sent you e-mails (e.g. click behaviour).
 
-We will contact you by telephone only with your express consent to provide you with information, special sales and offers for Bergfreunde services tailored to your personal interests or usage of our site.
+We will contact you **by telephone** only with your express consent in order to provide you with information, special sales and offers for Bergfreunde services tailored to your personal interests or usage of our site.
 
-We will contact you by post with advertisements in written form, even without your consent, to the extent permitted by law for Bergfreunde services.
-
-You can object to the use of your personal data for purposes of advertising and product development as well as the establishment of contact for this purpose in whole or in part at any time or withdraw any consent you have given. Please use the corresponding options provided for you (e.g. the unsubscribe link in your personal customer account) or contact our data protection officer via e-mail or in writing (keyword: data protection) using the contact information specified under section 8.
+We will contact you **by post with advertisements in written form** , even without your consent to the extent permitted by law for Bergfreunde services.
 
 The legal basis for processing is your consent (Art. 6 (1) (a) GDPR) and our legitimate interests (Art. 6 (1) (f) GDPR) in conjunction with § 7 (3) of the German Act against Unfair Competition (UCA), if applicable.
+
+The following applies to objecting to advertising: You can object at any time to the processing of your personal data for the purposes of advertising and product development as well as the establishment of contact via a specific form, either in whole or in part, or revoke any consent you may have given. Please use the corresponding options provided for you (e.g. the logout link in your personal customer account) or contact our data protection officer via e-mail or in writing (keyword: data protection) using the contact information specified under section 8. This objection is free of charge, i.e. there are no costs other than the costs for the transmission of your objection according to the respective basic tariffs. All objections received and confirmed by us will be accounted for starting at 6:00 a.m. on the next day/working day. Please keep in mind that we may still contact you during the time needed to process the request.
 
 This data will be deleted or stored only in aggregated, anonymous form after your objection or withdrawal of any consents you have given or after cessation of use by us at the very latest. If necessary, we will store the data of your objection in order to prevent further contact with you.
 
@@ -116,7 +116,11 @@ In some cases, we also transfer your data to third parties, i.e. to partners wit
 
 To process your orders, we send payment information to payment service providers who then process the payment transactions associated with the orders. These include PayPal and your financial institution. The legal basis for the transmission is the performance of the contract with you, Art. 6 (1) (b) GDPR.
 
-When you pay upon invoice, we also transmit data relevant to your order to Payolution GmbH and net-m privatbank 1891 AG, to which we assign the invoice you are to pay. In order to determine whether or not to purchase the claim, the above mentioned companies will perform a credit check. The legal basis for the transmission of the data is your express consent provided during the ordering process (Art. 6 (1) (a) GDPR).
+When you pay upon invoice and/or use other payolution payment methods as defined by our general terms and conditions, we also transmit data about the order you placed to Payolution GmbH as well as net-m privatbank 1891 AG to which we assign the invoice you are to pay. The companies mentioned above then do a credit check in order to determine whether or not to purchase the receivable. The legal basis for the transmission of the data is your express consent provided during the ordering process not only to the transfer your data to Payolution GmbH and net-m privatbank 1891 AG by us but also to the subsequent processing of your data by net-m privatbank 1891 AG as the responsible party (Art. 6 (1) (a) GDPR). The wording of the consent can be retrieved[here](https://www.bergfreunde.eu/bf/).
+
+The Payolution GmbH’s Privacy and Data Protection Policy on the processing of your personal data as the responsible party can be found [here](https://payment.payolution.com/payolution-payment/infoport/dataprivacydeclaration?lang=en&mId=QmVyZ2ZyZXVuZGUgR21iSA==).
+
+The net-m private bank 1891 AG’s Privacy and Data Protection Policy on the processing of your personal data as the responsible party can be found [here](https://www.privatbank1891.com/en/meta/data-privacy/).
 
 #### 3.2.2 Buyer protection/Ratings
 
@@ -128,11 +132,31 @@ Other personal data is transferred to Trusted Shops only if you decide to use or
 
 #### 3.2.3 Logistics companies
 
-For the transport of goods, we transfer your address and contact data, when necessary, to parcel delivery companies. The legal basis for the transmission is the performance of the contract with you, Art. 6 (1) (b) GDPR.
+In order to _ship goods to you_ , we transfer your address and contact data, when necessary, to parcel delivery companies (usually DHL). For shipment within Germany, this includes the name, company (if applicable) as well as the postal address/Packstations and any additional information regarding the address. In this context, we may provide you with links or tracking numbers to track shipments; please note that we do not provide your e-mail address to logistics companies for these purposes. If you are contacted by them directly (e.g. to agree on a specific delivery time), you have probably subscribed to a corresponding service provided by the logistics company and agreed to this particular use in doing so. In other delivery countries, additional information may be required (e.g. e-mail address or telephone number) to enable the parcel service to find or reach you because of the type of delivery or the circumstances there; this will then be displayed when you enter the address. The legal basis for the transmission is the performance of the contract with you, Art. 6 (1) (b) GDPR.
+
+For _returns from you to us_ , we offer a voluntary service (to simplify and save costs) of generating the postage and return label via our website. To generate the label, you will be forwarded from our website to DHL's returns portal (you can also go directly to a logistics company instead). In order to provide you with the best possible service, we transfer personal data from your order that is necessary for creating the return label (i.e. receipt number, zip code, name, address and e-mail address). This information is required for billing purposes, correctly filling in the label and sending it to you via e-mail so that you can print it. While this eliminates the need for you to enter this information yourself, it does require us to forward the information to DHL (using a secure form). We also point this out to you on our website before you use this service. The legal basis for the transmission is the provision of a service requested by you or the steps taken by you prior to entering a contract with the logistics company, Art. 6 (1) (b) GDPR.
 
 #### 3.2.4 Social networks
 
+Our presence on social media networks and platforms serves to provide better, more active communication with our customers and interested parties. There we inform you about our products and special offers. When you visit our online presence on social media, your personal data may be automatically collected and processed for market research and advertising purposes. From this data, so-called usage profiles are created using pseudonyms. These may be used, for example, to place advertisements inside and outside the platforms that are presumably in line with your interests. Cookies are generally used on your device for these purposes. Visitor behaviour as well as the interests of the users are stored in these cookies.
+
+In accordance with Art. 6 (1) (f) GDPR, the processing of the data serves to protect our legitimate interests - which predominate when weighed against the interest of the data subject - in providing an optimised presentation of our offerings and more effective communication with customers. If you are asked by one of the social media platform providers for your consent to data processing, e.g. by means of a checkbox, this is the legal basis for data processing Art. 6 (1) (a) GDPR.
+
+If the aforementioned social media providers are headquartered in the USA, the following applies: the European Commission has issued an adequacy decision for the USA on the basis of the EU-US Privacy Shield. Current certification for the respective company can be viewed here.
+
+For detailed information on the data processing carried out by providers on their pages, contact support as well as your rights and options to protect your own privacy, including opt-out options, please refer to the links to the provider’s data protection information below. If you still need assistance with this matter, you can also contact us.
+
+_Sharing_
+
 If you wish to share one of our websites on a social network (e.g. Facebook or Twitter) by clicking on one of our "Share" buttons, this information will be transferred to the social network. This assumes that you are logged in to the social network. The legal basis for the transmission is our legitimate interest in offering you the possibility of “sharing", Art. 6 (1) GDPR.
+
+_Facebook Fan Pages_
+
+We operate a fan page on Facebook to provide information about our products and special offers. These can be found at: <https://www.facebook.com/bergfreunde> Visitor data is collected and processed for various purposes on our fan page.
+
+By means of this data concerning the use of the fan page, Facebook creates anonymous analyses, which we then receive to improve our offerings. This analysis, called "Insights", is a joint responsibility of Facebook and us. The basis for this is an agreement between responsible parties in accordance with Art. 26 GDPR, which you can view [here](https://www.facebook.com/legal/terms/page_controller_addendum). Accordingly, Facebook Ireland Ltd. is primarily responsible for data processing and compliance with data subjects' rights, in particular for providing information, deleting it or objecting to the processing of the data. You can find more information about Facebook Ireland's data processing for Insights and exercising data subjects' rights [here](https://www.facebook.com/legal/terms/information_about_page_insights_data).
+
+Apart from Insights, Facebook is also responsible for further processing of personal data, e.g. for the provision of services or advertising. You can find more information about this [here](https://www.facebook.com/privacy/explanation).
 
 ## 4\. Cookies and web analysis tools
 
@@ -232,7 +256,7 @@ Christian Volkmer, Project 29 GmbH & Co. KG
 
 Contact: Ostgasse 14, 93047 Regensburg Germany
 
-info@projekt29.de
+datenschutz@bergfreunde.de
 
 Phone: +49 941-2986930
 
