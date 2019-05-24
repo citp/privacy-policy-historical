@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228105459id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524090309id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
 
 # Privacy | Immigration New Zealand
 
@@ -65,6 +65,18 @@ In accordance with the 'Privacy Act 1993', we reserve the right to refuse your r
 If you wish to check personal information held about you, contact your local Visa Application Centre (VAC) or INZ office. If you do not have a local VAC or INZ office, you can contact us or post your enquiry to:  Immigration New Zealand, PO Box 3705, Wellington 6140.
 
 [Contact us](https://www.immigration.govt.nz/contact)
+
+## Transparency statement
+
+The Ministry of Business, Innovation and Employment’s (MBIE) transparency statement describes the kind of information MBIE gathers to ensure it can effectively:
+
+  * protect people, information, and places
+  * ensure regulatory compliance, and
+  * detect and prevents criminal offending.
+
+
+
+_[MBIE’s transparency statement](https://www.mbie.govt.nz/about/open-government-and-official-information/transparency-statement/)_  | Ministry of Business, Innovation and Employment
 
 ## Statistical information
 
