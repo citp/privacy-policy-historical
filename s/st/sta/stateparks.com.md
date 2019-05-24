@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828032348id_/http%3A//stateparks.com/legal/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524160507id_/https%3A//www.stateparks.com/legal/privacy-policy.asp) for the most accurate reproduction.*
 
 # None
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms.asp](https://web.archive.org/web/20180828032348id_/http%3A//stateparks.com/legal/terms-conditions.asp)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms.asp](https://web.archive.org/web/20190524160507id_/https%3A//www.stateparks.com/legal/terms-conditions.asp)
 
  **Your Consent**
 
