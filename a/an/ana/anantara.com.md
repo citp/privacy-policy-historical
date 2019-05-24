@@ -1,53 +1,189 @@
-> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026063231id_/http%3A//www.anantara.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anantara.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524063657id_/https%3A//www.anantara.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anantara Hotels | Minor International PCL
+# Privacy Notice | Anantara Hotels | Minor International PCL
 
-**Using Our Web Site  
-** When you visit our web site, you are given a "cookie" and your computer is assigned an ID number. Cookies track user preferences and allow us to offer a tailored web experience, without visitors having to re-enter their preferences each time they visit. We also use cookies to compile aggregate web site data, which helps us to monitor web site traffic and track what parts of our web site visitors use most frequently. Our cookies do not contain Protected Information and do not follow visitors on the Internet after leaving our web site.  
-Once you have visited our web site and accepted our cookie, your ID number is automatically assigned to your computer whenever you visit our web site. Although you remain anonymous until you enter Protected Information in the web site, the ID number allows us to log your session, so that we may better provide individualized support. Once you enter Protected Information on the web site, we associate your ID number with your contact information so we can recognise you on future visits and keep track of information that appears to interest you.
+## Privacy Notice
 
-**Rejecting, blocking or refusing cookies**  
-Temporary cookies are a built-in feature of the technology used within our website. The majority of internet browsers will automatically accept these cookies, however you can adjust the settings on your internet browser if you would prefer to delete them or have them automatically refused. Refer to the “Help’’ section on your browser toolbar to find out how to reset your preferences regarding cookies.  
-However please be aware that rejecting cookies may affect your ability to use particular features associated with your user profile.  
-While browsing our web site, you may also provide us with additional information. You can search for rates and availability at our hotels and resorts without providing any Protected Information. We use this data mainly for web site management purposes, but do not connect it to any Protected Information, such as your name or address.  
-You may wish to make a specific information request about one of our hotels or resorts through our web site or you may wish to participate in one of our on-line surveys or promotions. We may ask you for Protected Information to respond to this request or to participate in our various programs. If you provide us with this information, we only use it for the stated purpose. Providing your personal data for such purposes constitutes your acknowledgment of and agreement to the terms and conditions contained in this privacy policy. If you are uncomfortable providing this information over the Internet, you can always call your desired hotel or resort directly.
+**This Privacy Notice was last updated on 3 September 2018  **
 
-**Making a Reservation**  
-Visitors to anantara.com avanihotels.com or any integrated partner websites who elect to make reservations online are asked to complete a reservation profile the first time they make a reservation. When you create a reservation profile you will be asked to provide specific Protected Information, including your name, address and contact information, as well as certain guarantee and deposit information to secure your reservation, such as your credit card number. Providing your personal data for such purposes constitutes your acknowledgment of and agreement to the terms and conditions contained in this privacy policy.   
-Reservations can also be made by contacting a particular hotel or resort directly. When you make a reservation we may ask you for Protected Information such as your name, address, telephone number and method of payment.
+Minor International PCL and its subsidiaries Minor International PCL and its subsidiaries (“Minor Group”, “us”, “we” or “the Company”) (the “Data Controller”), is a global company focused on three primary businesses including restaurants, hotels and lifestyle brands distribution. . We understand and respect the importance of your privacy and below we explain: 
 
-**Creating a Guest Profile**  
-During the reservation process you may opt to create a Guest Profile and in doing so provide us with personal information, including but not limited to; name, contact details, holiday preferences, and payment details. All information provided to create your Guest Profile is covered under the ‘Protected Information’
+  * What information we collect about you
+  * Who is collecting data
+  * How we will use this information
+  * Marketing
+  * How data is stored and who it could be shared with
+  * Data Breach
+  * Your rights and how to exercise them
+  * Cookies
+  * Other websites
 
-**Secure Transactions**  
-Minor Hotel Group Limited websites use the SSL encryption protocol (Norton Secured Seal, powered by VeriSign) to guarantee secure transactions and complete confidentiality. Your bank details and all the information you enter on the various forms are automatically encrypted when your data is transferred over the network using our SSL (Secure Socket Layer).  
-SSL is the most widely used and successful secure transaction solution. The SSL encryption system automatically encrypts your data before it is transmitted over the network, and it can only be decrypted using a unique key once it has arrived on our server.  
-If your browser supports this system, you will see a padlock or VeriSign symbol in the top or bottom right hand side of your screen.
 
-**During Your Stay**  
-During your stay, we record your itemised spending to accurately assemble your folio, which sets out your room rate and other expenses billed to your room. We also record this information to comply with financial reporting requirements, including those imposed by our auditors and government regulators. Information particular to your stay may also be stored (i.e. health issues, payment difficulties). This stay specific information is stored at the particular hotel where you stayed and is combined with information from previous visits that you have made to our hotels. We may also collect certain information as required by local laws (e.g. passport number). In addition, we may retain the content of any document (including comment cards, electronic documents such as e-mails and other similar forms of communication) that you send us before, during or following your stay. This information may be shared within Minor Hotel Group Limited but will not be shared with any third party. Finally, we are required under relevant law to log and retain all records of internet activity at our hotels for a period of 90 days. 
 
-**Guest’s Consent  
-** By providing Protected Information in the registration card or through the online booking process or by other method as mentioned above, you are considered to have provided Minor Hotel Group Limited express consent to obtain, own, use and share your Protected Information within Minor Hotel Group Limited and its subsidiary in accordance with this Privacy Policy.  
-This consent is given voluntarily and may be revoked at any time by sending an e-mail to [marketing@anantara.com](mailto:marketing@anantara.com).
+We may change this Privacy Notice from time to time, in order to reflect changes in the law and/or our business practices. We recommend you check this Notice for changes whenever you visit our website.
 
-**Storage of Protected Information**  
-Each hotel takes steps to ensure that Protected Information is kept in a secure location, to which only  authorised individuals have access. We also store certain guest information in our Guest Reservation System (the "System"). The System comprises a secure customer database stored on a dedicated server. We store Protected Information for such period of time required by law or for as long as we believe there to be a business justification for doing so.  
-It is important to note that no e-mail communication is fully secure. We recommend that you do not include any confidential information when using e-mail. For your protection, our e-mail responses to you will not include any confidential information.
+## What information we collect about you
 
-**Protected Information Provided to Third Parties**  
-Agents, contractors or third party service providers to Minor Hotel Group Limited may receive your Protected Information in the course of providing services to Minor Hotel Group Limited.Using contractual or other arrangements, we ensure these parties protect your Protected Information in a manner consistent with our Privacy Policy. Minor Hotel Group Limited also manages properties on behalf of third party owners. Guest information required for the business transaction between the guest and the property is shared with the property owner, but no other Protected Information is shared with property owners. If we cease to manage any particular property, Protected Information may remain with Minor Hotel Group Limited and such information that is shared with the property owner remains with such owner.  
-We may, from time to time, conduct joint marketing activities with selected partners where we deem the combined offers to be of relevance or interest to our guests.  In these instances, Protected Information will only be accessible to mailing houses or parties contractually engaged by Minor Hotel Group Limited with appropriate privacy and confidentiality controls in place.  At no time will Protected Information be issued to any partners for their own use.  
-We will only share Protected Information about you outside Minor Hotel Group Limited without your consent where: (a) it is required or authorised by law; (b) it is required to provide you with services you have requested in which case you will be deemed to have given your consent; (c) if your stay has been paid for by a third party we will provide billing information to the paying party; (d) if you have failed to pay amounts owed to a property or (e) to global or regional hotel alliances to which Minor Hotel Group Limited is a party, in accordance with customary industry practice.
+For the purposes mentioned in the following paragraph “Why it is being collected” we collect the following categories of personal data when you register on our website, participate in our surveys or subscribe to our newsletters, alerts or use some of our products or services:
 
-**Guest Access to Protected Information**  
-We are happy to provide our guests, upon written signed request, with details of the Protected Information that we hold about them. We require that proof of identity be provided together with any such requests, typically in the form of a passport copy, together with contact information for the purposes of verification. Inquiries about Protected Information should be addressed to:
+Personal information: name, gender, nationality, date of birth, and names of your family members, their date of birth, nationality, etc. 
 
-**Guest Services  
-**[privacy.corporate@minornet.com](mailto:privacy.corporate@minornet.com)  
-Minor Hotel Group Limited  
-18th Floor, Berli Jucker House  
-99 Soi Rubia, Sukhumvit 42 Rd,  
-Bangkok 10110, Thailand
+  * Preference information: information relevant to the service being booked
+  * Contact information: address, telephone number, e-mail, address, etc. 
+  * Payment information: credit card details, billing address, and other payment and billing information. 
+  * Loyalty and referral program: details and partner program affiliation, marketing and analytical data.
+  * Accommodation information: dates of arrival and departure from our hotels, the location of the room, smoking/ non-smoking room, type of room and bed requests, preferred newspaper, etc. 
+  * Feedback: records of your contact with us such as via the phone number, or if you get in touch with us online using our online services, details such as your mobile phone location data, IP address and MAC address, including history of any communications with us, and analysis of your interaction with us, which helps us to customize offers to you and provide information that we think are of interest or relevance to you. 
+  * Technical information: IP address, geographic data, browser and computer system, application version, language settings and pages that have been shown to you, etc. 
+  * Professional information: if you are applying for a position at Minor Group, in addition to the abovementioned information we may collect your education, training and employment records. 
 
-If at any point we decide to use Protected Information in a manner different from that stated in this Privacy Policy, we will notify you by letter or e-mail correspondence sent to your last known address.
+
+
+We also limit the information collected in relation to children under 18 years to their name, nationality, and date of birth, which can only be supplied to us by an adult who is either the children’s parent or guardian or who has the parent’s or guardian’s consent. We kindly request that parent ensure that children do not send or provide us with any Personal Data without parental consent, and if such information was sent, please get in touch with us and we will delete such information. 
+
+We also collect information about your website usage by using cookies (see below).
+
+## Who is collecting data
+
+Data could be collected by a number of different entities within our global group depending on your interaction with us. Please contact the region closest to the location of the interaction, service or product consumed in the first instance. If the regional Head of Data Privacy is unable to satisfy your request, it will be forwarded internally by us to the most appropriate Head of Data Privacy. Please use the Group Head of Data Privacy as a point of escalation or for any other query.
+
+**All entities in Asia and Group Head of Data Privacy**
+
+Minor International PCL is an international hospitality company with the registered office at Berli Jucker House, 99 Soi Rubia, Sukhumvit 42 Rd, Bangkok 10110, Thailand.
+
+The Head of Data Privacy of our company is Marcos Cadena  who can be contacted by the following methods:
+
+a. Email: [privacy.corporate@minor.com](mailto:privacy.corporate@minor.com)  
+b. Post:  Berli Jucker House, 99 Soi Rubia, Sukhumvit 42 Rd, Bangkok 10110, Thailand
+
+**Minor Hotels in Portugal**
+
+****The person responsible for Data Protection is Filipa Jordao (Head of Data Protection) who can be contacted by the following methods:
+
+a. Email: [dpo.mhpt@minorhotels.com](mailto:dpo.mhpt@minorhotels.com)   
+b. Telephone: \+ 351 213 932 670  
+c. Post: Rua Barata Salgueiro 37, - 1st floor 1250-042 Lisbon, Portugal  
+****
+
+**Oaks Hotels and any of our entities in Australia**
+
+****The person responsible for Data Protection is Romesh Niles (Head of Data Protection) who can be contacted by the following methods:
+
+a. Email: [Privacy.corporate@minorhotels.com.au](mailto:Privacy.corporate@minorhotels.com.au)   
+b. Post:  PO Box 473, Cotton Tree, QLD 4558
+
+## How we will use this information
+
+We will use this information for the following purposes:
+
+  * Performing our customer service obligations: management of reservations and your stay in our properties, payment, catering to your requests, monitoring use of services (telephone, bar, pay TV etc.) in response to a contractual relationship between you and us, such as a hotel booking or service request.  
+  * Improvement of our services: assessment of our services in hotels, restaurants, and other outlets, improvement in the operation of our business as part of the contracted relationship between you and us.  
+  * Personalization of our services and communications: personalize content and tailor our digital customer experience and offerings, understand customers’ requirements to develop targeted marketing programs, newsletters, and promotions. We will always seek and record your permission to opt in and participate in any of our marketing campaigns. Use of your information for marketing is presented in more detail under the Marketing section below. Personalisation of our website based on your preferences is covered in the Cookies section at the end of this Notice.
+  * Recruitment: recruitment of staff or interns for Minor Group. As part of your submission of information to us as a result of applying for a position at Minor Group, you give us permission to process your data as part of the recruitment process. 
+  * Compliance with legal obligations: compliance with applicable laws, such as local privacy laws, prevention of fraud or money laundering, police investigations, and tourism regulations 
+
+
+
+## Marketing
+
+We would like to send you information about new products and services of ours and companies within our Group which may be of interest to you. If you have consented to receive marketing, you can opt out at a later date.
+
+You have a right at any time to stop us from contacting you for marketing purposes.
+
+Each email contains a link which allows an easy opt-out of our services, and if you no longer wish to be contacted for marketing purposes you can opt out at any time.
+
+## How data is stored and with whom it could be shared 
+
+Data is recorded on paper and IT systems. Our data retention Notice sets out where this data is stored for the above-mentioned purposes. 
+
+Data may reside on shared IT systems with one of our group companies, who will be able to access the data for the above-mentioned purposes.
+
+As a global hospitality company, we may transfer your Personal Data across multiple jurisdictions, insofar as reasonably necessary for the purposes, and in accordance with this Privacy Notice, your Personal Data may be transferred to the following locations: 
+
+  * Countries where our corporate offices are located;
+  * Countries in which we manage and operate hotels, residences, and/or sales offices; and
+  * Countries where our third party service providers, advisors, and consultants are located, which changes from time to time.
+
+
+
+Where Personal Data is transferred to a country with a lower level of data protection as compared to the country in which the information was collected Minor Group will only transfer data overseas if the appropriate safeguards are in place, and if enforceable data subject rights and effective legal remedies are available to data subjects.
+
+We will only share your information with other entities within our group or third party companies when:
+
+  * You agree for us to share this information with third-party companies to receive marketing material from them.
+  * Sharing your information with other entities within our group or third party companies (such as our suppliers) is necessary to perform the services you have requested from us
+
+
+
+Without prejudice to any communications made to comply with legal or contractual obligations, data may also be disclosed to external parties as required by laws or regulations (e.g. court, tribunal, regulatory authority or governmental entity).
+
+When we share your information with other entities within our group or contracted third party companies we take all reasonable steps to ensure that your information and privacy are protected in line with the applicable legal obligations.
+
+The retention period of your information, documented in our data retention Notice, will be determined based on the following criteria:
+
+  * Reasonable business needs: for as long as we provide goods and services to you, or managing our relationship with you, managing our operations; and/or
+  * Reasonable statutory periods: for as long as someone could bring a claim against us or for as long we need to comply with our fiscal and legal obligations; and/or
+  * Other retention periods in line with legal and regulatory guidance and requirements.
+
+
+
+Minor Group will comply with the required legal time period in each jurisdiction for retaining your personal data.
+
+## Data Breach
+
+If there has been compromise of the confidentiality, integrity or availability of personally identifiable information, Minor Group will comply with the requirements of applicable laws in the affected region(s), including GDPR and local legislation.
+
+Our action will be commensurate with the degree of harm associated with the exposure, the requirements of legislation and the requirements of the applicable regulators. This could include notifying you and the relevant data protection supervisory authority to provide you and them with: 
+
+  * A description of what has occurred;
+  * The kinds of information concerned; and
+  * The next steps you should take in response to the data breach.
+
+
+
+When determining whether the data breach is likely to result in a high risk to the rights and freedoms of the data subject we will consider factor such as the sensitivity of the information, the kind of persons who could obtain the information and the nature of the harm.
+
+In all cases where we become aware that there has been a data breach but are uncertain of the circumstances we will carry out an expeditious assessment of the circumstances to determine the level of notification necessary to any applicable regulators within any deadline required by the applicable regulations and ensure that any incident is contained as quickly as is possible and within a reasonable length of time depending on the given circumstances. 
+
+## Your rights and how to exercise them
+
+You have the right to determine how we use your data and to oppose to the purposes of processing at any time. You have the right to withdraw your consent at any time, without affecting the lawful processing of data based on consent up to the point of its withdrawal
+
+We remind you that you have the right to request from us access to and rectification or erasure of personal data, or a restriction of processing, or to object to the processing of data concerning you subject to the restrictions of the local legal system. 
+
+You also have the right to receive your personal data that you provided to us in a structured, commonly used and machine-readable format and have the right to transmit such data to another data controller without hindrance from us. In exercising your right to data portability, you have the right to have your personal data transmitted directly from one data controller to another, where technically feasible. 
+
+Under certain circumstances where applicable law permits, you also have the right to lodge a complaint with a competent data protection supervisory authority.
+
+You can contact us at [privacy.corporate@minor.com](mailto:privacy.corporate@minor.com) to exercise your rights, please note that we may request proof of your identity before making any changes. 
+
+## Cookies 
+
+We use cookies (small text files stored in your browser) and other techniques such as web beacons (small, clear picture files used to follow your movements on our website). These collect information that tells us how you use our website and web-related services. We use these to compile statistical reports on website activity.
+
+This helps us make our website relevant to your interests and needs. We may use a persistent cookie (a cookie that stays linked to your browser) to record your details so we can recognize you if you visit our website again. 
+
+You can choose to refuse cookies, or set your browser to let you know each time a website tries to set a cookie. For further information on cookies, visit [www.aboutcookies.org](https://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/) where you can also find information on how to turn them off.
+
+The type of cookies we use on this site include: 
+
+    1. Strictly Necessary Cookies: These cookies are essential, as they enable you to move around the Service and use its features, such as accessing logged in or secure areas.
+    2. Advertising Cookies: These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same advertisements from continuously reappearing, ensuring that ads are properly displayed, and in some cases selecting advertisements that are based on your interests.
+    3. Analytics Cookies: These cookies collect information that is used, either in aggregate form to help us understand how Minor Group websites are being used or how effective our marketing campaigns are, or to help us customize our websites for you. This information will also be used for evaluating your use of Minor Group website, compiling reports on Minor Group website activity for Minor Group website operators and providing them other services relating to Minor Group website activity and internet usage.
+
+
+
+If you wish to block the cookies please visit:
+
+  * Google AdWords - <http://www.google.com/settings/ads>
+  * Facebook Pixel - You may disable any of these cookies or similar technologies via your browser settings.
+  * Twitter Advertising - You may disable tailored advertisements via your Twitter settings by visiting the “Promoted content” and “Personalization” sections.
+  * Google Analytics - You may disable any of these cookies via your browser settings or by downloading a browser add-in: <https://tools.google.com/dlpage/gaoptout>. 
+
+
+
+You may disable any of these cookies via your browser settings.
+
+## Other websites
+
+This privacy Notice applies only to this website which contains links to other websites. If you access websites through the links you should read the privacy policies specific to those websites.
