@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227013042id_/https%3A//www.ontariocolleges.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524124003id_/https%3A//www.ontariocolleges.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ontariocolleges.ca
 
