@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtasanandreas.net privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214110415id_/https%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtasanandreas.net privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524023105id_/https%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
 
 # GTANet.com - Now With Added Vitamins! : Cookies and Privacy Policy
 
