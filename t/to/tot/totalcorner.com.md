@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalcorner.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922061914id_/http%3A//www.totalcorner.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalcorner.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524174924id_/https%3A//totalcorner.com/page/privacy) for the most accurate reproduction.*
 
 # Best football predictions site | Soccer corner stats | Live score stats - TotalCorner
 
@@ -135,6 +135,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-win@totalcorner.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 2017-09-10
