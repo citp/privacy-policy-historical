@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingoodcents.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122100427id_/http%3A//www.ingoodcents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingoodcents.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524093320id_/http%3A//www.ingoodcents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | In Good Cents
 
