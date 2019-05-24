@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltimefba.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118020349id_/http%3A//www.fulltimefba.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltimefba.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524081635id_/http%3A//www.fulltimefba.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Full-Time FBA
 
