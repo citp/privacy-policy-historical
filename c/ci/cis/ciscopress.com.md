@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171826id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscopress.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524110317id_/http%3A//www.ciscopress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ### Information Collection and Use
 
-CiscoPress.com is operated from 800 East 96th Street, Suite 300, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [information@ciscopress.com](mailto:information@ciscopress.com).
+CiscoPress.com is operated from 221 River Street, Hoboken, NJ, 07030, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [information@ciscopress.com](mailto:information@ciscopress.com).
 
 We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. CiscoPress.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site. 
 
