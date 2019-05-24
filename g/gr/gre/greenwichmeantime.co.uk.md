@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the greenwichmeantime.co.uk privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524221056id_/https%3A//greenwichmeantime.com/legal/privacy-and-cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichmeantime.co.uk privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524231227id_/https%3A//greenwichmeantime.com/legal/privacy-and-cookies) for the most accurate reproduction.*
 
-# GreenwichMeanTime.com - Privacy Policy | Greenwich Mean Time
+# GreenwichMeanTime.com - Privacy Policy
 
-  * [Home](https://greenwichmeantime.com/)
-  * [ Legal](https://greenwichmeantime.com/legal/ " Legal")
-  * [ Privacy And Cookies](https://greenwichmeantime.com/legal/privacy-and-cookies.htm/ " Privacy And Cookies")
-
-
-
-**Effective Date: 10 August 2016**
+Effective Date: 25 May 2018
 
   1. **Who are we?**
     1. We are Greenwich 2000 Limited. We own and operate this site. Our contact details are on the site. Please contact us if you have any questions or feedback about this policy. 
@@ -20,7 +14,7 @@
 
 
   1. **Might the policy change?** ​ 
-    1. It may well do and so you should check it whenever you visit our site. We will assume you agree to the revised policy if you use the site after the effective date shown at the top of the policy. 
+    1. It may well do and so you should check it whenever you visit our site. We will assume you agree to the revised policy if you use the site after the effective date shown at the top of this policy. 
 
 
   1. **What personal or other data do we collect?**
@@ -32,23 +26,16 @@
     1. **​** We and/or third parties use cookies and other tracking technologies on our website.  A cookie is an identifier (a small file of letters and numbers) that is sent to your computer.  Our site’s functionality will be limited if you configure your browser to reject cookies. 
     2. Cookies are widely used to make websites work, or work more efficiently, as well as to provide information to the site owner or others. Session cookies are temporary cookies that remain in the cookie file of your browser only until your browser is closed. They allow websites to link your actions during a browser session. Persistent cookies stay in the cookie file of your browser for longer (though how long will depend on the lifetime of the specific cookie). For further information on cookies, including how to use your browser to block them and how to delete cookies already stored on your device, visit: [ www.allaboutcookies.org ](https://www.allaboutcookies.org/) . 
     3. Cookies are used on this site for the following purposes: 
-      1. **_Addthis cookies:_ ** Our website includes third party persistent cookies (up to 2 years) set by a third party Addthis in connection with the Addthis button designed to enable sharing via social media (Facebook, Twitter etc). AddThis requires us to tell you the following: _"We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit_ [ _www.networkadvertising.org_ ](https://www.networkadvertising.org/) _." Click_ [ here ](https://www.addthis.com/privacy#.T9beWfF5HhU) _for more information about AddThis privacy practices. Click_ [ here ](https://www.addthis.com/privacy/opt-out) _to prevent AddThis_ from collecting any information about you for online behavioural advertising _._
-      2. **_Sharethis cookies:_ ** We also use Sharethis cookies on our website for similar social media sharing purposes as Addthis. Click [ here ](https://www.sharethis.com/legal/privacy/#sthash.mK0Fw3eX.dpbs) for more information and to opt out. 
-      3. **_Third party advertising cookies:_ ** As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our site. These third parties may use persistent cookies (generally up to two years) and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites.  This is so they can track the effectiveness of their campaigns (including whether these advertisements are clicked on or viewed by users and later purchases by such users), avoid showing you the same advertisement repeatedly and display advertisements on this and other sites tailored to your preferences. We do not have any access to or control over these third party technologies. 
-        1. If you would like more information about these practices and to know your choices about not having this information used by certain of these companies, namely [ Quantcast.com ](https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/) , [ Openx.com ](http://openx.com/legal/openx-website-privacy-principles/) , [ Rubiconproject.com ](https://www.rubiconproject.com/privacy/) , [ Yahoo.com ](https://info.yahoo.com/privacy/us/yahoo/cookies/) and [ Aggregate Knowledge ](https://www.neustar.biz/privacy/ak-privacy-policy) , please visit [ www.youronlinechoices.com ](https://www.youronlinechoices.com/) and [ www.networkadvertising.org/choices ](https://www.networkadvertising.org/choices) . Please visit the websites of the third parties directly via the above links for more information about their privacy practices. 
-        2. Click on the following links for more information about the privacy practices of other advertising companies and to opt out where available: [ Netseer.com ](https://www.netseer.com/privacy-policy/) , [ Pubmatic.com ](https://www.pubmatic.com/privacy-policy.php) , [ Towerdata.com ](http://intelligence.towerdata.com/privacy) , 
-      4. **_Google cookies_ ** _:_ Persistent cookies (up to two years we believe) are set in connection with the following Google services on our site and these cookies may involve certain non-personally identifying information being sent to Google: 
+      1. _Third party advertising cookies:_ Like many other sites, we partner with third parties and/or internet advertising companies working for them to fill ad space on our site. These third parties may use persistent cookies (generally up to two years) and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites.  This is so they can track the effectiveness of their campaigns (including whether these advertisements are clicked on or viewed by users and later purchases by such users), avoid showing you the same advertisement repeatedly and display advertisements on this and other sites tailored to your preferences. We do not have any access to or control over these third party technologies. We partner with Ezoic Inc to give you a better advertising experience. Use of our website subscribes to Ezoic's [ privacy policy ](https://greenwichmeantime.com/privacy.html) where applicable. This additional privacy policy is inserted by the Ezoic system and refers to the selection of traffic which is being optimized by their servers. It refers exclusively to the data handling performed by the Ezoic system. 
+      2. _Google cookies_ : Persistent cookies (up to two years we believe) are set in connection with the following Google services on our site and these cookies may involve certain non-personally identifying information being sent to Google: 
         1. **_Google Analytics (“GA”)_ ** _:_ We use cookies to recognise and count the number of website visitors as well as providing other information about the visit such as duration, route through the website and what sites the visitor came from. This information helps us to improve the way our website works, for example by making sure users find what they need easily. 
-        2. **_Google advertising cookies (AdSense, Doubleclick)_ ** **:** Google uses cookies in connection with Google advertising on our website to serve ads to you based on your visits to this and other websites, to avoid showing you repeat ads and for various other purposes. 
-        3. **_GA Advertising Features:_ ** We may use the following GA Advertising Features: Remarketing with GA / Google Display Network Impression Reporting / GA Demographics and Interest Reporting / Integrated services that require GA to collect data via advertising cookies and anonymous identifiers. These features involve GA collecting data via Google or other advertising cookies including for display of ads which may be of interest based on your visits to this and other sites. You can specifically opt out of GA [ here ](https://tools.google.com/dlpage/gaoptout/) . See below (and above) for other opt out routes. 
+        2. **_Google advertising cookies (AdSense, Doubleclick)_ ** : Google uses cookies in connection with Google advertising on our website to serve ads to you based on your visits to this and other websites, to avoid showing you repeat ads and for various other purposes. 
+        3. _GA Advertising Features:_ We may use the following GA Advertising Features: Remarketing with GA / Google Display Network Impression Reporting / GA Demographics and Interest Reporting / Integrated services that require GA to collect data via advertising cookies and anonymous identifiers. These features involve GA collecting data via Google or other advertising cookies including for display of ads which may be of interest based on your visits to this and other sites. You can specifically opt out of GA [ here ](https://tools.google.com/dlpage/gaoptout/) . See below (and above) for other opt out routes. 
         4. **_More information and opt out:_ ** Click [ here ](https://www.google.com/policies/privacy/) for Google’s privacy policy and [ here ](https://www.google.co.uk/policies/technologies/types/) for more information about the kinds of cookies placed by Google. Click [ here ](https://www.google.com/intl/en/policies/privacy/partners/) for information about how Google uses data from its partners’ sites or apps as well as how to opt out of Google cookies. 
-        5. **_Google Maps API:_ ** We use this API to provide maps and convert place names to latitude/longitude which are governed by [ Google's Privacy Policy ](https://www.google.com/policies/privacy) . 
-      5. **_Dstillery advertising cookies:_ ** Dstillery places third party advertising cookies on our site. Click [ here ](http://dstillery.com/privacy-policy/) for more information and to opt out. 
-      6. **_Analytics cookies:_ ** Our site also uses analytics cookies placed by [ Drawbrid.ge ](https://www.drawbrid.ge/privacy) (opt out [ here ](https://www.drawbrid.ge/optout) ), [ Datalogix ](https://www.datalogix.com/privacy/) (includes opt out) and [ Scorecard ](https://www.scorecardresearch.com/privacy.aspx) (includes opt out). 
-      7. **_Twitter cookies:_ ** Twitter places persistent cookies (up to two years) to facilitate tweets relating to our site. Click [ here ](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies) for more information. 
-      8. **_Cookie warning cookie (:_ ** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which will appear when you first visit the site. This persistent cookie will remember your preference for one year. 
-      9. **_Pingdom cookie ("PRUM_EPISODES") (:_ ** This cookie is created by the Pingdom Real User monitoring service, used for analytics and to filter out web crawlers. 
-    4. By continuing to use our site, having seen our cookie notice, we assume that you consent to use of the cookies outlined above. 
+        5. _Google Maps API:_ We use this API to provide maps and convert place names to latitude/longitude which are governed by [ Google's Privacy Policy ](https://www.google.com/policies/privacy) . 
+        6. Social media sharing tool provided by _ShareThis_ , please read more about their privacy policy [ here ](https://www.sharethis.com/privacy/) . 
+      3. **_Cookie warning cookie (:_ ** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which will appear when you first visit the site. This persistent cookie will remember your preference for one year. 
+      4. By continuing to use our site, having seen our cookie notice, we assume that you consent to use of the cookies outlined above. 
 
 
   1. **How do we use your personal data?** **​**
@@ -81,10 +68,6 @@
 
 
 
-Version 6 
+Version 8 
 
-#### Rate this page
-
-5 stars 4 stars 3 stars 2 stars 1 star
-
-Thanks for rating
+place Fast Find - start by typing GMT Tools - check and bookmark ⏲ Time converter by place 🌎 Time converter by zone ⓘ What is Greenwich Mean Time?
