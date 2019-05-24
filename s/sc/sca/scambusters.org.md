@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602035632id_/https%3A//www.scambusters.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambusters.org privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524122147id_/http%3A//scambusters.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy.html
 
@@ -12,7 +12,7 @@ We do not provide services or sell products to children. If you are below the ag
 
 ## 3\. PRIVACY POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.
 
-Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these [terms and conditions](https://web.archive.org/terms "Terms of Service") on our website.
+Our privacy policy is part of, and subject to, our website’s terms and conditions of use. You may view these [terms and conditions](http://scambusters.org/terms "Terms of Service") on our website.
 
 ## 4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU.
 
@@ -40,7 +40,7 @@ If you click on a link and go to another site, you will be subject to the third 
 
 ## 10\. YOUR PERSONAL INFORMATION IN A BUSINESS TRANSFER.
 
-Every business nowadays should plan for the possibility that it might sell certain or all of its assets to another company or individual, or that it might buy certain assets of another company or individual. In such transactions, customer and subscriber information generally is one of the business assets that is transferred or sold. Please review this Privacy Policy and our [Terms of Service](https://web.archive.org/terms "Terms of Service") to understand what options you have under these circumstances.
+Every business nowadays should plan for the possibility that it might sell certain or all of its assets to another company or individual, or that it might buy certain assets of another company or individual. In such transactions, customer and subscriber information generally is one of the business assets that is transferred or sold. Please review this Privacy Policy and our [Terms of Service](http://scambusters.org/terms "Terms of Service") to understand what options you have under these circumstances.
 
 ## 11\. AUTORESPONDERS.
 
@@ -50,9 +50,7 @@ We may use autoresponders to communicate with you by email. To protect your priv
 
 The terms of this policy may change from time to time, and we will post these changes on this page. If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by email and providing us with information relating to your concern. You may also mail your concerns to us at the following address:
 
-_Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
-
-[](https://gut1.australianexcellence.com/?utm_source=scambusters&utm_medium=banner&utm_campaign=blogs1&utm_content=Gut1_300x250_AuthurA_1)
+_Breakthrough Consulting, Inc., PO Box 044134, Racine, WI 53404_
 
 Our goal is that you always should be aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
@@ -60,7 +58,7 @@ Our goal is that you always should be aware of what information we collect, how 
 
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an email or write us at the following address:
 
-_Simply Smarter, Inc. * 207 New Market Center #115 * Boone NC 28607 USA_
+_Breakthrough Consulting, Inc., PO Box 044134, Racine, WI 53404_
 
 ## 14\. General Data Privacy Regulation (GDPR)
 
@@ -74,6 +72,10 @@ To make any of these requests, please contact our GDPR contact at GDPR@scambust
 
 ## 15\. TELL US WHAT YOU THINK.
 
-We want to know what you think. Simply Smarter Inc. welcomes any questions or comments you may have about privacy. Please send us an email at privacy at svr.com.
+We want to know what you think. Simply Smarter Inc. welcomes any questions or comments you may have about privacy.
 
-This policy was last updated on 5-21-2017.
+16\. Additional Privacy Information
+
+Additional privacy information from our ad providers [can be found here.](https://g.ezoic.net/privacy/scambusters.org)
+
+This policy was last updated on 3/18/19.
