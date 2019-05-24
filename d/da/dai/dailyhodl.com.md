@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhodl.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223070642id_/https%3A//dailyhodl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhodl.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524100007id_/https%3A//dailyhodl.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Daily Hodl
 
