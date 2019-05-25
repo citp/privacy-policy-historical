@@ -1,38 +1,48 @@
-> *The following text is extracted and transformed from the fumoney.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016203152id_/http%3A//fumoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fumoney.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525095902id_/https%3A//www.fumoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — FU Money
+# Privacy Policy
 
-This privacy policy sets out how **  FUMoney.com **uses and protects any information that you give **FUMoney.com  ** when you use this website.
+This privacy policy lets you know how we collect, use, and protect your personal information. When you visit the website and utilize www.fumoney.com / www.closersinblack.com / www.danlok.com / www.fumoneywithstefan.com / www.fumoneywithjc.com / www.realmenrealcloser.com / www.besthighendcareer.com / www.fumoneywarrior.com / www.fumoneywithmatt.com / www.fumoneywithvince.com / www.fumoneywithchin.com / www.highticketsales.com / www. highticketsalesteam.com / www. fumoneypill.com/ www.fumoneybook.com / www.highendleadgen.com / www.highticketsaleswithjay.com / www.fumoneywithmatt.com / www.milliondollarwebinar.com / www.instantbestsellingauthor.com /  domain(s) and all sub domain(s) you accept and agree to the terms and conditions of this Privacy Policy. In particular, you consent to the collection and use of your personal information as described in this policy.
 
-****FUMoney.com  ** **is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-****FUMoney.com  ** **may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 2018.
 
 **What we collect**
 
 We may collect the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+name and job title
 
+contact information including email address
 
+demographic information such as postcode, preferences and interests
+
+other information relevant to customer surveys and/or offers
 
 **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Internal record keeping.
 
+We may use the information to improve our products and services.
 
+We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**General Data Privacy Regulation (GDPR)**
+
+The GDPR takes effect on May 25, 2018, and is intended to protect the data of European Union citizens. 
+
+As a company that markets its site content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site or services or products is governed by GDPR, we will abide by the relevant portions of the regulation. If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
+
+To make any of these requests, please contact our GDPR contact at GDPR@highticketsales.com
 
 **How we use cookies**
 
@@ -52,18 +62,16 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
 
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at:
 
-
-**                          dan@highticketsales.com**
+**dan@highticketsales.com**
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **:  
-**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
-4974 Kingsway Ave, Suite 964, Burnaby BC V5H 4M9  CANADA
+4974 Kingsway Ave, Suite 964, Burnaby BC V5H 4M9 CANADA
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
