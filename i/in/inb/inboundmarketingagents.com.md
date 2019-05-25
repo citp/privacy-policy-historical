@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212170845id_/https%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundmarketingagents.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525094035id_/https%3A//www.inboundmarketingagents.com/ima-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inbound Marketing Agents
 
@@ -8,13 +8,13 @@
 
 
 
-This privacy notice provides you with details of how we collect and process your personal data through your use of our site [www.inboundmarketingagents.com](https://www.inboundmarketingagents.com/).
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site [www.inboundmarketingagents.com](https://www.inboundmarketingagents.com/?__hstc=162943075.30a271064f275e907537b58229eb5bae.1582530081242.1582530081242.1582530081242.1&__hssc=162943075.1.1582530081243&__hsfp=3924935683).
 
 By providing us with your data, you warrant to us that you are over 13 years of age.
 
 Inbound Marketing Agents is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at bill@inboundmarketingagents.com OR by [clicking here to update your details in our preference center](https://preview.hs-sites.com/_hcms/preview/template/multi?is_buffered_template_layout=true&portalId=160334&tc_deviceCategory=desktop&template_layout_id=3604958063). 
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at bill@inboundmarketingagents.com OR by [clicking here to update your details in our preference center](https://preview.hs-sites.com/_hcms/preview/template/multi?is_buffered_template_layout=true&portalId=160334&tc_deviceCategory=desktop&template_layout_id=3604958063&__hstc=162943075.30a271064f275e907537b58229eb5bae.1582530081242.1582530081242.1582530081242.1&__hssc=162943075.1.1582530081243&__hsfp=3924935683). 
 
   2.   **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
