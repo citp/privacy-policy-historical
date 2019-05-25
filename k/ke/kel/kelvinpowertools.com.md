@@ -1,90 +1,164 @@
-> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606161013id_/http%3A//www.kelvinpowertools.com/privacy-policy-W21page-52-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525090455id_/https%3A//www.kelvinpowertools.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | kelvinpowertools.com
+# Privacy Policy - KelvinPowerTools.com
 
-Kelvin Power Tools Ltd ("We") are committed to protecting and respecting your privacy.  
-This policy (together with our terms and conditions [SEE NOW](https://web.archive.org/Terms-and-Conditions-W21page-53-) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+### 1\. Who We Are
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Kelvin Power Tools Ltd of 22  Kelvin Avenue, Hillington Industrial Estate Glasgow, G52 4LT. Our nominated representative for the purpose of the Act is John Breslin.
+We are Kelvin Power Tools Ltd. We accept responsibility as the Data Controller for all of the information that we collect.
 
-## **Information We may collect from you**
+### 2\. Your Privacy
 
-We may collect and process the following data about you:
+Throughout our dealings with you, we may collect and/or process information about you.
 
-  * Information that you provide by filling in forms on our site [www.kelvinpowertools.com](https://web.archive.org/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Kelvin Power Tools Ltd and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+We are committed to protecting and respecting your privacy. We will use your information in accordance with all applicable laws and regulations which relate to data protection and privacy.
 
+By using our services, you agree to the collection and processing of your information in accordance with this policy.
 
+This policy (along with our [**_Terms and Conditions_**](https://web.archive.org/terms "Terms and Conditions") ) tells you:
 
-## **IP Adresses and cookies**
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to our site.
+  * What information we may collect about you
+  * Why we collect this information
+  * How we may use this information
+  * How long we will keep this information for
+  * Who we may disclose this information to
+  * Your rights regarding this information
+  * How you can contact us
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+### 3\. The Information We Collect
 
-Please note that our advertisers may also use cookies, over which we have no control.
+Throughout our dealings with you, we may collect and/or process the following information about you:
 
-## **Where we store your personal data**
-
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted.  Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-## **Uses made of the information**
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-
-  * To carry out our obligations arising from any contracts entered into between you and us.
-
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-
-  * To notify you about changes to our service.
+  * We may ask you to provide us with information which allows us to identify you as an individual ("Personal Data"). Personal Data may include, but is not limited to: 
+    * Your name
+    * Your email address
+    * Your telephone number
+    * Your address and postcode
+    * If you are placing an order; your payment card number, expiry date and CVV number
+    * If you are creating an account on our website; a username and password
+  * We may collect information regarding how you access and use our website ("Usage Data"). Usage Data may include, but is not limited to: 
+    * Your device’s IP address
+    * Unique device identifiers
+    * Your browser type and version
+    * The pages that you visit
+    * The length of time you spend on each page
+    * The date and time of your visit
+    * Other diagnostic data
+  * We use cookies on our website. Cookies are small files which are sent to and stored on your device when you visit a website. These files contain data about your activity on said website. You can restrict or block cookies through your browser settings, however, you may not be able to access certain parts of our website if you do so.
 
 
 
+### 4\. Why We Collect this Information
 
-If you do not want us to use your data in this way please tick the relevant box situated on the sign up page.
+We may collect and/or process this information about you for the following reasons:
 
-## **Disclosure of your information**
+  * When you place an order, we need your Personal Data to allow us to take payment for and fulfil your order
+  * When you purchase certain products, we may need your Personal Data to allow us to register them for an extended warranty with the manufacturer
+  * When you purchase certain products, we may need your Personal Data to allow us to claim a discount voucher on your behalf from the manufacturer
+  * When you create an account on our website, we need your Personal Data for security reasons, for example, to allow us to identify you
+  * When you contact us for any reason, we need your Personal Data to allow us to identify and respond to you
+  * When you sign up to receive our marketing communications, we need your Personal Data to allow us to fulfil your request
+  * We collect Usage Data and use cookies on our website to help us analyse and improve our services
 
- We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Kelvin Power Tools Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply [SEE NOW](https://web.archive.org/Terms-and-Conditions-W21page-53-) and other agreements; or to protect the rights, property, or safety of Kelvin Power Tools Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+### 5\. How We Use this Information
 
-## **Your rights**
+We use the information that we collect from you for the following purposes:
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [sales@kelvinpowertools.com](mailto:webenequiry@kelvinpowertools.com)
+  * **To communicate with you about your order for a product or service** : This is a contractual necessity. We use your Personal Data to meet our obligations under our contract with you, for example, to deliver your order.
+  * **To register certain products you purchase for an extended warranty** : This is a contractual necessity. We use your Personal Data to meet our obligations under our contract with you.
+  * **To register certain products you purchase for a discount voucher** : This is a contractual necessity. We use your Personal Data to meet our obligations under our contract with you.
+  * **To respond to you when you contact us for any reason, for example, for customer support** : This is in our legitimate interests. We use your Personal Data to communicate with you.
+  * **To notify you about changes to our services** : This is in our legitimate interests. We use your Personal Data to keep you up to date with information regarding our services.
+  * **To contact you about leaving a review for a product or service once your order has been fulfilled** : This is in our legitimate interests. We use your Personal Data to ask you to provide feedback regarding the product or service you received from us so that we can analyse and improve said product or service.
+  * **To send you information about our products and services, including special offers, discounts, free gifts and events** : This is in our legitimate interests. We use your Personal Data to send you this information where you have previously purchased similar products or services from us and we think that this information may be of interest to you. You can opt-out of receiving our email communications by clicking on the unsubscribe link that is provided in any marketing email you receive from us.
+  * **To contact you for market research purposes** : This is in our legitimate interests. We use your Personal Data to help us analyse and improve our services.
+  * **To track and analyse your activity on our website to improve and tailor your online experience; investigate, detect or prevent technical issues on our website; or investigate, detect or prevent any wrongdoing or criminal activity on our website** : This is in our legitimate interests. We use your Personal Data, Usage Data and cookies to help us analyse and improve our services.
+  * **To carry out security checks to investigate, detect or prevent any wrongdoing or criminal activity** : This is in our legitimate interests. We use your Personal Data for fraud protection and credit risk reduction.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-## **Access to information**
 
-You have the right to access information held about you. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You have the right to request us to correct any inaccuracies in your data free of charge.
+### 6\. How Long We Retain this Information For
 
-## **Changes to our privacy policy**
+We only retain the information that we collect from you for as long as is necessary for the purposes for which we are using it. We may retain your information for longer if we are required to for legal or regulatory reasons.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+### 7\. Who We May Disclose this Information To
 
-## **Contact**
+We may disclose your information to third parties in the following circumstances:
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [sales@kelvinpowertools.com](mailto:webenequiry@kelvinpowertools.com).
+  * We use third-party services for payment processing (“Payment Processors”). We do not store your payment card details. That information is provided directly to our Payment Processors whose use of your Personal Data is governed by their privacy policy. The Payment Processors we work with are: 
+    * **WorldPay** : Their privacy policy can be viewed [**_here_**](https://www.worldpay.com/uk/worldpay-privacy-notice "WorldPay Privacy Policy").
+    * **Sage Pay** : Their privacy policy can be viewed [**_here_**](https://www.sagepay.co.uk/policies/privacy-policy "Sage Pay Privacy Policy").
+    * **PayPal** : Their privacy policy can be viewed [**_here_**](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full "PayPal Privacy Policy").
+  * We may use third parties to facilitate our services, to provide our services on our behalf, or to assist us in monitoring and analysing how our services are used ("Service Providers"). Our Service Providers only have access to your information needed to perform their functions. They are obliged to not disclose or use it for any other purpose. The Service Providers we work with include but are not limited to: 
+    * **Google Analytics** : Their privacy policy can be viewed [**_here_**](https://policies.google.com/privacy?hl=en "Google Privacy Policy").
+    * **Google AdWords** : Their privacy policy can be viewed [**_here_**](https://policies.google.com/privacy?hl=en "Google Privacy Policy").
+  * We register certain products that you purchase on your behalf with the manufacturer in order for you to receive an extended warranty. We only disclose the necessary information they need to provide you with the warranty and they are obliged to not disclose or use it for any other purpose. The manufacturers that this applies to are: 
+    * **Festool** : Their privacy policy can be viewed [**_here_**](https://www.festool.co.uk/legal-information/data-protection "Festool Privacy Policy").
+    * **Honda** : Their privacy policy can be viewed [**_here_**](http://www.honda.co.uk/industrial/useful-links/privacy-policy.html "Honda Privacy Policy").
+  * We claim discount vouchers for certain products that you purchase on your behalf from the manufacturer in order for you to receive a discount. We only disclose the necessary information they need to provide you with the discount voucher and they are obliged to not disclose or use it for any other purpose. The manufacturers that this applies to are: 
+    * **Festool** : Their privacy policy can be viewed [**_here_**](https://www.festool.co.uk/legal-information/data-protection "Festool Privacy Policy").
+  * We are required to do so by law
+  * In response to valid requests from public authorities
+  * To investigate, detect or prevent any possible wrongdoing or criminal activity - this includes for the purposes of fraud protection and credit risk reduction
+  * To enforce or apply our [**_Terms and Conditions_**](https://web.archive.org/terms "Terms and Conditions")  or any other agreements we have with you or otherwise concerning you
+  * To protect our rights, property or safety, or those of our customers, employees or other third parties
+  * To our insurers if a claim is made or could be made against us
+  * To the prospective seller or buyer if we sell or buy any business or assets
+  * To the other business if this business is integrated with another
+
+
+
+### 8\. Where this Information May be Processed
+
+Your information may be transferred to, processed in or stored in one or more countries outside of the UK where the data protection laws may differ.
+
+If you are located outside of the UK and use our services, we will transfer your information to the UK and process it here where the data protection laws may differ.
+
+In these circumstances, we will take reasonable steps to ensure that your information is adequately protected in accordance with the law.
+
+### 9\. The Security of this Information
+
+The security of your Personal Data is important to us.
+
+All of the Personal Data that you provide us with is stored on our secure servers.
+
+Any payment transactions are encrypted. As explained in section 7 of this Privacy Policy, we do not store your payment card details.
+
+The contact form on our website is encrypted.
+
+If you have an online account, you are responsible for keeping your password confidential. We ask that you do not share your password with anyone and we recommend that you do not use the same password for different online accounts. We also ask that you log out of your account when you have finished your session to prevent any unauthorised access to your account, for example, on a shared device.
+
+We do our best to protect your Personal Data, however we cannot guarantee its absolute security. No method of information transmission over the internet or electronic storage is completely secure. Any transmission is at your own risk. Once we receive your information, we use strict procedures and security features to try to prevent any unauthorised access.
+
+### 10\. Your Rights
+
+You have the right to:
+
+  * Access and receive a copy of the Personal Data that we hold about you
+  * Request that we correct any inaccuracies in your Personal Data. You can update your Personal Data in your account settings on our website. If you are unable to do so, contact us and we will make the required changes for you.
+  * Request that we delete your Personal Data if there is no legitimate reason for us to retain it
+  * Request that we delete your online account if you no longer wish to have one
+  * Request that we do not use your Personal Data for marketing purposes
+
+
+
+[**_Contact us here_**](https://web.archive.org/contact "Contact Us") to make any of the above requests. We may ask you for proof of your identity before responding to your request.
+
+### 11\. Links to Other Websites
+
+Our website may contain links to other websites that are not operated by us. If you click on a third party link, you will be redirected to a website that is not governed by this Privacy Policy. We strongly advise that you review the privacy policy of every website you visit. We have no control over the privacy policy of any third party website and the way in which they process your information. We do not accept any responsibility or liability for any issues that arise in connection with the way in which a third party processes your information.
+
+### 12\. Integration of the Trusted Shops Trustbadge
+
+Following an order, the Trusted Shops Trustbadge is incorporated into this web page in order to display our eventually collected reviews. In balancing the various interests, this serves to safeguard our legitimate interests in an optimised marketing of our goods and services. The trustbadge and the services advertised are provided by Trusted Shops GmbH, Subbelrather Str. 15C, 50823 Köln. Whenever a trustbadge is called up, the web server automatically stores a so-called server log file which contains, for example, your IP address, the date and time of retrieval, the data volume transferred and the requesting provider (access data), and documents the retrieval. This access data will not be evaluated and will be automatically overwritten seven days after your visit to the page. Other personal information will only be transferred to Trusted Shops if you decide, after completing an order, to use Trusted Shops products or have already registered for their use. In this case, the contractual agreement between you and Trusted Shops applies.
+
+### 13\. Contact Us
+
+If you have any questions regarding our Privacy Policy, you can [**_contact us here_**](https://web.archive.org/contact "Contact Us").
+
+### 14\. Updates to Our Privacy Policy
+
+If we make any changes to our Privacy Policy, we will notify you by updating this page and, where appropriate, contacting you via email.
