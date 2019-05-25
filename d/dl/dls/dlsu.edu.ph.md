@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dlsu.edu.ph privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102104921id_/https%3A//www.dlsu.edu.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlsu.edu.ph privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525164713id_/https%3A//www.dlsu.edu.ph/privacy) for the most accurate reproduction.*
 
-# Privacy - De La Salle University - Manila .
+# Privacy - De La Salle University
 
 ### DLSU Website Privacy Policy
 
@@ -93,7 +93,7 @@ If you provide personal information to the site regarding other individuals or d
 The services on this site are generally intended for persons 18 years of age and older. In the event that information to be collected by or contributed to DLSU is that of a minor, prior consent from the parent or legal guardian should be obtained in compliance with RA10173.
 
 **Complaints, Concerns, or Questions:**  
-For any complaints, concerns, or questions regarding the collection and use of your personal information, you can contact our Data Protection Officer at [dpo@dlsu.edu.ph](mailto:dpo@dlsu.edu.ph).
+For any complaints, concerns, or questions regarding the collection and use of your personal information, you can contact our Data Protection Officer at [privacy.officer@dlsu.edu.ph](mailto:privacy.officer@dlsu.edu.ph).
 
 **You can also contact us at:**
 
