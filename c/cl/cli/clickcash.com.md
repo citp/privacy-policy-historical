@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcash.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229055745id_/http%3A//www.clickcash.com/userurl_/adult-affiliate-program/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcash.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122631id_/http%3A//www.clickcash.com/userurl_/adult-affiliate-program/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
