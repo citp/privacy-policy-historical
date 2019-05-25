@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the comfree.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814223349id_/https%3A//comfree.com/on/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comfree.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525214830id_/https%3A//comfree.com/on/about/privacy) for the most accurate reproduction.*
 
-# Privacy policy | ComFree
-
-## Effective January 16, 2017
+# Privacy policy | Purplebricks
 
 ### General
 
-COMFREE COMMONSENSE NETWORK is committed to safeguarding and maintaining your privacy. By using Comfree.com (“our Website”), you consent to our use of cookies and other tracking technologies in accordance with the terms of this Privacy Policy (the “Policy”). For transparency purposes, we will disclose in this Policy what type of personal information may be collected from you, why we collect it, how we use it and in which situations we may share it with third parties.
+PURPLEBRICKS is committed to safeguarding and maintaining your privacy. By using purplebricks.ca (“our Website”), you consent to our use of cookies and other tracking technologies in accordance with the terms of this Privacy Policy (the “Policy”). For transparency purposes, we will disclose in this Policy what type of personal information may be collected from you, why we collect it, how we use it and in which situations we may share it with third parties.
 
 When you visit our Website, participate in a contest, promotion, survey or save your information online on our Website, we may collect personal information from you, such as your name, email, mailing or IP address, telephone number or any other personal information for the following purposes:
 
@@ -42,4 +40,4 @@ We use, process and store personal information as long as necessary for the purp
 
 ### Contact us
 
-If you have any questions or concerns about this Policy, please email us at [privacy@comfree.com](mailto:privacy@comfree.com) or use our mailing address: _ComFree Commonsense Network, 430 McNeilly Road, Unit 103, Hamilton, Ontario, L8E 5E3._
+If you have any questions or concerns about this Policy, please email us at [privacy@purplebricks.ca](mailto:privacy@purplebricks.ca) or use our mailing address: _Purplebricks, 1250 South Service Rd. Unit A14, Stoney Creek Ontario, L8E 5R9._
