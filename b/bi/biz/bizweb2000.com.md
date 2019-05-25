@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122192603id_/http%3A//bizweb2000.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizweb2000.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525132333id_/http%3A//bizweb2000.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jim Daniels: Home Business Internet Marketing Blog - Jim Daniels: Home Business Internet Marketing Blog
 
