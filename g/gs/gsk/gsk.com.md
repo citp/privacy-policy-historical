@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212105028id_/https%3A//www.gsk.com/en-gb/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsk.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525154331id_/https%3A//www.gsk.com/en-gb/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | GSK
 
