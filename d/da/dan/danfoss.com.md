@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817003331id_/https%3A//www.danfoss.com/en/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525180704id_/https%3A//www.danfoss.com/en/terms/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Danfoss
 
