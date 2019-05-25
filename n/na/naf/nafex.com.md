@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025173619id_/http%3A//www.nafex.com/customer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525231628id_/https%3A//www.nafex.com/customer/privacyPolicy) for the most accurate reproduction.*
 
 # Nafex - Foreign Exchange Simplified!
 
