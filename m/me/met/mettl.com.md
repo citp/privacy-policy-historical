@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722120210id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mettl.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525040122id_/https%3A//mettl.com/privacy-policy) for the most accurate reproduction.*
 
 # Mettl Privacy Policy
 
 **I.       _INTRODUCTION_**
 
-This Privacy Policy (" **Policy**" ) sets out the manner in which **Induslynk Training Services Private Limited** , a company having its registered office at, Plot No.85, Sector-44, Gurgaon 122002 (" **Company**" , "**we**" , "**our**" , "**us**" ) collects, uses, maintains and shares information about you (" **User**" or "**you**" ) through online interfaces (e.g. - mobile applications, website) owned and controlled by us (collectively referred to herein as the "**Company Systems**" ). 
+This Privacy Policy (Policy) sets out the manner in which Induslynk Training Services Private Limited, a company having its registered office at, Plot No.85, Sector-44, Gurgaon 122002 (Company, we, our, us) collects, uses, maintains and shares information about you (User or you) through online interfaces (e.g. - mobile applications, website) owned and controlled by us (collectively referred to herein as the Company Systems). 
 
 In the course of your use or access of the Company Systems or receipt or use of the services provided by the Company, the Company may collect different categories of information from you. This Policy set out the types of information that may be collected, and the manner in which such information is collected, used, processed, disclosed and maintained. This Policy must be read in conjunction with the other agreements you enter into with the Company and such other terms of use as may be published by the Company on other Company Systems or otherwise. 
 
-Please read this Policy carefully. 
+Please read this Policy carefully.
 
 **II.       _APPLICABILITY OF THE POLICY_**
 
@@ -37,7 +37,7 @@ Personal information is information the Company collects through the Company Sys
 
 Non-personal information is information we collect through the Company Systems that does not identify you by name or as an individual person. The Company uses your information, which does not identify individual users, to analyze trends, to administer the Web site, to track users" movements around the Web site and to gather demographic information about our user base as a whole. It may include information such as: 
 
-    1. the nature of web-browser software your computer uses 
+    1. 1.the nature of web-browser software your computer uses 
   
 
   3. Please do not include any personal information, personally identifiable informa tion or sensitive personal information unless specifically requested by the Company as part of the registration or other applicable processes. If the Company determines that any information you have provided or uploaded violates the terms of this Policy, the Company has the right, in its absolute discretion, to delete or destroy such information without incurring any liability to you. The Company will notify you before we delete or destroy such information. 
@@ -65,7 +65,7 @@ Non-personal information is information we collect through the Company Systems t
 
 "Behavioural Targeting / Re-Targeting" our third-party ad network partner display advertising on our Web site to manage our advertising on other sites. Our ad network partner uses Cookies and Web beacons to collect non-personal information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-"Google AdSense/Adwords", we use Google Adwords only to publish ads on Company Systems. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on the Computer Systems and other web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: [ http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+"Google AdSense/Adwords", we use Google Adwords only to publish ads on Company Systems. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on the Computer Systems and other web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page:<http://www.google.com/privacy_ads.html> [ http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
 
 
 
@@ -110,7 +110,7 @@ Non-personal information is information we collect through the Company Systems t
   1. You can change, alter of otherwise modify or update the information submitted by you at any time by accessing the Company Systems and authenticating yourself by using your registered username or accessing your user account, as applicable. 
   2. You have the right to obtain confirmation from the Company that we have retained personal information about you, as well as a written description of the nature of that personal information, the purposes for which it is being used, the sources of the personal information and a list of the recipients with whom we have shared your personal information. You also have the right to request the modification or deletion of any personal information retained by the Company that is inaccurate. Please contact us at the address appearing below to inquire about your personal information. 
   3. Even if you are no longer registered, the Company will maintain copies of your information in its internal records, systems, and databases. The Company will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements as long as it is necessary. We will continue to treat your personal information in accordance with this Privacy Policy. 
-  4. The Company reserves the rights to retain any information regarding your usage of the Company Systems and the services of the Company but you have the right to ask as to delete it. 
+  4. You have the right to obtain confirmation from the Company that we have retained personal information about you, as well as a written description of the nature of that personal information, the purposes for which it is being used, the sources of the personal information and a list of the recipients with whom we have shared your personal information. You also have the right to request the modification or deletion of any personal information retained by the Company that is inaccurate. Please contact us at the address appearing below to inquire about your personal information. 
   5. The Company at its sole discretion may permit or deny the change of any information, if it reasonably believes that the same is required to observe its obligations under applicable laws. 
 
 
