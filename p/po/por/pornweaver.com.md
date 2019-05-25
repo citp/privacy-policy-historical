@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pornweaver.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173843id_/http%3A//www.pornweaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornweaver.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525111049id_/http%3A//www.pornweaver.com/privacy) for the most accurate reproduction.*
 
 # Pov Tube, Pov Blowjob Videos
 
-Effective Date: Tuesday 6th of June 2017 07:38:43 PM  
+Effective Date: Saturday 25th of May 2019 01:10:49 PM  
 Sites Covered: www.pornweaver.com 
 
 Pursuant to our [Terms of Use](http://www.pornweaver.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
