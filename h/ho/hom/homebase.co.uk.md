@@ -1,123 +1,246 @@
-> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033435id_/http%3A//www.homebase.co.uk/en/static/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525022350id_/https%3A//www.homebase.co.uk/customer-services/resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy from Homebase Helping to Make Your House a Home
+# Privacy policy from Homebase Helping to Make Your House a Home at Homebase.co.uk
 
-Updated March 2014
+## This Privacy Policy was last changed 31st August 2018
 
-The Website is operated by Homebase Limited ("Homebase/we/our/us"), a company incorporated in England (Company Number 533033) with registered address at 489- 499 Avebury Boulevard, Central Milton Keynes, MK9 2NW. Homebase is a member of the Home Retail Group ("the Group"). The Group also includes Home Retail Group Card Services Limited, Home Retail Group Personal Finance Limited, Argos Limited, Home Retail Group Insurance Services Limited, Argos Business Solutions Limited, ARG Personal Loans Limited, Habitat Retail Limited and their associated companies. A full list of companies is available upon request (See "Contact Us" below).
+#### 1 - Who we are
 
-As user of the website (referred to as “you/your”) you acknowledge that any use of this website (including any transactions you make) is subject to this Privacy Policy together with our [Terms and Conditions.](https://web.archive.org/en/static/customer-services/terms-and-conditions "Click here to view our terms & conditions")
+We are HHGL Limited trading as Homebase (we/our/us) (Company number 00533033 with registered office address Witan Gate House, 500-600 Witan Gate, Milton Keynes, United Kingdom, MK9 1BA). This policy describes how we use your personal information.
 
-The purpose of this statement is to set out  the purposes for which, and the manner in which, we may collect and use personal information that we may obtain about you. By either registering as a user of any services provided by Homebase on this Website and/or using the Homebase website generally you consent and  agree  to this use by us. 
+We respect your privacy and value the trust you place in us when you share your personal information with us. This policy sets out how we, as data controller, collect, process, use and disclose your personal information, why we use it, with whom we share it, the rights to which you may be entitled and your choices about our use of your personal information.
 
-Homebase does not knowingly collect data from any unsupervised person under the age of 18. If you are under the age of 18, you must not use the Homebase website or submit any personal data to us unless you have the consent of, and are supervised by, a parent or guardian.
+This policy covers our use of your personal information arising from use of this website as well as registering for an account with us or buying / using our products and services. If you have any questions or need any further clarity please get in touch via email to [Data.Protection@Homebase.co.uk](mailto:Data.Protection@Homebase.co.uk) or via post to Head of Legal, HHGL Limited, Witan Gate house, 500-600 Witan Gate, Milton Keynes, Bucks, MK9 1BA.
 
-## Use of your personal information
+#### 2 - Your information
 
-  1. When you register and/or use this site: 
+**Data Collection and Usage**
 
-You will be asked to provide certain information such as your contact details and possibly credit card or other payment details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you. 
+We collect your personal data in a number of ways, for example, to allow access to this website, subscribe to our newsletter, receive information or mailings, to buy/use our products and services, make a comment, enquiry or contact our Customer Team and for other purposes set out in more detail in this section.
 
-    * Some of our services will require further details, for example, which will require further information to set up and maintain those services.
-    * In addition we may gather other information about your use of the website, including by the use of cookies (see our [cookies policy](https://web.archive.org/en/static/customer-services/cookie-law "Click here to view details about how we use cookies") page).
-    *   2. We may use information you give us or we obtain...
-    * to register you with our Website and to manage any account you hold with us
-    * to give to companies and organisations whose products we provide to you e.g. product, home and financial 
-    * to fulfil our agreement with you and to process your order and obtain payment
-    * to analyse and profile your shopping preferences (e.g. market, customer and product analysis) to enable us (i) to provide you with a personalised browsing experience when using the website and (ii) to review, develop and improve the products and services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme
-    * we may use your information to make decisions about you using computerised technology, for example automatically selecting products and/or services which we think will interest you from the information we have
-    * we may keep you informed of such products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions, warranties, insurance and so on) which we consider may be of interest to you by any of the following methods: 
-      * Email 
-      * Telephone (including automated calls) 
-      * SMS text message and other electronic messages such as picture messaging
-      * Post 
-      * or otherwise 
-    * to administer any prize draws or competitions you may enter.
-  3. If you do not wish to receive information of products and services which may be of interest to you either from us or carefully chosen third parties, please select the opt-out option as appropriate.
-  4. We may supplement the information that you provide to us with information that we receive from third parties. In particular we will carry out searches with credit reference agencies
-  5. We may engage third party payment providers to administer and process your payment card details in order to complete any purchase that you make through the website.
-  6. We may store and process your information on our own information technology systems or on systems owned by third parties that may store and process your information on our behalf.
+| What we collect | How we use it  
+---|---|---  
+1 | 
 
+Information that you give us to make a purchase, subscribe to our newsletter, receive information or mailings, sign up for a prize draw or competition including:
 
+  * Your contact details including: your name, address, email address;
+  * Your bank account or credit/debit card details;
+  * The product or service purchased
 
-## Crime prevention
+| 
 
-In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other Group companies, other retailers and to financial and other organisations involved in fraud prevention and detection, to use in the same way. Without limitation to the foregoing we may disclose any information and data relating to you to the police or any regulatory or government authority including but not limited to law enforcement agencies in response to a request in connection with the investigation of any suspected illegal activities.
+We use this information, including to:
 
-## Telephone calls
-
-Calls may be recorded to verify content and may be used together with other customer records for regulatory compliance, quality control and staff training, preventing or detecting criminal activity and for complaint resolution. 
-
-## Disclosure of your information
-
-  1. We may give information about you to the following companies and organisations , who may use it for the same purposes as set out above:
-    * to other companies in the Group
-    * to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future 
-    * agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs
-    * to other organisations for the administration of prize draws or competitions
-    * to anyone to whom we transfer or may transfer our rights and duties under our agreement with you 
-    * if we have a duty to do so or if the law allows us to do so 
-  2. We refer in paragraph 4 of Use of Your Personal Information above to the fact that we may carry out credit reference agency searches to obtain information about you. These agencies record those searches. In addition to the purposes listed above, we may also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties including our legal advisors and debt recovery agencies.
-  3. In carrying out the activities specified in this policy, we may transfer data to reputable companies outside the European Economic Area. Whilst we take reasonable steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation you should be aware that countries outside the European Economic Area may not offer the same level of protection of personal data.
-
-
-
-## Cookies
-
-  1. This site uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in. In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. 
-  2. We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of the cookies. In order to comply with these requirements we have prepared a cookies policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer. 
-  3. By using the Homebase website, mobile website and Apps, you are agreeing to our Privacy and cookie policies and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in these policies. If you do not agree to such use, please see the ['Managing your cookies'](https://web.archive.org/en/static/customer-services/cookie-law "Click here to view details about managing your cookies") section for details on how to adjust your settings.
-
-For full details about our cookie policy, please see our [cookie policy](https://web.archive.org/en/static/customer-services/cookie-law "Click here to view details about how we use cookies") page. 
-
-
-
-
-## Security
-
-  1. We will treat all of your information in strict confidence and we will endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
-  2. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [secure online shopping](https://web.archive.org/en/static/customer-services/secure-online-shopping "Click here to view details for secure online shopping"). 
-
-
-
-## Product reviews
-
-Around 2 weeks after receiving your product, we may send you an email inviting you to review and rate the product that you purchased. In addition, sometimes we may also ask you if you would like to answer questions related to your product submitted by other customers.  
-Please be aware that:
-
-  * your review may be shared on other Home Retail Group sites.
-  * once submitted, it usually takes 72 hours for your review, question or answer to appear on the website provided it adheres to our publishing guidelines.
-  * your review can be submitted anonymously or if you prefer you can leave a ratings only review.
-  * it is not possible for you to edit/remove your review after submission.
-
-
+  * Provide our products and services;
+  * Manage and administer prize draws, competitions and our services;
+  * Process your order;
+  * Take payment from or give you a refund
+  * Help us ensure that our customers are genuine and to prevent fraud;
+  * Send news on our offers, great value products and inspiring DIY projects.
 
   
-If you require any further information on this website or wish to have your review removed, you can contact [customer services](https://web.archive.org/en/static/customer-services/contact-us "Click here to view details on how to contact us")
+2 | 
 
-We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit. All reviews are submitted on the basis that Homebase or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes
+Information about the way you use our products and services including:
 
-## General
+  * The things that we've provided or you've purchased;
+  * When and where you've made the purchases;
+  * What you paid and how;
+  * Whether you've opened electronic communications from us;
+  * Whether you've clicked on links in electronic communications from us.
 
-  1. You have the right to see the personal data (as defined in the Data Protection Act) that we keep about you, upon receipt of a written request and payment of a fee the contact address below:
-Homebase Website Customer Services,  
-Acton Gate,   
-Stafford   
-ST18 9AR  
+| 
 
-  2. If you are concerned that any of the information we hold on you is incorrect or you have a general enquiry in connection with our Privacy policy, please [contact us](https://web.archive.org/en/static/customer-services/contact-us "Click here to view details on how to contact us"). You can also write to the Data Protection Compliance Officer at Home Retail Group plc., 489-499 Avebury Boulevard, Milton Keynes, Bukinghamshire, MK9 2NW. 
-  3. Please be aware that our website may link to other websites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked websites.
+We use this information, including to:
+
+  * Develop new products and services;
+  * Improve our products and services;
+  * Personalise our products and service;
+  * Identify products and marketing that may be of interest to you;
+  * Statistical analysis and research.
+
+  
+3 | 
+
+Information when you communicate with us whether in person, through our website or via email, over the phone, through social media or via any other medium, including:
+
+  * Your contact details (this may include your social media account if that's the way you communicate with us);
+  * The details of your communications with us (including call recordings);
+  * The details of our messages to you.
+
+| 
+
+We use this information, including to:
+
+  * Answer any issues or concerns;
+  * Monitor customer communications for quality and training purposes;
+  * Develop new products and services;
+  * Improve our products and services;
+  * Personalise our products and services;
+  * Regulatory compliance;
+
+  
+4 | 
+
+Information that we collect through your use of our website including:
+
+  * Device information such as operating system, unique device identifiers, the mobile network system;
+  * Hardware and browser settings;
+  * Date and time of requests;
+  * The requests you make;
+  * The pages you visit and search engine terms you use;
+  * IP address.
+
+| 
+
+We use this information, including to:
+
+  * Provide our products and services;
+  * Develop new products and services;
+  * Improve our products and services;
+  * Personalise our products and services;
+  * Identify issues with the website and user's experience of it;
+  * Manage and administer our systems;
+  * Monitor the way our website is used.
+
+  
+5 | 
+
+Information that we collect incidentally from other sources or public sources, including:
+
+  * Information available in the media;
+  * Information presented on our social media timelines;
+  * Information collected by security systems;
+  * Information received from credit reference agencies.
+
+| 
+
+We use this information, including to:
+
+  * Maintain market awareness;
+  * Build and maintain social media branding;
+  * Provide security to our sites;
+  * Fraud prevention and confirming your identity.
+
+  
+  
+Homebase does not knowingly collect data from any unsupervised person under the age of 18. If you are under the age of 18, you must not use the Homebase website or submit any personal data to us unless you have the consent of, and are supervised by, a parent or guardian.
+
+**Why we collect your information**
+
+We collect and use your information for a variety of reasons. We need some information to enter into and perform our contract – for example your contact and payment details.
+
+Some information processing is required by law due to our anti-fraud screening obligations (please see the section on Legal requirements below) or in the public interest such as making sure we verify our customers' identities.
+
+Some information is processed because you've given your consent. You can always unsubscribe from marketing communications.
+
+Other information we collect because we have legitimate business interests, for example, in:
+
+  * Understanding how you use our products, services and website;
+  * Understanding and responding to your feedback;
+  * Researching and analysing the services you want;
+  * Improving our products and services;
+  * Understanding the type of products you buy and how you use them;
+  * Personalise our offers so we're better able to provide offers and ideas that are relevant to you;
+  * Maintaining a public profile on both traditional and social media; or
+  * Developing and maintaining relationships with vendors, partners and other companies and dealing with individuals who work for them.
 
 
 
-## Want to be removed from the Homebase email newsletter list?
+**Other uses**
 
-If you want to be removed from our mailing list (other than Homebase Homemovers), click here to use our [unsubscribe form ](http://homebaselife.com/public/homebase_unsubscribe.jsp "Click here to unsubscribe") and put in the email address that you wish to be removed. Please note that it may take up to 28 days to action your request. In addition, each email we send you will contain details of how you can unsubscribe.
+**Legal requirements**
 
-If you wish to unsubscribe from Homebase Homemovers direct mailings (postal) please call our customer service team on 0345 077 8888 (UK). Please note that it may take up to 28 days to action your request.
+Your personal information may also be processed if it is necessary on reasonable request by a law enforcement or regulatory authority, body or agency or in the defence of a legal claims. We will not delete personal information if relevant to an investigation or a dispute. It will continue to be stored until those issues are fully resolved.
 
-In addition, each electronic mailing we send you will contain details of how you can unsubscribe.
+**How long we keep your information**
 
-## Changes to policy
+We will keep your information for as long as it is reasonably necessary. It will depend on factors such as whether you have any outstanding purchases or an account with us or have interacted with recent offers. 
 
-We may amend and update this policy from time to time. Any changes in the future will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this policy.
+**Information we share**
+
+There are certain circumstances where we may transfer your personal data to employees, contractors and to other parties.
+
+  * We may share information about you with other members of our group of companies so we can provide the best service across our group. They are bound to keep your information in accordance with this privacy policy.
+  * We may also share your information with certain contractors or service providers who assist us in the provision of products and services we supply to you, are involved in prize draws and competitions we run or provide other services to assist with our day to day operations. They may process your personal data for us, for example, if we use a marketing agency. Other recipient’s/service providers include manufacturers, logistics/delivery providers, advertising agencies, IT specialists, database providers, backup and disaster recovery specialists or email providers.
+
+Our suppliers and service providers will be required to meet our standards on processing information and security. The information we provide them, including your information, will only be provided in connection with the performance of their function.
+
+  * We may also share your information with certain third parties. We will do this either when we receive your consent or because we need them to see your information to provide products or services to you. These include credit reference agencies, anti-fraud databases, screening agencies and other partners we do business with. 
+
+
+
+Your personal information may be transferred to other third party organisations in certain scenarios:
+
+  * If we're discussing selling or transferring part or all of our business – the information may be transferred to prospective purchasers under suitable terms as to confidentiality;
+  * If we are reorganised or sold, information may be transferred to a buyer who can continue to provide services to you;
+  * If we're required to by law, or under any regulatory code or practice we follow, or if we are asked by any public or regulatory authority – for example the Police;
+  * If we are defending a legal claim your information may be transferred as required in connection with defending such claim.
+
+
+
+Your personal data may be shared if it is made anonymous and aggregated, as in such circumstances the information will cease to be personal data.
+
+**Where your information will be held**  
+
+We will only transfer data to jurisdictions outside the scope of the European General Data Protection Regulation (GDPR) where the appropriate safeguards set out in the GDPR are in place.
+
+We are happy to provide you with copies of the regulator-approved standard contractual clauses, which you can request from us using the contact details below.
+
+#### 3 - Your rights
+
+**Data Subject Rights**
+
+We've listed the rights you have over your information and how you can use them below.
+
+These rights will only apply in certain circumstances. Some of these rights will not be available if there are outstanding contracts between us, if we are required by law to keep the information or if the information is relevant to a legal dispute.
+
+We will normally respond to or action (as applicable) requests within one month from receipt of your request. This period may be extended by 2 further months if necessary taking into account the complexity or number of requests. If this is the case, we will let you know within one month of your original request.
+
+In general, the information or action requested will be provided free of charge. However, if requests are manifestly unfounded or excessive (or repetitive in nature) we may charge a fee (or alternatively refuse to deal with the request).
+
+It is important that we establish that the individual right is being exercised by the correct person. Therefore, we may need to ask you for information in order to verify your identity prior to processing your request. This may include asking you to confirm certain details we hold about you (such as post code or first line of your address) or to provide proof of identification.
+
+You have the right to make the following types of request regarding the personal data Homebase holds about you:
+
+  * Right of access (subject access requests) – the right to request a copy of the personal data (if any) that we have concerning you and supporting information explaining how your personal data is used.
+  * Right of rectification – the right to request that we rectify inaccurate or incomplete personal data concerning you.
+  * Right of erasure (right to be forgotten) – the right, in some situations, to request that we transmit your data to you or another entity.
+  * Right to restrict processing – the right, in some situations, to request that we do not use the personal data you have provided (e.g. if you believe it to be inaccurate). This is intended as a temporary right until the reason for such restriction has been resolved or rectified.
+  * Right to data portability – the right, in some situations, to request that we transmit your data to you or another entity.
+  * Right to object - the right to object to certain processing of your personal data (unless we have overriding compelling grounds to continue the processing) and the right to object to direct marketing/profiling In certain circumstances, we will be exempted from responding to certain requests. We will use these exemptions to the extent appropriate.
+
+
+
+#### 4 - Contact us
+
+**How to contact us**
+
+If you have any questions about this policy please contact our Legal team at Data.Protection@homebase.co.uk, or by writing to Head of Legal, HHGL, Witan Gate House, 500-600 Witan Gate, Central Milton Keynes, MK9 1BA.
+
+**Want to be removed from the Homebase direct marketing list?**
+
+If you want to be removed from our email mailing list, [click here](https://homebaselife.com/public/m/unsubscribe) to use our unsubscribe form and put in the email address that you wish to be removed. In addition, each email we send you will contain details of how you can unsubscribe.
+
+#### 5 - Changes to the policy
+
+This policy may be changed from time to time and will be posted here. We encourage you to visit this area frequently to stay updated.
+
+#### 6 - Other policies
+
+**Cookies**
+
+Our website uses cookies which are text files which contain small amounts of information that a website can send to, and store on, your computer or device through your browser. Cookies may be used by us to provide you with, for example, customised information from our website to make our website more user-friendly. This may include, for example, remembering your postcode for you so you don’t have to re-enter it every time you check the stock levels for an item you are interested in.
+
+In addition, cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website.
+
+We are required to provide you with clear and comprehensive information about the cookies which we use on the site and to obtain your consent to the use of cookies. In order to comply with these requirements we have prepared a cookie policy setting out information about cookies, detailing the cookies we use and providing information on how to manage cookies on your computer.
+
+By using the Homebase website and mobile website, you are agreeing to our cookie policy and consent to the use of cookies and similar technologies by us and our carefully selected third party partners as described in our cookie policy. If you do not agree to such use, please see the 'Managing your cookies' section for details on how to adjust your settings.
+
+For more information about cookies, the types of cookies we use and how we use them please see our [Cookie Policy](https://web.archive.org/customer-services/resources/cookie-policy).
+
+**Security**
+
+We are committed to keeping your personal information safe. We've got appropriate physical, technical and administrative measures in place to protect your information against accidental or unauthorised destruction, loss, access or alteration.
