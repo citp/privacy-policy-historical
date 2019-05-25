@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208021329id_/http%3A//worldwebdirectoryindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122938id_/http%3A//worldwebdirectoryindex.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Web Directory Index - High quality backlinks
+# Privacy Policy | Link Building Services | Backlinks Directory
 
 ### WorldWebDirectoryIndex.com Privacy Policy
 
@@ -12,4 +12,10 @@ This policy does not apply to the practices of companies or individuals that Wor
 
 **Use of Cookies** **Cookies are used on WorldWebDirectoryIndex.com for the purpose of logging into your account.** The DoubleClick DART cookie is used by Google in the ads served on worldwebdirectoryindex.com websites displaying AdSense for ads. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Changes to this Privacy Policy** WorldWebDirectoryIndex.com may amend or update this policy from time to time. Please visit this page to view changes if any.
+**Changes to this Privacy Policy** WorldWebDirectoryIndex.com may amend or update this policy from time to time. Please visit this page to view changes if any.  
+  
+---  
+  
+### Sign up for Newsletter
+
+Sign up to get our latest exclusive updates, deals, offers and promotions.
