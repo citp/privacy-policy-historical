@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910120953id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525201330id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Press
 
 This policy effective June 22, 2018
 
@@ -34,10 +34,6 @@ Optionally, you may choose to provide your email address and communicate with us
 
 We use Stripe and PayPal to process payments. You can optionally provide your email for a receipt. Your payment information and email is subject to their respective privacy policies. <https://stripe.com/privacy> and <https://paypal.com/privacy>
 
-We use MailChimp to manage our newsletter and other email lists. There’s no third-party tracking in messages we send through MailChimp besides MailChimp’s own analytics, which may aggregate how many subscribers open a message or click the links inside. MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>. 
-
-You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of the newsletter. You can also email support@disconnect.me to update your email address, or to request that we delete your email. 
-
 To improve the Services and your experience on our site, we may collect aggregate usage data from the Services and our website, including number of page views, visitor browser types, operating systems, or the links clicked to navigate to and from our site. We use a non-identifying first-party browser cookie to remember your search preferences (language, country, search engine) for our search service at [https://search.disconnect.me](https://search.disconnect.me/). Our cookies don’t track you. Most browsers allow you to refuse cookies or disable them, you can find out more [here](http://www.civicuk.com/cookie-control/browser-settings). Or check your browser preferences. 
 
 ###  2\. Disconnect never sells your email address or any other Personal Info you volunteer 
@@ -62,7 +58,7 @@ Recipients of National Security Requests can only publish reporting bands inste
 
 ## Changes to this policy
 
-We may make small, inconsequential changes to this policy with or without notice to you, so you’re encouraged to review the policy from time to time. Substantive changes to this policy will be emailed to users who subscribe to the Disconnect newsletter or to those who submit a request to [support@disconnect.me](mailto:support@disconnect.me). 
+We may make small, inconsequential changes to this policy with or without notice to you, so you’re encouraged to review the policy from time to time. Substantive changes to this policy will be emailed to users who submit a request to [support@disconnect.me](mailto:support@disconnect.me). 
 
 ## Contact
 
