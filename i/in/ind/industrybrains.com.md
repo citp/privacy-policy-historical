@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrybrains.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331023551id_/https%3A//www.industrybrains.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrybrains.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525180003id_/https%3A//industrybrains.com/doc/privacy) for the most accurate reproduction.*
 
 # IndustryBrains - Privacy Policy
 
@@ -22,7 +22,7 @@ Ad Serving
 
 IndustryBrains partners with numerous companies to provide online advertisements to "End Users" which are human users across various websites on the internet. As an End User browses the web, he or she may visit web-pages that include references to IndustryBrains's advertising service. When this happens, an End User's browser may request advertisements from IndustryBrains's system.
 
-When IndustryBrains receives these requests, we may record information about this interaction (as well as any further interaction with our advertisements such as clicks, mouse movements, etc.) including the End User's IP address and time of request, information about the general geographical location from which an End User is viewing an advertisement and other information made available by the browser.
+When IndustryBrains receives these requests from non-European Union (EU) countries, we may record information about this interaction (as well as any further interaction with our advertisements such as clicks, mouse movements, etc.) including the End User's IP address and time of request, information about the general geographical location from which an End User is viewing an advertisement and other information made available by the browser. For EU countries, IndustryBrains does not store any personally identifiable information, makes no attempt to identify anyone personally, and does not target any ads based on any of these factors.
 
 Additionally, IndustryBrains employs small text files stored on your web browser (otherwise known as cookies) for the purpose of better tailoring advertisements to an End User's preferences over time. These cookies may include a unique anonymous identifier along with information about the particular types of content in which the End User has shown interest.
 
@@ -58,4 +58,4 @@ IndustryBrains works hard to respect the privacy of its users. Unless required o
 
 IndustryBrains reserves the right to change this policy at any time due to changes in applicable laws, IndustryBrains's business needs or otherwise. Use of IndustryBrains.com and the advertising network of owned and partnered websites which utilize IndustryBrains's services constitute agreement with the terms of this policy as may be amended by IndustryBrains from time to time.
 
-Last updated: September 23, 2013 
+Last updated: September 22, 2015 
