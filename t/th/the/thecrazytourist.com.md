@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecrazytourist.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005113id_/https%3A//www.thecrazytourist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrazytourist.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525043056id_/https%3A//www.thecrazytourist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Crazy Tourist
 
