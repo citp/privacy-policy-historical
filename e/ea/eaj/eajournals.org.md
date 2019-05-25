@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eajournals.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221055938id_/http%3A//www.eajournals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eajournals.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525120511id_/https%3A//www.eajournals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EA Journals
 
