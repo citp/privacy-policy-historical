@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbrands.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220221500id_/http%3A//www.cbrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbrands.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525172236id_/http%3A//www.cbrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Constellation Brands | Privacy Policy
 
