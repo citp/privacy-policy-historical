@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016064150id_/https%3A//www.flowserve.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowserve.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525235001id_/https%3A//www.flowserve.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Flowserve
 
