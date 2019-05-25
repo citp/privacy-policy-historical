@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the zumic.com privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229203915id_/https%3A//zumic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zumic.com privacy policy that was archived on 2019-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190525025246id_/https%3A//zumic.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox svg" lang="en"><head>
+<!DOCTYPE html><html class="no-js" lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<link rel="stylesheet" href="/assets/css/style.min.css">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <base href="/">
 <meta name="google-site-verification" content="WhXM0jWXC3fey9RgDB_4IYMMDvO20b1NS44ndM-wrJc">
@@ -25,17 +24,56 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
 <link rel="manifest" href="/favicon/manifest.json">
-<script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
-<script>
-  firebase.initializeApp({
-    apiKey: "AIzaSyCGC3cf0LlHNT27Fm_KtV0opMUCw3i3V7k",
-    authDomain: "zumic-mobile-app-notifications.firebaseapp.com",
-    databaseURL: "https://zumic-mobile-app-notifications.firebaseio.com",
-    projectId: "zumic-mobile-app-notifications",
-    storageBucket: "zumic-mobile-app-notifications.appspot.com",
-    messagingSenderId: "792731844860"
-  });
-</script>
+<link rel="stylesheet" href="/assets/css/style.min.css?v=1558510118">
+<script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+  /**
+   * Load Firebase Component
+   */
+  function loadModule() {
+    return new Promise(resolve => {
+      const script = document.createElement('script');
+      script.src = 'https://www.gstatic.com/firebasejs/5.2.0/firebase.js';
+      script.async = true;
+      script.defer = true;
+      script.onload = () => resolve();
+      script.onerror = () => { throw new Error(); };
+      document.head.appendChild(script);
+    });
+  }
+  loadModule() // <-- Output firebase-app from https://github.com/firebase/firebase-js-sdk/pull/15
+          .then(() => {
+            firebase.initializeApp({
+              apiKey: "AIzaSyCGC3cf0LlHNT27Fm_KtV0opMUCw3i3V7k",
+              authDomain: "zumic-mobile-app-notifications.firebaseapp.com",
+              databaseURL: "https://zumic-mobile-app-notifications.firebaseio.com",
+              projectId: "zumic-mobile-app-notifications",
+              storageBucket: "zumic-mobile-app-notifications.appspot.com",
+              messagingSenderId: "792731844860"
+            });
+          });
+
+  function initMap() {
+    if (document.getElementById('location-autocomplete')) {
+      setTimeout(function () {
+        console.log('init map');
+        googleInit();
+      }, 2000);
+    }
+  }
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js?v=1557997275', { scope: '/' })
+          .then(function(registration) {
+              console.log('Service Worker Registered');
+          })
+          .catch(error => console.log('SW error: ' + error));
+
+      navigator.serviceWorker.ready.then(function(registration) {
+          console.log('Service Worker Ready');
+      });
+  } else {
+    console.log('Service Worker registration error');
+  }
+</script><script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js" async="" defer=""></script>
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
@@ -51,7 +89,7 @@
 <meta property="og:description" content="Zumic is a music news website with tour dates, ticket info, streaming, reviews, and more.">
 <meta property="og:url" content="https://zumic.com/privacy-policy">
 <meta property="og:site_name" content="Zumic">
-<meta property="og:updated_time" content="2018-02-23T16:37:48-06:00">
+<meta property="og:updated_time" content="2018-02-23T17:37:48-05:00">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="627">
 <meta name="twitter:image" content="/assets/img/zumic-wide-logo.jpg">
@@ -60,7 +98,7 @@
 <meta name="twitter:description" content="Zumic is a music news website with tour dates, ticket info, streaming, reviews, and more.">
 <meta name="twitter:site" content="@zumic">
 <meta property="article:publisher" content="https://www.facebook.com/zumicnews">
-<meta property="article:modified_time" content="2018-02-23T16:37:48-06:00">
+<meta property="article:modified_time" content="2018-02-23T17:37:48-05:00">
 <meta property="news_keywords" content="music, tickets, presale, entertainment, arts, tv, celebrities, lifestyle, culture">
 <link rel="canonical" href="https://zumic.com/privacy-policy">
 <link rel="publisher" href="https://plus.google.com/116289079755329405759">
@@ -106,7 +144,6 @@ var _rollbarConfig = {
 };
 !function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
 </script>
-<script src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 <body>
 <noscript>
@@ -122,8 +159,8 @@ src="https://www.facebook.com/tr?id=795984600437518&ev=PageView
 <div class="header-top">
 <div class="container">
 <a href="https://zumic.com" class="logo">
-<img src="/assets/img/logo.png" alt="Zumic">
-<img src="/assets/img/s-logo.png" alt="Zumic">
+<img class="lazy" data-src="/assets/img/logo.png" data-srcset="/assets/img/logo.png" alt="Zumic">
+<img class="lazy" data-src="/assets/img/s-logo.png" data-srcset="/assets/img/s-logo.png" alt="Zumic">
 </a>
 <a class="header-top-menu-trigger js-header-top-menu-trigger">
 <i class="icon-menulines"></i>
@@ -161,13 +198,13 @@ src="https://www.facebook.com/tr?id=795984600437518&ev=PageView
 </ul>
 </div>
 <a id="login-btn" href="https://zumic.com/account/login" class="header-login button mod-login">Login/Register</a>
-<div class="header-search" data-module="search-form" instance="[object Object]">
+<div class="header-search" data-module="search-form">
 <div class="header-search-trigger">
 <i class="icon-lup"></i>
 </div>
 <form action="https://zumic.com/search" method="get">
 
-<input class="header-search-txt" type="text" name="query" placeholder="Search concerts, music and artists" value="">
+ <input class="header-search-txt" type="text" name="query" placeholder="Search concerts, music and artists" value="">
 <div class="result-search-head-wrap">
 <div class="result-search-head"></div>
 <div class="result-search-footer">
@@ -189,7 +226,7 @@ src="https://www.facebook.com/tr?id=795984600437518&ev=PageView
 
 <div id="page-body" class="page-body contacts-wrap">
 <div class="navigation-wrap">
-<div class="img-wrap no-blur js-bg-cover" data-img="assets/img/cbg.jpg" style="background: url(&quot;assets/img/cbg.jpg&quot;) center center / cover no-repeat;"></div>
+<div class="img-wrap no-blur js-bg-cover" data-img="assets/img/cbg.jpg"></div>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
@@ -244,7 +281,7 @@ src="https://www.facebook.com/tr?id=795984600437518&ev=PageView
 </div>
 </div>
 
-<div class="join js-bg-cover final-cta-panel" data-img="/wp-content/uploads/settings/fc/59/handpick.jpeg" style="background: url(&quot;/wp-content/uploads/settings/fc/59/handpick.jpeg&quot;) center center / cover no-repeat;">
+<div class="join js-bg-cover final-cta-panel" data-img="/wp-content/uploads/settings/fc/59/handpick.jpeg">
 <div class="container">
 <h2>Hand-Picked Music for Your Taste</h2>
 <h5>
@@ -261,7 +298,7 @@ JOIN US
 <div class="row">
 <div class="col-xs-12 col-sm-12 col-md-2 footer-logo">
 <a class="" href="https://zumic.com">
-<img src="/assets/img/f-logo.png" alt="Zumic">
+<img class="lazy" data-src="/assets/img/f-logo.png" data-srcset="/assets/img/f-logo.png" alt="Zumic">
 </a>
 </div>
 <div class="col-xs-12 col-sm-12 col-md-6 footer-nav">
@@ -285,7 +322,7 @@ QUICK LINKS
 <a href="/jobs">Jobs</a>
 </li>
 <li class="col-sm-4 col-md-4 ">
-<a href="https://zumic.com/faq">FAQ</a>
+ <a href="https://zumic.com/faq">FAQ</a>
 </li>
 <li class="col-sm-4 col-md-4 ">
 <a href="https://zumic.com/local-events">Local Concerts</a>
@@ -305,8 +342,8 @@ QUICK LINKS
 Join Our Newsletter<br>
 <i>Concerts, Tickets, News &amp; More</i>
 </div>
-<div data-module="newsletter-form" instance="[object Object]">
-<form name="footer-form-subscr" action="https://zumic.com/subscribe" id="newsletter-form" class="footer-form-subscr" novalidate="novalidate">
+<div data-module="newsletter-form">
+<form name="footer-form-subscr" action="https://zumic.com/subscribe" id="newsletter-form" class="footer-form-subscr">
 <div class="input-row">
 <input class="footer-form-subscr-txt" name="email" type="text" placeholder="enter your email address">
 <button type="submit" class="footer-form-subscr-submit">
@@ -352,54 +389,7 @@ Join Our Newsletter<br>
 </div>
 </div>
 </footer>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="cookie-policy-wrap">
-<div class="policy-text">
-Our website uses cookies and similar technologies to make the site work and improve your user experience.
-By using this website, you consent to the use of cookies. Read our updated
-<a href="https://zumic.com/cookie-policy" target="_blank">Cookie Policy</a> to learn more.
-</div>
-<div class="policy-button-wrap">
-<button class="el-button" data-url="https://zumic.com/accept-cookie-policy">Accept &amp; Close</button>
-</div>
-</div>
-
-</div>
-
-<script src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;libraries=places&amp;language=en&amp;key=AIzaSyDZLAl90ch0BypeETzsd_rJLgi-2Ud6PSs" async="" defer=""></script>
-<script src="/assets/js/site.min.js" async="" defer=""></script>
-
-
-<a title="Web Analytics" href="http://clicky.com/100591291" style="position:absolute; left:-50px;top:-50px;"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif"></a>
-<script type="text/javascript" async="" defer="">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(100591291);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100591291ns.gif" /></p></noscript>
-
-
-<div class="remodal-overlay remodal-is-closed" style="display: none;"></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="remodal login-modal remodal-is-initialized remodal-is-closed" data-remodal-id="login-modal" style="max-width: 814px;" tabindex="-1">
+<div class="remodal login-modal" data-remodal-id="login-modal" style="max-width: 814px;">
 <button data-remodal-action="close" class="remodal-close"></button>
 <div class="area-heading">
 <div class="area-heading-title upvote-login">
@@ -408,7 +398,7 @@ You must be logged in to <span id="login-modal-title">upvote things</span>.
 </div>
 <div class="login-tabs tabs_default">
 <ul class="login-tabs-tabsarea">
-<li class="active">
+<li>
 <a class="login-tab" href="#login-1">
 <span>LOGIN</span>
 </a>
@@ -419,8 +409,8 @@ You must be logged in to <span id="login-modal-title">upvote things</span>.
 </a>
 </li>
 </ul>
-<div id="login-1" class="login-content" style="display: block;">
-<form action="https://zumic.com/account/login" name="login-form" class="login-form submit-js" method="POST" novalidate="novalidate">
+<div id="login-1" class="login-content">
+<form action="https://zumic.com/account/login" name="login-form" class="login-form submit-js" method="POST">
 <div>
 <div id="error-block" class="input-row">
 <label class="error-label" id="error-message"></label>
@@ -429,13 +419,13 @@ You must be logged in to <span id="login-modal-title">upvote things</span>.
 <label>
 Your Email
 </label>
-<input id="email-login" required="" type="email" name="email" placeholder="johnsmith@email.com" aria-required="true">
+<input id="email-login" required="" type="email" name="email" placeholder="johnsmith@email.com">
 </div>
 <div class="input-row mod-pwd">
 <label>
 Your Password
 </label>
-<input id="password-login" required="" type="password" name="password" placeholder="Enter Your Password" aria-required="true">
+<input id="password-login" required="" type="password" name="password" placeholder="Enter Your Password">
 <a class="ico show-pwd" href="#">
 <i class="icon-eye"></i>
 </a>
@@ -476,8 +466,8 @@ or Log In With
 </div>
 </form>
 </div>
-<div id="login-2" class="login-content" style="display: none;">
-<form action="https://zumic.com/account/registration" name="reg-form" class="reg-form submit-js" method="POST" novalidate="novalidate">
+<div id="login-2" class="login-content">
+<form action="https://zumic.com/account/registration" name="reg-form" class="reg-form submit-js" method="POST">
 <div>
 <div id="error-block-reg" class="input-row">
 <label class="error-label" id="error-message-reg"></label>
@@ -486,18 +476,18 @@ or Log In With
 <label>
 Your Email
 </label>
-<input id="email-reg" required="" type="email" name="email" placeholder="johnsmith@email.com" aria-required="true">
+<input id="email-reg" required="" type="email" name="email" placeholder="johnsmith@email.com">
 </div>
 <div class="input-row mod-pwd">
 <label>
 Your Password
 </label>
-<input id="password-reg" required="" type="password" name="password" placeholder="Enter Your Password" aria-required="true">
+<input id="password-reg" required="" type="password" name="password" placeholder="Enter Your Password">
 <a class="ico show-pwd" href="#"><i class="icon-eye"></i></a>
 </div>
 </div>
 <div class="cb-input-row">
-<div class="jq-checkbox checked" id="receive-news-styler" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input id="receive-news" checked="" name="weekly_mails" type="checkbox" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>
+<input id="receive-news" checked="" name="weekly_mails" type="checkbox">
 <label for="receive-news">
 Receive Weekly Newsletter.
 </label>
@@ -535,7 +525,7 @@ or Log In With
 </form>
 </div>
 </div>
-<div class="cookies" style="display: none;">
+<div class="cookies">
 <div class="pic"></div>
 <div class="text">
 Registration and login will only work if you allow cookies. Please check your settings and try again.
@@ -543,18 +533,29 @@ Registration and login will only work if you allow cookies. Please check your se
 <a class="js-close-cookies el-button mod-black mod-sm min-160 nohover"><span>OK</span></a>
 </div>
 <a class="close" href="#"></a>
-</div> </div></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="remodal venue-modal remodal-is-initialized remodal-is-closed" data-remodal-id="venue-modal" tabindex="-1">
+</div> </div>
+
+
+
+
+
+
+<div class="remodal venue-modal" data-remodal-id="venue-modal">
 <button data-remodal-action="close" class="remodal-close"></button>
 <div class="modal-content">
-<img src="/assets/img/seating-chat.png" alt="seating chart">
+<img class="lazy" data-src="/assets/img/seating-chat.png" data-srcset="/assets/img/seating-chat.png" alt="seating chart">
 </div>
-</div></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="remodal venue-modal remodal-is-initialized remodal-is-closed" data-remodal-id="image-preview-modal" tabindex="-1">
+</div>
+
+<div class="remodal venue-modal" data-remodal-id="image-preview-modal">
 <button data-remodal-action="close" class="remodal-close solid"></button>
 <div class="modal-content"></div>
-</div></div><div class="remodal-wrapper remodal-is-closed" style="display: none;"><div class="remodal forgotpwd-modal remodal-is-initialized remodal-is-closed" id="forgotpwd-form" data-remodal-id="forgotpwd-modal" tabindex="-1">
+</div>
+
+<div class="remodal forgotpwd-modal" id="forgotpwd-form" data-remodal-id="forgotpwd-modal">
 <button data-remodal-action="close" class="remodal-close"></button>
 <div class="modal-content">
-<form action="https://zumic.com/account/restore" id="forgot-password-form" name="forgotpwd-form" class="login-form submit-js" method="POST" novalidate="novalidate">
+<form action="https://zumic.com/account/restore" id="forgot-password-form" name="forgotpwd-form" class="login-form submit-js" method="POST">
 <div class="input-row">
 <div class="input-row-input">
 <label>
@@ -569,4 +570,85 @@ Please, enter your e-mail
 </div>
 </form>
 </div>
-</div></div></body></html>
+</div>
+
+
+
+
+</div>
+
+<script src="/assets/js/libs.min.js" type="text/javascript"></script>
+<script src="https://zumic.com/assets/js/page.min.js?v=1558510118" type="text/javascript"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;libraries=places&amp;language=en&amp;key=AIzaSyDZLAl90ch0BypeETzsd_rJLgi-2Ud6PSs&amp;callback=initMap" async="" defer=""></script>
+<style>
+    @font-face {
+        font-family: "font-icon";
+        src: url("/assets/css/fonts/font-icon/font-icon.eot");
+        src: url("/assets/css/fonts/font-icon/font-icon.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/font-icon/font-icon.woff") format("woff"), url("/assets/css/fonts/font-icon/font-icon.ttf") format("truetype"), url("/assets/css/fonts/font-icon/font-icon.svg#font-icon") format("svg");
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Lato";
+        src: url("/assets/css/fonts/Lato-Light.eot");
+        src: url("/assets/css/fonts/Lato-Light.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/Lato-Light.woff") format("woff"), url("/assets/css/fonts/Lato-Light.ttf") format("truetype"), url("/assets/css/fonts/Lato-Light.svg#Lato-Light") format("svg");
+        font-weight: 300;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Lato";
+        src: url("/assets/css/fonts/Lato-Regular.eot");
+        src: url("/assets/css/fonts/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/Lato-Regular.woff") format("woff"), url("/assets/css/fonts/Lato-Regular.ttf") format("truetype"), url("/assets/css/fonts/Lato-Regular.svg#Lato-Regular") format("svg");
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Lato";
+        src: url("/assets/css/fonts/Lato-Italic.eot");
+        src: url("/assets/css/fonts/Lato-Italic.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/Lato-Italic.woff") format("woff"), url("/assets/css/fonts/Lato-Italic.ttf") format("truetype"), url("/assets/css/fonts/Lato-Italic.svg#Lato-Italic") format("svg");
+        font-weight: 400;
+        font-style: italic;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Lato";
+        src: url("/assets/css/fonts/Lato-Bold.eot");
+        src: url("/assets/css/fonts/Lato-Bold.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/Lato-Bold.woff") format("woff"), url("/assets/css/fonts/Lato-Bold.ttf") format("truetype"), url("/assets/css/fonts/Lato-Bold.svg#Lato-Bold") format("svg");
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Lato";
+        src: url("/assets/css/fonts/Lato-Black.eot");
+        src: url("/assets/css/fonts/Lato-Black.eot?#iefix") format("embedded-opentype"), url("/assets/css/fonts/Lato-Black.woff") format("woff"), url("/assets/css/fonts/Lato-Black.ttf") format("truetype"), url("/assets/css/fonts/Lato-Black.svg#Lato-Black") format("svg");
+        font-weight: 900;
+        font-style: normal;
+        font-display: swap;
+    }
+</style>
+<a title="Web Analytics" href="http://clicky.com/100591291" style="position:absolute; left:-50px;top:-50px;"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif"></a>
+<script type="text/javascript" async="" defer="">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100591291);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100591291ns.gif" /></p></noscript>
+
+
+</body></html>
