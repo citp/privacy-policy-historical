@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historyinorbit.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227184419id_/http%3A//www.historyinorbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyinorbit.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525061244id_/http%3A//www.historyinorbit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – HistoryInOrbit.com
+# Privacy Policy | HistoryInOrbit.com
 
 This Privacy Policy discloses the privacy practices for the [historyinorbit.com](http://www.historyinorbit.com/) Site and various related services (together referred to as the “Site”). historyinorbit.com (“historyinorbit.com,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, Defintion.org Site are referred to, individually, as “You” or “Your.” Please read the information below to learn the following regarding Your use of this Site.
 
@@ -32,7 +32,7 @@ We will primarily use Your Personally Identifiable Information to provide Our Se
 
 #### Release of Information and Opt-Out
 
-We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deb7b0b8b19eadb1bdb7bfb2b6b1b2b7bdb0bbaaa9b1acb5f0bdb1b3). We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
+We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com). We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
 
 NAI Opt Out:  
 <http://optout.networkadvertising.org/#!/>
@@ -46,17 +46,17 @@ We may also provide Non-Personally Identifiable Information about Our customers�
 
 #### California Privacy Rights
 
-Under California’s “Shine the Light” law [California Civil Code Section 1798.83], California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
+Under California’s “Shine the Light” law , California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
 
-To obtain this information on behalf of historyinorbit.com, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4dddad2dbf4c7dbd7ddd5d8dcdbd8ddd7dad1c0c3dbc6df9ad7dbd9) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at 255 W. 36th Street, Suite 1105, New York, New York 10018. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0c9cec6cfe0d3cfc3c9c1ccc8cfccc9c3cec5d4d7cfd2cb8ec3cfcd).
+To obtain this information on behalf of historyinorbit.com, please send an email message to [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at 255 W. 36th Street, Suite 1105, New York, New York 10018. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com).
 
 Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
-In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at (916) 445-1254; toll free at 1-800-952-5210; or by e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7c3c4c6e7c3c4c689c4c689c8d5c0).
+In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at (916) 445-1254; toll free at 1-800-952-5210; or by e-mail to: [dca@dca.ca.org](mailto:dca@dca.ca.org).
 
 #### Updating and Correcting Information
 
-In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#026b6c646d42716d616b636e6a6d6e6b616c6776756d70692c616d6f) or writing Us at: 255 W. 36th Street, Suite 1105, New York, New York 10018. Please include Your name, address, and/or email address when You contact Us. We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
+In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at [info@socialholicnetwork.com](mailto:info@socialholicnetwork.com) or writing Us at: 255 W. 36th Street, Suite 1105, New York, New York 10018. Please include Your name, address, and/or email address when You contact Us. We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
 
 #### User Choices on Collection and Use of Information
 
@@ -85,13 +85,3 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 You must be at least 13 years old to have Our permission to use this Site. Our policy is that We do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 13 years of age.
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. Your name, email address, etc.) in the discussion forums or other public areas on this Site, that information, along with any information disclosed in Your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond Our control and this Privacy Policy does not apply to such information. Any submissions to chat rooms or other public areas on this Site are accepted with the understanding that they are accessible to all third parties. If You do not want Your comments to be viewed by third parties, You are advised not to make any submissions. Please be careful and responsible whenever You’re online.
-
-If You have any questions about this Privacy Policy, the practices of this Site, or Your dealings with this Site, please contact Us by sending a letter to:
-
-HistoryInOrbit.com  
-c/o Socialholic Network Inc  
-Attn: Privacy Compliance  
-10815 Rancho Bernardo Rd., Suite 370  
-San Diego, CA 92127
-
-You may also contact Us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4cdcac2cbe4d7cbc7cdc5c8cccbc8cdc7cac1d0d3cbd6cf8ac7cbc9).
