@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615092305id_/http%3A//www.midco.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midco.net privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525151544id_/https%3A//www.midco.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Midco.com
+# Privacy Statement
 
 ### Online Privacy Policy
 
