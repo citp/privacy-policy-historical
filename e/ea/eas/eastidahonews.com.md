@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastidahonews.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819213122id_/https%3A//www.eastidahonews.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastidahonews.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525125317id_/https%3A//www.eastidahonews.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | East Idaho News
 
@@ -72,5 +72,3 @@ We do not authorize the collection of your PII for third party use through adver
 **Users From Outside the United States.** This Site is hosted in the United States and is governed by U.S. law. If you are using the Site from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where we locate and operate our servers and databases. By using the Site, you consent to the transfer of your information to our facilities and to the facilities of those third parties with whom we share information as described in this policy.
 
 **Contact Information.** Questions concerning the Policy or the Site, including any request to review or change your PII, should be directed to [webmaster@eastidahonews.com](mailto:webmaster@eastidahonews.com).
-
-If you choose local pickup, please get your gift certificate at our office at 400 W. Sunnyside in Idaho Falls Dismiss
