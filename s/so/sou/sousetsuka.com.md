@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sousetsuka.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918052508id_/http%3A//sousetsuka.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sousetsuka.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525053342id_/http%3A//sousetsuka.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sousetsuka
 
