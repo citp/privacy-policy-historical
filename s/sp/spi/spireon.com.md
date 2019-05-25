@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131124725id_/https%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525190444id_/https%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Spireon
+# Privacy Policy - Spireon, Inc., The Vehicle Intelligence Company
 
 Spireon is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Spireon, Inc. web site and governs data collection and usage. By using the Spireon, Inc. web site, you consent to the data practices described in this statement.
 
@@ -8,6 +8,9 @@ Spireon is committed to protecting your privacy and developing technology that g
 Spireon, Inc. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Spireon, Inc. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
 There is also information about your computer hardware and software that is automatically collected by Spireon, Inc. This information can include: your IP address, browser type, domain names, access times and referring web site addresses. This information is used by Spireon, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Spireon, Inc. web site.
+
+Mobile  
+Spireon offers our customers the ability to find out what’s new with our products and services through their mobile device, either by browsing our mobile web site or through text messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For text messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join Spireon Mobile, text the keyword “Spireon” to 774-53. To unsubscribe from Spireon, text the keyword “STOP” to 774-53.
 
 Spireon, Inc. encourages you to review the privacy statements of web sites you choose to link to from Spireon, Inc. so that you can understand how those web sites collect, use and share your information. Spireon, Inc. is not responsible for the privacy statements or other content on web sites outside of the Spireon, Inc. and Spireon, Inc. family of web sites.
 
