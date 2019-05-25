@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livezilla.net privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025015919id_/http%3A//www.livezilla.net/disclaimer/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livezilla.net privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525082352id_/https%3A//www.livezilla.net/disclaimer/en) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy for LiveZilla Live Chat Software
 
