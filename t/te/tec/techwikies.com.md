@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwikies.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721132809id_/http%3A//www.techwikies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwikies.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525035842id_/https%3A//www.techwikies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Techwikies.com
 
