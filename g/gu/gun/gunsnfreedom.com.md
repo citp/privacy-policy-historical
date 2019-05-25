@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228025335id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsnfreedom.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525143129id_/http%3A//gunsnfreedom.com/disclaimer-and-privacy-policy) for the most accurate reproduction.*
 
 # Affiliate Disclosure & Privacy
-
-[](http://3aaf4ohj-6ysbt4eud2ggm2p85.hop.clickbank.net/?tid=GNF1)
 
 ## **Privacy Policy for Gunsnfreedom.com**
 
@@ -20,8 +18,6 @@ Gunsnfreedom.com does use cookies to store information about visitors preference
 .:: Google, as a third party vendor, uses cookies to serve ads on Gunsnfreedom.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Gunsnfreedom.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-[](http://3aaf4ohj-6ysbt4eud2ggm2p85.hop.clickbank.net/?tid=GNF1)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
@@ -69,3 +65,7 @@ While we attempt to always provide recommendations for products and services tha
 This affiliate disclosure is subject to change without notice. Please check back frequently to review its content.
 
 This Affiliate Disclosure was last updated on: July 31, 2013
+
+[](https://www.pinterest.com/pin/create/button/)
+
+NASA is warning that we have 13 months to get ready.  See why FEMA has ordered 300 million body bags in the face of what some are calling WWIII. **[CLICK HERE](http://52b9e9wzui7kltqj6dyfxcuisv.hop.clickbank.net/?tid=SURVBOTPOST "Survive End Days")** (sponsored)
