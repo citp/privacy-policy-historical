@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbluebook.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120131437id_/http%3A//home.socialbluebook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbluebook.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525105159id_/http%3A//home.socialbluebook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Bluebook
 
