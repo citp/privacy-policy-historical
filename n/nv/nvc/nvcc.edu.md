@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926014306id_/https%3A//www.nvcc.edu/policies/policies.aspx%3Fnum%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525093127id_/https%3A//www.nvcc.edu/policies/policies.aspx%3Fnum%3D67) for the most accurate reproduction.*
 
 # Website Privacy :: Northern Virginia Community College
 
 **Policy Number:** 518
 
-**Categorized:**[Information Technology](https://web.archive.org/web/20180926014306id_/https%3A//www.nvcc.edu/policies/Default.aspx?cat=Information%20Technology)
+**Categorized:**[Information Technology](https://web.archive.org/web/20190525093127id_/https%3A//www.nvcc.edu/policies/Default.aspx?cat=Information%20Technology)
 
 **Responsible Office:** VP of Instructional and Information Technology
 
