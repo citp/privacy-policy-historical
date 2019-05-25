@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123125158id_/http%3A//adobepress.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adobepress.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525121904id_/http%3A//www.adobepress.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ## Information Collection and Use
 
-AdobePress.com is operated from 800 East 96th Street, Indianapolis, IN, 46240, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [comments@peachpit.com](mailto:comments@peachpit.com).
+AdobePress.com is operated from 50 California Street, 18th Floor, San Francisco, CA, 94111, and is operated by Pearson Education, Inc. ("Company"). We can be reached by email at [comments@peachpit.com](mailto:comments@peachpit.com).
 
 We will not sell, share, or rent Personally Identifying Information to others in ways different from what is disclosed in this statement. AdobePress.com collects information from our users at several different points on our web site. Pearson Education recognizes the importance of protecting the privacy of Personal Identifying Information about you as a user of our web site.
 
