@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanbecreative.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123131725id_/http%3A//icanbecreative.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanbecreative.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525082446id_/http%3A//icanbecreative.com/page/privacy-statement) for the most accurate reproduction.*
 
 # icanbecreative - privacy
 
