@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909122002id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525134323id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Online Privacy Policy | Bethpage FCU
 
@@ -80,7 +80,7 @@ Communications, such as e-mail, text messaging, social media (e.g. Facebook, Twi
 
 ## **4\. Social Media**
 
-You may find information about us or our products and services through our social media pages, such as Facebook, Twitter, LinkedIn, and YouTube. Any information you share is visible to all participants on these social media sites and you should never post any sensitive personal information (such as account number or social security number) on these social media sites. These social media sites may have different privacy policies from ours, so please be sure to carefully review the policy of each social media site. For more information, please see our [Social Media Participation Guidelines](https://web.archive.org/-/media/Files/bethpage/procedures/SocialParticipatinGuidelines.ashx?la=en&hash=BE2FF62FFA5B20235076C654F0B08E5DFD5FC118&hash=BE2FF62FFA5B20235076C654F0B08E5DFD5FC118).
+You may find information about us or our products and services through our social media pages, such as Facebook, Twitter, LinkedIn, and YouTube. Any information you share is visible to all participants on these social media sites and you should never post any sensitive personal information (such as account number or social security number) on these social media sites. These social media sites may have different privacy policies from ours, so please be sure to carefully review the policy of each social media site. For more information, please see our [Social Media Participation Guidelines](https://web.archive.org/-/media/Files/bethpage/procedures/SocialParticipatinGuidelines.ashx?la=en&hash=883F9E687F9E5999063DCCCE59D6B010).
 
 ## **5\. Children's Privacy**
 
