@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418030812id_/https%3A//michiganfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122904id_/https%3A//michiganfirst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Michigan First Credit Union
 
-[Printable Version](http://michiganfirst.com/wp-content/themes/michiganfirst/pdf/Michigan-First-Privacy-Policy.pdf) | [Children’s Online Privacy Statement](https://web.archive.org/wp-content/uploads/2014/04/ChildrensOnlinePrivacyStatement.pdf)
+[Children’s Online Privacy Statement](https://web.archive.org/wp-content/uploads/2014/04/ChildrensOnlinePrivacyStatement.pdf)
 
 Facts | What does Michigan First Credit Union do with your personal information?  
 ---|---  
@@ -13,16 +13,13 @@ What? | The types of personal information we collect and share depend on the pro
   * Payment history and transaction or loss history
   * Account transactions and credit card or other debt
 
-
-
-When you are no longer a member, we continue to share your information as described in this notice.  
   
-How? | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Michigan First Credit Union chooses to share; and whether you can limit sharing.  
+How? | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Michigan First Credit Union chooses to share; and whether you can limit this sharing.  
 Reasons we can share your personal information | Does Michigan First share? | Can you limit this sharing?  
 ---|---|---  
 For our everyday business purposes – such as to process your transactions, maintain your account (s) respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 For our marketing purposes – to offer our products and services to you | Yes | No  
-For joint marketing with other companies | Yes | No  
+For joint marketing with other financial companies | Yes | No  
 For our affiliates’ everyday business purposes – information about your transactions and experiences | Yes | No  
 For our affiliates’ everyday business purposes – information about your credit worthiness | Yes | Yes  
 For our affiliates to market to you | Yes | Yes  
@@ -34,7 +31,7 @@ To limit our sharing |
 
 
 
-**Please note:** If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice.
+**Please note:** If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our member, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing.  
   
@@ -70,12 +67,12 @@ Affiliates | Companies related by common ownership or control. They can be finan
   * Our affiliates include companies with the Michigan First name.
 
   
-Nonaffiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
+Non-affiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
 
   * Michigan First Credit Union does not share with non-affiliates so they can market to you.
 
   
-Joint marketing | A formal agreement between non-affiliated companies that together market products or services to you. 
+Joint marketing | A formal agreement between non-affiliated financial companies that together market financial products or services to you. 
 
   * Our joint marketing partners may include insurance companies, securities brokers, and membership rewards providers.
 
