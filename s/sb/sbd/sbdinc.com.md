@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbdinc.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218230619id_/https%3A//www.stanleyblackanddecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbdinc.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525232111id_/https%3A//www.stanleyblackanddecker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stanley Black and Decker
 
@@ -370,7 +370,7 @@ Stanley Black & Decker licenses the use of its trademarks to unrelated third par
 
 Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
 
-If you are located in the EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these standard contractual clauses [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
+If you are located in the EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection_en). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these standard contractual clauses [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
 
   1.  ** _Retention period_**
 
@@ -435,7 +435,7 @@ Because email communications are not always secure, please do not include credit
 In the EEA, you also may:          
 
   * Contact our data protection officer responsible for your country or region, if applicable. For a list of data protection officers, please [see here](https://web.archive.org/sites/default/files/data_protection_officer_list.pdf).
-  * Lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs. A list of EEA data protection authorities is available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+  * Lodge a complaint with a data protection authority for your country or region, or where an alleged infringement of applicable data protection law occurs. A list of EEA data protection authorities is available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
 
 
