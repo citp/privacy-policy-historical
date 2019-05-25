@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819025728id_/https%3A//www.networx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525020647id_/https%3A//www.networx.com/privacy) for the most accurate reproduction.*
 
 # Networx Privacy Policy - Networx
 
 Last updated on October 1, 2014
 
-This Networx™ Privacy Policy (the “Privacy Policy”) applies to the Web sites owned and operated by Networx Systems, LLC (“Networx™,” “we,” “us” or “our”) as listed below. If you have any questions or concerns regarding this Privacy Policy, please contact us first at [privacy@networx.com](mailto:privacy@networx.com) or at (888) 612-8043.
+This Networx™ Privacy Policy (the “Privacy Policy”) applies to the Web sites owned and operated by Networx Systems, Inc. (“Networx™,” “we,” “us” or “our”) as listed below. If you have any questions or concerns regarding this Privacy Policy, please contact us first at [privacy@networx.com](mailto:privacy@networx.com) or at (888) 612-8043.
 
 You agree to this Privacy Policy, in its entirety, when you: (a) access the Site; (b) utilize the Networx™ search tool (“Networx™ Search”) in order to obtain listings (“Listings”) regarding a variety of home repair/construction businesses, professionals, venues, products and/or services (collectively, “Services”) as offered and provided by the third party business entities and professionals featured on the Sites (collectively, “Service Professionals”); (c) access articles, blog posts, discussions, feedback and/or other content on the Sites (collectively, “Content”); (d) utilize the Sites’ many interactive features designed to facilitate interaction between you, Networx™, Service Professionals and other Site users including, but not limited to, blogs, comment sections, reviews and question and answer options located in designated areas of the Sites (collectively, “Interactive Services”); (e) register to submit a Listing of your Services; (f) apply for employment opportunities (“Employment Application Services”) from prospective third party employers (“Prospective Employers”); and/or (g) access links to our social media pages on third party social media websites, such as Facebook®, Google Plus® and Twitter® (“Social Media Pages,” and together with the Site, Networx™ Search, Listings, Content, Interactive Services, Employment Application Services and Social Media Pages, the “Networx™ Offerings”). **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY IN ITS ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE Networx™ OFFERINGS.**
 
@@ -113,7 +113,7 @@ All of our users’ personal information is restricted in our offices. Only empl
 **Contact Information**  
 If users have any questions or suggestions regarding this Privacy Policy, or our privacy practices, please email us at: [privacy@networx.com](mailto:privacy@networx.com); call us at (888) 612-8043; and/or send mail to:
 
-Networx Systems, LLC  
+Networx Systems, Inc.  
 3399 Peachtree Road NE  
 Atlanta, Georgia 30326  
 
