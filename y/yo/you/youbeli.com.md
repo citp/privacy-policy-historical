@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the youbeli.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521110625id_/http%3A//www.youbeli.com/policy.php%3Fpolicytabs%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeli.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525113124id_/https%3A//www.youbeli.com/policy.php%3Fpolicytabs%3D4) for the most accurate reproduction.*
 
 # Youbeli Online Shopping Malaysia
 
 All of the products purchased from Youbeli.com are delivered on __**_First Order First Served_** basis.
 
-Order Refund only applicable for the circumstances below:
+Order Refund only applicable to the circumstances below:
 
   * Product Discontinued 
 
@@ -15,7 +15,23 @@ Order Refund only applicable for the circumstances below:
 
 
 
-** For Pre-Order items, Refund is NOT applicable.
+Refund is NOT applicable for :
+
+  * Request after 7 days from the received date 
+
+
+  * Product damage by courier
+
+
+  * The product being used/tested for more than 7 days
+
+
+  * Returned due to customer unreachable/not available at the location
+
+
+  * All virtual tickets, mobile top up and any other type of services
+
+
 
 Refund options will be offered to customers as listed below:
 
@@ -23,9 +39,9 @@ Refund options will be offered to customers as listed below:
 
   * Exchange with other product(s) listed in Youbeli.com 
 
-  * If the value of new item(s) exceeds the amount of the original item, the difference thereof should be paid by customer. 
+  * If the value of the new item(s) exceeds the amount of the original item, the difference thereof should be paid by the customer. 
 
-  * If the value of new item is less than the amount of the original item, then the difference thereof will be converted to Cash Credit under customer's YouBeli.com account. 
+  * If the value of the new item is less than the amount of the original item, then the difference thereof will be converted to Cash Credit under customer's YouBeli.com account. 
 
   * Delivery charges of the new item will be borne by the customer. 
 
@@ -49,7 +65,7 @@ Refund options will be offered to customers as listed below:
 
   * For other payment methods, customer will need to provide their bank details to YouBeli.com. 
 
-  * Please allow 7 working days for the refund process and a copy of bank slip will be forwarded to the customer. 
+  * Please allow 7 to 14 working days for the refund process and a copy of bank slip will be forwarded to the customer. 
 
 
 
@@ -58,25 +74,24 @@ Refund options will be offered to customers as listed below:
 
 Under normal circumstances, there will be NO EXCHANGE, RETURN OR REFUND of any items that are purchased, regardless if the products have been picked-up, opened or unopened and so on.
 
-**For purchased items that is verified and agreed by YouBeli.com where the faulty or defective items are a result caused by external factors (such as during delivery), these items will be availabe for exchange for the same item. These items must be hand delivered to YouBeli.com’s Pick Up And Payment Center. We will not entertain any re-shipping request for such items.**
+**For purchased items that is verified and agreed by YouBeli.com where the faulty or defective items are a result caused by external factors (such as during delivery), these items will be available for exchange for the same item. These items must be hand delivered to YouBeli.com’s Pick Up And Payment Center. We will not entertain any re-shipping request for such items.**
 
 **Under circumstances where products that are required to be sent back to the supplier (local or overseas) additional handling and service charges may occur. These charges are to be borne by the customer, in the case of such items are defective as a result due to error by the customer unless the error is caused by our side.**
 
-Any other cases that qualify for an exchange and return may incur a re-stocking fee.
+Any other cases that qualify for an exchange and return may incur a re-stocking fee.  
+ 
 
 **Important Note:**
 
-  * All refund or exchange for any item(s) purchased must be returned to us within 3 working days upon receiving the products ordered (pick-up or delivery). No further dispute will be entertained after 3 working days from the received date.  
- 
-
-  * Please note that Youbeli.com will not be able to accept returns of PC Games due to system incompatibility of games with your PC System. We highly recommend a thorough search on the games manufacturers’ website and/or external Internet resources for more information before purchasing a PC Game. 
-
+  * All refund or exchange for any item(s) purchased must be returned to us within 3 working days upon receiving the products ordered (pick-up or delivery). No further dispute will be entertained after 3 working days from the received date.
+  * Please note that Youbeli.com will not be able to accept returns of PC Games due to system incompatibility of games with your PC System. We highly recommend a thorough search on the games manufacturers’ website and/or external Internet resources for more information before purchasing a PC Game.
+  * Return and refund policy will be checked from sellers side as well before proceeding for any further action, therefore, do check the seller's return and refund policy before purchasing.
 
 
 
   
 **Still have questions?**  
-If you you have any further questions or inquiries, please contact our customer service by sending an email to support@youbeli.com or by calling us at 1-800-88-2354. Our customer service help desk is available from 9.00am - 6.00pm Monday to Friday and 9.00am - 1.00pm on Saturday.
+If you have any further questions or inquiries, please contact our customer service by sending an email to support@youbeli.com or by calling us at 1-800-88-2354. Our customer service help desk is available from 9.00am - 6.00pm Monday to Friday.
 
 (* YouBeli.com and YouBuy Online Sdn Bhd has the rights to alter the above policy and information with or without prior notice. Please contact us if you have any questions before proceeding with your order.)
 
@@ -89,22 +104,19 @@ E28-1, Jalan Multimedia 7/AG,
 
 City Park, I-City,
 
-40000 Shah Alam, Selangor.
+40000 Shah Alam, Selangor.  
+ 
 
-  * Customers outside of Klaf Valley, kindly contact us directly should such arrangements is required. 
-
-  * For all types of claims, please produce our original invoice(s) together with the purchased product(s). 
-
+  * Customers outside of Klang Valley, kindly contact us directly should such arrangements is required.
+  * For all types of claims, please produce our original invoice(s) together with the purchased product(s).
 
 
 
   
 **Contacts:**
 
-  * E-mail : support@youbeli.com 
-
-  * Tel : 1-800-88-2354 
-
+  * E-mail : support@youbeli.com
+  * Tel : 1-800-88-2354
 
 
 
@@ -126,8 +138,8 @@ City Park, I-City,
 
 **To further prevent unauthorized access to your account, remember after you have signed in, you should sign out once you have,**
 
-**1\. completed your transaction  
-2\. completed managing your account, or  
-3\. decided to step away from your computer.**
+**1\. completed your transaction**  
+**2\. completed managing your account, or**  
+**3\. decided to step away from your computer.**
 
 **Anyone who have access to your computer after you have signed in but haven’t signed out, can have access into your account.**
