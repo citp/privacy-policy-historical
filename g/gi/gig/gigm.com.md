@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigm.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625134939id_/https%3A//gigm.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigm.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525063111id_/https%3A//gigm.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # God is Good Motors : Privacy Policy
 
