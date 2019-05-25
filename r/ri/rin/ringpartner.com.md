@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringpartner.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130101945id_/https%3A//www.ringpartner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringpartner.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525024331id_/https%3A//www.ringpartner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — RingPartner
 
