@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213194227id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525112747id_/http%3A//dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # dotnetspider.com privacy policy
 
