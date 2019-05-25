@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dignited.com privacy policy that was archived on 2018-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180724234657id_/https%3A//www.dignited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dignited.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525151528id_/https%3A//www.dignited.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dignited
 
