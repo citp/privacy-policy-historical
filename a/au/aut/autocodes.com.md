@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocodes.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906194054id_/https%3A//www.autocodes.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocodes.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525192201id_/https%3A//www.autocodes.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AutoCodes.com
 
