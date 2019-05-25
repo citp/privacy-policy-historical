@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020213931id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525064233id_/https%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foundation for Alternative and Integrative Medicine
 
@@ -59,13 +59,13 @@ We collect data from your web browser or mobile device as you visit our website 
 
 All analytics data collected on this website is anonymized. It may include, but is not limited to, information about the visitor's type of computer or device and operating system, browser and version, pages visited, date and time of visit, sources of traffic to the website, approximate geographic location, and search queries. This data does not include any Personally Identifiable Information (PII) and cannot be traced back to a specific individual.
 
-See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-policy) for more information.
 
 ### Personal information gathered by automatic data collection technologies
 
 Tracking technologies, such as web beacons in email newsletters, are not anonymized and do contain PII.
 
-See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-policy) for more information.
 
 ## How do we use your information?
 
@@ -134,7 +134,7 @@ Our website may include links to other websites, embedded media controlled by th
 
 These third-party sites have separate and independent privacy policies. We have no control, responsibility, or liability for the content and activities of these linked sites.
 
-See our [Cookie and Tracking Policy](https://www.faim.org/cookie-and-tracking-policy) for more information.
+See our [Cookie and Tracking Policy](https://www.faim.org/cookie-policy) for more information.
 
 ## Children's Online Privacy Protection Act (COPPA)
 
