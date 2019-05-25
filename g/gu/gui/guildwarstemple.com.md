@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildwarstemple.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123163638id_/http%3A//guildwarstemple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildwarstemple.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525110940id_/http%3A//guildwarstemple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guild Wars Temple
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Guild Wars Temple may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
@@ -69,3 +69,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 To contact us please use the contact form above.
 
 This document was last updated on March 15, 2013.
+
+[good informative speech topics](https://researchpapertopic.net/informative-speech-topics-2019/)This page has several points for enlightening talks and papers, and we are constantly refreshing our rundown. In case you’re baffled for thoughts, utilize this rundown of educational themes as a beginning stage to locate a subject that intrigues you enough to talk or expound on. With this guide, you can all the more rapidly settle on a choice and get to composing your educational paper or discourse. You may likewise look at our rundown of contentious, dubious, and enticing subjects for increasingly instructive point thoughts.
