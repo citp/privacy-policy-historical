@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the itglue.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214024307id_/https%3A//itglue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itglue.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525132146id_/https%3A//www.itglue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Glue
 
 Your privacy is very important to us. IT Glue respects your confidentiality and any information you provide to us will never be sold, shared, or rented to other organizations for commercial purposes.
 
-This Privacy Policy applies to all personal data that may be stored and processed in connection with your use of the Service, and should be read alongside the IT Glue Terms of Service that can be read at <https://itglue.com/terms/>. Capitalised words and phrases that are not defined in this Privacy Policy shall have the meaning set out in the Terms of Service.
+This Privacy Policy applies to all personal data that may be stored and processed in connection with your use of the Service, and should be read alongside the IT Glue Terms of Service that can be read at <https://www.itglue.com/terms/>. Capitalised words and phrases that are not defined in this Privacy Policy shall have the meaning set out in the Terms of Service.
 
-For the purpose of the General Data Protection Regulation, the data controller is ITG Software Inc., whose head office is at 700 – 128 West Pender Street, Vancouver, BC, V6B 1R8, Canada.We may update this Privacy Policy from time to time. Any changes we make in the future will be posted on our website at <https://itglue.com/privacy-policy>. Please check back regularly to see any updates or changes.
+For the purpose of the General Data Protection Regulation, the data controller is ITG Software Inc., whose head office is at 700 – 128 West Pender Street, Vancouver, BC, V6B 1R8, Canada.We may update this Privacy Policy from time to time. Any changes we make in the future will be posted on our website at <https://www.itglue.com/privacy-policy>. Please check back regularly to see any updates or changes.
 
 You have the following rights as a data subject, by reason of the General Data Protection Regulation:
 
@@ -80,7 +80,7 @@ IT Glue has no plans to process personal data for reasons other than the reason 
 
 #### 10\. General Representation and Warranty
 
-You represent and warrant that (i) you have reviewed the IT Glue Privacy Policy located at https://itglue.com/privacy-policy/ and are content for all personal data relating to Customers and Subscribers to be obtained and processed in the manner it describes, (ii) your use of the Service will be in strict accordance with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Canada or the country in which you reside), and (iii) your use of the Service will not infringe or misappropriate the intellectual property rights of any third party.
+You represent and warrant that (i) you have reviewed the IT Glue Privacy Policy located at https://www.itglue.com/privacy-policy/ and are content for all personal data relating to Customers and Subscribers to be obtained and processed in the manner it describes, (ii) your use of the Service will be in strict accordance with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from Canada or the country in which you reside), and (iii) your use of the Service will not infringe or misappropriate the intellectual property rights of any third party.
 
 #### 11\. Cookies
 
