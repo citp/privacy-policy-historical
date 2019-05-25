@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhldn.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927161046id_/https%3A//www.bhldn.com/privacy-policy/%3Fcm_sp%3DFOOTER-_-HELP-_-PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhldn.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525200025id_/https%3A//www.bhldn.com/privacy-policy/%3Fcm_sp%3DFOOTER-_-HELP-_-PRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy | BHLDN
 
@@ -52,10 +52,10 @@ Sensitive personal information contained in orders placed on the Website are enc
 
 If you still have concerns about ordering electronically, feel free to call (800) 309-1500 and place your order over the phone. Have the 8-digit style number, size, and color ready for each item you wish to order. You can also print your shopping basket page and mail it to:
 
-BHLDN.com LLC   
-5000 South Broad Street   
-Philadelphia, PA 19112  
-Attn: Customer Service
+BHLDN  
+Attn: Customer Service  
+4010 Rose Lane  
+Augusta, GA 30907
 
 Please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers. We will never ask for sensitive Personal Information via e-mail.
 
@@ -84,7 +84,7 @@ Feel free to contact us with any questions about our Policy.
 Email: [support@bhldn.com](mailto:support@bhldn.com)
 
 Mail:  
-BHLDN.com LLC  
-5000 South Broad Street, Building 15  
-Philadelphia, PA 19112  
-Attn: Customer Support
+BHLDN  
+Attn: Customer Service  
+4010 Rose Lane  
+Augusta, GA 30907
