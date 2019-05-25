@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tourism.net.nz privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309064310id_/http%3A//www.tourism.net.nz/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourism.net.nz privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525102143id_/https%3A//www.tourism.net.nz/policy.html) for the most accurate reproduction.*
 
-# Website Privacy and Security Policy of New Zealand Tourism Guide (NZTG)
+# New Zealand Tourism Guide (NZTG) Website Privacy and Security Policy.
 
-New Zealand Tourism Guide (NZTG) is committed to the privacy and security of site users and this statement outlines existing practices.
+New Zealand Tourism Guide (NZTG) is committed to the privacy and security of web site users, and this statement outlines existing practices.
 
 **Use of your information**  
 NZTG does not sell or rent your personal identification to third parties. 
@@ -38,3 +38,6 @@ NZTG has no control over either the content of third party links or their privac
 From time to time, we make changes to our information practices or alter the functionality of our Web site. We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices. 
 
 The Privacy Act 1993 gives the right to access and correct your personal information. To find out more about how to do this please contact us, either by email, contact us on +64 3 364-9975 or via post PO Box 7576, Sydenham, Christchurch 8240, New Zealand.
+
+**GDPR**  
+The information provided on all of NZTGs websites is intended to be used by people intending to travel to New Zealand or those interested in learning more about New Zealand. We do not provide information about you, our website users or our clients, to third parties. You, and any person in respect of whom NZTG may collect information in accordance with the Terms, are not and will not become a "data subject" for the purposes of the EU General Data Protection Regulation 2016/679 (GDPR).
