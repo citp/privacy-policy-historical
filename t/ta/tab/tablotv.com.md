@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906033447id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525190744id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
 
 # Tablo Privacy Policy | Over The Air (OTA) DVR | Tablo
 
@@ -24,9 +24,7 @@ We will disclose requisite information to judicial or governmental authorities i
 **Updating or Removal of Information**  
 At any time, you may choose to modify, view, or remove any and all personal information that you have provided.
 
-To remove your personal information from our database, please use our [contact form](http://www.tablotv.com/contact) to email us advising us of your request.
-
-At any time, you may view the information that you have provided us. You may request changes to this information where you deem appropriate. Please use our contact form or contact us directly at 613-454-5675 advising us of your request.
+To remove your personal information from our database, please use our [contact form](http://www.tablotv.com/contact) to email us or  contact us directly at 613-454-5675 advising us of your request.
 
 **Security of Information**  
 Nuvyyo uses security technology including authentication, encryption and authorization to safeguard your data.
