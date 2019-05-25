@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101082143id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525093526id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # PHONEKY -
 
