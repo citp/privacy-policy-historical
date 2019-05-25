@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227133805id_/https%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526014645id_/https%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PSXHAX - PSXHACKS
-
-To remove ALL ads: [**_Register_**](https://www.psxhax.com/register/) to join **PSXHAX.COM** , [**_Log in_**](https://www.psxhax.com/login/) and [**_Confirm_**](https://www.psxhax.com/account-confirmation/resend) your account. 
+# Privacy policy | PSXHAX - PSXHACKS
 
 **» Privacy Policy**
 
 Latest Update: 8 May 2018 
 
-We are PSXHAX - PSXHACKS ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181227133805id_/https://www.psxhax.com/help/privacy-policy/misc/contact). 
+We are PSXHAX - PSXHACKS ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/). 
 
 PSXHAX.COM is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online. 
 
@@ -39,6 +37,8 @@ We collect some or all of this information in the following cases:
   * You browse this site. See "Cookie policy" below.
   * You fill out fields on your profile.
 
+
+
 **» How your personal information is used**
 
 We may use your personal information in the following ways: 
@@ -46,6 +46,8 @@ We may use your personal information in the following ways:
   * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
   * We may use your email address to inform you of activity on our site.
   * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
+
+
 
 **» Other ways we may use your personal information.**
 
@@ -68,7 +70,7 @@ PSXHAX.COM may set and access PSXHAX.COM cookies on your computer. PSXHAX.COM al
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181227133805id_/https://www.psxhax.com/help/privacy-policy/help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
 
 **» Third Party Advertising**
 
@@ -94,7 +96,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **» Exponential Interactive, Inc Privacy Disclosure**
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0171736877606278416479716e6f646f7568606d2f626e6c). 
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). 
 
 **» Security**
 
@@ -116,6 +118,4 @@ PSXHAX.COM is not responsible for the privacy practices or policies of any affil
 
 If you have questions or suggestions you can contact us via the link below: 
 
-[**https://www.psxhax.com/misc/contact**](https://www.psxhax.com/misc/contact)
-
-[ ](https://www.psxhax.com/)
+<https://www.psxhax.com/misc/contact>
