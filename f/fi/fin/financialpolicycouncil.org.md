@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122105817id_/http%3A//www.financialpolicycouncil.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525164432id_/http%3A//www.financialpolicycouncil.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Financial Policy Council New York
 
