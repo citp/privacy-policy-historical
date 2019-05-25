@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005231246id_/https%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525101516id_/https%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
 
 # CFP Privacy Statement
 
-  
-
-
-* * *
-
-[
-
-#### Subscribe to Canada Free Press for FREE
-
-](http://www.subscribepage.com/g4c3q7)
-
 Canada Free Press Privacy Policies
 
-This statement may be updated from time-to-time and was last updated, August 15, 2004.
+This statement may be updated from time-to-time and was last updated, April 5, 2019.
 
 We at Canada Free Press are committed to protecting the privacy and confidentiality of your personal information.
 
@@ -30,8 +19,6 @@ Our web site does not collect "cookies" which are text files which are usually m
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 We are not responsible for the policies of third-party websites we link to and those other sites may not be subject to a privacy code or the Act. Also, such links are not to be deemed as endorsements of those websites or of any products on those sites.
-
-Those purchasing services from us through PayPal can read their stringent privacy policy statement at [http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
 
 We will never sell or rent your personally identifiable information or a list of our customers to third parties.
 
