@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestideasforkids.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116093742id_/https%3A//www.thebestideasforkids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestideasforkids.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525203249id_/https%3A//www.thebestideasforkids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Best Ideas for Kids
 
