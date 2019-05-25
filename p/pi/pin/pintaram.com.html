@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pintaram.com privacy policy that was archived on 2018-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225233430id_/https%3A//www.pintaram.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pintaram.com privacy policy that was archived on 2019-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190525230411id_/https%3A//www.pintaram.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -8,86 +8,97 @@
     
     <title>Privacy Policy - Dailypo</title>
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/static/home/bootstrap/css/bootstrap.min.css?ver=1518076929">
-    <link rel="stylesheet" href="/static/home/css/style.min.css?ver=1518076929">
-        <style type="text/css">
-        @media (min-width:336px){
-            .body-container{
+    <link rel="stylesheet" href="/dist/css/vendor.css?ver=2019052207">
+    <link rel="stylesheet" href="/dist/css/style.css?ver=2019052207">
+
+    <style type="text/css">
+        @media (min-width: 336px) {
+            .body-container {
                 position: relative;
                 max-width: 336px;
                 margin: 0 auto;
             }
         }
-        @media (min-width:728px){
-            .body-container{
+
+        @media (min-width: 728px) {
+            .body-container {
                 max-width: 728px;
             }
+
             div.tw-ins-share-btn {
                 width: calc(100% - 200px);
             }
         }
-        @media (min-width:1120px){
-            .body-container{
+
+        @media (min-width: 1120px) {
+            .body-container {
                 max-width: 1120px;
             }
         }
     </style>
     <script src="/static/home/js/jquery-2.1.4.min.js"></script>
+
     <script>
-    function imgLoadError(obj,imgtype){
-        var thisObj=$(obj);
-        if(thisObj.hasClass('img-error')){
-            return ;
+        function imgLoadError(obj, imgtype) {
+            var thisObj = $(obj);
+            if (thisObj.hasClass('img-error')) {
+                return;
+            }
+            thisObj.addClass('img-error');
+            if (imgtype == 'user') {
+                thisObj.attr('src', "/dist/images/default-profile.jpg?ver=2019052207");
+            } else if (imgtype == 'media') {
+                thisObj.hide();
+            }
         }
-        thisObj.addClass('img-error');
-        if(imgtype=='user'){
-            thisObj.attr('src', "/static/home/images/default-profile.jpg?ver=1518076929");
-        }else if(imgtype=='media'){
-            thisObj.hide();
-        }
-    }
     </script>
     
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-109351655-1"></script>
     <script>
-     window.dataLayer = window.dataLayer || [];
-     function gtag(){dataLayer.push(arguments);}
-     gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-     gtag('config', 'UA-109351655-1');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-109351655-1');
     </script>
 </head>
 
 <body>
-    
-        <header class="header">
-            <div class="header-part">
-                <a href="/"><div class="header-logo"><img src="/static/home/images/pc/p_logo.png"></div></a>
-                <div class="header-seach-button">
-                    <div class="header-top-link">
-                        <a href="https://chinese.pandarow.com/name" target="_blank">Chinese Name</a>
-                        <a href="https://www.couponbirds.com" target="_blank">Coupons</a>
-                        <a href="/hot">Hot</a>
-                        <a href="/trend">Trends</a>
-                        <a href="/user">Users</a>
-                    </div>
-                    <div class="header-search-box">
-                        <form action="/search" method="get" id="index-search">
-                            <input class="search-text" type="text" name="query" value="" placeholder="Search hastag and users">
-                            <div class="search-submit" onclick="document.getElementById('index-search').submit();"><img src="/static/home/images/pc/p_search.png"></div>
-                        </form>
-                    </div>
-                    <div class="header-top">
-                        <a href="/login"><div class="index-button index-login">Login</div></a>                    </div>
+
+    <header class="header">
+        <div class="header-part">
+            <a href="/">
+                <div class="header-logo"><img src="/dist/images/pc/p_logo.png"></div>
+            </a>
+            <div class="header-seach-button">
+                <div class="header-top-link">
+                    <a href="/hot">Hot</a>
+                    <a href="/trend">Trends</a>
+                    <a href="/user">Users</a>
+                    <a href="https://chinese.pandarow.com/name" rel="nofollow" target="_blank">Chinese Name</a>
+                    <a href="https://www.couponbirds.com" rel="nofollow" target="_blank">CouponBirds</a>
                 </div>
-                <div class="clearfix"></div>
+                <div class="header-search-box">
+                    <form action="/search" method="get" id="index-search">
+                        <input class="search-text" type="text" name="query" value="" placeholder="Search hashtags and users">
+                        <div class="search-submit" onclick="document.getElementById('index-search').submit();"><img src="/dist/images/pc/p_search.png"></div>
+                    </form>
+                </div>
+                <div class="header-top">
+                    <a href="/login"><div class="index-button index-login">Login</div></a>                </div>
             </div>
-        </header>
-    
-    <div class="clearfix"></div>
-    
+            <div class="clearfix"></div>
+        </div>
+    </header>
+
+<div class="clearfix"></div>
+
   <div class="static-content">
     <h1>Privacy Policy</h1>
     <p>We recognize that your privacy is very important and take it seriously, which is why we developed this privacy policy to explain how we collect, use, communicate, disclose and make use of personal information.</p>
@@ -107,132 +118,175 @@
     <p>Our site may contain links to third party websites which may or may not have affiliation with. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. We do not share your personal information with those third parties except as discussed in this document.</p>
     <h2>Cookies</h2>
     <p>Cookies are small files that Pintaram transfers to your computer's hard drive through your web browser (if you allow this) that enables Pintaram to recognize your browser and capture and remember certain information. Our cookies are linked to your login information so that you can use Pintaram from your computer throughout the day without logging in each time you visit us.</p>
+
+      <h2>Your Choices and Opting-out</h2>
+      <p>
+      <span>We recognize how important your online privacy is to you, so we offer the following options for controlling your ads preference and how we use your data:</span><span><br>
+</span><span><br>
+</span><span>You may use the Network Advertising Initiative (NAI) opt out tool </span><a href="http://www.networkadvertising.org/choices/" rel="nofollow" target="_blank"><span style="font-size:11pt;font-family:Arial;color:#1155CC;vertical-align:baseline;">here</span></a><span>, which will allow you to opt out of seeing personalized ads from NAI approved member companies. Please note that when using the ad industry opt-out tool:</span><span><br>
+</span><span> </span>
+      </p>
+      <ul>
+          <li>
+              <p>
+                  <span>If you use multiple browsers or devices we will additionally opt out those we have linked to you. Since we may not have all your browsers or devices connected back to your user, you may need to execute this opt out on each browser or device.</span>
+              </p>
+          </li>
+          <li>
+              <p>
+                  <span>To opt out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices:</span>
+              </p>
+          </li>
+          <ul>
+              <li>
+                  <p>
+                      <span>iOS 7 or Higher: Go to your Settings &gt; Select Privacy &gt; Select Advertising &gt; Enable the “Limit Ad Tracking” setting.</span>
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      <span>For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app &gt; Ads &gt; Enable “Opt out of interest-based advertising”.</span>
+                  </p>
+              </li>
+          </ul>
+      </ul>
+      <p>
+          <span>Opting out will not prevent you from seeing ads, but those ads will likely be less relevant because they won’t be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.</span>
+      </p>
+
     <h2>Children</h2>
-    <p>Our site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact us at <img src="/static/home/images/pintaram_email.png" alt="">. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information.</p>
+    <p>Our site is not directed to children under 13. If you become aware that your child has provided Us with personal information without your consent, please contact us at <img src="/dist/images/pintaram_email.png" alt="">. We do not knowingly collect personal information from children under 13. If We become aware that a child under 13 has provided Us with personal information, We take steps to remove such information.</p>
     <h2>Terms</h2>
     <p>Pintaram uses Instagram's data and APIs, please checkout Instagram's Terms of Use and Privacy Policy. Pintaram is dependent on Instagram's API and will work as long as Instagram service is available.</p>
     <h2>Questions</h2>
-    <p>If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at <img src="/static/home/images/pintaram_email.png" alt="">.</p>
+    <p>If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at <img src="/dist/images/pintaram_email.png" alt="">.</p>
     <h2>Changes</h2>
     <p>This Privacy Policy is subject to change at any time without notice. To make sure you are aware of any changes, please review it periodically.</p>
   </div>
 
-    
-        <div id="back-to-top" style="display: none;">
-            <span></span>
-        </div>
-        <script>
-            var offset = 250, // At what pixels show Back to Top Button
-                scrollDuration = 300; // Duration of scrolling to top
-                backTopBtn = $('#back-to-top');
-            backTopBtn.click(function(event) {
-                event.preventDefault();
-                $('html, body').animate({
-                    scrollTop: 0
-                }, scrollDuration);
-            });
-            function showHideBackTopBtn(scrollTopValue){
-                if(scrollTopValue && scrollTopValue > offset){
-                    backTopBtn.fadeIn(500); // Time(in Milliseconds) of appearing of the Button when scrolling down.
-                }else{
-                    backTopBtn.fadeOut(500); // Time(in Milliseconds) of disappearing of Button when scrolling up.
-                }
-            }
-            $(window).scroll(function() {
-                showHideBackTopBtn($(this).scrollTop());
-            });
-        </script>
-    
-    
-        <div class="line"></div>
-    
-    
-        <footer class="footer">
-            <div class="footer-container">
-                <a href="https://www.pintaram.com" rel="nofollow">©2018 Pintaram</a>
-                |
-                <a href="/privacy-policy" rel="nofollow">Privacy Policy</a>
-                |
-                <a href="/about-us" rel="nofollow">About Us</a>
-            </div>
-            <div class="footer-desc">This site uses the Instagram API but is not endorsed or certified by Instagram. All Instagram™ logos and trademarks displayed on this applicatioin are property of Instagram.</div>
-        </footer>
-    
-    
-        <script src="/static/home/js/masonry.pkgd.min.js"></script>
-        <script>
-            var $grid = $(".grid").fadeIn(500).masonry({
-                // options
-                itemSelector: '.grid-item',
-                columnWidth: 336,
-                gutter: 56,
-                fitWidth: true,
-                originTop: true
-            });
-            var latestPost = {main:$('#pintaram-latestpost-list'),content:$('#pintaram-latestpost-list'),nextMaxId:'',stop:false};
-            function loadData(){
-                if(latestPost['stop']){
-                    return ;
-                }
-                latestPost['stop'] = true;
-                if(latestPost['nextMaxId']==''){
-                    return ;
-                }
-                param = {nextMaxId:latestPost['nextMaxId']};
 
-                $.post('',param,function(data){
-                    if(('data' in data) && data['data']!=''){
-                        var domData = $(data['data']);
-                        if($grid){
-                            $grid.append(domData).masonry( 'appended', domData ).masonry();
-                        }
-                    }
-                    if('pagination' in data){
-                        latestPost['nextMaxId'] = data['pagination']['next_max_id'];
-                        latestPost['stop'] = false;
-                    }
-                },'json');
-            }
-            $(window).scroll(function(event){
-                if($(this).scrollTop() + $(window).height()+300 >= (latestPost['main']).height()){
-                    loadData();
-                }
-            });
-        </script>
-
-    
+    <div id="back-to-top" style="display: none;">
+        <span></span>
+    </div>
     <script>
-        $("body").delegate("a.statistics-bettystoybox-click", "click", function(event){
-            var url = 'https%3A%2F%2Fwww.pintaram.com%2Fprivacy-policy';
-            $.post('/statistics-click',{ type:'bettystoybox',url: url });
+        var offset = 250, // At what pixels show Back to Top Button
+            scrollDuration = 300; // Duration of scrolling to top
+        backTopBtn = $('#back-to-top');
+        backTopBtn.click(function (event) {
+            event.preventDefault();
+            $('html, body').animate({
+                scrollTop: 0
+            }, scrollDuration);
+        });
+
+        function showHideBackTopBtn(scrollTopValue) {
+            if (scrollTopValue && scrollTopValue > offset) {
+                backTopBtn.fadeIn(500); // Time(in Milliseconds) of appearing of the Button when scrolling down.
+            } else {
+                backTopBtn.fadeOut(500); // Time(in Milliseconds) of disappearing of Button when scrolling up.
+            }
+        }
+
+        $(window).scroll(function () {
+            showHideBackTopBtn($(this).scrollTop());
         });
     </script>
-    
 
-    <script type="text/javascript">
+
+    <div class="line"></div>
+
+
+    <footer class="footer">
+        <div class="footer-container">
+            <a href="https://www.pintaram.com" rel="nofollow">©2019 Pintaram</a>
+            |
+            <a href="/privacy-policy" rel="nofollow">Privacy Policy</a>
+            |
+            <a href="/about-us" rel="nofollow">About Us</a>
+        </div>
+        <div class="footer-desc">This site uses the Instagram API but is not endorsed or certified by Instagram. All
+            Instagram™ logos and trademarks displayed on this applicatioin are property of Instagram.
+        </div>
+    </footer>
+
+<script src="/dist/js/vendor.js?ver=2019052207"></script>
+<script src="/dist/js/pc.js?ver=2019052207"></script>
+
+    <script src="/static/home/js/masonry.pkgd.min.js"></script>
+
+    <script>
+        var $grid = $(".grid").fadeIn(500).masonry({
+            // options
+            itemSelector: '.grid-item',
+            columnWidth: 336,
+            gutter: 56,
+            fitWidth: true,
+            originTop: true
+        });
+        var latestPost = {
+            main: $('#pintaram-latestpost-list'),
+            content: $('#pintaram-latestpost-list'),
+            nextMaxId: '',
+            stop: false
+        };
+
+        function loadData() {
+            if (latestPost['stop']) {
+                return;
+            }
+            latestPost['stop'] = true;
+            if (latestPost['nextMaxId'] == '') {
+                return;
+            }
+            param = {nextMaxId: latestPost['nextMaxId']};
+
+            $.post('', param, function (data) {
+                if (('data' in data) && data['data'] != '') {
+                    var domData = $(data['data']);
+                    if ($grid) {
+                        $grid.append(domData).masonry('appended', domData).masonry();
+                    }
+                }
+                if ('pagination' in data) {
+                    latestPost['nextMaxId'] = data['pagination']['next_max_id'];
+                    latestPost['stop'] = false;
+                }
+            }, 'json');
+        }
+
+        $(window).scroll(function (event) {
+            if ($(this).scrollTop() + $(window).height() + 300 >= (latestPost['main']).height()) {
+                loadData();
+            }
+        });
+    </script>
+
+
+
+
+<script type="text/javascript">
         var infolinks_pid = 3128476
         var infolinks_wsid = 0;
     </script>
-    <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
-
-    <!-- Start of StatCounter Code for Default Guide -->
-    <script type="text/javascript">
-    var sc_project=11322915;
-    var sc_invisible=1;
-    var sc_security="110f122a";
-    var sc_https=1;
+    <script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script><!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+    var sc_project = 11322915;
+    var sc_invisible = 1;
+    var sc_security = "110f122a";
+    var sc_https = 1;
     var scJsHost = (("https:" == document.location.protocol) ?
-    "https://secure." : "http://www.");
-    document.write("<sc"+"ript type='text/javascript' src='" +
-    scJsHost+
-    "statcounter.com/counter/counter.js'></"+"script>");
-    </script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
-    <noscript><div class="statcounter"><a title="web analytics"
-    href="http://statcounter.com/" target="_blank"><img
-    class="statcounter"
-    src="//c.statcounter.com/11322915/0/110f122a/1/" alt="web
-    analytics"></a></div></noscript>
-    <!-- End of StatCounter Code for Default Guide -->
-
+        "https://secure." : "http://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" +
+        scJsHost +
+        "statcounter.com/counter/counter.js'></" + "script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript>
+    <div class="statcounter"><a title="web analytics"
+                                href="http://statcounter.com/" target="_blank"><img
+            class="statcounter"
+            src="//c.statcounter.com/11322915/0/110f122a/1/" alt="web
+    analytics"></a></div>
+</noscript>
+<!-- End of StatCounter Code for Default Guide -->
 
 </body></html>
