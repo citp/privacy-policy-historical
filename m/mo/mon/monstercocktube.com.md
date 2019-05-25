@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstercocktube.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214072220id_/http%3A//monstercockland.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstercocktube.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525141652id_/https%3A//monstercockland.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
