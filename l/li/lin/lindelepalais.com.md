@@ -1,100 +1,100 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218101122id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525151332id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
 #### Terms and Conditions of use
 
-Browsing and use of [www.lindelepalais.com](http://www.lindelepalais.com/) are regulated by these Terms and Conditions of Use. Browsing and using the website, as well as purchasing items from [www.lindelepalais.com](http://www.lindelepalais.com/) implies that you have read, understood and accepted these Terms and Conditions of Use.
+Browsing and use of www.lindelepalais.com are regulated by these Terms and Conditions of Use. Browsing and using the website, as well as purchasing items from www.lindelepalais.com implies that you have read, understood and accepted these Terms and Conditions of Use.
 
-Products purchased from [www.lindelepalais.com](http://www.lindelepalais.com/) (the “website”) are sold directly by L’INDE LE PALAIS S.r.l. ("L’INDE"), with registered headquarters in Italy, at Via Ca’ Ricchi 7, 40068 San Lazzaro di Savena, Bologna, Business Reg. No., Tax ID, and VAT reg. no. 02522021209.
+Products purchased from www.lindelepalais.com (the “website”) are sold directly by JO S.r.l. ("JO" or the "Vendor"), with registered headquarters in Italy, at Via B.Franklin 31, 43121 Parma, Italy, Business Reg. No., Tax ID, and VAT reg. no. 02887550347.
 
-For any assistance requirements, it is possible to check the FAQs section, which contains information about ordering and shipping, refunds and returns for products purchased at [www.lindelepalais.com](http://www.lindelepalais.com/), registration on the website, suggestions and other general information about services provided by L’INDE, or you can contact the Customer Service.
+For any assistance requirements, it is possible to check the FAQs section, which contains information about ordering and shipping, refunds and returns for products purchased at www.lindelepalais.com, registration on the website, suggestions and other general information about services provided by JO, or you can contact the Customer Service.
 
-For any other legal information, please see the General Conditions of Sale, Right of Withdrawal and Privacy Policy sections of L’INDE.
+For any other legal information, please see the General Conditions of Sale, Right of Withdrawal and Privacy Policy sections of JO.
 
-L’INDE may amend or simply update these Terms and Conditions of Use, wholly or in part. Amendments and updates to the website Terms and Conditions of Use will be made known to website users as soon as they are implemented and will become binding as soon as they are published on the website in this section.
+JO may amend or simply update these Terms and Conditions of Use, wholly or in part. Amendments and updates to the website Terms and Conditions of Use will be made known to website users as soon as they are implemented and will become binding as soon as they are published on the website in this section.
 
-Browsing and use of the website, including viewing the web pages, communication with L’INDE, the possibility to download product details and the purchase of same from the website, are all user activities performed exclusively for personal use and with no intent to carry out business, entrepreneurial or professional activities.
+Browsing and use of the website, including viewing the web pages, communication with JO, the possibility to download product details and the purchase of same from the website, are all user activities performed exclusively for personal use and with no intent to carry out business, entrepreneurial or professional activities.
 
 The user is solely and exclusively responsible for the use of the website and its contents.
 
-L’INDE cannot be considered responsible for any use of the website or contents of same by any of its users, which does not conform to current law.
+JO cannot be considered responsible for any use of the website or contents of same by any of its users, which does not conform to current law.
 
- Specifically, the user is solely and exclusively responsible for the communication of incorrect or false information or details concerning third parties if these latter have not given their consent, as well as with regard to any incorrect use of same.
+Specifically, the user is solely and exclusively responsible for the communication of incorrect or false information or details concerning third parties if these latter have not given their consent, as well as with regard to any incorrect use of same.
 
-Since any material is downloaded or otherwise obtained through use of the service chosen by the user, any responsibility for damage to computer systems or loss of data as a result of said downloading operations, will lie with the user and cannot be ascribed to L’INDE. L’INDE refuses to accept any responsibility for damage arising from the impossibility to access services on the website or any damage from unforeseen circumstances, force majeure or caused by third parties, such as from viruses, damage to files, errors, omissions, interruption to services, deletion of content, network or provider connection problems, electronic or telephone connections, unauthorised access or alteration to data, to failed and/or faulty operation of electronic equipment belonging to the user.
+Since any material is downloaded or otherwise obtained through use of the service chosen by the user, any responsibility for damage to computer systems or loss of data as a result of said downloading operations, will lie with the user and cannot be ascribed to JO. JO refuses to accept any responsibility for damage arising from the impossibility to access services on the website or any damage from unforeseen circumstances, force majeure or caused by third parties, such as from viruses, damage to files, errors, omissions, interruption to services, deletion of content, network or provider connection problems, electronic or telephone connections, unauthorised access or alteration to data, to failed and/or faulty operation of electronic equipment belonging to the user.
 
-Users are responsible for keeping and correctly using their personal data, including credentials that allow access to reserved services as well as any harmful consequence or prejudice that may be caused to L’INDE or third parties following incorrect use, loss or removal of said information.
+Users are responsible for keeping and correctly using their personal data, including credentials that allow access to reserved services as well as any harmful consequence or prejudice that may be caused to JO or third parties following incorrect use, loss or removal of said information.
 
-**1\. Privacy Policy**
+1\. Privacy Policy
 
-Please read the Privacy Policy with care; it will also be applied in the event that users access the website and services without making any purchases. The Privacy Policy helps to understand the way in which L’INDE collects and uses personal data and the aims of this use.
+Please read the Privacy Policy with care; it will also be applied in the event that users access the website and services without making any purchases. The Privacy Policy helps to understand the way in which JO collects and uses personal data and the aims of this use.
 
-**2\. Intellectual Property Rights**
+2\. Intellectual Property Rights
 
-The contents of the website, such as, works, images, photographs, dialogues, music, audio and video, documents, drawings, figures, logos and any other material, in any format, published on the website, including menus, web pages, graphics, colours, outlines, tools, typeface and design of the website, diagrams, layouts, methods, processes, functions and software that are part of the website are protected by copyright and all other intellectual property rights belonging to L’INDE and other owners of said rights. All reproduction, either completely or partially, of any form, of the website and its consent, without the written consent of L’INDE is prohibited. In case of breach of this, L’INDE will take action for damages and to eliminate any conduct that is unlawful and/or detrimental to its property rights.
+The contents of the website, such as, works, images, photographs, dialogues, music, audio and video, documents, drawings, figures, logos and any other material, in any format, published on the website, including menus, web pages, graphics, colours, outlines, tools, typeface and design of the website, diagrams, layouts, methods, processes, functions and software that are part of the website are protected by copyright and all other intellectual property rights belonging to JO and other owners of said rights. All reproduction, either completely or partially, of any form, of the website and its consent, without the written consent of JO is prohibited. In case of breach of this, JO will take action for damages and to eliminate any conduct that is unlawful and/or detrimental to its property rights.
 
-**3\. Trademarks and domain names**
+3\. Trademarks and domain names
 
-L’INDE is the sole owner of the logos and registered trademarks "L’INDE LE PALAIS" and “lindelepalais.com" and of all other distinguishing marks including the words "L’INDE LE PALAIS", including the domain name "lindelepalais.com".
+JO is the sole owner of the logos and registered trademarks "LINDE LE PALAIS" and “lindelepalais.com" and of all other distinguishing marks including the words "LINDE LE PALAIS", including the domain name "lindelepalais.com".
 
 All other distinguishing marks used on products sold through the website are registered by their respective owners and used on the website for the sole purpose of distinguishing, describing and publicising the products on sale on the website.
 
-L’INDE and all other owners of registered trademarks have the right to make exclusive use of their respective trademarks.
+JO and all other owners of registered trademarks have the right to make exclusive use of their respective trademarks.
 
-No use of registered trademarks published on the website is permitted, without the consent of L’INDE or any other trademark owner; nor is it possible to use the marks on products or services that are not akin to those belonging to L’INDE or other trademark owners.
+No use of registered trademarks published on the website is permitted, without the consent of JO or any other trademark owner; nor is it possible to use the marks on products or services that are not akin to those belonging to JO or other trademark owners.
 
 The majority of the trademarks on the website refers to products on sale on the website are famous brands, well known to the general public and to all users of the website.
 
 Any unauthorised use of these trademarks or uses that do not comply to law, is prohibited and will involve civil or criminal legal consequences. Under no circumstances is it permissible to use these trademarks or any other distinguishing mark on the website to take unfair advantage of the distinctive character or fame of this trademark or in such a way as to prejudice same and their owners.
 
-**4\. Links to other websites**
+4\. Links to other websites
 
-The website contains links to other sites that have no ties to lindelepalais.com or L’INDE.
+The website contains links to other sites that have no ties to lindelepalais.com or JO.
 
-L’INDE does not control or monitor these websites or their contents. L’INDE cannot be held responsible for the contents of these websites or the rules implemented by same, including with regard to your privacy and to the processing of your personal data while you browse.
+JO does not control or monitor these websites or their contents. JO cannot be held responsible for the contents of these websites or the rules implemented by same, including with regard to your privacy and to the processing of your personal data while you browse.
 
-We therefore ask you to pay attention when connecting to these sites using the links on this website and to carefully read their terms and conditions of use and privacy policy. We must also remind you that these Terms and Conditions for Use and the Privacy Policy of L’INDE are not applied to the websites managed by parties other than L’INDE.
+We therefore ask you to pay attention when connecting to these sites using the links on this website and to carefully read their terms and conditions of use and privacy policy. We must also remind you that these Terms and Conditions for Use and the Privacy Policy of JO are not applied to the websites managed by parties other than JO.
 
 The website provides links to other websites solely to facilitate searching and browsing for its users and to make it easier to connect to other sites on the web.
 
-The presence of links does not imply any recommendation or signalling by L’INDE to access or browse the websites, nor does it imply any guarantee about the contents of same, or the services or goods they supply and sell to Internet uses.
+The presence of links does not imply any recommendation or signalling by JO to access or browse the websites, nor does it imply any guarantee about the contents of same, or the services or goods they supply and sell to Internet uses.
 
-**5\. Content warning**
+5\. Content warning
 
-L’INDE has implemented all processes to make sure that no content describing or representing scenes or situations of physical or mental violence is put on line, or content that may offend the sensitivity of the users of its website, or may be considered offensive to civil society, human rights and to personal dignity.
+JO has implemented all processes to make sure that no content describing or representing scenes or situations of physical or mental violence is put on line, or content that may offend the sensitivity of the users of its website, or may be considered offensive to civil society, human rights and to personal dignity.
 
-In all cases L’INDE cannot guarantee that the contents of the website are appropriate or legal in countries outside Italy. Users who decide to access the website from these countries are fully aware of the legal consequences and sanctions that they risk and will be solely responsible for compliance with local laws.
+In all cases JO cannot guarantee that the contents of the website are appropriate or legal in countries outside Italy. Users who decide to access the website from these countries are fully aware of the legal consequences and sanctions that they risk and will be solely responsible for compliance with local laws.
 
-L’INDE has also implemented all precautions to ensure its users that the contents of the website are accurate and do not contain incorrect information or information that is out of date with regard to its publication on the website and as far as possible, successively.
+JO has also implemented all precautions to ensure its users that the contents of the website are accurate and do not contain incorrect information or information that is out of date with regard to its publication on the website and as far as possible, successively.
 
-However, L’INDE does not accept any liability for the accuracy or completeness of the contents it publishes on the website, with the exception of its liability for fraud or wilful misconduct, and unless otherwise provided for by law.
+However, JO does not accept any liability for the accuracy or completeness of the contents it publishes on the website, with the exception of its liability for fraud or wilful misconduct, and unless otherwise provided for by law.
 
-L’INDE also cannot guarantee users that the website will operate continuously, without interruption, errrors, or malfunctions caused by connections to the Internet.
+JO also cannot guarantee users that the website will operate continuously, without interruption, errrors, or malfunctions caused by connections to the Internet.
 
 For any problem found with using the website, please contact our Customer Service.
 
-L’INDE has implemented technical and organisational measures to safeguard the security of its services on the website, the integrity of data concerning traffic and electronic communication with regard to forms of use that are not permitted, as well as to prevent risks of dispersion, destruction, and loss of data or information - confidential or otherwise - about its users, present on the website, or access that is unauthorised or not compliant with law, to the aforementioned data and information.
+JO has implemented technical and organisational measures to safeguard the security of its services on the website, the integrity of data concerning traffic and electronic communication with regard to forms of use that are not permitted, as well as to prevent risks of dispersion, destruction, and loss of data or information - confidential or otherwise - about its users, present on the website, or access that is unauthorised or not compliant with law, to the aforementioned data and information.
 
 #### Terms and Conditions of sale
 
-The offer and sale of products on the website [www.lindelepalais.com](http://www.lindelepalais.com/) (“Website") are regulated by these General Conditions of Sale.
+The offer and sale of products on the website www.lindelepalais.com (“Website") are regulated by these General Conditions of Sale.
 
-Products purchased from the website are sold directly by L’Inde Le Palais S.r.l. ("L’INDE" or the "Vendor"), with registered headquarters in Italy, at Via Ca’ Ricchi 7, 40068 San Lazzaro di Savena, Bologna, Business Reg. No., Tax ID, and VAT reg. no. 02522021209.
+Products purchased from the website are sold directly by JO S.r.l. ("JO" or the "Vendor"), with registered headquarters in Italy, at Via B.Franklin 31, 43121 Parma, Italy, Business Reg. No., Tax ID, and VAT reg. no. 02887550347.
 
-For any assistance requirements, it is possible to check the FAQs section, which contains information about ordering and shipping, refunds and returns for products purchased at [www.lindelepalais.com](http://www.lindelepalais.com/), registration on the website, suggestions and other general information about services provided by L’INDE, or you can contact the Customer Service.
+For any assistance requirements, it is possible to check the FAQs section, which contains information about ordering and shipping, refunds and returns for products purchased at www.lindelepalais.com, registration on the website, suggestions and other general information about services provided by JO, or you can contact the Customer Service.
 
-**1\. Business policy**
+1\. Business policy
 
 1.1 The Vendor offers products for sale through the website and carries out its e-business activities exclusively for end users who are “consumers". “Consumers" are considered any individual interacting with the website for purposes not to do with any business activities, trade, or professional activities performed.
 
-Users who are not end consumers are kindly asked not to purchase products from the website. L’INDE will have the right not to accept or consider purchase orders from subjects that are not end consumers or any other purchase orders that do not comply with the General Conditions of Sale or with the Terms and Conditions of Use.
+Users who are not end consumers are kindly asked not to purchase products from the website. JO will have the right not to accept or consider purchase orders from subjects that are not end consumers or any other purchase orders that do not comply with the General Conditions of Sale or with the Terms and Conditions of Use.
 
 1.2 These General Conditions of Sale exclusively regulate the offer, forwarding, and acceptance of purchase orders for products on the website, between the website users and the Vendor.
 
 1.3 The General Conditions of Sale do not regulate the supply of services or sale of products by subjects other than the Vendor which may be present on the website via links, banners or other hypertext links.
 
-**2\. How to conclude a contract with L’INDE**
+2\. How to conclude a contract with JO
 
 2.1 To conclude a purchase for one or more products on the website, it is necessary to complete the e-order form and send it to the Vendor, electronically, following the instructions.
 
@@ -102,11 +102,11 @@ Users who are not end consumers are kindly asked not to purchase products from t
 
 2.3 The order form, which will open immediately before the purchase can be completed, will contain the basic features of each item ordered, the price, (including all applicable taxes or duties), the shipping costs (including any additional costs for a specific and/or faster, non-standard shipping or delivery method chosen). The sales contract is concluded when the Vendor electronically receives the order form and after this has been checked to ensure all information entered is correct.
 
-2.4 The order form will be stored on L’INDE’s database for the time period necessary to issue the order and in any case, for the time required by law. Customers can access their orders by entering the “My orders” section in their personal area, which will be created once they have registered on the website.
+2.4 The order form will be stored on JO’s database for the time period necessary to issue the order and in any case, for the time required by law. Customers can access their orders by entering the “My orders” section in their personal area, which will be created once they have registered on the website.
 
 2.5 The language regulating the contract with the Vendor is Italian. Any texts in other languages are therefore subordinate to the Italian version.
 
-2.6 Once the contract has been concluded, L’INDE will accept the purchase order.
+2.6 Once the contract has been concluded, JO will accept the purchase order.
 
 2.7 The Vendor may decide not to accept orders that are not accompanied by sufficient guarantees of payment or which are incomplete or incorrect, or in the event that products should become unavailable.
 
@@ -120,15 +120,15 @@ Should the products presented on the website become unavailable or no longer on 
 
 2.10 When the contract is concluded, the Vendor will send an email to the customer containing a receipt for the purchase order, together with the General Conditions of Sale and a summary document for the Right of Withdrawal and in any case, all information already available in the trading and contract conditions as viewed before proceeding to make the purchase.
 
-2.11 We remind you that the item being purchased is destined exclusively to the country from which the order is made and therefore, if the user decides send the product to a different country, they will be responsible for said introduction and for compliance with all of the standards and restrictions that may apply, both in terms of export from the country in which the item was purchased and of import in the country to which it is being taken. L’INDE refuses to accept any liability to this regard.
+2.11 We remind you that the item being purchased is destined exclusively to the country from which the order is made and therefore, if the user decides send the product to a different country, they will be responsible for said introduction and for compliance with all of the standards and restrictions that may apply, both in terms of export from the country in which the item was purchased and of import in the country to which it is being taken. JO refuses to accept any liability to this regard.
 
-2.13 It is possible to pre-order items from the website if these are intended for arrival over following months (the items will be marked inside the PREVIEW section or marked as becoming available at a later date). The availability date marked will be the one confirmed to L’INDE by the suppliers.
+2.13 It is possible to pre-order items from the website if these are intended for arrival over following months (the items will be marked inside the PREVIEW section or marked as becoming available at a later date). The availability date marked will be the one confirmed to JO by the suppliers.
 
 In case of payment by Credit Card or PayPal, the amount will be charged on the date of order.
 
 For pre-ordered items for which payment is made by bank transfer, payment must be sent no later than 48 hours from the time of order.
 
-L’INDE refuses to accept any responsibility for changes on the date of delivery, for cancellations or changes to pre-ordered garments due to changes in supplier production.
+JO refuses to accept any responsibility for changes on the date of delivery, for cancellations or changes to pre-ordered garments due to changes in supplier production.
 
 In cases in which pre-orders cannot be issued, the amount paid by the customer will be credited to the original transaction.
 
@@ -136,11 +136,11 @@ Pre-ordered items will be dispatched as soon as they become available.
 
 The country stated in the shipping address for the pre-order cannot be changed.
 
-**3\. Guarantees and indications for item prices**
+3\. Guarantees and indications for item prices
 
 3.1 The website exclusively sells top-quality, luxury brand products. These products are purchased directly by the Vendor from fashion houses, manufacturers and retailers that are all carefully selected for their stringent quality controls.
 
-3.2 The Vendor does not sell used items, products with irregularities or of a lower quality than the standard items offered on the marketplace. Only high-fashion items marked as “vintage”, offered on the website in a specific section of the website and due to their particular nature, may be used and/or worn condition due to the specific nature of the product type. In the description of every vintage product, L’INDE will be sure to specify the condition of the item presented in the event this differs from the standards offered on the market.
+3.2 The Vendor does not sell used items, products with irregularities or of a lower quality than the standard items offered on the marketplace. Only high-fashion items marked as “vintage”, offered on the website in a specific section of the website and due to their particular nature, may be used and/or worn condition due to the specific nature of the product type. In the description of every vintage product, JO will be sure to specify the condition of the item presented in the event this differs from the standards offered on the market.
 
 3.3 The essential characteristics of each item are provided on the website, on the details for each. The images and colours of the products sold through the website may in any case not correspond exactly to the actual item due to the effects of the browser and screen used.
 
@@ -156,29 +156,29 @@ For purchases from countries using currencies other than the euro, the total cha
 
 3.6 All products are complete with ID tag. In case of returns, this tag should not be removed from purchased items of which it is an integral part.
 
-3.7 Users are responsible for any reduction in value of the product purchased from the website resulting from any use other than that strictly necessary to check the nature and characteristics of same. Therefore, the Vendor, in case the right of withdrawal is exercised, will have the right not to accept returns or not to refund the whole purchase price for the items in the event that said items no longer have their tags, or their essential characteristics or quality have been altered in any way, or they have been damaged, as explained in section 8.10. 
+3.7 Users are responsible for any reduction in value of the product purchased from the website resulting from any use other than that strictly necessary to check the nature and characteristics of same. Therefore, the Vendor, in case the right of withdrawal is exercised, will have the right not to accept returns or not to refund the whole purchase price for the items in the event that said items no longer have their tags, or their essential characteristics or quality have been altered in any way, or they have been damaged, as explained in section 8.10.
 
-**4\. Payment**
+4\. Payment
 
 4.1 Orders and shipping can be paid using one of the methods stated in the order form.
 
-4.2 In case of payment by credit card, the financial information (for example, the credit/debit card number and expiry date) will be directly forwarded, using encryption technology, to the payment service provider who manages the relevant distance e-payment services, without third parties having access to it in any way. This information will never be made available to the Vendor except to complete the purchasing process, to issue refunds in cases of returns,  following the exercise of right of withdrawal, or when it is necessary to prevent or inform the police of any fraud committed on the website. Payment details are made directly by the payment service provider without any processing, passages and/or storage of electronic payment data by the vendor.  The purchase prices of products and shipping and delivery costs, as stated on the order form, will be charged to the customer from the time of shipping purchased products.
+4.2 In case of payment by credit card, the financial information (for example, the credit/debit card number and expiry date) will be directly forwarded, using encryption technology, to the payment service provider who manages the relevant distance e-payment services, without third parties having access to it in any way. This information will never be made available to the Vendor except to complete the purchasing process, to issue refunds in cases of returns, following the exercise of right of withdrawal, or when it is necessary to prevent or inform the police of any fraud committed on the website. Payment details are made directly by the payment service provider without any processing, passages and/or storage of electronic payment data by the vendor. The purchase prices of products and shipping and delivery costs, as stated on the order form, will be charged to the customer from the time of shipping purchased products.
 
-**5\. Promotional Codes**
+5\. Promotional Codes
 
 5.1 Customers who sign up for the lindelepalais.com newsletter will receive updates on special offers together with promotional codes that may be added to their carts during the purchasing process. Each code has a starting date and an expiry date, and this time limit will not be extended in any way. Discount offers cannot be used together unless otherwise specified, promocodes will only work for full-priced items if not differently specified.
 
 5.2 In the event that a customer intends to exercise the right of withdrawal, as stated in art. 52 of the Consumer Code and return an item to which a promotional code was applied, the standard returns process is will be applied, as stated in the Returns section.
 
-**6\. Shipping and delivery of products**
+6\. Shipping and delivery of products
 
 6.1 To find out the specific methods for shipping and delivery of products, please see the section Shipping information. Please carefully read this section since the information it provides is an integral and substantial part of these General Conditions of Sale and therefore, you are considered that you are fully aware of and have accepted them at the time of sending in your order form.
 
-**7\. Customer Assistance**
+7\. Customer Assistance
 
 7.1 It is possible to request any information through our assistance services, contaacting our Customer Service.
 
-**8\. Right of withdrawal**
+8\. Right of withdrawal
 
 8.1 The customer has the right to withdraw from the contract with the Vendor, with no penalty charge and without having to state the reason for this, within fourteen (14) days from receipt of the items purchased from the website.
 
@@ -190,9 +190,9 @@ When the customer chooses to send in a declaration of withdrawal, the proof of c
 
 Before sending back any goods, the customer must have received an acceptance email from the Vendor, complete with an authorisation code; return shipments shall be clearly marked with the returned item authorisation code on the outside of the packaging.
 
-8.3 Once withdrawal has been exercised and the acceptance email received from L’INDE, the customer shall return the items, delivering them to the courier (postal or private service but in any case, shipping must be tracked) for shipping, no later than fourteen (14) days from the date of informing the Vendor of the intention to withdraw from the contract.
+8.3 Once withdrawal has been exercised and the acceptance email received from JO, the customer shall return the items, delivering them to the courier (postal or private service but in any case, shipping must be tracked) for shipping, no later than fourteen (14) days from the date of informing the Vendor of the intention to withdraw from the contract.
 
-8.4 The customer will be required to pay the costs for returning purchased items unless the Vendor has expressly waived these costs at the time of accepting the return and provided that the customer uses the courier stated by the Vendor in the return form and/or in the email accepting the request to return an item. In case of purchases made from countries outside the European Union, the customer will be required to pay any customs charges met by L’INDE for the return of items into Italy.
+8.4 The customer will be required to pay the costs for returning purchased items unless the Vendor has expressly waived these costs at the time of accepting the return and provided that the customer uses the courier stated by the Vendor in the return form and/or in the email accepting the request to return an item. In case of purchases made from countries outside the European Union, the customer will be required to pay any customs charges met by JO for the return of items into Italy.
 
 8.5 If the customer decides to use the courier named by the Vendor, they will not have to pay the costs for returns. Payment of costs to return purchased products will be made by the Vendor on the customer’s behalf, which therefore frees the customer from any obligation to make direct payment to the courier. The Vendor will deduct the amount paid for standard shipping of the returned items from the amount of the refund.
 
@@ -218,11 +218,11 @@ items must not be damaged.
 
 8.10 If the methods and terms for exercising the right of withdrawal have not been complied with, the customer will not have the right to a refund for the sums already paid to the Vendor. Within 14 days from the sending date of the email stating refusal of the return, the customer may opt to have the items returned to them, at their expense and in the same condition in which they were returned to the Vendor and informing the Vendor of this choice and according to the method that will be notified to them. If this is not the case, the Vendor may keep the items, as well the sums paid for their purchase.
 
-**9\. Refund time and method**
+9\. Refund time and method
 
 9.1 After the product has been returned, the Vendor will make the necessary checks of the conformity of the items under the conditions and terms stated in section 8. In case the checks are positive, the Vendor will commence the process to make the refund to the customer. In case the checks are not positive, the Vendor will inform the customer, by email, of the reduction in the value of the returned items, due to failure by the customer to comply with the conditions in section 8.7. At the same time, the Vendor will inform the customer that the amount will be deducted from the purchase price paid by the customer for the returned items and will make a partial refund, without prejudice to the alternative, which is to accept, at their own expense, the items in the same condition as returned to the Vendor and according to that stated in the above section 8.10.
 
-9.2 Whatever method of payment used by the customer, the refund, whether full or partial, will be processed by the Vendor in the smallest possible amount of time, according to art 56, subsection III of the Consumer Code, and in any case, within fourteen (14) days from the date on which the Vendor was informed of the customer’s intention to exercise the right of withdrawal and the check of returned items. 
+9.2 Whatever method of payment used by the customer, the refund, whether full or partial, will be processed by the Vendor in the smallest possible amount of time, according to art 56, subsection III of the Consumer Code, and in any case, within fourteen (14) days from the date on which the Vendor was informed of the customer’s intention to exercise the right of withdrawal and the check of returned items.
 
 9.3 The Vendor will make the refund in euro, using the same method of payment as used by the customer to make the purchase. When there is no correspondence between the recipient of the item stated on the order form and the person who paid for the purchase, the sum will be refunded by the Vendor, in case of exercise of the right of withdrawal, to the person who made the purchase.
 
@@ -230,59 +230,57 @@ items must not be damaged.
 
 9.6 In case the customer decides to use a different courier to the service named by the Vendor, they will be liable for the shipping costs and, including liability in case of loss or damage to the products.
 
-**10 Privacy**
+10 Privacy
 
 10.1 The website user may obtain information as to how their personal data are used accessing the Privacy Policy.
 
 10.2 Please read the Terms and Conditions of Use because they contain important indications about how website users’ data are processed and the security systems used.
 
-10.3 For any other information on the Privacy Policy it is possible to send requests to the following email address: [privacy@lindelepalais.com](mailto:privacy@lindelepalais.com) or the address of the registered offices, Via Ca’ Ricchi 7 – 40068 - San Lazzaro di Savena, Bologna, Italy.
+10.3 For any other information on the Privacy Policy it is possible to send requests to the following email address: privacy@lindelepalais.com or the address of the registered offices, Via B.Franklin 31, 43121 Parma, Italy.
 
-**11 Applicable law and dispute resolution**
+11 Applicable law and dispute resolution
 
 11.1 These General Conditions of Sale are regulated by Italian law and therefore, will be interpreted and executed in compliance with them.
 
-**12 Amendments and update**
+12 Amendments and update
 
 12.1 The General Conditions of Sale are amended from time to time, also in correspondence with changes to law. New General Conditions of Sale will enter into effect from the date of publication on the website.
 
 #### Return Policy
 
-The customer has the right to withdraw from the contract concluded with L'INDE, with no penalty , within fourteen (14) days from the goods delivery. In addition, the customer is allowed to return the goods if failures in shipping occur or the items do not correspond to the expected quality.
+The customer has the right to withdraw from the contract concluded with JO, with no penalty , within fourteen (14) days from the goods delivery. In addition, the customer is allowed to return the goods if failures in shipping occur or the items do not correspond to the expected quality.
 
- **Goods return procedure**   
+Goods return procedure   
 The right of withdrawal/return is subject to the following conditions:
 
-  * The **withdrawal/return form** must be carefully and correctly filled in and forwarded to L'INDE within 14 days from the goods receipt. Furthermore, the reasons of withdrawal/return must be stated.
-  * The items have to be returned by forwarding agent as indicated by L'INDE (UPS) or other courier, following the drawing up of the Return Form available at the bottom of the website.
-  * Returns have not to be washed, used, worn or damaged.
-  * The items have to be provided with the identification tag
-  * The items have to be returned intact and not used in their original package (books, CDs and design objects with all seals intact); if you want to return a kit, please include all its components.
-  * Goods must be returned by one shipment only. L'INDE reserves the right not to accept the restitution of items included in the same order but returned with more than one shipping.
-  * Before shipping the goods, you will receive from L'INDE an e-mail confirmation.
-  * The goods must be delivered to the forwarding agent within fourteen (14) days from the receipt of our mail confirmation.
+The withdrawal/return form must be carefully and correctly filled in and forwarded to L'INDE within 14 days from the goods receipt. Furthermore, the reasons of withdrawal/return must be stated.  
+The items have to be returned by forwarding agent as indicated by JO, following the drawing up of the Return Form available at the bottom of the website.  
+Returns have not to be washed, used, worn or damaged.  
+The items have to be provided with the identification tag  
+The items have to be returned intact and not used in their original package (books, CDs and design objects with all seals intact); if you want to return a kit, please include all its components.  
+Goods must be returned by one shipment only. JO reserves the right not to accept the restitution of items included in the same order but returned with more than one shipping.  
+Before shipping the goods, you will receive from JO an e-mail confirmation.  
+The goods must be delivered to the forwarding agent within fourteen (14) days from the receipt of our mail confirmation.
 
-
-
-  
-**Terms of refund**  
-After receiving the returns, L'INDE will check the fulfilment of all requirements and send you an e-mail of confirmation/payment/replacement of your returns. L'INDE will arrange the refund of the already paid amounts, less any shipment cost and, when necessary, custom duties. Once the correct execution of the term and conditions above mentioned is verified, you will be refunded as soon as possible. At least, within fourteen (14) days from the goods receipt, L'INDE will activate the refund procedures.  
-In case of incorrect return procedure, as specified in this paragraph, you have no right to be refunded, whereas returned objects can be delivered to you once again, at your own expenses. Otherwise, L'INDE is allowed to keep the goods, along with the amounts paid for it.   
+Terms of refund  
+After receiving the returns, JO will check the fulfilment of all requirements and send you an e-mail of confirmation/payment/replacement of your returns. JO will arrange the refund of the already paid amounts, less any shipment cost and, when necessary, custom duties. Once the correct execution of the term and conditions above mentioned is verified, you will be refunded as soon as possible. At least, within fourteen (14) days from the goods receipt, JO will activate the refund procedures.  
+In case of incorrect return procedure, as specified in this paragraph, you have no right to be refunded, whereas returned objects can be delivered to you once again, at your own expenses. Otherwise, JO is allowed to keep the goods, along with the amounts paid for it.   
 After three months, the returned objects will be destroyed or arranged for disposal.  
-Should the products received indicated in the order form different from the person who arranged the payment L'INDE, in case of goods return, will refund the amount to whom effected the payment.   
-Shipping costs of returns, including responsibility in case of loss or damaging, are to be paid by customer. In case of faulty pieces, shipping costs are at L'INDE's expenses, if our couriers - UPS usually \- is involved in the forwarding.  
+Should the products received indicated in the order form different from the person who arranged the payment JO, in case of goods return, will refund the amount to whom effected the payment.   
+Shipping costs of returns, including responsibility in case of loss or damaging, are to be paid by customer. In case of faulty pieces, shipping costs are at JO's expenses, if our courier is involved in the forwarding.  
 Refund will be arranged within a period of time depending on the form of payment selected to pay the purchasing price:
 
-  * by credit/debit card: refund will be available depending on your credit/debit card, usually within two statements of account.
-  * By bank transfer: refund will be credited on the same bank account.
-  * By PayPal: the amount will be refunded on your PayPal account and will be immediately visible from the moment in which L'INDE accepts your return. The effective refund on your credit card from your PayPal account depends on the credit card, usually within 30 days.
-
-
-
-If the object was originally intended as a present, L'INDE will refund the person who arranged the payment. **Identification tag**  
-All products are provided with an identification tag attached with a disposable seal. Please do not remove the tag, in order to be allowed to exercise your right to return the goods when necessary. L'INDE will not accept returns if tags and seals have been removed.
+by credit/debit card: refund will be available depending on your credit/debit card, usually within two statements of account.  
+By bank transfer: refund will be credited on the same bank account.  
+By PayPal: the amount will be refunded on your PayPal account and will be immediately visible from the moment in which JO accepts your return. The effective refund on your credit card from your PayPal account depends on the credit card, usually within 30 days.  
+If the object was originally intended as a present, JO will refund the person who arranged the payment. Identification tag  
+All products are provided with an identification tag attached with a disposable seal. Please do not remove the tag, in order to be allowed to exercise your right to return the goods when necessary. JO will not accept returns if tags and seals have been removed.
 
 #### Privacy
+
+Please note that with effect from February 1st 2019 this site is no longer managed by L’Inde Le Palais Srl but - by virtue of renting a business branch - by Jo Srl.
+
+The data controller and the contact addresses for the exercise of data subject rights under Articles 15 and following of GDPR have been changed and modified in the informations below.
 
 This notice (hereinafter referred to as ‘the privacy policy’) is provided in compliance with the current legislation regarding the personal data protection and, in particular, with the EU Regulation 2016/679 concerning the protection of individuals with regard to the processing of personal data and the free movement of data ** ** (“GDPR”) and with the principles set forth in the Italian Legislative Decree n. 196/2003 ( the “Personal Data Protection Code” or the “Privacy Code”) and it relates to the processing of personal data of the visitors to the website www.lindelepalais.com (hereinafter referred to as “the Site” or “the Website”).
 
@@ -308,7 +306,7 @@ This Privacy Policy aims to describe in a simple and transparent manner to the u
 
 **1\. DATA CONTROLLER**
 
-1\. The Controller of the processing of personal data of the users is L’Inde Le Palais S.r.l. (P.IVA: 02522021209), Via Ca’ Ricchi n. 7, 40068, San Lazzaro di Savena (BO), tel.: 051/0301107, E-mail: privacy@lindelepalais.com; P.E.C.: lindelepalais@pec.it (hereinafter referred to as “the Controller” or “the Company”).
+1\. The Controller of the processing of personal data of the users is JO S.r.l. (P.IVA: 02887550347), Via B.Franklin 31, 43121 Parma, Italy, phone: 0039(0)521606160, E-mail: privacy@lindelepalais.com; P.E.C.:  jo.srl@pec.it (hereinafter referred to as “the Controller” or “the Company”).
 
 **2\. PURPOSES AND METHODS OF DATA PROCESSING**
 
@@ -352,8 +350,7 @@ The personal data provided herein are used solely for the purpose of responding 
 
 **_4.2.2 Data supplied voluntarily by the User (advertising materials and/or quotes)_**
 
-Users can voluntarily provide personal information to L’Inde Le Palais   
-in the context of a service they requested by them. Such provided data may be used to send e-mail communications relating to services similar to those previously required by the user, pursuant to art. 130, paragraph 4 of the Italian Legislative Decree n. 196/2003, without the need for express and prior consent (so-called soft spam). Each message includes a notice that its recipient can at any moment revoke his/her consent without formalities to such processing of personal data. Data subject can request the Data Controller to delete or anonymize his/her personal information ** _._**
+Users can voluntarily provide personal information to JO in the context of a service they requested by them. Such provided data may be used to send e-mail communications relating to services similar to those previously required by the user, pursuant to art. 130, paragraph 4 of the Italian Legislative Decree n. 196/2003, without the need for express and prior consent (so-called soft spam). Each message includes a notice that its recipient can at any moment revoke his/her consent without formalities to such processing of personal data. Data subject can request the Data Controller to delete or anonymize his/her personal information ** _._**
 
 **_4.3._** ** _Newsletter_**
 
@@ -489,7 +486,7 @@ On-line tools: You may note that from http://www.youronlinechoices.com/ you can 
 
 3\. With reference to personal data processed by automated means, the data subject may also receive data concerning him or her in a structured, commonly used, machine-readable and interoperable format, and to transmit them to another data controller (right to data portability).
 
-4\. Any request regarding the processing of personal data and any communication concerning the exercise of their rights may be addressed to the Data Controller using the appropriate "Contact" form on the Website or by sending a communication via e-mail, to privacy@lindelepalais.com; or by mail to L’Inde Le Palais S.r.l., Via Ca’ Ricchi n. 7, 40068, San Lazzaro di Savena (BO).
+4\. Any request regarding the processing of personal data and any communication concerning the exercise of their rights may be addressed to the Data Controller using the appropriate "Contact" form on the Website or by sending a communication via e-mail, to privacy@lindelepalais.com; or by mail to JO S.r.l., Via B.Franklin 31, 43121 Parma (PR), Italy.
 
 **8\. RIGHT TO WITHDRAW CONSENT AND TO OBJECT**
 
@@ -501,7 +498,7 @@ On-line tools: You may note that from http://www.youronlinechoices.com/ you can 
 
 Shipping is only possible to the areas and countries listed on our website [www.lindelepalais.com](http://www.wanderingbrand.com/). Purchase requests from countries not viewed at the time of purchasing cannot be accepted.
 
-Shipping to non EU countries is subject to customs charges, import taxes or local taxes, based on the laws in force in the country of residence. Shipping to these countries may be of two types: DDP (delivered duty paid), or DDU (delivered duty unpaid). Currently, DDP shipping is only available for the United States, Canada, Switzerland, Japan and South Korea.
+Shipping to non EU countries is subject to customs charges, import taxes or local taxes, based on the laws in force in the country of residence. Shipping to these countries may be of two types: DDP (delivered duty paid), or DDU (delivered duty unpaid). Currently, DDP shipping is not available.
 
 Customers in countries located outside the EU are not charged VAT.
 
@@ -516,10 +513,9 @@ As soon as payment has been authorised and items are available, orders will be s
 Shipping time depends on destination country of the order:
 
   * Italy (FREE EXPRESS DELIVERY): in 2 business days
-  * Europe (FREE EXPRESS DELIVERY for orders above 250 euro, otherwise 15 euro):  in 4 business days
-  * United States, Canada, Japan, South Korea (FREE EXPRESS DELIVERY): in 5 business days
-  * Non EU countries (FREE EXPRESS DELIVERY for orders above 250 euro, otherwise 25 euro - customs duty to be paid by the customer): in 5 business days
-  * RUSSIA (FREE STANDARD DELIVERY): from 7 to 20 business days
+  * Europe (FREE EXPRESS DELIVERY for orders above 500 euro, otherwise 20 euros):  in 4 business days
+  * Non EU countries (FREE EXPRESS DELIVERY for orders above 500 euro, otherwise 30or 40 euros, see FAQs - customs duties to be paid by the customer): in 5 business days
+  * RUSSIA (FREE STANDARD DELIVERY): shipment to Russia is suspended at the time.
 
 
 
