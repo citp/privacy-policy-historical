@@ -1,91 +1,218 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522221517id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525115613id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas website: privacy policy | Acas
 
-Website URL : http://www.acas.org.uk/index.aspx/images/acas/helplineonline/media/pdf/4/s/media/word/5/p/index.aspx?articleid=1922 
+Your rights relating to use of your personal data changed in May 2018, when the Data Protection Act 2018 came into force.
 
-## Introduction
+This Privacy Statement explains how and why the Advisory, Conciliation and Arbitration Service (Acas) processes your personal data under these new laws.
 
-This Privacy Policy forms part of the Terms and covers the Acas website which may be accessed via, www.acas.org.uk, www.acas,gov.uk and www.acas.co.uk (the " **Website** ") and the Services provided through it. It describes how We collect, protect and use information We receive from Website visitors. The data controller for the Website is Acas (" **We** ", " **Us** ", " **Our** " or " **Acas** ") whose head office is at Acas National (Head Office) Euston Tower, 286 Euston Road, London NW1 3JJ.
+If you have a query about this Privacy Statement please contact the Data Protection Officer at the contact details below.
 
-## Information We collect
+## How we use your personal data
 
-We collect several kinds of information, depending on the part of the Website being visited. We collect personal information from you when you register for an event or training, session, provide feedback, send email enquiries, place a publication order, use the Acas Model Workplace or participate in another part of the Website.
+Acas collects personal data about you to fulfil the legal functions it is required to deliver under the Trade Union and Labour Relations (Consolidated) Act 1992.
 
-We may ask you for personal information such as your name, email address, postal address, postcode, job title, daytime and/or mobile phone number, credit/debit card information (when ordering products or booking Services only) and information about your workplace and the nature of your business. You must also provide us with personal information when you create a user name and password. You may also voluntarily provide Us with personal information about any special needs you may have so that we can try to ensure Our Services meet your requirements.
+What we collect about you and how we do this depends of what Acas services you might use, and how much personal data about you we need to provide these services. These are explained below.
 
-If you wish to make a complaint about an employment right or you are responding to a complaint, We will collect relevant information including personal information in order to assist you. This information will also help us to monitor progress and to produce anonymised statistics. The information We collect in this context may be disclosed to the Department for Business, Innovation and Skills (BIS) to assist in research into the use and effectiveness of Acas.
+### 1\. Acas Helpline
 
-You may, however, visit parts of the Website anonymously and without registering.  If you choose not to register on the Website you may not be able to use the Website and its features to their fullest extent. For example, you will be unable to book Acas training sessions online or save the feedback you receive from the Acas Model Workplace.
+The telephone number you use to call our helpline is recorded in our helpline database. This is kept for a maximum of eighteen months. At the end of this period, your phone number will be deleted from our database.
 
-## Use of personal information
+We keep your phone number for this period to identify your call to monitor the volume and nature of helpline calls we get.
 
-We use the personal information We collect via the Website for the purposes of:
+We may make an audio-recording of your call and use it for training purposes. You will be informed of this with a recorded message before you speak to a helpline adviser. We keep recordings for training purposes for 30 days then they are destroyed.
 
-  * providing, developing, improving and personalising Our Services and the Website
-  * providing you with information about Our Services
-  * dealing with your inquiries and requests
-  * administering orders and accounts relating to Our customers
-  * administering user accounts
-  * generating anonymous reports about use of the Website and its features (including the Acas Model Workplace).
+We may also record your call to check that our wider services meet everyone's needs. If we decide to use your call for quality improvement, we will delete your telephone number. This makes it impossible for Acas staff to know who made a recorded Helpline call when using it for this purpose.
+
+We may refer your call to another part of Acas (for example, to our Conciliators). If we do this, the Helpline may pass on relevant personal details about you (including name, contact details, and details about your workplace). We only pass these details to other Acas staff who will deal with your case. 
+
+### 2\. Early Conciliation or Conciliation services
+
+We collect and use personal data to provide Acas' Early Conciliation or Conciliation services. This is the same whether you are a 'claimant' making a claim, or as a 'respondent' - an employer responding to a claim. 
+
+This personal data will include your name, address, and workplace details. Acas may also collect and use further personal data required for your case, including sensitive personal data (for example medical information, trade union membership, or racial/ethnic origin) if this is needed.
+
+Acas staff use this personal data to contact claimants and respondents, and to conciliate in cases as part of our statutory duty to help resolve employment disputes.
+
+We may also use your personal data to check that our conciliation services meet your needs. We sometimes use external research organisations for these checks.
+
+We will not share details of your conversations with the conciliator with the other side in your dispute, unless you give us your clear permission to do so. This is the same for telephone call notes, emails and letters.
+
+We do not make audio-recordings of telephone calls with conciliators. This is so Conciliation cases remain as confidential as possible.
+
+Our conciliators make case notes of the conversations they have with you and the Respondent which they store in a case management system. This is also where they store emails and letters. This is kept for 6 months after a case is closed. 
+
+Personal identifying data, such as claimant and respondent names, addresses, telephone numbers, and email addresses are retained for a further 6 months after case notes and correspondence are deleted.  
+
+After the two purges, case references, jurisdictions and (on ET1 claims only) the gender of the claimant, are retained for research purposes only.
+
+### 3\. Collective Dispute Resolution
+
+Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [foi@acas.org.uk](mailto:foi@acas.org.uk) with the details of your request.
+
+Collective conciliators sometimes process personal data as a third party. This occurs when collective conciliators are invited in to organise ballots or conciliate in trade union recognition disputes. 
+
+On these occasions, personal information is not collected directly from the individuals (or 'data subjects'). Lists of employees/workers are given to Acas by an employer and lists of trade union members are provided by trade unions.
+
+Data collected may consist of: Name, Employer, Trade Union Membership number, Name of Trade Union and dates of births of both workers/employees and trade union members. Employers and trade unions make an agreement in each case which information is given to Acas.
+
+Acas keeps these lists for one month after the announcement of the results of a ballot or a membership check has been made and then destroys the lists. Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [foi@acas.org.uk](mailto:foi@acas.org.uk) with the details of your request.
+
+Collective conciliators sometimes process personal data as a third party. This occurs when collective conciliators are invited in to organise ballots or conciliate in trade union recognition disputes. 
+
+On these occasions, personal information is not collected directly from the individuals (or 'data subjects'). Lists of employees/workers are given to Acas by an employer and lists of trade union members are provided by trade unions.
+
+Data collected may consist of: Name, Employer, Trade Union Membership number, Name of Trade Union and dates of births of both workers/employees and trade union members. Employers and trade unions make an agreement in each case which information is given to Acas.
+
+Acas keeps these lists for one month after the announcement of the results of a ballot or a membership check has been made and then destroys the lists.
+
+### 4\. Training services
+
+We collect and use personal data to provide training services, workshops or projects for people who make bookings with our customer services team and our website. 
+
+When you make a booking we collect your name, address, telephone number, e-mail address and workplace details in order to process your request. You may also volunteer any special needs you may have (such as dietary requirements if food is required for a training course). As Acas charges for its training services, we may retain personal data collected for this purpose for seven years. This is so we comply with finance law.
+
+We will store your personal details through your on-line Acas training account. This will be stored for as long as you keep your account. This is so you can look at your account history.
+
+Acas may use the personal data collected to provide you with Acas mailings for marketing purposes, to check that our services meet our customer's needs, or to inform you of changes to our services.
+
+### 5\. Use of personal data for internal research
+
+We collect and process data to create a body of knowledge to help us give advice, conciliate and provide training services. Our researchers collect and analyse personal data for the following reasons:
+
+  * Customer insight, in which we collect and analyse data on our users' experiences, behaviours, needs and characteristics
+  * Product research and development
+  * Marketing research
+  * Research of Acas' wider external environment, in which we collect and analyse data on policy, economy, technology etc.
+  * Insight from external stakeholders
+  * Insight from Acas' own staff
+  * Analysis of Management Information detailing the activities of our customers/users/delegates
 
 
 
-Acas may use the personal information collected via the Website to provide you with Acas mailings for marketing purposes or to inform you of Our promotions or changes to Our Services. If you register on the Website We may use the personal information We collect to send you information about Our Services by email. You may opt out of receiving information about Our Services by selecting the relevant option on Our Website or by sending Us an email at [webteam@acas.org.uk](mailto:webteam@acas.org.uk).
+We may use personal data collected as part of the services we offer, to also conduct research into employment trends and on the performance of Acas in meeting user's needs. You will be informed of this when signing up to use our services.
 
-## Acas Model Workplace
+If you use our Helpline or use our Website, we may additionally ask if you are willing to take part in Acas research, for example as part of a user survey. If you agree we will collect personal data from you e.g. contact details, for this purpose.
 
-You may use the Acas Model Workplace either anonymously or by registering with Us. However, if you use the Acas Model Workplace without registering on the Website We will ask for specific information about your workplace so that We can monitor what types of organisations use the Acas Model Workplace. Please note that if you do not register, you will not be able to save your feedback and you will need to print your feedback out should you wish to retain a copy.
+Where we do use personal data for research purposes, as far as possible we will try to make this unidentifiable before we use it. This is to help ensure that your privacy is respected when personal data is used by Acas staff for research purposes, or by those providing research services to us.
 
-Where you use the Acas Model Workplace as a registered user, We will not generate reports based on the answer inputs you have submitted nor on the ratings achieved without your prior consent. However, We will be able to generate reports derived from answer inputs from the Acas Model Workplace on an aggregate and anonymous basis and We will be able to run reports telling us which modules of the Acas Model Workplace a particular user has viewed or completed.
+We may share personal data to be used for research purposes, such as email addresses, with external research companies that have been employed by Acas to carry out research and analysis on our behalf. Where this happens, we will ensure that use of your personal data complies with the law and is kept secure at all times.
 
-Please note that the feedback you receive from the Acas Model Workplace is based on an automated analysis of the information you provide. Once you have completed the Acas Model Workplace, you will have the option to request information on the follow up advisory work that We provide and, additionally, you may consent to the disclosure of your answer inputs and ratings to an Acas advisor.
+In addition to the information in this notice, which covers a range of research and analysis conducted by Acas, there may be some project-specific information, which we will provide separately. This will usually be at the moment you are invited to provide data (eg complete a survey or take part in a focus group), in an email, on an information page on a website, or orally. This information will most likely cover the name of any third-party agency processing data on our behalf, and their representative's contact details. If you do not have this information, you can email [research@acas.org.uk](mailto:research@acas.org.uk) to request it. Please give as many details of the research project in question to help us identify the information relevant to you.
 
-## Security and confidentiality
+Some research projects differ from our usual methods to such a degree that they require their own privacy notices. If this is the case, you will be provided with such a privacy notice, and this general research and analysis privacy notice will not apply. If you are unsure which privacy notice is relevant to you, you can email [research@acas.org.uk](mailto:research@acas.org.uk) to ask. 
 
-Acas safeguards the security of the personal information you provide to Us with physical, electronic and managerial procedures. We use industry-standard Secure Sockets Layer (SSL) encryption on all pages where We collect personal information.
+### 6\. Making a Freedom of Information (FOI) or Subject Access Request
 
-Any personal information you provide will be held securely and your personal information will not be sold or traded to third parties. In some circumstances We may need to disclose your personal information (i) to a third party to provide a service you have requested, (ii) to fulfil a request for information, (iii) to comply with a legal requirement or request from a competent court, regulator or other authority, or (iv) if We believe that there has been a violation of the Terms, of Our rights or the rights of any third party. Any information about you that We pass to a third party service provider will be held securely by that party and used only to provide the services or information you have requested.
+If you wish to make an FOI or Subject Access Request, your contact details and case history will be collected to process your request and will be kept for two years.
 
-## Cookies
+If you wish to make a complaint to the Information Commissioner's Office (ICO) regarding a decision on a FOI or Subject Access Request, Acas is legally obliged to share your case records, which includes personal data, with the ICO in order to progress your complaint. You may withdraw your complaint at any time.
 
-Cookies are small pieces of data sent to your computer when you visit the Website and which enable Us to collect information about you. They are stored in the cookie directory of your hard-drive, and do not necessarily expire at the end of your session although session cookies are automatically deleted when you close your browser. The information We collect in this way may include data about how you use the Website, information about your computer (including your IP address and browser type), demographic data and, if you visited the Website by clicking on a link from a different website, the URL of that website.  We may also collect information about your online activity, such as the pages you have viewed and the purchases you have made. Our use of cookies also allows registered users of the Website to be presented with a personalised version of the Website, to carry out transactions and to have access to information about their account.
+## Sensitive Personal Information
 
-Although your browser may be set up to allow the creation of cookies, you can specify that you wish to be prompted before a website puts a cookie on your hard drive, so that you can decide whether to allow it. Alternatively, you can set your computer not to accept any cookies. Please refer to your browser instructions or help screen for information about how to do this. If you disable cookies, you may not have access to certain features that make your experience of the Website more efficient and some of Our Services may not function properly, such as placing an online order. Visitors who disable cookies can still place orders over the telephone and by email and fax.
+Some of the information you provide to us may be sensitive personal data, such as medical history, criminal convictions, trade union membership or racial/ethnic origin.
 
-Further information on [Our use of cookies](http://www.acas.org.uk/index.aspx?articleid=3341) is available.
+We will only ever use sensitive personal data where this is essential to provide advice or to provide one of our statutory services such as conciliation. We may also use medical information you provide to make reasonable adjustments to help you access our services, or to ensure dietary requirements can be met where needed.
 
-## Social networking
+## Confidentiality, storage and security of personal data
 
-Our Website may offer you the opportunity to share or follow information about the Website (or the products and/or services available through it) using third party social networking functionality (such as through "share this", "like" or "follow" buttons).
+The confidentiality and security of your personal information is very important. Any personal information you provide will be held securely, and your personal information will not be sold or traded to another organisation or company.
 
-We offer this functionality in order to generate interest in Our Website among the members of your social networks, and to permit you to share and follow opinions, news and recommendations about the Website with your friends. However, you should be aware that sharing personal or non-personal information with a social network may result in that information being collected by the social network provider or result in that information being made publicly-available, including through Internet search engines.
+In order to carry out our functions and respond to enquiries effectively, we may sometimes need to share information with government departments, the emergency services, law enforcement agencies, and public authorities (such as the Employment Tribunals Service). However, we will only do this where it is permitted by law.
 
-Please note that We do not exercise any endorse or control the policies or practices of any third party social network whose functionality you may access through Our Website. You should always read the privacy policy of any social network through which you share information carefully in order to understand their specific privacy and information usage practices.
+We ensure that personal data shared with an external company or service that we employ as part of our work will be held securely. Your personal information is only used by them only to provide the services or information that you have requested.
 
-## Access to your information and contacting Acas
+Acas safeguards the information you provide to us using physical, electronic and management procedures. For example, industry-standard Secure Sockets Layer (SSL) encryption is used on web pages where we collect personal information electronically over an internet connection.
 
-You have the right to request a copy of the personal information Acas holds about you and to have any inaccuracies corrected. Please address requests (with a return email address where possible) to:
+We manage risks around the use of personal data using the '10 Steps to Cyber Security' framework, managed by The National Cyber Security Centre (a part of the government). Security of our Information Technology (IT) systems are evaluated using Her Majesty's Government (HMG) Security Policy Framework.
 
-The Web Team/Data Protection  
-Acas  
-Euston Tower  
-286 Euston Road  
-London NW1 3JJ  
-Email: [webteam@acas.org.uk](mailto:webteam@acas.org.uk)
+Customer, claimant and respondent data is held in a government secure data centre in the UK. Back-up services are also provided in a separate government secure data centre in the UK.
 
-If you have a query or complaint about this Privacy Policy or about the Website, you can contact Us at [webteam@acas.org.uk](mailto:webteam@acas.org.uk).
+## Lawful basis for processing
 
-Note that we cannot answer personal situations or queries by email. You should call the dedicated National Helpline 0300 123 1100 for free confidential help and information on work issues.
+Under data protection laws, Acas must have a 'lawful basis' to justify our collection, storage and use of your personal data. Where sensitive personal data is used, we also need to have a second lawful basis to justify our use of your sensitive data.
 
-## Links to external sites from the Website
+## Lawful basis - Data Protection Act 2018
 
-The Website contains links to other websites, mainly government departments, but also to those of other third parties. These websites are not covered by this Privacy Policy and Acas is not responsible for the privacy practices within any of these other websites. You should be aware of this when you leave the Website and We encourage you to read the privacy statements of other websites.
+Our lawful basis for processing of personal data, including for marketing of our charged-for training services, is therefore that it is necessary:
 
-## Internet based transfers
+" the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c. 12) PART 2 CHAPTER 2 Lawfulness of processing Section 8 (d)
 
-Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. Territories outside the European Economic Area ("EEA") may not have laws which provide the same level of protection for personal information as those inside the EEA. However, if We process your personal information on servers or use third party service providers based in such territories, We will endeavour to ensure that your personal information is afforded the same level of protection as in the EEA. By visiting the Website and communicating electronically with Us, you acknowledge Our processing of personal information in this way.
+Where we process sensitive personal data, our additional lawful basis to do this is that it is necessary:
 
-## Changes to this Privacy Policy
+" the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c.12) Schedule 1 PART 2 Substantial Public Interest Conditions Section 6 Paragraph 2 (b)
 
-If this Privacy Policy changes in any way, We will place an updated version on this webpage. If you do not agree with the changes We make please do not continue to use the Website. Regularly reviewing this webpage ensures you are always aware of what information We collect, how We use it and under what circumstances, if any, We will share it with other parties.
+## Lawful basis - General Data Protection Regulations or GDPR
+
+The purpose of most activities where Acas processes personal data, relates to our legal duties under the Trade Union and Labour Relations (Consolidated) Act 1992.  
+ 
+
+Our lawful basis for processing of personal data, including for marketing of our charged-for training services, is therefore that it is necessary:
+
+"for the performance of a task carried out in the public interest, or in the exercise of official authority vested in the data controller" (Article 6(1)(e) of the GDPR).
+
+For sensitive personal data that may be processed as part of our Helpline, Conciliation and Arbitration services, and to respond to FOI and Subject Access Requests, our lawful basis is where:
+
+"processing is necessary for the establishment, exercise or defence of legal claims or where courts are acting in their judicial capacity" (Article 9(2)(f) of the GDPR).
+
+Where sensitive personal data may be processed for research and analysis purposes, our lawful basis is where:
+
+"processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes" (Article 9(2)(j) of the GDPR).
+
+## Your rights under data protection law
+
+You have a right to request a copy of the information that Acas holds about you. You have the right to have any inaccuracies corrected.
+
+You may also have the right to have your personal information erased; to restrict our use of your personal data; to object to our processing of your personal data; and to obtain and reuse your personal data for your own purposes across different services ('data portability'). 
+
+You may also have rights in relation to automated decision making and profiling.
+
+You have the right to complain to the national authority on the use of information, which in the UK is the Information Commissioner's Office
+
+Please address requests (with a return e-mail address where possible) to:
+
+The Data Protection Officer
+
+Acas
+
+Strategy Directorate
+
+22nd & 23rd Floor, Euston Tower
+
+London
+
+NW1 3JJ
+
+Email: [foi@acas.org.uk](mailto:foi@acas.org.uk)
+
+## Use of our website and Social Networking
+
+When you visit our website, we collect your Internet Protocol (IP) address as a unique identifier. We also collect the following:
+
+  * data about how you use the Acas Website
+  * information about your computer (including your IP address and browser type)
+  * demographic data
+  * if you visited the Website by clicking on a link from a different website, we collect the URL of that website
+  * information about your online activity, such as the pages you have viewed and the purchases you have made.
+
+
+
+Our website offers you the opportunity to 'like' or 'share' information about Acas on your social media networks. We also maintain pages on some of the largest social media networks.
+
+Sharing your personal data with a social media network may result in that information being collected by the social network provider or result in that information being made publicly available.
+
+Acas cannot control or endorse any policies or practices of external social media networks whose functionality you may access through our website. You should always read the privacy policy, and check your privacy settings, on any social media network through which you might share information over.
+
+Cookies are small pieces of data sent to your computer when you visit the Website and which enable us to collect information about you. They are stored in the cookie directory of your hard-drive, and do not necessarily expire at the end of your session. Session cookies are automatically deleted when you close your browser.
+
+Our use of cookies also allows registered users of the Website to be presented with a personalised version of the Website, to carry out transactions and to have access to information about their account. Further information on our use of cookies is available on request.
+
+The Acas website contains links to other websites, mainly other government departments, but also to those of other third parties. These websites are not covered by this Privacy Statement and Acas is not responsible for the privacy practices within any of these other websites. You should be aware of this when you leave the website and we encourage you to read the privacy statements of other websites.
+
+## Data transfers
+
+Territories outside the United Kingdom may not have laws which provide the same level of protection for personal information as those inside the UK. However, if we process your personal information on servers or use third party service providers based in such territories, we will work hard to ensure that your personal information is given the same level of protection as in the UK.
+
+## Changes to this Privacy statement
+
+If this privacy statement changes in any way, we will place an updated version on this webpage. If you do not agree with the changes we make please do not continue to use the website. Regularly reviewing this webpage ensure you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
