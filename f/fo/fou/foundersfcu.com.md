@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331104353id_/https%3A//www.foundersfcu.com/pdf/4313PrivacyPolicy1212.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525170529id_/https%3A//www.foundersfcu.com/sites/www.foundersfcu.com/files/privacy-policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                    Rev 12/2012
+                                                                                                                    Rev 12/2018
                       WHAT DOES FOUNDERS FEDERAL CREDIT UNION
 FACTS                 DO WITH YOUR PERSONAL INFORMATION?
                       Financial companies choose how they share your personal information. Federal law gives
@@ -40,15 +40,15 @@ For our affiliates’ everyday business purposes—
 information about your creditworthiness
 For our affiliates to market to you                                      Yes                               Yes
 For our nonaffiliates to market to you                                    No                        We don’t share
- To limit             • Mail the form below.
+                      • Mail the form below.
+ To limit             • Call 1-800-845-1614.
  our sharing          Please note:
                       If you are a new member, we can begin sharing your information 30 days from the date we sent
                       this notice. When you are no longer our member, we continue to share your information as
                       described in this notice.
                       However, you can contact us at any time to limit our sharing.
- Questions?           Call (800) 845-1614.
- Mail-in Form
-                      You are not required to complete this form if you have done so in the past.
+ Questions?           Call 1-800-845-1614.
+ Mail-in Form (You are not required to complete this form if you have done so in the past.)
                       Do not allow your affiliates to use my personal information to market to me.
                      Name                                                                            Mail to:
                                                                                                      Founders Federal
