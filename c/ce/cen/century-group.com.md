@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416215702id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525034903id_/https%3A//www.century-group.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
