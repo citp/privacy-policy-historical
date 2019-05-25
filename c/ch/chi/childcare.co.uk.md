@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005001650id_/https%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525150436id_/https%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Childcare.co.uk
 
@@ -104,4 +104,4 @@ h) Cookie-warning cookie: This cookie takes note of whether you are happy to acc
 
 12.3 For more information about your rights, visit the ICO’s website: [www.ico.org.uk](https://www.ico.org.uk/).
 
-**Version: 2.0 Revision C0AD12E**
+**Version: 2.0 Revision 5C54C79**
