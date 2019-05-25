@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the online-news-school.info privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116140155id_/http%3A//online-news-school.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-news-school.info privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525070924id_/http%3A//online-news-school.info/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy • Index of Online Schools
+# Privacy policy – Online School
 
-This privacy policy sets out what kind of information we collect, how we use and safeguard the information that you give when you use this site. We are committed to ensuring that your privacy is protected.
+Privacy policy for satellite users:
 
-What We Collect & How We Use
+We recognize the importance of privacy of your personal information, so you need to know what information the website receives as long as you access satellite services. We strongly safeguard all forms of personal information about our visitors and that information is very confidential and has never been sold to any party.
 
-As is true of many other sites, we collect information automatically and store it in order to understand and serve our customers better. The information we get involves the following:
+Cookies and Web Beacons
 
-I. Personally Identifiable Information  
-This site gathers personal information voluntarily submitted by visitors, such as names, postal addresses and email addresses etc. The information you provide will only be used to fulfill your specific request and facilitate your browsing through our website. Unless we get your permission, we will never use your personal information for other purpose and will never deliver you newsletter, promotional emails or market research questionnaires.
+Every website like satellite news always stores cookies or page information that is opened by visitors, so that it knows how many pages are read by visitors in one visit. But our website does not store personal profile data, because it is very sensitive. (If you use the comments column, make sure you only use initial names and email usage is not mandatory, this is to avoid other parties misusing your profile data).
 
-II. Cookie  
-We may use cookie and tracking technology to gather information including browser type, operating system, IP address and number of visitors, aiming to understand our visitors’ preferences and provide better and more efficient customer services in the future.
+Use of Cookies and Web Beacons on advertisements
 
-Notice that your personal information, except what you choose to share with us, cannot be collected via cookies or any tracking technology. But aggregate cookie and tracking information may be used by third parties who advertise on our website.
+Some advertisers such as google adsense usually use cookies and web beacons just to display ads that are relevant to your interests that are identified based on your penchant for reading certain topics such as “technology” so ads that are relevant to them tend to be more displayed, or if you are more read news articles “property” then the advertisements that appear will be adjusted to the theme of the article you are reading.
 
-Google uses cookies to serve ads on our site. As a third party vendor, its use of the DART cookie enables it to serve ads based on users visit to websites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. You can disable cookies through your browser options if you like.
+Use of the Comment Column
 
-Commitment to Security
+We provide space for readers to comment on a news article, but we hope you use the comments column wisely. We will make sure each comment goes through a moderation process first, because we forbid users from posting pitched comments to corner or demean other parties, we will only load comments that comply with applicable laws in Indonesia.
 
-Your privacy is of huge importance to us and we endeavor to ensure the security of your information. We may have to share information with government agencies for fraud prevention or investigation, but will never sell or lease it to others. Customers who have previously agreed to receive emails or newsletters from us are allowed to opt out of further mailings at any time.
+In the comment column you can use real names or initial names, but to avoid abuse by irresponsible parties, you should use initial names. You don’t have to fill in the email column. Even without using an email address, you can still participate in the comments column.
 
-Change of Privacy Policy
-
-We reserve the right to make changes to this policy. Any changes will take effect immediately after being posted.
+By reading the policy above, we consider that you understand about satellite policy. We always maintain the confidentiality of information on our website users and will never be traded to any party.
