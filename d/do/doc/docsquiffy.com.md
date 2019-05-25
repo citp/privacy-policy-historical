@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docsquiffy.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922070837id_/https%3A//www.docsquiffy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docsquiffy.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525142423id_/https%3A//www.docsquiffy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ DocSquiffy.com
 
