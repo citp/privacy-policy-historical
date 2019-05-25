@@ -1,68 +1,154 @@
-> *The following text is extracted and transformed from the iesve.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513004824id_/http%3A//www.iesve.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesve.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525145709id_/https%3A//www.iesve.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
-IES is committed to protecting your privacy whilst providing a personalised and valuable service.  You may be asked to submit personal information about yourself in order to receive information or use services on our Website.  If you provide information to us, we will treat that information in accordance with this privacy policy.  By using this Website, you are agreeing to use of this information by us as described in this Policy.  
- 
+**1\. Introduction**
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been fulfilled or, if you no longer wish to continue being registered for our services.
+IES must gather, store and use “personal data” as defined by the European Union Regulation (EU) 2016/679 in order to market our products and services to you. The collection and processing of personal data is subject to restrictions aimed at protecting the privacy of individuals.
 
-We will ensure that all personal information supplied is held securely, and otherwise in accordance with Data Protection legislation.
+We are registered with the Information Commissioner Office and we adhere to good practice in our data protection policy, including adherence to the General Data Protection Regulations and the PECR guidelines for records retention. A copy of the data protection policy can be obtained from our website or by emailing [dataprotection@iesve.com. ](mailto:dataprotection@iesve.com)
 
-**The Information We Collect**  
-We request very little identifying information from you and only for a narrow set of purposes. Typically, identifying information is collected:
+   This privacy statement will describe the reasons why personal data is needed, how it will be used, who will be able to access the information and when it will be deleted from our records. It also explains your rights to access your data under data protection laws or seek to have it rectified or deleted.  We will at all times comply with the provisions of the European Union General Data Protection Regulations (“GDPR”)
 
-• For registration to certain areas of the Website including competitions;  
-• To allow us to consider your comments, queries and suggestions and respond if necessary;  
-• To allow us to respond to your enquiries for further information; and  
-• To distribute requested materials;
+**2\. Personal data which we hold about you**
 
-The type of personal information collected on the Website could include your name, company name, address (including postcode), email address, telephone number (including mobile), user name and password.
+We request very little identifying information from you and only for specific set of purposes.
+
+The personal data we hold on you is:
+
+  * Full name
+  * Company name
+  * Email address
+  * Job role
+  * Company address, including postcode
+  * Company telephone and mobile number
+  * IP address
+  * Email marketing preferences
+
+
+
+Your personal data is held:
+
+  * For registration to certain areas of the Website including competitions;
+  * To allow us to consider your comments, queries and suggestions and respond if necessary;
+  * To allow us to respond to your enquiries for further information; and
+  * To distribute requested materials
+
+
 
 Sometimes, we may ask questions where you are not personally identifiable from your response although we may post responses on the Website. These instances will be highlighted to you but in all other instances, you should assume that we track any information you provide on a personally identifiable basis.
 
-**The Way We Use Information**  
-Users may provide their mobile phone numbers in order to receive relevant SMS text messages regarding offers featured on the Website.
+**3\. Purposes of processing**
 
-If you register with the Website, you can elect to receive information and updates on our products and services. Information will not be used for this purpose unless you request to receive communications. We use return email addresses to answer any emails that we receive, and we may use return email addresses to send to other information that you may request. Such addresses are not used for any other purpose.
+We will process your personal data for the purposes of:
 
-We may use information that you provide to better design the Website and to improve our marketing strategy and our products. We collect IP Addresses.  An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this Website, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us.
+  * Sending you marketing information out or;
+  * performing our obligations and exercising our rights under your contract of IESVE licence
 
-We may pass your personal information to one of our Group Companies or partner organisations who may send you details of services that may be of interest to you and offer you the opportunity to subscribe to them.  If you would prefer not to receive this information, please send an email to [enquiries@iesve.com](mailto:enquiries@iesve.com). A list of current partner organisations is available on request. Your personal information will not be supplied to any other persons without first obtaining your consent unless we are obliged by law to disclose it. By using the Website, you consent to the collection and use of this information by us and the Group Companies in the manner described above.
 
-**Use of Cookies**  
-Please refer to our [Cookie Policy](https://web.archive.org/legal/cookie-policy) .
 
-**Third Party Websites**  
+We will only process your personal data where one of the following apply:
+
+  * you have provided your consent for us to do so.
+  * processing is necessary for the performance of a contract [or to make preliminary arrangements for the creation of a contract]
+  * there is a legal obligation to do so; or
+  * processing is necessary for the purposes of the legitimate interests pursued by IES or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data.
+
+
+
+**4\. Third parties**
+
+In processing your personal data for any of these purposes, we may from time to time pass it to our partner companies. A full and up-to-date list can be found in Appendix one.
+
+We will write to all third parties and ask them for a copy of their data protection policy. If we are not satisfied that they have sufficient safeguards in place for the protection of personal data, we will request a change in process or may switch provider.
+
 Because we want your experience of the Website to be as informative and useful as possible, we provide a number of links to Third Party Websites. Always be aware of where you end up. Third Party Websites may send their own cookies to users, or otherwise collect data or solicit personal information. We assume no responsibility for the information gathering practices of websites that you are able to access through ours, and we encourage you to review each website's privacy policy before disclosing any personally identifiable information.
 
-**Google SketchUp/SketchUp Pro Users**  
-If you have indicated in the “Connecting Software” section that you are a SketchUp or SketchUp Pro user, by accepting this privacy policy, you consent to us sharing your details set out below with our commercial partner, Google Ireland Limited ("Google"), for the purposes of confirming to whom promotion codes are given, details of those who use SketchUp, SketchUp Pro or our software and details of entities who are referred to SketchUp or Sketch Up Pro using the promotion codes, whether or not you use or buy SketchUp or SketchUp Pro. We will pass the following details to Google for these purposes: your first and last names, email address, company name, address and telephone number as provided on "Registration" with the Website.  If you do not wish to us to share your details with Google, do not accept these terms and conditions and contact us on [enquiries@iesve.com](mailto:enquiries@iesve.com). As a result, SketchUp users will not receive the promotional code.
+**5\. Transfers of your personal data outside the EEA**
 
-**Google SketchUp Promotional Code(s) Terms and Conditions**  
-If you receive the promotional code, your use of it is subject to the following terms and conditions: i) the promotional code is valid only for new purchases of SketchUp Pro; ii) the promotional code must be used at the time of payment of SketchUp Pro; iii) the promotional code is subject to Google approval, valid payment and registration and your acceptance of the Google SketchUp Pro standard terms and conditions; iv) the promotional code is non-transferable and may not be sold or bartered; v) the promotional code may be revoked at any time for any reason by Google Inc; vi) one promotional code can be used per user; and vii) the total promotional code amount is: (a) in the countries where the local currency is the Euro or the Pound Sterling, 20% of the the then SketchUp Pro license fee, as listed in the official SketchUp website; or (b) in countries where local currency is not the Euro or Pound Sterling, US$100 of the then current SketchUp Pro license fee, as listed in the official SketchUp website.  Google, at its sole discretion, may cancel, revoke, or modify these terms."
+IES is an international business and, from time to time, we may transfer your personal data outside the EEA as follows:
 
-**Our Commitment to Data Security**  
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+  * Your personal data will be stored on a CRM cloud system, currently Salesforce, which is headquartered in USA
+  * Your personal data may be stored in an Event Technology platform, currently Eventbrite, which is headquartered in USA, if you have registered for an IES event.
 
-**Access to Information/ Delete/Unsubscribe**  
-You have the right to access any personal information that you have submitted to us through the Website. We give you the following options for managing or removing your information from our database:
 
-1\. Send us an email: at [enquiries@iesve.com](mailto:enquiries@iesve.com). Be sure to include your name and clear instructions on what you would like us to do  
-.  
-2\. Write to us at: Website Administrator, IES Ltd, Helix Building, Kelvin Campus, West of Scotland Science Park, Glasgow. G20 0SP. Be sure to include your name and clear instructions on what you would like us to do. If you require us to supply you with details of the personal information that we hold about you, then a small charge will be made.
 
-**Changes in Our Policy**  
-We reserve the right to change or remove this Privacy Policy at our discretion. If we decide to change our Privacy Policy we will post those changes here. We encourage you to visit this area frequently so as to stay informed. If there is any material change in the type of personal information we collect, we will obtain your permission before we attempt to collect the additional information. We will not make any changes that allow us to give personal information to any other person without obtaining permission from you first.
+**6\. Retention of your personal data**
 
-**Your Consent to this Privacy Policy**  
-By using the Website, you are accepting our Privacy Policy. If you do not agree with any term in this Policy, please do not use the Website or submit any personal information.
+We will retain your personal data only so long as we reasonably require in light of the purposes for which we are holding it and all relevant legal, commercial and operational considerations.
 
-**How to Contact Us**  
-Should you have any questions or concerns about this Privacy Policy or the use of information, please e-mail us at [enquiries@iesve.com](mailto:enquiries@iesve.com) **Please note: The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection. We are located in Scotland in the UK, as are the servers that make this site available worldwide. Scots law governs all matters relating to this site. If you are located outside the UK and you contact us please note that any information you provide will be transferred to the UK and by submitting the information you authorise this transfer.**
+Where we hold your data for the performance of a contract, your data will be until the completion of the contact plus 2 years.
 
-**Legal Information –Integrated Environmental Solutions**
+Where we hold your data with your consent, we will ask you to provide your consent again after 5 years.  
 
-Registered in Scotland No: **SC151 456**  
-Registered Address: **Helix Building, Kelvin Campus, West of Scotland Science Park,Glasgow, G20  0SP**  
-VAT Registration No: **GB652 3186 44**
+If you choose to unsubscribe from receiving marketing emails from us your email address will be held on our email suppression list in order to prevent us from contacting you again via email. This is held under the Legal Obligation basis in order for us to comply with GDPR law.   
+
+We frequently review the ICO and PECR guidelines for data retention.
+
+**7.   Subject Access Rights**
+
+You have a right (referred to as the data subject access request, “DSAR”) to access the personal data that we hold about you. If you would like to exercise that right, you must submit a request to [dataprotection@iesve.com ](mailto:dataprotection@iesve.com)specifying the information that you want us to provide you.
+
+We are obliged to respond to any such request within one month of receiving it (subject to limited exceptions).  
+We will inform you via email following receipt of your request and, if necessary, seek additional information from you about your request.
+
+**8\. Accuracy of Information and Corrections**
+
+You have a right (referred to as the right to rectification) to have your personal data rectified if it is inaccurate or incomplete. If you become aware that any of the data that we hold about you is inaccurate, you can
+
+  * update your personal information on our website if you hold an account
+  * update your preferences at the bottom of any eshot you receive if you are subscribed to our mailing list
+  * submit a request to [dataprotection@iesve.com](mailto:dataprotection@iesve.com)
+
+
+
+Please do this as soon as practical. We are obliged to comply with requests within one month. This may be extended to 3 months where a rectification request is complex.
+
+**9\. Storage of Data**  
+Personal data will be stored in password protected software as a service CRM, event technology platform and email marketing platform, password protected documents within electronic folders or locked filing cabinets, which are only accessible to members of the marketing team. We do not hold any sensitive personal data.
+
+**10\. Deletion/Unsubscribe**
+
+You have a right (referred to as the right to erasure) to request the deletion or removal of your personal data where there is no compelling reason for its continued process. In these instances your data will be removed within one month apart from where we hold your email address on our mailing list, where your email address will then be held on email suppression list, which we must hold for legal reasons. You will be notified if any of your data must continue to be held for any legal reasons.
+
+If you would like to exercise this right, you can:
+
+  * unsubscribe at the end of any marketing email you receive, if you want to unsubscribe. An unsubscribe link is included in every IES mail shot email by law.
+  * submit a request to the dataprotection@iesve.com.  We will then consider this request in accordance with obligations under data protection laws.
+
+
+
+**11\. Transferring your personal data**
+
+You have a right (referred to as the right to data portability) to obtain and reuse your personal data for your own purposes across different services. This right allow you to move, copy or transfer personal data easily from one IT environment to another in a safe and secure way.
+
+If you would like to exercise this right, you must submit a request to [dataprotection@iesve.com](mailto:dataprotection@iesve.com), specifying the information that you wish to be transferred.
+
+We are obliged to comply with any such request within one month. This may be extended to 3 months where the rectification request is complex or multiple requests from the same data subject are received at the same time. We will notify you if an extension is necessary.
+
+**12\. Restricting use of your personal data**
+
+You have a right (referred to the right to restrict processing) to block or suppress the processing of personal data in certain circumstances.
+
+If you contest the accuracy of the personal data, processing may be restricted until the accuracy of the personal data has verified. This also applies where you contest that the processing is unlawful.
+
+If you would like to exercise this right, you must submit a written request to [dataprotection@iesve.com](mailto:dataprotection@iesve.com), specifying the information that you wish us to impose a processing restriction on.
+
+**13\. Data Protection officer and Complaints Process**
+
+We have appointed a Data Protection Officer who has overall day-to-day responsibility for the processing of personal data.
+
+If you have any questions at all about this privacy notice or would like more information about any of the issues covered in it, please contact [dataprotection@iesve.com](mailto:dataprotection@iesve.com).
+
+If you have a concern or complaint about the way we have handled your personal data you have the right to complain to the information commissioner via the helpline 0303 123 1113 or by visiting the following website.  
+<https://ico.org.uk/concerns/>
+
+**Appendix one**
+
+A list of all third party companies that we share personal data with is listed below:
+
+We share customer contact details with Bionova (our One Click LCA Partner) where individuals have requested marketing or product information on LCC and LCA applications and we have received their consent to do so. Where IES customers purchase LCC or LCA applications their contact details will be held by IES and Bionova in order to fulfil sales, maintenance or training contact(s). Bionova, a company registered in Finland, hold mutual customer data in accordance with the EU GDPR and their privacy policy can be found on their website.
+
+We share printed registration lists with venues that we, IES, hosts events in where data subjects are listed on a registration list. This is for security purposes and to allow us to send data subjects post-even resources where applicable and requested by delegates. No sensitive data is required and copies are discarded with 2 weeks of the event ending. Details of all venues will be given to you in advance and their privacy policy can be found on their website or by contacting the venues directly.
+
+We share customer contact details with Encon (our IES TaP partner) where individuals have requested marketing or product information on IES TaP and we have received their consent to do so. Where IES customers purchase IES TaP their contact details will be held by IES and Encon in order to fulfil sales, maintenance or training contact(s). Encon, a company registered in the United Kingdom, hold mutual customer data in accordance with the EU GDPR and their privacy policy can be found on their website.
