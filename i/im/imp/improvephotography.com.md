@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the improvephotography.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221230958id_/https%3A//improvephotography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvephotography.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525232333id_/https%3A//improvephotography.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Improve Photography
+# Privacy Policy – Improve Photography
 
 At Improve Photography, LLC we are committed to providing you with a safe, fun, and informative website, without the worry of your personal information being used inapppropriately.  While you are on ImprovePhotography.com, some information is gathered about you.  This information, which is typical of most websites, helps us to know how many people visit the site and how we can best serve you.
 
