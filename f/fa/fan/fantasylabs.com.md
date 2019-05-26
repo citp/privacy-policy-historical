@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasylabs.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221182310id_/https%3A//www.fantasylabs.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasylabs.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526194154id_/https%3A//www.fantasylabs.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | FantasyLabs
 
@@ -94,7 +94,7 @@ The Fantasy Labs Sites often provide links to third-party web sites, such as tho
 
 **For Questions or Concerns:**
 
-If you have questions or concerns regarding this statement, you should first [CONTACT US](https://web.archive.org/cdn-cgi/l/email-protection#9afefbf4dafcfbf4eefbe9e3f6fbf8e9b4f9f5f7). The Fantasy Labs corporate headquarters are located at 100 Cummings Center, Suite 226-Q, Beverly, MA  01915.
+If you have questions or concerns regarding this statement, you should first [CONTACT US](https://web.archive.org/cdn-cgi/l/email-protection#6c080d022c0a0d02180d1f15000d0e1f420f0301). The Fantasy Labs corporate headquarters are located at 100 Cummings Center, Suite 226-Q, Beverly, MA  01915.
 
 **Changes to the** **Fantasy Labs Privacy Statement** :
 
