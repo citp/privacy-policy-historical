@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarawakreport.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125040308id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawakreport.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526033803id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarawak Report
 
@@ -67,4 +67,4 @@ This privacy policy is subject to change, so please check it regularly.  We ret
 
 If You have any comments or queries in connection with this privacy policy, please contact Us by one of the following methods:
 
-Email: [info@sarawakreport.org](https://web.archive.org/web/20181125040308id_/http://www.sarawakreport.org/privacy-policy/info@sarawakreport.org)
+Email: [info@sarawakreport.org](https://web.archive.org/web/20190526033803id_/http://www.sarawakreport.org/privacy-policy/info@sarawakreport.org)
