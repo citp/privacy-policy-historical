@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225231354id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526191944id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -33,6 +33,40 @@ From time to time we also obtain personal data from other sources as follows:
   * names and contact details of individual contacts at prospective Customers from third party data providers and/or public sources, such as social networks, company websites and other online sources. 
 
 
+
+##  Google Account Authentication 
+
+You may connect your Google account to your Workable account in order to make use of certain Workable features such as Gmail Import and Syncing and scheduling with Google Calendar. This is done through OAuth authentication, a secure mechanism which gives Workable access to your Google account data without letting Workable know your password. 
+
+In that case, Workable will require access to your Google account and user data for the following purposes: 
+
+  * Upon sign-up or sign-in (“Sign in with Google”) and connect with Google through your Personal Profile: 
+    * To verify your email address and to create your user account on our servers in order to link your Google account with Workable;
+    * To access and read your Google account profile information to retrieve, use, and display your Google account name, first name, last name and account photo or image in Workable;
+  * If you choose to connect your Gmail account to your Workable account: 
+    * To access your Gmail account in order to send email messages to candidates from your account through Workable.
+    * To access and retrieve your email messages 
+      * to manually import email messages sent to and received from a specific candidate
+      * to sync email messages, sent to and received from candidates, that belong to threads that were initially sent with Workable or manually imported
+      * to mark your inbox items related with email messages as read, unread, archived and unarchived
+      * to read, display, retrieve, and download any files attached to your email messages related with candidates
+  * If you choose to connect your Google Calendar account to your Workable account: 
+    * To access your Google Calendar account in order to schedule events from your Google Calendar account through Workable
+    * To access and read your Google Calendar and calendar entries 
+      * to display the calendar entries of your calendar and calendars of other Google users you have the permission to read
+      * to check availability of other event attendees and resources (e.g. meeting rooms)
+      * to sync the attendance status of other attendees in Workable
+      * to sync event updates made externally via Google Calendar in Workable 
+    * To access and read your Google Contacts in order to suggest email recipients when you compose email messages or events through Workable
+    * To access and read your Google Suite resources in order to suggest meeting rooms when you schedule events through Workable
+
+
+
+##  Uses made of your information when you request assistance from Workable Support 
+
+If you request assistance by a representative of Workable, the Workable representative may obtain access to your Workable account for the purposes of resolving your inquiry. Under those circumstances, the Workable representative will assume your role in Workable and view your account as you would when you log in. 
+
+Workable reserves the right to assume the role of a user in your account without prior notice in certain situations, for example when it is necessary for security purposes (such as investigating a bug or abuse) or when it is necessary to comply with applicable law. 
 
 ##  Uses made of your information 
 
