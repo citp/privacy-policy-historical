@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyauctionjapan.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024121842id_/https%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyauctionjapan.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526125730id_/https%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Japan Auctions and Japanese Shopping - Real time Bidding
+# Ebay Japan Auctions and Japanese Shopping - Real time Bidding
 
 Home > Privacy Policy 
 
