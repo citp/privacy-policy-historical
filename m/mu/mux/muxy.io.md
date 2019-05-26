@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muxy.io privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612224404id_/https%3A//muxy.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muxy.io privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526060941id_/https%3A//muxy.io/privacy) for the most accurate reproduction.*
 
-# Muxy Privacy Policy – Muxy
+# Muxy | Home
 
   1. **Introduction**
 
@@ -18,7 +18,7 @@ Throughout this Privacy Policy, we may use certain words or phrases, and it is i
 
 “Service” refers to the services that we provide through our Site, including our alerts, notification, and analytics systems, as well as our Site itself;
 
-“Site” refers to our website,[ http://muxy.io](http://muxy.io/);
+“Site” refers to our website,[ http://muxy.io](http://muxy.io/); and our Twitch Extensions;
 
 “User” refers to anyone who uses our Service, including registered users, general visitors to our Site, and anybody who so much thinks of clicking on our Site;
 
@@ -49,8 +49,7 @@ We may use your information to:
   * Perform any other function that we believe in good faith is necessary to protect the security or proper functioning of our Site or Service.
 
 
-  5. **  
-****Accessing, Editing, and Removing Your Information**
+  5. **Accessing, Editing, and Removing Your Information**
 
 
 
