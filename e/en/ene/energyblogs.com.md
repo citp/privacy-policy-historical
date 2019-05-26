@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyblogs.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212170943id_/http%3A//www.energycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyblogs.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526102211id_/https%3A//www.energycentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Energy Central
 
@@ -14,11 +14,11 @@ This privacy policy covers the website and activities of Energycentral.com and a
 
 Please be aware that Energycentral.com sponsors, advertisers and partners or affiliates with co-branded modules or sections on Energycentral.com may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
-Energycentral.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [privacy@energycentral.com](mailto:privacy@energycentral.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Energycentral.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [service@energycentral.com](mailto:service@energycentral.com?subject=Privacy%20request...&body=%3Cinclude%20the%20specific%20email%20address%20that%20you%20would%20like%20removed%20from%20Energy%20Central%20databases%3E). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
  **Gathering of Information**
 
-Voluntary Submission
+ _Voluntary Submission_
 
 Energycentral.com does not collect personally identifying information about any individual Energycentral.com website user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address when you register to become a member of Energycentral.com. You may also provide information to Energycentral.com in other contexts, including, for example, on your member profile page and public profile URL or to enter into a content or promotion. In the event you order something from Energycentral.com or one of our co-branded websites, we may request additional personal information in order to complete the purchase. We may also supplement the data you provide to us with data from data append services. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit some of the Energycentral.com website, but you may be unable to access certain options and services. When you register or become a member of Energycentral.com or provide information to Energycentral.com in any other manner, you agree to provide only true, accurate, current and complete information.
 
@@ -42,19 +42,19 @@ Energycentral.com web and ad servers log information about a site user's IP addr
 
  **Use of Information**
 
-Our primary goal in collecting user information is to enhance your experience on our website.
+Our primary goal in collecting user information is to enhance your experience on our website and to continue to provide free or low-cost access to our services.
 
-To Target Content and Advertising
+ _To Target Content and Advertising_
 
 To develop and provide content and advertising to you that is targeted to your interests, we use the analytics collected by the systems described above to determine which areas of our website you prefer based upon the frequency of your visits and engagement with those areas. We may make reasonable assumptions based on your browser provided data to target relevant content and advertising to you on our site and elsewhere where we may be acting as a 3rd party. We may also make reasonable geographic and demographic assumptions based on your presented IP address to target relevant content and advertising.
 
-To Provide Interactive Communications From Energycentral.com
+ _To Provide Interactive Communications From Energycentral.com_
 
 To enhance your experience we may provide you with interactive communications, such as notifications of activity by topic or contributor to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.
 
 From time to time we may provide e-mails highlighting new features, promotions, surveys or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.
 
-To Provide Communications From Third Parties
+ _To Provide Communications From Third Parties_
 
 We respect the privacy of our users and shall not disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.
 
@@ -112,7 +112,7 @@ Kids under 13: Do not send any information about yourself to us--including infor
 
  **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [privacy@energycentral.com](mailto:privacy@energycentral.com?subject=Privacy%20Questions). We read every message submitted and try to reply promptly to each one. Our mailing address is Energy Central, 2821 South Parker Road, Suite 1105, Aurora, CO 80014.
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [service@energycentral.com](mailto:service@energycentral.com?subject=Privacy%20Question). We read every message submitted within 10 days and try to reply to each one. Our mailing address is Energy Central, 2821 South Parker Road, Suite 1105, Aurora, CO 80014.
 
  **How Will I Know if the Privacy Policy Is Changed?**
 
