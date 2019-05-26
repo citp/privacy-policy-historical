@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiger.do privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023170514id_/https%3A//www.tiger.do/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiger.do privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526134917id_/https%3A//www.tiger.do/privacy) for the most accurate reproduction.*
 
 # tiger.do Privacy Policy
 
