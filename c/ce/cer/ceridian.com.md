@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205156id_/https%3A//www.ceridian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526113646id_/https%3A//www.ceridian.com/privacy) for the most accurate reproduction.*
 
 # Ceridian Privacy Policy
 
-[[Printable version of this information - PDF](https://web.archive.org/Ceridian/media/Files/Ceridian-s-Global-Privacy-Notice-2018-07-31.pdf)]
+[[Printable version of this information - PDF](https://web.archive.org/Ceridian/media/Files/ceridian-global-privacy-notice.pdf)]
 
 **OVERVIEW**  
 Ceridian is committed to protecting your personal data.  As part of this commitment, Ceridian has established a privacy program that demonstrates our due diligence to privacy laws.
@@ -148,9 +148,9 @@ Where applicable, to limit or opt out of the disclosure of personal data, indivi
 **CROSS BORDER TRANSFER**  
 Ceridian transfers personal data outside of a local jurisdiction only with adequate protections in place and in compliance with applicable laws and standards.  Ceridian maintains operations in the United States (US), Canada, Australia, Mauritius and the United Kingdom (UK) and all of its entities process personal data. Ceridian also transfers personal data to other countries as directed by its customers.  
 
-For personal data transfers to the US from the European Union (EU), Ceridian complies with the US-EU Privacy Shield Framework regarding the collection, use, retention and disclosure of personal data from the EU and EEA (European Economic Area) to the US. Ceridian certifies its adherence to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, enforcement, and the applicable supplemental principles. To learn more about the Privacy Shield Principles please visit [www.privacyshield.gov](https://www.privacyshield.gov/).  
+Ceridian complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (Privacy Shield) as set forth by the US Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union, the United Kingdom and Switzerland to the United States in reliance on Privacy Shield.  Ceridian has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield Principles please visit [www.privacyshield.gov](https://www.privacyshield.gov/).  
 
-Ceridian may utilize the adequacy determinations made by the European Commission to transfer personal data to countries with data protection that is adequate to the EU. Ceridian also utilizes Standard Contractual Clauses (SCCs) for the transfer of personal data from the EU to other countries.  
+Ceridian may utilize the adequacy determinations made by the European Commission to transfer personal data to countries with data protection that is adequate to the EU. Ceridian also utilizes Standard Contractual Clauses (SCCs) for the transfer of personal data from the EU and Switzerland to other countries.  
 
    **HOW WE SECURE PERSONAL DATA**  
 Ceridian has implemented policies, procedures and practices to protect personal data.  Ceridian protects personal data using recognized industry standard security safeguards appropriate to the sensitivity of the personal data. Ceridian reviews its security policies and procedures on a regular basis and updates them as needed to maintain their relevance. Ceridian makes reasonable security arrangements to protect personal data in its custody or under its control from and against risks, such as loss or theft, as well as unauthorized access, collection, use, disclosure, copying, modification, disposal and destruction.
@@ -189,7 +189,7 @@ If individuals feel that their complaint was not satisfied, they may file a form
 
 
 
-Regarding any Privacy Shield complaints, grievances should be filed with the entities in the following order: Ceridian, the applicable EU Data Protection Authority, The Department of Commerce, the Federal Trade Commission (FTC), then the Privacy Shield Panel. The individual may apply to the Privacy Shield Panel to invoke binding arbitration.
+Regarding any Privacy Shield complaints, grievances should be filed with the entities in the following order: Ceridian, the applicable EU or Swiss Data Protection Authority, The Department of Commerce, the Federal Trade Commission (FTC), then the Privacy Shield Panel. The individual may apply to the Privacy Shield Panel to invoke binding arbitration.
 
 Ceridian will conduct periodic assessments to confirm the accuracy of this notice and verify its adherence to [Ceridian’s Ten Privacy Principles](https://web.archive.org/privacy). In addition, Ceridian will deploy internal auditing measures to monitor its compliance and to address all questions or complaints.
 
@@ -208,9 +208,9 @@ For privacy-related questions, comments or concerns, contact Ceridian at:
 **CHANGES TO THIS POLICY**  
 Ceridian may update this privacy policy to reflect changes to our practices and reserves the right to change its policies at its own discretion without notice.
 
-Last Updated on July 31, 2018.
+_Last Updated on March 25, 2019_
 
-[[Printable version of this information - PDF](https://web.archive.org/Ceridian/media/Files/Ceridian-s-Global-Privacy-Notice-2018-07-31.pdf)]
+[[Printable version of this information - PDF](https://web.archive.org/Ceridian/media/Files/ceridian-global-privacy-notice.pdf)]
 
 [Privacy Assistance Form](https://web.archive.org/uk/privacy/privacy-assistance-form)
 
