@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118211708id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526072256id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEOClerks
+# SEOClerks
 
 SEOClerks is dedicated to protecting your personal information and informing you about how we use your information. This privacy policy applies to your use of the SEOClerks services including our website www.seoclerk.com (collectively “Platform”). This Privacy Policy should be read in conjunction with the Terms of Service. All capitalized proper nouns will have the same definitions and meanings as defined by the Terms of Service. Please review this privacy policy periodically as we may revise it from time to time without notice. If you do not agree with or accept our Privacy Policy in it’s entirety, you must not access or use the Platform. If you use the platform following a change to the terms of this Privacy Policy you agree to accept the revised policies. 
 
@@ -69,4 +69,4 @@ In the event that SEOClerks is involved in a bankruptcy, merger, acquisition, re
 
 Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at support@ionicware.com.
 
-Last Modified: March 31, 2016 
+Last Modified: March 31, 2016
