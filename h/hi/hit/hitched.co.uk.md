@@ -1,76 +1,24 @@
-> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323132113id_/http%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitched.co.uk privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526193413id_/https%3A//www.hitched.co.uk/general/privacy.aspx) for the most accurate reproduction.*
 
-# hitched.co.uk - privacy policy
+# Privacy Policy - Immediate Media Co. policies
 
-Hitched has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site. 
+Immediate Media (‘Immediate’ or ‘we’) is committed to protecting the personal information you provide or we collect when you buy any of our magazines or products, or use any of our websites and applications (our ‘services’).
 
-### Information automatically logged 
+We collect and use different information depending on the way(s) in which you interact with us. This Privacy Policy explains how we use that information, and in particular the following:
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your shopping cart. 
+  * [TYPES OF INFORMATION WE MAY COLLECT ABOUT YOU](https://policies.immediate.co.uk/privacy/types-of-information-we-may-collect-about-you/)
+  * [HOW WE LOOK AFTER YOUR INFORMATION](https://policies.immediate.co.uk/privacy/how-we-look-after-your-information/)
+  * [HOW AND WHY WE USE YOUR INFORMATION](https://policies.immediate.co.uk/privacy/how-and-why-we-use-your-information/)
+  * [COOKIES](https://policies.immediate.co.uk/cookies-policy/)
+  * [WHO WE SHARE YOUR INFORMATION WITH](https://policies.immediate.co.uk/privacy/who-we-share-your-information-with/)
+  * [HOW LONG WE HOLD INFORMATION FOR](https://policies.immediate.co.uk/privacy/how-long-we-hold-personal-information-for/)
+  * [YOUR RIGHTS](https://policies.immediate.co.uk/privacy/your-rights-and-further-information/)
+  * [HOW TO CONTACT US](https://policies.immediate.co.uk/privacy/how-to-contact-the-dpo/)
 
-Occasionally we monitor site usage including mouse movements in order to improve the usability of the site. This information is not linked to an individual and is deleted after 30 days.
 
-### Cookies
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. 
+You can click on any of the links above to find out more.
 
-### Advertisers 
+This Privacy Policy applies to Immediate Media Company Limited and (in the case of our Jewellery Maker and Sewing Quarter brands) Immediate Media TV Limited as the “data controller” responsible for your personal information. However, this policy also applies to the other companies in the Immediate group who may handle your personal information too (see “[Who we share your information with](https://policies.immediate.co.uk/privacy/who-we-share-your-information-with/)” for further details).
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
-
-### Registration forms
-
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and demographic information (like their postal code, age, or income level). 
-
-Contact information from the registration forms is used to ship purchases. The customer's contact information is also used to get in touch with the customer when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Unique identifiers (such as IP and email addresses) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-### Order forms
-
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), and demographic information (like their postal code, age, or income level). 
-
-Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-### Surveys
-
-Our online surveys ask visitors for contact information (like email address), and demographic information (like postal code, age, or income level). 
-
-### Contests
-
-We run contests on our site in which we ask visitors for contact information (like email address), and demographic information (like postal code, age, or income level). 
-
-Contact information from the contests is used to ship prizes. The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-### Public forums
-
-This site makes chat rooms, forums, blogs, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-### Choice / opt out 
-
-You can send an email to [customer.service@hitched.email](mailto:customer.service@hitched.email) to unsubscribe from the hitched.co.uk site or any membership or subscription within it.
-
-### Data quality / access
-
-This site gives users the following options for changing and modifying information previously provided. To make any changes please contact: [customer.service@hitched.email ](mailto:customer.service@hitched.email)
-
-### Contacting hitched.co.uk
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [feedback@hitched.email](mailto:feedback@hitched.email) or call us on 0800 206 1700. Our policy is to endeavour to answer any questions within 3 working days. 
+This policy may be updated from time to time to keep up with legal and/or business developments, so you should check it each time you submit information to any of our services. The date of the most recent changes to each section of the policy will appear at the top of the relevant page.
