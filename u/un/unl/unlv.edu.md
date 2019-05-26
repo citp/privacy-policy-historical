@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlv.edu privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118170326id_/https%3A//www.unlv.edu/about/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlv.edu privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526023356id_/https%3A//www.unlv.edu/about/website-privacy) for the most accurate reproduction.*
 
 # UNLV Website Privacy Statement | About UNLV | University of Nevada, Las Vegas
 
@@ -54,7 +54,7 @@ Data Subject is any living individual who is the subject of Personal Data.
 
 The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
-### Information Collection And Use
+### Information Collection and Use
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
@@ -114,7 +114,7 @@ UNLV will also retain Usage Data for internal analysis purposes. Usage Data is g
 
 Please refer to the Service Providers section of this Privacy Statement for more details about data retention within each Service Provider.
 
-### Transfer Of Data
+### Transfer of Data
 
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
@@ -124,7 +124,7 @@ Your consent to this Privacy Statement followed by your submission of such infor
 
 UNLV will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
-### Disclosure Of Data
+### Disclosure of Data
 
 #### Disclosure for Law Enforcement
 
@@ -142,7 +142,7 @@ UNLV may disclose your Personal Data in the good faith belief that such action i
 
 
 
-#### Security Of Data
+#### Security of Data
 
 The security of your data is important to us. We strive to use industry best practices to protect your Personal Data.
 
