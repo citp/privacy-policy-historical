@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104005454id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526133142id_/https%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the-Bikini.com Information page. Micro bikinis for sexy women
+
+  
+
+
+Latest Comment
+
+I received the suit and it looks great! You’re awesome! People keep asking me where I purchased it so I’m referring you all and hope you get more people to purchase from you.   
+**Jeen - 17/06/2018**
+
+My first black Mini is still holding together, but time to get some new ones. The ultimate for tanning. Thank you!!   
+**Dean - 04/07/2018**  
+[more comments...](https://web.archive.org/information/?action=comments)
+
+  
+
 
   
   
@@ -70,10 +85,10 @@ In the course of serving advertisements to this site, our third-party advertiser
 Contacting Us About Privacy:  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: 
 
-  the-Bikini.com a vicio.com, inc. website  
-  P.O.Box 5253  
-  Sherman Oaks, CA 91413  
+  the-Bikini.com  
+  P.O.Box 220357  
+  Newhall, CA 91322-0357  
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20171104005454id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20190526133142id_/https%3A//www.the-bikini.com/contact/). 
