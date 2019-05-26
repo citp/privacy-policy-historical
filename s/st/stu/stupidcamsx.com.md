@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupidcamsx.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125052613id_/http%3A//stupidcamsx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupidcamsx.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526041051id_/http%3A//stupidcamsx.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
