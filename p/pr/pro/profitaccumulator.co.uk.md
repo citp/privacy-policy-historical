@@ -1,24 +1,38 @@
-> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902205717id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526055749id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Profit Accumulator
 
 **Information We Collect**
 
-We collect the information you provide when you use our Services, including when you sign up for an account or an affiliate account. This may include your name, email address, IP address, geographic location, and more. We also collect information about how you use our services, such as how frequently you visit and where you access from, including the type of device used to access.
+We collect the information you provide when you use our Services, including when you sign up for an account or an affiliate account. This may include your name, email address, IP address and Paypal payment ID.
+
+We also collect information about how you use our services, such as how frequently you visit and where you access from, including the type of device used to access.
 
 We do not store credit card or any other financial details. Payments are handled securely by PayPal, a payment processing company.
 
-**How do we use and share this information?**
+If you link your Betfair or Smarkets accounts with our integration tool, this is the data that we store:
 
-We use your information to send you marketing communications (from us or from carefully selected partners) or to communicate with you about our Services. We use it to collect data on how you use our website, so that we may create improvements to our Services. We also use the information to promote safety and security, by investigating suspicious activities or violations of our terms of service.
+  * Details of bets that have flagged error messages;
+  * Time of bet;
+  * Amount bet;
+  * Details of teams and matches;
+  * Exchange username linked to that bet.
+
+
+
+All your personal data is stored on secure servers.
+
+**How Do We Use And Share This Information?**
+
+We use your information to send you marketing communications (from us, relating to the service we provide) or to communicate with you about our Services directly. We also collect data on how you use our website, so that we may create improvements to our Services. We use the information to promote safety and security and by investigating suspicious activities or violations of our terms of service.
 
 We use Google Analytics to monitor traffic information related to our website. You can find out how Google uses that information here: <http://www.google.com/policies/privacy/partners/>.
 
 We use Kissmetrics to monitor traffic information related to our website. You can find out how Kissmetrics uses that information here: <https://www.kissmetrics.com/privacy>.
 
-We use Google Adwords to display adverts based on site usage. AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
+We use Google Adwords to display adverts based on site usage. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
 
-We use Facebook to display adverts based on site usage. Facebook pixels are used for behavioral targeting service. As per Facebook terms and conditions, we're obliged to tell you that (a) third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and elsewhere on the internet and use that information to provide measurement services and target ads, (b) to opt-out of the collection and use of information for ad targeting, and (c) to access a mechanism for exercising such choice, please visit [www.aboutads.info/choices](https://web.archive.org/web/20170902205717id_/https://www.profitaccumulator.co.uk/privacy-policy/www.aboutads.info/choices).
+We use Facebook to display adverts based on site usage. Facebook pixels are used for behavioral targeting service. As per Facebook terms and conditions, we're obliged to tell you that (a) third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and elsewhere on the internet and use that information to provide measurement services and target ads, (b) to opt-out of the collection and use of information for ad targeting, and (c) to access a mechanism for exercising such choice, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 If the ownership or control of the Profit Accumulator website changes, we may transfer all of your information to the new owner.
 
@@ -35,3 +49,5 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 We take your privacy very seriously and comply with the recent UK and EU law on handling cookies and provide (you) the user with means to remove such cookies or prevent your computer from accepting them in the future.
+
+**_Updated: 28th May 2018_**
