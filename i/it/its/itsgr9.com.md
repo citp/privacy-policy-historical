@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the itsgr9.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928064519id_/http%3A//itsgr9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgr9.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526111523id_/https%3A//itsgr9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ItsGR9
 
 **Privacy Policy for www.itsgr9.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](http://itsgr9.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us here](https://itsgr9.com/contact-us/).
 
 At www.itsgr9.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.itsgr9.com and how it is used.
 
