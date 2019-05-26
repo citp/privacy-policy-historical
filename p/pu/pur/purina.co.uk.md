@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the purina.co.uk privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818105425id_/http%3A//www.purina.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purina.co.uk privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526235113id_/https%3A//www.purina.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | Purina
+# Privacy Notice | Purina
 
-Please read this privacy notice **(Notice)** carefully to understand our policies and practices regarding your Personal Data and how we will treat it. This Notice applies to individuals who interact with Nestlé services as consumers **(you)**. This Notice explains how your Personal Data are collected, used, and disclosed by Nestlé Purina Petcare UK & I ( **Nestlé** , **We, Us** ). It also tells you how you can access and update your Personal Data and make certain choices about how your Personal Data are used
+Please read this privacy notice **(Notice)** carefully to understand our policies and practices regarding your Personal Data and how we will treat it. This Notice applies to individuals who interact with Nestlé services as consumers **(you)**. This Notice explains how your Personal Data are collected, used, and disclosed by Nestlé Purina Petcare UK & I ( **Nestlé** , **We, Us** ). It also tells you how you can access and update your Personal Data and make certain choices about how your Personal Data are used.
 
 This Notice covers both our online and offline data collection activities, including Personal Data that We collect through our various channels such as websites, apps, third party social networks, Consumer Engagement Service, points of sale and events. Please note that We might aggregate personal data from different sources (website, offline event). As part of this, We combine Personal Data that were originally collected by different Nestlé entities or Nestlé partners. Please see Section 9 for further information on how to object to this.
 
