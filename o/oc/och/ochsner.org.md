@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223183802id_/https%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526072849id_/https%3A//www.ochsner.org/patients-visitors/privacy-policies/ochsner-privacy-policy) for the most accurate reproduction.*
 
 # Ochsner Notice of Privacy Practices | Ochsner Health System
 
@@ -6,7 +6,7 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 ## Our Pledge Regarding Your Medical Information
 
-Your medical information is personal, and Ochsner is committed to keeping this information confidential. Maintaining a record of the care and services you receive at the hospital and clinic enables us to provide you with quality care and comply with certain legal requirements. This notice applies to all records of your care generated in the Ochsner Health System, including our hospitals, clinics and medical staff at Ochsner Medical Center, Ochsner Hospital – Elmwood, Ochsner St. Anne General Hospital, Ochsner Medical Center – Westbank, Ochsner Baptist Medical Center, Ochsner Medical Center – Kenner, Ochsner Medical Complex – River Parishes, Ochsner Medical Center – Northshore, and Ochsner Medical Center – Baton Rouge.
+Your medical information is personal, and Ochsner is committed to keeping this information confidential. Maintaining a record of the care and services you receive at the hospital and clinic enables us to provide you with quality care and comply with certain legal requirements. This notice applies to all records of your care generated in the Ochsner Health System, including our hospitals, clinics and medical staff at Ochsner Medical Center, Ochsner Hospital – Elmwood, Ochsner St. Anne General Hospital, Ochsner Medical Center – Westbank, Ochsner Baptist, Ochsner Medical Center – Kenner, Ochsner Medical Complex – River Parishes, Ochsner Medical Center – North Shore, and Ochsner Medical Center – Baton Rouge.
 
 In addition, there may be instances where Ochsner will share your protected health information with members of our Organized Health Care Arrangement as allowed under HIPAA regulations and as necessary to carry out treatment, payment or health care operations. These members include patient care settings affiliated with the Ochsner Health System, and all medical staff, employees, volunteers, trainees, students and other personnel providing services as employed by these facilities. Ochsner Health System may elect to participate in secure health information networks designed and developed to promote healthcare continuity.
 
@@ -230,8 +230,8 @@ Patient Relations
 180 West Esplanade Avenue  
 Kenner, LA 70065
 
-_Ochsner Baptist Medical Center and Ochsner Health Centers located at Baptist:_  
-Ochsner Baptist Medical Center  
+_Ochsner Baptist and Ochsner Health Centers located at Baptist:_  
+Ochsner Baptist  
 Patient Relations  
 2700 Napoleon Avenue  
 New Orleans, LA 70115
