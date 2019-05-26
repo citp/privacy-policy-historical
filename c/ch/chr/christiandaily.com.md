@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiandaily.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109191833id_/https%3A//www.christiandaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandaily.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526204618id_/https%3A//www.christiandaily.com/privacy) for the most accurate reproduction.*
 
 # PRIVATE POLICY
 
