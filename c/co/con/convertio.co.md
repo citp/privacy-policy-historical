@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertio.co privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223153555id_/https%3A//convertio.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertio.co privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526221808id_/https%3A//convertio.co/privacy) for the most accurate reproduction.*
 
 # Convertio — Privacy
 
@@ -53,3 +53,16 @@ Convertio does not extract or collect any data from your files, nor sharing or c
 **Convertio acts as a data processor** if it processes data on behalf of its customer, i.e. when you use [Convertio API](https://developers.convertio.co/) or any other way to process files of your own customers. As a data processor, Convertio will treat and manage your data in accordance with strict security standards, maintaining a high level of security and keeping your data inside the EU throughout the whole file conversion process.
 
 If you have any questions regarding our privacy policy and GDPR compliance, feel free to contact our [customer support](https://support.convertio.co/).
+
+## Company Information
+
+**Name and address of the company**
+
+SOFTO LIMITED  
+1 Apriliou, 52 Athienou  
+7600 Larnaca  
+Cyprus
+
+**Registry Info**
+
+Registry Number: HE368888
