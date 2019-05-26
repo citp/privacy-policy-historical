@@ -1,56 +1,54 @@
-> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019215759id_/https%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revisionworld.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526235657id_/https%3A//revisionworld.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | content, privacy | Revision World
 
 **Privacy Policy**
 
-**Effective February 26, 2007**
+**Effective February 26, 2007 and last updated 1st May 2018**
 
 **_About RevisionWorld.com_**
 
-RevisionWorld.com is an online service that allows our members to revise from educational materials. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and expand their network of friends. RevisionWorld members can change their profile information at any time.
+RevisionWorld.com is an online service that allows our members to revise from educational materials. Registered users will be emailed by us from time to time with study help advice and promotional information, Users can unsubscribe from these emails at any time (see email opt out below). The site also carries advertising (see online advertising below).
 
-RevisionWorld.com cares deeply about online privacy If you have any questions concerning this privacy policy, please contact us.
+RevisionWorld.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please contact us.
 
 **_Information Collection and Use by RevisionWorld.com_**
 
-RevisionWorld.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the RevisionWorld.com service. RevisionWorld.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist users in finding and communicating with each other.
+RevisionWorld.com collects user submitted information such as name, email address, and age to authenticate users and to send notifications to those users relating to the RevisionWorld.com service. RevisionWorld.com also collects other profile data including but not limited to: personal interests, gender, age, education and occupation.
 
 RevisionWorld.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the RevisionWorld.com social networking community. Email addresses are used for the purposes of inviting new friends to join RevisionWorld, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network Users within a personal network communicate on RevisionWorld.com with each other through the RevisionWorld.com service, without disclosing their email addresses. Users' full names are never directly revealed to other members. To facilitate searching and finding friends and acquaintances on the service, RevisionWorld.com allows users to search for other members using first and last name, email address, and schools and/or companies where users may have attended or worked.
+User Profile information including members' pictures and usernames are displayed to people in order to facilitate user interaction in the Revision World study help forum. User's email address is not shared or displayed (unless a user chooses to use an email address as their username). 
 
-We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive these emails by unsubscribing at any time. We may from time to time pass on registered users email addresses to trusted third parties. Users will be able to unsubscribe from these messages at any time.
+We may also use a user's email address to send updates, a newsletter or news regarding the service. Users may choose not to receive these emails by unsubscribing at any time. 
 
-From time to time, RevisionWorld.com or a partner, may sponsor a promotion, sweepstake or contest on RevisionWorld.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+From time to time, RevisionWorld.com or a partner, may sponsor a promotion or contest on RevisionWorld.com. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-**_Invitations and Other Communications to Non-members_**
-
-RevisionWorld members can invite friends to join the service by sending invitation emails via our automated invitation system. RevisionWorld.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations RevisionWorld.com does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from RevisionWorld.com may contact RevisionWorld.com to request the removal of their information from our database.
+If you are under 13 years of age you must not create an account with Revision World, if we believe you to be under 13 years old we will delete your account.
 
 **_Use of Cookies_**
 
-RevisionWorld.com uses cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from RevisionWorld.com in order to use most functions on the site Please note that RevisionWorld allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the RevisionWorld Privacy Policy.
+You can view our [cookies policy here](https://revisionworld.com/cookies)
 
 **_Links_**
 
 RevisionWorld.com contains links to sites. RevisionWorld.com is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on RevisionWorld.com.
 
-**_Chat Rooms, Journals and WebLogs, Message Boards, Classifieds and Public Forums_**
+**_Study Help Forum_**
 
-Please be aware that whenever you voluntarily post public information to Journals, WebLogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+Please be aware that whenever you post in the study help forum, other users will be able to read your comments and see your username,
 
 **_Correcting/Updating or Removing Information_**
 
 RevisionWorld.com users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info.
 
-**_Email Choice/Opt-out_**
+_**Cancelling an Account and Deleting all Data**_
 
-Members who no longer wish to receive updates or notifications may choose not to by selecting 'Do not send me notification emails' in the user profile 'Account Settings'. Users who do not wish to receive RevisionWorld.com newsletters may choose not to by selecting 'Do not send me RevisionWorld newsletters' in the user profile 'Account Settings'. All notification emails and RevisionWorld.com newsletters also include the above instructions for opting-out of those communications in the future.
+Users can request to have their Revision World account cancelled and all their data deleted at any time by **[contacting us](https://revisionworld.com/contact). **We will delete your account and data within 28 days.
 
-**_Third Party Advertising_**
+**_Email Opt-out  _**
 
-Ads appearing on this Web site may be delivered to users by RevisionWorld.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by RevisionWorld.com and does not cover the use of cookies by any advertisers.
+Users who no longer wish to receive emails from us, can unsubscribe by using the Unsubscribe link at the bottom of our promotional and newsletter emails. 
 
 **_Security_**
 
