@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestofcomicbooks.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517143627id_/http%3A//bestofcomicbooks.com/our-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofcomicbooks.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526123455id_/https%3A//bestofcomicbooks.com/our-privacy-policies) for the most accurate reproduction.*
 
-# Our Privacy Policies - Best Of Comic Books
+# Our Privacy Policies
 
 #### This Privacy Policy was last modified on November 10, 2014.  
 Bestofcomicbooks.com (“us”, “we”, or “our”) operates www.Bestofcomicbooks.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
