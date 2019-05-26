@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229110514id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526192749id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
 # Free Driving Directions, Traffic Reports & GPS Navigation App by Waze
 
