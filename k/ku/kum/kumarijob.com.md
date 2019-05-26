@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kumarijob.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323000911id_/http%3A//www.kumarijob.com/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumarijob.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526234103id_/https%3A//www.kumarijob.com/page/Privacy) for the most accurate reproduction.*
 
 # Privacy | Kumarijob
 
