@@ -1,68 +1,183 @@
-> *The following text is extracted and transformed from the socratestheme.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403080231id_/http%3A//www.socratestheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socratestheme.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526023339id_/https%3A//socratestheme.com/privacy) for the most accurate reproduction.*
 
-# Socrates 4.0 Privacy Policy - Socrates 4.0
+# Privacy - Socrates 5.0
 
-**Handy Investments LLC** understands that you may have concerns about safeguarding your privacy on-line.
+## Privacy Policy
 
-The Privacy Statement that follows explains our views and practices concerning privacy, and how they may pertain to you as you make full use of our many offerings. This statement discloses the privacy practices for all Handy Investments LLC websites including the website you are currently visiting where you are reading this Privacy Policy.
+Your privacy is important to us. It is MRN Capital, LLC’s policy to respect your privacy regarding any information we may collect from you across our website, [http://socratestheme.com](http://socratestheme.com/), and other sites we own and operate.
 
-Article 1. Collection of Personal Information from Site Visitors
+### Information we collect
 
-Handy Investments LLC automatically collects and/or tracks (1) the home server domain names, IP address, e-mail addresses, type of client computer, and type of Web browser of visitors to Handy Investments LLC’s Web site, (2) the e-mail addresses of visitors that communicate with Handy Investments LLC via e-mail, (3) information such as personal, financial or demographic information, knowingly provided by the visitor in on-line forms, registration forms, surveys, and sweepstakes entries, and (4) information, either in the aggregate or user specific, on what pages visitors access.
+#### Log data
 
-Handy Investments LLC places Internet cookies on visitors’ hard drives. We use cookies to deliver information and content specific to your interests, and to save your password so you do not have to re-enter it each time you visit our site. Internet cookies save the visitor’s name, password, user-name, screen preferences, the pages of the Handy Investments LLC’s Web site viewed by the visitor, and the advertisements viewed or clicked by the visitor. When the visitor revisits the Handy Investments LLC’s Web site, Handy Investments LLC will recognize the visitor by the Internet cookie and customize the visitor’s experience accordingly. Internet cookies are stored on the visitor’s hard drive and are not stored, in any form, by Handy Investments LLC. Visitors may decline the Internet cookie by using the appropriate feature of their Web browser software, if available.
+When you visit our website, our servers may automatically log the standard data provided by your web browser. This data is considered “non-identifying information”, as it does not personally identify you on its own. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-Article 2. Use of Personal Data Collected
+We may also collect data about the device you are using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
 
-Personal data collected by Handy Investments LLC will be used by Handy Investments LLC for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for future product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked their advertisements, and to customize content and layout of Handy Investments LLC’s site. Names, postal and e-mail addresses, and phone numbers collected may be added to Handy Investments LLC’s databases and used for future e-mails, calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online. Financial information collected may be used to check the user’s qualifications for registration, to bill the user for products and services, to notify the user in the event of sweepstakes winnings, and to notify the relevant taxing and regulatory authorities regarding payments or prizes.
+#### Personal information
 
-Demographic and profile data collected is used to tailor the visitor’s experience at our site, enabling us to present content we think they might be interested in. We use customer contact information to send the user information about our company and promotional material from some of our partners. The customer’s contact information is also used to contact him or her in the event of a sweepstakes winning, and to notify the relevant taxing and regulatory authorities regarding payments or prizes.
+We may ask for personal information, such as your:
 
-Article 3. Disclosure of Personal Data to Third Parties
+  * Name
+  * Email
 
-Handy Investments LLC reserves the right to share, rent, sell, or otherwise disclose data it collects on Handy Investments LLC’s Web site to third parties. Any third party to which Handy Investments LLC shares, rents, sells, or otherwise discloses personal data will be carefully pre-screened by Handy Investments LLC, determined by Handy Investments LLC to be reputable, and will use the personal data for marketing products and services which Handy Investments LLC determines, in its sole judgment, that visitors might find of interest. Handy Investments LLC will disclose to third parties information knowingly and voluntarily disclosed by visitors, or information in aggregate form.
 
-Through the use of third party cookies, an advertiser will be electronically notified when visitors view or click on its advertisements. This site contains links to other sites and Handy Investments LLC is not responsible for the privacy practices or the content of such sites.
 
-Article 4. Opt-Out Right
+This data is considered “identifying information”, as it can personally identify you. We only request personal information relevant to providing you with a service, and only use it to help provide or improve this service.
 
-We allow users the opportunity to opt-out of receiving communications from us and our partners at the point where we voluntary request information about the visitor. This site also allows users to remove their information from our database. If a user removes his or her information from the Handy Investments LLC database it will no longer be used by Handy Investments LLC for secondary purposes, disclosed to third parties, or used by Handy Investments LLC or third parties to send promotional correspondences to the visitor. Users can remove their information by writing to us via postal mail at the address below, or by sending an email requesting removal to [insert e-mail for remove].
+### How we collect information
 
-Visitors may opt out of having their personal information collected by Handy Investments LLC, by contacting Handy Investments LLC via postal mail to the address below, or via e-mail to support@infomediainc.com.
+We collect information by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used. You are free to refuse our request for this information, with the understanding that we may be unable to provide you with some of your desired services without it.
 
-Article 5. Access to and Ability to Correct Personal Data
+### Use of information
 
-Upon request via postal mail or e-mail, Handy Investments LLC will provide to visitors a summary of any personal information retained by Handy Investments LLC regarding the visitor. Handy Investments LLC will only send personal records to the e-mail address on file for the visitor name associated with it. Visitors may modify, correct, change, or update their personal record or cause their personal record to be removed from Handy Investments LLC’s database. Visitors may change or modify information previously provided by by contacting Handy Investments LLC via postal mail to the address below, or via e-mail to support@infomediainc.com.
+We may use a combination of identifying and non-identifying information to understand who our visitors are, how they use our services, and how we may improve their experience of our website in future. We do not disclose the specifics of this information publicly, but may share aggregated and anonymised versions of this information, for example, in website and customer usage trend reports.
 
-Article 6. Collection of Personal Data from Children
+We may use your personal details to contact you with updates about our website and services, along with promotional content that we believe may be of interest to you. If you wish to opt out of receiving promotional content, you can follow the “unsubscribe” instructions provided alongside any promotional correspondence from us.
 
-The information and services provided at Handy Investments LLC’s web site by Handy Investments LLC, its affiliates, sponsors, and advertisers are not intended to be viewed by children under 13 years of age. All sweepstakes offered at Handy Investments LLC are open to United States residents 18 years or older only. Handy Investments LLC will not knowingly permit a child to participate in a game, offering of a prize, or another activity. If a child wins a sweepstakes, that child’s entry will be voided, and another winner will be drawn.
+### Data processing and storage
 
-Concerning visitors to its site that it knows are children under 13 years of age, Handy Investments LLC maintains the following policies:
+The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. We only transfer data within jurisdictions subject to data protection laws that reflect our commitment to protecting the privacy of our users.
 
-– Handy Investments LLC will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
+We only retain personal information for as long as necessary to provide a service, or to improve our services in future. While we retain this data, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security.
 
-– In the event a child submits information to the Handy Investments LLC Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Handy Investments LLC will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Handy Investments LLC, or how the parent could view or delete the child’s registration, if so desired.
+If you request your personal information be deleted, or where your personal information becomes no longer relevant to our operations, we will erase it from our system within a reasonable timeframe.
 
-– Handy Investments LLC will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
+### Cookies
 
-– No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Handy Investments LLC.
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
 
-Article 7. Handy Investments LLC’s Right to Contact User
+### Third-party access to information
 
-Handy Investments LLC reserves the right to contact site visitors regarding account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to site visitors.
+We use third-party services for:
 
-Article 8. Handy Investments LLC’s Right to Change Privacy Policy
+  * Analytics tracking
+  * User authentication
+  * Advertising and promotion
+  * Content marketing
+  * Email marketing
+  * Payment processing
 
-Handy Investments LLC reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.
 
-Contacting Handy Investments LLC
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
+These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with them without your explicit consent. We do not give them permission to disclose or use any of our data for any other purpose.
 
-Handy Investments LLC  
-51 W Center st. #115  
-Orem UT 84057
+We may, from time to time, allow limited access to our data by external consultants and agencies for the purpose of analysis and service improvement. This access is only permitted for as long as necessary to perform a specific function. We only work with external agencies whose privacy policies align with ours.
 
-  
+We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity.
 
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.
+
+### Children’s Privacy
+
+We are committed to protecting the privacy of children who use our services. We encourage parents to engage with us in protecting their children’s privacy, ensuring a safe and enjoyable online experience. Please refer to our Children’s Privacy Policy for more information.
+
+### Limits of our policy
+
+This privacy policy only covers MRN Capital, LLC’s own collecting and handling of data. We only work with partners, affiliates and third-party providers whose privacy policies align with ours, however we cannot accept responsibility or liability for their respective privacy practices.
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. If you are a registered user on [http://socratestheme.com](http://socratestheme.com/), we will notify you using the contact details saved in your account. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+
+### Your rights and responsibilities
+
+As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted. You may amend or remove your account information at any time, using the tools provided in your account control panel.
+
+You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing.
+
+Feel free to contact us if you have any concerns or questions about how we handle your data and personal information.
+
+ **MRN Capital, LLC Data Controller**  
+[Dan Nickerson](http://customers.socratestheme.com/contact/)  
+This policy is effective as of 21 May 2018.
+
+## Cookie Policy
+
+We use cookies to help improve your experience of [http://socratestheme.com](http://socratestheme.com/). This cookie policy is part of MRN Capital, LLC’s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
+
+If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [http://socratestheme.com](http://socratestheme.com/), with the understanding that we may be unable to provide you with some of your desired content and services.
+
+### What is a cookie?
+
+A cookie is a small piece of data that a website stores on your device when you visit, typically containing information about the website itself, a unique identifier that allows the site to recognise your web browser when you return, additional data that serves the purpose of the cookie, and the lifespan of the cookie itself.
+
+Cookies are used to enable certain features (eg. logging in), to track site usage (eg. analytics), to store your user settings (eg. timezone, notification preferences), and to personalise your content (eg. advertising, language).
+
+Cookies set by the website you are visiting are normally referred to as “first-party cookies”, and typically only track your activity on that particular site. Cookies set by other sites and companies (ie. third parties) are called “third-party cookies”, and can be used to track you on other websites that use the same third-party service.
+
+### Types of cookies and how we use them
+
+#### Essential cookies
+
+Essential cookies are crucial to your experience of a website, enabling core features like user logins, account management, shopping carts and payment processing. We use essential cookies to enable certain functions on our website.
+
+#### Performance cookies
+
+Performance cookies are used in the tracking of how you use a website during your visit, without collecting personal information about you. Typically, this information is anonymous and aggregated with information tracked across all site users, to help companies understand visitor usage patterns, identify and diagnose problems or errors their users may encounter, and make better strategic decisions in improving their audience’s overall website experience. These cookies may be set by the website you’re visiting (first-party) or by third-party services. We use performance cookies on our site.
+
+#### Functionality cookies
+
+Functionality cookies are used in collecting information about your device and any settings you may configure on the website you’re visiting (like language and timezone settings). With this information, websites can provide you with customised, enhanced or optimised content and services. These cookies may be set by the website you’re visiting (first-party) or by third-party service. We use functionality cookies for selected features on our site.
+
+#### Targeting/advertising cookies
+
+Targeting/advertising cookies are used in determining what promotional content is more relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or to limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service. We use targeting/advertising cookies on our site.
+
+### Third-party cookies on our site
+
+We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by MRN Capital, LLC’s cookie policy.
+
+#### Our third-party privacy promise
+
+We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours. We will never knowingly include third-party services that compromise or violate the privacy of our users.
+
+### How you can control or opt out of cookies
+
+If you do not wish to accept cookies from us, you can instruct your browser to refuse cookies from our website. Most browsers are configured to accept cookies by default, but you can update these settings to either refuse cookies altogether, or to notify you when a website is trying to set or update a cookie.
+
+If you browse websites from multiple devices, you may need to update your settings on each individual device.
+
+Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.
+
+## Children’s Privacy Policy
+
+We are committed to protecting the privacy of children who use [http://socratestheme.com](http://socratestheme.com/) and its services. This children’s privacy policy is part of our approach to privacy, and covers the way we collect, store and manage information provided by children under the age of 13, in accordance with the US Children’s Online Privacy Protection Act (COPPA).
+
+We encourage parents to engage with us in protecting their children’s privacy, ensuring a safe and enjoyable online experience.
+
+### Collecting information from children
+
+At times, we may require information from children to enable participation in certain activities, for example, registering an account, customising a profile, or receiving notifications. When collecting non-personal information, we encourage children never to provide any details that may personally identify them or reveal their location. We do not require children to provide more information than is necessary to participate in an activity.
+
+We do not use children’s contact details for marketing purposes, though we may use them for our internal marketing and research in order to improve the quality of products and services offered across our site.
+
+### Parental consent
+
+In accordance with COPPA, if an activity does require any personal information (such as first name, last name, or email address), we will provide notice to and seek consent from a parent or guardian prior to collecting the information. We only retain collected information for as long as necessary to enable participation in the requested activity.
+
+In the event we discover we have collected personal information in a manner non-compliant with COPPA, we will either delete the information or seek parental consent.
+
+As a parent/guardian, if you believe your child is participating in an activity that collects personal information, and you have not received a notification or request for consent, please feel free to get in touch via our [contact page](https://customers.socratestheme.com/contact/). We do not use parent contact details for marketing purposes unless marketing materials are explicitly requested.
+
+### Safeguarding children’s privacy
+
+We take security seriously, and do what we can within commercially acceptable means to protect your child’s personal information from loss or theft, as well as unauthorized access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security.
+
+### Information abuse and community misconduct
+
+We do not tolerate doxing (publishing of private or personal information about an individual without their consent), cyberbullying, or other forms of information abuse on [http://socratestheme.com](http://socratestheme.com/).
+
+If we discover that a child’s personal information has been disclosed on our site without the express consent of their parent/guardian, we will remove the content in question as quickly as possible and effect disciplinary measures (a warning, suspension or ban) on the offending account.
+
+### Third-party access to information
+
+We do not knowingly disclose any personally identifying information or personal information provided by children to third parties. We may, however, disclose anonymised and aggregated versions of this information (analytics and statistics) for business, marketing or public relations purposes.
+
+### Parental controls and intervention
+
+As a parent/guardian, you may at any time refuse to let us collect further information from your children for a particular activity or account. If you have given us consent previously, you may log in to your child’s account to review, edit or delete the information, or contact us via to request the removal of the information from our records.
+
+Please be aware that the removal of certain information may result in the termination of the associated account, or withdrawal from the associated activity.
