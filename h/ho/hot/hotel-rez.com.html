@@ -1,0 +1,561 @@
+<!--The following is the downloaded HTML source of the hotel-rez.com privacy policy that was archived on 2019-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190526161013id_/http%3A//www.hotel-rez.com/privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+    <meta charset="utf-8">
+
+    <meta name="description" content="HOTEL-REZ.COM Your hotel reservation network">
+    <meta name="author" content="">
+
+
+    <meta property="og:title" content="HOTEL-REZ.COM Your hotel reservation network.">
+    <meta property="og:image" content="http://hotel-rez.com/img/facebook.jpg">
+    <meta property="og:site_name" content="HOTEL-REZ.COM Your hotel reservation network.">
+    <meta property="og:description" content="">
+
+
+
+    <title>HOTEL-REZ.COM Your hotel reservation network - Privacy policy.</title>
+
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <link href="css/styles.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="jquery-ui.css">
+  <script src="jquery-1.12.4.js"></script>
+  <script src="jquery-ui.js"></script>
+  <script>
+  $( function() {
+    var dateFormat = "mm/dd/yy",
+      from = $( "#from" )
+        .datepicker({
+          defaultDate: "+1w",
+          changeMonth: true,
+          numberOfMonths: 2
+        })
+        .on( "change", function() {
+          to.datepicker( "option", "minDate", getDate( this ) );
+        }),
+      to = $( "#to" ).datepicker({
+        defaultDate: "+1w",
+        changeMonth: true,
+        numberOfMonths: 2
+      })
+      .on( "change", function() {
+        from.datepicker( "option", "maxDate", getDate( this ) );
+      });
+ 
+    function getDate( element ) {
+      var date;
+      try {
+        date = $.datepicker.parseDate( dateFormat, element.value );
+      } catch( error ) {
+        date = null;
+      }
+ 
+      return date;
+    }
+  } );
+  
+  
+  
+   function submitBookForm(form) {
+
+                     if (form.cityText.value == "") {
+                        alert('Please enter your location');
+                        return false;
+                    }
+
+                     if (form.from.value == "") {
+                        alert('Please enter your check-in date');
+                        return false;
+                    }
+					
+					if (form.to.value == "") {
+                        alert('Please enter your check-out date');
+                        return false;
+                    }
+					
+					
+					 if (form.numberOfRooms.value >= 9) {
+                        window.open("https://groupres.hotelplanner.com/GroupForm.cfm?CheckInDate1="+form.from.value+"&OutDate="+form.to.value+"&city=" + form.cityText.value)
+                        return false;
+                    }
+
+    
+       		 if (!validateGuests(form)) {
+            		return false;
+                }
+				else
+				{
+					
+				var strURL				
+				//alert(form.elements.length)
+				strURL = '?'
+				for (var i = 1; i <= form.elements.length; i++)
+						{
+					if( form.elements[i-1].value != 'undefined' && form.elements[i-1].value != false)
+					{
+					strURL = strURL + form.elements[i-1].name + '=' + form.elements[i-1].value + "&"
+					}	
+						}
+				
+				window.location.href='form.asp'+strURL
+				}
+   	}
+  </script>
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#252e39"
+    },
+    "button": {
+      "background": "#14a7d0"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "This website does not use any cookies.",
+    "link": "Privacy Policy",
+    "href": "http://www.hotel-rez.com/privacypolicy.html"
+  }
+})});
+</script>
+
+
+
+  </head>
+
+  <body>
+  <!--<div id="fb-root"></div>-->
+  <script>
+  //(function(d, s, id) {
+//    var js, fjs = d.getElementsByTagName(s)[0];
+//    if (d.getElementById(id)) return;
+//    js = d.createElement(s); js.id = id;
+//    js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.10&appId=602391609964290";
+//    fjs.parentNode.insertBefore(js, fjs);
+//  }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <header>
+
+
+    <a href="index.html" class="logo"><div class="logo">HOTEL-REZ.COM</div></a>
+    <a href="index.html" class="slogan"><div class="slogan">YOUR HOTEL RESERVATION NETWORK</div></a>
+
+        <nav>
+
+          <a href="index.html">Home</a>|<a href="aboutus.html">About us</a>|<a href="sitemap.html">Sitemap</a>
+
+        </nav>
+
+
+  </header>
+
+  <section class="slider">
+
+    <div class="head1">Are you looking for a hotel for business or leisure? </div>
+    <div class="head2">Look no further! Choose among over 120,000 discounted hotels all around the world at attractive prices to suit all budgets and needs. </div>
+
+    <div class="searchblock">
+
+       <form name="Search">
+
+         <div class="col100">
+            <label for="location">Location</label>
+            <input id="cityText" name="cityText" type="text">
+         </div>
+
+         <div style="width:100%" class="col50">
+         <table width="465">
+         <tbody><tr><td>
+          <label for="from">Check-in</label>
+    <input type="text" id="from" name="from">
+    </td>
+    <td>
+    <label for="to">Check-out</label>
+    <input type="text" id="to" name="to">
+    </td></tr>
+    </tbody></table>
+         </div>
+
+
+
+<div id="hot-search-params" style="background-color: #f9f9f9;padding: 5px;margin-top: 100px;margin-left:-10px;right: 0;width: 465px; height: auto; font-family: 'PT Sans Narrow', sans-serif;font-size: 20px;"><table class="contentb" border="0" cellspacing="2" cellpadding="0">
+<tbody><tr height="45"><td><nobr>Rooms:<img src="/images/p.gif" width="5" height="1"></nobr></td><td><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adults: (age 19+)<img src="/images/p.gif" width="5" height="1"></nobr></td><td><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Children: (0-18)<img src="/images/p.gif" width="5" height="1"></nobr></td></tr>
+<tr><td><select name="numberOfRooms" onchange="setNumRooms(this.options[this.selectedIndex].value);"><option value="1" selected="">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9+</option></select></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="room-0-adult-total" onchange="setNumAdults(0, this.options[this.selectedIndex].value)">
+<option value="1">1
+</option><option value="2" selected="">2
+</option><option value="3">3
+</option><option value="4">4
+</option></select></td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="room-0-child-total" onchange="setNumChildren(0, this.options[this.selectedIndex].value)">
+<option value="0" selected="">0
+</option><option value="1">1
+</option><option value="2">2
+</option><option value="3">3
+</option></select></td></tr>
+</tbody></table>
+</div>
+<script language="javascript">
+<!--
+var cellStyle='';
+var childHelp="Please provide the ages of children in each room. Children's ages should be their age at the time of travel.";
+var adultHelp="";
+var textRooms="Rooms:";
+var textAdults="Adults: (age 19+)";
+var textChildren="Children: (0-18)";
+var textChildError="Please specify the ages of all children.";
+var pad='<img src="/images/p.gif" width="5" height="1">';
+
+var textRoomX="Room ?:";
+var textChildX="Child ?:";
+
+var childrenPerRoom=new Array();
+var adultsPerRoom=new Array();
+var childAgesPerRoom=new Array();
+var numRooms=0;
+var maxChildren=0;
+var pad='<img src="/images/p.gif" width="5" height="1">';
+
+adultsPerRoom[0]=2;
+childrenPerRoom[0]=0;
+
+
+    numRooms=1;
+    if (numRooms < 1) {
+        numRooms = 1;
+    }
+    refresh();
+
+    function setChildAge(room, child, age) {
+        if (childAgesPerRoom[room] == null) {
+            childAgesPerRoom[room] = new Array();
+        }
+        childAgesPerRoom[room][child] = age;
+    }
+
+    function setNumAdults(room, numAdults) {
+        adultsPerRoom[room] = numAdults;
+    }
+
+    function setNumChildren(room, numChildren) {
+        childrenPerRoom[room] = numChildren;
+        refresh();
+    }
+
+    function setNumRooms(x) {
+        numRooms = x;
+        for (i = 0; i < x; i++) {
+            if (adultsPerRoom[i] == null) {
+                adultsPerRoom[i] = 2;
+            }
+            if (childrenPerRoom[i] == null) {
+                childrenPerRoom[i] = 0;
+            }
+        }
+        refresh();
+    }
+
+    function renderRoomSelect() {
+        var x = '';
+        x += '<select name="numberOfRooms" onchange="setNumRooms(this.options[this.selectedIndex].value);">';
+        for (var i = 1; i < 9; i++) {
+            x += '<option value="'+i+'"'+(numRooms == i ? ' selected' : '')+'>' + i;
+        }
+        x += '<option value="9"'+(numRooms == 9 ? ' selected' : '')+'>9+';
+        x += '</select>';
+        return x;
+    }
+
+    function refresh() {
+        maxChildren = 0;
+        for (var i = 0; i < numRooms; i++) {
+            if (childrenPerRoom[i] > maxChildren) {
+                maxChildren = childrenPerRoom[i];
+            }
+        }
+
+        var x = '';
+        if (adultHelp.length > 0) {
+            x = adultHelp + "<p>\n";
+        }
+
+        if (numRooms > 8) {
+            x += '<table class=contentb border="0" cellspacing="2" cellpadding="0">\n';
+            x += '<tr><td'+cellStyle+'><nobr>'+textRooms+pad+'</nobr></td><td>';
+            x += renderRoomSelect();
+            x += '</td></tr></table>';
+
+        } else {
+            x += '<table class=contentb border="0" cellspacing="2" cellpadding="0">\n';
+            x += '<tr height=45><td'+cellStyle+'><nobr>'+textRooms+pad+'</nobr></td>';
+            if (numRooms > 1) {
+                x += '<td'+cellStyle+'>&nbsp;</td>';
+            }
+            x += '<td'+cellStyle+'><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'+textAdults+pad+'</nobr></td><td'+cellStyle+'><nobr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'+textChildren+pad+'</nobr></td></tr>\n';
+            for (var i = 0; i < numRooms; i++) {
+                x += '<tr><td'+cellStyle+'>';
+                if (i == 0) {
+                    x += renderRoomSelect();
+                } else {
+                    x += '&nbsp;';
+                }
+                x += '</td>';
+                if (numRooms > 1) {
+                    x += '<td'+cellStyle+'><nobr>'+getValue(textRoomX, i+1)+pad + '</nobr></td>';
+                }
+                x += '<td'+cellStyle+'>';
+                x += buildSelect('room-' + i + '-adult-total', 'setNumAdults(' + i + ', this.options[this.selectedIndex].value)', 1, 4, adultsPerRoom[i]);
+                x += '</td><td'+cellStyle+'>';
+                x += buildSelect('room-' + i + '-child-total', 'setNumChildren(' + i + ', this.options[this.selectedIndex].value)', 0, 3, childrenPerRoom[i]);
+                x += '</td></tr>\n';
+            }
+            x += '</table>\n';
+
+            var didHeader = false;
+            for (var i = 0; i < numRooms; i++) {
+                if (childrenPerRoom[i] > 0) {
+                    if (!didHeader) {
+                        x += '<table class=contentb border="0" cellpadding="0" cellspacing="2">\n';
+                        x += '<tr><td'+cellStyle+' colspan="'+(maxChildren+1)+'">';
+                        x += '<img src="/images/p.gif" width="1" height="5"><br>';
+                        x += childHelp;
+                        x += '<img src="/images/p.gif" width="1" height="5"><br>';
+                        x += '</td></tr>\n<tr><td'+cellStyle+'>&nbsp;</td>';
+                        for (var j = 0; j < maxChildren; j++) {
+                            x += '<td'+cellStyle+'><nobr>'+getValue(textChildX, j+1)+pad+'</nobr></td>\n';
+                        }
+                        didHeader = true;
+                    }
+                    x += '</tr>\n<tr><td'+cellStyle+'><nobr>'+getValue(textRoomX, i+1)+pad+'</nobr></td>';
+                    for (var j = 0; j < childrenPerRoom[i]; j++) {
+                        x += '<td'+cellStyle+'>';
+                        var def = -1;
+                        if (childAgesPerRoom[i] != null) {
+                            if (childAgesPerRoom[i][j] != null) {
+                                def = childAgesPerRoom[i][j];
+                            }
+                        }
+                        x += '<select name="room-'+i+'-child-'+j+'-age" onchange="setChildAge('+i+', '+j+', this.options[this.selectedIndex].value);">';
+                        x += '<option value="-1"'+(def == -1 ? ' selected' : '')+'>-?-';
+                        x += '<option value="0"'+(def == 0 ? ' selected' : '')+'>&lt;1';
+                        for (var k = 1; k <= 17; k++) {
+                            x += '<option value="'+k+'"'+(def == k ? ' selected' : '')+'>'+k;
+                        }
+                        x += '</td>';
+                    }
+                    if (childrenPerRoom[i] < maxChildren) {
+                        for (var j = childrenPerRoom[i]; j < maxChildren; j++) {
+                            x += '<td'+cellStyle+'>&nbsp;</td>';
+                        }
+                    }
+                    x += '</tr>\n';
+                }
+            }
+            if (didHeader) {
+                x += '</table>\n';
+            }
+        }
+
+        document.getElementById("hot-search-params").innerHTML = x;
+    }
+
+    function buildSelect(name, onchange, min, max, selected) {
+        var x = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="' + name + '"';
+        if (onchange != null) {
+            x += ' onchange="' + onchange + '"';
+        }
+        x +='>\n';
+        for (var i = min; i <= max; i++) {
+            x += '<option value="' + i + '"';
+            if (i == selected) {
+                x += ' selected';
+            }
+
+            x += '>' + i + '\n';
+        }
+        x += '</select>';
+        return x;
+    }
+
+    function validateGuests(form) {
+        if (numRooms < 9) {
+            var missingAge = false;
+            for (var i = 0; i < numRooms; i++) {
+                var numChildren = childrenPerRoom[i];
+                if (numChildren != null && numChildren > 0) {
+                    for (var j = 0; j < numChildren; j++) {
+                        if (childAgesPerRoom[i] == null || childAgesPerRoom[i][j] == null || childAgesPerRoom[i][j] == -1) {
+                            missingAge = true;
+                        }
+                    }
+                }
+            }
+
+            if (missingAge) {
+                alert(textChildError);
+                return false;
+            } else {
+                return true;
+            }
+        } else {
+            return true;
+        }
+    }
+
+    function submitGuestInfoForm(form) {
+        if (!validateGuests(form)) {
+            return false;
+        }
+
+        return true;
+    }
+
+    function getValue(str, val) {
+        return str.replace(/\?/g, val);
+    }
+//-->
+</script>
+         <input type="button" value="BOOK" onclick="return submitBookForm(document.Search);">
+
+       </form>
+
+    </div>
+
+
+  </section>
+
+ 
+
+  <section class="top30">
+
+   <h1>Privacy policy</h1>
+
+  </section>
+
+  <section class="content inner">
+
+
+   
+
+    <h2>Privacy Policy:</h2>
+   <div style="text-align:right"><img src="https://reservations.hotel-rez.com/assets/images/secureBooking.png" alt="Secure Booking" title="Secure Booking">
+        </div>
+<p>We respect your privacy. We will not provide your personal information to third parties for marketing purposes without your permission.</p>
+<p>We secure your data. We carefully monitor for intrusion attempts 24 hours a day, 7 days a week; deploy encryption technology, firewalls and advanced monitoring systems for your protection.</p>
+<p>Your privacy is very important to us. We do not sell, rent, loan or disclose your personal information collected at this site to third parties for their marketing purposes without your explicit consent via email. Please read this privacy policy to learn more about the ways in which we collect, use and protect your personal information.</p>
+<p>The privacy practices of this policy applies to our services available under the domain Hotel-rez.com (the "Site") operated in partnership with Getaroom.com, Consumer Club, Inc. (collectively "Getaroom", "We", "Us", or "Our"). By visiting the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our Site.</p>
+<p>This Privacy Policy describes the information we collect from you, as part of the normal operation of our services, and what may happen to that information. Because we believe you should know as much as possible about Getaroom's practices, we have prepared a detailed policy so that you can make informed decisions.</p>
+<p><strong>Important Information.</strong></p>
+<p>If you have questions or concerns regarding this policy, you should first contact Customer Service at <a href="mailto:customerservice@getaroom.com">customerservice@getaroom.com</a> or call Customer Service at 800-HOTELS-8 (800-468-3578). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider at <a href="https://feedback-form.truste.com/watchdog/request.">https://feedback-form.truste.com/watchdog/request.</a></p>
+<p><strong>Information We Collect.</strong></p>
+<p>We collect two kinds of information about our online visitors, personal and non personal information. This personal information: User name, email address, and physical address, including City and State. Non personal information: shopping preferences, product searches, merchant searches, and general demographics. Our primary purpose in collecting personal and non personal information is <u>to provide you with a safe, smooth, efficient, and customized experience</u>. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect information about you that we consider necessary for achieving this purpose.</p>
+<p>In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature.</p>
+<p>Technologies such as: cookies, beacons, tags and scripts are used by Hotel-rez.com, or analytics or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
+<p>We use cookies for current and historical search information, authentication and affiliate source. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited or not available.</p>
+<p>We also gather certain information automatically and store it in log files. This information includes the Internet Protocol addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/ time stamp, and click stream data. We may combine this automatically collected log information with other information we collect about you. We use this information to review trends, to administer our website, to track users' movements around the web site and to gather demographic information about our customers. Most other web sites also gather this same information.</p>
+<p>We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" target="_blank" rel="nofollow">Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.<br>
+If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies or pixel tags to help us make those communications more useful to you.</p>
+<p>We also get information from your transactions with us such as account activity and your purchase information. Our partner - Getaroom.com uses information from third parties, including public information, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accurate data and prevent fraud, for example), or from other sources. Getaroom uses this information to develop, offer and deliver our products and services, to process transactions in your accounts, and to obey legal and regulatory requirements. We limit the collection and use of customer information to the minimum we require to deliver great service to our customers and to run our business.</p>
+
+<p>If you provide us a review of your trip, you authorize us to publish it on all our Platforms under the screen name you provided. You also authorize us to aggregate it with other reviews.</p>
+<p><strong>Our Use of Your Information.</strong></p>
+<p>We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to measure interest in the third-party products and services we offer; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions of the Site's use. At times, we may look across multiple users to identify problems and in particular we may examine your personal information to identify users using multiple Customer IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.</p>
+<p>You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.</p>
+<p><strong>Our Disclosure of Your Information.</strong></p>
+<p>We do not share your personal information with other companies. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide you with the ability to order the third-party products and services offered through the Site.</p>
+<p>We collect booking information via our forms that include the collection of personal and financial information. Once the user submits the info, payment is made and verified, the booking is confirmed and removed from our inventory and passed on to our reservation partner Getaroom.com to proceed with booking your travel. The booking info then gets passed along to the third party for fulfillment. Getaroom.com collects payment and verifies credit card info to complete the booking, but we act only as the booking agent. The third party (such as hotels) will receive the confirmation request from the guest for the reservation and then their privacy policy would be in effect. We do not have any control over the third party use of information or their privacy policies. Hotel-rez.com and <a href="http://www.getaroom.com/" target="_blank" rel="nofollow">www.getaroom.com</a> are disclosing this information to users so that they have the option to not do business on the Site. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to book with such lodging establishments. We may occasionally share information with our service providers that is in aggregate form. This information does not contain any personal information as it is in aggregate form and used to develop products that may be of interest to our customers. These companies that act as our service providers are authorized to use your personal information only as necessary to provide these services to us.</p>
+<p><strong>Legal Requests.</strong> Getaroom cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and our other customers from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, they can (and you authorize them to) disclose your name, city, state, telephone number, email address and Customer ID history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, Hotel-rez.com and Getaroom will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or report suspected illegal activity. If Consumer Club, Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.</p>
+<p>Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.</p>
+<p><strong>Testimonials.</strong></p>
+<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at <a href="mailto:info@Hotel-rez.com">info@Hotel-rez.com</a>.</p>
+<p><strong>Accessing, Reviewing and Changing Your Personal Information.</strong></p>
+<p>Upon your request, we will deactivate your  contact information and all other information from our active databases. To make this request, email <a href="mailto:info@Hotel-rez.com">info@Hotel-rez.com</a> or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable time frame. Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p><strong>Other Information Collectors.</strong></p>
+<p>Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. This Site contains links to other web sites. Please be aware that Hotel-rez.com and Consumer Club, Inc. are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site to read the privacy policy of each and every website that collects personal information. This privacy policy applies solely to information collected by this website. To the extent that you disclose your information to other parties, whether they are third-party providers of products or services, different rules may apply to their use or disclosure of the information you disclose to them. Since Hotel-rez.com and Getaroom does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.</p>
+<p><strong>Social Media Widgets.</strong></p>
+<p>Our Web site includes Social Media Features, such as the Google+ [and Widgets, such as the Share this button or interactive mini-programs that run on our site], Pinterest and Facebook. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p><strong>A Special Note About Children.</strong></p>
+<p>Hotel-rez.com and Getaroom adhere to the federal privacy protection standards articulated in the Children's Online Privacy Protection Act (COPPA). Hotel-rez.com and Getaroom take children's privacy seriously. Hotel-rez.com and Getaroom do not seek to collect personal information about children through the Site. Hotel-rez.com and Getaroom do not condition a child's participation in an activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If we become aware that a person submitting personal information to us through any part of our Site is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. Since we do not seek to collect any personal information about children, and we delete any information collected inadvertently as soon as we discover that a child has submitted it, we typically retain no information about children that could be reviewed or deleted. If a parent requests review or deletion of information about their child before we have discovered and deleted the information, then we will of course honor that request.</p>
+<p><strong>Security.</strong></p>
+<p>Your information is stored on Hotel-rez.com and Getaroom's servers located in the United States and Ireland. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including monitoring for intrusion attempts, encryption technology, "firewalls", Secure Socket Layers and security audits and inspections. We treat data as an asset that must be protected against loss and unauthorized access. When making a booking, your information is stored behind a secure server via multiple encryption methods as well as Secure Socket Layer (SSL) on the site. Information stored on the server is only available to a select number of people at Hotel-rez.com and Getaroom that have access to these records. We encourage the use of encryption to communicate with Hotel-rez.com and Getaroom. The privacy of communication over the Internet cannot be guaranteed because the Internet is not a secure medium. Hotel-rez.com and Getaroom do not assume any responsibility for any harm, loss or damage you may experience or incur by the sending of personal or confidential information over the Internet by or to Hotel-rez.com and Getaroom. If you have any questions about the security at our website, you can send an e-mail to <a href="mailto:info@Hotel-rez.com">info@Hotel-rez.com</a>.</p>
+<p>Please remember that you also play a valuable part in data security. You should never share your Getaroom Customer ID or password with anyone. If you feel any of your information has been compromised, you should change it immediately. After you have finished using our Site, you should log out of your Getaroom account and exit your browser so that no unauthorized persons can use our Site under your name and account information.</p>
+<p><strong>Notification of Changes.</strong></p>
+<p>We may amend this Privacy Policy at any time by posting the amended terms on the Site. You are responsible for checking this Privacy Policy when you visit the Site to review the current policy. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Hotel-rez.com and Getaroom will use the information collected on the Site in accordance with the Privacy Policy under which the information was collected. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.</p>
+<p>If we decide to change our Privacy Policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+<p><strong>Terms and Conditions</strong></p>
+<p>Please also visit Hotel-rez.com's <a href="terms_conditions.html">Terms &amp; Conditions</a> for terms governing the use of the entire Site.</p>
+<p>Thank you for being our customer.</p>
+<p>This Privacy Policy is effective as of May 14, 2018.</p>
+<p>Hotel-rez.com<br>
+  Getaroom, Inc. 3010 LBJ Freeway Suite 1500 Dallas, Texas, 75234</p>
+  </section>
+
+
+
+  
+
+    <section class="banners">
+
+    <div class="banner">
+   <a rel="nofollow" target="_blank" href="http://www.partner.viator.com/en/6818?bannerImg=468x60_070207.gif"><img src="http://www.partner.viator.com/partner/admin/images/banners/468x60_070207.gif" border="0" alt="Viator"></a>
+    
+    <a rel="nofollow" target="_blank" href="http://www.partner.viator.com/en/6818?bannerImg=Generic_Escape2_120X60.gif">
+    
+    <img src="http://www.partner.viator.com/partner/admin/images/banners/Generic_Escape2_120X60.gif" border="0" alt="Viator" style="margin-left: 25px; float: left;"></a>
+   
+    <a rel="nofollow" target="_blank" href="http://www.partner.viator.com/en/6818/search/airport+transfer?sortBy=RELEVANCE&amp;bannerImg=Airport_Transfers_120X60.jpg">
+    <img src="http://www.partner.viator.com/partner/admin/images/banners/Airport_Transfers_120X60.jpg" border="0" alt="Viator" style="margin-left: 25px; float: left;"></a>
+    
+     <a rel="nofollow" target="_blank" href="http://www.partner.viator.com/en/6818?bannerImg=PreBook_Generic_120X60.gif">
+     <img src="http://www.partner.viator.com/partner/admin/images/banners/PreBook_Generic_120X60.gif" border="0" alt="Viator" style="margin-left: 25px; float: left;"></a>
+    </div>
+    
+    
+    <div class="banner" onclick="window.open('https://groupres.hotelplanner.com/GroupForm.cfm')">
+      
+      <img src="images/people2.png" class="right">
+
+      <div class="line1">GROUP</div>
+      <div class="line2">BOOKINGS</div>
+
+
+    </div>
+
+  </section>
+
+
+<footerlinks>
+<center>
+        <a href="faq.html">FAQ</a>  |  <a href="privacypolicy.html">Privacy policy</a>
+</center>
+        </footerlinks>
+  <footer>
+
+    2015-2018 © Hotel-rez.com / H-rez.com network.
+  </footer>
+
+
+
+
+
+
+  
+
+
+</body></html>
