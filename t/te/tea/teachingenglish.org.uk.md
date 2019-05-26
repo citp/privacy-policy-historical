@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228235742id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingenglish.org.uk privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526045005id_/http%3A//www.britishcouncil.org/terms-conditions/privacy) for the most accurate reproduction.*
 
 # Information security and privacy policy | British Council
 
 The British Council is the United Kingdom’s international organisation for cultural relations and educational opportunities. 
 
-We collect and use personal information to offer people information, products and services. This policy will apply in all locations where we operate to all forms of information and to all systems used to collect, store, process or transfer information.
+We collect and use personal data to offer people information, products and services. This policy will apply in all locations where we operate to all forms of information and to all systems used to collect, store, process or transfer information.
 
-In countries where there are different privacy and data protection laws, we will comply with those laws where they meet internationally accepted privacy principles and fair information handling practices.
+The British Council applies the UK Data Protection Act 2018 as a global privacy standard together with local data protection law in the countries where it operates. In countries where the UK Data Protection Act 2018 conflicts with local law, local law that meets internationally accepted privacy principles will take precedence.
 
 The British Council is committed to:
 
@@ -26,4 +26,4 @@ We will provide adequate and appropriate resources to implement this policy and 
 
 The British Council will review this global policy statement annually to reflect new legal and regulatory developments and ensure good practice.
 
-This global policy statement was approved by Sir Ciarán Devane, Chief Executive, in March 2018 and is due for review in March 2019.
+This global policy statement was approved by Sir Ciarán Devane, Chief Executive, in March 2019 and is due for review in March 2020. 
