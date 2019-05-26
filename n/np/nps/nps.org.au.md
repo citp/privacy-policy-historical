@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903190721id_/https%3A//www.nps.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526101314id_/https%3A//www.nps.org.au/privacy) for the most accurate reproduction.*
 
-# Privacy policy | NPS MedicineWise
+# Privacy policy - NPS MedicineWise
 
 ## 1\. Purpose
 
@@ -51,6 +51,17 @@ If you are one of our suppliers or provide services to us, we may collect inform
   * The cookies placed by third parties are subject to the privacy policies of these third parties. NPS MedicineWise has no control over these cookies.  
 
   * If you do not wish to receive any cookies, you may set your browser to refuse them; go to the browser's help menu for instructions. Please note that some features of the NPS MedicineWise website may not work if cookies are disabled.  
+
+
+
+
+## 5\. Social media
+
+  * NPS MedicineWise has a number of social media pages, including Facebook, Twitter and YouTube and comments posted on these are open to the public.  
+
+  * If you upload content to these pages, you should be aware that your information is collected by the company operating the social media page (for example, Facebook, Twitter or YouTube). You should refer to the privacy policy of that social media company for information on how the organisation collects, uses and discloses personal information.  
+
+  * NPS MedicineWise may collect personal information from published social media posts that you have uploaded to those platforms.  
 
 
 
@@ -221,7 +232,7 @@ NPS MedicineWise does not disclose any personal information to overseas entities
 
   * You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a response provided within 30 days.  
 
-  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](https://web.archive.org/web/20180903190721id_/https%3A//www.nps.org.au/www.oaic.gov.au) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances.  
+  * If you are not satisfied with the resolution of your complaint you may contact the Office of the Federal Privacy Commissioner at its website [www.oaic.gov.au](https://web.archive.org/web/20190526101314id_/https%3A//www.nps.org.au/www.oaic.gov.au) or by telephone on 1300 363 992 who may investigate your complaint and has the power to award compensation against us in appropriate circumstances.  
 
 
 
