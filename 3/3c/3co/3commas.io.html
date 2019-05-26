@@ -1,0 +1,353 @@
+<!--The following is the downloaded HTML source of the 3commas.io privacy policy that was archived on 2019-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190526143557id_/https%3A//3commas.io/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=""><head><meta charset="utf-8"><meta content="https://3commas.io/img/og_image.jpg" property="og:image"><meta content="width=device-width, initial-scale=1.0" name="viewport"><meta content="true" name="HandheldFriendly"><meta content="3commas manages online software as a service including the website 3commas.io, mobile applications, application program interfaces, social media platforms, and provides add-ons, built-in services and technical support." name="description"><title>Privacy Policy</title><meta name="keywords"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N3RG26F"></script><script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.4.6/rollbar.min.js" async=""></script><script>var _rollbarConfig = {
+  accessToken: "e01b596c37294492a5754d004084b8c4",
+  captureUncaught: true,
+  captureUnhandledRejections: true,
+  payload: {
+    environment: "production",
+    person: {
+      id: ""
+    }
+  },
+};
+// Rollbar Snippet
+!function (r) {
+  function e(n) {
+    if (o[n]) return o[n].exports;
+    var t = o[n] = {exports: {}, id: n, loaded: !1};
+    return r[n].call(t.exports, t, t.exports, e), t.loaded = !0, t.exports
+  }
+
+  var o = {};
+  return e.m = r, e.c = o, e.p = "", e(0)
+}([function (r, e, o) {
+  "use strict";
+  var n = o(1), t = o(4);
+  _rollbarConfig = _rollbarConfig || {}, _rollbarConfig.rollbarJsUrl = _rollbarConfig.rollbarJsUrl || "https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.4.6/rollbar.min.js", _rollbarConfig.async = void 0 === _rollbarConfig.async || _rollbarConfig.async;
+  var a = n.setupShim(window, _rollbarConfig), l = t(_rollbarConfig);
+  window.rollbar = n.Rollbar, a.loadFull(window, document, !_rollbarConfig.async, _rollbarConfig, l)
+}, function (r, e, o) {
+  "use strict";
+
+  function n(r) {
+    return function () {
+      try {
+        return r.apply(this, arguments)
+      } catch (r) {
+        try {
+          console.error("[Rollbar]: Internal error", r)
+        } catch (r) {
+        }
+      }
+    }
+  }
+
+  function t(r, e) {
+    this.options = r, this._rollbarOldOnError = null;
+    var o = s++;
+    this.shimId = function () {
+      return o
+    }, "undefined" != typeof window && window._rollbarShims && (window._rollbarShims[o] = {
+      handler: e,
+      messages: []
+    })
+  }
+
+  function a(r, e) {
+    if (r) {
+      var o = e.globalAlias || "Rollbar";
+      if ("object" == typeof r[o]) return r[o];
+      r._rollbarShims = {}, r._rollbarWrappedError = null;
+      var t = new p(e);
+      return n(function () {
+        e.captureUncaught && (t._rollbarOldOnError = r.onerror, i.captureUncaughtExceptions(r, t, !0), i.wrapGlobals(r, t, !0)), e.captureUnhandledRejections && i.captureUnhandledRejections(r, t, !0);
+        var n = e.autoInstrument;
+        return e.enabled !== !1 && (void 0 === n || n === !0 || "object" == typeof n && n.network) && r.addEventListener && (r.addEventListener("load", t.captureLoad.bind(t)), r.addEventListener("DOMContentLoaded", t.captureDomContentLoaded.bind(t))), r[o] = t, t
+      })()
+    }
+  }
+
+  function l(r) {
+    return n(function () {
+      var e = this, o = Array.prototype.slice.call(arguments, 0), n = {shim: e, method: r, args: o, ts: new Date};
+      window._rollbarShims[this.shimId()].messages.push(n)
+    })
+  }
+
+  var i = o(2), s = 0, d = o(3), c = function (r, e) {
+    return new t(r, e)
+  }, p = d.bind(null, c);
+  t.prototype.loadFull = function (r, e, o, t, a) {
+    var l = function () {
+      var e;
+      if (void 0 === r._rollbarDidLoad) {
+        e = new Error("rollbar.js did not load");
+        for (var o, n, t, l, i = 0; o = r._rollbarShims[i++];) for (o = o.messages || []; n = o.shift();) for (t = n.args || [], i = 0; i < t.length; ++i) if (l = t[i], "function" == typeof l) {
+          l(e);
+          break
+        }
+      }
+      "function" == typeof a && a(e)
+    }, i = !1, s = e.createElement("script"), d = e.getElementsByTagName("script")[0], c = d.parentNode;
+    s.crossOrigin = "", s.src = t.rollbarJsUrl, o || (s.async = !0), s.onload = s.onreadystatechange = n(function () {
+      if (!(i || this.readyState && "loaded" !== this.readyState && "complete" !== this.readyState)) {
+        s.onload = s.onreadystatechange = null;
+        try {
+          c.removeChild(s)
+        } catch (r) {
+        }
+        i = !0, l()
+      }
+    }), c.insertBefore(s, d)
+  }, t.prototype.wrap = function (r, e, o) {
+    try {
+      var n;
+      if (n = "function" == typeof e ? e : function () {
+        return e || {}
+      }, "function" != typeof r) return r;
+      if (r._isWrap) return r;
+      if (!r._rollbar_wrapped && (r._rollbar_wrapped = function () {
+        o && "function" == typeof o && o.apply(this, arguments);
+        try {
+          return r.apply(this, arguments)
+        } catch (o) {
+          var e = o;
+          throw e && ("string" == typeof e && (e = new String(e)), e._rollbarContext = n() || {}, e._rollbarContext._wrappedSource = r.toString(), window._rollbarWrappedError = e), e
+        }
+      }, r._rollbar_wrapped._isWrap = !0, r.hasOwnProperty)) for (var t in r) r.hasOwnProperty(t) && (r._rollbar_wrapped[t] = r[t]);
+      return r._rollbar_wrapped
+    } catch (e) {
+      return r
+    }
+  };
+  for (var u = "log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","), f = 0; f < u.length; ++f) t.prototype[u[f]] = l(u[f]);
+  r.exports = {setupShim: a, Rollbar: p}
+}, function (r, e) {
+  "use strict";
+
+  function o(r, e, o) {
+    if (r) {
+      var t;
+      "function" == typeof e._rollbarOldOnError ? t = e._rollbarOldOnError : r.onerror && !r.onerror.belongsToShim && (t = r.onerror, e._rollbarOldOnError = t);
+      var a = function () {
+        var o = Array.prototype.slice.call(arguments, 0);
+        n(r, e, t, o)
+      };
+      a.belongsToShim = o, r.onerror = a
+    }
+  }
+
+  function n(r, e, o, n) {
+    r._rollbarWrappedError && (n[4] || (n[4] = r._rollbarWrappedError), n[5] || (n[5] = r._rollbarWrappedError._rollbarContext), r._rollbarWrappedError = null), e.handleUncaughtException.apply(e, n), o && o.apply(r, n)
+  }
+
+  function t(r, e, o) {
+    if (r) {
+      "function" == typeof r._rollbarURH && r._rollbarURH.belongsToShim && r.removeEventListener("unhandledrejection", r._rollbarURH);
+      var n = function (r) {
+        var o, n, t;
+        try {
+          o = r.reason
+        } catch (r) {
+          o = void 0
+        }
+        try {
+          n = r.promise
+        } catch (r) {
+          n = "[unhandledrejection] error getting `promise` from event"
+        }
+        try {
+          t = r.detail, !o && t && (o = t.reason, n = t.promise)
+        } catch (r) {
+          t = "[unhandledrejection] error getting `detail` from event"
+        }
+        o || (o = "[unhandledrejection] error getting `reason` from event"), e && e.handleUnhandledRejection && e.handleUnhandledRejection(o, n)
+      };
+      n.belongsToShim = o, r._rollbarURH = n, r.addEventListener("unhandledrejection", n)
+    }
+  }
+
+  function a(r, e, o) {
+    if (r) {
+      var n, t,
+        a = "EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");
+      for (n = 0; n < a.length; ++n) t = a[n], r[t] && r[t].prototype && l(e, r[t].prototype, o)
+    }
+  }
+
+  function l(r, e, o) {
+    if (e.hasOwnProperty && e.hasOwnProperty("addEventListener")) {
+      for (var n = e.addEventListener; n._rollbarOldAdd && n.belongsToShim;) n = n._rollbarOldAdd;
+      var t = function (e, o, t) {
+        n.call(this, e, r.wrap(o), t)
+      };
+      t._rollbarOldAdd = n, t.belongsToShim = o, e.addEventListener = t;
+      for (var a = e.removeEventListener; a._rollbarOldRemove && a.belongsToShim;) a = a._rollbarOldRemove;
+      var l = function (r, e, o) {
+        a.call(this, r, e && e._rollbar_wrapped || e, o)
+      };
+      l._rollbarOldRemove = a, l.belongsToShim = o, e.removeEventListener = l
+    }
+  }
+
+  r.exports = {captureUncaughtExceptions: o, captureUnhandledRejections: t, wrapGlobals: a}
+}, function (r, e) {
+  "use strict";
+
+  function o(r, e) {
+    this.impl = r(e, this), this.options = e, n(o.prototype)
+  }
+
+  function n(r) {
+    for (var e = function (r) {
+      return function () {
+        var e = Array.prototype.slice.call(arguments, 0);
+        if (this.impl[r]) return this.impl[r].apply(this.impl, e)
+      }
+    }, o = "log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","), n = 0; n < o.length; n++) r[o[n]] = e(o[n])
+  }
+
+  o.prototype._swapAndProcessMessages = function (r, e) {
+    this.impl = r(this.options);
+    for (var o, n, t; o = e.shift();) n = o.method, t = o.args, this[n] && "function" == typeof this[n] && ("captureDomContentLoaded" === n || "captureLoad" === n ? this[n].apply(this, [t[0], o.ts]) : this[n].apply(this, t));
+    return this
+  }, r.exports = o
+}, function (r, e) {
+  "use strict";
+  r.exports = function (r) {
+    return function (e) {
+      if (!e && !window._rollbarInitialized) {
+        r = r || {};
+        for (var o, n, t = r.globalAlias || "Rollbar", a = window.rollbar, l = function (r) {
+          return new a(r)
+        }, i = 0; o = window._rollbarShims[i++];) n || (n = o.handler), o.handler._swapAndProcessMessages(l, o.messages);
+        window[t] = n, window._rollbarInitialized = !0
+      }
+    }
+  }
+}]);</script><link rel="alternate" hreflang="en" href="https://3commas.io/privacy"><link rel="alternate" hreflang="ru" href="https://3commas.io/ru/privacy"><link rel="alternate" hreflang="zh" href="https://3commas.io/zh/privacy"><link rel="alternate" hreflang="zh-CN" href="https://3commas.io/zh-CN/privacy"><link rel="alternate" hreflang="es" href="https://3commas.io/es/privacy"><link rel="alternate" hreflang="pt" href="https://3commas.io/pt/privacy"><link href="https://3commas.io/privacy" rel="canonical"><link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-e94c7cbd5562d5433a6b7a0d37385cd08d79ade4a2fa815bfb110eea019fce37.ico"><meta name="action-cable-url" content="/cable"><script>
+//<![CDATA[
+window.gon={};gon.locale={"locale":"en","on_niuduo_website":false,"datatables_url":"\/\/cdn.datatables.net\/plug-ins\/1.10.11\/i18n\/English.json"};gon.routes={"new_smart_trade_path":"\/smart_trades\/new","smart_trade_save_path":"\/smart_trades","smart_trade_update_path":"\/smart_trades\/:id","top_marker_cap_portfolios_path":"\/portfolios\/top_marker_cap","top_volume_portfolios_path":"\/portfolios\/top_volume","portfolio_stats_portfolios_path":"\/portfolios\/portfolio_stats","portfolio_analyze_portfolios_path":"\/portfolios\/portfolio_analyze","portfolio_btc_profit_portfolios_path":"\/portfolios\/portfolio_btc_profit","portfolio_usd_profit_portfolios_path":"\/portfolios\/portfolio_usd_profit","pairs_smart_trades_path":"\/smart_trades\/pairs","pairs_to_sell_smart_trades_path":"\/smart_trades\/pairs_to_sell","currency_rates_path":"\/smart_trades\/currency_rates","toggle_follow_portfolio_path":"\/portfolios\/:id\/toggle_follow","portfolio_entries_data_portfolio_path":"\/portfolios\/:id\/portfolio_entries_data","account_table_entries_data_account_path":"\/accounts\/:id\/account_table_entries_data","dashboard_top_currencies_data_path":"\/dashboard\/top_currencies_data","new_user_session_path":"\/signin","available_amounts_account_path":"\/accounts\/:id\/available_amounts","enable_otp_start_users_path":"\/users\/enable_otp_start","enable_otp_confirm_users_path":"\/users\/enable_otp_confirm","disable_otp_users_path":"\/users\/disable_otp","info_smart_trade_path":"\/smart_trades\/:id\/info","trader_diary_path":"\/trader_diary","favorite_user_pair_index_path":"\/favorite_user_pair\/index","favorite_user_pair_create_path":"\/favorite_user_pair\/create","favorite_user_pair_destroy_path":"\/favorite_user_pair\/destroy","history_smart_trades_path":"\/smart_trades\/history","active_smart_trades_smart_trades_path":"\/smart_trades\/active_smart_trades?tt=1558881358","sorted_active_smart_trades_smart_trades_path":"\/smart_trades\/sorted_active_smart_trades?tt=1558881358","create_loose_accounts_path":"\/loose_accounts","update_loose_account_path":"\/loose_accounts\/:id","fast_convert_portfolios_path":"\/portfolios\/fast_convert","signals_smart_trades_path":"\/smart_trades\/signals","fetch_deals_path":"\/deals\/fetch","users_subscriptions_path":"\/users\/subscriptions","new_users_free_subscription_path":"\/users\/free_subscriptions\/new","users_free_subscriptions_path":"\/users\/free_subscriptions","accounts_path":"\/accounts","profit_line_chart_data_bot_path":"\/bots\/:id\/profit_line_chart_data","profit_by_pairs_chart_data_bot_path":"\/bots\/:id\/profit_by_pairs_chart_data","active_deals_amount_by_pair_chart_data_bot_path":"\/bots\/:id\/active_deals_amount_by_pair_chart_data","profit_based_on_sell_triggers_chart_data_bot_path":"\/bots\/:id\/profit_based_on_sell_triggers_chart_data","tracking_codes_path":"\/tracking_codes","statistic_tracking_codes_path":"\/tracking_codes\/statistic","filtered_top_bots_bots_path":"\/bots\/filtered_top_bots","filtered_top_users_bots_path":"\/bots\/filtered_top_users","current_reserved_coin_bot_path":"\/bots\/:id\/current_reserved_coin","favorite_user_pair_reorder_path":"\/favorite_user_pair\/reorder","data_for_avg_deal_path":"\/deals\/:id\/data_for_avg","orders_for_tv_deal_path":"\/deals\/:id\/orders_for_tv","avg_deal_path":"\/deals\/:id\/avg","user_subscription_process_cauri_card_token_path":"https:\/\/3commas.io\/user_subscription\/process_cauri_card_token","user_subscription_path":"\/users\/subscriptions","dashboard_set_steps_state_path":"\/dashboard\/set_steps_state","usd_profit_smart_trade_path":"\/smart_trades\/:id\/usd_profit","edit_data_smart_trade_path":"\/smart_trades\/:id\/edit_data","user_settings_billing_address_path":"\/user_settings\/billing_address","set_ip_check_setting_users_path":"\/users\/set_ip_check_setting","enable_bot_path":"\/bots\/:id\/enable","disable_bot_path":"\/bots\/:id\/disable","top_portfolios_path":"\/portfolios\/top","bot_path":"\/bots\/:id","try_it_marketplace_item_path":"\/marketplace\/:id\/try_it","new_user_payment_path":"\/users\/payments\/new","user_payments_path":"\/users\/payments","force_process_smart_trade_path":"\/smart_trades\/:id\/force_process","panic_sell_smart_trade_path":"\/smart_trades\/:id\/panic_sell","step_panic_sell_smart_trade_path":"\/smart_trades\/:id\/step_panic_sell","step_cancel_smart_trade_path":"\/smart_trades\/:id\/step_cancel","force_start_smart_trade_path":"\/smart_trades\/:id\/force_start","confirm_cancel_smart_trade_path":"\/smart_trades\/:id\/confirm_cancel","st_ajax_update_smart_trades_path":"\/smart_trades\/st_ajax_update","note_smart_trade_path":"\/smart_trades\/:id\/note","update_buy_price_smart_trade_path":"\/smart_trades\/:id\/update_buy_price","new_subscription_path":"\/users\/subscriptions\/new","subscriptions_path":"\/users\/subscriptions","new_free_subscription_path":"\/users\/free_subscriptions\/new","free_subscriptions_path":"\/users\/free_subscriptions","load_current_state_account_path":"\/accounts\/:id\/load_current_state","destroy_all_bots_path":"\/bots\/destroy_all","items_marketplace_items_path":"\/marketplace\/items","signals_marketplace_item_path":"\/marketplace\/:id\/signals","marketplace_item_purchases_path":"\/marketplace_item_purchases","new_marketplace_item_purchase_path":"\/marketplace_item_purchases\/new","unsubscribe_marketplace_item_path":"\/marketplace\/:id\/unsubscribe","bots_path":"\/bots","recommended_pairs_bots_path":"\/bots\/recommended_pairs","exchange_settings_bots_path":"\/bots\/exchange_settings","market_limits_path":"\/accounts\/limits","deals_path":"\/deals","get_deals_deals_path":"\/deals\/get_deals","force_process_deal_path":"\/deals\/:id\/force_process","refresh_accounts_deals_path":"\/deals\/refresh_accounts","new_switch_bot_bots_path":"\/bots\/new_switch_bot","panic_sell_deal_path":"\/deals\/:id\/panic_sell","cancel_deal_path":"\/deals\/:id\/cancel","update_max_safety_orders_deal_path":"\/deals\/:id\/update_max_safety_orders","history_deals_path":"\/deals\/history","export_deals_path":"\/deals\/export","deal_path":"\/deals\/:id","edit_deal_path":"\/deals\/:id\/edit","new_bot_path":"\/bots\/new","new_cryptos_path":"\/cryptos\/new","smart_trade_convert_deal_path":"\/deals\/:id\/smart_trade_convert","get_actual_usd_profit_deal_path":"\/deals\/:id\/get_actual_usd_profit","get_deals_stats_deals_path":"\/deals\/get_deals_stats","data_for_avg_smart_trade_path":"\/smart_trades\/:id\/data_for_avg","usd_rate":"\/currency_rate\/usd_rate","new_account_path":"\/accounts\/new","edit_account_path":"\/accounts\/:id\/edit","new_loose_account_path":"\/loose_accounts\/new","get_fast_convert_data_account_path":"\/accounts\/:id\/get_fast_convert_data","check_panic_sell_confirmable_smart_trade_path":"\/smart_trades\/:id\/check_panic_sell_confirmable","disable_panic_sell_confirmation_smart_trade_path":"\/smart_trades\/:id\/disable_panic_sell_confirmation","check_panic_sell_confirmable_deal_path":"\/deals\/:id\/check_panic_sell_confirmable","disable_panic_sell_confirmation_deal_path":"\/deals\/:id\/disable_panic_sell_confirmation"};gon.simplex_enabled=true;
+//]]>
+</script><script>window.notification_key = "BFN_pZgohKQeZ8XbWT8E85YreI6cV4kUr8hO31FK4udCHALKJBDqaC0Z0J0j3hQ1Rz3oLMCC_Nv7MD3uJE6Yn2g";
+
+var ieVersion = (function () {
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf('MSIE');
+    if (msie > 0) {
+        return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)));
+    }
+    if (ua.indexOf('Trident/7.0') + 1) {
+        return 11;
+    }
+    return 0;
+})();
+if (ieVersion && ieVersion < 11) {
+    location.href = '/legacy.html';
+}</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+</script>
+
+<!-- page-hiding snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer', 1000,
+  {'GTM-N3RG26F':true});</script>
+<!-- End page-hiding snippet -->
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(), event: 'gtm.js'
+    });
+    let f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-N3RG26F');
+</script>
+<!-- End Google Tag Manager -->
+
+<link rel="stylesheet" media="all" href="/assets/landings/second_landing/application-1c30dc0c68089de166058fc0f0a2994fe899d4f97e8f1a987d5c1b18a87af30d.css"><link href="https://fonts.googleapis.com/css?family=Rubik&amp;amp;subset=cyrillic" rel="stylesheet"></head><body><!--page content--><div class="page pages landing-05 en textpage"><div class="page__overlay"></div>
+<div class="page__panel">
+
+  <a href="#" id="panelClose"><span class="icon icon-close"></span></a>
+
+  <ul class="panel__menu" role="menu">
+      <li><a href="https://3commas.io/blog">Blog</a></li>
+    <li>
+      <a href="https://support.3commas.io/hc/en-us">Documentation</a>
+    </li>
+  </ul>
+</div><div class="page__content"><header class="fixed-header" role="banner"><a class="logo" href="/"><div id="scroll_top"></div><span>3Commas</span></a><a href="#" id="panelOpen" class="visible-xs-inline-block"><span class="icon icon-menu"></span></a><div class="container-fluid"><div class="pull-right"><ul class="menu" role="menu">
+    <li><a href="https://3commas.io/blog" target="_blank"><span class="name">Blog</span></a></li>
+  <li><a href="https://support.3commas.io/hc/en-us" target="_blank"><span class="name">Documentation</span></a></li>
+</ul><div class="dropdown dropdown-lang"><a class="dropdown-toggle" data-toggle="dropdown" href="#" type="button">En<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ru/privacy">Ru</a></li><li><a href="https://niuduo.io">Zh</a></li><li><a href="/es/privacy">Es</a></li><li><a href="/pt/privacy">Pt</a></li></ul></div><a role="button" class="btn btn-sm btn-transparent" href="/signin?redirect_to=%2Fprivacy">Login</a><a role="button" class="btn btn-sm btn-main" href="/users/sign_up?redirect_to=%2Fprivacy">Registration</a></div></div><script>let test = document.getElementById('scroll_top');
+test.addEventListener('click', toTop);
+function toTop() {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: "smooth"
+  })}</script></header><main class="main-content" role="main"><section><div class="container">
+
+
+<h1 class="page-header">Privacy Policy</h1>
+<h6>This Privacy Policy is effective as of September 14, 2018.</h6>
+<p>3Commas manages online software as a service including the website 3Commas.io, mobile applications, application program interfaces, social media platforms, and provides add-ons, built-in services and technical support. This privacy policy (“<strong>Policy</strong>”) will tell you what personal information we collect from you, how we collect it, how we use it, where it is stored, how we protect your information and your rights with respect to your personal information.</p>
+<h3>What information we collect</h3>
+<p>3Commas may collect personal data, meaning information about an identified or identifiable individual, directly from individuals, from users of our services, websites and mobile applications. We only collect personal data that is necessary to deliver our services to you the best way and we process your information only as specified in this Policy or allowed under applicable legislation.</p>
+<p><span class="underline">Cookies</span>. 3Commas uses standard means of commonly used internet protocols including cookies to collect device identifiers related to the network and hardware (such as IP address or mobile device ID) and software identifiers and information related to the operating system and browser (such as the platform, version, headers, plug­ins, geographical location, time zone setting).<br>We use cookies that are strictly necessary for secure the operation of the user's account in our software, for example allowing for the logging in option. Performance cookies are necessary for uninterrupted access to the Software, for example allowing load balancing depending on number of active users. Functionality and targeting cookies, which record the pages you have visited and the links you have followed, are used to help us personalize content and store your preferences, such as allowing automatic choice of language and region. We may use this information to determine what advertising we display on our website.</p>
+<p><span class="underline">Your input</span>. When you fill out a form or provide your input on our website, we collect that personal data you provide, such as your name, email address, address of residence, tax identifier, payment details and phone number, or other details so we can best assist you. When registering with 3Commas, you are signing up to our marketing or mailing list and we will contact you occasionally via email and messengers to notify on latest news and updates, and promote our products and services. Processing for any purpose other than those specified in this policy are only done with your consent, which you may withdraw at any time.</p>
+<p><span class="underline">Payment Services</span>. We use several payment service providers (PSP) to process the transactions initiated from website and mobile applications of the software. Any information related to the payment is processed directly by their servers and we do not store payment details or personal information related to the payments in full. 3Commas receives and stores sensitive payment details depersonalized and masked for technical  purposes. 3Commas also receives and stores some insensitive payment details and personal information in the part necessary for business accounting and tax purposes. For the protection of your personal information please refer to third party PSPs privacy policies when making the payment.</p>
+<p><span class="underline">Social Media</span>. We use social media networks and messengers for communication and support. If you link your social media account we will receive relevant information that is necessary to enable our software-based services and request the access to the contacts in your social media account, so that you can recommend our software to your network. We use this information to measure and understand the effectiveness of advertising we serve and to deliver relevant advertising to our customers.<br>We may also collect information available in profiles of third party products and services, such as in messengers, social networks, cryptocurrency exchanges, or wallets, if you provide us such data or use such products and services on your own initiative.</p>
+<p>We do not knowingly collect any information from individuals under 18 years of age.</p>
+<h3>How we collect and use your information</h3>
+<p>3Commas collects personal data from the following types of individuals and for the following purposes:</p>
+<ol type="a">
+  <li><span class="underline">website users</span>, through the use of cookies and web beacons when they visit or browse our website. This information helps 3Commas administer its internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes. The browser will notify the user about cookies, giving a chance to decide whether to accept or not. </li>
+  <li><span class="underline">software and application users</span>, with express consent, when they register an account and log into our software or mobile applications. This information is used to keep our software-based services safe and secure.</li>
+  <li><span class="underline">individuals</span>, with express consent, when contacting us via email, messenger, social network, or our online contact form. We use this information to answer your queries and to notify you about updates and changes.</li>
+  <li><span class="underline">customers</span>, who have an account on a third party service such as exchanges or wallets and add API keys for this service to our software. With express consent, we collect any personal data provided by the customer in conjunction with the API keys.</li>
+  <li><span class="underline">clients</span>, with express or implied consent, when making a payment for license or service fee for our software. This information is used to carry out our obligations relating to your contract with us and provide you with the products requested. We further use this information to comply with our legal obligations for business accounting and tax purposes. We may also contact you occasionally via email or messaging services to promote our products and services.</li>
+</ol>
+<h3>When we disclose your information</h3>
+<p>3Commas does not sell or otherwise disclose without consent the personal data it holds, except where there is a legal requirement, allowed under applicable legislation, or to enforce our contracts.</p>
+<p>With respect to partners data, 3Commas may disclose personal data if it is necessary to establish, manage or terminate an partnership relations, as allowed by law, or in a prospective business transaction.</p>
+<p>3Commas may transfer your personal data with selected third parties including affiliates, business partners, suppliers and sub-contractors for the performance and execution of any contract we enter into with them or you. We may also transfer to advertisers and advertising networks solely to select and serve relevant ads to you and for analytics and search engine providers that assist us improve and optimize our website.</p>
+<p>We may also receive personal data about you from third parties with obligation to use, disclose and store all of this information in accordance with this Privacy Policy.</p>
+<h3>When we transfer your information</h3>
+<p>3Commas may transfer personal data to processors suppliers that it employs to assist with the delivery, maintenance and development of our services. The transfer is solely under our instructions and our suppliers agree to contractual clauses that ensure compliance with data protection legislation at a compatible level of protection. We ensure compliance with applicable data protection legislation through contractual clauses and monitoring compliance through inspections and audits.</p>
+<p>You hereby consent to a transfer of your personal data to third parties for the purpose of processing thereof as prescribed by this Privacy Policy under the agreements entered into by us with such third parties and only in accordance with these agreements.</p>
+<h3>Where we store your information</h3>
+<p>The personal data that we collect from you may be transferred to, and stored in, a country outside the European Economic Area (EEA), which may not have similarly strict data protection and privacy laws. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.</p>
+<p>When we transfer your personal data, we take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. We ensure that both we and our partners take adequate and appropriate technical, physical and organizational security measures to protect your data. We also put in place data transfer agreements and other contractual protections with these third parties, using European Commission approved terms.</p>
+<h3>How we protect your information</h3>
+<p>3Commas is committed to data security and protection of your personal data. All data is protected by security integrated safeguards appropriate to the level of sensitivity of the data through physical measures, such as secure areas, technical measures, such as encryption and secure servers, and organisational and administrative measures.</p>
+<p>3Commas only retains personal data for as long as it is necessary for the purposes for which it was collected. Except for cookies that are necessary for performance or functionality, all other cookies will expire after 10 years.</p>
+<p>Should 3Commas suffer a breach, it would implement its Incident and Breach Response Plan, including sending notifications to individuals and/or the data collector, as soon as feasible.</p>
+<h3>Your rights to rectify your information</h3>
+<p>You have certain data protection rights, including:</p>
+<ul class="discs-list">
+  <li>the right to access your personal data;</li>
+  <li>the right to restrict the use of your personal data;</li>
+  <li>the right to have incomplete or inaccurate personal data corrected;</li>
+  <li>the right to ask us to stop processing your personal data; and</li>
+  <li>the right to require us to erase your personal data in some limited circumstances.</li>
+</ul>
+<p>3Commas will respond to your requests within a reasonable time, within 30 days, unless there is a valid reason for not doing so, at which point you will be notified.</p>
+<p>If we receive a request for access or rectification, we may ask you to verify your identity before acting on the relevant request, to ensure your information is protected and kept secure. In any case, you are able to modify and update some of your personal information by logging into your account on our software.</p>
+<p>You hereby agree that the stopping of processing or erasing your personal data at your wish may affect the quality of service provision and may lead to termination of agreements between 3Commas and you.</p>
+<h3>How to protect your rights</h3>
+<p>Please contact us at&nbsp;<a href="mailto:legal@3commas.io">legal@3commas.io</a> if you have any questions about this Privacy Policy or about the personal data we hold about you. You can also contact the data protection authority or regulator in your country, or the location where the data protection issue arose, if you wish to make a complaint.</p>
+</div></section></main><div class="footer footer__02"><div class="container-fluid"><div class="footer__top row"><div class="col-lg-3 col-md-4 col-sm-12 col-xs-12"><div class="logo"><div></div><span>3Commas</span></div><ul class="social-links" role="menu"><li><a href="https://twitter.com/3commas_io" target="_blank"><i aria-hidden="true" class="fa fa-twitter"></i></a></li><li><a href="https://t.me/commaschat" target="_blank"><i aria-hidden="true" class="fa fa-telegram"></i></a></li><li><a href="https://itunes.apple.com/app/3commas-cryptocurrency-tool/id1370977008" target="_blank"><i aria-hidden="true" class="fa fa-apple"></i></a></li><li><a href="https://play.google.com/store/apps/details?id=com.castor.threecommas" target="_blank"><i aria-hidden="true" class="fa fa-android"></i></a></li><li><a href="https://www.facebook.com/3commas.io" target="_blank"><i aria-hidden="true" class="fa fa-facebook"></i></a></li><li><a href="https://www.youtube.com/channel/UCig8XY-gsthRgM-zyv1nx6Q" target="_blank"><i aria-hidden="true" class="fa fa-youtube"></i></a></li></ul></div><div class="col-lg-3 col-md-4 col-sm-12 col-xs-12"><h3>Company</h3><ul><li><a href="/tos">Terms</a></li><li><a href="/privacy">Privacy Policy</a></li><li><a href="/refund">Refund Policy</a></li><li><a href="/epa">Partner Agreement</a></li><li><a href="/referral">Referral Agreement</a></li></ul></div><div class="col-lg-3 col-md-4 col-sm-12 col-xs-12"><h3>Resources</h3><ul><li><a target="_blank" href="https://support.3commas.io/hc/en-us">Documentation</a></li><li><a target="_blank" href="https://3commas.io/blog">Blog</a></li></ul></div><div class="col-lg-3 col-lg-offset-0 col-md-4 col-md-offset-8 col-sm-12 col-xs-12"><h3>Trading Bots</h3><ul><li><a href="/trade/binance">Binance</a></li><li><a href="/trade/bittrex">Bittrex</a></li></ul></div></div><div class="footer__address-info"><a class="footer__address-pays" href="/users/subscriptions"></a><p>Some or all data provided by Nomics.com<br class="visible-xs"><a href="https://p.nomics.com/cryptocurrency-bitcoin-api">&nbsp; Cryptocurrency Market Data API</a></p><div class="footer__address-copyright">© 2017-2019 3commas.io</div></div></div></div></div></div><script src="/assets/landings/second_landing/app.min-732b1e253aafa23d1382057d1a2853e0d3610b3c2478d9cc5d3518a5f91de2ff.js"></script><script src="/packs/js/legal-e9c27045105ab9a0ab6b.js"></script><script>DesignLayout.init({debug: false});</script><style type="text/css">.style-block {
+  max-width: 2500px !important;
+}</style></body></html>
