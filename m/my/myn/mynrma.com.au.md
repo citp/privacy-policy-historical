@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213130342id_/https%3A//www.mynrma.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526144004id_/https%3A//www.mynrma.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The NRMA
 
