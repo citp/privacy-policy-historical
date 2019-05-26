@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808191309id_/https%3A//click2mail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2mail.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526182856id_/https%3A//click2mail.com/privacy-policy) for the most accurate reproduction.*
 
 # Click2Mail Privacy Policy
 
@@ -68,4 +68,4 @@ Click2Mail has further committed to refer unresolved privacy complaints under th
 
 Under certain limited conditions, it may be possible for EU or Swiss individuals to seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
-Last updated: July, 2017 
+Last updated: 5 December, 2018 
