@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124032004id_/http%3A//fitandfearless.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526195734id_/http%3A//fitandfearless.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fit & Fearless
 
