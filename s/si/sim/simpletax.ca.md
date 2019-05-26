@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906043434id_/https%3A//simpletax.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526085629id_/https%3A//simpletax.ca/privacy) for the most accurate reproduction.*
 
 # SimpleTax: Privacy Policy
 
@@ -36,7 +36,7 @@ Some of our analytics and advertising partners also use cookies. You can choose 
 
 ### Data Storage
 
-Your data resides only in Canada. We utilize Tier III/IV data centres located in Toronto, ON and Halifax, NS. Our hosting partners share our high standards for security and privacy.
+We use Canadian datacentres and your data resides only in Canada. Our hosting partners share our high standards for security and privacy.
 
 ### Disclosure of Information
 
@@ -44,7 +44,7 @@ We comply with the Canadian Personal Information Protection and Electronic Docum
 
 ### Credit Card Data
 
-If you choose to pay, your credit card details will be tokenized and sent to Stripe, our [secure payments provider](https://stripe.com/help/security). We are [PCI DSS](https://www.pcisecuritystandards.org/security_standards/) compliant and we do not store any credit card data on our servers.
+If you choose to pay, your payment will be processed by [Stripe](https://stripe.com/help/security) or [PayPal](https://www.paypal.com/re/webapps/mpp/paypal-safety-and-security) (depending on the payment method you selected). We are [PCI DSS](https://www.pcisecuritystandards.org/security_standards/) compliant and we do not store any credit card data on our servers.
 
 ### Diagnostic and Usage Data
 
@@ -54,4 +54,4 @@ We collect diagnostic and usage data to improve SimpleTax and ensure everything 
 
 Should you have any questions or concerns, or would simply like to better understand the way we do things at SimpleTax, please don't hesitate to [contact us](mailto:hello@simpletax.ca).
 
-We last updated our Privacy Policy on March 2, 2016.
+We last updated our Privacy Policy on February 6, 2019.
