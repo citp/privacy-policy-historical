@@ -1,59 +1,82 @@
-> *The following text is extracted and transformed from the giffords.org privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823222758id_/https%3A//giffords.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffords.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526131754id_/https%3A//giffords.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Giffords
 
-Giffords has created this privacy notice to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to Internet privacy.
+**Last Updated: August 27, 2018**
 
-Giffords may modify this policy from time to time so we encourage you to check this page when revisiting this website.
+This Privacy Policy explains how information about you is collected, used and disclosed by Giffords and Giffords PAC (collectively “Giffords”). This Privacy Policy applies to information we collect when you use the websites, mobile sites, and other online services that link to this Privacy Policy (collectively, the “Site”).
 
-#### How We Use Your Information
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Site to stay informed about our information practices and the ways you can help protect your privacy.
 
-Giffords is committed to protecting your privacy online.
+#### Information You Provide to Us
 
-When you register, contribute, sign up to volunteer, or take any other action on our site, we may ask you to give us contact information, including your name, address, telephone number and/or e-mail address. We may obtain information about you from outside sources and add it to or combine it with the information we collect through this site. We use this information to operate this site, send you news and information to you about Giffords & to solicit your participation in Giffords programs, events and activities, and obtain and confirm RSVP’s to events and programs. We use your e-mail address to send such information by e-mail and may use your telephone number to call you for these purposes.
+We collect information you provide directly to us. For example, we may collect information when you send us an email, subscribe to receive updates, make a donation, make a purchase, submit content, sign up to get involved, sign a petition, request information or otherwise communicate with us. The types of information we collect may include your name, mailing address, email address, phone number, credit card information and other information you choose to provide.
 
-We will never provide your e-mail address or any of your personal information to any other person or organization, for any purpose. If you decide to purchase tickets to an event or to make a contribution online, we may also ask for your credit card number and its expiration date. That information is used solely for processing your contribution; is not maintained by our organization; and is never disclosed to anyone, for any other purpose other than for processing your contribution, under any circumstances.
+In addition, where applicable, the Federal Election Commission (FEC) may require us to collect certain information from donors who donate more than $200 per calendar year, such as your name, mailing address, occupation, and employer.
 
-#### How We Protect Information You Provide
+#### Information We Collect Automatically When You Use the Site
 
-Giffords uses industry standard security measures to protect against the loss, misuse or alteration of the information under our control. Our server is located in a locked, secure environment. Permission to access your information is granted only to you and Giffords employees or contractors who need to know that information to provide services to you. Although we make good faith efforts to store information collected by this website in a secure operating environment, we cannot guarantee complete security.
+When you access or use our Site, we automatically collect information about you, including:
 
-#### Links to Other Websites
+  * **Log Information:** We log information about your use of the Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
+  * **Device Information:** We may collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Site and your experience, see which areas and features of our Site are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels” or “clear GIFs”). Web beacons are electronic images that may be used in our Site or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
-This privacy policy covers this website and its subdomains. These sites may link to third-party websites. We are not responsible for the content or privacy policies of these third-party sites. We encourage you to read the privacy policies and review the practices of all websites you visit.
 
-#### Other Disclosure of Your Information
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when we have a good-faith belief release is appropriate to comply with the law (for example, a lawful subpoena), to protect our rights or property, or to protect our donors, artists and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+#### Information We Collect From Other Sources
 
-#### SPECIAL NOTICE FOR PARENTS:
+We may also obtain information from other sources and combine that with information we collect through our Site. We may also use such information for list matching and other purposes.
 
-We want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their personal information while using the Internet. Giffords does not knowingly collect, use or distribute children’s personally identifiable information to any third parties. If you have any reservations, questions or concerns about your child’s access to this site or how information that your child provides is used by us, please contact us.
+We may use information about you for various purposes, including to:
 
-#### About Cookies, IP Addresses and Log File Data Cookies
+  * Provide, maintain and improve our Site and send you technical notices, updates, security alerts and support and administrative messages;
+  * Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts,
+  * Respond to your emails, submissions, comments, questions and requests, provide customer service, request feedback, and otherwise contact you about your use of the Site;
+  * Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
+  * Help connect you with other supporters, and to solicit volunteers, donations and support for Giffords and for candidates, issues and organizations that we support;
+  * Comply with applicable Federal elections laws and contact you if other information is necessary under such laws;
+  * Monitor and analyze trends, usage and activities in connection with our Site;
+  * Personalize and improve the Site and provide advertisements, content or features that match user profiles or interests or that are based on the information you provide or the actions you take; and
+  * Notify and contact contest or sweepstakes entrants; and
+  * Carry out any other purpose for which the information was collected.
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user.
 
-The Giffords website uses a cookie for measuring aggregate web statistics, including number of monthly visitors, number of repeat visitors, most popular webpages and other information. Giffords will also use cookies to facilitate your online visit by maintaining data that you provide for online activism activities so that you will not need to resubmit certain information.
 
-We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our Site. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to our supporters.
+Giffords is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Site or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-#### Advertising
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-We may place online advertising with third-party vendors, including Google, which will be shown on other Sites on the Internet. In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the Site. At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors. If you prefer to opt out of the use of these third-party cookies on the Site, you can do so by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/choices/).
+  * With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf;
+  * With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;
+  * To report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov);
+  * When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Giffords, its employees, volunteers, constituents or others;
+  * In connection with, or during negotiations of, any reorganization, formation of a successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Giffords; and
+  * With your consent or at your direction, including if we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information.
 
-#### Server Log Files
 
-We log standard technical information, such as your IP address and the kind of browser you use. We log this information for troubleshooting purposes and to track which pages people visit in order to improve the site. We do not use log files to track a particular individual’s use of the website.
 
-#### How to Unsubscribe or Opt Out
+We may also share aggregated or anonymized information that does not directly identify you.
 
-People who subscribe to e-mail lists via this website will receive periodic updates from Giffords by regular mail, fax and/or e-mail. You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message.
+If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
 
-#### How We Notify You About Privacy Policy Changes
+The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-We may revise and update this Privacy Policy if we change our practices, add new site features, or change existing site features. We will notify registered users by email and post notice to this site of any substantive changes to our Privacy Policy. Your use of this site following such changes constitutes your agreement with regard to information collected from you in the past and in the future.
+We may allow third parties to use cookies, web beacons, or other technologies and to otherwise collect information about you in order to provide analytics, remarketing, conversion tracking, custom audiences, measurement, and advertising services, including serving ads on other sites based on your visits to the Site and other sites across the Internet and across various mobile applications. These entities may collect or receive information about your use of the Site and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Giffords and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
 
-#### How To Contact Us
+For example, we may use Remarketing with Google Analytics and Facebook Custom Audiences, or other remarketing tools to advertise online. This enables third-party vendors, including Google and Facebook, to show our ads on sites across the Internet. Such third-party vendors, may use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on your past visits to our Site. For information on how you can opt out of Google’s use of cookies for interest-based ads please visit Google’s Ads Settings.
 
-Questions regarding this Privacy Policy should be emailed to info@giffords.org.
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). For information on how you can opt out of Google’s use of cookies for interest-based ads please visit [Google’s Ads Settings](https://www.google.com/settings/ads).
+
+Giffords takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+#### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
+
+#### Promotional Communications
+
+You may opt out of receiving text messages, updates and newsletters by following the instructions in those emails or text messages. If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions.
+
+If you have any questions about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
