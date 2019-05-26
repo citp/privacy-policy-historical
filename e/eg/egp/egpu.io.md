@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egpu.io privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023173009id_/https%3A//egpu.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egpu.io privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526190643id_/https%3A//egpu.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eGPU.io
 
