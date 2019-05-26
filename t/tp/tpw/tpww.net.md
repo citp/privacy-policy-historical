@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516222501id_/http%3A//www.tpww.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526204030id_/https%3A//www.tpww.net/more/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – TPWW
 
-TPWW does not require any personal information in order to access our website. In order to use certain features on our site, such as our forums or to be able to post comments, you will need to enter your e-mail address. TPWW will NEVER share this information or any other personal information entered with any third parties.
+TPWW does not require any personal information to access our website. To use our forums, you have an option to sign up for an account, which requires an email address. TPWW will NEVER share this information or any other personal information entered with any third parties.
 
-Our built-in stat trackers may automatically collect information such as browsers used or countries of users, but this information is only used internally for statistical purposes.
+**Stat Tracking**
 
-**Cookies**
+Our stat tracker ([Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en)) may collect information such as browsers used or countries of users, but this information is only used by us for statistical purposes.
 
-Our forums use cookies to store forum login information on your own computer so that you are not required to login each time you visit a page.
+**Advertising Cookies**
 
-Some of our advertisements may use cookies to serve ads based on your prior visits to our website. Users can opt out of some, but not all, of these cookies in one location at the [Network Advertising Initiative opt-out website](http://www.networkadvertising.org/managing/opt_out.asp).
-
-Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to our site and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google [advertising opt-out page](http://www.google.com/privacy_ads.html). 
+Some of our advertisers may use cookies to serve ads on our website. Google's use of the DART cookie enables it and its partners to serve ads to users based on their visits to other websites on the internet. Users can opt out of these cookies by visiting [Google's Content Network Privacy Policy](http://www.google.com/privacy/ads/) and the [Network Advertising Initiative opt-out website](http://www.networkadvertising.org/managing/opt_out.asp).
