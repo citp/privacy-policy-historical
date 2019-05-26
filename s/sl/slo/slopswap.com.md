@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125032150id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526082526id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer, Disclosure, Privacy Policy - Slop Swap Coupons
 
