@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cantstophiphop.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124182445id_/http%3A//cantstophiphop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cantstophiphop.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527005721id_/http%3A//cantstophiphop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CantStopHipHop
 
