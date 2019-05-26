@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopterrain.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109120752id_/https%3A//www.shopterrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopterrain.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526185809id_/https%3A//www.shopterrain.com/pages/privacy) for the most accurate reproduction.*
 
-# Help + Info Privacy + Security at Terrain
+# Privacy + Security - Help + Info - Terrain
 
 _**This Policy**_  
 Thank you for shopping at shopterrain.com. This privacy and security policy (“Policy”) outlines the information we collect about you, how we use the information and the choices you have to review, modify, and/or restrict our usage of this information. 
@@ -20,6 +20,8 @@ We offer those who sign up for our email list advanced notice of sales, new merc
 
 _**Secure Shopping**_  
 Sensitive personal information contained in orders placed on the Website is encrypted using 128-bit secure sockets layer (SSL) technology.* In order for SSL security to work, you must use an SSL enabled browser. *Secure Socket Layer (SSL) is a technology used by vendors to ensure the security of online business. It negotiates and employs the essential functions of mutual authentication, data encryption and data integrity for secure transactions.  
+
+
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect you Personal Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through the Website cannot be guaranteed; (c) any such information and data may be viewed or tampered with in transit by a third party; and (d) WHEN YOU TRANSFER ANY INFORMATION TO US, YOU DO SO AT YOUR OWN RISK. 
 
 If you still have concerns about ordering electronically, feel free to call 877-5TERRAIN and place your order over the phone. Have the 6-character style code (ex. M411111), size, and color ready for each item you wish to order.   
@@ -34,13 +36,13 @@ Shopterrain.com may periodically update this Privacy & Security Policy for new, 
 Feel free to contact us with any questions about our Privacy & Security Policy. 
 
 _**Email**_  
-service@shopterrain.com  
+[service@shopterrain.com](mailto:service@shopterrain.com)  
 Phone  
 877-5TERRAIN 
 
 _**Mail**_  
-terrain at Styer's  
-755 Brackbill Road  
-Gap, PA 17527  
+_terrain_  
 Attn: Customer Service  
-Policy effective date: October 8, 2012 
+4010 Rose Lane  
+Augusta, GA 30907  
+
