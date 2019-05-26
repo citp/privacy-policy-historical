@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigtextrailerworld.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724075304id_/https%3A//www.bigtextrailerworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtextrailerworld.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526102308id_/https%3A//www.bigtextrailerworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Trailer World: Privacy Policy
+# Big Tex Privacy Policy | Big Tex Trailer World
 
 This Privacy Policy describes the terms of our commitment to your privacy. 
 
 persons or parties covered 
 
-This Privacy Policy is intended to cover all visitors to any of Big Tex Trailers’ (BIGTEX) Web site, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons, who visit or view BIGTEX‘s Web sites, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as “Visitors” and are parties to this Privacy Policy. Subscribers to lists or newsletters are referred to herein as “Subscribers” and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. “affiliates”) promoted by this Web site are called “Members” herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this Web site, even at no cost, is called a “Customer” herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The Web site, its agents, owners, operators, and employees are referred to collectively herein as “Web site,” “Site,” and/or “Seller”. 
+This Privacy Policy is intended to cover all visitors to any of Big Tex Trailers' (BIGTEX) Web site, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons, who visit or view BIGTEX's Web sites, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this Web site are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this Web site, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The Web site, its agents, owners, operators, and employees are referred to collectively herein as "Web site," "Site," and/or "Seller". 
 
 persons excluded from this web site are still covered 
 
@@ -20,7 +20,7 @@ viewing and/or use and/or communication is construed as acceptance of the terms 
 
 Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the Web site. If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site. 
 
-a note to california residents (online privacy protection act of 2003 – oppa) 
+a note to california residents (online privacy protection act of 2003 - oppa) 
 
 It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this Web site (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the Web site to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the purchase agreement, you have no right to view or receive any information about our database. In the event that the Web site, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the Web site in insure that the Web site is releasing information to the correct party. Other provisions of the OPPA may exempt this Web site from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the Web site. By interacting with the Web site you agree to the terms and conditions of the Privacy Policy. By using the Web site or purchasing a product through this Web site, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein. 
 
@@ -28,7 +28,7 @@ about the personal information this web site collects and how it is used
 
 This Web site routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as: 
 
-visitor, subscriber, member, or customer information obtained from ‘registration’ 
+visitor, subscriber, member, or customer information obtained from 'registration' 
 
 Registration means that the Visitor, Subscriber, Member, or Customer takes active, positive steps to communicate information to this Web site. This can include pages or pop-ups where you register for a newsletter or subscribe to a mailing list; your participation in visitor surveys; it can include requesting information from the Web site via email, mail, or courier; joining an affiliate program or other membership organization, paid or unpaid; ordering a product. 
 
@@ -40,7 +40,7 @@ Online ordering via SSL-encrypted communication provided by shopping cart servic
 
 visitor email inquiries 
 
-Website visitors who wish to communicate with the Web site do so under two conditions: they give their permission for contact by the Web site; and they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the Web site’s general solicitation database. 
+Website visitors who wish to communicate with the Web site do so under two conditions: they give their permission for contact by the Web site; and they are subject to any 'submission' provisions of the Terms of Use, Purchase Agreement or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the Web site's general solicitation database. 
 
 customer email or testimonials 
 
@@ -86,7 +86,7 @@ By providing to this Web site information that forms the basis of communication 
 
 data security 
 
-This Web site takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as “hackers” and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you. 
+This Web site takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers" and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you. 
 
 questions, comments, or report of incidents 
 
@@ -106,11 +106,11 @@ This Privacy Policy is used under license. The copyright is owned by Big Tex Tra
 
 disputes 
 
-As part of the consideration that the Web site requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues. 
+As part of the consideration that the Web site requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues. 
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Ave. Floor 10, New York, NY, 10017-4605. Hearing will take place in the city or county of the Seller. 
 
-In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; and the arbitrator’s decision will final and binding with limited rights of appeal. 
+In no case shall the Visitor have the right to go to court or have a jury trial. Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; and the arbitrator's decision will final and binding with limited rights of appeal. 
 
 The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses. 
 
@@ -120,7 +120,7 @@ If any matter concerning this purchase shall be brought before a court of law, p
 
 **Big Tex Trailers- 950 I-30 East, Mt. Pleasant, TX 75455**
 
-In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller’s address. 
+In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
 
 applicable law 
 
