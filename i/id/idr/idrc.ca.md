@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrc.ca privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912200203id_/https%3A//www.idrc.ca/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrc.ca privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526234355id_/https%3A//www.idrc.ca/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | IDRC - International Development Research Centre
 
@@ -51,6 +51,8 @@ The data disclosed to Google will be transmitted outside of Canada to other juri
 
 The IP address, and any other personal information including, but not limited to, information in digital markers used in relation to Web analytics, is retained by IDRC for a maximum period of 18 months.
 
-Specific personal information such as a user’s name, phone number or e-mail address is only gathered and retained where users provide such information voluntarily when using a functionality on this website. In such cases, the information collected will be used only for the intended purpose (for example, subscribing to the IDRC Bulletin). When you subscribe to the IDRC Bulletin, your name and e-mail address will be collected and used to send you a regular newsletter.  You can unsubscribe at any time.  
+## Newsletters and email alerts
+
+Our newsletters (the IDRC Bulletin, the Funding Alert, and circulars from our Regional Offices use [ **Mailchimp**](https://mailchimp.com/), a third-party application. Sign-up is voluntary and subject to the [ **Terms of Use**](https://mailchimp.com/legal/terms/) for the Mailchimp platform. When you register, your email address is maintained. No other personal information is collected, and your information is only used for the intended purpose of sending you a regular newsletter. You can unsubscribe at any time. 
 
 Please note that this website provides links to other sites that are not covered by this Privacy Notice.
