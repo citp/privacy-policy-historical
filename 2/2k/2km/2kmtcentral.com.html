@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the 2kmtcentral.com privacy policy that was archived on 2018-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180701140736id_/https%3A//2kmtcentral.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2kmtcentral.com privacy policy that was archived on 2019-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190527001655id_/https%3A//2kmtcentral.com/pages/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 	<meta charset="utf-8">
 			<meta name="viewport" content="width=1200">
-		<meta name="keywords" content="nba2k16,nba2k17,nba2k18,myteam,2k,nba,2kmtcentral">
+		<meta name="keywords" content="nba2k19,2k19,nba2k18,2k18,nba2k17,2k17,nba2k16,2k16,myteam,2k,nba,2kmtcentral">
 	<title>Privacy Policy - 2KMTCentral</title>
-			<meta name="description" content="NBA 2K18 MyTEAM player ratings database and online community - 2KMTCentral">
+			<meta name="description" content="NBA 2K19 MyTEAM player ratings database and online community - 2KMTCentral">
 		<meta name="theme-color" content="#222222">
-			<link rel="stylesheet" href="//2kmtcentral.com/css/compiled/cache_ed947e37d48a718fd6058b1561faca1326584298.css" type="text/css">
+			<link rel="stylesheet" href="//2kmtcentral.com/css/compiled/cache_318d6b3b588ec85e280dba4e2efa42fc2d41e41d.css" type="text/css">
 		<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
 	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
 	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
@@ -28,7 +28,7 @@
 			enable_page_level_ads: true
 		});
 	</script>
-		<script type="text/javascript" src="//2kmtcentral.com/js/default.min.js/cache-1529678772/default.min.js" defer=""></script>
+		<script type="text/javascript" src="//2kmtcentral.com/js/default.min.js/cache-1536579938/default.min.js" defer=""></script>
 	<script type="text/x-defer-javascript" id="script-messaging">//2kmtcentral.com/js/messaging.min.js/cache-1527811909/messaging.min.js</script>
 	<script type="text/x-defer-javascript" id="script-socket-io">https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js</script>
 			<!-- EU Cookies -->
@@ -53,11 +53,16 @@
 <body>
 	<script id="player-search-autocomplete-template" type="text/x-handlebars-template">
 		{{#if object_player}}
-		<div class="player" onclick="window.document.location=\'http://2kmtcentral.com/{{year}}/players/{{id}}/{{slug name}}\'">
+		<div class="player" onclick="window.document.location=\'https://2kmtcentral.com/{{year}}/players/{{id}}/{{slug name}}\'">
 			<img src="{{image_thumb}}" class="thumb">
 			<div class="pull-left">
-				<a class="name" href="http://2kmtcentral.com/{{year}}/players/{{id}}/{{slug name}}"><strong>{{name}}</strong> {{edition}}</a><br>
-				<a class="collection">{{collection_category_name collection_category}} / {{collection_name}}</a>
+				<a class="name" href="https://2kmtcentral.com/{{year}}/players/{{id}}/{{slug name}}"><strong>{{name}}</strong> {{edition}}</a><br>
+				<a class="collection">
+					{{#if (lte year 18)}}
+					{{collection_category_name collection_category}}
+					{{else}}
+					{{collection_category_title}}
+					{{/if}} / {{collection_name}}</a>
 			</div>
 			<span class="attribute-box overall {{color}} pull-right">{{attribute_overall}}</span>
 			<span class="position pull-right"><div><strong>{{#if position}}{{position_name position}}{{/if}}{{#if position_primary}}{{position_name position_primary}}{{/if}}</strong>{{#if position_secondary}}<br>{{position_name position_secondary}}{{/if}}</div></span>
@@ -66,19 +71,25 @@
 		</div>
 		{{/if}}
 		{{#if object_collection}}
-		<div class="collection" onclick="window.document.location=\'http://2kmtcentral.com/{{year}}/collections/{{id}}/{{slug name}}\'">
+		<div class="collection" onclick="window.document.location=\'https://2kmtcentral.com/{{year}}/collections/{{id}}/{{slug name}}\'">
 			{{#if (lte year 17)}}
 				{{#if has_logo}}
-				<img src="http://2kmtcentral.com/img/collections/{{year}}/{{logo}}.png" class="thumb">
+				<img src="https://2kmtcentral.com/img/collections/{{year}}/{{logo}}.png" class="thumb">
 				{{else}}
-				<img src="http://2kmtcentral.com/img/collections/{{year}}/default.png" class="thumb">
+				<img src="https://2kmtcentral.com/img/collections/{{year}}/default.png" class="thumb">
 				{{/if}}
 			{{else}}
-				<img src="http://2kmtcentral.com/img/collections/{{year}}/{{id}}.png" class="thumb">
+				<img src="https://2kmtcentral.com/img/collections/{{year}}/{{id}}.png" class="thumb">
 			{{/if}}
 			<div class="pull-left">
-				<a class="name" href="http://2kmtcentral.com/{{year}}/collections/{{id}}/{{slug name}}"><strong>{{name}}</strong></a><br>
-				<a class="collection">{{collection_category_name category}}</a>
+				<a class="name" href="https://2kmtcentral.com/{{year}}/collections/{{id}}/{{slug name}}"><strong>{{name}}</strong></a><br>
+				<a class="collection">
+					{{#if (lte year 18)}}
+						{{collection_category_name category}}
+					{{else}}
+						{{collection_category_title}}
+					{{/if}}
+				</a>
 			</div>
 			<span class="pull-right">
 				{{#each colors}}
@@ -95,56 +106,58 @@
 	<div id="navmenu" class="navmenu navmenu-inverse navmenu-fixed-left offcanvas">
 		<ul class="nav navmenu-nav">
 			<li class="dropdown">
-				<a href="http://2kmtcentral.com/18/players" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Players <span class="caret"></span></a>
+				<a href="https://2kmtcentral.com/19/players" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Players <span class="caret"></span></a>
 				<ul class="dropdown-menu navmenu-nav" role="menu">
-					<li><a href="http://2kmtcentral.com/18/players">All Players</a></li>
+					<li><a href="https://2kmtcentral.com/19/players">All Players</a></li>
 					<li class="divider"></li>
-					<li><a href="http://2kmtcentral.com/18/players/sort/latest">New Players</a></li>
-					<li><a href="http://2kmtcentral.com/18/players/duo/1">Dynamic Duos</a></li>
-					<li><a href="http://2kmtcentral.com/18/players/delta">Roster Updates</a></li>
+					<li><a href="https://2kmtcentral.com/19/players/sort/latest">New Players</a></li>
+					<li><a href="https://2kmtcentral.com/19/players/duo/1">Dynamic Duos</a></li>
+					<li><a href="https://2kmtcentral.com/19/players/delta">Roster Updates</a></li>
+					<li><a href="https://2kmtcentral.com/19/players/random">Random Player</a></li>
 					<li class="divider"></li>
-					<li><a href="http://2kmtcentral.com/18/players/compare">Compare Players</a></li>
-					<li><a href="http://2kmtcentral.com/18/reviews">Player Reviews</a></li>
-									</ul>
+					<li><a href="https://2kmtcentral.com/19/players/compare">Compare Players</a></li>
+					<li><a href="https://2kmtcentral.com/19/reviews">Player Reviews</a></li>
+														</ul>
 			</li>
 			<li>
-				<a href="http://2kmtcentral.com/18/collections">Collections</a>
+				<a href="https://2kmtcentral.com/19/collections">Collections</a>
 			</li>
 			<li class="dropdown">
-				<a href="http://2kmtcentral.com/18/lineups" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Lineups <span class="caret"></span></a>
+				<a href="https://2kmtcentral.com/19/lineups" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Lineups <span class="caret"></span></a>
 				<ul class="dropdown-menu navmenu-nav" role="menu">
-					<li><a href="http://2kmtcentral.com/18/lineups">All Lineups</a></li>
+					<li><a href="https://2kmtcentral.com/19/lineups">All Lineups</a></li>
 										<li class="divider"></li>
-					<li><a href="http://2kmtcentral.com/18/lineups/create">Create Lineup</a></li>
+					<li><a href="https://2kmtcentral.com/19/lineups/create">Create Lineup</a></li>
 				</ul>
 			</li>
 			<li class="dropdown">
-				<a href="http://2kmtcentral.com/18/packs" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Packs <span class="caret"></span></a>
+				<a href="https://2kmtcentral.com/19/packs" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Packs <span class="caret"></span></a>
 				<ul class="dropdown-menu navmenu-nav" role="menu">
-					<li><a href="http://2kmtcentral.com/18/packs">All Packs</a></li>
+					<li><a href="https://2kmtcentral.com/19/packs">All Packs</a></li>
 					<li class="divider"></li>
-										<li><a href="http://2kmtcentral.com/18/packs/list">Latest Pulls</a></li>
+										<li><a href="https://2kmtcentral.com/19/packs/list">Latest Pulls</a></li>
 										<li class="divider"></li>
-					<li><a href="http://2kmtcentral.com/18/drafts/new">New Draft</a></li>
-					<li><a href="http://2kmtcentral.com/18/drafts">Latest Drafts</a></li>
-					<li><a href="http://2kmtcentral.com/18/drafts/sort/score">Best Drafts</a></li>
+					<li><a href="https://2kmtcentral.com/19/drafts/new">New Draft</a></li>
+					<li><a href="https://2kmtcentral.com/19/drafts">Latest Drafts</a></li>
+					<li><a href="https://2kmtcentral.com/19/drafts/sort/score">Best Drafts</a></li>
 									</ul>
 			</li>
 						<li>
-				<a href="http://2kmtcentral.com/forums">Forums</a>
+				<a href="https://2kmtcentral.com/forums">Forums</a>
 			</li>
 						<li>
-				<a href="http://2kmtcentral.com/18/cards/create">Cards</a>
+				<a href="https://2kmtcentral.com/19/cards/create">Cards</a>
 			</li>
 			<li class="dropdown">
-				<a href="http://2kmtcentral.com/cards" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cards  <span class="caret"></span></a>
+				<a href="https://2kmtcentral.com/cards" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cards  <span class="caret"></span></a>
 				<ul class="dropdown-menu navmenu-nav" role="menu">
-					<li><a href="http://2kmtcentral.com/cards">All Created Cards</a></li>
+					<li><a href="https://2kmtcentral.com/cards">All Created Cards</a></li>
 										<li class="divider"></li>
-					<li><a href="http://2kmtcentral.com/18/cards/create">Create Custom 2K18 Card</a></li>
-					<li><a href="http://2kmtcentral.com/17/cards/create">Create Custom 2K17 Card</a></li>
-					<li><a href="http://2kmtcentral.com/16/cards/create">Create Custom 2K16 Card</a></li>
-				</ul>
+											<li><a href="https://2kmtcentral.com/19/cards/create">Create Custom 2K19 Card</a></li>
+											<li><a href="https://2kmtcentral.com/18/cards/create">Create Custom 2K18 Card</a></li>
+											<li><a href="https://2kmtcentral.com/17/cards/create">Create Custom 2K17 Card</a></li>
+											<li><a href="https://2kmtcentral.com/16/cards/create">Create Custom 2K16 Card</a></li>
+									</ul>
 			</li>
 							<br>
 				<ul class="nav navmenu-nav">
@@ -160,7 +173,7 @@
 								<div class="form-group">
 									<label for="password">Password</label>
 									<div class="extra pull-right">
-										<a href="http://2kmtcentral.com/auth/forgot" tabindex="-1">Forgot password</a>
+										<a href="https://2kmtcentral.com/auth/forgot" tabindex="-1">Forgot password</a>
 									</div>
 									<input type="password" name="password" class="form-control" id="password" tabindex="2">
 								</div>
@@ -188,67 +201,74 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 									</button>
-				<a class="navbar-brand" href="http://2kmtcentral.com/">
+				<a class="navbar-brand" href="https://2kmtcentral.com/">
 					<div class="logo"></div>
 				</a>
 			</div>
 			<div class="navbar-form navbar-left" role="search">
 				<div id="player-search" class="player-search form-group">
-					<input type="text" class="form-control typeahead" tabindex="51" data-year="18" data-collections="true" placeholder="Search players/collections..." pattern="[a-zA-Z ]+">
+					<input type="text" class="form-control typeahead" tabindex="51" data-year="19" data-collections="true" placeholder="Search players/collections..." pattern="[a-zA-Z ]+">
 				</div>
 			</div>
 			<ul class="nav navbar-nav hidden-xs">
 				<li class="dropdown">
-					<a href="http://2kmtcentral.com/18/players" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Players</a>
+					<a href="https://2kmtcentral.com/19/players" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Players</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://2kmtcentral.com/18/players">All Players</a></li>
+						<li><a href="https://2kmtcentral.com/19/players">All Players</a></li>
 						<li class="divider"></li>
-						<li><a href="http://2kmtcentral.com/18/players/sort/latest">New Players</a></li>
-						<li><a href="http://2kmtcentral.com/18/players/duo/1">Dynamic Duos</a></li>
-						<li><a href="http://2kmtcentral.com/18/players/delta"><strong>Roster Updates</strong></a></li>
+						<li><a href="https://2kmtcentral.com/19/players/sort/latest">New Players</a></li>
+						<li><a href="https://2kmtcentral.com/19/players/duo/1">Dynamic Duos</a></li>
+						<li><a href="https://2kmtcentral.com/19/players/delta"><strong>Roster Updates</strong></a></li>
+						<li><a href="https://2kmtcentral.com/19/players/random">Random Player</a></li>
 						<li class="divider"></li>
-						<li><a href="http://2kmtcentral.com/18/players/compare">Compare Players</a></li>
-						<li><a href="http://2kmtcentral.com/18/reviews">Player Reviews</a></li>
-											</ul>
+						<li><a href="https://2kmtcentral.com/19/players/compare">Compare Players</a></li>
+						<li><a href="https://2kmtcentral.com/19/reviews">Player Reviews</a></li>
+																	</ul>
 				</li>
 				<li>
-					<a href="http://2kmtcentral.com/18/collections">Collections</a>
+					<a href="https://2kmtcentral.com/19/collections">Collections</a>
 				</li>
 				<li class="dropdown">
-					<a href="http://2kmtcentral.com/18/lineups" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Lineups</a>
+					<a href="https://2kmtcentral.com/19/lineups" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Lineups</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://2kmtcentral.com/18/lineups">All Lineups</a></li>
+						<li><a href="https://2kmtcentral.com/19/lineups">All Lineups</a></li>
 												<li class="divider"></li>
-						<li><a href="http://2kmtcentral.com/18/lineups/create">Create Lineup</a></li>
+						<li><a href="https://2kmtcentral.com/19/lineups/create">Create Lineup</a></li>
 					</ul>
 				</li>
 								<li>
-					<a href="http://2kmtcentral.com/forums">Forums</a>
+					<a href="https://2kmtcentral.com/forums">Forums</a>
 				</li>
 								<li class="dropdown">
-					<a href="http://2kmtcentral.com/18/packs" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Packs</a>
+					<a href="https://2kmtcentral.com/19/packs" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Packs</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://2kmtcentral.com/18/packs">All Packs</a></li>
+						<li><a href="https://2kmtcentral.com/19/packs">All Packs</a></li>
 						<li class="divider"></li>
-												<li><a href="http://2kmtcentral.com/18/packs/list">Latest Pulls</a></li>
+												<li><a href="https://2kmtcentral.com/19/packs/list">Latest Pulls</a></li>
 												<li class="divider"></li>
-						<li><a href="http://2kmtcentral.com/18/drafts/new">New Draft</a></li>
-						<li><a href="http://2kmtcentral.com/18/drafts">Latest Drafts</a></li>
-						<li><a href="http://2kmtcentral.com/18/drafts/sort/score">Best Drafts</a></li>
+						<li><a href="https://2kmtcentral.com/19/drafts/new">New Draft</a></li>
+						<li><a href="https://2kmtcentral.com/19/drafts">Latest Drafts</a></li>
+						<li><a href="https://2kmtcentral.com/19/drafts/sort/score">Best Drafts</a></li>
 											</ul>
 				</li>
 				<li class="dropdown">
-					<a href="http://2kmtcentral.com/cards" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Cards</a>
+					<a href="https://2kmtcentral.com/cards" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-expanded="false">Cards</a>
 					<ul class="dropdown-menu" role="menu">
-						<li><a href="http://2kmtcentral.com/cards">All Created Cards</a></li>
-												<li class="divider"></li>
-						<li><a href="http://2kmtcentral.com/18/cards/create">Create Custom 2K18 Card</a></li>
-						<li><a href="http://2kmtcentral.com/17/cards/create">Create Custom 2K17 Card</a></li>
-						<li><a href="http://2kmtcentral.com/16/cards/create">Create Custom 2K16 Card</a></li>
-					</ul>
+						<li><a href="https://2kmtcentral.com/cards">All Created Cards</a></li>
+												<li><a href="https://2kmtcentral.com/cards/random">Random Card</a></li>
+						<li class="divider"></li>
+													<li><a href="https://2kmtcentral.com/19/cards/create">Create Custom 2K19 Card</a></li>
+													<li><a href="https://2kmtcentral.com/18/cards/create">Create Custom 2K18 Card</a></li>
+													<li><a href="https://2kmtcentral.com/17/cards/create">Create Custom 2K17 Card</a></li>
+													<li><a href="https://2kmtcentral.com/16/cards/create">Create Custom 2K16 Card</a></li>
+											</ul>
 				</li>
-								<li class="navbar-social-button navbar-like-button large"><a target="_blank" title="Like 2KMTCentral on Facebook" href="https://facebook.com/2kmtcentral"><span class="icon"></span><span class="text">Like</span></a>
-							</li></ul>
+												<li class="promotion hidden-sm hidden-xs">
+					<a href="https://geo.itunes.apple.com/us/app/2kmtcentral/id1088071776?mt=8">
+						<img src="//2kmtcentral.com/img/itunes_badge.svg" style="width: 108px; height: 32px; margin: -6px 0;">
+					</a>
+				</li>
+											</ul>
 							<ul class="nav navbar-nav navbar-right hidden-xs">
 										<li class="dropdown login">
 						<a href="https://2kmtcentral.com/auth/login" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sign In<span class="caret"></span></a>
@@ -262,7 +282,7 @@
 								<div class="form-group">
 									<label for="password">Password</label>
 									<div class="extra pull-right">
-										<a href="http://2kmtcentral.com/auth/forgot" tabindex="-1">Forgot password</a>
+										<a href="https://2kmtcentral.com/auth/forgot" tabindex="-1">Forgot password</a>
 									</div>
 									<input type="password" name="password" class="form-control" id="password" tabindex="2">
 								</div>
@@ -343,25 +363,25 @@
 						<div class="col-xs-6 col-sm-3 text-center">
 							<h3>Site</h3>
 							<ul class="list-unstyled">
-								<li><a href="http://2kmtcentral.com/pages/about">About</a></li>
-								<li><a href="http://2kmtcentral.com/pages/credits">Credits</a></li>
+								<li><a href="https://2kmtcentral.com/pages/about">About</a></li>
+								<li><a href="https://2kmtcentral.com/pages/credits">Credits</a></li>
 								<li><a href="mailto:contact@2kmtcentral.com">Contact</a></li>
 							</ul>
 						</div>
 						<div class="col-xs-6 col-sm-3 text-center">
 							<h3>Content</h3>
 							<ul class="list-unstyled">
-								<li><a href="http://2kmtcentral.com/users">Users</a></li>
-								<li><a href="http://2kmtcentral.com/comments">Comments</a></li>
-								<li><a href="http://2kmtcentral.com/reports">Reports</a></li>
+								<li><a href="https://2kmtcentral.com/users">Users</a></li>
+								<li><a href="https://2kmtcentral.com/comments">Comments</a></li>
+								<li><a href="https://2kmtcentral.com/reports">Reports</a></li>
 							</ul>
 						</div>
 						<div class="col-xs-6 col-sm-3 text-center">
 							<h3>Players</h3>
 							<ul class="list-unstyled">
-								<li><a href="http://2kmtcentral.com/17/players">2K17</a></li>
-								<li><a href="http://2kmtcentral.com/16/players">2K16</a></li>
-								<li><a href="http://2kmtcentral.com/15/players">2K15</a></li>
+								<li><a href="https://2kmtcentral.com/18/players">2K18</a></li>
+								<li><a href="https://2kmtcentral.com/17/players">2K17</a></li>
+								<li><a href="https://2kmtcentral.com/16/players">2K16</a></li>
 							</ul>
 						</div>
 					</div>
@@ -376,7 +396,7 @@
 		<div class="bottom">
 			<div class="container">
 				<div class="row">
-					<div class="fineprint">© Blok21 Software Ltd 2018. NBA 2K series, all player cards and other game assets are property of 2K Sports. <a href="http://2kmtcentral.com/pages/terms">Terms</a> <a href="http://2kmtcentral.com/pages/privacy">Privacy</a>																	</div>
+					<div class="fineprint">© Blok21 Software Ltd 2019. NBA 2K series, all player cards and other game assets are property of 2K Sports.  <a href="https://2kmtcentral.com/pages/terms">Terms</a> <a href="https://2kmtcentral.com/pages/privacy">Privacy</a>																	</div>
 				</div>
 			</div>
 		</div>
@@ -387,8 +407,8 @@
 				<strong>Notifications</strong>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
 				<ul class="list-inline pull-right">
-					<li class="mark-all-read"><a href="http://2kmtcentral.com/notifications/mark/all"><span class="glyphicon glyphicon-check"></span> Mark all as read</a></li>
-					<!--<li><a href="http://2kmtcentral.com/notifications/settings"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>-->
+					<li class="mark-all-read"><a href="https://2kmtcentral.com/notifications/mark/all"><span class="glyphicon glyphicon-check"></span> Mark all as read</a></li>
+					<!--<li><a href="https://2kmtcentral.com/notifications/settings"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>-->
 				</ul>
 			</div>
 			<div class="notifications-tabs dialog-tabs btn-group btn-group-justified">
@@ -439,9 +459,9 @@
 					<strong>Messages</strong>
 					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
 					<ul class="list-inline pull-right">
-						<li class="mark-all-read"><a href="http://2kmtcentral.com/messages/mark/all"><span class="glyphicon glyphicon-check"></span> Mark all <span class="hidden-xs">as</span> read</a></li>
+						<li class="mark-all-read"><a href="https://2kmtcentral.com/messages/mark/all"><span class="glyphicon glyphicon-check"></span> Mark all <span class="hidden-xs">as</span> read</a></li>
 						<li class="compose"><a href="javascript:void(0);"><span class="glyphicon glyphicon-pencil"></span> New<span class="hidden-xs"> message</span></a></li>
-						<!--<li><a href="http://2kmtcentral.com/notifications/settings"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>-->
+						<!--<li><a href="https://2kmtcentral.com/notifications/settings"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>-->
 					</ul>
 				</div>
 				<div class="messages-header-conversation" style="display: none;">
