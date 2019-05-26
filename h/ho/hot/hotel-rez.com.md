@@ -1,0 +1,97 @@
+> *The following text is extracted and transformed from the hotel-rez.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526161013id_/http%3A//www.hotel-rez.com/privacypolicy.html) for the most accurate reproduction.*
+
+# HOTEL-REZ.COM Your hotel reservation network - Privacy policy.
+
+## Privacy Policy:
+
+We respect your privacy. We will not provide your personal information to third parties for marketing purposes without your permission.
+
+We secure your data. We carefully monitor for intrusion attempts 24 hours a day, 7 days a week; deploy encryption technology, firewalls and advanced monitoring systems for your protection.
+
+Your privacy is very important to us. We do not sell, rent, loan or disclose your personal information collected at this site to third parties for their marketing purposes without your explicit consent via email. Please read this privacy policy to learn more about the ways in which we collect, use and protect your personal information.
+
+The privacy practices of this policy applies to our services available under the domain Hotel-rez.com (the "Site") operated in partnership with Getaroom.com, Consumer Club, Inc. (collectively "Getaroom", "We", "Us", or "Our"). By visiting the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our Site.
+
+This Privacy Policy describes the information we collect from you, as part of the normal operation of our services, and what may happen to that information. Because we believe you should know as much as possible about Getaroom's practices, we have prepared a detailed policy so that you can make informed decisions.
+
+**Important Information.**
+
+If you have questions or concerns regarding this policy, you should first contact Customer Service at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or call Customer Service at 800-HOTELS-8 (800-468-3578). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider at <https://feedback-form.truste.com/watchdog/request.>
+
+**Information We Collect.**
+
+We collect two kinds of information about our online visitors, personal and non personal information. This personal information: User name, email address, and physical address, including City and State. Non personal information: shopping preferences, product searches, merchant searches, and general demographics. Our primary purpose in collecting personal and non personal information is _to provide you with a safe, smooth, efficient, and customized experience_. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect information about you that we consider necessary for achieving this purpose.
+
+In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature.
+
+Technologies such as: cookies, beacons, tags and scripts are used by Hotel-rez.com, or analytics or online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies for current and historical search information, authentication and affiliate source. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited or not available.
+
+We also gather certain information automatically and store it in log files. This information includes the Internet Protocol addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/ time stamp, and click stream data. We may combine this automatically collected log information with other information we collect about you. We use this information to review trends, to administer our website, to track users' movements around the web site and to gather demographic information about our customers. Most other web sites also gather this same information.
+
+We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
+If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies or pixel tags to help us make those communications more useful to you.
+
+We also get information from your transactions with us such as account activity and your purchase information. Our partner - Getaroom.com uses information from third parties, including public information, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accurate data and prevent fraud, for example), or from other sources. Getaroom uses this information to develop, offer and deliver our products and services, to process transactions in your accounts, and to obey legal and regulatory requirements. We limit the collection and use of customer information to the minimum we require to deliver great service to our customers and to run our business.
+
+If you provide us a review of your trip, you authorize us to publish it on all our Platforms under the screen name you provided. You also authorize us to aggregate it with other reviews.
+
+**Our Use of Your Information.**
+
+We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to measure interest in the third-party products and services we offer; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions of the Site's use. At times, we may look across multiple users to identify problems and in particular we may examine your personal information to identify users using multiple Customer IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
+
+You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
+
+**Our Disclosure of Your Information.**
+
+We do not share your personal information with other companies. However, the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide you with the ability to order the third-party products and services offered through the Site.
+
+We collect booking information via our forms that include the collection of personal and financial information. Once the user submits the info, payment is made and verified, the booking is confirmed and removed from our inventory and passed on to our reservation partner Getaroom.com to proceed with booking your travel. The booking info then gets passed along to the third party for fulfillment. Getaroom.com collects payment and verifies credit card info to complete the booking, but we act only as the booking agent. The third party (such as hotels) will receive the confirmation request from the guest for the reservation and then their privacy policy would be in effect. We do not have any control over the third party use of information or their privacy policies. Hotel-rez.com and [www.getaroom.com](http://www.getaroom.com/) are disclosing this information to users so that they have the option to not do business on the Site. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to book with such lodging establishments. We may occasionally share information with our service providers that is in aggregate form. This information does not contain any personal information as it is in aggregate form and used to develop products that may be of interest to our customers. These companies that act as our service providers are authorized to use your personal information only as necessary to provide these services to us.
+
+**Legal Requests.** Getaroom cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and our other customers from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, they can (and you authorize them to) disclose your name, city, state, telephone number, email address and Customer ID history without a subpoena. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, Hotel-rez.com and Getaroom will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or report suspected illegal activity. If Consumer Club, Inc is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
+
+Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+**Testimonials.**
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@Hotel-rez.com](mailto:info@Hotel-rez.com).
+
+**Accessing, Reviewing and Changing Your Personal Information.**
+
+Upon your request, we will deactivate your contact information and all other information from our active databases. To make this request, email [info@Hotel-rez.com](mailto:info@Hotel-rez.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable time frame. Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Other Information Collectors.**
+
+Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. This Site contains links to other web sites. Please be aware that Hotel-rez.com and Consumer Club, Inc. are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site to read the privacy policy of each and every website that collects personal information. This privacy policy applies solely to information collected by this website. To the extent that you disclose your information to other parties, whether they are third-party providers of products or services, different rules may apply to their use or disclosure of the information you disclose to them. Since Hotel-rez.com and Getaroom does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
+
+**Social Media Widgets.**
+
+Our Web site includes Social Media Features, such as the Google+ [and Widgets, such as the Share this button or interactive mini-programs that run on our site], Pinterest and Facebook. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**A Special Note About Children.**
+
+Hotel-rez.com and Getaroom adhere to the federal privacy protection standards articulated in the Children's Online Privacy Protection Act (COPPA). Hotel-rez.com and Getaroom take children's privacy seriously. Hotel-rez.com and Getaroom do not seek to collect personal information about children through the Site. Hotel-rez.com and Getaroom do not condition a child's participation in an activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If we become aware that a person submitting personal information to us through any part of our Site is a child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. Since we do not seek to collect any personal information about children, and we delete any information collected inadvertently as soon as we discover that a child has submitted it, we typically retain no information about children that could be reviewed or deleted. If a parent requests review or deletion of information about their child before we have discovered and deleted the information, then we will of course honor that request.
+
+**Security.**
+
+Your information is stored on Hotel-rez.com and Getaroom's servers located in the United States and Ireland. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including monitoring for intrusion attempts, encryption technology, "firewalls", Secure Socket Layers and security audits and inspections. We treat data as an asset that must be protected against loss and unauthorized access. When making a booking, your information is stored behind a secure server via multiple encryption methods as well as Secure Socket Layer (SSL) on the site. Information stored on the server is only available to a select number of people at Hotel-rez.com and Getaroom that have access to these records. We encourage the use of encryption to communicate with Hotel-rez.com and Getaroom. The privacy of communication over the Internet cannot be guaranteed because the Internet is not a secure medium. Hotel-rez.com and Getaroom do not assume any responsibility for any harm, loss or damage you may experience or incur by the sending of personal or confidential information over the Internet by or to Hotel-rez.com and Getaroom. If you have any questions about the security at our website, you can send an e-mail to [info@Hotel-rez.com](mailto:info@Hotel-rez.com).
+
+Please remember that you also play a valuable part in data security. You should never share your Getaroom Customer ID or password with anyone. If you feel any of your information has been compromised, you should change it immediately. After you have finished using our Site, you should log out of your Getaroom account and exit your browser so that no unauthorized persons can use our Site under your name and account information.
+
+**Notification of Changes.**
+
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. You are responsible for checking this Privacy Policy when you visit the Site to review the current policy. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. Hotel-rez.com and Getaroom will use the information collected on the Site in accordance with the Privacy Policy under which the information was collected. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
+
+If we decide to change our Privacy Policy, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+**Terms and Conditions**
+
+Please also visit Hotel-rez.com's [Terms & Conditions](https://web.archive.org/web/20190526161013id_/http%3A//www.hotel-rez.com/terms_conditions.html) for terms governing the use of the entire Site.
+
+Thank you for being our customer.
+
+This Privacy Policy is effective as of May 14, 2018.
+
+Hotel-rez.com  
+Getaroom, Inc. 3010 LBJ Freeway Suite 1500 Dallas, Texas, 75234
