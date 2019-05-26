@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213033045id_/https%3A//www.acecashexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acecashexpress.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526134406id_/https%3A//www.acecashexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
