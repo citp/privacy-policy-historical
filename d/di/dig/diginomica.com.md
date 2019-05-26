@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diginomica.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815095856id_/https%3A//diginomica.com/about/diginomicas-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diginomica.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526162712id_/https%3A//diginomica.com/about/diginomicas-privacy-policy) for the most accurate reproduction.*
 
-# Terms and privacy - diginomica
+# Terms and privacy | diginomica
 
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy (detailed below) govern diginomica Ltd’s relationship with you in relation to this website.
+Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy (detailed below) govern diginomica Ltd's relationship with you in relation to this website.
 
 ## **The use of this website is subject to the following terms of use:**
 
@@ -19,9 +19,9 @@ Welcome to our website. If you continue to browse and use this website you are a
 
 ## Definition
 
-The term diginomica.com Ltd or “us” or “we” refers to the owner of the website whose registered office is 36 Ross Road, Wallington, Surrey, SM6 8QR. Our company registration number is 8444377 registered in England and Wales. The term “you” refers to the user or viewer of our website.
+The term diginomica.com Ltd or "us" or "we" refers to the owner of the website whose registered office is 36 Ross Road, Wallington, Surrey, SM6 8QR. Our company registration number is 8444377 registered in England and Wales. The term "you" refers to the user or viewer of our website.
 
-References to ‘website’ means diginomica.com, government.diginomica.com and any other URLs owned by diginomica Ltd that we may, from time to time, launch or run.
+References to 'website' means diginomica.com, government.diginomica.com and any other URLs owned by diginomica Ltd that we may, from time to time, launch or run.
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -69,19 +69,21 @@ You should check the third party websites for more information about these.
 
 ### Diginomica and Google
 
-Diginomica prides itself on the fact it carries no advertising inventory, including Google Ads. However, we do use Google Analytics for the purpose of better understanding how people use our website and where their interests lay. We also use Google Analytics in conjunction with our email newsletter system – again to track how our email newsletters are used. The statistics we gather are only used for internal reporting purposes and provide data in aggregate about visitor behaviors. No personal information is collected or provided to us except for aggregated demographic data which is collected through Google’s identification algorithms.
+Diginomica prides itself on the fact it carries no advertising inventory, including Google Ads. However, we do use Google Analytics for the purpose of better understanding how people use our website and where their interests lay. We also use Google Analytics in conjunction with our email newsletter system - again to track how our email newsletters are used. The statistics we gather are only used for internal reporting purposes and provide data in aggregate about visitor behaviors. No personal information is collected or provided to us except for aggregated demographic data which is collected through Google's identification algorithms.
 
 However, as a media organization, we are aware that Google has not been exemplary in the manner in which it has approached GDPR. It has for example drawn important criticism from major media groups. A key story on this can be found [here](http://whatsnewinpublishing.com/2018/05/02/four-publishing-trade-groups-criticise-googles-ad-policy-change-letter-ceo/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=What%27s%20New%20in%20Publishing).
 
-While we don’t anticipate any impact from the concerns raised by others, we continue to monitor the situation. Should you prefer that Google Analytics does not track your behavior or only tracks certain kinds of activity we recommend reading [this page](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en) where you can find links to make changes in your browser. You should consider making changes consistent across all devices through which you access our website.
+While we don't anticipate any impact from the concerns raised by others, we continue to monitor the situation. Should you prefer that Google Analytics does not track your behavior or only tracks certain kinds of activity we recommend reading [this page](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en) where you can find links to make changes in your browser. You should consider making changes consistent across all devices through which you access our website.
 
 However, please see below about the use of cookies (of which Google makes extensive use) and the potential impact on performance.
 
-**Update 8th May 2018**. Google asks us to confirm the time period over which we want retention of Google collected data. We have asked that from 25th May 2018, Google never automatically deletes data. The reason is so that we can get a better understanding of growth and aggregated profiles since our inception in a one time snapshot. Once that is complete, we will then use that information to determine the maximum amount of time over which it makes sense for Google to hold data for our analytical purposes. Once that is done then we will revise this page again. The change in Google’s data retention permission requirement goes into effect on 25th May, 2018. You can see the data retention advisory [here](https://support.google.com/analytics/answer/7667196).
+**Update 8th May 2018**. Google asks us to confirm the time period over which we want retention of Google collected data. We have asked that from 25th May 2018, Google never automatically deletes data. The reason is so that we can get a better understanding of growth and aggregated profiles since our inception in a one time snapshot. Once that is complete, we will then use that information to determine the maximum amount of time over which it makes sense for Google to hold data for our analytical purposes. Once that is done then we will revise this page again. The change in Google's data retention permission requirement goes into effect on 25th May, 2018. You can see the data retention advisory [here](https://support.google.com/analytics/answer/7667196).
 
 ### **How to reject cookies?**
 
 If you wish to restrict or block the cookies which are set by us, you can do this through your browser settings. The Help function within your browser should tell you how. For information on how to do this on the browser of your mobile phone you should refer to your handset manual.
+
+For accessing our local cookie settings please click here.
 
 **Please be aware that restricting cookies will have an impact on the functionality of this website and the quality of your user experience.**
 
