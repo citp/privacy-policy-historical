@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ap2tg.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606224235id_/https%3A//www.ap2tg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ap2tg.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526091821id_/https%3A//www.ap2tg.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ap2tg
+# Privacy Policy - AP2TG.com
 
 In order to endow you with our uninterrupted use of services, we may collect and, in some circumstances, disclose information about you. To enhance better protection of your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
 All visitors to our Website are advised to read and understand our Privacy Policy carefully, as by accessing the Website you agree to be bound by the terms and conditions of the Privacy Policy and consent to the collection, storage and use of information relating to you as provided herein.
 
 If you do not agree with the terms and conditions of our Privacy Policy, including in relation to the manner of collection or use of your information, please do not use or access the Site.  
-If you have any questions or concerns regarding this privacy policy, you should contact admin@alltechmedia.org
+If you have any questions or concerns regarding this privacy policy, you should contact admin@allindiadaily.com
 
 ANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEADING TO INTERPRET THE PROVISIONS CONTAINED WITHIN IT IN ANY MANNER.
 
