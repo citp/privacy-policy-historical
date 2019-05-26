@@ -1,44 +1,105 @@
-> *The following text is extracted and transformed from the 84lumber.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921034741id_/http%3A//www.optout.84lumber.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 84lumber.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526110040id_/https%3A//www.84lumber.com/privacy-policy) for the most accurate reproduction.*
 
-# 84 Lumber Website Privacy Policy
+# Privacy Policy | 84 Lumber
 
-**84 Lumber Website Privacy Policy**
+#### 84 LUMBER PRIVACY POLICY
 
-The 84 Lumber Company ("84 Lumber") provides this privacy statement for you to explain about the collection and use of personally identifiable information, in particular any such information that is collected the following websites, located at [http://www.84lumber.com](http://www.84lumber.com/), [https://builder.84lumber.com](https://builder.84lumber.com/), [http://innercircle.84lumber.com](http://innercircle.84lumber.com/),  and any sub domain website of 84lumber.com (the "Sites").   This policy applies only to information collected on the Sites and does not apply to information collected from us elsewhere, such as through email messages or offline. 
+Effective Date: February 1, 2009
 
-From time to time our information collection practices may change.  You should check back on this page to see the most recent version of our Privacy Policy.  This privacy policy is effective as of 2/1/2009.
+Last Updated: October 5, 2016
 
-**Information Collection and Use**
+#### This privacy policy applies to the Platform where it appears.
 
-In many areas of the Sites, you can browse without submitting personally identifiable information.  Certain features, however, require you to provide us with your personal information. The information you submit is used as described when it is collected. Information you provide is also used for 84 Lumber's legitimate business purposes, including sending you information about us, our stores, our products and services, or other products and services in which you may be interested. 
+This Privacy Policy describes how 84 Lumber Company treats customer personal information on the Platforms where it is located, including websites and mobile apps.
 
-84 Lumber may use passive tracking technologies, including cookies. These technologies are used to watch consumer behavior on this website, and to customize the content of the site to the consumer in order to improve the consumer's online experience.  These technologies may also be used to improve our site features and functionality, to better understand our consumer, or for other legitimate business purposes.
+#### We collect information from and about you.
 
-**Information Sharing and Links to Other Websites**
+**We collect contact information.** For example, we collect your name and mailing address. We also collect email addresses and phone numbers. We may also collect your business contact information, including your employer’s name and your title. If you create an account, we collect your username and password. 
 
-From time to time, 84 Lumber may share information submitted or collected on this website with third parties.  We may also share aggregate non-personal information with third parties.
+**We collect payment information.** For example, if you purchase products or pay your bill, we may collect your debit or credit card number, bank account information and billing address. 
 
-Information may be shared with third parties if we believe we are legally obligated to disclose information to the government or third parties or if we are jointly providing services with a business partner.  In the unlikely event that we are sold or acquired, or part of our business is sold or acquired, your information will be transferred to the new owner.  Your information may also be disclosed if we believe it is necessary to protect 84 Lumber or one of our users.  If we need to investigate or resolve possible problems or inquiries, we may disclose any information about you to government officials; we may also disclose information in response to a subpoena or other governmental request.
+**We collect information you submit online.** For example, this may include information you post when you interact with us on social media platforms.
 
-This website will provide you with the ability to visit third party websites who may have different policies than those of 84 Lumber, and those third parties are not under 84 Lumber's control.  When you visit any of these other websites and submit information to those third parties, please keep in mind that information will be provided directly to the third parties, and their privacy policies and terms of use will apply.  You should read those documents carefully before submitting information on those websites.
+**We collect demographic information.** For example, this includes your zip code. We may also collect your age and gender. We may collect this information if you contact us or enter a promotion.
 
-**Children on Our Site**
+**We collect information device and usage information.** For example, we may collect the type of device you use to access our Platform. We also collect information about the type of browser you are using. We may look at what site you came from or what site you go to when you leave us. If you are using our apps, we may also collect your device identification number. If you use our app, we may look at how often you use the app and where you downloaded it.
 
-We do not knowingly collect information from children under 13 on this Site, do not direct this site to children under 13, and do not believe that our Site is appealing to children in that age group.  Parents, we encourage you to supervise your children's use of the Internet, and suggest that you read [http://www.ftc.gov/kidzprivacy/](http://www.ftc.gov/kidzprivacy/) to learn more about how to protect your children online.
+**We collect location information.** We may collect information about your location, including your precise location. We may collect this information using different types of technologies, including GPS and Wi-Fi.
 
-**Contact Us**
+#### We collect information from you in different ways.
 
-To exercise your choice to opt-out of receiving marketing messages from 84 Lumber, do one of the following.
+**We collect information d** **irectly from you.** For example, this may include when you create an account or purchase our products. We may also collect information if you contact us or request a quote.  We may also collect information if you submit a job application or sign up for our newsletter. We may also collect information when you take a survey or participate in a promotion.
 
-  * Submit an email request to [ OptOut@84lumber.com](mailto:OptOut@84lumber.com) 
+**We collect information passively.** We use tracking tools like browser cookies and web beacons. We use these tools on our Platforms and in emails we send to you. We collect information about users over time and across platforms and devices when you use our Platforms. We may have third parties collect information this way.  Learn more about these tools and how you can control them, [here](https://web.archive.org/privacy-policy/about-our-ads/ "About Our Ads").
 
-  * Submit your opt-out preferences on our online form by navigating to [ http://www.optout.84lumber.com](http://optout.84lumber.com/)  
+**We get information about you from third parties**. We may receive information about you from other sources. For example, this may include receiving information from our business partners and social media platforms. This may also include companies that provide information to supplement what we already know about you.
 
-  * Follow the opt-out instructions included in any email communication that you receive directly from 84 Lumber. 
+#### We combine information we collect from different sources.
 
+We combine offline and online information. We may also combine information across multiple devices. We may also combine information we get from a third party with information we already have about you.
 
+#### We use information as disclosed and described here.
 
+**We use your information to respond to your requests or questions**. For example, we might use your information to respond to your inquiries or customer feedback. We may also use your information to provide you with quotes or to notify you if you win a promotion.
 
-For questions please contact us by mail at 84 Lumber Company, 1019 Route 519, Eighty Four, Pennsylvania 15330 or by phone at 1-800-664-1984.
+**We use your information to provide you with products and services.** For example, this may include sending you products you purchase. It also includes sending you newsletters you signed up to receive.  
 
-Print       Close
+**We use information to improve our products and Platforms.** We may use your information to make our Platforms or products better. We may also use your information to customize your experience with us. This includes understanding your interests and preferences.
+
+**We use your information to communicate with you about our relationship.** We may communicate with you about your account or our relationship. We may also contact you about this Policy or our Platform Terms & Conditions.
+
+**We use your information for marketing purposes.** We may provide you with information about new products and special offers. We may also serve you ads about products and offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you register with us, we’ll enroll you in our email newsletter. For more information about your choices, see the Choices section below.
+
+**We use information for security purposes.** We may use your information to protect our company and our customers. We also use information to protect our Platforms.
+
+**We use information as otherwise permitted by law or as we may notify you.**
+
+#### We share information with third parties.
+
+**We share information within the 84 Lumber family of companies.**
+
+**We may share information with third parties who perform services for us**. For example, we may share information with payment processors or companies that send emails for us. We may also share information with companies that operate our Platform or run our promotions.
+
+**We share information with our business partners.** For example, we will share information with third parties that co-sponsor a promotion. These partners may send you information about events and products by mail or email.
+
+**We may share information with any successor to all or part of our business.** For example, if our company is sold or acquired, we may transfer our customer list to the new owner.
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, this could include responding to a court order or subpoena. It could also include sharing information if a government agency or investigatory body requests. We might share information when we are investigating a potential fraud. This could include fraud we think has occurred during a promotion. We may also share information if you are the winner of a sweepstakes or other promotion with anyone who requests a winner's list.
+
+**We may share information for other reasons we may describe to you.**
+
+#### You have certain choices about how we use your information.
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, email us at [OptOut@84lumber.com](mailto:OptOut@84lumber.com) or follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
+
+**You can control cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our **Do Not Track** policy, please click [here](https://web.archive.org/privacy-policy/about-our-ads/ "About Our Ads").
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications in your phone settings.  Options you select are browser and device specific.
+
+#### This Platform is not intended for children.
+
+Our Platforms are meant for adults. We do not knowingly collect personally identifiable data from children under 13. If you are a parent or legal guardian and think your child has given us information, you can email [privacy@84lumber.com](mailto:%20privacy@84lumber.com). You can also write to us at the address listed at the end of this Policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+#### We use standard security measures.
+
+The Internet is not 100% secure. We cannot promise that your use of our Platform will be completely safe. We encourage you to use caution when using the Internet. A username and a password are needed to access certain areas of our Platform. It is your responsibility to protect your username and password.
+
+#### We may link to sites or have third party tools on our Platform we don’t control.
+
+If you click on a link to a third party platform, you will be taken to a platform we do not control.  We are not responsible for the privacy practices of third parties. This includes third parties who may have ads or content on our Platform. We suggest that you read their privacy policies carefully.
+
+#### You can contact us if you have questions.
+
+If you have additional questions about our privacy practices, you can call us at 724-228-8820 or email us at privacy@84lumber.com. You can also write to us at:
+
+84 Lumber Company
+
+1019 Route 519
+
+Eighty Four, PA 15330
+
+#### We may change this Policy.
+
+From time to time, we may change our privacy policy. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our Platforms. Please check our Platforms periodically for updates.
+
+© 2016. 84 Lumber Company. All rights reserved.
