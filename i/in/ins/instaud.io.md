@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaud.io privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182544id_/https%3A//instaud.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaud.io privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526235111id_/https%3A//instaud.io/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Instaudio
 
