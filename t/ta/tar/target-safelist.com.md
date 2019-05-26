@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the target-safelist.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124214500id_/http%3A//target-safelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target-safelist.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526184536id_/http%3A//www.target-safelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
+  
 Privacy Policy  
 
 
