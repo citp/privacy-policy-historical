@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829050426id_/https%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526161326id_/https%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
