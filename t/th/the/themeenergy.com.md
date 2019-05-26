@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeenergy.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818024159id_/http%3A//themeenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeenergy.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526143902id_/http%3A//themeenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Premium WordPress Themes & HTML Templates | ThemeEnergy
 
