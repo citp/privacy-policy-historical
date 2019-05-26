@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rileyguide.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231190447id_/https%3A//www.myperfectresume.com/information/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rileyguide.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526231935id_/https%3A//www.myperfectresume.com/information/privacy.aspx) for the most accurate reproduction.*
 
-# LiveCareer Privacy Policy
+# MPR Privacy Policy
 
 ##### Effective Date: November 26, 2018
 
@@ -153,4 +153,4 @@ From time to time, we can choose to update this Privacy Policy. The Privacy Poli
 
 ##### 16\. Contact Us
 
-The Site is controlled and operated by Provider. Whether you access the services through any of our family Site, including, but not limited to, myperfectresume.com, jobhero.com, livecareer.com, and any other site powered by myperfectresume.com, bold.com, or livecareer.com, you may contact Provider using the information provided herein. If your questions are not answered online, you can e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at Auxiliant sarl, 1A, rue Thomas Edison, L-445 Strassen, Luxembourg or BOLD LLC, City View Plaza II, 48 Road 165, Suite 6000, Guaynabo, PR 00968, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
+The Site is controlled and operated by Provider. Whether you access the services through any of our family Site, including, but not limited to, myperfectresume.com, jobhero.com, livecareer.com, and any other site powered by myperfectresume.com, bold.com, or livecareer.com, you may contact Provider using the information provided herein. If your questions are not answered online, you can e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at , or using the [contact us form](https://web.archive.org/contact-us) on the Site.
