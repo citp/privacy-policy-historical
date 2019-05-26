@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022185022id_/https%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecollegeinvestor.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526150217id_/https%3A//thecollegeinvestor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,16 +67,16 @@ Users may, at any time, prevent the setting of cookies, by the Website, by using
 **ADVERTISING**
 
 **Display Ads** **  
-**The Website uses AdThrive and MyFinance to manage all third-party advertising on the Website. AdThrive and MyFinance serve content and advertisements when you visit the Website, which may use cookies. AdThrive and MyFinance may collect IP addresses and location to serve personalized ads.  If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+** The Website uses AdThrive and MyFinance to manage all third-party advertising on the Website. AdThrive and MyFinance serve content and advertisements when you visit the Website, which may use cookies. AdThrive and MyFinance may collect IP addresses and location to serve personalized ads.  If you would like more information about this practice and to know your choices to opt-in or opt-out of this data collection, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Retargeting Ads** **  
-**From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, Reddit, Snapchat, Quora or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.   You may opt-out of this data collection by visiting the provider’s website and adjusting your privacy settings.
+** From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, Reddit, Snapchat, Quora or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.   You may opt-out of this data collection by visiting the provider’s website and adjusting your privacy settings.
 
 **Sponsored Content Tracking Pixels** **  
-**This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. As stated above, these pixels may capture your IP address on behalf of the content sponsor. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+** This Website may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. As stated above, these pixels may capture your IP address on behalf of the content sponsor. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
 
 **Affiliate Program Participation** **  
-**The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.  
+** The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.  
 
 The College Investor, LLC is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
