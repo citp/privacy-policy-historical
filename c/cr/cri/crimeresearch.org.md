@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimeresearch.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120035759id_/https%3A//crimeresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimeresearch.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526223809id_/https%3A//crimeresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crime Prevention Research CenterCrime Prevention Research Center
 
