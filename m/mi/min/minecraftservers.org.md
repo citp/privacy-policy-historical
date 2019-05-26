@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221220836id_/https%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftservers.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527014912id_/https%3A//minecraftservers.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Servers
 
@@ -30,7 +30,6 @@ This privacy notice is provided in a format so that you can click through to the
 This privacy notice applies to the information collected by ACTdesign (UK) Ltd, including through the following websites:
 
   * [https://minecraftservers.org](https://minecraftservers.org/)
-  * [https://minecraftpeservers.org](https://minecraftpeservers.org/)
   * [https://www.minecraftskins.net](https://www.minecraftskins.net/)
   * [https://www.minecraftmods.com](https://www.minecraftmods.com/)
   * [https://www.minecrafttexturepacks.com](https://www.minecrafttexturepacks.com/)
@@ -129,7 +128,7 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 We have set out below a description of the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out below.
 
   * **Purpose/Activity:** To register you as a new user 
     * **Type of data:**  (a) Identity (b) Contact
@@ -187,7 +186,7 @@ Please note that we may process your personal data without your knowledge or con
 
 ### 5\. DISCLOSURES OF YOUR PERSONAL DATA
 
-We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+We may have to share your personal data with the parties set out below for the purposes set out in paragraph 4 above.
 
   * External Third Parties as set out in the Glossary.
   * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
