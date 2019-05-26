@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalpost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231033133id_/https%3A//www.journalpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalpost.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526141616id_/https%3A//www.journalpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Journal Post
 
@@ -127,4 +127,4 @@ In addition to being thoroughly informed about data usage through this policy, a
 
 
 
- _You may exercise these rights, or contact us with privacy queries or complaints, by emailing us at_[ _[email  protected]_](https://web.archive.org/cdn-cgi/l/email-protection#2252504b5443415b62484d57504c434e524d51560c414d4f) _._
+ _You may exercise these rights, or contact us with privacy queries or complaints, by emailing us at_[ _[email  protected]_](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0faffe5e2fef1fce0ffe3e4bef3fffd) _._
