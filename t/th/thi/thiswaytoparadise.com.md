@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thiswaytoparadise.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124101310id_/http%3A//www.thiswaytoparadise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiswaytoparadise.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526200636id_/http%3A//www.thiswaytoparadise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - This Way To Paradise-Beaches, Islands, And Travel
 
@@ -111,3 +111,5 @@ At no time should you submit sensitive personal information to the Website. This
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at info@thiswaytoparadise.com and we will use our best efforts to promptly remove such information from our records.
 
 At any time, please contact us at info@thiswaytoparadise.com for questions related to this Privacy Policy.
+
+[](https://www.pinterest.com/pin/create/button/)
