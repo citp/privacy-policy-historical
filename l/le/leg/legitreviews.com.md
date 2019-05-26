@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitreviews.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224040910id_/http%3A//www.legitreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitreviews.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526153416id_/https%3A//www.legitreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legit ReviewsLegit Reviews
 
