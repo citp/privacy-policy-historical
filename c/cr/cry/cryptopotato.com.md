@@ -1,75 +1,227 @@
-> *The following text is extracted and transformed from the cryptopotato.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822025427id_/https%3A//cryptopotato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptopotato.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526050654id_/https%3A//cryptopotato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CryptoPotato
+# Privacy Policy | CryptoPotato
 
-Our Privacy Policy was last updated and posted on August 4, 2017. It governs the privacy terms of our Website, located at http://www.cryptopotato.com, sub-domains, and any associated web-based and mobile applications (collectively, “Website”), as owned and operated by WEDX LTD. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](http://cryptopotato.com/terms/).
+Our Privacy Policy was last updated and posted on May 24, 2018. It governs the privacy terms of our Website, located at http://www.cryptopotato.com, sub-domains, and any associated web-based and mobile applications (collectively, “Website”), as owned and operated by CT Potato LTD. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://cryptopotato.com/terms/).
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. We use your Personal Information only for providing and improving the website. By using the website, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.cryptopotato.com. The following outlines our privacy policy.
-
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+  1. Introduction
 
 
 
-**Your Privacy**  
-WEDX LTD follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. We utilize the Personal Data you offer in a way that is consistent with this Personal privacy Policy. If you provide Personal Data for a particular reason, we could make use of the Personal Data in connection with the reason for which it was provided. For example, registration info sent when developing your account, might be used to suggest products to you based on past acquisitions. We might use your Personal Data to offer access to services on the Website and monitor your use of such services. WEDX LTD may also utilize your Personal Data and various other personally non-identifiable info gathered through the Website to assist us with improving the material and functionality of the Website, to much better comprehend our users, and to improve our services. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+1.1    We are committed to safeguarding the privacy of our website visitors and service users.
 
-**Definitions**  
-“Non Personal Information” is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
+1.2    This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
 
-“Personally Identifiable Information” is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
+1.3    We use cookies on our website.
 
-**Information We Collect**  
-Generally, you control the amount and type of information you provide to us when using our Website.
+1.4    In this policy, “we”, “us” and “our” refer to CT Potato LTD. For more information about us, see Section 12.
 
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
-
-**Computer Information Collected**  
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
-
-  * **Cookies**  
-Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-  * **Geographical Information**  
-When you use the mobile application, we may use GPS technology (or other similar technology) to determine your current location in order to determine the city you are located in and display information with relevant data or advertisements. We will not share your current location with other users or partners. If you do not want us to use your location for the purposes set forth above, you should turn off the location services for the mobile application located in your account settings or in your mobile phone settings and/or within the mobile application.
-  * **Automatic Information**  
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-  * **Log Data**  
-Like many Website operators, we collect information that your browser sends whenever you visit our Website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Website that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+  2. How we use your personal data
 
 
 
-Under the Child’s Online Privacy Security Act, no Website operator can require, as a condition to involvement in an activity, that a child younger than 13 years of age divulge more details than is reasonably required. WEDX LTD abides by this demand. WEDX LTD just collects information willingly offered; no information is gathered passively. children under 13 can submit only their email address when sending us an email in our “Contact Us” area. WEDX LTD makes use of the email address to respond to a one-time demand from a child under 13 and afterwards deletes the email address. In case WEDX LTD collects and maintains personal information relating to a child under 13, the parent may send out an email to us to review, alter and/or erase such info as well as to decline to enable any additional collection or use of the child’s information.
+2.1    In this Section 2 we have set out:
 
-**How We Use Your Information**  
-We use the information we receive from you as follows:
+(a)    the general categories of personal data that we may process;
 
-  * **Customizing Our Website**  
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-  * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-  * **Data Aggregation**  
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-  * **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of WEDX LTD, our Users, employees, and affiliates.
+(b)    in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
+
+(c)    the purposes for which we may process personal data; and
+
+(d)    the legal bases of the processing.
+
+2.2    We may process data about your use of our website (“ **usage data** “). The usage data may include geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your visit. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent OR our legitimate interests, namely monitoring and improving our website.
+
+2.3    We may process your account data (“ **account data** “). The account data may include your name and email address. The source of the account data is you. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is consent OR our legitimate interests, namely the proper administration of our website and business OR the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
+
+2.4    We may process information that you post for publication on our website or through our services (“ **publication data** “). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is consent.
+
+2.5 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (“ **notification data** “). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is consent OR the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
+
+2.6    We may process information contained in or relating to any communication that you send to us (“ **correspondence data** “). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
+
+2.7    In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+2.8    Please do not supply any other person’s personal data to us, unless we prompt you to do so.
+
+  3. Providing your personal data to others
 
 
 
-**Opt-Out**  
-We offer you the chance to “opt-out” from having your personally identifiable information used for particular functions, when we ask you for this detail. When you register for the website, if you do not want to receive any additional material or notifications from us, you can show your preference on our registration form.
+3.1    We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
 
-**Links to Other Websites**  
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
+3.2    We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. We utilize practical protection measures to safeguard against the loss, abuse, and modification of the individual Data under our control. Personal Data is kept in a secured database and always sent out by means of an encrypted SSL method when supported by your web browser. No Web or email transmission is ever totally protected or mistake cost-free. For example, email sent out to or from the Website may not be protected. You must take unique care in deciding what info you send to us by means of email.
+3.3    In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-**Privacy Policy Updates**  
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+  4. International transfers of your personal data
 
-**Questions About Our Privacy Practices or This Privacy Policy**  
+
+
+4.1    In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
+
+4.2    We and our other group companies have offices and facilities in Sofia, Bulgaria. The European Commission has made an “adequacy decision” with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission, a copy of which you can obtain from _<https://ec.europa.eu/info/law/law-topic/data-protection_en> _.
+
+4.3    The hosting facilities for our website are situated in Bulgaria and France. The European Commission has made an “adequacy decision” with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely the use of standard data protection clauses adopted or approved by the European Commission, a copy of which you can obtain from _<https://ec.europa.eu/info/law/law-topic/data-protection_en>._
+
+4.4    You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
+
+  5. Retaining and deleting personal data
+
+
+
+5.1    This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+
+5.2    Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+5.3    We will retain your personal data as follows:
+
+(a)    _personal data category or categories_ will be retained for a maximum period of _26 months_ following _May 25, 2018_.
+
+5.4    Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+  6. Amendments
+
+
+
+6.1    We may update this policy from time to time by publishing a new version on our website.
+
+6.2    You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+6.3    We may OR will notify you of changes OR significant changes to this policy by email or through the private messaging system on our website.
+
+  7. Your rights
+
+
+
+7.1    In this Section 8, we have summarized the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+7.2    Your principal rights under data protection law are:
+
+(a)    the right to access;
+
+(b)    the right to rectification;
+
+(c)    the right to erasure;
+
+(d)    the right to restrict processing;
+
+(e)    the right to object to processing;
+
+(f)     the right to data portability;
+
+(g)    the right to complain to a supervisory authority; and
+
+(h)    the right to withdraw consent.
+
+7.3    You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee.You can access your personal data by visiting _DATA Module_  link when logged into our website from EU countries.
+
+7.4    You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+
+7.5    In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+
+7.6    In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+7.7    You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
+
+7.8    You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+7.9    You have the right to object to our processing of your personal data for scientific or historical research purposes or statistical purposes on grounds relating to your particular situation, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+
+7.10  To the extent that the legal basis for our processing of your personal data is:
+
+(a)    consent; or
+
+(b)    that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,
+
+and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+
+7.11  If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+7.12  To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+7.13  You may exercise any of your rights in relation to your personal data by written notice to us, in addition to the other methods specified in this Section 7.
+
+  8. About cookies
+
+
+
+8.1    A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+8.2    Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+8.3    Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+  9. Cookies that we use
+
+
+
+9.1    We use cookies for the following purposes:
+
+(a)   advertising – we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: _FreeStar, Google Double Click, CoinTraffic_ ; CoinZilla.
+
+(b)    analysis – we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: _Google Analyitics)_
+
+(c)    cookie consent – we use cookies to store your preferences in relation to the use of cookies more generally (cookies used for this purpose are: Facebook _.  
+_We embed Facebook Comments plugin to allow you to leave comment at our website using your Facebook account. This plugin may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the commenting interface, including correlating your Facebook account with whatever action you take within the interface (such as “liking” someone’s comment, replying to other comments), if you are logged into Facebook. For more information about how this data may be used, please [see](https://www.facebook.com/about/privacy/update) Facebook’s data privacy policy.
+
+  10. Cookies used by our service providers
+
+
+
+10.1  Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+10.2  We use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>.
+
+10.3  We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behavior on our website and on other websites across the web using cookies. AND/OR We publish Google AdSense advertisements on our website. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. This behaviour tracking allows Google to tailor the advertisements that you see on other websites to reflect your interests (but we do not publish interest-based advertisements on our website). You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: <https://support.google.com/ads/answer/7395996>.
+
+10.4  We use 3rd Party Cookies. This service uses cookies for collecting data via a third party cookie. You can view the privacy policy of this service provider at _<https://freestar.io/data-policy/> . _
+
+  11. Managing cookies
+
+
+
+11.1  Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+(a)    <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
+
+(b)    <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
+
+(c)    <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+
+(d)    <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
+
+(e)    <https://support.apple.com/kb/PH21411> (Safari); and
+
+(f)     <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
+
+11.2  Blocking all cookies will have a negative impact upon the usability of many websites.
+
+11.3  If you block cookies, you will not be able to use all the features on our website.
+
+  12. Our details
+
+
+
+12.1  This website is owned and operated by CT Potato LTD _._
+
+12.2  We are registered in Bulgaria under registration number 20180713125347 and our registered office is at Georgi S. Rakovski No 25, Sofia, Bulgaria.
+
+12.3  Our principal place of business is at Sofia.
+
+12.4  You can contact us:
+
+(a)    by post, to the postal address given above;
+
+(b)    using our website contact form;
+
+(c)    by email, using the email address published on our website from time to time.
+
+  13. Data protection officer
+
+
+
+13.1  Our data protection officer’s contact details are: _[info@cryptopotato.com](mailto:info@cryptopotato.com) _.
+
+ **Questions About Our Privacy Practices or This Privacy Policy**  
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. If you have any questions about our Privacy Practices or this Policy, please contact us.
