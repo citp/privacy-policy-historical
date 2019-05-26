@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928112907id_/https%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526205128id_/https%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # plotaroute.com - Privacy Policy
 
@@ -6,13 +6,13 @@
 
 ### About this policy
 
-This privacy policy sets out how Spidersphere uses and protects any information that you give when you use _plotaroute.com_. Spidersphere is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy policy. 
+This privacy policy sets out how Spidersphere Ltd. uses and protects any information that you give when you use _plotaroute.com_. Spidersphere Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy policy. 
 
-Spidersphere may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+Spidersphere Ltd. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ### Who are we?
 
-Spidersphere is a web development business owned and managed by John Piears, 191 The Street, West Horsley, Surrey, UK, KT24 6HR. Spidersphere owns and manages _plotaroute.com_. 
+Spidersphere Ltd. is a web development business (Registered Company Number 111337087), registered at Melrose, Westbrook Road, Godalming, Surrey, UK, GU7 2QH. Spidersphere Ltd. owns and manages _plotaroute.com_. 
 
 ### What personal information do we collect?
 
@@ -33,7 +33,7 @@ You may, if you wish, choose to provide additional personal information as part 
 We use your personal information to identify you and provide you with a better service, in particular for the following reasons:
 
   * internal record keeping;
-  * to notify you about actions of other users of _plotaroute.com_ that relate to content your have created on the website (ï¿½Notificationsï¿½);
+  * to notify you about actions of other users of _plotaroute.com_ that relate to content your have created on the website (Notifications);
   * to tailor various features on the website according to your location;
   * to improve our products and services;
   * to periodically send promotional emails about new products, special offers or other information which we think you may find interesting;
@@ -44,7 +44,7 @@ We use your personal information to identify you and provide you with a better s
 You may choose to restrict our use of your personal information in the following ways:
 
   * when you create an account with _plotaroute.com_ , you can choose whether or not you wish to receive promotional emails and Notifications by email;
-  * after you have created an account with _plotaroute.com_ , you can change you email preferences by visiting your ï¿½My Accountï¿½ page. 
+  * after you have created an account with _plotaroute.com_ , you can change you email preferences by visiting your "My Account" page. 
 
 
 
