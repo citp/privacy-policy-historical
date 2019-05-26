@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024183245id_/https%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefootballtickets.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526020613id_/https%3A//www.livefootballtickets.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy by Livefootballtickets.com | Privacy
 
