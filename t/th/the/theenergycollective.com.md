@@ -1,39 +1,119 @@
-> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224054922id_/http%3A//www.theenergycollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526102153id_/https%3A//www.energycentral.com/node/40948) for the most accurate reproduction.*
 
-# Privacy & Cookies - The Energy Collective
+# Privacy Policy | Energy Central
 
-**Privacy Policy and Cookies**
+Energycentral.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the Energycentral.com website and services. The Energycentral.com website is owned and operated by CyberTech, Inc.
 
-The Energy Collective respects each individual’s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at The Energy Collective’s web site.
+ **Summary**
 
-Part I. Information Collection and Security
+Our primary goal in collecting user information is to enhance your experience on our website and the web. We use aggregated (gathered up data across all user accounts) information to develop content targeted to users' interests and to better the website user experience. Energycentral.com is committed to your privacy and other than as provided herein or after receiving your specific consent, Energycentral.com will not share any personal information with any third party at any time, unless required by law.
 
-The Energy Collective only collects information on our web site submitted by registered users. Such information may include user-submitted news and events, uploaded photos, profiles, private messages and blog posts. The information is collected by the voluntary submittal of such by registered users.
+ **What this Privacy Policy Covers**
 
-The Energy Collective’s web site employs the use of “cookies”. A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable The Energy Collective to track usage patterns and deliver customized content to users.
+This privacy policy covers the website and activities of Energycentral.com and any other Energy Central web sites linked to from EnergyCentral.com.
 
-We use Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can opt out of Google Analytics for Display Advertising and customise Google Display Network ads using the Ads settings <https://www.google.com/settings/ads>. We will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features unless you consent to that merger.  You can also opt out using the following Google tool: Google Analytics opt-out browser add-on <https://tools.google.com/dlpage/gaoptout/>.  We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to facilitate this.
+Please be aware that Energycentral.com sponsors, advertisers and partners or affiliates with co-branded modules or sections on Energycentral.com may collect personally identifiable information about you while on our website. The information practices of those parties are not covered by this privacy statement. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by us.
 
-The Energy Collective does not divulge any personally identifiable information about registered users or The Energy Collective members to outside parties without permission for any reason (with the exception of a request made for such information [which is legally warranted and presented in person] by an official law enforcement official or agency).
+Energycentral.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [service@energycentral.com](mailto:service@energycentral.com?subject=Privacy%20request...&body=%3Cinclude%20the%20specific%20email%20address%20that%20you%20would%20like%20removed%20from%20Energy%20Central%20databases%3E). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-We will ask your permission to share your contact information with our sponsors when we conduct specific initiatives around our content or the content of our sponsors. This permission is something you may choose not to grant by “opting out” on our webforms.
+ **Gathering of Information**
 
-For COPPA compliance (Children’s Online Privacy Protection Act), The Energy Collective asserts that its web site contains nothing designed, displayed or formatted to attract, influence, interest, or solicit anyone under the age of eighteen. The Energy Collective memberships are available only to individuals 18 and older.
+ _Voluntary Submission_
 
-Part II. Information Usage
+Energycentral.com does not collect personally identifying information about any individual Energycentral.com website user except when knowingly provided by such individual. For example, we may ask you for information, such as your e-mail address when you register to become a member of Energycentral.com. You may also provide information to Energycentral.com in other contexts, including, for example, on your member profile page and public profile URL or to enter into a content or promotion. In the event you order something from Energycentral.com or one of our co-branded websites, we may request additional personal information in order to complete the purchase. We may also supplement the data you provide to us with data from data append services. You always have the option not to provide the information we request. If you choose not to provide the information we request, you can still visit some of the Energycentral.com website, but you may be unable to access certain options and services. When you register or become a member of Energycentral.com or provide information to Energycentral.com in any other manner, you agree to provide only true, accurate, current and complete information.
 
-The information collected by The Energy Collective is used for the purposes of this web site only. Registered users may receive additional announcements from us about site news, events, private messages, uploaded photos, blog posts, and web site updates. Out of respect for the privacy of our registered users, we present the option to not receive these types of communications. We may also provide you with content suggestions as well as EPP commercial opportunities based on your on-site behavior observed through cookies.
+ **Cookies**
 
-We do offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
+A cookie is a small data file that is written to your computer's hard drive by your web browser. A cookie file can contain information, such as a user identification code, that a website will use to track the pages and number of times you have visited. Energycentral.com uses cookies to track web and advertising analytics throughout Energycentral.com and its affiliate websites and to provide access to restricted content and to customer your experience. The data read from these cookies may be linked to personally identifying (PII) and non-personally identifying (non-PII) information.
 
-Because our web site also offers user-submitted posts and comments, please be advised that information posted in these venues becomes public knowledge with the submittal of any information or images contained therein.
+Business partners of Energycentral.com, vendors providing hosting and other services for Energycentral.com, third party analytics providers, as well as advertisers who contract directly with a third-party service to serve their advertisements on our website may set their own unique cookies through your browser.
 
-We reserve the right to update our web site privacy policy without notice. We reserve the right to remove user-submitted information or images without user consent or notice. We also reserve the right to add or remove site features without notice.
+Most web browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, choose to accept cookies only from certain websites or to refuse all cookies. However, if you choose to disable the receipt of cookies from our website, you may not be able to use certain features of the site.
 
-Part III. Access to Information
+ **Web Beacons**
 
-Registered users who wish to delete their information from our database must notify us by [email](https://web.archive.org/cdn-cgi/l/email-protection#20494e464f60544845454e45524759434f4c4c4543544956450e434f4d).
+We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users, assess traffic patterns, identify preferred content and measure site engagement. We also include web beacons in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened.
 
-Part IV. Problem Resolution
+Energycentral.com also uses a reputable third party to collect information, including through the use of web beacons, browser cookies and other tracking technologies. We may collect via web beacons various data provided by your browser while you are on our site and elsewhere where we may be acting as a 3rd party. This data is collected in the aggregate, but may include or be associated with other non-PII or PII that users have voluntarily submitted.
 
-If problems arises from your use of this website, please feel free to [email](https://web.archive.org/cdn-cgi/l/email-protection#2940474f46695d414c4c474c5b4e504a4645454c4a5d405f4c074a4644) The Energy Collective.
+ **Log Files**
+
+Energycentral.com web and ad servers log information about a site user's IP address, browser type and the current URL the user is requesting. This information is always provided by each and every user's browser. These log files used --in an aggregated, anonymous manner--in our internal analysis of traffic patterns within our website. This information is automatically logged by most websites.
+
+ **Use of Information**
+
+Our primary goal in collecting user information is to enhance your experience on our website and to continue to provide free or low-cost access to our services.
+
+ _To Target Content and Advertising_
+
+To develop and provide content and advertising to you that is targeted to your interests, we use the analytics collected by the systems described above to determine which areas of our website you prefer based upon the frequency of your visits and engagement with those areas. We may make reasonable assumptions based on your browser provided data to target relevant content and advertising to you on our site and elsewhere where we may be acting as a 3rd party. We may also make reasonable geographic and demographic assumptions based on your presented IP address to target relevant content and advertising.
+
+ _To Provide Interactive Communications From Energycentral.com_
+
+To enhance your experience we may provide you with interactive communications, such as notifications of activity by topic or contributor to the e-mail address that you provide to us. Such interactive communications are provided only to those users who have expressly provided us with their permission to receive them as part of their user profile.
+
+From time to time we may provide e-mails highlighting new features, promotions, surveys or contests on the website to those users who have expressly provided us with their permission to send such communications as part of their user profile.
+
+ _To Provide Communications From Third Parties_
+
+We respect the privacy of our users and shall not disclose or distribute our user list to any third party, nor shall we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your e-mail address will be transferred to the third party.
+
+ **Control of Your Information**
+
+Registered users may change the information stored in their member profile such as image, full name, e-mail address, password, location, country and the topics and contributors they are following, and they may elect to stop receiving marketing material from Energycentral.com or on behalf of external third party business partners.
+
+You may also request to delete your personal account if you wish to do so. Please email us at the contact information included below. We will respond to your request within 30 business days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+ **Sharing of Information**
+
+When you are on an area of Energycentral.com and are asked for personal information, you are sharing that information with Energycentral.com as well as business partners and vendors providing hosting and other services for Energycentral.com.
+
+We use third parties to provide credit card processing, e-mail service providers and hosting services on our site. When you sign up for such services, we will share your personally identifiable information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service.
+
+In addition, if you provide any personally identifiable information via an advertiser promotion, please be aware you are directly providing your personally identifiable information to that advertiser.
+
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you, such as your name and e-mail. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this personally identifiable information to notify contest winners and award prizes.
+
+We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+You can log in to our site using sign-in services that bridge your social media login information with Energycentral.com. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These services give you the option to post information about your activities on this website to your profile page to share with others within your network.
+
+Our website includes social media features, widgets and/or interactive mini-programs that run on our site. These features are small content modules that users can embed on sites and may collect your IP address, which page you are visiting on our site, or set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+We offer widgets that are hosted on Energycentral.com, like our embeddable video player. Use of the Energycentral.com widgets is subject to the Energycentral.com terms of use, but downloading or embedding these widgets on other websites is not covered by this privacy statement.
+
+ **Aggregate, Anonymous Information With Advertisers**
+
+Energycentral.com derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.
+
+ **As Necessary to Provide Services to You**
+
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of newsletter mailings, processing transactions, or performing statistical analysis of our services. We will only provide those companies the information they need to deliver the service. In some instances these companies may collect information directly from you. In these cases, you will be notified of the involvement of the external service provider. In all cases, these companies are subject to agreements that require them to maintain the confidentiality of your information and they are prohibited from using that information for any other purpose.
+
+ **In The Event of Sale or Bankruptcy**
+
+The ownership of Energycentral.com may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy or other change in control of CyberTech, Inc and/or Energycentral.com your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information. You will be notified as described below in "How will I know if the Privacy Policy is changed."
+
+ **As Required By Law**
+
+Energycentral.com may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to conform to the edicts of the law or comply with a judicial proceeding, court order or legal process served on Energycentral.com or to protect and defend the rights or property of Energycentral.com.
+
+ **Security**
+
+Your information is stored on Energycentral.com's servers located in the United States. We use industry standard procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
+
+ **Privacy of Children**
+
+Kids under 13: Do not send any information about yourself to us--including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 we will delete that information from our database as quickly as possible.
+
+ **How to Contact Us**
+
+If you have any questions regarding our privacy statement, please feel free to contact us by e-mail at [service@energycentral.com](mailto:service@energycentral.com?subject=Privacy%20Question). We read every message submitted within 10 days and try to reply to each one. Our mailing address is Energy Central, 2821 South Parker Road, Suite 1105, Aurora, CO 80014.
+
+ **How Will I Know if the Privacy Policy Is Changed?**
+
+If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website concurrently to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
