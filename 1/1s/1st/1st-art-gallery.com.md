@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002010805id_/https%3A//www.1st-art-gallery.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526133857id_/https%3A//www.1st-art-gallery.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 1st Art Gallery
 
