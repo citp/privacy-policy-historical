@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardspromocodes.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123233622id_/http%3A//giftcardspromocodes.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardspromocodes.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526063803id_/http%3A//giftcardspromocodes.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy | Amazon Gift Card Free Promo Codes
 
