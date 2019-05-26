@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javabeat.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005359id_/http%3A//javabeat.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javabeat.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526233339id_/https%3A//javabeat.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,8 @@ Google’s advertising requirements can be summed up by Google’s Advertising P
 We use Google AdSense Advertising on our website.
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+[](https://is.ltroute.com/click.track?CID=420780&AFID=426982&SID=javabeat&nonencodedurl=https://101electronicsstore.com/products/cable-organizer-travel-bag)
 
 We have implemented the following:  
 • Google Display Network Impression Reporting
@@ -119,6 +121,11 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 • Follow the instructions at the bottom of each email.  
 and we will promptly remove you from ALL correspondence.
 
-**Contacting Us**
+**NAI/IAB**
+
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience.
+
+**Contacting Us** **  
+**
 
 If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact-us/)
