@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828210644id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526152852id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
 # Gamestar Mechanic - Privacy Policy
 
 Gamestar Mechanic (“Gamestar” or the "Site") is an online service offered by E-Line Media (“we” or “us”) that helps users learn how to design video games. This policy covers how we treat the information we receive and collect from you.
 
-This Privacy Policy is effective as of June 12, 2018. In the future, our Site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here. If we think the changes will significantly impact your use of the site or the treatment of information you have already provided, we will also notify you and ask that you review and consent to the new policy.
+This Privacy Policy is effective as of November 6, 2018. In the future, our Site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here. If we think the changes will significantly impact your use of the site or the treatment of information you have already provided, we will also notify you and ask that you review and consent to the new policy.
 
 This Privacy Policy applies to the version of Gamestar Mechanic made available to the general public. We also make private "realms" of Gamestar available to certain organizations or groups, and users in these realms and the organizations or groups operating them may be subject to policies that differ from this one. Users within these realms should contact their Realm Administrator for more information.
 
@@ -23,7 +23,7 @@ Though you should read this document in its entirety, there are a few points reg
   * In certain cases -- specifically when someone makes a purchase through Gamestar and sometimes when Gamestar is used in educational settings -- we may collect enough personal data to identify a specific person. The policies below provide more information about these cases.
   
 
-  * It is the nature of Gamestar that certain features are designed as “community features.” While our [Rules of Conduct](http://gamestarmechanic.com/about/roc) prohibit the sharing of personal data using these features, you should understand that any information you share using them is, by its nature, open and public.
+  * It is the nature of Gamestar that certain features are designed as “community features.” While our [Rules of Conduct](https://gamestarmechanic.com/about/roc) prohibit the sharing of personal data using these features, you should understand that any information you share using them is, by its nature, open and public.
   
 
   * With the exception of vendors we use for processing payment transactions, we **_never_** share our users’ personal data with third parties;
@@ -110,7 +110,7 @@ As you use Gamestar Mechanic, you will have the option to participate in an onli
 
 
 
-All of these activities are optional, and our goal is to make them part of the safe, fun and educational Gamestar Mechanic experience. Your participation in these activities – as with all of Gamestar Mechanic – is governed by the [Rules of Conduct](http://gamestarmechanic.com/about/roc/), which describe the acceptable ways to use Gamestar. The Rules of Conduct specifically prohibit users from sharing personal data through Community Features.
+All of these activities are optional, and our goal is to make them part of the safe, fun and educational Gamestar Mechanic experience. Your participation in these activities – as with all of Gamestar Mechanic – is governed by the [Rules of Conduct](https://gamestarmechanic.com/about/roc/), which describe the acceptable ways to use Gamestar. The Rules of Conduct specifically prohibit users from sharing personal data through Community Features.
 
 We enforce these rules through electronic tools, selective monitoring by our staff and investigating reports from our community members. You should understand, however, that any information you choose to share through Community Features may be accessible by anyone who uses Gamestar.
 
@@ -138,9 +138,9 @@ Occasionally, we may share non-personal, anonymized or aggregate data with third
 
 Gamestar Mechanic account holders can view and modify information about themselves they have provided to us any time they are logged into their accounts by using the ‘Manage Account’ feature, accessible at the bottom of any page. Specifically, you may view, modify, provide or remove your email address as well as integrations with social media and networking features in this manner.
 
-You may obtain a complete record of any personal data we have about you by submitting a request to [](http://gamestarmechanic.com/help/report). If, upon your review, you determine that your personal data is incorrect or incomplete, you may notify us of the issue at [](http://gamestarmechanic.com/help/report) and we will correct the errant data. 
+You may obtain a complete record of any personal data we have about you by submitting a request to [](https://gamestarmechanic.com/help/report). If, upon your review, you determine that your personal data is incorrect or incomplete, you may notify us of the issue at [](https://gamestarmechanic.com/help/report) and we will correct the errant data. 
 
-You may withdraw your consent to provide us with any personal data you have previously consented to provide us with and request that it be removed from our system by submitting a request to [](http://gamestarmechanic.com/help/report). At the time you make the deletion request, you may also obtain a copy of your personal data by so indicating along with the deletion request. If you make a deletion request, we will remove the personal data from our live system and disable your user account. Please note that due to technical, legal and regulatory requirements, your personal data may persist in archives and backups even after we have removed it from the live system.
+You may withdraw your consent to provide us with any personal data you have previously consented to provide us with and request that it be removed from our system by submitting a request to [](https://gamestarmechanic.com/help/report). At the time you make the deletion request, you may also obtain a copy of your personal data by so indicating along with the deletion request. If you make a deletion request, we will remove the personal data from our live system and disable your user account. Please note that due to technical, legal and regulatory requirements, your personal data may persist in archives and backups even after we have removed it from the live system.
 
 ### Data breaches
 
@@ -152,11 +152,11 @@ Depending on your location, you may have a right to file a complaint with a gove
 
 ### Ownership of data
 
-As noted in the [Terms of Service](http://gamestarmechanic.com/about/tos/), your use of Gamestar does not confer upon you any Intellectual Property rights in Gamestar. This includes not conferring upon you any ownership rights to personal data about you. All data in Gamestar, including data you originally provided to us, is the property of E-Line Media.
+As noted in the [Terms of Service](https://gamestarmechanic.com/about/tos/), your use of Gamestar does not confer upon you any ownership or intellectual property rights in Gamestar or to its Content. All Content in Gamestar, including data about you, with the sole exception of your User Content, as defined in the Terms of Service, is the property of E-Line Media or its respective rights holder(s).
 
 ### How to contact us
 
-If you have questions or concerns regarding this Privacy Policy, you can contact us via email at [](http://gamestarmechanic.com/help/report) or at
+If you have questions or concerns regarding this Privacy Policy, you can contact us via email at [](https://gamestarmechanic.com/help/report) or at
 
 Gamestar Mechanic  
 c/o E-Line Media  
