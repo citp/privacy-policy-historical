@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123233413id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autooverload.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526091115id_/http%3A//autooverload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Auto Overload
 
