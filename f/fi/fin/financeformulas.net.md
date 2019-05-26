@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132759id_/http%3A//www.financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526125028id_/http%3A//financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,5 +26,5 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
   
-[Return to Top](http://www.financeformulas.net/PrivacyPolicy.html#top)  
+[Return to Top](http://financeformulas.net/PrivacyPolicy.html#top)  
 
