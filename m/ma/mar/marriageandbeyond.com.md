@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marriageandbeyond.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108040418id_/http%3A//www.marriageandbeyond.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriageandbeyond.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526025406id_/https%3A//www.marriageandbeyond.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marriage and Beyond
 
-Privacy Policy for www.marriageandbeyond.com
+## Privacy Policy for www.marriageandbeyond.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **marriageandbeyond@gmail.com**
 
