@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the networkworld.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230092933id_/http%3A//www.networkworld.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the networkworld.com privacy policy that was archived on 2019-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190526153119id_/https%3A//www.networkworld.com/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js"></script>
+	
+	
 	
 	
 	<!-- metas -->
@@ -12,7 +13,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P3S27S"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20181001144647/https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://spiffymachine.com/v2/0/dqv0ur5V4Cs-sdDE9H9bsP3WgC1LlBx8HZFjFi_JvbuKw3CM9LpqFxmZt5HhSWsA2Uldg"></script><script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WR6LD2P"></script><script async="" type="text/javascript" src="https://web.archive.org/web/20181001125125/https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://spiffymachine.com/v2/0/dqv0ur5V4Cs-sdDE9H9bsP3WgC1LlBx8HZFjFi_JvbuKw3CM9LpqFxmZt5HhSWsA2Uldg"></script><script>
 	function getQueryVariable(variable) {
 		var query = window.location.search.substring(1);
 		var vars = query.split("&");
@@ -28,6 +29,11 @@
 	<script src="/www/js/jquery/jquery-1.10.2.min.js"></script>
 	
 	<script type="text/javascript" src="/www/js/jquery/jquery_cookie.js"></script>
+	
+	
+	
+	<script type="text/javascript" src="/www/js/apollo-locales.js?v=20190523113415"></script>
+	
 	
 	
 
@@ -308,6 +314,77 @@ function bindReshowCmp() {
 		<script src="//cdn.blueconic.net/idg.js"></script>
 	
 	
+	
+		
+
+
+
+
+
+
+
+
+
+
+<script>
+// this javascript is for retrieving locale-specific ad units for DFP - see mapping in apollo-locales.js
+// getting locale and editions for the site the reader is viewing
+let brandAbbrev = "nww";
+let brandConfigBrandId = "512";
+//let myLocale = getLocale(); // getting locale on page load from URL, IP, geolocation - this will always be something. If 0, it's the global/default/core view.
+let countryCode = "";
+let getSlugFromId = getApolloLocaleIdMap();
+let getIdFromSlug = getApolloLocaleSlugMap();
+
+// if selectedLocale cookie exists, get locale
+if (typeof getSelectedLocale() !== 'undefined'  && getSelectedLocale() === getLocale()) { // get locale from cookie if available otherwise, use another locale source (from geolocation, url slug, etc.)
+ 	countryCode = getSlugFromId[getSelectedLocale()];
+} else {
+	countryCode = getSlugFromId[getLocale()];
+}
+//console.log("+++ 1) in locales.editions.jsp - COUNTRY CODE IS DEFINED AS: "+countryCode+"+++");
+// if countryCode is empty string at this point, it means localeId = 0 which is global (default/core)...
+if (countryCode == "") {
+	countryCode = "us"; // country code for default global is currently US
+}
+//console.log("====INSIDE locales-editions.jsp - getSelectedLocale() = " + getSelectedLocale() + " and getLocale() = " + getLocale() + " and countryCode = " + countryCode);
+//US social media accounts are the default if locale cannot be determined
+var twitterUrl = "https://twitter.com/networkworld";
+var linkedInUrl = "http://www.linkedin.com/company/network-world";
+var facebookUrl = "http://www.facebook.com/#!/pages/Network-World/40168412104";
+var twitterHandle = "networkworld";
+if (countryCode === 'asean') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+if (countryCode === 'uk') {
+	twitterUrl = "";
+	linkedInUrl = "";
+	facebookUrl = "";
+	twitterHandle = "";
+}
+
+//US business unit is the default if locale cannot be determined
+var busUnit = "";
+//cookie policy page
+var localeEdition = "";
+var busUnitAddress = "";
+if (countryCode === 'asean') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+if (countryCode === 'uk') {
+	busUnit = "";
+	localeEdition = "";
+	busUnitAddress = "";
+}
+</script>
+
+	
+	
 	<script src="/www/js/init_device.js"></script>
 	
 	
@@ -327,7 +404,11 @@ function bindReshowCmp() {
 
 
 
-<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20181219112912"></script>
+
+	<script async="async" src="//cdn.adsafeprotected.com/iasPET.1.js"></script>
+
+
+<script type="text/javascript" src="/www/js/ads/gpt_includes.js?v=20190523113415"></script>
 
 <script type="text/javascript">
 	if (adLayer==null || adLayer=='undefined') {
@@ -425,48 +506,12 @@ function bindReshowCmp() {
 		
 		
 	
+	
+	
+	
 </script>
   
-<script src="/www.idge/js/thm_pre.js?v=20181219112912"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-		
-	
-
-
-
-	
-		<script type="text/javascript">
-			//console.log("PROXIMIC RESPONSE: PAGE-LEVEL");
-			(function () {
-			    try {
-                    var proximic_data = {"data":["300003","112200","115500","121100","131100","131111","240000","240002","240003","240004","240001","240005","240006","240007","240008","240009","240011","240012","240013","240014","240017","240015","240016","20f4sh","bkwp85","f3ftk4","2mcn15","5770wv","pi2n85","ku18tu","yhfsd1","72amf8","xx0p8c","ibwrkt","vptcfh","s9o5po","qh9ovz","ihhss6","1o8fv9","86m0tt","skl8g2","2u64rq","8ug70v","li8svo","5jv3dt","wu9nfp","7t9001","e2co9k","folvaf","0nr7l6","z7xuj9","pytywb","2ew8ed","9vsomj","agtqg7","7grvv1","agt9m3","240saz","ered8b","hxze4j","itgwkk","ablabm","le330e","0mkdwh","3e4kn7","500198","500200","500182","500085","500082","500220","500230","500233","500234","500247","500218","500221","500232","500224"]};
-                    IDG.GPT.addTarget("proximic", proximic_data.data);
-                }
-                catch (e){
-			        console.log("Error: " + e);
-                }
-			})();
-		</script>
-	
-	
-
+<script src="/www.idge/js/thm_pre.js?v=20190523113415"></script>
 
 
 	
@@ -487,10 +532,15 @@ function bindReshowCmp() {
 	<script>
 		loadGPT();
 	</script>
-<script type="text/javascript" src="/www/js/ads/gpt_launcher.js"></script>
 
 	
+		<script type="text/javascript" src="/www/js/ads/ias_gpt_launcher.js?v=20190523113415"></script>
 	
+
+	
+
+
+
 	
 	
 	
@@ -610,16 +660,16 @@ function bindReshowCmp() {
 	
 	
 	
-		<link id="mobile-size" rel="stylesheet" href="/www.idge/css/inline-header-mobile.css?v=20181219112912"><link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20181219112912">
+		<link id="mobile-size" rel="stylesheet" href="/www.idge/css/inline-header-mobile.css?v=20190523113415"><link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20190523113415">
 		
 		<script>
 			if (window.matchMedia("(min-width: 768px)").matches) {
-				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20181219112912" />');
+				document.getElementById('mobile-size').insertAdjacentHTML('afterend', '<link id="desktop-size" rel="stylesheet" href="/www.idge/css/inline-header.css?v=20190523113415" />');
 			}
 		</script>
 		
 			
-				<link rel="stylesheet" href="/www.idge.nww/css/inline-header.css?v=20181219112912">
+				<link rel="stylesheet" href="/www.idge.nww/css/inline-header.css?v=20190523113415">
 			
 		
 	
@@ -640,7 +690,8 @@ function bindReshowCmp() {
 				
 					
 					
-						<link rel="stylesheet" href="/www.idge/css/static.css?v=20181219112912">	
+					
+						<link rel="stylesheet" href="/www.idge/css/static.css?v=20190523113415">	
 					
 					
 			
@@ -648,7 +699,7 @@ function bindReshowCmp() {
 		
 		
 		
-			<link rel="stylesheet" href="/www.idge/css/insider-promo-styles.css?v=20181219112912">
+			<link rel="stylesheet" href="/www.idge/css/insider-promo-styles.css?v=20190523113415">
 		
 		<link rel="stylesheet" href="/www.idge/css/print.css" media="print">
 		
@@ -656,7 +707,12 @@ function bindReshowCmp() {
 	
 		
 			
-		<link rel="stylesheet" href="/www.idge.nww/css/static.css?v=20181219112912">
+			
+				
+				
+					<link rel="stylesheet" href="/www.idge.nww/css/static.css?v=20190523113415">
+				
+			
 		
 	
 	
@@ -681,6 +737,9 @@ function bindReshowCmp() {
 	
 		<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 		
+	
+	
+	
 	
 	
 		<script type="text/javascript" src="//fonts.staticworld.net/lbi2kpq.js"></script>
@@ -751,6 +810,7 @@ function bindReshowCmp() {
 
 
 <script>
+var isProd = 'true';
 
 var brandCode = "nww";
 var brandName="Network World";
@@ -766,8 +826,23 @@ var notEmptyArticle=false;
 var notEmptyMediaResource=false;
 var isInsiderPremium=false;
 var isResourceInsiderPremium=false;
+
+var ownerIds=["0c99a1d7-c4e7-42a5-910f-a22134d1f98d"];
+var campaignId="2a3b7224-f920-41a1-bea6-615aa59ea0f8";
 var assetId="697422d1-7acb-40f6-be13-0e67329bc9ec";
 var placementId="2d44d74a-e883-4d18-ada8-b2f0e61a1d90";
+var clientCompany="IDG Communications US";
+var businessUnit="IDG Communications US";
+
+if (countryCode == 'uk') {
+	brandId = "";
+	ownerIds=["f3efa90a-2330-4d42-bbc7-f7f96eb0f3db"];
+	campaignId="a465ea50-b639-4f98-ad1c-bc0b8c80e3c9";
+	assetId="5ab2586f-3bb6-4ad3-84e2-bdd230980e88";
+	placementId="77a1e657-f12c-4f7c-b685-6a9da2eb25d6";
+	clientCompany="IDG Communications";
+	businessUnit="IDG UK";
+}
 
 
 	regApiUrl="https://lqxgcyk808.execute-api.us-east-1.amazonaws.com/prod/api/v1/";
@@ -797,7 +872,7 @@ var placementId="2d44d74a-e883-4d18-ada8-b2f0e61a1d90";
 
 
 <script src="/www/js/utils/alc_hashes.js"></script>
-<script src="/www/js/insider/insider_reg_api.js?v=20181219112912"></script>
+<script src="/www/js/insider/insider_reg_api.js?v=20190523113415"></script>
 <script src="/www/js/insider/jquery.maskedinput-1.4.min.js"></script>
 
 <script>
@@ -829,9 +904,9 @@ $(document).ready(function(){
 
 <!-- Begin Eloqua Tracking -->
 <script type="text/javascript" src="/www/js/analytics/eloqua/elqCfg.js"></script>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqImg.js"></script></head><body id="staticPage" class="static network world" style=""><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1856&amp;ref2=elqNone&amp;tzo=0&amp;ms=794" border="0" width="1" height="1"></layer>
+<script type="text/javascript" src="/www/js/analytics/eloqua/elqImg.js"></script></head><body id="staticPage" class="static network world" style=""><layer hidden="true"><img src="https://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1856&amp;ref2=elqNone&amp;tzo=0&amp;ms=674" border="0" width="1" height="1"></layer>
 <script type="text/javascript" src="/www/js/analytics/eloqua/elqFCS.js"></script><iframe name="elqFCSFra" style="display: none" src="/elqNow/elqBlank.htm" width="1" height="1" frameborder="0" border="0" noresize="" scrolling="no"></iframe>
-<script type="text/javascript" src="/www/js/analytics/eloqua/elqScr.js"></script><script type="text/javascript" language="JavaScript" src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=70&amp;siteid=1856&amp;ref=https://web.archive.org/web/20181230092933id_/http%3A//www.networkworld.com/about/privacy.html&amp;ms=801"></script>
+<script type="text/javascript" src="/www/js/analytics/eloqua/elqScr.js"></script><script type="text/javascript" language="JavaScript" src="https://secure.p01.eloqua.com/visitor/v200/svrGP.aspx?pps=70&amp;siteid=1856&amp;ref=https://web.archive.org/web/20190526153119id_/https%3A//www.networkworld.com/about/privacy.html&amp;ms=679"></script>
 <script type="text/javascript" src="/www/js/analytics/eloqua/elqIDG.js"></script>
 
 
@@ -862,6 +937,8 @@ $(document).ready(function(){
 
 
 
+
+	
 
 	
 	
@@ -901,6 +978,9 @@ $(document).ready(function(){
 	
 	
 	
+	
+	
+	
 
 
 
@@ -920,6 +1000,9 @@ $(document).ready(function(){
 	
 	
 	
+	
+	
+
 	
 	 
 	
@@ -951,6 +1034,7 @@ $(document).ready(function(){
 	
 	
 	
+	
 		
 		
 		
@@ -962,14 +1046,40 @@ $(document).ready(function(){
 		
 	
 	
+	
+	
+	
+	
 
 	
 	
 	
 	
 	
+		<script>
+		window.ntvConfig = window.ntvConfig || {} ;
+		window.ntvConfig.keyValues = window.ntvConfig.keyValues || {};
+		var segs = localStorage.getItem('_pnativo');
+		if (segs) {
+		  window.ntvConfig.keyValues.permutive = JSON.parse(segs).join(",");
+		}
+		</script>
+	
+	
+	
 	
 		<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+	
+
+	
+	
+	
+	<script type="text/javascript">
+		var prodNames = '';
+		var prodManufacturers = '';
+		var prodCategories = '';
+		var prodVendors = '';
+	</script>
 	
 	
 	
@@ -1000,10 +1110,17 @@ $(document).ready(function(){
 	var sincePublished = '';
 	sincePublished = sincePublished.split(" ")[0];
 	
+	//get edition from countryCode
+	var edition = '';
+	if (typeof countryCode !== 'undefined' && countryCode !== "") {//should be defined in locales-editions.jsp if brand has editions
+		edition = countryCode.toLowerCase();
+	}
 	
 	dataLayer=[{
 		'articleId': '',
 		'articleDisplayId':'',
+		'articleHasVideo':'',
+		'articleLocale': '',
 		'articleTitle': '',
 		'articleType': '',
 		'audience':'enterprise',
@@ -1016,9 +1133,11 @@ $(document).ready(function(){
 		'contentType':'resource',
 		'datePublished':'',
 		'dateUpdated':'',
-		'daysSincePublished':sincePublished,
+		'daysSincePublished':"",
 		'daysSinceUpdated':'',
+		'de_normalized_company_name':$.cookie('de_normalized_company_name'),
 		'displayType':'resource',
+		'edition':edition,
 		'environment':'production',
 		'ga_enabled':'true',
 		'gaTrackingId':'UA-230061-1',
@@ -1027,6 +1146,7 @@ $(document).ready(function(){
 		'goldenTaxonomyIdList': '',
 		'industry': dlIndustry,
 		'insiderSignedIn':insiderSignedIn,
+		'ip_normalized_company_name':$.cookie('ip_normalized_company_name'),
 		'isBlog':'false',
 		'isInsiderContent':'false',
 		'isICN': 'false',
@@ -1037,7 +1157,13 @@ $(document).ready(function(){
 		'platform':'Web',
 		'podcastSponsored': 'false',
 		'primaryCategory': '',
+		'ancestorGoldenCategories': '',
 		'primaryCategoryList': '',
+		'primaryAncestorCategoryList': '',
+		'prodCategories':prodCategories.slice('|', -1),
+		'prodManufacturers':prodManufacturers.slice('|', -1),
+		'prodNames':prodNames.slice('|', -1),
+		'prodVendors':prodVendors.slice('|', -1),
 		'property': 'network world',
 		'propertyCountry':'US',
 		'purchaseIntent':'',
@@ -1048,8 +1174,7 @@ $(document).ready(function(){
 		'tags': '',
 		'userId':idg_uuid,
 		'videoAutoplay':'false',
-		'articleHasVideo':'',
-		'ip_company_name':$.cookie('idg_client_organization_name')		
+		'youtubeId':''
 	}];
 	</script>
 	
@@ -1085,8 +1210,6 @@ $(document).ready(function(){
 
 
 
-	
-	
 	
 	
 	
@@ -1144,14 +1267,15 @@ $(document).ready(function(){
 
 
 
+
 	<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-P3S27S"
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?GTM-WR6LD2P"
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-P3S27S');</script>
+	})(window,document,'script','dataLayer','GTM-WR6LD2P');</script>
 	<!-- End Google Tag Manager -->
 
 	
@@ -1173,7 +1297,7 @@ $(document).ready(function(){
 	
 	
 	
-		<script async="" src="//js-sec.indexww.com/ht/p/187051-38906700983313.js"></script>
+		<script async="" src="//js-sec.indexww.com/ht/p/183980-36733216641621.js"></script>
 	
 	
 	
@@ -1211,7 +1335,6 @@ $(document).ready(function(){
 
 <script>
 // IDGMPM-16419 - updated in IDGMPM-16933
-consent.adsel.queue.push(function(){
 	!function(n,e,o,r,i){if(!e){e=e||{},window.permutive=e,e.q=[],e.config=i||{},e.config.projectId=o,e.config.apiKey=r,e.config.environment=e.config.environment||"production";for(var t=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],c=0;c<t.length;c++){var f=t[c];e[f]=function(n){return function(){var o=Array.prototype.slice.call(arguments,0);e.q.push({functionName:n,arguments:o})}}(f)}}}(document,window.permutive,"f5b3be27-f789-4ef1-8867-37c67da5b361","84c7e805-5ce9-41f4-b988-3529488bab1c",{});
 	  permutive.addon('web', {
 	    page: {
@@ -1226,12 +1349,12 @@ consent.adsel.queue.push(function(){
 	        enabled: true
 	      },
 	      gTax: {
-	        primaryIds: [],
-	        secondaryIds: []
+	        primaryIds: [,],
+	        secondaryIds: [,]
 	      },
 	      tax: {
-	        primaryCategories: [stringFromDataLayer('primaryCategory')],
-	        secondaryCategories: stringFromDataLayer('primaryCategoryList').split(",")
+	    	  primaryCategories: stringFromDataLayer('ancestorGoldenCategories').length > 0 ? stringFromDataLayer('ancestorGoldenCategories').split(",").concat(stringFromDataLayer('primaryCategory')) : [stringFromDataLayer('primaryCategory')] ,
+	          secondaryCategories: stringFromDataLayer('primaryAncestorCategoryList').length > 0 ? stringFromDataLayer('primaryCategoryList').split(",").concat(stringFromDataLayer('primaryAncestorCategoryList').split(",")) : stringFromDataLayer('primaryCategoryList').split(",")
 	      }
 	    }
 	  });
@@ -1249,21 +1372,28 @@ consent.adsel.queue.push(function(){
 			  loggedIn: (stringFromDataLayer('insiderSignedIn') == 'true')
 			})
 	  }
-});
+	
+	  //product js vars defined in document-head	  
+	  if (prodNames !== '' || prodManufacturers !== '' || prodCategories !== '' || prodVendors !== '') {
+		  window.permutive.track('Product', {
+			  names: stringFromDataLayer('prodNames').split("|"),
+			  categories: stringFromDataLayer('prodCategories').split("|"),
+			  manufacturers: stringFromDataLayer('prodManufacturers').split("|"),
+			  vendors: stringFromDataLayer('prodVendors').split("|")
+		});
 
-
+	  }
+		 
 
 </script>
 
 <script>
-consent.adsel.queue.push(function(){
 	$.ajax({
 		url: "https://cdn.permutive.com/f5b3be27-f789-4ef1-8867-37c67da5b361-web.js",
 	  	dataType: "script",
 	  	cache: true, // default is false
 	  	async: true // default is true
 	});
-});
 </script>
 	
 	
@@ -1272,6 +1402,7 @@ consent.adsel.queue.push(function(){
 	
 	
 	
+
 
 
 
@@ -1359,16 +1490,19 @@ consent.adsel.queue.push(function(){
 
 
 
-
-
-<!-- BEGIN PAGE HEADER -->
-<header id="banner">
 	
 	
-    <div class="ad">
-  		
-			
 		
+		
+		
+		<!-- BEGIN PAGE HEADER -->
+		<header id="banner">
+			
+			
+		    <div class="ad">
+		  		
+					
+				
 
 
 
@@ -1398,7 +1532,7 @@ consent.adsel.queue.push(function(){
 			
 			
 			
-				<div id="topleaderboard" class=" ad-container">					
+				<div id="topleaderboard" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -1406,6 +1540,7 @@ consent.adsel.queue.push(function(){
 					IDG.GPT.addDisplayedAd("topleaderboard", "true");
 					$('#topleaderboard').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: topleaderboard - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -1415,43 +1550,46 @@ consent.adsel.queue.push(function(){
  	
  
   
-    </div>
+		    </div>
+			
+			
+			
+			
+			
+			
+		    
+		    
+		    
+		    	
+		    	<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('.main-header').insertBefore($('#banner .ad'));
+		    	}
+				</script>
+				
+				
+				<div class="topics-wrap">
+				    <section class="topics">
+				        <nav id="scrollable">
+					        
+								
+									
+									
+										
+									
+								
+
+
+
+
+
+
+
+
+
+
+
 	
-	
-	
-	
-	
-    
-    
-    
-    	
-    	<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('.main-header').insertBefore($('#banner .ad'));
-    	}
-		</script>
-		
-		
-		<div class="topics-wrap">
-		    <section class="topics">
-		        <nav id="scrollable">
-					
-						
-						
-							
-						
-					
-
-
-
-
-
-
-
-
-
-
-
 	
 	
 	
@@ -1484,10 +1622,14 @@ consent.adsel.queue.push(function(){
 					
 					
 					
+					
+						
+					
 				
 				
 			
 		
+
 
 
 
@@ -1510,25 +1652,30 @@ consent.adsel.queue.push(function(){
 			
 		
 		
+	
 	
 	
 	<ul>
 		
 		
 			
-				<li><a href="https://www.networkworld.com/article/3269736/internet-of-things/getting-grounded-in-iot-networking-and-security.html" target="_blank" rel="nofollow">Getting grounded in IoT networking and security</a></li>
+				<li><a class="edition-link-url" href="https://www.youtube.com/idgtechtalk" target="_blank" rel="nofollow">VIDEO</a></li>
 			
 		
 			
-				<li><a href="https://www.networkworld.com/article/3271174/uc-voip/10-competitors-cisco-just-cant-kill-off.html" target="_blank" rel="nofollow">10 competitors Cisco just can't kill off </a></li>
+				<li><a class="edition-link-url" href="https://www.networkworld.com/category/internet-of-things/?nsdr=true" target="_blank" rel="nofollow">IoT</a></li>
 			
 		
 			
-				<li><a href="https://www.networkworld.com/video/series/8559/2-minute-linux-tips" target="_blank" rel="nofollow">2-minute Linux tips</a></li>
+				<li><a class="edition-link-url" href="https://www.networkworld.com/video/series/8559/2-minute-linux-tips" target="_blank" rel="nofollow">2-minute Linux tips</a></li>
 			
 		
 			
-				<li><a href="/resources/">Resources/White Papers</a></li>
+				<li><a class="edition-link-url" href="https://www.networkworld.com/newsletters/signup.html" target="_blank" rel="nofollow">Newsletters</a></li>
+			
+		
+			
+				<li><a class="edition-link-url" href="/resources/">Resources/White Papers</a></li>
 			
 		
 	</ul>
@@ -1536,682 +1683,117 @@ consent.adsel.queue.push(function(){
 	
 
 
-		        </nav>
-		        
-		        <div class="fading-gradient"></div>
-		        
-		        
-		        <nav class="tools">
-		        	<ul class="user">
-	                     
-	                     	<li class="search-icon"><a href="#search" id="search-btn"><i class="ss-icon">Search</i></a></li>
-	                     
-	                 </ul>
-	                 <ul class="social">
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<li><a href="https://twitter.com/networkworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
-
-
-
-	<li><a href="http://www.linkedin.com/company/network-world" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
-
-
-
-	<li><a href="http://www.facebook.com/#!/pages/Network-World/40168412104" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
-
-
-
-
-
-
-
-	<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
-
-
-
-
-	<li class="more-social"><i class="ss-icon ss-ellipsis"></i></li>
-
-	                 </ul>
-	             </nav>
-	             
-		    </section>
-	    </div>
-	    
-	    
-        	 <div id="sticky-anchor"></div>
-        
-	    <section id="sticky-head" class="main">
-	        <div class="wrapper">
-	            <div class="masthead">
-	                
-	                <button><i class="ss-icon ss-rows"></i></button>
-	                
-	                <a href="/"><span class="ir logo">network world</span></a>
-	            	<!--
-	            	<img class="print-only" src="/www.idge.nww/images/networkworld-logo-print.png">
-	            	-->
-	            	
-	            	<img class="print-only" src="//idge.staticworld.net/nww/networkworld-logo-print.png">
-	            	
-	            </div>
-	            <div id="reading-tools-wrapper">
-
-	                
-	                <nav class="tools">
-	                    
-	                    <ul class="user">
-	                    	
-	                    	
-	                    	
-	                    	
-	                        
-	                    </ul>
-	                </nav>
-	            </div>
-	            
-	            
-	            	<div class="insider-signin">
-	            	
-	            		<span class="signin-register" style="display: none;">
-	            			<a href="/learn-about-insider/"><span class="insider"></span></a> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-signin')" class="js-open-modal signin" data-modal-id="insider-popup">Sign In</a> <span class="divider">|</span> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-form-short')" class="js-open-modal register" data-modal-id="insider-popup">Register</a>
-	            		</span>
-	            	
-	            		<div id="welcome-message" class="insider-list" style="display: none;">
-		                    <div id="insider-selector">
-		                        <div id="insider-welcome" class="label"></div>
-		                        
-		                        <div class="stories">
-		                        	
-		                        	<div class="personalization">Hi<span id="person-first-name"></span>! Here are the latest Insider stories.</div>
-		                        	
-		                        	
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<ul>
-		
-			
-			
-				
-					
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
 							
-						
-						
-						
-							
-						
-						
-						
-					
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="/article/3328218/careers/how-to-boost-collaboration-between-network-and-security-teams.html">How to boost collaboration between network and security teams</a></li>
-				
-				
-			
-		
-			
-			
-				
-					
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-							
-						
-						
-						
-							
-						
-						
-						
-					
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="/article/3327504/internet-of-things/10-questions-to-ask-when-selecting-enterprise-iot-solutions.html">10 questions to ask when selecting enterprise IoT solutions</a></li>
-				
-				
-			
-		
-			
-			
-				
-					
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-							
-						
-						
-						
-							
-						
-						
-						
-					
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="/article/3328488/backup-systems-and-services/how-to-pick-an-off-site-data-backup-method.html">How to pick an off-site data-backup method</a></li>
-				
-				
-			
-		
-			
-			
-				
-					
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-							
-						
-						
-						
-							
-						
-						
-						
-					
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="/article/3326298/data-center/10-hot-data-center-virtualization-startups-to-watch.html">10 hot data-center virtualization startups to watch </a></li>
-				
-				
-			
-		
-	</ul>
-
-
-
-
+						</nav>
+				        
+				        <div class="fading-gradient"></div>
+				        
+				        
+				           
+					        
+					        <nav class="tools">
+					        	<ul class="user">
+				                     
+				                     	<li class="search-icon"><a href="#search" id="search-btn"><i class="ss-icon">Search</i></a></li>
+				                     
+				                 </ul>
+				                 <ul class="social">
 									
-									<div class="sign-out-link">
-										<a class="more-insider" href="/insider/">More Insider</a>
-										<a class="sign-out" href="javascript://" onclick="IDG.insiderReg.logout()">Sign Out</a>
-									</div>
-								</div>
-								
-		                    </div>
-		                </div>
-		         
-	            	</div>
-	            	<script>
-	            		$('.signin-register').hide();	
-	            		$('#welcome-message').hide();
-	            	</script>
-	            	
-	            
-	            
-	        </div>
-	    </section>
-	    <section class="tools-expand  ">
-	        
-	        
-	        
-	        
-	        	
-	        	
-	        		
-			        <form class="search" id="search-form" action="/search">
-			            <label for="search-box">Search for</label>
-						<input type="text" name="query" id="banner-search-term" value="" class="searchbox-input-class">
-			            <input type="submit" id="banner-search-submit" value="Go">
-			            <input type="hidden" name="contentType" value="article,resource">
-			            <div class="search-suggest">Suggestions for you</div>
-			        </form>
-			    
-			
-	        <div class="user">
-	            <form>
-	                <label for="login-email">Insider email</label> <input id="login-email" type="text">
-	            </form>
-	        </div>
-	        
-	    </section>
-	    
-	    
-	    
-		
-		
-    		<div id="sticky-anchor-nav"></div>
-    	
-    	
-	    <nav id="sticky-nav" class="main">
-	    	<ul class="topnav">
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/careers/">Careers</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/cloud-computing/" class="hasChildren">Cloud Computing<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/cloud-computing/">All Cloud Computing</a></li>
-		            			
-		            				<li><a href="/category/hybrid-cloud/">Hybrid Cloud</a></li>
-		            			
-		            				<li><a href="/category/private-cloud/">Private Cloud</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/data-center/" class="hasChildren">Data Centers<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/data-center/">All Data Centers</a></li>
-		            			
-		            				<li><a href="/category/business-continuity/">Business Continuity</a></li>
-		            			
-		            				<li><a href="/category/green-it/">Green IT</a></li>
-		            			
-		            				<li><a href="/category/network-storage/">Network Storage</a></li>
-		            			
-		            				<li><a href="/category/servers/">Server Hardware</a></li>
-		            			
-		            				<li><a href="/category/virtual-desktop/">Virtual Desktop</a></li>
-		            			
-		            				<li><a href="/category/virtualization/">Virtualization</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/disaster-recovery/">Disaster Recovery</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/infrastructure/" class="hasChildren">Infrastructure Management<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/infrastructure/">All Infrastructure Management</a></li>
-		            			
-		            				<li><a href="/category/application-performance-management/">Application Performance Management</a></li>
-		            			
-		            				<li><a href="/category/asset-management/">Asset Management</a></li>
-		            			
-		            				<li><a href="/category/network-management/">Network Management</a></li>
-		            			
-		            				<li><a href="/category/system-management/">System Management</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/internet-of-things/">Internet of Things</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/linux/">Linux</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/mobile-wireless/">Mobile &amp; Wireless</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/lan-wan/" class="hasChildren">Networking<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/lan-wan/">All Networking</a></li>
-		            			
-		            				<li><a href="/category/internet/">Internet</a></li>
-		            			
-		            				<li><a href="/category/router/">Routers</a></li>
-		            			
-		            				<li><a href="/category/sd-wan/">SD-WAN</a></li>
-		            			
-		            				<li><a href="/category/software-defined-networking/">SDN</a></li>
-		            			
-		            				<li><a href="/category/telecommunications-industry/">Telecommunications Industry</a></li>
-		            			
-		            				<li><a href="/category/wide-area-networking/">WAN</a></li>
-		            			
-		            				<li><a href="/category/wan-optimization/">WAN Optimization</a></li>
-		            			
-		            				<li><a href="/category/wi-fi/">Wi-Fi</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/security/">Security</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/storage/">Storage</a>
-	            		
-	            		
-	            	
-	            		
-	            		
-	        		</li>
-				
-					
-	        		
-	        		
-	        			
-	        				<li><a href="/category/uc-voip/" class="hasChildren">Unified Communications<span class="ss-icon ss-navigatedown"></span></a>
-	            		
-	            		
-	            	
-	            		
-	            		
-		            		<ul class="subnav">
-		                		<li><a href="/category/uc-voip/">All Unified Communications</a></li>
-		            			
-		            				<li><a href="/category/collaboration/">Collaboration</a></li>
-		            			
-		            				<li><a href="/category/email/">Email</a></li>
-		            			
-		            				<li><a href="/category/social-networking/">Social Networking</a></li>
-		            			
-		            				<li><a href="/category/videoconferencing/">Videoconferencing</a></li>
-		            			
-		            				<li><a href="/category/voip/">VoIP</a></li>
-		            			
-		            		</ul>
-		            	
-	        		</li>
-				
-			</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
-	    	<ul class="secondary">
-           		
-           		
+		<li><a href="https://twitter.com/networkworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+	
+	
+		<li><a href="http://www.linkedin.com/company/network-world" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
+	
+	
+	
+		<li><a href="http://www.facebook.com/#!/pages/Network-World/40168412104" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
+	
+	
+	
+	
+	
+	
+	
+		<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
+	
+	
+	
+	
+	
+		<li class="more-social"><i class="ss-icon ss-ellipsis"></i></li>
+	
+
+				                 </ul>
+				             </nav>
+				             
+			             
+				    </section>
+			    </div>
+			    
+			    
+		        	 <div id="sticky-anchor"></div>
+		        
+			    <section id="sticky-head" class="main ">
+			        <div class="wrapper">
+			            <div class="masthead">
+			                
+			                <button><i class="ss-icon ss-rows"></i></button>
+			                
+			                <a href="/"><span class="ir logo">network world</span></a>
+			            	<!--
+			            	<img class="print-only" src="/www.idge.nww/images/networkworld-logo-print.png">
+			            	-->
+			            	
+			            	<img class="print-only" src="//idge.staticworld.net/nww/networkworld-logo-print.png">
+			            	
+			            </div>
+			            <div id="reading-tools-wrapper">
+		
+			                
+			                <nav class="tools">
+			                    
+			                    <ul class="user">
+			                    	
+			                    	
+			                    	
+			                    	
+			                        
+			                    </ul>
+			                </nav>
+			            </div>
+			            
+			            
+			            	<div class="insider-signin">
+			            	
+			            		<span class="signin-register" style="display: none;">
+			            			<a href="/learn-about-insider/"><span class="insider"></span></a> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-signin')" class="js-open-modal signin" data-modal-id="insider-popup">Sign In</a> <span class="divider">|</span> <a href="javascript://" onclick="IDG.insiderReg.registerLinkEvent('insider-reg-form-short')" class="js-open-modal register" data-modal-id="insider-popup">Register</a>
+			            		</span>
+			            	
+			            		<div id="welcome-message" class="insider-list" style="display: none;">
+				                    <div id="insider-selector">
+				                        <div id="insider-welcome" class="label"></div>
+				                        
+				                        <div class="stories">
+				                        	
+				                        	<div class="personalization">Hi<span id="person-first-name"></span>! Here are the latest Insider stories.</div>
+				                        	
+				                        	
 
 
 
@@ -2222,6 +1804,621 @@ consent.adsel.queue.push(function(){
 
 
 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<ul>
+		
+			
+			
+				
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+							
+						
+						
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/article/3395137/top-auto-makers-rely-on-cloud-providers-for-iot.html">Top auto makers rely on cloud providers for IoT</a></li>
+				
+				
+			
+		
+			
+			
+				
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+							
+						
+						
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/article/3211410/the-10-most-powerful-companies-in-enterprise-networking.html">The 10 most powerful companies in enterprise networking</a></li>
+				
+				
+			
+		
+			
+			
+				
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+							
+						
+						
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/article/3391413/10-hot-iot-security-startups-to-watch.html">10 Hot IoT security startups to watch </a></li>
+				
+				
+			
+		
+			
+			
+				
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+							
+						
+						
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="/article/3392818/health-care-is-still-stitching-together-iot-systems.html">Health-care IoT remains challenged by IT concerns, practitioner buy-in</a></li>
+				
+				
+			
+		
+	</ul>
+
+
+
+
+											
+											<div class="sign-out-link">
+												<a class="more-insider" href="/insider/">More Insider</a>
+												<a class="sign-out" href="javascript://" onclick="IDG.insiderReg.logout()">Sign Out</a>
+											</div>
+										</div>
+										
+				                    </div>
+				                </div>
+				         
+			            	</div>
+			            	<script>
+			            		$('.signin-register').hide();	
+			            		$('#welcome-message').hide();
+			            	</script>
+			            	
+			            
+			            
+			        </div>
+			    </section>
+			    <section class="tools-expand  ">
+			        
+			        
+			        
+			        
+			        	
+			        	
+			        		
+					        <form class="search" id="search-form" action="/search">
+					            <label for="search-box">Search for</label>
+								<input type="text" name="query" id="banner-search-term" value="" class="searchbox-input-class">
+					            <input type="submit" id="banner-search-submit" value="Go">
+					            <input type="hidden" name="contentType" value="article,resource">
+					            <div class="search-suggest">Suggestions for you</div>
+					        </form>
+					    
+					
+			        <div class="user">
+			            <form>
+			                <label for="login-email">Insider email</label> <input id="login-email" type="text">
+			            </form>
+			        </div>
+			        
+			    </section>
+			    
+			    
+			    
+				
+				
+		    		<div id="sticky-anchor-nav"></div>
+		    	
+		    	
+			    <nav id="sticky-nav" class="main">
+			    	<ul class="topnav">
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/careers/">Careers</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/cloud-computing/" class="hasChildren">Cloud Computing<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/cloud-computing/">All Cloud Computing</a></li>
+				            			
+				            			
+				            				<li><a href="/category/hybrid-cloud/">Hybrid Cloud</a></li>
+				            			
+				            			
+				            				<li><a href="/category/private-cloud/">Private Cloud</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/data-center/" class="hasChildren">Data Centers<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/data-center/">All Data Centers</a></li>
+				            			
+				            			
+				            				<li><a href="/category/business-continuity/">Business Continuity</a></li>
+				            			
+				            			
+				            				<li><a href="/category/desktop-virtualization/">Desktop Virtualization</a></li>
+				            			
+				            			
+				            				<li><a href="/category/green-it/">Green IT</a></li>
+				            			
+				            			
+				            				<li><a href="/category/network-storage/">Network Storage</a></li>
+				            			
+				            			
+				            				<li><a href="/category/servers/">Servers</a></li>
+				            			
+				            			
+				            				<li><a href="/category/virtualization/">Virtualization</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/disaster-recovery/">Disaster Recovery</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/infrastructure/" class="hasChildren">Infrastructure<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/infrastructure/">All Infrastructure</a></li>
+				            			
+				            			
+				            				<li><a href="/category/application-performance-management/">Application Performance Management</a></li>
+				            			
+				            			
+				            				<li><a href="/category/asset-management/">Asset Management</a></li>
+				            			
+				            			
+				            				<li><a href="/category/network-management/">Network Management</a></li>
+				            			
+				            			
+				            				<li><a href="/category/systems-management/">Systems Management</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/internet-of-things/">Internet of Things</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/linux/">Linux</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/mobile/">Mobile</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/networking/" class="hasChildren">Networking<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/networking/">All Networking</a></li>
+				            			
+				            			
+				            				<li><a href="/category/internet/">Internet</a></li>
+				            			
+				            			
+				            				<li><a href="/category/network-router/">Routers</a></li>
+				            			
+				            			
+				            				<li><a href="/category/sd-wan/">SD-WAN</a></li>
+				            			
+				            			
+				            				<li><a href="/category/software-defined-networking/">SDN</a></li>
+				            			
+				            			
+				            				<li><a href="/category/telecommunications-industry/">Telecommunications Industry</a></li>
+				            			
+				            			
+				            				<li><a href="/category/wide-area-networking/">WAN</a></li>
+				            			
+				            			
+				            				<li><a href="/category/wan-optimization/">WAN Optimization</a></li>
+				            			
+				            			
+				            				<li><a href="/category/wi-fi/">Wi-Fi</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/security/">Security</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/storage/">Storage</a>
+			            		
+			            		
+			            	
+			            		
+			            		
+			        		</li>
+						
+						
+							
+			        		
+			        		
+			        			
+			        				<li><a href="/category/unified-communications/" class="hasChildren">Unified Communications<span class="ss-icon ss-navigatedown"></span></a>
+			            		
+			            		
+			            	
+			            		
+			            		
+				            		<ul class="subnav">
+				                		<li><a href="/category/unified-communications/">All Unified Communications</a></li>
+				            			
+				            			
+				            				<li><a href="/category/collaboration/">Collaboration</a></li>
+				            			
+				            			
+				            				<li><a href="/category/email/">Email</a></li>
+				            			
+				            			
+				            				<li><a href="/category/social-networking/">Social Networking</a></li>
+				            			
+				            			
+				            				<li><a href="/category/videoconferencing/">Videoconferencing</a></li>
+				            			
+				            			
+				            				<li><a href="/category/voice-over-ip/">Voice over IP (VoIP)</a></li>
+				            			
+				            		</ul>
+				            	
+			        		</li>
+						
+					</ul>
+			
+			    	<ul class="secondary">
+		           		
+		           		
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="#" class="hasChildren">Playlists<span class="ss-icon ss-navigatedown"></span></a>
+	<ul class="subnav">
+		<li><a href="https://www.networkworld.com/securing-sd-wan/playlist/sd-wan?utm_source=IDG&amp;utm_campaign=Fortinet18026&amp;utm_medium=NetworkWorld.com&amp;utm_content=HamburgMenu">Securing SD-WAN<span class="sponsor-nav">Sponsored by Fortinet</span></a></li>		
+	</ul>
+</li>
 <li><a href="/news/">News</a></li>
 <li><a href="/reviews/">Reviews</a></li>
 <li><a href="/insider/">Insider</a></li>
@@ -2230,256 +2427,256 @@ consent.adsel.queue.push(function(){
 <li><a href="/newsletters/signup.html">Newsletters</a></li>
 <li><a href="/video/">Video</a></li>
 <li><a href="http://www.ereg.me/IDGEvents" target="_blank" rel="nofollow">Network World Events</a></li>
+		           		
+			    	</ul>
+				</nav>
+				
+			
+			
+			
+			
+			
 
-           		
-	    	</ul>
-		</nav>
+			
+			
+				<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('div.insider-signin').prependTo('section.topics nav.tools');
+		    	}
+				</script>
+			
+		    
+				<script>
+				$(document).ready(function(){
+					if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+						$("nav ul li a.hasChildren").attr("href", "#").addClass('notMobile');
+						$('nav#sticky-nav ul.secondary').addClass('topnav');
+					}
+					if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+						$("nav#sticky-nav > ul").switchClass("topnav", "primary");
+					}
+				});
+				</script>
+			
+			
+				
+		    	<script>
+		    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+					$('#sticky-anchor, section.main, section.topics, section.tools-expand, #sticky-anchor-nav, nav.main').insertBefore($('#banner .ad'));
+					$(document).ready(function(){
+						$('#banner section.tools-expand').addClass('top-margin');
+					});
+		    	}
+				</script>
+				
+			
+			
+			
+		</header><iframe name="__cmpLocator" style="display: none;"></iframe>
 		
-	
-	
-	
-	
-	
-	
-	
-		<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('div.insider-signin').prependTo('section.topics nav.tools');
-    	}
-		</script>
-	
-    
+		
+		
 		<script>
 		$(document).ready(function(){
+			$('body').addClass('insider-plus');
+			
+			var headerHeight = $('header#banner').height(); // height for desktop on load not fixed
+			$('header#banner nav#sticky-nav.main.no-stick').css("top", headerHeight);
+			
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){	
+				var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main').height();
+				stickyHeaderHeight = stickyHeaderHeight - 8;
+			}
+			
+			// Listen for orientation changes - mobile devices have a problem resizing fixed position elements on
+			// orientation change from portrait to landscape so scrolling to current position of header
+			var supportsOrientationChange = "onorientationchange" in window,
+		    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
+			
 			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-				$("nav ul li a.hasChildren").attr("href", "#").addClass('notMobile');
-				$('nav#sticky-nav ul.secondary').addClass('topnav');
+				window.addEventListener(orientationEvent, function() {
+					var top = $('section#sticky-head.main').offset().top;
+					if (top < 170) {
+						top = 0; // so we don't miss the top leaderboard or ticker on change
+					} else {
+						top = top - 50; //acknowledging "shorter" top on landscape than portrait
+					}
+					if (window.orientation == 90 || window.orientation == -90) {
+						window.scrollTo(0, top);
+					}
+				}, false);
 			}
+			
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $thm.deviceHeight() < 768 ) {
+				if($('html').hasClass('touch')) {
+					$('#insider-popup.modal-box .modal-body').addClass('short');
+				} else {
+					$('#insider-popup.modal-box .modal-body').addClass('short-desk');
+				}
+			}
+			
 			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-				$("nav#sticky-nav > ul").switchClass("topnav", "primary");
+				window.addEventListener(orientationEvent, function() {
+					var top = $('section#sticky-head.main').offset().top;
+					if (top < 50) {  // top is fixed on mobile so this is when user is at very top
+						top = 5; // scroll 5 pixels from 0 to resize fixed header from portrait
+					} else {
+						top = top - 40;
+					}
+					if (window.orientation == 90 || window.orientation == -90) {
+						window.scrollTo(0, top);
+					}
+				}, false);
 			}
-		});
-		</script>
-	
-	
-		
-    	<script>
-    	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-			$('#sticky-anchor, section.main, section.topics, section.tools-expand, #sticky-anchor-nav, nav.main').insertBefore($('#banner .ad'));
-			$(document).ready(function(){
-				$('#banner section.tools-expand').addClass('top-margin');
+			
+			//nexus 7 is sized mobile in portrait and tablet in landscape
+			var ua = navigator.userAgent.toLowerCase();
+			var isAndroid = ua.indexOf("android") > -1;
+			window.addEventListener(orientationEvent, function() {
+			    if(isAndroid && (screen.width == 600 || screen.width == 960)) {
+			    	location.reload(true); // refreshing page for changes to header
+			    }
+			}, false);
+			
+			if ($thm.deviceWidthAtLeast($thm.deviceBreakpoints.desktop) && !$('html').hasClass('touch')){
+				$("ul.social li.more-social").mouseenter(function() {
+					$('ul.social > li').addClass('display-icon');
+				});
+				$("ul.social").mouseleave(function() {
+					$('ul.social > li').removeClass('display-icon');
+				});
+			};
+			
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $('html').hasClass('touch')){
+				$("ul.social li.more-social").click(function() {
+					$('ul.social > li').toggleClass('display-icon');
+				});
+			};
+			
+			$('.searchbox-input-class').each(function(){
+			    $(this).change(function(){
+			    	var qStr=$(this).val();
+			    	if($(this).val().indexOf('@')!=-1){
+			    		qStr=qStr.replace(/@/g,' ');
+			    		$(this).val(qStr);
+			    	}
+			    });
 			});
-    	}
+			
+		});
+		
+		function sticky_relocate() {
+			var headerHeight = $('header#banner').height(); // height for desktop	
+			//$('header#banner nav#sticky-nav.main').css("top", headerHeight);
+			
+			var winHeight = $(window).height();
+			// desktop
+			if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide ) ){
+				winHeight = winHeight - 40;
+				if (window.orientation == 90 || window.orientation == -90) {
+					winHeight = winHeight + 50; // landscape tablet 1024
+				}
+			}// tablet
+			else if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && !$thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide) ) {
+				winHeight = winHeight + 40;
+			} else { // mobile
+				winHeight = winHeight + 10;
+			}
+			
+			$('#banner nav#sticky-nav.main').css("height", winHeight); // flyout nav height
+		
+			// tablet and desktop
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    var window_top = $(window).scrollTop();
+			    var div_top = $('#sticky-anchor').offset().top;
+			    if (window_top > div_top) {
+			        $('#sticky-head').addClass('stick');
+			        $('#page-wrapper').addClass('top-pad');
+			        $('#banner .ad').addClass('top-margin');
+			    } else {
+			        $('#sticky-head').removeClass('stick');
+			        $('#page-wrapper').removeClass('top-pad');
+			        $('#banner .ad').removeClass('top-margin');
+			    }
+			}
+			// mobile
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+				$('section.topics').addClass('stick-topics');
+				$('#sticky-head').addClass('stick-head');
+				$('#page-wrapper').addClass('top-pad');
+				$('#banner .ad').addClass('top-margin');
+				$('#banner section.tools-expand').addClass('search');
+				  
+				var window_top = $(window).scrollTop();
+				var div_top = $('#sticky-anchor').offset().top + 30;
+			    if (window_top > div_top) {
+			    	$('#sticky-head').addClass('stick');
+			    	$('.topics.stick-topics, #search-form').addClass('remove');
+			    	$('li.search-icon').fadeOut("fast");
+			    } else {
+			    	$('#sticky-head').removeClass('stick');
+			    	$('.topics.stick-topics, #search-form').removeClass('remove');
+			    	$('li.search-icon').fadeIn("fast");
+			    }
+			}// end mobile
+		    
+			// tablet and desktop flyout nav
+			if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    if ($('#sticky-head').hasClass('stick')) {
+			    	var stickyHeaderHeight = $('section.main').height(); // height of the fixed header for tablet and desktop
+			    	stickyHeaderHeight = 52; // setting fixed height - same across all sites
+					$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+			        $('#sticky-nav').addClass('stick');
+			        $('#sticky-nav').removeClass('no-stick');
+			    } else {
+			    	stickyHeaderHeight = $('header#banner').height();
+			    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+			        $('#sticky-nav').removeClass('stick');
+			        $('#sticky-nav').addClass('no-stick');
+			    }
+			    
+			}// end tablet/desktop
+			
+			
+			// mobile flyout nav
+			if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
+			    	
+		    	var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main.stick-head').height(); // height of the fixed header for mobile
+		    	stickyHeaderHeight = stickyHeaderHeight - 8;  // 8 seems appropriate
+		    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
+		        $('#sticky-nav').addClass('stick');
+		
+		        if ($('#sticky-head').hasClass('stick')) {
+		        	$('#sticky-head.stick').siblings('#sticky-nav').addClass('nav-stick');
+		        	$('#sticky-head').siblings('#sticky-nav').removeClass('no-stick');
+		        } else {
+		        	$('#sticky-head').siblings('#sticky-nav').removeClass('nav-stick');
+		        	$('#sticky-head').siblings('#sticky-nav').addClass('no-stick');
+		        }
+		
+			}// end mobile
+			
+		    
+		} // end sticky_relocate
+		
+		
+		
+			try {
+				performance.mark("mark_sticky_nav_nsdr_ready");
+			}
+			catch(e) {
+				console.log("Error saving performance mark -- this function may not be supported in this browser");
+			}
+		
+		
+		
+		$(function () {
+		    $(window).scroll(sticky_relocate);
+		    sticky_relocate();
+		});
 		</script>
 		
-	
-	
-	
-</header><iframe name="__cmpLocator" style="display: none;"></iframe>
-
-
-
-<script>
-$(document).ready(function(){
-	$('body').addClass('insider-plus');
-	
-	var headerHeight = $('header#banner').height(); // height for desktop on load not fixed
-	$('header#banner nav#sticky-nav.main.no-stick').css("top", headerHeight);
-	
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){	
-		var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main').height();
-		stickyHeaderHeight = stickyHeaderHeight - 8;
-	}
-	
-	// Listen for orientation changes - mobile devices have a problem resizing fixed position elements on
-	// orientation change from portrait to landscape so scrolling to current position of header
-	var supportsOrientationChange = "onorientationchange" in window,
-    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		window.addEventListener(orientationEvent, function() {
-			var top = $('section#sticky-head.main').offset().top;
-			if (top < 170) {
-				top = 0; // so we don't miss the top leaderboard or ticker on change
-			} else {
-				top = top - 50; //acknowledging "shorter" top on landscape than portrait
-			}
-			if (window.orientation == 90 || window.orientation == -90) {
-				window.scrollTo(0, top);
-			}
-		}, false);
-	}
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $thm.deviceHeight() < 768 ) {
-		if($('html').hasClass('touch')) {
-			$('#insider-popup.modal-box .modal-body').addClass('short');
-		} else {
-			$('#insider-popup.modal-box .modal-body').addClass('short-desk');
-		}
-	}
-	
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		window.addEventListener(orientationEvent, function() {
-			var top = $('section#sticky-head.main').offset().top;
-			if (top < 50) {  // top is fixed on mobile so this is when user is at very top
-				top = 5; // scroll 5 pixels from 0 to resize fixed header from portrait
-			} else {
-				top = top - 40;
-			}
-			if (window.orientation == 90 || window.orientation == -90) {
-				window.scrollTo(0, top);
-			}
-		}, false);
-	}
-	
-	//nexus 7 is sized mobile in portrait and tablet in landscape
-	var ua = navigator.userAgent.toLowerCase();
-	var isAndroid = ua.indexOf("android") > -1;
-	window.addEventListener(orientationEvent, function() {
-	    if(isAndroid && (screen.width == 600 || screen.width == 960)) {
-	    	location.reload(true); // refreshing page for changes to header
-	    }
-	}, false);
-	
-	if ($thm.deviceWidthAtLeast($thm.deviceBreakpoints.desktop) && !$('html').hasClass('touch')){
-		$("ul.social li.more-social").mouseenter(function() {
-			$('ul.social > li').addClass('display-icon');
-		});
-		$("ul.social").mouseleave(function() {
-			$('ul.social > li').removeClass('display-icon');
-		});
-	};
-	
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && $('html').hasClass('touch')){
-		$("ul.social li.more-social").click(function() {
-			$('ul.social > li').toggleClass('display-icon');
-		});
-	};
-	
-	$('.searchbox-input-class').each(function(){
-	    $(this).change(function(){
-	    	var qStr=$(this).val();
-	    	if($(this).val().indexOf('@')!=-1){
-	    		qStr=qStr.replace(/@/g,' ');
-	    		$(this).val(qStr);
-	    	}
-	    });
-	});
-	
-});
-
-function sticky_relocate() {
-	var headerHeight = $('header#banner').height(); // height for desktop	
-	//$('header#banner nav#sticky-nav.main').css("top", headerHeight);
-	
-	var winHeight = $(window).height();
-	// desktop
-	if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide ) ){
-		winHeight = winHeight - 40;
-		if (window.orientation == 90 || window.orientation == -90) {
-			winHeight = winHeight + 50; // landscape tablet 1024
-		}
-	}// tablet
-	else if ( $thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet) && !$thm.deviceWidthAtLeast($thm.deviceBreakpoints.wide) ) {
-		winHeight = winHeight + 40;
-	} else { // mobile
-		winHeight = winHeight + 10;
-	}
-	
-	$('#banner nav#sticky-nav.main').css("height", winHeight); // flyout nav height
-
-	// tablet and desktop
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    var window_top = $(window).scrollTop();
-	    var div_top = $('#sticky-anchor').offset().top;
-	    if (window_top > div_top) {
-	        $('#sticky-head').addClass('stick');
-	        $('#page-wrapper').addClass('top-pad');
-	        $('#banner .ad').addClass('top-margin');
-	    } else {
-	        $('#sticky-head').removeClass('stick');
-	        $('#page-wrapper').removeClass('top-pad');
-	        $('#banner .ad').removeClass('top-margin');
-	    }
-	}
-	// mobile
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-		$('section.topics').addClass('stick-topics');
-		$('#sticky-head').addClass('stick-head');
-		$('#page-wrapper').addClass('top-pad');
-		$('#banner .ad').addClass('top-margin');
-		$('#banner section.tools-expand').addClass('search');
-		  
-		var window_top = $(window).scrollTop();
-		var div_top = $('#sticky-anchor').offset().top + 30;
-	    if (window_top > div_top) {
-	    	$('#sticky-head').addClass('stick');
-	    	$('.topics.stick-topics, #search-form').addClass('remove');
-	    	$('li.search-icon').fadeOut("fast");
-	    } else {
-	    	$('#sticky-head').removeClass('stick');
-	    	$('.topics.stick-topics, #search-form').removeClass('remove');
-	    	$('li.search-icon').fadeIn("fast");
-	    }
-	}// end mobile
-    
-	// tablet and desktop flyout nav
-	if($thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    if ($('#sticky-head').hasClass('stick')) {
-	    	var stickyHeaderHeight = $('section.main').height(); // height of the fixed header for tablet and desktop
-	    	stickyHeaderHeight = 52; // setting fixed height - same across all sites
-			$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-	        $('#sticky-nav').addClass('stick');
-	        $('#sticky-nav').removeClass('no-stick');
-	    } else {
-	    	stickyHeaderHeight = $('header#banner').height();
-	    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-	        $('#sticky-nav').removeClass('stick');
-	        $('#sticky-nav').addClass('no-stick');
-	    }
-	    
-	}// end tablet/desktop
-	
-	
-	// mobile flyout nav
-	if(!$thm.deviceWidthAtLeast($thm.deviceBreakpoints.tablet)){
-	    	
-    	var stickyHeaderHeight = $('section.topics').height() + $('#sticky-head.main.stick-head').height(); // height of the fixed header for mobile
-    	stickyHeaderHeight = stickyHeaderHeight - 8;  // 8 seems appropriate
-    	$('header#banner nav#sticky-nav.main').css("top", stickyHeaderHeight);
-        $('#sticky-nav').addClass('stick');
-
-        if ($('#sticky-head').hasClass('stick')) {
-        	$('#sticky-head.stick').siblings('#sticky-nav').addClass('nav-stick');
-        	$('#sticky-head').siblings('#sticky-nav').removeClass('no-stick');
-        } else {
-        	$('#sticky-head').siblings('#sticky-nav').removeClass('nav-stick');
-        	$('#sticky-head').siblings('#sticky-nav').addClass('no-stick');
-        }
-
-	}// end mobile
-	
-    
-} // end sticky_relocate
-
-
-
-	try {
-		performance.mark("mark_sticky_nav_nsdr_ready");
-	}
-	catch(e) {
-		console.log("Error saving performance mark -- this function may not be supported in this browser");
-	}
-
-
-
-$(function () {
-    $(window).scroll(sticky_relocate);
-    sticky_relocate();
-});
-</script>
-
-
+		
 
 	<div id="insider-popup" class="modal-box ">
 	
@@ -2613,12 +2810,13 @@ $(document).ready(function(){
 		});
 	</script>
 
+		
+		
+		
+		
+		
+		<!-- END PAGE HEADER -->
 
-
-
-
-
-<!-- END PAGE HEADER -->
 
 
 
@@ -2712,7 +2910,7 @@ $(document).ready(function(){
 	
 		<li><a href="/about/contactus.html"  >Contact Us</a></li>
 	
-		<li><a href="http://www.idgenterprise.com/reach/networkworld/"  >Advertising</a></li>
+		<li><a href="https://www.idg.com/advertise-with-us/networkworld/"  >Advertising</a></li>
 	
 		<li><a href="https://www.idg.com/work-here/" target="_blank" >Careers at IDG</a></li>
 	
@@ -2733,50 +2931,50 @@ $(document).ready(function(){
 
 <select class="static-nav mobile-static filter-list">
 	
-        <option data-jumpurl="/about/about.html">About Us</option>
+        <option class="jump-url" data-jumpurl="/about/about.html">About Us</option>
 	
-        <option data-jumpurl="/about/contactus.html">Contact Us</option>
+        <option class="jump-url" data-jumpurl="/about/contactus.html">Contact Us</option>
 	
-        <option data-jumpurl="http://www.idgenterprise.com/reach/networkworld/">Advertising</option>
+        <option class="jump-url" data-jumpurl="https://www.idg.com/advertise-with-us/networkworld/">Advertising</option>
 	
-        <option data-jumpurl="https://www.idg.com/work-here/" target="_blank">Careers at IDG</option>
+        <option class="jump-url" data-jumpurl="https://www.idg.com/work-here/" target="_blank">Careers at IDG</option>
 	
-        <option data-jumpurl="/about/adchoices.html">Ad Choices</option>
+        <option class="jump-url" data-jumpurl="/about/adchoices.html">Ad Choices</option>
 	
-        <option data-jumpurl="/about/privacy.html" selected="">Privacy Policy</option>
+        <option class="jump-url" data-jumpurl="/about/privacy.html" selected="">Privacy Policy</option>
 	
-        <option data-jumpurl="/about/member-preferences.html">Member Preferences</option>
+        <option class="jump-url" data-jumpurl="/about/member-preferences.html">Member Preferences</option>
 	
-        <option data-jumpurl="/about/copyright.html">Copyright Information</option>
+        <option class="jump-url" data-jumpurl="/about/copyright.html">Copyright Information</option>
 	
-        <option data-jumpurl="/about/affiliates.html">E-commerce Affiliate Relationships</option>
+        <option class="jump-url" data-jumpurl="/about/affiliates.html">E-commerce Affiliate Relationships</option>
 	
-        <option data-jumpurl="/about/cookie-policy.html">Cookie Policy</option>
+        <option class="jump-url" data-jumpurl="/about/cookie-policy.html">Cookie Policy</option>
 	
 </select>
 
 
 <ul class="static-nav not-mobile-static">
 	
-		<li><a href="/about/about.html">About Us</a></li>
+		<li><a class="edition-link-url" href="/about/about.html">About Us</a></li>
 	
-		<li><a href="/about/contactus.html">Contact Us</a></li>
+		<li><a class="edition-link-url" href="/about/contactus.html">Contact Us</a></li>
 	
-		<li><a href="http://www.idgenterprise.com/reach/networkworld/">Advertising</a></li>
+		<li><a class="edition-link-url" href="https://www.idg.com/advertise-with-us/networkworld/">Advertising</a></li>
 	
-		<li><a href="https://www.idg.com/work-here/" target="_blank">Careers at IDG</a></li>
+		<li><a class="edition-link-url" href="https://www.idg.com/work-here/" target="_blank">Careers at IDG</a></li>
 	
-		<li><a href="/about/adchoices.html">Ad Choices</a></li>
+		<li><a class="edition-link-url" href="/about/adchoices.html">Ad Choices</a></li>
 	
-		<li><a href="/about/privacy.html">Privacy Policy</a></li>
+		<li><a class="edition-link-url" href="/about/privacy.html">Privacy Policy</a></li>
 	
-		<li><a href="/about/member-preferences.html">Member Preferences</a></li>
+		<li><a class="edition-link-url" href="/about/member-preferences.html">Member Preferences</a></li>
 	
-		<li><a href="/about/copyright.html">Copyright Information</a></li>
+		<li><a class="edition-link-url" href="/about/copyright.html">Copyright Information</a></li>
 	
-		<li><a href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>
+		<li><a class="edition-link-url" href="/about/affiliates.html">E-commerce Affiliate Relationships</a></li>
 	
-		<li><a href="/about/cookie-policy.html">Cookie Policy</a></li>
+		<li><a class="edition-link-url" href="/about/cookie-policy.html">Cookie Policy</a></li>
 	
 </ul>
 
@@ -2812,6 +3010,7 @@ $(document).ready(function(){
 	
 	
 	
+	
 		<!-- blx4 #2614 blox4.html  -->
 			
 
@@ -2829,6 +3028,9 @@ $(document).ready(function(){
 					
 					
 					
+					
+					
+						
 					
 				
 				
@@ -3093,9 +3295,8 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-	<link rel="stylesheet" href="/www.idge/css/foot.css?v=20181219112912">
-	<link rel="stylesheet" href="/www.idge.nww/css/foot.css?v=20181219112912">
-
+	<link rel="stylesheet" href="/www.idge/css/foot.css?v=20190523113415">
+	<link rel="stylesheet" href="/www.idge.nww/css/foot.css?v=20190523113415">
 
 <footer>
     <section class="brand" itemscope="" itemtype="http://schema.org/Organization">
@@ -3104,10 +3305,11 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
         <a href="/"><span class="logo">Network World</span></a>
 		<span class="tagline"> </span>
         
-        <span class="follow">
-			<label>Follow us</label>
-            	<ul>
-            		
+        
+	        <span class="follow">
+				<label>Follow us</label>
+	            	<ul>
+	            		
 
 
 
@@ -3122,28 +3324,45 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-	<li><a href="https://twitter.com/networkworld" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+		<li><a class="social-media-tw-foot" href="undefined" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Twitter')"><i class="ss-icon ss-social-circle ss-twitter"></i></a></li>
+	
+	
+	
+		<li><a class="social-media-li-foot" href="undefined" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
+	
+	
+	
+		<li><a class="social-media-fb-foot" href="undefined" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
+	
+	
+	
+	
+	
+	
+	
+		<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
+	
+	
+	
+	<script>
+	if (facebookUrl != null || facebookUrl != "") {
+		document.querySelector(".social-media-fb-foot").setAttribute("href", facebookUrl);
+	}
+	if (twitterUrl != null || twitterUrl != "") {
+		document.querySelector(".social-media-tw-foot").setAttribute("href", twitterUrl);
+	}
+	if (document.querySelector(".social-media-li-foot") != null) {
+		if (typeof linkedInUrl !== "undefined" || linkedInUrl != null || linkedInUrl != "") {
+			document.querySelector(".social-media-li-foot").setAttribute("href", linkedInUrl);
+		}
+	}
+	</script>
 
 
-
-	<li><a href="http://www.linkedin.com/company/network-world" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('LinkedIn')"><i class="ss-icon ss-social-circle brand ss-linkedin"></i></a></li>
-
-
-
-	<li><a href="http://www.facebook.com/#!/pages/Network-World/40168412104" itemprop="sameAs" rel="nofollow" target="_blank" onclick="brandFollowTrack('Facebook')"><i class="ss-icon ss-social-circle brand ss-facebook"></i></a></li>				
-
-
-
-
-
-
-
-	<li><a href="/index.rss" target="_blank"><i class="ss-icon ss-social-circle ss-rss"></i></a></li>
-
-
-
-            	</ul>
-        </span>
+	            	</ul>
+	        </span>
+        
         
     </section>
     	
@@ -3176,51 +3395,51 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 		
 			
-				<li><a href="/category/careers/">Careers</a>
+				<li><a class="edition-link-url" href="/category/careers/">Careers</a>
 					
 				</li>
 			
-				<li><a href="/category/cloud-computing/">Cloud Computing</a>
+				<li><a class="edition-link-url" href="/category/cloud-computing/">Cloud Computing</a>
 					
 				</li>
 			
-				<li><a href="/category/data-center/">Data Centers</a>
+				<li><a class="edition-link-url" href="/category/data-center/">Data Centers</a>
 					
 				</li>
 			
-				<li><a href="/category/disaster-recovery/">Disaster Recovery</a>
+				<li><a class="edition-link-url" href="/category/disaster-recovery/">Disaster Recovery</a>
 					
 				</li>
 			
-				<li><a href="/category/infrastructure/">Infrastructure Management</a>
+				<li><a class="edition-link-url" href="/category/infrastructure/">Infrastructure</a>
 					
 				</li>
 			
-				<li><a href="/category/internet-of-things/">Internet of Things</a>
+				<li><a class="edition-link-url" href="/category/internet-of-things/">Internet of Things</a>
 					
 				</li>
 			
-				<li><a href="/category/linux/">Linux</a>
+				<li><a class="edition-link-url" href="/category/linux/">Linux</a>
 					
 				</li>
 			
-				<li><a href="/category/mobile-wireless/">Mobile &amp; Wireless</a>
+				<li><a class="edition-link-url" href="/category/mobile/">Mobile</a>
 					
 				</li>
 			
-				<li><a href="/category/lan-wan/">Networking</a>
+				<li><a class="edition-link-url" href="/category/networking/">Networking</a>
 					
 				</li>
 			
-				<li><a href="/category/security/">Security</a>
+				<li><a class="edition-link-url" href="/category/security/">Security</a>
 					
 				</li>
 			
-				<li><a href="/category/storage/">Storage</a>
+				<li><a class="edition-link-url" href="/category/storage/">Storage</a>
 					
 				</li>
 			
-				<li><a href="/category/uc-voip/">Unified Communications</a>
+				<li><a class="edition-link-url" href="/category/unified-communications/">Unified Communications</a>
 					
 				</li>
 			
@@ -3286,23 +3505,23 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-<li><a href="/about/about.html">About Us</a>
+<li><a class="edition-link-url" href="/about/about.html">About Us</a>
 
-</li><li><a href="/about/contactus.html">Contact</a>
+</li><li><a class="edition-link-url" href="/about/contactus.html">Contact</a>
 
-</li><li><a href="/about/privacy.html">Privacy Policy</a>
+</li><li><a class="edition-link-url" href="/about/privacy.html">Privacy Policy</a>
 
-</li><li><a href="/about/cookie-policy.html">Cookie Policy</a>
+</li><li><a class="edition-link-url" href="/about/cookie-policy.html">Cookie Policy</a>
 
-</li><li><a href="/about/member-preferences.html">Member Preferences</a>
+</li><li><a class="edition-link-url" href="/about/member-preferences.html">Member Preferences</a>
 
-</li><li><a href="https://www.idgenterprise.com/reach/networkworld/" target="_blank" rel="nofollow">Advertising</a>
+</li><li><a class="edition-link-url" href="https://www.idg.com/advertise-with-us/networkworld/" target="_blank" rel="nofollow">Advertising</a>
 
-</li><li><a href="https://www.idg.com/work-here/" target="_blank" rel="nofollow">IDG Careers</a>
+</li><li><a class="edition-link-url" href="https://www.idg.com/work-here/" target="_blank" rel="nofollow">IDG Careers</a>
 
-</li><li><a href="/about/adchoices.html">Ad Choices</a>
+</li><li><a class="edition-link-url" href="/about/adchoices.html">Ad Choices</a>
 
-</li><li><a href="/about/affiliates.html">E-commerce Links</a>
+</li><li><a class="edition-link-url" href="/about/affiliates.html">E-commerce Links</a>
 
 
 
@@ -3320,7 +3539,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
         	
         
         	
-        	<p><a href="/about/copyright.html">Copyright</a> © 2018 IDG Communications, Inc.</p>
+        	<p><a href="/about/copyright.html">Copyright</a> © 2019 IDG Communications, Inc.</p>
 			<div class="network">
 				<div id="network-selector">
                 <div class="label">Explore the IDG Network <i class="ss-icon tick">descend</i></div>
@@ -3346,15 +3565,9 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 		<li><a href="https://www.cio.com" target="_blank" rel="nofollow">CIO</a></li>
 	
-		<li><a href="https://www.cio-asia.com" target="_blank" rel="nofollow">CIO Asia</a></li>
-	
 		<li><a href="https://www.computerworld.com" target="_blank" rel="nofollow">Computerworld</a></li>
 	
 		<li><a href="https://www.csoonline.com" target="_blank" rel="nofollow">CSO</a></li>
-	
-		<li><a href="https://www.gamestar.com" target="_blank" rel="nofollow">GameStar</a></li>
-	
-		<li><a href="https://www.greenbot.com" target="_blank" rel="nofollow">Greenbot</a></li>
 	
 		<li><a href="https://www.idc.com" target="_blank" rel="nofollow">IDC</a></li>
 	
@@ -3362,29 +3575,13 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 		<li><a href="https://www.idgconnect.com" target="_blank" rel="nofollow">IDG Connect</a></li>
 	
-		<li><a href="https://www.idg.tv" target="_blank" rel="nofollow">IDG.TV</a></li>
-	
 		<li><a href="https://www.infoworld.com" target="_blank" rel="nofollow">InfoWorld</a></li>
-	
-		<li><a href="https://www.itnews.com" target="_blank" rel="nofollow">IT News</a></li>
 	
 		<li><a href="https://www.itwhitepapers.com" target="_blank" rel="nofollow">ITwhitepapers</a></li>
 	
-		<li><a href="https://www.itworld.com" target="_blank" rel="nofollow">ITworld</a></li>
-	
 		<li><a href="https://www.javaworld.com" target="_blank" rel="nofollow">JavaWorld</a></li>
 	
-		<li><a href="https://www.macworld.com" target="_blank" rel="nofollow">Macworld</a></li>
-	
 		<li><a href="https://www.networkworld.com" target="_blank" rel="nofollow">Network World</a></li>
-	
-		<li><a href="https://www.pcworld.com" target="_blank" rel="nofollow">PCWorld</a></li>
-	
-		<li><a href="https://www.techconnect.com" target="_blank" rel="nofollow">TechConnect</a></li>
-	
-		<li><a href="https://www.techhive.com" target="_blank" rel="nofollow">TechHive</a></li>
-	
-		<li><a href="https://www.thefullnerd.com/" target="_blank" rel="nofollow">The Full Nerd</a></li>
 	
 
                 </ul>
@@ -3394,7 +3591,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
     </section>
 </footer>
 
-<script src="/www/js/analytics/mouse_down.js"></script> 
+
 <script src="/www/js/jquery/jquery-ui.js"></script>
 <script src="/www/js/jquery/jquery.dfp.min.js"></script>
 <script src="/www.idge/js/mule/shortstack_nav.js"></script>
@@ -3435,7 +3632,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 			
 			
 			
-				<div id="mobilewelcomead" class=" ad-container">					
+				<div id="mobilewelcomead" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -3443,6 +3640,7 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 					IDG.GPT.addDisplayedAd("mobilewelcomead", "true");
 					$('#mobilewelcomead').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: mobilewelcomead - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -3455,13 +3653,17 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 	
 
 
+
+
 <script src="/www/js/analytics/tracking.js"></script>
 <script src="/www/js/autocomplete.js"></script>
 
 
 
+
+
 <script src="/www/js/jquery/jquery.lazyload.min.js"></script>
-<script src="/www.idge/js/global.js?v=20181219112912"></script>
+<script src="/www.idge/js/global.js?v=20190523113415"></script>
 <script src="/www/js/webfonts/ss-social.js"></script>
 <script src="/www/js/webfonts/ss-standard.js"></script>
 <script src="/www/js/analytics/brandAnalytics.js"></script>
@@ -3485,143 +3687,6 @@ Email: <a href="mailto:GDPRrepresentative@idgcommunications.com">GDPRrepresentat
 
 
 
-
-
-
-
-
-
-<!-- Begin BlueKai Tag -->
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
-<!-- CryptoJS -->
-<script src="/www/js/utils/md5.js"></script>
-<script type="text/javascript" src="/www/js/analytics/idg_bk_coreapi.js"></script>
-	
-<script type="text/javascript">
-bk_allow_multiple_calls=true;
-var blueKaiId=14351;
-var blueKaiPort=10;
-var brandCode = "nww";
-var regUrl="https://regdev.idge.int/api/"
-var daysToRefresh=30;
-var bk_debug_log=false;
-
-
-
-	 regUrl="https://reg.idgenterprise.com/api/";
-
-
-
-	daysToRefresh=30;
-
-
-	
-
-
-
-
-	
-
-if ( typeof(s) != 'undefined' ) {
-	bk_addPageCtx("pageType", (typeof(s.pageType)!='undefined')?s.pageType:'');
-}
-
-
-
-
-
-
-
-
-
-bk_addPageCtx("cmpy", "[]");
-
-
-bk_addPageCtx('tid', '');
-
-	
-	
-
-
-
-
-
-
-
-
-
-// Add the list name and email address hash params to bluekai tracking
-// If the user came from a newsletter clickthru, also set the isnl pagectx
-params = getUrlParams('phint');
-if(Object.keys(params).length > 0)
-	{
-	bk_addPageCtx("idg_eid", params['idg_eid']);
-	bk_addPageCtx("newt", params['newt']);
-	bk_addPageCtx("isnl", "1");	
-	}
-
-	try{
-		consent.adsel.queue.push(function(){
-			console.log('*****GDPR: running queue for bluekai ad selection');
-			IDG.bkCoreApi.start();
-		});
-	}
-	catch(e){
-		//alert("Triggering catch")
-		consent.adsel.queue.push(function(){
-			bk_doJSTag(blueKaiId ,blueKaiPort);
-		});
-		if (window.console && window.console.log){
-			window.console.log("Error Occured While Processing Profile Siubmission")
-		}
-	}
-	
-	
-
-
-
-
-
-
-
-
-
-
-$('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, .productLink', function(e) {
-	var $linkEl = $(e.target);
-	var po = $linkEl.data('po');
-	if ($.inArray(po, ['amazon', 'vendor', 'other']) >= 0) {
-		if (po == 'amazon') {
-			var prCat = $linkEl.data('bkc');
-			if (typeof prCat != 'undefined') {
-				bk_addPageCtx('event', 'AmazonClick'+prCat);
-			}
-			
-		}
-		var prMfr = $linkEl.data('bkmfr');
-		if (typeof prMfr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceMFR'+prMfr);
-		}
-		var prVndr = $linkEl.data('bkvndr');
-		if (typeof prVndr != 'undefined') {
-			bk_addPageCtx('event', 'eCommerceClickVendor'+prVndr);
-		}
-		consent.adsel.queue.push(function(){
-			bk_doJSTag(34202, 1);
-		});
-	}
-});
-</script>
-
-
-
-<!-- End BlueKai Tag -->
-
-
-
-
-
 		
 		
 			
@@ -3656,7 +3721,7 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 			
 			
 			
-				<div id="catfish" class=" ad-container">					
+				<div id="catfish" class=" ad-container test">					
 				</div>				
 				<script type="text/javascript">
 				consent.ads.queue.push(function(){
@@ -3664,6 +3729,7 @@ $('article, #slideshowCarousel').on('click', '.product-list-price, .btn-amazon, 
 					IDG.GPT.addDisplayedAd("catfish", "true");
 					$('#catfish').responsiveAd({screenSize:'971 1115', scriptTags: []});
                     IDG.GPT.log("Creating ad: catfish - [971 1115]");
+                    
 				
 				});
 				</script>
@@ -3776,7 +3842,6 @@ _comscore.push(
 
 
 	<!-- LiveRamp Sources -->
-	<script type="text/javascript" src="//storage.googleapis.com/cdn.pippio.com/sdk/pippio.min.js" async=""></script>
 	<script src="/www/js/utils/liveRamp.js"></script>
 	<!-- End of LiveRamp -->
 
@@ -3792,8 +3857,12 @@ _comscore.push(
 
 
 
-
-
+<script type="text/javascript">
+consent.digitalelement.queue.push(function(){
+	$thm.logPlEvent({"b":"nww","e":"view","t":"article","id":""});
+	
+});
+</script>
 
 		<div id="loginModal"></div>
 		<div id="logoffModal"></div>
