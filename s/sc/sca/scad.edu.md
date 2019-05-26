@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123130937id_/https%3A//www.scad.edu/content/privacy-and-terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526161814id_/https%3A//www.scad.edu/content/privacy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy and terms of use | SCAD.edu
 
