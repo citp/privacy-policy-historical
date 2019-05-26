@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525095539id_/http%3A//www.wowktv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526074333id_/https%3A//www.wowktv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WOWK
+# Privacy Policy
 
 **Updated: November 06, 2017**
 
