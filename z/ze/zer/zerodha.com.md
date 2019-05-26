@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226190833id_/https%3A//zerodha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526174002id_/https%3A//zerodha.com/privacy-policy) for the most accurate reproduction.*
 
 # Zerodha - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 The policy set forth below is provided in English only to avoid any misinterpretations caused by a language translation. If necessary, please seek the proper advice, or please do not use this web site.
 
-Last modified: May 25, 2018
+Last modified: March 29, 2019
 
-Zerodha operates the web site atzerodha.com (“Site”). We respect the privacy of each user of the Site (referred to as “you” or “a user”), whether its your first time, or if you’ve visited our Site previously. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user (“Personal Information”), and how we use aggregated information.
+Zerodha Broking Ltd. (hereinafter referred to as Zerodha) operates the website at zerodha.com (“Site”). We respect the privacy of each user of the Site (referred to as “you” or “a user”), whether its your first time, or if you’ve visited our Site previously. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user (“Personal Information”), and how we use aggregated information.
 
 BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE. We reserve the right to modify this Statement at any time by posting a notice on the Site’s home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes.
 
