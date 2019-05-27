@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209214303id_/https%3A//www.drugwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527022304id_/https%3A//www.drugwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DrugWatch.com
 
@@ -141,8 +141,8 @@ From time to time, we may add new websites that may or may not be listed in this
 
 **Who Am I Calling?**
 
-Calling this number connects you with _Wilson and Peterson, LLP_ or one of its trusted legal partners. A law firm representative will review your case for free.
+Calling this number connects you with a Drugwatch representative. We will direct you to one of our trusted legal partners for a free case review.
 
-_Wilson and Peterson, LLP_ funds Drugwatch because it supports the organization’s mission to keep people safe from dangerous drugs and medical devices.
+Drugwatch's sponsors support the organization's mission to keep people safe from dangerous drugs and medical devices. For more information, visit our [sponsors page](https://web.archive.org/about/our-sponsors/).
 
 [(888) 645-1617](tel:8886451617)
