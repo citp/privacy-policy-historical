@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118070609id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527064419id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
 
 # LA Court
 
@@ -14,11 +14,11 @@ In general, the LASC web site collects and aggregates user information regarding
 
 In some areas of the LASC web site, in order for us to provide the specific services, we do require and record personally identifiable information. This is done with users’ active permission and participation.
 
-On the Traffic Online Services pages and e-Filing, users are required to provide Name, Address, e-mail address and other personal information to enable us to complete the specific on-line transactions. To access the Index of Defendants in Criminal Cases and Civil Case Document Images, users are required to register with the LASC web site and create a user account. Users must provide information such as a User ID, Password, Name, Billing Address, Credit Card Type, Credit Card Number and Credit Card Expiration Date. After your account is created, this information will be used for verification when you access these services.
+On the Traffic Online Services pages and e-Filing, users are required to provide Name, Address, e-mail address and other personal information to enable us to complete the specific on-line transactions. To access the Search for Case Number by Defendant Name in Criminal Cases and Civil Case Document Images, users are required to register with the LASC web site and create a user account. Users must provide information such as a User ID, Password, Name, Billing Address, Credit Card Type, Credit Card Number and Credit Card Expiration Date. After your account is created, this information will be used for verification when you access these services.
 
 Once you register with the LASC web site and sign in, you are not anonymous to us. Only the minimal set of required information for processing credit card transactions is requested and stored. This information is necessary for payment processing and enables repeated users to access electronic court records. It will only be used for such purpose. No individually identifiable information will be employed in usage pattern reporting.
 
-The LASC web site also uses "session-specific cookies" on the following pages in order to run its interactive online applications: Traffic Online Services, e-Filing, Index of Defendants in Criminal Cases, Calendars, Case Summaries and ADR Neutral Search. In the future, we may use cookies on other pages as well. A cookie is a small amount of data which often includes an anonymous unique identifier which is sent to your browser from a web site's computers and stored on your computer's hard drive. The data stored in these cookies is read by the LASC web site for the purposes stated above. You can set your web browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Some services and functionality on the LASC web site may be impaired if you decline to accept cookies.
+The LASC web site also uses "session-specific cookies" on the following pages in order to run its interactive online applications: Traffic Online Services, e-Filing, Search for Case Number by Defendant Name in Criminal Cases, Calendars, Case Summaries and ADR Neutral Search. In the future, we may use cookies on other pages as well. A cookie is a small amount of data which often includes an anonymous unique identifier which is sent to your browser from a web site's computers and stored on your computer's hard drive. The data stored in these cookies is read by the LASC web site for the purposes stated above. You can set your web browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. Some services and functionality on the LASC web site may be impaired if you decline to accept cookies.
 
 Confidentiality and Data Security
 
@@ -41,15 +41,8 @@ If you have any questions about this privacy statement, the practices of this si
 Los Angeles Superior Court  
 Webmaster  
 Court Technology Services  
-320 W. Temple St., Room G-25  
-Los Angeles, CA 90012
+
 
 webmaster@lacourt.org
 
 Last Updated: May 19, 2005
-
-Art Showcased in  
-Los Angeles Courthouse Jury Rooms
-
-"Flamingo Resort" by Michael Artis  
-2009 – Amateur 3rd Place
