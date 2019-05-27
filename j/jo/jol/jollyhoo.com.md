@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127023311id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528014901id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Telugu Cinema News, Telugu Movie songs, Actress Photo Gallery, Telugu Cinema Reviews
 
