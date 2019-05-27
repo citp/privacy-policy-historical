@@ -1,97 +1,185 @@
-> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230062712id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527134638id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | KeepTruckin
 
-## KeepTruckin Privacy Policy
+* * *
 
-Last Updated: April 18, 2018
+## 1\. Introduction
 
-Protecting your privacy is really important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our [Terms of Service](https://web.archive.org/tos)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services or the practices of companies that we don't own or control or people we don't manage. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
+This Privacy Policy applies whenever you use our Services or visit our Site.
 
-##### How do we collect and use information?
+This Privacy Policy explains how Keep Truckin, Inc. (“ **we** ,” “ **our** ,” or “ **us** “) collects, shares, and uses the information that we collect about you when you use any of our Services (as defined in our Terms of Service) or visit our Site.
 
-Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
+It applies only to our websites, services, products, and applications (as described in the definition of “Services” in our Terms of Service), and does not apply to any third-party websites, services, products, or applications – even if they are made available by us or accessible through our Services or our Site. Unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as they do in our Terms of Service.
 
-_Account Information and Information You Provide Us._ When you create an Account we'll collect certain information that can be used to identify you, such as your name, phone number, email address, and office addresses (" **Personally Identifiable Information** " or " **PII** "). We may also collect certain information that is not PII because it cannot be used by itself to identify you, such as your DOT number, carrier name and cycle rule. Further, we receive and store any other information that you knowingly provide to us.
+This Privacy Policy applies to you whenever you use our Services or visit our Site. For purposes of this Privacy Policy, a “User” or “Users” means any Administrator, Customer, Driver, End User, or any other person or business that uses our Services or visits our Site.
 
-_Information Collected Using Cookies._ We collect certain information through the use of "cookies," which are small text files that are saved by your browser when you access our Services. We may use both session cookies and persistent cookies to identify that you've logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don't accept cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own cookies on your browser.
+* * *
 
-In the event that we send you any offers for services or products provided by our partners or affiliates or you click a link to one of our partners' or business affiliates' or other third parties' websites or services, such partner, affiliated business or other third party may also transmit cookies to your browser or device.
+## 2\. Information We Collect About You
 
-Although we do our best to honor the privacy preferences of our users, we are unable to respond to Do Not Track signals set by your browser at this time.
+We need to collect certain information about you in order to provide and improve the Services, to administer and help you manage your use of the Services (including your account, if you are an account holder), and to enable us to help you customize your experience using the Services.
 
-This Privacy Policy does not cover the use of cookies by any third parties, partners or business affiliates, and we are not responsible for their privacy policies and practices.
+### Information that You Provide
 
-_Information Related to Use of the Services._ Our servers automatically record certain information about how Account holders, and any other End Users, ("Users") use our Services (we refer to this information as "Log Data"). Log Data may include information such as a User's Internet Protocol (IP) address, browser type, operating system, the web page that a User was visiting before accessing our Services, the pages or features of our Services to which a User browsed and the time spent on those pages or features, the links on our Services that a User clicked on, driving logs entered into the Services, documents uploaded to the Services, messages exchanged on the Services and other statistics. We use this information to administer the Services and we analyze (and may engage third parties, such as Google Analytics, to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users' needs and preferences. To learn more about the privacy policy of Google Analytics, [click here](https://www.google.com/intl/en/policies/), and to learn how to opt out of that service [click here](https://tools.google.com/dlpage/gaoptout?hl=en). We may use a person's IP address to fight spam, malware and identity theft. We also use the IP Address to generate aggregate, non-identifying information about how our Services are used.
+You provide personally identifying information to us when you create an account with us or use the Services.
 
-_Location Information._ In some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation or through GPS or wireless network triangulation. We may use location information to improve and personalize our Services for you (for example, by helping you complete your driving logs).
+We collect information about you that you provide to us when you create an account, sign up to use the Services, undergo account or identity verification, communicate with us, upload content, answer our surveys, or otherwise use the Services or interact with us, including:
 
-_Communications and Offers._ We may communicate with you via email or through the Services. For example, we may send you promotional email offers on behalf of other businesses, or email you about the use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive email communications from us, please indicate your preference by emailing [support@keeptruckin.com](mailto:support@keeptruckin.com).
+  * Personally Identifying Information (“PII”). Your name, email address, mailing address, phone number, photograph, birthdate, driver’s license, commercial driver’s license, or other government-issued identification (and all of the foregoing that you or any End User or Administrator provides with respect to any End Users).
+  * Financial Information.Bank account, credit card numbers, and other publicly available information.
+  * Non-Identifying Information. Information that you provide to us that cannot be used by itself to identify you or any other individual, including your DOT number, carrier name, and cycle rule.
+  * Other Information You Provide. Any other information that you provide to us voluntarily, including any survey responses, participation in promotions or contests, or referrals.
 
-##### What Information Do We Share With Third Parties?
 
-We will not share any PII that we have collected from you except as described below:
 
-_Information Shared with Our Service Providers._ We may engage third party service providers to work with us to administer and provide the Services. These third-party service providers have access to your PII only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your PII for any other purpose. For example, we may use a payment processing company to receive and process your credit card transactions for us. Unless we tell you differently, our service providers do not have any right to use the PII or any of Your Data that we share with them beyond what is necessary to assist us.
+### Information We Collect When You Use Our Services
 
-_Information Shared with Third Parties._ We may share aggregated information and non-identifying or de-identified information with third parties for industry analysis, demographic profiling and other similar purposes. We share your driving logs and documents only with your consent (e.g., with those user you connect with on the Services or share Your Data with via email or fax from the Services).
+We collect other information about you when you use our Services, such as your location, device information, as well as information about how you use the Services.
 
-_Information Shared with Affiliated Businesses and Partners._ In certain situations, businesses or third party websites with whom we've partnered or affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us) or we may provide the Services in connection with such partner or affiliated business' other products and services. In the event that you are receiving products or services from one of our partners or affiliated businesses, we may share Your Data and/or your PII for such services to be provided. For example, we may partner with a business who needs access to your driving data and your PII in order to provide you with certain fueling or insurance services, or we may partner with a reseller of our products and services from whom you are receiving other products and services.
+We also collect information about you and the devices you use to access the Services, including:
 
-We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to a partner or affiliated website or business, please review all such business' or websites' policies and any agreements between you and such affiliated website, partner or business.
+  * Location Information. Information about where you are located, such as by converting a User’s Internet Protocol (IP) address into a rough geolocation or through GPS or wireless network triangulation to derive your precise geolocation. We may use location information to improve and personalize the Services (for example, by enabling a User to complete driving logs) and to contact you about service offerings that may be of interest to you. You may opt out of such marketing communications by emailing us at [marketing@keeptruckin.com](mailto:marketing@keeptruckin.com).
+  * Device Information. Information about your device, including the hardware model, operating system, device identifier, mobile network information, and information about how your device interacts with the Services.
+  * Use Information. Information about how you use the Services (we refer to this information as “Log Data”). Log Data may include information such as a User’s IP address, browser type, operating system, the web page that a User was visiting before accessing the Services, the pages or features of the Services with which a User engaged and the time spent on those pages or features, the links within the Services that a User clicked on, driving logs entered into the Services, documents uploaded to the Services, messages exchanged on the Services, and other statistics.
+  * End User and Driver Information. Information you provide about End Users and/or Drivers authorized to use the Services under your account. This may include information about your employees or independent consultants.
+  * Other Information. Any other information you upload to, or that is derived from, your use of the Services.
 
-If you authorize us to, consent to us to, or otherwise select or use a third-party service for which we deem it necessary to share your PII or Your Data with a third-party, affiliated business or partner through the Site or the Services, we may share your PII or Your Data.
 
-Further, if you authorize or consent to a third party's receipt Your Data or your PII, we may rely on a representation from that third party that you have authorized such third party to receive Your Data or your PII.
 
-_User Profiles and Submissions._ Your user profile information contains your name, location, email address and phone number associated with your Account and profile ("User Profile Information"). This User Profile Information may be displayed to other users, such as Fleet Users, with whom you connect. Your name and User Profile Information may also be displayed to others when you send messages through the Services. We do not control the policies and practices of any of our users, Fleet Users or any other third party sites or services.
+### Information We Collect About You Using Cookies
 
-_Information Disclosed in Connection with Business Transactions._ Information that we collect from our users, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII and Your Data may be disclosed or transferred to the third-party acquirer in connection with the transaction.
+We collect information about you and your use of the Services through cookies and similar tracking technologies.
 
-_Information Disclosed for Our Protection and the Protection of Others._ It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iv) to prevent or stop activity we consider to be illegal or unethical.
+We also collect information about you and the devices you use to access the Services through the use of “cookies,” which are small text files that are saved by your browser when you access the Services, including our Site. We may use both session cookies and persistent cookies; unlike persistent cookies, session cookies are deleted when you log off from the Services and/or Site and close your browser.
 
-##### Third-Party Tracking and Online Advertising
+Although most browsers are set by default to automatically accept cookies, you can adjust your browser settings to either stop accepting cookies or to prompt you before accepting cookies. **Please note, however, that if you don’t accept cookies you may not be able to access and use certain features of the Services and the Site.**
 
-We participate in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your online browsing history and your interests. We permit third-party online advertising networks, social media companies and other third party services, to collect, information about your use of our Sites over time so that they may play or display ads on our Sites, on other websites, apps or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through cookies or similar tracking technologies. We may share a common account identifier (such as an email address or user ID) or hashed data with our third party advertising partners to help identify you across devices. We and our third party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research.
+We may use the information derived from the cookies placed on your device for any of the following purposes:
 
-To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative's online resources, at <http://www.networkadvertising.org/choices>, and/or the DAA's resources at <https://www.aboutads.info/choices>. You may also be able to set your browser to delete or notify you of cookies by actively managing the settings on your browser or mobile device.
+Our Privacy Policy does not cover the placement or use of cookies and other tracking technologies by any third party. You should review the privacy policies and practices of third parties before using their products or services.
 
-Please note that some advertising opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers or delete the opt-out cookies, you may need to perform the opt-out task again.
+  * To identify that you’ve logged in to the Services or visited our Site and to remember that you have visited us or used the Services before.
+  * To tell us how and when you interact with the Services and the Site
+  * To monitor aggregate usage and web traffic routing on the Services and the Site.
+  * To collect data in order to provide and improve our advertising campaigns, including by sending information to our third-party partners.
+  * To enable our affiliates and third-party partners to use cookies to track your behavior when using the Services, our Site, or any partner or third-party service or site, including the way you interact across sites outside of the Services.
+  * To customize and improve the Services and the Site.
 
-You may also be able to limit certain interest-based mobile advertising through the settings on your mobile device by selecting "limit ad tracking" (iOS) or "opt-out of interest based ads" (Android).
 
-##### Google Analytics
 
-We may collect analytics data, or use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our users. We share a unique identifier, like a user ID or hashed email address, with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Service and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site "How Google uses data when you use our partners' sites or apps" located at <https://policies.google.com/privacy/partners>. You can learn about Google Analytics' currently available opt-outs, including the Google Analytics Browser Add-On at <https://tools.google.com/dlpage/gaoptout>.
+Some third-party service providers that we work with (including third-party advertisers) may also place their own cookies on your browser. For example, if we send you any offers for services or products provided by our partners or affiliates or you click a link to one of our partner’s or affiliate’s or another third party’s websites or services, then such partner, affiliate, or other third party may also place cookies on your browser.
 
-We may also utilize certain forms of display advertising and other advanced features through Google Analytics, such as Remarketing with Google Analytics, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Doubleclick advertising cookie) or other third party cookies together to inform, optimize, and display ads based on your past visits to the Service. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at <https://google.com/ads/preferences> or by vising NAI's online resources at <https://www.networkadvertising.org/choices>.
+ **This Privacy Policy does not apply to or cover the placement or use of cookies by any of our partners, our affiliates, or other third parties, and we are not responsible for their privacy policies and practices. You should carefully review the privacy policies and practices of such partners, affiliates, and third parties when using their products and services. To learn more about cookies you can visit[http://www.allaboutcookies.org](http://www.allaboutcookies.org/), which includes helpful information on cookies and how to disable them on different types of browsers and devices.**
 
-##### The Security of Your Information
+### Web Beacons
 
-We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+Our Site and emails may contain web beacons in order to help us better manage content on our Site.
 
-We use Amazon's S3 storage service to store some of your information (for example, your documents). You can find more information on Amazon's data security from the [S3 FAQs](https://aws.amazon.com/s3/faqs/).
+Our Site and some third-party sites and HTML-formatted emails use web beacons alone or in conjunction with cookies to compile information about your website usage and your interaction with email. A web beacon is an electronic image, called a single-pixel (1×1) or clear GIF. Web beacons can recognize certain types of information on your computer such as cookies, the time and date of a page viewed, and a description of the page where the Web beacon is placed. You may be able to disable web beacons in email messages by not downloading images contained in the message you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a web beacon or other automatic data collection tools in the email message due to specific email software capabilities.
 
-##### Links to Other Sites
+For more information about this, please refer to the information provided by your email software or service provider. If you choose to receive marketing emails or newsletters from KeepTruckin, we may automatically collect personal information about you. For example, through web beacons and personalized URLs embedded in these emails or newsletters, KeepTruckin can track whether you’ve opened those messages and whether you’ve clicked on links contained within those messages.
 
-Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
+### Information from Third Parties
 
-##### Modifying Your Information
+We may also obtain personal information about you from third parties.
 
-You can access and modify the PII associated with your Account by changing your "account settings" on the Site or the App. If you want us to delete your PII and your Account, please contact us at [support@keeptruckin.com](mailto:support@keeptruckin.com) with your request. We'll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+Third parties may provide us with PII they have collected about you from you or from further online and offline sources, such as marketing data from our partners and third-parties that is combined with information we already have about you, to provide you with more relevant communications and better tailored offers. We are not liable for any processing of your PII by such third parties prior to, during or after them providing it to us. We may combine such PII with the PII we already have about you to provide you with a better experience, evaluate your interest in our products or improve the quality of our products and services.
 
-##### International Transfer
+### Information from Children
 
-Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
+We do not collect information from children under 13 years old.
 
-##### Our Policy Toward Children
+You must be 18 years or older to use our Services. Our Services are not directed to, nor intended for use by, children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have inadvertently come into possession of PII relating to a child under 13, we will take steps to delete such information from our files and systems as soon as possible.
 
-As noted in our Terms of Services, our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+* * *
 
-##### Changes to Privacy Policy
+## 3\. How We Use and Retain Your Information
 
-We are constantly trying to improve our Services and provide our users with more features. Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Site or by sending you an email or other notification, and we'll indicate when such changes will become effective. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the Services and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
+We use the information you provide to us (and that we collect from you or your device) in order to provide, maintain, personalize, support, and improve our Services.
 
-##### Questions?
+We use the information about you that you provide (and that we collect from you or your device) for a number of purposes, including the following:
 
-Please contact us at support@keeptruckin.com or at 370 Townsend Street, San Francisco, CA 94107 if you have any questions about our Privacy Policy.
+  * Account setup, administration and management
+  * Identity verification
+  * Compliance with applicable laws and regulations
+  * Providing, pricing, and improving the Services
+  * Developing and pricing new products and services
+  * Communicating with you by phone and email about the Services (including communicating with you about marketing and promotions from KeepTruckin, our affiliates, and our partners)
+    * To learn more about how we use your phone number to communicate with you, please click here.
+    * To learn more about you can opt out of marketing and promotional communications from us, please click here.
+  * Analytics
+  * Fraud prevention
+  * Spam and malware protection
+  * Enforcing our Terms of Service and other applicable agreements and/or policie
+  * Any other purpose disclosed to you or to which you consent
+
+
+
+ **We retain your information (even after you close any accounts with us) only for as long as is reasonably necessary to provide you with the Services or to comply with applicable law.**
+
+* * *
+
+* * *
+
+## 5\. How We Protect Your Information
+
+### When You Use the Services
+
+We use reasonable measures to ensure that your information is protected for unauthorized access, misuse, alteration, destruction, and disclosure.
+
+We take reasonable measures to protect the information that we collect from you (including your PII and Customer Data) from unauthorized access, misuse, alteration, destruction, and exfiltration. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+
+### When You Click Links to and Use Third-Party Sites & Services
+
+We are not responsible for, and our Privacy Policy does not apply to or cover, the privacy policies and practices of third parties with whom you connect through our Services.
+
+KeepTruckin links to and provides you with opportunities to connect with Customer- or third-party- provided services, products, websites, or applications, including applications we make available in the KeepTruckin App Marketplace (each a “Non-KeepTruckin Product”). If you choose to use any **Non-KeepTruckin Product** , any information that you provide on or to a Non-KeepTruckin Product is provided directly to the owner of the related website or service and is subject to that third party’s privacy policy.
+
+ **Our Privacy Policy does not apply to Non-KeepTruckin Products and we are not responsible for the content, privacy or security practices and policies of those Non-KeepTruckin Products. To protect your information we recommend that you carefully review the privacy policies of Non-KeepTruckin Products that you access.**
+
+* * *
+
+## 6\. Your Choices Regarding Your Information
+
+### Modifying Your Information
+
+You can update your personal information at any time by contacting us.
+
+You can access and modify the PII associated with your account by changing your “account settings” on the Site or the App. If you want us to delete your PII and your account, please contact us at [support@keeptruckin.com](mailto:support@keeptruckin.com) with your request. We’ll take steps to delete your information as soon as reasonably practicable, but some of your information may remain in archived/backup copies for our records or as otherwise required by law.
+
+### Marketing and Promotional Communications
+
+You can opt out of certain marketing and/or promotional communications by contacting us or following the instructions in the communication you receive.
+
+You can opt out of receiving marketing and/or promotional communications from us by following the instructions contained in those communications, emailing us at [marketing@keeptruckin.com](mailto:marketing@keeptruckin.com), or by reaching out to us at the contact information listed below. Please note that even if you decide to opt out of marketing and promotional communications, we may still contact you in order to communicate with you about your account and/or use of the Services.
+
+### Do Not Track Signals
+
+Although we do our best to honor the privacy preferences of our Users, we are unable to respond to Do Not Track signals set by your browser at this time.
+
+### California Privacy Rights
+
+If you are a California resident you can request certain details about how we share your personal information with third parties for direct marketing.
+
+If you reside in California you may request certain details about our disclosure of your personal information to third parties for direct marketing purposes during the preceding year. If you are a California resident and would like to make a request for this information, please reach out to us at the contact information listed below.
+
+* * *
+
+## 7\. International Transfers of Your Information
+
+You understand that your information may be transferred to, and maintained on, systems located outside of your jurisdiction.
+
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
+
+* * *
+
+## 8\. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time, but we will notify you if we do so.
+
+We constantly strive to improve our Services and provide our Users with more features and the best possible experience. Any information that we collect from you is subject to this Privacy Policy as in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we will notify you of such changes by posting them on the Site or by sending you an email or other notification, and we’ll also indicate when such changes will become effective.
+
+If you continue to use the Services after any changes to the Privacy Policy have been posted and become effective, that means you agree to all of the changes.
+
+* * *
