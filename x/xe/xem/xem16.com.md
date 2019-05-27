@@ -1,19 +1,60 @@
-> *The following text is extracted and transformed from the xem16.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822020956id_/http%3A//xem16.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xem16.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527135338id_/http%3A//www.xem16.com/privacy) for the most accurate reproduction.*
 
-# Site Information - Privacy Policy
+# Privacy Policy xem16.com
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+### 1\. Use of personal data
 
-This SITE generally does not collect personally identifiable information (data such as your name, email address, and the content of your communications) unless you submit or communicate User Content through the Service, or register with us in order to use certain features of the Service. This SITE will not disclose any personally identifiable information it collects or obtains except:
+Personal data is any information relating to an identified or identifiable data subject, including names, ages, addresses, and email addresses. A data subject shall be considered identified or identifiable if it is possible to identify the data subject directly or indirectly in particular on the basis of one or more factors specific to his/her physical, physiological, economic, cultural or social identity.
 
-(1) as described in this SITE’s Terms and Conditions or this Privacy Policy;
+We collect, process and retain personal data to the extent it is necessary to provide users with our service, especially for the following purposes, e.g. identifying a registered user, keeping search and video preferences, keeping the likes of unregistered users, displaying advertisements, keeping statistics, etc. We do not collect, process or retain personal data unless allowed under statutory laws, required by a judicial or governmental order, or the user has given its consent. We collect all personal data by ourselves and by our means. We use automatic processing of personal data via our information system.
 
-(2) after obtaining your permission to a specific use or disclosure;
+We only prepares aggregate statistics about clicks and views; we do not track every click or video watched by users and associate that with the users' accounts. Please also see additional information about cookies below.
 
-(3) if this SITE is required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement);
+### 2\. Cookies and Google Analytics
 
-(4) as required to protect this SITE’s property, safety, or operations, or the property or safety of others; or
+We use cookies to collect information about how website is used.
 
-(5) to a business that acquires this SITE, or the assets of this SITE in connection with which such information has been collected or used; or
+Cookies are text files that are placed by the browser in the memory of a user's device when xem16.com is visited. xem16.com uses session cookies and persistent cookies:
 
-(6) as otherwise required by law.
+\- Session cookies expire at the end of a browser session. They only enable us to collect and connect the user’s actions during the particular browser session and are deleted when the browser is closed or the user logs off.
+
+\- Persistent cookies survive a browser session and are stored for a predefined period of time. We are using persistent cookies with the following information and for the following purposes:
+
+  * Keeping some search preferences; and
+  * Saving the video player’s preferences; and
+  * Displaying the advertisements; and
+  * Keeping statistics regarding the speed loading of the pages.
+
+
+
+The user can disable the cookie function in his browser options. Please see the specific information of the browser used for visiting this website. For details how to control and/or delete cookies, see aboutcookies.org.
+
+### 3\. Data Security
+
+Note that all data is kept in a secure environment on our main servers located in Europe. Only restricted access is provided to a limited number of our employees who are bound to keep all user information confidential.
+
+We protect personal data by using appropriate safeguard procedures and measures such as:
+
+  * SSL encryption;
+  * Access limitation to authorized persons;
+  * Regular backups.
+
+
+
+### 4\. Communication
+
+We only contact users by email:
+
+  * in response to a user’s email;
+  * if we have serious questions regarding the user’s uploads; or
+  * if we receive a take-down notice for one or more of the user’s uploads.
+
+
+
+### 5\. Transfers
+
+We reserve the right to share all information in our possession concerning a user account and website usage with third parties as necessary to comply with requirements under applicable law, including the cooperation with public authorities.
+
+We also reserve the right to store, transfer and process personal data for the purpose of preventing and prosecuting criminal activities in accordance with applicable laws.
+
+We do not share personal information with advertisers or sell personal information to third parties.
