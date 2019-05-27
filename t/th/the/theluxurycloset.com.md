@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theluxurycloset.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829002628id_/https%3A//theluxurycloset.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theluxurycloset.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527225257id_/https%3A//theluxurycloset.com/privacy-policy) for the most accurate reproduction.*
 
 # LC - Buy & Sell - Privacy Policy
 
@@ -6,23 +6,63 @@
 
 The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the “Privacy Policy”) covers the The Luxury Closet website (the “Site” or “The Luxury Closet”), including any registered domain endings, such as “.com”. Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean The Luxury Closet and “you” and “your” and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy.
 
-The Website Policies and Terms & Conditions may be changed or updated occasionally to meet the requirements and standards. Therefore the customers are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted.
+We update our business practices, Privacy Policy to keep our sellers and buyers informed about their rights and relationship with The Luxury Closet. By visiting The Luxury Closet, you accept the Privacy Policy, the Cookie Policy and the Terms (for the purposes of this document “Terms” mean what is stated in the Terms and Conditions governing use of, sales and purchases made via the Website). Therefore the customers are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted. This Privacy Policy applies to The Luxury Closet solely and does not apply to websites maintained by other companies or organisations to which we link to and from.
 
-#### How Does The Luxury Closet Gather and Use Information?
+#### Cookie Policy
 
-Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. The Luxury Closet attempts to install both persistent and session cookies when a user arrives at our Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.
+The cookies that we use help us gather information to enhance your experience. The cookies (mentioned below) policy regarding how we process them is explained in this section.
+
+  1. Customer Preference Cookie: The website stores your information like your preference, location that you provide while registering.
+  2. Website Functionality Cookies: These cookies let you use the shopping basket, wishlist etc.
+  3. Advertising Cookies: It helps us process our campaigns on the basis your information and measure the effectiveness.
+  4. Website Analytics Cookies: These cookies help us analyse our customers’ interaction with the website.
+
+
+
+By using our website, you give us a permission to record data and send cookies to your device in order to distinguish you from other users on the website and access them the next time you visit the website. You can disable cookies or delete them from time to time. Disabling cookies may hamper access of some features. Please note that a small amount of information will continue being retrieved from your website for basic functionalities
 
 Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, The Luxury Closet also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the The Luxury Closet site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the The Luxury Closet site.
 
-Personal Information You Provide Us. When you register on our Site you are required to provide us your username/email address and password. In order to purchase any item or service on our Sites you must also provide us with your full legal name and a full street address including city, state and zip code, and telephone number. To protect ourselves and our customers from fraud, we may also collect additional information about our registered users from credit bureaus and other consumer information services.
+#### When Does The Luxury Closet Collect Your Personal Information
 
-Every time you use our service, we collect information about your usage. For example, we collect information regarding the products you browse and the orders you place on our Sites. We use the personal information about you stored in our member database in various ways to provide our services to you, to communicate with you, and to otherwise conduct our business. For example, if you are a registered Luxury Closet user, we can pull up personal information you have provided to us, such as your shipping and billing addresses, from our database during the checkout process to make processing your order faster and easier.
+  * When you register or sign up with us
+  * When you interact with us on social media platforms
+  * When you purchase or sell items from the website
+  * When you respond to surveys
+  * When you register for newsletters or other communications from us
+  * When you contact us with a query or complaint
 
-We also use information about your activities on our Sites, such as your brand preferences and choices of clothing and accessories, to contact you with special advertisements, offers and notices regarding brands and bags that we believe may fit with your preferences.We also use non-personally identifiable “aggregate” information about how our service is used to improve our service, to make it more responsive to our customers preferences, and for other internal purposes. We also make such aggregate information (which does not identify any specific individual) available to third parties. If you contact us by letter, phone, online chat, or email, we will collect your sender information and may collect the other information you voluntarily disclose to us.
 
-#### What Security Procedures Does The Luxury Closet Use To Protect Personal Information?
 
-We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of The Luxury Closet, who need the information for their jobs.
+#### How Do We Utilize Your Personal Data
+
+At times, we also may ask for your details for authentication purposes. This includes address and telephone number which we use for delivery and pick-up services. All the information combined along with your shopping details and website account details shall be utilized to send you more personalized information and marketing updates or any purposes we may describe when you provide the information or other reasons with your consent. If you have expressed a dissent in sharing the personal information that is required, we might not be able to provide you all the services you have asked for. Please note that we keep all the data anonymous.
+
+#### Correcting Your Information
+
+You can correct, delete, alter or express concerns regarding your information by emailing us at [info@theluxurycloset.com](mailto:info@theluxurycloset.com). However, we may not entertain the change or alteration of the data if it is believed to be incorrect or violate the laws.
+
+#### How We Treat Your Personal Data
+
+Sometimes, we share your information with trusted third parties which include delivery couriers, direct marketing companies, Google/ Facebook, IT companies supporting the website etc.
+
+These information are regulated by policies to keep your data safe and protected. We provide your data to the third party to perform a particular service. The amount of data provided would only be as much it is mentioned in our contract with them and no more. At any given point, if you stop using our services, the information is either removed or held anonymous.
+
+Besides, in case of fraud management under certain circumstances, we may share our system information with law enforcement bodies, police or other regulatory or Government bodies.
+
+#### Opt-In, Opt-Out Provision
+
+During the time of registration, we explicitly ask you if wish to subscribe to our offers and information. Once you agree, you are signed up for the following information:
+
+  1. E-mails and alerts for new products and update about new introduction, of any kind from us.
+  2. Regular e-mails about offers, products, events and other promotional information and alerts.
+  3. Please note that at any given time, you have an option of unsubscribing from the list through our e-mails that contains automated unsubscribe link.
+
+
+
+#### Protection Of Your Personal Information
+
+We are committed strictly safeguard your personal information to ensure the integrity and privacy of your data stored by us. We secure your information through special encryption methods to protect it from unauthorised use. Besides, we also ensure that the third parties we share information with have sufficient mechanisms to keep safe your information that we provide.
 
 #### Does the Luxury Closet store Credit Card details on the site?
 
@@ -62,23 +102,20 @@ All non-transactional e-mails contain a single click unsubscribe link at the bot
 
 Every e-mail sent by the Luxury Closet gives the user the ability to unsubscribe, change, edit or remove any information previously provided. Equally, any such communication always allows the recipient to unsubscribe from the relevant service in order not to receive any further messages. Within each e-mail, the user will be able to unsubscribe by clicking on the unsubscribe link. This link will give you the option to unsubscribe completely and edit your information.
 
-#### Contact Us:
+#### Questions, Complaints & Inquiry About Policies
 
-For support, the Luxury Closet can be reached at:
+Should you need further information regarding the Privacy and Cookie Policy, have a question or want your complaint to be addressed, please write to us at [info@theluxurycloset.com](mailto:info@theluxurycloset.com)
 
-Tel: +971 800 589
+Or call us on:  
+Ph: 800 LUX ( 800 589 )
 
-or E-mail us at:
-
-[info@theluxurycloset.com  
-](mailto:info@theluxurycloset.com)  
-Physical address: 
+#### Physical address:
 
 Tradelux General Trading LLC  
 Novotel Dubai Al Barsha  
 API Trio Tower  
 Office 901  
-PO Box 502626 
+PO Box 502626
 
 #### In Summary.
 
