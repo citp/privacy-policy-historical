@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesketchupessentials.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124002653id_/http%3A//www.thesketchupessentials.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesketchupessentials.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035915id_/http%3A//www.thesketchupessentials.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The SketchUp Essentials
 
