@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1travel.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221155423id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1travel.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035936id_/https%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
-# loveholidays privacy policy
+# loveholidays privacy policy | loveholidays
 
 loveholidays understands and respects the importance of your privacy and we are committed to doing everything we can to safeguard personal information.
 
@@ -10,7 +10,7 @@ Our Privacy Policy covers all the platforms through which you choose to interact
 
 By making a booking or submitting any personal information via our channels, you are agreeing to us handling your personal information as set out below. If you do not agree to us using your personal information in these ways, unfortunately we can’t process your booking and you shouldn’t use our sites. 
 
-**What kind of personal information do we collect?**
+## What kind of personal information do we collect?
 
 When you book through us, you need to provide certain information such as your name, address, e-mail, phone number and payment information. If you happen to fill in the booking pages but for some reason don’t actually complete the booking, you will still be considered to have provided us with your information.
 
@@ -18,21 +18,21 @@ If you contact us, whether by phone, e-mail or another method, you’ll be asked
 
 There are also other instances when you’ll provide us with information, for example if you register to manage your booking via our website, leave a review, enter one of our competitions or complete a survey.
 
-**Information you give to us about others in your party**
+## Information you give to us about others in your party
 
 If you’re booking with others or for someone else, you will have to give us their information as well, for example their name and date of birth. It’s your responsibility to ensure that they are aware that you have done so, and also accept how we use and process their information as well as yours.
 
-**What information do we collect automatically?**
+## What information do we collect automatically?
 
 When you visit our sites we automatically collect certain information such as the device IP address, the date and time you visited, the hardware, software or particular browser used and information about your visit, including any pages you viewed and interacted with. We do this automatically, even when you don’t actually make a booking.
 
 If you’re using a mobile device to reach us, we keep data that identifies your device, location details and any specific settings. For more information on this, please see our [Cookies Policy](https://web.archive.org/cookie-policy.html). 
 
-**Information we get from others**
+## Information we get from others
 
 We might also get information about you from other sources, such as your Service Providers, affiliates and other third-parties like credit reference agencies, payment processors, search engines or social media sites. We may use this information with other information you provide in order to complete or process your booking. We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
-**What exactly do we do with your personal information?**
+## What exactly do we do with your personal information?
 
 Your personal information could be used in the following ways: 
 
@@ -46,7 +46,7 @@ Your personal information could be used in the following ways:
 
 **Personalisation of your experience:** We sometimes use your data to enable us to show you the most relevant products and services we think you’ll be interested in, such as the best deals and special offers for destinations you like or have been to previously.
 
-**Marketing:** Where you make a booking and haven’t specifically opted-out (or in any other case, if you have opted-in), we may contact you with information about other products and services that we offer that are similar to those that you have already purchased or enquired about and we think may interest you based on your personal information. Don’t worry, you can opt-out of these emails at any time.
+**Marketing:** Where you make a booking, or in any other case, if you have opted-in or signed-up, we may contact you with information about other products and services that we offer that are similar to those that you have already purchased or enquired about and we think may interest you based on your personal information. Don’t worry, you can opt-out of these emails at any time.
 
 **Promotional Activities:** If you take part in any of our promotions (such as surveys or competitions) we will need to use the information you provide to run these promotions. 
 
@@ -62,13 +62,13 @@ When we process your information as described above, we will be relying on one o
 
 **Performance of a contract:** We need to use your information to carry out the contract that you have with us and your Service Providers. We’ll use the information that you provide us when making a booking to conclude and process the reservations with the relevant third-party Service Providers. 
 
-**Consent:** You may be asked to consent to us sending you marketing and promotional material. If you do kindly give us this consent, we’ll rely on this consent when contacting you. You can always withdraw your consent at any time by simply unsubscribing – just follow the unsubscribe link in the email and it’s done. Alternatively you can also email [unsubscribe@loveholidays.com](mailto:unsubscribe@loveholidays.com) and it will be done for you.
+**Consent:** You may, through your action(s) of providing us your details, consent to us sending you marketing and promotional material. If you do kindly give us this consent, we’ll rely on this consent when contacting you. You can always withdraw your consent at any time by simply unsubscribing – just follow the unsubscribe link in the email and it’s done.
 
-**Legitimate interest:** We may use your information for our own legitimate interest, for example to provide you with the most relevant content on our site or to promote new services and for certain administrative and legal purposes.
+**Legitimate interest:** We may use your information for our own legitimate interest, for example to provide you with the most relevant content on our site or to promote new services and for certain administrative and legal purposes. If you fail to complete a purchase, we may send you some follow-up emails to try and help you, or seek your feedback or offer you alternative products related to your selection.
 
 **Business transaction:** We may use your data in connection with a business transaction such as the sale of a part or the whole of our business. 
 
-**How do we store your data?**
+## How do we store your data?
 
 Any information that you provide is stored on secure servers and all payment transactions are encrypted. Only authorised personnel are permitted to access your information in the course of their work with us. Whilst we do our best to protect your information, no information transferred over the internet or stored electronically can be guaranteed to be completely secure and you provide your information to us at your own risk.
 
@@ -76,7 +76,7 @@ We’ll only retain your information for a reasonable period of time, or for so 
 
 When you pay for your holiday, we don’t store your card details – instead we use an encrypted authorisation ‘token’ issued by your payment provider to collect the payment, or remaining payments if you chose to pay by instalments. 
 
-**When do we share your data with third parties?**
+## When do we share your data with third parties?
 
 In certain circumstances we may share the information you provide to us with organisations outside of loveholidays. The third parties who we might share your data with include: 
 
@@ -112,36 +112,30 @@ You have the right to request that we delete all personal information that we ho
 
 If you would like to exercise any of your above rights please contact us at [privacy@loveholidays.com](mailto:privacy@loveholidays.com), writing ‘Data Subject Access Request’ in the subject line. We will deal with any requests we receive in accordance with the relevant UK Data Protection laws. 
 
-If you feel we haven’t handled your personal data correctly, you have the right to complain to your local data protection authority. If you’re resident in the UK, The Information Commissioner's Office is the relevant data protection authority.
-
-**What about data that is collected through a mobile device?**
+## What about data that is collected through a mobile device?
 
 Mobile devices can be used to access our services, as well as versions of our regular website that have been optimised for mobile and tablet browsing. These mobile sites work in a similar way to our main website. Sometimes we make use of something known as cross-device tracking, which allows us to track user behaviour across different devices. We use this to optimise the service that we provide you and for marketing activities, so advertisements shown to you on other websites may be offered based on your activities on linked devices (please see our [Cookie Policy](https://web.archive.org/cookie-policy.html) for further information on this). 
 
-**How do we treat personal information of children?**
+## How do we treat personal information of children?
 
 You are only allowed to book through our site if you are over 18 years of age. We only process information about children with the consent of the parents or legal guardians. 
 
-**Who exactly is responsible for processing personal information that is collected under the policy?**
+## Who exactly is responsible for processing personal information that is collected under the policy?
 
 We Love Holidays Limited controls the processing of data over its sites – in legal terms, this means that We Love Holidays Limited is the Data Controller for the purposes of UK Data Protection laws.
 
-**How can you contact us?**
+## How can you contact us?
 
 If you have any questions about this Privacy Policy or wish to exercise any of your rights under it, please contact us at: 
 
 Email: [privacy@loveholidays.com](mailto:privacy@loveholidays.com)
 
-Post: Should be sent for the attention of the Legal & Compliance Department to: 
+Post: Should be sent for the attention of the Legal & Compliance Department to:
 
-4th Floor The Triangle
+5th Floor   
+3 Shortlands  
+Hammersmith  
+London  
+W6 8DA
 
-5-17 Hammersmith Grove
-
-Hammersmith
-
-London
-
-W6 0LG 
-
-This page was updated 09 May 2018 
+This page was updated 24 May 2018 
