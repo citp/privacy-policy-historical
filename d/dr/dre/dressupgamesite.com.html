@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dressupgamesite.com privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123111316id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dressupgamesite.com privacy policy that was archived on 2019-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190527181437id_/http%3A//www.dressupgamesite.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -44,7 +44,7 @@
 	<script src="http://www.dressupgamesite.com/view/stiven/js/simpletabs_1.3.packed.js"></script>
 	<script src="http://www.dressupgamesite.com/view/stiven/js/msdropdown.js"></script>
 	<script src="http://www.dressupgamesite.com/view/stiven/js/action.js"></script>
-
+    
 	<script language="javascript">
 	$(document).ready(function(e) { try {
 		$("body select").msDropDown();
@@ -52,6 +52,12 @@
 		alert(e.message);
 	}
 	});
+	
+	function searcFunc(){
+	searchterm = document.getElementById('mod_search_searchword').value;
+	document.location="http://www.dressupgamesite.com/dress/"+searchterm;
+	return false;
+}
 	</script>
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
@@ -94,15 +100,14 @@ _atrk_opts = { atrk_acct:"nRQNg1awO700EW", domain:"dressupgamesite.com",dynamic:
 			<div id="links-top" class="eight columns">
 				<ul class="links">
 				    <li class="active"><a href="http://www.dressupgamesite.com" title="Dress up Games Privacy and Policies"><span class="icon icon-home"></span>Home</a></li>
-				    <li><a href="http://www.dressupgamesite.com/blog" title="Dressupgamesite.com Blog" target="_blank"><span class="icon icon-blog"></span>Blog</a></li>
-				    
+	    
 			    </ul>
 			</div>
 			<div class="eight columns search-top">
 				<div class="searchform">
-					<form method="get" class="search">
+					<form method="get" class="search" action="#" onsubmit="return searcFunc();">
                         <input type="submit" class="submit" value="">
-                        <input type="text" placeholder="Search">
+                        <input id="mod_search_searchword" type="text" placeholder="Search">
                     </form>
 				</div>
 				<div class="language">
