@@ -1,87 +1,93 @@
-> *The following text is extracted and transformed from the mageworx.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180357id_/https%3A//www.mageworx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mageworx.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527020842id_/https%3A//www.mageworx.com/privacy-cookie-gdpr-policy) for the most accurate reproduction.*
 
 # MageWorx Privacy Policy
 
-Thank you for visiting www.magworx.com (together with its content, subdomains, software available for download, tools and services, the ("Site"), which is operated by MGWorx LLC. ("MageWorx"). Your privacy is important to us. To better protect your privacy, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used at this Site.
+Effective date: _May 24, 2018_
 
-1\. Introduction
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from “MageWorx”, which refers to website (the “Site”) https://www.mageworx.com, that is owned and operated by MGworx, LLC, dba MageWorx.
 
- We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. "Personal Information" means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, personal profile, a home or other physical address, an email address or other contact information.
+PERSONAL INFORMATION WE COLLECT
 
-2\. Consent and Modification
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
- By using this Site, you consent to the terms of our Privacy Policy and to MageWorx processing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change this Privacy Policy at any time, which change will be effective 30 days following posting the revised Privacy Policy on the Site. Your continued use of our Site 30 days following such posting means you will accept those changes.
+We collect the Device Information using the following technologies:
 
-3\. Receipt and Collection of Information
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
- We receive and/or collect information from you in the following ways:
 
-_  A. General Access to the Site_
 
- We do not currently require you to provide Personal Information in order to have access to general information available on our Site. 
+Additionally, when you create an account on the Site, make a purchase or attempt to make a purchase through the Site, we collect certain information provided by you, including your:
 
-_B. Software Downloads  _
+  * Name;
+  * Billing address;
+  * Payment information (including credit card numbers); 
+  * Date of birth;
+  * Phone number; and 
+  * Email address. 
 
-We offer you the opportunity to download certain software from the Site without charge. If you choose to do so, you may first be required to provide certain Personal Information (for example, by completing an online purchasing and pricing form), such as your name, email address, phone number, job title, company name, country, industry, total annual revenue, and number of employees. 
 
-_C. Purchases_
 
- If you choose to purchase a service or product from us we will require sufficient information from you to complete the transaction. Such information could include a credit card number and related account and billing information, invoice related information, and other data required to process the order. We may also update such data should you grant us permission to bill you or your credit card for recurring charges, such as monthly or other types of periodic payments. We may use the tools, software or services of third-party service providers to process transactions on our behalf (but we require that these parties agree to comply with this Privacy Policy). All information of this nature is maintained by us in a secure database and transmitted across the Internet from you to us using secured transmission encryption. Except as set forth herein, we will not share your financial Personal Information with any third person or entity.
+We refer to this information as “Order Information.”
 
- We may provide you, via the Site, with the opportunity to contact us, receive a MageWorx newsletter or participate in conferences, webinars, or special promotional or other programs (collectively "Events"). In order to participate in any of these Events, you will be required to provide certain Personal Information which may include your name, company, job title, address, email address, and phone number.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about the Device Information and the Order Information.
 
-_  D. Cookies and Other Tracking Technologies_
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
- Some of our Site pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Site user. You may block cookies, or delete existing cookies, by adjusting the appropriate setting on your browser. Please consult the HELP menu of your browser to learn how to do this. If you block or delete "cookies" you may find the usefulness of our Site to be impaired.
+We use the Order Information that we collect to fulfill any orders placed through the Site (including processing your payment information, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-_  E. Log Files_
+  * Communicate with you;
+  * Create an account for you on our Site;
+  * Identify you as a user on our Site;
+  * Screen our orders for potential risk or fraud;
+  * Improve our products or services; and
+  * Provide you with information or advertising relating to our products or services.
 
-Like many other websites, this Site may make use of log files. The information inside the log files includes the IP address from which you access the Site, the type of browser and operating system you use to access the Site, the date and time you access the Site, the pages you visit, and the addresses of pages from where you followed a link to the Site. We may use such information to analyze trends, administer the Site, track user's movement around the Site, and gather demographic information. Such information is not linked to any information that is Personal Information, with the exception of the IP address which might be used to identify spamming attempts.  
 
-4\. Publicly Available Information
 
- Any information, video, image, data, text, documents, or other content posted at your direction onto a public area of the Site, such as MageWorx Blog, becomes publicly published content and will be available to all users of that public area of the Site, even if such content contains Personal Information. Please note that if you publish your contact information, you may receive unsolicited messages from users and visitors to the Site. We encourage you to publish only information you are sure you want to be accessible to anyone.  
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-5\. The Way We Use Personal Information
+SHARING YOUR PERSONAL INFORMATION
 
-_  If you submit Personal Information to us through the Site:_
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
- We will use your Personal Information to improve our services to you, to contact you and to identify and authenticate your access to the Site’s services that you are authorized to access.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful requests for information we receive, or to otherwise protect our rights. 
 
-We may also use your email address to send updates, a newsletter or news regarding our services.
+BEHAVIOURAL ADVERTISING
 
-We may disclose your Personal Information or any information you submitted via the Site and its services if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to (i) comply with any applicable law, regulation, legal process or governmental request, (ii) enforce our Terms of Service including investigations of potential violations thereof, (iii) detect, prevent, or otherwise address fraud or security issues, or (iv) protect against harm to the rights, property or safety of MageWorx, its users, yourself or the public.
+We also use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work. 
 
-6\. The Way We Use Anonymous Information
+You can opt out of targeted advertising by:
 
-We may use Anonymous Information (as defined below), or disclose it to third party service providers, to improve our services and enhance your experience with the Site and its services. "Anonymous Information" means information which does not enable identification of an individual user, such as aggregated information about the use of our Site and services.  
+  * FACEBOOK - https://www.facebook.com/settings/?tab=ads
+  * GOOGLE - https://www.google.com/settings/ads/anonymous
+  * ADROLL - http://optout.networkadvertising.org/
 
-7\. Choice 
 
-You may choose whether or not to provide Personal Information to MageWorx. The notices we will provide where MageWorx collects Personal Information on the Site should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit many parts of the Site, but you may be unable to access certain options, offers, and services that involve our interaction with you.   
 
-8\. Collection of Information by Third-Party Sites 
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-Our Site may use a reputable third party to present or serve advertisements that you may see at our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.   
+DO NOT TRACK
 
-9\. Links to Other Sites 
+Please note that we do neither alter our Site’s data collection nor use practices when we see a Do Not Track signal from your browser.
 
-Our Site contains links to other sites. Other sites may also reference or link to our Site. We are not responsible for the privacy practices or the content of such other sites.  
+YOUR RIGHTS 
 
-10\. Children's Privacy 
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-The Site is not intended for or structured to attract children under the age of 18. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 18 years of age.  
+Additionally, if you are a European resident, we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-11\. Security 
+DATA RETENTION
 
-The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-12\. Changes to this Privacy Policy
+CHANGES
 
- We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+CONTACT US
 
-13\. Questions and contact information
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at info@mageworx.com or by mail using the details provided below:
 
- If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [sales@mageworx.com](mailto:sales@mageworx.com).
+**MGworx, LLC 222 S 9th St, Ste 1600 Minneapolis, MN, 55402 United States**
