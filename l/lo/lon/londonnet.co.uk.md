@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonnet.co.uk privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104084739id_/http%3A//www.londonnet.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonnet.co.uk privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527202308id_/https%3A//www.londonnet.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,13 +17,13 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on LondonNet.co.uk to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes (showing London real estate ads to someone in London, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad](http://www.google.co.uk/privacy_ads.html) and content network privacy policy.
+Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad](https://www.google.co.uk/privacy_ads.html) and content network privacy policy.
 
 **Turning off/Disabling Cookies**  
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 For more details on how to turn off cookies on LondonNet and other websites take a look at [Cookiecentral](http://www.cookiecentral.com/) and [All About Cookies.org](http://www.allaboutcookies.org/).
 
-If, like LondonNet, you use Windows PCs we recommend a regular 'clean-up' of your cookies and 'temporary internet files'. Aside from the privacy issues discussed above, cleaning or clearing up these files will often help to speed up your PC. We use a neat, free package called [CCLeaner](http://www.piriform.com/CCLEANER) every week or two on our machines. Yes, it means we have to re-enter a few passwords, etc but we like our PCs to hum along with a spring in their step.
+If, like LondonNet, you use Windows PCs we recommend a regular 'clean-up' of your cookies and 'temporary internet files'. Aside from the privacy issues discussed above, cleaning or clearing up these files will often help to speed up your PC. We use a neat, free package called [CCLeaner](https://www.piriform.com/CCLEANER) every week or two on our machines. Yes, it means we have to re-enter a few passwords, etc but we like our PCs to hum along with a spring in their step.
 
-Thank you for your time, and please feel free to [contact us](http://www.londonnet.co.uk/contact) if you have any concerns relating to privacy when you visit the LondonNet.co.uk web site. 
+Thank you for your time, and please feel free to [contact us](https://www.londonnet.co.uk/contact) if you have any concerns relating to privacy when you visit the LondonNet.co.uk web site. 
