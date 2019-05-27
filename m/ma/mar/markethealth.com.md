@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213120802id_/http%3A//www.markethealth.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527024006id_/https%3A//www.markethealth.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
