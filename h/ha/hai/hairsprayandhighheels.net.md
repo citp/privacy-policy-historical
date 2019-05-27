@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123131409id_/http%3A//www.hairsprayandhighheels.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527040658id_/http%3A//www.hairsprayandhighheels.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hairspray and Highheels
 
