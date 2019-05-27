@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiny.cloud privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107002404id_/https%3A//about.tiny.cloud/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiny.cloud privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035056id_/https%3A//about.tiny.cloud/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy Rights - Tiny
 
@@ -109,10 +109,13 @@ We share information with third parties that help us operate, provide, improve, 
 
 Tiny’s third-party service providers are:
 
+  * Amazon Web Services [data processing infrastructure]
   * Braintree [payment processing]
+  * Datapine [Cloud services analytics]
   * Eventbrite [event ticketing]
   * Facebook [advertising, social media marketing]
   * FullContact, Inc. [email marketing]
+  * Google Inc [website analytics]
   * Informizely [surveys]
   * Jazz [HR, hiring]
   * LinkedIn [advertising, social media marketing]
@@ -128,6 +131,7 @@ Tiny’s third-party service providers are:
   * Survey Monkey [surveys]
   * Twitter [advertising, social media marketing]
   * Wootric [surveys]
+  * WPEngine [hosting services]
   * Zendesk [support]
 
 
