@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173629id_/https%3A//www.americanfreight.us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527125304id_/https%3A//www.americanfreight.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | American Freight
 
@@ -32,7 +32,7 @@ If you send us personal correspondence, such as emails or letters, or if other u
 
 Email addresses obtained may be  used to send promotional emails. Should you no longer want to receive emails from American Freight you can unsubscribe by clicking unsubscribe at thebottom of any email you receive from American Freight.
 
-By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.us](http://www.americanfreight.us/) related communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
+By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.com-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.com](https://www.americanfreight.com/) related communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
 
 Use of IP Addresses
 
@@ -41,6 +41,8 @@ An IP address is a number assigned to your computer automatically when you acces
 Use of Cookies
 
 We may use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Among other reasons why we use cookies, cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests or service needs. Cookies are stored on your hard drive, not on our site. Most cookies are “session cookies,” meaning t hat they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our site and you may be required to reenter your password more frequently during a session.
+
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 Sharing of Information
 
@@ -76,7 +78,7 @@ Questions
 
 If you have any questions or concerns about this privacy notice, the practices of this site or your interaction with this web site, please contact info at [contactus@americanfreight.us](mailto:contactus@americanfreight.us)
 
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Price Match Policy
 
 **SMS Terms & Conditions**
 
