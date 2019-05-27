@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009154505id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527054145id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Voya Financial
 
@@ -60,16 +60,11 @@ Call the telephone number listed on your statements and other correspondence or 
 
 ### Who we are
 
- **Who is providing this notice?  **  
-This notice is provided by certain companies owned by Voya Financial, Inc. A list of these companies is provided at the end of this notice.
+ **Who is providing this notice?  **This notice is provided by certain companies owned by Voya Financial, Inc. A list of these companies is provided at the end of this notice.
 
 ### What do we do
 
- **How does Voya protect my personal information?**  
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
-
-**How does Voya collect my personal information?**  
-We collect your personal information, for example, when you
+ **How does Voya protect my personal information?** To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. **How does Voya collect my personal information?** We collect your personal information, for example, when you 
 
   * open an account or give us your contact information
   * apply for insurance or seek advice about your investments
@@ -77,10 +72,7 @@ We collect your personal information, for example, when you
 
 
 
-We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.
-
-**Why can't I limit all sharing?**  
-Federal law gives you the right to limit only
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies. **Why can't I limit all sharing?** Federal law gives you the right to limit only 
 
   * sharing for affiliates' everyday business purposes – information about your creditworthiness
   * affiliates from using your information to market to you
@@ -88,30 +80,23 @@ Federal law gives you the right to limit only
 
 
 
-State laws and individual companies may give you additional rights to limit sharing.  
-See below for more on your rights under state law.
-
-**What happens when I limit sharing for an account I hold jointly with someone else?**  
-Your choices will apply to everyone on your account.
+State laws and individual companies may give you additional rights to limit sharing.See below for more on your rights under state law. **What happens when I limit sharing for an account I hold jointly with someone else?** Your choices will apply to everyone on your account.
 
 ### Definitions
 
- **Affiliates**  
-Companies related by common ownership or control. They can be financial and nonfinancial companies.
+ **Affiliates** Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
   * Our affiliates include companies with the Voya name; financial companies such as Voya Retirement Insurance and Annuity Company; and nonfinancial companies such as Voya Services Company.
 
 
 
-**Nonaffiliates**  
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+**Nonaffiliates** Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
   * Voya does not share with nonaffiliates so they can market to you.
 
 
 
-**Joint marketing**  
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+**Joint marketing** A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
   * Voya does not jointly market.
 
@@ -125,6 +110,6 @@ If you live in California or Vermont, we will obtain your affirmative consent to
 
 This notice is provided by: Midwestern United Life Insurance Company; ReliaStar Life Insurance Company; ReliaStar Life Insurance Company of New York; Security Life Assignment Corp.; Security Life of Denver Insurance Company; Voya America Equities, Inc.; Voya Capital Corporation, LLC; Voya Financial, Inc.; Voya Financial Partners, LLC; Voya Funds; Voya Funds Services, LLC; Voya Institutional Plan Services, LLC; Voya Institutional Trust Company; Voya Investments, LLC; Voya Investments Distributor, LLC; Voya Retirement Advisors, LLC; Voya Retirement Insurance and Annuity Company.
 
-Note: If you are a client of Voya Financial Advisors, Inc., [click here (PDF)](https://professionals.voya.com/stellent/public/168057.pdf) to view the Privacy Notice.
+Note: If you are a client of Voya Financial Advisors, Inc., [click here (Download PDF)](https://professionals.voya.com/stellent/public/168057.pdf) to view the Privacy Notice.
 
-Note: If you are a client of Voya Insurance and Annuity Company, [click here (PDF)](https://professionals.voya.com/stellent/public/VIAC_PRIVACY.pdf) to view the Privacy Notice.
+Note: If you are a client of Voya Insurance and Annuity Company, [click here (Download PDF)](https://professionals.voya.com/stellent/public/VIAC_PRIVACY.pdf) to view the Privacy Notice.
