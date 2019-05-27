@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officeholidays.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019183639id_/https%3A//www.officeholidays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeholidays.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528012823id_/https%3A//www.officeholidays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for OfficeHolidays.com | Office Holidays
 
@@ -32,7 +32,7 @@ We do not use direct marketing. Any information we receive from you, stays with 
 
 ### 3\. COOKIES
 
-Like almost any other web site, this web site sets and uses cookies to enhance your user experience -- to remember your personal settings, for instance. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site's cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. [Information about cookies and their use on www.officeholidays.com](https://web.archive.org/web/20181019183639id_/https%3A//www.officeholidays.com/about/eucookielaw.php).
+Like almost any other web site, this web site sets and uses cookies to enhance your user experience -- to remember your personal settings, for instance. Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties providing the advertising do not have access to this site's cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site. [Information about cookies and their use on www.officeholidays.com](https://web.archive.org/web/20190528012823id_/https%3A//www.officeholidays.com/about/eucookielaw.php).
 
 We use analytics services to measure how many people use this website and monitor the overall performance of our website. The analytics service has been configured to anonymise your IP address, so you cannot be identified. The cookies used by the analytics service are necessary to ensure the ongoing operation of the site.
 
@@ -50,7 +50,7 @@ This Site may contain links to other sites. Please be aware that we are not resp
 
 ### 7\. CONTACT INFORMATION
 
-If you have any questions about this policy or about this web site, please feel free to [contact](https://web.archive.org/web/20181019183639id_/https%3A//www.officeholidays.com/contact/index.php) the site administrator. 
+If you have any questions about this policy or about this web site, please feel free to [contact](https://web.archive.org/web/20190528012823id_/https%3A//www.officeholidays.com/contact/index.php) the site administrator. 
 
 ### 8\. Third Party Privacy Policies
 
