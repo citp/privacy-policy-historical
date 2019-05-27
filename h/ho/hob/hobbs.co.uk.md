@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911194058id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527050618id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
@@ -86,7 +86,6 @@ We will use your information in the following ways:
 4.If you have consented to receive marketing information from us, we may use your information in the following ways:
 
   * we will process details of your previous transactions and contact you by e-mail with information about goods and services similar to merchandise you have purchased (however we never store your payment details);
-  * if you have consented to us doing so, we will share your information internally within the TFG Brands (London) group in order to send you tailored offers or other information we believe will be of interest;
   * if you provide your mobile telephone number in our preferences centre and if you have consented for us to do so, we may contact you with marketing messages which have been tailored to match your preferences.
 
 
@@ -99,10 +98,10 @@ How We Share Your Information
     
 
   * We share your information with our core service providers and third party platforms as required for our business to function; for example, picking, packaging and processing orders, fulfilling deliveries, customer support, fraud detection, credit risk reduction checks, IT systems support, and internal audits.
-  * If you choose to provide feedback on your transaction, we will share your information with Bazaarvoice, a third party feedback site who will capture your feedback on transactions which we use to enhance our customer service.
+  * If you choose to provide feedback on your transaction, we will share your information with Bazaarvoice or Qubit, who will capture your feedback on transactions which we use to enhance our customer service.
   * Your information may be processed by a third party in order to maintain the functionality of our Site and database.
-  * In the event that you add items to your basket but do not complete a transaction, Salescycle or Redeye will automatically send you an e-mail to remind you that there are items in your basket.
-  * Whilst you are a member of our mailing list we may share your information with trusted non-core service providers, such as marketing partners we have carefully selected to deliver incentives to participate in offers, polls, surveys, analysis or research, all of which assist us in enhancing our services. They are not permitted to use your information after you unsubscribe.
+  * In the event that you add items to your basket but do not complete a transaction, Redeye will automatically send you an e-mail to remind you that there are items in your basket.
+  * We may share your information with trusted non-core service providers, such as marketing partners we have carefully selected to deliver analysis or research and other marketing services, all of which assist us in enhancing our services. We will not share customer data with 3rd parties for their marketing purposes unless we have gained your explicit consent.
   * If you make an enquiry to the customer services team via email, phone or Livechat, the details of your enquiry will be securely stored against your customer record in the Zendesk helpdesk system. This allows us to accurately respond to your query in a timely manner, and keep a record of responses that have been given.
 
 
@@ -119,7 +118,7 @@ How Long We Keep Your Information
 We retain the information you provide for the following periods:
 
   * for as long as you subscribe to receive marketing information;
-  * for as long as your account is being used and for a period of three years after the date you cease to use your account, after which period we will anonymise the personal information on file by deleting the personal information and allocating a personally unidentifiable unique reference ID and store the remaining information for a period of five years (“ **Data Retention Period** ”).  After this time it will be permanently deleted from all systems and back-ups. If you wish to set up an account after this period this will be treated as a new account and your transaction history will not be available;
+  * for as long as your account is being used and for a period of three years after the date you cease to use your account, after which period we will anonymise the personal information on file by deleting the personal information and allocating a personally unidentifiable unique reference ID. If you wish to set up an account after this period this will be treated as a new account and your transaction history will not be available;
   * in the case of any contact you may have with our Customer Care team for as long as is necessary to provide support-related reports and trend analysis.
 
 
@@ -158,3 +157,7 @@ Contact Us
     
 
 If you have any questions about the Policy and practices of this Site you can contact us at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk).
+
+Hobbs Ltd, 72 Welbeck Street, London, W1G 0AY  
+Registered in England, Registered Number: 1577740  
+Registered Office: Milton Gate, 60 Chiswell Street, London, EC1Y 4AG
