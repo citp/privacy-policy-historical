@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312225733id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527214020id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
 
 # Information | Gustin
 
-  * Press
-  * Privacy Policy
-  * Referral Program Terms and Conditions
-
-
-
-* * *
-
-#### Press
-
-Please reach out to us directly with any press inquiries - [team@weargustin.com](mailto:team@weargustin.com)
-
-Gustin has been covered by [Esquire](http://www.esquire.com/blogs/mens-fashion/gustin-jeans-010713), [APM's Marketplace](http://www.marketplace.org/topics/world/burning-down-house-levis-built/), [Forbes](http://www.forbes.com/sites/petercohan/2013/10/18/gustin-growing-at-40000-as-it-expands-beyond-6-billion-denim-market//), [Superfuture](http://superfuture.com/supernews/online-gustin), [Uncrate](http://www.uncrate.com/stuff/gustin-denim/), [Cool Material](http://coolmaterial.com/style/gustin-selvage-denim/), [Rawr Denim](http://www.rawrdenim.com/2013/01/gustin-hand-crafted-crowd-sourced-delivered-to-you-denim/), and many others.
-
-* * *
-
-* * *
-
-#### Privacy Policy
+Privacy Policy
 
 This Privacy Policy governs the manner in which Gustin collects, uses, maintains and discloses information collected from users (each, a "User") of the www.weargustin.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Gustin.
 
@@ -79,9 +61,7 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Gustin www.weargustin.com 1809D Fourth Street, Berkeley, CA 94710 [team@weargustin.com](mailto:team@weargustin.com)
 
-* * *
-
-#### Referral Program Terms and Conditions
+Referral Program Terms and Conditions
 
 LIMITED TIME ONLY. 
 
