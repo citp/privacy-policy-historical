@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thoughts-on-java.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227194814id_/https%3A//www.thoughts-on-java.org/datenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughts-on-java.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527073314id_/https%3A//thoughts-on-java.org/datenschutz) for the most accurate reproduction.*
 
 # Privacy Policy - Thoughts on Java
 
-#### Last Updated: May 2018
+#### Last Updated: May 2019
 
 #### 1\. INTRODUCTION
 
@@ -20,7 +20,7 @@ Full name of legal entity: Thorben Janssen
 
 Email address: [support@thoughts-on-java.org](mailto:support@thoughts-on-java.org)
 
-Postal address: Hohe Str. 34, 01187 Dresden
+Postal address: Elser Bruch 63, 33106 Paderborn
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [support@thoughts-on-java.org](mailto:support@thoughts-on-java.org).
 
@@ -140,3 +140,9 @@ This website may include links to third-party websites, plug-ins and application
 #### 11\. COOKIES
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy.
+
+#### Tracking pixels from the Verwertungsgesellschaft WORT (VG WORT)
+
+Our website employs so-called “tracking pixels” from the Verwertungsgesellschaft WORT in the form of SCM (“scaleable centralized measuring systems“) provided by INFOnline GmbH (INFOnline GmbH, Forum Bonn Nord, Brühler Str. 9, 53119 Bonn, Germany), which are used for ascertaining statistical indicators with respect to the probability that texts are being copied.
+
+The data obtained are collected anonymously. The collection of user site hits to identify return visits to our website employs either so-called session cookies or a signature compiled from various information automatically transmitted by your browser. IP addresses are processed only in anonymized form. At no time are individual users identified for this purpose. This process is used to determine the probability that individual texts are being copied.
