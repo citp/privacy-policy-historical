@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rhbtradesmart.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145812id_/http%3A//www.rhbtradesmart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbtradesmart.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527135720id_/https%3A//rhbtradesmart.com/privacy.html) for the most accurate reproduction.*
 
 # RHB TradeSmart: Privacy
 
 RHB Banking Group (" **RHB** ") values your trust in us and respects the need to maintain the security and confidentiality of information that you provide to us, whether or not you are a RHB customer (" **Customer** "), a customer who has registered for our internet banking services (" **Registered User** ") [hereinafter collectively referred as " **RHB Customer** "] or a visitor to our website (" **Visitor** "). RHB is committed to protect each individual's privacy. That is our pledge to you.
 
-This Privacy Policy sets out RHB's general practices relating to the use and storage of the information you have provided to us online via this website. If you wish to obtain more information on the manner in which RHB processes your information, please refer to the [PDPA Privacy Notice](https://web.archive.org/web/20170606145812id_/http%3A//www.rhbtradesmart.com/pdpa.html).
+This Privacy Policy sets out RHB's general practices relating to the use and storage of the information you have provided to us online via this website. If you wish to obtain more information on the manner in which RHB processes your information, please refer to the [PDPA Privacy Notice](https://web.archive.org/web/20190527135720id_/https%3A//rhbtradesmart.com/pdpa.html).
 
   1. **Information Received**  
 We receive various types of information via this website when you make a general inquiry or provide feedback, when you make an appointment to see our Customer Service Personnel or where you are applying for new products or services, including but not limited to the following: 
@@ -34,7 +34,7 @@ We shall strive to ensure that security measures are exemplary and that all conf
   
 
   5. **Use and Sharing of Information**
-    1. We assure you that the whole or any part of the information received from you shall not be divulged, reproduced or used for any purpose other than that as stated in this Privacy Policy, or where applicable, our [PDPA Privacy Notice](https://web.archive.org/web/20170606145812id_/http%3A//www.rhbtradesmart.com/pdpa.html), unless duly authorised by you or in the restricted circumstances permitted by law.
+    1. We assure you that the whole or any part of the information received from you shall not be divulged, reproduced or used for any purpose other than that as stated in this Privacy Policy, or where applicable, our [PDPA Privacy Notice](https://web.archive.org/web/20190527135720id_/https%3A//rhbtradesmart.com/pdpa.html), unless duly authorised by you or in the restricted circumstances permitted by law.
     2. However, we do reserve the right to use the information provided by you to perform necessary credit checks or to assist other financial institutions in assessing your credit worthiness and collection of debts.
     3. RHB may share specific information about you, if you are a RHB Customer, only with an agent or affiliate (including members of the RHB Banking Group) so as to share our full range of products and services with you.
     4. If you are a Visitor to our website, RHB may also share non-specific information about you whether with an agent or affiliate or other reputable third parties, so as to advise you of opportunities and offers that may be of interest to you.
@@ -42,11 +42,11 @@ We shall strive to ensure that security measures are exemplary and that all conf
   
 
   6. **Limit on Distribution of Information**  
-If you are a RHB Customer, you have the option of limiting or preventing distribution of information by notifying RHB in writing by post or facsimile transmission to the address and facsimile number as stated in our [PDPA Privacy Notice](https://web.archive.org/web/20170606145812id_/http%3A//www.rhbtradesmart.com/pdpa.html). 
+If you are a RHB Customer, you have the option of limiting or preventing distribution of information by notifying RHB in writing by post or facsimile transmission to the address and facsimile number as stated in our [PDPA Privacy Notice](https://web.archive.org/web/20190527135720id_/https%3A//rhbtradesmart.com/pdpa.html). 
   
 
   7. **Accessibility and Accuracy of Information**  
-We strive to ensure that RHB Customer's information is accurate and kept up to date. However, in order to ensure that your records are kept up to date, we encourage you to assist us by informing us in the event that your records require to be updated, are found to be incomplete or inaccurate in the manner indicated in our [PDPA Privacy Notice](https://web.archive.org/web/20170606145812id_/http%3A//www.rhbtradesmart.com/pdpa.html). You may also access your information in a similar manner. If you are a Visitor, you also have the right to access and/or correct any of your information currently in our possession by emailing [support@rhbgroup.com](mailto:%20support@rhbgroup.com?Subject=My%20information%20on%20your%20database%20-%20PDPA) . 
+We strive to ensure that RHB Customer's information is accurate and kept up to date. However, in order to ensure that your records are kept up to date, we encourage you to assist us by informing us in the event that your records require to be updated, are found to be incomplete or inaccurate in the manner indicated in our [PDPA Privacy Notice](https://web.archive.org/web/20190527135720id_/https%3A//rhbtradesmart.com/pdpa.html). You may also access your information in a similar manner. If you are a Visitor, you also have the right to access and/or correct any of your information currently in our possession by emailing [support@rhbgroup.com](mailto:%20support@rhbgroup.com?Subject=My%20information%20on%20your%20database%20-%20PDPA) . 
   
 
   8. **Customer Questions or Complaints**  
