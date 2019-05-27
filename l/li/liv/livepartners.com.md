@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livepartners.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206174217id_/https%3A//www.livepartners.com/confidentiality.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepartners.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528013718id_/https%3A//www.livepartners.com/confidentiality.html) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Policy | LivePartners
 
