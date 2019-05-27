@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the biofaces.com privacy policy that was archived on 2018-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181121070302id_/http%3A//www.biofaces.com/privacity) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the biofaces.com privacy policy that was archived on 2019-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190527040254id_/http%3A//www.biofaces.com/privacity) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <base href="http://www.biofaces.com/">
 <link rel="stylesheet" type="text/css" media="all" href="//fonts.googleapis.com/css?family=Lato:400,700">
 <link rel="stylesheet" type="text/css" media="all" href="species/filtro_css">
-<link rel="stylesheet" type="text/css" media="all" href="css/padrao.css?v=337">
+<link rel="stylesheet" type="text/css" media="all" href="css/padrao.css?v=374">
 <link rel="stylesheet" type="text/css" media="all" href="js/fancybox/jquery.fancybox.css">
 <link rel="stylesheet" type="text/css" media="all" href="js/bio_plugins.css">
 <link rel="stylesheet" type="text/css" media="all" href="js/jquery-ui-1.11.4/themes/smoothness/jquery-ui.css">
@@ -30,10 +30,8 @@
 	opacity: 0;
 	visibility: hidden;
 }
-svg{ fill:#64906A; }
-.be-careful svg, .exotic svg, .amarelo svg{ fill:#f9a95a; }
-.venomous svg, .vermelho svg{ fill:#ff6a56; }
 </style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> SITE_URL = "http://www.biofaces.com/"; </script>
 <style>
 			.contentInstitucionais h4{
 				font-weight: normal;
@@ -108,7 +106,7 @@ svg{ fill:#64906A; }
 <li><a href="terms">Terms</a></li>
 <li><a href="privacity">Privacy</a></li>
 <li><a href="awards">Awards</a></li>
-<li><a href="newest/unknown">Unknow</a></li>
+<li><a href="http://blog.biofaces.com/" target="_blank">Blog</a></li>
 </div>
 <div style="width:180px;">
 <li><a href="contact">Contact</a></li>
@@ -117,6 +115,7 @@ svg{ fill:#64906A; }
 <li><a href="interviews">Interviews</a></li>
 <li><a href="groups">Groups</a></li>
 <li><a href="map">Map Navigation</a></li>
+<li><a href="newest/unknown">Unknow</a></li>
 </div>
 </ul>
 </div>
@@ -159,7 +158,7 @@ svg{ fill:#64906A; }
 <li><a href="">Species Report</a></li>
 <li><a href="javascript:void(0);" data-translate="convidar_amigos" class="">Invite Friends</a></li>
 <li><a href="help">Help</a></li>
-<li><a href="http://www.biofaces.com/exit/"></a></li>
+<li><a href="http://www.biofaces.com/exit/">Logout</a></li>
 </ul>
 </div>
 <a href="javascript:void(0);" class="iconesTopo iconeNotificacao menuSuperior" data-box="NotificacaoBox" id="notificacaoAlerta"></a>
@@ -186,7 +185,6 @@ svg{ fill:#64906A; }
 <div class="spacer40"></div>
 <div class="grid_10 prefix_1 suffix_1">
 <h1 class="title1">Privacy Policy</h1>
-
 <h2 class="subetitle1">Learn how Biofaces gives you your data.</h2>
 <div class="clear"></div>
 <div class="spacer40"></div>
@@ -367,7 +365,7 @@ svg{ fill:#64906A; }
 <big class="title2">Places</big>
 <div class="clear"></div>
 <div class="spacer20"></div>
-<div class="contentPostagemdaSemana" style="width:280px; height:210px;">
+<div class="contentPostagemdaSemana" style="width:276px; height:210px;">
 {iframe_mapa}
 </div>
 <div class="postdaSemanaDescricao" style="background-color:#FFF; padding:5px;">
@@ -383,7 +381,11 @@ svg{ fill:#64906A; }
 <big class="title2">Occurrences</big>
 <div class="clear"></div>
 <div class="spacer20"></div>
-<div class="contentPostagemdaSemana" style="width:280px; height:210px;">
+<div class="btsNovos">
+<a href="javascript:void(0);" data-url_timeline="{url_mapa_pontos}" class="bt active">Map Points</a>
+<a href="javascript:void(0);" data-url_timeline="{url_mapa_calor}" class="bt">Heat Map</a>
+</div>
+<div class="contentPostagemdaSemana" style="width:276px; height:210px;">
 {iframe_mapa}
 </div>
 </div>
@@ -405,7 +407,7 @@ svg{ fill:#64906A; }
 <small><a href="{url_slug_profile}" target="_blank">{tot_posts} Posts</a></small>
 <small><a href="{url_report}" target="_blank">{tot_species} Species</a></small>
 <small style="{display_premios_semana}"><a href="{url_slug_profile}" target="_blank" class="num_img_semana" title="Post of Week"><small class="postWeekTimeline">&nbsp;</small>{tot_post_semana}</a></small>
-<small style="{display_premios}"><a href="{url_slug_profile}" target="_blank" class="title_awards" title=""><small>&nbsp;</small>{tot_premios}</a></small>
+<small style="{display_premios}"><a href="{url_slug_profile}" target="_blank" class="title_awards" title="Awards"><small>&nbsp;</small>{tot_premios}</a></small>
 {location}
 </div>
 </div>
@@ -416,7 +418,7 @@ svg{ fill:#64906A; }
 <a href="javascript:void(0);" class="acaoItemTimeline reportAbuso" style="color:#B9B9B9;">Report Abuse</a>
 <a href="javascript:void(0);" class="acaoItemTimeline sugerirInfo" {estilo_sugestao}="">Suggest Information</a>
 {lifer}
-<span style="{display_taken}">Taken in {taken}</span>
+ <span style="{display_taken}">Taken in {taken}</span>
 {ecozone}
 </div>
 <div class="clear"></div>
@@ -445,8 +447,6 @@ svg{ fill:#64906A; }
 <a href="https://www.facebook.com/sharer/sharer.php?u={url_slug}&amp;title={post}" target="_blank" class="shareFace" data-url="{url_slug}"><span>&nbsp;</span></a>
 <a href="https://plus.google.com/share?url={url_slug}" target="_blank" class="shareGplus"><span>&nbsp;</span></a>
 <a href="https://twitter.com/home?status={url_slug}" target="_blank" class="shareTwitter"><span>&nbsp;</span></a>
-<a href="https://pinterest.com/pin/create/button/?url={url_slug}&amp;description={post}" target="_blank" class="sharePinterest"><span>&nbsp;</span></a>
-<a href="http://www.tumblr.com/share/link?url={url_slug}" target="_blank" class="shareTumblr"><span>&nbsp;</span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -489,7 +489,7 @@ svg{ fill:#64906A; }
 </div>
 </fieldset>
 </form>
-<div class="clear"></div>
+ <div class="clear"></div>
 </li>
 </div>
 <div id="__notificacoes" style="display:none">
@@ -604,7 +604,7 @@ svg{ fill:#64906A; }
 <a href="{slug_specie}" target="_blank" class="nomeEspecie">
 <big>{specie}</big>
 <small>{specie_nome}</small>
-</a>
+ </a>
 </li>
 </div>
 <div id="__flag_5" style="display:none">
@@ -726,7 +726,7 @@ svg{ fill:#64906A; }
 <small class="commentsList"><small>&nbsp;</small>{tot_comentario}</small>
 </span>
 </big>
-{tag_img_post}
+ {tag_img_post}
 </a>
 </li>
 </div>
@@ -963,18 +963,17 @@ svg{ fill:#64906A; }
 <div class="clear"></div>
 </li>
 </div>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.biofaces.com/traducao/e_variaveis/"></script>
-<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=drawing&amp;key=AIzaSyBwfscitzoX0sEwuUAWNDUPJJY1-ohTw-A"></script>
-<script type="text/javascript" src="js/sw_jq.js?v=337"></script>
-<script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js?v=337"></script>
-<script type="text/javascript" src="js/bio_plugins.js?v=337"></script>
-<script type="text/javascript" src="js/jquery.autosize.js?v=337"></script>
-<script type="text/javascript" src="js/jquery.lazyload.js?v=337"></script>
-<script type="text/javascript" src="js/jquery.tooltipster.min.js?v=337"></script>
-<script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js?v=337"></script>
-<script type="text/javascript" src="js/common.js?v=337"></script>
-<script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js?v=337"></script>
-<script type="text/javascript" src="js/institucional.js?v=337"></script>
+<script type="text/javascript" src="http://www.biofaces.com/traducao/e_variaveis/"></script>
+<script type="text/javascript" src="js/sw_jq.js?v=374"></script>
+<script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js?v=374"></script>
+<script type="text/javascript" src="js/bio_plugins.js?v=374"></script>
+<script type="text/javascript" src="js/jquery.autosize.js?v=374"></script>
+<script type="text/javascript" src="js/jquery.lazyload.js?v=374"></script>
+<script type="text/javascript" src="js/jquery.tooltipster.min.js?v=374"></script>
+<script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js?v=374"></script>
+<script type="text/javascript" src="js/common.js?v=374"></script>
+<script type="text/javascript" src="js/jquery.mCustomScrollbar.concat.min.js?v=374"></script>
+<script type="text/javascript" src="js/institucional.js?v=374"></script>
 <script type="text/javascript">
 
 /*
