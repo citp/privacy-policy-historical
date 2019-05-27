@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022063319id_/http%3A//www.ethanallen.com/en_US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527074513id_/https%3A//www.ethanallen.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Ethan Allen
 
 Ethan Allen understands and respects your concerns about privacy and we are committed to providing you with a safe online experience. The information below describes the type of information we collect, how it is used, and steps we take to protect your personally identifiable information. This policy applies to website orders and does not necessarily apply to orders placed by phone or in Design Centers. Periodically, we update our Privacy and Security policies. We encourage you to check this section for any changes. 
 
@@ -18,7 +18,7 @@ We collect only the information that we need to administer our business, provide
 
 This includes your name, address, telephone and fax numbers, email address, IP address. credit card and purchase information. If you tell us which Design Centers you've shopped in and/or which designers you've worked with, we will record that information as well. We use this information, among other purposes set forth below, to process your purchases and requests and to provide superior service. Information about your shopping cart choices, purchases, or requests for design assistance may be passed along to the closest Ethan Allen Design Center in our retail network, which is made up of independently owned and authorized Design Centers and corporate-owned Design Centers. Credit card and financing information is provided to credit card and consumer financing companies as required to process applications and transactions.
 
-If you agree to associate your social networking account with us (e.g., liking us on Facebook, following us on Twitter), we may receive personal information about you from the site in accordance with each site's terms of use and privacy policy.
+If you agree to associate your social networking account with us (e.g., liking us on Facebook, following us on Instagram), we may receive personal information about you from the site in accordance with each site's terms of use and privacy policy.
 
 Information that you supply is added to our client database. We make portions of our web and phone order client list available to carefully chosen business partners. If you do not want your name made available this way, if you’ve moved, or if you would prefer not to receive our catalogs, please click the "Removal From Mailings" link in the "Need Help?" section at the bottom of any page. If you no longer wish to receive our digital communications, please click the "Unsubscribe" link at the bottom of any of our emails. 
 
