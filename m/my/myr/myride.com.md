@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myride.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828144558id_/https%3A//www.autobytel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myride.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527085201id_/https%3A//www.autobytel.com/privacy-policy) for the most accurate reproduction.*
 
 # Autobytel Privacy Policy | Autobytel.com
 
 AutoWeb, Inc. (" **AutoWeb** ") understands your concerns with privacy and the use of your personal information. Whether you submit a request for a vehicle, financing, vehicle service or other product or service (" **Consumer Requests** ") or simply browse through our Website, we assure you that we are committed to protecting your personal privacy. We do not share, sell, rent or trade your personal information with third parties other than as disclosed within this privacy policy. 
 
-This privacy policy covers the www.autobytel.com website and all other websites owned or operated by AutoWeb or its affiliated entities (individually, an "AutoWeb Website" and collectively the " **AutoWeb Websites** "). We encourage you to read this Policy carefully before providing any personal information on any AutoWeb Website. If you have questions or concerns regarding this Policy, you should contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). 
+This privacy policy covers the www.autobytel.com website and all other websites owned or operated by AutoWeb or its affiliated entities (individually, an "AutoWeb Website" and collectively the " **AutoWeb Websites** "). We encourage you to read this Policy carefully before providing any personal information on any AutoWeb Website. If you have questions or concerns regarding this Policy, you should contact our Consumer Privacy Advocate by e-mail at [AWprivacy@autoweb.com](mailto:AWprivacy@autoweb.com). 
 
 * ## 1\. Information AutoWeb Collects and How We Use It
 
@@ -36,11 +36,11 @@ AutoWeb offers its users the advantage of personalization on our Websites by usi
 
 ### Special Sections of Our Websites
 
-AutoWeb offers forums and blogs on AutoWeb Websites. Any information you disclose in these forums and blogs is available to all visitors to AutoWeb Websites and may increase the risk of receiving "spam" or unsolicited email from other parties. Be careful and use discretion when disclosing information online. To request removal of your personal information from our blog or community forum, contact us at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+AutoWeb offers forums and blogs on AutoWeb Websites. Any information you disclose in these forums and blogs is available to all visitors to AutoWeb Websites and may increase the risk of receiving "spam" or unsolicited email from other parties. Be careful and use discretion when disclosing information online. To request removal of your personal information from our blog or community forum, contact us at [AWprivacy@autoweb.com](mailto:AWprivacy@autoweb.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ### Consumer Reviews and Other User Content
 
-We allow you to post reviews and other user content on AutoWeb Websites which may contain personal information. In order to post user reviews or other user content to AutoWeb Websites, you must first register with AutoWeb and thereby consent to the posting of your reviews or other user content and use of your personal information, such as your name. To request removal of your personal information, please see contact us at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). 
+We allow you to post reviews and other user content on AutoWeb Websites which may contain personal information. In order to post user reviews or other user content to AutoWeb Websites, you must first register with AutoWeb and thereby consent to the posting of your reviews or other user content and use of your personal information, such as your name. To request removal of your personal information, please see contact us at [AWprivacy@autoweb.com](mailto:AWprivacy@autoweb.com). 
 
 ### Other Uses
 
@@ -76,9 +76,9 @@ Users who come directly to AutoWeb Websites will not receive those communication
 
 Users whose Consumer Requests are submitted through third-party websites and are referred to us will receive those marketing communications and their information will be shared with other third parties unless they elect to opt out of those communications and disclosures. 
 
-To opt out of a category of email from us, click on the remove or unsubscribe link at the bottom of the email. Alternatively, you may email Customer Service at [consumercare@autobytel.com](mailto:consumercare@autobytel.com) with the word "Remove" in the subject line, and we will remove you from all further email marketing communication within five (5) business days. You may also opt-out at any time by contacting us at [consumercare@autobytel.com](mailto:consumercare@autobytel.com). 
+To opt out of a category of email from us, click on the remove or unsubscribe link at the bottom of the email. Alternatively, you may email Customer Service at [consumercare@autoweb.com](mailto:consumercare@autoweb.com) with the word "Remove" in the subject line, and we will remove you from all further email marketing communication within five (5) business days. You may also opt-out at any time by contacting us at [consumercare@autoweb.com](mailto:consumercare@autoweb.com). 
 
-In addition, we provide you the opportunity to indicate your preferences as to what types of offerings of products or services you wish to receive from third parties or - subject to the exceptions below - to opt-out of disclosures to those third parties altogether. You may update your preferences at any time by contacting us at [consumercare@autobytel.com](mailto:consumercare@autobytel.com). Those third parties who receive your personal information prior to your opt-out will remain able to send you communications, subject to their privacy policies and practices. To opt-out from receiving third party emails, you must contact those third parties directly. 
+In addition, we provide you the opportunity to indicate your preferences as to what types of offerings of products or services you wish to receive from third parties or - subject to the exceptions below - to opt-out of disclosures to those third parties altogether. You may update your preferences at any time by contacting us at [consumercare@autoweb.com](mailto:consumercare@autoweb.com). Those third parties who receive your personal information prior to your opt-out will remain able to send you communications, subject to their privacy policies and practices. To opt-out from receiving third party emails, you must contact those third parties directly. 
 
 In each case, even if you decide not to receive offers or other product or service information, AutoWeb and the dealers, manufacturers, lenders, other product and services providers, fulfillment third-parties and other referral services with which AutoWeb has relationships, may use a phone number, mailing address or email address that you have provided to contact you regarding a request or content that you have submitted or in connection with other administrative matters, such as operation of an AutoWeb Website. Additionally, phone numbers and email addresses may be used to conduct customer surveys regarding individual experiences with AutoWeb, dealers, lenders or other product and services providers. Phone numbers and email addresses are made available only to AutoWeb, its affiliates and dealers, manufacturers, lenders, other referral services, fulfillment third parties and other referral services who receive your Consumer Request. 
 
@@ -94,7 +94,7 @@ Your registration information is accessible online only through the use of a pas
 
 We restrict access to personal information about you to our employees and third parties who need to know that information in order to manage your account or provide you with services or information you requested. We review our safeguards from time to time, and strive to maintain them in a manner consistent with applicable regulations, if any, that may be in effect from time to time. Any of our employees who violate these policies and procedures are subject to disciplinary action. 
 
-If you have any questions about security on our Website, you can send email to us at[consumercare@autobytel.com](mailto:consumercare@autobytel.com). 
+If you have any questions about security on our Website, you can send email to us at[consumercare@autoweb.com](mailto:consumercare@autoweb.com). 
 
 * ## 5\. Children
 
@@ -102,7 +102,7 @@ We do not intend, and the Website is not designed, to collect personal informati
 
 * ## 6\. Corrections or Changes to Your Personal Information
 
-You may also make corrections and updates to your personal information by contacting [consumercare@autobytel.com](mailto:consumercare@autobytel.com). 
+You may also make corrections and updates to your personal information by contacting [consumercare@autoweb.com](mailto:consumercare@autoweb.com). 
 
 * ## 7\. Cookies and Web Beacons
 
@@ -138,8 +138,16 @@ If we are going to use your personal information in a manner different from that
 
 We take our commitment to protection of your privacy, as set out in this Policy, seriously. Nevertheless, NOTHING IN THIS PRIVACY AND SECURITY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION. 
 
-* ## 11\. Questions or Concerns?
+* ## 11\. Notice to California Residents - Your California Privacy Rights
 
-If you have any questions or concerns regarding privacy, security, opting-out of email offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at [ABTPrivacy@autobytel.com](mailto:ABTPrivacy@autobytel.com). 
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain personal information about you during the immediately preceding calendar year to any third parties for the third parties' direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the "Questions or Concerns" section below.
 
-For any other issues, please contact our customer service department at [consumercare@autobytel.com](mailto:consumercare@autobytel.com). Our mailing address is: 18872 MacArthur Boulevard, Suite 200, Irvine, CA 92612-1400. 
+As of the effective date of this Privacy Policy listed above, there is no commonly accepted response for Do Not Track signals initiated by browsers. Therefore, we do not respond to such signals or to other mechanisms that provide the ability to exercise choice regarding the collection of personally identifiable information regarding your online activities over time and across third party websites or online services.
+
+Section 22581 of the California Business and Professions Code permits a resident of California who is both under the age of 18 and a registered user of any site on which this Privacy Policy is posted to request and obtain removal of content that the user has publicly posted. Please be aware that such requests do not ensure the complete removal of the content posted, and there may be circumstances in which the law does not require or allow removal, even if requested. To request removal of content under Section 22581 of the California Business and Professions Code, please contact us as specified in the "Questions or Concerns" section below.
+
+* ## 12\. Questions or Concerns?
+
+If you have any questions or concerns regarding privacy, security, opting-out of email offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at [AWprivacy@autoweb.com](mailto:AWprivacy@autoweb.com). 
+
+For any other issues, please contact our customer service department at [consumercare@autoweb.com](mailto:consumercare@autoweb.com). Our mailing address is: 18872 MacArthur Boulevard, Suite 200, Irvine, CA 92612-1400. 
