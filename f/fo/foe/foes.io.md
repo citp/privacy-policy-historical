@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foes.io privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230072936id_/https%3A//foes.io/docs/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foes.io privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527171352id_/https%3A//foes.io/docs/privacy.txt) for the most accurate reproduction.*
 
 # 
 
