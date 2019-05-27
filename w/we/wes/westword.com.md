@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071759id_/https%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527093117id_/https%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Denver Westword | The Leading Independent News Source in Denver, Colorado
 
