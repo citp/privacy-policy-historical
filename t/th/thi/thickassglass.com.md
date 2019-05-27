@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083059id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528014741id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Thick Ass Glass
+# Privacy Policy – Thick Ass Glass
 
 PRIVACY STATEMENT
 
@@ -19,7 +19,7 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@thickassglass.com
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@thickassglass.com
 
 SECTION 3 - DISCLOSURE
 
@@ -81,6 +81,6 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@thickassglass.com or by mail at   
 Thick Ass Glass LLC  
 [Re: Privacy Compliance Officer]   
-411 Caredean Drive Suite A  
-Horsham PA 19044  
-\---- 
+2930 Turnpike Dr. #3-5  
+Hatboro PA 19040  
+\----
