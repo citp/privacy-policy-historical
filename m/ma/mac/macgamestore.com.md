@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619195029id_/https%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527184838id_/https%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
 
 # Privacy | macgamestore.com
 
@@ -37,7 +37,7 @@ Inside Mac Games, Ltd, its subsidiaries and affiliated companies ("INSIDE MAC GA
 
 
 
-_What Personal Information We Collect_  
+**What Personal Information We Collect**  
 Depending on the services you use, we collect different kinds of personal information from or about you. In addition, we create a unique user ID to track your use of our services. This unique user ID is stored in connection with your information. 
 
   * **Information you provide** \- We collect information in any form you willingly enter data into. Such as your name and email during account registration. Any contact information you provide when asking us support questions. Signing up to our newsletter, or participating in public discussions and writing reviews.
@@ -48,7 +48,7 @@ Depending on the services you use, we collect different kinds of personal inform
 
 
 
-_How We Use Your Personal Information_  
+**How We Use Your Personal Information**  
 We use your personal information (in some cases, in conjunction with non-personal information) mainly to provide and improve the service. You have some control over the consent and use of this information within your account's "My Settings". 
 
   * **Communicating with you** \- The information you provide, helps us contact you about your account, actions, or other important cruicial matters. We may use your information to process and respond to your support requests when you contact us. Subject to your prior express consent, we may also use personal information to send you marketing communications, such as when a wishlist item goes on sale, or if new game content has been released for prior pruchases you made.
@@ -113,28 +113,50 @@ Your browser or device may also offer settings that allow you to choose whether 
 
 **KNOWN 1ST PARTY COOKIES LIST:**
 
-Name| Type| Length| Details  
----|---|---|---  
-PHPSESSID | Essential | Session | Global. Core service key to handle any and all temporary application session data.  
-PHPSLUG | Essential | Session | Global. Core service id tied directly to PHPSESSID, not to a specific user.  
-BinkU | Essential | 6 month | Members only. Signed In session identifier and security token.  
-DinkU_# | Essential | 60 day | Members only. Secondary security token for members who have opted into 2-factor authorization.  
-PrefsU | Essential* | 1 year | Basic site usage prefs, like currency choice, and product results in list or tile. Does not contain any personally identifying information. *Essential if you wish to opt-in/out of specific cookie systems.  
-ARSID | Affiliate | 30 day | Maintains affiliate referral link ID (our internal affiliate system) to grant commissions from purchases made by users coming to us from an external affiliate website. Identifies the affiliate, not the user. Without this cookie, affiliates suffer.  
+Name| Type| Length| Type  
+Length| Details  
+---|---|---|---|---  
+PHPSESSID | Essential | Session | Essential  
+Session | Global. Core service key to handle any and all temporary application session data.  
+PHPSLUG | Essential | Session | Essential  
+Session | Global. Core service id tied directly to PHPSESSID, not to a specific user.  
+BinkU | Essential | 6 month | Essential  
+6 month | Members only. Signed In session identifier and security token.  
+DinkU_# | Essential | 60 day | Essential  
+60 day | Members only. Secondary security token for members who have opted into 2-factor authorization.  
+PrefsU | Essential* | 1 year | Essential*  
+1 year | Basic site usage prefs, like currency choice, and product results in list or tile. Does not contain any personally identifying information. *Essential if you wish to opt-in/out of specific cookie systems instead of all.  
+ARSID | Affiliate | 30 day | Affiliate  
+30 day | Maintains affiliate referral link ID (our internal affiliate system) to grant commissions from purchases made by users coming to us from an external affiliate website. Identifies the affiliate, not the user. Without this cookie, affiliates suffer.  
  **Please allow these** for the sake of your favorite affiliate sites!  
-LSDWeb | Affiliate | 30 day | Maintains affiliate referral link ID (through Rakutan Linkshare 3rd party service) to grant commissions from purchases made by user. (phasing out)  
-UTMWeb | Analytics | 30 day | Internal UTM tracking cookie from our own newsletter, wishlist sale notice, and product notification email campaigns. So we know if a campaign was worth bothering doing again. (phasing out)  
+UTMWeb | Analytics | 30 day | Analytics  
+30 day | Internal UTM tracking cookie from our own newsletter, wishlist sale notice, and product notification email campaigns. So we know if a campaign was worth bothering doing again. (phasing out)  
   
 **3RD PARTY COOKIES LIST:**
 
-Name| Type| Party| Domain| Length| Details  
----|---|---|---|---|---  
-__utm* | Analytics | Google | .google.com | Mixed | Google Analytics cookies used to distinguish users on a website to generate statistical information about their use of the website.  
-(various) | Social | Facebook | .facebook.com | Mixed | Facebook social media sharing buttons come with a plethora of various cookies they set and maintain. Which appear to change often, and in quantity. To find out more about them, please visit Facebook and read their cookie policy.  
-(various) | Social | Twitter | .twitter.com | Mixed | Twitter social media sharing buttons also come with various cookies they set and maintain. To find out more about them, please visit Twitter and read their cookie policy.  
-(numerous) | Comments | Disqus | .disqus.com  
+Name | Type| Length| Party | Type  
+Party | Domain | Details  
+---|---|---|---|---|---|---  
+__utm* | Analytics| Mixed| Google | Analytics  
+Mixed  
+Google  
+.google.com | .google.com | Google Analytics cookies used to distinguish users on a website to generate statistical information about their use of the website.  
+(various) | Social| Mixed| Facebook | Social  
+Mixed  
+Facebook  
+.facebook.com | .facebook.com | Facebook social media sharing buttons come with a plethora of various cookies they set and maintain. Which appear to change often, and in quantity. To find out more about them, please visit Facebook and read their cookie policy.  
+(various) | Social| Mixed| Twitter | Social  
+Mixed  
+Twitter  
+.twitter.com | .twitter.com | Twitter social media sharing buttons also come with various cookies they set and maintain. To find out more about them, please visit Twitter and read their cookie policy.  
+(numerous) | Comments| Mixed| Disqus | Comments  
+Mixed  
+Disqus  
+.disqus.com  
 .pippio.com  
-.rezync.com | Mixed | Disqus is a plug-in comment system found on the bottom of Product detail pages, and articles. Their cookies are vast, numerous, and ranging from multiple other 4th parties. The only way to opt out of these, is to fully [Disable Disqus](https://www.macgamestore.com/information/Cookies/).  
+.rezync.com | .disqus.com  
+.pippio.com  
+.rezync.com | Disqus is a plug-in comment system found on the bottom of Product detail pages, and articles. Their cookies are vast, numerous, and ranging from multiple other 4th parties. The only way to opt out of these, is to fully [Disable Disqus](https://www.macgamestore.com/information/Cookies/).  
   
 **WHAT ARE COOKIES:**
 
