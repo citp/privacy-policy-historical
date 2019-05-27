@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpforms.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823184615id_/https%3A//wpforms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpforms.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527092215id_/https%3A//wpforms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPForms
 
@@ -12,40 +12,40 @@ Your privacy is very important to us. At WPForms we have a few fundamental princ
 
 WPForms LLC (“WPForms”) operates several websites including WPForms.com. It is WPForms’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Website Visitors**
+ **Website Visitors**
 
 Like most website operators, WPForms collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. WPForms’s purpose in collecting non-personally identifying information is to better understand how WPForms’s visitors use its website. From time to time, WPForms may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 WPForms also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our blogs. WPForms only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-**Gathering of Personally-Identifying Information**
+ **Gathering of Personally-Identifying Information**
 
 Certain visitors to WPForms’s websites choose to interact with WPForms in ways that require WPForms to gather personally-identifying information. The amount and type of information that WPForms gathers depends on the nature of the interaction. For example, we ask visitors who comment on our blog to provide a username and email address. Those who wish to receive WPForms updates via email, we collect their emails. In each case, WPForms collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with WPForms. WPForms does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Aggregated Statistics**
+ **Aggregated Statistics**
 
 WPForms may collect statistics about the behavior of visitors to its websites. For instance, WPForms may monitor the most popular pages on the WPForms.com site or use spam screened by the Akismet service to help identify spam. WPForms may display this information publicly or provide it to others. However, WPForms does not disclose personally-identifying information other than as described below.
 
-**Protection of Certain Personally-Identifying Information**
+ **Protection of Certain Personally-Identifying Information**
 
 WPForms discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on WPForms’s behalf or to provide services available at WPForms’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using WPForms’s websites, you consent to the transfer of such information to them. WPForms will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, WPForms discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when WPForms believes in good faith that disclosure is reasonably necessary to protect the property or rights of WPForms, third parties or the public at large. If you are a registered user of an WPForms website and have supplied your email address, WPForms may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with WPForms and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. WPForms takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-**Cookies**
+ **Cookies**
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. WPForms uses cookies to help WPForms identify and track visitors, their usage of WPForms website, and their website access preferences. WPForms visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using WPForms’s websites, with the drawback that certain features of WPForms’s websites may not function properly without the aid of cookies.
 
-**Business Transfers**
+ **Business Transfers**
 
 If WPForms, or substantially all of its assets were acquired, or in the unlikely event that WPForms goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of WPForms may continue to use your personal information as set forth in this policy.
 
-**Ads**
+ **Ads**
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by WPForms and does not cover the use of cookies by any advertisers.
 
-**Comments**
+ **Comments**
 
 Comments and other content submitted to Akismet anti-spam service are saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-**Privacy Policy Changes**
+ **Privacy Policy Changes**
 
 Although most changes are likely to be minor, WPForms may change its Privacy Policy from time to time, and in WPForms’s sole discretion. WPForms encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
