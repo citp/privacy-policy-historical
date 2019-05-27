@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905212040id_/https%3A//www.aec.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527225455id_/https%3A//www.aec.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Australian Electoral Commission
 
-**Updated:** 29 June 2018
+**Updated:** 29 March 2019
 
 ## Privacy Policy Summary
 
@@ -14,11 +14,15 @@ Personal information (including sensitive information) about you may be collecte
 
 ## Use and disclosure of personal information
 
-The AEC may only use and disclose collected information, including personal information, for the primary purpose for which it was collected. The Commonwealth Electoral Act 1918 (the “Electoral Act”) has additional requirements regarding the use and disclosure of personal information.
+The AEC may only use and disclose collected information, including personal information, for the primary purpose for which it was collected. The _Commonwealth Electoral Act 1918_ (the “Electoral Act”) has additional requirements regarding the use and disclosure of personal information.
+
+  * [More information about Privacy and the Election](https://web.archive.org/FAQs/privacy-election.htm)
+
+
 
 ## Privacy Impact Assessments
 
-All high privacy risk projects or initiatives that involve new or changed ways of handling personal information require a written privacy impact statement. [View the Information on Privacy Impact Assessments](https://web.archive.org/web/20180905212040id_/https://aec.gov.au/privacy/privacy-impact-assessments.htm).
+All high privacy risk projects or initiatives that involve new or changed ways of handling personal information require a written privacy impact statement. [View the Information on Privacy Impact Assessments](https://web.archive.org/web/20190527225455id_/http://www.aec.gov.au/privacy/privacy-impact-assessments.htm).
 
 ## Access to and correction of personal information
 
@@ -26,15 +30,19 @@ Under the Privacy Act you have the right to ask for access to personal informati
 
 You can ask for access or correction by contacting us. If you ask, we must give you access to your personal information, and take reasonable steps to correct it if we consider it is incorrect.
 
-## How to make a complaint
+## How to make a privacy enquiry or complaint
 
-You can complain to us in writing, over the phone, or through our [online enquiry portal](https://www.aec.gov.au/About_AEC/Contact_the_AEC/feedback.htm).  
-In writing:  
+You can make a privacy enquiry to us in writing, over the phone, or through our [online privacy enquiry form](https://formupload.aec.gov.au/Form?FormId=Privacy).
+
+You can make a privacy complaint to us in writing, over the phone, or through our [online complaints form](https://formupload.aec.gov.au/Form?FormId=complaint) by selecting ‘Privacy’ from the drop-down menu.
+
+**In writing:**  
 The Privacy Officer  
 Australian Electoral Commission  
 Locked Bag 4007  
 Canberra ACT 2601  
-Australia.  
-By phone: 02 6271 4411
+Australia.
 
-For more information please refer to the full [AEC Privacy Policy](https://www.aec.gov.au/footer/Privacy.htm).
+**By phone:** 02 6271 4411
+
+For more information please refer to the full [AEC Privacy Policy](https://web.archive.org/footer/Privacy.htm).
