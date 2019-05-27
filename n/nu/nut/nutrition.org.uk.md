@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104175155id_/https%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition.org.uk privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527042218id_/https%3A//www.nutrition.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - British Nutrition Foundation
 
@@ -32,7 +32,7 @@ You may delete and block all cookies from this site, but parts of the site will 
 
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>
+To opt out of being tracked by Google Analytics across all websites visit [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
 
 **Disclaimer**
 
@@ -54,11 +54,11 @@ London
 
 WC1X 8TA
 
-Email: [postbox@nutrition.org.uk](mailto:postbox@nutrition.org.uk)
+Email: [[email protected]](https://www.nutrition.org.uk/cdn-cgi/l/email-protection#f68699858294998eb6988382849f829f9998d8998491d8839d)
 
 Phone: 020 7557 7930
 
-Web: [www.nutrition.org.uk](http://www.nutrition.org.uk/)  [www.foodafactoflife.org.uk](http://www.foodafactoflife.org.uk/)  [www.nutrition.training](http://www.nutrition.training/)
+Web: [www.nutrition.org.uk](https://www.nutrition.org.uk/)  [www.foodafactoflife.org.uk](http://www.foodafactoflife.org.uk/)  [www.nutrition.training](http://www.nutrition.training/)
 
 Registered charity No.251681
 
@@ -139,7 +139,7 @@ These cookies are used to collect information about how visitors use our site. W
 
 | 
 
-[Google Analytics Overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+[Google Analytics Overview](https://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
   
 ASP.NET_SessionId
 
@@ -149,4 +149,23 @@ Session cookie
 
 | 
 
-Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.
+Stores user session. Session cookies allow users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. This cookie expires when you close your browser.  
+  
+**Terms and Conditions Twitter giveaway March 2019**
+
+  1. The competition is open to residents of the United Kingdom, excluding employees of British Nutrition Foundation and their close relatives and anyone otherwise connected with the organisation of the competition.
+  2. There is no entry fee and no purchase necessary to enter this competition.
+  3. Only one entry will be accepted per person. Multiple entries from the same person will be disqualified.
+  4. The competition will be run on Twitter. The rules of the competition and how to enter are as follows:
+  5. Entries must be made by re-tweeting and liking the Tweet and following @BNFEvents on Twitter.
+  6. Closing date for entry will be 12pm on Friday 29th March 2019. After this date the no further entries to the competition will be permitted.
+  7. The winner will be selected from all eligible entries received before the stated competition closing time. Entries received after the closing time will be invalid and will not be included in the competition.
+  8. The prize is as follows: one hard copy of the BNF Task Force report _Cardiovascular Disease: Diet, Nutrition and Emerging Risk Factors, 2nd Edition_ ; 1 set of BNF 'Find your balance' resources comprising a poster, two booklets and a fridge magnet; 1 canvas _Food – a fact of life_ tote bag.
+  9. The prize is as stated and no cash or other alternatives will be offered. The prize is not transferable.
+  10. Winners will be chosen: at random by software, from all eligible entries received.
+  11. The winner will be notified by tweet and by DM on Twitter within 28 days of the closing date.
+  12. The winner agrees to the use of their twitter handle and image as well as their entry.
+  13. If the winner cannot be contacted or do not claim the prize within 14 days of notification, we reserve the right to withdraw the prize from the winner and pick a replacement winner.
+  14. BNF’s decision in respect of all matters to do with the competition will be final and no correspondence will be entered into.
+
+
