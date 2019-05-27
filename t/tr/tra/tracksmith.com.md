@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925212321id_/https%3A//www.tracksmith.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527165343id_/https%3A//www.tracksmith.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tracksmith
 
