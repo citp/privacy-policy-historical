@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175428id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regattacentral.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527220513id_/https%3A//www.regattacentral.com/information/privacy.jsp) for the most accurate reproduction.*
 
 # RegattaCentral - Privacy Policy
 
-**SPay, Inc d/b/a Stack Sports Star Sports Privacy Policy**   
+**SPay, Inc d/b/a Stack Sports Privacy Policy**   
 ****   
 **Effective Date: 28 September 2017**   
 ****   
@@ -131,8 +131,8 @@ _By post:_
 
 Attn: Privacy Officer  
 SPay, Inc. re: RegattaCentral  
-2029 Riverside Dr, Suite 201  
-Columbus, OH, 43221   
+6233 Riverside Dr Suite 1N  
+Dublin, OH 43017   
 United States of America 
 
 __   
