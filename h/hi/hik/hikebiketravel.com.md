@@ -1,25 +1,20 @@
-> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209013813id_/http%3A//www.hikebiketravel.com/hike-bike-travel-privacy-statement-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikebiketravel.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527021429id_/https%3A//hikebiketravel.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Hike Bike Travel Privacy Policy
+# Privacy Policy - Hike Bike Travel
 
-HikeBikeTravel.com (hereafter called HBT) has created this privacy policy (hereafter, “Policy”) in order to demonstrate our commitment to customer privacy. Privacy on the HBTwebsite (hereafter, “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Policy as a means to communicate our information gathering and dissemination practices.
+**HikeBikeTravel believes very strongly in keeping your personal information confidential.   The following policy describes what information we collect and how it is used and shared.**
 
-We reserve the right to change this Policy and will provide notification of the change at least thirty (30) business days prior to the change taking effect. To be effective, the change will include directions on how users may respond to the change.
+**Information Collected**  
+HikeBikeTravel collects as little information as possible from users looking to post comments and messages in the forum.  We will typically collect a name (either real or alias), personal website, and e-mail address.
 
-If you have objections with the terms of the HBT Privacy Policy, you should not use this site. All users of this site are expected to have read and agreed to HBT Terms of Use.
+**Cookies / IP Address tracking**  
+HikeBikeTravel uses cookies to uniquely identify users for the purpose of log files, posting comments, and voting on the site.  No personal information is stored in these cookies and it simply a way to identify your computer.
 
-This HBT Privacy Policy applies to data collected by HBT through its website and other services including all subsidiary applications.
+**With Whom Information is Shared**  
+None of your information will be shared with third parties. HikeBikeTravel may use your e-mail address in the future to contact you regarding the site, however, an opt-out will always be provided.  Your name and website may be displayed on the site if you post a comment or a message in the forum.  However, your e-mail address and privacy will always be kept secure.
 
-1\. Private customer information will be governed by the current Personal Information Protection Act (PIPA) legislation. HBT is bound by the Canadian PIPA to notify customers of breach of personal information using the notification procedures described by law.
+**Opting Out**  
+If HikeBikeTravel chooses to send out newsletter updates in the future and we have your email address on file, you may receive a copy of our newsletter.  However, at the bottom of every newsletter will be an easy way to opt-out.  The editors of our site hate SPAM as much as you and have no intention of filling up e-mail boxes with unwanted messages.
 
-2\. HBT may collect and use your personal information to operate HBT and to deliver the services requested.
-
-3\. HBT may use the information collected to contact customers to further discuss customer interest in our company, the services that we provide and to send information regarding our company or partners, such as promotions and events. Any use of such information within HBT will remain subject to the limitations of this privacy statement.
-
-4\. HBT may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems and to administer our Site in order to constantly improve the quality of our service.
-
-5\. We may require customers who purchase our products to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address and credit card number. We may use the collected email address to convey information regarding updates to our service or company or to send a Customer Newsletter as required.
-
-6\. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to info@hikebiketravel.com.
-
-7\. At the time registration is made on our Site we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked.
+**Third Party Advertising**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
