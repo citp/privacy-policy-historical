@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplay.tips privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110203908id_/https%3A//gameplay.tips/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplay.tips privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527184005id_/https%3A//gameplay.tips/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
