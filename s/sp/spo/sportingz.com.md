@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingz.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125085738id_/http%3A//sportingz.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingz.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527061033id_/http%3A//www.sportingz.com/terms) for the most accurate reproduction.*
 
 # Privacy Policy - Sportingz
 
