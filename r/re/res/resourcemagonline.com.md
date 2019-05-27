@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcemagonline.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125184124id_/http%3A//resourcemagonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcemagonline.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527034145id_/http%3A//resourcemagonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Resource
 
