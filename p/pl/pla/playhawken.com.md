@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playhawken.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107130517id_/https%3A//www.playhawken.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playhawken.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527192948id_/http%3A//www.playhawken.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - HAWKEN: War is A Machine - Free-to-Play Mech First-Person-Shooter
 
-Reloaded Games, Inc. and its affiliates ("us," "we," or "Reloaded Games") take your privacy and security very seriously. When you choose to register with PlayHawken.com, you're entrusting us with something important to you. We're going to work hard to make sure that your information stays safe and private. The gist of this policy is to confirm that we collect your personal information, that we'll be very careful with it, and that if somebody tries to mess with us or you, we can take action to stop it and make sure it doesn't happen again.
+Hawken Entertainment, Inc., Inc. and its affiliates ("us," "we," or "Hawken Entertainment, Inc.") take your privacy and security very seriously. When you choose to register with PlayHawken.com, you're entrusting us with something important to you. We're going to work hard to make sure that your information stays safe and private. The gist of this policy is to confirm that we collect your personal information, that we'll be very careful with it, and that if somebody tries to mess with us or you, we can take action to stop it and make sure it doesn't happen again.
 
 If anything on this page makes you twitchy, drop us a line at [privacy@playhawken.com](mailto:privacy@playhawken.com) and we'll do whatever we can to improve the situation.
 
@@ -32,7 +32,7 @@ This website uses cookies. Cookies are used for record keeping, to track your mo
 As we roll out new features to playhawken.com, you will need to register in order to use many of them. We will, and you expressly authorize us to, use the information you provide for the purposes identified to you when you registered, including to: 
 
   * provide and administer this website;
-  * communicate with you about services, features, products, special offers, and unique content available through this website or otherwise from Reloaded Games or about other topics related to Reloaded Games; products and services that we think you might find of interest; and
+  * communicate with you about services, features, products, special offers, and unique content available through this website or otherwise from Hawken Entertainment, Inc. or about other topics related to Hawken Entertainment, Inc.; products and services that we think you might find of interest; and
   * communicate with you about other products or services we offer.
 
 
@@ -69,7 +69,7 @@ All versions of this privacy policy are dated with the effective date (the date 
 
 ##### Changes in corporate structure
 
-If Reloaded Games is sold, merged or otherwise transferred to another entity, the personal information you have provided to us may be transferred as part of that transaction. However, we will take steps to assure that any personal information is used in a manner consistent with the privacy policy under which it was collected.
+If Hawken Entertainment, Inc. is sold, merged or otherwise transferred to another entity, the personal information you have provided to us may be transferred as part of that transaction. However, we will take steps to assure that any personal information is used in a manner consistent with the privacy policy under which it was collected.
 
 ##### Effect of legal obligations upon this privacy policy
 
@@ -81,6 +81,6 @@ This Privacy Policy is not intended to and does not create any contractual or le
 
 ##### Security issues
 
-If you are a user of this website and have a concern regarding the security of your account or personally-identifiable information, have found a security vulnerability in this website or have a security incident to report, please, please contact Reloaded Games via email at security@playhawken.com or via postal mail sent to: 16787 Beach Blvd. #465 Huntington Beach, CA 92647 or via telephone at (949) 486-0400. Include a detailed summary of the issue you've discovered. We may reach out to you if we need more information.
+If you are a user of this website and have a concern regarding the security of your account or personally-identifiable information, have found a security vulnerability in this website or have a security incident to report, please, please contact Hawken Entertainment, Inc. via email at security@playhawken.com or via postal mail sent to: 16787 Beach Blvd. #465 Huntington Beach, CA 92647 or via telephone at (949) 486-0400. Include a detailed summary of the issue you've discovered. We may reach out to you if we need more information.
 
 _Effective August 5, 2015_
