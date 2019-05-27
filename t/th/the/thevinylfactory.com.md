@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219191628id_/https%3A//thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevinylfactory.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527163405id_/https%3A//thevinylfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Vinyl Factory
 
@@ -87,7 +87,7 @@ We use information held about you in the following ways:
   * We ask for your details so we can add you to our email database and send you updates you’ve requested.
 
 
-  * This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please unsubscribe from the service at the foot of any of our email updates.
+  * This information will not be given to any third party, except for use by The Vinyl Factory group to provide tailored tailored advertising on third party social platforms such as Facebook, Twitter, Google and Instagram and except for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please unsubscribe from the service at the foot of any of our email updates.
 
 
 
