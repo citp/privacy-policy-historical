@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isac.gov.in privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203190039id_/http%3A//www.isac.gov.in/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isac.gov.in privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035744id_/https%3A//www.isac.gov.in/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Home](https://web.archive.org/index.jsp) : Privacy Policy  Last updated on: 01-Apr-2015
 
-Thanks for visiting website of ISRO Satellite Centre, Bengaluru and reviewing our privacy policy.
+Thanks for visiting website of U R Rao Satellite Centre , Bengaluru and reviewing our privacy policy.
 
 We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us â€“ like filling out a feed back form, with an e-mail address or postal address, and submitting it to us through the website, we use that information to respond to your message, and to help you get the information you have requested. 
 
