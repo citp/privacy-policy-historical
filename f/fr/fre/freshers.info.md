@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshers.info privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126031105id_/http%3A//www.freshers.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshers.info privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527234809id_/http%3A//www.freshers.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freshers.info
 
