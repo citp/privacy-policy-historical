@@ -1,174 +1,107 @@
-> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144033id_/https%3A//www.runnerinn.com%3Faction%3Dterminos%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerinn.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527103339id_/https%3A//www.runnerinn.com/running/politica/st) for the most accurate reproduction.*
 
-# Terms & conditions. runnerinn, online running & triathlon gear and running & triathlon equipment shop
+# Privacy policy. runnerinn, online running & triathlon gear and running & triathlon equipment shop
 
-Welcome to Tradeinn.com, the first network of online store specialized in selling sports equipment.
+1\. LEGAL INFORMATION
 
-[TRADEINN RETAIL SERVICES S.L.](http://www.tradeinn.com/ "TRADEINN RETAIL SERVICES S.L.")
+**Website:** www.runnerinn.com
 
-C/ Pirineus, 9,   
-17460 Celrà (Girona), Spain.   
-Tel.: 718-709-5401 
+ **Company that owns:** Tradeinn Retail Services S.L. ([www.tradeinn.com](http://www.tradeinn.com/ "tradeinn"))
 
-[www.tradeinn.com](http://www.tradeinn.com/ "tradeinn")
+ **Company Adress:** C/ Pirineus, 9, 17460 Celrà (Girona), Spain. 
+
+**Managing Director:** David Martin Gaya 
+
+**Commercial Register:** Registre mercantil de Girona - tomo 1123 / folio 108 / hoja GI20086 - Inscripción 1ª
+
+**VAT identification number:** ESB17527524
 
 **Legally responsible for the content of this website:** David Martin Gaya
 
- **Commercial Register:** registre mercantil de Girona - tomo 1123 / folio 108 / hoja GI20086 - Inscripción 1ª
+2\. DATA PROTECTION
 
- **VAT identification number:** ESB17527524
+Tradeinn Retail Services S.L. is committed to protecting your privacy. We inform you that the personal data you provide will be processed in order to provide the services and / or to deliver the requested products if you make a purchase, and in order to facilitate, even by electronic means, commercial information. 
 
-1\. INTRODUCTION
+The responsible for these treatments is Tradeinn Retail Services S.L. with registered office at C/ Pirineus, 9, 17460 Celrà (Girona), Spain. Phone: +34 93 220 00 89. 
 
-These terms and conditions govern your use of all Tradeinn's websites: www.scubastore.com, www.trekkinn.com, www.snowinn.com, www. bikeinn.com, www.smashinn.com, www.swiminn.com, www.waveinn.com, www.motardinn.com, www.outletinn.com, www.runnerinn.com, www.goalinn.com, www.dressinn.com, www.traininn.com. By using any of our websites, you accept these terms and conditions in full. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use these websites. 
+The data protection delegate of Tradeinn (DPD) is Mrs. Ester Salvador Ibáñez, this is the person you can contact to exercise your rights. You can contact the data protection delegate of Tradeinn (DPD) through the following electronic address: lopd@tradeinn.com. 
 
-Any user of our websites must be at least 18 years of age. By using any of our websites and by agreeing to our terms and conditions, you warrant and represent that you are at least 18 years of age. 
+The legal basis of the treatment in case you are a client is the execution of the contract in which you are a party. 
 
-Our websites use cookies. By using our websites and agreeing to our terms and conditions, you consent to TRADEINN's use of cookies in accordance with the terms of TRADEINN's Privacy Policy. 
+The legal basis of the commercial information is your express consent, because when you register, you give your express authorization for us to send you commercial information, including by electronic means. 
 
-2\. CONTRACTUAL PARTNER
+Whenever you wish, you can unsubscribe from our newsletter and revoke this express consent, to stop receiving this type of email. To do this, you can unsubscribe at any time, via the My Account section or by clicking the unsubscribe link available in all promotional emails sent by Tradeinn Retail Services S.L. 
 
-Any user of our websites must be at least 18 years of age. By using any of our websites and by agreeing to our terms and conditions, you warrant and represent that you are at least 18 years of age. The contract is concluded between TRADEINN and you. 
+When you sign up, you agree to provide us with valid personal data that allows the provision of the service by Tradeinn Retail Services S.L. and your correct identification as a registered user. These personal data that you must provide us are essential to send the information and / or the orders and the preparation of the invoices. 
 
-3\. OFFER AND CONTRACT CLOSING
+The absence of these data or their inaccuracy will lead to the impossibility to send information and / or delivery of orders. If an order can not be delivered for this reason, it will be automatically cancelled. 
 
-By ordering one or more products on our website, you confirm that you are at least 18 years of age and accept our general terms and conditions. TRADEINN will send you a confirmation of your order per mail. This confirmation does not constitute acceptance of your order as no contract for the purchase of the selected goods will be formed until we receive and proof your payment. TRADEINN reserves the right to cancel or decline any order without giving further details. 
+Only Tradeinn Retail Services S.L. will be responsible for the user´s personal data. The data you provided are stored in a file owned by Tradeinn Retail Services S.L. that complies with current regulations on data protection. 
 
-4\. PRICES AND SHIPPING FEES
+Tradeinn Retail Services S.L. undertakes to comply with the duty of secrecy of such data, as well as to treat them with confidentiality, assuming the necessary measures to avoid alteration, loss, treatment or unauthorized access, as set out in Regulation (EU) 2016 / 679 of the European Parliament and of the Council of 27 April 2016. 
 
-All prices are clearly shown on our websites. Prices can be changed frequently. The valid prices for each order are based on the moment the order has been placed. 
+Also, Tradeinn Retail Services S.L. undertakes not to use such personal data for purposes other than the purpose of the service provided through its websites or commercial bulletins, which offer information on product offers for direct sale through the Internet and non-transmission of them to third parties, unless they necessarily intervene in the execution of the object of the contract. 
 
-Prices are shown as follow: 
+By accepting this Privacy Policy, you give your express consent so that your personal data may be communicated and / or transferred internationally to other companies of the group or to affiliated companies of Tradeinn Retail Services SL, for the purposes stated in the previous paragraphs. 
 
-\- For orders being shipped to countries within the European Union, VAT is already included in the product price you see on our website. So VAT and any sales taxes are already included and you will only be charged the product price and the shipping fees. 
+In the same way, you expressly consent to the transfer and / or international transfer of your data to companies with whom it is necessary to share them for the successful completion of the order or the sending of information, such as transport companies, parcel companies, messaging, payment, logistics, professional hosting services and data management, online chat providers, web analytics services, etc. You are informed that your data may be or will be transferred to these companies. 
 
-\- For orders being shipped to countries outside of the European Union, no VAT and no sales tax will be included in the product prices you see on our website and you will not be charged any taxes by us. However your packages may be subject to the customs fees and import duties of the country to which your order is shipped to. So the courier will charge you any taxes or customs directly. As taxes and customs may also depend on product category as well as declared amount, we are not able to provide you with any further details. We would recommend you to consult your local Customs office, which will happily assist you with further information. 
+This consent may be revoked at any time by means of a signed document with the reference 'REVOCATION OF CONSENT', addressed to Tradeinn Retail Services S.L. 
 
-Our prices are shown by the selected delivery country. Our shipping fees are calculated by weight and volume, so by adding any item to the basket, the respective shipping fees are shown and the delivery option can be selected, once all items have been added to the basket. Your order will be shipped by the selected courier and you will receive your tracking information per mail. Tradeinn alerts to annul orders for products with wrong and/or obviously surreal prices although this orders might have been accepted primarily. 
+In addition, you have the right to access the information we have about you, to rectify it, to suppress it, to oppose your treatment, to request the limitation of the treatment or to request the portability of your data. For this, you only need to communicate it by means of a signed document, enclosing a photocopy of any valid official document that proves your identity, addressed to: TRADEINN RETAIL SERVICES S.L. C / Pirineus, 9. 17460 Celrà. Girona - Spain; Or by email to lopd@tradeinn.com. 
 
-Tradeinn offers a great range of items, most of them are in stock other have to be ordered on demand. So when selecting an item an estimated delivery date will be shown. If the item is in stock, you will find the information directly next to the estimated delivery date. The estimated delivery date is calculated by product availability and shipping time. So the estimated delivery date is calculated by our experience with each supplier and chosen courier. If you order several items in one order, the estimated delivery date will be calculated by availability of all of them.
+In addition, we inform you that you also have the right to file a claim with a control authority, such as the Spanish Agency for data protection.
 
-The estimated delivery date has been calculated as per availability of all items from your order. The taken time from dispatch to delivery depends on the courier service you select at the checkout. 
+3\. COPYRIGHT
 
-The estimated delivery date is only a reference, as it is determined to product availability, courier’s availability, as well as payment.   
-In case Tradeinn has to withdraw an item because it has become obsolete or has been discontinued, you will be informed directly. If Tradeinn can offer any similar item you will directly receive the proposal which you can accept or if not, cancel the item/order for a refund of the paid product price. 
+Tradeinn Retail Services S.L. has exclusive rights over the entire content and the use of the our stores website, graphics, images, texts, logos, GIFs and icons with the exception of trademarks, logos or content relating to shops or listed products. All reproduction, distribution, modification, retransmission or publication of these elements is strictly forbidden without the prior written accord of the company Tradeinn Retail Services S.L.
 
-Tradeinn does not accept any liability for any delay or not further availability of ordered products.
+4\. COOKIES
 
-5\. DELIVERY
+We use our own and third party cookies to provide a better service to our customers and to offer you information and advertising that is of your interest. If you continue browsing, we consider that you accept its use. You can always configure your browser so that cookies are not registered. You can find how to do it on this page.
 
-When placing an order, you can choose your delivery option once all items have been added to the basket. Tradeinn will ship your order to the address you provided when placing your order. To ensure the safe delivery of your parcel, the courier company needs a signature to confirm successful delivery. If there is nobody to receive the parcel, the driver will either attempt a new delivery, deposit your parcel at a neighbor or take your parcel to be securely held at the local Post Office or Depot. In case your parcel could not be delivered due to any reason, such as incorrect address, wrong delivery details, refuse of the parcel, etc., it will normally be returned directly to us. Please keep in mind we can only refund your paid product price, once the parcel has arrived back at our warehouse and any item could be verified. You will receive the refund of the paid product price by the same payment method you used when placing the order. Any paid shipping fees cannot be refunded. 
+\- What is a cookie?
 
-6\. PAYMENT
+A cookie is a small text file that is stored on your computer when visiting a website. This text file stores information that can be read by the website when visiting it again at a later date. Some of these cookies are necessary, otherwise the site is unable to work properly. These small text files are associated to an anonymous user without the possibility of deducing personal data from it. These cookies do not contain confidential information that identifies you personally. In general these files are associated to the identifier of a device (IP), but not to a specific user, so the personal data cannot be deduced.
 
-We offer several payment methods, all of them are assured by Adyen, who guarantees the security of your payments. Our main payment methods are PayPal, CreditCard, DIRECTebanking and bank transfer. Please keep in mind, that offered payment methods may vary by the country of destination. Once all items have been added to the basket and you already selected the courier, all available payment methods for your destination country will be shown.
+\- Type and purpose of cookies:
 
-For online payments made by credit card, the "Secure Socket Layer" (SSL) security system is used, which allows encrypting your banking information when on the network.
+Tradeinn Retail Services S.L. uses cookies to help us provide you with a better user experience based on your personal preferences. By using cookies Tradeinn Retail Services S.L. makes sure that you do not receive or need to enter the same information every single time you visit the Tradeinn websites. Cookies are also used to optimize the performance of the websites. For example, cookies make the checkout process easier or help you to find a specific item of clothing faster. 
 
- **By bank transfer payments:**
+The list below provides more details about what cookies we use: 
 
-You will find our banking details when finishing the order as well as by email on the order confirmation (mail sent by Adyen); you will be able to perform the transfer at your bank. As soon as we receive your payment, your order will be processed. Before selecting bank transfer as your payment method, please be aware that your bank will charge you an international transfer fee, therefore increasing the overall cost of your order. 
+Own cookies are those that are sent to the user´s computer from computers managed by Tradeinn Retail Services S.L. and from which the service requested by the user is provided. 
 
-7\. RESERVATION OF OWNERSHIP
+Third party cookies are those that are sent to the user´s computer from a computer that is not managed by Tradeinn Retail Services S.L., such as a social network. 
 
-Any order has to be paid in advance before we can proceed any further treatment. Please keep in mind before selecting bank transfer as your payment method, that your bank will charge you an international transfer fee as well as it might take several working days for us to receive your payment. As long as we have not received your payment correctly, any item is still in Tradeinn's absolute ownership. Once the order has been shipped but payment has been retrieved, all items are back in Tradeinn's absolute ownership. 
+We collect browsing data in a non-anonymous way in order to analyze the information collected from your browser and to improve your browsing experience in our stores. 
 
-8\. RETURNS
+We use local storage cookies, PHPSESSID, SERVERID, _atuvc, barra_cookies, cookie_cart, cookie_cart_total, datos transporte, nospeeder and tradenewsletter. These cookies are needed for the site to work. Without them you won´t be able to add items to your cart or checkout. 
 
-Tradeinn gives you the right to return your purchased item/s without having to give a reason, at any time within 30 days beginning on the day after you received the goods. You can return any item within 30 days, as long as the item/s is/are in perfect conditions (unused, with labels, in original packaging). Please keep in mind, that any customized items (as for example: football boots, gloves, skies with mounted bindings, etc.) cannot be returned or exchanged. We only ask you to please log in to **MY ACCOUNT** and follow our instructions when clicking on **RETURNS**. Please find all further information here: [Returns](https://web.archive.org/running/devoluciones%20target=).
+The site uses its own personalization cookies that allow the user to set elements such as the language or country of delivery so they can have a better browsing experience. 
 
-9\. RIGHT OF WITHDRAWAL
+The site uses measurement cookies that allow us to perform the measurement and statistical analysis of the use made by users of our service. Your navigation is analyzed through our website in order to improve the product offer and the service. 
 
-You have the right to revoke from the contract without the need to provide any reason. All items must be unworn and in their original condition. The revocation period is 14 days from the date you received your order. In order to exercise your revocation right, you must inform us by using the return form by means of a clear declaration of your revocation of this purchase. 
+The site also uses Google Analytics and Google Adwords cookies, specifically cookies _utma, _utmb, _utmc and _utmz. This is a web analytics service provided by Google Inc. ('Google' from now on). Google Analytics and Google Adwords use cookies, which are small data files that are stored on your computer and that help the web analyze how users use it. These cookies allow the website to remember information about your visit, such as your preferred language or the country of delivery, which may facilitate your next visit and make the web more useful to you. The information generated by the cookies on your use of the website (including the IP address) will be transmitted and stored by Google on its servers. Google will use this information in order to evaluate the use of the website, make reports on the activity of the website and provide other services related to the web activity on the internet. Google will not associate your IP address with any other information that Google may have. For more information you can consult the page www.google.com/intl/es/analytics/privacyoverview.html 
 
-To Tradeinn S.L., C/Pirineus 9, 17460 Celrà (Spain), +34 972 755 062, [Contact](https://web.archive.org/running/contacto).
+\- How can I disable cookies?
 
-I, __________________________________________________________
+You can modify your browser to turn off cookies. This is very easy to do. Please note: if you disable cookies, your user name and password will no longer be stored on any website. Depending on which web browser you use it is possible to control how cookies are used, or to delete existing cookies from your computer. You can find instructions on how to control the use of cookies, or delete cookies from your computer at http://www.aboutcookies.org (English only).
 
-hereby give you notice that I withdraw from my contract of sale______________________
+Firefox: (https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) 
 
-of the following goods___________________________________________________
+Google Chrome: (https://support.google.com/chrome/answer/95647?hl=en) 
 
-Ordered on __/__/__/ / Received on__/__/__/Name of 
+Internet Explorer: (https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) 
 
-consumer(s)__________________________________________________ 
+Safari: (https://support.apple.com/kb/PH19214?viewlocale=en_GB&locale=en_GB)
 
-Address of consumer(s) ____________________________________________
+5\. FACEBOOK SOCIAL PLUGINS
 
-Date __/__/__/ 
+Our website uses social plugins ('Plugins') of Facebook.com social network, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plugins are marked with a Facebook logo or with the words 'Facebook social Plugin'.
 
-10\. WARRANTY
+If you visit one of our websites, which contains such a plugin, your internet browser connects directly to the servers of Facebook. The content of the Plugin is transferred directly to your browser and is integrated to the website. Therefore, Tradeinn Retail Services S.L. has no influence on the treatment of the data that Facebook makes through this supplement and we inform you as we know.
 
-As an official retailer, all our offered items are covered by a 2 years manufacturer's warranty. We offer guarantee service by collecting the affected item/s at our cost and resend them to the manufacturer as well as process all further handling. If a fabrication defect is recognized by the manufacturer, all the generated shipment costs, both for the return shipment as for the shipment of the replaced or repaired item, are at our expense. We reserve the right to refuse the exchange of an item in case the returned item doesn't arrive in the conditions indicated in our returns policy. So once we receive any answer regarding your case, we will be able to act immediately as indicated by the brand. You will be informed directly by us if the guarantee has been accepted and if so, if the manufacturer will repair or replace the item. 
+By integrating the plugin, Facebook receives the information that a corresponding website of ours has been viewed. If you are logged into Facebook, Facebook can assign your visit to your account. If you interact with the plugins, for example you confirm the 'Like' button or make a comment, the corresponding information from your browser is sent directly to Facebook and saved there as well.
 
-11\. MY ACCOUNT
-
-In **MY ACCOUNT** you always have access to all your orders, correspondence with us, returns, as well as change any preferences of your newsletters, contact us directly or rate your bought items to obtain coINNs.   
-When placing an order, your account will be automatically created and you can always log in to **MY ACCOUNT** by using your e-mail and chosen password.   
-Your account can be closed by Tradeinn if any suspicious use or behavior is suspected. If you wish to delete your account, you need to contact Tradeinn directly by using our contact details. 
-
-12\. PRIVACY POLICY
-
-Tradeinn is committed to protecting your privacy. We will only use the information that we collect about you lawfully. We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. Removal from our mailing list can be done at any point by contacting our [Customer Service Team](https://web.archive.org/running/contacto).
-
-The type of information we will collect about you when you place an order or register on our Websites includes:
-
-*- Address
-
-*- Phone Number
-
-*- Email Address
-
-This information is already stored on our internal systems and our Websites simply verify you as a customer of Tradeinn. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behavior of visitors to our Websites. If you have any questions/comments about privacy, you should email us at lopd@tradeinn.com.
-
-We use the information you provide for the following purposes:
-
-*- To send updates regarding the status of your inquiry or order.
-
-*- To improve the design and content of the Tradeinn´s Websites.
-
-*- To understand the buying behavior of our registered users.
-
-*- To perform other general marketing and promotional activities focused on our products and services.
-
-When you place an order we need to know your name, email address, delivery address, credit or debit card number and the card´s expiry date. This allows us to process and fulfill your order and to notify you of the status of your request. We may also ask for your telephone number which enables us to contact you urgently if there is a problem with your order.
-
-By submitting information to Tradeinn you consent to the collection and use of this information by Tradeinn and its Service Provider (if any). If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
-
-We have designed our Websites to protect the information we collect online from unauthorized access. We safeguard your private information by implementing the appropriate physical, electronic and managerial procedure necessary to protect your privacy. To further protect your security, we also take the reasonable steps to verify your identity before granting access to your personal profile or making data changes. We are committed to protecting your privacy and have security measures in place to prevent unauthorized access to and disclosure of your personal information.
-
-For statistical data, Tradeinn places a cookie (small text file) in your computer. Cookies are not harmful for your computer and can be read only by the websites that placed it in your computer. They are not virus spreaders, and cannot be used to search your hard drive. This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your browser, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google´s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For further information see our [Cookies](https://web.archive.org/?action=cockies&idioma=eng "Cookies") page.
-
-Our website uses social plugins ("Plugins") of the facebook.com social network, which is operated by the Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plugins are marked with a Facebook logo or with the words "Facebook social Plugin". If you visit one of our websites, which contains such a plugin, your internet browser connects directly to the servers of Facebook. The content of the Plugin is transferred directly to your browser and is integrated to the website.
-
-By integrating the plugin, Facebook receives the information that a corresponding website of ours has been viewed. If you are logged into Facebook, Facebook can assign your visit to your account. If you interact with the plugins, for example you confirm the "Like" button or make a comment, the corresponding information from your browser is sent directly to Facebook and saved there as well.
-
-To find out the purpose and extent of the collection of data, the further processing and usage of your data by Facebook as well as your rights and possible settings to protect your privacy please consider the privacy statement of Facebook.
-
-The above privacy statement may not be applicable in all countries of Tradeinn visitors or registered community users, as security policies may vary according to the individual Internet laws in each host country.
-
-If we decide to change our Terms and Conditions, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
-
-We put a lot of time and effort into describing and photographing the products we sell using manufacturer´s Websites, catalogues, our own photography studio and often our own descriptions of the products. Although we aim that every picture and description is 100% accurate, mistakes do occur so let us know if you see or read something that isn´t correct. If you have purchased something based on a picture or description on the Websites which turns out to be incorrect we will be happy to replace or refund the product (unused).
-
-Unless otherwise stated, all rights, including copyright, in the content of the Tradeinn´s Websites are owned and controlled for these purposes by Tradeinn. In accessing Tradeinn´s Websites, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store, transmit, show or play in public, adapt or change in any way the content of these Tradeinn pages for any other purpose whatsoever, in any medium, without the prior written permission of Tradeinn. 
-
-13\. PROTECTION OF PERSONAL DATA AND COMMENTS
-
-The contract´s content will be stored. You may store the general terms and conditions and readily look them up. For safety reasons your order´s data are not available via internet. We keep these data in confidence according to our [privacy policy](https://web.archive.org/?action=politica&idioma=eng "Privacy Policy")
-
-The personal data that the Customers must give are essential to us in order for us to be able to send the orders and drafting the bills. The absence of these date will result in an automatic cancellation of the orders. By entering the page, the Customer agrees to provide valid personal data, data that allows Tradeinn to offer their service and identify their registered Customer, as well as sending information and advertisement of various products and offers that Tradeinn may have on their websites. 
-
-For more information consult our legal Information section. 
-
-All of the comments that are written by the Customers are verified by the Marketing team. If the comment violates any law, ethics or morality (abusive publicity, defamation, insults, comments out of context, etc.), Tradeinn reserves the right to reject or modify such opinions. 
-
-14\. INTELLECTUAL PROPERTY AND COPYRIGHT
-
-All contents of the online shops of Tradeinn (Illustrations, text, descriptions, own brands, images, videos …) are property of TRADEINN RETAIL SERVICES S.L. The third-party trademarks are property of their owners. Any partial and total reproduction of the content by any processes and by any medium are subjected to prior and express authorization to Tradeinn or any right holders. 
-
-All the comments that are written by the Customers are verified by the Marketing team. If the comment violates any law, ethics or morality (abusive publicity, defamation, insults, comments out of context, etc.), Tradeinn reserves the right to reject or modify such opinions. 
-
-TRADEINN RETAIL SERVICES S.L. is not responsible for the misuse of the website´s contents, the responsibility is exclusively for the user who accesses them or uses them. 
-
-TRADEINN RETAIL SERVICES S.L. declines all responsibility of any disputes arising from the exchange of information between users through the website. The responsibility of publishing data and information through their websites, is in any case for those who published them. 
+To find out the purpose and extent of the collection of data, the further processing and usage of your data by Facebook as well as your rights and possible settings in this regard to protect your privacy please consider the privacy statement of Facebook.
