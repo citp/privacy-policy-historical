@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the starcruises.com privacy policy that was archived on 2017-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171014142547id_/https%3A//www.starcruises.com/us/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starcruises.com privacy policy that was archived on 2019-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190527131208id_/https%3A//www.starcruises.com/us/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
     <title>Privacy Policy, Personal Information &amp; Access Rights | Star Cruises</title>
@@ -40,7 +41,57 @@
 
     <script src="/Content/js/jquery.mCustomScrollbar.concat.min.js"></script>
 
-    
+    <style>
+        #cookies-usage {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 20px;
+            background: rgba(4,46,111, 0.85);
+            color: white;
+            z-index: 1000000;
+            line-height: 1.5em;
+            padding-right: 35px;
+            opacity: 1;
+            -webkit-transition: opacity 0.5s ease-in-out;
+            -moz-transition: opacity 0.5s ease-in-out;
+            -ms-transition: opacity 0.5s ease-in-out;
+            -o-transition: opacity 0.5s ease-in-out;
+            transition: opacity 0.5s ease-in-out;
+        }
+        #cookies-usage.hide, #cookies-usage.removed {
+            opacity: 0;
+            cursor: none;
+            pointer-events: none;
+        }
+        #cookies-usage a {
+            color: white;
+            text-decoration: underline;
+        }
+        @media screen and (min-width: 766px) {
+            #acceptCookiesBtn {
+                position: absolute;
+                right: 15px;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+            #cookies-usage p {
+                margin-right: 120px;
+            }
+
+        }
+        #acceptCookiesBtn {
+            border: none;
+            background: #ff0;
+            color: #042e6f;
+            padding: 2px 5px;
+            float: right;
+        }
+        #acceptCookiesBtn:hover {
+            cursor: pointer;
+        }
+    </style>
     
     
 <meta name="title" content="Privacy Policy, Personal Information &amp; Access Rights | Star Cruises">    <meta name="description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta name="keywords" content="Privacy Policy, Personal Information &amp; Access Rights,Star Cruises">    <meta property="og:title" content="Privacy Policy, Personal Information &amp; Access Rights | Star Cruises">    <meta property="og:description" content="Star Cruises is committed to protecting the private data of voyagers. Learn more our private policy.">    <meta property="og:keywords" content="Privacy Policy, Personal Information &amp; Access Rights,Star Cruises">
@@ -88,7 +139,40 @@
             return false;;
         }
 
+        function showCookies() {
+            $("#cookies-usage").css('display', 'block');
+        }
+
+        function dismissCookies() {
+            $("#cookies-usage").css('display', 'none');
+        }
+
+        function agreeCookies() {
+            localStorage.setItem("cookiesRead", new Date().getTime());
+            $("#cookies-usage").addClass('removed');
+        }
+
+        var scrollTimer = undefined;
         $(document).ready(function () {
+
+            $(window).scroll(function () {
+                $("#cookies-usage").addClass('hide');
+                clearTimeout(scrollTimer);
+                scrollTimer = 
+                    setTimeout(function () {
+                        $("#cookies-usage").removeClass('hide');
+                    }, 500);
+            });
+
+            if (typeof (Storage) !== "undefined") {
+                if (localStorage.getItem("cookiesRead") == undefined || parseInt(localStorage.getItem("cookiesRead")) + 30 * 24 * 60 * 60 * 1000 < new Date().getTime()) {
+                    showCookies();
+                } else {
+                    agreeCookies();
+                }
+            } else {
+                showCookies();
+            }
 
             $("body").on("click", function (e) {
                 
@@ -207,24 +291,22 @@
             <li class="first-level-nav">
                 <a class="nav-1">Destinations</a>
                 <ul class="second-level-nav-menu">
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/cambodia">Cambodia</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/china">China</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong</a></li>
+                    <li class="second-level-nav">
+
+                        <a ga_btn_id="navbar" href="https://media.starcruises.com/content/media/itinerary/en/itinerary.html">Itinerary Overview</a>
+                    </li>
+
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong, China</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/japan">Japan</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/malaysia">Malaysia</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/myanmar">Myanmar</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/singapore">Singapore</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/thailand">Thailand</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/south-korea">South Korea</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan, China</a></li>
                 </ul>
             </li>
             <li class="first-level-nav">
                 <a class="nav-2">Ships &amp; Cabins</a>
                 <ul class="second-level-nav-menu">
                     <li class="second-level-nav-header"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships">Ships Overview</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/virgo">SuperStar Virgo</a></li>
                             <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/gemini">SuperStar Gemini</a></li>
-                            <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/libra">SuperStar Libra</a></li>
                             <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/aquarius">SuperStar Aquarius</a></li>
                             <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/pisces">Star Pisces</a></li>
                             <li class="second-level-nav bullet-dot"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/ships/taipan">The Taipan</a></li>
@@ -238,11 +320,13 @@
             <li class="first-level-nav">
                 <a class="nav-3" href="https://www.starcruises.com/us/en/experiences">Cruise Experiences</a>
                 <ul class="second-level-nav-menu">
+                    
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=musicians">Live Bands</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=themed-events">Themed Events</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=virtual_tour">Virtual Tour</a></li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/mice">Meetings &amp; Incentives</a></li>
                                             <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/family-and-kids">A Perfect Family Vacation</a></li>
@@ -263,9 +347,13 @@
             <li class="first-level-nav">
                 <a class="nav-5" href="https://www.starcruises.com/us/en/booked-guests">Booked Guests</a>
                 <ul class="second-level-nav-menu">
+
+                    <li class="second-level-nav">
+                        <a ga_btn_id="navbar" href="https://booking.starcruises.com/OnlineCheckIn/CheckIn/Search/en/">Online Check In</a>
+                    </li>
                         <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.starcruises.com/us/en/booked-guests-access-card">Onboard Access Card</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://shop.starcruises.com/">Shop &amp; Cruise</a></li>
-                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://www.resortsworldatsea.com/">Genting Rewards</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="https://shop.gentingcruiselines.com/">Pre-Cruise Shopping</a></li>
+                        <li class="second-level-nav"><a ga_btn_id="navbar" href="http://www.resortsworldatsea.com/">Genting Rewards</a></li>
                 </ul>
             </li>
             <a id="nav-find-cruise" href="https://booking.starcruises.com">
@@ -274,15 +362,16 @@
             
             
                 <ul id="nav-bar-language">
-                        
+
+
                         <li id="china-site-url">
-                            <a href="https://www.starcruises.com/shop-and-cruise">&nbsp; &nbsp;Shop &amp; Cruise&nbsp; &nbsp;</a>
+                            <a href="https://shop.gentingcruiselines.com/">&nbsp; &nbsp;Pre-Cruise Shopping&nbsp; &nbsp;</a>
 
-                                <a href="http://cn.starcruises.com/">&nbsp; &nbsp;China Official Website&nbsp; &nbsp;</a>
+                                <a href="http://cn.starcruises.com/">&nbsp; &nbsp;Mainland China Official Website&nbsp; &nbsp;</a>
                         </li>
-                        
-                </ul>
 
+
+                </ul>
             <div id="nav-region-select">
                 <ul>
                     <li class="nav-region-btn" onclick="toggleNavRegion()">
@@ -294,7 +383,7 @@
 
                             <a href="https://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/hk/en/privacy-policy', 'hk')">
                                 <div class="flag"><img src="/Content/images/flag/small/hk.png"></div>
-                                    <div class="name">Hong Kong</div>
+                                    <div class="name">Hong Kong, China</div>
                             </a>
                         </li>
                         <li class="">
@@ -306,16 +395,9 @@
                         </li>
                         <li class="">
 
-                            <a href="https://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('https://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
-                                <div class="flag"><img src="/Content/images/flag/small/tw.png"></div>
-                                    <div class="name">Taiwan</div>
-                            </a>
-                        </li>
-                        <li class="">
-
                             <a href="http://cn.starcruises.com/" onclick="return setRegion('http://cn.starcruises.com/', 'cn')">
                                 <div class="flag"><img src="/Content/images/flag/small/cn.png"></div>
-                                    <div class="name">China</div>
+                                    <div class="name">Mainland China</div>
                             </a>
                         </li>
                         <li class="">
@@ -388,7 +470,7 @@
                                     <div class="name">USA</div>
                             </a>
                         </li>
-                    
+
                 </ul>
             </div>
         </ul>
@@ -407,35 +489,35 @@
     function checkCookie() {
 
 
-        console.log("Cookie language:" + Cookies.get("language"));
-        console.log("  Cookie region:" + Cookies.get("region"));
+                            console.log("Cookie language:" + Cookies.get("language"));
+                            console.log("  Cookie region:" + Cookies.get("region"));
 
-        var language = "en";
-        var region = "us";
-        var redirect = false;
-        if (Cookies.get("language") != undefined) {
-            if(language != Cookies.get("language")){
-                language = Cookies.get("language");
-                redirect = true;
-            }
-        }
-        if (Cookies.get("region") != undefined) {
-            if(region!=Cookies.get("region")){
-                region = Cookies.get("region");
-                redirect = true;
-            }
-        }
+                            var language = "en";
+                            var region = "us";
+                            var redirect = false;
+                            if (Cookies.get("language") != undefined) {
+                                if(language != Cookies.get("language")){
+                                    language = Cookies.get("language");
+                                    redirect = true;
+                                }
+                            }
+                            if (Cookies.get("region") != undefined) {
+                                if(region!=Cookies.get("region")){
+                                    region = Cookies.get("region");
+                                    redirect = true;
+                                }
+                            }
 
-        if(redirect&&false){
-            var url = "https://www.starcruises.com/" + region + "/" + language + "/privacy-policy";
-            location.replace(url);
-        }
+                            if(redirect&&false){
+                                var url = "https://www.starcruises.com/" + region + "/" + language + "/privacy-policy";
+                                location.replace(url);
+                            }
 
-    }
+                        }
 
-    function setLanguage(url, lang) {
-        var o_language = "en";
-        Cookies.set("language", lang, { expires: 365 });
+                        function setLanguage(url, lang) {
+                            var o_language = "en";
+                            Cookies.set("language", lang, { expires: 365 });
         ga('send', {
             hitType: 'event',
             eventCategory: 'Settings',
@@ -546,11 +628,1047 @@
         
 
 
+<style>
+    .rich li {
+        margin-left: 20px;
+    }
+    .rich table td{
+        border-color:#000000; 
+        border-style:solid; 
+        border-width:1px; 
+        height:15.0pt; 
+        vertical-align:bottom; 
+        padding: 5px;
+    }
+</style>
 
 
 <div class="title">PRIVACY POLICY</div>
 <div class="content rich" style="background: white; padding: 30px;">
-    <p><strong>This Privacy Policy contains English and Bahasa Malaysia versions</strong></p><p>&nbsp;</p><p><u><strong>PRIVACY POLICY</strong></u></p><p><br>Genting Hong Kong Group<sup>1</sup> (referred to as“our”, “we”or“us”) may collect certain personal information, including, without limitation, your name, identity card number, passport number, a copy of your identity card and/or passport, contact information, date of birth, nationality, financial information (including, without limitation, your credit or debit card details, billing information and/or bank account details) and transactional data (“Personal Information”) from you when you request for or access our Services (defined below). We may also collect Personal Information about you from third parties such as our associated/related and joint venture companies (“Other Genting Companies”), travel agencies, credit reporting agencies or from public records.</p><p>&nbsp;</p><p>This Privacy Policy provides information on our obligations and practices under the Hong Kong Personal Data (Privacy) Ordinance (Cap 486).</p><p>&nbsp;</p><p><u><strong>1 Commitment to Protect Your Personal Information</strong></u><br>1.1 We are committed to protecting your Personal Information. To ensure that you can make informed decisions and feel confident about supplying your Personal Information to us, we provide this notice outlining our practices, and the choices you have, concerning how we use your Personal Information.</p><p><br><u><strong>2 Purpose of Collection</strong></u><br>2.1 We may use your Personal Information for the following purposes:<br>(a) to process your request for, or to administer or provide, any products or services offered by us or Other Genting Companies, including, without limitation, to process your Genting Rewards membership application, cruise booking request, securities account opening and trading request, and/or loan application;<br>(b) to process or confirm your travel arrangements (including without limitation cruise bookings), loan arrangement and/or securities trading request (where applicable);<br>(c) for the operation of the Genting Rewards program, including without limitation points tracking, delivery of associated benefits and services, customer relationship management, ongoing research and program development and delivering news and information to members of the Genting Rewards program;<br>(d) for identification and verification purposes, in connection with any of the services or products that may be supplied to you;<br>(e) to administer contests, games of chance and sweepstakes conducted by us or on our behalf, including disclosing the winner of any such contest;<br>(f) to respond to, handle and process any enquiries submitted by you;<br>(g) to conduct credit checks on you, maintain your credit history and/or ensure your ongoing credit worthiness;<br>(h) to meet or comply with any obligation, requirement or arrangement for disclosing or using data that applies to us or with which we are expected to comply, both existing currently and in the future and within or outside Hong Kong, according to:<br>i. any law or regulation binding on or applying to us;<br>ii. any rules, guidelines and/or guidance given or issued by any legal, regulatory, governmental, tax, law enforcement or other authority, or self-regulatory or industry body or association relating to industries in which we participate (including without limitation the financial services industry), or the relevant stock exchange (each an “Authority”);<br>iii. any present or future contractual or other commitment with any Authority that is assumed by or imposed on us by reason of our business or other interests or activities in or related to the jurisdiction of the relevant Authority;<br>(i) to meet or comply with any obligation, requirement, procedure, measure or arrangement set out in any of our programs or policies for compliance with sanctions or for the prevention or detection of money laundering, terrorist financing or other unlawful activity;<br>(j) for direct marketing (see Section 6 below);<br>(k) to conduct market research;<br>(l) for ongoing research and development of any of the products or services offered by us or Other Genting Companies; and/or<br>(m) any other purposes relating to the purposes listed above.</p><p><br>2.2 To fulfill any of the above purposes, you may be contacted via email, direct mail, telephone call, SMS or other means that are allowed by local authorities.</p><p>&nbsp;</p><p><br><u><strong>3 Classes of Transferees</strong></u><br>3.1 We may disclose your Personal Information to third parties for the purposes outlined in Section 2 above, including, without limitation, the following third parties:<br>(a) other Genting Companies;<br>(b) third parties who provide services to us (including, without limitation, bankers, lawyers, accountants and other third parties who provide administrative, telecommunications, computer, payment, printing, redemption or other services to us to enable us to operate our business);<br>(c) professional advisers;<br>(d) credit reference organizations and other third party reference organizations;<br>(e) other third parties as part of customer due diligence;<br>(f) any other person or entity who has established or proposes to establish any business relationship with us;<br>(g) regulators and government agencies;<br>(h) law enforcement agencies; and<br>(i) the Courts.</p><p><br>3.2 However, we will not disclose your Personal Information to any third party for the purposes of direct marketing without your written consent (see Section 6 below).</p><p><br>3.3 Your data may be transferred to countries outside of the place of collection. Where our operations are subject to privacy legislation other than that of Hong Kong (such as when we are carrying out operational functions outside of Hong Kong), this Privacy Policy shall apply so far as it is consistent with such local legislation.</p><p>&nbsp;</p><p><br><u><strong>4 Consequences of failing to provide Personal Information</strong></u><br>4.1 Unless otherwise specified by us, it is mandatory for you to provide the Personal Information requested by us. In the event that any such Personal Information is not provided, we may be unable to provide you with the<br>services or products requested, or carry out the activities outlined at Section 2 above.</p><p>&nbsp;</p><p><br><u><strong>5 Access and Correction Rights</strong></u><br>5.1 You have the right to request access to and/or correction of any Personal Information that you provide to us. You may make such a request by writing to:<br>(a) For our credit services, asset management and securities trading clients:<br>Attn: Compliance Officer<br>Suite 1501, 15th Floor, Ocean Centre,<br>5 Canton Road, Tsimshatsui, Kowloon, Hong Kong<br>Email: compliance@genting-securities.com<br>(b) For all other clients:<br>Attn: Manager at Membership Services<br>Membership Department<br>3rd floor, Star Cruises Centre<br>100 Andrews Avenue<br>New Port City Cybertourism Zone<br>Pasay City<br>Philippines 1309</p><p><br>5.2 We may charge a reasonable fee to process any Personal Information access or correction request.</p><p>&nbsp;</p><p><br><u><strong>6 Direct Marketing Statement</strong></u><br>6.1 We may use your name, address, email address and/or telephone (“Contact Information”) to send you special offers, promotional material and other news in relation to cruise and cruise related operations, retail products and service<sup>2</sup>, securities trading, asset management and financial services, and leisure, entertainment, hospitality and related services (“Services”), but only if we receive your consent<sup>3</sup> for such use. We may also transfer your Contact Information to Other Genting Companies for direct marketing of their Services, but only if we receive your written consent for such transfer.</p><p><br>6.2 If you do not want us to use or transfer your Contact Information for direct marketing as described above, you may opt-out (either entirely or selectively) at any time, free of charge, by:<br><br>(a) For our credit services, asset management and securities trading clients, emailing us at compliance@genting-securities.com<br>(b) For all other clients:<br>i. calling one of our hotlines:<br>Singapore – +65 6220 7889<br>Malaysia – +60 3 2302 1398<br>Hong Kong – +852 2377 2262<br>China – +86 400 888 7798<br>Taiwan – +886 2 2175 9550<br>ii. emailing us at membership@starcruises.com; or<br>iii. writing to us at:<br>Attn: Membership Services<br>Membership Department<br>3rd floor, Star Cruises Centre<br>100 Andrews Avenue<br>New Port City Cybertourism Zone<br>Pasay City<br>Philippines 1309</p><p>&nbsp;</p><p><br><u><strong>7 Changes to Privacy Policy</strong></u><br>7.1 We will post any changes to this Privacy Policy on our websites (www.gentinghk.com, www.starcruises.com and www.stargentingrewards.com), with the effective date of the changed policy, so that you can be informed of the way we collect and use the Personal Information at any time you so choose. If at any point we decide to use the Personal Information you submitted in a way that differs materially from the Privacy Policy that applied at the time of that submission, you will be notified and given the opportunity to opt out or otherwise prevent such usage.</p><p>&nbsp;</p><p>&nbsp;</p><p><sup>1</sup>Genting Hong Kong Limited and its subsidiaries</p><p><sup>2</sup>Our, and our associated/related and joint venture companies’, retail businesses consist of onboard, in resort, online and other related stores which market a wide variety of products, such as clothing, handbags, beauty products, jewelry, watches, electronics, consumable goods (for example, wine, food, health supplements and tobacco) and high-end consumer goods. Please note that this list is not exhaustive, and the product offerings will change from time to time.</p><p><sup>3</sup>Subject to certain exceptions relating to Personal Information collected prior to 1 April 2013.</p><p>&nbsp;</p><p>&nbsp;</p><p>This Privacy Policy is written in the English, Bahasa Malaysia and Chinese languages. However, the English language text will prevail in the event of any inconsistency.</p><p>&nbsp;</p><p>&nbsp;</p><p><br><u><strong>POLISI PRIVASI</strong></u><br><br>Kumpulan Genting Hong Kong<sup>1</sup> (dirujuk sebagai ‘kita’ atau ‘kami’) mungkin mengumpul maklumat peribadi tertentu, termasuk, tanpa had, nama anda, nombor kad pengenalan, nombor pasport, salinan kad pengenalan dan/atau pasport, maklumat komunikasi, tarikh lahir, kewarganegaraan, maklumat kewangan (termasuk, tanpa had, maklumat kad kredit atau debit, maklumat bil dan/atau maklumat akaun bank) dan data transaksi (‘Maklumat Peribadi’) daripada anda ketika anda minta akses kepada perkhidmatan kami (keterangan di bawah). Kami mungkin juga mengumpul maklumat peribadi mengenai anda daripada parti ketiga seperti syarikat bersekutu/berkaitan dan usaha sama. (‘Syarikat Genting yang lain’) agensi pelancongan, agensi pelapor kredit atau rekod awam.</p><p><br>Polisi Privasi ini menerangkan kewajipan dan amalan kami di bawah Ordinan (Cap 486), Data Peribadi (privasi) Hong Kong.</p><p>&nbsp;</p><p><u><strong>1 Komitmen Untuk Melindungi Maklumat Peribadi Anda</strong></u><br>1.1 Kami komited untuk melindungi Maklumat Peribadi anda. Untuk memastikan anda dapat membuat keputusan bermaklumat dan rasa yakin tentang pemberian Maklumat Peribadi anda kepada kami, kami menyediakan notis ini yang menggariskan amalan kami dan pilihan anda, berhubung dengan bagaimana kami menggunakan Maklumat Peribadi Anda.</p><p>&nbsp;</p><p><br><u><strong>2 Tujuan Mengumpul</strong></u><br>2.1 Kami mungkin mengguna Maklumat Peribadi anda untuk tujuan berikut:<br>(a) Untuk memproses permintaan anda untuk, atau mentadbir atau memberi, sebarang produk atau perkhidmatan yang ditawarkan kami atau Syarikat Genting yang lain, termasuk, tanpa had, untuk memproses permohonan Ganjaran Keahlian Genting, tempahan pelayaran persiaran, pembukaan akaun sekuriti dan permintaan dagangan (trading), dan/atau permohonan pinjaman;<br>(b) Untuk proses atau mengesahkan aturan perjalanan (termasuk tanpa had tempahan pelayaran persiaran), aturan pinjaman dan/atau permintaan dagangan (trading) sekuriti (di mana berkenaan);<br>(c) Untuk pengendalian Program Ganjaran Genting, termasuk tanpa had pemantauan mata, penyampaian manfaat dan perkhidmatan bersekutu, pengurusan hubungan pelanggan, penyelidikan berterusan dan program pembangunan dan penyampaian berita dan maklumat kepada ahli-ahli Program Ganjaran Genting;<br>(d) Untuk tujuan identifikasi dan verifikasi, berhubung dengan apajua perkhidmatan atau produk yang mungkin dibekalkan kepada anda;<br>(e) Untuk mentadbir pertandingan, perjudian (game of chance and sweetstakes) yang dikendalikan oleh kami atau bagi pihak kami, termasuk pemberitahuan pemenang mana-mana pertandingan;<br>(f) Untuk respon, menangani dan proses sebarang pertanyaan yang disampaikan oleh anda;<br>(g) Untuk menjalankan pemeriksaan kredit anda, menyelenggara sejarah kredit anda/atau memastikan kesahihan kredit semasa anda;<br>(h) Untuk memenuhi atau mematuhi sebarang kewajipan, keperluan atau aturan untuk pemberitahuan atau penggunaan data yang mengaitkan kami atau yang mana kami dikehendaki mematuhi, baik yang wujud kini atau di masa hadapan dalam atau luar Hong Kong, berdasarkan kepada:<br>i. Sebarang undang-undang, peraturan yang mengaitkan kami;<br>ii. Sebarang kaedah, garis panduan dan/atau panduan diberikan atau dikeluarkan oleh sebarang pihak berkuasa undang-undang, kawal selia, kerajaan, cukai, penguatkuasa undang-undang atau pihak berkuasa lain, atau badan kawal selia diri atau industry atau persatuan berkaitan industry yang mana kami mengambil bahagian (termasuk tanpa had kepada industri perkhidmatan kewangan) atau bursa saham relevan (setiap satu ‘Pihak Berkuasa’);<br>iii Sebarang kontrak atau komitmen masa kini atau masa hadapan atau komitmen lain dengan sebarang Pihak Berkuasa yang membebankan kami berdasarkan biznes kami atau kepentingan atau aktiviti lain dalam atau berhubung dengan bidang kuasa/jurisdiksi Pihak Berkuasa yang relevan;<br>(i) Untuk memenuhi atau mematuhi sebarang kewajipan, keperluan, prosedur, langkah atau aturan yang tertera pada mana-mana program kami atau polisi yang dibenarkan untuk dipatuhi bagi mencegah atau mengesan aktiviti pengubahan wang haram, bantuan kewangan kepada pengganas atau aktiviti lain yang menyalahi undang-undang;<br>(j) Untuk pemasaran langsung (lihat seksyen 6 di bawah);<br>(k) Untuk menjalankan penyelidikan pasaran;<br>(l) Untuk penyelidikan berterusan dan pembangunan sebarang produk atau perkhidmatan yang ditawarkan oleh kami atau Syarikat Genting yang lain; dan/atau<br>(m) Sebarang tujuan lain berkait dengan tujuan yang disenaraikan di atas.</p><p><br>2.2 Untuk memenuhi sebarang tujuan di atas, anda mungkin dihubungi melalui e-mail, panggilan langsung/ pos langsung, panggilan telefon, SMS atau cara-cara lain yang dibenarkan oleh pihak berkuasa tempatan.</p><p>&nbsp;</p><p>&nbsp;</p><p><u><strong>3. Kelas-kelas Pihak Penerima Pindahan</strong></u><br>3.1 Kami mungkin memberitahu Maklumat Peribadi anda kepada pihak ketiga bagi tujuan yang tertera di Seksyen 2 di atas, termasuk, tanpa terhad, kepada pihak ketiga seperti berikut:<br>(a) Syarikat Genting lain<br>(b) Pihak ketiga yang membekalkan perkhidmatan kepada kami (termasuk, tanpa had, bank, peguam, akauntan dan parti ketiga yang membekal perkhidmatan pentadbiran, telekomunikasi, komputer, bayaran, percetakan, penebusan, atau perkhidmatan lain bagi membolehkan kami menjalankan biznes kami).<br>(c) Penasihat profesional<br>(d) Organisasi rujukan kredit dan organisasi pihak rujukan ketiga yang lain;<br>(e) Pihak ketiga yang lain sebagai penelitian pelanggan;<br>(f) Mana-mana orang atau entiti yang telah mengadakan atau cadang mengadakan sebarang hubungan biznes dengan kami;<br>(g) Agensi kawal selia atau kerajaan;<br>(h) Agensi penguatkuasa undang-undang; dan<br>(i) Mahkamah.</p><p><br>3.2 Namun, kami tidak akan memberitahu Maklumat Peribadi anda kepada pihak ketiga untuk tujuan pemasaran langsung tanpa persetujuan bertulis anda (lihat Seksyen 6 di bawah)</p><p><br>3.3 Data anda mungkin dipindah ke negara lain daripada tempat di mana maklumat anda dikumpulkan. Di mana operasi kami adalah tertakluk kepada perundangan privasi selain Hong Kong (iaitu apabila kami menjalankan<br>operasi berfungsi di luar Hong Kong), Polisi Privasi ini diterimapakai selagi ia adalah konsisten dengan perundangan tempatan.</p><p>&nbsp;</p><p>&nbsp;</p><p><u><strong>4. Akibat kegagalan memberi Maklumat Peribadi</strong></u><br>4.1 Jika tidak dimaklumkan sebaliknya oleh kami, anda adalah diwajibkan untuk memberikan Maklumat Peribadi yang diminta oleh kami. Jika, Maklumat Peribadi tidak diberikan, kami mungkin tidak dapat menawarkan perkhidmatan atau produk yang diminta, atau menjalankan aktiviti seperti yang tertera di Seksyen 2 di atas.</p><p>&nbsp;</p><p><br><u><strong>5. Akses dan Hak Pembetulan</strong></u><br>5.1 Anda berhak untuk meminta akses kepada dan/atau pembetulan sebarang Maklumat Peribadi yang telah diberikan kepada kami. Anda boleh berbuat demikian secara bertulis kepada:<br>(a) Untuk perkhidmatan kredit, pengurusan aset dan pelanggan dagangan (trading) securiti:<br>Attention: Compliance Officer<br>Suite 1501, 15th Floor, Ocean Centre<br>5 Canton Road, Tsimshatsui, Kowloon, Hong Kong<br>Email: compliance@genting-securities.com<br>(b) Bagi semua pelanggan lain:<br>Attention: Manager at Membership Services<br>Membership Department<br>3RD Floor, Star Cruises Centre<br>100 Andrews Avenue<br>New Port City Cybertourism Zone<br>Pasay City<br>Philippines 1309</p><p><br>5.2 Kami mungkin mengenakan bayaran yang munasabah untuk memproses sebarang akses Maklumat Peribadi atau permintaan untuk pembetulan.</p><p>&nbsp;</p><p><br><u><strong>6. Kenyataan Pasaran Langsung</strong></u><br>6.1 Kami mungkin menggunakan nama, alamat, alamat e-mail dan/atau telefon (‘Maklumat Komunikasi) untuk menghantar kepada anda tawaran istimewa, bahan promosi dan berita lain berhubung pelayaran persiaran, operasi berhubung dengan pelayaran persiaran, produk dan perkhidmatan runcit<sup>2</sup>, dagangan (trading) security, pengurusan asset dan perkhidmatan kewangan, dan perkhidmatan berhubungan dengan masa lapang, hiburan, hospitaliti dan perkhidmatan lain yang berkenaan (‘Perkhidmatan’), hanya jika kami menerima persetujuan<sup>3</sup> anda untuk penggunaan sedemikian.<br>Kami juga mungkin pindah Maklumat Komunikasi anda kepada Syarikat<br>Genting yang lain untuk pemasaran langsung perkhidmatan mereka, hanya jika kami menerima persetujuan bertulis anda untuk penggunaan sedemikian.</p><p><br>6.2 Jika anda tidak mahu kami guna atau pindah Maklumat Komunikasi anda untuk pemasaran langsung seperti di atas, anda boleh pilih keluar (sama ada sepenuhnya atau secara pilihan) bila-bila masa, secara percuma, melalui:<br>(a) Email: compliance@genting-securities.com untuk perkhidmatan kredit, pengurusan aset dan pelanggan dagangan (trading) securiti:<br>(b) Bagi semua pelanggan lain:<br>i. Memanggil salah satu daripada hotline kami:<br>Singapore - +65 6220 7889<br>Malaysia - +60 3 2302 1398<br>Hong Kong - +852 2377 2262<br>China - +86 400 888 7798<br>Taiwan - +886 2 2175 9550<br>ii. Email kami di: membership@starcruises.com; atau<br>iii. Menulis kepada kami di:<br>Atention: Membership Services<br>Membership Department<br>3RD Floor, Star Cruises Centre<br>100 Andrews Avenue<br>New Port City Cybertourism Zone<br>Pasay City<br>Philippines 1309</p><p>&nbsp;</p><p><br><u><strong>7 Perubahan Kepada Polisi Privasi</strong></u><br>7.1 Kami akan pos sebarang perubahan kepada Polisi Privasi di laman web (www.gentinghk.com, www.starcruises.com dan www.stargentingrewards.com) dengan tarikh mula/ efektif perubahan polisi, agar anda dimaklumkan mengenai cara kami mengumpul dan mengguna Maklumat Peribadi pada bila-bila masa anda boleh pilih. Jika kami ingin menggunakan, pada bila-bila masa, Maklumat Peribadi yang anda telah mengemukakan, melalui kaedah yang berbeza material daripada yang termaktub dalam Polisi Privasi ini, anda akan diberitahu dan diberi peluang untuk memilh keluar atau tidak izin Maklumat Peribadi anda digunakan sedemikian.<br>Polisi Privasi ini ditulis dalam Bahasa Inggeris, Bahasa Malaysia dan Bahasa Cina. Namun, teks Bahasa Inggeris akan digunapakai jika terdapat sebarang ketidakselarasan.</p><p>&nbsp;</p><p>&nbsp;</p><p><sup>1</sup>Genting Hong Kong Berhad dan subsidiary</p><p><sup>2</sup>Syarikat kami serta syarikat bersekutu/berkaitan, usaha sama, biznes runcit adalah terdiri daripada atas kapal, dalam resort, stor dalam talian (online) dan stor-stor yang lain yang memasarkan pelbagai produk seperti pakaian, beg tangan, produk kecantikan, barang kemas, jam tangan, elektronik, barangan konsumer (seperti, wine, makanan, suplemen kesihatan dan tembakau) dan barangan konsumer mahal. Sila ambil perhatian bahawa senara ini tidak mengandungi semua produk yang ditawarkan dan boleh berubah dari masa ke masa.</p><p><sup>3</sup>Tertakluk kepada pengecualian tertentu mengenai Maklumat Peribadi yang diperolehi sebelum 1 April 2013.</p><p><br>&nbsp;</p><p>&nbsp;</p><p>Polisi Privasi ini ditulis dalam Bahasa Inggeris, Bahasa Malaysia dan Bahasa Cina. Namun, teks Bahasa Inggeris akan digunapakai jika terdapat sebarang ketidakselarasan.</p>
+    <p>Genting Hong Kong Group<sup>1 </sup>(referred to as “our”, “we” or “us”) is committed to protecting your privacy. To ensure that you can make informed decisions and feel confident about supplying your personal information to us, we provide this Privacy Policy outlining our practices, and the choices you have, concerning how we use your personal information.</p>
+
+<p>&nbsp;</p>
+
+<p>You will be asked to consent to the terms of this Privacy Policy when making a reservation, joining our membership programs, registering for events or promotions or otherwise corresponding with us or otherwise where required under applicable law. Otherwise your continued use of our services will constitute your deemed consent to the terms of this Privacy Policy.</p>
+
+<p>&nbsp;</p>
+
+<p>This Privacy Policy provides information on our obligations and practices under the Personal Data (Privacy) Ordinance (Cap. 486) in Hong Kong. Where our operations are subject to privacy legislation other than that of Hong Kong (such as when we are carrying out operational functions outside of Hong Kong), this Privacy Policy shall apply so far as it is consistent with such local legislation. The “European Appendix” of this Privacy Policy applies if you are based in the European Economic Area<sup>2</sup> (“EEA”) during your interactions with us.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>1. Types of Personal Information We Collect</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>1.1 We will collect certain personal information (including where applicable sensitive personal information) from you when you request for or access our services. Such personal information (“Personal Information”) includes:</p>
+
+<p>&nbsp;</p>
+
+<p>a) your name, identity card number, passport number, a copy of your identity card and/or passport, contact information, date of birth, nationality and visa information;</p>
+
+<p>&nbsp;</p>
+
+<p>b) financial information (including, without limitation, your credit or debit card details, billing information and/or bank account details) and transactional data;</p>
+
+<p>&nbsp;</p>
+
+<p>c) your membership or loyalty program information;</p>
+
+<p>&nbsp;</p>
+
+<p>d) your social account ID, profile photo and other data publicly available, or data made available by linking your social media and loyalty accounts;</p>
+
+<p>&nbsp;</p>
+
+<p>e) any information necessary to fulfill special requests (for example, health conditions that require specific accommodation or services);</p>
+
+<p>&nbsp;</p>
+
+<p>f) your reviews, feedback and opinions about our programs and services;</p>
+
+<p>&nbsp;</p>
+
+<p>g) information collected whilst at our properties through the use of closed circuit television systems, internet systems (including wired or wireless networks that collect data about your computer, smart or mobile device, or your location), card key and other security and technology systems;</p>
+
+<p>&nbsp;</p>
+
+<p>h) information collected while you access our websites, mobile applications and social media platforms (including the details of your visits and other information collected through cookies and other tracking technology); and</p>
+
+<p>&nbsp;</p>
+
+<p>i) any other personal data you choose to provide us.</p>
+
+<p>&nbsp;</p>
+
+<p>1.2 We may also collect Personal Information about you from third parties such as our associated companies (“Other Genting Companies”), travel agencies, credit reporting agencies, employer (where your employer books travel for you), your third party card or loyalty scheme provider or from public records.</p>
+
+<p>&nbsp;</p>
+
+<p>1.3 Where you provide us with Personal Information about another person(s) (for example, names and contact details of your family members in connection with bookings or family memberships), you represent that they have appointed and authorized you to act on their behalf. This includes providing consent (to the extent this is required) to:</p>
+
+<p>&nbsp;</p>
+
+<p>a) us processing their Personal Information; and</p>
+
+<p>&nbsp;</p>
+
+<p>b) you receiving any personal data protection notices on their behalf.</p>
+
+<p>&nbsp;</p>
+
+<p>We may ask you to provide evidence that you have been appointed and authorized to act on behalf of the other person(s).</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>2. Purpose of Collection</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>2.1 We may use your Personal Information for the following purposes:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>a) to process your request for, or to administer or provide, any products or services offered by us or Other Genting Companies, including, without limitation, to process your membership application, cruise booking request, securities account opening and trading request, and/or loan application;</p>
+
+<p>&nbsp;</p>
+
+<p>b) to process or confirm your travel arrangements (including without limitation cruise bookings), loan arrangement and/or securities trading request (where applicable);</p>
+
+<p>&nbsp;</p>
+
+<p>c) for the operation of the membership programs, including without limitation points tracking, delivery of associated benefits and services, customer relationship management, ongoing research and program development and delivering news and information to members of the membership programs;</p>
+
+<p>&nbsp;</p>
+
+<p>d) for identification and verification purposes, in connection with any of the services or products that may be supplied to you. Your personal information will only be requested when necessary.&nbsp; When possible we will utilize methods of validation without retaining a copy of your identification;</p>
+
+<p>&nbsp;</p>
+
+<p>e) to administer contests, games of chance and sweepstakes conducted by us or on our behalf, including disclosing the winner of any such contest;</p>
+
+<p>&nbsp;</p>
+
+<p>f) to respond to, handle and process any enquiries submitted by you;</p>
+
+<p>&nbsp;</p>
+
+<p>g) to conduct credit checks on you, maintain your credit history and/or ensure your ongoing credit worthiness;</p>
+
+<p>&nbsp;</p>
+
+<p>h) to meet or comply with any obligation, requirement or arrangement for disclosing or using data that applies to us or with which we are expected to comply, both existing currently and in the future and within or outside Hong Kong, according to:</p>
+
+<p>&nbsp;</p>
+
+<p>i. any law or regulation binding on or applying to us;</p>
+
+<p>ii. any rules, guidelines and/or guidance given or issued by any legal, regulatory, governmental, tax, law enforcement or other authority, or self-regulatory or industry body or association relating to industries in which we participate (including without limitation the financial services industry), or the relevant stock exchange (each an “Authority”);</p>
+
+<p>iii. any present or future contractual or other commitment with any Authority that is assumed by or imposed on us by reason of our business or other interests or activities in or related to the jurisdiction of the relevant Authority;</p>
+
+<p>&nbsp;</p>
+
+<p>i) to meet or comply with any obligation, requirement, procedure, measure or arrangement set out in any of our programs or policies for compliance with sanctions or for the prevention or detection of money laundering, terrorist financing or other unlawful activity;</p>
+
+<p>&nbsp;</p>
+
+<p>j) for direct marketing (see “Direct Marketing Statement” section);</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>k) to conduct customer analytics and market research;</p>
+
+<p>&nbsp;</p>
+
+<p>l) for ongoing research and development of any of the products or services offered by us or Other Genting Companies; and/or</p>
+
+<p>&nbsp;</p>
+
+<p>m) any other purposes relating to the purposes listed above.</p>
+
+<p>&nbsp;</p>
+
+<p>2.2 To fulfill any of the above purposes, you may be contacted via email, direct mail, telephone call, SMS or other means that are allowed by local authorities.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>3. Disclosure of Your Personal Information</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>3.1 We may disclose your Personal Information to third parties for the purposes outlined in “Purpose of Collection” section, including, without limitation, the following third parties:</p>
+
+<p>&nbsp;</p>
+
+<p>a) Other Genting Companies;</p>
+
+<p>b) third parties who provide services to us (including, without limitation, bankers, lawyers, accountants and other third parties who provide administrative, telecommunications, computer, payment, printing, marketing services, redemption, data processing or other services to us to enable us to operate our business);</p>
+
+<p>c) professional advisers;</p>
+
+<p>d) credit reference organizations and other third party reference organizations;</p>
+
+<p>e) other third parties as part of customer due diligence;</p>
+
+<p>f) any other person or entity who has established or proposes to establish any business relationship with us;</p>
+
+<p>g) regulators and government agencies;</p>
+
+<p>h) law enforcement agencies; and</p>
+
+<p>i) the courts.</p>
+
+<p>&nbsp;</p>
+
+<p>3.2 However, we will not disclose your Personal Information to any third party for the purposes of direct marketing without your written consent (see “Direct Marketing Statement” section).</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>4. International Transfers of Personal Information</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>4.1 Genting Hong Kong Group is a global organization, with operations in various countries and regions. In order to provide you with our services, we will, subject to law, transfer your Personal Information to entities in countries or regions where data protection standards may differ from or be lower than those in the country or region where you reside. Such countries and regions include but not limited to China (including Hong Kong and Taiwan), Malaysia, India, Singapore, Philippines, Australia, EEA and America. Nevertheless, whenever your Personal Information is transferred within Genting Hong Kong Group, your Personal Information will be processed in accordance with this Privacy Policy or other relevant policy<sup>3</sup> and applicable laws.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>5. Consequences of failing to provide Personal Information</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>5.1 You may always choose what Personal Information (if any) you wish to provide to us. However, if you choose not to provide us with certain information marked with an asterisk or otherwise indicated as mandatory, we may be unable to process your request or comply with our legal obligations.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>6. Retention</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>6.1 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
+
+<p>&nbsp;</p>
+
+<p>6.2 The criteria used to determine our retention periods include:&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>a) The length of time we have an ongoing relationship with you and provide our&nbsp; services to you (for example, for as long as you have a membership account with us or keep using our services);</p>
+
+<p>&nbsp;</p>
+
+<p>b) Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them);</p>
+
+<p>&nbsp;</p>
+
+<p>c) Whether retention is advisable considering our legal position (such as, for statutes of limitations, litigation or regulatory investigations).</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>7. Security</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>7.1 We use reasonable and appropriate measures to protect your Personal Information from loss, misuse, unauthorised access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the Personal Information.</p>
+
+<p>&nbsp;</p>
+
+<p>7.2 We use technical measures such as access control, password protection and dedicated user ID for authentication to protect your data and the systems they are held in. We also use operational measures to protect the data, for example by limiting the number of people who have access to the databases in which our booking information is held.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>8. Children</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>8.1 We do not knowingly solicit personal data from children, unless permitted by applicable law. If you are under the age of 18 (or a minor in the jurisdiction in which you are accessing our services), you may only use our services with the permission of your parent or guardian.</p>
+
+<p>&nbsp;</p>
+
+<p>8.2 Our online services are not directed at children under the age of 18. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please contact us so that we may take appropriate steps to delete such information.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>9. Cookies and other tracking technologies</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>9.1 We use cookies and other technologies on our websites to help us to improve your experience of our websites and to ensure that they perform as you expect them to. For detailed information on how we use cookies and the purposes for which we use then, please see our Cookies Policy.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>10. Access and Correction Rights</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>10.1 You have the right to request access to and/or correction of any Personal Information that you provide to us. You may make such a request by writing to:</p>
+
+<p>&nbsp;</p>
+
+<p>a) For our credit services and securities trading clients:</p>
+
+<p>Attn: Compliance Officer</p>
+
+<p>Suite 1501, 15th Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui</p>
+
+<p>Kowloon, Hong Kong</p>
+
+<p>Email: compliance@genting-securities.com</p>
+
+<p>&nbsp;</p>
+
+<p>b) For DreamElite members:</p>
+
+<p>Email: en.memberservices@dreamcruiseline.com</p>
+
+<p>&nbsp;</p>
+
+<p>c) For all other clients:</p>
+
+<p>Attn: Manager</p>
+
+<p>Membership Contact Centre</p>
+
+<p>RWSea Marketing &amp; Partnerships</p>
+
+<p>Suite 1501, 15th Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui<br>
+Kowloon, Hong Kong</p>
+
+<p>Email: mccenq@resortsworldatsea.com</p>
+
+<p>&nbsp;</p>
+
+<p>10.2 We may charge a reasonable fee to process any Personal Information access or correction request.</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>11. Direct Marketing Statement</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>11.1 We may use your name, address, email address, social account and/or telephone number (“Contact Information”) to send you special offers, promotional material and other news in relation to cruise and cruise related operations, retail products and services<sup>4</sup>, securities trading and financial services, leisure, entertainment, hospitality and related services, food and beverage, health and beauty, telecommunication, transportation, travel-related products and services (“Services”) offered by Genting Hong Kong Group, Other Genting Companies and co-branding partners and business partners, but only if we receive your consent<sup>5</sup> for such use. We may also transfer your Contact Information to Other Genting Companies in various countries for direct marketing of their Services, but only if we receive your written consent for such transfer.</p>
+
+<p>&nbsp;</p>
+
+<p>11.2 If you do not want us to use or transfer your Contact Information for direct marketing as described above, you may opt-out (either entirely or selectively) at any time, free of charge, by:</p>
+
+<p>&nbsp;</p>
+
+<p>a) For our credit services and securities trading clients, emailing us at compliance@genting-securities.com</p>
+
+<p>&nbsp;</p>
+
+<p>b) For DreamElite members:</p>
+
+<p>i. calling one of our hotlines:</p>
+
+<p>Hong Kong SAR – (852) 2317 1211</p>
+
+<p>Mainland China – (86) 4008 302908</p>
+
+<p>Singapore – (65) 6223 3311</p>
+
+<p>Penang (Malaysia) – (604) 2631128</p>
+
+<p>Kuala Lumpur (Malaysia) – (603) 2302 1288; or</p>
+
+<p>&nbsp;</p>
+
+<p>ii. emailing us at en.memberservices@dreamcruiseline.com</p>
+
+<p>&nbsp;</p>
+
+<p>c) For all other clients:</p>
+
+<p>i. calling one of our hotlines:</p>
+
+<p>Singapore – (65) 6220 7801</p>
+
+<p>Malaysia – (603) 2302 1388</p>
+
+<p>Mainland China – 4001 203 233</p>
+
+<p>Hong Kong SAR – (852) 2110 3838</p>
+
+<p>Taiwan, China – (886) 2 2175 9590</p>
+
+<p>&nbsp;</p>
+
+<p>ii. emailing us at mccenq@resortsworldatsea.com; or</p>
+
+<p>&nbsp;</p>
+
+<p>iii. writing to us at:<br>
+Attn: Manager<br>
+Membership Contact Centre<br>
+RWSea Marketing &amp; Partnerships<br>
+Suite 1501, 15th Floor, Ocean Centre<br>
+5 Canton Road, Tsimshatsui<br>
+Kowloon, Hong Kong</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>12. Data Protection Officer</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>12.1 If you have any questions about this Privacy Policy, please contact our Data Protection Officer at Legal.privacy@gentinghk.com or by mail:</p>
+
+<p>&nbsp;</p>
+
+<p>Attn: Data Protection Officer</p>
+
+<p>Suite 1501, 15th Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui</p>
+
+<p>Kowloon, Hong Kong</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>13. Changes to Privacy Policy</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>13.1 We will post any changes to this Privacy Policy on our websites (www.gentinghk.com, www.starcruises.com, www.dreamcruiseline.com and www.resortsworldatsea.com), with the effective date of the changed policy, so that you can be informed of the way we collect and use the Personal Information at any time you so choose. If at any point we decide to use the Personal Information you submitted in a way that differs materially from the Privacy Policy that applied at the time of that submission, you will be notified and given the opportunity to opt out or otherwise prevent such usage.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>This Privacy Policy is written in the English, Chinese and Bahasa Malaysia languages. However, the English language text will prevail in the event of any inconsistency.</strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Notes:</p>
+
+<p>&nbsp;</p>
+
+<p>1. Genting Hong Kong Limited and its subsidiaries (including but not limited to Star Cruises (HK) Limited, Dream Cruises Management Limited, Resorts Entertainment Holdings Limited).</p>
+
+<p>&nbsp;</p>
+
+<p>2. The European Economic Area includes EU countries and also Iceland, Liechtenstein and Norway. For details of EU countries, please refer to the link (https://europa.eu/european-union/about-eu/countries/member-countries_en).</p>
+
+<p>&nbsp;</p>
+
+<p>3. Crystal Cruises, MV Werften and Lloyd Werft, Zouk have their own privacy policy.</p>
+
+<p>&nbsp;</p>
+
+<p>4. Retail businesses consist of onboard, in resort, physical, online and other related stores which market a wide variety of products, such as clothing, bags, shoes, beauty products, jewelry, watches, leather goods, electronics, decorations, souvenirs, artworks, kitchen ware, toys, stationery, medication, consumable goods (for example, alcoholic and non-alcoholic beverage, food, health supplements and tobacco, etc.), automobile and automobile related products and high-end consumer goods. Please note that this list is not exhaustive, and the product offerings will change from time to time.</p>
+
+<p>&nbsp;</p>
+
+<p>5. Subject to certain exceptions relating to Personal Information collected prior to 1 April 2013.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>European Appendix</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p><u>1. Application:</u><strong> </strong>This appendix applies if you are based in the EEA during your interactions with us (other than where you are in the EEA solely for travel purposes).</p>
+
+<p>&nbsp;</p>
+
+<p><u>2. Sensitive Personal Information</u><u>:</u> Certain kinds of personal information, such as information about your racial or ethnic origin, your physical or mental health, your religious beliefs or your political opinions, are special categories of personal data which by law require additional protection. We try to limit the circumstances in which we collect sensitive Personal Information of this kind, but we do collect and process it when for example:</p>
+
+<p>&nbsp;</p>
+
+<p>a) You have booked a wheelchair seat to travel with us;</p>
+
+<p>&nbsp;</p>
+
+<p>b) You have requested special assistance (e.g. medical treatment) onboard or at our other properties;</p>
+
+<p>&nbsp;</p>
+
+<p>c) You have been involved in an accident onboard or at our other properties;</p>
+
+<p>&nbsp;</p>
+
+<p>d) You have requested a special meal type which implies or suggests your religion (e.g. a kosher meal) or a health issue (e.g. a gluten-free meal).</p>
+
+<p>&nbsp;</p>
+
+<p>We will typically ask you for your explicit consent when collecting and handling this type of Personal Information, unless we are otherwise permitted to process such Personal Information under European data protection law or the laws of the EU member state in which you are based.</p>
+
+<p>&nbsp;</p>
+
+<p><u>3. Transfer outside the EEA:</u> We may transfer your Personal Information outside the EEA in certain circumstances (e.g. to perform our contract with you). We will use one of the following safeguards to ensure that your Personal Information is protected:</p>
+
+<p>&nbsp;</p>
+
+<p>a) Use standard contractual clauses approved by the European Commission. The standard contractual clauses are available at <u><a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en">https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en</a></u>;</p>
+
+<p>&nbsp;</p>
+
+<p>b) Transfer the data to the non-EEA countries recognized by the European Commission, to ensure that such data transfers are compliant with applicable privacy legislation.<i> </i>The list of the non-EEA countries recognized by the European Commission as providing an adequate level of data protection according to EEA standards is available at <u><a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en">https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en</a></u>.</p>
+
+<p>&nbsp;</p>
+
+<p><u>4. Legal Basis for Processing Personal Information:</u> We only process your Personal Information to the extent that at least one of the following legal grounds applies:</p>
+
+<p>&nbsp;</p>
+
+<p>a) Consent: where you have consented to our processing of your Personal Information for a specific purpose;</p>
+
+<p>&nbsp;</p>
+
+<p>b) Contract performance: where the processing is necessary for us to perform our contract with you (e.g. to provide your cruise) or to take steps at your request before we enter into the contract;</p>
+
+<p>&nbsp;</p>
+
+<p>c) Legal obligation: where we need to process your Personal Information to comply with our legal obligations;</p>
+
+<p>&nbsp;</p>
+
+<p>d) Vital interests: where we need to process your personal data in order to protect the vital interests of you or another natural person, e.g. where you require urgent assistance;</p>
+
+<p>&nbsp;</p>
+
+<p>e) Public interest: where we need to process your Personal Information to carry out a task that is in the public interest;</p>
+
+<p>&nbsp;</p>
+
+<p>f) Legitimate interests: where we have a legitimate interest in processing your Personal Information. Legitimate interests are our business or commercial reasons for using your data, but even so, we will not unfairly put our legitimate interests above what is best for you. These include:</p>
+
+<ul>
+	<li>improving our products and services;</li>
+	<li>understanding how customers travel with us;</li>
+	<li>marketing and promotional activities;</li>
+	<li>identifying and pursuing new ways to develop and grow our business;</li>
+	<li>ensuring the security and safety of our customers and employees; and</li>
+	<li>Transmission of personal data within the group for internal administrative purposes.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><u>5. Legal Basis for Processing Sensitive Personal Information:</u> The legal grounds for our processing of your sensitive Personal Information are:</p>
+
+<p>&nbsp;</p>
+
+<p>a) Consent: where you have explicitly consented to our processing of your sensitive Personal Information;</p>
+
+<p>&nbsp;</p>
+
+<p>b) Vital interest: where we need to process your sensitive Personal Information &nbsp;in order to protect the vital interests of you or another natural person where you or the other person is physically or legally incapable of giving consent;</p>
+
+<p>&nbsp;</p>
+
+<p>c) Legal claims: where your sensitive Personal Information is necessary for us to establish, exercise of defend any legal claims;</p>
+
+<p>&nbsp;</p>
+
+<p>d) Substantial public interest: where we need to process your sensitive Personal Information for reasons of substantial public interest set out in EU law or the laws of the member state in which you are based;</p>
+
+<p>&nbsp;</p>
+
+<p>e) Public interest in area of public health: where we need to process your sensitive Personal Information for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health, set out in EU law or the laws of the member state in which you are based.</p>
+
+<p>&nbsp;</p>
+
+<p><u>6. Profiling:</u> In connection with our marketing activities, we analyse some of the information that we collect about our customers to determine what offers are most likely to be of interest to different categories of members in different circumstances and at different times. We call this the creation of “segments”. To do this, we use your Personal Information (including but not limited to age, sex, travel history and interactions with us) to build a profile for you. From time to time, we will assess such Personal Information in order to assign you to a particular segment. We will use the segment that you have been assigned to in order to tailor our marketing communications to include offers and content that are relevant to you.</p>
+
+<p>&nbsp;</p>
+
+<p>You have the right to opt out of our direct marketing, and the underlying analysis of your Personal Information that we use to tailor the direct marketing that we send to you, at any time. You can exercise this right, by contacting us in accordance with “Direct Marketing Statement” section in the Privacy Policy.</p>
+
+<p>&nbsp;</p>
+
+<p><u>7. Your Rights:</u> In addition to the rights set out above, you may have certain rights in relation to your Personal Information.</p>
+
+<p>&nbsp;</p>
+
+<p>You can request us to delete your Personal Information under certain specified circumstances. You can object to processing of your Personal Information, ask us to restrict processing of your Personal Information, or request portability of your Personal Information. Again, you can exercise these rights by contacting us as provided in “Access and Correction Rights” section in the Privacy Policy.</p>
+
+<p>&nbsp;</p>
+
+<p>You can complain to a data protection authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the EEA and Switzerland are available at: <u><a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080">http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080</a></u>.</p>
+
+<p>&nbsp;</p>
+
+<p>Similarly, if we have collected and processed your Personal Information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.</p>
+
+<p>&nbsp;</p>
+
+<p>We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<div>
+<p>Kumpulan Genting Hong Kong<sup>1</sup> (dirujuk sebagai “kami”) komited untuk melindungi privasi anda. Untuk memastikan anda dapat membuat keputusan bermaklumat dan rasa yakin tentang pemberian maklumat peribadi anda kepada kami, kami menyediakan Polisi Privasi ini yang menggariskan amalan kami, dan pilihan yang anda ada, berhubungan dengan bagaimana kami menggunakan maklumat peribadi anda.</p>
+
+<p>&nbsp;</p>
+
+<p>Anda akan diminta untuk bersetuju dengan terma Polisi Privasi ini apabila membuat tempahan, menyertai program-program keahlian kami, mendaftar untuk acara-acara atau promosi-promosi kami, semasa berhubung dengan kami atau jika dikehendaki di bawah undang-undang yang terpakai. Selain itu, penggunaan berterusan perkhidmatan kami oleh anda akan dianggap sebagai persetujuan anda terhadap terma-terma Polisi Privasi ini.</p>
+
+<p>&nbsp;</p>
+
+<p>Polisi Privasi ini menerangkan kewajipan dan amalan kami di bawah Ordinan (Cap 486), Data Peribadi (Privasi) Hong Kong. Di mana operasi kami adalah tertakluk kepada perundangan privasi selain Hong Kong (seperti ketika kami menjalankan fungsi operasi di luar Hong Kong), Polisi Privasi ini diterimapakai selagi ia adalah selaras dengan perundangan tempatan. “Lampiran Eropah” Polisi Privasi ini diterimapakai jika anda berpusat di Kawasan Ekonomi Eropah<sup>2</sup> (“EEA”) semasa interaksi anda dengan kami.</p>
+
+<p>&nbsp;</p>
+
+<p><u><u>1. Jenis Maklumat Peribadi yang dikumpul oleh kami</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>1.1 Kami akan mengumpul maklumat peribadi tertentu (termasuk di mana berkenaan maklumat peribadi yang sensitif) dari anda apabila anda meminta atau mengakses perkhidmatan kami. Maklumat peribadi demikian (“Maklumat Peribadi”) termasuk:</p>
+
+<h1>&nbsp;</h1>
+
+<p>a) nama, nombor kad pengenalan, nombor pasport, salinan kad pengenalan dan/atau pasport, maklumat perhubungan, tarikh lahir, kewarganegaraan dan maklumat visa;</p>
+
+<h1>&nbsp;</h1>
+
+<p>b) maklumat kewangan (termasuk, tanpa had, maklumat kad kredit or debit, maklumat bil dan/atau maklumat akaun bank) dan data transaksi;</p>
+
+<h1>&nbsp;</h1>
+
+<p>c) maklumat keahliaan atau program kesetiaan anda;</p>
+
+<h1>&nbsp;</h1>
+
+<p>d) ID akaun social anda, gambar profil dan data lain yang tersedia secara umum, atau data yang tersedia dengan menghubungkan media social dan akaun kesetiaan anda;</p>
+
+<h1>&nbsp;</h1>
+
+<p>e) sebarang maklumat yang diperlukan untuk memenuhi permintaan khas (contohnya, keadaan kesihatan yang memerlukan penginapan atau perkhidmatan-perkhidmatan spesifik);</p>
+
+<h1>&nbsp;</h1>
+
+<p>f) ulasan-ulasan, maklum balas dan pendapat-pendapat anda tentang program dan perkhidmatan kami;</p>
+
+<h1>&nbsp;</h1>
+
+<p>g) maklumat yang dikumpulkan semasa di hartanah kami melalui penggunaan sistem-sistem televisyen litar tertutup, sistem internet (termasuk rangkaian berwayar atau tanpa wayar yang mengumpul data mengenai komputer anda, peranti pintar atau mudah alih, atau lokasi anda), kunci kad dan sistem-sistem sekuriti dan teknologi yang lain;</p>
+
+<h1>&nbsp;</h1>
+
+<p>h) maklumat yang dikumpul semasa anda mengakses laman web kami, aplikasi-aplikasi mudah alih dan platform media social (termasuk butiran lawatan-lawatan anda dan maklumat lain yang dikumpul melalui kuki (“cookies”) dan teknologi penjejakan yang lain); dan</p>
+
+<h1>&nbsp;</h1>
+
+<p>i) sebarang data peribadi lain yang anda pilih untuk memberi kami.</p>
+
+<h1>&nbsp;</h1>
+
+<p>1.2 Kami mungkin mengumpul Maklumat Peribadi mengenai anda daripada pihak ketiga seperti syarikat bersekutu (‘Syarikat Genting yang lain’), agensi pelancongan, agensi pelapor kredit, majikan (apabila majikan anda membuat tempahan perjalanan untuk anda), pembekal kad pihak ketiga atau skim kesetiaan anda atau dari rekod awam.</p>
+
+<p>&nbsp;</p>
+
+<p>1.3 Apabila anda memberi kami Maklumat Peribadi orang lain (seperti, nama-nama dan butiran-butiran perhubungan ahli-ahli keluarga anda untuk tujuan tempahan atau keahlian keluarga), anda mewakili bahawa mereka telah melantik dan mebenarkan anda untuk bertindak bagi pihak mereka. Ini termasuk memberi persetujuan (setakat yang diperlukan) untuk:</p>
+
+<p>a) kami memproses Maklumat Peribadi mereka; dan</p>
+
+<p>b) anda menerima notis perlindungan data peribadi bagi pihak mereka.</p>
+
+<p>Kami mungkin meminta anda untuk mengemukakan bukti bahawa anda telah dilantik dan diberi kuasa untuk bertindak bagi pihak orang lain.</p>
+
+<pre>
+&nbsp;</pre>
+
+<pre>
+&nbsp;</pre>
+
+<p><u><u>2. Tujuan Pengumpulan</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>2.1 Kami mungkin mengguna Maklumat Peribadi anda untuk tujuan-tujuan berikut:</p>
+
+<p>&nbsp;</p>
+
+<p>(a) Untuk memproses permintaan anda untuk, atau mentadbir atau memberi, sebarang produk atau perkhidmatan yang ditawarkan oleh kami atau Syarikat Genting yang lain, termasuk, tanpa had, untuk&nbsp; memproses permohonan keahlian, tempahan pelayaran persiaran, pembukaan akaun sekuriti dan permintaan dagangan <i>(trading)</i>, dan/atau permohonan pinjaman;</p>
+
+<p>&nbsp;</p>
+
+<p>(b) Untuk proses atau mengesahkan aturan perjalanan (termasuk tanpa had tempahan pelayaran&nbsp; persiaran),&nbsp;&nbsp; aturan&nbsp; &nbsp;pinjaman&nbsp; &nbsp;dan/atau permintaan dagangan <i>(trading) </i>sekuriti (di mana berkenaan);</p>
+
+<p>&nbsp;</p>
+
+<p>(c) Untuk pengendalian program-program keahlian, termasuk tanpa had pemantauan mata, penyampaian manfaat dan perkhidmatan yang berkaitan, pengurusan hubungan pelanggan, penyelidikan berterusan dan program pembangunan dan penyampaian berita dan maklumat kepada ahli-ahli program-program keahlian;</p>
+
+<p>&nbsp;</p>
+
+<p>(d) Untuk tujuan identifikasi dan verifikasi, berhubung dengan apajua perkhidmatan atau produk yang mungkin dibekalkan kepada anda. Maklumat Peribadi anda hanya akan diminta jika perlu. Sekiranya mungkin, kami akan menggunakan kaedah-kaedah pengesahan tanpa menyimpan salinan identifikasi anda;</p>
+
+<p>&nbsp;</p>
+
+<p>(e) Untuk mentadbir pertandingan, permainan peluang dan cabutan bertuah yang dikendalikan oleh kami atau bagi pihak kami, termasuk pemberitahuan pemenang mana-mana pertandingan tersebut;</p>
+
+<p>&nbsp;</p>
+
+<p>(f) Untuk respon, mengendalikan dan memproses sebarang pertanyaan yang dikemukakan oleh anda;</p>
+
+<p>&nbsp;</p>
+
+<p>(g) Untuk menjalankan pemeriksaan kredit anda, mengekalkan rekod kredit dan/atau memastikan kesahihan kredit semasa anda;</p>
+
+<p>&nbsp;</p>
+
+<p>(h) Untuk memenuhi atau mematuhi sebarang kewajipan, keperluan atau aturan untuk pemberitahuan atau penggunaan data yang mengaitkan kami atau yang mana kami dikehendaki mematuhi, baik yang wujud kini atau di masa hadapan dalam atau luar Hong Kong, berdasarkan kepada:</p>
+
+<p>&nbsp;</p>
+
+<p>i. Sebarang undang-undang, peraturan yang mengaitkan kami;</p>
+
+<p>ii. Sebarang kaedah, garis panduan dan/atau panduan diberikan atau dikeluarkan oleh sebarang pihak berkuasa undang-undang, kawal selia, kerajaan, cukai, penguatkuasa undang-undang atau pihak berkuasa lain, atau badan kawal selia diri atau industri atau persatuan berkaitan industri yang mana kami mengambil bahagian (termasuk tanpa had kepada industri perkhidmatan kewangan) atau bursa saham relevan (setiap satu ‘Pihak Berkuasa’);</p>
+
+<p>iii. Sebarang kontrak atau komitmen masa kini atau masa hadapan atau komitmen lain dengan sebarang Pihak Berkuasa yang melibatkan kami berdasarkan perniagaan kami atau kepentingan kami atau aktiviti lain yang berhubung dengan bidang kuasa/jurisdiksi Pihak Berkuasa yang relevan;</p>
+
+<p>&nbsp;</p>
+
+<p>(i) Untuk memenuhi atau mematuhi sebarang kewajipan, keperluan, prosedur, langkah atau aturan yang tertera pada mana-mana program kami atau polisi yang dibenarkan untuk dipatuhi bagi mencegah atau mengesan aktiviti pengubahan wang haram, bantuan kewangan kepada pengganas atau aktiviti lain yang menyalahi undang-undang;</p>
+
+<p>&nbsp;</p>
+
+<p>(j) Untuk pemasaran langsung (lihat seksyen “Kenyataan Pemasaran Langsung”);</p>
+
+<p>&nbsp;</p>
+
+<p>(k) Untuk menjalankan analisis pelanggan dan penyelidikan pasaran;</p>
+
+<p>&nbsp;</p>
+
+<p>(l )Untuk penyelidikan berterusan dan pembangunan sebarang produk&nbsp; atau perkhidmatan yang ditawarkan oleh kami atau Syarikat Genting yang lain; dan/atau</p>
+
+<p>&nbsp;</p>
+
+<p>(m) Sebarang tujuan lain berkaitan dengan tujuan-tujuan yang disenaraikan di atas.</p>
+
+<p>&nbsp;</p>
+
+<p>2.2 Untuk memenuhi sebarang tujuan-tujuan di atas, anda mungkin dihubungi melalui emel, pos langsung, panggilan telefon, SMS atau cara-cara lain yang dibenarkan oleh pihak berkuasa tempatan.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><u><u>3. Pendedahan Maklumat Peribadi Anda</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>3.1 Kami mungkin mendedahkan Maklumat Peribadi anda kepada pihak ketiga bagi tujuan yang tertera di seksyen “ Tujuan Pengumpulan”, termasuk, tanpa terhad, kepada pihak ketiga seperti berikut:</p>
+
+<p>&nbsp;</p>
+
+<p>(a) Syarikat Genting yang lain;</p>
+
+<p>(b) Pihak ketiga yang membekalkan perkhidmatan kepada kami (termasuk, tanpa had, bank, peguam, akauntan dan pihak ketiga yang membekal perkhidmatan pentadbiran, telekomunikasi, komputer, bayaran, percetakan, perkhidmatan-perkhidmatan pemasaran, penebusan, pemprosesan data atau perkhidmatan lain bagi membolehkan&nbsp; kami menjalankan perniagaan kami);</p>
+
+<p>(c) Penasihat professional;</p>
+
+<p>(d) Organisasi rujukan kredit dan organisasi rujukan pihak ketiga yang&nbsp; lain;</p>
+
+<p>(e) Pihak ketiga yang lain sebagai penelitian pelanggan;</p>
+
+<p>(f) Mana-mana orang atau entiti yang telah mewujudkan atau cadang mewujudkan sebarang hubungan perniagaan dengan kami;</p>
+
+<p>(g) Agensi kawal selia atau kerajaan;</p>
+
+<p>(h) Agensi penguatkuasa undang-undang; dan</p>
+
+<p>(i) Mahkamah.</p>
+
+<p>&nbsp;</p>
+
+<p>3.2 Namun, kami tidak akan mendedahkan Maklumat Peribadi anda kepada pihak ketiga untuk tujuan pemasaran langsung tanpa persetujuan bertulis anda (lihat seksyen “Kenyataan Pemasaran Langsung”).</p>
+
+<p>&nbsp;</p>
+
+<p><u>4. Pemindahan Maklumat Peribadi di Antarabangsa</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>4.1&nbsp;&nbsp;&nbsp;&nbsp; Kumpulan Genting Hong Kong adalah organisasi global, yang mempunyai operasi di pelbagai negara dan rantau. Untuk memberi perkhidmatan kepada anda, kami, tertakhluk kepada undang-undang, akan memindah Maklumat Peribadi anda kepada entiti-entiti di negara-negara atau rantau-rantau di mana piawaian perlindungan data mungkin berbeza daripada atau kurang daripada negara atau rantau yang anda tinggal. Negara-negara dan rantau-rantau berkenaan termasuk tetapi tidak terhad kepada China (termasuk Hong Kong dan Taiwan), Malaysia, India, Singapura, Filipina, Australia, EEA dan America. &nbsp;Walau bagaimanapun, apabila Maklumat Peribadi anda dipindahkan dalam Kumpulan Genting Hong Kong, Maklumat Peribadi anda akan diproses mengikut Privasi Polisi ini atau polisi lain yang berkaitan<sup>3</sup> dan undang-undang yang terpakai.</p>
+
+<h1>&nbsp;</h1>
+
+<p><u><u>5. Akibat kegagalan memberi Maklumat Peribadi</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>5.1 Anda sentiasa boleh memilih apa jua Maklumat Peribadi (jika ada) yang anda ingin berikan kepada kami. Namun, jika anda memilih untuk tidak memberi kami maklumat tertentu yang ditanda asterisk atau dinyatakan sebagai wajib, kami mungkin tidak dapat memproses permintaan anda atau mematuhi obligasi-obligasi undang-undang kami.</p>
+
+<p>&nbsp;</p>
+
+<p><u>6. Pengekalan</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>6.1 &nbsp;&nbsp;&nbsp; Kami akan mengekalkan Maklumat Peribadi anda untuk tempoh yang diperlukan untuk memenuhi tujuan yang digariskan dalam Polisi Privasi ini melainkan jika tempoh pengekalan yang lebih lama diperlukan atau dibenarkan di sisi undang-undang.</p>
+
+<h1>&nbsp;</h1>
+
+<p>6.2&nbsp;&nbsp;&nbsp;&nbsp; Kriteria yang digunakan untuk menentukan tempoh-tempoh pengekalan kami termasuk:</p>
+
+<h1>&nbsp;</h1>
+
+<p>a) Tempoh masa kami mempunyai hubungan yang berterusan dengan anda dan memberikan perkhidmatan kepada anda (sebagai contoh, selagi anda mempunyai akaun keahlian dengan kami atau terus menggunakan perkhidmatan kami);</p>
+
+<h1>&nbsp;</h1>
+
+<p>b) Sama ada terdapat kewajipan undang-undang yang mana kami tertakluk (sebagai contoh, undang-undang tertentu menghendaki kami menyimpan rekod urus niaga anda untuk jangka masa tertentu sebelum kami boleh memadamkannya);</p>
+
+<h1>&nbsp;</h1>
+
+<p>c) Sama ada pengekalan adalah wajar memandangkan posisi undang-undang kami (seperti, untuk akta-akta pembatasan, litigasi atau siasatan pengawalseliaan).</p>
+
+<h1>&nbsp;</h1>
+
+<h1>&nbsp;</h1>
+
+<p><u>7. Sekuriti</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>7.1 Kami menggunakan langkah-langkah yang munasabah dan sesuai untuk melindungi Maklumat Peribadi anda daripada kerugian, penyalahgunaan, akses tanpa kebenaran, pendedahan, pengubahan dan pemusnahan, dengan mengambil kira risiko yang terlibat dalam pemprosesan dan sifat Maklumat Peribadi.</p>
+
+<h1>&nbsp;</h1>
+
+<p>7.2 Kami menggunakan langkah-langkah teknikal seperti kawalan akses, perlindungan kata laluan dan dedikasi ID pengguna untuk pengesahan bagi melindungi data anda dan sistem yang memegang data anda. Kami juga menggunakan langkah-langkah operasi untuk melindungi data, contohnya, dengan mengehadkan bilangan orang yang mempunyai akses kepada pangkalan data di mana maklumat tempahan kami dipegang.</p>
+
+<h1>&nbsp;</h1>
+
+<h1>&nbsp;</h1>
+
+<p><u>8. Kanak-kanak</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>8.1 Kami tidak akan sengaja mengambil data peribadi daripada kanak-kanak, melainkan jika dibenarkan oleh undang-undang yang terpakai. Sekiranya anda berumur di bawah 18 tahun (atau ‘minor’ di bawah bidang kuasa di mana anda mengakses perkhidmatan kami), anda hanya boleh menggunakan perkhidmatan kami dengan kebenaran ibu bapa atau penjaga anda.</p>
+
+<h1>&nbsp;</h1>
+
+<p>8.2 Perkhidmatan dalam talian kami tidak ditujukan kepada kanak-kanak di bawah umur 18 tahun. Jika ibu bapa atau penjaga menyedari bahawa kanak-kanaknya telah memberi kami maklumat tanpa persetujuan mereka, sila hubungi kami supaya kami boleh mengambil langkah yang sesuai untuk memadamkan maklumat tersebut.</p>
+
+<p>&nbsp;</p>
+
+<h1>&nbsp;</h1>
+
+<p>9. Kuki dan Teknologi Penjejakan yang lain</p>
+
+<h1>&nbsp;</h1>
+
+<p>9.1&nbsp;&nbsp; Kami menggunakan kuki dan teknologi lain di laman web kami untuk membantu kami meningkatkan pengalaman anda semasa menlayari laman-laman web kami dan untuk memastikan prestasi laman-laman web kami adalah seperti yang diharapkan anda. Untuk maklumat terperinci mengenai cara dan tujuan kami menggunakan kuki, sila lihat Polisi Kuki kami.<br>
+&nbsp;</p>
+
+<p><u>10. Akses dan Hak Pembetulan</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>10.1 Anda berhak untuk meminta akses kepada dan/atau pembetulan sebarang Maklumat Peribadi yang telah diberikan kepada kami. Anda boleh berbuat demikian secara bertulis kepada:</p>
+
+<p>&nbsp;</p>
+
+<p>(a) Untuk perkhidmatan kredit dan pelanggan dagangan <i>(trading) </i>sekuriti:</p>
+
+<p>&nbsp;</p>
+
+<p>Attn: Compliance Officer</p>
+
+<p>Suite 1501, 15th Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui,</p>
+
+<p>Kowloon, Hong Kong</p>
+
+<p>Emel: <u><a href="mailto:compliance@genting-securities.com">compliance@genting-securities.com</a></u></p>
+
+<p>&nbsp;</p>
+
+<p>(b) Bagi ahli-ahli DreamElite :</p>
+
+<p>Emel: <u><a href="mailto:en.memberservices@dreamcruiseline.com">en.memberservices@dreamcruiseline.com</a></u></p>
+
+<p>&nbsp;</p>
+
+<p>(c) Bagi semua pelanggan lain:</p>
+
+<p>&nbsp;</p>
+
+<p>Attn: Manager</p>
+
+<p>Membership Contact Centre</p>
+
+<p>RWSea Marketing &amp; Partnerships</p>
+
+<p>Suite 1501, 15<sup>th</sup> Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui</p>
+
+<p>Kowloon, Hong Kong</p>
+
+<p>Emel: mccenq@resortsworldatsea.com</p>
+
+<p>&nbsp;</p>
+
+<p>10.2 Kami mungkin mengenakan bayaran yang munasabah untuk memproses sebarang akses Maklumat Peribadi atau permintaan untuk pembetulan.</p>
+</div>
+
+<p><br>
+<u><u>11. Kenyataan Pemasaran Langsung</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>11.1 Kami mungkin menggunakan nama, alamat, alamat emel, akaun social dan/atau nombor telefon (“Maklumat Komunikasi”) untuk menghantar kepada anda tawaran istimewa, bahan promosi dan berita lain berhubungan pelayaran persiaran dan berhubungan operasi pelayaran persiaran, produk dan perkhidmatan runcit4, dagangan (<i>trading</i>) sekuriti dan perkhidmatan kewangan, dan perkhidmatan berhubungan dengan percutian, hiburan, hospitaliti dan perkhidmatan lain yang berkenaan, makanan dan minuman, kesihatan dan kecantikan, telekomunikasi, pengangkutan, produk-produk dan perkhidmatan yang berkaitan dengan pelancongan (“Perkhidmatan”) yang ditawarkan oleh Kumpulan Genting Hong Kong, Syarikat Genting yang lain dan rakan-rakan kongsi jenama bersama dan rakan-rakan kongsi perniagaan, hanya jika kami menerima persetujuan5&nbsp;&nbsp; anda untuk penggunaan sedemikian. Kami juga mungkin pindah Maklumat Komunikasi anda kepada Syarikat Genting yang lain di pelbagai negara untuk perkhidmatan pemasaran langsung mereka, hanya jika kami menerima persetujuan bertulis anda untuk pemindahan sedemikian.</p>
+
+<p>&nbsp;</p>
+
+<p>11.2 Sekiranya anda tidak mahu kami menggunakan atau memindahkan Maklumat Komunikasi anda untuk pemasaran langsung seperti dinyatakan di atas, anda boleh memilih untuk menarik diri (sama ada sepenuhnya atau secara pilihan) pada bila-bila masa, secara percuma, melalui:</p>
+
+<p>&nbsp;</p>
+
+<p>(a) Untuk perkhidmatan kredit dan pelanggan dagangan <i>(trading) </i>sekuriti:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emel: <u><a href="mailto:compliance@genting-securities.com">compliance@genting-securities.com</a></u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>(b) Bagi ahli-ahli DreamElite:</p>
+
+<p>i. Memanggil salah satu daripada talian hotline kami:</p>
+
+<p>&nbsp;</p>
+
+<p>Hong Kong SAR – (852) 2317 1211</p>
+
+<p>Mainland China – (86) 4008 302908</p>
+
+<p>Singapore – (65) 6223 3311</p>
+
+<p>Penang (Malaysia) – (604) 263 1128</p>
+
+<p>Kuala Lumpur (Malaysia) – (603) 2302 1288; atau</p>
+
+<p>&nbsp;</p>
+
+<p>ii. Emel kami di: <u><a href="mailto:en.memberservices@dreamcruiseline.com">en.memberservices@dreamcruiseline.com</a></u></p>
+
+<p>&nbsp;</p>
+
+<p>(c) Bagi semua pelanggan lain:</p>
+
+<p>i. Memanggil salah satu daripada talian hotline kami:</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Singapore - (65) 6220 7801</p>
+
+<p>Malaysia - (603) 2302 1388</p>
+
+<p>Mainland China - 4001 203 233</p>
+
+<p>Hong Kong SAR - (852) 2110 3838</p>
+
+<p>Taiwan, China - (886) 2 2175 9590</p>
+
+<p>&nbsp;</p>
+
+<p>ii. Emel kami di: mccenq@resortsworldatsea.com ; atau</p>
+
+<p>&nbsp;</p>
+
+<p>iii. Menulis kepada kami di:</p>
+
+<p>&nbsp;</p>
+
+<p>Attn: Manager</p>
+
+<p>Membership Contact Centre</p>
+
+<p>RWSea Marketing &amp; Partnerships</p>
+
+<p>Suite 1501, 15<sup>th</sup> Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui</p>
+
+<p>Kowloon, Hong Kong.</p>
+
+<p>&nbsp;</p>
+
+<h1>&nbsp;</h1>
+
+<p><u>12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pegawai Perlindungan Data</u></p>
+
+<p>&nbsp;</p>
+
+<p>12.1&nbsp;&nbsp; Jika anda mempunyai sebarang pertanyaan tentang Polisi Privasi ini, sila hubungi Pegawai Perlindungan Data kami di <a href="mailto:Legal.privacy@gentinghk.com">Legal.privacy@gentinghk.com</a> atau melalui pos kepada:</p>
+
+<p>&nbsp;</p>
+
+<p>Attn: Data Protection Officer</p>
+
+<p>Suite 1501, 15<sup>th</sup> Floor, Ocean Centre</p>
+
+<p>5 Canton Road, Tsimshatsui</p>
+
+<p>Kowloon, Hong Kong.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><u>13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Perubahan Kepada Polisi Privasi</u></u></p>
+
+<h1>&nbsp;</h1>
+
+<p>13.1 &nbsp;&nbsp;&nbsp; Kami akan menyiarkan sebarang perubahan kepada Polisi Privasi di laman web (<u><a href="http://www.gentinghk.com/">www.gentinghk.com<u>,</u></a></u> <u><a href="https://www.starcruises.com/">www.starcruises.com</a>, www.dreamcruiseline.com</u> dan <u><a href="http://www.resortsworldatsea.com">www.resortsworldatsea.com</a></u>) dengan tarikh efektif perubahan polisi, agar anda dimaklumkan pada bila-bila masa yang anda boleh pilih mengenai cara kami mengumpul dan mengguna Maklumat Peribadi. Jika pada bila-bila masa kami ingin menggunakan Maklumat Peribadi yang anda telah mengemukakan, melalui kaedah yang berbeza secara material daripada yang termaktub dalam Polisi Privasi ini, anda akan diberitahu dan diberi peluang untuk menarik diri atau tidak mengizinkan Maklumat Peribadi anda digunakan .</p>
+
+<p>&nbsp;</p>
+
+<p><u>Polisi Privasi ini ditulis dalam Bahasa Inggeris, Bahasa Cina dan Bahasa Melayu. Namun, teks Bahasa Inggeris akan digunapakai jika terdapat sebarang ketidakselarasan.</u></p>
+
+<h1>&nbsp;</h1>
+
+<p><u>Nota-nota:</u></p>
+
+<h1>&nbsp;</h1>
+
+<p>1. &nbsp;Genting Hong Kong Limited dan anak-anak syarikatnya (termasuk tetapi tidak terhad kepada Star Cruises (HK) Limited, Dream Cruises Management Limited, Resorts Entertainment Holdings Limited).</p>
+
+<p>&nbsp;</p>
+
+<p>2. Kawasan Ekonomi Eropah termasuk negara-negara EU dan juga Iceland, Liechtenstein dan Norway. Untuk maklumat terperinci tentang negara-negara EU, sila rujuk pautan berikut:</p>
+
+<p>(<u><a href="https://europa.eu/european-union/about-eu/countries/member-countries_en">https://europa.eu/european-union/about-eu/countries/member-countries_en</a></u>).</p>
+
+<p>&nbsp;</p>
+
+<p>3.&nbsp;&nbsp;&nbsp; Crystal Cruises, MV Werften dan Lloyd Werft, Zouk mempunyai polisi privasi mereka sendiri.</p>
+
+<p>&nbsp;</p>
+
+<p>4.&nbsp;&nbsp;&nbsp; Perniagaan-perniagaan runcit termasuk stor-stor di atas kapal, dalam resort, stor fizikal, stor atas talian (<i>online</i>) dan stor-stor lain yang berkaitan yang memasarkan pelbagai jenis produk seperti pakaian, beg tangan, kasut, produk kecantikan, barang kemas, jam tangan, barangan kulit, barangan elektronik, barangan hiasan, cenderahati, karya seni, perkakas dapur, barangan mainan, alat tulis, ubat, barangan yang boleh dimakan (<i>consumable goods</i>)(seperti, minuman beralkohol dan tidak beralkohol, &nbsp;makanan, <u>suplemen </u>kesihatan dan tembakau etc), otomobil dan produk berkaitan dengan otomobil dan barangan konsumer mewah. Sila ambil perhatian bahawa senarai ini tidak mengandungi semua produk yang ditawarkan dan boleh berubah dari masa ke masa.</p>
+
+<p>&nbsp;</p>
+
+<p>5. &nbsp;&nbsp; Tertakluk kepada pengecualian tertentu mengenai Maklumat Peribadi yang dikumpul sebelum 1 April 2013.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><u>Lampiran Eropah</u></strong></p>
+
+<p>&nbsp;</p>
+
+<p>Sila rujuk versi Bahasa Inggeris.</p>
+
+<p>&nbsp;</p>
+
+<h1>&nbsp;</h1>
+
 </div>
     </div>
     <div id="footer">
@@ -599,7 +1717,9 @@
 
 
 
-        Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><br>
+
+                Booking Hotline: (65) <big style="white-space: nowrap;"><b> 6223 0002</b></big><br>
+            
 
         <span style="font-size: 0.8em; line-height: 1.3em; display: block;">
         </span>
@@ -617,17 +1737,17 @@
             
         </div>
         <div id="subscribe-wrapper">
-            <div id="subscribe-btn" onclick="toggleSubscribeForm()">Subscribe Newsletter</div>
+            <div id="subscribe-btn" onclick="toggleSubscribeForm()">Get Cruise Offers</div>
             <form id="subscribe-form" onsubmit="return false;">
                 <input type="text" name="name" value="Your Name" placeholder="Your Name">
                 <input type="text" name="email" value="Your Email" placeholder="Your Email">
                 <div class="select-box">
                     <select name="region">
                         
-                            <option value="hk">Hong Kong</option>
+                            <option value="hk">Hong Kong, China</option>
                             <option value="sg">Singapore</option>
-                            <option value="tw">Taiwan</option>
-                            <option value="cn">China</option>
+                            <option value="tw">Taiwan, China</option>
+                            <option value="cn">Mainland China</option>
                             <option value="au">Australia</option>
                             <option value="in">India</option>
                             <option value="id">Indonesia</option>
@@ -661,15 +1781,10 @@
             <a href="#" class="footer-1">Destinations</a>
             <ul>
                 <li class="footer-section-btn" section="1">Destinations</li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/cambodia">Cambodia</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/china">China</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/hongkong">Hong Kong, China</a></li>
                     <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/japan">Japan</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/malaysia">Malaysia</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/myanmar">Myanmar</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/singapore">Singapore</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan</a></li>
-                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/thailand">Thailand</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/south-korea">South Korea</a></li>
+                    <li class="second-level-footer" section="1"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/destinations/taiwan">Taiwan, China</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
@@ -677,9 +1792,7 @@
             <ul>
                 <li class="second-level-footer title" style="margin-top: 0px;"><a href="https://www.starcruises.com/us/en/ships">Ships Overview</a></li>
                 <li class="footer-section-btn" section="2">Ships &amp; Cabins<br><span>Ships Overview</span></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/virgo">SuperStar Virgo</a></li>
                         <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/gemini">SuperStar Gemini</a></li>
-                        <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/libra">SuperStar Libra</a></li>
                         <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/aquarius">SuperStar Aquarius</a></li>
                         <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/pisces">Star Pisces</a></li>
                         <li class="second-level-footer" section="2"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/ships/taipan">The Taipan</a></li>
@@ -698,8 +1811,9 @@
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=gourmet">Gourmet Delights</a></li>
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shows">Entertainment Shows</a></li>
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=recreations">Recreations &amp; Wellness</a></li>
-                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=parties">Musicians, Live Bands &amp; Parties</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=musicians">Live Bands</a></li>
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=shorex">Shore Excursions</a></li>
+                    <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=themed-events">Themed Events</a></li>
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/experiences?action=filter&amp;ship=&amp;category=virtual_tour">Virtual Tour</a></li>
                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/mice">Meetings &amp; Incentives</a></li>
                                     <li class="second-level-footer" section="4"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/family-and-kids">A Perfect Family Vacation</a></li>
@@ -723,8 +1837,8 @@
             <ul>
                 <li class="footer-section-btn" section="6">Booked Guests</li>
                     <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/booked-guests-access-card">Onboard Access Card</a></li>
-                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://shop.starcruises.com/">Shop &amp; Cruise</a></li>
-                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://www.resortsworldatsea.com/">Genting Rewards</a></li>
+                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="https://shop.gentingcruiselines.com/">Pre-Cruise Shopping</a></li>
+                    <li class="second-level-footer" section="6"><a ga_btn_id="footer" href="http://www.resortsworldatsea.com/">Genting Rewards</a></li>
             </ul>
         </li>
         <li class="first-level-footer">
@@ -736,11 +1850,15 @@
                     <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/aboutus/ir">Investor Relations</a></li>
                     <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/contact-us">Contact Us</a></li>
                     <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/travel-agents">Travel Agents &amp; Media</a></li>
+                    <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/awards">Awards</a></li>
                     <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/careers">Careers</a></li>
                     <li class="second-level-footer" section="7"><a ga_btn_id="footer" href="https://www.starcruises.com/us/en/blogs">Blog</a></li>
+                
+
             </ul>
         </li>
     </ul>
+    
     <div id="region-select">
         <li class="first-level-footer">
             <ul>
@@ -752,7 +1870,7 @@
 
 						<a class="region-option" href="https://www.starcruises.com/hk/en/privacy-policy" onclick="return setRegion('https://www.starcruises.com/hk/en/privacy-policy', 'hk')">
                             <div class="flag"><img src="/Content/images/flag/small/hk.png"></div>
-                                <div class="name">Hong Kong</div>
+                                <div class="name">Hong Kong, China</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
@@ -764,16 +1882,9 @@
                     </li>
                     <li class="second-level-footer region" section="8">
 
-						<a class="region-option" href="https://www.starcruises.com/tw/tc/privacy-policy" onclick="return setRegion('https://www.starcruises.com/tw/tc/privacy-policy', 'tw')">
-                            <div class="flag"><img src="/Content/images/flag/small/tw.png"></div>
-                                <div class="name">Taiwan</div>
-                        </a>
-                    </li>
-                    <li class="second-level-footer region" section="8">
-
 						<a class="region-option" href="http://cn.starcruises.com/" onclick="return setRegion('http://cn.starcruises.com/', 'cn')">
                             <div class="flag"><img src="/Content/images/flag/small/cn.png"></div>
-                                <div class="name">China</div>
+                                <div class="name">Mainland China</div>
                         </a>
                     </li>
                     <li class="second-level-footer region" section="8">
@@ -858,8 +1969,8 @@
         $("#subscribe-form").toggleClass("active");
     }
 
-    $(document).ready(function(){
-        $(".footer-section-btn").click(function(){
+    $(document).ready(function () {
+        $(".footer-section-btn").click(function () {
             var open = true;
             if ($(this).hasClass("active"))
                 open = false;
@@ -874,14 +1985,14 @@
             }
         });
 
-        $("#subscribe-form input[type='text']").focus(function() {
-            if($(this).val()==$(this).attr("placeholder")){
+        $("#subscribe-form input[type='text']").focus(function () {
+            if ($(this).val() == $(this).attr("placeholder")) {
                 $(this).val("");
             }
         });
 
-        $("#subscribe-form input[type='text']").focusout(function() {
-            if($(this).val()==""){
+        $("#subscribe-form input[type='text']").focusout(function () {
+            if ($(this).val() == "") {
                 $(this).val($(this).attr("placeholder"));
             }
         });
@@ -952,8 +2063,10 @@
     <a ga_btn_id="otherbrands" href="http://www.gentinghk.com/cn/home.aspx"><img src="/Content/images/logo1.png"></a>
     <a ga_btn_id="otherbrands" href="http://dreamcruiseline.com/"><img src="/Content/images/logo2.png"></a>
     <a ga_btn_id="otherbrands" href="http://www.crystalcruises.com/"><img src="/Content/images/logo3.png"></a>
+
     <a ga_btn_id="otherbrands" href="http://www.rwmanila.com"><img src="/Content/images/logo4.png"></a>
-    <a ga_btn_id="otherbrands" href="http://www.stargentingrewards.com/cn"><img src="/Content/images/logo5.png"></a>
+
+    <a ga_btn_id="otherbrands" href="http://www.rwas.com/"><img src="/Content/images/resort_world_en.png"></a>
 
 </div>
 <div>
@@ -963,8 +2076,10 @@
     <a ga_btn_id="footer" href="https://www.starcruises.com/us/en/passage-terms">Passage Terms</a>
 </div>
 <div>
-
-    ©2017 Star Cruises. All Rights Reserved.
+        
+            ©2019 Star Cruises. All Rights Reserved.
+        
+    
 </div>
     </div>
     <div id="search-bar">
@@ -974,5 +2089,17 @@
         <button id="reset-btn" type="button">Reset</button>
 <button id="done-btn" type="button">Done</button>
     </div>
+    <div id="cookies-usage" style="display: block;">
+            <h3>THIS WEBSITE USES COOKIES</h3>
+            
+                <p>
+                    We use cookies to ensure the best possible use of our website, for web analytics and to tailor content to your interests. We sometimes share cookie data with third parties. By continuing to browse this website, you agree to our use of cookies . You may refer to our <a href="https://www.starcruises.com/us/en/cookies-policy">cookies policy</a> on how to manage your preferences. More related information can be found in our <a href="https://www.starcruises.com/us/en/privacy-policy">privacy policy</a> and <a href="https://www.starcruises.com/us/en/terms-of-usage">terms of use</a>.
+                </p>
+            
+    <span id="acceptCookiesBtn" onclick="agreeCookies()">
+
+        I AGREE
+    </span>
+</div>
 
 </body></html>
