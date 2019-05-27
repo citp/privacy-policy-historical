@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117132336id_/http%3A//www.sme.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sme.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527151938id_/https%3A//www.sme.org/global/privacy-policy) for the most accurate reproduction.*
 
-# SME - Website Privacy Statement
+# Privacy Policy
 
-  
 This Privacy Statement sets forth the practices of the Society of Manufacturing Engineers (SME) regarding the collection and use of information relating to the SME website and other activities of SME.
 
 SME created its policy with a fundamental respect for the rights to privacy of our members, customers and visitors.
