@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iporntv.net privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025071836id_/http%3A//iporntv.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iporntv.net privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527155711id_/http%3A//iporntv.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - iPornTV.Net
 
