@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514025450id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527232042id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrive Market
 
@@ -92,7 +92,7 @@ Los Angeles, CA 90292.
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-You may be able to add, update, or delete information as explained above.  When you update information, however, we may maintain a copy of the unrevised information in our records.  You may request deletion of your account by emailing us at help@thrivemarket.com. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.  
+You may be able to add, update, or delete information as explained above.  When you update information, however, we may maintain a copy of the unrevised information in our records.  You may request termination of your account or deletion of certain of your information at help@thrivemarket.com Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.  
 
 **What if I have questions about this policy?**
 
