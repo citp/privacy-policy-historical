@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnrmarketresearch.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126044116id_/http%3A//www.rnrmarketresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnrmarketresearch.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527135539id_/http%3A//www.rnrmarketresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RnR Market Research
 
