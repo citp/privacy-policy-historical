@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dineout.co.in privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726223552id_/https%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineout.co.in privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527170744id_/https%3A//www.dineout.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Dineout
 
@@ -64,22 +64,18 @@ This information is shared with third party service providers so that we can:
 
 \--provide advertisements about goods and services of interest to you
 
-Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [info@dineout.co.in](mailto:info@dineout.co.in) to
+Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to [complaints@dineout.co.in](mailto:complaints@dineout.co.in).
 
-Mr. Sumit Chatterjee( "Grievance Officer") 
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@dineout.co.in ](mailto:grievance@dineout.co.in) or call on +91-9212340202.
 
-##### Grievance Redressal
-
-Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to.
-
-Mr. Ankit Mehrotra (Grievance Officer)  
-**Times Internet Limited**  
-[www.dineout.co.in](http://www.dineout.co.in/)
-
+Ms. Parul Gupta  
+Grievance Redressal Officer   
+Dineout  
 Times Internet Limited  
 Plot No. 391, Udyog Vihar, Phase – III,  
-Gurgaon – 122016, Haryana, India.  
-Ph : + 91-124-4187000/4518550. 
+Gurgaon – 122016   
+Haryana, India.  
+
 
 We request you to please provide the following information in your complaint:-
 
