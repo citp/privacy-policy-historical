@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serious-partners.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125103253id_/http%3A//serious-partners.com/privacy_sp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serious-partners.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527060050id_/http%3A//serious-partners.com/privacy_sp.html) for the most accurate reproduction.*
 
 # Serious Partners - Adult partnership program for porn promotion of hardcore network
 
