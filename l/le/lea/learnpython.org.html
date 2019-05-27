@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnpython.org privacy policy that was archived on 2018-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215210458id_/http%3A//learnpython.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnpython.org privacy policy that was archived on 2019-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528012152id_/http%3A//learnpython.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Learn Python - Free Interactive Python Tutorial</title>
@@ -13,13 +13,17 @@
     <meta property="og:url" content="http://learnpython.org">
     <meta property="og:image" content="http://learnpython.org/static/img/share-logos/learnpython-share.png">
 
+    <link rel="favicon" href="/static/img/favicons/favicon-learnpython.ico" type="image/x-icon">
+
     <link rel="stylesheet" href="/static/css/codemirror.css">
-    <link rel="stylesheet" href="/static/css/theme/monokai.css">
+    <link rel="stylesheet" href="/static/css/theme/xq-light.css">
     <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/static/css/bootstrap-responsive.css">
-    <link rel="stylesheet" type="text/css" href="/static/css/prism.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/prism-light.css">
     <link rel="stylesheet" type="text/css" href="/static/css/learnpython.css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/js/jquery.min.js"></script>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
     <script src="/static/js/prism.js"></script>
     <script src="https://cdn.datacamp.com/datacamp-light-latest.min.js"></script>
 
@@ -28,89 +32,95 @@
 </head>
 <body>
 
-<div class="navbar navbar-static-top" style="margin-bottom: 10px">
-    <div class="navbar-inner">
-        <div class="container">
-        <a class="brand" href="/" style="padding: 4px 10px"><img src="/static/img/logos/learnpython.png" style="height: 32px;"></a>
+<nav class="navbar navbar-expand-lg bg-light navbar-light">
+
+    <div class="container">
+    <a class="navbar-brand" href="/">
+        <img src="/static/img/logos/learnpython.png" style="height: 24px;">
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            </li>
+
+            <li class="nav-item mr-sm-2">
+                <a class="nav-link" href="/about">About</a>
+            </li>
 
 
-        <ul class="nav pull-right">
-            <li><a href="/about">About</a></li>
-            <li style="padding-top: 12px">
+        
+
+        </ul>
+
+        <ul class="nav nav-pills mr-sm-2 mb-2">
+        
+        </ul>
+
+        <ul class="navbar-nav">
+
+            <li class="nav-item">
                 <a class="github-button" href="https://github.com/ronreiter/interactive-tutorials" data-icon="octicon-star" aria-label="Star ronreiter/interactive-tutorials on GitHub">Star</a>
                 <a class="github-button" href="https://github.com/ronreiter/interactive-tutorials/fork" data-icon="octicon-repo-forked" aria-label="Fork ronreiter/interactive-tutorials on GitHub">Fork</a>
             </li>
 
-            <!--
-            <li><a href="/en/progress">Progress</a></li>
-            <li class="dropdown">
-                <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sign In <strong class="caret"></strong></a>
-                <div class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;">
-                    <div id="status" style="color: red"></div>
-                    <form method="post" accept-charset="UTF-8">
-                        <input style="margin-bottom: 15px;" type="email" placeholder="E-mail" id="email" name="email">
-                        <input style="margin-bottom: 15px;" type="password" placeholder="Password" id="password" name="password">
-                        <input style="float: left; margin-right: 10px;" type="checkbox" name="remember-me" id="remember-me" value="1">
-                        <label class="string optional" for="user_remember_me"> Remember me</label>
-                        <button class="btn btn-primary btn-block" id="sign-in">Sign In</button>
-                        <label style="text-align:center;margin-top:5px">or</label>
-                        <input style="margin-bottom: 15px;" type="password" placeholder="Confirm Password" id="confirm" name="confirm">
-                        <button class="btn btn-primary btn-block" id="sign-up">Sign Up</button>
-                    </form>
-                </div>
-            </li>
-            -->
+
         </ul>
 
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row" id="macro-nav">
-        <div class="span9">
-            <ul class="nav nav-pills">
-                <li class="active"><a href="https://www.learnpython.org">Python</a></li>
-                <li><a href="https://www.learnjavaonline.org">Java</a></li>
-                <li><a href="https://www.learn-html.org">HTML &amp; CSS</a></li>
-                <li><a href="https://www.learn-golang.org">Go</a></li>
-                <li><a href="https://www.learn-c.org">C</a></li>
-                <li><a href="https://www.learn-cpp.org">C++</a></li>
-                <li><a href="https://www.learn-js.org">JavaScript</a></li>
-                <li><a href="https://www.learn-php.org">PHP</a></li>
-                <li><a href="https://www.learnshell.org">Shell</a></li>
-                <li><a href="https://www.learncs.org">C#</a></li>
-                <li><a href="https://www.learn-perl.org">Perl</a></li>
-                <li><a href="https://www.learnrubyonline.org">Ruby</a></li>
-                <li><a href="/recruit-coders-jobs">Jobs</a></li>
-            </ul>
-
-            <div class="social" style="margin-top: 10px; height: 30px;">
-                <!-- AddThis Button BEGIN -->
-                <div class="addthis_toolbox addthis_default_style ">
-                    <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-                    <a class="addthis_button_tweet"></a>
-                    <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
-                    <a class="addthis_counter addthis_pill_style"></a>
-                </div>
-
-                <script type="text/javascript">
-                    var addthis_config = {"data_track_clickback": true};
-                    var addthis_share = {"url": "http://learnpython.org"};
-                </script>
-                <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dafdfe6039782b1"></script>
-                <!-- AddThis Button END -->
-            </div>
-
-        </div>
-        <div class="span3">
-            <ul class="nav nav-pills pull-right">
-            
-            </ul>
-        </div>
     </div>
 
+    </div>
+
+</nav>
+
+<nav class="navbar-dark bg-primary navbar-expand-lg mb-3 d-none d-lg-block">
+
+    <div class="container">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item"><a class="nav-link active" href="https://www.learnpython.org">Python</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learnjavaonline.org">Java</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-html.org">HTML &amp; CSS</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-golang.org">Go</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-c.org">C</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-cpp.org">C++</a></li>
+            <li class="nav-item"><a class="nav-link  " href="https://www.learn-js.org">JavaScript</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-php.org">PHP</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learnshell.org">Shell</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learncs.org">C#</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learn-perl.org">Perl</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learnrubyonline.org">Ruby</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learnscala.org">Scala</a></li>
+            <li class="nav-item"><a class="nav-link " href="https://www.learnsqlonline.org">SQL</a></li>
+
+        </ul>
+
+    </div>
+
+</nav>
+
+<div class="container mt-2">
+        <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style ">
+        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+        <a class="addthis_button_tweet"></a>
+        <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+        <a class="addthis_counter addthis_pill_style"></a>
+    </div>
+
+    <script type="text/javascript">
+        var addthis_config = {"data_track_clickback": true};
+        var addthis_share = {"url": "http://learnpython.org"};
+    </script>
+    <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dafdfe6039782b1"></script>
+    <!-- AddThis Button END -->
 </div>
+
 
 
 <div class="container">
@@ -176,9 +186,9 @@
 
 </div>
 </div>
-<footer style="position: static; margin-top: 100px">
+<footer class="container" style="position: static; margin-top: 100px">
     <div class="row">
-	    <div class="copyright">
+	    <div class="col-12 copyright">
             Copyright © LearnPython.org. Read our <a href="/tos">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>
         </div>
     </div>
@@ -195,6 +205,7 @@
 
 
 
+
 <script src="/static/js/codemirror/mode/xml/xml.js"></script>
 <script src="/static/js/codemirror/mode/css/css.js"></script>
 <script src="/static/js/codemirror/mode/htmlembedded/htmlembedded.js"></script>
@@ -202,6 +213,8 @@
 <script src="/static/js/bootstrap.min.js"></script>
 <script src="/static/js/bootbox.min.js"></script>
 
+
+<script src="/static/js/datacamp.js"></script>
 
 
 
@@ -244,16 +257,15 @@
 
         });
     });
+
+
 </script>
 
 
 
-<!--
-<script>
-(function(w,i,d,g,e,t,s) {w[d]=w[d]||[];t=i.createElement(g);
-	t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t,s);
-}(window, document, '_gscq', 'script', '//www.hellothere.io/widget/De9tnfcdtMvwfdXI.js'));
-</script>
--->
+
+
+
+
 
 </body></html>
