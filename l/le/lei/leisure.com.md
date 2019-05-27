@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214134832id_/http%3A//www.leisure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisure.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527052903id_/http%3A//www.leisure.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Leisure.com
+# Privacy Policy
 
 Thank you for visiting Leisure, Inc.'s ("Leisure") Internet web site ("Site") located at the URL leisure.com. This Privacy Policy details certain policies implemented throughout Leisure governing Leisure's use of personally identifiable information about users of our Site and users of our services on this Site ("Services").
 
