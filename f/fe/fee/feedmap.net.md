@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedmap.net privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126182423id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedmap.net privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527035946id_/http%3A//webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Privacy Policy | Endurance International Group
 
@@ -8,7 +8,7 @@
 
 [The Endurance International Group, Inc.](https://web.archive.org/our-brands/) and our subsidiaries (“we,” “us” or “Endurance”) are a leading provider of online tools for small businesses to establish and build their web presence, get found in online search, and connect with customers through social media, email marketing, and more. Our brands include Constant Contact, Bluehost, HostGator, Domain.com, iPage, and others found at [https://www.endurance.com/our-brands/](https://web.archive.org/our-brands/). We care about protecting the personal information of our customers and visitors who use our websites, products or services (collectively, our “Users”). This privacy policy provides details about how your personal information is collected, shared and used by us. To learn more about the Endurance corporate family, visit: [https://www.endurance.com](https://web.archive.org/). If you have any questions about this privacy policy or the practices described herein, you may contact [privacy@endurance.com](mailto:privacy@endurance.com) or 10 Corporate Drive, Burlington, MA 01803. For the purposes of the European Union’s General Data Protection Regulation 2016/679, or GDPR, The Endurance International Group, Inc. and each of the brands for which you have signed up for a product or service are the data controller, and our European local representative is AppMachine B.V., located at Sophialaan 32, 8911 AE Leeuwarden, Nederland.
 
-## Information Covered by this Privacy Policy
+## Information Covered by this Privacy notice
 
 This privacy policy covers personal information, including any information we collect, use and share from you, as described further below. This privacy policy applies to all websites in the Endurance corporate family, our products and services, and our mobile applications (collectively, the “Services”). This privacy policy does not cover how our Users may use or share data that they collect using our services.
 
@@ -205,7 +205,7 @@ Depending on what information we collect from you and how we collect it, we rely
 
 ## Your Rights
 
-Where the European Union’s General Data Protection Regulation 2016/679, or GDPR, applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please visit the [Privacy Center](https://web.archive.org/privacy/). Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+Where the European Union’s General Data Protection Regulation 2016/679, or GDPR, applies, in certain circumstances and subject to data processing agreements, you have rights in relation to the personal information we hold about you. We set out below an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. To exercise any of your rights, please send an email to [privacy@endurance.com](mailto:privacy@endurance.com) or visit the [Privacy Center](https://web.archive.org/privacy/). Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
 
 ### Access
 
@@ -272,6 +272,15 @@ For transfers of personal information within the Endurance corporate family, suc
 
 For transfers of data to third parties, such transfers will either (i) be under the Commission’s model contracts for the transfer of personal data to third countries (i.e., the standard contractual clauses), pursuant to Decision 2004/915/EC and 2010/87/EU; or (ii) rely on the EU-US Privacy Shield Framework.
 
+Endurance’s Constant Contact participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Constant Contact is responsible for the processing of personal data they receive under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on behalf of Constant Contact. Constant Contact complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Constant Contact is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
 You can contact the Data Protection Officer listed below to obtain a copy of the data transfer agreement or more information regarding the relevant safeguard we put in place. For more information about the EU-US Privacy Shield Framework, please visit the U.S. Department of Commerce’s Privacy Shield website.
 
 ## Complaints
@@ -289,4 +298,6 @@ Fax: (+31) – (0)70 – 888 85 01
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we decide to change this privacy policy in any material way, we will notify you here, by email, or by means of a notice on [www.endurance.com](https://web.archive.org/) or the website of the Endurance product or service you use prior to the change becoming effective. In all cases, your continued use of any Services constitutes acceptance to any such changes.
 
- **Last modified July 23, 2018**
+ **Last modified February 8, 2018**
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=e295bdb8-2205-4b5d-bdb2-78ff2021f349)
