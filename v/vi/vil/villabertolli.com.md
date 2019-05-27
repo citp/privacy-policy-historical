@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105234755id_/https%3A//www.bertolli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527083336id_/https%3A//www.bertolli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bertolli
 
@@ -38,7 +38,7 @@ This Privacy Notice is hereby incorporated into and forms part of the terms and 
 
 By using a Mizkan America, Inc. Site, you are consenting to the relevant Mizkan America, Inc. brand collecting, using and disclosing your personal information in accordance with this Privacy Notice. If you do not agree to the collection, use and disclosure of your personal information in this way, please do not use Mizkan America, Inc. Sites with your personal information.
 
-Mizkan America, Inc. will only collect, use or disclose your personal information where it is fair and lawful to do so. In most cases, we will ask for your consent explicitly but, in some cases, we may infer consent from your actions and behavior. We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Notice. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Notice.
+Mizkan America, Inc. will only collect, use or disclose your personal information where it is fair and lawful to do so. If required by applicable data protection laws, we will ask for your consent explicitly before collecting, using or sharing your personal information.  In other cases, and if permitted by applicable data protection laws, we may infer your consent from your actions and behavior. We may ask you to provide additional consent if we need to use your personal information for purposes not covered by this Privacy Notice. You are not obliged to provide such consent but if you decide not to then your participation in certain activities may be restricted. If you provide additional consent, the terms of that consent shall prevail in the event of any conflict with the terms of this Privacy Notice.
 
 Please note, however, that we may process your personal information without consent if we have a legitimate reason to do so, provided that such use will not have a prejudicial effect on your own rights, freedoms and interests. Any such use shall be in accordance with the Mizkan America, Inc. Privacy Principles set out above.
 
@@ -53,8 +53,9 @@ If a child under the age of 13 submits personal information to Mizkan America, I
 In this Privacy Notice, your “personal information” means information or pieces of information that could allow you to be identified. This typically includes information such as your name, address, screen name, profile picture, email address, and telephone number, but can also include other information such as IP address, shopping habits, information about your lifestyle or preferences such as your hobbies and interests. We may collect personal information about you from different sources, including:
 
   1. Information you give us directly
-  2. Information we collect automatically when you use the Mizkan America, Inc. Sites
-  3. Information we collect from other sources
+  2. Information you consent or direct us to share with our service providers or partners
+  3. Information we collect automatically when you use the Mizkan America, Inc. Sites
+  4. Information we collect from other sources
 
 
 
@@ -65,6 +66,7 @@ We use your personal information to:
   1. Improve our products and your experience on the Mizkan America, Inc. Sites.
   2. To contact you regarding products and services which may be of interest to you, provided you have given us consent to do so or you have previously requested a product or service from us and the communication is relevant or related to that prior request and made within any timeframes established by applicable laws.
   3. To provide you with products or services that you request from us.
+  4. To send you informational or promotional communications that you have requested to receive.
 
 
 
@@ -72,11 +74,11 @@ We use your personal information to:
 
 We use “cookies” on our Sites. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our Sites. Cookies can also enable us to track and target the interests of our users to enhance the experience on our Sites. Usage of a cookie is in no way linked to any personally identifiable information on our Sites.
 
-### Mobile Message Services
+### Mobile Messaging Services
 
-We may make available a service through which you can receive text or other types of messages from Mizkan America, Inc. (such as SMS (short message service), or MMS (multimedia message service), or EMS (enhanced message service)) on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, you agree to receive such messages from Mizkan America, Inc. at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the **Your privacy rights and who to contact** section below).
+We may make available a service through which you can receive text or other types of messages from Mizkan America, Inc. (such as SMS (short message service), or MMS (multimedia message service), or EMS (enhanced message service)), or push notifications on your wireless or mobile device (“Mobile Message Service”). If you subscribe to one of our Mobile Message Services, we will expressly ask you to agree to receiving such messages from Mizkan America, Inc. at the address or mobile number you provide for that purpose (unless and until you have elected to opt out of receiving such messages by following the instructions in the  **Your privacy rights and who to contact**  section below or by changing the settings on your mobile device).
 
-You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the **Your privacy rights and who to contact** section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
+You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the  **Your privacy rights and who to contact**  section below. If fees are charged to your wireless account invoice, you agree that we may collect from you and provide your carrier with your applicable payment information in connection therewith. You represent that you are the owner or authorized user of the wireless device you use to sign up for the Mobile Message Service, and that you are authorized to approve the applicable charges. In addition to meeting certain age restrictions and any other terms and conditions associated with each Mobile Message Service, you may be required to register personal information such as your name, text message, wireless address or mobile phone number. We may also obtain the date, time and content of your messages in the course of your use of the Mobile Message Service. We will use the information we obtain in connection with our Mobile Message Service in accordance with this Privacy Policy. Please note, however, that your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
 You acknowledge and agree that the Mobile Message Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the Mobile Message Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Mobile Message Service. We may also access the content of your wireless and/or mobile phone account with your carrier for the purpose of identifying and resolving technical problems and/or service-related complaints.
 
