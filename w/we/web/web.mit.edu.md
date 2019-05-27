@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web.mit.edu privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126034834id_/http%3A//web.mit.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web.mit.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528005530id_/http%3A//web.mit.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | MIT - Massachusetts Institute of Technology
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to MIT, and we are committed to respecting it.
 
-This privacy statement applies to the main MIT website, which includes the MIT homepage at [http://web.mit.edu](http://web.mit.edu/) (also viewable at [http://mit.edu](http://mit.edu/) and [http://www.mit.edu](http://www.mit.edu/)), as well as the following top-level pages: [Education](https://web.archive.org/education), [Research](https://web.archive.org/research), [Innovation](https://web.archive.org/innovation), [Admissions + Aid](https://web.archive.org/admissions-aid), [Campus Life](https://web.archive.org/campus-life), [Alumni](https://web.archive.org/alumni), [About MIT](https://web.archive.org/about), [Visit](https://web.archive.org/visitmit), [Contact](https://web.archive.org/contact), [Accessibility](https://web.archive.org/accessibility), [Privacy](https://web.archive.org/privacy), and [Feedback](https://web.archive.org/feedback). 
+This privacy statement applies to the main MIT website, which includes the MIT homepage at [http://web.mit.edu (opens in new window)](http://web.mit.edu/) (also viewable at [http://mit.edu (opens in new window)](http://mit.edu/) and [http://www.mit.edu (opens in new window)](http://www.mit.edu/)), as well as the following top-level pages: [Education](https://web.archive.org/education), [Research](https://web.archive.org/research), [Innovation](https://web.archive.org/innovation), [Admissions + Aid](https://web.archive.org/admissions-aid), [Campus Life](https://web.archive.org/campus-life), [Alumni](https://web.archive.org/alumni), [About MIT](https://web.archive.org/about), [Visit](https://web.archive.org/visitmit), [Contact](https://web.archive.org/contact), [Accessibility](https://web.archive.org/accessibility), [Privacy](https://web.archive.org/privacy), and [Feedback](https://web.archive.org/feedback). 
 
 In addition to the main MIT website, MIT departments, labs, centers, and individuals publish many other websites and pages outside the scope of this privacy statement, which may post and adhere to their own privacy statements. Visitors are encouraged to review posted privacy statements for each MIT website they visit.
 
@@ -26,13 +26,13 @@ A cookie is a short identifier, stored on your computer, that may contain site-s
 
 #### Google Analytics
 
-The main MIT website uses Google Analytics to gather anonymous statistics. The information gathered is used to improve web services for visitors. Google Analytics uses a browser cookie for statistical analysis related to your browsing behavior on these websites. If you choose, you can opt out by turning off cookies in the preferences settings in your browser, or download and install [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout). For more information, visit [Google Analytics Solutions](https://www.google.com/analytics).
+The main MIT website uses Google Analytics to gather anonymous statistics. The information gathered is used to improve web services for visitors. Google Analytics uses a browser cookie for statistical analysis related to your browsing behavior on these websites. If you choose, you can opt out by turning off cookies in the preferences settings in your browser, or download and install [Google Analytics Opt-out Browser Add-on (opens in new window)](http://tools.google.com/dlpage/gaoptout). For more information, visit [Google Analytics Solutions (opens in new window)](https://www.google.com/analytics).
 
 ### Basis for processing
 
 We process your personal information collected on the main MIT website to facilitate our online interactions with you. We only collect and process your personal information in furtherance of MIT’s legitimate interests and/or to fulfill any contractual obligations with you.
 
-If you have concerns about this privacy statement, any of these purposes, or how we communicate with you, please contact us at [dataprotection@mit.edu](mailto:dataprotection@mit.edu). We will always respect a request by you to stop processing your personal information (subject to our legal obligations).
+If you have concerns about this privacy statement, any of these purposes, or how we communicate with you, please contact us at [dataprotection@mit.edu (opens in new window)](mailto:dataprotection@mit.edu). We will always respect a request by you to stop processing your personal information (subject to our legal obligations).
 
 ### How your information is stored and secured
 
@@ -56,6 +56,6 @@ The main MIT website may contain links to third-party sites located outside of M
 
 We may change this Privacy Statement from time to time. If we make any significant changes in the way we treat your personal information we will make this clear on our website or by contacting you directly.
 
-The controller for your personal information is MIT.  We can be contacted at [dataprotection@mit.edu.](mailto:dataprotection@mit.edu.)
+The controller for your personal information is MIT.  We can be contacted at [dataprotection@mit.edu. (opens in new window)](mailto:dataprotection@mit.edu.)
 
 MIT’s EU Representative can be contacted via MIT Press London, 1 Duchess Street, London W1S 6AN.
