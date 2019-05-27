@@ -1,29 +1,78 @@
-> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106060801id_/https%3A//seoimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoimage.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527141408id_/https%3A//seoimage.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - SEO Image
+# Privacy Policy - SEO Image | Reputation Management & NYC SEO Company
 
-As part of your experience, we want you to feel confident that we will respect your privacy: We will protect the confidentiality not only of the information you provide to us, but also the information you obtain using the SEO Image, Inc. web site.
+SEO Image, Inc. Privacy Policy
 
-This Privacy Policy is designed to accomplish four objectives:
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://seoimage.com (the “Site”).
 
-1\. Tell you what information we do and do not collect;  
-2\. Tell you what we will and will not do with the information we do collect;  
-3\. Tell you how we protect the information we collect; and  
-4\. Tell you who has access to your information.
+PERSONAL INFORMATION WE COLLECT
 
-SEO Image, Inc.’s sole purpose in operating the web site is to provide intellectual property services to its users. SEO Image, Inc. never has, and never will “mine” the search strings submitted by users to our site for any reason. SEO Image, Inc. has never sold any customer information to any third party, nor will we ever do so. We will continue to do everything in our power to protect the privacy of our customers’ searches and link exchange information. We collect only the information we need to provide accurate listings on our website and to our link exchange members.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-**1\. WHAT INFORMATION DO WE COLLECT?**  
-SEO Image, Inc. believes it is important for you to know what types of information we collect when you use our site or sign up for one of our related services. We gather information about you when you visit our pages and when you contact us for information about any of our services. We automatically record the name of the domain; the IP address from which you access our website; the type of browser and operating system used to access our site; the date and time you access our site; the Internet address of the website from which you linked directly to our site; and the pages you visit.
+We collect Device Information using the following technologies:
 
-**2\. WHY DO WE COLLECT THIS INFORMATION?**  
-We use this information in order to serve the needs of our customers. We use the information we collect to personalize the advertising and content you see on our pages. We also use your information to process your requests to improve our customer service, to contact you, to conduct internal investigations, and to supply anonymous statistics for internal and external clients.
+  *    “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  *    “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  *    “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+  *    “Analytics” We use third party analytics tools that provide us visitor tracking information including the time spent on a page, clicked pages, the number of pages you visit, referring websites, search terms used to find us, where you exit the website, and we track actions of filling out forms or using tools. Our tools do not track you.
 
-**3\. HOW IS YOUR INFORMATION PROTECTED?**  
-We maintain a rigorous hiring process to screen out potential employees with criminal backgrounds. All employees that we do hire have to sign a confidentiality agreement that forbids them from disclosing any information to which the employee has access, to other individuals or entities. We also have back up servers and power supplies to guard against power outages and other natural occurrences that could pose a threat to the integrity of your personal information. When an employee is terminated or is no longer with the company, we change the access codes that the employee used to access any customer accounts.
 
-**4.WHO HAS ACCESS TO MY INFORMATION?**  
-We do not rent, sell, or share personal information about you with any third parties or nonaffiliated companies except under the following circumstances: Employees in our technical department may have access to your information in order to conduct routine checks on the integrity of our system and in order to perform necessary maintenance work. Customer service representatives may also have access to your information in order to better serve you. Furthermore, judicial requests by a duly authorized court will require us to divulge certain information regarding you should that situation arise. We may also share your information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. Finally, should our company ever be bought or sold, your account information would then become the property of the new owner/entity. We may share the statistical information we gather from our web site visitors, such as how many unique IP addresses visit our site, with advertising partners or other third parties.
 
-**NOTICE OF CHANGES TO THIS PRIVACY POLICY**  
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
+Additionally, when you fill out a form to request service information or a free website SEO audit, we collect certain information from you, including your name, company, phone number, email address, and any additional information you submit. We refer to this information as “Contact Information.”
+
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Contact Information.
+
+HOW DO WE USE YOUR PERSONAL INFORMATION?
+
+We use the Contact Information that we collect generally to fulfill any service requests for information placed throughout the Site. Additionally, we use this Contact Information to:
+
+Communicate with you;  
+Develop a proposal for marketing or design services.
+
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+We may use some of this data with third party advertising to present remarketing advertisements to you on third party sites after you have left our site.
+
+SHARING YOUR PERSONAL INFORMATION
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, We Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+BEHAVIOURAL ADVERTISING
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising here:  
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an contact through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+DATA RETENTION
+
+When you place a contact through the Site, we will maintain your Contact Information for our records unless and until you ask us to delete this information.
+
+CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at seo (at) seoimage.com or by mail using the details provided below:
+
+155 E 57th St, 11 FL, New York, NY, 10022, United States
