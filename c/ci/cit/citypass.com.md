@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012141119id_/https%3A//www.citypass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypass.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527161927id_/https%3A//www.citypass.com/privacy) for the most accurate reproduction.*
 
 # CityPASS Privacy Policy | CityPASS®
 
@@ -96,7 +96,7 @@ We retain personal information for a reasonable period of time necessary to fulf
 
 #### Our Secure Transmission of information
 
-Security of the information regarding your order is very important to us. We use transport security with certificates signed by Verisign to protect the security of your online order information from being intercepted by anyone other than CityPASS. You may verify that we are a legitimate Verisign Secure Site by clicking on the Verisign Secured logo in the lower right corner of all checkout pages. 
+Security of the information regarding your order is very important to us. We use transport security with certificates signed by Trustwave to protect the security of your online order information from being intercepted by anyone other than CityPASS. You may verify that we are a legitimate Trustwave Secure Site by clicking on the Trustwave Trusted Commerce Seal in the lower corner of all checkout pages. 
 
 Once you enter the checkout page, your computer will begin communicating with our server in secure mode. You can tell that you are in secure mode by the following: 
 
