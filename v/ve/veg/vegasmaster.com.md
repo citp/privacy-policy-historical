@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasmaster.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118135445id_/https%3A//www.vegasmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasmaster.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527090021id_/https%3A//www.vegasmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for VegasMaster
 
