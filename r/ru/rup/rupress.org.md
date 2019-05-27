@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the rupress.org privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127024729id_/http%3A//rupress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupress.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528011849id_/http%3A//www.rupress.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Rockefeller University Press
 
 ## Rockefeller University Press Privacy Policy:  
 Collection and Use of Personal Data
 
-Rockefeller University Press (RUP, “us,” “we,” and “our”)   is committed to protecting the privacy of authors, referees, and others who use our manuscript submission systems and journal websites ( _Journal of Cell Biology_ [ _JCB_ ], _Journal of Experimental Medicine_ [ _JEM_ ], and _Journal of General Physiology_ [ _JGP_ ]; collectively “RUP Journals”) The limited personal data that are collected are never shared with advertisers or other third parties not directly connected to RUP. Personal Data are shared only with organizations such as site hosting services used to publish the RUP  Journals and with RUP partners to fulfill its publishing mission, and if an author elects to transfer their manuscript to   _Life Science Alliance,_ an editorially independent and peer-reviewed journal launched by an alliance of EMBO, Rockefeller University and Cold Spring Harbor Laboratory. All reasonable practices are followed to ensure the ongoing protection of author, referee, and user personal data that may be collected and used during article ingestion, review, editing, production processing, publication, posting, and delivery of information related to all aspects of publication operations.
+Rockefeller University Press (RUP, “us,” “we,” and “our”)   is committed to protecting the privacy of authors, referees, and others who use our manuscript submission systems and journal websites ( _Journal of Cell Biology_  [JCB],  _Journal of Experimental Medicine_  [JEM], _Journal of General Physiology_  [JGP], and _Life Science Alliance_ [LSA]; collectively “RUP Journals”) The limited personal data that are collected are never shared with advertisers or other third parties not directly connected to RUP. Personal Data are shared only with organizations such as site hosting services used to publish the RUP Journals and with RUP partners to fulfill its publishing mission, and if an author elects to transfer their manuscript to another journal not published by RUP. All reasonable practices are followed to ensure the ongoing protection of author, referee, and user personal data that may be collected and used during article ingestion, review, editing, production processing, publication, posting, and delivery of information related to all aspects of publication operations.
 
 Your use of our websites and manuscript submission systems indicates your acceptance of this Privacy Policy.
 
@@ -37,4 +37,4 @@ As an author, referee, or site user, if you have any objections to any of the po
 
 
 
-**Last update: May 25, 2018  **
+**Last update: May 10, 2019**
