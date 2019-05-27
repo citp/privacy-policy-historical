@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123130736id_/https%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreesearch.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527144103id_/https%3A//degreesearch.org/portal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We at Degree Search "The company" believe in the importance of fully informing our visitors about the use of their personal information. This privacy policy demonstrates our efforts to that end and to our treatment of said information. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR SERVICE. We value the trust you place in us and want you to understand what information we gather about you; how we use it and the safeguards we have in place in order to protect it.
+We at Education Grant "The company" believe in the importance of fully informing our visitors about the use of their personal information. This privacy policy demonstrates our efforts to that end and to our treatment of said information. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR SERVICE. We value the trust you place in us and want you to understand what information we gather about you; how we use it and the safeguards we have in place in order to protect it.
 
 ## Your California Privacy Rights
 
-If you are a resident of the State of California and would like to learn how your "personal information" (as defined in the Shine the Light Law, Cal. Civ. Code Â§ 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: notices@degreesearch.org; call us at: 800-719-5930; or send us mail to: Degree Search, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
+If you are a resident of the State of California and would like to learn how your "personal information" (as defined in the Shine the Light Law, Cal. Civ. Code Â§ 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please e-mail us at: notices@educationgrant.com; call us at: 800-719-5930; or send us mail to: Education Grant, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: notices@degreesearch.org; call us at: 800-719-5930; or send us mail to: Degree Search, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: notices@educationgrant.com; call us at: 800-719-5930; or send us mail to: Education Grant, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
 
 ## How We Ensure Your Information is Secure
 
@@ -38,7 +38,7 @@ The information and services provided by The Company , our affiliates, sponsors 
 
 ## Help Us Keep Your Personal Information Accurate
 
-If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request to notices@degreesearch.org
+If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request to notices@educationgrant.com
 
 ## Cookies
 
@@ -50,7 +50,7 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 ## Choice/Opt-Out
 
-To opt-out of receiving e-mail and other forms of communications from us, you can: (a) follow the instructions included in the applicable e-mail message or other communication; or (b) e-mail us at:Â notices@degreesearch.org.
+To opt-out of receiving e-mail and other forms of communications from us, you can: (a) follow the instructions included in the applicable e-mail message or other communication; or (b) e-mail us at:Â notices@educationgrant.com.
 
 Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your request for Site Offerings, as well as to respond to any inquiry or request made by you. To opt-out of receiving Site Offerings-related and/or inquiry response-related messages from Company, you must cease requesting and/or utilizing the Site Offerings and/or cease submitting inquiries to Company, as applicable.
 
@@ -60,7 +60,7 @@ We will not rent or sell your name, address, e-mail address, credit card informa
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: notices@degreesearch.org; call us at: 800-719-5930; or send us mail to: Degree Search, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
+If you have any questions about this Privacy Policy or our privacy practices in general, you may email us as at: notices@educationgrant.com; call us at: 800-719-5930; or send us mail to: Education Grant, 4800 140th Ave N. Suite 101, Clearwater, FL 33762.
 
 CC may update this policy from time to time so please check our Privacy Policy section on the website periodically for changes.
 
