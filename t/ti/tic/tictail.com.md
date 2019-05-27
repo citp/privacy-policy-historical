@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231004334id_/https%3A//tictail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tictail.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527050332id_/https%3A//tictail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Tictail
 
