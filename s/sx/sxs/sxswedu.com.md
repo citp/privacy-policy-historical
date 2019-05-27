@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123141034id_/https%3A//www.sxswedu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527182254id_/https%3A//www.sxswedu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 2019 | SXSW EDU Conference & Festival | SXSW EDU
 
