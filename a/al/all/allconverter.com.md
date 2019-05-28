@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allconverter.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024083450id_/http%3A//www.allconverter.com/help/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconverter.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528024056id_/https%3A//www.allconverter.com/help/cookies) for the most accurate reproduction.*
 
 # Cookies - privacy policy
 
