@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126143708id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvefever.io privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528050125id_/http%3A//forum.curvefever.com/node/594) for the most accurate reproduction.*
 
-# Privacy and Cookie Notice | Curve Fever
+# Privacy and Cookie Notice | Curve Fever Forum - 2011
 
 We are Hidden Monster Games B.V. We are based at Spuistraat 104 D, 1012 VA Amsterdam, The Netherlands. You can contact us at supporthiddenmonster.games if you have questions about data protection, or if you have any requests for resolving issues with your personal data.
 
