@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinwarz.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405164255id_/https%3A//www.coinwarz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinwarz.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528023457id_/https%3A//www.coinwarz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coinwarz
 
