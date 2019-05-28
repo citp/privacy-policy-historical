@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pornoresort.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126232317id_/http%3A//www.pornoresort.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornoresort.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528202100id_/http%3A//pornoresort.com/privacy) for the most accurate reproduction.*
 
 # Best Girls And Best Sex!
 
-Effective Date: Tuesday 27th of November 2018 12:23:17 AM  
+Effective Date: Tuesday 28th of May 2019 10:21:00 PM  
 Sites Covered: www.pornoresort.com 
 
 Pursuant to our [Terms of Use](http://www.pornoresort.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
