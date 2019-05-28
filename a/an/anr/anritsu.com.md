@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911172333id_/https%3A//www.anritsu.com/en-AU/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anritsu.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528204513id_/https%3A//www.anritsu.com/en-AU/privacy-policy) for the most accurate reproduction.*
 
-# Anritsu Group Privacy Policy- Anritsu Asia Pacific
+# Anritsu Group Privacy Policy| Anritsu Asia Pacific
 
 The Anritsu Corporation and its group companies ("Anritsu"), recognizing its social responsibility to appropriately protect the personal information (information that can be used to identify a specific individual) of all individuals it has connections with, including its customers, shareholders/investors, business partners and employees, has adopted the following privacy policy, and will take all possible measures to ensure the proper handling and protection of personal information in its possession.
 
