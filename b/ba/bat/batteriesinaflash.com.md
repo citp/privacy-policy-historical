@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126213335id_/http%3A//www.batteriesinaflash.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528183220id_/http%3A//www.batteriesinaflash.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
