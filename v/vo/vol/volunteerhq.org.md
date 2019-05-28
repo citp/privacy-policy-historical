@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222043203id_/https%3A//www.volunteerhq.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhq.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528051916id_/https%3A//www.volunteerhq.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | International Volunteer HQ
 
