@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4wdsupacentre.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313063315id_/https%3A//www.4wdsupacentre.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wdsupacentre.com.au privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528180609id_/https%3A//www.4wdsupacentre.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy , 4WD & Outdoor Products - Australia
+# Privacy Policy - 4WD Supacentre
 
 **PRIVACY POLICY** ** **
 
