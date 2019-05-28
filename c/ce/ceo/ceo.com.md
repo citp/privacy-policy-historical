@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229171659id_/https%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528175208id_/https%3A//www.ceo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEO.com
 
-Privacy Policy  [antares](https://www.ceo.com/author/antares "Posts by antares") 2018-03-07T05:33:11+00:00 
+Privacy Policy  [antares](https://www.ceo.com/author/antares "Posts by antares") 2018-03-07T05:33:11-06:00 
 
 **Last Updated: February 1, 2013**
 
