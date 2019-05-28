@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109092144id_/https%3A//www.tommybahama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528130026id_/https%3A//www.tommybahama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TommyBahama.com
 
