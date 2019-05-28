@@ -1,76 +1,136 @@
-> *The following text is extracted and transformed from the tekla.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201234609id_/http%3A//www.tekla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekla.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528062203id_/https%3A//www.tekla.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy policy | Tekla
+# Privacy Notice for Trimble Solutions Corporation Customer, Supplier and Marketing Register | Tekla
 
-Trimble Solutions Corporation and its affiliated companies (referred separately and jointly as ‘Trimble’ and ‘we’) understand that Your privacy is important. To better protect Your privacy we provide this Privacy Policy explaining our online information practices and the choices You can make about the way Your personal information (as defined below) is collected and used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Updated 10.12.2018
 
-This Privacy Policy shall be interpreted in connection with the [Trimble Terms of Service](https://web.archive.org/terms-and-conditions). This Privacy Policy is an integral part of the Trimble Terms of Service.
+## 1\. Controllers
 
-## The personal information we collect and how we use it
+Trimble Solutions Corporation (business ID 0196634-1) and other companies in Trimble Solutions Group
 
-Trimble only collects personal information that You provide to us and personal information on how You use Trimble software products and services (online or offline) including Trimble Online Services, at our web sites such as [concert.trimble.com](http://concert.trimble.com/) and tekla.com and other applicable web sites (referred separately and jointly as ‘Online Service’) or at Trimble marketing and sales events. If You use the Online Service under the license of Your employer, university or other third party (“Organisation”) we may also collect Your personal information from such Organisations e.g. for license management purposes. ‘Personal information’ shall mean any information on You from which You are identifiable to Trimble or a third party. You are generally free to provide only such personal information that You determine. However, certain offerings will require that You provide specific data (e.g. for online support). You may be required to provide:
+Contact information of the head office:  
+Metsänpojankuja 1  
+02130 Espoo  
+Finland  
++358 30 661 10
 
-  * E-mail address
-  * First name
-  * Last name
-  * Company
-  * Country
-  * IP address
-  * MAC address
-  * Other personal information, as applicable.
+(hereafter ”we” or  ”Trimble”)
+
+and its following group companies:  
+Trimble Information Technology (Shanghai)  
+Trimble Solutions France  
+Trimble Solutions Germany  
+Trimble Solutions India  
+Trimble Solutions Japan  
+Trimble Solutions Malaysia Sdn Bhd  
+Trimble Solutions Saudi Arabia  
+Trimble Solutions South East Asia  
+Trimble Solutions Korea  
+Trimble Solutions Sweden  
+Trimble Solutions UK  
+Trimble Solutions USA.
+
+Trimble Solutions Corporation is responsible for processing of personal data at group level for the purposes and on the legal basis defined in this Privacy Notice (e.g. group level marketing and sales; sourcing, financial and other administration and business management; customer and supplier relationship management).
+
+Each company in Trimble Solutions group is responsible for processing of personal data for its own purposes on the legal basis defined in this policy, e.g. for the performance of a contract or the management of the customer or supplier relationship. For such purposes, it can process personal data which has been collected for the same purposes by other companies in the group.
+
+## 2\. What is the legal basis for and purpose of the processing of personal data?
+
+The basis of processing personal data is the performance of a **contract** and Trimble’s **legitimate interest** (e.g. customer relationship management, invoicing, direct marketing).
+
+The purposes of processing the personal data are:
+
+  * Delivering, maintaining and developing our products and services
+  * Fulfilling our contractual promises and obligations with business customers, supplier or business partners
+  * Ensuring and protecting our legal rights under the contracts and law
+  * Taking care of the customer, supplier or other business partner relationship and communications with the customers and suppliers or other business partners, including customer feedback and satisfaction surveys
+  * Organizing marketing events, surveys and marketing research, promotional sweepstakes and contests
+  * Analyzing and profiling the behaviour of a customer or other data subject such as a potential customer
+  * Direct marketing of our products and services by mail, phone and electronic marketing (including newsletters by email)
+  * Targeting advertising in our and others’ online services and products
+  * Detecting, preventing and investigating fraud and other criminal offences.
 
 
 
-Trimble uses Your personal information, to improve Trimble’s services, contact You, conduct research, customize advertising and content for You to see, and to fulfill Your requests for products and services.
+We use automated decision-making (inc. profiling) to identify the data subjects’ online behavior and purchase habits, and create profiles based on the information. We use this information to target marketing and to develop our services.
 
-In certain areas of Online Service, your personal information will be searchable and viewable by anyone that accesses the Online Service. We may also publish de-personalized information and statistics of our users on an anonymous basis.
+Personal data of the following categories of data subjects are processed:
 
-If You use Online Service, various communications within the Online Service will result in a transfer of personal information across international boundaries (as Trimble operates globally, our servers also reside in multiple locations, such as the EU, APAC and United States). Accordingly, by using the Online Service, You consent to the transfer of Your personal data to these locations.
+  * Customer contact persons
+  * Potential customer contact persons
+  * Non-organizational customers/students
+  * Suppliers and business partners contact persons
+  * Other data subjects showing active interest in our services and products.
 
-You consent that we may, from time to time, share Your personal information within Trimble and with Trimble’s resellers, which may mean transferring the personal information within the European Economic Area and elsewhere, such as the United States. We will ensure that any such personal information transferred is appropriately protected and, where required, made pursuant to a contract or other measure providing adequate protection.
 
-## You can refuse to give us personal information
 
-For certain areas of Online Service, Trimble requests registration information from You, and You are free to provide this personal information or deny the request. If You do not provide the requested personal information, You will not be able to access all of the Online Service.
+## 3\. What data do we process?
 
-## We restrict access to your personal information
+We process the following personal data of our customers, suppliers or other business partners and their employees or other data subjects (like individuals participating in our trainings and events) in connection with the customer, supplier and marketing register:
 
-We do not distribute Your personal information to non-affiliated third parties without your consent. In certain circumstances Trimble may however provide Your personal information to third parties when we reasonably believe that we are required to do so by law. Additionally, You consent that Trimble may provide your personal information to Your Organisation, Trimble’s resellers and other business partners or service providers of Trimble for the purpose of providing you with information (including direct marketing), products or services. It is Trimble's policy to never sell your information to list brokers or agents for commercial gain.
+  * **Basic information of the data subject** such as name, email address, phone number, address, username and/or other identifying identifier, password, country of residence, language of use
+  * **Information of company and company’s contact persons** such as name and Business ID of the company and names, email address, phone number, address, gender, country of residence, language of use, role/title and professional interests of the contact persons
+  * **Information related to the account and licenses of the data subject** such as Trimble or Tekla account identities, software license information, access rights data
+  * **Information related to event participation and trainings** such as the name, date and location of the event, dietary information (only collected with the consent of the data subject)
+  * **Information related to contacts and communication** such as web form submissions, online discussion forum posts and profile information, feedback and contact requests
+  * **Information related to the behavior of the data subject in the services and website, which is used for profiling and logging purposes** such as the sites and services visited, the duration of visits/use, actions taken on the sites and in services, troubleshooting, security and performance monitoring
+  * **Technical information about the data subject’s end devices** such as IP address, MAC address and operating system
+  * **Possible direct marketing prohibitions and consents**
+  * **Other possible information supplied by the data subject him-/herself**
+  * **Information about the use of social media** , e.g.: Trimble´s website may include Social Media Features, such as the LinkedIn and Facebook Like button and Share button. We collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, or view a Trimble web page or app containing them, information from your browser may automatically be sent to the other company. Please read that company’s privacy notice for more information.
 
-Trimble will use Your personal information to provide You with better service in respect to Trimble’s products and services. Trimble may also provide You with information, including direct marketing, regarding the Online Service, special events and other products and services of Trimble or its business partners. These notifications and marketing may be in the form of e-mails or mailings. Trimble permits You to opt out from receiving marketing notices if You so request.
 
-## We are committed to children's privacy
 
-We do not collect or maintain information at the Online Service from those we know are under the age of 15, and no part of the Online Service is structured to attract anyone under 15. If You believe that we have inadvertently collected such information, please contact us so we can take prompt action to erase the applicable information.
+## 4\. From where do we receive data?
 
-## You can change and correct your personal information
+We receive personal data concerning customers primarily from the following sources: from the data subject him-/herself, the customer organization the data subject works for and our resellers and group companies.
 
-If You are a registered user, You may access the personal information that has been recorded on the Trimble products and Online Service and update or correct Your personal information by logging in to your account. You also have a right to request Trimble to remove Your personal information. Such request to remove personal information may cause termination of Your account.
+We receive personal data concerning potential customers primarily from the following sources: from the data subject him-/herself, our resellers and group companies, search engines, newspapers and other news sources, social media networks, contact information providers and company websites.
 
-## Cookies and other tracking technologies
+For the purposes described in this privacy notice, personal data may also be collected and updated from publicly available sources, and based on information received from authorities or other third parties within the limits of the applicable laws and regulations.
 
-Trimble utilizes cookies and other tracking technologies to make Online Service more user-friendly and to provide enhanced and customized features during Your visits to the Online Service. Cookies and other tracking technologies are used in the Online Service for the purposes of recognizing You and Your country and language preferences and track your use of the Online Service but we do not use them to collect your personal information. If You have a registered account with us, Trimble uses cookies to recognize You and to pre-fill forms to save your time. Trimble does not mandate cookies for You to access the Online Service, and should You not want the Cookies to be used when You use the Online Service, You may freely set Your browser to reject all cookies or to prompt You to accept or reject them.
+The collection and updating of data under this register is performed manually and/or by automated means.   
 
-In order to provide Online Service and improve the content of Online Service, Trimble tracks the amount of time You spend browsing the Online Service the pages You visited, and the Uniform Resource Locator (URL) click streams You use when navigating through the Online Service. Online Service does recognize Your domain name and may collect your MAC address, IP address or other persistent / non-persistent identifier and information on your operating system in connection with your use of the Online Service. Trimble also collects information on how you interact with Online Service.
+## 5\. To whom do we disclose and transfer data outside of EU or EEA?
 
-Trimble tracks the use of the Online Service in order to measure user and company activity and the ranking of community members. The personal information collected in this context is also used to improve Trimble’s software and online services.
+We process information ourselves and use subcontractors that process personal data on behalf of and for us e.g. providing support and maintenance to our customers, maintaining and hosting our cloud services, developing our products, marketing services and IT environment, conducting license compliance as well as providing the hardware and network connections for our products and services. In such case we may transfer personal data to these subcontractors to the extent necessary for the provision of their services. These subcontractors will process personal data on behalf of Trimble and must comply with Trimble´s instructions. To protect your personal data, we have entered into data processing agreements with all our subcontractors processing your personal data on our behalf.
 
-In certain areas of Online Services, we use the [Snoobi](http://www.snoobi.fi/snoobi-analytics/), [Google Analytics](http://www.google.com/analytics/), Flexnet Connect and Trackerbird tools to better understand how our users interact with Tekla Online Services. You can opt out of Snoobi’s storing of information by clicking [here](https://analytics.snoobi.com/untrack.php), you can opt out of Google Analytics from [here](https://tools.google.com/dlpage/gaoptout) and you can opt out of FlexNet Connect using the options within our desktop software products.
+We disclose personal data to our resellers. Please see a list of our resellers [here](https://web.archive.org/contact/offices-and-resellers). We also disclose the data to our parent company, Trimble Inc and its other subsidiaries. Data may be disclosed to authorities under compelling provisions.
 
-Many web browsers present You with the option to prevent cookies provided by third parties. If enabled, the web browser will only allow cookies to be saved by the web service You are currently accessing. The option is accessible through the web browser’s settings (which option will prevent all third party cookies from functioning).
+We transfer and disclose personal data related to customers outside EU/EEA, including but not limited to United States of America. We have implemented suitable safeguards for the transfers and disclosures. We use EU Commission standard contractual clauses or the Privacy Shield system (the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield).
 
-You can erase your web browser’s cookie cache through the web browser settings. Erasing a cookie will delete the unique identifier stored inside the browser cache along with the web usage profile attached thereto. Erasing cookie cache will not prevent the storage of new cookies in the future.
+## 6\. How do we protect and how long do we store the data?
 
-## Illegal use of Trimble software
+Only those of our employees, who on behalf of their working duties are required to process customer data, have access to the systems containing personal data. Each user has a personal username and password to the system. The information is collected into databases that are protected by firewalls, passwords and other technical measures. The databases and the backup copies of them are stored in locked premises and can be accessed only by certain pre-designated persons.
 
-Trimble regards software piracy (as defined in the applicable laws) as criminal offence, and we view offenders accordingly. We do not tolerate illegal copies, usage and distribution of Trimble software products, and we pursue those who do so (both civilly and criminally) using all legal means available, including public and private surveillance resources. As part of these efforts, Trimble utilizes data monitoring and sourcing technologies to the maximum extent permitted by applicable laws to obtain and transmit data on the users of illegal copies of our software. This data collection is not performed on the users of legally licensed software from Trimble and its authorized distributors.
+We store the personal data for as long as is necessary considering the purpose of the processing. Personal data about customers is processed and retained during the customer relationship and as long as we deliver services, and after the relationship or service provision has ended for three (3) years, if legislation does not require otherwise. Personal data about potential customers is deleted or updated when it is discovered to be outdated or the data subject is deemed unresponsive to the marketing.
 
-## Protection of information
+We estimate regularly the need for data storage taking into account the applicable legislation. In addition, we take care of such reasonable actions of which purpose is to ensure that no incompatible, outdated or inaccurate personal data is stored in the register taking into account the purpose of the processing. We correct or erase such data without delay.
 
-Trimble will take reasonable steps necessary to protect the information You provide to us. We continually review our security procedures and mechanisms to ensure that adequate protections are in place. Online Service may contain links to other web sites or show content linked from third party sources. Trimble is not responsible for the privacy practices, security, or content of these sites.
+## 7\. How and for what purposes do we use cookies and other tracking technologies?
 
-## Questions
+Trimble utilizes cookies and other tracking technologies to make its service more user-friendly, to provide enhanced and customized features during your visits to its website and products, and to targeted marketing. If you have a registered account with us, Trimble uses cookies to recognize you and e.g. to pre-fill forms to save your time. Cookies may be used for retargeting, where our websites may drop an anonymous browser cookie that may serve you ads as you visit other websites.
 
-For any questions or comments regarding the Trimble Privacy Policy or the Online Service, contact us at [Data.Privacy.Forum@Trimble.com](mailto:Data.Privacy.Forum@Trimble.com).
+In certain areas of Online Services, we use e.g. Google Analytics and Flexnet Connect to better understand how our users interact with our Online Services. You can opt out of Google Analytics from [here](https://tools.google.com/dlpage/gaoptout) and you can opt out of FlexNet Connect using the options within our desktop software products.
 
-Trimble Solutions Corporation, April 2016
+Many web browsers have the option to prevent cookies provided by third parties. If enabled, the web browser will only allow cookies to be saved by the web service you are currently accessing. The option is accessible through the web browser’s settings and it will prevent all third party cookies from functioning.
+
+You can manage your cookie preferences with your Internet browser and erase your web browser’s cookie cache through the web browser settings. Erasing a cookie will delete the unique identifier stored inside the browser cache along with the web usage profile attached thereto. Erasing cookie cache will not prevent the storage of new cookies in the future.
+
+## 8\. What are your rights as a data subject?
+
+As a data subject you have the right to know what kind of personal data has been collected and processed by Trimble. Upon the data subject´s request, we will rectify, remove or supplement any incorrect, unnecessary, incomplete or outdated personal data.
+
+Data subjects are entitled to prohibit the use of the data for direct advertising, telemarketing and other forms of direct marketing, as well as to prohibit the use of the data for use in questionnaires and market research.
+
+Data subjects may also withdraw consents they have given, (in cases where the processing of the data is based on their consent), object to or restrict processing of their data in cases defined by law, and the right to complain to the data supervisory authority in their jurisdiction or with the power to investigate processing concerning their personal data.
+
+Data subjects have also the right to object to profiling in so far as it relates to direct marketing (based on our legitimate interest). Additionally, data subject may have a right to request their data to be delivered to them in a standard format, in cases where the processing of data is based on their consent or a contract between us.
+
+## 9\. Who can you be in contact with?
+
+Contacts and requests concerning this privacy notice shall be submitted in writing to [pi_request_trimblesolutions@trimble.com](mailto:pi_request_trimblesolutions@trimble.com) or you can contact your local Trimble Solutions office.
+
+## 10\. Changes in the Privacy Notice
+
+Should we make amendments to this privacy notice, we will place the amended statement on our website, with an indication of the amendment date. If the amendments are significant, we may also inform you about this by other means, for example by sending an email or placing a bulletin on our homepage. We recommend that you review this privacy notice from time to time to ensure you are aware of any amendments made.
