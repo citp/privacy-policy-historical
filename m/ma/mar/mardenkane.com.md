@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126180751id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardenkane.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528095919id_/http%3A//www.mardenkane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marden-Kane
 
@@ -46,7 +46,7 @@ Upon request you may view and have inaccuracies corrected in contact information
 
 If you have provided us with contact information or other personally identifiable information and do not want to receive e-mail from Marden-Kane in the future or wish to delete such information, please let us know by completing the form at <https://promotions.mardenkane.com/ForgetMe/> or by sending an e-mail to [expert@mardenkane.com](mailto:expert@mardenkane.com) with “Remove from List” written in the subject line, or you may mail us your request to the address below.
 
-EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, correct or amend their data should direct their query to [expert@mardenkane.com](mailto:expert@mardenkane.com), or if they wish to delete their data, should complete the form at <https://promotions.mardenkane.com/ForgetMe/>. If requested to remove data, we will respond within a reasonable timeframe.
+EU, UK, and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you. Upon request, we will provide you with access to the personal information that we hold about you. You may also may correct, amend, or delete the personal information we hold about you. An individual who seeks access, correct or amend their data should direct their query to [expert@mardenkane.com](mailto:expert@mardenkane.com), or if they wish to delete their data, should complete the form at <https://promotions.mardenkane.com/ForgetMe/>. If requested to remove data, we will respond within a reasonable timeframe.
 
 Your right to access your personal data may be restricted in exceptional circumstances, including, but not limited to, when the burden or expense of providing this access would be disproportionate to the risks to your privacy in the case in question, or when the rights of persons other than you would be violated by the provision of such access. If we determine that your access should be restricted in a particular instance, we will provide you with an explanation of our determination and respond to any inquiries you may have.
 
@@ -70,11 +70,11 @@ Our Web site offers a publicly accessible blog. You should be aware that any inf
 
 **Privacy Shield Frameworks**
 
-Marden-Kane, Inc. complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Marden-Kane has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Marden-Kane, Inc. complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (Privacy Shield) as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries, the United Kingdon (UK), and Switzerland transferred to the United States pursuant to Privacy Shield. Marden-Kane has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Marden-Kane is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, Marden-Kane, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Marden-Kane at: 
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Marden-Kane, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union, UK, and Swiss individuals with Privacy Shield inquiries or complaints should first contact Marden-Kane at: 
 
 [expert@mardenkane.com](mailto:expert@mardenkane.com)
 
@@ -103,12 +103,9 @@ Phone: 516.365.3999
 
 We can be reached via e-mail at: [expert@mardenkane.com](mailto:expert@mardenkane.com).
 
-Last revised on May 18, 2018.  
+Last revised on February 25, 2019.  
 Revisions include:  
-Cookie clarification and notice of consent added.  
-Addition of a link to our “opt-out request” form  
-Behavior targeting/re-targeting removed as it is no longer applicable  
-DPO listed as contact person instead of Privacy Officer
+Adding in language that transfers of personal data from the UK will be covered as they were under Privacy Shield
 
 **Changes to This Privacy Policy**
 
