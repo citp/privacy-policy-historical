@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ku.edu privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718173757id_/https%3A//policy.ku.edu/provost/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ku.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528234557id_/https%3A//policy.ku.edu/provost/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, General | Policy Library
 
