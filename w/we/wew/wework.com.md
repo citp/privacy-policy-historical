@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wework.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013015031id_/https%3A//www.wework.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wework.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528051757id_/https%3A//www.wework.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,8 @@
 
 Effective Date: May 25, 2018
 
-WeWork Companies Inc. and our affiliates (collectively, “WeWork,” “we,” “us,” “our,” or “WeWork Family”) cares about your privacy. We are committed to maintaining your trust by protecting your Personal Information. This Privacy Policy (“Policy”) describes how the WeWork Family collects, uses, and discloses your Personal Information in connection with the use of our websites (“Website Services”), applications (“apps”), or other service that refers to or links to the Policy, as well as any offline products, programs, courses, and services (collectively our “Services”).  
+WeWork Companies Inc. and our affiliates (collectively, “WeWork,” “we,” “us,” “our,” or “WeWork Family”) cares about your privacy. We are committed to maintaining your trust by protecting your Personal Information. This Privacy Policy (“Policy”) describes how the WeWork Family collects, uses, and discloses your Personal Information in connection with the use of our websites (“Website Services”), applications (“apps”), or other service that refers to or links to the Policy, as well as any offline products, programs, courses, and services (collectively our “Services”).
+
 We want to help you build a life, and not just a living, through our Services. Before you use our services, please read this Policy in its entirety, which helps you make informed decisions about your relationship with us.
 
 **Personal Information.** “Personal Information” is data that relates to you and can — either on its own or in combination with other information — identify you as an individual. Personal Information does not include data that has been aggregated or made anonymous such that you can no longer be identified using any means reasonably available to us.
@@ -164,7 +165,7 @@ For visitors to our Services in the EU, you may lodge a complaint with a supervi
 
 WeWork is headquartered in the United States. Your information will likely be collected in your country and subsequently transferred or stored in another country, including countries that may have privacy protections less stringent than your jurisdiction. In accordance with applicable law, we implement measures, such as standard data protection clauses, to ensure that any transferred Personal Information remains protected and secure. You can obtain further information about these measures by contacting us using the contact details set out below in Section 12.5.
 
-WeWork will retain your Personal Information for as long as you have a relationship with us, and for a period after your relationship with us has ended. More
+WeWork will retain your Personal Information for as long as you have a relationship with us, and for a period after your relationship with us has ended.
 
 When determining how long this retention period will last, we take into account the length of time Personal Information is required to:
 
@@ -178,7 +179,7 @@ When determining how long this retention period will last, we take into account 
 
 The security of all Personal Information provided to WeWork is important to us. WeWork takes reasonable steps endeavoring to use appropriate technical or organizational measures to protect your Personal Information, including against unauthorized or unlawful Processing and accidental loss, destruction or damage. Unfortunately, no data transmission over the Internet or storage of information can be guaranteed to be 100% secure. As a result, while WeWork strives to protect your Personal Information, we cannot ensure or warrant the security of any information that you transmit to WeWork, and you do so at your own risk. As such, we ask that you help us be safer together by implementing your own security controls, such as a strong password, not sharing your credentials or badge with others, logging out when you leave your desk, and other security best practices.
 
-We do not currently use your Personal Information in such a way that automated decisions are made about you without any human input. More
+We do not currently use your Personal Information in such a way that automated decisions are made about you without any human input.
 
 In the future, we may use automated processes to help us determine your eligibility for new services, alternate space, or other business-related opportunities. In such cases, if and as applicable, and to the extent required by applicable law, we will endeavor to implement suitable safeguards, including, for example, an opportunity for you to request human intervention, express your point of view, contest any decisions made, and request that we restrict the use of your Personal Information for the purposes of these automated decisions.
 
@@ -198,7 +199,7 @@ We display advertisements and other content from third parties or partners that 
 
 ## 12.4 CHANGES TO THIS POLICY IN THE FUTURE
 
-Any information that is collected via the Services is covered by the Policy in effect at the time such information is collected. We reserve the right to change, modify, add, or remove portions of this Policy at any time and at our sole discretion. More
+Any information that is collected via the Services is covered by the Policy in effect at the time such information is collected. We reserve the right to change, modify, add, or remove portions of this Policy at any time and at our sole discretion.
 
 If we make any material changes to this Policy, we will notify you of those changes by posting them on the Services or by sending you an email or other notification, as required by applicable law, and we will update the “Effective Date” below to indicate when those changes will become effective.
 
@@ -218,7 +219,7 @@ WeWork will address your concerns and attempt to resolve any privacy issues in a
 
 **Sensitive Information**. Because email communications are not always secure, please do not include credit card or other Sensitive Personal Information (e.g., racial or ethnic origin, religion, health, or the like) in your emails to us.
 
-Effective Date: MAy 25, 2018
+Effective Date: May 25, 2018
 
 ### California Privacy Rights
 
