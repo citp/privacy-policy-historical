@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payflex.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417143647id_/https%3A//www.payflex.com/privacy-and-compliance) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payflex.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528113039id_/https%3A//www.payflex.com/privacy-and-compliance) for the most accurate reproduction.*
 
 # Privacy and Compliance | PayFlex
 
@@ -60,7 +60,7 @@ You should take the following steps to help safeguard your account:
   * Use a different password for each online account.
   * Register directly at payflex.com. This is true even if you typically use Single-Sign-On (SSO) to access your PayFlex account. You should use a different username and password for SSO and for the payflex.com registration.
   * Review your account often. This includes all transaction history, personal and account information (like phone number, e-mail address, etc.).
-  * Call or e-mail us immediately if you notice any suspicious account activity. You can either call us using the number on the back of your PayFlex debit card or our fraud line at (855) 542-5988. Or you can e-mail us at [accountsecurity@payflex.com](mailto:accountsecurity@payflex.com " accountsecurity@payflex.com").
+  * Call or e-mail us immediately if you notice any suspicious account activity. You can either call us using the number on the back of your PayFlex debit card or our fraud line at (855) 542-5988(TTY: 711). Or you can e-mail us at [accountsecurity@payflex.com](mailto:accountsecurity@payflex.com " accountsecurity@payflex.com").
   * Always be on the lookout for e-mail phishing attempts. We will never send you an e-mail asking you to enter or re-enter your login information to verify your account. You should never click on a link inside of an e-mail; you should always log in to your account as you normally do.
 
   
@@ -102,7 +102,7 @@ PayFlex may change this statement from time to time. When updates are made, weâ€
 
 ## Account Security concerns?
 
-(1-855-542-5988)   
+(1-855-542-5988)(TTY: 711)   
 [accountsecurity@payflex.com](mailto:accountsecurity@payflex.com "accountsecurity@payflex.com")
 
 [Contact us](https://web.archive.org/about/contact-us "Contact Us") if you have any questions or concerns with our Privacy, Security & Compliance policies.
