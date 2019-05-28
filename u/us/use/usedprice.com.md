@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedprice.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229093802id_/http%3A//www.usedprice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedprice.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528063809id_/http%3A//www.usedprice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy by UsedPrice.com
 
