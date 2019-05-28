@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2018-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181227110852id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2019-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528093203id_/https%3A//www.surepayroll.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage svg inlinesvg"><head>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -13,11 +13,64 @@
     
     
 
-    <link rel="stylesheet" type="text/css" href="/Static/dist/css/sprResource-9223665de6c943f038674309b9e4ac07/main.css">
+    <link rel="stylesheet" type="text/css" href="/Static/dist/css/sprResource-3f28a5fa0143d8478f6828be0c537c3d/main.css">
+    <link rel="stylesheet" type="text/css" href="/Static/css/star-rating-svg.css">
 
-    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MJCDTBT"></script><script type="text/javascript" src="/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/6500264634829510686/bc.vms4/vms.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MJCDTBT"></script><script type="text/javascript" src="/Scripts/jquery-1.12.4.min.js"></script>
+    <script src="/Scripts/jquery.star-rating-svg.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     
+
+
+
+<script type="text/javascript" src="https://mbsy.co/embed/v2/getcookie/surepayroll"></script>
+
+<script>
+    $(document).ready(function () {
+
+            var leadIdQueryString = '';
+            var promoCampaignIdQueryString = '';
+            var pricepromoCampaignIdQueryString = '';
+            var partnerCodeQueryString = '';
+            var mbsyShortCode = window.mbsy_short_code;
+            var pardotIdQueryString = '';
+
+            var pardotCookie = document.cookie.split(';').filter(function(c) {
+                return c.trim().indexOf('visitor_id') === 0 && c.trim().indexOf('-hash') === -1;
+            }).map(function(c) {
+                return c.trim().split('=')[1];
+            });
+
+            $("a[href^='https://start.surepayroll.com'],a[href^='https://easy.surepayroll.com'],a[href^='https://devstart.surepayroll.com'],a[href^='https://stgstart.surepayroll.com']").each(function() {
+                var href = $(this).attr('href');
+
+                if (href) {
+                    if (leadIdQueryString) {
+                        href += (href.match(/\?/) ? '&' : '?') + leadIdQueryString;
+                    }
+                    if (promoCampaignIdQueryString) {
+                        href += (href.match(/\?/) ? '&' : '?') + promoCampaignIdQueryString;
+                    }
+                    if (pricepromoCampaignIdQueryString) {
+                        href += (href.match(/\?/) ? '&' : '?') + pricepromoCampaignIdQueryString;
+                    }
+                    if (partnerCodeQueryString) {
+                        href += (href.match(/\?/) ? '&' : '?') + partnerCodeQueryString;
+                    }
+                    if (mbsyShortCode) {
+                        href += (href.match(/\?/) ? '&' : '?') + "ShortCode=" + mbsyShortCode;
+                    }
+                    if (pardotIdQueryString) {
+                        href += (href.match(/\?/) ? '&' : '?') + pardotIdQueryString;
+                    } else {
+                        href += (href.match(/\?/) ? '&' : '?') + "pardotVisitorID=" + pardotCookie[0];
+                    }
+                    $(this).attr('href', href);
+                }
+            });
+    });
+</script>
+
     <style type="text/css" media="all">
         @media (max-width: 960px) and (min-width: 768px) {
             .sf_colsOut.grid-4.grid-text-column {
@@ -149,15 +202,15 @@
 
 
     
-<link rel="stylesheet" type="text/css" data-f-resource="EPiServerForms.css" href="/WebResource.axd?d=s-f6ie6T4Qaxga0Un_qm83FAGA4UVdb3eOWsHKxWTQ12I58Ah5qwbm1kt2tvr20p3iIUVfHFd9iixCTrfTJAcLMxCimxslb2Xzd-KfQxS1RZBNv2BsGbs-pXOwnyd6LjYLQhdix8i4swweaUEf-GyCuswQw1&amp;t=636718244700000000">
+<link rel="stylesheet" type="text/css" data-f-resource="EPiServerForms.css" href="/WebResource.axd?d=s-f6ie6T4Qaxga0Un_qm83FAGA4UVdb3eOWsHKxWTQ12I58Ah5qwbm1kt2tvr20p3iIUVfHFd9iixCTrfTJAcLMxCimxslb2Xzd-KfQxS1RZBNv2BsGbs-pXOwnyd6LjYLQhdix8i4swweaUEf-GyCuswQw1&amp;t=636912635500000000">
 
 <script type="text/javascript">
 var epi = epi||{}; epi.EPiServer = epi.EPiServer||{}; epi.EPiServer.Forms = epi.EPiServer.Forms||{};
 epi.EPiServer.Forms.InjectFormOwnJQuery = true;epi.EPiServer.Forms.OriginalJQuery = typeof jQuery !== 'undefined' ? jQuery : undefined;
 </script>
-<script type="text/javascript" src="/WebResource.axd?d=rQapnFTl_pgMjn3yGS-nPsGjsc9dNGT8adFIVoR-0olcasIDWDRaRqQOoNRroWA0MXqWPlmkkGiG8tqtObeyQ2J60Ie2kmT4Q41o6PtkxvL8T3pb8hqMew5ZTwplgy0ctkGQKXKoIgxWy-iIkw_6lfKJht41&amp;t=636718244700000000"></script>
+<script type="text/javascript" src="/WebResource.axd?d=rQapnFTl_pgMjn3yGS-nPsGjsc9dNGT8adFIVoR-0olcasIDWDRaRqQOoNRroWA0MXqWPlmkkGiG8tqtObeyQ2J60Ie2kmT4Q41o6PtkxvL8T3pb8hqMew5ZTwplgy0ctkGQKXKoIgxWy-iIkw_6lfKJht41&amp;t=636912635500000000"></script>
 <script type="text/javascript">
-/* 
+/*
 This EPiServerForms_prerequisite.js TEMPLATE will be compiled with serverside values and injected into ViewMode page
 We reuse the existed global var epi from EPiServer CMS, if any. It will init/grab the epi object, and init epi.EPiServer.Forms object
 */
@@ -166,9 +219,9 @@ We reuse the existed global var epi from EPiServer CMS, if any. It will init/gra
 // after this code, the object $ and jQuery will revert back to its original meaning in original library (Alloy jQuery or other lib).
 
 // Our clients' sites may include their own Jquery version (e.g. a higher version for some special functionalities), which leads to unexpected conflicts with ours.
-// To avoid this, we use jQuery.noConflict()  to set up $$epiforms as an allias for our jquery and then, revert Jquery allias to clients' by using 
+// To avoid this, we use jQuery.noConflict()  to set up $$epiforms as an allias for our jquery and then, revert Jquery allias to clients' by using
 // epi.EPiServer.Forms.OriginalJQuery whose value is set up as Jquery at the beginning in FormBlockController.
-// This also allows us to extend our own Jquery's functionalities without causing further conflicts. 
+// This also allows us to extend our own Jquery's functionalities without causing further conflicts.
 
 var $$epiforms = epi.EPiServer.Forms.InjectFormOwnJQuery ? jQuery.noConflict() : jQuery;
 if (epi.EPiServer.Forms.OriginalJQuery) {
@@ -182,26 +235,31 @@ if (epi.EPiServer.Forms.OriginalJQuery) {
     if (epi.EPiServer.Forms.ExternalScriptSources) {
         externalScript = epi.EPiServer.Forms.ExternalScriptSources.concat(externalScript);
         // Remove duplicate items
-        externalScript = externalScript.filter(function (value, index, self) { return self.indexOf(value) === index; });
+        externalScript = externalScript.filter(function (value, index, self) {
+            return self.indexOf(value) === index;
+        });
     }
     if (epi.EPiServer.Forms.ExternalCssSources) {
         externalCss = epi.EPiServer.Forms.ExternalCssSources.concat(externalCss);
         // Remove duplicate items
-        externalCss = externalCss.filter(function (value, index, self) { return self.indexOf(value) === index; });
+        externalCss = externalCss.filter(function (value, index, self) {
+            return self.indexOf(value) === index;
+        });
     }
 
     $$epiforms.extend(true, epi.EPiServer, {
-        CurrentPageLink: '1271',
-        CurrentPageLanguage: 'en',
+        CurrentPageLink: "1271",
+        CurrentPageLanguage: "en",
+        CurrentFormLanguage: "en",
         Forms: {
-            Utils: {}, Data: {}, Extension: {}, Validation: {}, Navigation: {}, Dependency: {}, 
+            Utils: {}, Data: {}, Extension: {}, Validation: {}, Navigation: {}, Dependency: {},
             $: $$epiforms,  // save our own link to our own jQuery
             ThrottleTimeout: 500,  // miliseconds
             ExternalScriptSources: externalScript,
             ExternalCssSources: externalCss,
-            UploadExtensionBlackList: 'asp,aspx,asa,ashx,asmx,bat,chm,class,cmd,com,config,dll,exe,hta,htr,htw,jse,json,lnk,mda,mdb,msc,msh,pif,printer,ps1,ps2,reg,rem,scf,scr,sct,shtm,shtml,soap,stm,svc,url,vb,vbe,vbs,vsix,ws,wsc,wsf,wsh,xamlx,htm,html,js,jar',
+            UploadExtensionBlackList: "asp,aspx,asa,ashx,asmx,bat,chm,class,cmd,com,config,dll,exe,hta,htr,htw,jse,json,lnk,mda,mdb,msc,msh,pif,printer,ps1,ps2,reg,rem,scf,scr,sct,shtm,shtml,soap,stm,svc,url,vb,vbe,vbs,vsix,ws,wsc,wsf,wsh,xamlx,htm,html,js,jar",
             Messages: {"viewMode":{"malformStepConfiguration":"Improperly formed FormStep configuration. Some steps are attached to pages, while some steps are not attached, or attached to content with no public URL.","commonValidationFail":"This element value is not valid."},"fileUpload":{"overFileSize":"The upload file size should be less than {0} MB.","invalidFileType":"The upload file format is not allowed or not supported.","postedFile":"(Previous posted file - {0})"}},
-            LocalizedResources: {"contenttypescomponent":{"title":"Form Elements","description":"Show all content types of Episerver Forms"},"formscomponent":{"title":"Forms","description":"Manage forms for the website","command":{"create":{"label":"New form"},"viewdata":{"label":"Form submissions"}},"messages":{"nocontent":"This folder does not contain any forms."}},"formdataview":{"name":"Form submissions","description":"View form submissions","heading":"Form submissions","begindate":"From date","enddate":"To date","search":"Search","nodata":"There is no data","export":"Export as ...","exportasxml":"XML","exportasxmldesc":"Export form data in XML format","exportascsv":"CSV","exportascsvdesc":"Export form data in CSV format","exportasdecryptedcsv":"Decrypted CSV","exportasdecryptedcsvdesc":"Decrypt and export form data in CSV format","exportasjson":"JSON","exportasjsondesc":"Export form data in JSON format","finalizedonly":"Finalized Only","deleteselecteditems":"Delete","deleteconfirmation":"Do you want to delete the selected items?","nopostid":"No post Id for deleting.","couldnotgetassociateform":"Could not get associate Form.","deletesuccessful":"Successfully deleted post data.","accessdenied":"You do not have permission to view this data.","submittime":"Time","submituser":"By user","hostedpage":"Submitted from","finalizedsubmission":"Finalized","exportasxlsx":"XLSX","exportasxlsxdesc":"Export form data in XLSX format","selectalltooltip":"Select All","deselectalltooltip":"Deselect All","selectioninfo":"All <b>${0}</b> record(s) are selected. ","extraselectionlink":"Select all <b>${0}</b> records","clearselectionlink":"Clear selection","filterdata":"Filter","searchallcolumns":"All columns"},"formscontentarea":{"emptyactions":{"actions":{"createnewformselement":"browse"},"template":"You can drop form elements here or {createnewformselement}.","templatewithoutcreate":"You can drop content here."}},"fieldselector":{"title":"Select dependent field"},"submissionactors":{"episerver.forms.implementation.actors.callwebhookaftersubmissionactor":{"displayname":"Trigger webhook after form submission"},"episerver.forms.implementation.actors.sendemailaftersubmissionactor":{"displayname":"Send email after form submission"}},"validators":{"episerver.forms.implementation.validation.requiredvalidator":{"displayname":"Required","message":"This information is required"},"episerver.forms.implementation.validation.regularexpressionvalidator":{"displayname":"Regular expression","message":"This field should be in \"{0}\" format"},"episerver.forms.implementation.validation.captchavalidator":{"displayname":"Captcha","message":"Enter the characters you see in the picture"},"episerver.forms.implementation.validation.allowedextensionsvalidator":{"displayname":"Allowed extensions","message":"The upload file format is not allowed or not supported.","allowedextensionsmessage":"The upload file format is not allowed or not supported. File format should be: {0}"},"episerver.forms.implementation.validation.maxfilesizevalidator":{"displayname":"Max file size","message":"The upload file size should be less than {0} MB."},"episerver.forms.implementation.validation.emailvalidator":{"displayname":"Email","message":"You have entered an invalid email address"},"episerver.forms.implementation.validation.urlvalidator":{"displayname":"Url","message":"Enter a valid URL"},"episerver.forms.implementation.validation.dateddmmyyyyvalidator":{"displayname":"Date (DD/MM/YYYY)","message":"Enter a date in the DD/MM/YYYY format"},"episerver.forms.implementation.validation.datemmddyyyyvalidator":{"displayname":"Date (MM/DD/YYYY)","message":"Enter a date in the MM/DD/YYYY format"},"episerver.forms.implementation.validation.dateyyyymmddvalidator":{"displayname":"Date (YYYY-MM-DD)","message":"Enter a date in the YYYY-MM-DD format"},"episerver.forms.implementation.validation.numericvalidator":{"displayname":"Numeric","message":"Enter a valid number"},"episerver.forms.implementation.validation.integervalidator":{"displayname":"Integer","message":"Enter a valid integer"},"episerver.forms.implementation.validation.positiveintegervalidator":{"displayname":"Positive integer","message":"Enter a valid positive integer"},"elementselfvalidator":{"unexpectedvalueisnotaccepted":"Unexpected value is not accepted."},"spr.website.domain.models.helpers.customvalidators.validators.minimumstringlengthvalidator":{"displayname":"Minimum Length","message":"Please enter at least {0} characters"},"spr.website.domain.models.helpers.customvalidators.validators.maximumstringlengthvalidator":{"displayname":"Maximum Length","message":"Please enter less than {0} characters"},"spr.website.domain.models.helpers.customvalidators.validators.phonevalidator":{"displayname":"Phone","message":"Must be between 10 and 25 characters"},"spr.website.domain.models.helpers.customvalidators.validators.custompositiveintegervalidator":{"displayname":"Positive Integers","message":"Positive integers only"},"fileuploadelementselfvalidator":{"multiplefilenotallowed":"Not allowed to upload multiple files."}},"visitordatasources":{"episerver.forms.implementation.visitordata.ipaddressvisitordatasource":{"displayname":"IP Address"},"episerver.forms.implementation.visitordata.geovisitordatasource":{"displayname":"Geo","properties":{"city":"City","country_code":"Country code","country_name":"Country name","ip":"IP","latitude":"Latitude","longitude":"Longitude","metro_code":"Metro code","region_code":"Region code","region_name":"Region name","time_zone":"Time zone","zip_code":"Zip code"}},"episerver.forms.implementation.visitordata.profilevisitordatasource":{"displayname":"Profile","properties":{"address":"Address","zipcode":"Zip code","locality":"Locality","email":"Email","firstname":"First name","lastname":"Last name","language":"Language","country":"Country","company":"Company","title":"Title"}},"episerver.forms.implementation.visitordata.useragentvisitordatasource":{"displayname":"User agent","properties":{"ismobiledevice":"Is mobile","useragent":"User agent"}},"episerver.forms.implementation.visitordata.visitorgroupvisitordatasource":{"displayname":"Visitor groups","properties":{"id":"Id","name":"Name"}},"youmustselectvalueforhiddenvisitor":"You must select a value for the type of visitor data you choose."},"messages":{"fileupload":{"overfilesize":"The upload file size should be less than {0} MB.","invalidfiletype":"The upload file format is not allowed or not supported.","postedfile":"(Previous posted file - {0})"},"formsubmission":{"outdatedforminit":"Your current session for viewing the form is expired. Refresh your page to continue.","requirelogin":"You must be logged in to submit the form.","denymultisubmit":"You already submitted this form.","submitsuccess":"Submit successful.","validationfailformat":"Validation failed on \"{0}\" field: {1}","thereisnoformguid":"Submit data FAILED: there is no Form's Guid.","couldnotgetform":"Submit data FAILED: could not get Form with Id = {0}.","submitcancelled":"TECHNICAL INFO: Submitting process is cancelled. Reason: ","sessionoff":"You cannot submit this form because it do not allow to store data and Session State is OFF.","formisrestricted":"Could not submit form. You do not have sufficient privileges.","formexpired":"Could not submit form. Form has been expired.","formdeleted":"Could not submit form. Form has been deleted.","submitnotsuccess":"Failed to submit."}},"dependcondition":{"notapplicable":"Not applicable","matchregularexpression":"Match with regular expression","equals":"Equals","notequals":"Not equals","contains":"Contains","notcontains":"Not contains"},"imagechoiceitems":{"emptyactions":{"actions":{"createnewitem":"Create a link to an image"},"template":"Drop image content here.<br/>You also can {createnewitem}."},"menutooltip":"Display menu"},"editview":{"notconfigured":"Not configured yet","insertplaceholder":"Insert placeholder","selectanitem":"Select an item","externalsystems":"External system field mapping","connecteddatasource":"Connect to Datasource","createemailtemplate":"Create email template","editemailtemplate":"Edit email template","addwebhook":"Add webhook","editwebhook":"Edit webhook","selectpage":"Select page","usemanualinput":"Use manual input","errorconditionalstepcannotcontainrequiredelement":"This Form step should not depend on other elements because it contains mandatory element [{0}].","cannotbuildformmodel":"Cannot build the form. You cannot use FormContainerBlock as a property. You can render a form in a ContentArea only.","elementdependant":"This field depends on other field(s)"},"viewmode":{"stepnavigation":{"previous":"Previous step","next":"Next step","page":"Step"},"untitled":"Untitled","selection":{"selectanoption":"-- Select an option --","selectoptions":"-- Select options --"},"reset":"Reset form","submit":"Submit","refreshcaptcha":"Refresh captcha","captchalabel":"Word verification","malformstepconfigruation":"Improperly formed FormStep configuration. Some steps are attached to pages, while some steps are not attached, or attached to content with no public URL.","commonvalidationfail":"This element value is not valid.","readonlymode":"Read-only mode. Submitted data is not saved."},"contentediting":{"optionitem":{"caption":"Choice","value":"Value","checked":"Checked by default","containsinvalidcharacter":"Comma (,) character is not allowed."},"emailtemplateactor":{"fromemail":"From","fromemaildescription":"Email address to send from","toemails":"To","toemailsdescription":"Email address to send to, or name of a form field with the email address (for confirmation emails)","subject":"Subject","subjectdescription":"Subject line for the email. You can use #FIELDNAME# to insert values from the form.","body":"Message","bodydescription":"The body of the email. You can insert values from the form with #FIELDNAME#, or show a summary listing of the form fields with #SUMMARY.","fromemailplaceholder":"someone@example.com","toemailsplaceholder":"address@example.com,...","subjectplaceholder":"Enter email subject"},"webhookactor":{"url":"Webhook URL","urldescription":"Webhook URL to send data payload to (http or https protocol).","jsonformat":"POST data in JSON format"},"validation":{"greaterthanequaltoerrorformat":"The {0} must be >= {1}'s value.","lessthanequaltoerrorformat":"The {0} must be <= {1}'s value.","inrangeerrorformat":"\"{0}\" is not a valid value for {1}. Only number is allowed and {1} must be in range of [{2} - {3}]'s value.","stepinrangeerrorformat":"The {0} must be >= 1 and <= {2} - {1} value.","positiveinteger":"Only a positive number is allowed.","circulardependency":"Circular dependency configuration is not allowed"},"fielddependency":{"condition":{"field":"Field","operator":"Operator","value":"Value"},"invalidcondition":"The condition is no longer valid","conditiondialog":{"title":"Condition Details"}}},"externalsystems":{"episerver.marketing.connector.forms.marketingconnectormapping":{"displayname":"MA System Database"}},"conditioncombination":{"all":"All","any":"Any"},"satisfiedaction":{"hide":"Hidden","show":"Shown"}}
+            LocalizedResources: {"contenttypescomponent":{"title":"Form Elements","description":"Show all content types of Episerver Forms"},"formscomponent":{"title":"Forms","description":"Manage forms for the website","command":{"create":{"label":"New form"},"viewdata":{"label":"Form submissions"}},"messages":{"nocontent":"This folder does not contain any forms."}},"formdataview":{"name":"Form submissions","description":"View form submissions","heading":"Form submissions","begindate":"From date","enddate":"To date","search":"Search","nodata":"There is no data","export":"Export as ...","exportasxml":"XML","exportasxmldesc":"Export form data in XML format","exportascsv":"CSV","exportascsvdesc":"Export form data in CSV format","exportasdecryptedcsv":"Decrypted CSV","exportasdecryptedcsvdesc":"Decrypt and export form data in CSV format","exportasjson":"JSON","exportasjsondesc":"Export form data in JSON format","finalizedonly":"Finalized Only","deleteselecteditems":"Delete","deleteconfirmation":"Do you want to delete the selected items?","nopostid":"No post Id for deleting.","couldnotgetassociateform":"Could not get associate Form.","deletesuccessful":"Successfully deleted post data.","accessdenied":"You do not have permission to view this data.","submittime":"Time","submituser":"By user","hostedpage":"Submitted from","finalizedsubmission":"Finalized","exportasxlsx":"XLSX","exportasxlsxdesc":"Export form data in XLSX format","selectalltooltip":"Select All","deselectalltooltip":"Deselect All","selectioninfo":"All <b>${0}</b> record(s) are selected. ","extraselectionlink":"Select all <b>${0}</b> records","clearselectionlink":"Clear selection","filterdata":"Filter","searchallcolumns":"All columns"},"formscontentarea":{"emptyactions":{"actions":{"createnewformselement":"browse"},"template":"You can drop form elements here or {createnewformselement}.","templatewithoutcreate":"You can drop content here."}},"fieldselector":{"title":"Select dependent field"},"submissionactors":{"episerver.forms.implementation.actors.callwebhookaftersubmissionactor":{"displayname":"Trigger webhook after form submission"},"episerver.forms.implementation.actors.sendemailaftersubmissionactor":{"displayname":"Send email after form submission"}},"validators":{"episerver.forms.implementation.validation.requiredvalidator":{"displayname":"Required","message":"This information is required"},"episerver.forms.implementation.validation.regularexpressionvalidator":{"displayname":"Regular expression","message":"This field should be in \"{0}\" format"},"episerver.forms.implementation.validation.captchavalidator":{"displayname":"Captcha","message":"Enter the characters you see in the picture"},"episerver.forms.implementation.validation.allowedextensionsvalidator":{"displayname":"Allowed extensions","message":"The upload file format is not allowed or not supported.","allowedextensionsmessage":"The upload file format is not allowed or not supported. File format should be: {0}"},"episerver.forms.implementation.validation.maxfilesizevalidator":{"displayname":"Max file size","message":"The upload file size should be less than {0} MB."},"episerver.forms.implementation.validation.emailvalidator":{"displayname":"Email","message":"You have entered an invalid email address"},"episerver.forms.implementation.validation.urlvalidator":{"displayname":"Url","message":"Enter a valid URL"},"episerver.forms.implementation.validation.dateddmmyyyyvalidator":{"displayname":"Date (DD/MM/YYYY)","message":"Enter a date in the DD/MM/YYYY format"},"episerver.forms.implementation.validation.datemmddyyyyvalidator":{"displayname":"Date (MM/DD/YYYY)","message":"Enter a date in the MM/DD/YYYY format"},"episerver.forms.implementation.validation.dateyyyymmddvalidator":{"displayname":"Date (YYYY-MM-DD)","message":"Enter a date in the YYYY-MM-DD format"},"episerver.forms.implementation.validation.numericvalidator":{"displayname":"Numeric","message":"Enter a valid number"},"episerver.forms.implementation.validation.integervalidator":{"displayname":"Integer","message":"Enter a valid integer"},"episerver.forms.implementation.validation.positiveintegervalidator":{"displayname":"Positive integer","message":"Enter a valid positive integer"},"elementselfvalidator":{"unexpectedvalueisnotaccepted":"Unexpected value is not accepted."},"spr.website.domain.models.helpers.customvalidators.validators.minimumstringlengthvalidator":{"displayname":"Minimum Length","message":"Please enter at least {0} characters"},"spr.website.domain.models.helpers.customvalidators.validators.maximumstringlengthvalidator":{"displayname":"Maximum Length","message":"Please enter less than {0} characters"},"spr.website.domain.models.helpers.customvalidators.validators.phonevalidator":{"displayname":"Phone","message":"Must be between 10 and 25 characters"},"spr.website.domain.models.helpers.customvalidators.validators.custompositiveintegervalidator":{"displayname":"Positive Integers","message":"Positive integers only"},"fileuploadelementselfvalidator":{"multiplefilenotallowed":"Not allowed to upload multiple files."},"custommessage":{"resetbuttonlabel":"Reset to default","errormessagelabel":"Error message "}},"visitordatasources":{"episerver.forms.implementation.visitordata.ipaddressvisitordatasource":{"displayname":"IP Address"},"episerver.forms.implementation.visitordata.geovisitordatasource":{"displayname":"Geo","properties":{"city":"City","country_code":"Country code","country_name":"Country name","ip":"IP","latitude":"Latitude","longitude":"Longitude","metro_code":"Metro code","region_code":"Region code","region_name":"Region name","time_zone":"Time zone","zip_code":"Zip code"}},"episerver.forms.implementation.visitordata.profilevisitordatasource":{"displayname":"Profile","properties":{"address":"Address","zipcode":"Zip code","locality":"Locality","email":"Email","firstname":"First name","lastname":"Last name","language":"Language","country":"Country","company":"Company","title":"Title"}},"episerver.forms.implementation.visitordata.useragentvisitordatasource":{"displayname":"User agent","properties":{"ismobiledevice":"Is mobile","useragent":"User agent"}},"episerver.forms.implementation.visitordata.visitorgroupvisitordatasource":{"displayname":"Visitor groups","properties":{"id":"Id","name":"Name"}},"youmustselectvalueforhiddenvisitor":"You must select a value for the type of visitor data you choose."},"messages":{"fileupload":{"overfilesize":"The upload file size should be less than {0} MB.","invalidfiletype":"The upload file format is not allowed or not supported.","postedfile":"(Previous posted file - {0})"},"formsubmission":{"outdatedforminit":"Your current session for viewing the form is expired. Refresh your page to continue.","requirelogin":"You must be logged in to submit the form.","denymultisubmit":"You already submitted this form.","submitsuccess":"Submit successful.","validationfailformat":"Validation failed on \"{0}\" field: {1}","thereisnoformguid":"Submit data FAILED: there is no Form's Guid.","couldnotgetform":"Submit data FAILED: could not get Form with Id = {0}.","submitcancelled":"TECHNICAL INFO: Submitting process is cancelled. Reason: ","formisrestricted":"Could not submit form. You do not have sufficient privileges.","formexpired":"Could not submit form. Form has been expired.","formdeleted":"Could not submit form. Form has been deleted.","submitnotsuccess":"Failed to submit.","sessionoff":"You cannot submit this form because it do not allow to store data and Session State is OFF."}},"dependcondition":{"notapplicable":"Not applicable","matchregularexpression":"Match with regular expression","equals":"Equals","notequals":"Not equals","contains":"Contains","notcontains":"Not contains"},"imagechoiceitems":{"emptyactions":{"actions":{"createnewitem":"Create a link to an image"},"template":"Drop image content here.<br/>You also can {createnewitem}."},"menutooltip":"Display menu"},"editview":{"notconfigured":"Not configured yet","insertplaceholder":"Insert placeholder","selectanitem":"Select an item","externalsystems":"External system field mapping","connecteddatasource":"Connect to Datasource","createemailtemplate":"Create email template","editemailtemplate":"Edit email template","addwebhook":"Add webhook","editwebhook":"Edit webhook","selectpage":"Select page","usemanualinput":"Use manual input","errorconditionalstepcannotcontainrequiredelement":"This Form step should not depend on other elements because it contains mandatory element [{0}].","cannotbuildformmodel":"Cannot build the form. You cannot use FormContainerBlock as a property. You can render a form in a ContentArea only.","elementdependant":"This field depends on other field(s)","retentionperiod":{"partial":"partial","finalized":"finalized","default":"Default","keepforsomedays":"{0} days","customization":"Custom (days):","keepforever":"Forever","validation":{"errormessage":{"long":"The {0} submission retention period field must be an integer between {1} and {2}","short":"Input must be an integer between {0} and {1}"}},"revision":{"warningmessage":"At least {0} submission(s) are affected by your retention policy change"}}},"viewmode":{"stepnavigation":{"previous":"Previous step","next":"Next step","page":"Step"},"untitled":"Untitled","selection":{"selectanoption":"-- Select an option --","selectoptions":"-- Select options --"},"reset":"Reset form","submit":"Submit","refreshcaptcha":"Refresh captcha","captchalabel":"Word verification","malformstepconfigruation":"Improperly formed FormStep configuration. Some steps are attached to pages, while some steps are not attached, or attached to content with no public URL.","commonvalidationfail":"This element value is not valid.","readonlymode":"Read-only mode. Submitted data is not saved."},"contentediting":{"optionitem":{"caption":"Choice","value":"Value","checked":"Checked by default","containsinvalidcharacter":"Comma (,) character is not allowed."},"emailtemplateactor":{"fromemail":"From","fromemaildescription":"Email address to send from","toemails":"To","toemailsdescription":"Email address to send to, or name of a form field with the email address (for confirmation emails)","subject":"Subject","subjectdescription":"Subject line for the email. You can use #FIELDNAME# to insert values from the form.","body":"Message","bodydescription":"The body of the email. You can insert values from the form with #FIELDNAME#, or show a summary listing of the form fields with #SUMMARY.","fromemailplaceholder":"someone@example.com","toemailsplaceholder":"address@example.com,...","subjectplaceholder":"Enter email subject"},"webhookactor":{"url":"Webhook URL","urldescription":"Webhook URL to send data payload to (http or https protocol).","jsonformat":"POST data in JSON format"},"validation":{"greaterthanequaltoerrorformat":"The {0} must be >= {1}'s value.","lessthanequaltoerrorformat":"The {0} must be <= {1}'s value.","inrangeerrorformat":"\"{0}\" is not a valid value for {1}. Only number is allowed and {1} must be in range of [{2} - {3}]'s value.","stepinrangeerrorformat":"The {0} must be >= 1 and <= {2} - {1} value.","positiveinteger":"Only a positive number is allowed.","circulardependency":"Circular dependency configuration is not allowed"},"fielddependency":{"condition":{"field":"Field","operator":"Operator","value":"Value"},"invalidcondition":"The condition is no longer valid","conditiondialog":{"title":"Condition Details"}}},"externalsystems":{"episerver.marketing.connector.forms.marketingconnectormapping":{"displayname":"MA System Database"}},"conditioncombination":{"all":"All","any":"Any"},"satisfiedaction":{"hide":"Hidden","show":"Shown"},"admin":{"databasejob":{"expiredformsubmissionremovejob":{"description":"\n                                This job will delete all expired Form Submission data. The expiration of Form Submission data is defined in the form properties, retention policy. In addition, all submissions of forms that are no longer available are also deleted as well.\n                            ","displayname":"Form Submissions Cleanup","returnmessage":"{0} expired submission(s) deleted. {1} submission(s) of removed form deleted."}}}}
         }
     });
 })();
@@ -223,27 +281,79 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
+    <meta property="og:title" content="SurePayroll - Small Business Payroll Services">
+<meta property="og:description" content="SurePayroll is a Small Business Payroll Company providing Online Payroll Services such as Payroll Tax Services, Accounting Services and 401k Plans.">
+<meta property="og:url" content="http://www.surepayroll.com">
+<meta property="og:image" content="https://www.surepayroll.com/globalassets/images/homepage/payroll-hero.jpg">
+
+<!--Organization Schema Markup -->
+<script type="application/ld+json" async="">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "SurePayroll",
+	"description": "SurePayroll is a Small Business Payroll Company providing Online Payroll Services such as Payroll Tax Services, Accounting Services and 401k Plans.",
+	"logo": "https://www.surepayroll.com/globalassets/images/spr-main-logo.jpg",
+	"url": "https://www.surepayroll.com",
+	"telephone": "1-877-956-7873",
+	"sameAs": ["https://twitter.com/surepayroll","https://www.linkedin.com/company/surepayroll","https://plus.google.com/+surepayroll","https://www.facebook.com/SurePayroll"],
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Glenview, IL"
+	}
+}
+</script>
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript" async="">
 var _vwo_code=(function(){
-var account_id=382155,
+var account_id=351544,
 settings_tolerance=2000,
 library_tolerance=2500,
 use_existing_jquery=false,
 /* DO NOT EDIT BELOW THIS LINE */
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=382155&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181227110852id_%2Fhttps%3A%2F%2Fwww.surepayroll.com%2Fabout%2Fprivacy%2F&amp;r=0.6609901587344462" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=351544&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190528093203id_%2Fhttps%253A%2F%2Fwww.surepayroll.com%2Fabout%2Fprivacy&amp;r=0.0021374733641945642" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript" defer="">
+function setCookie(name, value, days){
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000)); 
+    var expires = "; expires=" + date.toGMTString();
+    document.cookie = name + "=" + value + expires;
+}
+function getParam(p){
+    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+var gclid = getParam('gclid');
+if(gclid){
+    var gclsrc = getParam('gclsrc');
+    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+        setCookie('gclid', gclid, 90);
+    }
+}
+</script>
+
+
+<script>
+    if (gclid) {
+setTimeout(function getGclid() {
+document.getElementsByClassName("gclid-class")[0].value =(name = new     RegExp('(?:^|;\\s*)gclid=([^;]*)').exec(document.cookie)) ? 
+name.split(",")[1] : "" },3000);
+    }
+
+</script>
+
 
 <script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"71e93313-e456-4a45-b1dc-ebed3805cfa5",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script></head>
-<body style="">
+<body>
     <script type="text/javascript">
 
 $(document).ready(function () {
 
      //enrollment buttons - add universal cookie
     var enrollmentButton =
-       document.querySelectorAll("a[href='https://easy.surepayroll.com/getstarted_topnav'],a[href='https://easy.surepayroll.com/getstarted_comqr'],a[href='https://easy.surepayroll.com/promo_heroimage'],a[href='https://easy.surepayroll.com/promo_freetrialbutton'],a[href='https://easy.surepayroll.com/promo_bottom_hp']");
+       document.querySelectorAll("a[href='https://start.surepayroll.com/signup'],a[href='https://start.surepayroll.com/getstarted_comqr'],a[href='https://start.surepayroll.com/promo_heroimage'],a[href='https://start.surepayroll.com/promo_freetrialbutton'],a[href='https://start.surepayroll.com/promo_bottom_hp']");
 
 
        
@@ -272,7 +382,7 @@ $(document).ready(function () {
 
 
     <a href="#main" id="sfSkip" class="visuallyhidden">Skip To The Main Content</a>
-
+    
     
 
 
@@ -296,7 +406,7 @@ $(document).ready(function () {
         </label>
     </fieldset>
 </div>
-    <div class="top-navigation theme-dark-gray py-2">
+<div class="top-navigation theme-dark-gray py-2">
     <div class="container">
         <div class="text-align-right">
             <div class="top-nav-links">
@@ -304,21 +414,21 @@ $(document).ready(function () {
                             <a href="tel:8779547873">877-954-7873</a>
                         </span>
                         <span class="mr-3 top-nav-link">
-                            <a href="https://secure.surepayroll.com/SPF/Login/Auth.aspx">Sign In</a>
+                            <a href="https://secure.surepayroll.com/SPF/Login/Auth.aspx">Login</a>
                         </span>
             </div>
             <a href="#" class="dis-inline-block pillbox-primary-white search-toggle">Search</a>
         </div>
     </div>
 </div>
-    
     <div class="theme-white py-4 main-navigation">
         <div class="container">
-            <a class="logo" href="/">
-                
-<img class="img-responsive" src="/globalassets/images/spr-main-logo.jpg" alt="SurePayroll.com ">
-            </a>
-<div class="d-none d-xl-block main-navigation-links">
+                <a class="logo" href="/">
+                    
+<img class="img-responsive" src="/globalassets/images/spr-main-logo.jpg" alt="SurePayroll.com">
+                </a>
+
+    <div class="d-none d-xl-block main-navigation-links">
 
 
 <div class="dis-inline-block ml-4 pos-rel menu-item">
@@ -394,8 +504,8 @@ $(document).ready(function () {
 </div>
 
 <div class="dis-inline-block ml-4 pos-rel menu-item">
-    <a href="https://easy.surepayroll.com/getstarted_topnav">
-        Sign Up Now
+    <a href="https://start.surepayroll.com/signup">
+        Register Now
     </a>
 </div>
 
@@ -403,12 +513,13 @@ $(document).ready(function () {
     <a href="/payroll/instant-payroll-quote" class="pillbox-primary">
         Get My Payroll Quote
     </a>
-</div></div>
+</div>    </div>
 
 <div class="tablet-menu d-xl-none my-auto">
-    <button class="tablet-menu-btn  pillbox-primary">
-        MENU&nbsp;☰
-    </button>
+        <button class="tablet-menu-btn  pillbox-primary">
+            MENU&nbsp;☰
+        </button>
+
 </div>        </div>
     </div>
     <div class="accordion d-xl-none mobile-nav tablet-mobile-menu" id="mobileNavAccordion">
@@ -448,7 +559,7 @@ $(document).ready(function () {
             
 
         <div class="card theme-brand-hr-gray border-sides-light ml-3 collapse" id="sectionSmall_Business_Payroll3">
-                <a href="/link/659c80b5b4434a5c85ea774e142ca46a.aspx">
+                <a href="/payroll/features">
                     <div class="card-header theme-brand-hr-gray p-sides-none">
                         <div class="mb-0 dis-inline-block">
                             Features
@@ -513,7 +624,7 @@ $(document).ready(function () {
             
 
         <div class="card theme-brand-hr-gray border-sides-light ml-3 collapse" id="sectionNanny_Payroll3">
-                <a href="/industry/nanny/taxes">
+                <a href="/industry/nanny/payroll-guide">
                     <div class="card-header theme-brand-hr-gray p-sides-none">
                         <div class="mb-0 dis-inline-block">
                             Nanny Taxes
@@ -663,7 +774,7 @@ $(document).ready(function () {
 
                     <div class="nav-rail-heading">
 
-                        <h2>SurePayroll Price Calculator</h2>
+                        <h3>Get A Payroll Quote</h3>
 
                     </div>
                 <div class="priceCalculatorForm">
@@ -672,7 +783,7 @@ $(document).ready(function () {
                     </div>
 
                     <div>
-                            <h2 class="formTitle">All Fields Required</h2>
+                            <h3 class="formTitle">All Fields Required</h3>
 
 
                         <div><div>
@@ -690,9 +801,9 @@ $(document).ready(function () {
     <input type="hidden" class="Form__Element Form__SystemElement FormHidden FormHideInSummarized" name="__FormLanguage" value="en" data-f-type="hidden">
     <input type="hidden" class="Form__Element Form__SystemElement FormHidden FormHideInSummarized" name="__FormCurrentStepIndex" value="0" data-f-type="hidden">
     <input type="hidden" class="Form__Element Form__SystemElement FormHidden FormHideInSummarized" name="__FormSubmissionId" value="" data-f-type="hidden">
-    <input name="__RequestVerificationToken" type="hidden" value="j5qenm_ImBmxi7rGPqdzihgfd8qFfCTUF_womZK1GIgxKhkkpN0-O7yhHEtgFS2dYSzpD2GZ7-vQQIGZXbmEWxMc0pg1">
+    <input name="__RequestVerificationToken" type="hidden" value="4B44zHZTK6iMI4eL2xRmuea501yKcr_fZ9wMyMiYIn63BWfNjOyqaMcQxEp-zKAn9dgeb9rJtSBK88kvVT8P8fw2w_U1">
 
-     <h2 class="Form__Title">SurePayroll Price Calculator</h2> 
+     <h3 class="Form__Title">Get A Payroll Quote</h3> 
 
     
     <div class="Form__Status">
@@ -729,7 +840,7 @@ $(document).ready(function () {
             </select>
         </span>
 <div class="Form__Element__ValidationError" data-f-linked-name="__field_328" data-f-validationerror="" style="display:none"></div>
-</div><div class="Form__Element FormTextbox sfFormBox sfTxtBoxMedium  ValidationRequired" data-f-element-name="__field_468" data-f-type="textbox">
+</div><div class="Form__Element FormTextbox sfFormBox sfTxtBoxMedium addCookie ValidationRequired" data-f-element-name="__field_468" data-f-type="textbox">
 
         <div>
             <label for="c885cc3b-6c4e-4e22-94a0-7f93ec46c64d" class="Form__Element__Caption sfTxtLbl sfInlineBlock">Name</label>
@@ -741,7 +852,7 @@ $(document).ready(function () {
 
         <div class="Form__Element__ValidationError" data-f-linked-name="__field_468" data-f-validationerror="" style="display:none"></div>
         
-</div><div class="Form__Element FormTextbox sfFormBox sfTxtBoxMedium  ValidationRequired" data-f-element-name="__field_469" data-f-type="textbox">
+</div><div class="Form__Element FormTextbox sfFormBox sfTxtBoxMedium addCookie ValidationRequired" data-f-element-name="__field_469" data-f-type="textbox">
 
         <div>
             <label for="c5844927-a409-4757-9c55-4f4f8c5e6146" class="Form__Element__Caption sfTxtLbl sfInlineBlock">Email</label>
@@ -834,15 +945,36 @@ $(document).ready(function () {
 <input name="__field_530" id="0facff75-633a-4c39-a9b0-f543669ad4e4" type="hidden" value="" class="Form__Element FormHidden FormHideInSummarized" data-f-type="hidden">
 
 
+    <input name="__field_12878" id="53d854e0-9e98-4287-8f26-cb2ce3f911e7" type="hidden" value="" class="Form__Element FormHidden FormHideInSummarized" data-f-type="hidden">
+
+
+    <input name="__field_12879" id="3607ee74-3c2c-4f9b-8547-9f034e2ee66e" type="hidden" value="" class="Form__Element FormHidden FormHideInSummarized" data-f-type="hidden">
+
+
+<input name="__field_12880" id="3b169dad-28f4-476d-af48-53764d90c965" type="hidden" value="" class="Form__Element FormHidden FormHideInSummarized partner-code " data-f-type="hidden">
+
+
 <div class="formSubmit quote-submit">
 
     <button id="4296ebf9-a3bc-418a-9549-3c07889911b7" name="submit" type="submit" value="4296ebf9-a3bc-418a-9549-3c07889911b7" data-f-is-finalized="false" data-f-is-progressive-submit="true" data-f-type="submitbutton" class="Form__Element FormExcludeDataRebind FormSubmitButton quote-submit obtn">
-        Calculate Now
+        Get Quote
         
     </button>
 
 </div>
 
+<script type="text/javascript">
+    $(function () {
+         
+        $('#4296ebf9-a3bc-418a-9549-3c07889911b7').click(function () {
+            $('html, body').animate({
+                    scrollTop: '77px'
+                },
+                1000);
+            return false;
+        });
+    });
+</script>
         </section>
 
         
@@ -851,7 +983,16 @@ $(document).ready(function () {
     
 
     </form>
-</div></div>
+
+
+
+<style>
+
+    .EPiServerForms .Form__Element .Form__Element__ValidationError {
+        font-weight: bold;
+
+    }
+</style></div></div>
                     </div>
 
                 </div>
@@ -869,9 +1010,9 @@ $(document).ready(function () {
 
         <div class="nav-rail-heading">
 
-            <h2>
+            <h3>
                 SurePayroll.com
-            </h2>
+            </h3>
 
         </div>
 
@@ -920,88 +1061,87 @@ $(document).ready(function () {
 <div class="sf_colsOut sf_1col_1_100">
 <div id="Content_C015_Col00" class="sf_colsIn sf_1col_1in_100">
 <div class="sfContentBlock">
-<h3><strong>Privacy Statement</strong></h3>
-<p>This Privacy Statement describes how SurePayroll collects, uses, shares and protects business, financial, and personal information. This statement applies to all information collected or submitted on this website and mobile applications (“Site”). This notice is available on the homepage of this Site and at every login page where personally identifiable information may be requested.<br><br>Your privacy, and the privacy of the information provided, is important to us. We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration and untimely destruction. We grant access to personal information about you only to our employees, agents, and service providers so they can provide products or services, process and service your account, and administer our business.<br><br>At times, we will provide you with links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="sf_cols">
-<div class="sf_colsOut sf_1col_1_100">
-<div id="Content_C020_Col00" class="sf_colsIn sf_1col_1in_100">
-<div class="sfContentBlock">
+<p>This policy describes how SurePayroll, a Paychex company, collects, uses, shares, and protects business, financial, and personal information.&nbsp; This notice is available on the homepage of this website and at every login page where personally identifiable information may be requested.</p>
+<p>SurePayroll is committed to protecting the privacy of those who visit our websites. &nbsp;As part of our normal operations, we collect different types of information about our website visitors. We have, however, structured our websites so that people have the option to visit without identifying themselves or revealing any personal information.</p>
+<p>We use reasonable care to protect your data from loss, misuse, unauthorized access, disclosure, alteration, and untimely destruction. We do not grant access to personal information about you except as otherwise set forth herein.&nbsp; We do not share or sell personal information collected on the websites with any third parties for their own marketing purposes.</p>
+<p>This website may contain links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.</p>
+<p>The following are things you can do while visiting our website if you prefer NOT to have information about your visit collected.</p>
 <ul>
-<li>Information Collection and Use</li>
-<li>Parties with Whom Information May be Shared</li>
-<li>How to Access and Correct Your Information</li>
-<li>Security</li>
-<li>Changes to this Privacy Statement</li>
+<li>Disable cookies within your browser before visiting our website;</li>
+<li>Choose not to submit information via web forms located within our website;</li>
+<li>Choose not to enroll in or purchase our products or services;</li>
+<li>Choose not to “opt-in” to certain programs that are available on our websites;</li>
+<li>Choose not to complete any surveys available on our website.</li>
 </ul>
-</div>
-</div>
-</div>
-</div>
-<div class="sf_cols">
-<div class="sf_colsOut sf_1col_1_100">
-<div id="Content_C021_Col00" class="sf_colsIn sf_1col_1in_100">
-<div class="sfContentBlock"><strong><br>INFORMATION COLLECTION AND USE</strong><br><br>What information is collected<br><br>We limit the collection of personal information to the information that we need to administer and improve the Site, to provide our products and services (“Services”) to our customers, and to fulfill any legal and regulatory requirements.<br><br>The categories of personal information that we collect may include, but are not limited to: The categories of personal information that we collect may include, but are not limited to:</div>
-<div class="sfContentBlock">
+<p>The following describes the information we collect and how that information is used to provide our visitors with the optimal online experience.</p>
+<p>&nbsp;</p>
+<h2><strong>Cookies and Spotlight Images or Web Beacons</strong></h2>
+<p>We use session cookies to limit popup windows to a single browser instance. We also use Javascripting in cooperation with cookies and "spotlight images" or "web beacons" to track website traffic and email response. A "spotlight image" or "web beacon" is an electronic image, called a 1-by-1 pixel or clear GIF, that can recognize certain types of information on your computer, such as your cookie number, time and date of a page view. These methods do not collect any personal information, but simply aggregate information that allows us to research patterns of behavior on our website to learn how to better meet our visitors' needs. &nbsp;You may refuse cookies by turning off that feature in your web browser.</p>
+<p>In addition, we may use or allow third parties, such as Google Analytics and Pardot, to serve cookies on our website to help us monitor our website traffic, understand visitor behavior, and to target ads.</p>
+<p>You can opt-out of this information tracking using a web browser that supports Do Not Track functionality, or by manually opting out via websites like the Digital Advertising Alliance Consumer Choice Page. (<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>)</p>
+<p>&nbsp;</p>
+<h2><strong>Information We Collect</strong></h2>
+<p>You may be visiting our website for one of the following activities: (i) browsing, (ii) submitting forms, (iii) subscribing to products and services and or (iv) completing surveys. &nbsp;Please note that not all activities may be available on our websites at a given time. &nbsp;For each type of activity, we collect and store different types of data for different reasons, as outlined below.</p>
+<p>Browsing – If you are simply browsing or navigating through our websites, we collect information about your computer and the pages you visit on our website in the aggregate (not individual or personal information). This data is often referred to as clickstream or navigation data. We use this information for research, analysis, and reporting so that we can improve our navigation, page structure, and page content to help visitors find information more quickly and provide more value when they find what they are looking for on our websites. Additionally, as you interact with different pages and content on our website, this behavioral data may be tracked and used to provide targeted content and site recommendations.</p>
+<p>Submitting Forms - Certain pages of our website contain forms that allow you to request information about our products or services or to gain access to valuable resources (like white papers and research documents) in exchange for contact information. In completing one of these forms, you may be required to provide contact information, such as your name, phone number, and/or email address. This information is for SurePayroll use only. By providing your contact information, you consent to receive periodic emails from SurePayroll related to products and services. You may unsubscribe from SurePayroll emails at any time.</p>
+<p>Subscribing - For processing payroll and other services, we will require you to create an account with us. We collect information in this account that enables us to provide our products and services streamline your future processing., The categories of personal information that we collect may include, but are not limited to:</p>
 <ul>
-<li>Contact information to allow us to communicate with you</li>
-<li>Employer information, including financial and bank account information, to provide the Services</li>
-<li>
-<div>Employee information, including social security number, date of birth, financial, bank account, medical and beneficiary information, to provide the Services</div>
-</li>
-<li>
-<div>Credit, debit, or cash/payment card information if used, such as for billing</div>
-</li>
-<li>
-<div>Credit or debt history regarding your creditworthiness or credit history</div>
-</li>
-<li>
-<div>Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module</div>
-</li>
+<li>Contact information</li>
+<li>Employer information, including financial and bank account information to provide and/or offer services</li>
+<li>Employee information, including social security number, date of birth, financial, bank account, medical and beneficiary information, to provide Services</li>
+<li>Credit, debit, or cash/payment card information if used, such as for billing</li>
+<li>Credit or debt history regarding your creditworthiness or credit history</li>
+<li>Employment history and application information that can be used to determine eligibility for a job opening via our recruiting module</li>
 </ul>
-</div>
-<div class="sfContentBlock"><br><strong>How personal information is collected</strong><br><br>We do not require you to provide any personal information in order to have general access to the Site. However, in order to access or use certain information, features or Services at the Site, you may be required to provide personal information. Personal information is primarily collected:</div>
-<div class="sfContentBlock">
+<p>&nbsp;</p>
+<p>Completing Surveys - For surveys, we collect responses to help us improve various aspects of our business based on aggregate and individual feedback provided. These surveys are sent via marketing programs or are made available on our website for you to participate if you so choose.</p>
+<p>&nbsp;</p>
+<h2><strong>How We Use Your Information</strong></h2>
+<p>&nbsp;We may use your personal data, as outlined above, to:</p>
 <ul>
-<li>When you utilize the Services, we obtain from you the information we need to provide the Services.</li>
-<li>From applications, forms and other information you provide us on the Site</li>
-<li>When you establish an account, or an account is established for you at the direction of your employer, to receive Services</li>
-<li>From survey information and/or site registration</li>
-<li>If you provide us with comments or suggestions, request information about our Services, or contact our customer service department via phone, email or other forms of communication</li>
-<li>From consumer and business reporting agencies regarding your creditworthiness or credit history</li>
-<li>From third parties to verify information given to us</li>
-<li>How personal information is used</li>
+<li>facilitate customer requested Services, transactions, investments, distributions, and benefits;</li>
+<li>contact you regarding specific programs, products, or services of ours;</li>
+<li>comply with legal, reporting, and regulatory requirements; or</li>
+<li>send you surveys regarding current services or potential new services that we may offer; or</li>
+<li>send you newsletters, event notices and announcements, and promotional materials regarding specific programs, products, or services.</li>
 </ul>
-</div>
-<div class="sfContentBlock"><strong><br>How personal information is used</strong><br><br>We use the information provided on the Site to perform the Services you request. We limit the collection of private customer information that we need to:</div>
-<div class="sfContentBlock">
-<ul>
-<li>Facilitate customer requested transactions, investments, distributions and benefits</li>
-<li>Provide superior service to our customers</li>
-<li>Comply with legal, reporting and regulatory requirements</li>
-<li>Administer and improve our websites</li>
-<li>Detect fraud or theft to protect our business and client information</li>
-<li>Contact you with information on Services, new Services or products, or upcoming events</li>
-<li>Facilitate applicant tracking and recruitment</li>
-</ul>
-</div>
-<div class="sfContentBlock"><br><strong>How aggregated, non-personal information is used</strong><br><br>We may collect general, non-personal, statistical information about the users of the Site and our services in order to determine information regarding the use of our Site and general information about our customers. We may also group this information to provide general aggregated data, such as the SurePayroll Small Business Scorecard®. The aggregated data will not personally identify any customers or visitors to the Site.<br><br><strong>How cookies are used</strong><br><br>A “cookie” is a piece of data that our Site may provide to your browser while you are at our Site. The information stored in a cookie is used for user convenience purposes, such as reducing repetitive messages, tracking helper tool versions, and retaining user display preferences. If a user rejects the cookie, they will be able to browse the Site but will be unable to use our online application.<br><br>Other parties, such as third party ad networks, may collect information about an individual’s online activities when a consumer uses our website.<br><br>Children under 13 years of age<br><br>This site is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13 years of age. All dependent data needed for benefits enrollment is customarily provided by the employee/guardian and kept secure as indicated in this Statement.<br><br>Your California privacy rights<br><br>Under California Civil Code 1798, California residents with an established business relationship can request information about sharing their personal information with third parties for the third parties’ direct marketing purposes. If you are a California resident and would like more information, please contact your service provider.<br><br>PARTIES WITH WHOM INFORMATION MAY BE SHARED<br><br>We do not sell or disseminate customer information collected on the Site to any third parties under any circumstances, except to fulfill legal and regulatory requirements or to facilitate customer requested transactions.<br><br>Information is shared to facilitate the Services needed in order to properly and efficiently handle duties related to your account. We may share information with:<br>
-<div>&nbsp;</div>
-</div>
-<div class="sfContentBlock">
+<p>&nbsp;</p>
+<p>We may place email links on this website to allow you to contact us directly via email. The information you provide is used to respond directly to your questions or comments. Those comments may be stored to improve the quality of our site and our services.</p>
+<p>In addition, from time to time, we will rent relevant public mailing lists from reputable agencies that have obtained your prior approval to receive relevant information based on your personal preferences. &nbsp;Any promotional information sent to you by us will contain instructions on how to be removed from a mailing list source. &nbsp;</p>
+<p>&nbsp;</p>
+<h2><strong>Parties With Whom Information May Be Shared</strong></h2>
+<p>Information is shared to facilitate the Services needed in order to properly and efficiently handle duties related to your account.&nbsp; We will only provide the personal data needed to deliver the Service. We may share information with:</p>
 <ul>
 <li>Government agencies to fulfill legal, reporting and regulatory requirements</li>
-<li>Attorneys, accountants and auditors</li>
-<li>Credit reporting agencies to supply vendor references on client’s behalf</li>
-<li>Our employees, affiliated companies, subsidiaries, agents and third party service vendors to perform Services related to your account, to offer additional Services, perform analysis to determine qualification to receive future services or collect amounts due.</li>
+<li>Our employees, affiliated companies, agents and third party service vendors to perform services on our behalf, such as handling the processing and delivery of mailings, soliciting customer feedback, offering additional services, or performing statistical analysis of our services. &nbsp;</li>
 <li>Banking and brokerage firms to complete payroll processing and securities transactions</li>
+<li>Attorneys, accountants and auditors</li>
+</ul>
+<ul>
 <li>Credit bureaus and similar organizations, law enforcement or government officials. We reserve the right to release information if we are required to do so by law or if, in our business judgment, such disclosure is reasonably necessary to comply with legal process, in a fraud investigation, an audit or examination.</li>
 </ul>
+<p>&nbsp;</p>
+<h2><strong>Children</strong></h2>
+<p>We are concerned about the privacy of young children and do not knowingly collect any personal information from a child under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our records and systems.</p>
+<p>All dependent data needed for benefits enrollment is customarily provided by the employee/guardian and kept secure as indicated in this statement.</p>
+<p>&nbsp;</p>
+<h2><strong>Your California Privacy Rights</strong></h2>
+<p>Under California Civil Code 1798, California residents with an established business relationship can request information about sharing their personal information with third parties for the third parties’ direct marketing purposes. If you are a California resident and would like more information, please contact your service provider.<br><br></p>
+<h2><strong>Communication Preferences</strong></h2>
+<p>If you have opted to receive any of our marketing emails or if you have otherwise provided us with contact details and no longer wish to receive our marketing emails you can let us know by following the unsubscribe instructions contained at the bottom of any email that we send to you. Also, in compliance with the CAN-SPAM Act, we provide our physical mailing address in all marketing email communications for general correspondence and opt-out communications.</p>
+<p>If we lack sufficient information to process your request, we may contact you to request further information or clarification.</p>
+<p>&nbsp;</p>
+<h2><strong>Security</strong></h2>
+<p>For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the Security page (<a href="/about/security">https://www.surepayroll.com/about/security</a>).</p>
+<p>&nbsp;</p>
+<h2><strong>New Technology</strong></h2>
+<p>Since the use of new technology including but not limited to cookies and web beacons is rapidly evolving, we may change or use additional technologies from time to time. You are encouraged to visit this page for any updates to this policy regarding these new technologies.</p>
+<p>&nbsp;</p>
+<h2><strong>Changes To This Privacy Policy</strong></h2>
+<p>We reserve the right to update or modify this policy at any time, due to legislative changes, changes in technology or our privacy practices, or new uses of customer information not previously disclosed. Updates are effective upon publication and your continued use of this website will indicate your acceptance of those changes. Please refer to this Statement regularly.</p>
+<p>If you have any questions or complaints about this privacy policy, the practices of this site or your interactions with this site, please contact your service provider.<br><br></p>
+<p>Last revised date: April 12, 2019</p>
 </div>
-<div class="sfContentBlock"><br><strong>HOW TO ACCESS AND CORRECT YOUR INFORMATION</strong><br><br>Keeping your information accurate and up-to-date is very important. You can review or correct your account information by contacting a customer service representative. If you have an account at the Site, you can make changes to your account information after you login to the Site from your PC or wireless device and using the online tools. Note that some information changes may be done by or have to be done through your employer.<br><br><strong>SECURITY</strong><br><br>For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the Security page.<br><br><strong>CHANGES TO THIS PRIVACY STATEMENT</strong><br><br>This statement may be revised from time to time due to legislative changes, changes in technology or our privacy practices or new uses of customer information not previously disclosed in this Statement. Revisions are effective upon posting and your continued use of this Site will indicate your acceptance of those changes. Please refer to this Statement regularly.<br><br>If you have any comments, concerns or questions about this Privacy Statement, please contact your service provider.<br><br>Last revised date: August 27, 2014</div>
 </div>
 </div>
 </div>
@@ -1018,63 +1158,62 @@ $(document).ready(function () {
 
 </main>
 
-<footer class="block-row py-5 bg-dark-blue">
-    <div class="container">
-        <div class="row footer-mob-tab-container">
-                        <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
-                            <div class="footer-title font-24">
-                                <b>About Us</b>
+    <footer class="block-row py-5 bg-dark-blue">
+        <div class="container">
+            <div class="row footer-mob-tab-container">
+                            <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
+                                <div class="footer-title font-24">
+                                    <b>About Us</b>
+                                </div>
+                                
+                                        <div class="footer-links">
+                                            <a href="/about">About the Company</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/about/careers">Careers</a>
+                                        </div>
                             </div>
-                            
-                                    <div class="footer-links">
-                                        <a href="/about">About the Company</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/about/careers">Careers</a>
-                                    </div>
-                        </div>
-                        <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
-                            <div class="footer-title font-24">
-                                <b>Payroll Services</b>
+                            <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
+                                <div class="footer-title font-24">
+                                    <b>Payroll Services</b>
+                                </div>
+                                
+                                        <div class="footer-links">
+                                            <a href="/resources">Resources</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/payroll/payroll-services">Payroll Services</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/benefits">Benefits &amp; HR</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/accountants">Accountants</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/resources/blog">SurePayroll Blog</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/resources/states">Payroll by State</a>
+                                        </div>
+                                        <div class="footer-links">
+                                            <a href="/about/faq">FAQs</a>
+                                        </div>
                             </div>
-                            
-                                    <div class="footer-links">
-                                        <a href="/resources">Resources</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/payroll/payroll-services">Payroll Services</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/benefits">Benefits &amp; HR</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/accountants">Accountants</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/resources/blog">SurePayroll Blog</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/resources/states">Payroll by State</a>
-                                    </div>
-                                    <div class="footer-links">
-                                        <a href="/about/faq">FAQs</a>
-                                    </div>
-                        </div>
-                        <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
-                            <div class="footer-title font-24">
-                                <b>Contact Us</b>
-                            </div>
-                            <p><a href="/link/abbf963b09ed4a0e9694b581bfa44ad2.aspx">Customer Support</a></p>
+                            <div class="footer-column col-lg-3 col-md-4 order-lg-1 order-2">
+                                <div class="footer-title font-24">
+                                    <b>Contact Us</b>
+                                </div>
+                                <p><a href="/link/abbf963b09ed4a0e9694b581bfa44ad2.aspx">Customer Support</a></p>
 <p>Mon-Fri: 7am - 8pm Central<br>Sat: 9am - 1pm Central<br>Phone: <a href="tel:8779567873">877-956-7873</a><br>Fax: <a href="tel:8476765150">847-676-5150</a></p>
 <p>Languages: English &amp; Spanish</p>
-                        </div>
-            <div class="spr-logo-footer col-lg-3 col-md-12 order-lg-4 order-1">
+                            </div>
+                <div class="spr-logo-footer col-lg-3 col-md-12 order-lg-4 order-1">
 
-<img class="img-responsive" src="/globalassets/images/spr-footer-logo.png" alt="SurePayroll.com">            </div>
+<img class="img-responsive" src="/globalassets/images/spr-footer-logo.png" alt="SurePayroll.com">                </div>
+            </div>
         </div>
-    </div>
-</footer>
-
+    </footer>
 
 
 <div class="theme-dark-gray bottom-footer">
@@ -1082,14 +1221,14 @@ $(document).ready(function () {
         <div class="row">
             <div class="bottom-footer-links-container col-md-12 col-lg-8 bottom-footer-links-container order-lg-1 order-md-2 order-sm-2 order-2">
                 <div class="dis-inline-block bottom-footer-links">
-                    <span>© 2018</span>
+                    <span>© 2019</span>
                         <a href="http://www.paychex.com/" target="_top">A Paychex Company<span>.</span></a>
                                             <span>|</span>
                              <a href="/about/privacy" target="_blank">Privacy Policy</a>
                              <span>|</span>
                              <a href="/terms">Terms of Service</a>
                              <span>|</span>
-                             <a href="/site-map">Site Map</a>
+                             <a href="/about/licenses" target="_top">Licenses</a>
                              <span>|</span>
                 </div>
             </div>
@@ -1124,22 +1263,24 @@ $(document).ready(function () {
 </div>
 
 
+
+
     
 <noscript>
 	<img src="/util/LiveMonitor/Tracking/Index?contentId=1271&amp;languageId=en" alt="" style="display:none" />
 </noscript>
 
 <script type="text/javascript" src="https://dl.episerver.net/13.0.5/epi-util/find.js"></script>
-<script type="text/javascript" src="/WebResource.axd?d=TzRGlCddaaqtz0Im2nSJhHeRRlq-jg7P_eNtfRvyMeSUWC9oeE4ye3KpoIJ8eJeRIuNIO7E7FfWrDPNlQTs5vZ2rDxvrtW79WAkoxMYpIOiL2KhNR6TNCGzEuVQcZQkoRWFiPEW7iBLjOMLOPBbRAhLcLN81&amp;t=636718244700000000"></script>
+<script type="text/javascript" src="/WebResource.axd?d=TzRGlCddaaqtz0Im2nSJhHeRRlq-jg7P_eNtfRvyMeSUWC9oeE4ye3KpoIJ8eJeRIuNIO7E7FfWrDPNlQTs5vZ2rDxvrtW79WAkoxMYpIOiL2KhNR6TNCGzEuVQcZQkoRWFiPEW7iBLjOMLOPBbRAhLcLN81&amp;t=636912635500000000"></script>
 <script type="text/javascript">
 void(function(){var tUrl = "/util/LiveMonitor/Tracking/Index?contentId=1271&languageId=en";tUrl += (tUrl.indexOf("?") > 0 ? "&" : "?");var tUrl1 = tUrl + "r=" + Math.random() + "&referrer=" + escape(document.referrer);document.write("<img id='LiveMonTransparentImage' src='" + tUrl1 + "' alt='' width='1' height='1'/>");window.onpageshow = function (ev) {if (ev && ev.persisted){document.getElementById("LiveMonTransparentImage").src = tUrl + "r=" + Math.random() + "&referrer=" + escape(document.referrer);}}}());
-</script><img id="LiveMonTransparentImage" src="/util/LiveMonitor/Tracking/Index?contentId=1271&amp;languageId=en&amp;r=0.027467434020831183&amp;referrer=" alt="" width="1" height="1">
+</script><img id="LiveMonTransparentImage" src="/util/LiveMonitor/Tracking/Index?contentId=1271&amp;languageId=en&amp;r=0.24775015190740035&amp;referrer=" alt="" width="1" height="1">
 <script type="text/javascript">
 if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
 </script>
 
 
-    <script type="text/javascript" src="/Static/dist/js/main/sprResource-0857e0e961caf378af3b40a5293e04e8/main.js"></script>
+    <script type="text/javascript" src="/Static/dist/js/main/sprResource-38120a3114c62d88b11f15f8a735a972/main.js"></script>
     <script type="text/javascript" src="/Static/dist/js/vendor/owl.carousel.min.js"></script>
     <script type="text/javascript" src="/Static/dist/js/main/jquery-functions.js"></script>
     <script type="text/javascript" src="/Static/dist/js/vendor/jquery.dataTables.min.js"></script>
@@ -1156,27 +1297,56 @@ if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApi
 
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c12a0c91c985700119229ca&amp;product=inline-share-buttons" async="async"></script>
 
-        <!--Start Live Chat-->
-        <script type="text/javascript" src="https://c.la4-c1-dfw.salesforceliveagent.com/content/g/js/42.0/deployment.js"></script>
-        <!--End Live Chat-->
-    <!--Organization Schema Markup -->
-<script type="application/ld+json">
-{
-	"@context": "http://schema.org",
-	"@type": "Organization",
-	"name": "SurePayroll",
-	"description": "SurePayroll is a Small Business Payroll Company providing Online Payroll Services such as Payroll Tax Services, Accounting Services and 401k Plans.",
-	"logo": "https://www.surepayroll.com/globalassets/images/spr-main-logo.jpg",
-	"url": "https://www.surepayroll.com",
-	"telephone": "1-877-956-7873",
-	"sameAs": ["https://twitter.com/surepayroll","https://www.linkedin.com/company/surepayroll","https://plus.google.com/+surepayroll","https://www.facebook.com/SurePayroll"],
-	"address": {
-		"@type": "PostalAddress",
-		"addressLocality": "Glenview, IL"
-	}
-}
+    <script>     
+        $("a[href^='https://start.surepayroll.com'],a[href^='https://easy.surepayroll.com'],a[href^='https://devstart.surepayroll.com'],a[href^='https://stgstart.surepayroll.com']").each(function() {
+            $(this).on("click", function(event){
+                event.preventDefault();
+
+                var href = $(this).attr('href');
+
+                if (href.indexOf('pardotVisitorID=undefined') >= 0) {
+
+                    var pardotCookie = document.cookie.split(';').filter(function (c) {
+                        return c.trim().indexOf('visitor_id') === 0 && c.trim().indexOf('-hash') === -1;
+                    }).map(function (c) {
+                        return c.trim().split('=')[1];
+                    });
+
+                    href = href.replace('pardotVisitorID=undefined', 'pardotVisitorID=' + pardotCookie[0]);
+                }
+
+                window.location.href = href;
+            
+            });
+        });
 </script>
-<!--End Schema Markup -->
+<!-- BoldChat Customer Monitor HTML v5.00 (Website=lps.surepayroll.com,ChatButton=Surepayroll Marketing Site,ChatInvitation=Marketing Site) -->
+<script type="text/javascript">
+  window._bcvma = window._bcvma || [];
+  _bcvma.push(["setAccountID", "6500264634829510686"]);
+  _bcvma.push(["setParameter", "WebsiteID", "3216640478842440047"]);
+  _bcvma.push(["setParameter", "InvitationID", "6437482367040859663"]);
+  _bcvma.push(["setParameter", "VisitName", ""]);
+  _bcvma.push(["setParameter", "VisitPhone", ""]);
+  _bcvma.push(["setParameter", "VisitEmail", ""]);
+  _bcvma.push(["setParameter", "VisitRef", ""]);
+  _bcvma.push(["setParameter", "VisitInfo", ""]);
+  _bcvma.push(["setParameter", "CustomUrl", ""]);
+  _bcvma.push(["setParameter", "WindowParameters", ""]);
+  _bcvma.push(["addFloat", {type: "chat", id: "6437482367605500557"}]);
+  _bcvma.push(["pageViewed"]);
+  var bcLoad = function(){
+    if(window.bcLoaded) return; window.bcLoaded = true;
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/6500264634829510686/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  };
+  if(window.pageViewer && pageViewer.load) pageViewer.load();
+  else if(document.readyState=="complete") bcLoad();
+  else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
+  else window.attachEvent('onload', bcLoad);
+</script>
+<!-- /BoldChat Customer Monitor HTML v5.00 -->
 
 
 
