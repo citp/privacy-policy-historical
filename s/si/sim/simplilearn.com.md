@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905201054id_/https%3A//www.simplilearn.com/terms-and-conditions%23/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528051638id_/https%3A//www.simplilearn.com/terms-and-conditions%23/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions, Rescheduling, Refund and Privacy Policy | Simplilearn
 
@@ -28,6 +28,8 @@ A End-user’s use of the simplilearn platform may be subject to the Customer’
 Our **Customer** must have the authority to act on behalf of the **End-User** and to consent to the collection and use of their Personal Information as described in this Privacy Policy. 
 
 If you are an End-user using our platform, please direct your privacy inquiries to your administrator. Simplilearn is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this privacy statement. 
+
+Simplilearn does not send personalized advertisement or Marketing communication to end users.
 
 ## International Transfer
 
