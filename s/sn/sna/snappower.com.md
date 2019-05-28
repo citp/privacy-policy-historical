@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312114126id_/https%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529005958id_/https%3A//www.snappower.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SnapPower
 
