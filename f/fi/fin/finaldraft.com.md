@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121191020id_/https%3A//www.finaldraft.com/company/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528214031id_/https%3A//www.finaldraft.com/company/legal/privacy-statement) for the most accurate reproduction.*
 
 # Online Privacy Statement | Final Draft®
 
@@ -6,11 +6,11 @@
 
 **Cast & Crew Global Privacy Statement**
 
-Cast & Crew Entertainment Services, LLC, together with our subsidiaries and affiliates (“Cast & Crew”) respects your privacy and is committed to protecting the personal information that you share with us, that is provided to us in connection with our products or services or that we otherwise receive. This Global Privacy Statement describes how we collect and use your personal information.
+Cast & Crew Services, LLC, together with our subsidiaries and affiliates (“Cast & Crew”) respects your privacy and is committed to protecting the personal information that you share with us, that is provided to us in connection with our products or services or that we otherwise receive. This Global Privacy Statement describes how we collect and use your personal information.
 
 Protecting the privacy and security of this personal information is central to Cast & Crew’s mission. This Global Privacy Statement applies to all Cast & Crew entities and addresses the handling and treatment of your personal information. The Global Privacy Statement governs personal information collected by Cast & Crew for our own purposes as well as information provided to us as a data processor for our clients. It applies to information collected both online and offline.
 
-Cast & Crew is also committed to transparency. We want individuals to understand how we collect and use personal information so they can interact with Cast & Crew with confidence. The information below covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and if you have any questions, please contact us directly at Legal Department, Cast & Crew Entertainment Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
+Cast & Crew is also committed to transparency. We want individuals to understand how we collect and use personal information so they can interact with Cast & Crew with confidence. The information below covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and if you have any questions, please contact us directly at Legal Department, Cast & Crew Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
 
 **_Information Collection (online & offline) _**
 
@@ -26,7 +26,7 @@ Cast & Crew will only disclose personal information to the employer and to other
 
 If you are based outside of the United States, your personal information may be transferred to Cast & Crew affiliates and data processers in the United States and elsewhere in the world. We will always protect the privacy and security of your personal information, regardless of where it is processed. Personal information transfers from the European Economic Area and other countries with data transfer restrictions will be authorized by approved model contract provisions or other appropriate means.
 
-If you have questions about your privacy rights, please contact your employer’s human resources department. If you have questions about how Cast & Crew handles your personal information, you may contact us at Legal Department, Cast & Crew Entertainment Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
+If you have questions about your privacy rights, please contact your employer’s human resources department. If you have questions about how Cast & Crew handles your personal information, you may contact us at Legal Department, Cast & Crew Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
 
 **_Right to Opt Out_**
 
@@ -66,7 +66,7 @@ Cast & Crew is committed to protecting the privacy and security of all personal 
 
 Cast & Crew will collect and process protected health information only as required or permitted by our services agreements and applicable law, including the Health Insurance Portability and Accountability Act (HIPAA). We will at all times maintain reasonable and appropriate security controls to protect the information as required by the HIPAA Security Rule.
 
-If you have questions about privacy or security, please contact the HIPAA Privacy Official named in the Privacy Notice published by your healthcare provider or health insurance plan. If you have questions regarding how Cast & Crew handles your personal information, you may also contact us at Legal Department, Cast & Crew Entertainment Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
+If you have questions about privacy or security, please contact the HIPAA Privacy Official named in the Privacy Notice published by your healthcare provider or health insurance plan. If you have questions regarding how Cast & Crew handles your personal information, you may also contact us at Legal Department, Cast & Crew Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
 
 **_GDPR Privacy Statement_**
 
@@ -82,7 +82,7 @@ Access to Social Security numbers is limited to those employees and contractors 
 
 California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. Cast & Crew does not share any California consumer personal information with third parties for marketing purposes without consent.
 
-California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us by writing to: Legal Department, Cast & Crew Entertainment Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
+California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us by writing to: Legal Department, Cast & Crew Services, LLC, 2300 Empire Avenue, 5th Floor, Burbank, CA 91504.
 
 **_How Cast & Crew Uses Collected Information_**
 
@@ -98,6 +98,6 @@ Cast & Crew may amend this Global Privacy Statement from time to time to assure 
 
 Legal Department
 
-Cast & Crew Entertainment Services, LLC  
+Cast & Crew Services, LLC  
 2300 Empire Avenue 5th Floor  
 Burbank, CA 91504-4603
