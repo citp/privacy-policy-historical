@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synaptics.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908090503id_/https%3A//www.synaptics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synaptics.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528230617id_/https%3A//www.synaptics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Synaptics
 
@@ -42,6 +42,47 @@ Your personal information may be collected, processed and stored by Synaptics or
 
 SECURITY: Synaptics is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it.
 
+GENERAL DATA PROTECTION REGULATION PRIVACY NOTICE
+
+The purpose of the General Data Protection Regulation ("EU GDPR") is to ensure lawful, fair and transparent collection of all personal data of individuals, regardless of citizenry, in the European Union ("EU Data Subjects") by allowing them to maintain control of their personal data kept and processed by organizations, which includes Synaptics.
+
+Synaptics is committed to safeguarding the privacy of personal data.  This Privacy Notice outlines the collection, use, and disclosure of personal information collected by us through the Synaptics Web Sites.  When EU Data Subjects submit personal data to us, or use the Synaptics Web Sites and other services, EU Data Subjects consent to the collection, use, and disclosure of that information as described in this Privacy Notice.
+
+This Privacy Notice should be read in conjunction with the Privacy Policy above.  In this Privacy Notice, we set out further information on the rights of EU Data Subjects under the EU GDPR.
+
+If you have any questions about this Privacy Notice, please contact our Data Protection Officer at DPO@synaptics.com.
+
+Retention Timelines
+
+The information that EU Data Subjects provide to us is stored on servers that are operated and maintained by us and third parties under contract with us.  We will only retain data for such period of time as may be reasonably necessary to fulfil the purposes set out in the Privacy Policy above and, if relevant, to deal with any claim or dispute that might arise in connection with any services provided on the Synaptics Web Sites.
+
+Transfers Abroad
+
+In connection with the services provided on the Synaptics Web Sites, we may transfer your personal data outside the European Economic Area, including to a jurisdiction which is not recognized by the European Commission as providing for an equivalent level of protection for personal data as is provided for in the European Union.  If and to the extent that we do so, we will ensure that appropriate measures are in place to comply with our obligations under applicable law governing such transfers.  These may include entering into a contract governing the transfer that contains the ‘standard contractual clauses’ approved for this purpose by the European Commission or, in respect of transfers from the EU to the United States of America, ensuring that the transfer is covered by the EU-US Privacy Shield framework. If you would like to receive further details of the measures that we have taken in this regard, please contact us at DPO@synaptics.com
+
+Your Rights.
+
+Under the EU GDPR, EU Data Subjects have the following rights, which apply in certain circumstances and subject to certain restrictions, in relation to personal data:
+
+  * the right to access your personal data;
+  * the right to request the rectification and/or erasure of your personal data;
+  * the right to restrict the use of your personal data;
+  * the right to object to the processing of your personal data;
+  * where our processing of personal data is based on you having provided your consent or the processing is necessary for the performance of a contract with you, you have the right to receive your personal data, which you provided to us, in a structured, commonly used and machine-readable format or to require us to transmit that data to another controller; and
+  * where our processing of your personal data is based on you having provided consent, the right to withdraw your consent to the processing at any time.
+
+
+
+If you wish to exercise any of the rights set out above, please contact us at DPO@synaptics.com.
+
+Complaints
+
+If you are not happy with the way we have used your information or addressed your rights, please contact us at DPO@synaptics.com.
+
+In addition, you have the right to make a complaint to the supervisory authority of the EU member state in which you reside.
+
+Effective Date: January 23, 2019.
+
 Changes to Privacy Policy: Please note that this privacy policy may change from time to time. We will provide notice of any changes on the website or by contacting you.
 
-If you have any questions please go to our [Contact Us page](https://web.archive.org/contact). Last Updated: November 16, 2015
+If you have any questions please go to our [Contact Us page](https://web.archive.org/contact). Last Updated: January 23, 2019
