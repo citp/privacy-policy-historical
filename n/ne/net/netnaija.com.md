@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnaija.com privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719061844id_/https%3A//www.netnaija.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnaija.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528161320id_/https%3A//www.thenetnaija.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NetNaija
 
