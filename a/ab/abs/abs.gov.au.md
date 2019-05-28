@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214110141id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abs.gov.au privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528184746id_/http%3A//www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy%3Fopendocument) for the most accurate reproduction.*
 
 # ABS Privacy Policy Summary
 
@@ -11,11 +11,11 @@ The ABS is subject to the _Privacy Act 1988_ (the Privacy Act) and to the Austra
 
 More information can be found in the ABS privacy policies: 
 
-    * [Main ABS Privacy Policy ](http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy)
-    * [Census Privacy Policy ](http://www.abs.gov.au/websitedbs/censushome.nsf/home/privacypolicy)
-    * [Australian Marriage Law Postal Survey Privacy Policy ](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/AMLPS+-+Privacy+Policy)
+    * [Main ABS Privacy Policy ](https://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy)
+    * [Census Privacy Policy ](https://www.abs.gov.au/websitedbs/censushome.nsf/home/privacypolicy)
+    * [Australian Marriage Law Postal Survey Privacy Policy ](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/AMLPS+-+Privacy+Policy)
     * [MADIP Privacy Policy](https://web.archive.org/websitedbs/D3310114.nsf/home/MADIP+Privacy+Policy)
-    * [ABS Recruitment Privacy Statement](http://abs.gov.au/websitedbs/corporate.nsf/home/Privacy+Statement)
+    * [ABS Recruitment Privacy Statement](https://abs.gov.au/websitedbs/corporate.nsf/home/Privacy+Statement)
 
 **  
 WHY THE ABS COLLECTS AND USES PERSONAL INFORMATION**
@@ -35,7 +35,7 @@ ABS staff are personally bound to protect identifiable data. It is an offence fo
 
 **PRIVACY IMPACT ASSESSMENTS**
 
-The ABS may conduct or commission a Privacy Impact Assessment to assess the potential impact of an ABS project on the privacy of individuals, and document and assess the processes in place to manage, minimise, or eliminate that impact. See [ABS Privacy Impact Assessments](http://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Privacy+Impact+Assessments) for a listing of Privacy Impact Assessment reports, and the ABS response to any recommendations contained within those reports, that have been published on the ABS website.  
+The ABS may conduct or commission a Privacy Impact Assessment to assess the potential impact of an ABS project on the privacy of individuals, and document and assess the processes in place to manage, minimise, or eliminate that impact. See [ABS Privacy Impact Assessments](https://www.abs.gov.au/websitedbs/D3310114.nsf/home/ABS+Privacy+Impact+Assessments) for a listing of Privacy Impact Assessment reports, and the ABS response to any recommendations contained within those reports, that have been published on the ABS website.  
 **  
 ACCESSING AND CORRECTING YOUR PERSONAL INFORMATION**
 
@@ -43,7 +43,7 @@ In most cases, the ABS must give you access to the personal information which ha
 
 Exemptions apply for personal information which has been collected for statistical purposes. Personal information provided to the ABS through a survey can only be accessed in special circumstances. 
 
-Please see the [Main ABS Privacy Policy](http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy) for more details. 
+Please see the [Main ABS Privacy Policy](https://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy) for more details. 
 
 **HOW TO MAKE A COMPLAINT**
 
@@ -51,7 +51,7 @@ If you believe that the ABS or one of its contracted service providers has not d
 
 If you are not satisfied with our response to your complaint, you may refer your complaint to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/). 
 
-Please see the [Main ABS Privacy Policy](http://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy) for more details. 
+Please see the [Main ABS Privacy Policy](https://www.abs.gov.au/websitedbs/D3310114.nsf/Home/Privacy+Policy) for more details. 
 
 **THE ABS WEBSITE**
 
