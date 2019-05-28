@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227065633id_/https%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528104034id_/https%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
