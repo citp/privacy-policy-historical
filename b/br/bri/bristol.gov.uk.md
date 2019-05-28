@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824201650id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528074205id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy - bristol.gov.uk
 
