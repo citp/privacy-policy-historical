@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami-dadeclerk.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101180631id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami-dadeclerk.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528121559id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
