@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmob.co.il privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820032325id_/https%3A//jobmob.co.il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmob.co.il privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528184158id_/https%3A//jobmob.co.il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobMob
 
@@ -76,4 +76,4 @@ We at Share Select Media are always eager to hear from our users. To reach us if
 
 **Last update**
 
-May 21st, 2018
+May 28, 2019
