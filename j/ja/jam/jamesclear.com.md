@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929034248id_/https%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528032046id_/https%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
 # Earnings Disclaimer and Privacy Policy | James Clear
 
@@ -115,8 +115,9 @@ We maintain security measures to protect your personal information from unauthor
 JamesClear.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe JamesClear.com to have any information from or about anyone under 13, please contact us at the address listed below.
 
 ATTN: James Clear  
-PO Box 181  
-Westerville, OH, USA 43086
+2935 E Main St.  
+Unit #9551  
+Columbus, OH 43209
 
 ## Additional Rights OF EEA (European Economic Area) Residents
 
@@ -137,8 +138,9 @@ If you believe that our processing of your personal information infringes data p
 You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
 
 James Clear  
-PO Box 181  
-Westerville, OH, USA 43086
+2935 E Main St.  
+Unit #9551  
+Columbus, OH 43209
 
 Or james [at] jamesclear.com
 
@@ -159,8 +161,9 @@ JamesClear.com is controlled, operated and administered within Ohio and North Ca
 If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at:
 
 James Clear  
-PO Box 181  
-Westerville, OH, USA 43086
+2935 E Main St.  
+Unit #9551  
+Columbus, OH, USA 43209
 
 Or james [at] jamesclear.com
 
