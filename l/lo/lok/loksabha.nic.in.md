@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loksabha.nic.in privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009145826id_/http%3A//164.100.47.194/Loksabha/PrivacyPolicy.aspx%3Flinkid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loksabha.nic.in privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529003752id_/http%3A//164.100.47.194/Loksabha/PrivacyPolicy.aspx%3Flinkid%3D2) for the most accurate reproduction.*
 
 # Parliament of India, Lok Sabha
 
