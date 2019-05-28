@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysikhupdates.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819095109id_/http%3A//dailysikhupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysikhupdates.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528132013id_/http%3A//dailysikhupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Sikh UpdatesDaily Sikh Updates
 
