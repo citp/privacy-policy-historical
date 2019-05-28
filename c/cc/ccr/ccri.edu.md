@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccri.edu privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029025638id_/https%3A//www.ccri.edu/it/webservices/about/policies/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccri.edu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528204756id_/https%3A//www.ccri.edu/it/webservices/about/policies/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Community College of Rhode Island
 
