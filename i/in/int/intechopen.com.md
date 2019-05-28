@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019024340id_/https%3A//www.intechopen.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528191346id_/https%3A//www.intechopen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IntechOpen
+
+This privacy policy applies to [www.intechopen.com](https://www.intechopen.com/) owned and operated by IntechOpen (“IntechOpen”, "We", "Us" or “Our”). This privacy policy sets out how IntechOpen uses and protects any information that you ("user") give when you use this website. IntechOpen is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy.
 
 IntechOpen does not sell, rent, or otherwise provide your personal information to third parties unless they are publicly available as part of the publishing activities or we have your permission or are required by law to do so. IntechOpen may change this policy from time to time by updating this page. You are invited to check this page to ensure that you agree with the changes.
 
@@ -10,7 +12,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 We are IntechOpen, the world's leading publisher of Open Access books. INTECHOPEN LIMITED is a privately owned company registered in England and Wales, No. 11086078 Registered Office: The Shard, 25th floor, 32 London Bridge Street, London, SE19SG United Kingdom.
 
-2. USAGE OF INFORMATION
+2\. USAGE OF INFORMATION
 
 Registration on the IntechOpen web page is for Authors, prospective Editors and other users who want to send suggestions and it is optional and voluntary. We use the information you provide to:
 
@@ -44,7 +46,7 @@ Authors, Coauthors, Editors and Coeditors can choose what information you make a
 
 With the exception of your e-mail address (which works as a login), you are free to change your personal information at any time. IntechOpen will provide you with information about whether we hold any of your personal information If your personal information changes, you may correct, update or delete it by making the change on your user panel, or by contacting us by postal mail at the contact information listed below.
 
-You can submit a request to close your IntechOpen account at any time. If you no longer desire our services, or you can deactivate your account by emailing us at [info@intechopen.com](http://info@intechopen.com/) or by contacting us by postal mail using the contact information listed below. We will respond to your request within a reasonable timeframe.
+You can submit a request to close your IntechOpen account at any time. If you no longer desire our services, or you can deactivate your account by emailing us at [info@intechopen.com](mailto:info@intechopen.com) or by contacting us by postal mail using the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 6\. OPEN ACCESS
 
@@ -56,13 +58,13 @@ IntechOpen will only share personal information with third parties in ways that 
 
 In certain situations, IntechOpen may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-IntechOpen does not sell, rent, or otherwise provide your personal information to third parties unless we have your permission or are required by law so as to comply with a subpoena or similar legal process. Please note that in order to deliver certain services (for example, Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery. These companies are authorized to use your personal information only as necessary to provide these services to us.
+IntechOpen does not sell, rent, or otherwise provide your personal information to third parties unless we have your permission or are required by law so as to comply with a subpoena or similar legal process. Please note that in order to deliver certain services (for example, Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 If IntechOpen is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 8\. E-MAIL POLICY
 
-IntechOpen may send you service communications by email. If you have previously agreed to us using your personal information for email/newsletter services, IntechOpen may send information which you might find of interest. You may change your mind and unsubscribe at any time by emailing us at info@intechopen.com. Additionally, you can unsubscribe by clicking the unsubscribe button in all our marketing emails.
+IntechOpen may send you service communications by email. If you have previously agreed to us using your personal information for email/newsletter services, IntechOpen may send information which you might find of interest. You may change your mind and unsubscribe at any time by emailing us at [info@intechopen.com](mailto:info@intechopen.com). Additionally, you can unsubscribe by clicking the unsubscribe button in all our marketing emails.
 
 9\. SECURITY OF YOUR PERSONAL INFORMATION
 
@@ -76,17 +78,17 @@ As part of the services offered to you through this website, the information whi
 
 11\. CUSTOMER TESTIMONIALS / COMMENTS / REVIEWS
 
-In the "Authors' Acknowledgments" section of our website we post customer testimonials/comments/reviews which may contain personal information. These testimonials are stored in a database held within IntechOpen. Prior to posting a testimonial, we obtain the customer's consent to posting his or her name along with the testimonial. If you wish to update or delete your testimonial, you can contact us at [info@intechopen.com](http://info@intechopen.com/).
+In the "Authors' Acknowledgments" section of our website we post customer testimonials/comments/reviews which may contain personal information. These testimonials are stored in a database held within IntechOpen. Prior to posting a testimonial, we obtain the customer's consent to posting his or her name along with the testimonial. If you wish to update or delete your testimonial, you can contact us at [info@intechopen.com](mailto:info@intechopen.com).
 
 12\. COOKIES & OTHER TRACKING TECHNOLOGIES
 
-Technologies such as cookies, beacons, tags and scripts are used by IntechOpen and our business partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies or similar technologies are used by IntechOpen and our business partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for user authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 Cookies we use and what they are for
 
-The cookies we use on [www.intechopen.com](http://www.intechopen.com/) can be categorized as follows:
+The cookies we use on [www.intechopen.com](https://www.intechopen.com/) can be categorized as follows:
 
 Necessary cookies
 
@@ -94,17 +96,13 @@ These cookies are essential in order to enable you to fully experience the websi
 
 Performance cookies
 
-These cookies collect anonymous information about how visitors use a website, for example, which pages visitors visit most often, in order to provide a better user experience. These cookies do not personally identify individual visitors. We use these cookies to provide statistics on how our website is used. These third-party cookies could be permanent or temporary cookies.
+These cookies collect anonymous information about how visitors use a website, for example, which pages visitors visit most often, in order to provide a better user experience. These cookies do not personally identify individual visitors. We use these cookies to provide statistics on how our website is used. These third-party cookies could be permanent or temporary cookies.
 
-If you have any questions about the use of cookies on our website please e-mail us at [info@intechopen.com](http://info@intechopen.com/).
-
-13\. LOCAL STORAGE OBJECTS (FLASH & HTML5)
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+If you have any questions about the use of cookies on our website please e-mail us at [info@intechopen.com](mailto:info@intechopen.com).We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 14\. SECURITY
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [info@intechopen.com](http://info@intechopen.com/).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [info@intechopen.com](mailto:info@intechopen.com).
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, given that the Internet is not a secure medium, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications at all times.
 
@@ -122,7 +120,7 @@ The summary of Authors' personal information (First name, Last name, academic/jo
 
 18\. DATA RETENTION
 
-We will retain your information as long as your published work is freely available from our web page or as needed to provide you services you have requested from us. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at  [info@intechopen.com](http://info@intechopen.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information as long as your published work is freely available from our web page or as needed to provide you services you have requested from us. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@intechopen.com](mailto:info@intechopen.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 19\. CHANGES IN THIS PRIVACY POLICY
 
@@ -132,6 +130,8 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 20\. CONTACT US
 
-If you have questions or comments about this Privacy Policy, please email us at [info@intechopen.com ](http://info@intechopen.com/)or write to us at IntechOpen, 25th Floor, 32 London Bridge St, London SE1 9SG, United Kingdom.
+If you have questions or comments about this Privacy Policy, please email us at [info@intechopen.com](mailto:info@intechopen.com) or write to us at IntechOpen, 25th Floor, 32 London Bridge St, London SE1 9SG, United Kingdom.
 
- _This policy is effective from 2018-05-24._
+ _This policy is effective from 2018-10-26._
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=1e1306e9-f187-404e-a965-8cf80853256e)
