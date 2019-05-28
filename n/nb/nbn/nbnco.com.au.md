@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027162856id_/https%3A//www.nbnco.com.au/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528113040id_/https%3A//www.nbnco.com.au/utility/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | nbn - Australia's broadband access network
 
@@ -14,6 +14,8 @@ Our key objective is to ensure all Australians have access to fast broadband as 
 
 You can read more about us and our objectives [on our website](http://www.nbnco.com.au/corporate-information/about-nbn-co.html).
 
+Back to top
+
 ### 2\. Your privacy is important to us
 
 #### We keep your information safe, and we aim to be clear and open about what we do with it.
@@ -23,6 +25,8 @@ We understand that your privacy is important to you, and we value your trust. Th
 This Policy describes how we handle your personal information – that is, information about you and that identifies you, or can be reasonably linked to your identity. When we collect this information, we comply with the rules set out in the _Privacy Act 1988_ (Cth).
 
 Sometimes we update our Privacy Policy. You can always find the most up-to-date version on our website.
+
+Back to top
 
 ### 3\. What information do we collect?
 
@@ -51,6 +55,8 @@ We only collect your personal information when we need it to provide our service
   * **If you work for one of our service providers or service delivery partners:** We may collect employment information about you including name, job title, contact details and background and criminal history information.
 
 
+
+Back to top
 
 ### 4\. How do we use your information?
 
@@ -90,6 +96,8 @@ This helps us learn more about how the **nbn** ™ access network is being or ma
 
 Where we work with partners or service providers to do this, we take steps to ensure that they are required to protect your information.
 
+Back to top
+
 ### 5\. Who do we share your information with?
 
 #### We share your information with people and organisations for the purposes set out in section 4.
@@ -111,7 +119,9 @@ We also share personal information with people and organisations that help us wi
 
 #### Sending personal information overseas
 
-Some of our service providers are located or operate outside of Australia. Where we need to, we send them information so that they can provide us services. You can find a list of countries where our overseas suppliers are [here](https://web.archive.org/utility/privacy-policy/country-list.html).
+Some of our service providers are located or operate outside of Australia. Where we need to, we send them information so that they can provide us services. You can find a list of countries where our overseas suppliers are [here](https://web.archive.org/utility/privacy-policy/country-list).
+
+Back to top
 
 ### 6\. Keeping your information safe
 
@@ -143,6 +153,8 @@ We use a mix of ID cards, alarms, cameras, guards and other controls to protect 
 
 We aim to keep personal information only for as long as we need for our business or to comply with the law. When we no longer need information, we take reasonable steps to destroy or de-identify it.
 
+Back to top
+
 ### 7\. Accessing, updating and correcting your information
 
 #### You can ask to see a copy of the personal information that we hold about you, or ask us to update or correct it.
@@ -172,6 +184,8 @@ In some cases, we can refuse access or only give you access to certain informati
 You can ask us to correct or update any of your personal information that we have. If we’ve given the information to another party, you can ask us to let them know it’s incorrect. We don’t charge a fee for this.
 
 If we don’t think the information needs to be corrected, we’ll write to let you know why. You can ask us to include a statement that says you believe our record about you is inaccurate, incomplete, misleading or out of date.
+
+Back to top
 
 ### 8\. Making a privacy complaint
 
@@ -207,6 +221,8 @@ Sydney NSW 2001
 
 **Website:**  [www.oaic.gov.au](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint)
 
+Back to top
+
 ### 9\. Contact us
 
 #### To ask us a question about your privacy, ask to access or correct your personal information, make a privacy complaint, or get a printed copy of this Policy, please contact our Privacy Officer.
@@ -220,7 +236,7 @@ NORTH SYDNEY NSW 2060
 
 **Email** : [privacyofficer@ **nbn** co.com.au](mailto:privacyofficer@nbnco.com.au)
 
-If you would like to make a Freedom of Information application, please see the [FOI page on our website](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information.html).
+If you would like to make a Freedom of Information application, please see the [FOI page on our website](https://web.archive.org/corporate-information/about-nbn-co/freedom-of-information).
 
 If you need to contact us about something else, including about your **nbn** ™ access network connection, there are several other ways you can get in touch:
 
@@ -228,4 +244,6 @@ If you need to contact us about something else, including about your **nbn** ™
 
 **Email** : [info@ **nbn** co.com.au](mailto:info@nbnco.com.au)
 
-If you’re deaf or hard of hearing, or have difficulty speaking, you can use the National Relay Service. Please see the [hearing and translation services page on our website](https://web.archive.org/corporate-information/contact-us-form/hearing-speech-and-translation-services.html).
+If you’re deaf or hard of hearing, or have difficulty speaking, you can use the National Relay Service. Please see the [hearing and translation services page on our website](https://web.archive.org/corporate-information/contact-us-form/hearing-speech-and-translation-services).
+
+Back to top
