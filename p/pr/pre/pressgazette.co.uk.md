@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressgazette.co.uk privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030020329id_/http%3A//www.compelo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressgazette.co.uk privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528191727id_/http%3A//www.compelo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Compelo - latest news, features and insight on influencers and innovators within business
 
@@ -36,7 +36,7 @@ We may collect the following information:
 
 ### User’s right to Opt-out
 
-If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@compelo.com](https://www.globaldata.com/privacy-policy/unsubscribe@globaldata.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@compelo.com](mailto:unsubscribe@compelo.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
 ### How we protect your information
 
@@ -50,8 +50,8 @@ Unless we are given explicit permission to do so; we do not sell, trade, or rent
 
 ### Our websites
 
-[compelo.com  
-](http://www.compelo.com/)[br-diningclub.com](https://www.br-diningclub.com/)  
+[www.compelo.com  
+](https://www.compelo.com/)[br-diningclub.com](https://www.br-diningclub.com/)  
 [business-review-webinars.com](http://www.business-review-webinars.com/)  
 [cbrgovernment.com](https://www.cbrgovernment.com/)  
 [www.compelo.com/packaging/](https://www.compelo.com/packaging/)  
@@ -60,7 +60,7 @@ Unless we are given explicit permission to do so; we do not sell, trade, or rent
 [www.compelo.com/insurance](https://www.compelo.com/insurance/)  
 [cleantechnology-business-review.com](http://www.cleantechnology-business-review.com/)  
 [](http://www.banking-business-review.com/)[drinks-business-review.com](http://www.drinks-business-review.com/)  
-[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[compelo.com/energ](http://www.compelo.com/energy)[y  
+[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[www.compelo.com/energ](https://www.compelo.com/energy)[y  
 ](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[cbronline.com](https://cbronline.com/)[](http://www.banking-business-review.com/)[  
 ](http://www.banking-business-review.com/)[](http://www.banking-business-review.com/)[ingredients-insight.com](http://www.ingredients-insight.com/)[  
 ](http://www.banking-business-review.com/)[medicaldevice-developments.com](http://www.medicaldevice-developments.com/)[  
@@ -123,7 +123,7 @@ By using this Website, you signify your acceptance of this policy. If you do not
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at unsubscribe@compelo.com or alternatively:
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [unsubscribe@compelo.com](mailto:unsubscribe@compelo.com) or alternatively:
 
 Data Protection Officer  
 Compelo Limited  
