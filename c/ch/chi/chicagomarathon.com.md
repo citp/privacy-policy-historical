@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2018-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180802084204id_/https%3A//www.chicagomarathon.com/participant-information/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomarathon.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528173542id_/https%3A//www.chicagomarathon.com/participant-information/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice - Bank of America Chicago Marathon
 
-## Privacy notice
+Countdown to the big race, October 13, 2019 
 
 **LAST UPDATED: May 23, 2018**
 
@@ -196,3 +196,11 @@ Because email communications are not always secure, please do not include credit
 You may contact our EU Data Protection Officer at [BAML.EUDPO@baml.com](mailto:BAML.EUDPO@baml.com)
 
 Individuals may also file a complaint with a supervisory authority in the EEA competent for their relevant country or region.  A list of data protection authorities is available at http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080.
+
+Beginning of dialog message
+
+#### You are now leaving the Bank of America Chicago Marathon website
+
+By clicking **Continue** , you will be taken to a third party website. Bank of America’s privacy policy and level of security do not apply to their site as they may have their own privacy policy and security practices. You can click the **Cancel** button to return to the previous page, or you can use the back button on your browser after you leave.
+
+Continue Cancel End of dialog message
