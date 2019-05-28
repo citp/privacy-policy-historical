@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbusweb.me privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029224349id_/https%3A//nimbusweb.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbusweb.me privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528114705id_/https%3A//nimbusweb.me/privacy.php) for the most accurate reproduction.*
 
 # Nimbus - Privacy Policy
 
@@ -9,11 +9,10 @@ We provide this Privacy Policy to explain how Nimbus Web collects, uses and shar
 **1\. Who controls the information collected about me?**
 
 Any personal information provided to or gathered by Nimbus Web is controlled by:   
-Nimbus Web, Inc.   
-1521 Concord Pike, Suite 301   
-Wilmington, Delaware 19803   
+Nimbus Web Inc  
+50 Public Square, Suite 200, Cleveland OH 44113  
 UNITED STATES   
-legal@everhelper.me 
+legal@nimbusweb.co 
 
 **2\. What information does Nimbus Web collect from me and why?**
 
@@ -127,9 +126,9 @@ Although Nimbus Web uses industry standard security practices, no system can be 
 
 **8\. How can I access or correct my information?**
 
-You may access all information we’ve collected about you for purposes of correcting, transferring, amending, or deleting such information. Access can be obtained by contacting legal@everhelper.me. To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
+You may access all information we’ve collected about you for purposes of correcting, transferring, amending, or deleting such information. Access can be obtained by contacting legal@nimbusweb.co. To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
 
-Under California’s “Shine the Light” law, California residents who provide personal information to the Websites may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at legal@everhelper.me. 
+Under California’s “Shine the Light” law, California residents who provide personal information to the Websites may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at legal@nimbusweb.co. 
 
 **9\. How does Nimbus Web protect the privacy of children?**
 
