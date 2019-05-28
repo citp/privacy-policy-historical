@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshcup.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212012128id_/https%3A//www.freshcup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshcup.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528104844id_/https%3A//www.freshcup.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Fresh Cup Magazine
 
