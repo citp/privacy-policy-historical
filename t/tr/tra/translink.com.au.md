@@ -1,140 +1,130 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907045220id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528075158id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | translink.com.au
 
-TransLink, a division of the Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
+TransLink, a division of the Department of Transport and Main Roads is committed to protecting your privacy. TransLink abides by the [Information Privacy Act 2009 (IP Act)](https://www.legislation.qld.gov.au/view/html/asmade/act-2009-014) which regulates the way in which Queensland government agencies must manage personal information. It addresses concerns about any unauthorised use of this information and gives individuals a right of access to personal information held about them.
 
-## Collecting information
+## Online services
 
-We will only collect personal information that is relevant and necessary for our functions and activities.
+Where relevant, the department may record information about your use of this website or MyTransLink app for statistical purposes and to improve your digital experience. We use Google Analytics to gather anonymous information about how customers use our websites and apps.
 
-We collect and store personal information that you, our contractors or business partners provide to us.
+Unless you provide your personal information as part of the online service, no attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may request inspection of the activity logs, through appropriate legal processes.
 
-Personal information collected by the Department of Transport and Main Roads generally comprises name, address, date of birth, gender, contact details (such as phone, fax and email), certain financial information (such as credit card details or bank account details) and information relevant to concession fares (such as student or pension details).
+## Accessing information
 
-## Website
+You must not use any application, system or method to access information on this website, including information in relation to _go_ card accounts, other than through ordinary use of this website by methods purposely made available on this website. You must not provide to any person or invite or solicit any third party to provide you with, passwords or other information to enable such access.
 
-When you visit our website, our server makes a record of your visit and logs the following information for statistical purposes only:
+## Email and SMS
 
-  * the user's server address
-  * the user's top level domain name (for example '.com', '.gov', '.au', etc.)
-  * the date and time you visited the website
-  * the pages accessed and documents downloaded
-  * the type of browser you use
-  * no attempt will be made to identify users, or their browsing activities, unless we are lawfully required to do so for an investigation or law enforcement purposes.
+We will not use your personal contact details you provide such as email address, SMS device number or phone number other than for the purpose for which you provided it. Where assistance is requested, your enquiry will be forwarded to the relevant departmental officer and/or our contactor and business partner.
+
+If you have received communication from TransLink and no longer wish to receive updates from us, you can unsubscribe via:
+
+  * clicking the “unsubscribe” link in any TransLink email you have received
+  * managing your email and SMS preferences on your _go_ card account.
 
 
 
-### Access to this website
+## Mobile applications
 
-You must not use any application, system or method to access information on this website, including information in relation to _go_ card accounts, other than through ordinary use of this website by methods purposely made available on this website. You must not provide to any person, or invite or solicit any third party to provide you with, passwords or other information to enable such access.
+To help improve the app and TransLink services more generally, TransLink may, from time-to-time, record information about your use of the app. This information may include:
 
-## Emails
+  * the random, auto-generated user account number created when the app is first launched and associated with your device
+  * when and how the app is used
+  * the pages accessed and the types of functions used
+  * your location when using a map, stop alarm or 'stops near you' feature, and
+  * your device type and information required in order to deliver push notifications to you, when enabled.
 
-We will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant Department of Transport and Main Roads officer and/or our contactor and business partner.
 
-Email correspondence sent to this website will be treated as a public record and will be retained in line with relevant legislation.
 
-If you have received an email from TransLink Division and no longer wish to receive updates from us, you can [unsubscribe](http://www.vision6.com.au/em/forms/unsubscribe.php?db=371457&s=86612&a=31401&k=273ad92) from our e-News.
+TransLink (and its contractors) may use the information recorded about your use of the app to contact you and invite you to participate in surveys and to otherwise improve the app and TransLink services more generally.
 
-Email messages may be monitored by our web team for system troubleshooting and maintenance purposes.
+By downloading the TransLink app and 'enabling' each push notification function in the app settings on your device, you consent to TransLink delivering push notifications to your device to:
 
-## Smart card (including _go_ card)
+  * notify you of current or upcoming journey or route disruptions; and
+  * invite you to participate in TransLink customer surveys.
+
+
+
+If you do not wish to receive either or both types of push notifications from TransLink, you may disable either or both types of push notification functions in the app settings on your device.
+
+Unless otherwise stated in these conditions of use, no attempt will be made to identify users or users' activities, unless TransLink is required by law to do so.
+
+## Smart cards 
 
 Our use of your personal information will depend on whether you are a 'registered' smart card holder or whether you have an 'unregistered' smart card.
 
-### Unregistered smart cards
+A Smart Card is a valid form of electronic ticket used for travel on the TransLink SEQ network such as a _go_ card or _go explore_ card.
+
+For any _go_ card enquiries, please contact [informationrequests@translink.com.au](mailto:informationrequests@translink.com.au).
+
+## Unregistered smart cards
 
 If you have an unregistered smart card the following information will be retained:
 
-  * debit card/credit card
-  * record of financial transaction—3 years
-  * hardcopy of financial transaction—7 months
-  * contact details for concession fare card holders only
-  * archive period—5 years
+  * travel transaction history
+  * financial transactions such as top-ups
+  * contact details for data-matched concession fare card holders.
 
 
 
-### Registered smart cards
+## Registered smart cards
 
 If you choose to register your smart card, your personal information will be securely held and linked to the serial number of your smart card. Your physical smart card will not hold any personal information.
 
-Your personal information may be used to:
+Your personal information may be used to facilitate smart card services including:
 
-  * top up your smart card
+  * top ups
+  * fare adjustments
+  * refunds
+  * balance transfers
   * obtain a replacement card
   * 'hotlist' or cancel a lost or stolen card to protect the stored value
-  * access your journey history
   * notify you of changes to your smart card (for example impending card expiry)
-  * address any queries and complaints you may have regarding your smart card
-  * provide you with information directly related to our functions and activities
-  * facilitate security measures to guard against fraud or inappropriate use of your card.
+  * provide you with relevant surveys to improve the _go_ card product offering.
 
 
 
-## Call centre
+## Security
 
-If you call the call centre, your telephone call will be recorded. This assists TransLink Division to carry out its functions and objectives.
+We aim to protect the personal information we hold against loss, misuse and unauthorised access. We have a range of physical and technological procedures in place to provide a secure environment.
 
-If you do not want your telephone call recorded, please tell the consultant. They will be direct you to the TransLink website or ask you to [post](https://web.archive.org/contact-us) your enquiry to TransLink.
-
-If you agree to the telephone call being recorded, all voice recordings are handled in accordance with the _Information Privacy Act 2009_.
-
-## CCTV and audio voice recordings
-
-At times, while using TransLink services, you may be video recorded by way of CCTV or conversations you have with TransLink Division staff and business partners may be audio recorded. The Department of Transport and Main Roads makes these recordings to assist with ensuring the safety of passengers, Department of Transport and Main Roads staff and business partners and to ensure the security of the TransLink network.
-
-All video and audio recordings are made and handled by the Department of Transport and Main Roads in accordance with the _Information Privacy Act 2009_ and any relevant legislation.
-
-## Disclosure of personal information
-
-In order to perform our functions and activities, we may be required to disclose your personal information to third parties, such as:
-
-  * your bank or financial institution
-  * business partners where we outsource functions, such as information services, software development or transport planning
-  * our contracted public transport business partners, such as Queensland Rail
-  * research organisations for the purpose of obtaining data about our services to assist us to improve the delivery of or functions and activities
-  * other organisations such as law enforcement agencies where it may be authorised or required by law to disclose your personal information.
-
-
-
-### Personal information quality
-
-We take reasonable steps to ensure that your personal information is stored accurately.
-
-Please contact us if you believe the personal information we hold about you is not complete or up to date.
-
-If we disagree with your request to correct your personal information, you may request that a statement noting your disagreement be attached to your information.
-
-### Personal information security
-
-We will protect the personal information we hold against loss, unauthorised access, use, modification and disclosure. We have a range of physical and technological procedures in place to provide a secure environment.
+This site provides facilities for securely transmitting information across the internet using a current best practice Transport Layer Security implementation.
 
 ## Cookies
 
-The TransLink website uses cookies for the [journey planner](http://jp.translink.com.au/). A 'cookie' is a piece of information or small file that a website sends to your browser when you access information at that site. No attempt is—or will be—made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect activity logs.
+TransLink's websites may use cookies to retain preferences during your visit to our website, so they can be used next time you visit the site. Cookies used on this website are non-harmful and do not attempt to identify individual users.
+
+Cookies are text files that a website can transfer to your computer when you access information on that site. Cookies allow websites to recognise you as you browse their website.
+
+TransLink uses Google Analytics to gather statistics about how the website is accessed. Google Analytics uses cookies to gather information for the purpose of providing statistical reporting.
+
+The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers located outside of Australia. No personally identifying information is recorded or provided to Google. If you are logged into your _go_ card account, information about your user account is NOT linked to data recorded by Google Analytics and is NOT provided to Google.
+
+Information gathered using the Google Analytics cookie includes:
+
+  * the number of visitors to TransLink’s website
+  * how visitors arrive at TransLink’s website, for example, did they type the address in directly, follow a link from another webpage, or arrive via a search engine
+  * the number of times each page is viewed and for how long
+  * time and date of visit
+  * geographical location of the visitor
+  * information about what browser was used to view the TransLink’s website and the operating system of the computer
+  * information about whether the browser supports Java and Flash
+  * the speed of the user's internet connection.
+
+
 
 ## External links
 
-The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
+Our websites contain links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
 
-In your use of any Google Maps maps or map data on the website, you are bound by the [Google Maps/Google Earth Additional Terms of Service](https://www.google.com/intl/en-GB_AU/help/terms_maps.html) and by the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-GB) as amended from time to time.
+## Feedback and enquiries
 
-### Feedback & enquiries
+For details on how you can provide feedback and enquiries, please visit our [Contact Us](https://web.archive.org/contact-us) page.
 
-For general enquiries, [call TransLink on 13 12 30](https://web.archive.org/contact-us) (also available via the [National Relay Service](http://relayservice.gov.au/making-a-call/)).
+## Privacy complaints
 
-Or via post at:
-
-TransLink Division  
-Department of Transport and Main Roads  
-GPO Box 50  
-Brisbane  
-Queensland 4001
-
-### Privacy complaints
-
-If an individual believes that TransLink has not dealt with their personal information in accordance with the IPPs contained in the IP Act, they may lodge an information privacy complaint.
+If you believe that TransLink has not dealt with your personal information in accordance with the _Information Privacy Act (2009)_ , you may lodge an information privacy complaint with TransLink.
 
 A privacy complaint is a complaint by an individual about an act or practice of a department in relation to the individual’s personal information.
 
@@ -151,13 +141,11 @@ Privacy complaints need to be marked  **private and confidential**  and forwar
 
 Contact method | Contact details  
 ---|---  
-**Post:** | The Privacy Contact Officer   
-RTI, Privacy and Complaints Management  
-Department of Transport and Main Roads   
-GPO Box 1549   
+**Post:** | RTI, Privacy and Complaints Management  
+Department of Transport and Main Roads  
+GPO Box 1549  
 Brisbane Qld 4001  
 **Email:** | [privacy@tmr.qld.gov.au](mailto:privacy@tmr.qld.gov.au)  
-**Phone:** | 07 3066 7568  
-**Fax:** | 07 3066 7022  
+**Phone:** | 07 3066 7108  
   
-Or you may lodge your complaint or enquiry online through our [online complaints form](https://web.archive.org/contact-us/feedback).
+Or you may lodge your complaint or enquiry online through our [online feedback form](https://web.archive.org/contact-us/feedback).
