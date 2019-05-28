@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveforfilms.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126183704id_/http%3A//www.liveforfilm.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveforfilms.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528053007id_/http%3A//www.liveforfilm.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live for Films
 
