@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 33hops.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319224332id_/https%3A//33hops.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33hops.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528030032id_/https%3A//33hops.com/privacypolicy.html) for the most accurate reproduction.*
 
-# 33HOPS ::: 33HOPS Privacy Policy
+# 33HOPS | Privacy Policy
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
