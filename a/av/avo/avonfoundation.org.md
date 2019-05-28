@@ -1,75 +1,86 @@
-> *The following text is extracted and transformed from the avonfoundation.org privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816204351id_/https%3A//www.avonfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avonfoundation.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528201249id_/https%3A//www.avonworldwide.com/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | Avon Foundation
+# Privacy Statement | Avon
 
-Last Updated: June 12, 2017
+**AvonWorldwide.com Privacy Statement**
 
-**Introduction**
+**1.** **Who is responsible for your personal information**
 
-Avon Foundation for Women, a 501(c)(3) not for profit organization having a place of business at 601 Midland Avenue, Rye, NY 10580 (referred to herein as “ **Avon Foundation** ,” “ **we** ,” “ **us** ” and “ **our** “), understands the importance of the privacy of individuals who interact with us (such individuals are referred to as “ **users** ” and “ **you,** ” “your” etc.). This Privacy Statement (the “ **Statement** “), which is incorporated into our Terms and Conditions of Use below (“Agreement”), describes the handling of personal information that the Avon Foundation collects through AVONFOUNDATION.ORG and other websites owned by the Avon Foundation (collectively, the “Avon Foundation Websites”) as well as personal information about you that is collected off-line for example, by telephone or postal mail.   This Statement also describes how we use and disclose that information. By providing us with your information, and/or using the Avon Foundation Websites, you agree to this Statement.
+This Privacy Statement applies to visitors to Avon’s website [www.avonworldwide.com](http://www.avonworldwide.com/) (‘the Website’ and to Avon shareholders). References to “Avon”, “us”, “we” or “our” in this Privacy Statement means Avon Products Inc, Global Headquarters, Building 6, Chiswick Park, London, W4 5HR, United Kingdom or one of its affiliates, subsidiaries, or joint ventures. Where you provide personal information to Avon via the Website or hold Avon shares, Avon will be a controller of your personal information. This means Avon will decide the purposes for which and the ways in which the personal information is processed.
 
-We reserve the right to change this Statement, in whole or in part, from time to time at our sole discretion, and to provide you notice of the change by any reasonable means, including without limitation posting the revised draft of this Statement and notice of the changes on the Avon Foundation Websites. You can determine when this Statement was last revised by referring to the “Last Updated” legend at the top of this Statement. Your continued use of the Avon Foundation Websites following the posting of changes to this Statement constitutes your acceptance of those changes.
+**2.** **Personal information we collect**
 
-**THE INFORMATION WE COLLECT**
+When using the term “personal information” in this Privacy Statement, we mean information that relates to you and allows us to identify you, either directly or in combination with other information that we may hold. We may collect the following personal information:
 
-We collect two basic types of information through the Avon Foundation Websites: your personal information and non-personally identifiable information. “ **Your Personal Information** ” is information that identifies you as an individual — for example, your name, address, telephone number, email address, race and ethnicity, credit card information, and billing address and shipping information.  “ **Non-Personally Identifiable Information** ” (or “ **Non-PII** “) is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity. We also collect Your Personal Information that you disclose to us by off-line communications.
-
-  * **Your Personal Information.**   You do not have to provide Your Personal Information to access the Avon Foundation Website. However, in order for you to take advantage of particular opportunities provided through the Avon Foundation Websites (for example, to sign up to receive Avon Foundation email newsletters, or to make a donation through the Avon Foundation Website), we may require that you furnish us with Your Personal Information through the Avon Foundation Websites. Information you provide when you register for Avon events, newsletters, or other services are collected directly by our third-party Service Provider and provided to us, except we do not receive any credit card or financial account numbers you provide.
-  * We also collect PII, such as your name, telephone number and street address, when you contact us by off-line methods, such as postal mail or telephone.
-  * **Non-Personally Identifiable Information (“Non-PII”).**   When you visit and interact with the Avon Foundation Websites, we and our third party service providers who provide services, including without limitation website hosting, data analysis, and other services of an administrative nature (those third party service providers, our “ **Service Providers** “) may collect Non-PII (for example, a list of the Avon Foundation Website pages you visit). Non-PII is generally collected from server log files, cookies, and pixel tags. Our Service Providers are those third parties who collect information at our direction through the Avon Foundation Websites and do not include Third Party Sites/Services, described in the “ **Operators of Third Party Sites and Services** ” section of this Statement.
-
-
-  * **Server Log Files.**  Your Internet Protocol (“ **IP** ”) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider. This number is identified and logged automatically in our and/or our Service Providers’ server log files whenever you visit the Avon Foundation Websites, along with the time of your visit and the pages that you access. We use this information, in aggregated form, to calculate usage levels on the Avon Foundation Websites, to help diagnose problems with the Avon Foundation Websites’ servers, and to improve the user experience on the Avon Foundation Websites.
-  * **Cookies.**  To enhance your experience with the Avon Foundation Websites, the Avon Foundation Websites use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. We also use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Avon Foundation Websites. For example, we and our Service Providers may use cookies to personalize your experience on the Avon Foundation Websites (e.g., to recognize you by name when you return to an Avon Foundation Website), and to make the login process easier for password-protected areas of the Avon Foundation Websites. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to disable the use of cookies. To learn more about cookies, please visit the following site, which is not affiliated with Avon: [**http://www.allaboutcookies.org/**](http://www.allaboutcookies.org/). However, if you disable cookies you may not be able to take full advantage of some features of the Avon Foundation Websites.
-  * **Pixel Tags and Other Technologies.**   ** ** We and our Service Providers may use clear GIFs (also known as web beacons, web bugs or pixel tags) in connection with the Site to, among other things, track the activities of our Site visitors and compile statistics about Site usage and response rates. We and our third-party Service Providers also may use clear GIFs in HTML-formatted e-mail messages to help us track e-mail response rates, measure the success of our marketing campaigns, and identify when our e-mails are viewed or forwarded. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. However, in contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on website pages.
-
-
-  * **Use of Anonymized Email Addresses.   **We use your e-mail addresses to exclude you from advertising campaigns on social media. We do this to improve efficiency, by not serving ads to people who are already registered. We use an anonymized version of your email address to do this. We do not share your specific email address with social media sites,
+  * contact details (including name, address, telephone number and e-mail address);
+  * any other information provided by you; and
+  * where you are an Avon shareholder, personal information required to manage your shareholding (e.g. basic contact details, details of shares held).
 
 
 
-**HOW DO WE USE YOUR PERSONAL INFORMATION?**    We may use Your Personal Information in the following ways and for the following purposes:
+**3.** **How and why we use the personal information that we collect**
 
-  * **Responding to Your Inquiries and Fulfilling Your Requests.**  We may use Your Personal Information to respond to your inquiries to the Avon Foundation and to fulfill your requests — for example, to send you newsletters that you request when you sign up to join our mailing lists, to send you updates about the Avon Foundation news and events.
-  * **Communicating with You about The Avon Foundation**. Subject to your right to opt out (see “Opting Out of Certain Avon Foundation Communications” below), we may use Your Personal Information to send you information about the Avon Foundation that may be of interest to you.
-  * **Personalizing and Improving Your Avon Foundation Website Experience**. We may use Your Personal Information to personalize your experience on the Avon Foundation Websites; for example, by presenting information through the Avon Foundation Websites that we believe may be of interest to you.
-  * **Combining Your Data**.  We may combine Your Personal Information with information collected from other users so that the end-product does not personally identify you or any other user of the Avon Foundation Websites, for example, by using Your Personal Information to calculate the percentage of our users who have a particular zip code or telephone area code. ** **
-  * **Sending Administrative Messages**. From time to time, at our sole discretion, we may use Your Personal Information to send you emails (a) to confirm your registration with the Avon Foundation Websites, (b) to confirm a transaction through the Avon Foundation Websites, (c) to inform you that we have received Your Personal Information, (d) to provide you with information regarding the Avon Foundation Websites, or (e) to inform you of changes to this Statement, the Agreement, or our other terms, conditions, or policies. Because this information may be critical to your use of the Avon Foundation Websites, you may not opt out of receiving these emails. We may also use Your Personal Information to contact you by phone or postal mail, to confirm receipt of your donation and for other administrative purposes.
-  * **Analyzing Your Personal Information.   **The Foundation may work with third-party Service Providers who conduct website analytics to help us track and understand how visitors use Avon Foundation Websites. For example, we use Google Analytics, a third-party web analytics Service Provider, to help us improve our website performance and user experience. For more information review Google Analytics privacy policy.
-  * **Processing Your Donations and Distributing Letters of Support**. We may use Your Personal Information to process donations or messages of support for Foundation activities received through the mail.
+Avon may use the personal information for the following purposes:
+
+  * **To facilitate an enquiry with Avon**
 
 
 
-**OPTING OUT OF CERTAIN AVON FOUNDATION COMMUNICATIONS**. If you would prefer not to receive email messages from the Avon Foundation about other items of interest, you may opt out from receiving these messages by following the “unsubscribe” instructions contained in any emails you have received from the Avon Foundation, or you may contact us by email at [**info@avonfoundation.org**](mailto:info@avonfoundation.org) to opt out of receiving Avon Foundation messages.
+Your personal information may be used to enable us to respond to an enquiry made via the Website and to fulfil any request made by you.
 
-**TO WHOM WE DISCLOSE YOUR PERSONAL INFORMATION.**   We do not rent, sell or license Your Personal information. Except as provided below, we do not share Your Personal Information.
-
-  *   **To Service Providers**. We may share Your Personal Information with Service Providers for the purpose of enabling them to provide services to us. These Services Providers are obligated to keep Your Personal Information confidential.
-
-
-  * **To Transfer Your Personal Information.**   We may disclose or transfer Your Personal Information to Avon Products Inc. and/or Avon Breast Cancer Crusade LLC so that they may carry on charitable activities and use Your Personal Information for the purposes for which you originally provided Your Personal Information.
-  * **  To Notify Interested Parties of Your Support. **If you send us a message of support for the Foundation’s  activities, we may distribute it to interested parties within Avon Products, Inc. and store it with our service provider, Avon Breast Cancer Crusade LLC.
-
-
-  * **Other Disclosures**. We reserve the right to disclose and use Your Personal Information if we believe that we are required to do so: (a) by law, (b) in response to a court order, subpoena, or law enforcement agency’s request; (c) to enforce the Agreement; (d) to protect our operations; (e) to protect the rights, privacy, safety or property of the Avon Foundation, you or others; or (f) to permit us to pursue available remedies or limit the damages that we may sustain.
+  * **To provide email notifications about investor relations information**
 
 
 
-**HOW WE USE AND DISCLOSE THE NON-PII WE COLLECT.   **Because Non-PII does not personally identify you, we may use Non-PII, and disclose Non-PII to third parties, for any purpose.
+Where you sign up to receive our email notifications about investor relations information, we will process your personal information to manage this service.
 
-**OPERATORS OF THIRD PARTY SITES AND SERVICES.**  NOTE THAT THIS STATEMENT DOES NOT ADDRESS THE PRIVACY PRACTICES OR POLICIES OF THIRD PARTIES.  The Avon Foundation Websites may contain links to websites operated by third parties, or may embed services operated by third parties (“ **Third Party Sites/Services** “), and those third parties may have privacy practices that are different from ours. Third Party Sites/Services that are embedded in the Avon Foundation Websites are identified as such. If you provide information through any Third Party Site/Service, that information will be collected by, and may be used and disclosed by those third parties, in accordance with the privacy practices and policies of those third parties. Avon Foundation Website users should consult those third parties’ privacy policies when using Third Party Sites/Services, as we have no control over the use or disclosure of information by third parties.
-
-**SECURITY**
-
-We have put in place reasonable physical, electronic and managerial procedures, including encryption technology where appropriate for on-line activities, to help us safeguard against unauthorized access to Your Personal Information and to help maintain data security. Unfortunately, no data transmission over the Internet or data storage solution will be 100% secure. As a result, although we take steps to protect Your Personal Information, we cannot ensure or warrant the security of any information you transmit to or receive from us or that we store on our or our Service Providers’ systems or with our Service Providers.
-
-**GENERAL**
-
-  * **Changing or Removing Your Personal Information**.  We provide you with several options for reviewing, correcting, updating or otherwise modifying Your Personal Information that you have previously provided through the Avon Foundation Websites. You may log in to the Avon Foundation Websites and change Your Personal Information. In addition, you may contact us by email at [**info@avonfoundation.org**](mailto:info@avonfoundation.org) for help in modifying Your Personal Information or to have Your Personal Information removed from our databases.  We will endeavor to comply with your requests to change, modify or remove Your Personal Information as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed.
-  * **Location of Your Personal Information**. Our servers are located in the United States. If you are located outside of the United States, please be aware that the information you provide to us will be transferred to, and stored and processed in, the United States. In addition, certain Service Providers may be located in countries other than the United States or your country of residence. The United States and these other countries may have different data protection rules than those of your country of residence.  By providing us with any of Your Personal Information, you consent to the transfer, storage and processing of Your Personal Information in countries other than your country of residence.
-  * **Protection of Children Under Age 13**. Avon Foundation does not knowingly collect personally identifiable information from anyone under 13 years of age without parental consent. If you are a parent or guardian and you believe that your child under age 13 may have provided his or her personal information to us through Our Site, please contact us by email at info@avonfoundation.org, or by regular mail at Avon Foundation, 601 Midland Avenue, Rye, NY 10580.
-  * **Do Not Track.**   The Foundation currently does not respond to “Do Not Track” signals.
+  * **For Avon’s business purposes**
 
 
 
-**CONTACTING US**. If you have any questions regarding this Statement, please contact us by email at info@avonfoundation.org, or by regular mail at Avon Foundation, 601 Midland Avenue, Rye, NY 10580.
+Avon may process personal information where necessary for the purposes of meeting our legitimate interests or those legitimate interests of third parties who work on our behalf. Purposes may include the exercising and defending of Avon’s legal rights or the rights of the others, fraud monitoring and prevention, data analysis and audits; compliance with applicable laws or pursuant to a valid request of a government authority.
+
+  * **To facilitate any enquiry made by a shareholder**
+
+
+
+Where you are a shareholder, Avon may process personal information to respond to an enquiry made by you about your shareholding and to fulfil any request made by you. We may also process personal information connected with your shareholding for Avon’s business purposes, as set out above.
+
+**4.** **How we may share or transfer the data we collect**
+
+We may share your personal information with:
+
+  * other Avon group companies (for a list of these companies see [www.avonworldwide.com/countries](http://www.avonworldwide.com/countries/) );
+  * Avon Foundation for Women (where you provide personal information to Avon as part on an enquiry or application to the Avon Foundation for Women);
+  * Avon’s external legal advisors, auditors, and qualified and designated due diligence providers and third-party service providers who provide services to Avon, such as information technology services, data hosting services and e-mail delivery services ;
+  * as required by applicable laws or pursuant to a valid request of a government authority, or in connection with dispute resolution proceedings;
+  * to third parties in connection with any proposed or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Avon’s business, assets or stock (including in connection with any bankruptcy or similar proceedings);
+  * as Avon believes necessary or appropriate for the other purposes listed in section 3 above.
+
+
+
+This sharing will be for the purposes set out in this Privacy Statement or to comply with specific legal obligations to which we are subject.
+
+In order to provide to meet the purposes set out in section 3 above, we may transfer your personal information other countries where we have operations. By providing us with any Personal Information, you consent to the transfer of information to countries outside of your country of residence, including the United States. Recipients of personal information may be located in a country which has different data protection laws which may have a lower level of protection for personal information. Avon uses appropriate safeguards to protect personal information which is transferred to different countries. Where personal information is transferred from within the European Economic Area to outside of the European Economic Area, European Commission-approved Standard Contractual Clauses and other legally acceptable transfer mechanisms are in place.
+
+If you choose to link to third party websites via our website, third parties may collect information about your use of our website. Similarly, where you choose to interact with Avon content on social media, third parties may collect information. Information collected by third party social media services is governed by the privacy policies of those third parties. Where you are directed to a third party’s website by Avon, Avon is not responsible for the processing of your personal information by any third party.
+
+**5.** **How long we keep** **the** **personal information**
+
+Your personal information will be kept for as long as is reasonably required to achieve the purposes for which it was collected and for a length of time needed after to take into account any ongoing obligations we may have (e.g. to store the information for accounting purposes) or the length of time given to commence or defend any legal claims. If you would like more specific timescales please contact us.
+
+**6.** **Your rights**
+
+You have a right to request access to the personal information that we hold about you and to have any inaccurate personal information we hold about you rectified. You may also have the right to restrict the processing of your personal information, to port your personal information to another controller or to have your personal information erased. If you have an issue or complaint about how we handle your personal information, please contact us. In the event we are unable to resolve the issue then contact your local data privacy supervisory authority.
+
+**7.** **Use of Website by children**
+
+The Website is not directed to individuals under the age of 16. We request that individuals under the age of 16 do not provide any personal information to Avon via the Website.
+
+**8.** **How to contact us**
+
+If you have any questions, comments or requests regarding this Privacy Statement please email our Data Protection team at [global.privacy@avon.com](mailto:global.privacy@avon.com) or write to Global Privacy, __ Global Headquarters, Building 6, Chiswick Park, London, W4 5HR, United Kingdom.
+
+**9.** **Updates to this Privacy Statement.**
+
+We may make changes to this Privacy Statement from time to time. We will publish any new version of this Privacy Statement on the Website.
