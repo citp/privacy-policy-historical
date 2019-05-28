@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115210608id_/https%3A//www.jnj.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnj.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528174821id_/https%3A//www.jnj.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Johnson & Johnson
 
@@ -36,19 +36,28 @@ We and our service providers may also automatically collect and use information 
 
 We use and disclose information you provide to us as described to you at the point of collection. Please see the section entitled “Choices and Access,” below, to learn how you may opt out of certain of our uses and disclosures. 
 
-Where required by applicable law, we will obtain your consent to our use of your personal information at the point of information collection. We may also use information from or about you as necessary to perform a contract, to comply with a legal obligation (for example, due to our pharmacovigilance obligations), or for our legitimate business interests. We may also rely on other legal bases, specifically for:
+Where required by applicable law, we will obtain your consent to our use of your personal information at the point of information collection. We may also use information from or about you as necessary to perform a contract, to comply with a legal obligation (for example, due to our pharmacovigilance obligations), or for our legitimate business interests. We may also rely on other legal bases, specifically for:  
 
-· **Providing the functionality of the Service and fulfilling your requests.**  
-to provide the functionality of the Service to you and providing you with related customer service;to respond to your inquiries and fulfill your requests, such as to send you documents you request or email alerts;to send you important information regarding our relationship with you or regarding the Service, changes to our terms, conditions, and policies and/or other administrative information.  
-We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
 
-· **Accomplishing our business purposes.**  
-for data analysis, for example, to improve the efficiency of the Service;for audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements;for fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft;for developing new products and services;for enhancing, improving or modifying our website or products and services; for identifying Service usage trends, for example, understanding which parts of our Service are of most interest to users; andfor determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users.  
-We will engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
+  *  **Providing the functionality of the Service and fulfilling your requests.**
 
-· **Analysis of Personal Information to provide personalized services.**  
-to better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests;to better understand your preferences so that we can deliver content via the Service that we believe will be relevant and interesting to you.  
-We will provide personalized services either with your consent or because we have a legitimate interest.
+
+
+to provide the functionality of the Service to you and providing you with related customer service;to respond to your inquiries and fulfill your requests, such as to send you documents you request or email alerts;to send you important information regarding our relationship with you or regarding the Service, changes to our terms, conditions, and policies and/or other administrative information.We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.  
+
+
+  *  **Accomplishing our business purposes.**
+
+
+
+for data analysis, for example, to improve the efficiency of the Service;for audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements;for fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft;for developing new products and services;for enhancing, improving or modifying our website or products and services; for identifying Service usage trends, for example, understanding which parts of our Service are of most interest to users; andfor determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users.We will engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.  
+
+
+  *  **Analysis of Personal Information to provide personalized services.**
+
+
+
+to better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests;to better understand your preferences so that we can deliver content via the Service that we believe will be relevant and interesting to you.We will provide personalized services either with your consent or because we have a legitimate interest.
 
 We also disclose information collected through the Service:  
 to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [http://www.investor.jnj.com/governance/secfilings.cfm](http://www.investor.jnj.com/governance/sec-filings.cfm) (click on the link for Form 10K, Exhibit 21, under “SEC Filings”). **Johnson & Johnson Services, Inc.** is the party responsible for the management of the jointly used Personal Information;to our third party partners with whom we offer a cobranded or comarketed promotion;to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email and direct mail delivery services, auditing, and other services, in order to enable them to provide services; andas permitted by applicable law, to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).  
@@ -111,9 +120,8 @@ You may also contact our data protection officer responsible for your country or
 
 **LODGING A COMPLAINT WITH A REGULATOR**
 
-You may lodge a complaint with a supervisory authority competent for your country or region. Please click [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) for contact information for such authorities.
+You may lodge a complaint with a supervisory authority competent for your country or region. Please click [here](https://edpb.europa.eu/about-edpb/board/members_en) for contact information for such authorities.
 
  **UPDATES TO THIS PRIVACY POLICY**
 
-We may change this Privacy Policy. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Service. Your use of the Service following these changes means that you accept the revised Privacy Policy. We recommend that you regularly review the Privacy Policy when you visit the Service. This policy was last updated **April 2018**.   
-
+We may change this Privacy Policy. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Service. Your use of the Service following these changes means that you accept the revised Privacy Policy. We recommend that you regularly review the Privacy Policy when you visit the Service. This policy was last updated **April 2018**. 
