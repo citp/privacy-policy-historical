@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vipoutlet.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609165717id_/https%3A//vipoutlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipoutlet.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529010716id_/https%3A//vipoutlet.com/privacy-policy) for the most accurate reproduction.*
 
 # VIPOUTLET.com Privacy Policy - VIP Outlet
 
-VIPOUTLET.com is operated by Direct Liquidation LLP (“we,” “us,” “VIPOUTLET” or “VIPOUTLET.com”). All necessary precautions are taken to ensure the privacy of our visitors/customers. Listed below is an outline of the data collected and its use as defined in VIPOUTLET’s Terms of Service (<https://www.vipoutlet.com/terms>).
+VIPOUTLET.com is operated by Direct Liquidation LLP (“we,” “us,” “VIPOUTLET” or “VIPOUTLET.com”). All necessary precautions are taken to ensure the privacy of our visitors/customers. Listed below is an outline of the data collected and its use as defined in VIPOUTLET’s Terms of Service (<https://www.vipoutlet.com/terms-conditions)>.
 
 By visiting VIPOUTLET.com, you acknowledge and agree to the procedures detailed herein. Please direct all questions regarding this policy and/or terms to support@vipoutlet.com.
 
@@ -18,13 +18,13 @@ An optional (though enabled by default) ‘persistent’ cookie is used to recor
 
 Additional information may be collected such as: pages viewed, resources accessed, general traffic data, location data and other communication data to improve the performance features of the VIPOUTLET.com.
 
-It is a violation of VIPOUTLET.com’s Terms of Service to misuse any information provided or collected from VIPOUTLET.com. Violations must be reported to [support@vipoutlet.com](mailto:support@vipoutlet.com). Terms of Service can be found at [https://www.vipoutlet.com/terms](https://www.vipoutlet.com/terms-of-service). By using VIPOUTLET.com, you agree the above mentioned information can be collected/transferred/processed within the United States.
+It is a violation of VIPOUTLET.com’s Terms of Service to misuse any information provided or collected from VIPOUTLET.com. Violations must be reported to [support@vipoutlet.com](mailto:support@vipoutlet.com). Terms of Service can be found at <https://www.vipoutlet.com/terms-conditions>. By using VIPOUTLET.com, you agree the above mentioned information can be collected/transferred/processed within the United States.
 
 ## Children Under Age 18
 
 VIPOUTLET.com does not knowingly collect or ask for any personal information from persons under eighteen (18) years of age, nor are they knowingly allowed to become registered users on the site. Please do not attempt to create an account or send any information (such as your name, address, telephone number and email address) to VIPOUTLET.com you are under eighteen (18) years old.
 
-If VIPOUTLET.com becomes aware of any information held is of a person under eighteen (18) years of age, it will be immediately deleted. Please contact us at [SUPPORT@VIPOUTLET.com](mailto:SUPPORT@VIPOUTLET.com) if you believe VIPOUTLET.com may hold any information of a person under eighteen (18) years of age.
+If VIPOUTLET.com becomes aware of any information held is of a person under eighteen (18) years of age, it will be immediately deleted. Please contact us at [support@vipoutlet.com](mailto:support@vipoutlet.com) if you believe VIPOUTLET.com may hold any information of a person under eighteen (18) years of age.
 
 ## Use of Information
 
@@ -40,17 +40,18 @@ Information collected is used to provide services in the following ways:
 
 User information, share with qualified third parties without obtaining future user permission, is only shared when:
 
-i. When reasonably necessary provide services via VIPOUTLET.com (such as is stated in the Privacy Policy).  
-ii. When legally required or to prevent illegal activity.  
-iii. To protect VIPOUTLET.com’s name, trademarks, and intersts/property  
-iv. To prevent bodily harm.  
-v. When users have given specific permission. For example:
+  * When reasonably necessary provide services via VIPOUTLET.com (such as is stated in the Privacy Policy).
+  * When legally required or to prevent illegal activity.
+  * To protect VIPOUTLET.com’s name, trademarks, and intersts/property
+  * To prevent bodily harm.
+  * When users have given specific permission. For example: 
+    * Facilities for servers that support VIPOUTLET.com.
+    * Information on new/expanded services.
+    * Removal of unnecessary information from user lists.
+    * Payment processing.
+    * Search engine results (including sponsored links).
 
-a. Facilities for servers that support VIPOUTLET.com.  
-b. Information on new/expanded services.  
-c. Removal of unnecessary information from user lists.  
-d. Payment processing.  
-e. Search engine results (including sponsored links).
+
 
 Personal information may be accessed, for a limited time and use, by qualified third parties in order to provide services and is protected under your user agreement. Qualified third parties are; but not limited to, trade partners, lawyers, agents, or government agencies. If the whole, or a substantial portion of VIPOUTLET.com transfers ownership, collected information will fully transfer to the new owner to ensure service is not interrupted/ VIPOUTLET.com will continue normal operations. If this occurs, all information will remain subject to this Privacy Policy.
 
@@ -72,7 +73,7 @@ Never send private information via email and/or instant messaging services. Thes
 
 ## Terms of Service
 
-Any use of VIPOUTLET.com, or disputes arising from its use, are subject to both this Privacy Policy and the Terms of Service found at [https://www.VIPOUTLET.com/terms](https://www.blinq.com/terms-of-service).
+Any use of VIPOUTLET.com, or disputes arising from its use, are subject to both this Privacy Policy and the Terms of Service found at <https://www.vipoutlet.com/terms-conditions>.
 
 ## Revisions to this Privacy Policy
 
