@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onesite.com privacy policy that was archived on 2018-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181029055846id_/http%3A//www.onesite.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onesite.com privacy policy that was archived on 2019-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528213154id_/http%3A//www.onesite.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="utf-8">
@@ -32,8 +32,8 @@
 <link rel="stylesheet" type="text/css" href="https://images.onesite.com/resources/css/site/frames.one?fl_cw2=964&amp;tid=57431&amp;isc=0&amp;fl_tw=964&amp;fl_gb=20&amp;fl_gf=0&amp;fl_gl=0&amp;ver=14.07.31">
 <link rel="stylesheet" type="text/css" href="https://images.onesite.com/resources/css/toolbar/toolbar_basic.css?ver=14.07.31">
 <link rel="stylesheet" type="text/css" href="https://images.onesite.com/resources/css/components/multiMenu.css?ver=14.07.31">
-<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/global.css?ver=586">
-<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/temp.css?ver=586">
+<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/global.css?ver=800">
+<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/temp.css?ver=800">
 <script type="text/javascript" src="https://images.onesite.com/resources/scripts/jquery/jquery-current.js?ver=14.07.31"></script>
 <script type="text/javascript" src="https://images.onesite.com/resources/scripts/utils/reg.js?ver=14.07.31"></script>
 <script type="text/javascript" src="https://images.onesite.com/resources/scripts/utils/core.js?ver=14.07.31"></script>
@@ -50,9 +50,9 @@
 <script src="https://www.google.com/recaptcha/api.js"></script>
 <!--/legal/privacy-policy-->
 <link rel="stylesheet" type="text/css" href="https://images.onesite.com/www.onesite.com/css/scicons.css">
-<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/products.css">
+<link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/products.css?ver=800">
 <link rel="stylesheet" type="text/css" href="https://images.onesite.com/onesite.com/css/homeApp.css">
-<link rel="stylesheet" type="text/css" href="https://images.onesite.com/www.onesite.com/css/responsive.css?ver=586">
+<link rel="stylesheet" type="text/css" href="https://images.onesite.com/www.onesite.com/css/responsive.css?ver=800">
 <style type="text/css">
 @font-face {
 font-family: 'ProximaNovaRegular';
@@ -120,34 +120,37 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-86688942-1', 'auto');
 ga('send', 'pageview');
 </script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 <body id="legal_privacy-policy" class="one_body_network">
 <div class="mobileNavWrapper">
 <div class="mobileNav">
 <div class="menu-toggle-wrapper">
-<a href="https:///onesite.com" title="ONEsite"><img src="https://images.onesite.com/www.onesite.com/ONEsite-logo-white.png"></a>
+<a href="https:///onesite.com" title="ONEsite"><img src="https://images.onesite.com/www.onesite.com/onesite-logo-2016-white.png"></a>
 <a id="menu-icon"></a>
 </div>
 <nav class="navBar">
 <ul class="menu">
-<li>
+<div class="menu-left">
+<li class="products">
 <h2>Products</h2>
 <ul>
 <li><a href="social-software">Social Software</a></li>
-<li><a href="hosting-platform">Hosting Platform</a></li>
-<li><a href="https://www.webhero.com">Domain Registration</a></li>
+<li><a href="mhealthapp">Mobile Health</a></li>
 <li><a href="single-sign-on">Single Sign On</a></li>
 <li><a href="onesite-live">ONEsite Live</a></li>
-<li><a href="developer-integration">APIs</a></li>
+<li><a href="https://developer.onesite.com/api">APIs</a></li>
 </ul>
 </li>
-<li>
+<li class="customers">
 <h2><a href="customers">Customers</a></h2>
 </li>
-<li>
+<li class="pricing">
 <h2><a href="pricing">Pricing Plans</a></h2>
 </li>
-<li>
+</div>
+<div class="menu-right">
+<li class="services">
 <h2>Services</h2>
 <ul>
 <li><a href="creative-services">Creative Services</a></li>
@@ -155,23 +158,29 @@ ga('send', 'pageview');
 <li><a href="developer-integration">Developer Integration</a></li>
 </ul>
 </li>
-<li>
+<li class="about">
 <h2>About</h2>
 <ul>
 <li><a href="overview">Overview</a>
 </li><li><a href="technology">Technology</a>
 </li></ul>
 </li>
-<li>
+<li class="contact">
 <h2><a href="contact-us">Contact</a></h2>
 </li>
+</div>
 </ul>
 </nav>
 </div>
 </div>
+<div class="mobile-contact-us">Call <a href="tel:+14057535301">(405) 753-5301 </a>or contact <a href="mailto:sales@onesite.com">sales@onesite.com</a>.</div>
 <script>    
 $('#menu-icon').on('click', function(e) {
 $('.navBar').toggleClass("expand");
+e.preventDefault();
+});
+$('.mobile-background-layer').on('click', function(e) {
+$('.navBar.expand').toggleClass("expand");
 e.preventDefault();
 });
 </script>
@@ -199,14 +208,9 @@ height:115px;
 <span>Social Software</span>
 </a>
 </li>
-<li id="itemID_31949" class="submenuItem menuItemName_HostingPlatform">
-<a href="http://www.onesite.com/hosting-platform">
-<span>Hosting Platform</span>
-</a>
-</li>
-<li id="itemID_36923" class="submenuItem menuItemName_DomainRegistration">
-<a href="https://www.webhero.com">
-<span>Domain Registration</span>
+<li id="itemID_31949" class="submenuItem menuItemName_MobileHealth">
+<a href="https://www.onesite.com/mhealthapp">
+<span>Mobile Health</span>
 </a>
 </li>
 <li id="itemID_31945" class="submenuItem menuItemName_SingleSignOn">
@@ -220,7 +224,7 @@ height:115px;
 </a>
 </li>
 <li id="itemID_36925" class="submenuItem menuItemName_APIs">
-<a href="https://www.onesite.com/developer-integration">
+<a href="https://developer.onesite.com/api">
 <span>APIs</span>
 </a>
 </li>
@@ -385,14 +389,9 @@ CALL <strong>(405) 753-5300</strong> OR EMAIL <a href="mailto:sales@onesite.com"
 <span>Social Software</span>
 </a>
 </li>
-<li id="itemID_31949" class="submenuItem menuItemName_HostingPlatform">
-<a href="http://www.onesite.com/hosting-platform">
-<span>Hosting Platform</span>
-</a>
-</li>
-<li id="itemID_36923" class="submenuItem menuItemName_DomainRegistration">
-<a href="https://www.webhero.com">
-<span>Domain Registration</span>
+<li id="itemID_31949" class="submenuItem menuItemName_MobileHealth">
+<a href="https://www.onesite.com/mhealthapp">
+<span>Mobile Health</span>
 </a>
 </li>
 <li id="itemID_31945" class="submenuItem menuItemName_SingleSignOn">
@@ -406,7 +405,7 @@ CALL <strong>(405) 753-5300</strong> OR EMAIL <a href="mailto:sales@onesite.com"
 </a>
 </li>
 <li id="itemID_36925" class="submenuItem menuItemName_APIs">
-<a href="https://www.onesite.com/developer-integration">
+<a href="https://developer.onesite.com/api">
 <span>APIs</span>
 </a>
 </li>
@@ -534,7 +533,7 @@ CALL <strong>(405) 753-5300</strong> OR EMAIL <a href="mailto:sales@onesite.com"
 </div>
 <div class="oneFooterClosing">
 <div class="oneFooterLegal">
-Copyright © 2018 Static Corporation. All rights reserved.			</div>
+Copyright © 2019 ONEsite, Inc. All rights reserved.			</div>
 <div class="oneFooterTerms">
 <script type="text/javascript">
 	YAHOO.util.Event.onContentReady("menuID_2993", oneMultiMenu.init, "menuID_2993");
