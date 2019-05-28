@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204023504id_/https%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528220021id_/https%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Sobeys Privacy Commitment - Sobeys Inc.
 
@@ -26,25 +26,25 @@ Sobeys collects, uses and discloses Personal Information for the following purpo
 
 1\. To operate its businesses and to administer the Programs, including without limitation:
 
-(a)          to communicate with Customers regarding orders, purchases or any concerns or queries the Customer may have;
+(a) to communicate with Customers regarding orders, purchases or any concerns or queries the Customer may have;
 
-(b)          to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
+(b) to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
 
-(c)          to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
+(c) to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
 
-(d)          to process information regarding Customer orders, purchases and the collection and redemption of points and rewards;
+(d) to process information regarding Customer orders, purchases and the collection and redemption of points and rewards;
 
-(e)          to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
+(e) to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
 
-(f)           to understand and analyze the interests, needs and preferences of Customers;
+(f) to understand and analyze the interests, needs and preferences of Customers;
 
-(g)          to develop, enhance, market and/or provide products and services for Customers, customers and potential customers;
+(g) to develop, enhance, market and/or provide products and services for Customers, customers and potential customers;
 
-(h)          to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
+(h) to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
 
-(i)            to comply with applicable legislation and regulatory requirements; and
+(i) to comply with applicable legislation and regulatory requirements; and
 
-(j)            for investigation and law enforcement purposes.
+(j) for investigation and law enforcement purposes.
 
 2\. To communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as but not limited to products and services under the Programs or available through Partners that may be of interest to the Customers.
 
@@ -80,7 +80,7 @@ A Customer may indicate to Sobeys at any time that the Customer wishes to cancel
 
 ### **Disclosure**
 
-Personal Information of a Customer will not be disclosed to Partners for purposes other than the administration of the applicable Program unless a Customer provides consent to such disclosures.  Where applicable, this consent may be communicated to Sobeys at or following the time of enrolment, and may be changed at any time afterward, by contacting Sobeys through the “contact us” or equivalent link available on the relevant website or at the place or enrolment. Revocation of such consent will not affect the Customer’s privileges or ability to participate in the relevant Program, nor will it prevent the provision of periodic statements as to the Customers’ point or similar balances.
+Personal Information of a Customer will not be disclosed to Partners for purposes other than the administration of the applicable Program unless a Customer provides consent to such disclosures. Where applicable, this consent may be communicated to Sobeys at or following the time of enrolment, and may be changed at any time afterward, by contacting Sobeys through the “contact us” or equivalent link available on the relevant website or at the place or enrolment. Revocation of such consent will not affect the Customer’s privileges or ability to participate in the relevant Program, nor will it prevent the provision of periodic statements as to the Customers’ point or similar balances.
 
 Personal Information may also be disclosed to Authorized Disclosees. Any party to which Sobeys discloses Personal Information must sign a confidentiality agreement or other legal contract which requires any such party to only use the information disclosed to them for the purposes as explicitly set out in the agreement.
 
@@ -170,6 +170,6 @@ The Sobeys Privacy Officer may be contacted as follows:
 
 Sobeys Privacy Officer – 115 King Street, Stellarton, Nova Scotia B0K 1S0
 
-Email: [privacy@sobeys.com ](mailto:privacy@sobeys.com)
+Email: [privacy@sobeys.com ](mailto:privacy@sobeys.com)
 
 Sobeys will investigate all formal complaints and will respond within 30 business days after receipt of written complaint. If the complaint is reasonable, Sobeys will take suitable measures to address the complaint.
