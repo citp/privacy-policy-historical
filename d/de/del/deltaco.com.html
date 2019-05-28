@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deltaco.com privacy policy that was archived on 2018-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181116075420id_/https%3A//deltaco.com/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deltaco.com privacy policy that was archived on 2019-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528201335id_/https%3A//www.deltaco.com/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KTT6ZRZ"></script><script>
@@ -39,11 +39,12 @@
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="dist/css/main.css?v=7">
+        <link rel="stylesheet" href="dist/css/main.css?v=50.52">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script>
         window.jQuery || document.write('<script src="js/vendor/jquery-1.11.3.min.js"></scr' + 'ipt>')
         </script><script src="js/vendor/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0085/3257.js" async="async"></script>
     </head>
     <body id="page_legal">
         <!-- Google Tag Manager (noscript) -->
@@ -80,32 +81,79 @@
                 <li><a href="specials" class="nav-specials">Specials</a></li>
                 <li><a href="careers" class="nav-careers">Careers</a></li>
                 <li><a href="http://www.deltacofranchise.com/" target="_blank" class="nav-franchising">Franchising</a></li>
-                <li class="dropdown">
+                <li class="dropdown location-drowdown">
                     <a class="activate-dropdown" tabindex="0"><span class="icon-location-pin"></span> Locations</a>
                     <div class="dropdown-menu a-center">
-                        <div class="wrapper">
-                            <p class="h6"><i class="fa fa-map-marker"></i> Find a Del Taco</p>
-                            <form method="POST" action="index.php?page=locations" class="location-form clearfix full">
-                                <label for="location-header" class="visually-hidden">Enter a city and state or zip code</label>
-                                <input id="location-header" type="text" value="" placeholder="CITY &amp; STATE, or ZIP CODE" name="q" class="col-xs-6" aria-label="Enter a City, State or Zip Code">
-                                    <span class="col-xs-4 distance-selection">
-                                        <label for="distance" class="visually-hidden">Select search distance radius</label>
-                                        <select name="distance" id="distance" class="location_distance" aria-label="Select search distance radius">
-                                            <option value="10" selected="selected">10 miles</option>
-                                            <option value="25">25 miles</option>
-                                            <option value="50">50 miles</option>
-                                            <option value="100">100 miles</option>
-                                            <option value="1000">1000 miles</option>
-                                        </select>
-                                    </span>    
-                                <fieldset>
-                                    <legend class="visually-hidden">Submit search query for Del Taco locations</legend>
-                                    <input type="submit" name="submit" value="GO" class="col-xs-2 btn-green nav-locations-go full">
-                                </fieldset>
-                            </form>
-                            <br>
-                            <a href="#" class="btn btn-green inline nav-locations-use-my-current-location" id="search-by-location"><i class="fa fa-crosshairs"></i> Use my current location</a>
-                        </div>
+                        <form method="POST" rel="js-location-form" action="index.php?page=locations" class="search-location-form container">
+    <div class="col-xs-12 col-md-6 search-fields">
+        <div class="field search">
+            <label for="nav-locations-search" class="visually-hidden">Enter City &amp; State, or Zip code</label>
+            <input id="nav-locations-search" type="text" value="" placeholder="CITY &amp; STATE, or ZIP" name="q" aria-label="Enter City and STATE, or ZIP">
+        </div>
+        <div class="field distance">
+            <label for="nav-locations-search-distance" class="visually-hidden">Select search distance radius and submit form</label>
+            <select id="nav-locations-search-distance" name="distance-locations" class="location_distance">
+                <option value="10" selected="selected">10 mi.</option>
+                <option value="25">25 mi.</option>
+                <option value="50">50 mi.</option>
+                <option value="100">100 mi.</option>
+                <option value="1000">1,000 mi.</option>
+            </select>
+        </div>
+    </div>
+    <div class="col-xs-12 col-md-6 search-buttons">
+        <input id="submit-locations-go" rel="js-location-search" type="submit" value="Submit" class="col-xs-5 btn-red locations-location-go">
+        <span class="col-xs-2 h6 or">OR</span>
+        <button class="location-search-widget btn col-xs-5 locate-me white-back red-text"><i class="fa fa-crosshairs"></i>Locate Me</button>
+    </div>
+</form>
+                        <div class="location-filters wrapper" rel="js-location-filters">
+    <div class="options">
+        <div class="checkbox-group">
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="delivery" name="nav-filter-delivery" id="nav-filter-delivery">
+                <i class="icon icon-delivery"></i>
+                <label for="nav-filter-delivery">Delivery</label>
+            </div>
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="order-online" name="nav-filter-order-online" id="nav-filter-order-online">
+                <i class="icon icon-order-online"></i>
+                <label for="nav-filter-order-online">Order Online</label>
+            </div>
+        </div>
+        <div class="checkbox-group">
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="24-hours" name="nav-filter-24-hours" id="nav-filter-24-hours">
+                <i class="icon icon-24hours"></i>
+                <label for="nav-filter-24-hours">24 Hours</label>
+            </div>
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="wifi" name="nav-filter-wifi" id="nav-filter-wifi">
+                <i class="icon icon-wifi"></i>
+                <label for="nav-filter-wifi">Wi-Fi</label>
+            </div>
+        </div>
+        <div class="checkbox-group">
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="drive-thru" name="nav-filter-drive-thru" id="nav-filter-drive-thru">
+                <i class="icon icon-drive-thru"></i>
+                <label for="nav-filter-drive-thru">Drive Thru</label>
+            </div>
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="fun-land" name="nav-filter-fun-land" id="nav-filter-fun-land">
+                <i class="icon icon-funland"></i>
+                <label for="nav-filter-fun-land">Fun Land</label>
+            </div>
+        </div>
+        <div class="checkbox-group">
+            <div class="checkbox-element col-xs-6">
+                <input type="checkbox" data-filter="electronic-benefit" name="nav-filter-electronic-benefit" id="nav-filter-electronic-benefit">
+                <i class="icon icon-ebt"></i>
+                <label for="nav-filter-electronic-benefit">EBT</label>
+            </div>
+        </div>
+    </div>
+</div>
                     </div>
                 </li>
             </ul>
@@ -407,7 +455,7 @@
 </script>
 <script src="dist/js/vendor/modernizr-2.8.3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider-min.js"></script>
-<script src="dist/js/main.js?v=4"></script>
+<script src="dist/js/main.js?v=16.20"></script>
 
 	
 </body></html>
