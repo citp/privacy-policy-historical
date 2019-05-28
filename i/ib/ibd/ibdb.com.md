@@ -1,22 +1,7 @@
-> *The following text is extracted and transformed from the ibdb.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616164404id_/https%3A//www.ibdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibdb.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528050239id_/https%3A//www.ibdb.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | IBDB
 
-| 
-
-[](http://www.broadwayleague.com/)  
-  
----  
-   
-[ ](http://broadwayfanclub.us1.list-manage.com/subscribe?u=fd86f81c87d862208eb56c407&id=cc4227ab7d&MERGE5=IBDB.com)  
-  
-Official Broadway League sites:
-
-  
-  
-  
-   
-  
 ### The Broadway League Inc. Privacy Policy: Your Privacy Rights
 
 The Broadway League Inc. (the " **Broadway League** ") knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Policy to explain the types of information we collect through www.ibdb.com and the various social networking platforms that we use (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information. 
@@ -24,17 +9,23 @@ The Broadway League Inc. (the " **Broadway League** ") knows that your privacy i
 Here are a few general principles to keep in mind as you read through this Policy: 
 
   * The Site is owned and operated by the Broadway League (referred to in this policy as "we," "us," "our" and other similar pronouns). 
-  * **We may share your Personal Information with third parties for third party marketing purposes. You can elect for us not to do so by emailing us at league@broadway.org.**
-  * As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated. 
-  * This Privacy Policy does not apply to any Web site or areas of any Web sites that are directed to kids under 13. 
-  * This Policy _does not_ apply to information that you may provide to us, or that we may obtain, other than through our Site, such as over the phone, by mail, or in person , except that your rights to opt-out of our use and sharing of your personal information with third parties for their own marketing purposes applies also to the personal information that we collect offline. 
-  * **Advertisements displayed to you on this Site and elsewhere may be customized to your interests and preferences based on your personally identifiable information and Web site usage Information collected through our Site unless you opt out by following the instructions that can be found at the Digital Advertising Alliance's Consumer Choice Page at http://www.aboutads.info/choices or the NAI's consumer Web site at http://www.networkadvertising.org/choices. (You have to opt-out using each of your Web browsing applications and devices separately.) However, if you opt-out we may still suggest offerings to you on our Site based on your history at our Site.**
+  * **  
+We may share your Personal Information with third parties for third party marketing purposes. You can elect for us not to do so by emailing us at league@broadway.org. **
+  *   
+As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated. 
+  *   
+This Privacy Policy does not apply to any Web site or areas of any Web sites that are directed to kids under 13. 
+  *   
+This Policy _does not_ apply to information that you may provide to us, or that we may obtain, other than through our Site, such as over the phone, by mail, or in person , except that your rights to opt-out of our use and sharing of your personal information with third parties for their own marketing purposes applies also to the personal information that we collect offline. 
+  *   
+**Advertisements displayed to you on this Site and elsewhere may be customized to your interests and preferences based on your personally identifiable information and Web site usage Information collected through our Site unless you opt out by following the instructions that can be found at the Digital Advertising Alliance's Consumer Choice Page at<https://www.aboutads.info/choices> or the NAI's consumer Web site at <https://www.networkadvertising.org/choices>. (You have to opt-out using each of your Web browsing applications and devices separately.)   
+However, if you opt-out we may still suggest offerings to you on our Site based on your history at our Site. **
 
 
 
 ####  Opt In and Opt Out 
 
-You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, when you are asked to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive messages from us by e-mail. You may tell us that you do not want to receive our promotional messages or that you do not want us to share your Personal Information with third parties for their marketing purposes, by sending us your name, address, e-mail and phone number to: [league@broadway.org ](https://web.archive.org/web/20180616164404id_/https%3A//www.ibdb.com/league@broadway.org). 
+You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, when you are asked to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive messages from us by e-mail. You may tell us that you do not want to receive our promotional messages or that you do not want us to share your Personal Information with third parties for their marketing purposes, by sending us your name, address, e-mail and phone number to: [league@broadway.org ](mailto:league@broadway.org). 
 
 You can also opt-out of our promotional e-mails by clicking on the opt-out link within the e-mail you receive. Please understand that it may take us a few days to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, to stop receiving promotional messages from third parties who already have your contact information, please contact them directly. 
 
@@ -54,12 +45,17 @@ Among other things, this information enables us to generate analytics reports on
 
 In addition, we may deploy various tracking technologies on the Site to collect additional information about your Site visits. For example: 
 
-  * Cookies are small data files stored on your computer or device at the request of a Web site. A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as your Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username so you can log in easily and keeping you logged into the Site after you have provided your password) or to collect general usage and aggregated statistical information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Site or its features. 
-  * Local shared objects may be stored on your computer or device using a media player or other software installed on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, visit this link: [ https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html ](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
-  * HTML5 (the language some Web sites are coded in) may be used to store information on your computer or device about your Site usage activities. This information can be retrieved by us to determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users. 
-  * Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited our Website or another web site in the past. 
-  * A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you've opened one of our e-mails or seen one of our Web pages. 
-  * These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Site Usage Information to other information about you, including your Personal Information. These technologies also enable us to recognize you when you access our Site using different Web browsers and different computers or devices. 
+  * Cookies are small data files stored on your computer or device at the request of a Web site. A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as your Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username so you can log in easily and keeping you logged into the Site after you have provided your password) or to collect general usage and aggregated information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Site or its features. 
+  *   
+Local shared objects may be stored on your computer or device using a media player or other software installed on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, visit this link: [ https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html ](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
+  *   
+HTML5 (the language some Web sites are coded in) may be used to store information on your computer or device about your Site usage activities. This information can be retrieved by us to determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users. 
+  *   
+Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited our Website or another web site in the past. 
+  *   
+A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you've opened one of our e-mails or seen one of our Web pages. 
+  *   
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Site Usage Information to other information about you, including your Personal Information. These technologies also enable us to recognize you when you access our Site using different Web browsers and different computers or devices. 
 
 
 
@@ -98,9 +94,12 @@ We or our service providers may also use your information to assess the level of
 Yes. We may share the information we collect on the Site with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such as sharing with third parties who need your information in order to provide services to us (or on our behalf) and sharing what you voluntarily post to public areas on the Site with other Site users, we may share your information: 
 
   * with our affiliates, service providers, and other third parties for their marketing and other purposes, unless you tell us not to by following the instructions in the Opt-in and Opt-out section above; 
-  * with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the Opt-in and Opt-out section above; 
-  * when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law; or 
-  * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business. 
+  *   
+with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the Opt-in and Opt-out section above; 
+  *   
+when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law; or 
+  *   
+in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business. 
 
 
 
@@ -110,11 +109,11 @@ In addition, we may share non-personally identifiable Site Usage Information (in
 
 Certain ads that are displayed to you on our Site (including ads served in connection with third party content) may be served by third-party advertising companies. These companies may use information about your visits to this and other Web sites, the region of the country or world where your IP address indicates you are located, as well as other information about you in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. We encourage you to read these businesses' privacy policies to learn about how they treat your information. 
 
-**For more information about third-party advertisers and how to prevent them from using your information, visit the NAI's consumer Web site at<http://www.networkadvertising.org/choices/> or at the Digital Advertising Alliance's Consumer Choice Page at [ http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/) **
+**For more information about third-party advertisers and how to prevent them from using your information, visit the NAI's consumer Web site at<https://www.networkadvertising.org/choices/> or at the Digital Advertising Alliance's Consumer Choice Page at [ https://www.aboutads.info/choices/ ](https://www.aboutads.info/choices/) **
 
 ####  Do Not Track Disclosures 
 
-Some web browsers may transmit "do-not-track" (DNT) signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not change our tracking practices (which are explained in more detail under "Site Usage Information" above) in response to DNT settings in your web browser. In addition, our third party partners, such as web analytics companies and social media networks, collect information about your online activities over time and across our Site and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. We utilize Google Analytics for our web analytics and you can opt out of your Site usage data being included in our Google Analytics reports by visiting [ https://tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20180616164404id_/https%3A//www.ibdb.com/%E2%80%9Dhttps://tools.google.com/dlpage/gaoptout%E2%80%9D). 
+Some web browsers may transmit "do-not-track" (DNT) signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not change our tracking practices (which are explained in more detail under "Site Usage Information" above) in response to DNT settings in your web browser. In addition, our third party partners, such as web analytics companies and social media networks, collect information about your online activities over time and across our Site and other online properties. These third parties may not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. We utilize Google Analytics for our web analytics and you can opt out of your Site usage data being included in our Google Analytics reports by visiting [ https://tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20190528050239id_/https%3A//www.ibdb.com/%E2%80%9Dhttps://tools.google.com/dlpage/gaoptout%E2%80%9D). 
 
 ####  Your Access Rights 
 
@@ -141,13 +140,20 @@ If you are a natural person (a “Data Subject”), you may have certain rights 
 Such rights also include, where certain conditions are met: 
 
   * the right to request access to the Personal Information we hold about you,
-  * the right to have inaccurate information about you amended or updated,
-  * the right to object to processing of Personal Information about you, 
-  * the right to withdraw consent at any time (where relevant), 
-  * the right to have Personal Information about you erased or to restrict processing in certain limited situations, 
-  * the right to data portability and to request the transmission of Personal Information about you to another organization, 
-  * the right to object to automated decision making that materially impacts you, direct marketing, and processing for research or statistical purposes, and 
-  * the right to lodge complaints with applicable data supervisory authorities. 
+  *   
+the right to have inaccurate information about you amended or updated,
+  *   
+the right to object to processing of Personal Information about you, 
+  *   
+the right to withdraw consent at any time (where relevant), 
+  *   
+the right to have Personal Information about you erased or to restrict processing in certain limited situations, 
+  *   
+the right to data portability and to request the transmission of Personal Information about you to another organization, 
+  *   
+the right to object to automated decision making that materially impacts you, direct marketing, and processing for research or statistical purposes, and 
+  *   
+the right to lodge complaints with applicable data supervisory authorities. 
 
 
 
@@ -179,6 +185,5 @@ New York, NY 10019
 Email: contact@broadway.org   
 Phone: 212-764-1122 
 
-**Effective Date: 5/15/2018**
+**Effective Date: 5/15/2018**   
 
-|    
