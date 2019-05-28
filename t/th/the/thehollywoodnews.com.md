@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehollywoodnews.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128013814id_/http%3A//www.thehollywoodnews.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehollywoodnews.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528144057id_/http%3A//www.thehollywoodnews.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy · The Hollywood News
+# Privacy Policy | THN
 
 ## Who we are
 
