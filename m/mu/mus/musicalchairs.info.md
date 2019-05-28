@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicalchairs.info privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160808id_/https%3A//www.musicalchairs.info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicalchairs.info privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528155606id_/https%3A//www.musicalchairs.info/about/privacy) for the most accurate reproduction.*
 
 # About musicalchairs - For Classical Music Professionals
 
