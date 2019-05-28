@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909164617id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529002242id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | TeleSign
 
