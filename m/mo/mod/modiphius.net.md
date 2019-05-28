@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228011338id_/https%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528131551id_/https%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Modiphius Entertainment
-
-**During the Christmas and New Year Holiday season, our customer service response and shipping times will be extended. Please allow additional time for your orders to ship during this exceptionally busy period.  **
 
 Modiphius Entertainment stores relevant information supplied by you in order to fulfil your retail orders or facilitate your secure login to Modiphius Entertainment website services and features.
 
