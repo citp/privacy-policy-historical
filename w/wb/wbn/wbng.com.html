@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wbng.com privacy policy that was archived on 2018-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181125174410id_/https%3A//wbng.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wbng.com privacy policy that was archived on 2019-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190528185504id_/https%3A//wbng.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7J729R"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - WBNG</title>
     
@@ -14,17 +14,21 @@
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
 <!-- This site is optimized with the Yoast SEO plugin v9.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://wbng.com/privacy-policy/">
+<meta name="robots" content="noindex,follow">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - WBNG">
 <meta property="og:description" content="Privacy Policy General This Privacy Policy explains how Quincy Media, Inc. and its subsidiaries, including the television station associated with this web site (collectively, “QMI,” “we” or “us”), handle personal information collected when you use this web site (this “Web site” or our “Web site”) and any mobile applications we may offer (collectively, the “Services”). …">
 <meta property="og:url" content="https://wbng.com/privacy-policy/">
 <meta property="og:site_name" content="WBNG">
+<meta property="article:publisher" content="https://www.facebook.com/wbng12news/">
 <meta property="article:section" content="News">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:description" content="Privacy Policy General This Privacy Policy explains how Quincy Media, Inc. and its subsidiaries, including the television station associated with this web site (collectively, “QMI,” “we” or “us”), handle personal information collected when you use this web site (this “Web site” or our “Web site”) and any mobile applications we may offer (collectively, the “Services”). […]">
 <meta name="twitter:title" content="Privacy Policy - WBNG">
+<meta name="twitter:site" content="@wbng12news">
+<meta name="twitter:creator" content="@wbng12news">
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/wbng.com\/","sameAs":["https:\/\/www.facebook.com\/wbng12news\/","https:\/\/www.instagram.com\/wbng12news\/","https:\/\/twitter.com\/wbng12news"],"@id":"https:\/\/wbng.com\/#organization","name":"WBNG Television","logo":"https:\/\/s3-ca-central-1.amazonaws.com\/quincy-network\/wp-content\/uploads\/sites\/19\/2018\/05\/14130450\/wbng-e1526654892462.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//www.googletagservices.com">
@@ -54,7 +58,8 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="cordillera-ads-styles-css" href="http://wbng.com/wp-content/plugins/cordillera-ads/assets/css/ads.css?ver=4.9.8" type="text/css" media="all">
 <link rel="stylesheet" id="cordillera-intra-articles-css" href="http://wbng.com/wp-content/plugins/cordillera-intra-article-nav/assets/css/intra-articles.css?ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="http://wbng.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8" type="text/css" media="all">
+<link rel="stylesheet" id="cordillera-video-embed-css" href="http://wbng.com/wp-content/plugins/cordillera-post-modification/assets/css/video-embed.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="http://wbng.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.2" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -96,7 +101,7 @@ img.emoji {
 <script type="text/javascript" src="http://wbng.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.9"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"https:\/\/wbng.com\/wp-admin\/admin-ajax.php","security":"f26e03a9ae","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wbng.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/wbng.com\/wp-admin\/admin-ajax.php","security":"1ce119c56d","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/wbng.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"12.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wbng.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=12.2"></script>
@@ -161,71 +166,71 @@ body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width
                       var mapping1 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wbng/wbng.com/1:1_a', [300,250], 'div-gpt-ad-1').
-            defineSizeMapping(mapping1).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_A Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wbng/wbng.com/1:1_a', [300,250], 'div-gpt-ad-1')
+            .defineSizeMapping(mapping1)
+        .setTargeting("wp_unit", "1:1_A Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping2 = googletag.sizeMapping().
         addSize([1024,0],[300, 250]). //desktop 
 addSize([0,0],[300, 250]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wbng/wbng.com/1:1_b', [300,250], 'div-gpt-ad-2').
-            defineSizeMapping(mapping2).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "1:1_B Medium_Rectangle");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wbng/wbng.com/1:1_b', [300,250], 'div-gpt-ad-2')
+            .defineSizeMapping(mapping2)
+        .setTargeting("wp_unit", "1:1_B Medium_Rectangle")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping3 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[320, 50]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wbng/wbng.com/8:1_a', [[728,90],[320,50]], 'div-gpt-ad-3').
-            defineSizeMapping(mapping3).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_A Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wbng/wbng.com/8:1_a', [[728,90],[320,50]], 'div-gpt-ad-3')
+            .defineSizeMapping(mapping3)
+        .setTargeting("wp_unit", "8:1_A Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
         var mapping4 = googletag.sizeMapping().
         addSize([1024,0],[728, 90]). //desktop 
 addSize([0,0],[320, 50]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wbng/wbng.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4').
-            defineSizeMapping(mapping4).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "8:1_B Leaderboard");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wbng/wbng.com/8:1_b', [[728,90],[320,50]], 'div-gpt-ad-4')
+            .defineSizeMapping(mapping4)
+        .setTargeting("wp_unit", "8:1_B Leaderboard")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
-        var mapping8 = googletag.sizeMapping().
+        var mapping6 = googletag.sizeMapping().
         addSize([1024,0],[]). //desktop 
 addSize([0,0],[1, 1]). //mobile 
-build();            googletag.cmd.push(function() {
-            googletag.defineSlot('/21720672171/wbng/wbng.com/outofpage/interstitial', [1,1], 'div-gpt-ad-8').
-            defineSizeMapping(mapping8).
-            setCollapseEmptyDiv(true).
-            addService(googletag.pubads());
-            addService(googletag.pubads()).setTargeting("wp_unit", "Interstitial");
-            googletag.pubads().enableSingleRequest();
-            googletag.enableServices();
-            });
+build();        googletag.cmd.push(function() {
+                    googletag.defineSlot('/21720672171/wbng/wbng.com/outofpage/interstitial', [1,1], 'div-gpt-ad-6')
+            .defineSizeMapping(mapping6)
+        .setTargeting("wp_unit", "Interstitial")
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        });
         
 
 googletag.pubads().setTargeting("wp_category", ["news"]);
@@ -268,51 +273,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </button>
                                     </div><!--.logo -->
                                     <div class="header-widget">
-                        
-<div class="current-conditions full-width">
-    <div class="current-conditions-slides">
-                    <div class="station" data-slide-number="0" data-station-id="KBGM">
-                <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Cloudy" data-condition-abbrv="ovc" style="color:#0A246A"></i>
-                </div>
-                <div class="station-title" style="color:#212121">
-                    Owego                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        40°
-                    </div>
-                            </div>
-                    <div class="station" data-slide-number="1" data-station-id="KMSV">
-                <div class="station-condition">
-                    <i class="wi wi-day-cloudy" data-condition="Mostly Cloudy" data-condition-abbrv="bkn" style="color:#0A246A"></i>
-                </div>
-                <div class="station-title" style="color:#212121">
-                    Delhi                </div>
-                                    <div class="station-temperature" style="color:#212121">
-                        43°
-                    </div>
-                            </div>
-                    <div class="station" data-slide-number="2" data-station-id="KOIC">
-                <div class="station-condition">
-                    <i class="wi wi-day-sunny-overcast" data-condition="Partly Cloudy" data-condition-abbrv="sct" style="color:#0A246A"></i>
-                </div>
-                <div class="station-title" style="color:#212121">
-                    Norwich                </div>
-                            </div>
-            </div>
-        </div>
-                    </div>
+                                            </div>
                                 <nav class="nav-main" role="navigation">
                     <div class="navbar-collapse collapse">
                         <div class="nav-main-inner">
                                                             <ul id="menu-main-menu" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-home first-item menu-item-3824"><a href="https://wbng.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-news menu-item-278"><a href="https://wbng.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-local-news menu-item-33579"><a href="https://wbng.com/local-news-2/"><span>Local News</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-election-results menu-item-47301"><a href="https://wbng.com/news/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-local-news menu-item-33579"><a href="https://wbng.com/local-news/"><span>Local News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-digging-deeper menu-item-22649"><a href="https://wbng.com/digging-deeper-2/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-drug-epidemic menu-item-22647"><a href="https://wbng.com/drug-epidemic-2/"><span>Drug Epidemic</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-politics menu-item-22648"><a href="https://wbng.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-new-york-news menu-item-24055"><a href="https://wbng.com/new-york-news/"><span>New York News</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-obituaries menu-item-82854"><a href="http://wbng.tributes.com/"><span>Obituaries</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-meet-the-team menu-item-22646"><a href="https://wbng.com/meet-the-team/"><span>Meet the Team</span></a></li>
 </ul>
 </li>
@@ -323,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-map-room menu-item-22979"><a href="https://wbng.com/weather/map-room/"><span>Map room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-alerts-and-warnings menu-item-22987"><a href="https://wbng.com/weather/alerts-and-warnings/"><span>Alerts and Warnings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-forecast-and-conditions menu-item-22986"><a href="https://wbng.com/weather/forecast-and-conditions/"><span>Forecast and Conditions</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1425"><a href="https://wbng.com/weather/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-closings-and-delays menu-item-1425"><a href="https://wbng.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-submit-closings menu-item-22998"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wbng_xswujmz"><span>Submit Closings</span></a></li>
 </ul>
 </li>
@@ -340,13 +313,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-watch menu-item-662"><a href="https://wbng.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-tv-listings menu-item-95686"><a href="https://wbng.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-wbng-live-stream menu-item-4773"><a href="https://wbng.com/news/wbng-live-stream/"><span>WBNG Live Stream</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-binghamtons-cw menu-item-26680"><a href="https://www.yourcwtv.com/partners/binghamton/index.php"><span>Binghamton’s CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-entertainment-tonight menu-item-26682"><a href="https://www.etonline.com/"><span>Entertainment Tonight</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-inside-edition menu-item-26683"><a href="https://www.insideedition.com/"><span>Inside Edition</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-mr-food menu-item-3823"><a href="https://www.mrfood.com"><span>Mr. Food</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-pickler-ben menu-item-26684"><a href="https://www.picklerandben.com/"><span>Pickler &amp; Ben</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-rachel-ray-show menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachel Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-rachael-ray-show menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachael Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-metv menu-item-133213"><a href="https://www.metv.com/"><span>MeTV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-court-tv menu-item-133214"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-grit-tv menu-item-133215"><a href="https://www.grittv.com/tv-schedule/"><span>Grit TV</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-things-to-do menu-item-22606"><a href="https://wbng.com/things-to-do/"><span>Things to Do</span></a>
@@ -358,14 +335,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-around-the-tiers menu-item-661"><a href="https://wbng.com/around-the-tiers/"><span>Around the Tiers</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-meet-your-host-kara-conrad menu-item-33563"><a href="https://wbng.com/around-the-tiers/2018/08/08/meet-your-host-kara-conrad/"><span>Meet your Host: Kara Conrad</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-southern-tier-tuesdays menu-item-138409"><a href="https://wbng.com/southern-tier-tuesdays/"><span>Southern Tier Tuesdays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-financial-tip menu-item-24244"><a href="https://wbng.com/financial-tip/"><span>Financial Tip</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-get-fit menu-item-75297"><a href="https://wbng.com/get-fit-2/"><span>Get Fit</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-home-gardener menu-item-24245"><a href="https://wbng.com/wbng-home-gardener/"><span>Home Gardener</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-pet-of-the-week menu-item-24246"><a href="https://wbng.com/pet-of-the-week-2/"><span>Pet of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-local-experts menu-item-24087"><a href="https://wbng.com/local-experts-2/"><span>Local Experts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-docs-on-call menu-item-24265"><a href="https://wbng.com/docs-on-call-2/"><span>Docs on Call</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-lawyers-on-call menu-item-24276"><a href="https://wbng.com/lawyers-on-call-3/"><span>Lawyers on Call</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-healthier-southern-tier menu-item-24275"><a href="https://wbng.com/healthier-southern-tier-3/"><span>Healthier Southern Tier</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-cooking-in-the-kitchen-at-olums menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking in the Kitchen at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-healthier-southern-tier menu-item-24275"><a href="https://wbng.com/healthier-southern-tier/"><span>Healthier Southern Tier</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-cooking-at-olums menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-weis-healthy-heart menu-item-85426"><a href="https://wbng.com/weis-healthy-heart/"><span>Weis Healthy Heart</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-contact menu-item-822"><a href="https://wbng.com/contact-us/"><span>Contact</span></a>
@@ -373,20 +353,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-sign-up-for-email-alerts menu-item-32669"><a href="https://wbng.com/sign-up-for-wbng-news-and-weather-emails/"><span>Sign up for Email Alerts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-advertise-with-wbng menu-item-828"><a href="https://wbng.com/contact-us/advertise-with-wbng/"><span>Advertise with WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-advertiser-services menu-item-829"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincify-digital-marketing menu-item-830"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-careers-at-wbng menu-item-827"><a href="https://wbng.com/contact-us/wbng-careers/"><span>Careers at WBNG</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-careers-at-wbng menu-item-827"><a href="https://wbng.com/wbng-careers/"><span>Careers at WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-quincy-media-careers menu-item-831"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
 </ul><ul id="menu-main-menu-1" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-3824"><a href="https://wbng.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-278"><a href="https://wbng.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news-2/"><span>Local News</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47301"><a href="https://wbng.com/news/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news/"><span>Local News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22649"><a href="https://wbng.com/digging-deeper-2/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22647"><a href="https://wbng.com/drug-epidemic-2/"><span>Drug Epidemic</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22648"><a href="https://wbng.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24055"><a href="https://wbng.com/new-york-news/"><span>New York News</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82854"><a href="http://wbng.tributes.com/"><span>Obituaries</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22646"><a href="https://wbng.com/meet-the-team/"><span>Meet the Team</span></a></li>
 </ul>
 </li>
@@ -397,7 +376,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22979"><a href="https://wbng.com/weather/map-room/"><span>Map room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22987"><a href="https://wbng.com/weather/alerts-and-warnings/"><span>Alerts and Warnings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22986"><a href="https://wbng.com/weather/forecast-and-conditions/"><span>Forecast and Conditions</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/weather/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22998"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wbng_xswujmz"><span>Submit Closings</span></a></li>
 </ul>
 </li>
@@ -414,13 +393,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-662"><a href="https://wbng.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95686"><a href="https://wbng.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4773"><a href="https://wbng.com/news/wbng-live-stream/"><span>WBNG Live Stream</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26680"><a href="https://www.yourcwtv.com/partners/binghamton/index.php"><span>Binghamton’s CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26682"><a href="https://www.etonline.com/"><span>Entertainment Tonight</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26683"><a href="https://www.insideedition.com/"><span>Inside Edition</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3823"><a href="https://www.mrfood.com"><span>Mr. Food</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26684"><a href="https://www.picklerandben.com/"><span>Pickler &amp; Ben</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachel Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachael Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133213"><a href="https://www.metv.com/"><span>MeTV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133214"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133215"><a href="https://www.grittv.com/tv-schedule/"><span>Grit TV</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22606"><a href="https://wbng.com/things-to-do/"><span>Things to Do</span></a>
@@ -432,14 +415,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-661"><a href="https://wbng.com/around-the-tiers/"><span>Around the Tiers</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33563"><a href="https://wbng.com/around-the-tiers/2018/08/08/meet-your-host-kara-conrad/"><span>Meet your Host: Kara Conrad</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138409"><a href="https://wbng.com/southern-tier-tuesdays/"><span>Southern Tier Tuesdays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24244"><a href="https://wbng.com/financial-tip/"><span>Financial Tip</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75297"><a href="https://wbng.com/get-fit-2/"><span>Get Fit</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24245"><a href="https://wbng.com/wbng-home-gardener/"><span>Home Gardener</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24246"><a href="https://wbng.com/pet-of-the-week-2/"><span>Pet of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24087"><a href="https://wbng.com/local-experts-2/"><span>Local Experts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24265"><a href="https://wbng.com/docs-on-call-2/"><span>Docs on Call</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24276"><a href="https://wbng.com/lawyers-on-call-3/"><span>Lawyers on Call</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier-3/"><span>Healthier Southern Tier</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking in the Kitchen at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier/"><span>Healthier Southern Tier</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85426"><a href="https://wbng.com/weis-healthy-heart/"><span>Weis Healthy Heart</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-822"><a href="https://wbng.com/contact-us/"><span>Contact</span></a>
@@ -447,8 +433,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32669"><a href="https://wbng.com/sign-up-for-wbng-news-and-weather-emails/"><span>Sign up for Email Alerts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://wbng.com/contact-us/advertise-with-wbng/"><span>Advertise with WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-830"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/contact-us/wbng-careers/"><span>Careers at WBNG</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/wbng-careers/"><span>Careers at WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
@@ -508,12 +493,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <ul id="menu-main-menu-2" class="sf-menu hidden-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-3824"><a href="https://wbng.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-278"><a href="https://wbng.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news-2/"><span>Local News</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47301"><a href="https://wbng.com/news/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news/"><span>Local News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22649"><a href="https://wbng.com/digging-deeper-2/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22647"><a href="https://wbng.com/drug-epidemic-2/"><span>Drug Epidemic</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22648"><a href="https://wbng.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24055"><a href="https://wbng.com/new-york-news/"><span>New York News</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82854"><a href="http://wbng.tributes.com/"><span>Obituaries</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22646"><a href="https://wbng.com/meet-the-team/"><span>Meet the Team</span></a></li>
 </ul>
 </li>
@@ -524,7 +509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22979"><a href="https://wbng.com/weather/map-room/"><span>Map room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22987"><a href="https://wbng.com/weather/alerts-and-warnings/"><span>Alerts and Warnings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22986"><a href="https://wbng.com/weather/forecast-and-conditions/"><span>Forecast and Conditions</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/weather/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22998"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wbng_xswujmz"><span>Submit Closings</span></a></li>
 </ul>
 </li>
@@ -541,13 +526,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-662"><a href="https://wbng.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95686"><a href="https://wbng.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4773"><a href="https://wbng.com/news/wbng-live-stream/"><span>WBNG Live Stream</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26680"><a href="https://www.yourcwtv.com/partners/binghamton/index.php"><span>Binghamton’s CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26682"><a href="https://www.etonline.com/"><span>Entertainment Tonight</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26683"><a href="https://www.insideedition.com/"><span>Inside Edition</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3823"><a href="https://www.mrfood.com"><span>Mr. Food</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26684"><a href="https://www.picklerandben.com/"><span>Pickler &amp; Ben</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachel Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachael Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133213"><a href="https://www.metv.com/"><span>MeTV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133214"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133215"><a href="https://www.grittv.com/tv-schedule/"><span>Grit TV</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22606"><a href="https://wbng.com/things-to-do/"><span>Things to Do</span></a>
@@ -559,14 +548,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-661"><a href="https://wbng.com/around-the-tiers/"><span>Around the Tiers</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33563"><a href="https://wbng.com/around-the-tiers/2018/08/08/meet-your-host-kara-conrad/"><span>Meet your Host: Kara Conrad</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138409"><a href="https://wbng.com/southern-tier-tuesdays/"><span>Southern Tier Tuesdays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24244"><a href="https://wbng.com/financial-tip/"><span>Financial Tip</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75297"><a href="https://wbng.com/get-fit-2/"><span>Get Fit</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24245"><a href="https://wbng.com/wbng-home-gardener/"><span>Home Gardener</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24246"><a href="https://wbng.com/pet-of-the-week-2/"><span>Pet of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24087"><a href="https://wbng.com/local-experts-2/"><span>Local Experts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24265"><a href="https://wbng.com/docs-on-call-2/"><span>Docs on Call</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24276"><a href="https://wbng.com/lawyers-on-call-3/"><span>Lawyers on Call</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier-3/"><span>Healthier Southern Tier</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking in the Kitchen at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier/"><span>Healthier Southern Tier</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85426"><a href="https://wbng.com/weis-healthy-heart/"><span>Weis Healthy Heart</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-822"><a href="https://wbng.com/contact-us/"><span>Contact</span></a>
@@ -574,20 +566,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32669"><a href="https://wbng.com/sign-up-for-wbng-news-and-weather-emails/"><span>Sign up for Email Alerts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://wbng.com/contact-us/advertise-with-wbng/"><span>Advertise with WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-830"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/contact-us/wbng-careers/"><span>Careers at WBNG</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/wbng-careers/"><span>Careers at WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
 </ul><ul id="menu-main-menu-3" class="mobile-menu visible-xs"><li class="menu-item menu-item-type-custom menu-item-object-custom first-item menu-item-3824"><a href="https://wbng.com/"><span>Home</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-278"><a href="https://wbng.com/news/"><span>News</span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news-2/"><span>Local News</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47301"><a href="https://wbng.com/news/election-results/"><span>Election Results</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33579"><a href="https://wbng.com/local-news/"><span>Local News</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22649"><a href="https://wbng.com/digging-deeper-2/"><span>Digging Deeper</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22647"><a href="https://wbng.com/drug-epidemic-2/"><span>Drug Epidemic</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22648"><a href="https://wbng.com/politics/"><span>Politics</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24055"><a href="https://wbng.com/new-york-news/"><span>New York News</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82854"><a href="http://wbng.tributes.com/"><span>Obituaries</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22646"><a href="https://wbng.com/meet-the-team/"><span>Meet the Team</span></a></li>
 </ul>
 </li>
@@ -598,7 +589,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22979"><a href="https://wbng.com/weather/map-room/"><span>Map room</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22987"><a href="https://wbng.com/weather/alerts-and-warnings/"><span>Alerts and Warnings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22986"><a href="https://wbng.com/weather/forecast-and-conditions/"><span>Forecast and Conditions</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/weather/closings-and-delays/"><span>Closings and Delays</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="https://wbng.com/closings/"><span>Closings and Delays</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22998"><a href="https://www.secure1.newsroomsolutions.com/s/closings?client=wbng_xswujmz"><span>Submit Closings</span></a></li>
 </ul>
 </li>
@@ -615,13 +606,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-662"><a href="https://wbng.com/watch/"><span>Watch</span></a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95686"><a href="https://wbng.com/watch/"><span>TV Listings</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4773"><a href="https://wbng.com/news/wbng-live-stream/"><span>WBNG Live Stream</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26680"><a href="https://www.yourcwtv.com/partners/binghamton/index.php"><span>Binghamton’s CW</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26682"><a href="https://www.etonline.com/"><span>Entertainment Tonight</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26683"><a href="https://www.insideedition.com/"><span>Inside Edition</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3823"><a href="https://www.mrfood.com"><span>Mr. Food</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26684"><a href="https://www.picklerandben.com/"><span>Pickler &amp; Ben</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachel Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26681"><a href="https://www.rachaelrayshow.com/"><span>Rachael Ray Show</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133213"><a href="https://www.metv.com/"><span>MeTV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133214"><a href="https://www.courttv.com/"><span>Court TV</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133215"><a href="https://www.grittv.com/tv-schedule/"><span>Grit TV</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22606"><a href="https://wbng.com/things-to-do/"><span>Things to Do</span></a>
@@ -633,14 +628,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-661"><a href="https://wbng.com/around-the-tiers/"><span>Around the Tiers</span></a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33563"><a href="https://wbng.com/around-the-tiers/2018/08/08/meet-your-host-kara-conrad/"><span>Meet your Host: Kara Conrad</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138409"><a href="https://wbng.com/southern-tier-tuesdays/"><span>Southern Tier Tuesdays</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24244"><a href="https://wbng.com/financial-tip/"><span>Financial Tip</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75297"><a href="https://wbng.com/get-fit-2/"><span>Get Fit</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24245"><a href="https://wbng.com/wbng-home-gardener/"><span>Home Gardener</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24246"><a href="https://wbng.com/pet-of-the-week-2/"><span>Pet of the Week</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24087"><a href="https://wbng.com/local-experts-2/"><span>Local Experts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24265"><a href="https://wbng.com/docs-on-call-2/"><span>Docs on Call</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24276"><a href="https://wbng.com/lawyers-on-call-3/"><span>Lawyers on Call</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier-3/"><span>Healthier Southern Tier</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking in the Kitchen at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24275"><a href="https://wbng.com/healthier-southern-tier/"><span>Healthier Southern Tier</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24277"><a href="https://wbng.com/cooking-in-the-kitchen-at-olums/"><span>Cooking at Olum’s</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85426"><a href="https://wbng.com/weis-healthy-heart/"><span>Weis Healthy Heart</span></a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-822"><a href="https://wbng.com/contact-us/"><span>Contact</span></a>
@@ -648,8 +646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32669"><a href="https://wbng.com/sign-up-for-wbng-news-and-weather-emails/"><span>Sign up for Email Alerts</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://wbng.com/contact-us/advertise-with-wbng/"><span>Advertise with WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829"><a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp"><span>Advertiser Services</span></a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-830"><a href="https://www.quincify.com"><span>Quincify Digital Marketing</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/contact-us/wbng-careers/"><span>Careers at WBNG</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://wbng.com/wbng-careers/"><span>Careers at WBNG</span></a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-831"><a href="https://quincymediacareers.com"><span>Quincy Media Careers</span></a></li>
 </ul>
 </li>
@@ -736,8 +733,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<section id="pojo_image_text-3" class="widget widget_pojo_image_text col-sm-4"><div class="widget-inner"><div class="pojo-image-text"><img src="http://wbng.com/wp-content/uploads/sites/19/2018/05/wbng-e1526654892462.png" alt="" class="image-text-thumbnail alignleft"><div class="image-text-body"><p class="image-text-description"><br><b>12 NEWS WBNG</b><br>
 560 Columbia Dr. Johnson City, NY 13790<br>
 News Tips: (607) 729-9575<br>
-or <a href="mailto:news@wbng.com">news@wbng.com</a></p></div></div></div></section><section id="custom_html-3" class="widget_text widget widget_custom_html col-sm-4"><div class="widget_text widget-inner"><div class="textwidget custom-html-widget"><a href="mailto:news@wbng.com"><br></a><a href="/wbng-careers">Careers</a>&nbsp;&nbsp;<a href="/contact-us/advertise-with-wbng/">Advertise with us</a>&nbsp;&nbsp;<a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp">Advertiser Services</a><br>
-<a href="https://publicfiles.fcc.gov/tv-profile/wbng">FCC Public File</a> &nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/0ccb8e5f-a640-ef04-8c41-cb2690726162/a4365709-160c-4460-925e-6b99da7c8110.pdf">EEO Report</a><br> <a href="/contact-us/closed-captioning/">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1363">
+or <a href="mailto:news@wbng.com">news@wbng.com</a></p></div></div></div></section><section id="custom_html-3" class="widget_text widget widget_custom_html col-sm-4"><div class="widget_text widget-inner"><div class="textwidget custom-html-widget"><a href="mailto:news@wbng.com"><br></a><a href="/wbng-careers">Careers</a>&nbsp;&nbsp;<a href="/wbng-careers/">Advertise with us</a>&nbsp;&nbsp;<a href="https://xprspay.ipayxepay.net/xprspay/qmi/index.jsp">Advertiser Services</a><br>
+<a href="https://publicfiles.fcc.gov/tv-profile/wbng">FCC Public File</a> &nbsp;<a href="https://wbng.com/about/2019/05/15/fcc-public-file-help/">Public File Help</a>&nbsp;&nbsp;<a href="https://publicfiles.fcc.gov/api/manager/download/0ccb8e5f-a640-ef04-8c41-cb2690726162/b4726861-0617-4df1-9886-9c0b048e0293.pdf">EEO Report</a><br> <a href="/contact-us/closed-captioning/">Closed Captioning Contact</a></div></div></section><section id="elementor-library-3" class="widget widget_elementor-library col-sm-4"><div class="widget-inner">		<div class="elementor elementor-1363">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 							<div data-id="1363" class="elementor-element elementor-element-1363 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
@@ -778,7 +775,7 @@ or <a href="mailto:news@wbng.com">news@wbng.com</a></p></div></div></div></secti
 			<div class="container">
 				<div class="content-copyright">
 					<div class="pull-left-copyright">
-						All content © Copyright 2000 - 2018 WBNG Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
+						All content © Copyright 2000 - 2019 WBNG Television. All Rights Reserved. For more information on this site, please read our <a href="/privacy-policy">Privacy Policy</a>, <a href="/terms-of-service">Terms of Service</a>, and <a href="http://www.aboutads.info/choices">Ad Choices</a>.					</div>
 					<div class="pull-right-copyright">
 											</div>
 				</div>
@@ -850,7 +847,7 @@ or <a href="mailto:news@wbng.com">news@wbng.com</a></p></div></div></div></secti
 				</div>
 			</div>
 		</div>
-		<link rel="stylesheet" id="elementor-post-1363-css" href="http://wbng.com/wp-content/uploads/sites/19/elementor/css/post-1363.css?ver=1542314327" type="text/css" media="all">
+		<link rel="stylesheet" id="elementor-post-1363-css" href="http://wbng.com/wp-content/uploads/sites/19/elementor/css/post-1363.css?ver=1558630977" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
 var breakingNews = {"siteURL":"http:\/\/wbng.com","breakingNewsTitle":"NEWS ALERT","breakingWeatherTitle":"WEATHER ALERT","breakingNewsBg":"#C13131","breakingWeatherBg":"#E9CD00"};
@@ -862,13 +859,7 @@ var breakingNews = {"siteURL":"http:\/\/wbng.com","breakingNewsTitle":"NEWS ALER
 var pollsL10n = {"ajax_url":"https:\/\/wbng.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wbng.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var distributorCustomizations = {"title_text":"Click to refresh page and enable Distributor."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wbng.com/wp-content/plugins/cordillera-distributor-customizations/assets/js/cordillera-distributor-customizations.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://wbng.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.2"></script>
 <script type="text/javascript" src="http://wbng.com/wp-content/plugins/pojo-forms/assets/js/app.min.js?ver=4.9.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -898,7 +889,7 @@ var PojoLightboxOptions = {"script_type":"photoswipe","smartphone":"","woocommer
 <script type="text/javascript" src="http://wbng.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.1.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wbng.com\/wp-admin\/admin-ajax.php","nonce":"a30d960f7b","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/wbng.com\/wp-admin\/admin-ajax.php","nonce":"0a817af14b","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://wbng.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.1.2"></script>
@@ -976,5 +967,5 @@ var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0
 									</div>
 			</div>
 		</nav>
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":554,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"277133278b","applicationID":"95576464","transactionName":"Yl0BZUMHVxYFAEcIV1sXIlJFD1YLSwpdBV1N","queueTime":0,"applicationTime":718,"atts":"ThoCEwsdRBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
