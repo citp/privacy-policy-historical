@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916105447id_/https%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwnt.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528185100id_/https%3A//wdwnt.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Disclaimer/Privacy Policy - WDW News Today
 
