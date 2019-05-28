@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222204039id_/https%3A//www.marketo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528164456id_/https%3A//www.marketo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice » Marketo Documents
 
 **Effective Date:** September 16, 2016
 
- **Amended:** October 5, 2018
+ **Amended:** January 10, 2019
 
 Marketo, Inc. and its Affiliates (Marketo International, Ltd.; Marketo EMEA, Ltd.; Marketo Australia Pty Ltd.; Marketo K.K.; Marketo Solutions Limited (UK); Marketo Solutions, Ltd. (Israel) aka Insightera, Inc.; Marketo Corporation Canada; Bizible; ToutApp, Inc.; Zubhium Inc.) (collectively, "Marketo", "we" or "us") know that you care about how the personal data we receive about you is used and shared, and we take your privacy seriously. This Privacy Notice describes Marketo’s privacy practices in relation to information that we collect through websites operated by us from which you are accessing this Privacy Notice (collectively, the “Domains”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Notice (the “Apps”), through our social media pages and apps located at https://www.facebook.com/Marketo, https://twitter.com/marketo, https://plus.google.com/+marketo and https://www.linkedin.com (collectively, the “Social Media Pages”), and other services provided by us both online and offline; as well as through email messages that we send to you that link to this Privacy Notice (collectively, including the Domains, the Apps and the Social Media Pages, the “Sites”). “You” or “user” refers to any individual who visits or otherwise uses the Sites. 
 
@@ -154,13 +154,13 @@ If there is any conflict between the terms in this Privacy Notice and the Privac
 
 ### 15\. Questions, Concerns or Complaints 
 
-Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information as a data Controller, please contact our Data Protection Officer (DPO) by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com), or by mail at: 901 Mariners Island Blvd, Suite 500, San Mateo, CA 94404 ATTN: Privacy Officer, Legal. Or, you may contact Marketo’s Representative to the European Union, Marketo EMEA Ltd, by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com)or by mail at: Level 2, Red Oak North, South County Business Park, Leopardstown, Dublin 18 Ireland.
+Your privacy is important to us. If you have any questions, concerns, or complaints regarding the way we collect and handle your information as a data Controller, please contact our Data Protection Officer (DPO) by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com), or by mail at: 601 Townsend St, San Francisco, CA 94103 ATTN: Privacy, Legal. Or, you may contact Marketo’s Representative to the European Union, Marketo EMEA Ltd, by email at [privacyofficer@marketo.com](mailto:privacyofficer@marketo.com) or by mail at: Level 2, Red Oak North, South County Business Park, Leopardstown, Dublin 18 Ireland.
 
 Because email communications are not always secure, please do not include credit card information or other sensitive information in your emails to us. 
 
 Marketo will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
-In compliance with the Privacy Shield Principles, Marketo commits to resolve complaints about our collection or use of yourPersonal Data.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Marketo’s Data Protection Officer as indicated above.
+In compliance with the Privacy Shield Principles, Marketo commits to resolve complaints about our collection or use of your Personal Data.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Marketo’s Data Protection Officer as indicated above.
 
 Marketo has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association’s International Centre for Dispute Resolution, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit <http://go.adr.org/privacyshieldfiling.html> for more information or to file a complaint. The services of the AAA/ICDR are provided at no cost to you.
 
