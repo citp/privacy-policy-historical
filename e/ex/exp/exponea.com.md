@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exponea.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230210018id_/https%3A//exponea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponea.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528063634id_/https%3A//exponea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy New — Exponea
+# Privacy Policy — Exponea
 
 **EXPONEA PRIVACY POLICY**  
  **Version, Effective date: 4.0., 31st August 2018**
