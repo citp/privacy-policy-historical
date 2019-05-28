@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babygaga.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129050750id_/https%3A//www.babygaga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygaga.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528104056id_/https%3A//www.babygaga.com/privacy-policy) for the most accurate reproduction.*
 
 # BabyGaga
 
