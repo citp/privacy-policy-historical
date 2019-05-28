@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214072219id_/https%3A//informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528123604id_/https%3A//informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
@@ -165,7 +165,7 @@ In some cases, we may be entitled to decline a request you have made regarding y
 
 **If you have any questions about this Privacy Policy you can contact our Group Data Protection Officer.**
 
-If you have any questions about this Privacy Policy or relating to our use of your information, write to our Group Data Protection Officer at Informa PLC, 5 Howick Place, London, SW1P 1WG or email [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+If you have any questions about this Privacy Policy or relating to our use of your information, write to our Group Data Protection Officer at Informa PLC, 5 Howick Place, London, SW1P 1WG or email [GroupDPO@informa.com](mailto:GroupDPO@informa.com).
 
 We hope to resolve any privacy concerns you may have. If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws. In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law. Their procedures can be found at [www.ico.org.uk](http://www.ico.org.uk/).
 
@@ -173,4 +173,4 @@ We hope to resolve any privacy concerns you may have. If you are not happy with 
 
 To keep up with changing legislation, best practice and changes in how we process personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website. Checking back periodically will mean you are aware of any changes. This Privacy Policy should be read in conjunction with the website’s Terms and is also subject to these Terms ([Click here to view the Terms & Conditions](https://informa.com/generic-content/terms--conditions/)).
 
-This Privacy Policy was last updated on **23 May 2018**.
+This Privacy Policy was last updated on **12 Feb 2019**.
