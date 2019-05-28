@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlog.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220115104id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlog.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528084710id_/https%3A//nulab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nulab
 
@@ -6,7 +6,7 @@ Nulab Inc. (“Nulab”, “we”, “us” or “our”) conducts computer syst
 
 The term “personal information” as used in this policy shall mean any information that enables us to identify you, directly or indirectly, by reference to an identifier such as your name, identification number, location data, online identifier or one or more factors specific to you.
 
-For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Nulab Inc. is the controller of personal information and responsible for our websites, including [https://nulab-inc.com](https://nulab-inc.com/), [https://backlog.com](https://backlog.com/), [https://cacoo.com](https://cacoo.com/), [https://www.typetalk.com](https://www.typetalk.com/) (the “ **Site** ”).
+For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Nulab Inc. is the controller of personal information and responsible for our websites, including [https://nulab.com](https://nulab.com/), [https://backlog.com](https://backlog.com/), [https://cacoo.com](https://cacoo.com/), [https://www.typetalk.com](https://www.typetalk.com/) (the “ **Site** ”).
 
 ## Our data privacy principles
 
