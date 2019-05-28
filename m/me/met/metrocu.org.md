@@ -1,96 +1,96 @@
-> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513091049id_/https%3A//www.metrocu.org/getmedia/7808e0e0-029c-40ed-8273-a20179316077/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrocu.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528063158id_/https%3A//www.metrocu.org/getmedia/7808e0e0-029c-40ed-8273-a20179316077/Privacy-Policy.pdf) for the most accurate reproduction.*
 
-# PRIVACY NOTICE
+# 
 
-                                                                           PRIVACY NOTICE
-FACTS                            WHAT DOES METRO CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?
-                                 Financial companies choose how they share your personal information. Federal law
-                                 gives consumers the right to limit some but not all sharing. Federal law also requires us
-Why?                             to tell you how we collect, share, and protect your personal information. Please read this
-                                 notice carefully to understand what we do.
-                                 The types of personal information we collect and share depend on the product or service
-                                 you have with us. This information can include:
-                                       •   Social Security number and employment information
-                                       •   Account balances and payment history
-What?                                  •   Account transactions and checking account information
-                                       •   Credit scores
-                                 When you are no longer our member, we continue to share your information as
-                                 described in this notice.
-                                 All financial companies need to share members’ personal information to run their
-                                 everyday business. In the section below, we list the reasons financial companies can
-How?                             share their members’ personal information; the reasons Metro Credit Union chooses to
-                                 share; and whether you can limit this sharing.
-Questions:                       Contact our Member Service Center, 877-MY-METRO (877-696-3876)
-                                                                                 Does Metro Credit      Can you limit this
-          Reasons we can share your personal information
-                                                                                   Union share?              sharing?
-For our everyday business purposes –
-Such as, to enable us to process your transactions, maintain your account(s),           Yes                     No
-respond to court orders and legal investigations, or report to credit bureaus.
-For our marketing purposes –                                                            Yes                    Yes
-                                                                                                                   1
-To offer enhanced products and services to you.
-                                                                                                                   1
-For joint marketing with other financial companies                                      Yes                    Yes
-For our affiliates’ everyday business purposes –
-Information about your transactions and experiences.
-                                                                                              Not Applicable
-For our affiliates’ everyday business purposes –
-Information about your creditworthiness.                                                   Metro Credit Union
-                                                                                        does not have affiliates.
-For our affiliates to market to you
-For non-affiliates to market to you                                                     No               Not Applicable
-                                                                                                                Rev. 01/16
+                                                                             PRIVACY NOTICE
+  FACTS                            WHAT DOES METRO CREDIT UNION DO WITH YOUR PERSONAL INFORMATION?
+                                   Financial companies choose how they share your personal information. Federal law
+                                   gives consumers the right to limit some but not all sharing. Federal law also requires us
+  Why?                             to tell you how we collect, share, and protect your personal information. Please read this
+                                   notice carefully to understand what we do.
+                                   The types of personal information we collect and share depend on the product or service
+                                   you have with us. This information can include:
+                                         •   Social Security number and employment information
+                                         •   Account balances and payment history
+  What?                                  •   Account transactions and checking account information
+                                         •   Credit scores
+                                   When you are no longer our member, we continue to share your information as
+                                   described in this notice.
+                                   All financial companies need to share members’ personal information to run their
+                                   everyday business. In the section below, we list the reasons financial companies can
+  How?                             share their members’ personal information; the reasons Metro Credit Union chooses to
+                                   share; and whether you can limit this sharing.
+  Questions:                       Contact our Member Service Center, 877-MY-METRO (877-696-3876)
+                                                                                   Does Metro Credit      Can you limit this
+            Reasons we can share your personal information
+                                                                                     Union share?              sharing?
+  For our everyday business purposes –
+  Such as, to enable us to process your transactions, maintain your account(s),          Yes                      No
+  respond to court orders and legal investigations, or report to credit bureaus.
+  For our marketing purposes –                                                            Yes                     No
+  To offer enhanced products and services to you.
+                                                                                                                     1
+  For joint marketing with other financial companies                                      Yes                    Yes
+  For our affiliate’s everyday business purposes –                                        Yes                     No
+  Information about your transactions and experiences.
+  For our affiliate’s everyday business purposes –                                        No               Metro does not
+  Information about your creditworthiness.                                                                       share
+                                                                                                                     1
+  For our affiliates to market to you                                                     Yes                    Yes
+                                                                                              2                      1
+  For non-affiliates to market to you                                                    Yes                     Yes
+11-18
 
 
-                                                                     PRIVACY NOTICE
-Who we are …
-                                    Metro Credit Union, a cooperative financial institution founded in 1926,
-Who is providing this               headquartered in Chelsea, Massachusetts, servicing members in Essex,
-notice?                             Middlesex, Suffolk, Norfolk, Plymouth, Barnstable, Bristol, or Worcester
-                                    counties.
-What we do …
-How does Metro Credit               To protect your personal information from unauthorized access and use, we use
-Union protect my personal           security measures that are designed to comply with federal law. These measures
-                                                                                                     2
-information?                        include computer safeguards and secured files and buildings .
-                                    We collect your personal information, for example, when you:
-                                          •    Open an account or deposit money
-How does Metro Credit                     •    Apply for a loan or pay your bills
-Union collect my personal                 •    Use your credit or debit card
-information?
-                                    We also collect your personal information from others, such as credit bureaus,
-                                    affiliates, or other companies.
-                                    Federal law gives you the right to limit only
-                                          •    Sharing for affiliates’ everyday business purposes – information about
-                                               your creditworthiness
-Why can’t I limit all                     •    Affiliates from using your information to market to you
-sharing?                                  •    Sharing for non-affiliates to market to you
-                                    State law and individual companies may give you additional rights to limit
-                                             3
-                                    sharing .
-Definitions …
-                                    Companies related by common ownership or control. They can be financial and
-Affiliates                          nonfinancial companies.
-                                          •    Metro Credit Union has no affiliates
-                                    Companies not related by common ownership or control. They can be financial
-                                    and nonfinancial companies.
-Non-affiliates
-                                          •    Metro Credit Union does not share information with non-affiliates to
-                                               market to you.
-                                    A formal agreement between nonaffiliated financial companies that together
-                                    market financial products or services to you.
-Joint Marketing
-                                          •    Our joint marketing partners include credit card processors and
-                                               insurance companies.
-Notes
-     (1) Members may choose to not receive or “opt-out” of marketing mailings delivered by electronic mail or the
-         postal service by contacting our member service center (877-MY-METRO)..
-     (2) Metro Credit Union has instituted programs to ensure the security and privacy of personal information with
-         oversight from our management teams.
-     (3) Please refer to the Massachusetts Office of Consumer Affairs & Business Regulation web site for more
-         information: http://www.mass.gov/ocabr/consumer/privacy/ or http://www.mass.gov/ocabr/consumer/banks-banking/
-                                                                                                             Rev. 01/16
+                                                                       PRIVACY NOTICE
+  Who we are …
+  Who is providing this                Metro Credit Union, a cooperative financial institution founded in 1926,
+                                       headquartered in Chelsea, Massachusetts, servicing members in the
+  notice?                              Massachusetts counties of Barnstable, Bristol, Essex, Middlesex, Norfolk,
+                                       Plymouth, Suffolk, and Worcester and New Hampshire Counties of
+                                       Hillsborough and Rockingham.
+  What we do …
+  How does Metro Credit               To protect your personal information from unauthorized access and use, we use
+  Union protect my personal           security measures that are designed to comply with federal law. These measures
+                                                                                                       3
+  information?                        include computer safeguards and secured files and buildings .
+                                      We collect your personal information, for example, when you:
+                                            •    Open an account or deposit money
+  How does Metro Credit                     •    Apply for a loan or pay your bills
+  Union collect my personal                 •    Use your credit or debit card
+  information?
+                                      We also collect your personal information from others, such as credit bureaus,
+                                      affiliates, or other companies.
+                                      Federal law gives you the right to limit only
+                                            •    Sharing for affiliates’ everyday business purposes – information about
+                                                 your creditworthiness
+  Why can’t I limit all                     •    Affiliates from using your information to market to you
+  sharing?                                  •    Sharing for non-affiliates to market to you
+                                      State law and individual companies may give you additional rights to limit
+                                               4
+                                      sharing .
+  Definitions …
+                                      Companies related by common ownership or control. They can be financial and
+  Affiliates                          nonfinancial companies.
+                                            •    Metro Insurance Advisors, LLC is an affiliate of Metro Credit Union.
+                                      Companies not related by common ownership or control. They can be financial
+                                      and nonfinancial companies.
+  Non-affiliates
+                                            •    Our non-affiliate partners include debit rewards processors and
+                                                 associated merchants.
+                                      A formal agreement between nonaffiliated financial companies that together
+                                      market financial products or services to you.
+  Joint Marketing
+                                            •    Our joint marketing partners include credit card processors,
+                                                 investment companies, and insurance companies.
+  Notes
+           Members may “opt-out” of sharing by contacting our member service center (877-MY-METRO).
+           Non-Affiliate information sharing applies only to My Reward Checking accountholders.
+      (3) Metro Credit Union has instituted programs to ensure the security and privacy of personal information with
+           oversight from our management teams.
+      (4) Please refer to the Massachusetts Office of Consumer Affairs & Business Regulation web site for more
+           information: http://www.mass.gov/ocabr/data-privacy-and-security/.
+11-18
 
 
 ONLINE PRIVACY POLICY
@@ -133,7 +133,7 @@ by Metro for the purposes of evaluating the demand for, and offering, its own se
 and products.
 Google may also transfer this information to third parties where required to do so by
 law, or where such third parties process the information on Google’s behalf. By using
-                                                                                     Rev. 01/16
+Rev. 10/15
 
 
 the Site, you consent to the processing of data about you by Google in the manner and
@@ -164,4 +164,4 @@ Credit Union does not guarantee or assume liability for any third party product 
 obtained through our website. Metro Credit Union does not represent either the third
 party or the member if the two enter into a transaction. Please also remember that
 social media and email are not secure methods of communicating with Metro.
-                                                                                       Rev. 01/16
+Rev. 10/15
