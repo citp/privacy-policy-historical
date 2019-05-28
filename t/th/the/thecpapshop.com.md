@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214061036id_/https%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpapshop.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528212825id_/https%3A//www.thecpapshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The CPAP Shop
 
