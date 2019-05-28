@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsfe.org privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024104210id_/https%3A//fsfe.org/about/legal/imprint.html%23id-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsfe.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528171954id_/https%3A//fsfe.org/about/legal/imprint.html%23id-privacy-policy) for the most accurate reproduction.*
 
 # Imprint - FSFE
 
@@ -42,4 +42,4 @@ You have the right to:
 
 ### Whom to contact
 
-If you have questions about our use of your data, would like to request a copy of all information we have stored about you, please contact privacy@fsfe.org or directly the FSFE's president, whom you can contact at president@fsfe.org. 
+If you have questions about our use of your data, would like to request a copy of all information we have stored about you, please contact privacy@fsfe.org. 
