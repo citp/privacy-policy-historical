@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221221507id_/https%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529001331id_/https%3A//www.tennis.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tennis Australia
 
