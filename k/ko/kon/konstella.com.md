@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konstella.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419060422id_/https%3A//www.konstella.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konstella.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528211024id_/https%3A//www.konstella.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
