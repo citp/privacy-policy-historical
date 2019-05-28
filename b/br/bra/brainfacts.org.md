@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainfacts.org privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125163040id_/http%3A//brainfacts.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainfacts.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528181053id_/http%3A//www.brainfacts.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ This section sets out our data retention policies and procedure, which are desig
 
 **6\. Policy Changes**
 
-We may update this policy from time to time by publishing a new version on our website. Check this page occasionally to ensure you accept any changes to this policy. We may notify you of changes to this policy by email or via website announcement on [www.BrainFacts.org](https://web.archive.org/web/20181125163040id_/http%3A//brainfacts.org/about/www.BrainFacts.org)
+We may update this policy from time to time by publishing a new version on our website. Check this page occasionally to ensure you accept any changes to this policy. We may notify you of changes to this policy by email or via website announcement on [www.BrainFacts.org](https://web.archive.org/web/20190528181053id_/http%3A//www.brainfacts.org/about/www.BrainFacts.org)
 
 **7\. Your Rights**
 
