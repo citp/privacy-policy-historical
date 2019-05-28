@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackitindonesia.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202747id_/https%3A//crackitindonesia.com/privacy-policy-for-crackit-indonesia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackitindonesia.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528160319id_/https%3A//crackitindonesia.com/privacy-policy-for-crackit-indonesia) for the most accurate reproduction.*
 
 # Privacy Policy for Crackit Indonesia - Crackit Indonesia
 
