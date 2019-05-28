@@ -1,51 +1,123 @@
-> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518052112id_/http%3A//www.audi.co.uk/footer/secondary/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528043539id_/https%3A//www.audi.co.uk/legal-pages/cookie-policy.html) for the most accurate reproduction.*
 
-# Privacy < Secondary < Footer < Audi UK
+# Cookie Policy | Audi UK
 
-## Information on data protection
+Google Analytics | 
+    
+    
+    __utma, __utmb, __utmc, __utmz
+    
 
-For AUDI UK, the protection of personal data is of the utmost importance. We would therefore like to inform you how we protect your privacy when you give your personal data to us. 
+| Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where the visitors have come to the site from and the pages they have visited.  
+Google Maps | 
+    
+    
+    PREF, GAPS, SID, HSID, NID, SNID, W6D, Khcookie
+    
 
-It goes without saying that we shall comply with data protection regulations, but in addition, in giving you the following information, we would like to commit ourselves to using your data in a responsible way, making sure that your privacy is protected at any time. We want you to feel good and safe when visiting our web pages.
+| Used by Google Maps who provide our centre location capability. They contain no sensitive or personal data.  
+Facebook | 
+    
+    
+    _e_3Pnw_0, Act, Datr, Wd, reg_ext_ref, reg_fb_gate, reg_fb_ref, lsd
+    
 
-### Why we use data
+| Allow our Facebook fans to interact with the website and like our content.  
+Manheim | 
+    
+    
+    ASP.NET_SessionId, NSC_1-1TW549-dt10.192.81.10-80, Fv, sifrFetch, lastSearch, last-wflw, CLS, Uvl-access, pst-dis, pst-pcde, live_advisor
+    
 
-We want to constantly improve our service and make our online service more attractive for you. Only if we know which subareas of our internet pages are visited most and for the longest time, can we optimise the contents of the AUDI web pages. Personal information is used by AUDI UK for marketing, for attracting prospective customers, for conducting surveys and providing information and the purpose will be clearly stated where you provide us with your details.
+| Enable the used Car Locator functionality, allowing you to search our used car stock and store favourites. They also enable visitors to chat online to a centre.  
+Motability | 
+    
+    
+    carsearch, style
+    
 
-The better we understand what you want, the faster you will find the desired information on our internet pages.
+| Allow Motability users to locate cars which suit their requirements. They contain no personal or sensitive information.  
+Pysma | 
+    
+    
+    Pysma_participation
+    
 
-### General information
+| Used to indicate your participation in the Pysma online survey, as well as to prevent multiple invitations during a visit to this whilst the survey is live (approx. 30 days) It does not contain any data from the survey or any reference to the individual visitor.  
+Bango | 
+    
+    
+    bangoUserTracking, ASP.NET_SessionId, AspxAutoDetect-CookieSupport, bangoUserTracking, X-Mapping-kcepobcd
+    
 
-If you visit the web pages of AUDI UK, information of a general nature is collected automatically. This information includes, for example, such things as the kind of web browser and operating system that you use, or the domain names of your internet service providers. Data are also generated when visiting any other web page on the internet. This kind of information is collected anonymously and interpreted by us for statistical purposes.
+| Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where the visitors have come to the site from and the pages they have visited.  
+Netmining | 
+    
+    
+    Evo5_AUDI
+    
 
-### Personal information
+| Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, which allows us to better assist visitors to our site to find the information and services they require.  
+ATDMT | 
+    
+    
+    AA002, MUID
+    
 
-If you are asked to give personal information on our pages, such as for example your name, address or phone number, you will be given an opportunity to consent to how your data is used.
+| Allow us to keep track of which brochures are being downloaded and ensure that we can continue to provide relevant information to our visitors. They contain no personal or sensitive information.  
+Sophus 3 | 
+    
+    
+    TCID, TCSess
+    
 
-We will with your consent use your data for marketing purposes, conduct surveys and provide you with information on our products or services. We may pass your information to companies that provide us with services or our group companies. Where you supply us your personal information, we will tell you what we plan to do with your information.
+| Enable the function of our Sophus3 analytics software. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and visitation times. This is only to help improve your online experience so it’s more tailored to your personal preferences.  
+serving-sys.com | 
+    
+    
+    U2
+    
 
-### The use of browser cookies
+| MediaMind cookies allow us to assess the effectiveness of our banner ads, and ensures that we do not expose you to the same advert multiple times. It contains no personal or sensitive information.  
+DoubleClick | 
+    
+    
+    DoubleClick
+    
 
-Cookies are text files containing information which makes it possible to identify repeated visitors exclusively for the duration of their visit to our web pages. Cookies are stored on the hard disk of your computer and do not cause any damage there. The cookies of our internet pages do not contain any personal data on you. Cookies will save you having to enter data several times, facilitate the transmission of specific contents and will help us to identify those parts of our online service that are particularly popular. This will enable us, among other things, to adapt our web pages exactly to your requirements.
+| Record the time and date a specific page was viewed online. It can also supply various details relating to the user such as IP address, referring sites and browser information  
+Google Leads | 
+    
+    
+    id, _sm_au_c
+    
 
-If you want, you can deactivate the use of cookies any time by changing the preferences of your browser. Please use the help functions of your internet browser to see how you can make these changes.
+| Retargeting ads  
+RocketFuel | 
+    
+    
+    A, A1, T, s11, u, e, r, o, p, a8, t8, s8, s3
+    
 
-### Local Shared objects (Flash Cookies)
+| Retargeting ads  
+Dynamic Tag Manager | 
+    
+    
+    _sm_au_c
+    
 
-We use the Adobe flash player throughout the site to deliver services such as the Audi channel to you. Local Shared Objects, or Flash Cookies as they are commonly known, are used to store user preferences and settings. They work in a similar way to browser cookies above, but are managed differently. If you wish to disable or remove these cookies, please visit the Adobe site ([http://www.adobe.com](http://www.adobe.com/)) for instructions. Please be aware that removing or disabling cookies may affect the features and behaviour of the website.
+| Tag deployment  
+Monetate | 
+    
+    
+    Monetate
+    
 
-### Security
+| We work with Monetate to test and adapt our website to offer an improved customer experience. Monetate cookies store an anonymous ID with other information regarding your current session. We use this information to create to adapt and improve the online customer experience.  
+Media IQ | 
+    
+    
+    Media IQ
+    
 
-AUDI UK employs technical and organizational security measures to protect the personal data you give to us from any deliberate or undeliberate manipulation, loss, destruction or access by unauthorized persons. Our security measures are improved and adapted on a regular basis according to the state of the art.
-
-### Contact
-
-If you have any queries, requests or complaints on the subject of data protection, please do not hesitate to contact our data protection officer at the address below:
-
-Data Protection Officer
-
-Volkswagen Group United Kingdom  
-Yeomans Drive  
-Blakelands  
-Milton Keynes  
-MK14 5AN
+| Allow us to keep track of which models are selected in the Test drive, Brochure request and Register of interest web forms to measure the effectiveness of our media activity. They contain no personal or sensitive information.
