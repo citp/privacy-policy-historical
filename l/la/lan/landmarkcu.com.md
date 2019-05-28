@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903195930id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528220910id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Landmark Credit Union
 
