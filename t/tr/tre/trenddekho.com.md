@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trenddekho.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125172314id_/http%3A//trenddekho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trenddekho.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528181504id_/http%3A//trenddekho.com/privacy) for the most accurate reproduction.*
 
 # Trend Dekho
 
