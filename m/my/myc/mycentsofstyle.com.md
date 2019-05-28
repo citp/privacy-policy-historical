@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycentsofstyle.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908083942id_/https%3A//www.mycentsofstyle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycentsofstyle.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528033026id_/https%3A//www.mycentsofstyle.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cents Of Style
 
@@ -70,8 +70,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.mycentsofstyle.com  
-7128 W. 8050 S.  
-West Jordan, Utah 84081  
+14699 S 800 W   
+BLUFFDALE, UT 84065  
 USA  
-info@mycentsofstyle.com  
-801-432-0542 
+info@mycentsofstyle.com
+
+877-679-6784
