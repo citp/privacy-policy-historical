@@ -1,127 +1,105 @@
-> *The following text is extracted and transformed from the goodlifeproject.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804170425id_/https%3A//www.goodlifeproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifeproject.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528171605id_/https%3A//www.goodlifeproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Policy - Privacy - Good Life Project
 
-Last Update: May 24, 2018
+Effective Date: March, 2019
 
-**WHO WE ARE.**  
 Career Renegade, Inc. d/b/a Good Life Project understands that your privacy is important to you and that you care about how your information is used and shared online. We respect and value the privacy of everyone who visits Our Site and will only collect and use information in ways that are useful to you and in a manner consistent with your rights and Our obligations under the law.
 
-This Policy applies to Our use of any and all data collected by us in relation to your use of Our Site. Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of Our Privacy Policy is deemed to occur upon your first use of Our Site. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately.
+This Privacy Policy outlines the types of information that we gather while you are using the [www.jonathanfields.com](https://web.archive.org/web/20190528171605id_/https://www.goodlifeproject.com/privacy-policy/www.jonathanfields.com), [www.goodlifeproject.com](https://web.archive.org/web/20190528171605id_/https://www.goodlifeproject.com/privacy-policy/www.goodlifeproject.com), and [www.sparketypes.com](https://web.archive.org/web/20190528171605id_/https://www.goodlifeproject.com/privacy-policy/www.sparketypes.com) websites (collectively, the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-**DEFINITIONS**  
-“Account”  
-means an account required to access and/or use certain areas and features of Our Site;
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-“Cookie”  
-means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. Details of the Cookies used by Our Site are set out in section 12, below;]
+**How We Collect and Use Information**
 
-“Our Site”  
-means this website, goodlifeproject.com;  
-“United States and EU Cookie Law”  
-means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2004, 2011 and 2015; and]
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). The Site only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. The Site collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
-“We/Us/Our”  
-means Career Renegade, Inc. d/b/a Good Life Project, a Sub-S corporation registered in New York, whose registered address is P.O. Box 285, Planetarium Station, New York, NY 10024 and whose main trading address is P.O. Box 285, Planetarium Station, New York, NY 10024.
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a “cookie” to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-**WHAT WE COLLECT**  
-Information That Is Provided to Us Directly By You. Examples include:
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers, contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
-_Shared Public Content:_ Our Sites may permit you to publicly interact with us and other users, share content, post comments, and ask or answer questions. Such shared content may be publicly viewable by others depending on where it is posted. If such information is shared on a third-party platform, such as a social media site, the collection, use, and sharing of your data will also be subject to the privacy policies and related agreements of that third party.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, web logs, through email, or in chat areas – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-_Quizzes, Forms and Surveys:_ We may offer you the opportunity to complete a quiz, form, survey, provide feedback, either through our Sites or a third-party platform. If you participate, we will collect and store the data you provide us as part of your participation, such as your name and email address and any other requested feedback and any other relevant information. If you submit this information via a third-party platform, the collection, use, and sharing of your data will also be subject to the privacy policies and other agreements of that third party.
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party’s privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party’s use of cookies or web beacons or use of your information, you should visit that party’s website and review its privacy policy.
 
-_User Account Data_ : When you purchase or are given access to one of our products or programs, you may be required to create a User Account and provide information like your email address and password. We collect data regarding which products you have access to, how much you paid for those products or services, the first date you signed into your User Account, the number of times you’ve signed into your User Account, the date of your last activity in your User Account and which lessons you’ve completed. For your security, the Company is unable to view your User Account password.
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-_Payment Data:_ If you purchase a Company product or service, we collect certain data about your purchase as necessary to process your request. You must provide certain payment and billing data directly to our third-party payment processing partners, including your name, credit card number, security code, expiration date, billing address, and zip code.
+We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-_Email Information:_ If you choose to receive email notifications from us, we collect your name and email address so that we can send you email communications about the requested information, products, and services.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
-_Customer Support Information:_ If you contact us (via email, phone, text, messaging platform, or through our social media channels), we may collect and store your name, email address, telephone number, the content of your message, information about your business and any other data you provide. Some Site transactions may require us to telephone or text the customer. We will not contact you by telephone without your prior consent.
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-Information That Is Collected Automatically Via Tracking Technologies
+**Assessment Data and Results**
 
-When you visit or access the Site, including our email communications, we use cookies, pixels, web beacons, tags, and other tracking technologies to collect information about your engagement, as well as your browsing and purchasing behavior. These tracking technologies include:
+If you use our assessment tool while visiting this Site, you will be asked to provide certain information, that includes data about your general behavior. We process this data to generate results based on our proprietary technology. 
 
-_Cookies:_ A cookie is a small amount of data that is sent to a website user’s browser from a Web server and is stored on the computer’s hard drive. We use non-identifying cookies to provide easier site navigation. Our Site can still be used if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you. You can disable cookies at any time by changing your browser or device settings. Further information about how to disable cookies check your Internet browser provider’s website via your help screen. Information gathered through cookies may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address. We may expand the use of cookies and saved data as we add new features to our website or new products or services. 
+By using our assessment tool, you acknowledge and agree that the content provided by you as well as the conclusions and assessment derived therefrom may be used by us for research, innovation, case studies, and commercial purposes (such as in speeches, articles, books, etc.) at our discretion. Your assessment data may be aggregated for research and comparison purposes. Your name and personal information will never be included in these materials.
 
-_Web Beacons._ We use web beacons and single-pixel GIFS to track and data for marketing purposes. We also may use third-party analytic tools like Google Analytics that employ cookies to collect information about your use of our Services.
+In certain circumstances, the assessment may have been ordered or arranged for you by an employer, coach, relative, friend or management consultant (“Assessment Inviter”) for a variety of purposes. In such an event we will share your assessment tool responses and Sparketype assessment or results derived therefrom with the Assessment Inviter. You may revoke the permission for the Assessment Inviter to have access to your assessment tool responses and Sparketype assessment or results derived therefrom by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c1f191c1c031e182c0b03030800050a091c1e0306090f18420f0301) Revocation of access will take place as soon as possible and in no event later than 30 days of our receipt of such notice.
 
-We use these tracking technologies to deliver, measure, and improve our Site – whether accessed through a browser or a mobile device – in various ways. In particular, these technologies help make our Site easier to use, navigate and share, let us customize our Site to your interests; better understand you and how to deliver the best experience; present advertising based better tailored to your behavior on our Site; render better customer service, and compile anonymous, aggregated information that allow us to better understand our customers and visitors.
+Google Analytics
 
-You have a number of options to control or limit how we and our partners use cookies:
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
 
-  * You can opt out of Google Analytics. For more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: https://tools.google.com/dlpage/gaoptout.
-  * To learn how to manage privacy and storage settings for Flash cookies, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
-  * Additional information about deleting and blocking cookies can be found at http://www.allaboutcookies.org.
-  * Additional information about advertisers’ use of cookies can be found at:
-  * European Interactive Digital Advertising Alliance: http://www.youronlinechoices.eu/
-  * Internet Advertising Bureau (US): https://www.iab.com/
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
 
 
 
-**HOW WE USE YOUR INFORMATION**  
-We use collected information in a number of ways, including to product and service order fulfillment, communicating about our products, services and offerings, processing responses to quizzes, forms and surveys, customer service, marketing and sales (including lead generation, market research, and managing advertising and marketing campaigns); optimizing business operations and customer delight.
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site. Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order. The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-The legal basis for processing your personal information as described above will be either your consent; execution of a contract with you or a relevant party; our legitimate business interests; or compliance with our legal requirements.
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
-**WHO WE SHARE YOUR INFORMATION WITH**  
-_Publicly Shared Information._ Any information you share in a public area of our Site will be available to anyone who can access that content.
+**Facebook**
 
-_Company Employees and Contractors._ We may share your personal information within the Company to our employees and contractors in order to deliver our services and products to you.
+As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Privacy Policy. You consent to our collection of such information.  
+We abide by Facebook’s Data Use Restrictions.
 
-_Third-Party Service Providers._ We use third-party service providers to collect and process personal information from or about you on our behalf. Examples include data analysis, marketing and advertising services, email and hosting services, customer services and support, hosting User Accounts, processing credit card payments, and collecting customer research or satisfaction surveys. They will have access to the personal information needed to perform their functions.
+  * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.
+  * We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.
+  * We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
+  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
 
-_Online Advertising Services._ We use third-party advertising services, like Facebook® and Instagram®, to deliver advertising about our products and services on our Sites, as well as other websites and applications you use. The ads may be based on information we have collected (as outlined above) and information these advertising providers know about you based on their tracking data. The ads can be based on your recent activity or activity over time and across other sites and services and may be tailored to your interests.
 
-_Analytic Services_. We use analytics services like Google Analytics® on the Site. These services use tools to help us analyze your use of the Site, including information like the third-party website you arrive from, how often you visit, events within the Site, usage and performance data, and purchasing behavior. We use this data to improve the Site and provide information, products and services that may be of interest to you.
 
-_Law Enforcement, Legal Process and Compliance_. We may disclose personal information about you (1) if we are required or permitted to do so by applicable law or legal process, (2) to law enforcement authorities or other government officials to comply with a legitimate legal request, (3) when we believe disclosure is necessary to prevent physical harm or financial loss, (4) to establish, exercise or defend our legal rights, (5) in connection with an investigation of suspected or actual fraud or illegal activity or (6) otherwise with your consent.
+**General Data Privacy Regulation (GDPR)**
 
-_Change of Ownership._ We reserve the right to transfer to relevant third-parties any information we have about you in the event of a potential or actual sale or transfer of all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation) or other business combination. In such case, we will require the relevant third parties to provide comparable levels of protection as we provide with respect to the information we share.
+The GDPR took effect on May 25, 2018, and is intended to protect the data of European Union (EU) citizens. 
 
-**KEEPING YOUR INFORMATION SECURE.**  
-The transmission of information via the internet or email is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted through the Sites or over email; any transmission is at your own risk.
+As a company that markets its site, content, products and/or services online we do not specifically target our marketing to the EU or conduct business in or to the EU in any meaningful way. If the data that you provide to us in the course of your use of our site, content, products and/or services is governed by GDPR, we will abide by the relevant portions of the Regulation.
 
-**YOUR RIGHTS.**  
-You have rights in relation to the personal information we hold about you. Below is an outline of those rights and how to exercise those rights. Please note that we will require you to verify your identity before responding to any requests to exercise your rights by providing details only known to the account holder. Please note that for each of the rights below we may have valid legal reasons to refuse your request, in such instances we will let you know if that is the case.
+If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you may have the right to request: access to, correction of, deletion of; portability of; and restriction or objection to processing, of your personal data, from us. This includes the “right to be forgotten.”
 
-_Your Choices About the Use of Your Data._ You can choose not to provide certain data to us, but you may not be able to use certain features of the Sites
+To make any of these requests, please contact our GDPR contact at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98ebede8e8f7eaecd8fff7f7fcf4f1fefde8eaf7f2fdfbecb6fbf7f5)
 
-_Marketing Email Communications:_ You always have the opportunity to opt out of our marketing communications with you or change your preferences by following a link in the footer of all marketing email messages from us or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+**Children’s Privacy Statement**
 
-_Transactional or Service Email Communications:_ Some communications from us are considered transactional or service communications (for example, important account notifications, product updates, and billing information), and your Company products and services are provided to you upon the condition that you receive these communications from us. If you do not wish to receive any transactional or service communications from us, you must cancel your User Account for Company products and services. To cancel your User Account, you can mark this preference in your Account Settings. You may still receive marketing communications from us even after you cancel your User Account unless you also opt-out of our marketing communications, as described above.
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
-_Navigation Information:_ You may opt out from the collection of navigation information about your visit to the Site by Google Analytics by using the Google Analytics Opt-out feature.
+  * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
 
-_Information from Third Parties:_ To manage the information we receive about you from a social media site or other third parties, you will need to follow the instructions from that party for updating your information and changing your privacy settings, where available. The information we collect is covered by this privacy policy and the information the third-party collects is subject to such third party’s privacy practices. Privacy choices you have made on any third-party site will not apply to our use of the information we have collected directly through our Sites.
 
-_Cookies:_ To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages referenced above under “Automatically Collected Information through Tracking Technologies.”
 
-**Accessing, Updating, Transferring and Deleting Your Data**
+**How do we store your information?**
 
-You can update your personal information as follows:
+ **
 
-You can update your User Account information (if applicable) by logging into your User Account and updating your settings. To update other data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Where you request correction, please explain in detail why you believe the personal information we hold about you to be inaccurate or incomplete so that we can assess whether a correction is required. If you wish to access any personal information we hold about you, or to request that we delete or transfer any information about you that we have obtained, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please allow up to 15 business days for a response. For your protection, we may require that the request be sent through the email address associated with your account, and we may need to verify your identity before implementing your request. Please note that we retain certain data where we have a lawful basis to do so, including for mandatory record-keeping and to complete transactions.
+Your information is stored at the list server that delivers the Site content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive the Site material.
 
-At any time, you may object to the processing of your personal information, on legitimate grounds, except if otherwise permitted by applicable law. If you believe your right to privacy granted by applicable data protection laws has been infringed upon, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You also may have a right to lodge a complaint with data protection authorities.
+All of the messaging or emails that are sent to you by the Site include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communication that we send you.
 
-**THIRD-PARTY SITES.**  
-The Sites may contain features or links to web sites and services provided by third parties. Any information you provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Sites. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided through the Sites. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
+**Disclaimer**
 
-**DATA TRANSFERS.**  
-In order for us to provide the products and services to you, your personal information will be stored and processed in the United States. Where data is shared with third-party data processors, your data will be captured, transferred, stored and processed in accordance with their policies, practices and in compliance with their local regulatory laws.
+This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-**DATA RETENTION.**  
-We will retain your information for as long as your account is active, as necessary to comply with our legal obligations, to resolve disputes, and enforce our agreements. We purge non-customer email subscribers who have not engaged with the Company’s email marketing communications after ninety (90+) days. If you wish to delete your information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns regarding our privacy policy please direct them to:
 
-**CHILDREN.**  
-We only offer our Services to Users over 18 years of age. We do not intentionally or knowingly collect Personal Data from anyone under the age of 18. If you are a parent or guardian of a child under 18 and believe they disclosed Personal Data to us, please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you are a resident of the European Economic Area (“EEA”) which requires consent to processing Personal Data, we will not knowingly process Personal Data for Users under the age of consent established by EEA data protection law. If we discover that we processed any Personal Data covered by these laws, we will cease such processing and take prompt reasonable measures to remove it from our records..
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#64171114140b161024030b0b00080d020114160b0e0107104a070b09)
 
-**CHANGES AND UPDATES TO THIS POLICY.**  
-Please revisit this page periodically to stay aware of any changes to this Policy, which we may update from time to time. If we modify the Policy, we will make it available here, and indicate the date of the latest revision. Your continued use of the Sites after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of the Policy.
-
-**TO CONTACT US**  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-Phone: (914) 458-1885  
-Address: Good Life Project, P.O. box 285, Planetarium St., New York, NY 10024
+**
