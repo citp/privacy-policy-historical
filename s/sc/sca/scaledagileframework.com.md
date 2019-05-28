@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scaledagileframework.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225101625id_/https%3A//www.scaledagile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scaledagileframework.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528185359id_/https%3A//www.scaledagile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scaled Agile
 
@@ -95,9 +95,9 @@ If Scaled Agile relies on consent for the processing of your personal informatio
 
     2. International data transfers  
 We may transfer your personal information to countries other than the country in which the data was originally collected for the purposes described in this Privacy Notice. For example, if you are located outside of the United States, we typically transfer your personal information to the United States, where Scaled Agile is headquartered. The countries to which we transfer personal information may not have the same data protection laws as the country in which you initially provided the information. 
-    3. EU-US Privacy Shield 
+    3. EU-US and Swiss Privacy Shield 
 
-Scaled Agile complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+Scaled Agile complies with the EU-U.S. and Swiss Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
 As described in the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=Requirements-of-Participation), Scaled Agile is accountable for personal information that it receives and subsequently transfers to third parties acting as an agent on its behalf.  If third parties that process personal information on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
 
