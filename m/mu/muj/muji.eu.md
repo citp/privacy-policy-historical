@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muji.eu privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824222154id_/https%3A//www.muji.eu/pages/page.asp%3Fqpge%3Dpnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muji.eu privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528075151id_/https%3A//www.muji.eu/pages/page.asp%3Fqpge%3Dpnc) for the most accurate reproduction.*
 
 # MUJI Online - Welcome to the MUJI Online Store.
 
@@ -10,7 +10,7 @@ Welcome to Muji Europe Holdings Limited's privacy notice.
 
 Muji Europe Holdings Limited respects your privacy and is committed to protecting your personal data. This privacy notice explains how we look after your personal data when you visit our website (regardless of where you visit it from) and tells you about your privacy rights and how the law protects you.
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy [HERE.](https://web.archive.org/web/20180824222154id_/https%3A//www.muji.eu/PDF/PDF.asp?qmde=pdf&qsel=pnc&lan=uk) Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.  
+This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Alternatively you can download a pdf version of the policy [HERE.](https://web.archive.org/web/20190528075151id_/https%3A//www.muji.eu/PDF/PDF.asp?qmde=pdf&qsel=pnc&lan=uk) Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.  
   
      1\. Important information and who we are  
      2\. The data we collect about you  
@@ -88,11 +88,11 @@ We use different methods to collect data from and about you including through:
  •   request marketing to be sent to you;  
  •   enter a competition, promotion or survey; or  
  •   give us some feedback.   
-  •     **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/pages/page.asp?qpge=tac#cookies) for further details.  
+  •     **Automated technologies or interactions.** As you interact with our website, we may automatically collect Technical and Usage Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. You can use the "Your Cookie Settings" tool on our website to restrict the usage of certain categories of cookies when you shop online with us. We may also receive Technical and Usage Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/pages/page.asp?qpge=tac#cookies) for further details.  
   •     **Third parties or publicly available sources.** We may receive personal data about you from various third parties as set out below:   
-|  •   Technical Data from the following parties:  
+|  •   Technical and Usage Data from the following parties:  
 ---  
-     (a)  analytics providers such as Google;   
+     (a)  analytics providers such as Google and Facebook;   
      (b)  search information providers such as Google.  
  •   Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Barclaycard based inside the EU  
  •   Identity and Contact Data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.  
@@ -169,7 +169,7 @@ You can ask us to stop sending you marketing messages at any time by:
  •    by [_contacting us_](https://web.archive.org/pages/contact.asp) at any time.   
 You can also request to opt-in or to opt-out to receiving MUJI Mail on your online account.  
 **Cookies**  
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://web.archive.org/pages/page.asp?qpge=tac#cookies).  
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. You can also use the "Your Cookie Settings" tool on our website to restrict the usage of certain categories of cookies when you shop online with us. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://web.archive.org/pages/page.asp?qpge=tac#cookies).  
 **Change of purpose**  
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [_contact us._](https://web.archive.org/pages/data_request.asp)
 
