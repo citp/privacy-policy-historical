@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xarg.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831095856id_/https%3A//www.xarg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xarg.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528144440id_/https%3A//www.xarg.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Code is poetry
+# Privacy Policy • Open Source is Everything
 
 This privacy policy governs how xarg.org stores, uses, and discloses information about its users. This policy applies to the site, along with related products and services Robert Eisele that link to this policy. This policy does not apply to websites, applications, or services that display or link to different privacy statements.
 
@@ -37,7 +37,9 @@ By interacting with the site, certain information about user devices may be expo
 Service Name| Function| Privacy policy  
 ---|---|---  
 Google Analytics| Analytics service| [privacy policy](https://support.google.com/analytics/answer/6004245?hl=en)  
+Google Fonts| Web fonts| [privacy policy](https://policies.google.com/privacy)  
 Cloudflare | Content Delivery Network| [privacy policy](https://www.cloudflare.com/security-policy/)  
+Amazon | Affiliate Program| [privacy policy](https://affiliate-program.amazon.com/gp/associates/agreement/)  
   
 ## How We Protect Your Information
 
