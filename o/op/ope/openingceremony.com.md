@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openingceremony.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001113415id_/https%3A//www.openingceremony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openingceremony.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528045559id_/https%3A//www.openingceremony.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Opening Ceremony
 
 ## Privacy Policy
 
-**OCTOBER 19th, 2016**
+**May 24, 2018**
 
 Opening Ceremony Online LLC, on behalf of Opening Ceremony, LLC (collectively “Opening Ceremony”, “we,” “us” or “our”), has created this Privacy Policy (the “Privacy Policy”) to explain why we collect particular information, how we use it, and to whom and under what circumstances we may disclose it. 
 
