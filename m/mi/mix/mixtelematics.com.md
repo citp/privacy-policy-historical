@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixtelematics.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831014518id_/http%3A//compliance.mixtelematics.com/data-security/mix-telematics-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtelematics.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528212950id_/https%3A//compliance.mixtelematics.com/data-security/mix-telematics-privacy-notice) for the most accurate reproduction.*
 
 # MiX Telematics Privacy Notice | Data Security
 
@@ -105,4 +105,4 @@ If you have questions or complaints regarding our Privacy Notice, please contact
 
 Alternatively, you can write to MiX Telematics (International), PO Box 12377, Die Boord, 7613, South Africa. Our physical address is Blaauwklip Office Park 2, Corner of Strand Street and Weber’s Valley Roads, Stellenbosch, 7600, South Africa.
 
-[ Print ](http://compliance.mixtelematics.com/data-security/mix-telematics-privacy-notice/print "Print article < MiX Telematics Privacy Notice >")[ Email ](http://compliance.mixtelematics.com/component/com_mailto/link,f1a8fd244528790b0a8b6318f83131b497f0abe3/template,yoo_monday/tmpl,component/ "Email this link to a friend")
+[ Print ](https://compliance.mixtelematics.com/data-security/mix-telematics-privacy-notice/print "Print article < MiX Telematics Privacy Notice >")[ Email ](https://compliance.mixtelematics.com/component/com_mailto/link,58ce299de20965ed898781006800cf7928bf1387/template,yoo_monday/tmpl,component/ "Email this link to a friend")
