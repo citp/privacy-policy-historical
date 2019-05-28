@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jooinn.com privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226110932id_/http%3A//jooinn.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jooinn.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528142618id_/https%3A//jooinn.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy.
 
@@ -6,7 +6,7 @@
 
 1\. Gathering Your Personal Information
 
-We collect different information that are intended for a comfortable presence on our website, which also includes all information sent by your browser from time to time. It mainly includes your IP address, the name and type of the browser that you use and the web page that you have visited before you came to http://jooinn.com. We can also collect navigation information, including information about the pages that you are viewing, the links that you click, and other actions that are taken in connection with the site.
+We collect different information that are intended for a comfortable presence on our website, which also includes all information sent by your browser from time to time. It mainly includes your IP address, the name and type of the browser that you use and the web page that you have visited before you came to https://jooinn.com. We can also collect navigation information, including information about the pages that you are viewing, the links that you click, and other actions that are taken in connection with the site.
 
 2\. Cookies
 
