@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatemoneyblog.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125165554id_/http%3A//ultimatemoneyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatemoneyblog.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528021922id_/http%3A//ultimatemoneyblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ultimate Money Blog- Save Money and Live Green!
 
@@ -64,7 +64,7 @@ Ultimate Money Blog reserves the right to delete any comments that it deems not 
 ### Email Information
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.  
-Email Policies 
+Email Policies
 
 We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.  
 We will maintain the information you send via e-mail in accordance with applicable federal law.
@@ -142,6 +142,6 @@ to support our site. Some of these advertisers may use technology such as cookie
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20181125165554id_/http%3A//ultimatemoneyblog.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20190528021922id_/http%3A//ultimatemoneyblog.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
 [](http://www.linkwithin.com/)[](https://www.facebook.com/pages/Ultimate-Money-Blog/240081392136 "Follow us on Facebook")[](http://twitter.com/ultmoneyblog "Follow us on Twitter")[](http://feeds.feedburner.com/TheUltimateMoneyBlog "Subscribe to our RSS Feed")[](http://instagram.com/ultimatemoneyblog "Follow us on Instagram!")[](https://www.facebook.com/pages/Ultimate-Money-Blog/240081392136 "Follow us on Facebook")[](http://twitter.com/ultmoneyblog "Follow us on Twitter")[](http://feeds.feedburner.com/TheUltimateMoneyBlog "Subscribe to our RSS Feed")[](http://instagram.com/ultimatemoneyblog "Follow us on Instagram!")
