@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the are.na privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904092129id_/https%3A//www.are.na/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the are.na privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528134242id_/https%3A//www.are.na/privacy) for the most accurate reproduction.*
 
 # Are.na / Privacy
 
@@ -11,6 +11,46 @@ This Privacy Statement covers Are.na’s treatment of personally identifiable in
 ### WHAT PERSONAL INFORMATION DOES ARE.NA COLLECT?
 
 Are.na collects information you voluntarily submit to the Service, such as, the information we collect when you register for an account - like your first and last nameand email address. As noted in our Terms of Use, the Service allows users to post and organize information, including text, graphics, images, music, software, audio, web links, files, video and other information and content. Information you elect to submit to Are.na – or any other public or quasi-public part of the Service (such as a chat forum) - may be disclosed to other users of the Service or the general public (“User Submissions”). For example – if you post content that is accessible to other Service users, such other users will have access to such content. In addition, we may automatically receive and store certain, anonymous types of information whenever you interact with the Service. Such information may include the user's IP address, domain server, and type of Internet browser. This information helps us, among other things, analyze trends and administer the Service. This information is anonymous and contains no personally identifiable data.
+
+We collect and process the following data from registered users:
+
+  * Email address
+  * First and last name, or nicknames provided
+  * About/bio metadata if provided
+  * Billing information if the user upgrades to Premium. We share billing information with Stripe or Paypal to process payments.
+  * Standard Google Analytics anonymized actions, location, OS, language, browser metrics. We don't share emails, names, billing information, passwords, contacts with Google Analytics.
+  * Server side user metrics such as actions, connections, uploads, invites, edits, updates.
+  * Blocks metadata and content 
+  * Channels created by the user and their metadata
+  * Twitter contacts only if user connects their account to Are.na. We don't share any of your Are.na information with Twitter.
+  * Blocks added and connected by the user along with their metadata
+  * Avatar if uploaded or connected via Gravatar.
+
+
+
+### You can access information on all data stored about you
+
+Contact [help@are.na](mailto:help@are.na) and we will provide you with all information on data we have about you.
+
+### You have the right to be ‘forgotten’ by us
+
+Contact [help@are.na](mailto:help@are.na) if you want to remove all of your personal data from Are.na.
+
+### You have the right to correct any personal data stored about you
+
+Contact [help@are.na](mailto:help@are.na) if there's any personal data about you that should be corrected.
+
+### You have the right to withdraw your consent
+
+If you signed up to our newsletter you can always unsubscribe at any time. You can do this on your in your [settings](https://web.archive.org/settings), with the unsubscribe button in our newsletters or by contacting us.
+
+### You have the right to port your data to another service
+
+Contact [help@are.na](mailto:help@are.na) for a copy of your data in a plain text format.
+
+### You have the right to file a complaint regarding our use of your data
+
+If you have any concerns please contact [help@are.na](mailto:help@are.na) so we can address them and help you. If we fail in this, you can address any complaint to your national data protection authorities.
 
 ### WHAT ABOUT CHILDREN?
 
@@ -43,5 +83,5 @@ If you have any questions or concerns regarding privacy, please send us a detail
 #### Effective Date: July 15, 2014
 
 #### When It Changed Inc.  
-26 St. James Pl #3F  
-Brooklyn, NY 11205
+244 Canal St #3R  
+New York, NY 10013
