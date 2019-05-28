@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109215720id_/https%3A//www.trainingpeaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingpeaks.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528020344id_/https%3A//www.trainingpeaks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TrainingPeaks
 
@@ -110,7 +110,6 @@ We use the following cookies:
 TPAUTH | Strictly necessary | Used to authenticate and track a logged-in user throughout our website and applications.   
 Google Analytics | Analytical / Performance | Used to track user activity over different browsing sessions.  
 AdRoll | Targeting | Used to track your use of the website and to send you targeted ads on the website or third-party website based upon the pages you have visited.  
-Mixpanel | Analytical / Performance | Used for event tracking to monitor user behavior.  
 Google Tag Manager | Analytical / Performance | Used for event tracking to monitor user behavior.  
 Facebook | Targeting | Used for advertising and retargeting through Facebook.  
   
