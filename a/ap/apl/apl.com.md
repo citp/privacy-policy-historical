@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222072210id_/https%3A//www.apl.com/legal-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apl.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529020755id_/https%3A//www.apl.com/legal-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | APL
 
@@ -112,9 +112,9 @@ We may use service providers located outside the European Economic Area. Where t
 
 CMA CGM is a shipping and logistic company with offices and associated legal entities across the world. Your personal data may be shared with our offices and associated entities as necessary or appropriate.
 
-We may also use service providers to process your data. In this event, the processings are governed by a contract that complies with the applicable data protection laws and ensure the protection of your rights.
+We may also use service providers to process your data. In this event, the processings are governed by a contract that complies with the applicable data protection laws and ensure the protection of your rights[ .](https://web.archive.org/static/eCommerce/PDFFlyers/sells_mkt_ia_csx.pdf)
 
-We may disclose information about our clients to third parties in connection with a transaction, such as a merger, or an acquisition of all or a portion of our business, or our acquisition of another business.
+We may disclose information about our clients to third parties in connection with a transaction, such as a merger, or an acquisition of all or a portion of our business, or our acquisition of another business[ .](https://web.archive.org/static/eCommerce/PDFFlyers/sells_mkt_ia_cs3_for_CA.pdf)
 
 ## What are your rights?
 
@@ -124,11 +124,11 @@ At any time, you may:
   * request to correct or delete your personal data if you believe it is incorrect;
   * object to our processing of your personal data or to transfer of your data;
   * request an electronic copy of your personal data; or
-  * bring a complaint on how your personal data is handled.
+  * bring a complaint on how your personal data is handled[ .](https://web.archive.org/static/eCommerce/PDFFlyers/sells_mkt_oa-ia_wa2.pdf)
 
 
 
-In any such instance, please contact customer support at [https://www.apl.com/help/contact](https://web.archive.org/help/contact). Go to “Contact” for more information.
+In any such instance, please contact customer support at [https://www.apl.com/help/contact](https://web.archive.org/help/contact). Go to “Contact” for more information[ .](https://web.archive.org/static/eCommerce/attachments/APL-CSCT.pdf)
 
 In addition, you can contact CMA CGM's Data Protection Officer by mail at
 
