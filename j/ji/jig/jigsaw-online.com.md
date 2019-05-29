@@ -1,68 +1,118 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114154419id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529054208id_/https%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Jigsaw Online: Privacy Policy | Jigsaw
 
-We have the utmost respect for the privacy of our online customers. Any information you provide us with will be securely protected and managed in line with the Act. You can access and browse our website without having to disclose any personal data. By browsing and shopping on Jigsaw’s website you are accepting and complying with the regulations outlined in the Privacy and Cookie Policy below and in the [Terms and Conditions ](https://web.archive.org/fcp/content/terms-and-conditions/content)provided on the site.
+We take your privacy very seriously. This document outlines how we collect and use your data, and gives you information about your rights.
 
-If you want to disable cookies you will need to do this by changing your website browser settings which are normally found under the tools or privacy tabs in your browser menu. Please note that disabling cookies may reduce the performance of our website on your computer. **By continuing to use the site with your current browser settings, you consent to allow this site to use cookies.** More information on cookies, how we use them and how to disable them can be found in the section below.
+Who are we?
+    **Jigsaw** is a clothing retailer based in the UK that is run by Robinson Webster (Holdings) Limited (“Jigsaw”) with a registered address of 159 Mortlake Road, Kew, Surrey, TW9 4AW. This privacy policy covers the use of data by Jigsaw and its subsidiaries. You can contact us at this address or via our customer service team: [enquiries@jigsaw-uk.co.uk](mailto:enquiries@jigsaw-uk.co.uk). Other contact details can be found [here](https://web.archive.org/content/contact-us). 
 
-What are Cookies?
-    This site uses internet cookies. These are small pieces of information that are stored by your browser on your computer to improve the speed at which it can access pages of our website, thereby giving you a better browsing experience. These cookies do not record or store any personal details and are harmless to your computer. Should you not which to store cookies on your computer from our website or any other, it is possible to change the settings on your web browser to prevent cookies from being stored. Please note that disabling cookies may reduce the performance of our website on your computer.
-What information do we collect?
-    
+For legal purposes, **Jigsaw** is known as the 'data controller'. 
 
-If you buy from us, we will require information such as your first name and surname, email address, phone number and delivery and billing addresses. This information is required in order that we may process your order efficiently.
+How do we collect information?
+     **When you place an order online or by phone**
 
-Some cookies collect information about browsing and purchasing behaviour by people who access this website via the same computer or device. This includes information about what pages you viewed, what products you added to your basket or purchased and generally how you navigated the site. Please note that we do not use cookies to collect or record information on users’ name, address or other contact details.
+We will gather all the information we need to process your order. (For example: name, email, postal address, billing address, card number or other payment method details, contact phone number. We also capture your IP address for fraud check purposes only). When you first place an order online you will also be given the option to opt in for email marketing. We will not send you email marketing unless you tick the box to ask us to, or unless you have asked us to previously. You can opt out of email marketing at any time by clicking the Unsubscribe link at the bottom of any email, or by contacting customer services. 
 
-What are cookies used for?
-    In the main cookies are used for the effective operation of the website but additionally we use cookies to track the effectiveness of our website and to gauge the success of our marketing campaigns. For further information take a look at this useful [Google Video](https://www.youtube.com/watch?v=TBR-xtJVq7E) on You Tube which helpfully explains how websites use cookies.
-How do I disable Cookies?
-    
+When you place an order with us online, we will also send you a feedback request email even if you have not opted-in to receive email marketing. We do this so that we can improve our service to you. Any feedback you send us will remain anonymous. You can opt out of receiving these emails by clicking the Unsubscribe link at the bottom of any email, or by contacting customer services. 
 
-If you want to disable cookies you will need to do this by changing your website browser settings which are normally found under the tools or privacy tabs in your browser menu. Please note that disabling cookies may reduce the performance of our website on your computer. **By continuing to use the site with your current browser settings, you consent to allow this site to use cookies.** All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+As with all sensitive data we keep all of these details securely in our systems. The exception is payment details which are sent to and managed securely by our payment service provider. We do not keep a record of your credit card, for example, apart from the card type and last four digits for reference. 
 
-[Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
+**When you opt in to receive marketing communications from us**
 
-[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/Cookies)
+There are several ways you might do this, for example: 
 
-[Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * using an online form;
+  * giving your details to staff in store and explicitly telling them you want to receive emails;
+  * when entering a competition and asking us to send you emails.
 
-[Cookie settings in Safari](https://support.apple.com/kb/PH21411?locale=en_GB)
+When you first sign up for emails we will send you a welcome email to make sure you want to receive emails from us. You can opt out of email marketing at any time by clicking the _Unsubscribe_ link at the bottom of any email, or opt out of any marketing by contacting customer services. 
 
-You can also take a look at the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+**When you make a transaction in store**
 
-Your Right To Know
-    We respect your right to know about the information we hold about you. If, at any point, you wish to see the information held by Jigsaw against your account, or what cookies are currently in use on this website, you may email us at [enquiries@jigsaw-uk.co.uk](mailto:enquiries@jigsaw-uk.co.uk)
-Contacting You via Email
-    If you have purchased from the site or opted in to receive information on company news, our products and promotions, but would now like us to stop sending you this information please either:  
-• click the unsubscribe link on the latest newsletter e-mail received from us   
-• contact us by e-mail ([enquiries@jigsaw-online.com](mailto:enquiries@jigsaw-online.com))   
-• write to us at the address provided above.  Please be sure to provide your name, email and address when requesting the removal of your data from our database, so that we can check that it is in fact you who is making the request. 
+When you shop in store you might be asked for your email address (and sometimes your name, address details, phone number). We do this so that we can understand and serve our customers better, and to make sure we know which offers you qualify for. You are not obliged to give this information and we will never send you an email promotion unless you have opted in to receive emails. 
 
- Please note, if you then make a purchase after unsubscribing we will still send you order related emails.
+**When you contact customer services**
 
-If any of your details have changed please either:  
-• visit our website if you have already set up an account with us online, and open ‘My Account’ to access and edit your data.  
-• contact us by e-mail or by post, quoting “My New Information”, if you would like us to complete the update for you.  Please be sure to provide your old information when updating us, so that we can verify that it is in fact you making this request and ensure that we correct your data accurately.
+We keep records of any communications we have with you so that we offer the best service to you and so that we can refer to them at later date if we need to. As with all sensitive data, we keep these details securely. 
 
-Secure Storage & Use of Data
-    Your information will be held by Jigsaw, the trading name of Robinson Webster (Holdings) Ltd. When making a purchase or signing up for news, we rely on you to register any information about yourself accurately. If you set up an account online with us and your details change, you will need to keep this information up-to-date by logging into your account and editing your personal details. Your account will be password protected by a password generated by you at the point of set up. Please note that you are responsible for maintaining the confidentiality of your own password and account, as well as any activities that occur under that account. 
+**Using CCTV in our stores**
 
-We may use your personal information for the following purposes: 
+We keep CCTV recordings for security purposes only. 
 
-• to fulfil/deliver orders placed by you, 
+**Using cookies on our website**
 
-• to process payment for your goods on despatch, 
+See our separate [cookie policy](https://web.archive.org/content/cookie-policy) for detail about cookies and how we use them. 
 
-• to obtain credit authorisation from your card issuer, 
+What do we do with your data?
+     **When you place an order online or by phone – fulfilling your order**
 
-• to contact you with any queries about your order, 
+Primarily we use the data you provide to us to fulfil our contract with you: we use your delivery address to know where to send your order; we use your email address and mobile phone number to update you about your order status. 
 
-• to despatch administration e-mails to you regarding your order, 
+**When you place an order online or by phone, or make a transaction in store – marketing**
 
-• to analyse product preferences, to help improve the offer on our site and 
+For marketing purposes we also use transaction data to analyse customer behaviour and to ensure we send you the most appropriate marketing (we don’t send you emails unless you ask us to). For example, 
 
-• to contact you with relevant information about us, our product and our services. 
+  * if you buy a certain product we might send you information relating to other products based on your purchase history;
+  * if we want to know how many customers live in a certain area, we might generate a report to find that out.
 
-We will not keep a permanent record of your credit card details. These details will need to be stored initially in order that we might process your order, take payment on despatch and provide refunds should you wish to return and refund any items. The card details you provide us with during the checkout process will be taken and stored securely. Once your transaction and any required refunds are completed, all card data will be securely erased. If you link to another website from ours, we won’t give them your details. It will be at your discretion to provide your details to that website. You use these links at your own risk. Jigsaw does not accept responsibility for the content held on those sites. In the event of the police or a government authority requesting information from us during the course of an investigation into suspected illegal activities, we are obliged to provide data to them. 
+The legal basis we use for processing data for marketing purposes is called 'legitimate interest'. If you do not wish us to process your data in this way, you can contact us to let us know using the details above. 
+
+We might also use the data you give us to send you information, offers or catalogues by post. If you do not wish to be contacted by post you can let us know using the contact details above, or you can visit [this page](https://web.archive.org/content/marketing-preferences). 
+
+We have a legal obligation to keep this data for six years in case we need to refer to it. However, we will usually keep data for twelve years since your last interaction: customers who haven't shopped with us for several years sometimes return to us. 
+
+**When you opt in to receive marketing from us**
+
+We use any data you provide to us (at any time) as way to send you the most relevant marketing. For example: 
+
+  * if you have provided us with your date of birth we might send you a birthday offer;
+  * if you have entered a competition to win Jigsaw girls' clothes we might send you marketing relating to that product range;
+  * if you have given us an address in a certain area we might let you know about a new store opening.
+
+If you have not made a transaction with us, but you have opted in to receive marketing by email or any other method the legal basis for processing is called 'consent'. 
+
+We will keep personal data unless you tell us you no longer wish to receive marketing from us, in which case we will remove your opt-in, but keep other data for twelve years afterwards in case you change your mind. 
+
+**When you contact customer services**
+
+We only use this data to answer your query, to refer to at a later date if necessary and to train our staff. We have a legal obligation to keep this data for six years after which time it will be deleted from our databases. 
+
+**Using CCTV in our stores**
+
+We do not access CCTV recordings unless we need to for security purposes. This data is erased after two weeks unless it needs to be referred to due to a suspected incident or for some other legal reason. 
+
+Sharing your data
+    Unless you have made a transaction with us we will not share your data with any third party outside of the Jigsaw group of companies. The retailers operating in the group are: Jigsaw UK (www.jigsaw-online.com), Jigsaw Australia (www.jigsawclothing.com.au), Jigsaw USA (www.jigsaw-london.com) and The Shop at Bluebird (www.theshopatbluebird.com). However, we will not send you marketing that is not relevant to your choices or demonstrated interests. 
+
+We do pass some data to third parties in order for them to fulfil services for us, but they can only use this data to fulfil those services for us and cannot pass it on, use it to fulfil services for other companies, or use it for their own interests. The types of companies we use are, for example:
+
+  * courier companies (to send orders);
+  * marketing agencies (to send out emails);
+  * data analysis companies (to provide us with tools to analyse our data);
+  * customer review companies (so you can leave feedback and we can improve our service to you).
+
+We are also obliged to pass your personal data onto a legal authority if instructed to do so under certain circumstances, for example, for the prevention of crime.
+Sharing your data if you have made a transaction with us
+    If you have made a transaction with us we might pass your data to other trusted retailers for the purpose of postal marketing communications. 
+
+In order to support this, we work with Epsilon Abacus (registered as Epsilon International UK Ltd), a company that manages the Abacus Alliance on behalf of UK retailers. The participating retailers are active in the following product categories: clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors. They share information on what their customers buy. Epsilon Abacus analyses this pooled information to help retailers understand their consumers' wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy. 
+
+Please note that we share only the information strictly necessary to support postal communications. Your email address and phone number will 
+
+_not_ be shared with the members of the Abacus Alliance. 
+
+If you do not wish to be contacted by post by other trusted retailers, you can let us know using the contact details above, or you can visit [this page](https://web.archive.org/content/marketing-preferences). 
+
+Please note that Epsilon Abacus may transfer data outside the EEA (European Economic Area). The transfer will take place in the presence of appropriate safeguards, including standard data protection clauses adopted by the EU Commission. If you would like more information, please contact us using the details above. 
+
+Your rights relating to personal data
+    You have the right to access your personal data (to ask us what information we hold about you).  
+You have the right to ask for your data to be deleted or corrected.  
+You have the right to ask us to stop processing your data.  
+You have the right to stop receiving marketing from us. 
+
+For all of the above, please do [get in touch](https://web.archive.org/content/contact-us). Where we are obliged to comply with your request we will do so as quickly as possible. 
+
+Complaints
+    If you have a complaint about the way we use your data please [contact us](https://web.archive.org/content/contact-us). If we cannot resolve the problem for you, you can also contact the Information Commissioner's Office (ICO): <https://ico.org.uk/>.
