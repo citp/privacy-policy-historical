@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906205828id_/https%3A//www.splashtop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashtop.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529173748id_/https%3A//www.splashtop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Splashtop Inc.
 
@@ -24,13 +24,13 @@ We have no direct relationship with individuals whose personal information we pr
 
 
 
-This Policy is incorporated into and is subject to the Splashtop Terms of Service for use of our Services, which are available at [https://www.splashtop.com/terms/splashtop](http://www.splashtop.com/terms/splashtop), and Splashtop Terms of Use for use of our Websites, which are available at <https://www.splashtop.com/terms>. By visiting and using the Websites or Services, you agree to abide by the terms and conditions of this Policy, and you consent to the collection, use and disclosure of your personal information and other non-personally identifying information by Splashtop in accordance with the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Privacy Policy or the Terms of Service, please do not provide us with any information and do not use the Websites or the Services.
+This Policy is incorporated into and is subject to the Splashtop Terms of Service for use of our Services, which are available at <https://www.splashtop.com/terms/splashtop>, and Splashtop Terms of Use for use of our Websites, which are available at <https://www.splashtop.com/terms>. By visiting and using the Websites or Services, you agree to abide by the terms and conditions of this Policy, and you consent to the collection, use and disclosure of your personal information and other non-personally identifying information by Splashtop in accordance with the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Privacy Policy or the Terms of Service, please do not provide us with any information and do not use the Websites or the Services.
 
   4. **Privacy Policy Updates**
 
 
 
-Due to the Internet’s rapidly evolving nature, we may need to update this Policy from time to time. If so, we will post the updated Privacy Policy on our Websites located at [https://www.splashtop.com/privacy](http://www.splashtop.com/privacy). We may also send registered users of the Websites email notifications notifying such users of any changes to the Policy. If any change is unacceptable to you, you shall cease using the Websites and the Services. If you do not cease using the Websites and the Services, you will be deemed to have accepted the changes.
+Due to the Internet’s rapidly evolving nature, we may need to update this Policy from time to time. If so, we will post the updated Privacy Policy on our Websites located at <https://www.splashtop.com/privacy>. We may also send registered users of the Websites email notifications notifying such users of any changes to the Policy. If any change is unacceptable to you, you shall cease using the Websites and the Services. If you do not cease using the Websites and the Services, you will be deemed to have accepted the changes.
 
   5. **Information We Collect From You on our Websites**
 
@@ -44,11 +44,11 @@ Whenever you visit a Splashtop web page, your browser may send certain informati
 
 We and our authorized partners may use cookies and other information gathering technologies to provide us with personal information, information about devices and networks you utilize to access our Websites, and other information regarding your interactions with our Websites. For detailed information about the use of cookies in the Websites, please read and review our Cookie Policy which can be found at <https://www.splashtop.com/cookie-policy>.
 
-We partner with third parties to manage our advertising on other sites. Our third party partners may also use technologies such as cookies to gather information about your activities on our Websites and other sites in order to suggest advertisements based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) (or if located in the European Union you may opt-in the use of cookies, by clicking <http://www.youronlinechoices.eu/>).
+We partner with third parties to manage our advertising on other sites. Our third party partners may also use technologies such as cookies to gather information about your activities on our Websites and other sites in order to suggest advertisements based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [https://preferences-mgr.truste.com](https://preferences-mgr.truste.com/) (or if located in the European Union you may opt-in the use of cookies, by clicking <https://www.youronlinechoices.eu/>).
 
 We may use web beacons, tags and scripts on our Websites or in email we send to you. These assist us in delivering cookies, counting visits to our Websites, understanding usage and campaign effectiveness and determining whether an email has been opened and acted upon. We may receive reports based on the use of these technologies from our third-party service providers on an individual and aggregated basis.
 
-We may use Local Storage Objects (“LSOs”) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Websites or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. For further information on how to manage Flash LSOs please visit <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+We may use Local Storage Objects (“LSOs”) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our Websites or to display advertising based upon your Web browsing activity use LSOs such as HTML5 and Flash to collect and store information. For further information on how to manage Flash LSOs please visit <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 **Logs:**
 
@@ -126,7 +126,7 @@ We share information, including personal information, with our third-party servi
 
 **Compliance with Laws and Law Enforcement Requests; Protection of Our Rights:**
 
-In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, available at http://www.splashtop.com/terms/splashtop, or as otherwise required by law.
+In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, available at https://www.splashtop.com/terms/splashtop, or as otherwise required by law.
 
 **Testimonials:**
 
