@@ -1,42 +1,71 @@
-> *The following text is extracted and transformed from the liligal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235844id_/http%3A//www.liligal.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liligal.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529181329id_/http%3A//liligal.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
 # Privacy Policy | liligal.com
 
 Thank you for accessing Liligal.com. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
- **Privacy Policy**
+ **I. COLLECTION OF PERSONAL DATA**
 
-Liligal.com is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.
+Information including user name, address, phone number, and email address, will be collected at the time of user registration on the Site. 
 
- **Collection and processing of personal data**
+If you are registering an account through social media platforms such as Facebook or Google, we may collect your account name and profile photo at those platforms. 
 
-We collect personal data only when you provide it to us, through registration, completion of forms or e-mails, as part of an order for products or services, inquiries or requests about materials being ordered and similar situations in which you have chosen to provide the information to us. The database and its contents remain at our company and stay with data processors or servers acting on our behalf and responsible to us. Your personal data will not be passed on by us for use by third parties in any form whatsoever, unless we have obtained your consent or are legally required to do so. We will retain control of and responsibility for the use of any personal data you disclose to us. Some of this data may be stored or processed at computers located in other jurisdictions, such as the United States, whose data protection laws may differ from the jurisdiction in which you live. In such cases, we will ensure that appropriate protections are in place to require the data processor in that country to maintain protections on the data that are equivalent to those that apply in the country in which you live.
+If you are registering as wholesaler, dropshipper or affliate member, in addition to the information mentioned above, we may also collect information about your business, such as the your website, your customer’s name, address, etc.
 
- **Purposes of Use**
+ If you make a payment, we collect personal data in connection with payment. This data includes your Paypal account, credit or debit card number and other card information, and other account and authentication information, as well as billing, shipping, and contact details.
 
-The data we collect will only be used for the purpose of supplying you with the requested products or services or for other purposes for which you have given your consent, except where otherwise provided by law.
+If you contact our customer service, we may record your conversation with us and collect additional information to verify your identity.
 
- **  
-What do we use your information for?**
+We record users' buying and browsing activities on our site including but not limited to IP addresses, browsing patterns, buyer behavioral patterns and equipment information. In addition, we gather statistical information about the Site and visitors to the Site including, but not limited to, IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors.
 
-Any of the information we collect from you may be used in one of the following ways: 
+ **II. USE OF PERSONAL DATA**
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We collect and use your Personal Data for the following purposes:
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+\--verifying your identity;
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+\--processing your registration as a user, providing you with a log-in ID for the Site and maintaining and managing your registration;
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+\--providing you with customer service and responding to your queries, feedback, claims or disputes;
 
-• To send periodic emails
+\--Offering and measuring targeted advertisements and services.
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+ **III. DISCLOSURE OF PERSONAL DATA**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We may disclose and transfer your Personal Data to our partners and to service providers engaged by us to assist us to provide services to you.
 
-• To administer a contest, promotion, survey or other site feature
+\--payment service providers to assist with payment for transactions. The activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;
+
+\--credit risk assessment providers to conduct risk assessment on transactions to prevent fraud and other risk incidents;
+
+\--logistics partners for providing delivery service
+
+\--customer service to provide pre-sale and after-sale services
+
+ **IV. RIGHTS REGARDING PERSONAL DATA**
+
+We take reasonable steps to ensure that your personal data is accurate, complete, and up to date. 
+
+The right to access, correct, update or request deletion of your Personal Data. 
+
+The right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” link in the marketing e-mails we send you.  
+
+ **V. COOKIES**
+
+We use cookies and similar technologies to provide, protect, and improve our products and services, such as by personalizing content, offering and measuring advertisements, understanding user behavior, and providing a safer experience. 
+
+You can remove or reject cookies using your browser or device settings, but in some cases doing so may affect your ability to use our products and services.
+
+ **VI. MINORS**
+
+The Site and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. If we learn that we have collected the personal data of a child under 16, or the equivalent minimum age depending on the jurisdiction, we will take steps to delete the data as soon as possible.  
+
+ **VII. SECURITY MEASURES**
+
+We use reasonable security methods to prevent unauthorized access to safeguard and help prevent unauthorized access to your data, and to correctly use the data we collect. For registered users, some of your information can be viewed and edited through your account, which is protected by a password.
+
+It is important that you take precautions to protect against unauthorized access to your account credentials, and computer or other devices. 
+
+ **VIII. CONTACT US**
+
+If you have any questions regarding this Privacy Statement or its implementation, here is how you can reach us: service@liligal.com
