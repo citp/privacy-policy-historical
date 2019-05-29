@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125170719id_/http%3A//docs.cockfortwo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529022252id_/http%3A//docs.cockfortwo.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
