@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakthroughinsider.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819015707id_/https%3A//www.tonyrobbins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughinsider.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530014153id_/https%3A//www.tonyrobbins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tony Robbins
 
@@ -224,9 +224,8 @@ If you choose to visit our Site and attend our events, your visit and any disput
 This Site is owned and operated by RRI.  If you have any questions or suggestions with respect to this Privacy Policy or our privacy practices, please e-mail us at [support@tonyrobbins.com](mailto:support@tonyrobbins.com), or you can contact us by mail at:
 
 Robbins Research International, Inc.  
-6160 Cornerstone Court East  
-Suite 200  
-San Diego, CA  92121
+051 Mira Mesa Blvd P.O. Box 261229  
+San Diego, CA 92196
 
 For residents of the EEA, please e-mail us at [robert.bond@bristows.com](mailto:robert.bond@bristows.com), or by mail can contact us by mail at:
 
