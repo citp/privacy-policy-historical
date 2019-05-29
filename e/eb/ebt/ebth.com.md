@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911031250id_/https%3A//www.ebth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529081615id_/https%3A//www.ebth.com/privacy%3Fref%3Dftr) for the most accurate reproduction.*
 
-# Privacy Policy : EBTH
+# Privacy Policy | EBTH
 
 Thank you for using our web site and mobile applications (collectively Services). This Privacy Policy tells you how EBTH Inc. and our subsidiaries use personal information collected via this site and our mobile applications. Please read this Privacy Policy before using the site or applications or submitting any personal information. By using the site or application, you are accepting the practices described in this Privacy Policy and our [Terms and Conditions](https://web.archive.org/terms). These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site or application to make sure that you understand how any personal information you provide will be used.
 
