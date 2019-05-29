@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djhorjh.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125171450id_/http%3A//www.djhorjh.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djhorjh.net privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529023415id_/http%3A//www.djhorjh.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DJhorjh
 
