@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815073003id_/https%3A//www.linkt.com.au/legal/policies/transurban-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529105738id_/https%3A//www.linkt.com.au/legal/policies/transurban-privacy-policy.html) for the most accurate reproduction.*
 
 # Transurban Privacy Policy - Linkt
 
@@ -131,23 +131,23 @@ Please see section 4 above for information we collect when you use our online se
       10. to AUSTRAC under applicable anti-money laundering legislation if you have an account balance of $5,000 or more.
       11. to insurance companies.
       12. to our consultants, contractors, subcontractors, suppliers, service providers, professional advisers and agents, such as:
-      13. call centre operators.
-      14. mailhouse, printhouse and warehouse organisations.
-      15. marketing, advertising and information service providers including social media services and data supply companies.
-      16. legal and accounting firms.
-      17. welfare and hardship assistance providers in accordance with our hardship policy.
-      18. contractors that own or operate distribution outlets (such as convenience stores and electronic kiosks).
-      19. banks, financial institutions and payment processing providers.
-      20. towing, roadside support and maintenance and logistics contractors (such as if you or your vehicle are involved in or near a road incident).
-      21. engineers and surveyors.
-      22. researchers and investigators.
-      23. insurers.
-      24. share registry providers.
-      25. debt collection companies and credit reporting bodies.
-      26. Australia Post and delivery supply contractors.
-      27. information technology suppliers that provide support, maintenance and upgrade services for our systems.
-    2. In certain circumstances, you may nominate by way of statutory declaration a person who operated your vehicle on our toll road. If this occurs, we may contact that person and inform them of the details of your nomination.
-    3. Under the Corporations Act, we are required to make limited shareholder details available to members of the public on request.
+        1. call centre operators.
+        2. mailhouse, printhouse and warehouse organisations.
+        3. marketing, advertising and information service providers including social media services and data supply companies.
+        4. legal and accounting firms.
+        5. welfare and hardship assistance providers in accordance with our hardship policy.
+        6. contractors that own or operate distribution outlets (such as convenience stores and electronic kiosks).
+        7. banks, financial institutions and payment processing providers.
+        8. towing, roadside support and maintenance and logistics contractors (such as if you or your vehicle are involved in or near a road incident).
+        9. engineers and surveyors.
+        10. researchers and investigators.
+        11. insurers.
+        12. share registry providers.
+        13. debt collection companies and credit reporting bodies.
+        14. Australia Post and delivery supply contractors.
+        15. information technology suppliers that provide support, maintenance and upgrade services for our systems.
+      13. In certain circumstances, you may nominate by way of statutory declaration a person who operated your vehicle on our toll road. If this occurs, we may contact that person and inform them of the details of your nomination.
+      14. Under the Corporations Act, we are required to make limited shareholder details available to members of the public on request.
 
   * 10\. When do we de-identify information?
 
