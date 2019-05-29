@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127171518id_/https%3A//www.wtfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529233725id_/https%3A//www.wtfast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - wtfast
+# Privacy Policy - WTFast
 
 Last Updated: June 2018
 
