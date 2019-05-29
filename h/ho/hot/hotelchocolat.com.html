@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotelchocolat.com privacy policy that was archived on 2017-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227211244id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotelchocolat.com privacy policy that was archived on 2019-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190529083145id_/https%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -60,23 +60,89 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <meta charset="UTF-8">
+
 
 <title>Security and Privacy Policy Information - Hotel Chocolat</title>
 
+
 <link href="/on/demandware.static/Sites-HotelChocolat-Site/-/default/dw0e219cc9/images/favicon.ico" rel="shortcut icon">
+
+
+
 <meta name="description" content=" Read about our commitment to privacy &amp; security at Hotel Chocolat including what information we collect, how we use it  and how we protect your data. Hotel Chocolat">
 <meta name="keywords" content="  Hotel Chocolat">
 
-<link href="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+
+
+
+
+
+
+<link href="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/html5.js"></script>
 <![endif]-->
 <!--[if lte IE 9]>
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/matchMedia.js"></script>
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/matchMedia.js"></script>
 <![endif]-->
-<script type="text/javascript">//<!--
+
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
 dw.ac = {
@@ -90,7 +156,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -136,10 +208,54 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
+<!-- Demandware Apple Pay -->
 
+<style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
+.dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='pldemandware';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1656345777945506');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" alt="" style="display:none"
+src="https://www.facebook.com/tr?id=1656345777945506&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 
 
@@ -179,14 +295,18 @@ CQuotient.getCQUserId = function () {
 
 <!-- UI -->
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/css/style.min.css">
 
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
 
-<meta name="google-site-verification" content="bFpn5p-ldwwsTnR-5jzd5AczUxOCAekQbNKPCw73RqQ">
+
+<meta name="google-site-verification" content="d7UgDEPcJNUlSJXV_MAN8AaQHJ3Slt2v2Vx_S5k4UH8">
+
+
+
 
 
 
@@ -197,19 +317,18 @@ CQuotient.getCQUserId = function () {
 if (window.jQuery) {
 jQuery(document).ready(function(){
 if(screen.width < 768){
-jQuery('#footer').append('<a href="/uk" class="full-site-link">View Full Site</a>');
-jQuery('.full-site-link')
-.attr('href', '/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Home-FullSite')
+jQuery('#footer').append('<a href="/uk" class="mobile-site-link">View Mobile Site</a>');
+jQuery('.mobile-site-link')
+.attr('href', '/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Home-MobileSite')
 .click(function(e) {
 e.preventDefault();
 jQuery.ajax({
-url: '/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Home-FullSite',
+url: '/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Home-MobileSite',
 success: function(){
 window.location.reload();
 }
 });
-}
-);
+});
 }
 });
 }
@@ -221,12 +340,88 @@ window.location.reload();
 
 
 
+	<script>
+		window.RECAPTCHA_PUBLIC_KEY = "6LdBcGcUAAAAAPpxIlJwKN-dBxhcfD7_ydaWrwHN";
+		window.initRecaptchaForms = function(){
+			setTimeout(window.initRecaptchaForms, 600);
+		};
+	</script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=initRecaptchaForms" async="" defer=""></script>
 
-<link rel="canonical" href="http://www.hotelchocolat.com/uk/help/security-and-privacy.html">
+
+<script>
+	window.einstein = {
+		loaded: [],
+		load: function(id) {
+			window.einstein.loaded.push(id);
+		}
+	};
+</script>
+
+
+
+
+
+
+<link rel="canonical" href="https://www.hotelchocolat.com/uk/help/security-and-privacy.html">
+
 
 </head>
 <body>
 <div id="wrapper" class="pt_content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -294,9 +489,16 @@ window.location.reload();
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bd7B2iaaib4DIaaadquqpVHOH5" -->
-<p>As if our chocolate wasn’t enough – now we give you cookies. Find out how our cookies affect you <a href="http://www.hotelchocolat.com/uk/help/cookies-policy.html">here</a>.</p>
+<p>Hotel Chocolat use cookies and by continuing we assume that you consent to receive all cookies on our website. <br><a href="https://www.hotelchocolat.com/uk/help/cookies-policy.html">Find out more here</a>.</p>
 </div> <!-- End content-asset -->
+
 
 
 
@@ -305,7 +507,7 @@ window.location.reload();
 
 <svg class="icon close-icon">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#close-icon"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#close-icon"></use>
 
 </svg>
 </div>
@@ -314,10 +516,63 @@ window.location.reload();
 <div class="hlp-centered-wrapper">
 <div class="header-utility-menu leftum">
 <div class="menu-item">
-<a id="header-store-locator-link" href="http://www.hotelchocolat.com/uk/chocolate-shops" title="Our Locations">
+<a id="header-store-locator-link" href="https://www.hotelchocolat.com/uk/chocolate-shops" title="Our Locations">
 Our Locations
 </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -459,6 +714,60 @@ Our Locations
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="inner level-1">
 <a href="https://www.hotelchocolat.com/uk/help/contact-us">
 Contact Us
@@ -467,6 +776,8 @@ Contact Us
 
 
 
+
+
 </div>
 
 
@@ -475,14 +786,17 @@ Contact Us
 
 
 
+
 <div class="inner level-1">
-<a href="http://www.hotelchocolat.com/uk/help/FAQs.html">
+<a href="https://www.hotelchocolat.com/uk/help/FAQs.html">
 FAQs
 </a>
 
 
 
 
+
+
 </div>
 
 
@@ -491,14 +805,17 @@ FAQs
 
 
 
+
 <div class="inner level-1">
-<a href="http://www.hotelchocolat.com/uk/help/delivery.html">
+<a href="https://www.hotelchocolat.com/uk/help/delivery.html">
 Delivery
 </a>
 
 
 
 
+
+
 </div>
 
 
@@ -507,26 +824,13 @@ Delivery
 
 
 
+
 <div class="inner level-1">
-<a href="http://www.hotelchocolat.com/uk/help/our-guarantee.html">
+<a href="https://www.hotelchocolat.com/uk/help/our-guarantee.html">
 Our Guarantee
 </a>
 
 
-
-
-</div>
-
-
-
-
-
-
-
-<div class="inner level-1">
-<a href="https://hotelchocolat.whoson.com/chat/chatstart.htm?domain=www.hotelchocolat.com" onclick="javascript:window.open('https://hotelchocolat.whoson.com/chat/chatstart.htm?domain=www.hotelchocolat.com','wochat','width=484,height=361');return false;">
-Live Chat
-</a>
 
 
 
@@ -605,12 +909,67 @@ Live Chat
 
 
 
-<div class="hover-drop-down menu-item" id="my-account-dropdown">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hover-drop-down menu-item" id="my-account-dropdown" data-active="null">
 <a class="menu-title" href="https://www.hotelchocolat.com/uk/my-account">
+
 
 <svg class="icon account">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#account"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#account"></use>
 
 </svg>My Account
 </a>
@@ -630,17 +989,92 @@ Live Chat
 
 </div>
 <div class="hover-drop-down menu-item" id="mini-cart">
-<a class="menu-title" href="/uk/basket">
+<a class="menu-title" href="/uk/basket" title="Shopping Bag" alt="Shopping Bag" rel="nofollow">
+
 
 <svg class="icon bag">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#bag"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#bag"></use>
 
 </svg>
 Bag
 <div class="minicart-total-qty"></div>
 </a>
 <div class="drop-down-options">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -711,11 +1145,20 @@ Bag
 
 
 
-<input type="hidden" name="cartData" value="{}">
+
+<input type="hidden" name="cartData" value="{&quot;order_items_total&quot;:{},&quot;product&quot;:[],&quot;hamper_capacity&quot;:&quot;&quot;,&quot;hamper_items_added&quot;:&quot;&quot;,&quot;hamper_name&quot;:&quot;&quot;,&quot;hamper_price&quot;:&quot;&quot;,&quot;hamper_quantity&quot;:&quot;&quot;,&quot;hamper_size&quot;:&quot;&quot;,&quot;hamper_SKU&quot;:&quot;&quot;,&quot;hamper_type&quot;:&quot;&quot;,&quot;voucher_ID&quot;:&quot;&quot;,&quot;voucher_total&quot;:&quot;&quot;,&quot;re_product_image&quot;:&quot;&quot;,&quot;re_product_url&quot;:&quot;&quot;,&quot;re_tasting_club_product&quot;:&quot;&quot;}">
 <div class="mini-cart-wrapper" data-qty="0">
+
+
 
 <div class="mini-cart-content empty">
 <div class="mini-cart-header empty">
+
+
+
+
+
+
 
 
 
@@ -741,8 +1184,15 @@ Bag
 
 
 
+
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="056c83b528bad4b896b6c621a5" -->
-<a class="button mini-cart-empty" href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/" title="Shop Best Selling Gifts">Shop Best Selling Gifts</a>
+<a class="button mini-cart-empty" href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/" title="Shop Best Selling Gifts">Shop Best Selling Gifts</a>
 </div> <!-- End content-asset -->
 
 
@@ -758,16 +1208,19 @@ Bag
 
 
 
+
+
 <div class="menu-slot">
 <br>
 <p>Add a Little Extra?</p>
-<div class="menu-slot" style="margin-top: 10px" ;=""><a href="http://www.hotelchocolat.com/uk/shop/collections/products/selectors/"><img alt="mix and match selectors" class="fullwidth" padding="0px" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-HotelChocolat-Library/default/dw44c6e454/NEW-selector-multibuy-ad-270x130.jpg" title="mix and match selectors"></a></div>
+<div class="menu-slot" style="margin-top: 10px" ;=""><a href="https://www.hotelchocolat.com/uk/shop/collections/products/selectors/"><img alt="mix and match selectors" class="fullwidth" padding="0px" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-HotelChocolat-Library/default/dw44c6e454/NEW-selector-multibuy-ad-270x130.jpg" title="mix and match selectors"></a></div>
 </div>
 
  
 	
 </div>
 </div>
+
 
 
 
@@ -780,15 +1233,17 @@ Bag
 <div class="primary-logo">
 <a href="/uk" title="Hotel Chocolat Home">
 
+
 <svg class="icon logo">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#logo"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#logo"></use>
 
 </svg>
 
+
 <svg class="icon logo-mobile">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#logo-mobile"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#logo-mobile"></use>
 
 </svg>
 <span class="visually-hidden">Hotel Chocolat</span>
@@ -797,21 +1252,23 @@ Bag
 </div>
 </div>
 <nav id="navigation" role="navigation">
-<div class="hlp-centered-wrapper">
+<div class="hlp-centered-wrapper menu-wrapper">
 <div class="mb-grid-item" id="hamburger-menu">
 <a class="menu-toggle">
+
 <svg class="icon menu-icon">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#menu-icon"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#menu-icon"></use>
 
 </svg></a>
 </div>
 <div class="mb-grid-item search-toggler">
 <span class="mobile-search-icon">
 
+
 <svg class="icon search">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#search"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#search"></use>
 
 </svg>
 </span>
@@ -819,9 +1276,10 @@ Bag
 <div class="mb-grid-item">
 <a class="white-hover" href="/uk/chocolate-shops">
 
+
 <svg class="icon locations">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#locations"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#locations"></use>
 
 </svg>
 </a>
@@ -829,9 +1287,10 @@ Bag
 <div class="mb-grid-item">
 <a class="white-hover" href="https://www.hotelchocolat.com/uk/my-account">
 
+
 <svg class="icon account">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#account"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#account"></use>
 
 </svg>
 </a>
@@ -839,9 +1298,10 @@ Bag
 <div class="mb-grid-item">
 <a class="white-hover" href="https://www.hotelchocolat.com/uk/basket">
 
+
 <svg class="icon bag">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#bag"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#bag"></use>
 
 </svg>
 <div class="minicart-total-qty"></div>
@@ -855,9 +1315,10 @@ Bag
 <label class="visually-hidden" for="q">Search Catalog</label>
 <input type="text" id="q" name="q" maxlength="50" value="">
 <button type="submit" aria-label="Search"><div class="menu-icon">
+
 <svg class="icon search">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#search"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#search"></use>
 
 </svg></div></button>
 </fieldset>
@@ -926,7 +1387,61 @@ Bag
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul id="main-navigation">
+
 
 
 <li class="top-level">
@@ -934,13 +1449,14 @@ Bag
 
 
 
-<a class="has-sub-menu" href="http://www.hotelchocolat.com/uk/shop/gift-ideas/">
+<a class="has-sub-menu" href="https://www.hotelchocolat.com/uk/shop/collections/">
 
-Gift Ideas
+Shop
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
 </svg>
 </a>
@@ -955,15 +1471,20 @@ Gift Ideas
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/">
 
-Shop By Occasion
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/gift-ideas/">
+
+GIFTS BY OCCASION
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
 <div class="sub-level-content" data-margin="0" data-width="900">
 
@@ -974,23 +1495,7 @@ Shop By Occasion
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/">
-Best Selling Chocolate Gifts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/whats-new/">
-What's New
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/anniversary/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/anniversary/">
 Anniversary Gifts
 </a>
 </li>
@@ -998,7 +1503,15 @@ Anniversary Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/birthday/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/">
+Best Selling Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/birthday/">
 Birthday Gifts
 </a>
 </li>
@@ -1006,7 +1519,7 @@ Birthday Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/christening-gifts/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/christening-gifts/">
 Christening Gifts
 </a>
 </li>
@@ -1014,7 +1527,7 @@ Christening Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/congratulations/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/congratulations/">
 Congratulations Gifts
 </a>
 </li>
@@ -1022,7 +1535,7 @@ Congratulations Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/dinner-party/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/dinner-party/">
 Dinner Party Gifts
 </a>
 </li>
@@ -1030,7 +1543,7 @@ Dinner Party Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/engagement/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/engagement/">
 Engagement Gifts
 </a>
 </li>
@@ -1038,7 +1551,7 @@ Engagement Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/exam-gifts/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/exam-gifts/">
 Exam Gifts
 </a>
 </li>
@@ -1046,8 +1559,24 @@ Exam Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/get-well-soon/">
+<a href="https://www.hotelchocolat.com/uk/shop/fathers-day/">
+Father's Day Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/get-well-soon/">
 Get Well Soon Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/make-a-gift-hamper">
+Gift Creator
 </a>
 </li>
 
@@ -1057,7 +1586,7 @@ Get Well Soon Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/good-luck/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/good-luck/">
 Good Luck Gifts
 </a>
 </li>
@@ -1065,7 +1594,7 @@ Good Luck Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/graduation/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/graduation/">
 Graduation Gifts
 </a>
 </li>
@@ -1073,7 +1602,7 @@ Graduation Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/house-warming/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/house-warming/">
 House Warming Gifts
 </a>
 </li>
@@ -1081,7 +1610,7 @@ House Warming Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/new-baby/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/new-baby/">
 New Baby Gifts
 </a>
 </li>
@@ -1089,23 +1618,7 @@ New Baby Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/teachers-gifts/">
-Teachers Gift
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/thank-you/">
-Thank You Gifts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/retirement-gifts/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/retirement-gifts/">
 Retirement Gifts
 </a>
 </li>
@@ -1113,7 +1626,7 @@ Retirement Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/sorry/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/sorry/">
 Sorry Gifts
 </a>
 </li>
@@ -1121,7 +1634,15 @@ Sorry Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/sympathy/">
+<a href="https://www.hotelchocolat.com/uk/shop/summer/">
+Summer Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/sympathy/">
 Sympathy Gifts
 </a>
 </li>
@@ -1129,8 +1650,32 @@ Sympathy Gifts
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/wedding/">
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/teachers-gifts/">
+Teachers Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/thank-you/">
+Thank You Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/wedding/">
 Wedding Gifts
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/find-a-gift.html">
+Gift Finder
 </a>
 </li>
 
@@ -1141,7 +1686,7 @@ Wedding Gifts
 
 
 
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw011eba66/Nav-Ads-2017/Occasional-Gifts-Nav-Ad-200px.jpg" title=""></a></p></span>
+<span class="img"><a href="https://www.hotelchocolat.com/uk/about-the-velvetiser.html"><img style="width: 200px; height: auto" alt="" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwb3bb5956/Nav-Ads-2017/Velvetiser18-copper-1-350px.jpg" title=""></a><a href="https://www.hotelchocolat.com/uk/about-the-velvetiser.html"><div style="text-align: center; padding: 12px 15px 10px 15px; background-color: #000000;"><p style="color: #ffffff; letter-spacing: 0.125em; font-size: 20px">VELVETISER</p><h4 style="color: #ffffff; letter-spacing: 0.125em;">In-home drinking chocolate system.</h4><br><br><p style="color: #ffffff; letter-spacing: 0.125em;"> <u>FIND OUT MORE</u></p></div></a></span>
 
 </div>
 </li>
@@ -1151,15 +1696,20 @@ Wedding Gifts
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/">
 
-Shop By Recipient
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/collections/products/">
+
+Product Type
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
 <div class="sub-level-content" data-margin="1" data-width="900">
 
@@ -1170,365 +1720,7 @@ Shop By Recipient
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/for-her/">
-Gifts for Her
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/for-him/">
-Gifts for Him
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/for-children/">
-Gifts for Children
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/gifts-for-teenagers/">
-Gifts for Teenagers
-</a>
-</li>
-
-
-</ul>
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/for-couples/">
-Chocolate Gifts for Couples
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/for-families/">
-Gifts for Families
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/business-chocolate.html">
-Gifts for Business
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/self-indulgence/">
-Self Indulgence Luxury Chocolate
-</a>
-</li>
-
-
-
-</ul>
-</ul>
-
-
-
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-recipient/"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw011eba66/Nav-Ads-2017/Occasional-Gifts-Nav-Ad-200px.jpg" title=""></a></p></span>
-
-</div>
-</li>
-
-
-
-<li class="sub-level-item">
-
-
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/">
-
-Shop by Mood &amp; Interests
-
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-<div class="sub-level-content" data-margin="2" data-width="900">
-
-
-
-<ul class="third-level-items split-columns">
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/caramel-chocolate/">
-Caramel Lover
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/champagne-lifestyle/">
-Champagne Lifestyle
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/cheer-up-gifts/">
-Cheer Up Gifts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/for-the-connoisseur/">
-For the Connoisseur
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">
-Dark Chocolate Fundamentalist
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/cooking-chocolate/">
-Gourmet Chocolate
-</a>
-</li>
-
-
-</ul>
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/hard-worker/">
-Hard Worker
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/low-sugar/">
-Healthy Chocolate for Health Enthusiasts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/romantic/">
-Romantic Gifts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/wine-enthusiast/">
-Alcohol Gifts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/white/">
-White Chocolate Lover
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
-Gift Experiences
-</a>
-</li>
-
-
-
-</ul>
-</ul>
-
-
-
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwa5b2f1cd/Nav-Ads-2017/Gift-Experiences-Nav-Ad-200px.gif" title=""></a></p></span>
-
-</div>
-</li>
-
-
-
-<li class="sub-level-item">
-
-
-<a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
-
-Chocolate Gift Experiences
-
-</a>
-<div class="sub-level-content" data-margin="3" data-width="490">
-
-
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html"><img alt="Gift Experiences" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwa5b2f1cd/Nav-Ads-2017/Gift-Experiences-Nav-Ad-200px.gif" title="Gift Experiences"></a></p></span>
-
-</div>
-</li>
-
-
-
-<li class="sub-level-item">
-
-
-<a href="http://www.hotelchocolat.com/uk/make-a-gift-hamper">
-
-Gift Creator
-
-</a>
-<div class="sub-level-content" data-margin="4" data-width="490">
-
-
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/make-a-gift-hamper"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw07f2696b/Nav-Ads-2017/Gift-Creator-Nav-Ad-2-GIF-200px.gif" title=""></a></p></span>
-
-</div>
-</li>
-
-
-
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/" class="button top-level-btn">SHOP BEST SELLING GIFTS</a>
-
-
-<div class="nav-banner">
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-hampers/"><div class="banner-wrapper banner-centre">
-<div class="banner-content" style="background-image:url(http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw5de85655/Nav-Banner-Ads-2017/Hampers-Banner-867x140.jpg)">
-<div class="content">
-<div style="margin-top: 26%;"></div>
-</div>
-</div>
-</div>
-</a>
-</div>
-
-</ul>
-
-
-</li>
-
-
-
-<li class="top-level">
-
-
-<a class="" href="http://www.hotelchocolat.com/uk/shop/collections/prices/chocolate-offers/">
-
-SALE
-
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-
-
-
-
-
-
-</li>
-
-
-
-<li class="top-level">
-
-
-<a class="" href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-hampers/">
-
-Hampers &amp; Gift Sets
-
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-
-
-
-
-
-
-</li>
-
-
-
-<li class="top-level">
-
-
-
-
-<a class="has-sub-menu" href="http://www.hotelchocolat.com/uk/shop/collections/">
-
-Collection
-
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-
-
-
-
-
-<ul class="sub-level">
-
-
-<li class="sub-level-item">
-
-
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/">
-
-Product Type
-
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-<div class="sub-level-content" data-margin="0" data-width="900">
-
-
-
-<ul class="third-level-items split-columns">
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/all-products/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/all-products/">
 All Chocolate Products
 </a>
 </li>
@@ -1536,15 +1728,15 @@ All Chocolate Products
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/wine-chocolate/">
-Alcohol Gift Sets - Wine &amp; Spirits
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/wine-chocolate/">
+Alcohol Gifts
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/luxury-chocolate/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/luxury-chocolate/">
 Batons and Slabs
 </a>
 </li>
@@ -1552,15 +1744,15 @@ Batons and Slabs
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/beauty-gifts/">
-NEW: Beauty Gifts
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/beauty-gifts/">
+Beauty Gifts
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-box/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/chocolate-box/">
 Chocolate Boxes
 </a>
 </li>
@@ -1568,7 +1760,7 @@ Chocolate Boxes
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/unique-gifts/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/unique-gifts/">
 Chocolate Gift Sets
 </a>
 </li>
@@ -1576,23 +1768,26 @@ Chocolate Gift Sets
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-hampers/">
-Luxury Chocolate Hampers
+<a href="https://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
+Chocolate Experiences
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/ribbon-chocolate-bags/">
-Chocolate Ribbon Bags
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/chocolate-hampers/">
+Chocolate Hampers
 </a>
 </li>
 
 
+</ul>
+<ul class="split-columns">
+
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/selectors/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/selectors/">
 Chocolate Selectors
 </a>
 </li>
@@ -1600,7 +1795,7 @@ Chocolate Selectors
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/cooking-chocolate/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/cooking-chocolate/">
 Cooking Chocolate
 </a>
 </li>
@@ -1608,42 +1803,15 @@ Cooking Chocolate
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/cocoa-tea/">
-Cocoa Tea
-</a>
-</li>
-
-
-</ul>
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/coffee-online/">
-Buy Coffee Online
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/coffee-online/">
+Coffee
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/fruit-chocolates/">
-Enrobed Fruit &amp; Nuts
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/entertaining-gifts/">
-Party Chocolates
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/gift-cards/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/gift-cards/">
 Gift Cards
 </a>
 </li>
@@ -1651,7 +1819,7 @@ Gift Cards
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/hot-chocolate/">
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/hot-chocolate/">
 Hot Chocolate
 </a>
 </li>
@@ -1659,48 +1827,32 @@ Hot Chocolate
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/small-chocolate-gifts/">
-Lovely Little Things
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/small-chocolate-gifts/">
+Small Chocolate Packs
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/luxury-boxed-chocolates/">
-Luxury Boxed Chocolates
+<a href="https://www.hotelchocolat.com/uk/shop/collections/prices/">
+Price
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/recipes/">
-Recipes
+<a href="https://www.hotelchocolat.com/uk/shop/collections/prices/chocolate-offers/">
+Sale
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/rare-vintage-chocolate/">
-Single Origin Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/sleeksters-h-boxes/">
-Chocolate Boxes: Sleeksters &amp; H-Boxes
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
-The School of Chocolate
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/whats-new/">
+What's New
 </a>
 </li>
 
@@ -1711,7 +1863,7 @@ The School of Chocolate
 
 
 
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/collections/products/wine-chocolate/"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw4e211923/Nav-Ads-2017/Alcohol-Nav-Ad-1-200px.jpg" title=""></a></p></span>
+<span class="img"><a href="https://www.hotelchocolat.com/uk/about-the-velvetiser.html"><img style="width: 200px; height: auto" alt="" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwb3bb5956/Nav-Ads-2017/Velvetiser18-copper-1-350px.jpg" title=""></a><a href="https://www.hotelchocolat.com/uk/about-the-velvetiser.html"><div style="text-align: center; padding: 12px 15px 10px 15px; background-color: #000000;"><p style="color: #ffffff; letter-spacing: 0.125em; font-size: 20px">VELVETISER</p><h4 style="color: #ffffff; letter-spacing: 0.125em;">In-home drinking chocolate system.</h4><br><br><p style="color: #ffffff; letter-spacing: 0.125em;"> <u>FIND OUT MORE</u></p></div></a></span>
 
 </div>
 </li>
@@ -1721,267 +1873,20 @@ The School of Chocolate
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/">
+
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/">
 
 Chocolate Type
 
-<svg class="icon arrow-right">
-
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
-
-</svg>
-</a>
-<div class="sub-level-content" data-margin="1" data-width="900">
-
-
-
-<ul class="third-level-items split-columns">
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/variety/">
-Variety Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/milk/">
-Milk Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/white/">
-White Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">
-Dark Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/100-dark-chocolate/">
-100% Cocoa Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/rare-vintage-chocolate/">
-Single Origin Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/supermilk/">
-Supermilk Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/new%3A-pure-supermilk-chocolate/">
-NEW: Supermilk Pure
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/liqueur/">
-Boozy Chocolate Liqueurs
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/caramel-chocolate/">
-Caramel Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/salted-caramel/">
-Salted Caramel Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/gin/">
-Cocoa Gin
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/coffee/">
-Coffee Chocolate
-</a>
-</li>
-
-
-</ul>
-<ul class="split-columns">
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/chilli/">
-Chilli Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/fruity/">
-Fruity Soft Centred Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/cherry/">
-Cherry Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/orange/">
-Orange Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/raspberry/">
-Raspberry Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/strawberry/">
-Strawberry Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/ginger-chocolate/">
-Ginger Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/marzipan/">
-Marzipan Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/mint/">
-Mint Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/nut/">
-Nut Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/patisserie-chocolate/">
-Patisserie Chocolate Collection
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/cookies/">
-Cookie Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/pralines/">
-Praline Chocolate
-</a>
-</li>
-
-
-
-<li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/truffles/">
-Chocolate Truffles
-</a>
-</li>
-
-
-
-</ul>
-</ul>
-
-
-
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwda3672ca/Nav-Ads-2017/Choc-Type-Nav-Ad-1-200px.jpg" title=""></a></p></span>
-
-</div>
-</li>
-
-
-
-<li class="sub-level-item">
-
-
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/">
-
-Dietary
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
 <div class="sub-level-content" data-margin="2" data-width="900">
 
@@ -1992,32 +1897,96 @@ Dietary
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/vegan-chocolate/">
-Vegan Chocolate
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/liqueur/">
+Boozy Liqueur Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/vegetarian-chocolate/">
-Vegetarian Chocolates
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/caramel-chocolate/">
+Caramel Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/paleo/">
-Paleo Chocolate
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/cherry/">
+Cherry Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/organic-chocolate/">
-Organic Chocolate
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/chilli/">
+Chilli Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/coffee/">
+Coffee Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/cookies/">
+Cookie Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">
+Dark Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/fruity/">
+Fruity Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/ginger-chocolate/">
+Ginger Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/marzipan/">
+Marzipan Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/milk/">
+Milk Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/mint/">
+Mint Chocolate
 </a>
 </li>
 
@@ -2027,40 +1996,104 @@ Organic Chocolate
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/chocolates-without-alcohol/">
-Chocolate without Alcohol
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/nut/">
+Nut Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/chocolate-without-dairy/">
-Chocolate Without Dairy
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/orange/">
+Orange Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/chocolate-without-nuts/">
-Chocolate without Nuts
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/patisserie-chocolate/">
+Patisserie Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/low-sugar/">
-Low Sugar Chocolate
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/pralines/">
+Praline Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/chocolate-without-wheat/">
-Without Wheat
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/raspberry/">
+Raspberry Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/strawberry/">
+Strawberry Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/supermilk/">
+Supermilk Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/salted-caramel/">
+Salted Caramel Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/rare-vintage-chocolate/">
+Single Origin Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/truffles/">
+Chocolate Truffles
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/100-dark-chocolate/">
+100% Cocoa Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/variety/">
+Variety Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/white/">
+White Chocolate
 </a>
 </li>
 
@@ -2071,7 +2104,14 @@ Without Wheat
 
 
 
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/collections/dietary/"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw6a113f7d/Nav-Ads-2017/Dietary-Nav-Ad-1-200px.jpg" title=""></a></p></span>
+<span class="img"><p>
+	<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/">
+		<picture>
+			<source srcset="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwda3672ca/Nav-Ads-2017/Choc-Type-Nav-Ad-1-200px.jpg" media="(min-width: 768px)">
+			<img srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Chocolate Collection" title="Chocolate Collection">
+		</picture>
+	</a>
+</p></span>
 
 </div>
 </li>
@@ -2081,15 +2121,20 @@ Without Wheat
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/">
 
-Price
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/collections/dietary/">
+
+Vegan Etc
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
 <div class="sub-level-content" data-margin="3" data-width="900">
 
@@ -2100,24 +2145,32 @@ Price
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/chocolates-for-less/">
-Less than £10
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/chocolates-without-alcohol/">
+Chocolate without Alcohol
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/gourmet-chocolate/">
-Luxury Low Cost Chocolate- From £10 to £25
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/chocolate-without-nuts/">
+Chocolate without Nuts
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/luxury-chocolate-gifts/">
-Luxury Chocolates Online From £25 to £50
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/free-from-chocolate/">
+Free From Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/low-sugar/">
+Low Sugar Chocolate
 </a>
 </li>
 
@@ -2127,24 +2180,32 @@ Luxury Chocolates Online From £25 to £50
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/luxurious-chocolates/">
-More than £50
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/organic-chocolate/">
+Organic Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/chocolate-offers/">
-Chocolate Sale at Hotel Chocolat
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/paleo/">
+Paleo Chocolate
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/prices/special-offers/">
-Special Offers
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/vegan-chocolate/">
+Vegan Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/vegetarian-chocolate/">
+Vegetarian Chocolates
 </a>
 </li>
 
@@ -2155,7 +2216,8 @@ Special Offers
 
 
 
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/shop/collections/prices/chocolate-offers/"><img alt="Chocolate Offers" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwbd6ec289/Nav-Ads-2017/SALE-200px.jpg" title=""></a></p></span>
+<span class="img"><p><a href="https://www.hotelchocolat.com/uk/shop/collections/dietary/"><picture>
+			<source srcset="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw6a113f7d/Nav-Ads-2017/Dietary-Nav-Ad-1-200px.jpg" media="(min-width: 768px)"> <img srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Dietary" title="Dietary"></picture></a></p></span>
 
 </div>
 </li>
@@ -2165,15 +2227,20 @@ Special Offers
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/whats-new/">
 
-Whats New
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
+
+Gift Experiences
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
 <div class="sub-level-content" data-margin="4" data-width="900">
 
@@ -2184,16 +2251,24 @@ Whats New
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/milk-chocolate-coins.html">
-NEW: Coins
+<a href="https://www.hotelchocolat.com/uk/chocolate-tasting-adventure.html">
+Tasting Adventures
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/coffee-online/">
-NEW: Coffee
+<a href="https://www.hotelchocolat.com/uk/bean-to-bar.html">
+Bean to Bar
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/childrens-chocolate-workshops.html">
+Children's workshop
 </a>
 </li>
 
@@ -2203,16 +2278,24 @@ NEW: Coffee
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/products/beauty-gifts/">
-NEW: Beauty Gifts
+<a href="https://www.hotelchocolat.com/uk/experiences/corporate-tasting-adventure.html">
+Corporate Tasting Events
 </a>
 </li>
 
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/supermilk/">
-NEW: Supermilk Pure
+<a href="https://www.hotelchocolat.com/uk/experiences/london-eye.html">
+London Eye
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/secret-events.html">
+Store Chocolate Lock-ins
 </a>
 </li>
 
@@ -2223,18 +2306,25 @@ NEW: Supermilk Pure
 
 
 
-<span class="img"><p><a href="http://www.hotelchocolat.com/uk/make-a-gift-hamper"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw2f8959f1/Nav-Ads-2017/Gift-Creator-Nav-Ad-3-200px.jpg" title=""></a></p></span>
+<span class="img"><p>
+	<a href="https://www.hotelchocolat.com/uk/shop/collections/products/gift-experiences/">
+		<picture>
+			<source srcset="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dwa5b2f1cd/Nav-Ads-2017/Gift-Experiences-Nav-Ad-200px.gif" media="(min-width: 768px)">
+			<img srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Gift Experiences" title="Gift Experiences">
+		</picture>
+	</a>
+</p></span>
 
 </div>
 </li>
 
 
 
-<br><a href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-box/" class="button top-level-btn">SHOP CHOCOLATE BOXES</a>
-
 
 <div class="nav-banner">
-<style type="text/css">.craigsimg{
+<style type="text/css">
+
+.craigsimg{
      width:100%;
      height: auto;
 }
@@ -2245,7 +2335,7 @@ NEW: Supermilk Pure
      }
 }
 </style>
-<div><a href="http://www.hotelchocolat.com/uk/shop/collections/products/chocolate-box/"><img alt="Chocolate Box" class="craigsimg" height="auto" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw0c5a786e/Nav-Banner-Ads-2017/Gift-Sleeves-Banner-867x140.jpg" title="Chocolate Box"></a></div>
+<div><a href="https://www.hotelchocolat.com/uk/find-a-gift.html"><img style="max-width: 900px;" alt="Find a gift" class="craigsimg" height="auto" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw0828f7fe/Nav-Banner-Ads-2017/GiftFinder18-Banner-dsk-1500px.jpg" title="Find a gift"></a></div>
 </div>
 
 </ul>
@@ -2260,13 +2350,14 @@ NEW: Supermilk Pure
 
 
 
-<a class="has-sub-menu" href="http://www.hotelchocolat.com/uk/shop/tasting-club/">
+<a class="has-sub-menu" href="https://www.hotelchocolat.com/uk/shop/tasting-club/monthly-subscription-boxes/">
 
-Tasting Club
+Subscriptions
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
 </svg>
 </a>
@@ -2281,41 +2372,30 @@ Tasting Club
 <li class="sub-level-item">
 
 
-<a href="http://www.hotelchocolat.com/uk/shop/tasting-club/join/">
-
-Join our Tasting Club
-
-</a>
-<div class="sub-level-content" data-margin="0" data-width="260">
-
-
-</div>
-</li>
 
 
 
-<li class="sub-level-item">
 
-
-<a href="http://www.hotelchocolat.com/uk/tasting-club/gift-subscriptions.html">
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/tasting-club/gift-subscriptions.html">
 
 Gift Subscriptions
 
+
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
-</svg>
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
-<div class="sub-level-content" data-margin="1" data-width="490">
+<div class="sub-level-content" data-margin="0" data-width="720">
 
 
 <ul class="third-level-items ">
 
 
 <li>
-<a href="http://www.hotelchocolat.com/uk/shop/tasting-club/gift-subscriptions/chocolate-subscriptions/">
-Buy a Chocolate Gift Subscription
+<a href="https://www.hotelchocolat.com/uk/tc-egift-card.html">
+The Key To Chocolate Nirvana
 </a>
 </li>
 
@@ -2333,6 +2413,11 @@ Redeem a Chocolate Gift Subscription
 
 
 
+<span class="img"><a href="https://www.hotelchocolat.com/uk/shop/tasting-club/gift-subscriptions/"><picture>
+			<source srcset="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw26eda9d4/Nav-Ads-2017/key-nav.jpg" media="(min-width: 768px)"> <img srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Gift Subscriptions" title="Gift Subscriptions">
+		</picture>
+	</a></span>
+
 </div>
 </li>
 
@@ -2341,22 +2426,393 @@ Redeem a Chocolate Gift Subscription
 <li class="sub-level-item">
 
 
-<a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">
 
-Manage My Club
 
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/shop/tasting-club/monthly-subscription-boxes/">
+
+Subscriptions For Me
+
+
+<svg class="icon arrow-right">
+
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
 </a>
-<div class="sub-level-content" data-margin="2" data-width="490">
+<div class="sub-level-content" data-margin="1" data-width="720">
 
 
-<span class="img"><a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions"><img alt="Manage Your Chocolate Subscriptions" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw18ab1325/Nav-Ads-2017/manage-chocolate-subscription-1-200x145.jpg" title="Manage Your Club"></a></span>
+<ul class="third-level-items ">
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/tasting-club/monthly-subscription-boxes/">
+Monthly Tasting Club
+</a>
+</li>
+
+
+
+</ul>
+
+
+
+<span class="img"><p><a href="https://www.hotelchocolat.com/uk/shop/tasting-club/monthly-subscription-boxes/"><img alt="" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw9f7309f0/Nav-Ads-2017/Chocolate-Subscriptions-How-It-Works-1-200x145.jpg" title=""></a></p></span>
 
 </div>
 </li>
 
 
 
-<a href="http://www.hotelchocolat.com/uk/classic-regular-box.html" class="button top-level-btn">LEARN MORE</a>
+<li class="sub-level-item">
+
+
+
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">
+
+Manage My Subscriptions
+
+
+<svg class="icon arrow-right">
+
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
+</a>
+<div class="sub-level-content" data-margin="2" data-width="720">
+
+
+<ul class="third-level-items ">
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">
+Add to my subscription
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">
+Change Frequency
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">
+Score Chocolates
+</a>
+</li>
+
+
+
+</ul>
+
+
+
+<span class="img"><a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions"><img alt="Manage Your Chocolate Subscriptions" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-hotelchocolat-storefront-uk/default/dw18ab1325/Nav-Ads-2017/manage-chocolate-subscription-1-200x145.jpg" title="Manage Your Club"></a></span>
+
+</div>
+</li>
+
+
+
+
+</ul>
+
+
+</li>
+
+
+
+<li class="top-level">
+
+
+
+
+<a class="has-sub-menu" href="https://www.hotelchocolat.com/uk/chocolate-shops">
+
+Locations
+
+
+<svg class="icon arrow-right">
+
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+
+</svg>
+</a>
+
+
+
+
+
+<ul class="sub-level">
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/chocolate-shops">
+
+Stores
+
+</a>
+<div class="sub-level-content" data-margin="0" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/cocoa-bar-cafes.html">
+
+Cafés
+
+</a>
+<div class="sub-level-content" data-margin="1" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/hotel-restaurants.html">
+
+Hotel, Restaurant &amp; Estate
+
+</a>
+<div class="sub-level-content" data-margin="2" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/the-hotel-chocolat-chocmobile.html">
+
+Our ChocMobile
+
+</a>
+<div class="sub-level-content" data-margin="3" data-width="260">
+
+
+</div>
+</li>
+
+
+
+
+</ul>
+
+
+</li>
+
+
+
+<li class="top-level">
+
+
+
+
+<a class="has-sub-menu" href="https://www.hotelchocolat.com/uk/shop/fathers-day/">
+
+Father's Day
+
+
+<svg class="icon arrow-right">
+
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+
+</svg>
+</a>
+
+
+
+
+
+<ul class="sub-level">
+
+
+<li class="sub-level-item">
+
+
+
+
+
+
+<a class="has-sub-menu-level-2" href="https://www.hotelchocolat.com/uk/fathers-day-gift-guide.html">
+
+Gift Guide
+
+
+<svg class="icon arrow-right">
+
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+
+</svg><span class="fa fa-plus"></span><span class="fa fa-minus"></span>
+</a>
+<div class="sub-level-content" data-margin="0" data-width="490">
+
+
+<ul class="third-level-items ">
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/beer/">
+Cocoa Beer
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-mood-and-interests/for-the-connoisseur/">
+The Chocolate Connoisseur
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/chilli/">
+Chilli Chocolate
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/products/luxury-chocolate/">
+Chocolate Slabs
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/fathers-day/chocolates-for-dad/">
+Chocolates for Dad
+</a>
+</li>
+
+
+
+<li>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/liqueur/">
+Boozy Chocolate
+</a>
+</li>
+
+
+
+</ul>
+
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/shop/fathers-day/fathers-day-chocolate/">
+
+Father's Day Chocolate
+
+</a>
+<div class="sub-level-content" data-margin="1" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/shop/fathers-day/fathers-day-hampers/">
+
+Father's Day Hampers
+
+</a>
+<div class="sub-level-content" data-margin="2" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/shop/fathers-day/fathers-day-subscriptions/">
+
+Chocolate Subscriptions
+
+</a>
+<div class="sub-level-content" data-margin="3" data-width="260">
+
+
+</div>
+</li>
+
+
+
+<li class="sub-level-item">
+
+
+
+
+<a class="" href="https://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">
+
+Experiences for Dad
+
+</a>
+<div class="sub-level-content" data-margin="4" data-width="260">
+
+
+</div>
+</li>
+
+
 
 
 </ul>
@@ -2371,13 +2827,14 @@ Manage My Club
 <li class="top-level">
 
 
-<a class="" href="http://www.hotelchocolat.com/uk/cocoa-bar-cafes.html">
+<a class="" href="https://www.hotelchocolat.com/uk/shop/summer/">
 
-Cafes
+Summer Gifts
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
 </svg>
 </a>
@@ -2394,13 +2851,14 @@ Cafes
 <li class="top-level">
 
 
-<a class="" href="http://www.hotelchocolat.com/uk/hotel-restaurants.html">
+<a class="" href="https://www.hotelchocolat.com/uk/shop/gift-ideas/shop-by-occasion/best-chocolate/">
 
-Hotel &amp; Restaurants
+BEST SELLERS
+
 
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
 </svg>
 </a>
@@ -2425,12 +2883,68 @@ Hotel &amp; Restaurants
 
 
 
+
 <div class="relax">&nbsp;</div>
 </div>
 <div class="relax">&nbsp;</div>
 </nav>
+
 <div id="header-promo-banner">
 <div class="hlp-centered-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2497,14 +3011,15 @@ Hotel &amp; Restaurants
 
 
 
-<div class="header-message" style="letter-spacing:1px;"><a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">
+
+
+<div class="header-message" style="letter-spacing:1px;"><a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">
 DARK CHOCOLATE</a>
 </div>
 
-<div class="header-message" style="text-align: center; letter-spacing: 0.1em; color: #bc0031;"><a href="http://www.hotelchocolat.com/uk/chocolate-shops">UK Click &amp; Collect Available</a></div>
+<div class="header-message" style="text-align: center; letter-spacing: 0.1em; color: #bc0031;"><a href="https://www.hotelchocolat.com/uk/chocolate-shops">UK Click &amp; Collect Available</a></div>
 
-<div class="header-message" style="letter-spacing: 1px;"><a href="http://www.hotelchocolat.com/uk/help/our-guarantee.html">
-Our Happiness Guarantee</a>
+<div class="header-message" style="letter-spacing: 1px;"><a href="https://www.hotelchocolat.com/uk/help/delivery.html">Delivery Options</a>
 </div>
 
  
@@ -2512,12 +3027,152 @@ Our Happiness Guarantee</a>
 
 </div>
 </div>
-<div id="header-gift-guru">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header-tls-msg" style="display: none;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="69bdc7215972786895e68468dc" -->
+Sorry, it appears you are using a browser that is no longer supported by Hotel Chocolat. Please upgrade your browser to a newer version to continue a secure shopping experience.
+</div> <!-- End content-asset -->
+
 
 
 
 
 </div>
+
+
+<div id="header-gift-guru">
+	
+</div>
+
+
+
 
 
 <div class="hlp-centered-wrapper">
@@ -2585,10 +3240,64 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="full-width-container">
 <div class="breadcrumb">
 <div class="primary-content">
-<a class="breadcrumb-element" title="Hotel Chocolat" href="http://www.hotelchocolat.com/uk">Home</a>
+
+<a class="breadcrumb-element" title="Hotel Chocolat" href="https://www.hotelchocolat.com/uk">Home</a>
 
 
 </div>
@@ -2596,6 +3305,11 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 </div>
 <div id="main" role="main" class="full-width clearfix">
 <div id="primary" class="primary-content">
+
+
+
+
+
 
 
 
@@ -2669,6 +3383,59 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="secondary_content_nav">
 	<ul>
 		
@@ -2676,6 +3443,59 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 		
 		
 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2815,16 +3635,6 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 		 		
 		 			<li>
 		 				
-				 			<a href="/uk/about/engaged-ethics.html">
-	 							Engaged Ethics
-							</a>
-		 				
-	 				</li>
-		 		
-		 	
-		 		
-		 			<li>
-		 				
 				 			<a href="/uk/help/corporate-responsibility.html">
 	 							Corporate Responsibility
 							</a>
@@ -2867,7 +3677,7 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 		 		
 		 			<li>
 		 				
-		 					<a href="http://www.hotelchocolat.com/uk/help/sitemap">
+		 					<a href="https://www.hotelchocolat.com/uk/help/sitemap">
 		 						Site Map
 		 					</a>
 		 				
@@ -2884,110 +3694,522 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 	 				</li>
 		 		
 		 	
+		 		
+		 			<li>
+		 				
+				 			<a href="/uk/velvetiser-faq.html">
+	 							Velvetiser FAQs
+							</a>
+		 				
+	 				</li>
+		 		
+		 	
+		 		
+		 			<li>
+		 				
+				 			<a href="/uk/about-rewards.html">
+	 							About VIPMe
+							</a>
+		 				
+	 				</li>
+		 		
+		 	
+		 		
+		 			<li>
+		 				
+				 			<a href="/uk/gift-by-text-faq.html">
+	 							WHOOSH INSTANT GIFTS FAQs
+							</a>
+		 				
+	 				</li>
+		 		
+		 	
 		 
 	</ul>
 </div>
 
 <div class="content-container col-2">
-<div class="content-sample-placeholder" style="background-color:#ffffff; overflow: hidden; max-width: auto; height: auto;"><img alt="" src="http://www.hotelchocolat.com/on/demandware.static/-/Sites-HotelChocolat-Library/default/dw9019aa5c/HC/2017/Brand/1260px Images/Hotel-Chocolat-Franchising-1-1260x600.jpg" style="max-width: 100%; object-fit: contain;" title="Hotel Chocolat"></div>
+<style type="text/css">
+
+.craigsmaincontainer{
+	width:100%;
+	min-width:300px;
+	max-width:1260px;
+	margin:0 auto;
+	border: 0;
+}
+
+.craigsrow{
+	width:100%;
+	min-height:1px;
+	float:left;
+}
+
+.craigsimg { 
+    width: 100%;
+    height: auto;
+    display:block;
+}
+
+.craigs-visible-mobile {
+  display: none !important;
+}
+
+@media (max-width: 600px){
+	.craigscol{
+		width:100% !important;
+		margin: 5px 0px 5px 0px;
+	}
+	  .craigs-visible-mobile {
+    display: inline !important;
+  }
+
+  .craigs-hidden-mobile {
+    display: none !important;
+  }
+}
+
+.toggleContent.show {
+    display: block;
+    border: none;
+    box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid black;
+padding: 10px;
+}
+
+td {
+width: 50%
+}
+
+</style>
+
+<div class="craigsmaincontainer">
+
+<div class="content-sample-placeholder" style="background-color:#ffffff; overflow: hidden; max-width: auto; height: auto;"><img alt="" src="https://www.hotelchocolat.com/on/demandware.static/-/Sites-HotelChocolat-Library/default/dw9019aa5c/HC/2017/Brand/1260px Images/Hotel-Chocolat-Franchising-1-1260x600.jpg" style="max-width: 100%; object-fit: contain;" title="Hotel Chocolat"></div>
+<p>&nbsp;</p>
+<p><strong>At Hotel Chocolat we are committed to keeping your personal data safe and secure. </strong></p>
+<p>&nbsp;</p>
+
+<p>If you have any questions about our Privacy Policy please email DSARRequests@hotelchocolat.com</p>
+<p>&nbsp;</p>
+
+<p>Our Privacy Policy gives you detailed information on when and why we collect your personal information, how we intend to use it and how we keep it secure. This Policy also sets out your right in relation to your personal information. This Policy works in conjunction with our terms and conditions and only applies to the personal information that we obtain, not information that may be collected from your interactions with third parties.</p>
+<p>&nbsp;</p>
+
+<p>Any changes we make to our Policy in the future will be posted on this page and, where appropriate,      notified to you on the website or by e-mail. It was last updated on 18th May 2018.</p>
+<p>&nbsp;</p>
+
+<p>This Policy relates to the Hotel Chocolat Group, incorporating the Chocolate Tasting Club, Boucan Hotel and Rabot 1745.  This Policy is issued on behalf of the Hotel Chocolat Group so when we         mention “Hotel Chocolat”, “we”, “us”, or “our” in this Policy we are referring to the relevant                company in the Hotel Chocolat Group that is responsible for processing your information.            References to "you" and "your" are references to customer or potential customers and users of our    website.</p>
+<p>&nbsp;</p>
+
+<p>Hotel Chocolat Group PLC, a public limited company incorporated in England and Wales with            company number 08612206 and registered office at Mint House, Newark Close, Royston, Hertfordshire, SG8 5HL the controller and responsible for this website. We will let you know which entity will be the controller for your data for the purpose of Data Protection Legislation (as defined below) when you purchase a product or service with us.</p>
+<p>&nbsp;</p>
+<p>In this Policy the term "Data Protection Legislation" means the EU General Data Protection              Regulation 2016/679 and the Privacy and Electronic Communications (EC Directive) Regulations 2003         as may be amended or replaced; together with all other applicable legislation in force from time to             time relating to privacy or data protection.</p>
+<p>&nbsp;</p>
+
+<p><strong>1) How we collect your personal information</strong></p>
+<p>&nbsp;</p>
+<p>We collect your information at the point you decide to interact with us. This could include purchasing online, signing up for our email newsletter, over the telephone, or in person when you sign up in our stores to receive information from Hotel Chocolat. </p>
 
 <p>&nbsp;</p>
 
-<p>Hotel Chocolat is committed to ensuring that your privacy is protected and that we fully comply at all times with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 and all other applicable legislation.</p>
+
+
+<div class="toggle-information">
+<h4 class="toggle-title">Read More</h4>
+<div class="toggleContent">
+<!-- dwMarker="slot" dwContentID="tab-a" dwContext="global"-->
+
+<div>We collect your data when:
+<ul>
+<li>When you register for an account or use hotelchocolat.com</li>
+<li>When you sign up for information in our stores</li>
+<li>When you register for our loyalty scheme</li>
+<li>When you contact Hotel Chocolat by telephone or email</li>
+<li>When you book a place at one of our events</li>
+<li>When you book a table at our restaurant, Rabot 1745</li>
+<li>When you book an experience or holiday at our Hotel, Boucan</li>
+<li>When you enter a prize draw or competition run by Hotel Chocolat</li>
+<li>When you complete a survey from Hotel Chocolat or give us feedback</li>
+<li>When completing any forms for transactional, employment or other purposes</li>
+<li>When you visit our website</li>
+
+</ul>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>2) The Data we collect</strong></p>
+<p>&nbsp;</p>
+<p>We are committed to only collecting information about you that is necessary to carry out our business, provide the particular products or services you’ve requested and to keep you up to date about all the latest news from Hotel Chocolat.</p>
+<p>&nbsp;</p>
+<p>It’s your choice if you want to give us your personal information. However, if you decide not to, you may not be able to buy from our website, and you may not receive the optimal customer experience.</p>              
+<p>&nbsp;</p>
+<div class="toggle-information">
+<h4 class="toggle-title">Read More</h4>
+<div class="toggleContent">
+<!-- dwMarker="slot" dwContentID="tab-b" dwContext="global"-->
+
+<div>We collect:
+<ul>
+<li>Title</li>
+<li>Name, Surname</li>
+<li>Email address</li>
+<li>Date of Birth</li>
+<li>Contact phone number</li>
+<li>Purchase and transaction history and information (including details about payments to and from you and other details of products and services you have purchased from us)</li>
+<li>Interactions with Hotel Chocolat through our call center</li>
+<li>Payment details (i.e.your bank name, account number and sort code, and your card’s security/CVV code.  Don’t worry,we don’t keep these)</li>
+<li>Delivery address(s)</li>
+<li>Billing address</li>
+<li>Preferred store</li>
+<li>Attendance at events or at our restaurant</li>
+<li>Bookings at our hotel</li>
+<li>Orders placed for our Corporate Service</li>
+<li>Social media information (i.e. Information collected if you choose to link your social media accounts with us).</li>
+<li>Automatically populated IP address*</li>
+<li>Information from cookies**</li>
+<li>Information about your phone or laptop (including your device type and, if you choose to share it with us, your location data) as well as how you use our website and app</li>
+</ul>
+<p>&nbsp;</p>
+<p>*When you visit <a href="https://www.hotelchocolat.com/uk">www.hotelchocolat.com</a> the Hotel Chocolat web server may automatically record your public internet protocol (IP) address used to connect your computer to the Internet.</p>
+<p>&nbsp;</p>
+<p>** Like most websites, we also use cookies to help make the experience of using our website better and to personalise the service you receive from us. For more information please see our <a href="https://www.hotelchocolat.com/uk/help/cookies-policy.html">Cookie Policy</a></p>
+</div>
+
+</div>
+</div>
+
+<p>&nbsp;</p>
+<div class="craigsrow"><p><strong>3) How we use your Data and why</strong></p>
+<p>&nbsp;</p>
+<p>We like to get to know our customers and provide them with the best possible experience. We use information we collect about you in a number of ways, including to provide the products and                 services that you have requested, offering you a personalized experience and informing you about our special events and exciting news, so that we can offer the best possible experience. We will also       contact you to give you assurance that your delivery is on its way or if we have a query about your delivery.</p>
+<p>&nbsp;</p>
+<p>We are permitted by Data Protection Legislation to process your personal data in the way that we do because the processing is necessary:</p>
+<p>&nbsp;</p>
+<ul>
+<li>for the performance of our contract to provide you with products or services you have purchased or in order to take steps at your request prior to you entering into that contract;</li>
+<li>in order to comply with a legal obligation to which we are subject; or</li>
+<li>for the purposes of the legitimate interests that we pursue; which are (i) to give you the best service/products; (ii) to optimise your customer experience and provide you with a safe, smooth, efficient, and customised experience; (iii) to run and administer our business; (iv) to discharge our legal obligations; (v) to prevent and detect fraud; and (vi) to evaluate, develop and improve our products and services.</li></ul>
+<p>&nbsp;</p>
+<p>We will make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).</p>
+<p>&nbsp;</p>
+<p>Your data is also anonymised and then used to optimise Hotel Chocolat systems and procedures.</p>
+<p>&nbsp;</p>
+<p>We have set out in more detail below the specific purposes for using your information and the legal basis we are relying on to process your information.</p>
+
 
 <p>&nbsp;</p>
 
-<p><strong>1. The information we collect and how we use it</strong></p>
+<div class="toggle-information">
+<h4 class="toggle-title">Read More</h4>
+<div class="toggleContent">
+<!-- dwMarker="slot" dwContentID="tab-a" dwContext="global"-->
 
-<p>When you order or enquire about our products we need to know your name, address, email address, and, if ordering, your credit card number and expiry date. If you have ordered products for a third party we will need to know their delivery address. We gather this information to allow us to process your registration and process any orders you may make. The relevant information is then used by us, our agents and sub-contractors to organise delivery, provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of our service.</p>
-
-<p>We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual. From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the products and services we provide. We or our agents and sub-contractors may contact you by mail, email or telephone to ask you for your feedback and comments on our products and services.</p>
-
-<p>We and our group companies may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you but we will not do so without your expressed consent. If you would rather not receive this information, please manage your communications in your account. You can also unsubscribe from our contact list at any time by replying to a marketing email with the word "unsubscribe" in the subject line, by emailing us or by calling us on (+44) 3444 93 23 23.</p>
-
-<p>We may also want to provide you with related information from third parties we think may be of interest to you but we will not do so without your expressed consent. If you would rather not receive this information, please login to your account and change your preferences. We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please login to your account and change your preferences in your account.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>2. Our use of cookies and other information gathering technologies</strong></p>
-
-<p>A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our services to you. The information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit&nbsp;<a href="http://www.allaboutcookies.org/" target="_blank">www.allaboutcookies.org</a>.</p>
-
-<p>Some of these cookies are essential for you to use hotelchocolat.com.</p>
-
-<p>To order products on our website you will need to have cookies enabled. If you don't want to enable cookies you can still enjoy browsing our website for that gorgeous gift or self-indulgent treat, you'll just have to visit one of our stores in order to purchase.</p>
-
-<p>Three types of cookies may be used during your visit to hotelchocolat.com.</p>
-
-<p>·&nbsp;Hotel Chocolat session cookies that are deleted after each visit</p>
-
-<p>·&nbsp;Hotel Chocolat persistent cookies are not deleted after each visit</p>
-
-<p>·&nbsp;Third party cookies that are used by our partners, for example, to help us measure the visitors</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>3. How we protect your information</strong></p>
-
-<p>Security is a major issue for anyone purchasing on the internet. You need to know that a website is legitimate, and transactions are secure before you buy. To address these issues, the Hotel Chocolat website uses a Digital Certificate from Comodo. Our secure server software uses the digital certificate to encrypt your credit card number. The encryption process takes the characters you enter and converts them into bits of code which are then securely transmitted over the internet. We also keep your information confidential. The internal procedures of Hotel Chocolat cover the storage, access and disclosure of your information.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>4. Sale of business</strong></p>
-
-<p>If this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>5. Updating your details</strong></p>
-
-<p>If any of the information that you have provided to us changes, for example if you change your email address or name, please login to your account. If you wish to cancel your registration, please send an email to us, or by sending a letter to Hotel Chocolat Ltd, Mint House, Royston, Hertfordshire, SG8 5HL, England.</p>
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use your name &amp; contact details</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To deliver purchases to you</td>
+    <td>We want to ensure we can send your delivery to you.  It's part of our contract with you.</td> 
+    
+  </tr>
+  <tr>
+    <td>To send you services messages by text, e-mail, such as order updates about your latest delivery.</td>
+    <td>This is part of our contract with you (so we can tell you when your order is coming).</td> 
+    </tr>
+ <tr>
+    <td>To allow third party providers to update you about your delivery</td>
+    <td>This is part of our contract with you (so we can tell you when your order is coming).</td> 
+    </tr>
+<tr>
+    <td>To allow our third party providers to send you emails to review your order and let us know if you are happy with the service we’ve provided.</td>
+    <td>This allows us to monitor the quality of our products and service to optimise your customer experience and develop new products.</td> 
+    </tr>
+<tr>
+    <td>To send you marketing and communication information by email, SMS, or post, about our new products and services; or sending you catalogue and direct mail in the post with our latest products and news.  If you’ve placed an order on our   website, in our call center, or booked at table at our restaurant, stayed in our hotel or been to one of our events, we want to make sure you keep up to date, so we’ll send you email newsletter and the occasional SMS messages.</td>
+    <td>We have a legitimate interest in keeping you up to date. and letting you know about products or services that you may like. If at any time you decide you don’t want to receive this information by one or all communication methods, you can opt out here Link to un-subscribe (see Section 6 below).
+</td> 
+    </tr>
+<tr>
+    <td>For fraud prevention and detection.</td>
+    <td>To prevent and detect fraud against either you or Hotel Chocolat  – unfortunate, but absolutely essential.
+</td> 
+    </tr>
+<tr>
+    <td>To show you Hotel Chocolat adverts as you browse the web.</td>
+    <td>We want you to be able to see our latest products and deals.</td> 
+    </tr>
+<tr>
+    <td>To find out what you, and other customers, like.</td>
+    <td>To ensure we are giving you the products you want and to ensure we keep innovating.</td> 
+    </tr>
+</tbody></table>
+</div>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><strong>6. Your consent</strong></p>
-
-<p>By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also email you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>7. How to contact Hotel Chocolat</strong></p>
-
-<p>We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments please contact us.</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>8. Changes to this Policy</strong></p>
-
-<p>We reserve the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the website and you are deemed to have accepted the terms of the Policy on your first use of the website following the alterations.</p>
-
-<p>&nbsp;</p>
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use your payment and transaction information</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To take payment, and give refunds.</td>
+    <td>We’ve got to do this to perform our contract with you.</td> 
+    
+  </tr>
+  <tr>
+    <td>To provide the products that you order to you.</td>
+    <td>We’ve  got  to  do  this  to  fulfil  our  contract with you.</td> 
+    </tr>
+ <tr>
+    <td>For fraud prevention and detection.</td>
+    <td>To prevent and detect fraud against either you or Hotel Chocolat.</td> 
+    </tr>
+</tbody></table>
+</div>
 
 <p>&nbsp;</p>
 
-<p><strong>9. Marketing Permissions</strong></p>
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use your contact history</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To provide customer service and support.</td>
+    <td>We’ve got to do this to perform our contract with you .After all, we’re committed to 100% Happiness for all our customers.</td> 
+    
+  </tr>
+  <tr>
+    <td>To train our staff.</td>
+    <td>So that, when you contact us, you get the best possible customer service.</td> 
+    </tr>
+</tbody></table>
+</div>
 
-<p>Hotel Chocolat will send you from time to time catalogues, special offers and promotions by post, email, text message and telephone but we will not do so without your express consent. If you do not wish to receive any further email, text or telephone calls from us please login to your account and change your preferences in your account. If you do not wish to receive any further posted mailings from us, please email: <a href="mailto:customerservice@hotelchocolat.com">customerservice@hotelchocolat.com</a>. Please ensure you include your full name and address as well as account number if applicable. If you have opted in to receiving offers in the post from companies who we think may interest you, but have now changed your mind, please login to your account and change your preferences in your account. Please ensure you include your full name and address as well as account number, if applicable. As catalogues are printed in advance, so it may take up to 8 weeks for the process to be complete, for emails it may take up to 4 weeks.</p>
+<p>&nbsp;</p>
+
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use your purchase history and saved items</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To sell you our products.</td>
+    <td>If you can’t put products in your basket, we can’t sell it to you!</td> 
+  </tr>
+  <tr>
+    <td>To send you a reminder of what products you’ve left in your basket but not yet bought.</td>
+    <td>We want to ensure you have the best customer experience and don’t want you to miss out on purchasing our products!</td> 
+    </tr>
+<tr>
+    <td>To provide customer service and support, and handle returns.</td>
+    <td>We’ve got to do this to perform our contract with you.</td> 
+    </tr>
+<tr>
+    <td>Finding out what you, and other customers, like.</td>
+    <td>To ensure we are giving you what you want, and to stay ahead of the competition. It also helps us to make suggestions and recommendations to you about products or services that may be of interest to you.</td> 
+    </tr>
+<tr>
+    <td>To give you loyalty points.</td>
+    <td>If you’ve signed up to our loyalty scheme we want to make sure we can send you offers and communications that relate to the products you’ve bought.</td> 
+    </tr>
+</tbody></table>
+</div>
+
+<p>&nbsp;</p>
+
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use information about your phone or laptop, and how you use our website and app</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To improve our website and set default options for you</td>
+    <td>To give you the best possible experience.</td> 
+  </tr>
+  <tr>
+    <td>To protect our website</td>
+    <td>To prevent and detect fraud against either you or Hotel Chocolat – unfortunate, but absolutely essential — and to meet our legal obligations about looking after your data.
+</td> 
+    </tr>
+<tr>
+    <td>To look at how our customers use our website.</td>
+    <td>To ensure that the content on our website is presented in the most effective manner for you.</td> 
+    </tr>
+</tbody></table>
+</div>
+
+<p>&nbsp;</p>
+
+<div style="overflow-x:auto;">
+<table>
+  <tbody><tr>
+    <th>How we use your responses to surveys, competitions and promotions</th>
+    <th>Why?</th> 
+  </tr>
+  <tr>
+    <td>To run the survey, competition or promotion.</td>
+    <td>We want you to have a chance of winning. If we can’t use your entry, you’ve no chance of winning.</td> 
+  </tr>
+  <tr>
+    <td>To review and rate products you’ve reviewed.</td>
+    <td>We’ll listen to what you’ve told us in your review and use it to improve our services and products.</td> 
+    </tr>
+</tbody></table>
+</div>
+
+
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>4) Sharing Your Information</strong></p>
+<p>&nbsp;</p>
+<p>Except as expressly set out in this Policy we will not sell, personal information to third parties, we  will not sell any of your personal data to a third party unless we have your permission or are required by law to do so.</p>
+<p>&nbsp;</p>
+<p>However we may share your data with some companies as an essential part of being able to provide our products and services to you.</p>
+<p>&nbsp;</p>
+
+<div class="toggle-information">
+<h4 class="toggle-title">Read More</h4>
+<div class="toggleContent">
+<!-- dwMarker="slot" dwContentID="tab-a" dwContext="global"-->
+<p>The following categories of recipients may receive your personal information and process it for the purposes outlined in this Policy:</p>
+<ul>
+<li>Other companies in the Hotel Chocolat Group.</li>
+<li>Companies that are linked to when you make a purchase with us, like our payment service providers, delivery companies, credit reference agencies and third  party  call  centres who provide IT and system administration services or       other assistance to help us fulfil our orders.</li>
+<li>Third parties we have engaged to help use collect information from you to rate our products and develop new products.  The third party we use is called Bazarvoice.</li>
+<li>Information updates - From time to time we may screen our database against recognised data files such as National Change of Address file, so that we keep our database up to date.</li>
+<li>Professional service providers, such as marketing agencies, advertising and website hosting businesses that help us to run our business.</li>
+<li>Credit reference agencies, law enforcement and fraud prevention agencies, so that we can help tackle fraud.</li>
+<li>Other business entities if we plan to merge with or be acquired by that business entity, or if we undergo a re-organisation with that entity; or if they become a     successor in interest, in the event of a liquidation or administration of the Hotel   Chocolat Group.</li>
+<li>Social media companies that you’ve signed up with. Depending on your settings or the privacy Policy for social media and messaging services, like Facebook, Instagram or Twitter, you may have given us permission to access information from those account or services. To change this you need to update your settings on the social media platform. The data we provide is always aggregated and anonymised so it will not identify you. Note that when your personal information is completely anonymized the information will no longer constitute personal information that is regulated under Data Protection Legislation.</li>
+</ul></div>
+</div>
+
+<p>&nbsp;</p>
+<p><strong>5) Will We Transfer Your Information Overseas?</strong></p>            
+<p>&nbsp;</p>                                                                     
+<p>The information that we collect from you may be transferred to, and stored at a destination outside             the European Economic Area ("EEA").It may also be processed by staff operating outside the EEA                who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the       fulfilment of your order, the processing of your payment details and the provision of support               services.</p>
+<p>&nbsp;</p>
+<p>When we, or our permitted third parties, transfer your information outside the EEA, we or they will impose obligations on the recipients of that data to protect your information to the standard required in the EEA or otherwise require the recipient to subscribe to international frameworks intended to enable secure data sharing.  In the case of transfers by us, we will put in place appropriate safeguards to ensure that your information remains adequately protected. If you would like more details about the safe guards that we rely on, please contact us DSARRequests@hotelchocolat.com</p>
+
+<p>&nbsp;</p>
+<p><strong>6) Marketing Messages and How To Un-Subscribe</strong></p><p>&nbsp;</p>
+<p>We like to get to know our customers and provide them with the best possible experience. We may use your information to form a view on the products or services we think you would like, or that may be of interest to you.</p>
+ <p>&nbsp;</p>
+<p>You will receive marketing messages from us if you have requested information from us or purchased products or services from us and, in each case, you have not opted out of receiving that    marketing. We may also market to you if we have received your express consent to do so including  where we have collected your details in connection with a competition or other promotion and you have agreed to receive marketing from us. More details about the types of marketing     communications we might send you are included in Section 3 above.</p>
+<p>&nbsp;</p>
+<p>You can stop receiving marketing messages from us at any time. Once you do this, we will update profile to ensure that you don’t receive further marketing messages. Note that stopping marketing messages will not prevent us from sending you service communications; so you will still receive order updates and delivery information.</p>
+<p>&nbsp;</p>
+<p>You can unsubscribe in a number of ways.</p>
+<ul>
+<li>If you do not wish to receive any further posted mailings from us, please email: <a href="mailto:help@hotelchocolat.com">help@hotelchocolat.com</a>. Please ensure you include your full name and address as well as account number if applicable. As catalogues are printed in advance, it may take up to 8 weeks for the process to be complete, for emails it may take up to 4 weeks.</li>
+<li>You can un-subscribe from email and SMS messages, including our newsletters and alerts, at any time by clicking the un-subscribe link that comes within every communication we have sent to you.  Or, you can log in to your account and update your preferences in the <a href="https://www.hotelchocolat.com/uk/my-account">My Account</a> Section of our website.</li>
+<li>If you have opted in on our website to receive offers in the post from companies who we think may be of interest to you, but have now changed your mind, please login to the <a href="https://www.hotelchocolat.com/uk/my-account">My Account</a> Section of our website and change your preferences.</li>
+ 
+<li>Alternatively, just emai help@hotelchocolat.com	with "UNSUBSCRIBE REQUEST" in the subject line and the email address that you wish to be removed within the email. We will action any unsubscribe request from you as promptly as possible.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>7) Hotel Chocolat adverts online</strong></p>
+<p>&nbsp;</p>
+<p>Like most companies selling products and services online, we engage in online advertising that appears on third party websites    to keep you aware of what we’re        up to  and  to  help  you  see and find our products and access our services.  We target Hotel Chocolat    banners and ads to you when you are on other websites and aps. We do this using a variety of digital marketing networks and a variety of advertising technologies like pixels, ad tags, cookies and mobile identifiers, as well as specific services offered by some sites and social networks, such as Facebook Custom Audience Service.</p>
+<p>&nbsp;</p>
+<p>The banners and ads you see will be based on information we hold about you, from what you’ve bought in the past or browsed on our website.</p>
+<p>&nbsp;</p>
+<p>We would always encourage you to become familiar with the privacy policy of the other websites as our Policy applies solely to the personal information collected by us through our service and does not apply to these third party websites.</p>
+<p>&nbsp;</p>
+<p><strong>8) Keeping your information</strong></p>
+<p>&nbsp;</p>
+<p>We’ll hold on to your information in line with our customer retention policy. We only retain information for as long as it is required for the purposes set out above or as may be required to comply with a legal or regulatory obligation to                  which we are subject.   If it is reasonably necessary or required to resolve a dispute, prevent fraud and abuse, or enforce our terms and conditions, we may keep hold of some of your information, even after it is no longer needed to provide products or services to you.</p>
+<p>&nbsp;</p>
+<p><strong>9) Data security</strong></p> 
+<p>&nbsp;</p>                                                                                                                    
+<p>We are committed to keeping your information safe and we take your online security seriously. We have  put  in  place  appropriate  security  measures  to  prevent  your  personal  data  from  being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.</p>
+<p>&nbsp;</p>
+<p>We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.</p><p>
+</p><p>&nbsp;</p>
+<p>Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your personal information transmitted to us or provided though the website and any transmission is at your own risk.</p><p>
+</p><p>&nbsp;</p>
+<p><strong>10) Your legal rights</strong></p>
+<p>&nbsp;</p>
+<p>You have a lot of rights relating to your personal information: And it is important to us that you understand what these rights are and how you can exercise them.</p>
+<p>&nbsp;</p>
+
+<div class="toggle-information">
+<h4 class="toggle-title">Read More</h4>
+<div class="toggleContent">
+<!-- dwMarker="slot" dwContentID="tab-a" dwContext="global"-->
+<ul>
+<li>The right to be informed about how your personal information is being used (like the information contained in this Policy!)</li>
+
+<li>The right to access the personal information we hold about you.</li>
+
+<li>The right to request the correction of inaccurate personal information we hold about you.  This enables you to have any incomplete or inaccurate data we hold     about you corrected, though we may need to verify the accuracy of the new data          you provide to us. You can update your information in the My Account Section of the website or email us at DSARRequests@hotelchocolat.com</li>
+<li>The right to request that we delete your data, or stop processing it or collecting it, where there is no good reason for us continuing to process it or where we may have processed your information      unlawfully or we are otherwise required to erase your personal data to comply           with local law. Note, however, that we may not always be able to comply with              your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.</li>
+
+<li>The right to ask us to stop or start sending you direct marketing messages, which for electronic communications you can do through via the My Account Section of our	website,	or	for	postal	mailings	please email: help@hotelchocolat.com. Please ensure you include your full name and address as well as account number if applicable... See Section 6 for more information about your right to   un-subscribe from receiving marketing communications.</li>
+
+<li>The right to withdraw consent to our processing of your personal data (to the           extent we are relying on consent to process your personal data). If you withdraw        your consent, we may not be able to provide certain products or services to you.</li>
+
+<li>The right to request that we transfer or port elements of your data either to you or another service provider in certain circumstances.</li>
+
+<li>The right to complain to your data protection regulator — in the UK, the Information Commissioner’s Office regulates and supervises the use of personal data-via their helpline on 03031231113.</li>
+
+
+
+</ul></div>
+</div>
+<p>&nbsp;</p>
+<p>If you want to exercise your rights, have a complaint, or just have questions, please contact us:</p>
+<p>&nbsp;</p>
+<p>Email:  <a href="mailto:DSARRequests@hotelchocolat.com">DSARRequests@hotelchocolat.com</a></p>
+<p>&nbsp;</p>
+<p>Telephone: 03444 93 23 23</p>
+<p>&nbsp;</p>
+<p>Write to:  Hotel Chocolat Customer Service, Mint House, Newark Close, Royston, Herts, SG8 5HL</p>
+<p>&nbsp;</p>
+
+<p>What we may need from you- We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request in order to speed up our response.</p>
+
+<p>&nbsp;</p>
+
+<p>Time limit to respond – Any request for access to a copy of your personal data must be in writing.   We try to respond to all legitimate requests within one month in compliance with Data Protection Legislation. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.</p>
+<p>&nbsp;</p>
+
+</div>
+</div>
 </div>
 </div> <!-- End content-asset -->
 
 
 
 </div>
+
+	 
+
+
+	
+
+
+
+
+
+ 
+	
 </div>
 
 
@@ -3047,8 +4269,61 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
-<input type="hidden" name="localeData" value="{&quot;currency_code&quot;:&quot;GBP&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;country_code&quot;:&quot;US&quot;,&quot;customer_postcode&quot;:&quot;23917&quot;,&quot;customer_city&quot;:&quot;Boydton&quot;}">
-<input type="hidden" name="pageLoadData" value="{&quot;contact_pref&quot;:&quot;&quot;,&quot;re_sms_optout&quot;:&quot;&quot;,&quot;content_subsection&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;content_type&quot;:&quot;Security &amp; Privacy Policy&quot;,&quot;country_code&quot;:&quot;US&quot;,&quot;currency_code&quot;:&quot;GBP&quot;,&quot;customer_city&quot;:&quot;Boydton&quot;,&quot;customer_id&quot;:&quot;abflMsc24x4JhqZdgCbhD4RNNC&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;customer_postcode&quot;:&quot;23917&quot;,&quot;customer_type&quot;:&quot;&quot;,&quot;customer_login_type&quot;:&quot;guest&quot;,&quot;page_name&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;page_url&quot;:&quot;www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Show&quot;,&quot;page_popup_name&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;login_status&quot;:&quot;logged_out&quot;,&quot;re_account_locked&quot;:&quot;&quot;,&quot;site_section&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;site_subsection&quot;:&quot;&quot;,&quot;subscription_snooze_duration&quot;:&quot;&quot;,&quot;subscription_status&quot;:&quot;&quot;,&quot;subscription_type&quot;:&quot;&quot;,&quot;club_score_customer&quot;:&quot;&quot;,&quot;new_customer_registered&quot;:&quot;false&quot;}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" name="localeData" value="{&quot;currency_code&quot;:&quot;GBP&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;country_code&quot;:&quot;DE&quot;,&quot;customer_postcode&quot;:&quot;90409&quot;,&quot;customer_city&quot;:&quot;Nuremberg&quot;}">
+<input type="hidden" name="pageLoadData" value="{&quot;contact_pref&quot;:&quot;&quot;,&quot;re_sms_optout&quot;:&quot;&quot;,&quot;content_subsection&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;content_type&quot;:&quot;Security &amp; Privacy Policy&quot;,&quot;country_code&quot;:&quot;DE&quot;,&quot;customer_city&quot;:&quot;Nuremberg&quot;,&quot;customer_postcode&quot;:&quot;90409&quot;,&quot;currency_code&quot;:&quot;GBP&quot;,&quot;customer_id&quot;:&quot;abTE77kLgmDuf06rONvbyZ9tPJ&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;customer_type&quot;:&quot;&quot;,&quot;customer_login_type&quot;:&quot;guest&quot;,&quot;page_name&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;page_url&quot;:&quot;www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Show&quot;,&quot;page_popup_name&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;login_status&quot;:&quot;logged_out&quot;,&quot;re_account_locked&quot;:&quot;&quot;,&quot;site_section&quot;:&quot;Security and Privacy Policy Information - Hotel Chocolat&quot;,&quot;site_subsection&quot;:&quot;&quot;,&quot;subscription_snooze_duration&quot;:&quot;&quot;,&quot;subscription_status&quot;:&quot;&quot;,&quot;subscription_type&quot;:&quot;&quot;,&quot;club_score_customer&quot;:&quot;&quot;,&quot;new_customer_registered&quot;:&quot;false&quot;}">
 
 <div id="customer-info" class="hidden" style="display:none">
 
@@ -3109,13 +4384,80 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
-<input type="hidden" name="customerPageLoadData" value="{&quot;customer_id&quot;:&quot;abDcG6fC6XGCmZ99it8CEYaTMR&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;currency_code&quot;:&quot;GBP&quot;,&quot;contact_pref&quot;:&quot;&quot;,&quot;re_sms_optout&quot;:&quot;&quot;,&quot;customer_login_type&quot;:&quot;guest&quot;,&quot;login_status&quot;:&quot;logged_out&quot;,&quot;re_account_locked&quot;:&quot;&quot;,&quot;clubType&quot;:&quot;none&quot;,&quot;subscription_snooze_duration&quot;:&quot;&quot;,&quot;subscription_status&quot;:&quot;&quot;,&quot;subscription_type&quot;:&quot;&quot;,&quot;customer_type&quot;:&quot;&quot;,&quot;club_score_customer&quot;:&quot;&quot;,&quot;country_code&quot;:&quot;US&quot;,&quot;customer_city&quot;:&quot;Ashburn&quot;,&quot;customer_postcode&quot;:&quot;20149&quot;,&quot;new_customer_registered&quot;:&quot;false&quot;}">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<input type="hidden" name="customerPageLoadData" value="{&quot;customer_id&quot;:&quot;acaDIjyo900ETBEkfxCwABCKes&quot;,&quot;customer_language&quot;:&quot;en&quot;,&quot;currency_code&quot;:&quot;GBP&quot;,&quot;contact_pref&quot;:&quot;&quot;,&quot;re_sms_optout&quot;:&quot;&quot;,&quot;customer_login_type&quot;:&quot;guest&quot;,&quot;login_status&quot;:&quot;logged_out&quot;,&quot;re_account_locked&quot;:&quot;&quot;,&quot;clubType&quot;:&quot;none&quot;,&quot;subscription_snooze_duration&quot;:&quot;&quot;,&quot;subscription_status&quot;:&quot;&quot;,&quot;subscription_type&quot;:&quot;&quot;,&quot;customer_type&quot;:&quot;&quot;,&quot;club_score_customer&quot;:&quot;&quot;,&quot;country_code&quot;:&quot;DE&quot;,&quot;customer_city&quot;:null,&quot;customer_postcode&quot;:null,&quot;new_customer_registered&quot;:&quot;false&quot;}">
+
+<script>
+	window._zrl  =  window._zrl || [];
+	var init_data = {
+		partner_id: 'bff42279d2',
+		email: '',
+		name: '', 
+		user_id: ''
+	}
+	_zrl.push( [ 'init' , init_data ] );
+</script>
+<script src="//cdn.zinrelo.com/js/all.js" type="text/javascript"></script>
 </div>
 
 <a href="#0" class="cd-top">
+
 <svg class="icon arrow-up">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-up"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-up"></use>
 
 </svg></a>
 <footer>
@@ -3132,16 +4474,74 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bdfJAiaaibl5saaadqtbpVHOH5" -->
-<ul itemscope="" itemtype="http://schema.org/Organization" class="footerSocial">
-	<link itemprop="url" href="http://www.hotelchocolat.com">
+<ul itemscope="" itemtype="https://schema.org/Organization" class="footerSocial">
+	<link itemprop="url" href="https://www.hotelchocolat.com/uk">
 	<li><a itemprop="sameAs" class="facebook" href="https://www.facebook.com/HotelChocolat" aria-label="facebook link" target="_blank"></a></li>
 	<li><a itemprop="sameAs" class="twitter" href="https://twitter.com/HotelChocolat" aria-label="twitter link" target="_blank"></a></li>
 	<li><a itemprop="sameAs" class="instagram" href="https://instagram.com/hotelchocolat" aria-label="instagram link" target="_blank"></a></li>
 	<li><a itemprop="sameAs" class="pinterest" href="http://pinterest.com/hotelchocolat/" aria-label="pinterest link" target="_blank"></a></li>
-	<li><a itemprop="sameAs" class="gplus" href="https://plus.google.com/u/0/+hotelchocolat/about" aria-label="google plus link" target="_blank"></a></li>
 </ul>
 </div> <!-- End content-asset -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3209,6 +4609,7 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 			<fieldset>
 				
 
+
 <div class="form-row ">
 <div class="form-caption"></div>
 
@@ -3217,7 +4618,7 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 <div class="field-wrapper">
-<input class="input-text email required" placeholder="Email treats? Sign me up!" type="email" id="dwfrm_emailsignup_emailshow" name="dwfrm_emailsignup_emailshow" value="" data-msg-email="Please enter a valid email address" data-msg-required="Please enter a valid email address" maxlength="2147483647">
+<input class="input-text email required" placeholder="Email treats? Sign me up!" type="email" id="dwfrm_emailsignup_emailshow" name="dwfrm_emailsignup_emailshow" value="" data-msg-email="Please enter a valid email address" data-msg-required="Please enter a valid email address" maxlength="2147483647" autocapitalize="off" autocorrect="off" autocomplete="email">
 </div>
 
 
@@ -3225,14 +4626,16 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 </div>
 
 				<button type="submit" aria-label="Submit">
+
 <svg class="icon arrow-right">
 
-<use xlink:href="http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
+<use xlink:href="https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Images-Show#arrow-right"></use>
 
 </svg></button>
 			</fieldset>
 		</form>
 	</div>
+
 
 <div class="relax">&nbsp;</div>
 </div>
@@ -3248,12 +4651,18 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bds6ciaaibwvcaaadq3GhVHOH5" -->
 <div class="brandMessage">
 <div class="story">Luxury Chocolate Gifts</div>
 
-<p>Whether you’re looking for boxed chocolates, luxury gifts, or giant chocolate slabs for birthdays, anniversaries, celebrations, or even apologies - you’ll find it here. Our chocolate is delivered next-day, same-day or click &amp; collect. Original, authentic, ethical. Our three guiding principles have taken us to 93 chocolate shops, cafe's, restaurants and even a cocoa estate hotel.<br><br>
-<a href="http://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">Shop For Luxury Chocolate Gifts</a></p>
+<p>Whether you’re looking for boxed chocolates, luxury gifts, or giant chocolate slabs for birthdays, anniversaries, celebrations, or even apologies - you’ll find it here. Our chocolate is delivered next-day or click &amp; collect. Original, authentic, ethical. Our three guiding principles have taken us to over 150 chocolate shops, cafe's, restaurants and even a cocoa estate hotel.<br><br>
+<a href="https://www.hotelchocolat.com/uk/shop/collections/chocolate/dark/">Shop For Luxury Chocolate Gifts</a></p>
 </div>
 </div> <!-- End content-asset -->
 
@@ -3269,18 +4678,25 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bdF3oiaaibhEMaaadq5GhVHOH5" -->
 <ul class="footerMenu">
-	<li><a href="http://www.hotelchocolat.com/uk/about.html">ABOUT US</a><span>&nbsp;</span>
+	<li><a href="https://www.hotelchocolat.com/uk/about.html">ABOUT US</a><span>&nbsp;</span>
 	<ul>
-		<li><a href="http://www.hotelchocolat.com/uk/about/Our-Story.html">Our Story</a></li>
-<li><a href="http://www.hotelchocolat.com/uk/investor-relations.html">Investor Relations</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/about/awards.html">Awards</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/about/cocoa-estate.html">Cocoa Estate</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/about/engaged-ethics.html">Engaged Ethics</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/help/corporate-responsibility.html">Corporate Responsibility</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/about/school-of-chocolate.html">School of Chocolate</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/competitions.html">Competitions</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/engaged-ethics/our-people/Our-Story.html">Our Story</a></li>
+<li><a href="https://www.hotelchocolat.com/uk/investor-relations.html">Investor Relations</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/about/awards.html">Awards</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/about/cocoa-estate.html">Cocoa Estate</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/engaged-ethics.html">Engaged Ethics</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/help/corporate-responsibility.html">Corporate Responsibility</a></li>
+<li><a href="https://www.hotelchocolat.com/on/demandware.static/-/Sites-HotelChocolat-Library/default/dw6803085d/HC_Gender Pay_v7.pdf" target="_blank">Gender Pay Gap Report</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/about/school-of-chocolate.html">School of Chocolate</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/competitions.html">Competitions</a></li>
 	
 
 	</ul>
@@ -3300,21 +4716,27 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bdHGoiaaibbKIaaadq7qhVHOH5" -->
 <ul class="footerMenu">
-	<li><a href="http://www.hotelchocolat.com/uk/help.html">HELP</a><span>&nbsp;</span>
+	<li><a href="https://www.hotelchocolat.com/uk/help.html">HELP</a><span>&nbsp;</span>
 	<ul>
-		<li><a href="http://www.hotelchocolat.com/uk/help/FAQs.html">FAQs</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/help/FAQs.html">FAQs</a></li>
 		<li><a href="https://www.hotelchocolat.com/uk/help/contact-us">Contact Us</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/help/our-guarantee.html">Our Guarantee</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/help/delivery.html">Delivery</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/help/gifting-information.html">Gifting</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/shop/collections/products/gift-cards/">Gift Cards</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/quick-order">Quick Order</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/shop/business-chocolate.html">Corporate Gifts</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/catalogues">Gift Guide</a></li>
-		<li><a href="https://www.hotelchocolat.com/uk/help/unsubscribe">Unsubscribe</a></li>
-<li><a href="https://hotelchocolat.whoson.com/chat/chatstart.htm?domain=www.hotelchocolat.com" onclick="javascript:window.open('https://hotelchocolat.whoson.com/chat/chatstart.htm?domain=www.hotelchocolat.com','wochat','width=484,height=361');return false;">Live Chat</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/help/our-guarantee.html">Our Guarantee</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/help/delivery.html" target="_blank">Delivery</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/help/gifting-information.html">Gifting</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/shop/collections/products/gift-cards/">Gift Cards</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/quick-order">Quick Order</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/shop/business-chocolate.html">Corporate Gifts</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/catalogues">Gift Guide</a></li>
+<li><a href="https://www.hotelchocolat.com/uk/help/unsubscribe">Unsubscribe</a></li>
+
 	</ul>
 	</li>
 </ul>
@@ -3332,15 +4754,21 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="bdCR6iaaibvxaaaadq9bhVHOH5" -->
 <ul class="footerMenu">
-	<li><a href="http://www.hotelchocolat.com/uk/careers.html">Work With Us</a><span>&nbsp;</span>
+	<li><a href="https://www.hotelchocolat.com/uk/careers.html">Work With Us</a><span>&nbsp;</span>
 	<ul>
- 		<li><a href="http://www.hotelchocolat.com/uk/careers.html">Careers</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/marketing/affiliates.html">Affiliates</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/marketing/partnerships.html">Brand Partnerships</a></li>
- <li><a href="http://www.hotelchocolat.com/uk/marketing/press.html">Press</a></li>
-		<li><a href="http://www.hotelchocolat.com/uk/marketing/international-franchising.html">International Franchising &amp; Partnerships</a></li>
+ 		<li><a href="https://www.hotelchocolat.com/uk/careers.html">Careers</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/marketing/affiliates.html">Affiliates</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/marketing/partnerships.html">Brand Partnerships</a></li>
+ <li><a href="https://www.hotelchocolat.com/uk/marketing/press.html">Press</a></li>
+		<li><a href="https://www.hotelchocolat.com/uk/marketing/international-franchising.html">International Franchising &amp; Partnerships</a></li>
 
 	        </ul>
 	</li>
@@ -3360,39 +4788,49 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="dgAbQiaaicdPdaaaeqaWlVHOH5" -->
 <ul class="footerMenu menuA">
 	<li>
-		<a href="http://www.hotelchocolat.com/uk/tasting-club.html">Tasting Club</a><span>&nbsp;</span>
+		<a href="https://www.hotelchocolat.com/uk/tasting-club.html">Subscriptions</a><span>&nbsp;</span>
 		<ul>
-		        <li><a href="http://www.hotelchocolat.com/uk/shop/tasting-club/join/">Join Now</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/tasting-club/how-it-works.html">How It Works</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/tasting-club/gift-subscriptions.html">Gift Subscriptions</a></li>
-			<li><a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">Manage My Account</a></li>
+		        <li><a href="https://www.hotelchocolat.com/uk/shop/tasting-club/">Join Now</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/tasting-club/how-it-works.html">How It Works</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/tasting-club/gift-subscriptions.html">Gift Subscriptions</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/my-account/my-subscriptions">Manage My Subscriptions</a></li>
 		</ul>
 	</li>
 	<li>
-		<a href="http://www.hotelchocolat.com/uk/restaurants.html">Restaurants</a><span>&nbsp;</span>
+		<a href="https://www.hotelchocolat.com/uk/restaurants/rabot-1745.html">Restaurants</a><span>&nbsp;</span>
 		<ul>
-		        <li><a href="http://www.hotelchocolat.com/uk/restaurants/rabot-1745.html">Rabot 1745, London</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/restaurants/roast-and-conch.html">Roast + Conch, Leeds</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/cocoa-bar-cafes.html">Cafes</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">Gift Experiences</a></li>	
+		        <li><a href="https://www.hotelchocolat.com/uk/restaurants/rabot-1745.html">Rabot 1745, London</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/restaurants/roast-and-conch.html">Roast + Conch, Leeds</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/cocoa-bar-cafes.html">Cafes</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/shop/products/gift-experiences.html">Gift Experiences</a></li>	
 		</ul>
 	</li>
 	<li>
-		<a href="http://www.hotelchocolat.com/uk/boucan.html">Hotel</a><span>&nbsp;</span>
+		<a href="https://www.hotelchocolat.com/uk/boucan.html">Hotel</a><span>&nbsp;</span>
 		<ul>
-		        <li><a href="http://www.hotelchocolat.com/uk/boucan/the-hotel.html">Boucan Hotel</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/boucan/restaurant.html">Restaurant</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/boucan/the-experiences.html">Experiences</a></li>
-			<li><a href="http://www.hotelchocolat.com/uk/boucan/the-hotel/boucan-location.html">Location</a></li>	
-			<li><a href="http://www.hotelchocolat.com/uk/boucan/reservations.html">Book Your Stay</a></li>
+		        <li><a href="https://www.hotelchocolat.com/uk/boucan/the-hotel.html">Boucan Hotel</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/boucan/restaurant.html">Restaurant</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/boucan/the-experiences.html">Experiences</a></li>
+			<li><a href="https://www.hotelchocolat.com/uk/boucan/the-hotel/boucan-location.html">Location</a></li>	
+			<li><a href="https://www.hotelchocolat.com/uk/boucan/reservations.html">Book Your Stay</a></li></ul>
+
+</li><li><a href="https://www.hotelchocolat.com/uk/blog/">Blog</a><span>&nbsp;</span></li>
 </ul>
-</li><li>
-<a href="http://blog.hotelchocolat.com">Our Blog</a><span>&nbsp;</span>
-</li>
-</ul></div> <!-- End content-asset -->
+</div> <!-- End content-asset -->
+
+
+
+
+
 
 
 
@@ -3423,13 +4861,17 @@ Oh no! It appears your browser does not support javascript / xmlhttprequest or i
 
 
 
-<div class="content-asset"><!-- dwMarker="content" dwContentID="deqWUiaaicPbIaaadqqcpVHOH5" -->
-<div id="fake-zmags" style="width:5px;padding-bottom: 5px;"></div>
 
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="deqWUiaaicPbIaaadqqcpVHOH5" -->
 <ul class="textLinks">
-	<li><a href="http://www.hotelchocolat.com/uk/help/terms-and-conditions.html">Terms &amp; Conditions</a></li>
-	<li><a href="http://www.hotelchocolat.com/uk/help/security-and-privacy.html">Security &amp; Privacy</a></li>
-	<li><a href="http://www.hotelchocolat.com/uk/help/sitemap">Sitemap</a></li>
+	<li><a href="https://www.hotelchocolat.com/uk/help/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+	<li><a href="https://www.hotelchocolat.com/uk/help/security-and-privacy.html">Security &amp; Privacy</a></li>
+	<li><a href="https://www.hotelchocolat.com/uk/help/sitemap">Sitemap</a></li>
 </ul>
 <script>
 function updateAdvantureSorting(){
@@ -3471,7 +4913,7 @@ defer1();
 
 
 
-<div class="copy">© Hotel Chocolat&nbsp;2017. Mint House, Newark Close, Royston SG8 5HL United Kingdom</div>
+<div class="copy">© Hotel Chocolat&nbsp;2019. Mint House, Newark Close, Royston SG8 5HL United Kingdom</div>
 <div class="relax">&nbsp;</div>
 </div>
 </div>
@@ -3479,11 +4921,62 @@ defer1();
 
 
 
+
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/jquery/jquery-3.3.1.min.js" type="text/javascript"></script>
+
+
+
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/jquery/jquery-migrate-3.0.1.min.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="bb0465bfd9a7b5e30172858981" -->
+<script>jQuery.migrateMute = true; </script>
+        <!-- Embedded WhosOn: Insert the Script below at the bottom
+        of your page just above the </body> tag -->
+        
+        <script id="wochat" type="text/javascript" src="//hotelchocolat.whoson.com/include.js?domain=www.hotelchocolat.com"></script>
+        <script type="text/javascript">
+	var initInterval = setInterval(function () {
+			if (window.jQuery && window.pageContext) {
+				clearInterval(initInterval);
+				var enablePages = ['search', 'product', 'account', 'contactus', 'cart'];
+				var isMobile = window.util.isMobile();
+				if (typeof sWOTrackPage == 'function' && !isMobile && enablePages.lastIndexOf(window.pageContext.ns) >= 0) {
+					setTimeout(function () {
+						sWOTrackPage();
+						var operatorOnline = typeof wo_online != 'undefined' && window.getComputedStyle(wo_online).display !== 'none';
+						window.console.log('operator online:', operatorOnline);
+					}, 20000);
+				}
+			}
+	}, 100);
+
+        </script>
+        <!-- End of embedded WhosOn -->
+</div> <!-- End content-asset -->
+
+
+
+
+
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -3491,17 +4984,20 @@ defer1();
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/js/js-libs-combined.min.js" type="text/javascript"></script>
+
+
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/js/js-libs-combined.min.js" type="text/javascript"></script>
 <script>svg4everybody()</script>
+
 
 
 <script type="text/javascript">
 
 (function(){
-window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","STANDARD_BREAK_POINT":1280,"LARGE_BREAK_POINT":960,"MEDIUM_BREAK_POINT":768};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","GOT_IT":"Got It","CANCEL":"Cancel","CONTINUE":"Continue","SORRY":"Sorry!","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","CARD_ERROR":"Please check your payment information and try again!","REG_ADDR_ERROR":"Couldn't Load Address","CARD_EXPIRED_TITLE":"This Won’t Take A Minute","SNOOZE_TITLE":"Snooze this","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","ITEMS_UNAVAILABLE":"Item Unavailable!","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","ADDED_TO_BAG":"Added to Bag","CURRENCY_SYMBOL":"£","MISSINGVAL":"Please Enter {0}","ERROR":"Error","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","CONFIRM_EMAIL_ERROR":"The confirmation email address does not match the email address.","SPECIAL_CHARACTERS_ERROR":"Special characters are not allowed.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION_TITLE":"Compare up to 4 Items","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code","GIFT_CARD_INVALID":"Invalid Gift Card","GIFT_CARD_BALANCE":"Card Balance","GIFT_CARD_MISSING":"Please enter a gift card number","GIFT_CARD_PIN_MISSING":"Please enter gift card PIN","GIFT_CARD_TIMEOUT":"Sorry, your gift card balance cannot be retrieved at this time. Please try again later.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} characters","CONFIRM_DELETE":"Do you want to remove this {0}?","MAX_QUOTA_TITLE":"Feeling Generous?","UPDATE":"Update","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CONTINUE":"Are you sure you wish to continue?","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Available to ship {0}","ITEM_STATUS_NOTAVAILABLE":"Out of stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","UK_POSTCODE_FORMAT":"Please enter a valid Postcode","SET_PREFERRED_STORE":"Set Preferred Store","SETTING_PREFERRED_LOCATION":"Setting your Preferred Location","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","SEND_TO_A_SINGLE_ADDRESS":"Send To A Single Address","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE_AND_PAY":"Continue & Pay","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","EMAIL_IS_SAVED":"THANK YOU! We will notify you when these products become available.","ITEM":"Item","ITEMS":"Items","SEND_DATE_TXT":"SELECT YOUR SEND DATE","HAMPER":"Hamper","HAMPERS":"Hampers","PLEASE_WAIT":"Please Wait...","GIFTCARD_REMOVE_TITLE":"Remove Gift Card","GIFTCARD_REMOVE_CONTENT":"Are you sure you would like to remove this Gift Card allocation? ","ADD_HAMPER_TO_BAG_DIALOG_TITLE":"Add Gift to your Bag","EDIT_GIFT_QUANTITY":"Edit Gift Quantity","EDIT_ITEMS_WITHIN_GIFT":"Edit Items Within Gift","SAVE_HAMPER_DIALOG_TITLE":"Save to your Wishlist","TOO_LARGE":"Too Large","WHOA_THERE":"Whoa There!","SELECT_A_STORE":"Select a Store","GIFTCERT_EDIT_ADDRESS_TITLE":"Edit Address","DELIVERY_RESTRICTION_TITLE":"Delivery Restriction","SELECT_VALID_DATE":"correct fomrat: dd/mm/yyyy","CHECK_ANOTHER_GIFT_CARD":"Check another Gift Card.","CHECK_BALANCE_BUTTON_TEXT":"Check Balance","CHECKOUT_ITEMS":"Checkout Items","PAY_OUTSTANDING_BALANCE":"Pay Your Outstanding Balance","SETTLE_BALANCE":"Settle Balance","YES":"Yes","NO":"No","REMOVE_REMINDER_TITLE":"Remove Reminder","ZIPCODE_UNIVERSAL_LABEL":"Postcode / Zip Code*","ADDRESS_UPDATED_MSG":"Address book updated.","ADDRESS_SHIPPING_UPDATED_MSG":"Your delivery address has been updated.","ADDRESS_BILLING_UPDATED_MSG":"Your billing address has been updated.","ADDRESS_UPDATED_MSG_TC_WARNING":"Please note: club subscription addresses are managed seperately in my club/my subscriptions.","OLD_ACTIVATION_THANKYOU_TITLE":"Thank you! We'll take it from here.","SET_DEFAULT_ADDRESS_TITLE":"My default delivery address","SET_DEFAULT_ADDRESS_MESSAGE":"Are you sure you want to update your default delivery address?","REMOVE_ADDRESS_TITLE":"Remove Address","REMOVE_ADDRESS_MESSAGE":"Just so you know, you’re about to delete this address from your book. Would you like to go ahead?","SET_PRIMARY_ADDRESS_TITLE":"My default billing address","SET_PRIMARY_ADDRESS_MESSAGE":"Are you sure you want to update your billing address?","SELECT":"Select","SELECTED":"Selected","REMOVE_CARD":"Remove Card","REMOVE_CARD_MSG":"Snip, snip! Are you sure you want to remove this card from your account?","TERMS_AND_CONDITIONS":"Terms and Conditions","RESERVE_NOW":"Reserve Now","AGREE_AND_RESERVE":"Agree and Reserve","CALL_CUSTOMER_SERVICE":"TODO: Sorry, there was an error processing your special club reservation. Please contact customer service.","KEEP_ME_IN":"Sounds good, Keep me in!","CANCEL_SPECIAL_EDITIONS":"Cancel my special editions","TASTING_CLUB_ALERT_TITLE":"We're Sorry!","SPECIAL_EDITIONS_TITLE":"You’re in the special editions club","GO_TO_MY_WALLET":"Go to my wallet","BIG_SENDER":"Hey Big Sender!","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Resources-Load","signupThankYou":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Account-EmailSignupThankYou","pageInclude":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include","continueUrl":"http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Show/C2022123168","staticPath":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/","addGiftCert":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddProduct","checkProductCartEligibility":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-CheckCartForMaxQuotaTCDebt","minicart":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniAddProduct","cartShow":"/uk/basket","giftRegAdd":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-GetAddressDetails?addressID=","paymentsList":"https://www.hotelchocolat.com/uk/my-account/payment-cards","addressesList":"https://www.hotelchocolat.com/uk/my-account/address-book","wishlistAddress":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-Delete","getProductUrl":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Show","getBonusProducts":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Detail","getAvailability":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","defaultProductImg":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dwafab553f/images/noimagelarge.png","searchsuggest":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-UpdateSummary","billingSelectCC":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-SelectCreditCard","tastingClubAlert":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COCustomer-TastingClubAlert","updateAddressDetails":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-SelectShippingMethod","shippingStart":"https://www.hotelchocolat.com/uk/checkout/delivery","underscoreJS":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/underscore-min.js","backboneJS":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/backbone-min.js","momentJS":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/moment.min.js","momentTimezoneJS":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/moment-timezone-with-data.min.js","shutlLeanModalJS":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/lib/jquery/jquery.leanModal.js","shutlPriceCalendarCSS":"https://d1gsdspyuft8zm.cloudfront.net/1.0/stylesheets/shutl_price_calendar.css","shutlPriceCalendarJS":"https://d1gsdspyuft8zm.cloudfront.net/1.0/javascripts/shutl_price_calendar.js","selectShutlQuote":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Shutl-SelectQuote","resetPaymentForms":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-ResetPaymentForms","compareShow":"/uk/compare","compareAdd":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-CheckBalance","redeemGiftCert":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-RedeemGiftCard","addGiftCardFields":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-AddFields","addCoupon":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetZipCode","billing":"/uk/checkout/payment","setSessionCurrency":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-AddEditAddressJSON","editShippingAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-EditAddresses?action=edit","cookieHint":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include?cid=cookie_hint","findPostalCodes":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-FindByPostalOrCity","getFilteredStores":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-FilterCollection","contactUsReasons":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/CustomerService-ContactUsReasons","getStoresByLocale":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetStoresByLocale","checkProductInventory":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-CheckProduct","storesDetails":"/uk/chocolate-shop","backInStockSubmission":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-SubmitEmail","checkContainerAvailability":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-CheckComponentAvailabilityForContainer","createHamper":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-Create","getCurrentHamper":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetCurrent","getHamperErrors":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetHamperErrors","getPreMadeHamperErrors":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetPreMadeHamperErrors","hamperAddToBagDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-AddToBagDialog","hamperLanding":"/uk/make-a-gift-hamper","hamperMinicart":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-Minicart","hamperNotification":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-Notification","hamperUnavailable":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-UnavailableNotification","hamperSaveDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-SaveDialog","hamperComponents":"/uk/hampers/hampercomponents/","mutishippingConfirmation":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COGifting-ConfirmationMessage","mutishippingStart":"/uk/checkout/shipping","checkDeliveryRestrictions":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-CheckDeliveryRestrictions","deliveryRestrictionDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-DeliveryRestrictionsDialog","getNominatedShipment":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-GetNominated","removeRestrictedItems":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-RemoveRestrictedItems","removeMiniCartProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniCartRemove","updateMiniCartProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniCartUpdate","removeMiniCartGiftCert":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-RemoveGiftCert","giftQuantityError":"/uk/Gift_Quantity_Error.html","maxLineItemQuota":"/uk/PopupLineItemQuotaExceeded.html","requestErrorMessage":"/uk/request_error_message.html","sendToASingleAddress":"/uk/SendToASingleAddress_Popup.html","nominatedDateErrorMessage":"/uk/Nominated_Date_Error_Message.html","removeReminderPopup":"/uk/RemoveReminder_Popup.html","tcBalanceCartItemsError":"/uk/TASTING_CLUB_BALANCE_CART_ITEMS_ERROR_MESSAGE.html","tcOutstandingBalance":"/uk/TASTING_CLUB_OUTSTANDING_BALANCE_MESSAGE.html","tcSettleBalanceError":"/uk/TASTING_CLUB_SETTLE_BALANCE_MESSAGE.html","secureAcceptanceSignature":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cybersource_SecureAcceptance-GetSignature","includeContentAsset":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include","tcCardExpired":"/uk/TASTING_CLUB_CARD_EXPIRED.html","tcCheckSubscription":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-TCCheckSubscription","tcWelcome":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Welcome-Show","tcSnooze":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-ShowSnoozePopup","tcSpecialSnoozeConfirm":"/uk/TC_Special_Collection_Snooze_Confirmation.html","verifyAddDebtProduct":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_AddDebtProduct-Verify","oldSubscription":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-OldSubscription","oldActivationMail":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-SendEmail","accountLanding":"https://www.hotelchocolat.com/uk/my-account","reminderList":"https://www.hotelchocolat.com/uk/my-account/remind-me","oldActivationThankyou":"/uk/Old_Gift_Subscription_Redeem_ThankYou.html","editTastingClubCard":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/PaymentInstruments-UpdateTastingClubCard","loadSubscriptionProducts":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-LoadSubscriptionProducts","loadSubscriptionAddress":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-LoadSubscriptionAddress","reserveAllSpecialsConfirm":"/uk/TC_Special_Editions_Club_TandCs.html","specialClubReservation":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Elucid-SpecialClubReservation","showSubscriptions":"https://www.hotelchocolat.com/uk/my-account/my-subscriptions","rateNowPopup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/ScoreUs-RateNowPopup","reserveSpecial":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Elucid-SpecialReservation","loadSpecialActions":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-TastingClubSpecialActions","blockerWarning":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/ScoreUs-BlockerWarning","productReviewScoreMedal":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Account-ProductReviewScoreMedal","cancelSpecialEditions":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-CancelSpecialEditions","cancelSpecialReservation":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-CancelSpecialReservation","settleBalance":"https://www.hotelchocolat.com/uk/TC_Settle_Outstanding_Balance_Message.html","loadMoreOrders":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Order-GetNextOrderBlock","checkMaxShipments":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-CheckMaxShipmentsJSON","maxShipmentsPopup":"/uk/MaximumShipments_Warning_PopUp.html","giftGuruGetProducts":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-GetProductList","giftGuruGetRecomendations":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-GetRecomendations","giftGuruFinishPopup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-FinishPopup","giftEditAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-EditAddress","giftGuruStartSession":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-StartSession","loggerLog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Logger-Log"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"PRICE_SLIDER_STEP":5,"COCOA_SLIDER_STEP":10,"STORE_PICKUP":true,"GOOGLE_MAPS_API_KEY":null,"SHUTL_METHOD_ID":"shutl","COOKIE_HINT":false,"EXCLUDED_DATES":["2016-08-29","2016-12-26","2016-12-27","2017-01-02","2017-04-14","2017-05-29","2017-08-28","2017-12-25","2017-12-26","2017-08-21","2018-01-01","2018-01-02"],"OLD_GIFT_CARD_PREFIXES":["03","06","12"],"GOOGLE_TAG_MANAGER_ID":"GTM-TC8DJF","GTM_ENABLED":true,"TC_DELIVERY_DAYS_OFFSET":10};
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","STANDARD_BREAK_POINT":1280,"LARGE_BREAK_POINT":960,"MEDIUM_BREAK_POINT":768,"HANDLE_GIFT_MSG_LINE_BREAKS":true,"GIFT_MSG_LINE_COUNT":7,"GIFT_MSG_CHARS_PER_LINE":25,"GIFT_MSG_MERGE_NEW_LINES":true};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No Thanks","GOT_IT":"Got It","CANCEL":"Cancel","CONTINUE":"Continue","SORRY":"Sorry!","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","CARD_ERROR":"Please check your payment information and try again!","REG_ADDR_ERROR":"Couldn't Load Address","CARD_EXPIRED_TITLE":"This Won’t Take A Minute","SNOOZE_TITLE":"Snooze this","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","ITEMS_UNAVAILABLE":"Item Unavailable!","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","ADDED_TO_BAG":"Added to Bag","CURRENCY_SYMBOL":"£","MISSINGVAL":"Please Enter {0}","ERROR":"Error","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","CONFIRM_EMAIL_ERROR":"The confirmation email address does not match the email address.","SPECIAL_CHARACTERS_ERROR":"Special characters are not allowed.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare","COMPARE_CONFIRMATION_TITLE":"Compare up to 4 Items","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid Gift Certificate Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code","GIFT_CARD_INVALID":"Invalid Gift Card","GIFT_CARD_BALANCE":"Gift Card Balance:","GIFT_CARD_MISSING":"Please enter a gift card number","GIFT_CARD_PIN_MISSING":"Please enter gift card PIN","GIFT_CARD_TIMEOUT":"Sorry, your gift card balance cannot be retrieved at this time. Please try again later.","INVALID_OWNER":"This appears to be a credit card number.  Please enter the name of the credit card owner.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} characters","CONFIRM_DELETE":"Do you want to remove this {0}?","MAX_QUOTA_TITLE":"Feeling Generous?","UPDATE":"Update","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CONTINUE":"Are you sure you wish to continue?","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Available to ship {0}","ITEM_STATUS_NOTAVAILABLE":"Out of stock","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","UK_POSTCODE_FORMAT":"Please enter a valid Postcode","SET_PREFERRED_STORE":"Set Preferred Store","SETTING_PREFERRED_LOCATION":"Setting your Preferred Location","ENTER_ZIP":"Enter Zip Code","INVALID_ZIP":"Please enter a valid Zip Code","SEARCH":"Search","SEND_TO_A_SINGLE_ADDRESS":"Send To A Single Address","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE_AND_PAY":"Continue & Pay","SEE_MORE":"See More Stores","SEE_LESS":"See Less Stores","QUICK_VIEW":"Quick View","EMAIL_IS_SAVED":"THANK YOU! We will notify you when these products become available.","ITEM":"Item","ITEMS":"Items","SEND_DATE_TXT":"SELECT YOUR SEND DATE","HAMPER":"Hamper","HAMPERS":"Hampers","PLEASE_WAIT":"Please Wait...","GIFTCARD_REMOVE_TITLE":"Remove Gift Card","GIFTCARD_REMOVE_CONTENT":"Are you sure you would like to remove this Gift Card allocation? ","ADD_HAMPER_TO_BAG_DIALOG_TITLE":"Add Gift to your Bag","EDIT_GIFT_QUANTITY":"Edit Gift Quantity","EDIT_ITEMS_WITHIN_GIFT":"Edit Items Within Gift","SAVE_HAMPER_DIALOG_TITLE":"Save to your Wishlist","TOO_LARGE":"Too Large","WHOA_THERE":"Whoa There!","SELECT_A_STORE":"Select a Store","GIFTCERT_EDIT_ADDRESS_TITLE":"Edit Address","DELIVERY_RESTRICTION_TITLE":"Delivery Restriction","SELECT_VALID_DATE":"correct fomrat: dd/mm/yyyy","CHECK_ANOTHER_GIFT_CARD":"Check another Gift Card.","CHECK_BALANCE_BUTTON_TEXT":"Check Balance","CHECKOUT_ITEMS":"Checkout Items","PAY_OUTSTANDING_BALANCE":"Pay Your Outstanding Balance","SETTLE_BALANCE":"Settle Balance","YES":"Yes","NO":"No","REMOVE_REMINDER_TITLE":"Remove Reminder","ZIPCODE_UNIVERSAL_LABEL":"Postcode / Zip Code*","ADDRESS_UPDATED_MSG":"Address book updated.","ADDRESS_SHIPPING_UPDATED_MSG":"Your delivery address has been updated.","ADDRESS_BILLING_UPDATED_MSG":"Your billing address has been updated.","ADDRESS_UPDATED_MSG_TC_WARNING":"Please note: club subscription addresses are managed seperately in my club/my subscriptions.","OLD_ACTIVATION_THANKYOU_TITLE":"Thank you! We'll take it from here.","SET_DEFAULT_ADDRESS_TITLE":"My default delivery address","SET_DEFAULT_ADDRESS_MESSAGE":"Are you sure you want to update your default delivery address?","REMOVE_ADDRESS_TITLE":"Remove Address","REMOVE_ADDRESS_MESSAGE":"Just so you know, you’re about to delete this address from your book. Would you like to go ahead?","SET_PRIMARY_ADDRESS_TITLE":"My default billing address","SET_PRIMARY_ADDRESS_MESSAGE":"Are you sure you want to update your billing address?","SELECT":"Select","SELECTED":"Selected","REMOVE_CARD":"Remove Card","REMOVE_CARD_MSG":"Snip, snip! Are you sure you want to remove this card from your account?","TERMS_AND_CONDITIONS":"Terms and Conditions","RESERVE_NOW":"Reserve Now","AGREE_AND_RESERVE":"Agree and Reserve","CALL_CUSTOMER_SERVICE":"TODO: Sorry, there was an error processing your special club reservation. Please contact customer service.","KEEP_ME_IN":"Sounds good, Keep me in!","CANCEL_SPECIAL_EDITIONS":"Cancel my special editions","TASTING_CLUB_ALERT_TITLE":"We're Sorry!","CHANGE_SUBSCRIPTION_TITLE":"Switch your flavour!","CONFIRM_SWITCH_SUBSCRIPTION":"Confirm Switch","CONFIRM_SUBSCRIPTION_TITLE":"Subscription changed","SPECIAL_EDITIONS_TITLE":"You’re in the special editions club","GO_TO_MY_WALLET":"Go to my wallet","BIG_SENDER":"Hey Big Sender!","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"Out of stock","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Resources-Load","signupThankYou":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Account-EmailSignupThankYou","pageInclude":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include","continueUrl":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Show/C1202538077","staticPath":"/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/","addGiftCert":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddProduct","checkProductCartEligibility":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-CheckCartForMaxQuotaTCDebt","minicart":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniAddProduct","cartShow":"/uk/basket","giftRegAdd":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-GetAddressDetails?addressID=","paymentsList":"https://www.hotelchocolat.com/uk/my-account/payment-cards","addressesList":"https://www.hotelchocolat.com/uk/my-account/address-book","wishlistAddress":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-Delete","checkAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-Check","validateAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Address-Validate","getProductUrl":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Show","getBonusProducts":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Detail","getAvailability":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","defaultProductImg":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dwafab553f/images/noimagelarge.png","searchsuggest":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-UpdateSummary","billingSelectCC":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-SelectCreditCard","tastingClubAlert":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COCustomer-TastingClubAlert","updateAddressDetails":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShipping-SelectShippingMethod","shippingStart":"https://www.hotelchocolat.com/uk/checkout/delivery","selectShutlQuote":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Shutl-SelectQuote","resetPaymentForms":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COBilling-ResetPaymentForms","compareShow":"/uk/compare","compareAdd":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-HotelChocolat-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-CheckBalance","redeemGiftCert":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-RedeemGiftCard","addGiftCardFields":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-AddFields","addCoupon":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetZipCode","billing":"/uk/checkout/payment","setSessionCurrency":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-AddEditAddressJSON","editShippingAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-EditAddresses?action=edit","cookieHint":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include?cid=cookie_hint","findPostalCodes":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-FindByPostalOrCity","getFilteredStores":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Stores-FilterCollection","contactUsReasons":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/CustomerService-ContactUsReasons","getStoresByLocale":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-GetStoresByLocale","checkProductInventory":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/StoreInventory-CheckProduct","storesDetails":"/uk/chocolate-shop","backInStockSubmission":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-SubmitEmail","checkContainerAvailability":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-CheckComponentAvailabilityForContainer","createHamper":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-Create","getCurrentHamper":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetCurrent","getHamperErrors":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetHamperErrors","getPreMadeHamperErrors":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Hamper-GetPreMadeHamperErrors","hamperAddToBagDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-AddToBagDialog","hamperLanding":"/uk/make-a-gift-hamper","hamperMinicart":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-Minicart","hamperNotification":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-Notification","hamperUnavailable":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-UnavailableNotification","hamperSaveDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/HamperPage-SaveDialog","hamperComponents":"/uk/hampers/hampercomponents/","mutishippingConfirmation":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COGifting-ConfirmationMessage","mutishippingStart":"/uk/checkout/shipping","checkDeliveryRestrictions":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-CheckDeliveryRestrictions","deliveryRestrictionDialog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-DeliveryRestrictionsDialog","getNominatedShipment":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-GetNominated","removeRestrictedItems":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-RemoveRestrictedItems","removeMiniCartProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniCartRemove","updateMiniCartProduct":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-MiniCartUpdate","removeMiniCartGiftCert":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cart-RemoveGiftCert","giftQuantityError":"/uk/Gift_Quantity_Error.html","maxLineItemQuota":"/uk/PopupLineItemQuotaExceeded.html","requestErrorMessage":"/uk/request_error_message.html","sendToASingleAddress":"/uk/SendToASingleAddress_Popup.html","nominatedDateErrorMessage":"/uk/Nominated_Date_Error_Message.html","removeReminderPopup":"/uk/RemoveReminder_Popup.html","tcBalanceCartItemsError":"/uk/TASTING_CLUB_BALANCE_CART_ITEMS_ERROR_MESSAGE.html","tcOutstandingBalance":"/uk/TASTING_CLUB_OUTSTANDING_BALANCE_MESSAGE.html","tcSettleBalanceError":"/uk/TASTING_CLUB_SETTLE_BALANCE_MESSAGE.html","secureAcceptanceSignature":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Cybersource_SecureAcceptance-GetSignature","includeContentAsset":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Page-Include","tcCardExpired":"/uk/TASTING_CLUB_CARD_EXPIRED.html","tcCheckSubscription":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftCard-TCCheckSubscription","tcWelcome":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Welcome-Show","tcSnooze":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-ShowSnoozePopup","tcSpecialSnoozeConfirm":"/uk/TC_Special_Collection_Snooze_Confirmation.html","verifyAddDebtProduct":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_AddDebtProduct-Verify","oldSubscription":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-OldSubscription","oldActivationMail":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-SendEmail","accountLanding":"https://www.hotelchocolat.com/uk/my-account","reminderList":"https://www.hotelchocolat.com/uk/my-account/remind-me","oldActivationThankyou":"/uk/Old_Gift_Subscription_Redeem_ThankYou.html","editTastingClubCard":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/PaymentInstruments-UpdateTastingClubCard","loadSubscriptionProducts":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-LoadSubscriptionProducts","loadSubscriptionAddress":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_GiftSubscription-LoadSubscriptionAddress","reserveAllSpecialsConfirm":"/uk/TC_Special_Editions_Club_TandCs.html","specialClubReservation":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Elucid-SpecialClubReservation","showSubscriptions":"https://www.hotelchocolat.com/uk/my-account/my-subscriptions","rateNowPopup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/ScoreUs-RateNowPopup","reserveSpecial":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Elucid-SpecialReservation","loadSpecialActions":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-TastingClubSpecialActions","blockerWarning":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/ScoreUs-BlockerWarning","productReviewScoreMedal":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Account-ProductReviewScoreMedal","cancelSpecialEditions":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-CancelSpecialEditions","cancelSpecialReservation":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_Subscriptions-CancelSpecialReservation","settleBalance":"https://www.hotelchocolat.com/uk/TC_Settle_Outstanding_Balance_Message.html","loadMoreOrders":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Order-GetNextOrderBlock","checkMaxShipments":"https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COShippingMultiple-CheckMaxShipmentsJSON","maxShipmentsPopup":"/uk/MaximumShipments_Warning_PopUp.html","giftGuruGetProducts":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-GetProductList","giftGuruGetRecomendations":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-GetRecomendations","giftGuruFinishPopup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-FinishPopup","giftEditAddress":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-EditAddress","giftGuruStartSession":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/GiftGuru-StartSession","loggerLog":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Logger-Log","changeSubscriptionPopup":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_SwitchSubscription-Start","changeSubsctiptionThankyou":"/on/demandware.store/Sites-HotelChocolat-Site/en_GB/TC_SwitchSubscription-ThankYouPopup"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":false,"PRICE_SLIDER_STEP":5,"COCOA_SLIDER_STEP":10,"STORE_PICKUP":true,"GOOGLE_MAPS_API_KEY":"AIzaSyD5c5Rf5t18Rv4AUmHvcsBF1W0sUE-yujE","SHUTL_METHOD_ID":"not-the-shutl","COOKIE_HINT":false,"EXCLUDED_DATES":["2019-01-01","2019-12-31","2019-04-19","2019-04-22","2019-05-06","2019-05-27","2019-08-26","2019-12-25","2019-12-26"],"OLD_GIFT_CARD_PREFIXES":["03","06","12"],"GOOGLE_TAG_MANAGER_ID":"GTM-TC8DJF","GTM_ENABLED":true,"TC_DELIVERY_DAYS_OFFSET":10,"INVALID_CHARS_PATTERN":"[<>]","CHECK_TLS":true};
 window.User = {"zip":null,"storeId":null};
 window.Scripts = {"useMin":false};
 window.dataLayer = [];
@@ -3521,7 +5017,7 @@ user = '';
 var urlMap = {
 'home' : {'url' : "https://www.hotelchocolat.com/uk", 'parameter' : null},
 'category' : {'url' : "https://www.hotelchocolat.com/uk/search", 'parameter' : 'cgid'},
-'product' : {'url': "http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Show", 'parameter' : 'pid'},
+'product' : {'url': "https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Product-Show", 'parameter' : 'pid'},
 'basket' : {'url' : "https://www.hotelchocolat.com/uk/basket", 'parameter' : null},
 'search' : {'url' : "https://www.hotelchocolat.com/uk/search", 'parameter' : 'q'},
 'checkout-confirmation' : {'url' : "https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/COSummary-ShowConfirmation", 'parameter' : null},
@@ -3533,7 +5029,7 @@ var urlMap = {
 };
 </script>
 
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/js/app.min.js"></script>
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/js/app.min.js"></script>
 
 
 <script>pageContext = {"ns":"Security & Privacy Policy"};</script>
@@ -3544,6 +5040,9 @@ var keywords = "";
 <script type="text/javascript">
 Urls.WishlistAdd = "https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/Wishlist-Add";
 </script>
+
+
+
 
 
 
@@ -3566,7 +5065,7 @@ name: 'Security &amp; Privacy Policy'
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/__Analytics-Tracking";
+        var trackingUrl = "https://www.hotelchocolat.com/on/demandware.store/Sites-HotelChocolat-Site/en_GB/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -3578,10 +5077,19 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1514351080438/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+<!-- Demandware Apple Pay -->
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+if (!window.dw) dw = {};
+dw.applepay = {"action":{"cancel":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-Cancel","getRequest":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-GetRequest","onshippingcontactselected":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-ShippingContactSelected","onpaymentmethodselected":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-PaymentMethodSelected","onvalidatemerchant":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-ValidateMerchant","onpaymentauthorized":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-PaymentAuthorized","prepareBasket":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-PrepareBasket","onshippingmethodselected":"https:\/\/www.hotelchocolat.com\/on\/demandware.store\/Sites-HotelChocolat-Site\/en_GB\/__SYSTEM__ApplePay-ShippingMethodSelected"},"inject":{"directives":[{"css":"dw-apple-pay-button","query":"ISAPPLEPAY","action":"replace","copy":true}]}};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-HotelChocolat-Site/-/en_GB/v1559091938462/internal/jscript/applepay.js" async="true"></script>
 
 
 
