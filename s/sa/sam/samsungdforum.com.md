@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungdforum.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012010124id_/https%3A//developer.samsung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungdforum.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529184748id_/http%3A//developer.samsung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SAMSUNG Developers
 
@@ -119,7 +119,7 @@ Please note, however, that some Business Services may be designed to work using 
 
 Other Local Storage
 
-We, along with certain third parties, may use other kinds of local storage technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Business Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Flash cookies, please click here.
+We, along with certain third parties, may use other kinds of local storage technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Business Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Flash cookies, please [click here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
 
 Beacons
 
