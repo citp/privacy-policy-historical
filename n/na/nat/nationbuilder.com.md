@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206183047id_/https%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529180740id_/https%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - NationBuilder
 
