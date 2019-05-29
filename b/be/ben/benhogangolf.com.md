@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218092015id_/https%3A//benhogangolf.com/pages/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529032541id_/https%3A//benhogangolf.com/pages/privacy-terms) for the most accurate reproduction.*
 
 # Terms and Privacy – Ben Hogan Golf
 
