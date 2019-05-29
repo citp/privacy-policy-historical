@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907153048id_/https%3A//barnet.gov.uk/citizen-home/council-and-democracy/policy-and-performance/website-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnet.gov.uk privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529172717id_/https%3A//www.barnet.gov.uk/your-council/policies-plans-and-performance/privacy-policies/website-privacy-notice) for the most accurate reproduction.*
 
-# Privacy - barnet.gov.uk
+# Website privacy notice | Barnet Council
 
 This privacy notice is here to tell you what information we collect about you, what we do with that information and why we do it, who we share it with, and how we protect your privacy.
 
@@ -75,7 +75,7 @@ We consider Barnet to be a ‘commissioning council’, where we work with partn
 
 Our partners include Barnet Homes for housing services and Your Choice Barnet for specialist social care and support to adults. Companies that we ask to work on our behalf include Capita for the Customer Support Group (CSG) contract, who provide services such as HR and Revenues and Benefits, or the joint venture company Re Limited, for services such as planning and environmental health.
 
-We only share information with these organisations where the law says we must, or where the law says that we can. We require these organiations to follow the law, including data protection laws, and we make routine checks before information is shared, to make sure that these organisations have adequate systems and procedures in place to protect your information.
+We only share information with these organisations where the law says we must, or where the law says that we can. We require these organisations to follow the law, including data protection laws, and we make routine checks before information is shared, to make sure that these organisations have adequate systems and procedures in place to protect your information.
 
 ## What we do with your information
 
@@ -120,7 +120,7 @@ From 1 April 2015 the National Fraud Initiative has been conducted using the dat
 
 Data matching by the Cabinet Office is subject to a [code of practice](https://www.gov.uk/government/publications/code-of-data-matching-practice-for-national-fraud-initiative).
 
-For further information on the [Cabinet Office's legal powers](https://www.gov.uk/government/publications/fair-processing-national-fraud-initiative/fair-processing-level-3-full-text) and the reasons why it matches particular information please visit the Gov.uk website. 
+For further information on the [Cabinet Office's legal powers](https://www.gov.uk/government/publications/fair-processing-national-fraud-initiative/fair-processing-level-3-full-text) and the reasons why it matches particular information please [visit the GOV.uk website](https://www.gov.uk/government/publications/fair-processing-national-fraud-initiative/fair-processing-level-3-full-text "GOV uk"). 
 
 ## Safeguarding
 
@@ -162,7 +162,7 @@ MyAccount is the way to register with the council’s website to access informat
 
 Individuals like you (data subjects) have rights under data protection laws to control what information you provide to us and what we can do with it.
 
-Asking for your own information is called a [Subject Access Request (SAR) ](https://web.archive.org/citizen-home/council-and-democracy/data-protection-and-freedom-of-information/data-protection-act.html)
+Asking for your own information is called a [Subject Access Request (SAR) ](https://web.archive.org/node/1417)
 
 More details on your full rights under data protection law can be found on ICO website [link www.ico.org.uk].
 
@@ -184,7 +184,7 @@ Requests are free and we must respond with 30 days, unless your request is large
 
 If you can’t ask for your records in writing, we’ll help you to make your request. 
 
-Making a [Subject Access Request](https://web.archive.org/citizen-home/council-and-democracy/data-protection-and-freedom-of-information/data-protection-act.html)
+Making a [Subject Access Request](https://web.archive.org/node/1417)
 
 ## You can ask to change information you think is inaccurate
 
@@ -263,53 +263,94 @@ If you do not want to accept cookies, your browser can be set to automatically r
 
 You can find out more about cookies and how to manage them on the [GOV.UK website](https://www.gov.uk/help/cookies).
 
+### Controlling cookies
+
+You can use your web browser to:
+
+  * delete all cookies;
+  * block all cookies;
+  * allow all cookies;
+  * block ‘third-party’ cookies (ie, cookies set by online services other than the one you are visiting);
+  * clear all cookies when you close the browser;
+  * open a ‘private browsing’ / ‘incognito’ session, which allows you to browse the web without recording your browsing history or storing local data such as cookies (you should however be aware of the limitations of this feature in a privacy context); and
+  * install add-ons and plugins that extend browser functionality.
+
+
+
+### How to control cookies from your browser
+
+  * [Microsoft Edge cookies information](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy "External link")
+  * [Internet Explorer cookies information](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies "External link")
+  * [Chrome cookies information](https://support.google.com/chrome/answer/95647?hl=en-GB "External link")
+  * [Firefox cookies information](https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox "External link")
+  * Safari cookies information – [mobile devices](https://support.apple.com/en-gb/HT201265 "External link") and [desktops](https://support.apple.com/kb/PH21411?locale=en_GB "External link")
+  * [Opera cookies information](https://www.opera.com/help/tutorials/security/cookies/ "External link")
+
+
+
+For information on how private browsing works as well as its limitations, visit the support pages for your browser: [Microsoft Edge](https://support.microsoft.com/en-gb/help/4026200/windows-browse-inprivate-in-microsoft-edge "External link"), [Internet Explorer](https://support.microsoft.com/en-gb/help/17479/windows-internet-explorer-11-change-security-privacy-settings "External link"), [Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history "External link"), [Chrome](https://support.google.com/chrome/answer/95464 "External link"), Safari ([mobile](https://support.apple.com/en-gb/ht203036 "External link") and [desktop](https://support.apple.com/en-gb/guide/safari/browse-privately-ibrw1069/mac "External link")) and [Opera](https://help.opera.com/en/latest/security-and-privacy/#privateWindow "External link").
+
 Our cookie policy is set to be compliant with the EU Privacy and Electronic Communications Directive.
 
 ### The cookies we use
 
-**Name** | **Domain** | **Use**  
+Used for | Name | Domain  
 ---|---|---  
-_ga | .barnet.gov.uk | Google Analytics Cookie  
-_gat_UA-60148629-1 | .barnet.gov.uk | Google Analytics Cookie  
-_gid | .barnet.gov.uk | Google Analytics Cookie  
-IDE | .doubleclick.net | Google Advertising Cookie  
-act | .facebook.com | Facebook Tracking Cookie  
-c_user | .facebook.com | Facebook Tracking Cookie  
-datr | .facebook.com | Facebook Tracking Cookie  
-dpr | .facebook.com | Facebook Tracking Cookie  
-fr | .facebook.com | Facebook Tracking Cookie  
-m_pixel_ratio | .facebook.com | Facebook Tracking Cookie  
-pl | .facebook.com | Facebook Tracking Cookie  
-presence | .facebook.com | Facebook Tracking Cookie  
-sb | .facebook.com | Facebook Tracking Cookie  
-wd | .facebook.com | Facebook Tracking Cookie  
-1P_JAR | .google.co.uk | Google Tracking Cookie  
-APISID | .google.co.uk | Google Tracking Cookie  
-CONSENT | .google.co.uk | Google Tracking Cookie  
-HSID | .google.co.uk | Google Tracking Cookie  
-NID | .google.co.uk | Google Tracking Cookie  
-OGPC | .google.co.uk | Google Tracking Cookie  
-SAPISID | .google.co.uk | Google Tracking Cookie  
-SID | .google.co.uk | Google Tracking Cookie  
-SSID | .google.co.uk | Google Tracking Cookie  
-1P_JAR | .google.com | Google Tracking Cookie  
-AID | .google.com | Google Tracking Cookie  
-APISID | .google.com | Google Tracking Cookie  
-CONSENT | .google.com | Google Tracking Cookie  
-HSID | .google.com | Google Tracking Cookie  
-NID | .google.com | Google Tracking Cookie  
-S | .google.com | Google Tracking Cookie  
-SAPISID | .google.com | Google Tracking Cookie  
-SID | .google.com | Google Tracking Cookie  
-SIDCC | .google.com | Google Tracking Cookie  
-SSID | .google.com | Google Tracking Cookie  
-_ga | .govmetric.com | Gov Metric Tracker   
-qos_token | .openstreetmap.org | Open street map   
-AWSELB | [hitcounter.govmetric.com](http://hitcounter.govmetric.com/) | Govmetric Hit Counter  
-ASP.NET_SessionId | [barnet.moderngov.co.uk](http://barnet.moderngov.co.uk/) | Barnet commitee papers website cookie  
-JSESSIONID | [www.barnet.gov.uk](http://www.barnet.gov.uk/) | Login cookie  
-ROUTEID | [www.barnet.gov.uk](http://www.barnet.gov.uk/) | General cookie  
-JSESSIONID | [account.barnet.gov.uk](http://account.barnet.gov.uk/) | Session IDs for Myaccount users  
+Add to any social media sharing | __cfduid | .addtoany.com  
+  | 
+
+d2f0a4f08a0a6974d6360af1e0570b3df1551836630
+
+| .addtoany.com  
+  | __utmc | .twitter.com  
+  | _ga | .twitter.com  
+  | _twitter_sess | .twitter.com  
+  | ads_prefs | .twitter.com  
+  | auth_token | .twitter.com  
+  | csrf_same_site | .twitter.com  
+  | csrf_same_site_set | .twitter.com  
+  | dnt | .twitter.com  
+  | eu_cn | .twitter.com  
+  | guest_id | .twitter.com  
+  | kdt | .twitter.com  
+  | lang | cdn.syndication.twimg.com  
+  | nodocdom | .twitter.com  
+  | personalization_id | .twitter.com  
+  | remember_checked_on | .twitter.com  
+  | syndication_guest_id | .twitter.com  
+  | tfw_exp | .twitter.com  
+  | twid | .twitter.com  
+  | uvc |    
+Barnet.gov session ID | JSESSIONID | .barnet.gov.uk  
+Cookie consent alert dismissed | cookie_consent_dismissed | .barnet.gov.uk  
+Google analytics | _ga | .barnet.gov.uk  
+  | _gat | .barnet.gov.uk  
+  | _gid | .barnet.gov.uk  
+Google translate | googtrans | .barnet.gov.uk  
+Govmetric customer satisfaction survey | 
+
+AB8D31C10E1061F954F05641AB513060519B12781C4DB930F5112C1 BE3DA556399F23A78826245CC10863030EC99716F09DEE566339148
+
+7CE7720B1B08C5ED003EA3590364
+
+|    
+  | AWSELB | hitcounter.govmetric.com  
+  | AWSELB | websurveys2.govmetric.com  
+Load balancer route | ROUTEID | .barnet.gov.uk  
+MyAccount Session Id | _JAR | .google,com  
+  | APISID | .google.com  
+  | ASP.NET_sessionID. | .account.barnet.gov.uk  
+  | CONSENT | .google.com  
+  | GMAIL_RTT | .google.com  
+  | HSID | .google.com  
+  | JSESSIONID | .account.barnet.gov.uk  
+  | Lwa | .account.barnet.gov.uk  
+  | NID | .google.com  
+  | S | .google.com  
+  | SAPISID | .google.com  
+  | SID | .google.com  
+  | SIDCC | .google.com  
+  | SSID | .google.com  
   
 ## Computer viruses
 
