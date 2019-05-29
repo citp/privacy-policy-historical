@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samfrew.com privacy policy that was archived on 2018-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181216195055id_/https%3A//samfrew.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samfrew.com privacy policy that was archived on 2019-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190529084016id_/https%3A//samfrew.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -82,7 +82,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">Samfrew.com</a>
+          <a class="navbar-brand" href="/">SAMFREW.com</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -161,7 +161,10 @@
     <input type="submit" class="fm-search-buttonX button btn btn-smX btn-success " value="Search">
 </form>
 
-                                                  <ol class="breadcrumb">
+                                  
+
+
+                <ol class="breadcrumb">
                   <li><a href="/">Home</a></li>
                   <li class="active"><a href="https://samfrew.com/privacy-policy/">Privacy Policy</a></li>
                 </ol>
@@ -209,9 +212,11 @@ Please note that when you make payments to Samfrew.com, the information you prov
 </div>
                       <hr>
       <footer>
-        <span class="pull-left">© 2015, 2018</span>
+        <span class="pull-left">© 2015, 2019</span>
           <ul class="nav pull-right navbar-nav">
-            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+              <li><a href="/privacy-policy/">Privacy Policy</a></li>
+              <li><a href="/tos/">TOS</a></li>
+              <li><a href="/contact/">Contact</a></li>
                       </ul>
           <span class="pull-left" style="clear: left;">
               <span><a href="mailto:support@samfrew.com">support@samfrew.com</a></span>
@@ -249,10 +254,18 @@ Please note that when you make payments to Samfrew.com, the information you prov
     </script>
 <script>
 $(function () {
-    $( ".adsbygoogle" ).each(function() {
-      (adsbygoogle = window.adsbygoogle || []).push({});
-    });
-    $('[data-toggle="tooltip"]').tooltip();
+        if ($( ".adsbygoogle" ).length) {
+        $( ".adsbygoogle" ).each(function() {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        });
+    }
+    else {
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-5272736831824495",
+            enable_page_level_ads: true
+        });
+    }
+        $('[data-toggle="tooltip"]').tooltip();
     $('.container .row').on('click', '.fm-also-version', function() {
         $(this).toggleClass('fm-also-version-active').next().toggle();
     });
