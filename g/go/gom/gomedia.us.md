@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomedia.us privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530093810id_/http%3A//gomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomedia.us privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530003158id_/https%3A//gomedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Go Media - Creativity at Work
 
@@ -6,11 +6,11 @@ Protecting your private information is a steadfast & ongoing priority at Go Med
 
 #### Collection of your Personal Information
 
-Go Media may collect personally identifiable information, such as your name. If you purchase Go Media’s products and services, we collect billing, credit card information & potentially checking account information. This information is used to complete purchase transactions agreed to deliberately by you, the customer, explicitly through the action of standard E-commerce checkout or a contractual agreement set forth in writing by you and Go Media Inc.. We may gather additional personal or non-personal information related to your needs and transparently provided by you, the customer.
+Go Media may collect personally identifiable information, such as your name. If you purchase Go Media's products and services, we collect billing, credit card information & potentially checking account information. This information is used to complete purchase transactions agreed to deliberately by you, the customer, explicitly through the action of standard E-commerce checkout or a contractual agreement set forth in writing by you and Go Media Inc.. We may gather additional personal or non-personal information related to your needs and transparently provided by you, the customer.
 
 Information about your computer hardware and software may be automatically collected by Go Media servers. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of a Go Media website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Go Media’s public message boards, this information may be collected and used by others.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Go Media's public message boards, this information may be collected and used by others.
 
 Go Media encourages you to review the privacy statements of websites you choose to link to from Go Media so that you can understand how those websites collect, use and share your information. Go Media is not responsible for the privacy statements or other content on websites outside of the Go Media website.
 
@@ -30,11 +30,15 @@ Go Media will disclose your personal information, without notice, only if requir
 
 #### Use of Cookies
 
-The Go Media website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Go Media website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time, such as automatic completion of form fields or templates or to save user decisions for future use. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Go Media pages, or register with Go Media site or services, a cookie helps Go Media to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Go Media website, the information you previously provided can be retrieved, so you can easily use the Go Media features that you customized.
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Go Media services or websites you visit.
+
+#### Use of Cookies for Retargeting Measures
+
+Go Media uses cookies from Google Analytics and Google AdWords to help us both advertise our services on the Internet. AdWords remarketing will display relevant ads tailored to you based on your activity on our website. This happens through the use of tracking cookies. These cookies do not collect identifiable information, nor gain access to your computer. You may opt-out of Google's use of cookies by updating your [ad settings](https://www.google.com/settings/). Thank you!
 
 #### Security of your Personal Information
 
@@ -42,7 +46,7 @@ To secure your personal information from unauthorized access, use or disclosure,
 
   * Payment information is securely stored offsite by the PCI DSS compliant infrastructure provided by [Authorize.net Customer Information Manager](http://www.authorize.net/solutions/merchantsolutions/merchantservices/cim/).
   * Go Media E-commerce servers are maintained for PCI compliance with vulnerability testing performed quarterly by [Trustwave Holdings Inc](https://www.trustwave.com/).
-  * [Geotrust](https://www.geotrust.com/), a Verisign company provides Go Media’s 256 Bit SSL encryption certificate services. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. GeoTrust/Verisign is an independent, third-party company engaged in the development of digital trust. Verisign provides authentication of Internet services, digital identity and intellectual property.
+  * [Geotrust](https://www.geotrust.com/), a Verisign company provides Go Media's 256 Bit SSL encryption certificate services. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. GeoTrust/Verisign is an independent, third-party company engaged in the development of digital trust. Verisign provides authentication of Internet services, digital identity and intellectual property.
 
 
 
