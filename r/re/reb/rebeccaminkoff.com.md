@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221112457id_/https%3A//www.rebeccaminkoff.com/pages/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529021737id_/https%3A//www.rebeccaminkoff.com/pages/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security – Rebecca Minkoff
 
@@ -110,6 +110,8 @@ Others with Whom We May Share Your Information
 
 Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing e-mails; (c) assist us with direct marketing and data collection; (d) provide us data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone and (g) other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in the agreements.
 
+If you use a social media platform (such as Facebook) or a mobile device or application to interact with the Website, there may be a specific privacy statement and/or policy that governs the use of Personal Data related to that platform or application. For example, if you use a mobile application and your mobile device’s settings allow it, Other may collect mobile location information from your device, whether or not you are logged into our Website. If you have questions about the security and privacy settings of your mobile device please refer to instructions from your mobile service provider or the manufacturer of your device, and for any third-party platform you use to access our Website, please review their privacy policies and terms of use.
+
 Compliance with Law: We may provide access to information when legally required to do so, to cooperate with legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this website or the public.
 
 Links to other sites
@@ -120,7 +122,7 @@ In addition, our privacy practices may differ from those of these other sites. I
 
 User Content
 
-Rebecca Minkoff doesn't claim any ownership in any content that you upload on the Website, through a mobile application, blog or via any form of social media channel (including by submitting an image to your social media using the hashtags #MyRM, #MyUM, #rebeccaminkoff, #uriminkoff, #RMwatches) ("User Content"). After posting User Content, you retain the ownership right to all content, but you hereby grant to Rebecca Minkoff an irrevocable, fully-paid, worldwide, non-exclusive limited license to modify, publicly perform, display, reproduce, distribute, transmit, and copy the User Content on the Website, Rebecca Minkoff app, mobile website, email, and all applicable social channels, including but not limited to Facebook, Twitter, and Instagram.
+Rebecca Minkoff doesn't claim any ownership in any content that you upload on the Website, through a mobile application, blog or via any form of social media channel (including by submitting an image to your social media using the hashtags #MyRM, #MyUM, #rebeccaminkoff, #uriminkoff, #RMwatches, #RMFestival or @rebeccaminkoff) ("User Content"). After posting User Content, you retain the ownership right to all content, but you hereby grant to Rebecca Minkoff an irrevocable, fully-paid, worldwide, non-exclusive limited license to modify, publicly perform, display, reproduce, distribute, transmit, and copy the User Content on the Website, Rebecca Minkoff app, mobile website, email, and all applicable social channels, including but not limited to Facebook, Twitter, and Instagram.
 
 Accordingly, you represent and warrant that you own all rights to the User Content that you upload to the Website, and it doesn't infringe on any other intellectual property rights, privacy rights, or publicity rights.
 
