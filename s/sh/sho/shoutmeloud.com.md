@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025014id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529123037id_/https%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 Your Consent
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 Changes to our Privacy Policy
 
