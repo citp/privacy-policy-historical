@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lifegooroo.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127143038id_/http%3A//www.lifegooroo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifegooroo.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529101553id_/http%3A//www.lifegooroo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at S.Hugi Software & Investments Ltd, Israel. Company Number: 515437572, Address: 61 Eilat St, Tel Aviv, IL.
+
+Software & Investments Ltd. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Companies online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Companies [Terms of Service](http://www.lifegooroo.com/terms-use.html "Terms").
 
