@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommerceiq.asia privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125142434id_/https%3A//ecommerceiq.asia/editorial-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommerceiq.asia privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529154518id_/https%3A//ecommerceiq.asia/editorial-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ecommerceIQ - Ecommerce in Southeast Asia, Reports, Data, Insights
 
