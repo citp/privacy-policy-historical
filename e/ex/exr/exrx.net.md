@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exrx.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224102432id_/https%3A//exrx.net/Notes/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exrx.net privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529194638id_/https%3A//www.exrx.net/Notes/Privacy) for the most accurate reproduction.*
 
 # ExRx.net : Privacy
 
@@ -74,9 +74,9 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google's
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-**Amazon**
+**Ezoic**
 
-We may promote selected products or services on Amazon that our customers might find useful. More information can be seen by visiting [Amazon privacy](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496) page.
+A portion of our traffic is routed through Ezoic which optimizes ads based on a user experience and ad revenues for particular demographics. You may review or customize your privacy consent setting  through [Ezoic's customized privacy policy](https://g.ezoic.net/privacy/exrx.net) for ExRx.net visitors. 
 
 **YouTube**
 
@@ -142,7 +142,7 @@ We collect your email address in order to:
 
 To be in accordance with CANSPAM, we agree to the following:
 
-If at any time you would like to unsubscribe from receiving future emails, you can simply reply to the corresponding email with the word "Unsubscribe" and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can simply reply to the corresponding email with the word "Unsubscribe" in the SUBJECT LINE and we will promptly remove you from ALL correspondence.
 
 ###   
 How to Reach Us
@@ -153,11 +153,6 @@ ExRx.net, LLC
 9 E Ottawa St  
 Paola, KS 66071
 
-Email: feedback@exrx.net  
-Phone: 816-728-3979 during business hours (central time)
+Email: [[email protected]](https://exrx.net/cdn-cgi/l/email-protection)
 
-##### Last updated on 01 June 2018
-
-* * *
-
-[Home](http://exrx.net/) | [Privacy](http://exrx.net/Notes/Privacy) | [Terms](http://exrx.net/Notes/Legal)
+##### Last updated on 15 May 2019
