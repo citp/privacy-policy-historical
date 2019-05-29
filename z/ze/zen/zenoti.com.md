@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenoti.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826223222id_/https%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoti.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529054414id_/https%3A//www.zenoti.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zenoti | Spa and Salon Software
 
