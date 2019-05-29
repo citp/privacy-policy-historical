@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220215616id_/https%3A//www.cincopa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530012325id_/https%3A//www.cincopa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cincopa.com
 
-**(Last Updated: December 10, 2015)**
+**(Last Updated: March 5, 2019)**
 
 By using the Site or the Products available through the www.cincopa.com Site (the "Product"), you consent to the privacy practices described in this Policy.
 
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Product to see if it has been updated since your last visit.
 
 **Information Collected.**
+
+Cincopa is now GDPR-compliant, for more information visit [Cincopa GDPR Compliance & Data Privacy FAQ](https://web.archive.org/help/cincopa-gdpr-compliance-data-privacy-faq/). 
 
 We collect two basic types of information with our Product, namely personal information and aggregate information.  As used herein, the term "personal information" means information that specifically identifies an individual (such as a name and e-mail address), and demographic and other information about an individual when directly linked to personally identifiable information.  A user name may be personal information if it includes personally identifying information such as a first and last name.
 
