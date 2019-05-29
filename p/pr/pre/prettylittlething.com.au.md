@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettylittlething.com.au privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027184232id_/https%3A//www.prettylittlething.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylittlething.com.au privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529083756id_/https%3A//www.prettylittlething.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PrettyLittleThing AUS
 
