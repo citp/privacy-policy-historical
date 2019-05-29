@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626055417id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529083145id_/https%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy Policy Information - Hotel Chocolat
 
@@ -71,7 +71,7 @@ We collect:
 
 *When you visit [www.hotelchocolat.com](https://www.hotelchocolat.com/uk) the Hotel Chocolat web server may automatically record your public internet protocol (IP) address used to connect your computer to the Internet.
 
-** Like most websites, we also use cookies to help make the experience of using our website better and to personalise the service you receive from us. For more information please see our [Cookie Policy](http://www.hotelchocolat.com/uk/help/cookies-policy.html)
+** Like most websites, we also use cookies to help make the experience of using our website better and to personalise the service you receive from us. For more information please see our [Cookie Policy](https://www.hotelchocolat.com/uk/help/cookies-policy.html)
 
 **3) How we use your Data and why**
 
@@ -86,6 +86,8 @@ We are permitted by Data Protection Legislation to process your personal data in
 
 
 We will make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+
+Your data is also anonymised and then used to optimise Hotel Chocolat systems and procedures.
 
 We have set out in more detail below the specific purposes for using your information and the legal basis we are relying on to process your information.
 
@@ -169,10 +171,10 @@ You can stop receiving marketing messages from us at any time. Once you do this,
 
 You can unsubscribe in a number of ways.
 
-  * If you do not wish to receive any further posted mailings from us, please email: [customerservice@hotelchocolat.com](mailto:customerservice@hotelchocolat.com). Please ensure you include your full name and address as well as account number if applicable. As catalogues are printed in advance, it may take up to 8 weeks for the process to be complete, for emails it may take up to 4 weeks.
-  * You can un-subscribe from email and SMS messages, including our newsletters and alerts, at any time by clicking the un-subscribe link that comes within every communication we have sent to you. Or, you can log in to your account and update your preferences in the [My Account](http://www.hotelchocolat.com/uk/my-account) Section of our website.
-  * If you have opted in on our website to receive offers in the post from companies who we think may be of interest to you, but have now changed your mind, please login to the [My Account](http://www.hotelchocolat.com/uk/my-account) Section of our website and change your preferences.
-  * Alternatively, just emai customerservice@hotelchocolat.com with "UNSUBSCRIBE REQUEST" in the subject line and the email address that you wish to be removed within the email. We will action any unsubscribe request from you as promptly as possible.
+  * If you do not wish to receive any further posted mailings from us, please email: [help@hotelchocolat.com](mailto:help@hotelchocolat.com). Please ensure you include your full name and address as well as account number if applicable. As catalogues are printed in advance, it may take up to 8 weeks for the process to be complete, for emails it may take up to 4 weeks.
+  * You can un-subscribe from email and SMS messages, including our newsletters and alerts, at any time by clicking the un-subscribe link that comes within every communication we have sent to you. Or, you can log in to your account and update your preferences in the [My Account](https://www.hotelchocolat.com/uk/my-account) Section of our website.
+  * If you have opted in on our website to receive offers in the post from companies who we think may be of interest to you, but have now changed your mind, please login to the [My Account](https://www.hotelchocolat.com/uk/my-account) Section of our website and change your preferences.
+  * Alternatively, just emai help@hotelchocolat.com with "UNSUBSCRIBE REQUEST" in the subject line and the email address that you wish to be removed within the email. We will action any unsubscribe request from you as promptly as possible.
 
 
 
@@ -206,7 +208,7 @@ You have a lot of rights relating to your personal information: And it is import
   * The right to access the personal information we hold about you.
   * The right to request the correction of inaccurate personal information we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us. You can update your information in the My Account Section of the website or email us at DSARRequests@hotelchocolat.com
   * The right to request that we delete your data, or stop processing it or collecting it, where there is no good reason for us continuing to process it or where we may have processed your information unlawfully or we are otherwise required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
-  * The right to ask us to stop or start sending you direct marketing messages, which for electronic communications you can do through via the My Account Section of our website, or for postal mailings please email: customerservice@hotelchocolat.com. Please ensure you include your full name and address as well as account number if applicable... See Section 6 for more information about your right to un-subscribe from receiving marketing communications.
+  * The right to ask us to stop or start sending you direct marketing messages, which for electronic communications you can do through via the My Account Section of our website, or for postal mailings please email: help@hotelchocolat.com. Please ensure you include your full name and address as well as account number if applicable... See Section 6 for more information about your right to un-subscribe from receiving marketing communications.
   * The right to withdraw consent to our processing of your personal data (to the extent we are relying on consent to process your personal data). If you withdraw your consent, we may not be able to provide certain products or services to you.
   * The right to request that we transfer or port elements of your data either to you or another service provider in certain circumstances.
   * The right to complain to your data protection regulator — in the UK, the Information Commissioner’s Office regulates and supervises the use of personal data-via their helpline on 03031231113.
