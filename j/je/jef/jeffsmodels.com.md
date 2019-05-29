@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffsmodels.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630140033id_/http%3A//jeffsmodels.com/t1/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffsmodels.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529022605id_/https%3A//jeffsmodels.com/t1/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
