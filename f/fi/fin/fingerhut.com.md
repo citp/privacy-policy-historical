@@ -1,93 +1,183 @@
-> *The following text is extracted and transformed from the fingerhut.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105172420id_/http%3A//www.fingerhut.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fingerhut.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529081637id_/https%3A//www.fingerhut.com/content/PrivacyOnline) for the most accurate reproduction.*
 
-# FiNGERHUT.com - Security and Privacy Policy
+# Fingerhut
 
-**FINGERHUT.COM**  
+**FINGERHUT.COM**
+
 **Online Privacy Policy**
 
-**IMPORTANT: PLEASE REVIEW THIS ONLINE PRIVACY POLICY BEFORE SUBMITTING ANY PERSONAL INFORMATION TO FINGERHUT THROUGH THIS SITE.**
+**Effective Date: January 2017**
 
-**BY SUBMITTING PERSONAL INFORMATION TO FINGERHUT THROUGH THIS SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, TRANSFER, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.**
+Welcome to Fingerhut.com (this "Site").
 
-Fingerhut cares about protecting our customers’ privacy. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as described in this Privacy Policy. 
+Fingerhut (“we,” “us,” “our,” and “Fingerhut”) cares about your privacy. We value your trust and will work hard to earn and keep it.
 
-**Your Privacy Rights**  
-This Privacy Policy explains what personal information and personally identifiable information Fingerhut collects, with whom we share it and how you can direct us not to share certain information with certain parties. This Policy also explains how we protect the security and confidentiality of your personal information and personally identifiable information. 
+**Scope of This Privacy Policy**   
+This Online Privacy Policy (this “Privacy Policy”) covers all of the “personal information” we collect through this Site, except the information you provide when you apply for a WebBank/Fingerhut Credit Account. The personal information you provide when you apply for a WebBank/Fingerhut Credit Account is collected on behalf of WebBank and is covered by the [WebBank Privacy Policy](https://web.archive.org/assets/f/nonselling/WebBankFingerhutPrivacy.pdf).
 
-The phrases "personal information" or "personally identifiable information" mean any information by which you can be identified including your name, address, telephone number, email address, Social Security Number and other information. This Policy applies to users accessing our website from the United States. 
+**What is Personal Information?**   
+“Personal Information” is information that identifies you personally, either alone or in combination with other information available to us. Examples of personal information include your name, address, email address, credit card information, and the information you provide when you make a purchase.
 
-Social Security Numbers will not be shared with any party outside of our credit management process, for the purposes of opening and managing a CIT Bank/Fingerhut Credit account, managing our collections process, and/or processing electronic checks. 
+**Your Consent**   
+PLEASE READ THIS PRIVACY POLICY. BY ACCESSING OR USING THIS SITE YOU ARE CONSENTING TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY.
 
-As part of our commitment to your privacy, Fingerhut adheres to the guidelines and practices of the Direct Marketing Association’s "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of how to opt out of information rentals, sale or exchange with other marketers, (2) honor customers' requests not to share their information with other marketers, and (3) honor customers' requests not to receive mail, telephone, email or other solicitations from Fingerhut or our advertising affiliates and partners. 
+If you do not consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy, please do not use this Site.
 
-**This Privacy Policy is Part of Our Terms of Use**  
-This Privacy Policy is incorporated by reference and is part of the Fingerhut Terms of Use ("Terms of Use") governing your use of this Site. Our Terms of Use contain the terms on which you may purchase products and/or services through this Site. Please take a few minutes to review our Terms of Use, if you have not already done so. You may access the current version of the Terms of Use at any time by clicking on the link marked "Terms of Use" at the bottom of each page of this Site. 
+**This Privacy Policy is Part of Our Terms of Use**   
+This Privacy Policy is incorporated by reference and is part of the Fingerhut Terms of Use (“Terms of Use”) governing your use of this Site. Our Terms of Use contain the terms on which you may purchase products and services through this Site. Please read our Terms of Use, if you have not already done so. You may access the current version of the Terms of Use at any time by clicking on the link marked “Terms of Use” at the bottom of each page of this Site.
 
-**This Privacy Policy May Change**  
-We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Site. These changes will only apply to personal information we collect after we have posted the revised Privacy Policy. Your use of this Site following any such change constitutes your agreement that all personal information collected from or about you through this Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. 
+**This Privacy Policy May Change**   
+We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on this Site. These changes will only apply to personal information we collect after we have posted the revised Privacy Policy. Your use of this Site following any such change constitutes your agreement that all personal information collected from or about you through this Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy. For this reason, it is important to review this Privacy Policy regularly. If we modify this Privacy Policy, we will provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date.
 
-To alert you to these changes, we will update the effective date of this Privacy Policy. You may access the current version of this Privacy Policy at any time by clicking on the link marked "Privacy and Security" at the bottom of each page of this Site. 
+You may access the current version of this Privacy Policy at any time by clicking on the link marked “Privacy and Security” at the bottom of each page of this Site. For your convenience, we post the effective date of this Privacy Policy at the top of this page, so that you can see whether this Privacy Policy has changed since your last visit.
 
-**Information We Collect**  
-In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. However, we collect information that is sent to us automatically by your web browser, which allows us to track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individuals remain anonymous unless you voluntarily tell us who you are. 
+**Privacy Notices**   
+This Privacy Policy may be supplemented or amended from time to time by “privacy notices” posted on this Site. Generally, privacy notices provide details about the personal information we collect on particular pages or particular areas of this Site, why we need that information, and choices you may have about the ways we use that information. Our privacy notices are part of this Privacy Policy.
 
-However, if you have created a user identity on one of your visits to this Site (for example, by making a purchase), we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share portions of our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative and/or law enforcement authorities who may use that information to trace and identify individuals. 
+**Agreements Governing Specific Features and Password-Protected Areas of This Site**   
+This Privacy Policy may be supplemented or amended by special terms and conditions governing specific features or password-protected areas of this Site. When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of the click-through agreement are different than the terms of this Privacy Policy, the terms of the click-through agreement will supplement or amend this Privacy Policy, but only with respect to the matters governed by the “click-through agreement.”
 
-**Information You Volunteer**  
-We collect the personal information that you knowingly and voluntarily provide when you use this Site, for example, the information you provide when you request information about products or services, request a catalog, purchase a product or service, apply for credit, contact us regarding a purchase, or enter a contest or promotion. This information may include your name, shipping/billing address, email address, phone number, credit card information, Social Security Number, birth date, gender, occupation and personal interests and information used to verify your identity or for fraud prevention purposes. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our website. 
+**Separate Privacy Policies Governing WebBank/Fingerhut Credit Accounts**   
+All WebBank/Fingerhut Credit Account Holders. Please be aware that the personal information you provide when you apply for a WebBank/Fingerhut Credit Account is collected for WebBank the Issuer of the Fingerhut Credit Account and is not covered by this Privacy Policy. If you apply and are approved for a WebBank/Fingerhut Credit Account, we will provide you with a separate copy of the [WebBank Privacy Policy](https://web.archive.org/assets/f/nonselling/WebBankFingerhutPrivacy.pdf) describing how WebBank collects, uses, shares and protects the personal information collected in connection with your WebBank/Fingerhut Credit Account.
 
-**Information Provided by Third Parties**  
-When you apply for credit on this Site, we will collect personal information from credit bureaus. And when you use a credit card on this Site, we may use a third party to process your credit card. The third party will inform us whether your credit card has been accepted, so that we can complete your transaction. 
+Fingerhut services WebBank/Fingerhut Credit Accounts. Fingerhut will provide you with a separate notice (“WebBank/Fingerhut Credit Account Privacy Policy”) describing how we collect, use, share and protect the personal information we collect in connection with your WebBank/Fingerhut Credit Account (your “Credit Account Information”). Your Credit Account Information may include your name and contact information; information about your credit history and credit scores; and information about your account balances and payment history. Our WebBank/Fingerhut Credit Account Privacy Policy also describes the choices you have about the ways we use and share the personal information we collect in connection with your WebBank/Fingerhut Credit Account. If any of the terms of the WebBank/Fingerhut Credit Account Privacy Policy are different than the terms of this Privacy Policy, the terms of the WebBank/Fingerhut Credit Account Privacy Policy will supplement or amend this Privacy Policy, but only with respect to the personal information we collect in connection with your Credit Account Information. For more information, view our current [WebBank/Fingerhut Credit Account Privacy Policy](https://s7d5.scene7.com/is/content/bluestembrands/eCatalog/FHT/1601_PrivacyPolicy/FHT_Privacy%2001_16.pdf).
 
-**Cookies and Web Beacons**  
-We use "cookies," and similar technologies, such as Web Beacons (also referred to as "GIF files," "pixels," or "action tags"), to collect personal information and support the functionality of this Site. For more information about our use of cookies and Web Beacons, see below. 
+_California Residents._ If you are a California resident, we will send you a California Privacy Statement when you open a WebBank/Fingerhut Credit Account. Our California Privacy Statement describes some of the choices you have about the ways we share your personal information. If any of the terms of our California Privacy Statement are different than the terms of this Privacy Policy or the WebBank/Fingerhut Credit Account Privacy Policy, the California Privacy Statement will govern. For more information, view our current [California Privacy Statement](https://web.archive.org/assets/f/nonselling/fingerhutcaliforniaprivacynotice.pdf).
 
-A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns. Using cookies permits us to provide you with a more personalized shopping experience, provide appropriate website security and, in some cases, may save you the trouble of re-entering information already in our database. 
+_Vermont Residents._ If you are a Vermont resident, we will send you a Vermont Privacy Statement when you open a WebBank/Fingerhut Credit Account. Our Vermont Privacy Statement describes some of the choices you have about the ways we share your personal information. If any of the terms of our Vermont Privacy Statement are different than the terms of this Privacy Policy or the WebBank/Fingerhut Credit Account Privacy Policy, the Vermont Privacy Statement will govern. For more information, view our current [Vermont Privacy Statement](https://web.archive.org/assets/f/nonselling/fingerhutvermontprivacynotice.pdf).
 
-You can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. You may also delete our cookies as soon as you leave our Site. Although you are not required to accept our cookies, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this Site including managing site security for your individual protection and being able to purchase products and services on this Site. 
+**WHAT PERSONAL INFORMATION DOES FINGERHUT COLLECT THROUGH THIS SITE?**
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends and customize the message and delivery of online banner ads based on your online behavior. If you do not want to receive future online banner ads based on your online behavior, use the following link and click the SELECT ALL button on the opening page: <http://www.networkadvertising.org/managing/opt_out.asp>. 
+**Information You Give To Us**   
+We collect the personal information that you knowingly and voluntarily provide when you use this Site. For example, we collect the information you provide when you request information about products or services, request a catalog, purchase a product or service, contact us regarding a purchase, or enter a contest or promotion. This information may include your name, shipping/billing address, email address, phone or mobile phone number, credit or debit card information, Social Security number, age, birth date, gender, purchase/return/exchange information occupation, personal interests, and information used to verify your identity or for fraud prevention purposes. Whether to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on this Site.
 
-Web Beacons help us recognize a unique cookie on your browser. We use this tool to compile aggregate information about you, and it is not personally identifiable. This information includes IP addresses, search terms, domain names, and browser types. We use this information to track usage and other patterns on our website. We may share this aggregate information with our Marketing Partners or Service Providers to provide you with additional information about things that may be of interest to you or to enhance your shopping experience. 
+**Supplemental Information**   
+To serve you better, we may combine information you give us by shopping our catalogs with the information we collect through this Site. We may also supplement the information we collect through this Site with information that is publicly available such as information based on your address, zip code or information you submit in a public forum (e.g. a blog, chat room, or social network). We may also supplement the information we collect through this Site within information we receive from or cross-reference with our Marketing Partners. We may also collect information regarding payment on your WebBank/Fingerhut Credit Account. When you apply for credit on this Site, personal information may be obtained about you from credit bureaus. To learn more about the ways we protect your privacy in association with your WebBank/Fingerhut Credit Account, see our [WebBank/Fingerhut Credit Account Privacy Policy](https://s7d5.scene7.com/is/content/bluestembrands/eCatalog/FHT/1601_PrivacyPolicy/FHT_Privacy%2001_16.pdf).
 
-**Using Information About You**  
-We use the personal information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about Fingerhut. 
+**Information Sent to Us by Your Web Browser**   
+We collect information that is sent to us automatically by your Web browser. This information typically includes the IP address of your Internet service provider, your IP-based geographic location, the name and version of your operating system, the name and version of your browser, the date and time of your visit, the pages you visit and the web address you came from. Please check your browser if you want to learn what information your browser sends or how to change your settings. This information sent to us by your Web browser does not identify you personally. If, however, you have created a user identity on one of your visits to this Site (for example, by making a purchase), we may link the information provided by your browser to information that identifies you personally and use it for the purposes described below. In addition, we may review our server logs for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share portions of our server logs -- which contain visitors' IP addresses -- with the appropriate investigative and/or law enforcement authorities who may use that information to trace and identify individuals.
 
-From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy. These are known as our Marketing Partners. In such cases we might share and cross-reference information, including some personally identifiable information about you, to enable such persons or entities to contact you regarding products and services that may be of interest to you. We only share the information we believe is appropriate to enable the Marketing Partners to carry out their responsibilities under our contracts, and we require that the information be used only for the specifically authorized purpose and that its confidentiality be maintained. 
+**Information Collected Using Cookies and Similar Technologies  
+** We use “cookies” and similar technologies, such as Web beacons (also referred to as “GIF files,” “pixels,” or “action tags”), to collect information and support certain features of this Site. For example, we may use these technologies to:
 
-To serve you better, we may combine information you give us online or through our catalogs. We may also combine that information with publicly available information and information we receive from or cross-reference with our Marketing Partners. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes. 
+  * collect information that may include which pages you visit, which web address you came from, which links you use, and how long you stay on each page the type of browser/device/hardware you are using, purchase and checkout process, search terms you use and IP-based geographic location;
+  * support the features and functionality of this Site - for example, to track the items you add to your shopping cart or to track your order;
+  * customize your Site experience and our advertising and marketing to you including Fingerhut advertising and marketing presented on another website or mobile application;
+  * save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits to this Site;
+  * personalize your shopping experience;
+  * manage and determine the effectiveness of our advertising and marketing efforts including how you respond to our advertising and marketing efforts;
+  * provide site security and or fraud prevention purposes.
 
-We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, collections processing, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We may disclose some of your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may seek to cause injury to you, to Fingerhut or to others. We will disclose your personally identifiable information when required to by law through properly served subpoena if we believe it necessary. 
 
-**Email Privacy**  
-Email is not a secure means of communication under most circumstances. Never provide sensitive personal information (i.e. SSN, driver's license number or third party credit card information) to us via email. Use the appropriate website secured websites to communicate this information or contact us by telephone with your customer number. 
 
-Fingerhut will not sell, trade, share or rent the email address you provide to Fingerhut to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer support, and to update you on Internet specials that you have requested. 
+Generally, the information we collect using these Web technologies does not identify you personally. If, however, you have created a user identity, for example, by applying for credit, we may link the information we collect using Web technologies to other information that identifies you personally.
 
-**Your Right Not To Have Your Personal Information Shared**  
-We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our Marketing Partners and/ or our Service Partners, use the link listed above to opt-out of their services. If you choose not to receive information from us, please let us know by calling us at 1-800-208-2500, by going to the "My Account" section of this Site and changing your profile by unchecking the Opt-in box, or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com). Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as "no phone offers", "no mail offers", "no email offers", or "no sharing of information with partners". DO NOT include your SSN or account number in the email, but DO provide us with your customer number. 
+If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete cookies as soon as you leave a site. Although you are not required to accept our cookies when you visit this Site, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of this Site.
 
-Sending us such a request will not remove you from our mailing or calling lists for purposes of your credit account and the proper management of the payment and purchases under that account. 
+**Information Collected by Third Party Advertising and Marketing Consultants**   
+Third Party Advertising and Marketing Consultants use cookies, web beacons and other Web technologies to collect certain information about visitors to this Site. For interest-based advertising also known as online behavioral advertising (OBA). As a result, third-party advertising and marketing companies may display on-line advertising for Fingerhut or other companies to you on this Site and on other websites. The information these third party advertising and marketing consultants collect and use includes non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g. IP address).
 
-We will respond to reasonable requests within a reasonable time but please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings. In addition, when you purchase from us online or through our catalogs, we may need to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive communications. 
+**Social Media Widgets**   
+This Site includes social media features, such as the Facebook Like button, Google Plus, Pinterest, and Twitter widgets. These features may collect information about your IP address and which page you're visiting on our Site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with those features are governed by the privacy policies of the companies that provide them. 
 
-**Updating, Correcting and Deleting Information About You**  
-If you would like to update or correct your email address, street address or other personal information with us please let us know by calling us at 1-800-208-2500 or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com). Please be sure to include your email address, full name, and specifically what information you would like to update or correct. DO NOT include your SSN or account number in the email, but DO provide us with your customer number. Please remember, if you delete certain information you may not be able to continue to purchase products or access other portions of our website without entering additional information. 
+**How Does Fingerhut Use Your Personal Information?**   
+We use the personal information we collect through this Site:
 
-**Protecting Children**  
-Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the Children’s On-line Privacy Protection Act of the United States. If you believe that we have received information from a child or other person protected under such law, please notify us immediately by calling us at 1-800-208-2500 or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com), and we will take reasonable steps to remove that information from our database. 
+  
 
-Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. 
 
-**Security and Confidentiality**  
-Safeguarding customer information is important to us. Once we receive your transmission we will do our best to protect its security on our systems. We restrict access to personal information about you to those employees who need to know that information to provide products or services to you. 
+  * to provide the products, information and services you request;
+  * for security, credit or fraud prevention purposes;
+  * to provide you with effective customer service;
+  * to provide you with a personalized experience when you use this Site;
+  * to display personalized advertising when you visit this Site;
+  * to contact you with special offers and other information we believe will be of interest to you (but only with your permission);
+  * to contact you with information and notices related to your use of this Site;
+  * to invite you to participate in surveys and provide feedback to us;
+  * to invite you to participate in and administer sweepstakes and contests; to better understand your needs and interests;
+  * to improve the content, functionality and usability of this Site;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose identified in an applicable privacy notice or other agreement between Fingerhut and you.
 
-We maintain reasonable physical, electronic and procedural safeguards to guard your personal information. While Fingerhut makes best efforts to protect all customer data provided to us, no data transmission over the Internet can ever be guaranteed 100% secure. We only warrant that our security and the security of any information you transmit to or from our website is reasonable and implemented using best practice and regulatory requirements, and you provide your personal information at your own risk. 
 
-**Links to Third Party Sites**  
-Our Site contains links to websites operated and maintained by Fingerhut Marketing Partners as well as websites owned and operated by third parties, over which we have no control. Privacy policies on such linked sites may be different from our Privacy Policy. You should always read the privacy policies on those sites before disclosing any personal information. 
 
-**Contact Us**  
-If you have any questions regarding any information contained in this Privacy Policy please contact us at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com). 
+To learn more about the choices you have about the ways we use your personal information, see "Your Choices".
 
-**LAST UPDATED April 2009.**
+**HOW DOES FINGERHUT SHARE MY PERSONAL INFORMATON?**
+
+**Service Providers**   
+We share personal information with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as credit card processing services, data storage services, and web hosting services) or that help us market our products and services (such as third-party email marketing companies). These third parties are required by contract to use the personal information we share with them only to perform services on our behalf and to take commercially reasonable measures to protect the confidentiality and security of your personal information.
+
+**With Our Marketing Partners**   
+From time to time we may establish a business relationship with third parties whom we believe trustworthy. These are known as our “Marketing Partners.” In such cases, we may share and cross-reference information, including some personal information about you, so that our Marketing Partners can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our Marketing Partners, you may “opt-out” at any time using one of the methods described below.
+
+**With Our Affiliates**   
+We may share the personal information we collect through this Site with our affiliates so that they can contact you regarding products and services that may be of interest to you. If you do not want us to share your personal information with our affiliates, you may “opt-out” at any time using one of the methods described below.
+
+**Business Transfers**   
+Your personal information may be transferred to a company that has acquired the stock or assets of Fingerhut or one of our businesses, for example, as the result of a sale, merger, reorganization or liquidation. If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us.
+
+**Compliance With Laws and Protection of Our Rights and the Rights of Others**   
+We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose personal information to prevent or investigate a possible crime, such as fraud or identity theft; to enforce or apply our online terms of use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+
+**As Described in a Privacy Notice**   
+We reserve the right to disclose your personal information as described in any Privacy notice posted on the Web page (or area) where you provide that information. By providing your personal information on that Web page you will be consenting to the disclosure of your personal information as described in that Privacy Notice.
+
+**As Described in Any Other Agreement Between You and Fingerhut**   
+We reserve the right to disclose your personal information as described in any click-through agreement or any other agreement between you and Fingerhut.
+
+**YOUR CHOICES**
+
+**In General**   
+We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. We will also include an “opt-out” link in newsletters or promotional emails we send you so that you can inform us that you do not wish to receive such communications from us in the future. If you have created an account or a personal profile on this Site, you may be able to update some or all of your privacy choices by changing the settings on your account settings or profile page.
+
+**Direct Marketing**   
+We want to communicate with you only if you want to hear from us. You have the choice to be excluded from our offers and promotions and to be excluded from sharing personal information with our affiliates or Marketing Partners. If you choose not to receive information from us or do not want us to share your personal information with our affiliates or Marketing Partners, please let us know by calling us at 1-800-208-2500 or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com). Please be sure to include your email address, full name, and specifically what information you do not want to receive, such as “no phone offers”, “no mail offers”, “no email offers”, or “no sharing of information with Marketing Partners.” DO NOT include your Social Security number or account number in the email, but DO provide us with your 10 digit customer number. We will respond to reasonable requests within a reasonable time and, in any event, within the time period required by law.
+
+Even if you ask us not to share or use your personal information for direct marketing purposes, we may still use your personal information in connection with the proper administration and management of your WebBank/Fingerhut Credit Account. In addition, when you purchase from us online or through our catalogs, we may need to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive marketing communications.
+
+**How Can You Update or Correct Your Personal Information?**   
+If you wish to update or correct your personal information, please let us know by calling us at 1-800-208-2500 or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com). Please be sure to include your email address, full name, and specifically what information you would like to update or correct. If you contact us by email, DO NOT include your Social Security number or account number, but DO provide us with your 10 digit customer number.
+
+**Information Collected by Third Party Advertising and Marketing Consultants**   
+If you do not wish to receive our advertising or marketing consultants' cookies or similar technologies, you may "opt-out" at either the [Network Advertising Initiative website](http://www.networkadvertising.org/) or [Digital Advertising Alliance website](http://www.aboutads.info/)
+
+We also participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. If you do not wish to participate, you may "opt-out" at [Adobe Marketing Cloud Device Co-op Privacy Control](https://cross-device-privacy.adobe.com/?d_rd=1&d_mid=42984720332133627902372789267416659798&d_orgid=9E1005A551ED61CA0A490D45@AdobeOrg).
+
+**Do Not Track**   
+Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser “do not track” signals.
+
+**Protecting Children**   
+Our website is not focused on marketing or attracting minors and we do not knowingly collect personal information about anyone under the age of 18. Anyone under the age of 18 should not use this Site. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children, including the federal Children's Online Privacy Protection Act. If you believe that we have received information from a child, please notify us immediately by calling us at 1-800-208-2500 or by sending us an email at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com), and we will remove that information from our database.
+
+**SECURITY AND CONFIDENTIALITY**
+
+**In General**   
+We take commercially reasonable administrative, physical and technological security measures to protect your personal information from unauthorized access, unauthorized use, and unauthorized or accidental destruction, modification or disclosure. Although we take commercially reasonable precautions to provide a level of security appropriate to the sensitivity of the personal information we collect, we cannot guarantee the security of information provided over the Internet or stored in our databases.
+
+**Password Protected Areas of This Site**   
+For your protection, certain areas of this Site are password protected. You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing this Site using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing this Site using a password assigned to you, even if the individual is not, in fact authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on this Site.
+
+**Do Not Use Emails to Communicate Sensitive Personal Information**   
+Never provide sensitive personal information (for example, your Social Security number, driver's license number or credit card information) to us via email. Use the appropriate areas of this Site to communicate this information or contact us by telephone with your 10 digit customer number.
+
+**Links to Other Fingerhut Web Sites**   
+Fingerhut operates other Web sites, each with its own content, features, and functionality. Each Fingerhut site serves a different purpose. For this reason, not all of our sites are governed by this Privacy Policy. When you use a link on this Site to access another Fingerhut Web site, please take a minute to review the privacy policy posted on that site.
+
+**Links to Third Party Sites**   
+This site may contain links to Web sites operated by other companies, including websites operated by our third-party service providers, our Marketing Partners, and other third parties. This Privacy Policy does not apply to personal information collected on any of these third-party sites. When you access third-party sites through a link on this Site, please take a few minutes to review the privacy policy posted on that site.
+
+**Governing Law**   
+This Privacy Policy is governed under the laws of the State of Minnesota without regard to its conflicts of law provisions.
+
+**Interpretation**   
+As used in this Privacy Policy, the word “including” means “including, without limitation.”
+
+**Contact Us**   
+If you have questions about this policy or our privacy practices, please email us at [customerservice@fingerhut.com](mailto:customerservice@fingerhut.com) and write “Privacy” in the subject line or write us at:
+
+**Fingerhut  
+6250 Ridgewood Road   
+St. Cloud, MN 56303   
+Attention: Privacy and Security**
