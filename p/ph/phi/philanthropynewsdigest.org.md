@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropynewsdigest.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234351id_/http%3A//foundationcenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropynewsdigest.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529121127id_/http%3A//foundationcenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foundation Center
 
@@ -12,7 +12,7 @@ This Privacy Policy describes the practices, policies, and procedures related to
 
  **How To Contact Us**
 
-Foundation Center (the Data Controller) is the owner and operator of the Websites. If you need to contact us for any reason related to this Privacy Policy or your use of the Websites, or you would like to request that you be removed from our database, please contact us at [customerservice@foundationcenter.org](mailto:customerservice@foundationcenter.org), or write to us at:
+Foundation Center (the Data Controller) is the owner and operator of the Websites. If you need to contact us for any reason related to this Privacy Policy or your use of the Websites, or you would like to request that you be removed from our database, please contact us at [customersuccess@candid.org](mailto:customersuccess@candid.org), or write to us at:
 
 Foundation Center  
 32 Old Slip, 24th Floor  
@@ -90,7 +90,7 @@ We also provide links to a variety of third-party social media sites and/or webs
 
  **Can I opt-out of Foundation Center newsletters or other mailings?**
 
-You may opt-out or unsubscribe from a Foundation Center newsletter, email or mailing. To unsubscribe, please click the unsubscribe link featured at the bottom of the newsletter you received by e-mail, notify us by e-mail at [ **customerservice@foundationcenter.org**](mailto:customerservice@foundationcenter.org) or write to us at the address listed below.
+You may opt-out or unsubscribe from a Foundation Center newsletter, email or mailing. To unsubscribe, please click the unsubscribe link featured at the bottom of the newsletter you received by e-mail, notify us by e-mail at [customersuccess@candid.org](mailto:customersuccess@candid.org) or write to us at the address listed below.
 
  **Do we disclose any information to outside parties?**  
 
@@ -103,11 +103,11 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
  **Access To Personally Identifiable Information; Withdrawal Of Consent**
 
-Upon request Foundation Center will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information – or request that we stop any processing of your personal information - by contacting us at [customerservice@foundationcenter.org](mailto:customerservice@foundationcenter.org). We will respond to your request within a reasonable timeframe.
+Upon request Foundation Center will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information – or request that we stop any processing of your personal information - by contacting us at [customersuccess@candid.org](mailto:customersuccess@candid.org). We will respond to your request within a reasonable timeframe.
 
  **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services, or otherwise as is reasonable and customary given the nature of the relationship you have with Foundation Center. Please note we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed from such locations. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [customerservice@foundationcenter.org](mailto:customerservice@foundationcenter.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We have a data retention and destruction plan that dictates the policies and procedures related to deletion and/or destruction of all information/data. 
+We will retain your information for as long as your account is active or as needed to provide you services, or otherwise as is reasonable and customary given the nature of the relationship you have with Foundation Center. Please note we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed from such locations. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [customersuccess@candid.org](mailto:customersuccess@candid.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We have a data retention and destruction plan that dictates the policies and procedures related to deletion and/or destruction of all information/data. 
 
  **Transfer Of Information/Data To Other Countries**
 
@@ -115,7 +115,7 @@ Please note that our Platform is hosted in the United States and is governed by 
 
  **Children and Privacy**  
 
-We do not knowingly collect, use, or disclose personally identifiable information about visitors to our Websites that are less than 16 years of age. If you are under the age of 16, you must ask your parent or guardian to assist you while accessing/viewing our Websites.  If you are the parent or guardian of a child under 16 years of age and believe that they have disclosed personally identifiable information to us, please [ **contact us**](http://foundationcenter.custhelp.com/app/answers/detail/a_id/124/) and will promptly address.
+We do not knowingly collect, use, or disclose personally identifiable information about visitors to our Websites that are less than 16 years of age. If you are under the age of 16, you must ask your parent or guardian to assist you while accessing/viewing our Websites.  If you are the parent or guardian of a child under 16 years of age and believe that they have disclosed personally identifiable information to us, please [ **contact us**](mailto:customersuccess@candid.org) and will promptly address.
 
  **The Right To Lodge A Complaint**
 
@@ -128,7 +128,7 @@ We reserve the right to revise this Privacy Policy at any time. Please check bac
 This Privacy Policy is effective as May 25, 2018.
 
 **Contacting Us**    
-If there are any questions regarding this privacy policy you may [ **contact us**](http://foundationcenter.custhelp.com/app/answers/detail/a_id/124/) using the information below.   
+If there are any questions regarding this privacy policy you may [ **contact us**](mailto:customersuccess@candid.org) using the information below.   
 Foundation Center  
 32 Old Slip, 24th Floor  
 New York, NY 10005-3500
