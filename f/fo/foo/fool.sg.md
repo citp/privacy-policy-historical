@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108072905id_/https%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.sg privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529062253id_/https%3A//www.fool.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Motley Fool Singapore
 
