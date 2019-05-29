@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906121251id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529064326id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last updated: 14 May 2018**
+**Last updated: 25 September 2018**
 
 Our customers are at the centre of everything we do at OVO. So as well as providing you with great value and excellent service, we're committed to protecting your privacy.
 
@@ -145,9 +145,9 @@ We’ll occasionally remind you that you can update your preferences for receivi
 
 **4.3 Disclosing your personal information**
 
-We may allow the following types of organisations to use personal information we hold about you for the purposes set out in [section 6](https://web.archive.org/privacy-policy#6) below, including:
+We may share your personal information with the following types of organisation to use personal information for the purposes set out in [section 6](https://web.archive.org/privacy-policy#6) below, including:
 
-  * **service providers** who provide engineering services, industry data collection and aggregation, IT and system administration services;
+  * **service providers** who provide engineering services, industry data collection and aggregation, call-centre, IT and system administration services;
 
   * **marketing agencies** to provide you with information about our products and services or other products and services which may be of interest to you (provided you’ve given your consent) and to help manage any reward or loyalty schemes;
 
@@ -157,12 +157,12 @@ We may allow the following types of organisations to use personal information we
 
   * **professional advisers** such as lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services;
 
-  * **regulators and other authorities** based in the UK who we need to report to about what we’re doing with your personal data in certain circumstances;
+  * **regulators and other authorities** based in the UK who we need to report to about what we’re doing with your personal data in certain circumstances  (including third parties instructed by those authorities to process personal data on their behalf).
 
 
 
 
-Our third parties who only process data on our behalf won’t use your personal data for their own purposes and we only permit them to use it in accordance with our instructions and the law.
+Where third parties are processing data on our behalf, they won’t use your personal information for their own purposes and we only permit them to use it in accordance with our instructions and the law.
 
 _Disclosing information outside the EU_
 
@@ -336,7 +336,8 @@ If you have any questions about the way we handle your personal information, or 
 
 Here is some more information about how we process your data, following [section 4.2](https://web.archive.org/privacy-policy#4.2).
 
-We (and our agents) may use your personal information to:
+We (and our agents and where applicable third parties in [section 4.3](https://web.archive.org/privacy-policy#4.3)) may use your personal information to:  
+ 
 
 **Activity**
 
@@ -490,7 +491,8 @@ Using data analytics to improve our website, products/services, marketing, custo
 
 | 
 
-  * Technical data usage data
+  * Technical data
+  * Usage data
 
 | 
 
