@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zecco.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930094555id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zecco.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529024144id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Ally
 
@@ -72,7 +72,7 @@ There are three ways we use OBA on third party websites and mobile apps that are
 
 ## Interest‐Based Advertising
 
-The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may interest you. 
+The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see. This information may be combined and linked with data from other sources. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may interest you. 
 
 Ally has adopted the use of the [AdChoices Icon](http://www.youradchoices.com/) (also known as the Advertising Option Icon) on our interest-based advertising (excluding ads appearing on platforms that do not accept the icon). You can click the AdChoices Icon to learn more and control whether or not you receive this type of advertising from participating companies.
 
