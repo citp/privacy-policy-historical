@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004224453id_/https%3A//www.palgrave.com/gp/services/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529121506id_/https%3A//www.palgrave.com/gp/services/legal) for the most accurate reproduction.*
 
 # Legal
 
@@ -70,7 +70,7 @@ You can prevent being tracked by choosing the appropriate preference in the priv
 
 ### 7\. CJ Affiliate (former Commission Junction)
 
-We use affiliate networks operated by Digital Window Inc. ([http://www.affiliatewindow.com](http://www.affiliatewindow.com/)). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties.
+We use affiliate networks operated by CJ ([https://www.cj.com](https://www.cj.com/)). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties.
 
 You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
 
@@ -226,17 +226,50 @@ Please note that the cookie is set for a specific computer and browser. Therefor
 
 For more information about privacy policies of CrazyEgg, please refer to the website <https://www.crazyegg.com/privacy> or contact CrazyEgg’s designated officer [privacy@crazyegg.com](mailto:privacy@crazyegg.com).
 
-### 7\. Trustpilot
+### 7\. Marvellous Machine
+
+„Marvellous Machine“ is a cookie based targeting technology by Maytrics GmbH, Graf-von- Stauffenberg-Weg 1b, 59379 Selm, Germany. Marvellous Machine registers pseudonymized information about visits and interactions of users with your website for advertising purposes. In no case pseudonymized data is used to identify the user of the website personally. Please visit https://www.marvellousmachine.net/consent/[CAMPAIGNID] to object to cookies set by Marvellous Machine.
+
+The abovementioned scripts collect the following information:
+
+  * User IP
+  * User Agent
+  * Timestamp
+  * Product IDs of the products that were viewed, searched for or purchased.
+  * Page URLs of the visited sites
+  * Search terms
+  * Category IDs of the visited categories
+  * Order numbers of the purchases
+  * Total prices of the purchases
+
+
+
+All information is transmitted through ssl encrypted transfers and stored on private key secured servers in password protected databases. All servers and databases are located in Germany. The data is kept for 120 days and deleted afterwards. 
+
+The data is enriched with information from the advertiser's product feed. Additionally the page urls are crawled and analysed. No third party data is purchased or used in any way. 
+
+Please visit <https://www.marvellousmachine.net/status> to get an overview of the tracking information in your client/webbrowser for each campaign.
+
+### 8\. Trustpilot
 
 We use Trustpilot, a user feedback and rating service provided by Trustpilot, Inc., 245 5th Avenue, 4th floor, New York, NY 10016, USA (“Trustpilot”). Trustpilot provides a form to enter your feedback about our website and to rate your user experience and product quality. If you use this option, all entries are completely voluntary and the results are published on <https://www.trustpilot.com/> under a selectable pseudonym. Product reviews may be published on our website as well as in Google search results.
 
 For more information about privacy policies of Trustpilot, please refer to the website <https://legal.trustpilot.com/end-user-privacy-terms>.
 
-### 8\. Sparkpost
+### 9\. Sparkpost
 
 We use Sparkpost to deliver our newsletters, author and other target group service emails and transactional emails. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-mail services. For more information, please see [Sparkpost’s Privacy Policy](https://www.sparkpost.com/policies/privacy/).
 
-### 9\. Opt Out
+### 10\. Akanoo  
+
+
+We use Akanoo, a web analysis service of Akanoo GmbH, Mittelweg 121, 20148 Hamburg, within the scope of our legitimate interests in the analysis, optimisation and economic operation of our online services pursuant to Article 6 paragraph 1 lit. f DSGVO. Akanoo uses cookies, which are stored on your computer and enable an analysis of the use of our website. The information generated by Akanoo cookies is transferred to a server of Akanoo GmbH in Germany and stored there. Akanoo uses this information on our behalf to learn and evaluate your visitor behaviour by means of an anonymous user profile on the website and to provide us with further analysis and optimisation services in connection with the use of the website and the Internet. The IP address transmitted by your browser to Akanoo is shortened before it is stored so that it is not possible to directly identify a specific person. Under no circumstances will your anonymized user profile be merged with your personal data. It will be deleted as soon as the underlying purpose of the legitimate interest ceases to apply and there are no legal obligations to retain the data.   
+Further use of personal data by Akanoo will not take place due to anonymisation and the resulting loss of personal reference.   
+You may terminate the further collection by Akanoo GmbH of the data generated by Akanoo cookies and related to your use of the website and the processing of this data by Akanoo GmbH at any time by removing the stored cookie in the settings of your browser software. You can prevent the storage of Akanoo cookies by setting your browser software accordingly ("Do-Not-Track").   
+If you have several browsers in use, you must make the setting in each browser separately. However, we would like to point out that in this case you may not be able to use all functions of the website to their full extent.   
+
+
+### 11\. Opt Out
 
 You maintain at all times the right to completely disallow the collection and saving of your data. To do so, please [click here](https://www.springer.com/generic/privacy/opt+out?SGWID=0-156802-0-0-0)
 
