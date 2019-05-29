@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919161105id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordseverywhere.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529034010id_/https%3A//keywordseverywhere.com/privacy.html) for the most accurate reproduction.*
 
 # Keywords Everywhere Privacy Policy
 
@@ -107,7 +107,7 @@ You have several choices available when it comes to information about you:
 
   * **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
   * **Set Your Browser to Reject Cookies:** At this time, KeywordsEverywhere.com does not respond to "do not track" signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using KeywordsEverywhere.com's websites, with the drawback that certain features of KeywordsEverywhere.com's websites may not function properly without the aid of cookies.
-  * **Close Your Account:** While we'd be very sad to see you go, if you no longer want to use our Services, you can close your account. Please [email us for getting your account closed](mailto:akash@KeywordsEverywhere.com). Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+  * **Close Your Account:** While we'd be very sad to see you go, if you no longer want to use our Services, you can close your account. Please [email us for getting your account closed](mailto:kevin@KeywordsEverywhere.com). Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 
 
@@ -140,7 +140,7 @@ India
 
 ### How to Reach Us
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](mailto:akash@KeywordsEverywhere.com).
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](mailto:kevin@KeywordsEverywhere.com).
 
 ### Other Things You Should Know (Keep Reading!)
 
