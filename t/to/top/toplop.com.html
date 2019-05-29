@@ -1,23 +1,26 @@
-<!--The following is the downloaded HTML source of the toplop.com privacy policy that was archived on 2017-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170118060429id_/https%3A//toplop.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toplop.com privacy policy that was archived on 2019-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190529152432id_/https%3A//toplop.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy</title>
-	<base href="http://toplop.com/">
+	<base href="https://toplop.com/">
 	<meta http-equiv="Content-Type" content="text/html; charset=win-1251">
 
 	<meta name="description" content="TopLop is a dating site that is an easy and quick way to meet mail order brides from Russia, Ukraine and other USSR offering thousands sexy photos of beautiful single mail order brides. TopLop women and girls are waiting for your emails">
 	<meta name="keywords" content="russian, women, dating, mail order brides, marriage, ladies, free, love, russia, beautiful, brides, girls, hot, sexy, ukraine, international, lady, photo, wife, moscow, petersburg, kiev, fiancee, local, odessa, crimea, ussr, toplop">
 
-	<link rel="icon" href="http://toplop.com/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="http://toplop.com/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://toplop.com/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="https://toplop.com/favicon.ico" type="image/x-icon">
 
 	<meta http-equiv="Content-Style-Type" content="text/css">
 	<link href="templates/tmpl_dol/css/general.css" rel="stylesheet" type="text/css">
 	<link href="templates/tmpl_dol/css/anchor.css" rel="stylesheet" type="text/css">
 	
 	
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="inc/js/functions.js" type="text/javascript"></script>
+	<script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="inc/js/functions.js" type="text/javascript"></script>
+
+	<script type="text/javascript" src="/inc/js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/inc/js/jssor.slider.min.js"></script>
 	
 	<!--[if lt IE 7.]>
 	<script defer type="text/javascript" src="inc/js/pngfix.js"></script>
@@ -43,50 +46,64 @@
 
 	</script>
 
+	<script>
+		
+		$(document).ready(function(){
+			/*var options = {
+				$AutoPlay: true,
+
+                                $BulletNavigatorOptions: {
+                    			$Class: $JssorBulletNavigator$,
+                    			$ChanceToShow: 2,
+					$AutoCenter: 1
+				}
+			};
+
+            		var jssor_slider2 = new $JssorSlider$("slider2_container", options);*/
+		});
+
+	</script>
+	<style>
+            .jssorb13 {
+                position: absolute;
+            }
+            .jssorb13 div, .jssorb13 div:hover, .jssorb13 .av {
+                position: absolute;
+                /* size of bullet elment */
+                width: 21px;
+                height: 21px;
+                background: url(/templates/tmpl_dol/images/jssor/b13.png) no-repeat;
+                overflow: hidden;
+                cursor: pointer;
+            }
+            .jssorb13 div { background-position: -5px -5px; }
+            .jssorb13 div:hover, .jssorb13 .av:hover { background-position: -35px -5px; }
+            .jssorb13 .av { background-position: -65px -5px; }
+            .jssorb13 .dn, .jssorb13 .dn:hover { background-position: -95px -5px; }
+        </style>
+
 </head>
 <body>
-	<div id="fb-root"></div>
 	<script>
 		window.fbAsyncInit = function() {
-		FB.init({
-			appId      : '216484901866285',
-			status     : true, // check login status
-			cookie     : true, // enable cookies to allow the server to access the session
-			xfbml      : true  // parse XFBML
-		});
-
-		//FB.Event.subscribe('auth.authResponseChange', function(response) {
-		//	if (response.status === 'connected') {
-		//		//testAPI();				
-		//	} else if (response.status === 'not_authorized') {
-		//		FB.login();
-		//	} else {
-		//		FB.login();
-		//	}
-		//});
-
-		//FB.Event.subscribe('auth.login', function(response) {
-		//	console.log('auth.login:' + response.status);
-		//	window.location = 'fb_login.php';
-		//});
-
+			FB.init({
+				appId      : '216484901866285',
+				cookie     : true,
+				xfbml      : true,
+				version    : 'v2.11'
+			});
+      
+			FB.AppEvents.logPageView();   
+      
 		};
 
-		(function(d){
-		var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-		if (d.getElementById(id)) {return;}
-		js = d.createElement('script'); js.id = id; js.async = true;
-		js.src = "//connect.facebook.net/en_US/all.js";
-		ref.parentNode.insertBefore(js, ref);
-		}(document));
-	
-                function testAPI() {
-			console.log('Welcome!  Fetching your information.... ');
-			FB.api('/me', function(response) {
-			console.log('Good to see you, ' + response.name + '.');
-		});
-		}
-
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+     			if (d.getElementById(id)) {return;}
+     			js = d.createElement(s); js.id = id;
+     			js.src = "https://connect.facebook.net/en_US/sdk.js";
+     			fjs.parentNode.insertBefore(js, fjs);
+   		}(document, 'script', 'facebook-jssdk'));
 	</script>
 
 
@@ -98,9 +115,9 @@
 		<div style="border:0px solid black;height:176px;">
 			<div class="switch_lang_block"></div>
 			<div class="fb-like" data-href="https://www.facebook.com/toplopcom" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style="position:absolute;right:0px;top:150px;"></div>
-			<map name="Header" id="Header"><area shape="circle" alt="" coords="626,110,45" href="/join_form.php"><area shape="rect" alt="" coords="95,100,275,145" href="http://toplop.com/"></map><img src="http://toplop.com/templates/tmpl_dol/images/top_en_1_winter.jpg" alt="Welcome to TopLop.com where you can meet beautiful European brides and Russian women. Mail order brides from Russia and Ukraine make the best Russian wives" height="176px" width="775px" border="0" usemap="#Header">
+			<map name="Header" id="Header"><area shape="circle" alt="" coords="626,110,45" href="/join_form.php"><area shape="rect" alt="" coords="95,100,275,145" href="https://toplop.com/"></map><img src="https://toplop.com/templates/tmpl_dol/images/top_en_1.jpg" alt="Welcome to TopLop.com where you can meet beautiful European brides and Russian women. Mail order brides from Russia and Ukraine make the best Russian wives" height="176px" width="775px" border="0" usemap="#Header">
 		</div>
-		<div style="border:0px solid black;height:37px;"><map name="Navigation" id="Navigation"><area shape="rect" alt="" coords="90,0,140,37" href="http://toplop.com/"><area shape="rect" alt="" coords="155,0,215,37" href="http://toplop.com/join_form.php"><area shape="rect" alt="" coords="235,0,290,37" href="http://toplop.com/search.php"><area shape="rect" alt="" coords="575,0,610,37" href="http://toplop.com/faq.php"><area shape="rect" alt="" coords="630,0,705,37" href="http://toplop.com/contact.php"></map><img src="http://toplop.com/templates/tmpl_dol/images/menu_en_1_winter.jpg" alt="Register at TopLop.com to meet Russian brides. Search for Russian girls and Russian ladies. Get answers to your questions about Russian mail order brides and Russian dating" height="37px" width="775px" border="0" usemap="#Navigation"></div>
+		<div style="border:0px solid black;height:37px;"><map name="Navigation" id="Navigation"><area shape="rect" alt="" coords="90,0,140,37" href="https://toplop.com/"><area shape="rect" alt="" coords="155,0,215,37" href="https://toplop.com/join_form.php"><area shape="rect" alt="" coords="235,0,290,37" href="https://toplop.com/search.php"><area shape="rect" alt="" coords="510,0,555,37" href="https://toplop.com/faq.php"><area shape="rect" alt="" coords="570,0,640,37" href="https://toplop.com/contact.php"></map><img src="https://toplop.com/templates/tmpl_dol/images/menu_en_1.jpg" alt="Register at TopLop.com to meet Russian brides. Search for Russian girls and Russian ladies. Get answers to your questions about Russian mail order brides and Russian dating" height="37px" width="775px" border="0" usemap="#Navigation"></div>
 
 
 				
@@ -110,50 +127,44 @@
 			<div class="clear_both"></div>
 			<div id="left_column_menu">
 				<!-- Design Box [ Start ] here  -->
-	<div class="logged_menu_block">
-					<div style="margin-left:75px;margin-top:15px;">
-						<a href="http://toplop.com/promo_xmas_2017.php">
-							<img src="templates/tmpl_dol/images/gifts/xmas_17/banner.png" width="194px" height="237px">
-						</a>
-					</div>
-			<div class="logged_menu_block_title1">Member login</div><div style="margin-left:80px;"><form action="http://toplop.com/member.php" method="post"><div style="padding-top:10px;"><div style="float:left;width:55px;color:#595959;font-style:italic;font-weight:bold;text-align:left;">E-mail</div><div style="margin-left:60px;"><input style="border:1px solid #7F9DB9;width:90px;" type="text" value="" name="ID"></div></div><div style="padding-top:15px;"><div style="float:left;width:55px;color:#595959;font-style:italic;font-weight:bold;text-align:left;">Password</div><div style="margin-left:60px;"><input style="border:1px solid #7F9DB9;width:90px;" type="password" value="" name="Password"></div></div><div style="padding-top:15px;color:#595959;font-style:italic;font-weight:bold;"><input style="border:1px solid #7F9DB9;" type="checkbox" value="" name="remember">&nbsp;&nbsp;Remember Me</div><div style="padding-top:15px;"><div style="float:left;width:105px;text-align:left;"><a style="font-size:10px;" href="/forgot.php">Forgot?</a></div><div style="margin-left:113px;"><input type="image" src="templates/tmpl_dol/images/button_go.gif"></div></div></form>
+	<div class="logged_menu_block"><div class="logged_menu_block_title1">Member login</div><div style="margin-left:80px;"><form action="https://toplop.com/member.php" method="post"><div style="padding-top:10px;"><div style="float:left;width:55px;color:#595959;font-style:italic;font-weight:bold;text-align:left;">E-mail</div><div style="margin-left:60px;"><input style="border:1px solid #7F9DB9;width:90px;" type="text" value="" name="ID"></div></div><div style="padding-top:15px;"><div style="float:left;width:55px;color:#595959;font-style:italic;font-weight:bold;text-align:left;">Password</div><div style="margin-left:60px;"><input style="border:1px solid #7F9DB9;width:90px;" type="password" value="" name="Password"></div></div><div style="padding-top:15px;color:#595959;font-style:italic;font-weight:bold;"><input style="border:1px solid #7F9DB9;" type="checkbox" value="" name="remember">&nbsp;&nbsp;Remember Me</div><div style="padding-top:15px;"><div style="float:left;width:105px;text-align:left;"><a style="font-size:10px;" href="/forgot.php">Forgot?</a></div><div style="margin-left:113px;"><input type="image" src="templates/tmpl_dol/images/button_go.gif"></div></div></form>
 						
 						<br><a href="#" onclick="facebookLogin();return false;"><img src="templates/tmpl_dol/images/fb_login.gif"></a>
 					</div>
 			<div class="logged_menu_block_title1">News</div><div style="margin-left:80px;">
-						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//12-18-16</div>
+						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//05-10-19</div>
 						<div class="news_text">
-                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="http://toplop.com/news-Warmest-wishes-on-the-coming-holidays-Merry-Christmas-and-Happy-New-Year-2017-Dear-Frien-163.html" title="Warmest wishes on the coming holidays! Merry Christmas and Happy New Year 2017, Dear Frien">
-								Warmest wishes on the coming holidays! Merry Christmas and Happy New Year 2017, Dear Frien
+                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="https://toplop.com/news-Greetings-to-all-the-mothers-in-the-world-198.html" title="Greetings to all the mothers in the world">
+								Greetings to all the mothers in the world
 							</a>
 						</div>
 						
-						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//11-22-16</div>
+						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//04-22-19</div>
 						<div class="news_text">
-                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="http://toplop.com/news-Thanksgiving-Day-with-TopLop-com-162.html" title="Thanksgiving Day with TopLop.com">
-								Thanksgiving Day with TopLop.com
+                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="https://toplop.com/news-Have-a-blessed-Orthodox-Easter-on-Apr-28-2019-197.html" title="Have a blessed Orthodox Easter on Apr’28 2019">
+								Have a blessed Orthodox Easter on Apr’28 2019
 							</a>
 						</div>
 						
-						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//10-26-16</div>
+						<div style="color:#BCBCBC;padding:10px 0px 0px 5px;text-align:left;">//04-17-19</div>
 						<div class="news_text">
-                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="http://toplop.com/news-The-magic-holiday-Halloween-is-coming-161.html" title="The magic holiday Halloween is coming!">
-								The magic holiday Halloween is coming!
+                            <a style="text-decoration:none;color:#7D7D7D;font-size:10px;" href="https://toplop.com/news-Happy-Easter-with-TopLop-com-196.html" title="Happy Easter with TopLop.com">
+								Happy Easter with TopLop.com
 							</a>
 						</div>
 						
 						<div style="position:relative; text-align:right;padding-top:5px;">
-                            <a style="font-size:10px;" href="http://toplop.com/news.html">Other</a>
+                            <a style="font-size:10px;" href="https://toplop.com/news.html">Other</a>
 						</div>
 						</div><div class="logged_menu_block_title1">Success stories &amp; Advice</div>
                     <div style="margin-left:80px;padding-top:10px">
-							<a href="http://toplop.com/story-Dating-ukranian-brides-at-the-site-and-real-feelings-575.html" title="Dating ukranian brides at the site and real feelings. " style="text-decoration:none;color:#7D7D7D;font-size:10px;">
-                                This dating topic has been discussing at numerous forums for a long ago.  Opinion differs and sometimes they are really opposite. But at last everybody comes to the conclusion that despite the meeting is virtual, the feelings experienced are quite re...
+							<a href="https://toplop.com/story-Russian-poetry-in-love-letter-to-russian-mail-order-bride-57.html" title="Russian poetry in love letter to russian mail order bride" style="text-decoration:none;color:#7D7D7D;font-size:10px;">
+                                When you are dating russian mail order bride via online dating service, the most important means of communication are letters.  You may write just simple, commonplace letter and you will seem just an ordinary man who writes about his life, his prefer...
                             </a>
 					</div>
 					
 					<div style="position:relative; text-align:right;padding-top:5px;">
-						<a style="font-size:10px;" href="http://toplop.com/stories.html">Other</a> 
+						<a style="font-size:10px;" href="https://toplop.com/stories.html">Other</a> 
 					</div>
 			<div class="logged_menu_block_title1">Quick Access</div><div style="margin-left:80px;"><div style="padding-top:7px;"><div style="float:left;padding-left:22px;position:relative;width:50px;"><span style="color:#595959;font-style:italic;font-weight:bold;">By Age</span></div><div style="margin-left:97px;"><span style="color:#595959;font-style:italic;font-weight:bold;">By Country </span></div></div><div style="padding-top:7px;"><div style="float:left;padding-left:22px;position:relative;width:50px;"><a href="/search_result.php?LookingFor=female&amp;DateOfBirth_start=18&amp;DateOfBirth_end=22" style="color:#B31E3C;font-size:10px;">18-22</a></div><div style="margin-left:97px;"><a href="/search_result.php?LookingFor=female&amp;Country=RU" style="color:#B31E3C;font-size:10px;">Russia</a></div></div><div style="padding-top:3px;"><div style="float:left;padding-left:22px;position:relative;width:50px;"><a href="/search_result.php?LookingFor=female&amp;DateOfBirth_start=23&amp;DateOfBirth_end=25" style="color:#B31E3C;font-size:10px;">23-25</a></div><div style="margin-left:97px;"><a href="/search_result.php?LookingFor=female&amp;Country=UA" style="color:#B31E3C;font-size:10px;">Ukraine</a></div></div><div style="padding-top:3px;"><div style="float:left;padding-left:22px;position:relative;width:50px;"><a href="/search_result.php?LookingFor=female&amp;DateOfBirth_start=26&amp;DateOfBirth_end=40" style="color:#B31E3C;font-size:10px;">26-40</a></div><div style="margin-left:97px;"></div></div></div></div>
 <!-- Design Box [ End ] here  -->
@@ -186,7 +197,13 @@ TopLop assumes, that a member, addressing the Site:<br>
 •	Determines and has control over the settings of the software used by him/her according to his/her preferences concerning personal data protection, information about his/her own firmware and Internet connection;<br>
 •	TopLop assumes, that a member, accessing the Site is acquainted with the present Agreement and accepts its terms and conditions.<br><br>
 
-<b>III. Gathering, storage, protection, processing and distribution of information</b><br>
+<b>III. Cookies Policy </b><br>
+We use cookies to keep track of some non-personal and aggregate types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user behaviour, so that we can continue to develop and improve our service offering. <br>
+
+You may choose to accept or reject cookies by changing your internet browser setting. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. Click the “help” menu in your browser’s toolbar for information on how to change your settings. <br><br>
+
+
+<b>IV. Gathering, storage, protection, processing and distribution of information</b><br>
 1. Gathering information about members
 TopLop gathers information about members in accordance with the rules, determined by the present Agreement. <br>
 2. Restriction of information received from minors
@@ -202,15 +219,15 @@ Members, interested in acquaintance, have access only to the information about  
 7. Restriction of using information from members profiles
 TopLop uses information from members' profiles (login and password, email address) only for authorization of Internet resource access. Responsibility for the safety of the provided information is carried by the member. Any actions, conducted with the use of such information, are considered by TopLop as the actions, conducted by the member. Other information from a member's profile is not used by TopLop for distributing information to members, except for the cases stipulated by the Site usage rules, or by members' obvious inquiry.<br><br>
 
-<b>IV. Miscellaneous</b><br>
+<b>V. Miscellaneous</b><br>
 1. Members' references in connection with the Agreement<br>
 TopLop considers the references, associated with the present Agreement, including members inquiries, concerning their personal data usage, sent by the members to the following e-mail address: <a href="mailto:info@toplop.com">info@toplop.com</a>. Anonymous messages will not be considered. <br>
 2. Correspondence to the TopLop address<br>
 All correspondence, sent by members to the TopLop address is perceived by TopLop as restricted access information and can be published only with the consent of the member. Addresses, personal data and other information about the members, who have sent these letters, cannot be used without their special consent for other purposes, but only to provide answers on the subject of a received letter. <br>
 3. Access to the text of the Agreement<br>
-The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – <a href="/privacy.php">http://toplop.com/privacy.php</a> <br>
+The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – <a href="/privacy.php">https://toplop.com/privacy.php</a> <br>
 4. TopLop right to modify the Agreement <br>
-TopLop reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force.
+TopLop reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. This policy was last revised on May 10, 2018.
 
 
 <!-- Design Box [ End ] here  -->
@@ -224,23 +241,36 @@ TopLop reserves the right to modify the present Agreement, and notify members ab
 		<div class="clear_both"></div>
 		<div id="bottom_menu_block">
 			<div class="conteiner">
-				<div style="position:relative;float:left;"><img src="templates/tmpl_dol/images/logo_bottom.gif" border="0" alt="" height="26px" width="90px"></div>
-				<div style="position:relative;float:left;left:110px;width:115px;line-height:10px;height:26px;">Copyright<br>© 2007-2017<br>All rights reserved</div>
-				<div style="position:relative;float:left;left:125px;">
-					<span><a class="bottommenu" href="http://toplop.com/about_us.php">About Us</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="http://toplop.com/privacy.php">Privacy</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="http://toplop.com/terms_of_use.php">Terms of Use</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="http://toplop.com/services.php">Services</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="http://toplop.com/faq.php">FAQ</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="http://toplop.com/affiliates.php">Affiliates</a></span>
-					<span>|</span>
-					<span><a class="bottommenu" href="/top1000-1.html" title="Top 1000 Ladies">Top 1000</a></span>
-				</div>
+				
+		<!-- <div style="position:relative;float:left;"><img src="https://toplop.com/templates/tmpl_dol/images/logo_bottom.gif" border="0" alt="TopLop.com is the service for Russian singles to meet foreign men" height="26px" width="90px" /></div> -->
+
+		<div class="social">
+			<a class="fb-link" href="https://www.facebook.com/toplopcom/" target="_blank" rel="nofollow"></a>
+			<a class="tw-link" href="https://twitter.com/Toplop_com" target="_blank" rel="nofollow"></a>
+			<a class="ig-link" href="https://www.instagram.com/toplop.com__/" target="_blank" rel="nofollow"></a>
+			<a class="pt-link" href="https://www.pinterest.com/TopLopcom/" target="_blank" rel="nofollow"></a>
+		</div>
+
+		<!-- <div style="position:relative;float:left;left:110px;width:115px;line-height:10px;height:26px;">Copyright<br />&copy; 2007-2019<br />All rights reserved</div> -->
+
+		<div style="position:relative;float:left;left:160px;width:115px;line-height:10px;height:26px;">Copyright<br>© 2007-2019<br>All rights reserved</div>
+
+		<div style="position:relative;float:left;left:175px;">
+			<span><a class="bottommenu" href="https://toplop.com/about_us.php">About Us</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="https://toplop.com/privacy.php">Privacy</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="https://toplop.com/terms_of_use.php">Terms of Use</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="https://toplop.com/services.php">Services</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="https://toplop.com/faq.php">FAQ</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="https://toplop.com/affiliates.php">Affiliates</a></span>
+			<span>|</span>
+			<span><a class="bottommenu" href="/top1000-1.html" title="Top 1000 Ladies">Top 1000</a></span>
+		</div>
+	
 			</div>			
 		</div>
 		<div style="position:relative; text-align:center;">
