@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924185019id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140649id_/https%3A//uihc.org/node/107836) for the most accurate reproduction.*
 
 # Privacy Notice in English | University of Iowa Hospitals & Clinics
 
@@ -59,7 +59,7 @@ Workers’ compensation purposes
 National security and intelligence activities
     We may release PHI to authorized federal officials when required by law. This information may be used to protect the President, other authorized persons or foreign heads of state, to conduct special investigations, for intelligence and other national security activities authorized by law.
 
-## Uses and Disclosures for which You Have the Opportunity to Object
+## Uses and Disclosures for Which You Have the Opportunity to Object
 
 Hospital Directory
     We will use your name, the location at which you are receiving care, your general condition, and your religious affiliation for directory purposes. All of this information, except religious affiliation, will be disclosed to people who ask for you by name. If you object to this use, we will not include this information in the directory and will not share it. To object, please notify a member of your nursing staff.
