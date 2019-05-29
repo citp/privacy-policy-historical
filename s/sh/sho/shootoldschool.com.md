@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shootoldschool.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916034420id_/http%3A//thelifemag.net/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootoldschool.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529192212id_/http%3A//thelifemag.net/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
