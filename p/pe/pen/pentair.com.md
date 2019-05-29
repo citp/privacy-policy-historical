@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823191212id_/https%3A//www.pentair.com/en/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529184518id_/https%3A//www.pentair.com/en/privacy-notice.html) for the most accurate reproduction.*
 
 # Pentair Privacy Notice
 
-##### Last Modified: May 11, 2018 
+##### Last Modified: May 8, 2019 
+
+View Translations of this Notice here.
 
 At Pentair, we believe trust is the cornerstone of all relationships. This notice describes the personal information Pentair may collect about you through websites, applications or other means, how we may use and disclose this information, and other related information that is important for you to know.
+
+To learn more, click on each section title below.
 
 #### Who We Are and How this Notice Applies to You
 
@@ -14,13 +18,14 @@ Pentair values your privacy. This notice describes the personal information Pent
 
   * through websites operated by us, from which you are accessing this Privacy Notice (the “ **Websites** ”),
   * through the software applications made available by us for use on or through computers and mobile devices (the “ **Apps** ”),
+  * ·        through any of our Internet of Things connected or connectable devices (our “ **IoT Devices** ”), including our internet-connected water solution products,
   * through our social media pages and apps that we control from which you are accessing this Privacy Notice  (collectively, our “ **Social Media Pages** ”),
   * through HTML-formatted email messages that we send to you that link to this Privacy Notice, and
   * through offline interactions you have with us.
 
 
 
-Collectively, we refer to the Websites, the Apps, Social Media Pages, emails and offline activities as the “ **Services**.”
+Collectively, we refer to the Websites, Apps, IoT Devices, Social Media Pages, emails and offline activities as the “ **Services**.” 
 
 For the purposes of this notice, “Pentair” refers to Pentair plc and its subsidiaries.
 
@@ -35,7 +40,7 @@ When Pentair collects your personal information, we seek to collect what is rele
 
   * The _ways_ that we may collect information about you include the following:
     * We may collect personal information from a variety of sources, such as the telephone, our sites, our online or mobile applications or services, our transfer agent or our online advertisements.
-      * **Through the Services:**   For example, we may collect personal information during the initiation or execution of business relationships, during events or tradeshows, when you subscribe to newsletters or request publications, complete surveys, register for Pentair events or online services, contact us for further information, or visit our sites while or before logged into a social media platform.
+      * **Through the Services:**   For example, we may collect personal information during the initiation or execution of business relationships, during events or tradeshows, when you subscribe to newsletters or request publications, complete surveys, register for Pentair events or online services, contact us for further information, install and use our IoT Devices or Apps, or visit our sites while or before logged into a social media platform.
       * **From other sources:**   We may also collect personal information from public sources or third party data providers.  For example, our HR team may utilize LinkedIn or other social media platforms to identify employment candidates.  Each social media platform has their own policy on the way they process your personal information when you access their sites. If you have any concerns or questions about their use of your personal information, you should read their privacy policies carefully before using them.   We may also work with joint marketing partners to identify potential customers, with transfer agents to coordinate interaction with our shareholders or with other third parties to provide services to Pentair employees. 
   * The _types_ of personal information that we may collect about you include:
     * Contact information, such as name, title, phone number, mailing address, and e-mail address;
@@ -43,6 +48,8 @@ When Pentair collects your personal information, we seek to collect what is rele
     * Demographic information, such as language, age, and gender;
     * Marketing preferences, such as e-mail subscription and frequency preferences;
     * Payment data, such as credit card details and account information.
+    * **Device Data** ,” as defined in our mobile app Terms of Service, when you install and use our IoT Devices or Apps; and
+    * User credentials, when you register to use the Services.
 
 
 
@@ -50,7 +57,7 @@ We need to collect personal information in order to provide the requested Servic
 
   * How long we _retain_ your personal information depends on the purpose for which it was obtained and its nature. We will keep your personal information for the period necessary to fulfil the purposes described in this Privacy Notice unless a longer retention period is permitted or required by law. The primary criteria we use to determine our retention periods include:
     * The length of time you have an active account or relationship with Pentair;
-    * When we are getting to know you as a potential customer;
+    * When we are getting to know you as a potential customer or business partner;
     * When we need to comply with a court order, law or legal process;
     * When legal requirements and professional guidelines require it – such as tax and audit purposes, information on aspects of health and safety, or in regard to applicable statutes of limitations, litigation or regulatory investigations. 
 
@@ -67,8 +74,9 @@ Pentair may use your personal information to serve you, improve our services, an
 
   * Provide the functionality of the Services and fulfill your requests.
     * Carry out transactions you have requested, such as processing orders, registering purchased products, handling warranty claims, and providing related customer service;
-    * Communicate with you about your account, respond to your inquiries and fulfill your requests;
+    * Communicate with you about your account and your purchased products, respond to your inquiries and fulfill your requests;
     * Send administrative information to you, such as changes to our terms, conditions and policies;
+    * Service your purchased products and send information that you request regarding your products’ functionality.
 
 
 
@@ -85,12 +93,12 @@ We will engage in these activities with your consent or where we have a legitima
 
   * Analyze personal information for business reporting and providing personalized services.
     * Analyze or predict our users’ preferences in order to prepare aggregated trend reports on how our digital content is used, so we can improve our Services;
-    * Better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests;
+    * Better understand your interests and preferences, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests;
     * Better understand your preferences so that we can deliver content via our Services that we believe will be relevant and interesting to you.
 
 
 
-We will provide personalized services either with your consent or because we have a legitimate interest.
+We will provide personalized services based on our legitimate interests, and with your consent to the extent required by applicable law.  
 
   * Accomplish our business purposes.
     * Run our business operations and manage our risks, including protecting the rights and property of Pentair and others; 
@@ -113,8 +121,7 @@ We engage in these activities to manage our contractual relationship with you, t
 We use this information to manage our contractual relationship with you.
 
   * Aggregate and/or anonymize personal information.
-    * We may aggregate and/or anonymize personal information so that it will no longer be considered personal information. We do so to generate other data for our use, which we may use and disclose for any purpose.  
-
+    * We may aggregate and/or anonymize personal information so that it will no longer be considered personal information. We do so to generate other data for our use, which we may use and disclose for any purpose, as it no longer identifies you or any other individual.
 
 
 
@@ -130,13 +137,15 @@ Pentair may share your personal information with other Pentair entities, brands,
   
 We share personal information:
 
-  * With our affiliated entities for the purposes described in this Privacy Notice. You can consult the list and location of our affiliated entities [here](https://web.archive.org/content/dam/extranet/enterprise/resources/legal/Pentair%20Entities.pdf). Pentair plc is the party responsible for the management of the jointly-used personal information.
+  * With our affiliated entities for the purposes described in this Privacy Notice.  You can consult the list and location of our affiliated entities here.   Pentair plc is the party responsible for the management of the jointly-used personal information.
   * With trusted third party service providers that carry out activities at our direction. These activities could include any of the activities that Pentair carries out as described in the above section, ‘HOW WE USE YOUR PERSONAL INFORMATION.’ For example, these activities can include website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
   * With third parties, to permit them to send you marketing communications, consistent with your choices.
-  * By using the Services, you may elect to disclose personal information on message boards, chat, profile pages, blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public. 
-  * When you connect your Services account with your social media account, you will share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
-  * To third-party sponsors of sweepstakes, contests, and similar promotions.  
+  * With trusted dealers, when you configure the App to share information related to your IoT Device (including Device Data) with a specific dealer.  The dealer may use this information to monitor and service your IoT Device and offer you related products and services.  You can choose to discontinue the sharing of this information with the dealer on a going-forward basis at any time through the App settings.  This will not affect the dealer’s continued retention and use of the information received before you discontinued such sharing.
+  * With other individuals you designate through an App as shared users of your IoT Device; such shared users will have access to information stored on the App and will be able to monitor and control your IoT Device via the App.   
 
+  *  By using the Services, you may elect to disclose personal information on message boards, chat, profile pages, blogs and other services to which you are able to post information and content (including, without limitation, our Social Media Pages).  Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
+  * When you connect your Services account with your social media account, you will share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
+  * To third-party sponsors of sweepstakes, contests, and similar promotions.
 
 
 
@@ -169,6 +178,7 @@ We may collect, use and disclose Other Information that does not reveal your spe
 
   * Browser and device information
   * App usage data
+  * Information collected through IoT Devices, such as data about installation, product configuration, settings, usage, geo-location, and operational data
   * Information collected through cookies, pixel tags and other technologies
   * Demographic information and other information provided by you that does not reveal your specific identity 
   * Information that has been aggregated in a manner such that it no longer reveals your specific identity
@@ -189,12 +199,16 @@ We may collect Other Information in a variety of ways, including: 
     * Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads.
     * We do not currently respond to browser do-not-track signals. If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
   * Using pixel tags and other similar technologies: 
-    * Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the Services and response rates. 
-    * Analytics. We use Google Analytics and Adobe Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. These services may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), and exercise the opt out provided by Google by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. You can exercise the opt-out provided by Adobe by visiting: <https://www.adobe.com/privacy/opt-out.html>.
+    * _Pixel tags_. (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the Services and response rates. 
+    * _Analytics_.  We use Google Analytics and Adobe Analytics, which use cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. These services may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/), and exercise the opt out provided by Google by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. You can exercise the opt-out provided by Adobe by visiting: <https://www.adobe.com/privacy/opt-out.html>.
   * Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies: 
     * We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information”), how to prevent Flash LSOs from being placed on your computer without your being asked, and how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
   * IP Address: 
     * Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+  * Physical location:
+    * We may collect the physical location of your IoT Device through the location of the mobile phone used by one of our trusted dealers to install the product, if you manually input the device’s physical location in the App, or if you consent to using the map features in the App.  
+
+    * We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals.  We may use your device’s physical location to provide you with personalized location-based services for your IoT Devices.  In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our business and marketing partners may not be able to provide you with the applicable personalized services and content.
 
 
 
@@ -271,7 +285,7 @@ Your personal information may be stored and processed in any country where we ha
 
 Your personal information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
 
-_If you are located in the EEA_ : Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission, to protect your personal information. You may obtain a copy of these measures by contacting Pentair’s [Global Privacy Office](mailto:privacy@pentair.com).  
+_If you are located in the EEA:_   Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards ([the full list of these countries is available here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en "Adequacy of the protection of personal data in non-EU countries")). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission, to protect your personal information. You may obtain a copy of these measures by contacting Pentair’s [Global Privacy Office](mailto:privacy@pentair.com).  
 
 
 If you have any questions about this Privacy Notice or our use of your personal information, please contact us at [privacy@pentair.com](mailto:privacy@pentair.com) or by using the information below:  
@@ -294,11 +308,16 @@ If you are located in the EEA, the data controller is:
 
 Pentair plc  
 An Ireland company having its principle place of business at:  
-43 London Wall  
-London, EC2M 5TF  
-United Kingdom
+Regal House  
+70 London Road,   
+Twickenham, London, TW13QS  
+United Kingdom  
 
-You can contact our data protection officer in Germany, if applicable at:
+
+Where required by law, we have appointed a data protection  
+officer. You can contact our data protection officer for our German entities  
+at:  
+
 
 Dr. Karsten Kinast  
 Kinast Rechtsanwaltsgesellschaft mbH  
