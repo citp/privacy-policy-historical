@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computing.net privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005040737id_/https%3A//www.computing.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computing.net privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529122816id_/https%3A//www.computing.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
