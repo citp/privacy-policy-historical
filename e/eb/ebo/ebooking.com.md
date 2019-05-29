@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebooking.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904085121id_/https%3A//www.ebooking.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooking.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529185416id_/https%3A//www.ebooking.com/en/privacy-policy) for the most accurate reproduction.*
 
 # ebooking.com: Privacy Policy and Cookies
 
@@ -152,7 +152,7 @@ Company| Information| Purpose
 ---|---|---  
 Domibay| Session and preferences of the user|  As on many websites, we use 'session ID cookies', which are generated when you access ebooking.com only exist for the period during which you are connected, being eliminated when you close the browser. 'Permanent cookies' are also created to store information for the next time you visit us:| Name| Description  
 ---|---  
-cookie_notice| It is generated when the user accepts our Terms and Conditions and our Privacy and Cookies Policy.  
+_dppb| It is generated when the user accepts our Terms and Conditions and our Privacy and Cookies Policy.  
   
 **Cookies of third parties:**
 
