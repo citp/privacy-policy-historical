@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507094723id_/https%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetassess.com.au privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529024419id_/https%3A//www.vetassess.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - VETASSESS
+# Apply for Assessment with VETASSESS Australia
 
 * * *
 
@@ -21,11 +21,11 @@ We will only collect personal information or health information that is relevant
   * Skills assessment of qualifications and employment for migration to Australia;
   * Skills assessment of qualifications and employment for finding employment, when you already reside in Australia;
   * Provision and/or administration of tests for assessment of your skills and/or knowledge;
-  * Related dealings with Commonwealth, State and Territory governments. 
+  * Related dealings with Commonwealth, State and Territory governments.
 
 
 
-How we collect personal information or health information will depend on the circumstances. If it is reasonable and practicable to do so, we will collect personal information or health information from you directly, for example through our on-line application system, via phone calls or e-mails you send us. However, we may also collect personal information or health information from a migration agent acting on your behalf and from third parties such as the Department of Education and Training (Com’lth), Department of Home Affairs, the Australian Taxation Office, domestic, including Police and Defence Forces, and overseas service providers and employers. 
+How we collect personal information or health information will depend on the circumstances. If it is reasonable and practicable to do so, we will collect personal information or health information from you directly, for example through our on-line application system, via phone calls or e-mails you send us. However, we may also collect personal information or health information from a migration agent acting on your behalf and from third parties such as the Department of Education and Training (C’lth), Department of Home Affairs, the Australian Taxation Office, domestic, including Police and Defence Forces, and overseas service providers and employers. 
 
 At the time of collection, we will provide a written statement containing our contact details, why we need the information requested (including any law that requires the particular information to be collected), what purposes we use this information for and to whom we regularly disclose this information to and the main consequences (if any) for you if all or part of the information is not provided. Information will also be provided about your right to access and, if appropriate, correct information we hold about you. Information that is collected will be held securely to prevent any security breaches. 
 
@@ -44,11 +44,12 @@ We may use your contact details to contact you to:
   * provide you with information you have requested;
   * respond to your feedback;
   * confirm receipt of e-mails you have sent to us;
-  * contact you for any other reason, for example to ensure that the personal information we have collected about you is accurate and up to date.
+  * contact you for any other reason, for example to ensure that the personal information we have collected about you is accurate and up to date; **or**
+  * seek qualitative and quantitative market research data and insights such as surveys and focus groups. 
 
 
 
-When you visit our website, our site’s server records information concerning your server address, your top level domain name ( for example, .com, .gov etc.), the date and time you visited our website, the pages you accessed and documents you downloaded, the type of browser you are using, and the address of the previous website you visited. All of this information is collected for statistical purposes, which enables us to assess the number of visitors to the different sections of the site and assists us to make the website more useful to visitors.
+When you visit our website, our site’s server records information concerning your server address, your top level domain name (for example, .com, .gov etc.), the date and time you visited our website, the pages you accessed and documents you downloaded, the type of browser you are using, and the address of the previous website you visited. All of this information is collected for statistical purposes, which enables us to assess the number of visitors to the different sections of the site and assists us to make the website more useful to visitors.
 
 We may disclose your personal information or health information to third parties including government agencies (for example, Department of Industry and Science, Department of Home Affairs, the Australian Taxation Office), domestic and overseas service providers and, employers for verification of identity/data purposes.
 
@@ -70,11 +71,13 @@ We will take all reasonable steps to provide you with details of your personal i
 
 ## 6\. Access and Correction
 
-Generally we will give you access to your personal information or health information upon written request within 30 days from receipt of the request, subject to exceptions permitted by law. All requested information will be provided within 30 days from receipt of the request 
+Generally, we will give you access to your personal information or health information upon written request within 30 days from receipt of the request, subject to exceptions permitted by law. All requested information will be provided within 30 days from receipt of the request 
 
 If we receive a written request to correct personal information about you and we are satisfied that the personal information held by us is not accurate, complete or up to date, we will take all reasonable steps to correct the information so that it is accurate, complete and up to date. 
 
 We will provide you with reasons for denial of access or refusal to correct personal information.
+
+Please note that VETASSES collects personal information for the purposes of making migration assessments used by the Australian Government. The Australian Government requires VETASSESS to retain details of the assessments and information it uses in making those assessments. Consequently, notwithstanding that in other circumstances (such as the European Union’s Global Data Privacy Regulation) an individual may have a right to have their personal records erased, VETASSESS cannot comply with any request for the erasure or destruction of records relating to migration assessment applications authorized to do so by the Australian Government. Applicants should consider this when making an application. 
 
 ## 7\. Unique identifiers
 
@@ -94,6 +97,14 @@ We may transfer personal information or health information to domestic and overs
 
 ## Sensitive Information
 
-We collect sensitive information about an individual only with consent of the person or if required or permitted by law. ‘Sensitive information’ is information or an opinion about an individual's:
+We collect sensitive information about an individual only with consent of the person or if required or permitted by law. 
+
+‘Sensitive information’ is information or an opinion about an individual's: 
 
 1\. racial or ethnic origin 2. political opinions 3. membership of a political association 4. religious belief or affiliations 5. sexual preferences 6. criminal record 7. membership of a trade union 8. membership of a professional or trade association. 
+
+## Further information
+
+Please contact VETASSESS for further information about this policy. 
+
+Email: info@vetassess.com.au 
