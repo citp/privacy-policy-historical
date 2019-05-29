@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the jansport.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006062130id_/https%3A//www.jansport.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jansport.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529084827id_/https%3A//www.jansport.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | JanSport Online Store
-
-## Last updated: September 4, 2014  
-
-
-JanSport recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy. 
-
-This Privacy Policy was lasted updated September 4, 2014 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
 
 How do I use this page? 
 
