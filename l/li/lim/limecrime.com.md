@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191057id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529024505id_/https%3A//www.limecrime.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vegan & Cruelty Free Makeup - Lime Crime
 
@@ -69,3 +69,23 @@ If you have any questions, comments, requests, cool stories, random thoughts, or
 We Got Beef?
 
 If you have tried to work it out with us and you feel like you aren’t being heard or your issues aren’t being adequately resolved, please send a message to [privacyproblems@limecrimemakeup.com](mailto:privacyproblems@limecrimemakeup.com) and we will be sure to squash whatever beef you have (i.e., we will do whatever we reasonably can to make things right with you).
+
+Lime Crime App Privacy Policy
+
+Lime Crime is the operator of the Lime Crime AR App. This policy informs you of our policies regarding the collection, use and disclosure of Personal Information of users of the app.
+
+Social Media Sharing
+
+This app allows you to share predefined image(s) from this app to social media apps and services that are already on your device. These images do not identify you the user, and are the same for all users. However, sharing the image (and any commentary that you supply) will identify you as a user of this app to others on social media.
+
+Use of Camera
+
+This app utilizes the video camera on your device. We do not use the camera images for any purpose other than image recognition and registration for the AR functionality. No images from the video camera are captured or stored or transmitted by this app.
+
+Analytics Data
+
+We periodically send data from this app to an analytics service in order to understand how users are using this app and to improve it. This data is anonymized and used in aggregate, meaning that we do not collect any information of a personal nature about users. We do use the analytics service to track, collect or upload any data that could be used to personally identify an individual.
+
+Contact Us
+
+If you have any questions about this privacy policy, please contact us at: Customercare@limecrime.com
