@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115211214id_/https%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrens.edu.au privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140212id_/https%3A//www.torrens.edu.au/policies-and-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Torrens University
 
