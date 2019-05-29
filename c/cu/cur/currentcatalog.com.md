@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829180741id_/https%3A//www.currentcatalog.com/resources/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529061815id_/https%3A//www.currentcatalog.com/resources/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy And Security | Current Catalog
 
