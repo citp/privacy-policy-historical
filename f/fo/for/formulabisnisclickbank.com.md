@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the formulabisnisclickbank.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formulabisnisclickbank.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529235442id_/http%3A//www.formulabisnisclickbank.com/privacy.html) for the most accurate reproduction.*
 
-# Legal
+# Privacy Notice : Asos Women's Clothing | Women's Clothing Online - formulabisnisclickbank.com
 
-* * *
+**What information do we collect?**
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+We collect information from you when you place an order or subscribe to our newsletter. 
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address... You may, however, visit our site anonymously.
 
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
+**To process transactions**
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+**To send periodic emails**
+
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to? keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties 
