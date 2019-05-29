@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223164631id_/https%3A//wildbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529175218id_/https%3A//wildbit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wildbit
 
-**Last amended: May 22, 2018**  
+**Last amended: April 9, 2019**  
 
 
-**Effective Date: May 25, 2018**
+**Effective Date:** ******April 9, 2019**
 
-This Privacy Policy applies to the websites: [](http://www.privacyshield.gov/)[www.wildbit.com](https://web.archive.org/web/20181223164631id_/https%3A//wildbit.com/www.wildbit.com), [www.beanstalkapp.com](http://www.beanstalkapp.com/), [www.conveyor.com](https://conveyor.com/), and [www.postmarkapp.com](http://www.postmarkapp.com/) (the “Sites”) owned and operated by Wildbit, LLC (collectively, “Wildbit”, “we”, “us”, or “our”). This Privacy Policy describes how Wildbit collects, uses, shares and secures the personal information you provide, as well as the information about our customers' customers or end users that we process on behalf of our customers. It also describes your choices regarding use, access, correction and deletion of your personal information.
+This Privacy Policy applies to the websites: [](http://www.privacyshield.gov/)[www.wildbit.com](https://web.archive.org/web/20190529175218id_/https%3A//wildbit.com/www.wildbit.com), [www.beanstalkapp.com](http://www.beanstalkapp.com/), [www.conveyor.com](https://conveyor.com/), and [www.postmarkapp.com](http://www.postmarkapp.com/) (the “Sites”) owned and operated by Wildbit, LLC (collectively, “Wildbit”, “we”, “us”, or “our”). This Privacy Policy describes how Wildbit collects, uses, shares and secures the personal information you provide, as well as the information about our customers' customers or end users that we process on behalf of our customers. It also describes your choices regarding use, access, correction and deletion of your personal information.
 
 ## 1\. EU-U.S. and Swiss-U.S. Privacy Shield Frameworks 
 
-Wildbit, LLC complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework [as set forth by the U.S. Department of Commerce](http://www.privacyshield.gov/welcome) regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Wildbit, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](http://www.privacyshield.gov/). 
+Wildbit, LLC complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework [as set forth by the U.S. Department of Commerce](http://www.privacyshield.gov/welcome) regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and Switzerland, as applicable to the United States in reliance on Privacy Shield. Wildbit, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](http://www.privacyshield.gov/). 
 
 Wildbit is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Wildbit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. Wildbit is liable for any processing of personal information by such third parties that is inconsistent with the Privacy Shield Principles unless it is not responsible for the event giving rise to any alleged damage. 
 
