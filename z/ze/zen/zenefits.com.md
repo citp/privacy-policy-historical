@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022074232id_/https%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529232642id_/https%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenefits
+
+Enjoy full access to Zenefits, no setup or credit card needed.
+
+Sorry, something went wrong! Please try again.
 
 ### Privacy Policy
 
