@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112115211id_/https%3A//www.vguard.in/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vguard.in privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529190638id_/https%3A//www.vguard.in/home/privacy-policy) for the most accurate reproduction.*
 
 # V-Guard India | Privacy Policy
+
+[](https://www.vguard.in/)
 
 V-Guard Industries Ltd. believes strongly in protecting the privacy of the personally identifiable information shared with us through the use of this website. We believe it is important to inform you about how personal data obtained through this site will be used. We therefore encourage you to read this Privacy Policy carefully. 
 
@@ -25,3 +27,9 @@ We recognize our responsibility to protect the information you entrust to us. V-
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, V-Guard Industries Ltd. has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the Information we collect online.
 
 The security of personal information you may submit in connection with a promotion entry, survey response, and/or registration for any feature on this Website is of the utmost concern to us, and we strive to ensure its security on our systems. However, no data transmission over the Internet can be guaranteed to be completely secure, and hence we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk.
+
+[ ](https://web.archive.org/)
+
+V-GUARD offers a range of products from Voltage Stabilizer to Digital UPS, Inverter and Inverter Batteries, Electric Water Heaters, Solar Water Heaters, Domestic Pumps, Agricultural Pumps, Industrial Motors, Domestic Switch Gears, Distribution Boards, Wiring Cables, Industrial Cables, Induction Cooktops, Mixer Grinders, Fans, Rice Cooker, Gas Stoves, Solar Power Systems & Air Coolers.
+
+[ Contact Us ](https://www.vguard.in/home/contact-us)
