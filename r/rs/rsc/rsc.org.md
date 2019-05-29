@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930171713id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140911id_/https%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies
 
-**Last updated: 24th May 2018**
+**Last updated: 19 th July 2018**
 
 Your privacy is very important to us, which is why we make sure you are always in control of what we do with your personal information.
 
 The purpose of this Notice is to tell you what information we collect from you as a data subject, how and when it may be collected and what happens to it. For the purpose of this Notice “we”, “our” and “us” refer to The Royal Society of Chemistry (and each of its subsidiaries) as an organisation (also referred to as “ **RSC** ”). Transmission of information online is not 100% secure and we cannot guarantee the security of data sent to us in this way. Transmission of data over the internet is at your own risk.
 
-RSC is a data controller and our address for contact is: 
+RSC is a data controller and our address for contact is:
 
-**The Royal Society of Chemistry**  
- _Thomas Graham House (290)_  
- _Science Park, Milton Road, Cambridge, CB4 0WF_
+**The Royal Society of Chemistry**
+
+  
+_Thomas Graham House (290)_  
+_Science Park, Milton Road, Cambridge, CB4 0WF_
 
 Our Data Protection Officer is David Barr, he can be contacted via telephone (01223 420066), e-mail ([DPO@rsc.org](mailto:DPO@rsc.org)) or in writing at the address above. If you have a specific question about this Notice or how we use your personal information, you should contact us via the contact methods set out above. Please mark your communication as “Data Protection Enquiry”.
 
@@ -68,11 +70,12 @@ This will depend on the reason we are collecting your personal information. Our 
 ## Who we may share your personal data with, and why
 
   * Royal Society of Chemistry staff across each of our service departments in order to provide you with applicable services.
+
   * Banks, finance management, direct debit, and accountancy software systems: personal information is collected and used in order that we can make payment to you in accordance with the appropriate transaction that you are entering into with us, for example processing card details to secure payment before dispatching a product to a customer.
   * Our internal and external judges: information supplied in relation to an application for awards, scholarships, bursaries (including research bursaries), funding (via our various Funds) internship, travel and outreach grants, will be used by our internal and external judges to assess whether you should receive such an award. Financial details will be collected in order to make payments under such Grants and to competition winners.
   * Appropriate third parties whom will provide mentoring services and products.
-  * Membership management systems in order to enable us to manage and effectively provide you with membership services.
-  * Telesales providers in order that they may assist us with our renewal of membership process.
+  * Membership management systems in order to enable us to manage and effectively provide you with membership services, including managing the status of your membership.
+  * Telesales providers in order that they may assist us with our renewal of membership process, including managing the status of your membership.
   * Mailing and delivery companies to send you written communications and hard copies of newsletters, journals etc as appropriate.
   * electoral service companies in order to assist us with facilitating and running our elections process
   * Sponsors and external judges: information may be provided in relation to their assessment of participants in our events and competitions.
@@ -129,7 +132,7 @@ If you make an enquiry via our website, on the telephone or via email, or via an
 We will process your personal data:
 
   1. As necessary to perform our contract with you for the relevant service: to take steps at your request before entering into it, to decide whether to enter into it, to manage and perform that contract and to update our records.
-  2. As necessary for our own legitimate interests: for example to monitor emails, record calls, and other communications to train staff and activities relating to your membership or in dealing with a complaint that you raise.
+  2. As necessary for our own legitimate interests: for example to monitor emails, record calls, and other communications to train staff and activities relating to your membership (including managing the status of your membership, or in dealing with a complaint that you raise.
   3. As necessary to comply with a legal obligation: for example when you exercise your rights under data protection laws and make requests, for establishment and defence of legal rights or obligations, for example in dealing with any complaint from you.
   4. Based on your consent: for example to send you marketing communications where we’ve asked for your consent to do so.
 
@@ -141,7 +144,7 @@ We will process your personal data:
 
 We want to share information and news about our products and services with you. We can do this in various ways including e-mail, post, phone or social media (or such other method(s) as may become relevant) but only if you would like us to.
 
-Subject to your consent, if required by applicable law, we may use your personal information to provide you with direct marketing information about our products and services as well as those of third parties and to take part in our marketing research. 
+In accordance with applicable laws and lawful basis for processing, we may use your personal information to provide you with direct marketing information about our products and services as well as those of third parties and to take part in our marketing research.
 
 We will ensure that any direct marketing from us and which is sent by electronic means will provide a simple means for you to stop further communications, in accordance with applicable law. Once you have provided your express consent for us to contact you on our behalf, or on behalf of other organisations, there are a number of methods available to you in order to change your preferences, to correct or update your personal information at any time by:
 
@@ -181,11 +184,13 @@ We may use your personal information to contact you to invite you to serve as a 
 
 Your personal information may be included in our internal tracking and archiving processes.
 
-We use information from publicly available sources to create a list of, and make contact with, suitable contacts to speak at symposiums we run or sponsor.
+If you provide us with your personal data, we will ask you if you would like to receive information from us about our other activities, products and services. If you choose to opt-in to receiving this information then we may contact you regarding journal news, journal symposia, Themed Issues, nominations for lectureships and awards. You will not be automatically opted-in and if you do opt-in you can opt-out at any time.
 
-If you provide us with your personal data, we will ask you if you would like to receive information from us about our other activities, products and services. You can opt out at any time.
+* * *
 
-We will solicit nominations for lectureships and awards from the Editorial and Advisory Boards, as well as from authors and readers who have opted-in to receive marketing communications from one of our journals. Nominators will supply the Editorial Office with personal information of the nominee for evaluation. Nominations will be considered by the Editorial Office team in conjunction with the Editorial Board or lectureship panel to decide who should win the lectureship/award, and the winner will be subsequently notified.
+## Profiling and automated decision making
+
+RSC does itself carry out automated decision making or profiling. We will share email addresses, which have been given directly to RSC by data subjects, or browsing information,   obtained in ways such as pixel tracking, to enable us to show tailored adverts on a third party platform, such as Twitter, Facebook, LinkedIn and Google, whom may perform profiling.
 
 * * *
 
@@ -193,7 +198,7 @@ We will solicit nominations for lectureships and awards from the Editorial and A
 
 We have a procedure in place in relation to our use of images through use of photographs and video, including process for consent to use (as applicable), retention and deletion. For more information please contact our Data Protection Officer at the address shown above.
 
-### CCTV at Thomas Graham House or Burlington House
+**CCTV at Thomas Graham House or Burlington House**
 
 RSC operates use of CCTV surveillance cameras at these offices. Surveillance is monitored through a live feed by RSC staff within our Facilities Management and Hospitality teams. Off-site/remote access to surveillance footage is only granted to our staff and is provided securely through our IT system, subject to our off-site working practices and policies. Surveillance cameras are located in public access areas such as meeting rooms, post rooms, corridors, cafes, canteens, libraries, stairs, lifts, reception areas and fire exits. Surveillance cameras on these sites record images only; there is no recording of sound. 
 
