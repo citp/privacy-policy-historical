@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calculatorsoup.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901073551id_/https%3A//www.calculatorsoup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calculatorsoup.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529170525id_/https%3A//www.calculatorsoup.com/privacy.php) for the most accurate reproduction.*
 
 # CalculatorSoup.com Privacy Policy and Cookie Policy
 
@@ -50,4 +50,4 @@ If you feel that this site is not following its stated information privacy polic
 Last updated: July 1, 2017
 
 Follow CalculatorSoup:  
-[](https://plus.google.com/101931635368820157836 "Follow CalculatorSoup on Google Plus") [](https://www.facebook.com/calculatorsoup "Follow CalculatorSoup on Facebook") [](https://twitter.com/calculatorsoup "Follow CalculatorSoup on Twitter")
+[](https://www.facebook.com/calculatorsoup "Follow CalculatorSoup on Facebook") [](https://twitter.com/calculatorsoup "Follow CalculatorSoup on Twitter")
