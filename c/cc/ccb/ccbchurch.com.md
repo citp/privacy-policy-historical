@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccbchurch.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202214144id_/https%3A//www.churchcommunitybuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbchurch.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529070208id_/https%3A//www.churchcommunitybuilder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Church Community Builder
 
@@ -79,7 +79,7 @@ Personal Data is collected for the following purposes and using the following se
 > 
 > Personal Data collected: Cookie and Usage data.
 > 
-> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy)
+> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy?__hstc=162943075.5b2ba5d1290e76fa26836dce257bec17.1582080434242.1582080434242.1582080434242.1&__hssc=162943075.1.1582080434243&__hsfp=3924935683)
 > 
 > #### GOOGLE ANALYTICS (GOOGLE INC.)
 > 
@@ -157,7 +157,7 @@ Personal Data is collected for the following purposes and using the following se
 > 
 > Personal Data collected: Cookie and Usage data.
 > 
-> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy)
+> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy?__hstc=162943075.5b2ba5d1290e76fa26836dce257bec17.1582080434242.1582080434242.1582080434242.1&__hssc=162943075.1.1582080434243&__hsfp=3924935683)
 
 > ### Displaying content from external platforms
 > 
@@ -210,7 +210,7 @@ Personal Data is collected for the following purposes and using the following se
 > 
 > Personal Data collected: Cookie and Usage data.
 > 
-> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy)
+> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy?__hstc=162943075.5b2ba5d1290e76fa26836dce257bec17.1582080434242.1582080434242.1582080434242.1&__hssc=162943075.1.1582080434243&__hsfp=3924935683)
 
 > ### Infrastructure monitoring
 > 
@@ -259,7 +259,7 @@ Personal Data is collected for the following purposes and using the following se
 > 
 > Personal Data collected: Cookie and Usage data.
 > 
-> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy)
+> Place of processing: USA – [Privacy Policy](https://legal.hubspot.com/privacy-policy?__hstc=162943075.5b2ba5d1290e76fa26836dce257bec17.1582080434242.1582080434242.1582080434242.1&__hssc=162943075.1.1582080434243&__hsfp=3924935683)
 
 > ### Managing support and contact requests
 > 
