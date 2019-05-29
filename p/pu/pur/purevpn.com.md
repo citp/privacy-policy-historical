@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204123509id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529152138id_/https%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PureVPN’s Privacy Policy
 
@@ -110,20 +110,6 @@ Every paid PureVPN user gets access to unlimited bandwidth, irrespective of how 
   
 
 
-## Standalone DNS Service - Gravity
-
-Gravity is a DNS Service offered by PureVPN to protect you against viruses, malware, and rogue websites even when you are not connected to PureVPN. Since Gravity is a DNS-based feature, it only works when you specifically enable it and requires you to share your IP address. This DNS-based feature does not work on a username and password basis, and only recognizes an IP address. Hence, whenever you enable this feature in our software/apps, your original IP will be registered and used. Besides your IP address, we have NO record of your browsing activities, the history of your browsing, the sites you visited, your outgoing traffic, or the content or data you accessed.
-
-  
-
-
-## URL Filter & App Blocker by PureVPN
-
-The URL Filter and App Blocker are two features offered by PureVPN as part of its software suite. The URL Filter feature helps you block websites at your discretion on your system or device, while the App Blocker feature helps you limit internet access to specific apps on your system or device. The data processing required by these features is carried out in real time and no data is saved anywhere. 
-
-  
-
-
 ## Software Analytics, Stats & Diagnostics 
 
 PureVPN collects minimal connection statistics and reports. The collection is done to ensure superior quality of service and customer support. However, the data collected as statistics and reports does not and will never include uniquely identifiable user data or behavior, such as traffic details, IP addresses, and DNS requests.
@@ -198,7 +184,7 @@ If you are a resident of the EEA, you have the following data protection rights:
 
   * You can always access, correct and update the information you provided to us, within your member’s area profile.
   * You have the right to opt-out of marketing communications we send you at any time from within your member’s area profile. You can also exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send to you. 
-  * You may also request deletion of your personal user profile, if you decide to leave our services completely. You can do so at any time by sending an email at [support@purevpn.com](mailto:support@purevpn.com). If you request the deletion of your profile, it may take up to a month (30 days) to complete. Your email address will be kept and used to avoid account duplication and creation of fake accounts in your name. Your email address will be deleted only after we receive an explicit request from you to do so.
+  * You may also request deletion of your personal user profile, if you decide to leave our services completely. You can do so at any time by sending an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5868085859a8781b58580879083859bdb969a98). If you request the deletion of your profile, it may take up to a month (30 days) to complete. Your email address will be kept and used to avoid account duplication and creation of fake accounts in your name. Your email address will be deleted only after we receive an explicit request from you to do so.
 
   
 
@@ -251,6 +237,8 @@ The only time we collect personal information from you is (i) when we need the p
 
 PureVPN may change and amend its Privacy Policy at times. PureVPN holds the sole right to change and modify its Privacy Policy whenever it is felt necessary to do so. Whenever a revision is made, the updated revision date will be displayed at the top of this page. We encourage you to frequently check this page for any changes to stay informed. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and be aware of the modifications. Since there is no other way for us to make sure about whether you are aware of the changes in the policy, we will take it as an agreement between you and PureVPN on the privacy policy if you continue to use PureVPN. 
 
-If anything mentioned in our Privacy Policy is unclear or you require more clarity on it, then send in your query at the following email address: [legal@purevpn.com](mailto:legal@purevpn.com)
+If anything mentioned in our Privacy Policy is unclear or you require more clarity on it, then send in your query at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee828b898f82ae9e9b9c8b989e80c08d8183)
+
+* These features are neither offered via our iOS apps nor is this information collected via iOS apps
 
 Last updated on September 14, 2018 
