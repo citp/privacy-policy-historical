@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829011444id_/https%3A//www.menkind.co.uk/menkind-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red5.co.uk privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529083913id_/https%3A//www.menkind.co.uk/menkind-privacy-policy) for the most accurate reproduction.*
 
 # Menkind Privacy Policy | Menkind
 
