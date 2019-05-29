@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725143034id_/https%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsforyounow.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529074039id_/https%3A//www.giftsforyounow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
