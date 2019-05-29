@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thenewsteller.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927092707id_/http%3A//www.thenewsteller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsteller.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529091054id_/https%3A//www.thenewsteller.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The News Teller
+# Privacy Policy – The News Teller
 
 **THENEWSTELLER PRIVACY POLICY**  
 Privacy of our visitor is what matters most. To ensure the privacy of users, our company designed the policy. We anticipate our users will go through our terms and conditions. This very privacy statement propagate the working methodology of our company.  
-We also entertain removal request [removal request form](http://www.thenewsteller.com/removal-request/). Please Mention news post and your claim in the form. 
+We also entertain removal request [removal request form](https://www.thenewsteller.com/removal-request/). Please Mention news post and your claim in the form. 
 
 **Privacy:**  
 We recognize that privacy of your personal information is vital. Her is information on what sort of personal data we receive, when you visit this website and how we safeguard your information and what measures we take to shield your privacy.
@@ -32,4 +32,4 @@ Any modification in online privacy policy will be appeared on this page. This on
 
 **Contacting Us**
 
-We always believes on quality and improvement. That’s why, any query about online privacy policy will be entertained. Feel free to submit your query by [contact form](http://www.thenewsteller.com/contact-us/).
+We always believes on quality and improvement. That’s why, any query about online privacy policy will be entertained. Feel free to submit your query by [contact form](https://www.thenewsteller.com/contact-us/).
