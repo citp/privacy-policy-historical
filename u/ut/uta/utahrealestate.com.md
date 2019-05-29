@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917202817id_/https%3A//www.utahrealestate.com/page/do/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahrealestate.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529184725id_/https%3A//www.utahrealestate.com/page/do/privacy.policy) for the most accurate reproduction.*
 
 # UtahRealEstate.com
 
@@ -10,9 +10,9 @@ This policy applies to the Websites and their associated pages. Please note that
 
 **_Types of Information Collected_**
 
-When you visit the Websites, URE collects certain information about your visit.  For instance, URE may collect information about the type of internet browser you are using, the server name and Internet Protocol address through which you access the Websites, the pages you access within the Websites, information about your geographic location, how long you spend on the Websites, information you input into the Websites regarding your contact information or real estate listings, if you navigated to the URE Websites from another website, and the internet address of where you came from. URE also contracts with ListTrac. ListTrac collects information about your real estate viewing activities and preferences that allows ListTrac and approved 3rd party companies to engage with you through personalized, relevant adverts when you are browsing other websites and social media platforms, and through ListTrac’s analytics services. You can learn more about ListTrac and opt out at <http://listtrac.com/privacypolicy.html>.
+When you visit the Websites, URE collects certain information about your visit, which URE stores indefinitely.  For instance, URE may collect information about the type of internet browser you are using, the server name and Internet Protocol address through which you access the Websites, the pages you access within the Websites, information about your geographic location, how long you spend on the Websites, information you input into the Websites regarding your contact information or real estate listings, if you navigated to the URE Websites from another website, and the internet address of where you came from. When a user visits the Websites, URE may collect and process users’ information  to: (a) improve the quality of services that URE provides to users; (b) to provide users with targeted advertisements; and (c) to help connect users with professionals that subscribe to URE’s Websites. URE also contracts with ListTrac. ListTrac collects information about your real estate viewing activities and preferences that allows ListTrac and approved 3rd party companies to engage with you through personalized, relevant adverts when you are browsing other websites and social media platforms, and through ListTrac’s analytics services. You can learn more about ListTrac and opt out at <http://listtrac.com/privacypolicy.html>. 
 
-URE may have to disclose, transfer, sell, or assign information obtained from you through the Websites to a third party if URE utilizes companies and individuals who URE employs or engages to perform services on URE's behalf for the Websites or if requested by the government, law enforcement, or via subpoena. URE may also disclose information if URE is or may be acquired by another entity or engages in the sale of URE's assets.
+URE may have to disclose, transfer, sell, or assign information obtained from you through the Websites to a third party if URE utilizes companies and individuals who URE employs or engages to perform services on URE’s behalf for the Websites or if requested by the government, law enforcement, or via subpoena. URE may also disclose information if URE is or may be acquired by another entity or engages in the sale of URE’s assets.
 
 _**How URE Protects Information**_
 
@@ -29,10 +29,6 @@ The Websites may include discussion forums (such as message boards and chat feat
 _**Advertising**_
 
 URE utilizes advertisements in its Websites. URE wants to make these advertisements useful and relevant to you. As a result, URE may provide advertisements on the Websites based on information collected from you or in relation to your interaction with the Websites. The advertisers may utilize cookies and other technologies to your online activity and to learn what types of information are of most interest to you. Use of these technologies by the advertisers is subject to the advertisers' own privacy policies.
-
-_**Children**_          
-
-These Websites are not directed to children under the age of 13, and URE does not knowingly collect any information, including personal information, from children under the age of 13.
 
 _**Policy Changes**_
 
