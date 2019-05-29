@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208151640id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529231125id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
 
 # Heart Internet Privacy Statement
 
@@ -17,7 +17,7 @@ Our Privacy Policy is intended to describe to you how and what data we collect, 
 
 If at any time you have questions about our practices or any of your rights described below, you may reach our Data Protection Officer ("DPO") and our dedicated team by contacting us at [privacy@heartinternet.uk](mailto:privacy@heartinternet.uk). This inbox is actively monitored and managed so that we can provide you with information you can confidently trust.
 
-We have also created a Privacy Centre to provide answers to your most common questions, links to your Account Settings, instructions on how to exercise rights that might be available to you, documentation you may need, and definitions to key terms and concepts in this Privacy Policy.
+We have also created a [Privacy Centre](https://www.heartinternet.uk/privacy-centre) to provide answers to your most common questions, links to your Account Settings, instructions on how to exercise rights that might be available to you, documentation you may need, and definitions to key terms and concepts in this Privacy Policy.
 
 #### What information do we collect?
 
@@ -152,7 +152,7 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 
 #### Data Protection Authority.
 
-Heart Internet Limited is the data controller for www.heartinternet.uk and is registered on the Information Commissioner's Office's Register of Data Controllers under number Z8162337.You may direct questions or complaints in respect of how we handle your Personal Data to the Information Commissioner's Office:
+Heart Internet Limited is the data controller for www.heartinternet.uk and is registered on the Information Commissioner's Office's Register of Data Controllers under number Z8162337. You may direct questions or complaints in respect of how we handle your Personal Data to the Information Commissioner's Office:
 
 [www.ico.org.uk](https://ico.org.uk/)
 
