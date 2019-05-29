@@ -1,45 +1,79 @@
-> *The following text is extracted and transformed from the chart.ly privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123033932id_/http%3A//stocktwits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chart.ly privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529102242id_/https%3A//chart.ly/privacy) for the most accurate reproduction.*
 
-# StockTwits Privacy Policy
+# Chartly - data visualization software
 
-StockTwits® provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at www.StockTwits.com ("Site" ), or collected through our social networking service, including via [SMS, WAP and Instant Messaging] (together with the Site, the "Service" ). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+## Privacy Notice
 
-By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States.
+Effective Date: June 4, 2018
 
-If you reside outside the U.S., your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By using the Service and providing information to us, you consent to such transfer to, and processing in, the U.S. If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at privacy@stocktwits.com.
+This privacy notice discloses the privacy practices for Chartly and our website: https://chart.ly
 
-## Information Collection and Use
+This privacy notice applies solely to information collected by this website, except where stated otherwise. It will notify you of the following:
 
-Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Service, to communicate with you, and to manage your registered user account, if you have one.
+What information we collect; With whom it is shared; How it can be corrected; How it is secured; How policy changes will be communicated; and How to address concerns over misuse of personal data.
 
-Information. Your full user name and your image (if you decide to upload one) for which you registered on Twitter.com (“Twitter”) are displayed to people in the StockTwits® network to enable you to connect with people on StockTwits®, as specified in your privacy settings on Twitter. If you activate the mobile device options, when available, per the Terms of Use at www.StockTwits.com/terms_of_use, we will collect your cellular phone number. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
+### Information Collection, Use, and Sharing
 
-Use of Contact Information.In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-Log Data.When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Service, and for the Service’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g., to ship an order.
 
-## Cookies
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Service. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. StockTwits® may use both session cookies and persistent cookies to better understand how you interact with the Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Service. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+### Your Access to and Control Over Information
 
-Information Sharing and Disclosure 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address provided on our website:
 
-Service Providers. We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+See what data we have about you, if any. Change/correct any data we have about you. Have us delete any data we have about you. Express any concern you have about our use of your data
 
-Compliance with Laws and Law Enforcement.StockTwits® cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of StockTwits® or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+### Registration
 
-Business Transfers.StockTwits® may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-## Security
+Orders 
 
-StockTwits® is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
 
-We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+### Sharing
 
-## Links to Other Websites
+We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+And/or:
 
-## Our Policy Towards Children
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
 
-The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at parents@stocktwits.com. We do not knowingly collect personally identifiable information from children under 18. If we become aware that a child under 18 has provided us with personal identifiable Information, we will delete such information from our files.
+And/or:
+
+We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+
+### Security
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (e.g. billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
+
+### Cookies
+
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance their experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+
+Some of our business partners may use cookies on our site (e.g., advertisers). However, we have no access to or control over these cookies.
+
+### Links
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+### Surveys & Contests
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+### Notification of Changes
+
+Whenever material changes are made to the privacy notice specify how you will notify consumers.
+
+### Other Provisions as Required by Law
+
+Numerous other provisions and/or practices may be required as a result of laws, international treaties, or industry practices. It is up to you to determine what additional practices must be followed and/or what additional disclosures are required. Please take special notice of the California Online Privacy Protection Act (CalOPPA), which is frequently amended and now includes a disclosure requirement for “Do Not Track” signals.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at harris@nimblelabs.com
