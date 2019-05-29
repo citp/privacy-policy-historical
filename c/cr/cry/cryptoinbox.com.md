@@ -1,97 +1,78 @@
-> *The following text is extracted and transformed from the cryptoinbox.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917103437id_/http%3A//cryptoinbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptoinbox.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529152917id_/https%3A//cryptoinbox.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-###### Last updated: August 25, 2016
+### PRIVACY POLICY
 
-Crypto Inbox Pvt Ltd ("us", "we", or "our") operates the [https://www.cryptoinbox.com](https://cryptoinbox.com/) website (the "Service").
+This Privacy Policy describes how Atccoin Ltd. and its subsidiaries and affiliated companies (“Atccoin,” “we” or “us”) collect, use and share information about you. This policy applies to information we collect when you use our websites, including www.Atccoin.com, (collectively, the “Site”) or otherwise interact with us as described below.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+This policy does not apply to the Atccoin open source client software or the Atccoin distributed open source global payment network accessed through that software (collectively, “Atccoin Technology”), which may be accessed via our Site. Atccoin does not own or control Atccoin Technology. However, if you access Atccoin Technology from a hyperlink on our Site, we may collect the information identified in the “Information We Collect Automatically” section below in connection with your use of Atccoin Technology. If you prefer, you can usually set your browser to remove or reject cookies, which will disable any information we would collect from cookies. We use the information collected on Atccoin Technology solely to analyze trends and evaluate user engagement of Atccoin Technology, when accessed from our Site. We will not collect any of the information that you provide directly to Atccoin Technology. Additionally, if you access Atccoin Technology by any other method, other than through a hyperlink available via our Site, then we will not collect any information in connection with your use of Atccoin Technology.
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Site or sending you an email notification). We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <https://cryptoinbox.com/terms-and-conditions>
+### COLLECTION OF INFORMATION
 
-### Information Collection and Use
+_Information You Provide to Us_
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+We collect information you provide directly to us. For example, we collect information when you create an online account.
 
-### Log Data
+post messages to our forums or wikis or otherwise communicate with us. The types of information we may collect include your name, email address, username, password, location and any other information you choose to provide.
 
-We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+### INFORMATION WE COLLECT AUTOMATICALLY
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+We automatically collect certain information about you when you access or use our Site or transact business with us, including Log Information. We collect information about your use of our Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
 
-### Cookies
+Information Collected by Cookies and Other Tracking Technologies: We may use cookies, web beacons (also known as “tracking pixels”) and other tracking technologies to collect information about you when you interact with our Site or emails, including information about your browsing behavior on our Site. We use this information to improve our Site and your experience, see which areas and features of our sites are popular, count visits, understand campaign effectiveness and determine whether an email has been opened and links within the email have been clicked.
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+### INFORMATION WE COLLECT FROM OTHER SOURCES
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+We may also obtain information about you from other sources and combine that with information we collect about you.
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+### USE OF INFORMATION
 
-### Behavioral Remarketing
+We may use information about you for various purposes, including to:
 
-Crypto Inbox Private Limited. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+  1. Respond to your comments, questions and requests and provide customer service;
+  2. Monitor and analyze trends, usage and activities in order to operate and improve our Site;
+  3. Manage your online account(s) and send you technical notices, updates, security alerts and support and administrative messages;
+  4. Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  5. Carry out any other purpose for which the information was collected.
+  6. We are based in the United States and the information we collect is governed by England & wales law. By accessing or using our Site or otherwise providing information to us, you consent to the processing and transfer of information in and to the England & wales and other countries.
 
-### Do Not Track Disclosure
 
-We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+### SHARING OF INFORMATION
 
-### Service Providers
+We may share information about you as follows:
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+  1. With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  2. In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  3. If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party;
+  4. In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  5. With your consent or at your direction.
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-### Communications
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
+### ANALYTICS SERVICES PROVIDED BY OTHERS
 
-### Compliance With Laws
+We engage third parties to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our Site, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity.
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+### SECURITY
 
-### Security
+We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+### YOUR CHOICES
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+_Account Information_
 
-### International Transfer
+You may update, correct or delete your online account information at any time by logging into your account or by contacting us at the information below. Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+### COOKIES
 
-If you are located outside India and choose to provide information to us, please note that we transfer the information, including Personal Information, to India and process it there.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our Site. If you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+If you have any questions about this Privacy Policy contact us.
 
-### Links to Other Sites
+__  By email: [__  support@cryptoinbox.com](mailto:support@cryptoinbox.com)
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-### Children's Privacy
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-### Changes to This Privacy Policy
-
-This Privacy Policy is effective as of August 25, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at [ __  support@cryptoinbox.com](mailto:support@cryptoinbox.com) or __  888-477-3345
-
-### Unsubscribe
-
-To unsubscribe please email [ __  support@cryptoinbox.com](mailto:support@cryptoinbox.com)
+__  By Live Chat: [__  www.cryptoinbox.com](https://cryptoinbox.com/)
