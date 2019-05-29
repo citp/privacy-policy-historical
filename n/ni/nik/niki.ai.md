@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niki.ai privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127105725id_/http%3A//niki.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niki.ai privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529103956id_/https%3A//niki.ai/privacy) for the most accurate reproduction.*
 
 # Niki - India's Own Chatbot For Online Transactions | Making It As Simple As Talking To A Friend
 
