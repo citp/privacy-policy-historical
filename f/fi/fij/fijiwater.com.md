@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123204637id_/http%3A//fijiwater.com/content/fijiwater/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijiwater.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529235503id_/http%3A//www.fijiwater.com/content/fijiwater/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | FIJI Water
 
