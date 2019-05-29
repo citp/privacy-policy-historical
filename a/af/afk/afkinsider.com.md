@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the afkinsider.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131095307id_/https%3A//afkinsider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afkinsider.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529215308id_/https%3A//moguldom.com/privacy-2) for the most accurate reproduction.*
 
-# Privacy Policy | AFKInsider
+# Privacy Policy - Moguldom
 
 Revised as of May 27, 2015
 
 **1\. INTRODUCTION**
 
-**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
+**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom.com (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
 
 This Policy explains:
 
@@ -154,6 +154,7 @@ The date this Policy was last revised is identified at the top of this page. You
 
 If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](http://moguldom.com/privacycontact/). You may also contact us by post at the following address:
 
-Moguldom Media Group LLC  
-5211 NW 33rd Ave  
-Fort Lauderdale, FL 33309
+Moguldom  
+Wells Fargo Plaza  
+333 SE 2nd Ave #2000  
+Miami, FL 33131
