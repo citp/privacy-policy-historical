@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230024007id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmortgagenews.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529191640id_/http%3A//www.sourcemedia.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SourceMedia
 
@@ -119,8 +119,8 @@ SourceMedia may amend this policy from time to time. If we make any material cha
 We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contacting Customer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists.
 
  **Customer Service**  
-custserv@sourcemedia.com  
-(800) 221-1809
+[help@sourcemedia.com](mailto:help@sourcemedia.com)  
+212-803-8500
 
  **Mail to:**
 
