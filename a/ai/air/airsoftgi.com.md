@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airsoftgi.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924230448id_/http%3A//www.airsoftgi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsoftgi.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529050541id_/https%3A//www.airsoftgi.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Airsoft GI
+# Privacy Policy | Airsoft GI | Airsoft is a recreational sport for guns enthusiast. Replica firearms called Airsoft Guns are very realistic and often used for military & law enforcement training. Airsoft GI has been the leading retailer since 2003, stocked with brands like Elite Force, Lancer Tactical, G&G Airsoft, airsoft pistols & airsoft rifles
 
 Last updated: June 10, 2017
 
@@ -60,7 +60,7 @@ However, please be aware that no method of transmission over the internet, or me
 
 ## International Transfer
 
-Your information, including Personal Information, may be transferred to â€” and maintained on â€” computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+Your information, including Personal Information, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
 If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
 
@@ -88,4 +88,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us.](http://www.airsoftgi.com/information/Contact-Us-36/)
+If you have any questions about this Privacy Policy, please [contact us.](https://www.airsoftgi.com/information/Contact-Us-36/)
