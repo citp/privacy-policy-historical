@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823200601id_/https%3A//help.lightake.com/SecurityPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightake.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529200423id_/https%3A//help.lightake.com/SecurityPrivacy.html) for the most accurate reproduction.*
 
 # SecurityPrivacy- Lightake.com
 
