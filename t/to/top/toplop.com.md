@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toplop.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118060429id_/https%3A//toplop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplop.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529152432id_/https%3A//toplop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,11 @@ TopLop assumes, that a member, addressing the Site:
 • Determines and has control over the settings of the software used by him/her according to his/her preferences concerning personal data protection, information about his/her own firmware and Internet connection;  
 • TopLop assumes, that a member, accessing the Site is acquainted with the present Agreement and accepts its terms and conditions.
 
-**III. Gathering, storage, protection, processing and distribution of information**  
+**III. Cookies Policy**  
+We use cookies to keep track of some non-personal and aggregate types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user behaviour, so that we can continue to develop and improve our service offering.   
+You may choose to accept or reject cookies by changing your internet browser setting. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. Click the “help” menu in your browser’s toolbar for information on how to change your settings. 
+
+**IV. Gathering, storage, protection, processing and distribution of information**  
 1\. Gathering information about members TopLop gathers information about members in accordance with the rules, determined by the present Agreement.   
 2\. Restriction of information received from minors TopLop has no intention to receive information from minors. According to the Charter, TopLop forbids them using the Site.   
 3\. Liability restriction for reliability of collected information  
@@ -34,12 +38,12 @@ Members, interested in acquaintance, have access only to the information about o
 Information about other members is not accessible to the members of TopLop. An exception is made for general data, which characterize TopLop as a whole, for example, information about distribution of the members by country, age, occupation, education, etc.   
 7\. Restriction of using information from members profiles TopLop uses information from members' profiles (login and password, email address) only for authorization of Internet resource access. Responsibility for the safety of the provided information is carried by the member. Any actions, conducted with the use of such information, are considered by TopLop as the actions, conducted by the member. Other information from a member's profile is not used by TopLop for distributing information to members, except for the cases stipulated by the Site usage rules, or by members' obvious inquiry.
 
-**IV. Miscellaneous**  
+**V. Miscellaneous**  
 1\. Members' references in connection with the Agreement  
 TopLop considers the references, associated with the present Agreement, including members inquiries, concerning their personal data usage, sent by the members to the following e-mail address: [info@toplop.com](mailto:info@toplop.com). Anonymous messages will not be considered.   
 2\. Correspondence to the TopLop address  
 All correspondence, sent by members to the TopLop address is perceived by TopLop as restricted access information and can be published only with the consent of the member. Addresses, personal data and other information about the members, who have sent these letters, cannot be used without their special consent for other purposes, but only to provide answers on the subject of a received letter.   
 3\. Access to the text of the Agreement  
-The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – <http://toplop.com/privacy.php>   
+The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – <https://toplop.com/privacy.php>   
 4\. TopLop right to modify the Agreement   
-TopLop reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. 
+TopLop reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. This policy was last revised on May 10, 2018. 
