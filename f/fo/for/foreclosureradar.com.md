@@ -1,89 +1,102 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623203832id_/http%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529205523id_/https%3A//www.propertyradar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PropertyRadar - previously ForeclosureRadar
+# Privacy Policy - PropertyRadar
 
-PropertyRadar understands that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by PropertyRadar.
+**Effective Date: April 16, 2019**
 
-## Information Collection and Use
+PropertyRadar, Inc. (“PropertyRadar”, “we”, “us”, or “our”), recognizes the importance of privacy. In this Privacy Policy, we describe how we collect, use, and disclose information that we obtain about visitors to our website [www.propertyradar.com](http://www.propertyradar.com/) and related subdomains (collectively, the “Site”) and users of the services available through our Site (the Site, and services available through it, are hereinafter collectively referred to as the “Services”). The visitors to our Site and the users of our Services are the “Users” (or “You”).
 
-**Subscribers** – When you subscribe to our service we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, address and phone) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to contact you if necessary. You also may have the option to provide us with demographic information (such as your occupation or interest in real estate). We use this information to enhance our services and provide a more personalized experience.
+This Privacy Policy only applies to the information that we collect from You through Your use of our Services. It does not apply to the information that we collect from non-Users, such as from public sources (e.g., foreclosure records, county recorder records, courthouse records). This Privacy Policy also does not apply to any third-party websites or applications that may be linked from our Services. Any access to and use of such linked websites and applications is not governed by this Privacy Policy but instead is governed by the privacy policies of those third parties. We are not responsible for the information practices of such third-party websites or applications, and we encourage You to read their privacy policies.
 
-**Services** – Our services allow you to store search criteria, search history, photos, notes, financial analysis, and other information for your convenience and use of the site. We use this information solely to provide you the requested services. Note that you may choose to share this information with others, although it must be in accordance to the user agreement.
+By using any of our Services, You agree that Your information, including personal information, will be collected, used, and disclosed as described in this Privacy Policy and that PropertyRadar may contact You via email or phone for customer support, billing, and other Services-related purposes (e.g., notices regarding disruption of Service). Your use of our Services, and any dispute over privacy is subject to this Privacy Policy and our [User Agreement](https://www.propertyradar.com/user-agreement), including its applicable limitations on damages and the resolution of disputes.
 
-**Email Alerts, News or Reports** – When you sign up for Email Alerts, News or Reports we request your email address and demographic information (such as your occupation or interest in real estate). We use this information to provide the requested alerts and to enhance our services and provide a more personalized experience.
+ **  
+Information We Collect  
+How We Use Information  
+How We Disclose Information  
+Cookies and Other Tracking Mechanisms  
+Third-Party Services  
+Do Not Track Disclosure  
+Security  
+User Choices  
+Children  
+Contact Us  
+Changes to this Privacy Policy  
+**
 
-**Referrals –** If you choose to use our referral services to tell another party about our site, or send them information from our site, we will ask you for the parties name and email address. We will automatically send the party a one-time email with the information you requested we send, and an invitation to visit the site. We do not store this information and use it for the sole purpose of fulfilling your request. 
+### Information We Collect
 
-**User Communication** – When you send email or other communication to PropertyRadar, we may retain those communications in order to respond to your inquiry.
+We collect information about You directly from You and automatically through Your use of our Services:
 
-**Cookies –** When you visit PropertyRadar we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. Cookies are used to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PropertyRadar features and services may not function properly if your cookies are disabled.
-
-**Web Beacons** – We may use clear gifs or other technology to monitor your use of our site or if you have viewed an HTML-based email that we send you. This allows us to gauge how you use our site and the effectiveness of our advertising and communications.
-
-**Log information** – When you use PropertyRadar services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We use this information to enhance our services.
-
-**Links –** PropertyRadar may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
-
-## Communications from the Site
-
-**Special Offers & Updates** – We will occasionally send you information on our products and services in an effort to promote our site. If you have requested Email Alerts, News or Reports and do not want to receive offers or updates that may be included with them, you may unsubscribe using the link provided with each email.
-
-**Service-Related Announcements** – We will send subscribers service related announcements when necessary to inform you of service upgrades, outages, or other events that may impact your ability to use the service. 
-
-**Customer Service** – Based on the personally identifiable information you provide us, we will send you a welcoming email upon registration and a series of tips and suggestions on using the service. We will also communicate with you in response to your inquiries, to provide services you request, and to manage your account. We will communicate with you by email or telephone as needed.
-
-**Email Alerts, News and Reports** – We send emails containing Alerts, News and Reports when requested. If you no longer with to receive these you may opt out at any time using the link provided with each email.
-
-## Information Sharing and Disclosure
-
-PropertyRadar processes personal information for the purposes described below. PropertyRadar does not sell, rent or provide your information to other companies or entities or individuals. We do share subscriber’s information in the following circumstances:
-
-  * With your consent and approval
-  * To initiate or maintain membership
-  * Process payment for membership, goods and services
-  * In order to obtain services and goods you request
-  * For improvements, updates, enhancements, to the operation of this website
-  * To investigate a possible violation of our User Agreement
-  * In response to any court order or any other legal process or to satisfy any applicable law, regulation, legal process or enforceable governmental request
-  * To detect, prevent, or otherwise address fraud, security or technical issues, or
-  * To protect against imminent harm to the rights, property or safety of PropertyRadar, its subscribers or the public as required or permitted by law.
-  * PropertyRadar specifically uses third party services to maintain billing and account information, and to host this site and the related services. These third party services are prohibited from using your personally identifiable information for any other purpose.
-  * To help ensure the quality of the content posted to the website, PropertyRadar uses a spam verification service.
+  *  **Information We Collect Directly from Users.** We may collect information about You directly from You. For example, if You create an account with us we will collect Your name, email address, phone number, and password. If You pay for our Services, we will also collect Your payment card information and billing address. We will also collect any other information that You provide to us through our Services.
+  *  **Content Posted by You.** You may post or upload materials to our Services, such as notes, comments, or photos (collectively, “Content”). If a You post Content on our Services, You may choose to make that Content available to other Users and, by doing so, Your name and other information may be available to those designated Users. Please note that once You have shared Content, we cannot prevent such information from being used in a manner that may violate this Privacy Policy, our [User Agreement](https://www.propertyradar.com/user-agreement), the law, or Your personal privacy.
+  *  **Information We Collect Automatically.** We automatically collect information about You through Your use of our Services, including, without limitation, IP address, location, browser type, domain name, the website that led them to our Services, the website to which You go after leaving our Services, the dates and times You access our Services, device ID, and activities within our Services (e.g., links You click, searches You run, etc.). Please see our Cookies and Other Tracking Mechanisms section below for more information. We may combine information we collect automatically with information we collect directly from or from third parties.
 
 
 
-**Choices for personal information** – When you sign up for a particular service that requires registration, we ask you to provide personal information. If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service notices, we will offer you a choice to opt out of the use of personal information for those other purposes. You may also decline to submit personal information to any of our services, in which case PropertyRadar may not be able to provide those services to you.
+### How We Use Information
 
-## Links to Other Sites
+We use the information that we collect, including personal information and Content, for the following purposes:
 
-This Privacy Policy applies to any web sites and services that are owned and operated by PropertyRadar. We do not exercise control over the sites displayed as search results or links from within our various services. These sites will be able to detect that you are visiting from our site, and they may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  *  **Protecting Rights and Interests.** To protect the safety, rights, property, or security of PropertyRadar, the Services, any third party, or the general public; to detect, prevent, or otherwise address fraud, security, or technical issues; to prevent or stop activity which PropertyRadar, in its sole discretion, may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity; to use as evidence in litigation; and to enforce this Privacy Policy or our [User Agreement](https://www.propertyradar.com/user-agreement).
+  *  **Providing and Improving Our Services.** To provide and maintain our Services; to improve our Services; to develop new features, products, or services; to perform technical operations, such as updating software; and for other customer service and support purposes.
+  *  **Research and Analytics.** To analyze how You interact with our Services; to monitor and analyze usage and activity trends; and for other research, analytical, and statistical purposes.
+  *  **Marketing and Communications.** To communicate with You about Your account and use of our Services; to send You product or service updates; to respond to Your inquiries; to provide You with news and newsletters, special offers, promotions, and other information we think may interest You; and for other informational, marketing, or promotional purposes. Our communications with You may include communications via email or text/SMS. Please see our section regarding User Choices for more information about how to change Your communications preferences.
+  *  **Legal Compliance.** To comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request from law enforcement or a governmental authority.
 
-## Information Security
 
-The security of your information is important to us. When you enter sensitive information (such as a credit card number) we encrypt that information using secure socket layer technology (SSL). We follow commercially accepted industry standards to protect the personal information submitted to us. Nonetheless, no method of transmission over the Internet, or electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website please email us at [info@propertyradar.com](mailto:info@foreclosureradar.com).
 
-## Accessing and Updating Personal Information
+### How We Disclose Information
 
-PropertyRadar will make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical. 
+We disclose the information that we collect, including personal information and Content, as described to You at the time of collection, as consented to by You before disclosure, and as follows:
 
-Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address:
+  *  **Affiliates.** We may disclose information to current or future affiliates or subsidiaries for research, marketing, and other purposes consistent with this Privacy Policy.
+  *  **Service Providers.** We may disclose information to our vendors, service providers, agents, or others who perform functions on our behalf.
+  *  **Business Transfers.** We may disclose information to another entity in connection with, including during negotiations of, an acquisition or merger, sale or transfer of a business unit or assets, bankruptcy proceeding, or as part of any other similar business transfer.
+  *  **Protecting Rights and Interests.** We may disclose information to protect the safety, rights, property, or security of PropertyRadar, the Services, any third party, or the general public; to detect, prevent, or otherwise address fraud, security, or technical issues; to prevent or stop activity which PropertyRadar, in its sole discretion, may consider to be, or to pose a risk of being, an illegal, unethical, or legally actionable activity; to use as evidence in litigation; and to enforce this Privacy Policy or our [User Agreement](https://www.propertyradar.com/user-agreement).
+  *  **Legal Compliance.** We may disclose information to comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; in response to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request from law enforcement or a government official.
+  *  **Aggregate and De-Identified Information.** We may disclose aggregate, anonymous, or de-identified information for marketing, advertising, research, compliance, or other purposes.
 
-PropertyRadar  
-P.O. Box 837  
-Truckee, CA 96161
 
-This request may be made only once per calendar year. PropertyRadar reserves the right not to respond to requests submitted other than to the address specified in this paragraph.
 
-## Changes to This Policy
+### Cookies and Other Tracking Mechanisms
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without providing you an opportunity to opt-out, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
+We and our service providers use cookies and other tracking mechanisms to track information about how You use our Services. We or our service providers may combine this information with other information, including personal information, we collect about You.
 
-## Contact Us
+ **Cookies.** Cookies are alphanumeric identifiers that we transfer to a computer’s hard drive through a web browser for record-keeping purposes. Some cookies allow us to make it easier for You to navigate our Services, while others are used to enable a faster log-in process or to allow us to track Your activities while using our Services. Most web browsers automatically accept cookies, but if You prefer, You can edit Your browser options to block them in the future. The Help portion of the toolbar on most browsers provides information about how to prevent a computer from accepting new cookies, how to have the browser notify upon receiving a new cookie, or how to disable cookies altogether. If You disable cookies, You may be able to browse certain areas of the Services, but some features may not function (e.g., You may not be able to stay logged into Your account).
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or by mail at:
+ **Clear GIFs, pixel tags, and other technologies.** Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on a computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (also referred to as web beacons, web bugs or pixel tags), in connection with our Services to, among other things, track Your activities, help us manage content, and compile statistics about usage of our Services. We and our service providers also use clear GIFs in HTML emails to You, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
-PropertyRadar  
-P.O. Box 837  
-Truckee, CA 96161
+ **Local Storage Objects.** We may use local storage objects (LSOs), such as HTML5 and other technologies to, among other things, collect and store information about Your use of the Services. Third parties with whom we partner to provide certain features on our Services or to display advertising based upon Your web browsing activity may also use LSOs such as HTML 5 and Flash to collect and store information.
 
-Privacy policy effective from 5/01/2013. Last updated on 5/01/2013.
+### Third-Party Services
+
+We use third-party analytics companies, such as Google Analytics, to evaluate use of our Services. We also use third-party companies to enhance our Services, such as providing messaging and communication services. These entities may use cookies and other tracking technologies, such as cookies, web beacons, or LSOs, to perform their services. They use these tools to help understand use of, and to improve, our Services, performance, and user experiences. You can learn more about Google’s privacy practices in the [Google Privacy Policy](https://www.google.com/policies/privacy/); in order to opt out of being tracked by Google Analytics across all websites, You can download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+
+We use Stripe for payment, analytics, and other business services. Stripe collects identifying information about the devices that connect to its services. Stripe uses this information to operate and improve the services it provides to us, including for fraud detection. You can learn more about Stripe’s private practices in the [Stripe Privacy Policy](https://stripe.com/privacy).
+
+### Do Not Track Disclosure
+
+Our Services do not respond to Do Not Track signals. For more information about Do Not Track signals, please [click here](https://allaboutdnt.com/). You may, however, disable certain tracking as discussed in the Cookies and Other Tracking Mechanisms section above (e.g., by disabling cookies).
+
+### Security
+
+We have taken steps to help protect the personal information we collect. However, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to Your device and account by, among other things, choosing a robust password that nobody else knows or can easily guess and keeping Your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on Your account via unauthorized password activity.
+
+### User Choices
+
+ **Correcting or Deleting Personal Information.** You may correct or request deletion of Your personal information by logging into Your account and updating Your information. Please note that we may retain certain information about You as required by law or as permitted by law for legitimate business purposes (e.g., in accordance with our record retention policies or to enforce our [User Agreement](https://www.propertyradar.com/user-agreement)).
+
+ **Opting out of Email Communications.** We may send periodic promotional or informational emails to You. You may opt-out of such communications by following the opt-out instructions contained in the email or contacting us at the Contact Us information below. Please note that it may take up to 10 business days for us to process opt-out requests. If You opt out of receiving marketing emails from us, we may still send You non-promotional emails (e.g., about Your account with us).
+
+### Children
+
+Our Services are not targeted to children under thirteen (13) years of age, and we do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will promptly delete such personal information from our systems.
+
+### Contact Us
+
+If You have questions about the privacy aspects of our Services or for further information about our data privacy policies and practices, please contact us at [support@propertyradar.com](mailto:support@propertyradar.com).
+
+### Changes to this Privacy Policy
+
+This Privacy Policy is current as of the Effective Date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes, including any material changes, to this Privacy Policy on our Site.
