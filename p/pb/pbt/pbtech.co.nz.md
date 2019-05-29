@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227033122id_/https%3A//www.pbtech.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529231824id_/https%3A//www.pbtech.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - PBTech.co.nz
 
