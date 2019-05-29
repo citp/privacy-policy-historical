@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapefan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184530id_/http%3A//escapefan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapefan.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529035322id_/https%3A//escapefan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Escape Fan
 
 ### What information do we collect?
 
