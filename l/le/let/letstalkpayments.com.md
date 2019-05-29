@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalkpayments.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224192907id_/https%3A//gomedici.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalkpayments.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529095037id_/https%3A//gomedici.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,10 @@ We respect your privacy. Period. We live in your world too and we will never do 
 We collect information from you when you register on our site, subscribe to MEDICI or fill out any kind of form.
 
 When subscribing or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, or credit card information. You may, however, visit our site anonymously and obtain reduced benefits from the site.
+
+MEDICI stores users Name and Email Address provided by user during registration for login credentials and access to services/products. All user data is provided by consent. Users are able to access the site without consent and login, but must provide consent for access to paid services/products/subscriptions.
+
+Once the data has been registered with MEDICI, it is stored on servers managed by MEDICI’s server provider(s).
 
 **What do we use your information for?**
 
@@ -39,7 +43,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties, any of your personally identifiable payment-related information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential and secure. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Basic user profile information and company profile may be shared with our customers who have agreed to this Privacy Policy to gain acceess to the site features, products and services.
+We do not sell, trade, or otherwise transfer to outside parties, any of your personally identifiable payment-related information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential and secure. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Basic user profile information and company profile may be shared with our customers who have agreed to this Privacy Policy to gain access to the site features, products and services.
 
 Your contact information will not be disclosed without your consent or explicit action during registration. Users on MEDICI can view your company profile and your user profile. If you follow an organization, you will be listed among its followers, which can be viewed by others including the page owner. We use aggregate information about followers and viewers to provide data about such pages’ performance (for example, visits and updates).
 
@@ -53,7 +57,7 @@ This online privacy policy applies only to information collected through our web
 
 **Disclaimer**
 
-Please also visit our Disclaimer section establishing the use, disclaimers, and limitations of liability governing the use of our website at medici.letstalkpayments.com/disclaimer
+Please also visit our Disclaimer section of the Terms of Use establishing the use, disclaimers, and limitations of liability governing the use of our website at gomedici.com/tos/.
 
 **Your Consent**
 
