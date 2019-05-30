@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223171536id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530145631id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - See How to Protect Yourself When Dating Latina Girls on Latamdate.com.
 
