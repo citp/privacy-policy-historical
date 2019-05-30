@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allexciting.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821152510id_/http%3A//allexciting.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexciting.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530062222id_/http%3A//allexciting.com/policy) for the most accurate reproduction.*
 
-# Site and Privacy Policy and Affiliate Disclosure ⋆
+# Site and Privacy Policy and Affiliate Disclosure
 
 **This policy is effective from 22 May 2018.**
 
