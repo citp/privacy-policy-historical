@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebbarskitchen.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330183850id_/http%3A//hebbarskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebbarskitchen.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530185746id_/https%3A//hebbarskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - hebbar's kitchen
 
@@ -76,7 +76,7 @@ It’s also important to note that we do not allow third-party behavioral tracki
  **Contacting Us**  
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-> [Hebbars Kitchen – Indian Veg Recipes | Vegetarian Indian Recipes](http://hebbarskitchen.com/)
+> [Hebbars Kitchen – Indian Veg Recipes | Vegetarian Indian Recipes](https://hebbarskitchen.com/)
 
   
 Melbourne, VICTORIA  
