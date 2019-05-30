@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004135053id_/https%3A//www.directenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530142819id_/https%3A//www.directenergy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Direct Energy
 
@@ -114,7 +114,7 @@ and follow the simple opt-out process. A couple of important notes about this op
 
 **Privacy Policy Requirements:** Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at Direct Energy, LP, 12 Greenway Plaza, Suite 250, Houston, TX 77046, Attn: Privacy Officer, c/o Compliance Department or by email at [privacy@directenergy.com](mailto:privacy@directenergy.com). 
 
-You may learn more about your rights under California's privacy laws at [ http://www.privacyprotection.ca.gov ](http://www.privacyprotection.ca.gov/) . 
+You may learn more about your rights under California's privacy laws at [ https://oag.ca.gov/privacy ](https://oag.ca.gov/privacy) . 
 
 **VI. Safeguarding Personal Information**
 
