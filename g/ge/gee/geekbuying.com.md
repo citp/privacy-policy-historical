@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223154822id_/https%3A//www.geekbuying.com/help/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbuying.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530095049id_/https%3A//www.geekbuying.com/help/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GeekBuying.com
 
-Here at www.geekbuying.com (hereinafter referred to as “we”, “us” or “GeekBuying”, "Site"), we are committed to protecting and respecting the privacy of your personal data. This privacy policy explains how your data is collected, used, transferred and disclosed by GeekBuying. It applies to data collected when you use our websites when you interact with us through social media, email, or phone, or when you participate in our competitions or events. It covers:   
-**   1\. Our commitment to you  
+Here at www.geekbuying.com (hereinafter referred to as "we", "us" or "GeekBuying", "Site"), we are committed to protecting and respecting the privacy of your personal data. This privacy policy explains how your data is collected, used, transferred and disclosed by GeekBuying. It applies to data collected when you use our websites when you interact with us through social media, email, or phone, or when you participate in our competitions or events. It covers:   
+ **   1\. Our commitment to you  
   2\. How we secure your data  
   3\. The personal data we collect  
   4\. How we collect your data  
@@ -15,9 +15,9 @@ Here at www.geekbuying.com (hereinafter referred to as “we”, “us” or “
 
 #### 1\. Our commitment to you
 
-We take the protection of your personal data seriously and will process your personal data fairly, lawfully and transparently. This privacy policy describes the personal data we are collecting about you and how it is used. 
+We take the protection of your personal data seriously and will process your personal data fairly, lawfully and transparently. This privacy policy describes the personal data we are collecting about you and how it is used.
 
-We will only collect and use your personal data for the following purposes, to:   
+We will only collect and use your personal data for the following purposes, to:  
 1.1 complete your order(s)  
 1.2 offer you a better shopping experience  
 1.3 improve our services  
@@ -47,50 +47,50 @@ While our website is designed for a general audience, we will not knowingly coll
 
 #### 4\. How we collect your data
 
-We may collect personal data about you in the following ways:   
-4.1 Direct interactions – you may give us your Identity, Contact, Financial, Transaction, Profile, and Marketing and Communications data by filling in forms, entering information online or by corresponding with us by post, phone, email, telephone or otherwise. This includes personal data you provide, for example, when you:   
-4.1.1 Create an account or purchase products on our website;   
-4.1.2 Subscribe to our newsletter, discussion boards, social media sites or create wish lists;   
-4.1.3 Complete a voluntary market research survey;   
-4.1.4 Contact us with an enquiry or to report a problem (by phone, email, social media, or messaging service);   
-4.1.5 When you log in to our website via social media.   
-4.2 Indirect interactions – as you interact with our website, we may automatically collect the technical data by using cookies, server logs and other similar technologies. Please see About Cookies for further details.   
-4.3 Third parties – we may receive personal data about you from various third parties, including:   
-4.3.1 assoiated third parties, including analytics providers such as Google;   
-4.3.2 affiliate networks through whom you have accessed our website;   
-4.3.3 social media platforms when you log in to our website using such social media platforms;   
+We may collect personal data about you in the following ways:  
+4.1 Direct interactions – you may give us your Identity, Contact, Financial, Transaction, Profile, and Marketing and Communications data by filling in forms, entering information online or by corresponding with us by post, phone, email, telephone or otherwise. This includes personal data you provide, for example, when you:  
+4.1.1 Create an account or purchase products on our website;  
+4.1.2 Subscribe to our newsletter, discussion boards, social media sites or create wish lists;  
+4.1.3 Complete a voluntary market research survey;  
+4.1.4 Contact us with an enquiry or to report a problem (by phone, email, social media, or messaging service);  
+4.1.5 When you log in to our website via social media.  
+4.2 Indirect interactions – as you interact with our website, we may automatically collect the technical data by using cookies, server logs and other similar technologies. Please see About Cookies for further details.  
+4.3 Third parties – we may receive personal data about you from various third parties, including:  
+4.3.1 assoiated third parties, including analytics providers such as Google;  
+4.3.2 affiliate networks through whom you have accessed our website;  
+4.3.3 social media platforms when you log in to our website using such social media platforms;  
 4.3.4 third parties service providers of technical, payment and delivery services. 
 
 #### 5\. How we use your data
 
 We will only collect and process your personal data where we have a legal basis to do so. As a data controller, the legal basis for our collection and use of your personal data varies depending on the manner and purpose for which we collected it.
 
-5.1 we have your consent to do so, or   
-5.2 we need your personal data to perform a contract with you. For example, to process a payment from you, fulfill your order or provide customer support connected with an order, or   
-5.3 the processing is in our legitimate interests and not overridden by your rights, or   
+5.1 we have your consent to do so, or  
+5.2 we need your personal data to perform a contract with you. For example, to process a payment from you, fulfill your order or provide customer support connected with an order, or  
+5.3 the processing is in our legitimate interests and not overridden by your rights, or  
 5.4 we have a legal obligation to collect or disclose personal data from you. 
 
 Your personal data is used by geekbuying to support a range of different activities. These are listed in the table below together with the types of data used and the legal bases we rely on when processing them, including where appropriate, our legitimate interests. Please be aware that we may process your personal data using more than one lawful basis, depending on the specific activity involved. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-5.5 To create an account and register you as a new customer (either directly or via social media).   
-5.6 To process and deliver your order including: recording your order details; keeping you informed about the order status; process payments and refunds, collect money owed to us; and assist fraud prevention and detection.   
-5.7 To manage our relationship with you, including: providing you with any information, products and services that you request from us; notifying you about changes to our services, terms and conditions or privacy policy; asking you to leave a review or take a survey.   
-5.8 To enable you to take part in a competition, event, survey, or receive a reward for shopping with us.   
-5.9 To administer, protect and improve our business and our website/app, including: troubleshooting, data analysis, testing, system maintenance, support, data analysis, reporting and hosting of data; setting default options for you, such as language and currency.   
-5.10 To deliver relevant website content, online advertisements and information for you; and measure the effectiveness of the advertising provided.   
-5.11 To use data analytics to: improve our website, products, services, marketing, customer relationships and experiences; and for market research, statistical and survey purposes.   
+5.5 To create an account and register you as a new customer (either directly or via social media).  
+5.6 To process and deliver your order including: recording your order details; keeping you informed about the order status; process payments and refunds, collect money owed to us; and assist fraud prevention and detection.  
+5.7 To manage our relationship with you, including: providing you with any information, products and services that you request from us; notifying you about changes to our services, terms and conditions or privacy policy; asking you to leave a review or take a survey.  
+5.8 To enable you to take part in a competition, event, survey, or receive a reward for shopping with us.  
+5.9 To administer, protect and improve our business and our website/app, including: troubleshooting, data analysis, testing, system maintenance, support, data analysis, reporting and hosting of data; setting default options for you, such as language and currency.  
+5.10 To deliver relevant website content, online advertisements and information for you; and measure the effectiveness of the advertising provided.  
+5.11 To use data analytics to: improve our website, products, services, marketing, customer relationships and experiences; and for market research, statistical and survey purposes.  
 5.12 To recommend products, services discounts, promotions, reward campaigns, as well as offers that may be of interest to you, including sending you such information by email, post or SMS, subscribing to our newsletter, responding to a survey or access to occasional website news and updates.  
 5.13 To inform or remind you by email of any task carried out via our website which remains uncompleted, such as incomplete orders or abandoned baskets. 
 
 We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we wish to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. We may process personal data without your consent, in compliance with the above rules, where this is required or permitted by law.
 
-We will keep your personal data for no longer than is necessary for the purpose(s) it was provided for and to meet our legal obligations. Further details of the periods for which we retain data are available on request. 
+We will keep your personal data for no longer than is necessary for the purpose(s) it was provided for and to meet our legal obligations. Further details of the periods for which we retain data are available on request.
 
 #### 6\. About Cookies
 
 We use "cookies" to store specific information about you and track your visits to the Site, either through a compute or via a mobile device. It is not uncommon for websites to use cookies to enhance identification of their visitors.
 
-A "cookie" is a small amount of data that is sent to your browser and stored on your computer's or mobile device’s hard drive. If you do not de-activate or erase the cookie, each time you use the same browser or mobile device to access the Site, our web servers will be notified of your visit to the Site and in turn we may have knowledge of your visit and the pattern of your usage. The cookies will enable us to remember your information so you do not have to re-enter it every time you use the Site.
+A "cookie" is a small amount of data that is sent to your browser and stored on your computer's or mobile device's hard drive. If you do not de-activate or erase the cookie, each time you use the same browser or mobile device to access the Site, our web servers will be notified of your visit to the Site and in turn we may have knowledge of your visit and the pattern of your usage. The cookies will enable us to remember your information so you do not have to re-enter it every time you use the Site.
 
 In addition, we use cookies to manage the security of our Site, to gather information about usage by users; to research visiting patterns and conduct interest-based advertising; to assist our partners to track user visits to the Site and process orders; and to track progress and participation in promotions.
 
@@ -105,9 +105,9 @@ Our website may include links to and from the websites of our partner networks, 
 #### 7\. How we share your data
 
 We do not sell, rent, trade, license, or otherwise disclose or share your personal or financial information to anyone, except in the following specific situations:  
-7.1 Third-party service providers: Like most online merchants, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address and phone number to partners such as DHL in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.   
-7.2 Legal requirement to disclose information: We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.   
-7.3 Merger and/or sale of assets: We do not normally sell, trade or rent personal information to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Policy in effect.   
+7.1 Third-party service providers: Like most online merchants, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address and phone number to partners such as DHL in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party's service.  
+7.2 Legal requirement to disclose information: We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
+7.3 Merger and/or sale of assets: We do not normally sell, trade or rent personal information to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Policy in effect.  
 7.4 Non-personally identifiable information: We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners. 
 
 #### 8\. Your Rights on your personal data
@@ -126,4 +126,4 @@ You have several rights under the data privacy legislation. This includes, under
 
 From time to time we may change this privacy policy. If there are any significant changes we will post updates on our website, applications or let you know by email.
 
-And this Privacy Policy was last updated on May 20th,2018.
+This privacy policy applies to personal information collected by HongKong Geekbuy International E-Commerce Limited. HongKong Geekbuy International E-Commerce Limited is bound by the Personal Data (Privacy) Ordinance (Cap. 486) which govern the way organizations collect, use, keep, secure and disclose personal information.
