@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternativeinvestmentcoach.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126111449id_/http%3A//alternativeinvestmentcoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeinvestmentcoach.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530202118id_/http%3A//alternativeinvestmentcoach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Alternative Investment Coach
 
