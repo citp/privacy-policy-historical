@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822215246id_/http%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530081046id_/https%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
