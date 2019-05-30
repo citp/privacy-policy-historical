@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623082603id_/http%3A//kabiza.com/kabiza-wilderness-safaris/kabiza-wilderness-safaris-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531014516id_/https%3A//kabiza.com/kabiza-wilderness-safaris/kabiza-wilderness-safaris-privacy-policy) for the most accurate reproduction.*
 
-# Kabiza Wilderness Safaris - Privacy Policy
+# Kabiza Wilderness Safaris -Our Privacy Policy for Clients-Site Visitors
+
+## Your Information is Secure with us
+
+### The Kabiza Wilderness Safaris – Privacy Policy means you are secure using our Site
+
+* * *
+
+**[](https://kabiza.com/kabiza-wilderness-safaris/wp-content/uploads/2018/02/kabiza-private-safari-tours-box-round-22.png)The ** **Kabiza Wilderness Safaris – Privacy Policy – Before we get into the legalese of Privacy.   We only find out anything about you when you contact us about a Primate or Wildlife Safari in Uganda or Rwanda. The information you submit to us via a contact form is removed from the Website Server and is only on given to the Safari Sales Department in our office. ** **We will never initiate any contact with you unless you contact us first and request more information. No information is shared with a third party with the exception of Gorilla or Chimpanzee Permits where we have to use your passport information but no email is given to Uganda Wildlife Authority except our own.   The same applies to lodges where we only give your name only to a lodge and the reservation is in Kabiza Wilderness Safaris name.  We value our personal privacy and we respect yours  – the reality Facebook, and Google know a lot more about you than**
+
+**The Kabiza Wilderness Safaris – Privacy Policy also means that we never handle any credit card information when you make a payment, that is done through PesaPal – our  site has no Payment Page for your protection.**
 
 ### Kabiza Wilderness Safari  – Privacy Policy
 
-Kabiza Wilderness Safaris is committed to providing a safe and secure web site for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet.
+Kabiza Wilderness Safaris – Privacy Policy -Kabiza Wilderness Safaris is committed to providing a safe and secure web site for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet.
 
 To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices.
 
@@ -52,4 +62,4 @@ We are particularly sensitive to visitors’ security concerns regarding the use
 
 #### V. Contact Us
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address: **[Kabiza Wilderness Safaris](mailto:kabizawilderrnesssafaris@kabiza.com)**
+If you have any questions, comments or concerns regarding Kabiza Wilderness Safaris – Privacy Policy the  and/or practices, please contact us at the following e-mail address: **[Kabiza Wilderness Safaris](mailto:kabizawilderrnesssafaris@kabiza.com)**
