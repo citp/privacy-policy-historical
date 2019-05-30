@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelextrememasters.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127005531id_/http%3A//intelextrememasters.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelextrememasters.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530104352id_/https%3A//www.intelextrememasters.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal - Intel Extreme Masters
 
@@ -6,9 +6,11 @@
 
 Turtle Entertainment GmbH 
 
-Managing Directors: Ralf Reichert, Dr. Andreas Walker 
+Managing Directors: Ralf Reichert, David Neichel 
 
 Registergericht AG Köln HRB Nr. 36678 
+
+USt-ID: DE216144739 
 
 Schanzenstrasse 23 
 
@@ -28,7 +30,7 @@ Together with our Terms and Conditions and our Cookie Policy, this Privacy Polic
 
 ## 1.1. Who collects personal data 
 
-Turtle Entertainment GmbH, represented by the Managing Directors Ralf Reichert and Dr. Andreas Walker, Schanzenstraße 23, 51063 Cologne, Germany 
+Turtle Entertainment GmbH, represented by the Managing Directors Ralf Reichert and David Neichel, Schanzenstraße 23, 51063 Cologne, Germany 
 
 Register Court: Disctrict Court Cologne, HRB 36678 
 
