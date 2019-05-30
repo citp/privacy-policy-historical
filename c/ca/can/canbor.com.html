@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the canbor.com privacy policy that was archived on 2018-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181127165926id_/http%3A//www.canbor.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canbor.com privacy policy that was archived on 2019-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190530180722id_/http%3A//www.canbor.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Canbor Official Website, VR Headset, Virtural Reality Headset, Bluetooth Headphones and more Electronic Products">
-<meta name="keywords" content="Magento, Varien, E-commerce">
+<meta name="keywords" content="Canbor, VR Headset, Virtural Reality Headset, 3d pen">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 <link rel="icon" href="http://www.canbor.com/skin/frontend/base/default/favicon.ico" type="image/x-icon">
@@ -219,7 +219,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         <strong><span>Login</span></strong>
     </div>
     <form action="http://www.canbor.com/customer/account/loginPost/" method="post">
-		<input name="form_key" type="hidden" value="rSnjiaezLwhnFmJ1">
+		<input name="form_key" type="hidden" value="B5zVRN7dOV9tdo0V">
         <div class="block-content">
 			<div class="form-list">
 				<div class="field">
@@ -307,7 +307,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                         <div class="cdz-header-menu-content">
                             <div class="row cdz-fix-left">
                                 <div class="col-sm-24 cdz-content-megamenu">
-                                                                        <div class="cdz-menu cdz-horizontal-menu  menu-wrapper cdz-normal" id="menu-41-5bfd77eef19d9" data-megamenu="{&quot;dropdownEffect&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;0&quot;}">
+                                                                        <div class="cdz-menu cdz-horizontal-menu  menu-wrapper cdz-normal" id="menu-41-5cf01bdf8c84f" data-megamenu="{&quot;dropdownEffect&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;0&quot;}">
 	<ul class="groupmenu">
 	<li class="item level0  level-top">
 	<a class="menu-link" href="http://www.canbor.com/"><i class="menu-icon fa fa-home"></i> <span><span>Home</span></span></a>
@@ -365,7 +365,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         <strong><span>Login</span></strong>
     </div>
     <form action="http://www.canbor.com/customer/account/loginPost/" method="post">
-		<input name="form_key" type="hidden" value="rSnjiaezLwhnFmJ1">
+		<input name="form_key" type="hidden" value="B5zVRN7dOV9tdo0V">
         <div class="block-content">
 			<div class="form-list">
 				<div class="field">
@@ -762,7 +762,112 @@ optionalZipCountries = ["HK","IE","MO","PA"];
                 
 
 <div id="back-top" style="display: none;"><a title="Top" href="#top">Top</a></div>
-<div class="cart-footer-inner" id="cart-footer-inner">
+            <script type="text/javascript">
+            var formsToProtectOnPage = [];
+            var currentForm;
+            var currentValidationForm;
+            var checkedForms = [];
+            var hasFormsChanged = false;
+
+            var onSubmit = function (token) {
+                currentForm.querySelector('[name="amasty_invisible_token"]').setAttribute('value', token);
+                if (typeof(recaptchaObject) !== 'undefined'
+                    && 'post' !== currentForm.method
+                ) {
+                    recaptchaObject.submit();
+                } else {
+                    currentForm.submit();
+                }
+            };
+
+            function checkForms() {
+                formsToProtect = ["form[action*=\"customer\/account\/createpost\"]","form[action*=\"newsletter\/subscriber\/new\"]","form[action*=\"customer\/account\/loginPost\"]","form[action*=\"review\/product\/post\"]","form[action*=\"contacts\/index\/post\"]"];
+                formsToProtect.forEach(function (item) {
+                    var continueWorking = true;
+                    formsSearchedBySelector = $$(item);
+                    checkedForms.forEach(function (element) {
+                        if (element[0] == formsSearchedBySelector[0]) {
+                            continueWorking = false;
+                            return;
+                        }
+                    })
+                    if (formsSearchedBySelector.length != 0 && continueWorking) {
+                        checkedForms.push(formsSearchedBySelector);
+                        formsSearchedBySelector.forEach(function (formToProtect) {
+                            formsToProtectOnPage.push(formToProtect);
+                            hasFormsChanged = true;
+                        });
+                    }
+                });
+                if (hasFormsChanged) {
+                    for (var index in formsToProtectOnPage) {
+                        if (formsToProtectOnPage.hasOwnProperty(index)) {
+                            var formToProtectOnPage = formsToProtectOnPage[index];
+                            if ('form' !== formToProtectOnPage.tagName.toLowerCase()) {
+                                formToProtectOnPage = formToProtectOnPage.getElementsByTagName('form');
+                                if (0 < formToProtectOnPage.length) {
+                                    formToProtectOnPage = formToProtectOnPage[0];
+                                } else {
+                                    continue;
+                                }
+                            }
+
+                            if (1 > formToProtectOnPage.getElementsByClassName('amasty_recaptcha').length) {
+                                var recaptchaBlock = document.createElement('div');
+                                recaptchaBlock.className = 'amasty_recaptcha';
+                                formToProtectOnPage.appendChild(recaptchaBlock);
+                            }
+
+                            if (1 > formToProtectOnPage.getInputs(formToProtectOnPage, 'hidden', 'amasty_invisible_token').length) {
+                                var tokenInput = document.createElement('input');
+                                tokenInput.type = 'hidden';
+                                tokenInput.name = 'amasty_invisible_token';
+                                tokenInput.value = '';
+                                formToProtectOnPage.appendChild(tokenInput);
+                            }
+
+                            formToProtectOnPage.onsubmit = function submitProtectedForm(event) {
+                                currentForm = event.target;
+                                currentValidationForm = new VarienForm(currentForm.id, false);
+                                recaptchaBlock = currentForm.querySelector(".amasty_recaptcha");
+                                if (recaptchaBlock.innerHTML == '') {
+                                    if (currentValidationForm && currentValidationForm.validator
+                                        && currentValidationForm.validator.validate()
+                                    ) {
+                                        recaptcha = grecaptcha.render(recaptchaBlock, {
+                                            'sitekey': '6LeJUpAUAAAAACNzCzF2F91RgSbMlzeGWFz4nERR',
+                                            'callback': onSubmit,
+                                            'size': 'invisible',
+                                            'theme': 'light',
+                                            'badge': 'bottomright'
+                                        });
+                                    }
+                                }
+                                if (!recaptcha) {
+                                    grecaptcha.reset(recaptcha);
+                                    grecaptcha.execute(recaptcha);
+
+                                }
+                                return false;
+                            }
+                        }
+                    }
+                }
+            }
+
+            document.observe("dom:loaded", function () {
+                var formsCount = 0;
+                setInterval(function () {
+                    var formLength = $$('form').length;
+                    if (formsCount != formLength) {
+                        formsCount = formLength;
+                        checkForms();
+                    }
+                }, 1000);
+            });
+        </script>
+                        <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+    <div class="cart-footer-inner" id="cart-footer-inner">
     <a href="javascript:void(0)" class="cart-trigger">
         <span class="loading" style="display:none;">Processing...</span>
         <span class="amount loaded">0 item(s) in your cart</span>
