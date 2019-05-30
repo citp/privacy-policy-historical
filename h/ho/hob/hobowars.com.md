@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobowars.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128234916id_/http%3A//hobowars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobowars.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530224109id_/http%3A//hobowars.com/privacy) for the most accurate reproduction.*
 
 # HoboWars - Privacy Policy
 
