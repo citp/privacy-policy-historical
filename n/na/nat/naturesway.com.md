@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331081358id_/http%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesway.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530053122id_/https%3A//www.naturesway.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nature's Way®.
 
 ###  Schwabe North America, Inc. - Website Privacy Policy  
-_Last Modified: January 24, 2017_
+_Last Modified: February 28, 2018_
 
 This Privacy Policy applies to the websites, social media pages, mobile applications, widgets or online services that are owned or controlled by Schwabe North America, Inc. and its subsidiaries (collectively, “Schwabe North America” or “we” or “us”) and that post a link to this Privacy Policy (collectively, “Sites,” and individually, a “Site”). This Privacy Policy only covers information collected at the Sites and does not cover any information collected at any other web site or offline by Schwabe North America (unless specifically stated). This Privacy Policy describes Schwabe North America ’s information collection practices at the Sites, such as the types of information Schwabe North America collects regarding visitors to the Sites and how we may use that information.
 
