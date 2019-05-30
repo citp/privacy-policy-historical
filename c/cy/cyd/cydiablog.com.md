@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydiablog.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115010105id_/http%3A//www.cydiablog.com/hello/privacy-policy/441) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydiablog.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530214515id_/http%3A//www.cydiablog.com/hello/privacy-policy/441) for the most accurate reproduction.*
 
 # CydiaBlog.com Privacy Policy
 
