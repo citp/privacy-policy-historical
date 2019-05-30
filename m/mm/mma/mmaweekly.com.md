@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaweekly.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626211627id_/https%3A//www.mmaweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaweekly.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530101704id_/https%3A//www.mmaweekly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MMAWeekly.com
 
