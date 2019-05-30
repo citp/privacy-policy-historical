@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001052141id_/https%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530053548id_/https%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
@@ -74,4 +74,4 @@ IntMath is hosted on LiquidWeb servers in Phoenix, AZ, USA. We strictly abide by
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20181001052141id_/https%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
+Please use the [Comments](https://web.archive.org/web/20190530053548id_/https%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
