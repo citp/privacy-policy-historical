@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wv.gov privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116144025id_/https%3A//www.wv.gov/policies/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wv.gov privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530035528id_/https%3A//www.wv.gov/policies/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,9 +73,11 @@ If we decide to begin collecting personal information from children under the ag
 **Contact Information**  
 To offer comments or ask questions about West Virginia privacy policies please contact:
 
-Sallie Milam  
+Ashley Summitt  
 Chief Privacy Officer  
 (304) 766-2646  
 [Email Us](http://www.privacy.wv.gov/Pages/contact.aspx)   
 1124 Smith Street, Suite 4700  
 Charleston, WV 25301
+
+​
