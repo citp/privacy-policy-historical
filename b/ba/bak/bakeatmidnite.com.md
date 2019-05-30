@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakeatmidnite.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030005824id_/https%3A//bakeatmidnite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakeatmidnite.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530150213id_/https%3A//bakeatmidnite.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Midnight Baker - The Midnight Baker
 
