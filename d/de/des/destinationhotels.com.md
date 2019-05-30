@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105021012id_/https%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationhotels.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530182156id_/https%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Destination Hotels & Resorts - Hospitality Management
 
@@ -206,10 +206,15 @@ Under California Civil Code Section 1798.83, California residents who provide us
 
 To obtain this information from us, please send your request to the following mailing address:
 
-Two Roads Hospitality  
-10333 East Dry Creek Road, Suite 450  
-Englewood, CO 80112  
-Attn: Electronic Marketing
+Hyatt Hotels & Resorts
+
+Attn: Consumer Affairs
+
+9805 Q Street, Omaha, NE 68127, United States
+
+Telephone: 402-935-5301
+
+Email: [privacy@hyatt.com](mailto:privacy@hyatt.com)
 
 You must put the statement "Your California Privacy Rights" in the subject field of your writing if you write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We will respond to you at your mailing address, or at our option, at your e-mail address if you provide it to us. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
@@ -217,19 +222,24 @@ You must put the statement "Your California Privacy Rights" in the subject field
 
 The General Data Protection Regulation (GDPR), one of the most significant changes to data privacy law, is designed to put you in control of how your information is collected and used. We want to help you to understand these rights and exercise them as easily as possible.
 
-For our guests who are European Union citizens, or reside within the European Economic Area, additional rights have been granted to you by the GDPR. These rights include your ability to review, correct, update, suppress, or delete personal information previously provided to Two Roads Hospitality. This can be done by submitting a Data Subject Access Request, defined in the process below.
+For our guests who are European Union citizens, or reside within the European Economic Area, additional rights have been granted to you by the GDPR. These rights include your ability to review, correct, update, suppress, or delete personal information previously provided to Hyatt Hotels & Resorts. This can be done by submitting a Data Subject Access Request, defined in the process below.
 
-If you would like to submit a Data Subject Access Request to Two Roads Hospitality, please send your request to datasecurity@tworoadshotels.com, or:
+If you would like to submit a Data Subject Access Request to Hyatt Hotels & Resorts, please send your request to [privacy@hyatt.com](mailto:privacy@hyatt.com), or:
 
-Two Roads Hospitality  
-10333 East Dry Creek Road, Suite 450  
-Englewood, CO 80112  
-Attn: Data Subject Access Request
+Hyatt Hotels & Resorts
 
-In your Data Subject Access Request, please identify the nature of your request as it relates to any personal information which may have been previously provided (review, update, correct, suppress, or delete). For the protection of our guests, Data Subject Access Requests will only be responded to if matching records (email address or mailing address) can be located within Two Roads Hospitality’s systems. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+Attn: Consumer Affairs
 
-To expedite all Data Subject Access Requests, please provide any additional details which may help to quickly identify the location(s) your data may be stored (e.g., property(ies) visited, arrival date(s), departure date(s)). Sending sensitive personal information (e.g., social security number, passport number, national identification number) is discouraged and will not expedite your Data Subject Access Request in any way, as this information is not collected, stored, or processed by Two Roads Hospitality.
+9805 Q Street, Omaha, NE 68127, United States
+
+Telephone: 402-935-5301
+
+Email: [privacy@hyatt.com](mailto:privacy@hyatt.com)
+
+In your Data Subject Access Request, please identify the nature of your request as it relates to any personal information which may have been previously provided (review, update, correct, suppress, or delete). For the protection of our guests, Data Subject Access Requests will only be responded to if matching records (email address or mailing address) can be located within Hyatt’s systems. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+
+To expedite all Data Subject Access Requests, please provide any additional details which may help to quickly identify the location(s) your data may be stored (e.g., property(ies) visited, arrival date(s), departure date(s)). Sending sensitive personal information (e.g., social security number, passport number, national identification number) is discouraged and will not expedite your Data Subject Access Request in any way, as this information is not collected, stored, or processed by Hyatt Hotels & Resorts.
 
 ### CONTACT US
 
-If you have questions or comments about this Privacy & Cookies Policy, you can contact us at [303-799-3830](tel:303-799-3830.).
+If you have questions or comments about this Privacy & Cookies Policy, you can contact us at [402-935-5301](tel:402-935-5301.).
