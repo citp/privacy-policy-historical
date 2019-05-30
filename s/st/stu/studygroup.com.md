@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914205920id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530123524id_/http%3A//corporate.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Study Group: Global Leaders in International Education
-
-**
-
-Study Group takes your privacy very seriously. This Privacy Policy explains how we ensure information about you is kept confidential.
-
-**
 
 We take your privacy seriously. This Privacy Policy, including the contained website usage policy, explains how Study Group (“we”) collect, use and process your personal data, as well as ensure information about you is kept confidential. Any information you are asked to provide using this website will only be used in the ways described in this privacy policy.
 
@@ -44,7 +38,7 @@ Data Protection Officer: Aphaia Limited, Studio 5, 155 Commercial St, London E1 
 
 Email address: [GDPR@studygroup.com](mailto:GDPR@studygroup.com)
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office, the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)), or another Data Protection Authority that may be competent in your case. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office, the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)), or another Data Protection Authority that may be competent in your case. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 ### INFORMING US OF CHANGES 
 
