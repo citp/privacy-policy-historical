@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourhealthyyear.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530192558id_/http%3A//www.yourhealthyyear.com/about-jessica/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhealthyyear.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530132502id_/https%3A//www.yourhealthyyear.com/about-jessica/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Your Healthy Year
+# Privacy Policy -
 
 **Privacy Policy  for www.yourhealthyyear.com**
 
