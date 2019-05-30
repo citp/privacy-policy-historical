@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveschoolinc.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910072228id_/https%3A//www.whyliveschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveschoolinc.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530070402id_/https%3A//www.whyliveschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
