@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driveridentifier.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229170433id_/https%3A//www.driveridentifier.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driveridentifier.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530020541id_/http%3A//www3.driveridentifier.com/privacy.php) for the most accurate reproduction.*
 
 # DriverIdentifier - The most simple & easy driver updating tool.
 
