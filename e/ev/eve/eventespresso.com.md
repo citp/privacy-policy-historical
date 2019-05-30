@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventespresso.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914161215id_/https%3A//eventespresso.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventespresso.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530075010id_/https%3A//eventespresso.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Event Espresso
+# Privacy Policy - WordPress Event Registration Ticketing Plugin - Event Espresso
 
 **Live outside of the United States?** Please refer to our [Privacy Notice](https://eventespresso.com/privacy-notice/) for more information about how we protect your personal data.
 
