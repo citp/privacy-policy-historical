@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817140852id_/https%3A//www.maaco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maaco.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531002804id_/https%3A//www.maaco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maaco.com
 
