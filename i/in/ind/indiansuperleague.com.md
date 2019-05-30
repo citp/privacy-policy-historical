@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansuperleague.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222030801id_/http%3A//www.indiansuperleague.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansuperleague.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530100659id_/https%3A//www.indiansuperleague.com/privacy-policy) for the most accurate reproduction.*
 
 # The official Website of the Hero Indian Super League | Privacy Policy | http://www.indiansuperleague.com
 
