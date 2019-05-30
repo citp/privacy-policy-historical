@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dctribune.org privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219030725id_/http%3A//dctribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dctribune.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530192642id_/http%3A//dctribune.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · DC Tribune
 
