@@ -1,92 +1,118 @@
-> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623154951id_/https%3A//content.rview.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530180829id_/https%3A//content.rview.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RemoteView en
 
-We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, RSUPPORT follows different principles in accordance with worldwide practices for customer privacy and data protection.
+This Privacy Policy sets forth how RSUPPORT gains access to and uses your personal information in the context of RemoteView service. Please read it carefully before using RemoteView service.
 
-  1. We won’t sell or give away [YOUR NAME], mail address, phone number, email address or any other information to anyone.
-  2. We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+### **1\. Introduction**
 
+RSUPPORT Co., Ltd. (“RSUPPORT”, “we”, or “our”) is committed to protecting the information of those individuals and organizations who use RemoteView service contained herein.  
+This Privacy Policy sets forth how we collect, use, and share information we obtain as a result of your use of RemoteView service and, in particular, sets forth:
 
-
-#### NOTICE
-
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download RSUPPORT software. We use your Personal Information for four primary purposes:
-
-  1. To make the site easier for you to use by not having to enter information more than once.
-  2. To help you quickly find software, services or information.
-  3. To help us create content most relevant to you.
-  4. To alert you to product upgrades, special offers, updated information and other new services from RSUPPORT.
+■ What information we obtain from RemoteView service; ■ How we use the information that we obtain; ■ When we share information with others; and ■ How you control our use and sharing of your information 
 
 
+Your RemoteView service may provide access to software application and links to other services owned and operated by third parties including operating system providers and other contents and application providers. These third party services are outside the scope of this Privacy Policy and have their own policies that apply to the collection, use and sharing of information in connection with their services. We encourage you to read those policies. RSUPPORT is not responsible or liable for the privacy practices of such third parties.
 
-#### CONSENT
+### **2\. Information Obtained by RemoteView Service**
 
-If you choose not to register or provide personal information, you will not be able to access areas that require registration.
+The information we may collect when you use the RemoteView service is as follows:
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding RSUPPORT products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from RSUPPORT.
+■ When applying for product use: Name, Company name, Phone number, Email Address ■ When using the service: Name, Phone number(Optional), Email Address, Business Information(Optional), Country, IP Address, MAC Address, Device information ■ When purchasing a product: Email Address, Phone number, Payment history, Credit card information, Account information ■ When accessing a website: IP Address, Cookie, Device Information 
 
-RSUPPORT occasionally allows other companies to offer our registered customers information about their products and services. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties.
 
-#### ACCESS
+The above information is collected for the purposes of providing or improving RemoteView service.
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at www.rview.net. There, you can:
+### **  
+3\. Why RSUPPORT Uses Cookies and Other Similar Technologies and How to Reject**
 
-  1. View and edit personal information you have already given us.
-  2. Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail.
-  3. Sign up for electronic newsletters about our services and products.
-  4. Register. Once you register, you won’t need to do it again. Wherever you go on [WWW.RVIEW.NET], your information stays with you.
+■ What is Cookie? – A cookie is a small text-only file sent to your browser by a server used in operating a website which you visit and saved in your computer’s hard drive. When you visit the website again, the server of that site will read the cookie saved in your hard drive and uses it to maintain your preferences and provide customized services. The cookie does not automatically/actively collect personally identifiable information, and you may refuse to save or delete such cookie. ■ Purpose of Using Cookies and Information Obtained – We use the cookies for target marketing and provide you with personally customized services by analyzing frequency, number and time of your visit and understanding your preferences, field of interest, and level of your participation in various events. – We only collect anonymous information generated by the cookies (such as demographic data) through the cookies and other similar technologies, and do not collect personally identifiable information. We do not combine such anonymous information with any personally identifiable information obtained through other ways. ■ Use of Other Similar Technologies – We use the web analytics service named Google Analytics provided by Google, Inc. (“Google”) to analyze and evaluate how our you use our services and to understand our users’ demand in order to provide better and more efficient services to our users by improving and personalizing our services and products. Google’s Privacy Policy(https://policies.google.com/privacy) and Google Analytics Terms of Service(https://www.google.com/analytics/terms) apply to the handling of all information collected by Google Analytics. ■ How to Reject the Collection of Cookies – You have the right to election in respect of the installation of cookies. You may reject (opt-out) the automated collection of cookies by using one of the following methods; however, please note that if you elect to reject the collection of cookies, you may experience difficulties in using the services. 
+
+
+[How to Reject the Collection of Cookies in the Internet Explorer Browser]
+
+  1. Select [Internet Options] from the [Tools] menu.
+  2. On the [Privacy] tab, select [Advanced].
+  3. In [How to process cookies], click [Block].
 
 
 
-#### SECURITY
+[How to Reject the Collection of Cookies in the Chrome Browser]
 
-RSUPPORT has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+  1. Select [Settings] from the More menu in the upper right corner.
+  2. Select [Advanced] at the bottom.
+  3. In [Privacy & Security], select [Content Settings].
+  4. Select [Cookies] and turn [Allow sites to save and read cookie data] off.
 
-We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you’re utilizing secure server software SSL, which encrypts your personal information before it’s sent over the Internet. SSL is one of the safest encryption technologies available.
 
-RSUPPORT strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in [The USA] or any other country where RSUPPORT, its subsidiaries, affiliates or agents are located.
+[How to Block Google Analytics]
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+Install Browser Add-on: <https://tools.google.com/dlpage/gaoptout>
 
-#### NOTICE TO PARENTS
+### **4\. How RSUPPORT Uses the Personal Information It Obtains**
 
-Parents or guardians: we want to help you guard your children’s privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
+We use information obtained from your use of RemoteView service for various purposes, including:
 
-The RSUPPORT site does not publish content that is targeted to children. However, if you are concerned about your children providing RSUPPORT any personal information without your consent, RSUPPORT offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
+■ To provide RemoteView service you requested; ■ To analyze, review and improve RemoteView service we offer; ■ To protect and defend our rights and property, including by way of legal proceedings; ■ To comply with regulatory requirements; and ■ For internal record keeping. 
 
-#### ENFORCEMENT
 
-If for some reason you believe RSUPPORT has not adhered to these principles, please notify us by email at [pimgr@rsupport.com](mailto:pimgr@rsupport.com), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+The legal basis on which we will rely on to process your personal information will typically be one of the following:
 
-#### ELECTRONIC PRODUCT REGISTRATION
+■ Contract: where it is necessary to perform a contract with you ■ Legitimate interests: where it is necessary to pursue our or a third party’s legitimate interests (this includes where it is necessary for our business with public interest purposes or to exercise public authority granted to us, and where it is necessary to protect our or a third party’s material interests) ■ Consent: where you have consented to provide it. You have the right to withdraw your consent at any time ■ Legal obligation: where the processing is necessary for compliance with our legal obligations 
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
 
-#### CUSTOMER PROFILES
+### **5\. Sharing of Personal Information**
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+While we generally do not share personal information with third parties, please note that in the following circumstances, we may share personal information with the third parties:
 
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across [WWW.RVIEW.NET], allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.
+■ Third parties when required by law: As required by court order or other government or law enforcement authorities in order to comply with legal process or law; ■ Third parties in connection with corporate transactions: In connection with a corporate event, such as a merger or sale of all or part of our business (including that of a division or subsidiary), where we may need to disclose information to a potential buyer and its professional advisors. ■ Third parties when it is necessary to protect our services: In order to protect and defend our rights and assets, including by way of legal action ■ Third parties when it is to protect any of our users’ personal safety or assets: In order to protect the safety or assets of our users or the public ■ We store all data collected during the use of RemoteView service in the system provided by Amazon Web Services, Inc. (“AWS”). AWS may have access to your data, and AWS’s data privacy policy (https://aws.amazon.com/compliance/data-privacy-faq/?nc1=f_ls) applies to the handling of all data stored in AWS’s system. 
 
-#### WHAT WE DO WITH THE INFORMATION YOU SHARE
 
-When you join us, you provide us with your contact information, including [YOUR NAME] and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the product(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don’t use this information again without your permission.
+### **6\. Transfer of Personal Information**
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+We may use information (including your personal information) in countries other than where your device is located in connection with providing you with our RemoteView service and any other purposes outlined in this Privacy Policy. The data protection laws in many of these countries may not offer the same level of protection as those in the country where you are located. However, before transferring your personal information, we will take all technical measures under our guidelines that such information is managed in accordance with EU General Data Protection Regulation and consistently maintained in a secure manner to ensure that such information will be afforded the same level of protection. For further information on how we handle and protect your personally identifiable information, please contact us at [sec_tech@rsupport.com](mailto:sec_tech@rsupport.com)
 
-RSUPPORT will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on RSUPPORT or the site; (b) protect and defend the rights or property of RSUPPORT and its family of ww.rview.net, and, (c) act in urgent circumstances to protect the personal safety of users of RSUPPORT, its www.rview.net, or the public.
+### **7\. Period of Retention of Users’ Personal Information**
 
-#### CONTACT INFORMATION
+We will take reasonable measures to ensure that we only keep your personal information for as long as is necessary for us to provide you with RemoteView service or for the purpose for which it was collected or as required by applicable law. We apply criteria to determine the appropriate retention period for different categories of personal information you provide us with. For instance, we will keep information necessary to protect us in a legal claim, such as information relating to a contract, for the term of the contract and up to one year thereafter. After the expiration of such period, the relevant information will be deleted or anonymized. Where we have collected the personal information based on your consent and we have no other legal basis to continue with that processing, if you subsequently withdraw your consent, then we will delete your personal information.
 
-RSUPPORT WELCOMES YOUR COMMENTS REGARDING THIS PRIVACY STATEMENT. IF YOU BELIEVE THAT RSUPPORT HAS NOT ADHERED TO THIS PRIVACY STATEMENT, PLEASE CONTACT US ELECTRONICALLY AT LEGAL@RSUPPORT.COM OR VIA POSTAL MAIL AT THE ADDRESS PROVIDED BELOW, AND WE WILL USE COMMERCIALLY REASONABLE EFFORTS TO PROMPTLY DETERMINE AND REMEDY THE PROBLEM.
+If you request for deletion of your personal information because it is no longer needed, or based on an objection to the processing or a claim that the processing is illegal, you have the right to request a restriction on the processing while we verify your request for deletion.
 
-ATTENTION: GENERAL COUNSEL
+### **8\. Security**
 
-RSUPPORT, INC.  
-142 West 36th Street, SUITE 1008  
-New York, NY 10018, USA  
-(888) 348-6330  
-COPYRIGHT © 2003-2012 RSUPPORT, INC. ALL RIGHTS RESERVED.
+We are using the following efforts to protect the secrecy and maintain the security of your personal information.
+
+■ Operation of Security Management System – We take security measures in accordance with the date protection regulations. – We have established and are implementing our internal management system designed to prevent data loss, ensure data integrity and regulate access to data. – When our employee accesses any personal data he/she must use his/her ID and password to authenticate such access, and we have established and are in compliance with the regulations on password setting requirements (such as combination of characters and numbers and length of password), frequency of password change, and other management matters. ■ Internal Regulations for Information Security – We have enacted and are implementing the information security policies and detailed guidelines for the protection of data assets – We are carrying out security campaigns together with our annual information security training in order to improve knowledge of our officers and employees on information security. – We are operating a separate division for managing information security and personal information, and annually amend our information protection policies and guidelines and carry them out in accordance with the annual plan, and have enacted and are implementing internal rules regarding information security. ■ Compliance with Security Standard Technology – We have established and are implementing our internal management system based on the international/domestic information protection management system standards in order to protect our information assets. – Sensitive personal information such as passwords are safely stored by using SHA-2 based SHA-256 cryptographic hash algorithm. – We develop and review in compliance with safe development security guidelines, and have established and are applying countermeasures and precautionary measures with respect to relevant cyber security threats. ■ Full Maintenance of Information Security Audit System – Security settings through account management, access control, system security settings, service & log management, and patch management to prepare the system against any outside security breach is compulsory. – We comply with the laws and regulations relating to information security, and our internal information security policies and guidelines, and carry out internal security audit and verification activity once a year in order to confirm that effective functions are maintained. – We also periodically detect and promptly resolve any potential security vulnerability issues through utilizing simulation hacking service of a third party security agency. – In response to the annually released top 10 list of web vulnerabilities (OWASP TOP10), we eliminate related vulnerabilities and pay full attention to inspections through various inspection tools. 
+
+
+Notwithstanding the foregoing, we do not guarantee that no third party would interfere with the communication between you and RSUPPORT or that we would not be exposed to a security breach, due to the design methods of the Internet, continuous technological changes and any other factors that are beyond our control. We shall not be responsible for any leakage or exposure of personal information due to any transmission errors or unauthorized or unlawful action of a third party
+
+### **  
+9\. Protection of Children’s Personal Information**
+
+Protecting the personal information of children is important to us. For that reason, none of our services are directed at or designed to attract anyone under the age of 16 or the age of majority in the relevant jurisdiction. We also do not knowingly collect or maintain personal information from users who are under the age of 16 or the age of majority in the relevant jurisdiction. Should we learn or be notified that we have collected information from users under the age of 16 or the age of majority in the relevant jurisdiction, we will promptly delete such personal information.
+
+### **  
+10\. Changes to RSUPPORT’s Privacy Policy**
+
+This Privacy Policy may be amended or updated by us from time to time. If we make a material change to our Privacy Policy, we will inform you through our website or other means, and will publish it on our website for review by the users. Please refer to our last updated Privacy Policy. You may be required to agree to the amended/updated Privacy Policy in order to continue using the relevant service.
+
+### **11\. Accessing Your Information and Your Rights**
+
+Under the laws of each jurisdiction, you may have the right to request access to, rectification or deletion of, the personal information we hold about you or the right to object to or restrict certain types of processing of your personal information (or to withdraw your consent to our personal information processing), or to receive a machine-readable copy of your personal information. If permitted by law, a small fee for providing you with such service may be charged. Please note that we may decline to process your requests to the extent permitted by law if they are unreasonable or malicious, jeopardize the privacy of others, or are extremely impractical. For further information or to exercise any of these rights, please contact us at [sec_tech@rsupport.com](mailto:sec_tech@rsupport.com)
+
+### **12\. Contact Information**
+
+RSUPPORT’s Data Protection Officer’s contact information is as follow:
+
+RSUPPORT Co., Ltd.  
+Data Protection Officer, DPO: Kim Taek-joong
+
+S-Tower, 10 Wiryeseong-daero, Songpa-gu, Seoul, Republic of Korea  
+Phone: +82-70-7011-3900  
+E-mail: [sec_tech@rsupport.com](mailto:sec_tech@rsupport.com)
+
+If you have any questions or comments about this Privacy Policy or RSUPPORT’s processing of your personal information, please reach out to us at the address, phone number or email address written above. You also have the right to lodge a complaint with a data protection authority; however, we would encourage you to first contact us directly to resolve any concerns.
+
+Last updated Date: May 25, 2018
