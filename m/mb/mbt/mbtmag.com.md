@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230023850id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530073718id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Advantage Business Marketing
 
