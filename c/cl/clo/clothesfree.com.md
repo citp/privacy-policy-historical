@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothesfree.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126213114id_/http%3A//www.clothesfree.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothesfree.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530052026id_/http%3A//www.clothesfree.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ClothesFree.com Refund Policy
 
