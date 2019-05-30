@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aluxurytravelblog.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015161551id_/https%3A//www.aluxurytravelblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aluxurytravelblog.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530025249id_/https%3A//www.aluxurytravelblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy - A Luxury Travel Blog : A Luxury Travel Blog
 
