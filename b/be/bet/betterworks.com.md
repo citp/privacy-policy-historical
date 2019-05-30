@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230124945id_/https%3A//www.betterworks.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530104424id_/https%3A//www.betterworks.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Betterworks
 
@@ -10,7 +10,7 @@ Betterworks provides continuous performance management to help employees easily 
 
 ## 2\. Websites Covered
 
-This Privacy Notice applies to the Websites that link to this Privacy Notice and the Betterworks Application, including: [https://betterworks.com](https://betterworks.com/); [https://blog.betterworks.com](https://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); <https://www.betterworks.com/trials>; the BetterWorks mobile application; and [support.betterworks.com](http://support.betterworks.com/) (collectively referred to as “ **Betterworks’ Websites** ” or “ **Product(s)** ”).
+This Privacy Notice applies to the Websites that link to this Privacy Notice and the Betterworks Application, including: [https://betterworks.com](https://betterworks.com/); [https://blog.betterworks.com](https://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); the BetterWorks mobile application; and [support.betterworks.com](http://support.betterworks.com/) (collectively referred to as “ **Betterworks’ Websites** ” or “ **Product(s)** ”).
 
 ## 3\. Information We Collect
 
