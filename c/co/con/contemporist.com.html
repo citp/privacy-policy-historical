@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contemporist.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231151228id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contemporist.com privacy policy that was archived on 2019-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190530080113id_/http%3A//www.contemporist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 
 
 <!-- Begin Script For Disabling Certain Mediavine Ads -->
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://www.contemporist.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script></head><body><div id="mediavine-settings" data-blacklist-content-desktop="1" data-blacklist-content-mobile="1" data-blacklist-readmore="1" data-blacklist-recipe="1" data-blacklist-in-image="1" data-blacklist-in-screen="1"></div>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://www.contemporist.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.10" type="text/javascript" defer=""></script></head><body><div id="mediavine-settings" data-blacklist-content-desktop="1" data-blacklist-content-mobile="1" data-blacklist-readmore="1" data-blacklist-recipe="1" data-blacklist-in-image="1" data-blacklist-in-screen="1"></div>
 <!-- End Script For Disabling Certain Mediavine Ads -->
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -18,7 +18,7 @@
 <script src="http://www.contemporist.com/wp-content/themes/mediavine_theme/js/html5.js" type="text/javascript"></script>
 <![endif]-->
 
-<!-- Ads on this site are served by WP PRO Advertising System - All In One Ad Manager v5.2.9.1 - wordpress-advertising.tunasite.com -->
+<!-- Ads on this site are served by WP PRO Advertising System - All In One Ad Manager v5.3.0 - wordpress-advertising.tunasite.com -->
 <!-- / WP PRO Advertising System - All In One Ad Manager. -->
 
 
@@ -31,9 +31,13 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="CONTEMPORIST » Feed" href="http://www.contemporist.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="CONTEMPORIST » Comments Feed" href="http://www.contemporist.com/comments/feed/">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-2817843-1';
+	var mi_version         = '7.4.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-2817843-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -50,18 +54,65 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-2817843-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-2817843-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.contemporist.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.contemporist.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -78,10 +129,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="frizzly-styles-css" href="http://www.contemporist.com/wp-content/plugins/frizzly//assets/css/styles.css?ver=0.34" type="text/css" media="all">
-<link rel="stylesheet" id="WPPAS_VBC_BNR_STYLE-css" href="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/css/vbc/wppas_vbc_bnr.css?ver=5.2.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="frizzly-lib-font-awesome-css" href="http://www.contemporist.com/wp-content/plugins/frizzly/css/libs/font-awesome/css/font-awesome.css?ver=1.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="frizzly-client-css" href="http://www.contemporist.com/wp-content/plugins/frizzly/css/frizzly.client.css?ver=1.1.0" type="text/css" media="all">
+<link rel="stylesheet" id="WPPAS_VBC_BNR_STYLE-css" href="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/css/vbc/wppas_vbc_bnr.css?ver=5.3.0" type="text/css" media="all">
 <link rel="stylesheet" id="contemporist-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="contemporist-style-css" href="http://www.contemporist.com/wp-content/themes/mediavine_theme/style.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="contemporist-style-css" href="http://www.contemporist.com/wp-content/themes/mediavine_theme/style.css?ver=4.9.10" type="text/css" media="all">
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='contemporist-ie-css'  href='http://www.contemporist.com/wp-content/themes/mediavine_theme/css/ie.css?ver=20121010' type='text/css' media='all' />
 <![endif]-->
@@ -94,37 +146,30 @@ img.emoji {
 var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload 1 file.","http_error":"HTTP error.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File canceled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the trash.","error_uploading":"\u201c%s\u201d has failed to upload."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/plupload/handlers.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/plupload/handlers.min.js?ver=4.9.10"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wppas_vbc_upload = {"ajaxurl":"http:\/\/www.contemporist.com\/wp-admin\/admin-ajax.php","nonce":"617c2cd514","remove":"4ea3823efa","number":"1","upload_enabled":"1","confirmMsg":"Are you sure you want to delete this?","plupload":{"runtimes":"html5,flash,html4","browse_button":"wppas-vbc-uploader","container":"wppas-vbc-upload-container","file_data_name":"wppas_vbc_upload_file","max_file_size":"100000000b","url":"http:\/\/www.contemporist.com\/wp-admin\/admin-ajax.php?action=wppas_vbc_upload&nonce=ead363abab","flash_swf_url":"http:\/\/www.contemporist.com\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"jpg,gif,png"}],"multipart":true,"urlstream_upload":true,"multipart_params":{"upload_folder":""}}};
+var wppas_vbc_upload = {"ajaxurl":"http:\/\/www.contemporist.com\/wp-admin\/admin-ajax.php","nonce":"f25b366048","remove":"022d617f5e","number":"1","upload_enabled":"1","confirmMsg":"Are you sure you want to delete this?","plupload":{"runtimes":"html5,flash,html4","browse_button":"wppas-vbc-uploader","container":"wppas-vbc-upload-container","file_data_name":"wppas_vbc_upload_file","max_file_size":"100000000b","url":"http:\/\/www.contemporist.com\/wp-admin\/admin-ajax.php?action=wppas_vbc_upload&nonce=3c20fb174e","flash_swf_url":"http:\/\/www.contemporist.com\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"jpg,gif,png"}],"multipart":true,"urlstream_upload":true,"multipart_params":{"upload_folder":""}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/AjaxUpload.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/AjaxUpload.js?ver=4.9.10"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.contemporist.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"http:\/\/www.contemporist.com","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var FrizzlySettings = {"modules":{"main":{"moduleHoverActive":"1","moduleLightboxActive":"0","moduleShortcodeActive":"1","activeModules":["main","buttonSettings","hover","shortcode","advanced"]},"buttonSettings":{"pinterestImageDescription":["altAttribute","postTitle","titleAttribute","mediaLibraryDescription","mediaLibraryCaption"],"twitterHandle":"","generalUseFullImages":"0","generalDownloadImageDescription":"0"},"hover":{"imageSelector":".frizzly-hover-container img","minImageHeight":"300","minImageWidth":"300","hoverPanelPosition":"bottom-left","buttonSet":"default","theme":"default48","orientation":"horizontal","showOnSingle":1,"showOnPage":1,"showOnLightbox":1,"showOnHome":"0","showOnBlog":"0"},"lightbox":{"descriptionSource":["titleAttribute","altAttribute"]},"shortcode":{"beforeContent":"0","beforeContentShortcodeId":"","afterContent":"0","afterContentShortcodeId":""},"advanced":null},"buttonSets":[],"themes":[]};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/frizzly//assets/js/frizzly.min.js?ver=0.34"></script>
-<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/the-contemporist.js?ver=4.9.9"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/templates/js/advertising.js?ver=4.9.9"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-admin/admin-ajax.php?action=wppas_asyncjs&amp;ver=4.9.9"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.4.2"></script>
+<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/the-contemporist.js?ver=4.9.10"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/templates/js/advertising.js?ver=4.9.10"></script>
 <link rel="https://api.w.org/" href="http://www.contemporist.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.contemporist.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.contemporist.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.9">
+<meta name="generator" content="WordPress 4.9.10">
 <link rel="shortlink" href="http://www.contemporist.com/?p=2026">
 <link rel="alternate" type="application/json+oembed" href="http://www.contemporist.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.contemporist.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.contemporist.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.contemporist.com%2Fprivacy%2F&amp;format=xml">
-<style type="text/css"></style>	
-<!-- START - Facebook Open Graph, Google+ and Twitter Card Tags 2.2 -->
+<meta property="og:title" content="Privacy Policy"><meta property="og:type" content="blog"><meta property="og:url" content="http://www.contemporist.com/privacy/"><meta property="og:site_name" content="Contemporary Modern Architecture Furniture Lighting Interior Design"><meta property="og:description" content=""><meta property="twitter:card" content="summary_large_image"><meta property="twitter:site" content=""><meta property="twitter:description" content=""><meta property="twitter:title" content="Privacy Policy">
+<!-- START - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
  <!-- Facebook Open Graph -->
   <meta property="og:locale" content="en_US">
   <meta property="og:site_name" content="CONTEMPORIST">
@@ -133,6 +178,8 @@ var FrizzlySettings = {"modules":{"main":{"moduleHoverActive":"1","moduleLightbo
   <meta property="og:type" content="article">
  <!-- Google+ / Schema.org -->
   <meta itemprop="name" content="Privacy Policy">
+  <meta itemprop="headline" content="Privacy Policy">
+  <meta itemprop="author" content="Dave">
  <!-- Twitter Cards -->
   <meta name="twitter:title" content="Privacy Policy">
   <meta name="twitter:url" content="http://www.contemporist.com/privacy/">
@@ -140,7 +187,8 @@ var FrizzlySettings = {"modules":{"main":{"moduleHoverActive":"1","moduleLightbo
  <!-- SEO -->
   <meta name="author" content="Dave">
  <!-- Misc. tags -->
-<!-- END - Facebook Open Graph, Google+ and Twitter Card Tags 2.2 -->
+ <!-- is_singular -->
+<!-- END - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.5 -->
 	
 
 <!-- Begin Google Ad Manager code for the header -->
@@ -297,11 +345,11 @@ googletag.enableServices();
 							
 	<article id="post-2026" class="post-2026 page type-page status-publish hentry">
 		<div class="entry-header">
-												<h2 class="entry-title">Privacy Policy</h2>
+						<input type="hidden" class="frizzly">						<h2 class="entry-title">Privacy Policy</h2>
 		</div>
 
 		<div class="entry-content">
-			<input type="hidden" value="" data-frizzlypostcontainer="" data-frizzlyposturl="http://www.contemporist.com/privacy/" data-frizzlyposttitle="Privacy Policy" data-frizzlyhovercontainer=""><p>CONTEMPORIST (“www.contemporist.com”) is governed by the following Privacy Policy.</p>
+			<input type="hidden" class="frizzly"><p>CONTEMPORIST (“www.contemporist.com”) is governed by the following Privacy Policy.</p>
 <p>We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you of the information we may collect and how it may be used. This statement only applies to this Website.</p>
 <hr>
 <p><strong>WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?</strong></p>
@@ -422,17 +470,23 @@ At any time, please contact us at dave@contemporist.com for questions related to
 </footer>	
 
 <script type="text/javascript" src="//s.skimresources.com/js/100354X1556059.skimlinks.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var frizzlySettings = {"image":{"image_selector":".frizzly_container img","networks":["pinterest"],"show":"hover","button_size":"normal","button_shape":"square","button_position":"bottom-left","button_margin_top":0,"button_margin_left":0,"button_margin_right":0,"button_margin_bottom":0,"desktop_min_height":200,"desktop_min_width":200,"image_classes":"","image_classes_positive":false,"enabled_on":"[single],[page],[archive],[search],[category]","disabled_on":"","i18n":[]},"content":{"align":"left","where":"before_after","pinterest_behavior":"user","networks":["pinterest"],"button_size":"normal","button_shape":"square","enabled_on":"[front],[home],[single],[page],[archive],[search],[category]","disabled_on":""},"general":{"active_image":true,"active_content":false,"twitter_handle":"","add_handle_to_tweets":true,"pinterest_source":["image_title","image_alt","post_title"],"meta_open_graph":true,"meta_twitter":true,"meta_twitter_card_type":"summary_large_image","i18n":{"email_sharer":{"ajax_action":"frizzly_share_by_email","ajax_nonce":"cbd39e2436","ajax_url":"http:\/\/www.contemporist.com\/wp-admin\/admin-ajax.php","targetEmailLabel":"Send to Email Address","sourceEmailLabel":"Your Email Address","sourceNameLabel":"Your Name","button":"Send Email","unknown_error":"Unknown error. Sharing failed."}}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/frizzly/js/frizzly.client.js?ver=1.1.0"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/jquery-ui-effects.min.js?ver=5.2.9.1"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/postscribe.min.js?ver=5.2.9.1"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/dom-to-image.js?ver=5.2.9.1"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/jquery.wppas.vbc.min.js?ver=5.2.9.1"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/jquery-ui-effects.min.js?ver=5.3.0"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/postscribe.min.js?ver=5.3.0"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/dom-to-image.js?ver=5.3.0"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-content/plugins/wppas/public/assets/js/vbc/jquery.wppas.vbc.min.js?ver=5.3.0"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-content/themes/mediavine_theme/js/navigation.js?ver=20140711"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-content/themes/mediavine_theme/js/vendor/bootstrap.min.js?ver=20140611"></script>
 <script type="text/javascript" src="http://www.contemporist.com/wp-content/themes/mediavine_theme/js/vendor/bootstrap-hover-dropdown.min.js?ver=20140611"></script>
-<script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="http://www.contemporist.com/wp-includes/js/wp-embed.min.js?ver=4.9.10"></script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://www.contemporist.com/wp-content/themes/mediavine_theme/rrssb-master/js/vendor/jquery.1.10.2.min.js"><\/script>')</script><script src="http://www.contemporist.com/wp-content/themes/mediavine_theme/rrssb-master/js/vendor/jquery.1.10.2.min.js"></script>
