@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingwithyou.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005112045id_/http%3A//marketingwithyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingwithyou.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530225018id_/http%3A//marketingwithyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MarketingWithYou.com | Alex Jeffreys
 
