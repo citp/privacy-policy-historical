@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930171838id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530122525id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
