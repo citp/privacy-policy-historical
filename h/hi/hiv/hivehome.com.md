@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020130238id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530133534id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hive Home
 
@@ -112,7 +112,7 @@ In accordance with the marketing preferences you set when creating your account 
 
 If you tell us not to email, push notification, text, mail or phone you with direct market we won’t contact you in that way.
 
-You can let us know at any time that you do not wish to receive marketing messages by sending an email to us at [help@hivehome.com](mailto:help@hivehome.com) or contacting the customer service team by phone or by webchat.
+You can let us know at any time that you do not wish to receive marketing messages by sending an email to us at [complaints@hivehome.com](mailto:complaints@hivehome.com) or contacting the customer service team by phone or by webchat.
 
 You can also unsubscribe from our marketing emails by clicking on the unsubscribe link in the emails we send to you.
 
@@ -174,7 +174,7 @@ We may update this privacy notice from time to time. When we change this notice 
 
 ### Contacting us
 
-In the event of any query or complaint in connection with the information we hold about you, please email us at: [help@hivehome.com](mailto:help@hivehome.com).
+In the event of any query or complaint in connection with the information we hold about you, please email us at: [complaints@hivehome.com](mailto:complaints@hivehome.com).
 
 You can also contact our data protection officer by emailing [privacy@centrica.com](mailto:privacy@centrica.com).
 
