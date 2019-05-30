@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomsphere.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006194059id_/http%3A//www.zoomsphere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomsphere.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531000054id_/http%3A//www.zoomsphere.com/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - ZoomSphere
 
