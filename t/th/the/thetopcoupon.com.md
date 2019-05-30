@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetopcoupon.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129053322id_/http%3A//www.thetopcoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetopcoupon.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530144807id_/http%3A//www.thetopcoupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Top Coupon
 
