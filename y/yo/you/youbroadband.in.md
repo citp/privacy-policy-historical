@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927022129id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbroadband.in privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530222510id_/https%3A//youbroadband.in/policy.php) for the most accurate reproduction.*
 
 # YOU Broadband - Privacy Policy
 
-[](https://youbroadband.in/index.php)
+[](https://youbroadband.in/)
 
   
 
