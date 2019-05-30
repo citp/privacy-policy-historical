@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811063015id_/https%3A//www.42photo.com/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530133933id_/https%3A//www.42photo.com/Pages/Privacy) for the most accurate reproduction.*
 
 # 42nd Street Photo - New York Camera Store, Digital Cameras, Audio and Video Electronics
 
-Mail Order Hours: Monday - Thursday 10am - 7pm EST | Friday 10am - 6pm | Saturday & Sunday 11am - 6pm
+Mail Order Hours: Monday - Friday 10am - 7pm EST | Saturday & Sunday 10am - 6pm EST. 1-888-810-4242
 
-NYC Retail Store Location: 378 5th Avenue Between 35th & 36th Street on 5th Avenue.
+NYC Retail Store Location: 15 West 36th Street B/T 5th & 6th ave.  
 
-Retail Store Hours: Monday - Friday 9am - 8pm | Saturday - Sunday 10am - 7pm EST 1-212-594-6565
+
+Retail Store Hours: Monday - Friday 9am - 7:00pm | Saturday - Sunday 10am - 6pm EST 1-212-594-6565
 
 **Information Collection and Use**   
 42nd Street Photo is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 42nd Street Photo collects information from our users at several different points on our website. Order We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date. This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
@@ -36,4 +37,4 @@ If you have any questions or suggestions regarding our privacy policy, please co
 Phone: [212-594-6565 ](tel:212-594-6565)   
 Fax: [212-594-7508 ](tel:212-594-7508)   
 Email: [privacy@42photo.com ](mailto:privacy@42photo.com)   
-Postal Address: 378 5th Avenue New York, NY 10018 
+Postal Address: 15 West 36th Street New York, NY 10018 
