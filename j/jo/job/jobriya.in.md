@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobriya.in privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120060501id_/http%3A//www.jobriya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobriya.in privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530084151id_/http%3A//www.jobriya.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -53,4 +53,4 @@ This privacy statement applies only to information collected by the website or t
 **Changes to This Policy**  
 We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**Contacting** the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, write to [myjobriya@gmail.com ](https://web.archive.org/web/20181120060501id_/http://www.jobriya.in/privacy-policy/myjobriya@gmail.com)
+**Contacting** the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, write to [myjobriya@gmail.com ](https://web.archive.org/web/20190530084151id_/https://www.jobriya.in/privacy-policy/myjobriya@gmail.com)
