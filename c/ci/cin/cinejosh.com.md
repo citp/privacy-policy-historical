@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cinejosh.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221233304id_/http%3A//www.cinejosh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinejosh.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530020736id_/http%3A//www.cinejosh.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CineJosh.com
 
-This Privacy Policy governs the manner in which cinejosh.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.cinejosh.com](http://www.cinejosh.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by cinejosh.com.
+This Privacy Policy governs the manner in which cinejosh.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.cinejosh.com](https://www.cinejosh.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by cinejosh.com.
 
 **Personal identification information**
 
@@ -56,7 +56,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[www.cinejosh.com](http://www.cinejosh.com/)  
+[www.cinejosh.com](https://www.cinejosh.com/)  
 cinejosh.com@gmail.com
 
 This document was last updated on September 06, 2014
