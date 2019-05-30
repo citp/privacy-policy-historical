@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190728id_/https%3A//promosimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530060253id_/https%3A//promosimple.com/privacy-policy) for the most accurate reproduction.*
 
-# Create Sweepstakes, Contests & Giveaways | PromoSimple
+# Privacy Policy | PromoSimple
+
+## Privacy Policy
 
 Effective Date: October 1, 2011
 
-This privacy policy (the “Privacy Policy”) describes how Promo Simple, Inc. (“Promo Simple”, “We”, “Us”, or “Our”) collects and uses your data. We own and operate PromoSimple.com along with web services related to those sites (collectively, the “Service”).
+This privacy policy (the “Privacy Policy”) describes how Promo Simple, Inc. (“Promo Simple”, “We”, “Us”, or “Our”) collects and uses your data. We own and operate PromoSimple.com along with web services related to those sites (collectively, the “Service”). 
 
-If you have any questions or comments regarding this privacy policy or its enforcement, please contact Us at legal (at) promosimple (dot) com.
+If you have any questions or comments regarding this privacy policy or its enforcement, please contact Us at legal (at) promosimple (dot) com. 
 
-**NOTICE – INFORMATION WE COLLECT AND USE.**
+### NOTICE – INFORMATION WE COLLECT AND USE.
 
   1. Users of Websites on which the Service are Implemented. When you visit a website on which the Service is implemented, We collect certain information regarding your use of the website, such as your IP address and browser type. Your session on the website will be tracked, but each user will remain anonymous. We gather this information for systems administration purposes, abuse prevention and to track user trends. We may also use your IP address to identify the general geographic area from which you are accessing a website on which the Service is implemented. We do not link IP addresses to any personally identifiable information.
   2. Users of Our Service. We collect and store information that registered users of Our Service (“Members”) submit to Us, such as their names and e-mail addresses, to allow Us to identify users and notify them of changes or updates to the Service. If a Member elects to provide it, We also may collect and store other information about you, such as your address and phone number, which We may use to assist Us in providing the Service to you. We also collect other information, such as your IP address and browser type. We use the IP addresses of Members to assist in login and other uses related to a registered user’s use of the Service. Member’s sessions on Our sites are also tracked for systems administration purposes and to track user trends. We may link IP address and other information to a Member’s account.
@@ -18,7 +20,9 @@ If you have any questions or comments regarding this privacy policy or its enfor
 
 
 
-**DATA INTEGRITY – HOW WE USE YOUR INFORMATION.** We generally use the information We collect from you to create a secure and personalized Service for Our Members.
+### DATA INTEGRITY – HOW WE USE YOUR INFORMATION.
+
+We generally use the information We collect from you to create a secure and personalized Service for Our Members. 
 
   1. IP Addresses. We gather this information for systems administration purposes, abuse prevention and to track user trends. We may also use your IP address to identify the general geographic area from which you are accessing a website on which the Service is implemented. We do not link IP addresses to any personally identifiable information.
   2. Header Information. Header information is used to determine which websites originated traffic into websites implementing the Service.
@@ -28,48 +32,60 @@ If you have any questions or comments regarding this privacy policy or its enfor
 
 
 
-**ONWARD TRANSFER – DISCLOSURE OF INFORMATION TO THIRD PARTIES.**
+### ONWARD TRANSFER – DISCLOSURE OF INFORMATION TO THIRD PARTIES.
 
   1. Personal Information. We will not sell, lease or exchange your personal information to third parties without first obtaining your express consent, unless required by law or to protect your status as a Member. To the extent We do disclose your personal information to a third party to protect your status as a Member, We will notify you of that disclosure.
   2. Traffic Data. We may aggregate and anonymize your Traffic Data with that from other sites to provide benchmarking data and other functionality, but no personally identifiable Traffic Data will be disclosed at any time without your express prior consent.
 
 
 
-**CHOICE**
+### CHOICE
 
   1. Your Authorization Required. We will not use or share your personal information in ways incompatible with the ones described above, or other than as you have explicitly authorized, without providing you a choice. If at any time We would like to disclose your personal information to a third party in a manner not described above, We will provide you with an affirmative or explicit (opt in) choice. Personal information will not be used to directly market the Service unless that possible use of the information has been disclosed and a choice provided.
 
 
 
-**ACCESS.**
+### ACCESS.
 
   1. Access. Through your Member account, We will provide you access to personally identifiable information about you that We store in a manner that is identifiable as your personal information. Note, however, that for non-Members, We may retain IP addresses, browser information or header information for more than a temporary period of time in order to provide the Service, and as such, that information may or may not be able to be accessed or modified. We will allow you to correct, amend or delete personal information of yours that We retain where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
   2. Deletion. Members who leave the Service may choose to have their personal information deleted by contacting legal (at) promosimple (dot) com.
 
 
 
-**LINKS TO THIRD PARTY WEBSITES.**  
-Our websites may contain links to third party websites. Please be aware that We are not responsible for the privacy practices of third party websites you choose to visit. If you provide any information directly to parties other than Us, different rules may apply to the use or disclosure of that information. We encourage you to investigate and ask questions before disclosing your personal information to third parties.  
-****
+### LINKS TO THIRD PARTY WEBSITES.
 
-**THIRD PARTY ADVERTISERS.**  
-We may choose to deploy advertising on the Service that is delivered to users through a third party’s advertising server. Information about users’ visits to Our websites, such as the number of times a user has viewed an ad (but no personally identifiable information), would be used in such a scenario to serve ads to users on Our websites.  
-****
+Our websites may contain links to third party websites. Please be aware that We are not responsible for the privacy practices of third party websites you choose to visit. If you provide any information directly to parties other than Us, different rules may apply to the use or disclosure of that information. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
 
-**VOLUNTARY PUBLIC DISCLOSURE OF PERSONAL INFORMATION.**  
-Please be aware that whenever Members voluntarily disclose personal information online – e.g., on message boards, in chat areas, in file uploads, through events, etc. – that information becomes public and can be collected and used by others; We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, Members may receive unsolicited messages from other parties.
+### THIRD PARTY ADVERTISERS.
 
-**PRIVACY PROTECTION FOR CHILDREN.**  
-In compliance with the Children’s Online Privacy Protection Act (COPPA), We will not knowingly provide access to the Service to persons under the age of thirteen (13). If We later learn that any user is under the age of thirteen (13), We will take appropriate steps to remove that user’s information from the database and We will restrict that individual from future access to the Service.
+We may choose to deploy advertising on the Service that is delivered to users through a third party’s advertising server. Information about users’ visits to Our websites, such as the number of times a user has viewed an ad (but no personally identifiable information), would be used in such a scenario to serve ads to users on Our websites. 
 
-**SECURITY.**  
-We have implemented security measures and do our best to protect user information from loss, misuse and alteration. We try to use industry-standard practices to safeguard the confidentiality of your personal information.
+### VOLUNTARY PUBLIC DISCLOSURE OF PERSONAL INFORMATION.
 
-**CONSENT.**  
-This Privacy Policy is a part of Our Terms of Service. By using the Service, users agree to be bound by the Terms of Service and this Privacy Policy. Some terms may be defined in the Terms of Service. This Privacy Policy only addresses activities originating from Our servers.
+Please be aware that whenever Members voluntarily disclose personal information online – e.g., on message boards, in chat areas, in file uploads, through events, etc. – that information becomes public and can be collected and used by others; We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, Members may receive unsolicited messages from other parties. 
 
-**NOTIFICATION OF CHANGES.**  
-If We change this Privacy Policy and seek to use your personal information in a manner different from that stated at the time of collection, you will be notified via e-mail or otherwise in some manner through the Service. In addition, if We make any material changes in Our privacy practices that do not affect personal information already stored by Us, We will post a notice on Our websites notifying users of the change. In some cases where We post such a notice, We will also e-mail users who have opted to receive communications from Us to notify them of the changes in Our privacy practices.
+### PRIVACY PROTECTION FOR CHILDREN.
 
-**ENFORCEMENT.**  
-Complaints related to this Privacy Policy can initially be referred to legal (at) promosimple (dot) com.
+In compliance with the Children’s Online Privacy Protection Act (COPPA), We will not knowingly provide access to the Service to persons under the age of thirteen (13). If We later learn that any user is under the age of thirteen (13), We will take appropriate steps to remove that user’s information from the database and We will restrict that individual from future access to the Service. 
+
+### SECURITY.
+
+We have implemented security measures and do our best to protect user information from loss, misuse and alteration. We try to use industry-standard practices to safeguard the confidentiality of your personal information. 
+
+### CONSENT.
+
+This Privacy Policy is a part of Our Terms of Service. By using the Service, users agree to be bound by the Terms of Service and this Privacy Policy. Some terms may be defined in the Terms of Service. This Privacy Policy only addresses activities originating from Our servers. 
+
+### NOTIFICATION OF CHANGES.
+
+If We change this Privacy Policy and seek to use your personal information in a manner different from that stated at the time of collection, you will be notified via e-mail or otherwise in some manner through the Service. In addition, if We make any material changes in Our privacy practices that do not affect personal information already stored by Us, We will post a notice on Our websites notifying users of the change. In some cases where We post such a notice, We will also e-mail users who have opted to receive communications from Us to notify them of the changes in Our privacy practices. 
+
+### ENFORCEMENT.
+
+Complaints related to this Privacy Policy can initially be referred to legal (at) promosimple (dot) com. 
+
+[
+
+## What are you waiting for? Create Your Giveaway in 60 Seconds Now
+
+](https://web.archive.org/accounts/create)
