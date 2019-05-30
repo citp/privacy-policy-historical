@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817073204id_/https%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531014615id_/https%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Games - Privacy Policy
 
@@ -73,7 +73,22 @@ Except as provided in this Privacy Policy, TeachMe will not disclose the informa
 
 10\. Use of cookies
 
-As a standard practice, TeachMe uses "cookies". A cookie is a small amount of data sent to your browser from our server and stored on your computer, then sent back to our server by your browser each time you access our website. Cookies enable us to track usage of our Services. In addition, cookies are required for the operation of the Services. Please note that if you refuse cookies (by turning cookies off in your browser or by clicking "don't accept", or if you have set your browser to warn you before accepting cookies), our Services might not work correctly.
+As a standard practice, TeachMe uses "cookies".
+
+A cookie is a small amount of data sent to your browser from our server and stored on your computer, then sent back to our server by your browser each time you access our website. Cookies enable us to track usage of our Services. In addition, cookies are required for the operation of the Services. Please note that if you refuse cookies (by turning cookies off in your browser or by clicking "don't accept", or if you have set your browser to warn you before accepting cookies), our Services might not work correctly.
+
+We use cookies to improve your experience around the site, cookies allow us to: 
+
+  * Keep track of your progress on math skills
+  * Reduce the number of times you see informational popups
+  * [Stripe](https://stripe.com/us/privacy) uses cookies to store our business information for processing transactions 
+  * [PayPal](https://www.paypal.com/ca/webapps/mpp/ua/privacy-full) uses cookies to store our business information for processing transactions 
+  * [Google](https://policies.google.com/technologies/partner-sites) uses cookies to store information on how you got to our site, and provide appropriate ads
+  * [SuperAwesome](https://www.superawesome.com/awesomeads-privacy-policy) uses cookies to provide appropriate ads
+
+
+
+You can control and/or delete cookies as you wish. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
 11\. Children's Online Privacy Protection Act (COPPA)
 
