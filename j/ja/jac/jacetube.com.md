@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230023456id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacetube.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530020140id_/http%3A//jacetube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – JaceTube.Com
 
