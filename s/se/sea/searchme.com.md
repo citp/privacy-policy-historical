@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchme.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212005328id_/http%3A//www.searchme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchme.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530211438id_/http%3A//www.searchme.com/privacy.html) for the most accurate reproduction.*
 
 # searchme.com
 
