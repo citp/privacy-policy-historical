@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621084722id_/http%3A//thelottolife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530135326id_/https%3A//www.thelottolife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy — the lotto life
 
 **Silver Lotto System**
 
