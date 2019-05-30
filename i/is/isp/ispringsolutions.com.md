@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903172748id_/https%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530131603id_/https%3A//www.ispringsolutions.com/company/policy/privacy) for the most accurate reproduction.*
 
 # iSpring Privacy Policy
 
@@ -78,7 +78,7 @@ We collect information about you when you use our Services, including browsing o
 
 **_Device and Connection Information:_** We collect information about your computer, phone, tablet, or other devices you use to access the Services. This device information includes your connection type and settings when you install, access, update, or use our Services. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data. We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience. 
 
-**_Cookies:_** iSpring uses cookies to provide functionality and to recognize you across different Services and devices. For more information, please see our [Cookie Policy](https://web.archive.org/legal/cookie_policy.html), which includes information on how to control or opt out of the cookies and other tracking technologies. 
+**_Cookies:_** iSpring uses cookies to provide functionality and to recognize you across different Services and devices. For more information, please see our [Cookie Policy](https://web.archive.org/legal/cookie_policy), which includes information on how to control or opt out of the cookies and other tracking technologies. 
 
 #### Information we receive from other sources
 
@@ -183,7 +183,7 @@ You have the right to request a copy of your information, to object to our use o
   * You have the right to object, on grounds relating to your particular situation, at any time to processing of your Personal Data;
   * You have the right to receive your Personal Data, which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller when the processing is based on your consent or is necessary for the performance of a contract (the right to data portability); 
   * You can opt out of promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your site account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your site account settings; 
-  * You can refuse the use of cookies: relevant browser-based cookie controls are described in our [Cookie Policy.](https://web.archive.org/legal/cookie_policy.html)
+  * You can refuse the use of cookies: relevant browser-based cookie controls are described in our [Cookie Policy.](https://web.archive.org/legal/cookie_policy)
 
 
 
