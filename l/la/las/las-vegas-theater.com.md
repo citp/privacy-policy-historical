@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602035545id_/http%3A//las-vegas-theater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530170131id_/https%3A//www.las-vegas-theater.com/privacy) for the most accurate reproduction.*
 
 # Las Vegas Theater - Privacy Policy
 
-**Version 2.0**   
-Last updated 21 May 2018
+**Version 2.1**   
+Last updated 21 September 2018
 
 Thanks for using [Las Vegas Theater](https://www.las-vegas-theater.com/)! We continue to be committed to protecting and respecting your privacy, and this Privacy Policy sets out more clearly how your data is handled.
 
@@ -250,7 +250,7 @@ Additionally, we will collect indirect information about you as part of providin
 
 _The legal basis for us collecting, processing and storing this data is your consent._
 
-If you’re just visiting our website and haven’t communicated or transacted with us in any of the ways above. then this is you!
+This applies to anyone that visits our websites, so this is you!
 
 As a general website user we clearly don’t directly collect any information from you, but in order for us to deliver our Services to you we collect some indirect information  as part of our legitimate interest in running our business.
 
@@ -388,9 +388,18 @@ To the extent we are legally permitted to do so, we will take reasonable steps t
 
 We use multiple analytics tools provided by service partners such as Google Analytics to collect information about how you interact with our website or mobile applications, including what pages you visit, what site you visited prior to visiting our website, how much time you spend on each page, what operating system and web browser you use and network and IP information. We use the information provided by these tools to improve our Services. These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (e.g. Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, etc., the information collected is used and shared by these service provider in accordance with their individual privacy policies. You can control the technologies we use by managing your settings through our [Cookie Policy](https://www.las-vegas-theater.com/privacy-cookies/) or the “cookie banners” that may be presented (depending on URL of website visited) when you first visit our web pages, or by utilising settings in your browser or third-party tools. Please bear in mind that refusing or deleting some cookies may make it impossible for us to provide our Services to you.
 
-Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness.
+Targeted ads or interest-based offers may be presented to you based on your activities on our webpages, and other websites. These offers will display as varying product banners presented to you while browsing. We also partner with third parties to manage our advertising on our webpages and other websites.  Our third party partners may use technologies such as cookies to gather information such activities in order to provide you with advertising based upon your browsing activities and interests, and to measure advertising effectiveness. View the **Advertising Section (3.2)** of our [Cookie Policy](https://web.archive.org/privacy-cookies/) to see more details about our advertising partners, their cookies and how to manage them. 
 
-Alternatively you may be able to opt out of interest-based advertising by visiting [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/), or if located in the European Union by visiting [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Please note you will continue to receive generic ads.
+Alternatively you can opt out of interest-based advertising by visiting:
+
+  * [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/)
+  * [http://optout.networkadvertising.org](http://optout.networkadvertising.org/)
+  * [http://www.aboutads.info](http://www.aboutads.info/)
+  * [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (EU Only)
+
+
+
+Please note that opting out will only prevent targeted ads an you will continue to receive generic, non-targeted ads.
 
 Our website and our mobile applications contain links to third-party websites, for example [opentable.com](https://www.opentable.com/legal/privacy-policy) for pre-theatre dining, [parkwhiz](http://www.parkwhiz.com/support/privacy/) for parking and [booking.com](https://www.booking.com/content/privacy.en-gb.html) for overnight stays. We are not responsible for the privacy practices or the content of third-party sites.  Please read the privacy policy of any website you visit.
 
@@ -465,6 +474,6 @@ More information can be found at <https://ico.org.uk/make-a-complaint/>
   * Certified secure checkout
   * Phone customer support
   * 100% guarantee
-  * We are an independent show guide with no affiliation to any venue or show. The tickets offered for sale are resale tickets that may be sold at above face value.
+  * We are an independent show guide not a venue or show. We sell primary, discount and resale tickets which may be priced above or below face value.
 
 
