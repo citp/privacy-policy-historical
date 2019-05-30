@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216201815id_/https%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531014702id_/https%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -10,7 +10,10 @@ What do we use your information for?
 
 The school account information we collect is used to verify your status as a US K-12 school and to enable Learning Farm to provide customer support for your use of our program. 
 
-  
+Student information is used for educational or school purposes, and as authorized by a parent or student. Overall, student information is used to improve our systems in order to provide the best possible educational experience for users. 
+
+Following the termination of a license, a school, district, or parent may request that Learning Farm delete or de-identify student information and Learning Farm will do so. 
+
 How do we protect your information? 
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
