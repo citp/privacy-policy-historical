@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceindian.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205081319id_/http%3A//funatoz.click/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceindian.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530131524id_/http%3A//funatoz.click/privacy.php) for the most accurate reproduction.*
 
 # FunAtoZ : Privacy
 
@@ -66,6 +66,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20181205081319id_/http%3A//funatoz.click/privacy.php).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20190530131524id_/http%3A//funatoz.click/privacy.php).
 
 | 
