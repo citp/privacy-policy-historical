@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222110616id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinocity.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530130856id_/http%3A//www.casinocity.com/Privacy) for the most accurate reproduction.*
 
 # Casino City: Privacy Policy
 
@@ -82,7 +82,7 @@ NOTICE: Visit the website [OnGuardOnline.com](http://www.onguardonline.com/) for
   * If you have questions or suggestions, please complete a feedback form or you can contact us at: 
 
 Casino City Customer Care - Privacy Policy Issues   
-95 Wells Avenue Newton Centre, MA 02459 (617) 332-2850
+33 Needham Street, Newton, MA 02461 (617) 332-2850
 
 
 
@@ -97,4 +97,4 @@ Casino City Customer Care - Privacy Policy Issues
 
 
 Casino City is an independent directory and information service free of any gaming operator's control. Warning: You must ensure you meet all age and other regulatory requirements before entering a Casino or placing a wager. There are hundreds of jurisdictions in the world with Internet access and hundreds of different games and gambling opportunities available on the Internet. YOU are responsible for determining if it is legal for YOU to play any particular games or place any particular wager. Please gamble responsibly.   
-[Terms of Use](http://www.casinocity.com/termsofuse/) [Privacy Policy](http://www.casinocity.com/privacy/) Copyright © 1995-2018 Casino City, Inc. or its affiliates. 
+[Terms of Use](http://www.casinocity.com/termsofuse/) [Privacy Policy](http://www.casinocity.com/privacy/) Copyright © 1995-2019 Casino City, Inc. or its affiliates. 
