@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bamboohr.co.uk privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622041327id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.co.uk privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530130325id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # BambooHR Privacy Policy
 
-Last Updated: March 12, 2018
+Last Updated: March 15, 2019
 
-**BambooHR is committed to protecting the privacy of individuals who visit our website (“Visitors”) and individuals who register to use the BambooHR Services on behalf of BambooHR’s Clients (“Users”) (collectively “you” or “your”).** This Privacy Policy applies to data provided on or through the BambooHR website located at [www.bamboohr.com](http://www.bamboohr.com/), the BambooHR web application owned and operated by BambooHR, and the services offered by BambooHR through the website and apps (collectively, the “Services”) and describes BambooHR’s privacy practices in connection with the use of BambooHR's website, apps and Services. It also describes the choices available to you with regard to the use of your Personal Information (defined below) and how you can access and update this information. The use of information collected through the BambooHR Services shall be limited to the purposes of providing the Services for which the User or Client has engaged BambooHR and as otherwise described in this Privacy Policy.
+**BambooHR is committed to protecting the privacy of individuals who visit our website (“Visitors”) and individuals who register to use the BambooHR® Services on behalf of BambooHR’s Clients (“Users”) (collectively “you” or “your”).** This Privacy Policy applies to data provided on or through the BambooHR® website located at [www.bamboohr.com](http://www.bamboohr.com/), the BambooHR® web application owned and operated by BambooHR, and the services offered by BambooHR through the website and apps (collectively, the “Services”) and describes BambooHR’s privacy practices in connection with the use of BambooHR's website, apps and Services. It also describes the choices available to you regarding the use of your Personal Information (defined below) and how you can access and update this information. The use of information collected through the BambooHR® Services shall be limited to the purposes of providing the Services for which the User or Client has engaged BambooHR and as otherwise described in this Privacy Policy.
 
 * * *
 
-IF YOU ARE AN EMPLOYEE OF A CLIENT THAT USES THE BAMBOOHR SERVICES, THIS PRIVACY POLICY DOES NOT APPLY TO YOU OR YOUR USE OF THE SERVICES. PLEASE REFER TO YOUR EMPLOYER’S PRIVACY POLICY, WHICH APPLIES TO THE COLLECTION, USE, PROCESSING AND RETENTION OF YOUR PERSONAL INFORMATION. INDIVIDUAL EMPLOYEES OF OUR CLIENTS WHO SEEK ACCESS TO THEIR DATA, OR WHO SEEK TO CORRECT, AMEND, OR DELETE INACCURATE DATA SHOULD DIRECT THEIR REQUESTS TO THEIR EMPLOYERS WHO ARE BAMBOOHR’S CLIENTS. BAMBOOHR CLIENTS ARE ABLE TO REMOVE AND UPDATE PERSONAL INFORMATION AND DATA WITHOUT BAMBOOHR’S INVOLVEMENT.
+IF YOU ARE AN EMPLOYEE OF A CLIENT THAT USES THE BAMBOOHR® SERVICES, THIS PRIVACY POLICY DOES NOT APPLY TO YOU OR YOUR USE OF THE SERVICES. PLEASE REFER TO YOUR EMPLOYER’S PRIVACY POLICY, WHICH APPLIES TO THE COLLECTION, USE, PROCESSING AND RETENTION OF YOUR PERSONAL INFORMATION. INDIVIDUAL EMPLOYEES OF OUR CLIENTS WHO SEEK ACCESS TO THEIR DATA, OR WHO SEEK TO CORRECT, AMEND, OR DELETE INACCURATE DATA SHOULD DIRECT THEIR REQUESTS TO THEIR EMPLOYERS WHO ARE BAMBOOHR’S CLIENTS. BAMBOOHR CLIENTS ARE ABLE TO REMOVE AND UPDATE PERSONAL INFORMATION AND DATA WITHOUT BAMBOOHR’S INVOLVEMENT.
 
 * * *
 
@@ -29,7 +29,7 @@ BambooHR follows these principals in order to protect your privacy:
 
 #### What Information Do We Collect?
 
-When a User registers with BambooHR, information is needed such as the User’s name, company name, business address, contact telephone number and email address. A billing address and credit card information is also required if the User has chosen a paid account. When a Visitor contacts us and/or requests information about BambooHR, we will collect the Visitor’s email address and other contact information so that we may fulfill the Visitor’s request. Some information provided to us may, either alone or when connected with other information to which we may have access, individually identify a Visitor or User, and that information may be referred to in this Privacy Policy as “Personal Information.”
+When a User registers with BambooHR, information is needed such as the User’s name, company name, business address, contact telephone number and email address. A billing address and credit card information is also required if the User has chosen a paid account. When a Visitor to our website contacts us and/or requests information about BambooHR, we will collect the Visitor’s email address and other contact information so that we may fulfill the Visitor’s request. Some information provided to us may, either alone or when connected with other information to which we may have access, individually identify a Visitor or User, and that information may be referred to in this Privacy Policy as “Personal Information.”
 
 #### How Do We Use Your Information?
 
@@ -39,9 +39,9 @@ If you apply for a job with us, we will collect, process and store the informati
 
 BambooHR will not share your Personal Information, or otherwise make your Personal Information available to any other parties except as provided in this Privacy Policy. We will not sell, rent, or exchange your Personal Information with any third-parties without permission from you.
 
-BambooHR will share your information, including Personal Information, in order to respond to investigations, court orders, legal process, or to investigate, prevent or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the physical safety of any person, violations of BambooHR's [Terms of Service](https://web.archive.org/terms.php), or as otherwise required by law. If BambooHR is required by law or an order of a court of competent jurisdiction to disclose your information, BambooHR will promptly notify you of this requirement so that you may seek a protective order or other appropriate relief.
+BambooHR will share your information, including Personal Information, in order to respond to investigations, court orders, legal process, or to investigate, prevent or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the physical safety of any person, violations of BambooHR's [Terms of Service](https://web.archive.org/terms.php), or as otherwise required by law. If BambooHR is required by law or an order of a court of competent jurisdiction to disclose your information, BambooHR will promptly notify you of this requirement, if permitted by the court or applicable law, so that you may seek a protective order or other appropriate relief.
 
-BambooHR may also share your Personal Information with our trusted third party service providers, who help us to provide the Services. We will ensure that those service providers are obligated to protect your Personal Information under contract terms which are no less onerous than those set out in this Privacy Policy.
+BambooHR may also share your Personal Information with our trusted third party service providers, who help us to provide the Services. We will ensure that those service providers are obligated to protect your Personal Information under contract terms which are no less protective than those set out in this Privacy Policy.
 
 If BambooHR is involved in a merger, acquisition, or sale of all or a portion of its assets, your Personal Information may be transferred to the acquiring person or entity and you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
@@ -49,19 +49,19 @@ If BambooHR is involved in a merger, acquisition, or sale of all or a portion of
 
 All of your Personal Information remains private and confidential. The security of your Personal Information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, the BambooHR web application owned and operated by BambooHR, or the services offered by BambooHR through the website and apps, please contact us using the contact information below.
+We follow generally accepted standards to protect Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, however, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, the BambooHR® web application owned and operated by BambooHR, or the Services, please contact us using the contact information below.
 
-BambooHR and its representatives will never request your account credentials. You should never share your BambooHR account information with anyone else, including your username and password. We recommend that you use a unique password for your BambooHR account that is not associated with other websites. You should check your BambooHR account regularly to ensure that your Personal Information has not been tampered with or altered.
+BambooHR and its representatives will never request your account credentials. You should never share your BambooHR account information, including your username and password, with anyone else. We recommend that you use a unique password for your BambooHR account that is not associated with other websites. You should check your BambooHR account regularly to ensure that your Personal Information has not been tampered with or altered.
 
 Any suspicious activity regarding your account, including automated messages or calls from parties you cannot identify, should be reported to your site administrator and BambooHR using the contact information below.
 
 #### How We May Contact You.
 
-BambooHR will send a welcome email to account holders for billing purposes, and at times will send BambooHR service-related announcements. You cannot opt out of service related emails if you are an account holder, as this is part of the BambooHR Services. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in each of these emails, or you can contact us using the contact information below.
+BambooHR will send a welcome email to account holders for billing purposes, and at times will send BambooHR service-related announcements. You cannot opt out of service related emails if you are an account holder, as this is part of the BambooHR® Services. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in each of these emails, or you can contact us using the contact information below.
 
 #### Correcting, Updating, Amending and Removing Your Personal Information.
 
-You may correct, update, amend, or remove Personal Information by making the change on our member information page, our [contact us](https://web.archive.org/contact.php) page, by telephone or postal mail at the contact information listed below. If you no longer desire to use our Services, you may deactivate the Services by contacting us by telephone or postal mail at the contact information listed below. You may withdraw your consent to our processing of your Personal Information at any time by contacting us using the contact information below, but that will mean we can no longer provide the Services to you. We will respond to your requests regarding changes to Personal Information or Service changes promptly, but in any event within 30 days of your call or receipt of your request.
+You may correct, update, amend, or remove Personal Information by making the change on our member information page, sending a request to us through our [contact us](https://web.archive.org/contact.php) page, by telephone or postal mail at the contact information listed below. If you no longer desire to use our Services, you may deactivate the Services by contacting us by telephone or postal mail at the contact information listed below. You may withdraw your consent to our processing of your Personal Information at any time by contacting us using the contact information below, but that will mean we can no longer provide the Services to you. We will respond to your requests regarding changes to Personal Information or Service changes within 30 days of your call or receipt of your request.
 
 #### Retention of Personal Information.
 
@@ -69,7 +69,7 @@ Notwithstanding anything in this Privacy Policy to the contrary, we will retain 
 
 #### Cookies.
 
-BambooHR uses a technology called "cookies" to store session information. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use Session Cookies to track your Login status. This cookie is only ever transmitted over HTTPS. A persistent cookie remains on your hard drive for an extended period of time. We use Persistent Cookies to determine from where you were referred to our website, as well as the last user ID that you used to log in. BambooHR may set and access BambooHR cookies on your computer; cookies are required to use the BambooHR Services. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. [Click here for more information on cookies](http://www.allaboutcookies.org/), including how to disable them. If you disable cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+BambooHR uses a technology called "cookies" to store session information. A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your computer's hard drive. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use Session Cookies to track your Login status. This cookie is only ever transmitted over HTTPS. A persistent cookie remains on your hard drive for an extended period of time. We use Persistent Cookies to determine from where you were referred to our website, as well as the last user ID that you used to log in. BambooHR may set and access BambooHR® cookies on your computer; cookies are required to use the BambooHR® Services. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. [Click here for more information on cookies](http://www.allaboutcookies.org/), including how to disable them. If you disable cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
 The use of cookies by our partners and affiliates is not covered by this Privacy Policy. We do not have access or control over those cookies. Our partners and affiliates use session ID and persistent cookies to better gauge interest in our Services.
 
@@ -77,7 +77,7 @@ Currently, various browsers offer a “do not track” or “DNT” option which
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not directly identify individual users, to analyze trends, to administer the site, to track Visitors’ and Users’ movements around the website and to gather non identifiable, demographic information about our user base as a whole. We link this automatically-collected data to Personal Information so that we can better gauge our Visitors’ and Users’ needs and provide specific information to best serve them.
 
-We partner with third party ad networks to manage our advertising on other sites. Our ad network partners uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [preferences-mgr.truste.com](http://preferences-mgr.truste.com/).
+We partner with third party ad networks to manage our advertising on other sites. Our ad network partners use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [preferences-mgr.truste.com](http://preferences-mgr.truste.com/).
 
 We also use Google Advertising Networks to publish advertising on other sites. When you view or click on an ad, a cookie will be set to help better provide advertisements that may be of interest to you on this and other websites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).
 
@@ -87,7 +87,7 @@ Our website includes links to other websites whose privacy practices may differ 
 
 #### Publicly Accessible Parts of Our Website and Social Media Features.
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, please contact us using the contact information below.
+Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, please contact us using the contact information below.
 
 We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the contact information below.
 
@@ -99,7 +99,7 @@ BambooHR may update this Privacy Policy from time to time, and will notify accou
 
 #### Contact Information.
 
-For questions related to this Privacy Policy, or to correct, update, amend or request that we remove, your Personal Information, please contact _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ or at:
+For questions related to this Privacy Policy, or to correct, update, amend or request that we remove your Personal Information, or to contact BambooHR’s Data Protection Officer, please contact _privacy@bamboohr.com_ or at:
 
 Bamboo HR LLC  
 335 South 560 West  
@@ -117,7 +117,7 @@ Wherever you use our website or access our Services, you understand and acknowle
 
 BambooHR complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland to the United States, respectively. BambooHR has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov.](https://www.privacyshield.gov/)
 
-BambooHR’s participation in the Privacy Shield applies to all Personal Information that is subject to this Privacy Policy and is received from individuals who are resident in the European Union, European Economic Area and Switzerland. BambooHR will comply with the Privacy Shield Principles in respect of such Personal Information.
+BambooHR’s participation in the Privacy Shield applies to all Personal Information that is subject to this Privacy Policy and is received from individuals who are residents of the European Union, European Economic Area and Switzerland. BambooHR will comply with the Privacy Shield Principles in respect of such Personal Information.
 
 BambooHR’s accountability for Personal Information that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles located at <https://www.privacyshield.gov/EU-US-Framework>. In particular, BambooHR remains responsible and liable under the Privacy Shield Principles if third party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless BambooHR proves that it is not responsible for the event giving rise to the damage.
 
@@ -131,9 +131,9 @@ Have more questions? We're here to help, so please [contact us.](https://web.arc
 
 * * *
 
-##### Information Related to Data Collected through the BambooHR Services.
+##### Information Related to Data Collected through the BambooHR® Services.
 
-BambooHR collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. 
+BambooHR collects information under the direction of its Clients and has no direct relationship with the individuals whose personal data it processes. 
 
 ##### Access to Data Controlled by our Clients
 
