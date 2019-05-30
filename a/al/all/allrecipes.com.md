@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124064121id_/http%3A//www.meredith.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530095206id_/http%3A//www.meredith.com/legal/privacy) for the most accurate reproduction.*
 
 # Meredith Privacy Policy | Meredith
 
