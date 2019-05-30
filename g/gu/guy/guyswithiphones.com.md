@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guyswithiphones.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127024621id_/http%3A//guyswithiphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyswithiphones.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530111333id_/http%3A//guyswithiphones.com/privacy) for the most accurate reproduction.*
 
 # Guys With iPhones
 
 ## Privacy Policy
 
-This statement covers the site [GuysWithiPhones.com](http://guyswithiphones.com/) (GuysWithiPhones), a subsidiary of the QueerClick Network. Please read this statement carefully before proceeding to access the QueerClick Network. Your use of the QueerClick Network indicates your agreement to abide by the Terms in effect.
+This statement covers the site [GuysWithiPhones.com](https://guyswithiphones.com/) (GuysWithiPhones), a subsidiary of the QueerClick Network. Please read this statement carefully before proceeding to access the QueerClick Network. Your use of the QueerClick Network indicates your agreement to abide by the Terms in effect.
 
 ### Information Collection
 
