@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702022106id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedaffluence.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530175729id_/http%3A//www.unlimitedaffluence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Internet Marketing Experts
 
@@ -42,7 +42,7 @@ We reserve the right to amend this privacy policy at any time with or without no
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
  **  
-[Contact](http://www.unlimitedaffluence.com/contact/)**
+[Contact](https://www.unlimitedaffluence.com/contact/)**
 
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
