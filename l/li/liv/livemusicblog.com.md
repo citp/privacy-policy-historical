@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livemusicblog.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127130348id_/https%3A//livemusicblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemusicblog.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530152952id_/https%3A//livemusicblog.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# LIVE music blog Privacy Policy ~ LIVE music blog
 
 We at LIVE music blog (“LIVE music blog,” “we,” “us,” or “our”) created this privacy policy (“Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of LIVE music blog in connection with our website located at https://www.LIVEmusicblog.com/ (the “Site”), and the Service.
 
@@ -53,10 +53,10 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 <http://optout.networkadvertising.org/#!/>  
 How to contact us
 
-If you have questions about this Privacy Policy, please email us at vibes@livemusicblog.com, “PRIVACY POLICY” in the subject line, or mail us at the following address:
+If you have questions about this Privacy Policy, please email us at [[email protected]](https://livemusicblog.com/cdn-cgi/l/email-protection), “PRIVACY POLICY” in the subject line, or mail us at the following address:
 
 **LIVE music blog**  
-1037 Robinson Ave.  
+122 Thorn Street  
 San Diego, CA 92103
 
-Last updated: January 26, 2018
+Last updated: November 16, 2018
