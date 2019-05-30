@@ -1,11 +1,27 @@
-<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2018-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180520020633id_/http%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theinfiniteactuary.com privacy policy that was archived on 2019-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190530161517id_/https%3A//www.theinfiniteactuary.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=""><head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=980">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy Policy - The Infinite Actuary</title>
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#56bd31">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="theme-color" content="#ffffff">
+  <link media="all" rel="stylesheet" href="/css/msg.css?v=1543395205">
+  <link media="all" rel="stylesheet" href="/css/main.css?v=1557893683">
+  <link media="all" rel="stylesheet" href="/css/libs/jbox/jBox.all.css?v=1545878894">
+  <link media="all" rel="stylesheet" href="/css/rider.css?v=1557893683">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.12.4.min.js"></script>
+
+  <script src="https://use.typekit.net/qfs7pou.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
 
 <script type="text/javascript">
 // Initialize Firebase
@@ -42,20 +58,17 @@ function logoutHook() {
   
   
   
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.9.2.custom.min.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/jquery.main.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/font.fix.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/sessions.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/user.preferences.js?v=1477871751"></script>
-<script type="text/javascript" src="/js/registration.js?v=1477871751"></script>
+<script defer="" type="text/javascript" src="/js/tia.main.js?v=1553533670"></script>
+<script defer="" type="text/javascript" src="/js/jquery.main.1.js?v=1545882506"></script>
+<script defer="" type="text/javascript" src="/js/libs/jcf/jcf.js?v=1543395205"></script>
+<script defer="" type="text/javascript" src="/js/libs/jcf/jcf.scrollable.js?v=1543395205"></script>
 <script type="text/javascript">
 
 
 var currentFbUID = null;
 var uref = null;
+var practiceref = null;
 var listeningFirebaseRefs2 = [];
-
 
 function cleanupLessonUiFb() {
   for (var k in listeningFirebaseRefs2) {
@@ -79,7 +92,9 @@ function initLessonRootFb() {
     if (user) {
       currentFbUID = user.uid;
       uref = lesson_fbapp.database().ref('users');
+      practiceref = lesson_fbapp.database().ref('practice');
       initLessonUserInfoFb();
+      initLessonUserPracticeInfoFb();
     }
     else {
       currentFbUID = null;
@@ -107,7 +122,6 @@ function updateWtCountFb(snap) {
   pullLessonInfoFb(snap.key);
 }
 
-
 function pullLessonInfoFb(lid) {
   var mk = '_' + lid;
   if (!listeningFirebaseRefs2[mk]) {
@@ -122,7 +136,6 @@ function pullLessonInfoFb(lid) {
       
   }
 }
-
 function updateWtCountFbUi(snap) {
   var lid = snap.key;
   var clearAnchor = false;
@@ -139,7 +152,7 @@ function updateWtCountFbUi(snap) {
 
   var cuedLid = lessonOffset['t' + tabOffset];
   if (cuedLid == lid) {
-  console.log('in cue event ' + lid + ',' + cuedLid);
+    console.log('in cue event ' + lid + ',' + cuedLid);
     setBlockTitleAndTime(cuedLid);
   }   
 
@@ -149,11 +162,56 @@ function updateWtCountFbUi(snap) {
   }
   if (clearAnchor) {
     jQuery('#lesson-anchor-check-holder-' + lid).removeClass('check');
+    delete fbWatchList['l_' + lid];
   }
   else {
     jQuery('#lesson-anchor-check-holder-' + lid).addClass('check');
+    fbWatchList['l_' + lid] = lid;
+  }
+
+
+  if (typeof window['setProgressBarDelay'] !== 'undefined') {
+//     console.log('        call back progress bar... TODO' + lid);
+   //
+   // TODO set this on a mutexed timer so it's not called
+   // too many times on page load when FB calls back for each lesson
+   setProgressBarDelay();
+  }  
+ 
+  
+}
+
+
+function initLessonUserPracticeInfoFb() {
+  if (typeof window['addLivePracticeResponse'] === 'undefined') {
+    console.log('error action listener not present');
+    return;
+  }
+
+  if (!fbLivePractice) {
+    // firebase not active
+    return;
   }
   
+  if (!currentFbUID) {
+    return;
+  }
+  var hh2 = 'userpracticeroot';
+  var uui3 = practiceref.child('problemResponses')
+    .orderByChild('userId').equalTo(currentFbUID);
+  if (!listeningFirebaseRefs2[hh2]) {
+    listeningFirebaseRefs2[hh2] = {name: hh2,  handle: uui3};
+    uui3.on('child_added', updatePrtResponseFb);
+    uui3.on('child_removed', updatePrtResponseFb);
+  }
+}
+
+
+function updatePrtResponseFb(snap) {
+  var data = snap.val();
+  if (data && data['problemId'] !== 'undefined') {
+    addLivePracticeResponse(data['problemId']);
+  }
 }
 
 
@@ -184,260 +242,366 @@ function uResult2(err) {
 </script>
 
 
-<!--[if IE]><script type="text/javascript" src="/js/ie.js?v=1477871751"></script><![endif]-->
 
-<style type="text/css" media="screen"> @import url(/css/smoothness-1.9/jquery-ui-1.9.2.custom.css); </style>
-<link media="all" rel="stylesheet" type="text/css" href="/css/all.css?v=1497964523">
-<link media="all" rel="stylesheet" type="text/css" href="/css/rider.css?v=1510423127">
-<link media="all" rel="stylesheet" type="text/css" href="/css/msg.css?v=1477871751">
-<link media="all" rel="stylesheet" type="text/css" href="/css/cart.css?v=1477871751">
-
-<link media="print" type="text/css" rel="stylesheet" href="/css/print.css?v=1477871751">
-<link media="print" type="text/css" rel="stylesheet" href="/css/print_rider.css?v=1477871751">
-<link type="text/css" rel="stylesheet" href="/css/jquery.qtip.min.css">
-
-
-<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-
-
-<script type="text/javascript">
-  jQuery(document).ready(function () {
-    
-    if (jQuery('#wrapper').length) {
-      jQuery('#wrapper').show();
-    }
-    if (jQuery('#main').length 
-        && jQuery('.home-page').length == 0
-        && jQuery('.landing-window').length == 0
-        && jQuery('#intro-holder').length == 0) {
-      var adj = 318;
-
-      if (jQuery('.header-mobile-link').length) {
-        adj = 355;
-      }
-      
-      var hh = jQuery(window).outerHeight();
-      var offset = jQuery('#main').outerHeight();
-      var h2 = hh - adj;
-      
-      var diff = h2 - offset;
-      if (diff > 0 && hh > adj) {
-        jQuery('#main').css('min-height', (hh - adj) + 'px');
-      }
-    }
-
-  });
-</script>  
-<style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css">.js-tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
-<body class="fonts">
-  <div id="wrapper" style="">
-    <header id="header">
-  <div class="header-holder">
-    <strong class="logo "><a href="/">The Infinite Actuary</a></strong>
-    <img class="print-logo" src="/images/logo.png" width="322" height="69" alt="The Infinite Actuary">
-      
-      <a class="sing-in" href="/login"><span>Sign In</span></a>
-      <nav id="nav">
-    <ul>
-  <li class="has-drop-down"><a href="#" class="has-drop-down-a">Products</a>
-    <div class="drop">
-      <ul class="drop-area same-height-left" style="">
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/1">P</a></li>
-              <li><a href="/exams/2">FM</a></li>
-              <li><a href="/exams/10">MLC</a></li>
-              <li><a href="/exams/3">MFE</a></li>
-              <li><a href="/exams/44">IFM</a></li>
-              <li><a href="/exams/4">C</a></li>
-              <li><a href="/exams/43">STAM</a></li>
-              <li><a href="/exams/45">LTAM</a></li>
+<script defer="" src="/js/document.ready.js?v=1557893527"></script>
+  
+<style type="text/css">.js-slide-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body>
+  <div id="wrapper">
+            <header id="header">
+      <div class="container">
+        <div class="nav-area">
+          <strong class="logo">
+            <a href="/"><img src="/images/tia_logo-final_full2.png" alt="The Infinite Actuary"></a>
+          </strong>
+          <a href="#" class="nav-opener"></a>
+          <nav id="nav" style="display: none;">
+            <ul class="btns-list visible-mobile">
+              <li><a href="/login" onclick="if (typeof window['logoutHook'] !== 'undefined') {logoutHook();}; return true;" class="btn-primary btn-signin">Sign In</a></li>
             </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/1">P</a></li>
-              <li><a href="/exams/2">FM</a></li>
-              <li><a href="/exams/3">MFE</a></li>
-              <li><a href="/exams/44">IFM</a></li>
-              <li><a href="/exams/35">MAS-I</a></li>
-              <li><a href="/exams/4">C</a></li>
-              <li><a href="/exams/6">Exam 5</a></li>
-              <li><a href="/exams/8">Exam 6</a></li>
+            <ul class="menu2 ">
+                            <li class="visible-mobile "><a href="/">home</a></li>
+              <li class="hidden-mobile ">
+                <a href="#" class="menu-opener" id="menu-link-crs">
+                  Courses <i class="icon icon-chevron-down"></i>
+                </a>
+                <div class="mega-menu">
+                  <div class="container">
+                    <ul class="tabset">
+                      <li class="active">
+                        <a href="#tab1-0">Preliminary</a>
+                      </li>
+                      <li>
+                        <a href="#tab2-0">SOA</a>
+                      </li>
+                      <li>
+                        <a href="#tab3-0">CAS</a>
+                      </li>
+                      <li>
+                        <a href="#tab4-0">Additional Skills</a>
+                      </li>
+                    </ul>
+                    <div class="tab-content">
+                      <div id="tab1-0" class="active">
+                        <div class="tab-wrap">
+                          <div class="row-holder">
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="P">
+                                  <strong class="title">P</strong>
+                                  <span class="detail">Probability</span>
+                                </li>
+                                <li data-eid="FM">
+                                  <strong class="title">FM</strong>
+                                  <span class="detail">Financial Mathematics</span>
+                                </li>
+                                <li data-eid="IFM">
+                                  <strong class="title">IFM</strong>
+                                  <span class="detail">Investment and Financial Markets</span>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="LTAM">
+                                  <strong class="title">LTAM</strong>
+                                  <span class="detail">Long Term Actuarial Mathematics</span>
+                                </li>
+                                <li data-eid="STAM">
+                                  <strong class="title">STAM</strong>
+                                  <span class="detail">Short Term Actuarial Mathematics</span>
+                                </li>
+                                <li data-eid="SRM">
+                                  <strong class="title">SRM</strong>
+                                  <span class="detail">Statistics for Risk Modeling</span>
+                                </li>
+                                <li data-eid="MAS">
+                                  <strong class="title">MAS-I</strong>
+                                  <span class="detail">Modern Actuarial Statistics</span>
+                                </li>
+                                <li data-eid="MAS2">
+                                  <strong class="title">MAS-II</strong>
+                                  <span class="detail">Modern Actuarial Statistics</span>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="foot">
+                            <a href="/courses" class="link"><i class="icon icon-grid"></i>View All Courses</a>
+                          </div>
+                        </div>
+                      </div>
+                      <div id="tab2-0" class="js-tab-hidden">
+                        <div class="tab-wrap">
+                          <div class="row-holder">
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="LP">
+                                  <strong class="title">ILA LPM</strong>
+                                  <span class="detail">Life Product Management</span>
+                                </li>
+                                <li data-eid="LFV">
+                                  <strong class="title">ILA LFV-US</strong>
+                                  <span class="detail">Life Finance &amp; Valuation - US</span>
+                                </li>
+                                <li data-eid="LFVc">
+                                  <strong class="title">ILA LFV-Canada</strong>
+                                  <span class="detail">Life Finance &amp; Valuation - Canada</span>
+                                </li>
+                                <li data-eid="LRM">
+                                  <strong class="title">ILA LAM</strong>
+                                  <span class="detail">Life ALM and Modeling</span>
+                                </li>
+                                <li data-eid="ERM">
+                                  <strong class="title">ERM</strong>
+                                  <span class="detail">Enterprise Risk Management</span>
+                                </li>
+                                <li data-eid="QFIquant">
+                                  <strong class="title">QFI Quant</strong>
+                                  <span class="detail">QFI Quantitative Finance</span>
+                                </li>
+                                <li data-eid="QFIadv">
+                                  <strong class="title">QFI PM</strong>
+                                  <span class="detail">QFI Portfolio Management</span>
+                                </li>
+                                <li data-eid="QFIIRM">
+                                  <strong class="title">QFI IRM</strong>
+                                  <span class="detail">QFI Investment Risk Management</span>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="GHdp">
+                                  <strong class="title">GH DP</strong>
+                                  <span class="detail">Group &amp; Health Design and Pricing</span>
+                                </li>
+                                <li data-eid="GHfv">
+                                  <strong class="title">GH FV</strong>
+                                  <span class="detail">Group &amp; Health Finance and Valuation</span>
+                                </li>
+                                <li data-eid="GHdpc">
+                                  <strong class="title">GH DP-C + FV-C</strong>
+                                  <span class="detail">Group &amp; Health DP-C + FV-C Exam</span>
+                                </li>
+                                <li data-eid="GHdpa">
+                                  <strong class="title">GH DP-A + FV-A</strong>
+                                  <span class="detail">Group &amp; Health DP-A + FV-A Exam</span>
+                                </li>
+                                <li data-eid="GHspec">
+                                  <strong class="title">GH Specialty</strong>
+                                  <span class="detail">Group &amp; Health Specialty</span>
+                                </li>
+                                <li data-eid="EA1">
+                                  <strong class="title">EA 1</strong>
+                                  <span class="detail">Compound Interest, Life Contingencies, Demographic Analysis</span>
+                                </li>
+                                <li data-eid="EA2L">
+                                  <strong class="title">EA 2L</strong>
+                                  <span class="detail">Pension Law</span>
+                                </li>
+                                <li data-eid="EA2F">
+                                  <strong class="title">EA 2F</strong>
+                                  <span class="detail">Pension Funding</span>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="foot">
+                            <a href="/courses" class="link"><i class="icon icon-grid"></i>View All Courses</a>
+                          </div>
+                        </div>
+                      </div>
+                      <div id="tab3-0" class="js-tab-hidden">
+                        <div class="tab-wrap">
+                          <div class="row-holder">
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="Exam5">
+                                  <strong class="title">Exam 5</strong>
+                                  <span class="detail">Basic Techniques for Ratemaking and Estimating Claim Liabilities</span>
+                                </li>
+                                <li data-eid="Exam6">
+                                  <strong class="title">Exam 6</strong>
+                                  <span class="detail">Regulation and Financial Reporting</span>
+                                </li>
+                                <li data-eid="Exam7">
+                                  <strong class="title">Exam 7</strong>
+                                  <span class="detail">Estimation of Policy Liabilities, Insurance Company Valuation, and Enterprise Risk Management</span>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="Exam8">
+                                  <strong class="title">Exam 8</strong>
+                                  <span class="detail">Advanced Ratemaking</span>
+                                </li>
+                                <li data-eid="Exam9">
+                                  <strong class="title">Exam 9</strong>
+                                  <span class="detail">Financial Risk and Rate of Return</span>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="foot">
+                            <a href="/courses" class="link"><i class="icon icon-grid"></i>View All Courses</a>
+                          </div>
+                        </div>
+                      </div>
+                      <div id="tab4-0" class="js-tab-hidden">
+                        <div class="tab-wrap">
+                          <div class="row-holder">
+                            <div class="col">
+                              <ul class="list-holder">
+                                <li data-eid="skills">
+                                  <strong class="title">TSC</strong>
+                                  <span class="detail">Technical Skills Course</span>
+                                </li>
+                                <li data-eid="R">
+                                  <strong class="title">R</strong>
+                                  <span class="detail">R Predictive Analytics Course</span>
+                                </li>
+                                <li data-eid="databases">
+                                  <strong class="title">DTP</strong>
+                                  <span class="detail">Database Theory and Practice for Actuarial Analysis</span>
+                                </li>
+                                <li data-eid="mia_online">
+                                  <strong class="title">MIA</strong>
+                                  <span class="detail">Micro Insurance Academy</span>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div class="foot">
+                            <a href="/courses" class="link"><i class="icon icon-grid"></i>View All Courses</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li class="visible-mobile "><a href="/courses">courses</a></li>
+              <li><a href="/apps">apps</a></li>
+              <li><a href="/about">about</a></li>
+                            <li class="visible-mobile "><a href="/support">Contact Us</a></li>
+              <li class="hidden-mobile"><a href="/login" onclick="if (typeof window['logoutHook'] !== 'undefined') {logoutHook();}; return true;" class="btn-primary btn-signin">Sign In</a></li>
             </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/26">ERM</a></li>
-              <li><a href="/exams/7">Exam 7</a></li>
-              <li><a href="/exams/9">Exam 9</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/17">ILA LP</a></li>
-              <li><a href="/exams/13">ILA LFV - U</a></li>
-              <li><a href="/exams/14">ILA LFV - C</a></li>
-              <li><a href="/exams/36">ILA LRM</a></li>
-              <li><a href="/exams/26">ERM</a></li>
-              <li><a href="/exams/12">QFI - Core</a></li>
-              <li><a href="/exams/38">QFI - Adv</a></li>
-              <li><a href="/exams/40">QFI - IRM</a></li>
-              <li><a href="/exams/19">GH - Core</a></li>
-              <li><a href="/exams/15">GH - Adv</a></li>
-              <li><a href="/exams/32">GH - Specialty</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/6">Exam 5</a></li>
-              <li><a href="/exams/8">Exam 6</a></li>
-              <li><a href="/exams/7">Exam 7</a></li>
-              <li><a href="/exams/24">Exam 8</a></li>
-              <li><a href="/exams/9">Exam 9</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/exams/20">1</a></li>
-              <li><a href="/exams/21">2L</a></li>
-              <li><a href="/exams/22">2F</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area same-height-right" style="">
-            <ul>
-              <li><a href="/skills">TSC</a></li>
-              <li><a href="/databases">Databases</a></li>
-              <li><a href="/R">R Course</a></li>
-              <li><a href="/mia_online">MIA</a></li>
-            </ul>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </li>
-  <li class="has-drop-down"><a href="#" class="has-drop-down-a">Lessons</a>
-    <div class="drop">
-      <ul class="drop-area same-height-left" style="">
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ASA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/1">P</a></li>
-              <li><a href="/lessons/2">FM</a></li>
-              <li><a href="/lessons/10">MLC</a></li>
-              <li><a href="/lessons/3">MFE</a></li>
-              <li><a href="/lessons/44">IFM</a></li>
-              <li><a href="/lessons/4">C</a></li>
-              <li><a href="/lessons/43">STAM</a></li>
-              <li><a href="/lessons/45">LTAM</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>ACAS</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/1">P</a></li>
-              <li><a href="/lessons/2">FM</a></li>
-              <li><a href="/lessons/3">MFE</a></li>
-              <li><a href="/lessons/44">IFM</a></li>
-              <li><a href="/lessons/35">MAS-I</a></li>
-              <li><a href="/lessons/4">C</a></li>
-              <li><a href="/lessons/6">Exam 5</a></li>
-              <li><a href="/lessons/8">Exam 6</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>CERA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/26">ERM</a></li>
-              <li><a href="/lessons/7">Exam 7</a></li>
-              <li><a href="/lessons/9">Exam 9</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FSA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/17">ILA LP</a></li>
-              <li><a href="/lessons/13">ILA LFV - U</a></li>
-              <li><a href="/lessons/14">ILA LFV - C</a></li>
-              <li><a href="/lessons/36">ILA LRM</a></li>
-              <li><a href="/lessons/26">ERM</a></li>
-              <li><a href="/lessons/12">QFI - Core</a></li>
-              <li><a href="/lessons/38">QFI - Adv</a></li>
-              <li><a href="/lessons/40">QFI - IRM</a></li>
-              <li><a href="/lessons/19">GH - Core</a></li>
-              <li><a href="/lessons/15">GH - Adv</a></li>
-              <li><a href="/lessons/32">GH - Specialty</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>FCAS</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/6">Exam 5</a></li>
-              <li><a href="/lessons/8">Exam 6</a></li>
-              <li><a href="/lessons/7">Exam 7</a></li>
-              <li><a href="/lessons/24">Exam 8</a></li>
-              <li><a href="/lessons/9">Exam 9</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>EA</span></a>
-          <div class="drop-frame drop-area" style="">
-            <ul>
-              <li><a href="/lessons/20">1</a></li>
-              <li><a href="/lessons/21">2L</a></li>
-              <li><a href="/lessons/22">2F</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="has-drop-down"><a href="#" class="has-drop-down-a"><span>SKILLS</span></a>
-          <div class="drop-frame drop-area same-height-right" style="">
-            <ul>
-              <li><a href="/lessons/33">TSC</a></li>
-              <li><a href="/lessons/34">Databases</a></li>
-              <li><a href="/lessons/41">R Course</a></li>
-              <li><a href="/lessons/39">MIA</a></li>
-            </ul>
-          </div>
-        </li>        
-      </ul>
-    </div>
-  </li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/support">Support</a></li>
-  </ul>
-    </nav>
-        
-  </div>
-</header>    <section class="promo-block">
-      <div class="promo-block-holder">
-        <div class="promo-block-frame frame2">
-          <hgroup class="title title-2">
-            <h1>Privacy Policy</h1>
-          </hgroup>
+          </nav>
         </div>
       </div>
-    </section>
-    <div id="main">
-      <section class="contact-holder privacy-form">
-        <div class="holder">
-          
+    </header>
+    
+    <div class="popup-holder">    
+      <div id="mpopup999" class="lightbox lightbox-bg-clear">
+        <form class="popup-form" action="#">
+          <h1>Select your preference for video playback:</h1>
+          <ul class="radio-list">
+            <li>
+              <div class="radio-holder">
+                <label for="flash2" class="radio-label">
+                  <input id="flash2" type="radio" name="radio2">
+                  <span class="fake-input"></span>
+                  <span class="text">Flash / HTML5</span>
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="radio-holder">
+                <label for="media2" class="radio-label">
+                  <input id="media2" type="radio" name="radio2">
+                  <span class="fake-input"></span>
+                  <span class="text">Windows Media Player</span>
+                </label>
+              </div>
+            </li>
+          </ul>
+          <div class="btn-holder">
+            <a class="btn-default" href="javascript:parent.$.fancybox.close();">cancel</a>
+            <button type="button" class="btn-primary" onclick="menuPostVideoFormat(); parent.$.fancybox.close();">submit</button>
+          </div>
+        </form>
+      </div>  
+      <div id="mpopup998" class="lightbox lightbox-bg-clear">
+        <form class="popup-form" action="#">
+          <h1>Select your preference for viewing TIA forums</h1>
+          <ul class="radio-list">
+            <li>
+              <div class="radio-holder">
+                <label for="same2" class="radio-label">
+                  <input id="same2" type="radio" name="radio">
+                  <span class="fake-input"></span>
+                  <span class="text">Same window</span>
+                  <span class="sub-text">Open forums in this <br>same window</span>
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="radio-holder">
+                <label for="new2" class="radio-label">
+                  <input id="new2" type="radio" name="radio" checked="checked">
+                  <span class="fake-input"></span>
+                  <span class="text">New window</span>
+                  <span class="sub-text">View each forum in <br>a separate window</span>
+                </label>
+              </div>
+            </li>
+          </ul>
+          <div class="btn-holder">
+            <a class="btn-default" href="javascript:parent.$.fancybox.close();">cancel</a>
+            <button type="button" class="btn-primary" onclick="menuPostForumLayout(); parent.$.fancybox.close();">submit</button>
+          </div>
+        </form>
+      </div>
+      <div id="mpopup997" class="lightbox lightbox-bg-clear">
+        <form class="popup-form" action="#">
+          <h1>Select your color preference for the study page</h1>
+          <ul class="radio-list">
+            <li>
+              <div class="radio-holder">
+                <label for="color2" class="radio-label">
+                  <img src="/images/scheme2.png" width="80">              
+                  <input id="color2" type="radio" name="radio">
+                  <span class="fake-input"></span>
+                  <span class="text">Light</span>
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="radio-holder">
+                <label for="color1" class="radio-label">
+                  <img src="/images/scheme1.png" width="80">              
+                  <input id="color1" type="radio" name="radio" checked="checked">
+                  <span class="fake-input"></span>
+                  <span class="text">Standard</span>
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="radio-holder">
+                <label for="color3" class="radio-label">
+                  <img src="/images/scheme3.png" width="80">              
+                  <input id="color3" type="radio" name="radio">
+                  <span class="fake-input"></span>
+                  <span class="text">Dark</span>
+                </label>
+              </div>
+            </li>
+          </ul>
+          <div class="btn-holder">
+            <a class="btn-default" href="javascript:parent.$.fancybox.close();">cancel</a>
+            <button type="button" class="btn-primary" onclick="menuPostColorTheme(); parent.$.fancybox.close();">submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+
+    
+    <main id="main">
+      <section id="terms" class="top-lined bottom-lined">
+        <div class="container">
           
 <h3>Privacy Statement</h3>
 <p>
@@ -544,7 +708,7 @@ without identifying individual visitors. You can opt out of Google Analytics
 without affecting how you visit our site - for more information on opting out 
 of being tracked by Google Analytics across all websites you use, visit this
  Google page: 
-<a target="_blank" href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>
+<a target="_blank" class="with-underline" href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>
 </p>
 
 
@@ -731,35 +895,31 @@ Updated 8/12/2014
 
 
 
+
+          
+    
         </div>
       </section>
-    </div>
-    <footer id="footer">
-	<div class="footer-holder">
-		<div class="nav-area">
-			<ul class="social-networks">
-				<li>
-					<a href="https://www.facebook.com/TheInfiniteActuary" class="facebook" target="_blank">Facebook</a>
-				</li>
-				<li>
-          <a href="http://twitter.com/TheInfiniteAct" class="twitter" target="_blank">twitter</a>
-				</li>
-			</ul>
-			<nav class="add-nav">
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/support">Support</a></li>
-					<li><a href="/terms">Terms</a></li>
-					<li><a href="/cancellation">Cancellation Policy</a></li>
-					<li><a href="/privacy">Privacy</a></li>
-					<li><a href="/sitemap">Site Map</a></li>
-				</ul>
-			</nav>
-		</div>
-		<p>© 2018 The Infinite Actuary, LLC</p>
-	</div>
-</footer>
+    </main>
+    <div class="bottom-block">
+      <div class="container">
+                <footer id="footer">
+          <div class="col-left">
+            <ul class="social-networks">
+              <li><a target="_blank" href="https://www.facebook.com/TheInfiniteActuary" class="icon icon-facebook-official"></a></li>
+              <li><a target="_blank" href="http://twitter.com/TheInfiniteAct" class="icon icon-twitter"></a></li>
+            </ul>
+            <ul class="footer-links">
+              <li><a href="/support">Contact Us</a></li>
+              <li><a href="/apps">Our Apps</a></li>
+              <li><a href="/terms">Terms</a></li>
+              <li><a href="/privacy">Privacy</a></li>
+            </ul>
+          </div>
+          <div class="col-right">
+            <p><a href="/about">© The Infinite Actuary 2019</a></p>
+          </div>
+        </footer>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -770,9 +930,12 @@ Updated 8/12/2014
   ga('create', 'UA-52703502-1', 'auto');
   ga('send', 'pageview');
 
-</script>
+</script>      
+      </div>
+    </div>
   </div>
 
 
 
-<iframe id="font-resize-frame-786" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
+
+</body></html>
