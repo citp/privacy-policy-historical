@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208203035id_/https%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobihealthnews.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530072718id_/https%3A//www.mobihealthnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MobiHealthNews and HIMSS Media | MobiHealthNews
 
