@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubitv.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821131939id_/https%3A//tubitv.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubitv.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530173221id_/https%3A//tubitv.com/static/privacy) for the most accurate reproduction.*
 
 # Watch Free TV & Movies Online | Stream Full Length Videos | Tubi
 
