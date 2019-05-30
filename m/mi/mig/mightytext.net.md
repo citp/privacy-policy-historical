@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121175730id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightytext.net privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530122823id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.*
 
 # MightyText | Privacy
 
