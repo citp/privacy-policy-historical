@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004003839id_/https%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebheaders.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530142848id_/https%3A//www.freewebheaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Effective date: July 15, 2018_
 
-**Free Web Headers** (“us”, “we”, or “our”) operates the https://www.freewebheaders.com website (the “Service”).
+ **Free Web Headers** (“us”, “we”, or “our”) operates the https://www.freewebheaders.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -41,15 +41,15 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  * **Session Cookies.** We use Session Cookies to operate our Service.
-  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-  * **Security Cookies.** We use Security Cookies for security purposes.
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
 
 
 ## Use of Data
 
-**Free Web Headers** uses the collected data for various purposes:
+ **Free Web Headers** uses the collected data for various purposes:
 
   * To provide and maintain the Service
   * To notify you about changes to our Service
@@ -67,13 +67,13 @@ Your information, including Personal Data, may be transferred to — and maintai
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-**Free Web Headers** will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+ **Free Web Headers** will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## Disclosure Of Data
 
 ### Legal Requirements
 
-**Free Web Headers** may disclose your Personal Data in the good faith belief that such action is necessary to:
+ **Free Web Headers** may disclose your Personal Data in the good faith belief that such action is necessary to:
 
   * To comply with a legal obligation
   * To protect and defend the rights or property of **Free Web Headers**
@@ -95,11 +95,9 @@ These third parties have access to your Personal Data only to perform these task
 
 ### Analytics
 
-We may use third-party Service Providers to monitor and analyze the use of our Service.
+We may use third-party Service Providers to monitor and analyze the use of our Service. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-  * **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
-
-
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
 
 ## Links To Other Sites
 
