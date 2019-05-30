@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simple-article10.blogspot.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307093841id_/http%3A//simple-article10.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-article10.blogspot.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530093107id_/http%3A//simple-article10.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Do You Know?
 
