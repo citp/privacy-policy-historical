@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209121332id_/https%3A//myitreturn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530030949id_/https%3A//myitreturn.com/privacy) for the most accurate reproduction.*
 
 # myITreturn- Privacy
 
@@ -16,7 +16,7 @@ Your privacy is important to Skorydov myITreturn. This statement discloses the i
 
 ### Using and Sharing Personal Information
 
-> The following paragraphs describe in more detail how Skorydov myITreturn may use your personal information and with whom we may share it. Depending on the type of Skorydov myITreturn Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from an Skorydov myITreturn Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use.
+> The following paragraphs describe in more detail how Skorydov myITreturn may use your personal information and with whom we may share it. Depending on the type of Skorydov myITreturn Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from an Skorydov myITreturn Web site, your information will be handled as described in such paragraphs as 'Fulfilling Your Transaction Request' and 'No Marketing Use'.
 
 * * *
 
@@ -26,9 +26,9 @@ Your privacy is important to Skorydov myITreturn. This statement discloses the i
 
 * * *
 
-### Marketing Use
+### No Marketing Use
 
-> The information you provide to Skorydov myITreturn on certain Skorydov myITreturn Web sites may also be used by Skorydov myITreturn and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way. You can opt out of such programs.
+> The information you provide to Skorydov myITreturn will not be given to any other third party for any marketing use.
 
 * * *
 
@@ -46,7 +46,7 @@ Your privacy is important to Skorydov myITreturn. This statement discloses the i
 
 ### Information Security and Quality
 
-> We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.
+> Skorydov myITreturn works to protect your personal information and any other information provided from misuse, unauthorized changes or loss by using industry-recognized security safeguard measures. Skorydov myITreturn has carefully developed its security procedures and practices. Skorydov myITreturn maintains electronic and procedural safeguards of information stored. Skorydov myITreturn periodically reviews its security procedures through internal and external resources. Whenever you to transmit sensitive information, such as income tax return details or any credit/debit card information, Skorydov myITreturn supports the encryption of your information as it is transmitted. Skorydov myITreturn employees required to safeguard your information and trained accordingly.
 
 * * *
 
@@ -65,12 +65,6 @@ Your privacy is important to Skorydov myITreturn. This statement discloses the i
 ### Service Quality Monitoring
 
 > Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Skorydov myITreturn's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
-
-* * *
-
-### Online Advertising
-
-> Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers.
 
 * * *
 
