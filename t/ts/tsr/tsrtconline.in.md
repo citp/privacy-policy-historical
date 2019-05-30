@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsrtconline.in privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616111224id_/http%3A//tsrtconline.in/oprs-web/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsrtconline.in privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530092948id_/https%3A//tsrtconline.in/oprs-web/home/privacy.do) for the most accurate reproduction.*
 
 # TSRTC Official Website for Online Bus Ticket Booking - tsrtconline.in
 
