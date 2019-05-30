@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the busbud.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005045200id_/https%3A//www.busbud.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busbud.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530185943id_/https%3A//www.busbud.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Busbud Inc. values your privacy and is committed to protect the personal information of the users of the website [www.busbud.com](https://web.archive.org/web/20181005045200id_/https%3A//www.busbud.com/en/) and the associated mobile application (together the " **Website** ") and the associated services (the " **Services** "). In this Privacy Policy, "Busbud", "we", "us" or "our" means Busbud Inc.
+Busbud Inc. values your privacy and is committed to protect the personal information of the users of the website [www.busbud.com](https://web.archive.org/web/20190530185943id_/https%3A//www.busbud.com/en/) and the associated mobile application (together the " **Website** ") and the associated services (the " **Services** "). In this Privacy Policy, "Busbud", "we", "us" or "our" means Busbud Inc.
 
 To better protect your privacy, we provide this Privacy Policy which explains how we collect, use, share and store your personal information, and how this personal information can be accessed and corrected when necessary.
 
 Please read our Privacy Policy carefully before using the Website and/or Services. By visiting or accessing the Website, using our Services, contacting us or agreeing to receive emails from Busbud, you accept all the terms and conditions of this Privacy Policy. If, at any time, you do not or cannot agree to the terms of the Privacy Policy, you must stop visiting or accessing the Website, using our Services and contacting us.
 
-This Privacy Policy does not extend to websites operated by third parties. Busbud is therefore not liable for their privacy policies, procedures and practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](https://web.archive.org/web/20181005045200id_/https%3A//www.busbud.com/en/about/tos). As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization.
+This Privacy Policy does not extend to websites operated by third parties. Busbud is therefore not liable for their privacy policies, procedures and practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Use](https://web.archive.org/web/20190530185943id_/https%3A//www.busbud.com/en/about/tos). As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization.
 
-For the applicable terms and conditions governing access to and use of the Website including online purchase, please see the [Terms of Use](https://web.archive.org/web/20181005045200id_/https%3A//www.busbud.com/en/about/tos).
+For the applicable terms and conditions governing access to and use of the Website including online purchase, please see the [Terms of Use](https://web.archive.org/web/20190530185943id_/https%3A//www.busbud.com/en/about/tos).
 
 ## INFORMATION COLLECTION AND USE
 
