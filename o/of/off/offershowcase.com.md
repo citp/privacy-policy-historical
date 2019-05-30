@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offershowcase.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012001935id_/http%3A//www.offershowcase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offershowcase.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530235849id_/http%3A//www.offershowcase.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OfferShowcase.com
+# Privacy Policy – Offer Showcase
 
 **Our Privacy Policy (dated 23.5.2018)**
 
