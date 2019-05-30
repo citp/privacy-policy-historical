@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103040404id_/https%3A//plarium.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530215059id_/https%3A//plarium.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Plarium.com
 
