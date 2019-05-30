@@ -1,51 +1,203 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826133839id_/https%3A//www.personalizationmall.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530023738id_/https%3A//www.personalizationmall.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | PersonalizationMall.com
+# Information | PersonalizationMall.com
 
-PersonalizationMall.com, Inc., its related companies and affiliates ("PMall"), has created this Privacy Policy in order to demonstrate our firm commitment to protecting the privacy of our visitors and registered users/members. This Privacy Policy governs PMall's information gathering, use and dissemination practices through the website: www.personalizationmall.com ("Website"), as well as any affiliated websites.
+**Privacy Policy**
 
-PMall does not rent or sell your personally identifiable information for third-party marketing or solicitation purposes.
+This policy describes how PersonalizationMall.com, LLC, and its Affiliates collect, use, and share personal information, unless a particular Affiliate has a different privacy policy posted on its website, in which case that privacy policy shall describe that Affiliate’s collection, use, and sharing of personal information.  The “Affiliates” referred to in this privacy policy mean Bed Bath & Beyond, buybuy BABY, Christmas Tree Shops And That!, Harmon and Harmon Face Values, Cost Plus and Cost Plus World Market, One Kings Lane, Of a Kind, Decorist, Chef Central and such other Affiliates as we may acquire or launch from time to time.
 
-## 1\. What information is collected?
+ ** _Types Of Data We Collect_**.
 
-As detailed below, PMall collects certain information from visitors and registered users of the Website.
+Personal information means information that allows someone to identify or contact you.  Non-personal information means information that does not directly identify you.  We collect both types of information about you. 
 
-The Website uses personalization and order forms for customers to request products and services. During personalization/order submission and fulfillment, PMall collects the customer's personally identifiable and financial information, i.e. names, addresses, phone numbers, email addresses, credit card numbers, PayPal information, etc. ("PII"). Additional information may be collected if you choose to (1) join our email list; (2) register and create an account; (3) participate in the My Personal Rewards program; or (4) participate in the customer review posting program, including: name, date of birth, email address, city, state/province, country, password, password hints, photographs (persona), product review information and other information related to purchases from, and experiences with, PMall.
+The following provides examples of the types of data that we collect about you and how we use the information.
 
-Like most Internet retailers, PMall collects some computer information to enhance its product/service offerings and personally tailored marketing, such as computer configuration; Internet Protocol address; the URL of the website that sent you to PMall's Website; the URL of the website that you went to after leaving PMall's Website; and/or search terms that directed you to our Website. In addition, when you visit our website or one of our business partners' websites, a "cookie" may be placed on your computer that collects information to enhance and personalize PMall's offerings and promotions, and to deliver direct personalized marketing from PMall. To opt out of direct online advertising provided by PMall [click here](http://www.networkadvertising.org/choices/). You can refuse cookies by turning them off in your browser. Last, PMall may receive information about you from other sources and add it to its database.
+Context
 
-## 2\. How is the information shared?
+| 
 
-PMall is not in the business of selling PII and does not rent or sell your PII for third-party marketing or solicitation purposes. PMall may share PII with its business partners and affiliates as part of PMall's marketing, promotion, sale and fulfillment of its products and services. Customer reviews may be published on the Website, viewable by both registered users and visitors and are subject to the Customer Review Posting Policy & Agreement. PMall also may collect, share, sell and use information in aggregate form, but such information will not include PII. Last, PMall may need to disclose PII to government or law enforcement authorities as required by law. Under such circumstances, we will disclose the information upon a good faith belief that is necessary to comply with the order, request, form of legal process, or otherwise defend or exercise PMall's rights.
-
-We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner and its service provider are contractually required to make the data we provide anonymous.
-
-Please visit the Network Advertising Initiative ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)) or the Digital Advertising Alliance ([http://www.aboutads.info/choices](http://www.aboutads.info/choices/)) to learn more about the use of this information by third-party advertising companies or to choose limited use of this information by opting out of interest-based online advertising. Please Note that if you disable the display of personalized ads from these advertising partners, you will continue to receive ads that are less relevant to your interests.
-
-## 3\. How does PersonalizationMall.com protect information collected?
-
-Our website operates with a Secure Sockets Layer (SSL) certificate provided by Verisign, an industry leader in online security. The information exchanged during checkout is encrypted using this SSL protocol. To review details of our relationship with Verisign, click the Verisign logo found at the bottom of any PersonalizationMall.com page.
-
-Your PMall account(s) is password protected. You are responsible for protecting the security of your login information, and PMall cannot protect or secure any information that you send to other users of the Website. Please note that links to third-party websites are not governed by this Privacy Policy, and their practices may differ from those stated in this Privacy Policy. PMall does not endorse, sponsor or represent these third-party websites. It is your sole responsibility to review and understand the privacy policies of these third-parties before submitting any personal information.
-
-## 4\. How can I change my PII?
-
-All registered users can access their profile by visiting [My Account](https://web.archive.org/web/20170826133839id_/https%3A//www.personalizationmall.com/AfterLogin.aspx), and edit their profile at any time. To unsubscribe from our mailing list click the unsubscribe link that is present in all mail messages sent to you or you can email us at [service@PersonalizationMall.com](mailto:service@PersonalizationMall.com?subject=Unsubscribe) with the subject line 'unsubscribe' and we will remove you from the mailing list.
-
-## 5\. How will we update this Privacy Policy?
-
-PMall reserves the right to update, modify or alter this Privacy Policy at any time without prior notice. If the Privacy Policy is changed, we will place a notice on the home page and alter the terms in this Privacy Policy indicating the Privacy Policy has changed. In addition, we may send a notice to the email address provided during the registration process. It is your responsibility to review the Privacy Policy regularly to be familiar with its terms.
-
+Types of Data and Purpose for Collection  
   
+---|---  
+  
+Account Registration
 
+| 
 
-## Contacting PersonalizationMall.com:
+We may collect your name and contact information when you create an account.  
+  
+Demographic Information
 
-If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:
+| 
+
+We may collect personal information from you, such as your age or location.   
+  
+Distance Information
+
+| 
+
+When you use one of our Apps we may collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your distance from a store.   
+  
+Email Interconnectivity
+
+| 
+
+If you receive email from us, we may use certain tools to capture data related to when you open our message, click on any links or banners it contains and make purchases.  
+  
+Employment
+
+| 
+
+If you apply for a job posting, or become an employee, we may collect personal information necessary to process your application.  This may include, among other things, your Social Security Number.  
+  
+Feedback/Support
+
+| 
+
+If you provide us feedback or contact us for support we will collect your name and e-mail address and possibly other personal information, as well as any other content that you send to us in order to reply.  
+  
+Mailing List
+
+| 
+
+When you sign up for one of our mailing lists we may collect your email address or postal address.     
+  
+Mobile Devices
+
+| 
+
+We may collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our stores.  
+  
+Order Placement 
+
+| 
+
+We may collect your name, billing address, shipping address, e-mail address, phone number, and payment card information when you place an order.  
+  
+Partner Promotion
+
+| 
+
+We may collect information that you provide as part of a co-branded promotion with another company.  
+  
+Surveys
+
+| 
+
+When you participate in a survey we may collect additional information that you provide through the survey.  If the survey is provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.   
+  
+Sweepstakes or contests
+
+| 
+
+When you participate in a sweepstakes or contest we may collect information about you which includes contact information to notify you if you are selected.  
+  
+Third Party Tracking
+
+| 
+
+We participate in behavior-based advertising.  This means that a third party may use technology ( _e.g.,_ a cookie (further described below)) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests.  That advertising may appear either on our websites, or on other websites.  You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/) and the [Digital Advertising Alliance](http://optout.aboutads.info/#!/) websites, although to completely prevent advertising based upon your browsing behavior you should also disable the cookies on your browser.  
+  
+Web logs
+
+| 
+
+We may collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet), domain name, click-activity, referring website, and/or a date/time stamp for your visit. In addition to information stored by our servers, we may also use cookies and clear GIFs. Cookies may be removed by following instructions provided by your browser.   
+  
+Cookies
+
+| 
+
+We may use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to your device while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device until you delete them).  Among other things, cookies allow us to provide you with a more personal and interactive experience tailored to your interests and to improve our marketing efforts. Persistent cookies may be removed by following instructions provided by your browser.  If you choose to disable cookies some areas or features of our websites may not work properly.  
+  
+Wedding, baby, and/or Gift Registry
+
+| 
+
+We may collect your name, contact information, shipping address, and information about an event for which you are registering.  
+  
+In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
+
+ ** _Use And Processing Of Your Information._**
+
+In addition to the uses described above, we use your personal information in the following ways: 
+
+·         To identify you when you visit our websites or our stores. 
+
+·         To provide the products and services you request, or to process returns.
+
+·         To improve our services and product offerings.
+
+·         To streamline your checkout process.
+
+·         To conduct analytics.
+
+·         To respond to your inquiries related to support, employment opportunities, or other requests. 
+
+·         To send marketing and promotional materials, including information relating to products, services, sales, or promotions.
+
+·         For internal administrative purposes, as well as to manage our relationship with you.
+
+ ** _Sharing Of Personal Data._**
+
+In addition to the specific situations discussed elsewhere in this policy, we disclose personal information in the following situations:
+
+1.     **Affiliates and Acquisitions**. We may share your personal information with our corporate Affiliates ( _e.g_., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control).  If another company acquires our company, business, or our assets, we will also share your personal information with that company. 
+
+2.     **Other Disclosures with Your Consent.**   We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy.
+
+3.     **Other Disclosures without Your Consent**. We may disclose personal information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws.  We may also share your personal information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third party intermediary.
+
+4.     **Public**.  Some of our websites provide the opportunity to post comments, or reviews, in a public forum.  If you decide to submit information on these pages, that information may be publicly available. 
+
+5.     **Partner Promotion**. We may offer contests, sweepstakes, or other promotions with third party partners.  If you decide to enter a contest, sweepstakes, or promotion that is sponsored by a third party partner the information that you provide will be shared with us and with them.  Their use of your information is not governed by this privacy policy. 
+
+6.     **Service Providers**. We may share your personal information with service providers.  Among other things service providers may help us to administer our website, conduct surveys, provide technical support, and assist in the fulfillment of orders.
+
+7.     **Wedding, Baby, and/or Gift Registry**. Some of our websites provide the opportunity to create public registries where you can indicate to others what types of products you might be interested in receiving.  We share the information that you provide about your event ( _e.g.,_ name, date, location, etc.) with the public to permit others to search for that information. In some cases we may provide you with options to restrict the extent to which that information will be shared.  We may also share your information with third party wedding and gift registry portal sites.  Among other things this provides your guests with additional means of finding your registry and coordinating gifts.
+
+ ** _Your Choices._**
+
+You can make the following choices regarding your Personal Data:
+
+1.     **Promotional Emails**. You may choose to provide us with your email address for the purpose of allowing us to send free newsletters, surveys, offers, and other promotional materials to you.  You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive.  Although we will remove your name from our mailing list after receiving your request within the timeframe permitted by law, you may still receive mailings from us that had been initiated prior to your name being removed.  If you decide not to receive promotional emails, we may still send you transactional communications, such as those about your account, to fulfill orders you have made, to ask you to rate the product you purchased, or other service-related communications. 
+
+2.     **Promotional Mailings.**   If at any time you do not want to receive offers and/or circulars from us you can remove yourself from our mailing lists by emailing us (our contact information is below) with "NO SNAIL MAIL" in the subject line along with your name, address and zip code. Please note that our mailings are prepared in advance of their being sent. Although we will remove your name from our mailing list after receiving your request, you may still receive mailings from us that had been initiated prior to your name being removed.
+
+3.     **Changes To Your Personal Information**. We rely on you to update and correct your personal information.  Most of our websites allow you to modify your account profile.  Note that we may keep historical information in our backup files as permitted by law.  
+
+4.     **Deletion Of Your Personal Data**. Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law.  You may, however, request that we delete your personal information.  All requests must be directed to the contact in the “Contact Information” section below.  We may also decide to delete your data if we believe that the data is incomplete, inaccurate, or that our continued use and storage are contrary to our obligations to other individuals or third parties.  When we delete personal information it will be removed from our active database, but it may remain in archives where it is not practical or possible to delete it. In addition, we may keep your personal information as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+
+5.     **Revocation Of Consent**.  We rely on the processing of personal information that you have provided. If you revoke your consent for the processing of personal information then we may no longer be able to provide you services. In some cases, we may limit or deny your request to revoke consent if the law permits or requires us to do so, or if we are unable to adequately verify your identity. 
+
+6.     **Access To Your Personal Data**. If required by law, upon request, we will grant reasonable access to the personal information that we hold about a user. All requests must be directed to the contact in the “Contact Information” section. 
+
+7.     **Online Tracking.   **We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions. 
+
+8.     **California Residents.**   California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing.  If you are a California resident and would like a copy of such notice, please submit a written request to us using the information in the “Contact Information” section below.
+
+ ** _How We Protect Personal Information_**
+
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
+
+Some of our websites permit you to create an account.  When you do you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.
+
+ ** _Miscellaneous_**
+
+The following additional information relates to our privacy practices:
+
+·         **Transmission Of Data To Other Countries**. If you are a Customer located outside the United States, please be aware that your personal information may be processed in the United States, where privacy laws may be less stringent than the laws in your country.  By submitting your personal information to us you agree to the transfer, storage and processing of your information in the United States. 
+
+·         **Third Party Applications/Websites**.  We have no control over the privacy practices of websites or applications that we do not own. 
+
+·         **Contact Information**.  If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt, where practical, to respond to your requests and to provide you with additional privacy-related information. 
+
+[Service@PersonalizationMall.com](https://www.personalizationmall.com/ContactUs.aspx)
 
 PersonalizationMall.com  
 51 Shore Dr.  
-Burr Ridge, IL 60527  
-Phone: 630-910-6000  
-Fax: 630-910-6006  
-Email: [Service@PersonalizationMall.com](https://web.archive.org/web/20170826133839id_/https%3A//www.personalizationmall.com/ContactUs.aspx)
+Burr Ridge, IL 60527 
+
+·         **Changes To This Privacy Policy.   **We may change our privacy policy and practices over time.  To the extent that our policy changes in a material way, the policy that was in place at the time that you submitted personal information to us will generally govern that information.  
+
+**Last Revised: May 8, 2018**
