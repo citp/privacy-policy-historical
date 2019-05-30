@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackedonlinegames.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012313id_/http%3A//www.hackedonlinegames.com/dashboard/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackedonlinegames.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530181851id_/http%3A//www.hackedonlinegames.com/dashboard/home/privacypolicy) for the most accurate reproduction.*
 
 # Hacked Online Games
 
