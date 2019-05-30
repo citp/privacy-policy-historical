@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815152854id_/https%3A//www.lifestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestorage.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530143925id_/https%3A//www.lifestorage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Life Storage Privacy Policy
 
 This Privacy Policy applies to your use of the Life Storage LP website located at www.lifestorage.com (the "Site"), which is comprised of various web pages and is owned and operated by Life Storage LP, and the Life Storage LP services available through the Site ("Services"). This Privacy Policy describes how Life Storage LP and its affiliates and subsidiaries (collectively, "Life Storage") collect and use the information you provide on or through the Site. 
 
