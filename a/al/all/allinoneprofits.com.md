@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222155407id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinoneprofits.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530112236id_/http%3A//allinoneprofits.com/privacy.php) for the most accurate reproduction.*
 
 # All In One Profits
 
-| [**Make Money In 24 Hrs**](http://trackr.leadsleap.com/743ym5h6/aioptxt)  
-GUARANTEED!!!  
-Click Here &...  
-Get Started Today!| [ ***Earn Free Bitcoin***](https://aiopsplashbuilder.com/splash.php?id=38335)  
-Litecoin, Dogecoin,  
-And Dashcoin Too  
-100% FREE & FUN!| [ **90 Minute Work Week**](https://iwebatool.net/violet47)  
-Complete Hands Free   
-Build on autopilot  
-Simple to use| [ **New system pays you**](http://www.exituselite.com/lcp/sfenners/instant_phone/)  
-instantl daily| [ **R U An Action Taker?**](http://www.moolavine.com/invite.php?id=5644)  
-Unique System,  
-Designed to Generate  
-Residual Income.  
+| [**Get 10 free**](https://www.suc300.com/?ref=n2pc)  
+Add 10 of your own  
+Start 2 earn passive  
+Thousands are earned| [ **Global Team Build**](http://trckapp.com/05vbpf40)  
+Free travel and   
+daily pay!   
+| [**NowLifeStyle**](http://nowlifestyle.com/page/CoachVSLSM/?id=wallee)  
+STOP Struggling To   
+Make Money Online!!!  
+| [ **Traffic Authority**](http://www.trafficauthority.net/rfutch)  
+Make Big Money  
+As A Reseller of   
+Traffic Authority.| [ **Get 1000 Leads A Day**](http://promotemybizpro.com/page1.php?user=prosperityoasis)  
+Get Paid Daily  
+Every Marketer Needs  
+Leads Go Now  
 ---|---|---|---|---  
   
 
