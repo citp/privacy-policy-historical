@@ -1,115 +1,88 @@
-> *The following text is extracted and transformed from the howtoremoveit.info privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929125340id_/http%3A//www.howtoremoveit.info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtoremoveit.info privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530123754id_/https%3A//www.howtoremoveit.info/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy:How to Remove It
+# Privacy Policy
 
-The Privacy and Cookie Policy below explains how we collect and use information you as an end user provide while doing business with us including use of our site <http://www.howtoremoveit.info/> and our services. We respect your privacy and understand your concern about the way your Personal Data is used. We ensure you of our commitment to protecting the integrity and confidentiality of your personal information. 
+**PRIVACY POLICY**
 
-## Ad-blocker.org website
+“How To Remove It” is highly committed to protect your privacy and ensure that you have a convincing experience on our websites and in using our products and services (“How To Remove It Products and Services”). This "Privacy Policy" is constructed to inform you about the type of information that "How To Remove It" ("How To Remove It," "we" and "us") may collect or gather from you in respect to your use of this site ("https://www.howtoremoveit.info"). It also explains the conditions under which we use and disclose that information and your rights about that information.
 
-## Website logs
+BY VISITING OUR SITE, YOU AGREE TO BE BOUND BY ITS POLICIES. IF YOU DO NOT AGREE TO ITS POLICY, IF YOU ARE BELOW 18 YEARS OF AGE, OR IF YOU ARE NOT ALLOWED TO ENTER LEGAL OBLIGATIONS BY THE LAW YOU SHOULD NOT USE THE WEBSITE. WE MAY REVISE THE POLICY OCCASSIONALY AND POST THOSE CHANGES HERE. EVERY TIME YOU VISIT THE SITE, THE PRESENT VERSION OF THE PRIVACY POLICY WILL BE APPLICABLE. CONSEQUENTLY, WHEN YOU USE THIS SITE, YOU SHOULD CHECK THE DATE OF THE POLICY AND REVIEW ANY CHANGES COMPARED TO THE OLD VERSION. IN THIS CASE, YOUR ADVANCEMENT TO THE WEBSITE CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED POLICY.
 
-All requests to the Ad-blocker.org website are recorded in the website logs. Data stored includes your IP address, the time at which the request was made, the web address accessed, the browser identifier and the referring page. This data is used to generate usage statistics as well as to investigate potential security issues and forum or blog spam. Detailed logs are retained for a period of 30 days, after which only the aggregated usage statistics remain. 
+HENCE, WE REQUEST YOU TO CAREFULLY GO THROUGH OUR PRIVACY POLICY.
 
-## Uninstallation page feedback
+**Our Privacy Policy explains the following:**
 
-After uninstalling Ad-blocker, you may be directed to a webpage that asks for your feedback. The webpage stores some application and platform related data anonymously. If you decide to submit feedback, we will also store it anonymously. 
-
-## Stored IP addresses
-
-The web applications installed on Ad-blocker.org store your IP address when you create a forum post, add a blog comment or translate a page. This allows administrators to effectively address spam content and security breaches. All stored IP addresses are removed after 30 days. 
-
-## Ad-Blocker Extension
-
-## Subscription downloads
-
-If you add filter subscriptions to your Ad-Blocker installation, the subscription will be requested to regularly retrieve updates. Every update results in the hosting website receiving your IP address as well as some general information like your Ad-Blocker version, browser and browser version. This data is subject to the privacy policy of the website in question. 
-
-Furthermore, if a subscription download fails on several consecutive occasions, the updated address of the filter list is requested from the ad-blocker.org domain. The data transmitted includes the Ad-Blocker version, subscription address and any information about the error encountered. This data is used to identify issues that have not been reported by subscription maintainers and is subject to the usual ad-blocker.org privacy policy. 
-
-## Issue reporter
-
-Ad-blocker allows you to send issue reports that will be temporarily stored on the Ad-blocker.org domain. These reports contain information required to investigate the issue including the Ad-blocker version, browser version, address of the web page where the problem is visible, blockable items on the web page, matching filters and active subscriptions. Parameter values are removed from all transmitted addresses to avoid unintentionally leaking private information. It is also possible to provide additional information, which may be privacy-sensitive: 
-
-  * A website screenshot provides a scaled-down and color-reduced version of the page viewed. It is possible to remove particularly sensitive sections of the page before the report is sent.
-
-  * The email address is only used to request more information or to update the user on the issue.
-
-  * A list of installed extensions is necessary for the investigation of conflicts with other extensions.
+  1. Overview of the information we collect
+  2. Use of cookies.
+  3. Use and disclosure of the information we collect.
+  4. Indemnification.
+  5. Limitation of Liability
+  6. How does “How to Remove It” protect and secure my information?
+  7. How can I update or change my personal details?
+  8. How to unsubscribe from “How To Remove It.”
 
 
 
+**1.      ****OVERVIEW OF THE INFORMATION WE COLLECT.**
 
-The processed reports can only be accessed by an individual who knows their unique address. These addresses are only shared with the maintainers of the filter subscriptions mentioned in the report and are unlikely to be found by others unless a link is provided. All reports and their associated data are automatically removed after 30 days. 
+a)     Personally, Identifiable Information.
 
-## Others
+"How to Remove It" collects your personal information i.e. Name and email address only, to provide services and support to its customers. Most of our services would require you to set-up an account. This information is helpful in continuously improving and providing you the services and support you expect from “How to Remove It” and that is of interest to you.
 
-Ad-Blocker is the property of ad-blocker.org. It has been built on AdBlock Plus open source code and it maintains GPLv3 terms and conditions. 
+b)    Aggregate information.
 
-## What information do we collect?
+Aggregate information is non-identifiable personal information, i.e., type of web browser used, type of operating system, and Internet Protocol (IP) addresses. Every time a user (whether they are registered or not) views a page on our site, we log that user's IP address in our database. This is a very standard procedure followed by almost all the websites and is further used to track down the pages most viewed by the users and how much time they spent on a page.
 
-We collect information through active as well as passive manners.
+**2.      ****USE OF COOKIES**
 
-Passive Information: Information that your computer and your browser send automatically while you are browsing our website. 
-
-Active Information: We collect email addresses when you subscribe to our newsletters & updates.
-
-We collect the following types of information from site visitors:
-
-  * Site usage information
-
-  * Customer & Site Feedback
-
-  * Newsletter Registration
-
-  * Purchase Track of a customers 
+  1. **What are Cookies:** Cookies are small pieces of data sent from a website and stored in a user's web browser while the user is browsing a particular website. Every time the user loads a website, the browser sends the cookie related to that website back to the website server to notify the website of the user's previous activity on that website. They are often used as a mechanism by websites to remember activities that a website browser has done there in the past, for example, clicking on particular buttons, logging in, or having read pages on that site months or years ago.
+  2. **How we use them?** Like other websites, we use cookies on our website. We use cookies to enhance your browsing experience as cookies allow us constantly redefine what you see from what we learned by the cookies created during your visits to our website. These cookies help us analyze the maximum visited/used areas of our website. In general we use the following cookies:
+    1.  Strictly necessary cookies: These are cookies that are a mandate for our website to operate. They include, but are not limited to, cookies that enable you to log into secure areas of our website.
+    2.  Analytical/Performance Cookies: These cookies help us identify & count the number of visits. They also help qualify & quantify how visitors move around on our website. This help us improve our website by optimizing the maximum used areas of our website and making them user friendly.
+    3.  Functionality Cookies: We use these cookies to improve the functional performance of our website thus making it personalized for you for e.g. keeping you logged in or keeping your shopping cart as you previously left it.
 
 
 
+**3.      ****USE AND DISCLOSURE OF THE INFORMATION WE COLLECT**
 
-## Cookies
+a)     Personally, Identifiable Information.
 
-Cookies are small pieces of data sent from a website and stored in a user's web browser while the user is browsing a particular website. Every time the user loads a website, the browser sends the cookie related to that website back to the website server to notify the website of the user's previous activity on that website. They are often used as a mechanism by websites to remember activities that a website browser has done there in the past, for example, clicking on particular buttons, logging in, or having read pages on that site months or years ago. 
+Personally, identifiable information will be used for the following purposes: (i) Approval of a user's registration, (ii) Subscription (iii) for the authorities to contact a particular user, (v) To provide services to you or notify you about new services or offers you may find valuable. If you wish to opt-out of receiving any emails from us, please follow the instructions at the bottom of each email.
 
-## How How to Remove It uses Cookies
+We shall not disclose your information to any other party unless directed by the law to do so. Indeed, we will not spam your mailboxes with unsolicited emails.
 
-Like other websites, we use cookies on our website. We use cookies to enhance your browsing experience as cookies allow us constantly redefine what you see from what we learned by the cookies created during your visits to our website. These cookies help us analyze the maximum visited/used areas of our website. In general we use the following cookies: 
+We hold the authority to transfer all personally identifiable information in our possession to a successor entity in the event of a consolidation, acquisition, liquidation, creation of a new business entity, or another sale of all or a share of our assets. Other than to the extent ordered by a court, the use and exposure of all transferred personally identifiable data will be subjected to this Privacy Policy, or to a new privacy policy. In case of a new privacy policy, you will be informed of such and sustain the complete right to opt-in to accept the new policy. Personally, identifiable information submitted and/or collected after the new entity takes over may be subjected to the new privacy policy adopted by the successor entity.
 
-Strictly necessary cookies: These are cookies that are a mandate for our website to operate. They include, but are not limited to, cookies that enable you to log into secure areas of our website. 
+b)    Aggregate information.
 
-Analytical/Performance Cookies: These cookies help us identify & count the number of visits. They also help qualify & quantify how visitors move around on our website. This help us improve our website by optimizing the maximum used areas of our website and making them user friendly. 
+“ **How to Remove It** ” uses aggregate information to operate and to improve the Site, cultivating a positive user experience.
 
-Functionality Cookies: We use these cookies to improve the functional performance of our website thus making it personalized for you for e.g. keeping you logged in or keeping your shopping cart as you previously left it. 
+**Note:** We will maintain your personal information only for as long as you are a registered " **How to Remove It** " user or an end user or as is understandably crucial for audit or internal purposes or as required to provide you with the information you request unless a more extended retention period is expected or permitted by law.
 
-## What happens with social networks?
+**4.      ****WHAT HAPPENS WITH SOCIAL NETWORKS?**
 
-If you ‘share’ How to Remove It content with friends through social media like Facebook, Twitter or other social networks, you may send cookies from these social media websites/applications. We do not have any control over the settings of these cookies, thus please check these social media websites for detailed information about their cookies and how to manage them. By using our website, you agree that we can place these types of cookies on your device. 
+If you share **HowtoremoveIt.com’s** content with friends through social media like Facebook, Twitter or other social networks, you may send cookies from these social media websites/applications. We do not have any control over the settings of these cookies, thus please check these social media websites for detailed information about their cookies and how to manage them. By using our website, you agree that we can place these types of cookies on your device.
 
-## Managing Cookies
+**5.      ****INDEMNIFICATION**
 
-You can manage cookies by changing or activating the setting on your web browser which would allow you to either accept or refuse the settings of some or all cookies. If you wish to manage your preferences regarding cookies, refer to online help files available using your web browser for detailed instructions. Alternatively, you can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for further information. 
+You agree to indemnify, defend and hold **HowtoremoveIt.com’s,** its employees, directors, owners harmless from and against all expenses, claims, losses, damages and costs, including reasonable attorney’s fees, arising out of or relating to any misuse by the User of the content and services provided on the Site.
 
-Please note, if you refuse to accept cookies from our website, you may not be able to use some additional features that the website offers. In fact, some areas of the website may not be accessible at all. 
+**6.      ****LIMITATION OF LIABILITY**
 
-## Feedback
+Although, we take reasonable precautions to provide accurate information before publishing them on the website, we take no liability for the certainty or validity of any claims or damages occurred while following the process stated on the website. We are not to be accountable for the failure of performance, delayed operation, computer viruses or loss of data occurred while using the products and services introduced on the website.
 
-We encourage you to provide us with feedback in the form of emails sent to [](mailto:) or through the contact form in the contact link on our website. Once we receive the feedback/concern our support staff will try to get back to you as soon as possible. 
+**7.      ****SPAM AND SALE OF INFORMATION**
 
-## How to Remove It Software and Information Usage
+We despise spam. We will never do something that we hate ourselves. Thus, you can be rest assured that we will not spam your mailboxes with unsolicited emails, and we will never sell your information to other parties.
 
-By installing How to Remove It software, you agree to the Terms and Conditions in the EULA (end-user license agreement) which appears during program installations. 
+**8.      ****HOW CAN I UPDATE OR CHANGE MY ACCOUNT INFORMATION?**
 
-## Changes to This Privacy Policy
+You have the right to modify your account information on our website by contacting us. On request, and to the extent permitted by appropriate law relating to the retention of personal records, you can request that your personal information be removed from our systems.
 
-The above policy is subject to change. This may be done without prior notice to all the existing customers, but would be put in writing here on our website before it is implemented. This may occur due to new types of software, changing industry standards, and/or due to regulation / restrictions by international regulatory authorities as they apply. Thus, please check this policy on our website regularly. 
+**9.      ****HOW TO UNSUBSCRIBE FROM "HOW TO REMOVE IT?"**
 
-## Limitation of Liability
+If you are subscribed to our site and services, and that you would like to unsubscribe, you can simply click the unsubscribe link on the newsletter sent to you or you can simply send us a mail to do so through our contact form on our website.
 
-In no event will How to Remove It be liable for any damages, including without limitation, incidental, special, consequential or punitive damages, whether under a contract, tort or any other theory of liability, arising in connection with any party's use of the website or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus, line system failure, loss of data, or loss of use related to this website or any website operated by any third party or any contents of this website or any other website, even if How to Remove It is aware of the possibility of such damages. 
+**10.    Disclaimer**
 
-## Indemnification
-
-You agree to indemnify, defend and hold How to Remove It harmless from and against all expenses, claims, losses, damages and costs, including reasonable attorney’s fees, arising out of or relating to any misuse by the User of the content and services provided on the Site. 
-
-## Disclaimer
-
-The information contained on our Website has been obtained from sources believed to be reliable. How to Remove It disclaims all warranties as to the accuracy, completeness of the materials or the reliability of any advice, statement, opinion or other information distributed through the website. You agree that any reliance on any such statement, opinion, advice or information shall be at your sole risk and shall not be held against How to Remove It for any legal or personal purposes. How to Remove It reserves the right, in its sole discretion, to correct any errors or omissions in any portion of the Website. How to Remove It may change or discontinue any aspect of its website at any time, including, its content, products, services or prices described in the website at any time without notice. 
+The information contained on our Website has been obtained from sources believed to be reliable. We disclaims all warranties as to the accuracy, completeness of the materials or the reliability of any advice, statement, opinion or other information distributed through the website. You agree that any reliance on any such statement, opinion, advice or information shall be at your sole risk and shall not be held against us. For any legal or personal purposes we reserves the right, in its sole discretion, to correct any errors or omissions in any portion of the Website. We may change or discontinue any aspect of its website at any time, including, its content, products or services at any time without notice.
