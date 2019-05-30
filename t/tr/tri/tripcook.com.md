@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripcook.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130011444id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcook.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530121820id_/http%3A//tripcook.com/privacy.html) for the most accurate reproduction.*
 
 # TripCook: Privacy
 
