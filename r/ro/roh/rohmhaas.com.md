@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031220932id_/https%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530102332id_/https%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dow Legal Site
 
@@ -154,9 +154,10 @@ For more information, click on <https://www.facebook.com/help/164968693837950?he
 Coveo | 2 Years | These cookies are used for tracking all the interactions with the Coveo search tool. A random unique value is generated with the user visits the site, and it is used to keep related metrics like the number of distinct users who submitted a query or click on an item.  
 | For more information, click on <https://www.coveo.com/privacy>  
   
-Twitter | 1 Week - 2 Years  
+Twitter  
+| 1 Week - 2 Years  
 | These cookies collect data through a range of plug-ins and integration that is primarily used for tracking and targeting ads.  
-| For more information and to opt-out, click on <https://business.twitter.com/en/help/ads-policies/other-policy-requirements/interest-based-opt-out-policy.html>  
+| For more information and to opt-out, click on <https://business.twitter.com/en/help/ads-policies/other-policy-requirements/interest-based-opt-out-policy.html>  
   
 Profiling Cookies | Google DoubleClick | 540 Days | These cookies are used to select online advertising messages based on what is pertinent to the visitor, in line with the information collected during browsing and to prevent the visitor from viewing previously displayed ads. Per the vendor, consent is requested for the use of these cookies.  
 | 
@@ -240,12 +241,8 @@ QUMU
 | 30 Years | They are used for make the Qumu experience more convenient and personal. Their cookies help to better understand user behavior, preferences and usage of the video solution.  
 | For more information, click on <https://qumu.com/en/privacy/>[  
 ](https://qumu.com/en/privacy/)  
-LinkedIn  
-| 1 Day -   
-1 Year  
-| This cookies collect anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.  
-| For more information and to opt-out, click <https://www.linkedin.com/legal/cookie-policy>  
-  
+LinkedIn | 1 Day -   
+1 Year | This cookies collect anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads. | For more information and to opt-out, click <https://www.linkedin.com/legal/cookie-policy>  
   
 **Deletion of Cookies, Tracking Options and California Do Not Track Disclosures**  
 You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the site. Please refer to your web browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences.
@@ -404,7 +401,7 @@ If you have created an account or a personal profile on one of our websites, you
 
 ### Contact Dow
 
-If you have any questions about this Privacy Statement or our privacy practices, you may contact us by phone at the numbers listed at [http://www.dow.com/assistance/dowcig.htm](https://www.dow.com/en-us/contact-us). You may also contact us via [email](mailto:FGLPRIV@dow.com?subject=Dow%20Privacy%20Statement%20Question). You may also send postal correspondence to:
+If you have any questions about this Privacy Statement or our privacy practices, you may contact us by phone at the numbers listed at <https://www.dow.com/en-us/contact>. You may also contact us via [email](mailto:FGLPRIV@dow.com?subject=Dow%20Privacy%20Statement%20Question). You may also send postal correspondence to:
 
 **In the United States:**  
 The Dow Chemical Company  
@@ -447,6 +444,6 @@ ChacaraSanto Antonio 
 São Paulo   
 Brazil 04717-903
 
-If you have concerns that someone affiliated with Dow has used your information in a manner that is not appropriate, you may also contact the Dow EthicsLine. The Dow [EthicsLine](https://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide. The Dow EthicsLine can also be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](https://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@Dow.com).
+If you have concerns that someone affiliated with Dow has used your information in a manner that is not appropriate, you may also contact the Dow EthicsLine. The Dow [EthicsLine](https://corporate.dow.com/en-us/about/beliefs-and-culture/ethics) can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide. The Dow EthicsLine can also be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](https://corporate.dow.com/en-us/about/beliefs-and-culture/ethics) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@Dow.com).
 
 Effective Date: May 11, 2018
