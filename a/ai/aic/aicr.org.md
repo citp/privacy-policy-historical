@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204234816id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530214624id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute for Cancer Research (AICR)
 
 At AICR, we are committed to protecting your privacy. We use the information you provide to process orders, information requests, and to help you enjoy a more personalized Web experience. Please read on for more detail about our privacy policy.
 
-  * [Contact Information](http://www.aicr.org/privacy-policy.html#ContactInfo "Privacy Policy")
-  * [What information do we collect and how do we use it?](http://www.aicr.org/privacy-policy.html#InfoCollected "Privacy Policy")
-  * [Will AICR disclose the information it collects to outside parties?](http://www.aicr.org/privacy-policy.html#InfoDisclosure "Privacy Policy")
-  * [What about "cookies"?](http://www.aicr.org/privacy-policy.html#Cookies "Privacy Policy")
-  * ["Tell-A-Friend"](http://www.aicr.org/privacy-policy.html#TellAFriend "Privacy Policy")
-  * [Other Web Sites](http://www.aicr.org/privacy-policy.html#OtherWebSites "Privacy Policy")
-  * [Online Security](http://www.aicr.org/privacy-policy.html#OnlineSecurity "Privacy Policy")
-  * [In Summary](http://www.aicr.org/privacy-policy.html#InSummary "Privacy Policy")
-  * [Your Consent](http://www.aicr.org/privacy-policy.html#Consent "Privacy Policy") 
-  * [Tell Us What You Think](http://www.aicr.org/privacy-policy.html#TellUsWhatYouThink "Privacy Policy")
+  * [Contact Information](https://web.archive.org/privacy-policy.html#ContactInfo "Privacy Policy")
+  * [What information do we collect and how do we use it?](https://web.archive.org/privacy-policy.html#InfoCollected "Privacy Policy")
+  * [Will AICR disclose the information it collects to outside parties?](https://web.archive.org/privacy-policy.html#InfoDisclosure "Privacy Policy")
+  * [What about "cookies"?](https://web.archive.org/privacy-policy.html#Cookies "Privacy Policy")
+  * ["Tell-A-Friend"](https://web.archive.org/privacy-policy.html#TellAFriend "Privacy Policy")
+  * [Other Web Sites](https://web.archive.org/privacy-policy.html#OtherWebSites "Privacy Policy")
+  * [Online Security](https://web.archive.org/privacy-policy.html#OnlineSecurity "Privacy Policy")
+  * [In Summary](https://web.archive.org/privacy-policy.html#InSummary "Privacy Policy")
+  * [Your Consent](https://web.archive.org/privacy-policy.html#Consent "Privacy Policy") 
+  * [Tell Us What You Think](https://web.archive.org/privacy-policy.html#TellUsWhatYouThink "Privacy Policy")
 
 
 
