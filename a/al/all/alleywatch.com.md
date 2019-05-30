@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alleywatch.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912195825id_/http%3A//www.alleywatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alleywatch.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530020803id_/https%3A//www.alleywatch.com/privacy-policy) for the most accurate reproduction.*
 
 # TechWatch Media Group Privacy Policy - AlleyWatch
 
