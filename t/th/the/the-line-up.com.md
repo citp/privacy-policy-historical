@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-line-up.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008021456id_/https%3A//the-line-up.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-line-up.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530192613id_/https%3A//the-line-up.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Lineup
 
