@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224055548id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530151444id_/https%3A//www.cairo360.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice – Cairo 360 Guide to Cairo, Egypt
 
