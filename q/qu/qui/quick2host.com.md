@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quick2host.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129181002id_/http%3A//quick2host.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quick2host.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531013237id_/http%3A//quick2host.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Quick2Host - Reliable Web Hosting & Reseller Hosting Solutions India
 
