@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909050919id_/https%3A//tulumba.com/shopcontent.asp%3Ftype%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530051315id_/https%3A//www.tulumba.com/shopcontent.asp%3Ftype%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Turkish Grocery & Food, Turkish Music, Turkish Books, Home Decoration, Evil Eyes, Jewelries, Turkish Soccer Teams
 
