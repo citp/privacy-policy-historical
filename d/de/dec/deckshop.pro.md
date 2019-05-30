@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deckshop.pro privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230130831id_/https%3A//www.deckshop.pro/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deckshop.pro privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530055441id_/https%3A//www.deckshop.pro/about/privacy-policy) for the most accurate reproduction.*
 
 # Deck Shop Privacy Policy | Best Clash Royale decks, guides, tutorials, tips
 
@@ -94,4 +94,4 @@ We do not collect any e-mail addresses.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#33435245565f555a7357565058405b5c431d43415c)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94e4f5e2f1f8f2fdd4f0f1f7ffe7fcfbe4bae4e6fb)
