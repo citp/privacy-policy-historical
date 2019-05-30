@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212034605id_/https%3A//www.rawstory.com/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawstory.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530135830id_/https%3A//www.rawstory.com/about-us/raw-story-medias-privacy-policy) for the most accurate reproduction.*
 
-# Raw Story Media’s Privacy Policy - Raw Story
+# Raw Story Media’s Privacy Policy
 
 The Raw Story and its parent company Raw Story Media, Inc., as well as its advertisers, are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. This policy governs all Raw Story properties, including but not limited to RawStory.com and RawReplay.com.
 
