@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manfrotto.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907181840id_/https%3A//www.manfrotto.com/site-terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manfrotto.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530113051id_/https%3A//www.manfrotto.com/site-terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
