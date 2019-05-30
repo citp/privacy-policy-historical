@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joybuy.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224101841id_/https%3A//help.joybuy.com/help/question-535.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joybuy.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530212252id_/https%3A//help.joybuy.com/help/question-535.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
