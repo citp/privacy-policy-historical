@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linoxide.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230044722id_/https%3A//linoxide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linoxide.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530222257id_/https%3A//linoxide.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY
 
