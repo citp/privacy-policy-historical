@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsblue.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126191428id_/http%3A//adsblue.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsblue.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530045136id_/http%3A//adsblue.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | US Ads Citi
 
