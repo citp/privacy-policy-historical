@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websteronline.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031195001id_/https%3A//public.websteronline.com/privacy-and-opt-out-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websteronline.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530042041id_/https%3A//public.websteronline.com/privacy-and-opt-out-notice) for the most accurate reproduction.*
 
 # Privacy and Opt-Out Notice | Webster
 
