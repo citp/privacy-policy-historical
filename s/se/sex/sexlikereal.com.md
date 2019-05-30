@@ -1,52 +1,71 @@
-> *The following text is extracted and transformed from the sexlikereal.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415161445id_/https%3A//www.sexlikereal.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexlikereal.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530054839id_/https%3A//www.sexlikereal.com/pages/privacy) for the most accurate reproduction.*
 
-# VR porn videos for Oculus Rift and Cardboard
+# VR Porn Movies for Cardboard, GearVR, Oculus | SexLikeReal
 
-This document details important information regarding the use and disclosure of User Data collected on SexLikeReal.com
+## Privacy Policy
 
-The security of your Data is very important to SexLikeReal.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of the Website, including information you provide when using it.
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-DATA COLLECTED
+### Data Collected
 
-  * Personal Information:
-    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit SexLikeReal.com, we may send one or more cookies to your computer that uniquely identifies your browser session. SexLikeReal.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit SexLikeReal.com, our servers may automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence.
+##### Browsing the Website
 
+You can use the search function, view articles, videos and pictures, and access other parts of the Website without having an account, in which case only your IP address, country of origin and other information about your computer or device (such as web requests, device type, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content. If you have an account on the website and are logged in, the information may be associated with your account.
 
+##### Registering on the Website
 
-USES
+Registration of an account is required for using many parts of the Website, including purchasing access to certain content and using many other features. We request additional information at the time of your registration, including, without limitation, your name, email address and a password. Your IP address is recorded automatically. We may ask for further information to fill out your profile details. Some of this information may be used to provide you the Website and may become publicly available through your profile or through other use of the Website. If you intend to make your content available on the Website, we will collect additional information necessary to confirm your authority, confirm your compliance with law and to make available where necessary on the Website for others.
 
-  * Your Personally identifiable information submitted to SexLikeReal.com is used to provide to the user the website's features and special personalized features.
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the SexLikeReal.com private mail, etc. Other Users can contact you through, private messages.
-  * Any videos that you submit to SexLikeReal.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
-  * OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the SexLikeReal.com user-experience.
+##### Usage Information
 
+We may record information about your usage of the Website such as pageviews, clicks, mousemoves, duration of video views, portions of videos viewed, search phrases, referrers and other various statistics. If you have registered and are logged in, we may associate that information with your account.
 
+##### Uploaded Content
 
-DISCLOSURE OF INFORMATION
+Any personal information or content you voluntarily publicly disclose online, including animations, pictures, videos, comments and your profile page or any other User Submissions, becomes publicly available and may be collected and used by others.
 
-  * if under duty to do so SexLikeReal.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of SexLikeReal.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is SexLikeReal.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material SexLikeReal.com shall forward all available information to all relevant authorities and this without notice.   
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+##### Other Information
 
+You may have the ability to make comments on content and engage in other social activities. Any such activities may be visible to the public.
 
+##### Correspondences
 
-SECURITY
+We may keep a record of any correspondence between you and us.
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+##### Cookies
 
-Unfortunately, the transmission of information via the Internet is not completely secure. SexLikeReal.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to SexLikeReal.com and you do so at your own risk.
+When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-YOUR RIGHTS
+##### Payment Information
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+If you provide us payment information we will keep this in our system for the purposes of taking payments from you or making payments to you as appropriate. This information may also be provided to our third party payment processors and affiliates in order to assist with the taking or making of payments. Credit cards, debit cards or bank account information are not stored by our website, but third party payment processors.
+
+### Data Usage
+
+We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website, including building a recommendation system for the Website.
+
+We may use your e-mail address or other personal information to send commercial or marketing messages. We may use your e-mail for non-marketing or administrative purposes.
+
+We use cookies, web beacons and other information to store information so that you will not have to re-enter it on future visits, provide personalized content and information, monitor the effectiveness of the Website and monitor aggregate metrics such as the number of visitors and page views (including for use in monitoring visitors from affiliates). They may also be used to provide targeted advertising based on your country of origin and other personal information.
+
+We may aggregate your personal information with personal information of other members and users, and disclose such information to advertisers and other third-parties for marketing and promotional purposes.
+
+Your username may be displayed to other visitors of the Website alongside content on the Website in relation to your uploaded content and other similar features.
+
+We may use your information to run promotions, contests, surveys and other features and events.
+
+### Disclosures of Information
+
+We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
+
+If you upload any illegal or unauthorized material to the Website, or you are suspected of doing such, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
+
+We may also share your information with third parties for the purposes of payment processing and any such information will also be subject to their privacy policies.
+
+### Miscellaneous
+
+If you have an account on the Website and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
+
+While we use commercially reasonable physical, managerial and technical safeguards to secure your information, the transmission of information via the internet is not completely secure and we cannot ensure or warrant the security of any information or content you transmit to us. Any information or content you transmit to us is done at your own risk.
