@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608214911id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024652id_/https%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Best Gore
 
@@ -125,7 +125,7 @@ By default WordPress does not collect any analytics data and we do not use any W
 
 ## Fansigns
 
-Fansigns are image files voluntarily created and submitted by users of the website for publishing on the [Fansigns page](http://www.bestgore.com/fansigns/ "Fansigns") as a show of support for, and appreciation of the website. If you submitted a fansign for publishing and wish to have it removed, please [contact us](http://www.bestgore.com/contact/ "Contact Us") with your request.
+Fansigns are image files voluntarily created and submitted by users of the website for publishing on the [Fansigns page](https://www.bestgore.com/fansigns/ "Fansigns") as a show of support for, and appreciation of the website. If you submitted a fansign for publishing and wish to have it removed, please [contact us](https://www.bestgore.com/contact/ "Contact Us") with your request.
 
 ## Cache
 
@@ -196,19 +196,19 @@ Our web site does not provides a service which includes automated decision makin
 
 ## How Can You Exercise Your Rights Under the GDPR
 
-**Access:** You can request a copy of your file [HERE](http://www.bestgore.com/privacy-policy/export-file/ "Request the Export File of Your Data").
+**Access:** You can request a copy of your file [HERE](https://www.bestgore.com/privacy-policy/export-file/ "Request the Export File of Your Data").
 
-**Deletion:** You can delete your account [HERE](http://www.bestgore.com/privacy-policy/deletion/ "Request Deletion of Your Data"). However, there may be circumstances where we are legally entitled to retain it.
+**Deletion:** You can delete your account [HERE](https://www.bestgore.com/privacy-policy/deletion/ "Request Deletion of Your Data"). However, there may be circumstances where we are legally entitled to retain it.
 
-**Updating:** If you wish to update your data, you can do this directly by editing your user settings. Alternatively, you can request rectification of your data [HERE](http://www.bestgore.com/privacy-policy/rectification/ "Request Rectification of Your Data").
+**Updating:** If you wish to update your data, you can do this directly by editing your user settings. Alternatively, you can request rectification of your data [HERE](https://www.bestgore.com/privacy-policy/rectification/ "Request Rectification of Your Data").
 
-**Objection to legitimate interests:** If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party please file a complaint [HERE](http://www.bestgore.com/privacy-policy/complaint/ "File a Complaint").
+**Objection to legitimate interests:** If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party please file a complaint [HERE](https://www.bestgore.com/privacy-policy/complaint/ "File a Complaint").
 
 If you are contacting us to exercise any of your rights under the GDPR, you will have to provide valid proof of identification. We are required to respond to your request within 1 month.
 
 ## Withdrawal of Consent
 
-If at any time a Registered User wishes to withdraw their consent to this policy they can do so by [Requesting Deletion](http://www.bestgore.com/privacy-policy/deletion/). Withdrawal of consent will result in the Account concerned being suspended and scheduled for termination. All content, activity and associated information relating to the Account will be removed as part of this process.
+If at any time a Registered User wishes to withdraw their consent to this policy they can do so by [Requesting Deletion](https://www.bestgore.com/privacy-policy/deletion/). Withdrawal of consent will result in the Account concerned being suspended and scheduled for termination. All content, activity and associated information relating to the Account will be removed as part of this process.
 
 ## Changes to This Statement
 
@@ -216,8 +216,6 @@ The website has the discretion to update this privacy statement at any time. Whe
 
 ## Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us by filling up our [convenient contact form](http://www.bestgore.com/contact/), or by email on mark [at] bestgore.com.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us by filling up our [convenient contact form](https://www.bestgore.com/contact/), or by email on mark [at] bestgore.com.
 
 The website will use commercially reasonable efforts to promptly respond and resolve any problem or question.
-
-[](http://frtyd.com/go/ba_lAVT_bv2gM/pt_after_cont_desktop)
