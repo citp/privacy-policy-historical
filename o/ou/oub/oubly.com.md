@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oubly.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001142503id_/https%3A//www.oubly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oubly.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531203345id_/https%3A//www.oubly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Oubly.com
 
