@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229051323id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531184002id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
 
 # loots.com - Legal - Privacy
 
-loots provides a livestream monetization platform via loots.com (The “ _Site_ ”) and related Internet Services (collectively, “ _The Service(s)_ ”). The Service allows (“ _Users_ ”) to send advertising-supported messages (“ _Tip Messages_ ”) to broadcasters (“ _Streamer_ ”). Tip Messages will appear on the livestream and the broadcaster will receive remuneration for providing the advertising space. 
+loots provides a livestream monetization platform via loots.com (The “ _Site_ ”) and related Internet Services (collectively, “ _The Service(s)_ ”). The Service allows (“ _Users_ ”) to send advertising-supported messages (“ _Sponsored Messages_ ”) to broadcasters (“ _Streamer_ ”). Sponsored Messages will appear on the livestream and the broadcaster will receive remuneration for providing the advertising space. 
 
 The Service is operated by fishwoodco GmbH, Sophienstrasse 32, 10178 Berlin, Germany, registered at HRB 172582 B District Court Berlin (Charlottenburg), [privacy@loots.com](mailto:privacy@loots.com) (“ _us_ ”, “ _we_ ”, or “ _our_ ”). 
 
-This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20181229051323id_/https%3A//loots.com/en/legal/terms).
+This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20190531184002id_/https%3A//loots.com/en/legal/terms).
 
 We are processing Information for carrying out our commercial activities, in particular to pursue our Services, business activities as well as business communication including direct marketing.
 
@@ -33,7 +33,7 @@ For Users, the following additional Information will be collected through regist
   * Date and time of registration and newsletter processing,
   * Location
   * Websites accessed via our newsletter links,
-  * Tip Message communication
+  * Sponsored Message communication
 
 
 
@@ -78,7 +78,7 @@ If fishwoodco GmbH is involved in a merger, acquisition or asset sale, your Info
 
 We will disclose your Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service. 
 
-We do not otherwise initiate the disclosure of Information. However, if a User intends to disclose Information e.g. as part of a Tip Message, we will follow such User directive and provide the information intended for disclosure in connection with our Service. Thereby we have no influence if the User directs us to disclose Information to jurisdictions not providing for a data protection level adequate to EU data protection standards (e.g. the U.S: or China). Please follow the data protection notices of the relevant providers (streaming platform providers). 
+We do not otherwise initiate the disclosure of Information. However, if a User intends to disclose Information e.g. as part of a Sponsored Message, we will follow such User directive and provide the information intended for disclosure in connection with our Service. Thereby we have no influence if the User directs us to disclose Information to jurisdictions not providing for a data protection level adequate to EU data protection standards (e.g. the U.S: or China). Please follow the data protection notices of the relevant providers (streaming platform providers). 
 
 You are not subject to any decision based solely on automated processing, including profiling. We do not process specific categories of data. Please do not make any sensitive data available to us.
 
