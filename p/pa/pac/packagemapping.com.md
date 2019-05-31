@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201062759id_/https%3A//www.packagemapping.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packagemapping.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222221id_/https%3A//packagemapping.com/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy @ PackageMapping.com
 
+[ ](https://web.archive.org/)
+
+Last Updated: March 13, 2009.  
+---  
 Thank you for reading this Privacy Notice. This notice applies ONLY to information collected or provided when visiting www.PackageMapping.com public web site or using E-mail. This notice covers the following topics:
 
   * Information collected and how it is used
@@ -93,4 +97,6 @@ PackageMapping.com and its owner(s) reserves the right to revise and update thi
 
 > Any questions about the this privacy notice or comments about the PackageMapping.com Internet site should be directed to:
 > 
-> **Webmaster  ** PackageMapping.com [Click here for contact information](https://web.archive.org/contact)
+> **Webmaster  ** PackageMapping.com [Click here for contact information](https://web.archive.org/contact)  
+  
+__
