@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227083835id_/http%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcewire.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531140410id_/http%3A//www.responsesource.com/privacy) for the most accurate reproduction.*
 
-# ResponseSource Privacy Policy
+# ResponseSource and Vuelio Privacy Policy
 
-## Introduction and General Terms of this Privacy Policy
+ResponseSource exists to support effective communications between PR professionals and journalists. As such we are fundamentally a business about people and that means we handle personal information.
 
-Note: ResponseSource Ltd provides the following services: Media Contacts Database ([mediadatabase.responsesource.com](http://mediadatabase.responsesource.com/)), Journalist Enquiry Service ([journalistenquiries.responsesource.com](http://journalistenquiries.responsesource.com/)), Press Release Wire ([pressreleases.responsesource.com](http://pressreleases.responsesource.com/)), Freelance Journalist Profiles ([freelanceprofiles.responsesource.com](http://freelanceprofiles.responsesource.com/)) and Media Jobs ([mediajobs.responsesource.com](http://mediajobs.responsesource.com/)). All mentions of “ResponseSource” in this document apply to these services.
+Data protection is a high priority for us and always has been. The new data protection law known as the General Data Protection Regulation (GDPR) has been on our radar for some time and we have taken a lead in the industry by providing [advice to the PR community](https://www.responsesource.com/blog/gdpr-compliance-media-relations/) about how it impacts them in the context of media relations.
 
-ResponseSource is committed to protecting your personal information when you are using services from us. We want our services to be a safe and enjoyable environment for our users. This Privacy Policy relates to our use of any personal information you provide to us through our website. In order to provide you with the full range of services, we are sometimes required to collect information about you.
+We collect and process journalist and PR data for our legitimate interest in providing ResponseSource services which help journalists and PRs work with each other. These services serve the interests of both PR professionals, who wish to share information about the organisations they represent, and journalists who wish to keep informed on what is happening in the sectors they cover. This is known as media relations and is a well-established practice.
+
+Click here for our full Data Protection Policy: [Vuelio Privacy Policy](https://www.responsesource.com/content/uploads/2018/11/Vuelio-Privacy-Policy.pdf)
+
+To find out what information we have about you or if you want any changes made please email [accessrequest@responsesource.com](mailto:accessrequest@responsesource.com).
+
+Note: ResponseSource Ltd provides the following services: Media Contacts Database, Journalist Enquiry Service, Press Release Wire, Freelance Journalist Profiles, Media Bulletin, JournoRequests.com and Media Jobs. All mentions of “ResponseSource” or “Services” in our Data Protection Policy apply to these services.
 
 * * *
 
-As set out above, ResponseSource is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as “data protection laws”).
-
-* * *
-
-## Information ResponseSource may collect about you
+##### Information ResponseSource may collect about you online
 
 Information about the computer terminal you are on and about your use of our website including:
 
