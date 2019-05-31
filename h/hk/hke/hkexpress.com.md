@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkexpress.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926052127id_/https%3A//www.hkexpress.com/en-hk/need-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkexpress.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531132823id_/https%3A//www.hkexpress.com/en-hk/need-help/privacy-policy) for the most accurate reproduction.*
 
 # HK Express - Legal & Privacy
 
