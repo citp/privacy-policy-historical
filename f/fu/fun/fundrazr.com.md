@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223040936id_/https%3A//fundrazr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531220703id_/https%3A//fundrazr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - FundRazr
 
-ConnectionPoint Systems Inc. (hereafter referred to as “CPSI” or the “Company”), provides its services (the “Service” or the “Application”) to make it easy for users (you) to raise money through their social networks for causes or projects they support and care about (the “Campaigns”). You have control of your information and decide what you want to share with everyone. This includes contact and personal information and details of your Campaigns. You control the sharing of that information by using the Campaigns tab on the Application and your Facebook, LinkedIn, Twitter, Pinterest or Google+ (the “Social Networks”) privacy settings.
+Revised on January 28, 2019
+
+ConnectionPoint Systems Inc. (hereafter referred to as “CPSI” or the “Company”), provides its services (the “Service” or the “Application”) to make it easy for users (you) to raise money through their social networks for causes or projects they support and care about (the “Campaigns”). You have control of your information and decide what you want to share with everyone. This includes contact and personal information and details of your Campaigns. You control the sharing of that information by using the Campaigns tab on the Application and your Facebook, LinkedIn, Twitter or Pinterest (the “Social Networks”) privacy settings.
 
 CPSI contracts with a select group of Business Partners to operate crowdfunding systems for them under their own brands. You may use the Service using one of the branded versions associated with our Business Partners. Our Business Partners agree to abide by our Terms of Service and Privacy Policy. Regardless of which branded version of the Service you use, these same terms apply to you.
 
