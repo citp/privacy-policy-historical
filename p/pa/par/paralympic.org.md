@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paralympic.org privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129124053id_/https%3A//www.paralympic.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paralympic.org privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531032455id_/https%3A//www.paralympic.org/privacy) for the most accurate reproduction.*
 
 # IPC Privacy Policy
 
