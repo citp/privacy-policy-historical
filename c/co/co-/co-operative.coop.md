@@ -1,81 +1,197 @@
-> *The following text is extracted and transformed from the co-operative.coop privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522110048id_/https%3A//www.coop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-operative.coop privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531023132id_/https%3A//www.coop.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Co-op
+# Privacy notice - Co-op
 
-## We take great care to protect your information.
+This privacy notice sets out details of the information we collect about you, how we may use it, how we ensure it’s kept secure, who we share it with, and what rights you may have in respect of that information.
 
-Co-operative Group Limited (“we”, “us” and “The Co-operative Group”) is committed to ensuring our site is absolutely secure for you to use and takes great care to protect your information. 
-
-We may introduce you to [our subsidiaries](https://www.co-operative.coop/investors/rules), other co-operative societies, and carefully selected organisations (collectively referred to as “our Partners”). 
-
-This privacy policy explains what information we collect about you, how we may use it, and the steps we take to ensure that it is kept secure. We also explain your rights and how to contact us.  Please note that this website provides links to other websites belonging to other organisations, which are provided for your convenience. We would recommend that you read the Privacy statement for every website that you visit.
-
-## What information do we hold on you?
-
-We collect details from you when you request a product, service, offers or news from us from our website, emails, telephone conversations, and written and verbal communication. We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other parts of The Co-operative Group or our Partners.
-
-## What do we do with the information?
-
-We will use the personal information gathered in our normal course of business primarily to provide the products, services, offers or news you have requested, and also for administration purposes:
-
-  * to confirm identification when you contact us
-  * to keep you informed of any special offers or promotions that we believe might be of particular interest to you
-  * to communicate with you in the event that any products or services you have requested are unavailable
-  * for credit assessment
-  * to review the conduct of and to administer/operate your accounts
-  * for statistical analysis, including automated techniques
-  * for record-keeping purposes
-  * for market research
-  * to track activity on our website
-  * to improve and monitor our customer service to you
-  * for the prevention of crime and fraud.
+  * We mainly use your personal information to provide our services to you, to meet our legal obligations, and to help improve our interests.
+  * We only want to hold as much personal information as we need to do the above.
+  * We want our personal information relationship to be reciprocal where we both benefit, not an exploitative one.
+  * Where we share your data, we only do so with organisations who have a right to see it and who will use it fairly.
+  * We take security seriously.
+  * You can contact us at anytime about anything relating to this notice or the information we hold about you.
 
 
 
-We may contact you by post, email, telephone or fax for these purposes.
+## Who we are
 
-## Disclosure of your information to service providers
+This Notice applies to all the entities within the Co-operative Group Limited (“we”, “us” and “The Co-op”) to the extent that they are controllers of your personal information. 
 
-In order to provide our products and services, we may need to pass information on to our agents and sub-contractors or appoint other organisations to carry out some of the processing activities on our behalf, such as mailing houses. 
+We’re committed to respecting the information you trust us with and making sure that we keep it safe. The Co-op has a family of businesses including Food, Insurance, Legal Services, Funeralcare and Health. 
 
-In these circumstances, we will ensure that your information is properly protected and used in accordance with this privacy policy. We may also disclose information to the investigating authorities such as the police, and customs and excise, or if required to do so by law.
+## Why we ask for your personal information
 
-## Transfer of your information outside the European Union
+### Where we need your information to do what we’ve promised
 
-We may need to transfer your personal data outside of the European Union in order to provide you with the services and products you require. 
+Our main use of your information is where it’s necessary to supply you with our products and services, or where it's necessary as part of the management of our Membership programme. 
 
-Some of these countries may not have laws that protect privacy rights as extensively as in the European Union. If we do transfer your personal information to other territories, we will take proper steps to ensure that your information is properly protected.
+For example, we’d need your name, address and payment details when you join as a Member so we can:
 
-## The use of cookies
+  * register your share in the Co-op
+  * send your Membership card 
+  * take your £1
 
-Cookies are small text files which are stored on your computer, mobile phone or device.  Cookies may be placed on your device when you visit a website or open a marketing email.
 
-The Co-operative Group uses cookies for a variety of reasons, such as to remember your preferences when you visit our sites, tailor your visit, monitor traffic to enable us to improve our sites, or to ensure we remember the contents of your shopping basket when you next visit the site.
 
-We also set third parties cookies to allow you to easily link to third parties you may be subscribed to, such as Facebook, Twitter and Youtube.  We do not control these cookies and how your information may be used, so please visit the third parties’ websites for more information on these cookies.
+### Where we need your personal information to help us get better at everything we do
 
-Our partners may also set cookies when they direct you to our site to buy a product.  These cookies allow us to pay our partners a referral fee based on the nature of any purchase you make.
+These are things we consider to be our legitimate interests, some of which are more relevant to certain Co-op Group businesses than others.
 
-Find out [more information about our cookies](https://web.archive.org/cookies).
+  * Developing an understanding of the activities, preferences, and requirements of our Members and Customers. For example, we’ll track activity on our website [using cookies](https://web.archive.org/terms/cookies) to understand the pages people visit so we can offer the best layout of our site. Sometimes we’ll contact you to seek feedback on a product or service you’ve requested.
+  * For statistical analysis to improve existing products and services and develop new products and services.
+  * To better understand the common and more general needs of our customers and members. This helps us make sure we offer the right products and services and generally meet the needs of our Members. For example, it’s really useful for us to look at large sets of data to understand whether we’re better stocking skimmed or semi-skimmed milk. 
+  * To give you a better and more personalised experience (this is sometimes referred to as 'profiling’). For example when you sign in to your Co-op Membership account, we might show you different content depending on what we know about you. Similarly, if we'd like to give you a money off voucher at the till, we’d prefer to use your personal details to try and give you a coupon that we think you're more likely to use. So if you buy a lot of apples, we might give you vouchers for apples (and not oranges). Sometimes, we'll probably make some wrong assumptions about you and we're really sorry about that. For example, maybe you'd prefer us to give vouchers for things you haven't tried rather than the things we think you want them for. 
+  * Communicating with you about the products and services we’re providing to you. We may use your personal details to send you things we think you need to know about and things we are obliged to send you legally. We broadly term these "service" emails. For example we send Members details about things like changes to the benefits they get from membership. We may also send individual Members timely information we think they need to help them, for example when they have unsuccessfully attempted to sign-in to their account.
+  * Promoting, marketing and advertising our products and services. For example, we might look at a combination of your personal information to try and determine where we might be best placing a television or press advert. 
+  * To obtain feedback on our performance, to assess customer service and satisfaction and to improve overall operations.
+  * Running checks for identification, creditworthiness and price setting against databases such as our Co-op Membership database, which contains information about our Members and how they use their Co-op Membership cards, the electoral register and other databases that contain publicly available information about County Court judgments, bankruptcy and repossessions.
+  * Managing services or insurance policies.
+  * Where you make a complaint, to handle that complaint and ensure that we are in the best position to address the issues you raise.
 
-## What to do if you do not wish to receive details of offers from us?
 
-If you do not wish to receive details of offers and promotions from us, you can opt-out at any time by clicking the relevant boxes on the form or screen, by emailing [customer.relations@coop.co.uk](mailto:customer.relations@coop.co.uk) or by ringing Customer Services on [0800 0686 727](tel:08000686727).
 
-Please note that you may change your mind at any time by contacting us by any of the above methods or by following the instructions set out with each offer you receive.
+### Other ways we might use your personal information
 
-## Changing your personal information
+We may also need to process your personal data from time to time where necessary for:
 
-If you believe that we are storing details relating to you and that these are incorrect or you wish to remove them, please contact us the relevant business.
+  * Preventing and detecting crime or anti-social behaviour. For example, we'll use CCTV in our buildings.
+  * Dealing with any legal claims. 
 
-## Changes to this privacy policy
 
-If we decide to change our privacy policy, we will post the changes on this page so that you are aware of the information we collect, how we use it and under what circumstances we disclose it. 
 
-A hard copy of the policy is available from the Data Protection Manager, The Co-operative Group, Freepost MR9473, Manchester M4 8BA. Any revised policy will apply only to data collected after the new policy comes into effect.
+If we're using your personal information in the above ways, we really understand that your data has a value and therefore we try to use it for everyone’s benefit. We also try really hard to ensure there will be little or no negative impact on you. This is part of our commitment to ensure that we consider all privacy concerns at the earliest possible opportunity. 
 
-## Your rights to access your personal information
+## Our legal basis for using your information
 
-You have a right to receive a copy of the personal data that we hold about you. There will be a charge of £10 towards the cost of administration.
+We will only use your personal information where:
 
-To obtain a copy of the personal information we hold on you, please write to the above freepost address or alternatively ring Customer Services on [0800 0686 727](tel:08000686727) and ask for a Subject Access Request form.
+### We have your consent
+
+For example we might rely on your consent in order to send you direct marketing communications. Where we do, you can withdraw your consent at any time.
+
+### It's necessary for the purposes of our legitimate interests
+
+These interests are set out above (see 'Where we need your personal information to help us get better at everything we do'), and we will only use such data where those interests are not outweighed by your own interests or fundamental rights and freedoms.
+
+### It's necessary for the performance of a contract
+
+Either when we're in a contract with you or to take steps as requested by you prior to entering into a contract.
+
+### It's necessary for compliance with a legal obligation we have
+
+### To protect your vital interests
+
+For example if we needed to share your information with a health professional because you’d fallen ill. 
+
+Please note that where we require you to provide certain information in order to perform our contractual obligations and you decline to do so, this may delay our performance of the contract or prevent us from honouring our contractual obligations.
+
+## The types of information we hold about you
+
+Almost all of the information we have is the information you've given to us. That might be when you request a product, service, offers or news from us via our website, emails, telephone conversations, and written and verbal communication. 
+
+Obviously the types of information you give us will vary depending on the service you’ve requested but typically could include:
+
+  * name, address, and contact details
+  * details of products and services you've bought from us or, for our health related services, details about your health and medication
+  * details of your interactions with us through our stores, contact centres, online or by using one of our apps
+  * payment details
+  * call recordings
+  * information about how you interact with our communications
+  * visual images, personal appearance and behaviour (usually obtained from CCTV images)
+
+
+
+As well as obtaining information from you, we may also collect it from:
+
+  * someone else acting on your behalf who gives us the information directly
+  * other Co-op Group companies such as Co-op Insurance, Funeralcare, Food and Health
+  * publicly available sources such as social media and the electoral register
+  * fraud prevention and detection agencies, organisations and databases
+  * government and law enforcement agencies and regulators
+  * NHS organisations and systems such as your GP and Summary Card Record
+
+
+
+It's also possible we might process other types of information that might be considered even more private, such as information relating to criminal offences and alleged offences. For example, if you wanted a quote for a Motor Insurance product we might need to ask about any criminal offences or health conditions. These are considered "special categories" of personal information and we're obliged to handle this information even more thoughtfully.
+
+See a full list of special category information on [the ICO's website](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/).
+
+### Sharing your personal information
+
+When we share your information, we only do so in accordance with our legal, data protection and privacy obligations.
+
+Your information may be disclosed to the following:
+
+  * **Service providers.** We use a number of other organisations who carry out work on our behalf to help us provide our products and services. We ensure any third parties we may share your data with have at least the same privacy and security standards as ourselves and will only use your information for the specific reasons we ask them to. 
+  * **Companies, brands and businesses within the Co-operative Group.** We may also share information throughout the Co-op for the reasons outlined such as core administration and activities that have been identified as being within our legitimate interests. For example, we'll share information from our Co-op Food stores and other businesses with our Membership department to ensure you receive your Membership rewards and there are similar arrangements between our other businesses. We may also share information where we decide to restructure part of our business and, for example, we transfer responsibility for the services we provide to you to another business within the Co-op Group - these entities are the same as those listed as controllers in this notice. 
+  * **Credit reference agencies.** For example they may supply anti-fraud and credit-insight information to us. 
+  * **Social media companies and our advertising partners.** For example we might match your email address with Facebook and Twitter to enable us to run promotions on their platforms
+  * **Our regulators.** For example, we may need to share your information with the Solicitors Regulation Authority or the Legal Ombudsman if we are providing legal services to you.
+  * **Our professional advisors.** For example we may need to share information with our lawyers or auditors when they need it to give us their professional advice.
+  * **Public authorities, agencies and other government bodies.** For example we might need to provide your information to the police or other bodies such as the DVLA, the NHS Business Services Authority or your GP.
+  * **Potential corporate buyers.** Where we consider selling any of our Co-op Group businesses or substantially all of its assets to a third party outside the Co-op group. We may need to disclose documentation and other information that may include your personal information.
+
+
+
+## How long we keep personal information
+
+We only keep your information for as long as it's needed for each of the activities we’ve identified in this Notice, as well as for as long as required in connection with our legal or regulatory obligations. 
+
+As you might expect, that will vary but we're happy to share more specific retention schedules if you wish to contact us on the contact details below.
+
+### Transferring your information outside the European Economic Area (EEA)
+
+We may need to transfer your personal information outside of the EEA in order to provide you with the services and products you require or as necessary for our business. This will most likely occur when our third-party providers are based outside the EEA. Some of these countries may not have laws that protect privacy rights as extensively as in the EEA. 
+
+If we do transfer your personal information to other jurisdictions, we will take proper steps to ensure that your information is as equally protected as in the UK, such as entering into "standard data protection clauses" with the recipient. These are clauses that have been approved by the European Commission for such transfers.
+
+## Your rights about how your personal information is handled
+
+Data protection laws provide you with a number of rights as set out below.
+
+### Right to access your personal data
+
+You may request confirmation that we hold personal data about you, as well as access to a copy of any such data.
+
+### Right to rectification
+
+You may ask us to rectify any inaccurate information we hold about you.
+
+### Right to erasure
+
+You may ask us to delete your personal information.
+
+### Right to restriction
+
+You may ask us to restrict the processing of your personal information in certain circumstances. 
+
+### Right to portability
+
+You may request the receipt or transfer to another organisation in a structured, commonly used and machine-readable form, the personal data that you have provided to us.
+
+### Right to object
+
+You may object to our processing of your personal information in certain circumstances.
+
+### Right to withdraw consent
+
+Where our processing of your personal information is based on your consent, you may withdraw this consent at any time, although this won’t affect the lawfulness of any prior processing where we relied on your consent.
+
+### Right to make a complaint
+
+You may make a complaint about our processing of your personal data by contacting us via the contact details provided in this Notice. While we hope that we would be able to address any issues you have in respect of this processing, you may also make a complaint to the UK’s data protection regulation - visit the [Information Commissioner’s Office](https://ico.org.uk/).
+
+If you would like to exercise any of your rights, please contact us using the contact details set out below.
+
+### Automated processing
+
+Sometimes we use your personal information in automated processes to make decisions about you, or to create a profile of you. If you are a Member, we may also generate a profile ‘score’ for you, which is designed to provide benefits such as discounts on Co-op products and services. Our use of automated decision making, for example in respect of our insurance products, is to help ensure that decisions are made accurately, fairly and efficiently. 
+
+### How you can contact us
+
+To find out what personal information we hold about you, print a subject access request form, fill it in and send it by post to:
+
+Data Protection Team,  
+5th Floor,  
+1 Angel Square,  
+Manchester M60 0AG
