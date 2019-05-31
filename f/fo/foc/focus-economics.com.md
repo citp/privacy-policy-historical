@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927170056id_/https%3A//www.focus-economics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531162953id_/https%3A//www.focus-economics.com/privacy-policy) for the most accurate reproduction.*
 
 # FocusEconomics Privacy Policy | FocusEconomics
 
