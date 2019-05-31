@@ -1,90 +1,223 @@
-> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710201259id_/https%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceaneering.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531123756id_/https%3A//www.oceaneering.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oceaneering
 
-##### **1\. Our Commitment To Privacy and Restrictions on Use of Our Site**
+##### **INTRODUCTION**
 
-Oceaneering.com (“Site”) is an Internet property of Oceaneering International, Inc., its subsidiary or affiliate (“OII,” “we,” “us”). Your privacy is important to us. In this statement we explain our online information practices and the choices you can make about the way your information is collected and used.
+This Website Privacy and Cookies Policy ("Privacy Policy") describes how Oceaneering International  
+(Oceaneering International and the affiliates listed [here](https://www.oceaneering.com/locations/ "List og Affliates")) ("Oceaneering") collects, uses, shares, and  
+otherwise processes individually identifiable data about visitors to this Site (defined below) as well as  
+contact persons of our corporate customers, vendors, and suppliers ("Personal Data"). This Privacy  
+Policy applies to Personal Data that we collect through our websites ("Site"), as well as through trade  
+shows, seminars, conferences, and other offline means.
 
-This Site may not be used by persons under eighteen (18) years of age. Persons under that age must not disclose any information to us.
+#####  **COLLECTION OF PERSONAL DATA**
 
-Please note that if you use the Site to request alerts, newsletters or invitations to educational seminars or additional information, such request will not create a business relationship with OII or any of its employees or professionals. Such a relationship would require direct, personal contact between you and OII through one or more employees or other professionals, and would also require an agreement that confirms that a relationship is established and provides the terms of that relationship. Similarly, posted invitations to contact OII for additional information will not be deemed solicitations to provide any goods or services. Information provided on the Site or otherwise should not be construed as a statement or guaranty of the availability of any goods, the availability of our employees to perform any services, or the availability of particular pricing for goods or services.
+As a business-to-business ("B2B") organization, we collect name, contact details, and other Personal  
+Data related to our commercial relationships. We collect the following categories of Personal Data:
 
-Please note that this Privacy Policy does not apply to you if you are an employee or contractor of OII who is using this Site. Please consult the employee handbook for details on acceptable use of OII’s computer equipment, including its servers.
+  *  **Basic Data** : Name, title, company, region, job responsibilities, phone number, mailing address,  
+email address, contact details, age and/or date of birth if requested, and any other personal  
+data that you submit to us during the course of correspondence with us.
+  *  **Registration Data** : Newsletter and/or other alert requests, subscriptions, downloads, and  
+registration to seminars, courses, or conferences.
+  *  **Marketing Data** : Data about individual participation in trade shows, seminars, and conferences,  
+credentials, associations, product interests, query information, and preferences.
+  *  **Job Applicant Data** : Data provided by job applicants or others on our Site or offline means in  
+connection with employment opportunities. Additional notice will be provided via separate  
+privacy statement(s) where applicable.
+  *  **Device Data** : Computer Internet Protocol (IP) address, unique device identifier (UDID), cookies  
+and other data linked to a device, and data about usage of our Site (Usage Data). Note,  
+however, we do not consider Device Data to be Personal Data except where we can link it to  
+you as an individual or where applicable law provides otherwise.
 
-##### **2\. The Information We Collect**
 
-This statement applies to all information collected or submitted on this Site. We do not accept credit card or bank account information through this Site but may use a third party provider for such services. We do collect information on the forms that you complete in connection with responses to employment solicitations or other invitations to seminars or similar activities, or if you make an inquiry about our goods or services.
 
-The types of personal information we collect include:  
-• First and last name  
-• Address  
-• Email address  
-• Phone number  
-• Age and/or date of birth if requested  
-• Any other personal information the user submits during the course of correspondence with us concerning employment opportunities, seminars or similar activities, or inquiries about goods or services
+#####  **USE OF PERSONAL DATA**
 
-We also collect non-personally identifiable information. Non-personally identifiable information is information collected in the normal course of operating our business that does not reveal the specific identity of the user. This data records activity either on this Site or within Site-initiated email. The types of non-personally identifiable information collected include:  
-• Internet protocol (“IP”) address  
-• Information about a site from which you reached our Site, such as a search engine page  
-• The time spent viewing particular pages of our Site  
-• Whether you clicked on a link we provided on our Site
+We use the above categories of Personal Data for the following purposes:
 
-When you access our Site via the Internet, our servers automatically record certain information in a server log. These server logs may include information such as your web request, your interaction with a service, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+PURPOSE OF USE| CATEGORIES OF PERSONAL DATA  
+---|---  
+Perform transactions and respond to your inquiries| Basic Data, Registration Data, and Device Data  
+Manage your accounts and maintain our business operations| Basic Data, Registration Data, and Device Data  
+Make our Site more intuitive and easy to use| Device Data  
+Protect the security and effective functioning of our Site and information technology systems| Basic Data, Registration Data, and Device Data  
+Provide relevant marketing| Basic Data, Registration Data, Device Data, and Marketing Data  
+Address our compliance and legal obligations and exercise our legal rights| Basic Data, Registration Data, and Device Data  
+Consider individuals for employment and contractor opportunities and manage on-boarding procedures| Job Applicant Data  
+  
+We may share Personal Data with the following categories of recipients:
 
-Our Site’s servers automatically identify your computer by its IP address, which is a unique string of numbers that is assigned to your computer by your Internet service provider. IP addresses are automatically logged by web servers, collecting information about a user’s traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual who is using the Internet. Your IP address can also reveal what geographic area you are connecting from, or which ISP you are using. Your IP address may be used to address problems with our server, administer our Site and/or to gather broad demographic information about users of the Site. Finally, the other websites that you visit have IP addresses, and we may collect the IP addresses of those websites and their pages, as well.
+  *  **Affiliates** : We share Personal Data within the Oceaneering group of affiliated companies as necessary  
+for the purposes identified above. As noted above, the list of affiliates within the Oceaneering group is  
+provided [here](https://www.oceaneering.com/locations/ "List og Affliates").
+  *  **Suppliers and service providers** : We share Personal Data with suppliers and service providers to  
+enable such parties to perform functions on our behalf and under our instructions in order to carry out the  
+purposes identified above. We require such parties by contract to provide reasonable security for  
+Personal Data and to use and process such Personal Data only on our behalf.
+  *  **Auditors, and advisors** : We share Personal Data with auditors for the performance of audit functions,  
+and with advisors for the provision of legal and other advice.
+  *  **Business reorganization** : We share Personal Data with any corporate purchaser or prospect to the  
+extent permitted by law as part of any merger, acquisition, sale of company assets, or transition of service  
+to another provider, as well as in the event of insolvency, bankruptcy, or receivership in which Personal  
+Data would be transferred as an asset of Oceaneering.
+  *  **Mandatory disclosures and legal rights** : We share Personal Data in order to comply with any  
+subpoena, court order or other legal process, or other governmental request. We also share Personal  
+Data to establish or protect our legal rights, property, or safety, or the rights, property, or safety of others,  
+or to defend against legal claims.
 
-##### **3\. Cookies**
 
-“Cookies” are small pieces of information stored on your hard drive. Cookies do not spy on you or otherwise invade your privacy. Rather, cookies help you navigate a website and enhance the user experience.
 
-Our Site may utilize cookies to collect information about how our Site is used. Information gathered from cookies may include the date and time of visits, the Site pages viewed, viewing and other options chosen as preferences regarding our Site, time spent at our Site and the websites that you visited just before and just after your visit to our Site. We reserve the right to retain cookie data indefinitely.
+If you have questions about the parties with which we share Personal Data, please contact us as  
+specified below.
 
-If you do not wish to transmit “cookie” information, you may turn off the cookie function in your web browser. However, turning off or disabling the cookie functions on your web browser may prevent our system from properly recognizing you when you visit our Site.
+#####  **MARKETING CHOICES**
 
-##### **4\. The Way We Use Information**
+You have control regarding our use of your Personal Data for directing marketing. If you no longer wish  
+to receive any marketing communications, remain on a mailing list to which you previously subscribed,  
+or receive any other marketing communication, you can choose to not receive such communications at  
+any time. Please follow the unsubscribe link in the relevant communication or contact us as detailed  
+below.
 
-Generally, we will use information collected on this Site to contact you in response to your inquiries, to provide services requested by you, to alert you to changes in goods and services, and to provide you with requested information regarding us or our services. We may also provide newsletters or bulletins. By submitting your email address at the Site, you agree to receive emailed materials from us.
+#####  **COOKIES**
 
-Any information that you submit at the Site remains your property. However, by submitting that information to us, you grant to us rights to: (1) share your information with third party individuals and entities that we employ directly, or as contractors or agents at our direction, for our own internal business purposes or those of our business partners; (2) use your information for purposes of administering and conducting our business activities; and (3) use your information for purposes of providing services to you or fulfilling your requests.
+We use and allow certain third parties to use cookies, web beacons, and similar tracking technologies  
+(collectively, "cookies") on our Site.
 
-We also reserve the right to disclose and transfer your personal information as required by law and when we believe that disclosure or transfer is necessary to protect our rights and/or to comply with a judicial proceeding, court order, when legal process is served on our Site, if our assets are sold or acquired, if a business unit is sold or acquired, if our entire company is sold or acquired, or when we otherwise deem it necessary or appropriate. By agreeing to this statement, you consent to disclosure and transfer of any record or communication to any third party when we, in our sole discretion, determine the disclosure or transfer to be appropriate.
+ _What are cookies?_  
+Cookies are small amounts of data that are stored on your browser, device, or the page you are  
+viewing. Some cookies are deleted once you close your browser, while other cookies are retained  
+even after you close your browser so that you can be recognized when you return to a website. More  
+information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "open www.allaboutcookies.org in new window").
 
-We also reserve the right to transfer any personal or other information you disclose to us to any successor to our business as a whole, or to any successor to part of our business, whether by merger, corporate consolidation, sale of assets, or otherwise.
+ _How do we use cookies?_  
+We use cookies to provide the Site and services, gather information about your usage patterns when  
+you navigate this Site in order to enhance your personalized experience, and to understand usage  
+patterns to improve our Site, products, and services. We also allow certain third parties to place  
+cookies on our Site in order to collect information about your online activities on our Site over time and  
+across different websites that you visit. This information is used to provide advertising tailored to your  
+interests on websites you visit, also known as interest based advertising, and to analyze the  
+effectiveness of such advertising.
 
-##### **5\. Data Collection Practices by Third Parties**
+Cookies on our Site are generally divided into the following categories:
 
-We do not endorse, nor are we liable for the accuracy of, the privacy policies and/or terms and conditions of any third parties, including without limitation, those to which we provide links on our Site, including those of our service providers. You should read the privacy policies of such third party websites to make sure that you agree to their terms before using such websites.
+STRICTLY NECESSARY| ANALYTICAL/PERFORMANCE| TARGETING  
+---|---|---  
+These are required for the operation of our Site. These cookies are session cookies that are erased when you close your browser.| These allow us to recognize and count the number of users of our Site and understand how such users navigate through our Site. This helps to improve how our Site works, for example, by ensuring that users can find what they are looking for easily. These cookies are session cookies which are erased when you close your browser. We use Google Analytics, and you can see below for how to control the use of cookies by Google Analytics.| These record your visit to our Site and the pages you have visited. You can delete these cookies via your browser settings. See below for further details on how you can control third party targeting cookies.  
+  
+ _What are your options if you do not want cookies on your device?_
 
-##### **6\. Group Aggregate Data**
+You can review your Internet browser settings, typically under the sections "Help" or "Internet Options,"  
+to exercise choices you have for certain cookies. If you disable or delete certain cookies in your  
+Internet browser settings, you might not be able to access or use important functions or features of this  
+Site, and you may be required to re-enter your log-in details.
 
-We reserve the right to provide aggregate or group data about our Site users for any lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of our Site users as a group, without disclosing their personal information.
+To learn more about the use of cookies for Google analytics and to exercise choice regarding such  
+cookies, please visit <https://tools.google.com/dlpage/gaoptout>.
 
-##### **7\. Security**
+To learn more about certain cookies used for interest based advertising by third parties, including  
+through cross-device tracking, and to exercise certain choices regarding such cookies, please visit  
+the Digital Advertising Alliance, Network Advertising Initiative, Digital Advertising Alliance-  
+Canada, European Interactive Digital Advertising Alliance or your or your device settings if you have the  
+DAA or other mobile application.
 
-We endeavor to safeguard and protect our users’ information. We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control, and we follow generally accepted industry standards to protect the personal information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+#####  **DATA SUBJECT RIGHTS**
 
-##### **8\. Children’s Privacy**
+Where required by applicable law, you have the right to obtain confirmation that we maintain certain  
+Personal Data relating to you, to verify its content, origin, and accuracy, as well as the right to access,  
+review, port, delete, block or withdraw consent to the processing of certain Personal Data (without  
+affecting the lawfulness of processing based on consent before its withdrawal), by contacting us as  
+detailed below. In particular, you have the right to object to our use of your Personal Data for direct  
+marketing, and in certain other situations at any time. Contact us below for more details. Please note  
+that we need to retain certain Personal Data as required or permitted by applicable law.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13.
+#####  **DATA SECURITY**
 
-##### **9\. How You Can Access Or Correct Your Information**
+We maintain reasonable technical and organizational measures to protect Personal Data from loss,  
+misuse, alteration, or unintentional destruction. However, no security measure can guarantee against  
+compromise. You also have an important role in protecting your Personal Data. You should not share  
+your username and password with anyone, and you should not re-use passwords across more than  
+one website. If you have any reason to believe that your username or password has been  
+compromised, please contact us as detailed below.
 
-If you wish to access, delete or correct the information that you have provided to us through this Site, or if you do not wish to receive any emails from us, please contact us through the “Contact Us” section of our Site.
+#####  **CROSS-BORDER DATA TRANSFERS**
 
-##### **10\. Your California Privacy Rights**
+We transfer Personal Data to various jurisdictions as necessary for the purposes described above,  
+including to jurisdictions that may not provide the same level of data protection as your home  
+country. We provide appropriate protections for cross-border transfers as required by applicable law for  
+international data transfers. With respect to transfers originating from the European Economic Area  
+("EEA"), we implement standard contractual clauses approved by the European Commission, and other  
+appropriate solutions to address cross-border transfers as required by applicable law. Where required  
+by such laws, you may request a copy of the suitable mechanisms we have in place by contacting us  
+as detailed below.
 
-California Civil Code Section 1798.83 permits California residents who have provided personal information to us or our third party advertisers and marketing partners, if any, to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding calendar year, if any, along with the names and addresses of these third parties, if any. This request may be made no more than once per calendar year.
+#####  **OTHER ISSUES**
 
-##### **11\. Policy Changes**
+ _What is the legal basis of processing?_  
+Some jurisdictions require an explanation of the legal basis for collecting and processing Personal  
+Data. We have several different legal grounds on which we collect and process Personal Data,  
+including:
 
-We update our policy from time to time without notice so please check back periodically. Changes to the privacy policy will be posted on this Site and the effective date of the policy will be modified to reflect the effective date of the most recent version.
+  1. as necessary to perform a transaction (such as when we respond to your requests);
+  2.  as necessary to comply with a legal obligation (such as when we use Personal Data for recordkeeping to  
+substantiate tax liability);
+  3. consent (where you have provided consent as appropriate under applicable law, such as for direct  
+marketing or certain cookies); and
+  4. necessary for legitimate interests (such as when we act to maintain our business generally, including  
+maintaining the safety and security of the Site).
 
-##### **12\. How To Contact Us**
 
-Should you have questions or concerns about our privacy policies, please contact us at legal@oceaneering.com or by postal mail at:
 
-Legal Department  
-Oceaneering International, Inc.  
-11911 FM 529  
-Houston, Texas 77041
+With respect to legitimate interests, given that we are a B2B company, we typically collect and process  
+limited Personal Data about customer contacts and other individuals acting in their business capacities,  
+as part of our overall effort to reduce the privacy impact on individuals.
+
+ _What are the consequences of not providing Personal Data?_  
+You are not required to provide all Personal Data identified in this Privacy Policy to use our Site or to  
+interact with us offline, but certain functionality will not be available if you do not provide certain  
+Personal Data. If you do not provide certain Personal Data, we may not be able to respond to your  
+requests, perform a transaction with you, or provide you with marketing that we believe you would find  
+valuable.
+
+ _Do we engage in automated decision-making without human intervention?_  
+Except with regard to certain recruitment activities, which are detailed in a separate privacy statement,  
+we do not use automated decision-making without human intervention, including profiling, in a way that  
+produces legal effects concerning you or otherwise significantly affects you.
+
+ _Does the Site honor do not track ("DNT") signals sent via browsers?_  
+Yes, we DO honor DNT signals.
+
+ _How long do we retain Personal Data?_  
+We typically retain Personal Data related to marketing activities for as long as you accept marketing  
+communications from us and then generally for up to 2 years. After 2 years, or upon request, we will  
+generally securely delete such data in accordance with applicable law. For Personal Data that we  
+collect and process for other purposes, as described above, we typically retain such Personal Data for  
+no longer than the period necessary to fulfill the purposes outlined in this Privacy Policy, and as  
+otherwise needed to address tax, corporate, compliance, employment, litigation, and other legal rights  
+and obligations.
+
+ _Are third party websites governed by this Privacy Policy?_  
+This Site contains links and references to other websites administered by unaffiliated third parties. This  
+Privacy Policy does not apply to such third party websites. When you click a link to visit a third party  
+website, you will be subject to that website's privacy practices. We encourage you to familiarize  
+yourself with the privacy and security practices of any linked third party websites before providing any  
+Personal Data on those websites.
+
+ _How does Oceaneering handle employee and contractor privacy issues?_  
+Personal Data about our employees and contractors are addressed through internal company policies  
+and procedures, and are outside the scope of this Privacy Policy.
+
+ _How will we handle any changes to this Privacy Policy?_  
+We may update this Privacy Policy from time-to-time as our services and privacy practices change, or  
+as required by law. The effective date of our Privacy Policy is posted below, and we encourage you to  
+visit our Site periodically to stay informed about our privacy practices. We will post the updated version  
+of the Privacy Policy on our Site, and ask for your consent to the changes if legally required.
+
+#####  **CONTACT US**
+
+If you have questions or comments regarding this Privacy Policy or our privacy practices, please  
+contact us at [legal@oceaneering.com](mailto:legal@oceaneering.com "email Oceaneering Legal Department"). You may also have a right to lodge a complaint with a data  
+protection supervisory authority.
+
+Company page Since our founding in the early 1960s, Oceaneering has expanded and grown globally to service several industries such as the offshore energy industry, defense, entertainment, material handling, aerospace, science, and renewable energy industries. In 1964, Mike Hughes and Johnny Johnson formed a Gulf of Mexico diving company called World Wide Divers. The company grew in response to increasing demand for their services and in 1969 merged with two other diving companies to form Oceaneering International, Inc. To solve the toughest challenges, we do things differently, creatively, and smarter. As your trusted partner, our unmatched experience and truly innovative portfolio of technologies and solutions give us the flexibility to adapt and evolve, regardless of market conditions. Our mission is to solve the unsolvable. We thrive by creating industry-changing technically creative solutions for the most complex operational challenges under water, on land, and in space. Our five core values establish a common culture and demonstrate what is most important for us as a company. Since the beginning, the company has transformed from a small regional diving company into a global provider of engineered products and services. Today, we develop products and services for use throughout the lifecycle of an offshore oilfield, from drilling to decommissioning. We operate the world's premier fleet of work class ROVs. Additionally, we are a leader in offshore oilfield maintenance services, umbilicals, subsea hardware, and tooling. We also serve the aerospace, defense, and theme park industries. Underpinning everything we do, safety is not only the foundation of our core values, but it is vital to our unmatched performance record and company culture. The industries we serve are as diverse as they are complex. Whether we are engineering deepwater umbilicals or developing robotics for aerospace applications, the safety and health of our employees, vendors, and customers is an integral part of our day-to-day business. If we are working, then our responsibility is to be working safely. Since our inception in 1964, we have placed a high value on employee safety—from diving services and subsea inspection to vessel-based installation operations. We have and will continue to evolve not only our health, safety, and environmental (HSE) processes, but those of the industries in which we work. Although we have been fatality-free since 1999, our HSE journey goes beyond statistics. As our portfolio of services has grown, we have continued to prioritize and advance our approach to HSE.
