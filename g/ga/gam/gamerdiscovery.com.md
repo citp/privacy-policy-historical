@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerdiscovery.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210161708id_/https%3A//gamerdiscovery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerdiscovery.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531202258id_/https%3A//gamerdiscovery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamerDiscovery
 
@@ -47,7 +47,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at gamerdiscoverycontact@gmail.com or contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at contact@gamerdiscovery.com or contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
 
  **Sale of Business or Assets**
 
@@ -59,4 +59,4 @@ We may change this Privacy Policy from time to time. The most recent version of 
 
  **Contacting Us**
 
-If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at gamerdiscoverycontact@gmail.com
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at contact@gamerdiscovery.com
