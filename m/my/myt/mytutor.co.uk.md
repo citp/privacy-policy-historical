@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytutor.co.uk privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127105537id_/https%3A//www.mytutor.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytutor.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531182710id_/https%3A//www.mytutor.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MyTutor
 
@@ -258,9 +258,9 @@ Should you wish to discuss or contest this decision or request that a person is 
 Requests for information about our Statement can be emailed to [support@mytutor.co.uk](mailto:support@mytutor.co.uk) or requested in writing to:
 
 My Tutorweb Limited (Internal Compliance Department)  
-15 Bonhill Street  
+3-5 Fashion Street  
 London  
-EC2P 2EA
+E1 6PX
 
 15\. CHANGES TO THIS STATEMENT
 
