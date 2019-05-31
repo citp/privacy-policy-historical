@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212041941id_/http%3A//www.myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531204948id_/http%3A//myfreeshares.com/pages/privacy.php) for the most accurate reproduction.*
 
 # MyFreeShares.com
 
