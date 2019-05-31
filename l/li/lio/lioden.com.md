@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211051903id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531203022id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Lioden
 
@@ -7,7 +7,7 @@
 
 
 
-_Last updated March 30 2018_. 
+_Last updated January 11 2019_. 
 
 This privacy policy sets out how Lioden Ltd uses and protects any information that you give Lioden Ltd when you use this website. 
 
@@ -44,9 +44,11 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added. Cookies allow web applications to respond to you as an individual.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added. Cookies allow web applications to respond to you as an individual. 
 
-We use cookies to identify when a user is returning to Lioden so that it can keep users logged into their accounts. Cookies can be destroyed by logging out of your account.
+We use cookies to identify when a user is returning to Lioden so that it can keep users logged into their accounts. These cookies can be destroyed by logging out of your account. 
+
+We also use cookies to store drafts of users' posts on the forums so that they can easily return to them in case of an accidental click or internet disruption. These Cookies can be destroyed by clicking the "Reset" button on the post pages, or by submitting the post. 
 
 A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
