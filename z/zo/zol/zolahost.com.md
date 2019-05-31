@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113222329id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531202054id_/https%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,6 +57,6 @@ Z Hosting Technologies
 Dharapuram,Tirupur,  
 Tamil Nadu-638702,  
 india.  
-support@zolahost.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on Jun 02, 2011
