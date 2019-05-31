@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004011748id_/https%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222455id_/https%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cartoon Network
 
