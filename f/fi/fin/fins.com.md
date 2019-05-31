@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205183525id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531205657id_/https%3A//news.efinancialcareers.com/us-en/page/privacy-policy-us) for the most accurate reproduction.*
 
 # EFINANCIALCAREERS PRIVACY POLICY - eFinancialCareers
 
@@ -13,7 +13,7 @@ We at DHI are committed to good privacy practices regarding your personal infor
 
 DHI and its subsidiaries such as [www.eFinancialCareers.com](https://www.efinancialcareers.com/), participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  DHI is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-The data controller of [www.eFinancialCareers.com](https://www.efinancialcareers.com/)  is eFinancialCareers, Inc., 1040 Avenue of the Americas, Floor 8, New York, NY 10018, (tel) 212-725-6550..Mazars LLP is a data protection officer and can be contacted at [dpo@efinancialcareers.com](mailto:dpo@efinancialcareers.com) or at Mazars LLP Tower Bridge House– St Katherine’s Way –  London E1W 1DD
+The data controller of [www.eFinancialCareers.com](https://www.efinancialcareers.com/)  is eFinancialCareers, Inc., 1040 Avenue of the Americas, Floor 8, New York, NY 10018, (tel) 212-725-6550. Adam Stokes is our data protection officer and can be contacted at [dpo@efinancialcareers.com](mailto:DPO@efinancialcareers.com "Follow link") or at The Data Protection Officer, DHI Group Inc, Telephone House, 69-77 Paul Street, Shoreditch, London, EC2A 4NQ.
 
 DHI is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  DHI complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -70,6 +70,11 @@ In addition, job seekers may elect to make their profile searchable by our custo
 DHI Services are not available to children under 16 years of age. We do not knowingly collect personal information from children under 16 years of age.
 
 Please note that we cannot control the acts of users of the Services. All members and visitors should be aware that, when they disclose personal information in a resume or profile or other medium, the information may be collected and used by others to send that person unsolicited email from other parties outside DHI. In the event that you encounter any DHI user who is improperly collecting or using information about you or other users, please contact [support@efinancialcareers.com](mailto:support@efinancialcareers.com).
+
+**Profile Supplementation:**  
+To provide services to our customers, DHI may collect indexed content, including information about you, from a variety of publicly available websites. Indexed content may include personal information such as posts on blogs. In general, such indexed content is available through standard search engines or by visiting the public websites themselves. We combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. DHI may append this information to your profile or use this content to create a profile, whether or not an individual has an account with us. If you would like to remove the information we collect, contact us at support@efinancialcareers.com. DHI has no ownership rights to the indexed content sourced from third party sites and cannot guarantee that we will not collect information from a publicly available source at a later point in time.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include job and industry information, such as skills, title, experience, qualifications, etc. and any other publicly available information such as social profiles.
 
 ## B. How we use the information we gather
 
