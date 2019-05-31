@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobday.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230053259id_/http%3A//mobday.com/index.php%3Fp%3D112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobday.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601000409id_/http%3A//mobday.com/index.php%3Fp%3D112) for the most accurate reproduction.*
 
 # MOBDAY - Mobile Monetization in a smart way
 
