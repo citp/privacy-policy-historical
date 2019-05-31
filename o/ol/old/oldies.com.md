@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130022804id_/https%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531151436id_/https%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # OLDIES.com : OLDIES.com Privacy Policy
 
