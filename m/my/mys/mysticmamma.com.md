@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysticmamma.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129215953id_/http%3A//www.mysticmamma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysticmamma.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531083739id_/http%3A//www.mysticmamma.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MYSTICMAMMA.COM : consciousness, spirituality, astrology, wisdom, inspiration new
 
