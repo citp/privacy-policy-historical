@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010756id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531232443id_/https%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
 
 # Lesson Planet Privacy Policy
 
-Last revised: February 25, 2014
+Last revised: September 23, 2014
 
 ###  First and Foremost: The Security of Your Most Sensitive Data 
 
@@ -20,8 +20,7 @@ Follow this link to read about how we keep your billing information secure.
       * Contests, Sweepstakes, and Surveys
       * Email
       * Social Media
-      * Referrals
-      * Member Services
+      * Member Success Team
       * Supplemental Information We May Collect from Other Sources
       * School Edition Accounts
     * Information Collected Automatically
@@ -45,19 +44,19 @@ Follow this link to read about how we keep your billing information secure.
 
 Protecting your private information is our priority at Lesson Planet. We want our Members to know about and understand our privacy practices, so we've created this document to explain the measures we take to keep our website and services a safe and secure environment for everyone. 
 
-Education Planet, Inc., d/b/a Lesson Planet, ("Lesson Planet, "we," "us," or "our") connects educators with relevant Open Educational Resources by providing Members with reviews and ratings from our team of credentialed teachers. Members also have the opportunity to participate online in a variety of ways, including Lesson Planet Community ("Community"), a forum for teachers to share ideas, thoughts, and opinions in a safe and professional environment. Our membership is composed of teachers, student teachers, and school administrators in the K-12 public and private school markets, as well as homeschooling parents. 
+Education Planet, Inc., d/b/a Lesson Planet, ("Lesson Planet, "we," "us," or "our") connects educators with relevant Open Educational Resources by providing Members with reviews and ratings from our team of credentialed teachers. We also provide Members with educational technology professional development through online courses and EdTech Tuesday videos. For schools and districts, we create custom blended (online and live) professional development programs on an array of topics from EdTech how-to to classroom and district-wide implementation. Members also have the opportunity to participate online in a variety of ways, including commenting on resources and sharing collections with the Lesson Planet community. Our membership is composed of teachers, student teachers, and school administrators in the K-12 public and private school markets, as well as homeschooling parents. 
 
 This Privacy Policy describes what information we collect when you visit Lesson Planet and use our services, how we use that information, and what choices we offer you to update and control it. This Privacy Policy does not apply to any information that may be collected through other sources. 
 
-This Privacy Policy is incorporated into and is subject to the Lesson Planet [Terms of Use](https://web.archive.org/web/20140626010756id_/http%3A//www.lessonplanet.com/us/terms_of_use). By using the Lesson Planet website, products, tools, and/or services, you consent to the collection, use, storage, and disclosure of your personal information in accordance with this Privacy Policy. 
+This Privacy Policy is incorporated into and is subject to the Lesson Planet [Terms of Use](https://web.archive.org/web/20190531232443id_/https%3A//www.lessonplanet.com/us/terms_of_use). By using the Lesson Planet website, products, tools, and/or services, you consent to the collection, use, storage, and disclosure of your personal information in accordance with this Privacy Policy. 
 
 This Privacy Policy applies regardless of the type of device you use to access Lesson Planet and whether you are accessing the service as a Member or otherwise. 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [MemberServices@lessonplanet.com](mailto:MemberServices@lessonplanet.com) or by calling (888) 909-9035 (M-Th 9:00am - 12:30pm & 1:30pm - 5:30pm (PT); Fri 9:00am - 12:30pm (PT)). 
+If you have any questions or concerns about this Privacy Policy, please contact us at [MemberSuccess@lessonplanet.com](mailto:MemberSuccess@lessonplanet.com) or by calling (888) 909-9035 (M-F 8:00am - 12:00pm, 1:00pm - 4:30pm PT). 
 
 ###  2\. Consent 
 
-By using the Lesson Planet website, products, tools, and/or services, you consent to the collection and use of your information as outlined in this Privacy Policy, and you consent to our [Terms of Use](https://web.archive.org/web/20140626010756id_/http%3A//www.lessonplanet.com/us/terms_of_use). 
+By using the Lesson Planet website, products, tools, and/or services, you consent to the collection and use of your information as outlined in this Privacy Policy, and you consent to our [Terms of Use](https://web.archive.org/web/20190531232443id_/https%3A//www.lessonplanet.com/us/terms_of_use). 
 
 ###  3\. Types of Information We Collect 
 
@@ -79,17 +78,17 @@ We receive and store information, including Personally Identifiable Information,
 
 When you sign up for a 10-Day Free Trial for a Premium Membership (access to all Lesson Planet tools, services, and products), Lesson Planet will take steps to validate the payment method and billing information supplied to us to ensure it is accurate. We also use this information to determine your eligibility for our Free Trial offer. 
 
-When you join Lesson Planet Community, if you are not already a Member of Lesson Planet, we'll ask you to enter your name and email address. Your email address will be verified by an email we send you that contains a unique link. If that link is visited, we know that you control the email address. If you have a Lesson Planet membership, you are automatically part of Lesson Planet Community. 
+When you join Lesson Planet, if you are not already a Member of Lesson Planet, we'll ask you to enter your name and email address. Your email address will be verified by an email we send you that contains a unique link. If that link is visited, we know that you control the email address. If you have a Lesson Planet membership, you are automatically able to discuss resources with the Lesson Planet community via comments on resources. 
 
 #####  Comments and Profile Information 
 
-We understand that you want to share your professional perspective and experiences, freely and safely, on Lesson Planet. We are committed to providing an environment that supports positive collaboration among educators, and we value your contributions to the Lesson Planet Community. 
+We understand that you want to share your professional perspective and experiences, freely and safely, on Lesson Planet. We are committed to providing an environment that supports positive collaboration among educators, and we value your contributions to the Lesson Planet community. 
 
-We collect information that you voluntarily provide, share, or upload through our site or services, including but not limited to reviews, ratings, comments, posts, responses, messages, feedback, testimonials, files, photos, videos, images, or other contributions through media that are publicly visible ("Comments and Profile Information"). Comments and Profile Information are subject to our [Terms of Use](https://web.archive.org/web/20140626010756id_/http%3A//www.lessonplanet.com/us/terms_of_use). We may store and link Comments and Profile Information to your Member Account. 
+We collect information that you voluntarily provide, share, or upload through our site or services, including but not limited to reviews, ratings, comments, posts, responses, messages, feedback, testimonials, files, photos, videos, images, or other contributions through media that are publicly visible ("Comments and Profile Information"). Comments and Profile Information are subject to our [Terms of Use](https://web.archive.org/web/20190531232443id_/https%3A//www.lessonplanet.com/us/terms_of_use). We may store and link Comments and Profile Information to your Member Account. 
 
 Member Comments will be moderated or edited by our editorial staff. We will delete or refuse to publish any comments that appear to be on a completely unrelated topic, blatantly and wholly self-promotional, a duplicate posting, otherwise spammy in nature, or inappropriate. We may edit comments for grammatical and spelling errors. You own the copyright and are liable for the contents of your Comments and Profile Information; however, by posting Comments and Profile Information on our site, you give us the rights to publish or republish them in any format at any time we wish, indefinitely and without contacting or compensating you in the future. 
 
-Please keep in mind that if you directly disclose Personally Identifiable Information through Lesson Planet Community or Profile Information, this information may be collected and used by others. Information that you voluntarily post in publicly visible parts of Lesson Planet (whether you are signed in as a Member or visiting but not signed in) is considered to be public, even if it would otherwise be considered Personally Identifiable Information. Your Comments may remain even after you cancel your account. 
+Please keep in mind that if you directly disclose Personally Identifiable Information through Lesson Planet comments or Profile Information, this information may be collected and used by others. Information that you voluntarily post in publicly visible parts of Lesson Planet (whether you are signed in as a Member or visiting but not signed in) is considered to be public, even if it would otherwise be considered Personally Identifiable Information. Your Comments may remain even after you cancel your account. 
 
 #####  Contests, Sweepstakes, Surveys, and Testing 
 
@@ -99,21 +98,17 @@ We are committed to continually improving our services. We may conduct surveys a
 
 #####  Email 
 
-If you are a registered Member of Lesson Planet, we may occasionally send you emails to tell you about new features, solicit your feedback, or just keep you up-to-date with what's going on with Lesson Planet, our website, products, tools, and services. If you do not want to receive such communications, you may opt out by following the 'unsubscribe' instructions in the email, or by changing your [email preferences](https://web.archive.org/profile/email). You can opt out of promotional emails at any time, but you will still receive communications such as receipts, confirmation emails, renewal reminders, and Member Services updates that are considered necessary to provide our services to you. 
+If you are a registered Member of Lesson Planet, we may occasionally send you emails to tell you about new features, solicit your feedback, or just keep you up-to-date with what's going on with Lesson Planet, our website, products, tools, and/or services. If you do not want to receive such communications, you may opt out by following the 'unsubscribe' instructions in the email, or by changing your [email preferences](https://web.archive.org/profile/email). You can opt out of promotional emails at any time, but you will still receive communications such as receipts, confirmation emails, renewal reminders, and Member Success Team updates that are considered necessary to provide our services to you. 
 
-If you correspond with us or provide feedback by email, we may retain the content of your email messages, your email address, and our responses. If you send us a request (for example via an email to Member Services or one of our feedback mechanisms), we reserve the right to use and/or publish it in order to help us clarify or respond to your request, to help us support other Members, to develop the most useful services and features possible, and to market our services to others. 
+If you correspond with us or provide feedback by email, we may retain the content of your email messages, your email address, and our responses. If you send us a request (for example via an email to Member Success Team or one of our feedback mechanisms), we reserve the right to use and/or publish it in order to help us clarify or respond to your request, to help us support other Members, to develop the most useful services and features possible, and to market our services to others. 
 
 #####  Social Media 
 
 Lesson Planet includes social media features on our site, such as the Facebook "Like" button and the Pinterest "Pinit" button. These features may collect information such as your IP address and which page you are visiting on our site, and they may set a cookie to enable the feature to function properly. If you use any third-party social media services that are integrated with our products and services, we may receive Personally Identifiable Information that you have made available via those services. Social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the Privacy Policy of the company providing them. 
 
-#####  Share the Planet Referral Program 
+#####  Member Success Team 
 
-If you use Lesson Planet’s Share the Planet referral service to inform a friend about our site and services, you will be asked to provide your friend’s email address on our website. Your friend will then automatically receive a one-time email, which includes your name and email address, inviting them to visit Lesson Planet. We ask for this information for the sole purpose of sending this one-time email and establishing your record in the Share the Planet referral program. Your contact information will not be shared with anyone other than friends you refer to Lesson Planet through the Share the Planet referral program. 
-
-#####  Member Services 
-
-We collect personal information when you submit comments, questions, or suggestions to our Member Services department through our feedback tab, or by email, phone, or live chat. We are committed to improving our services, and your feedback and suggestions are essential to helping us do so. We use information you provide to respond to your submission and may use your feedback to improve our services. 
+We collect personal information when you submit comments, questions, or suggestions to our Member Success department through our feedback tab, or by email, phone, or live chat. We are committed to improving our services, and your feedback and suggestions are essential to helping us do so. We use information you provide to respond to your submission and may use your feedback to improve our services. 
 
 #####  Supplemental Information We May Collect from Other Sources 
 
@@ -145,7 +140,7 @@ We use web beacons (also known as clear gifs) on some of our website pages in co
 
 We also use web beacons in HTML emails that we send our Members and visitors to determine whether recipients have opened those emails and/or clicked on links in those emails. 
 
-When you're registered for Lesson Planet Community and posting, we record the IP address from which your posts originate. We also may retain server logs which include the IP address of every request to our server. We use this information to safeguard the Community from harmful behavior and to determine, generally, the regional makeup of our membership. 
+When you're posting comments on resources, we record the IP address from which your posts originate. We also may retain server logs which include the IP address of every request to our server. We use this information to safeguard the Community from harmful behavior and to determine, generally, the regional makeup of our membership. 
 
 On their own, cookies and web beacons do not contain or reveal any Personally Identifiable Information. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. However, if you choose to furnish Lesson Planet with Personally Identifiable Information, for example by subscribing to Lesson Planet, this information can be associated with the data collected using cookies or web beacons. These technical methods, which may involve the transmission of information either directly to us or to our service providers, allow us to make our website and services, and any emails you have agreed to receive, more relevant to you. 
 
@@ -167,7 +162,7 @@ Information about our Members, including Personally Identifiable Information, mi
 
 ####  As Required by Law 
 
-Lesson Planet may access or disclose information without providing you a choice in response to subpoenas, court orders, or legal process, to the extent permitted and as restricted by law: when disclosure is required to maintain the security and integrity of this service, or to protect any Member's security or the security of other persons, consistent with applicable laws; to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003); or to enforce our Terms of Use. 
+Lesson Planet may access or disclose information without providing you a choice in response to subpoenas, court orders, or legal process, to the extent permitted and as restricted by law; when disclosure is required to maintain the security and integrity of this service, or to protect any Member's security or the security of other persons, consistent with applicable laws; to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003); or to enforce our Terms of Use. 
 
 ###  6\. How We Keep Your Information Secure 
 
@@ -185,7 +180,7 @@ If, despite our extensive efforts to protect the security of your information, w
 
 By accessing, interacting with, launching, downloading, uploading, or otherwise using Lesson Planet, and providing and/or making available to us your contact information, you expressly choose to receive certain communications from us as described in this Privacy Policy, and you expressly agree to the privacy practices described in it. 
 
-If you have elected to receive information about our products or services and would like at any time to unsubscribe from receiving this information, please follow the specific instructions included in such communications, adjust your [email preferences](https://web.archive.org/profile/email), or send us an email detailing your specific request to [MemberServices@lessonplanet.com](mailto:MemberServices@lessonplanet.com). Please note that 'opt out' and 'unsubscribe' requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the terms and conditions herein. Also, please note that in order to keep you informed about the operation of the service and related services, we reserve the right to send you emails and announcements that are needed for the proper functioning and administration of our services. 
+If you have elected to receive information about our products or services and would like at any time to unsubscribe from receiving this information, please follow the specific instructions included in such communications, adjust your [email preferences](https://web.archive.org/profile/email), or send us an email detailing your specific request to [MemberSuccess@lessonplanet.com](mailto:MemberSuccess@lessonplanet.com). Please note that 'opt out' and 'unsubscribe' requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the terms and conditions herein. Also, please note that in order to keep you informed about the operation of the service and related services, we reserve the right to send you emails and announcements that are needed for the proper functioning and administration of our services. 
 
 If you ask Lesson Planet to stop using your Personally Identifiable Information, we will honor that request while retaining a record of it as necessary to comply with applicable federal, state, or local laws. 
 
@@ -193,7 +188,7 @@ To opt out of third-party vendors' use of cookies to deliver ads based on what w
 
 ###  8\. Children Under 13 
 
-Our services are not directed to children under the age of 13. We do not knowingly collect Personally Identifiable Information from children under 13. If you have any questions or concerns, please contact us at [MemberServices@lessonplanet.com](mailto:MemberServices@lessonplanet.com). 
+Our services are not directed to children under the age of 13. We do not knowingly collect Personally Identifiable Information from children under 13. If you have any questions or concerns, please contact us at [MemberSuccess@lessonplanet.com](mailto:MemberSuccess@lessonplanet.com). 
 
 ###  9\. Links to Other Websites 
 
@@ -205,21 +200,14 @@ Lesson Planet is headquartered in Santa Barbara, California, US. If you are loca
 
 ###  11\. California Privacy Rights 
 
-Regarding California Civil Code Section 1789.83: At Lesson Planet, it is our policy not to disclose Members' Personally Identifiable Information to third parties for those parties' direct marketing purposes unless you first affirmatively agree to such a disclosure. Further, you have the right to prevent disclosure of personal information for such purposes. To do so, please contact us at [MemberServices@lessonplanet.com](mailto:MemberServices@lessonplanet.com). 
+Regarding California Civil Code Section 1789.83: At Lesson Planet, it is our policy not to disclose Members' Personally Identifiable Information to third parties for those parties' direct marketing purposes unless you first affirmatively agree to such a disclosure. Further, you have the right to prevent disclosure of personal information for such purposes. To do so, please contact us at [MemberSuccess@lessonplanet.com](mailto:MemberSuccess@lessonplanet.com). 
 
 ###  12\. Changes to This Privacy Policy 
 
-This version of the Lesson Planet Privacy Policy is effective as of September 23, 2013. As we improve and expand our website and services, this policy may change, so please refer back to it whenever you visit Lesson Planet to see if it has been updated since your effectivelast visit. 
+This version of the Lesson Planet Privacy Policy is effective as of September 23, 2014. As we improve and expand our website and services, this policy may change, so please refer back to it whenever you visit Lesson Planet to see if it has been updated since your last visit. 
 
 ###  13\. Additional Questions 
 
-Please contact us with any questions regarding our Privacy Policy. 
+Please [contact us](https://web.archive.org/us/contact) with any questions regarding our Privacy Policy. 
 
-Email [MemberServices@lessonplanet.com](mailto:MemberServices@lessonplanet.com)   
-or call (888) 909-9035   
-M-F 8:30- 5 PT   
-Sun 9-1 PT   
-You can also write to us:   
-Lesson Planet, 924 Anacapa Street, Suite 4i, Santa Barbara, CA 93101 
-
-This version of our Privacy Policy is effective as of February 25, 2014. 
+This version of our Privacy Policy is effective as of September 23, 2014. 
