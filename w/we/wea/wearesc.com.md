@@ -1,41 +1,43 @@
-> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612223635id_/http%3A//www.wearesc.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531092202id_/https%3A//wearesc.com/privacy-policy) for the most accurate reproduction.*
 
-# WeAreSC.com - USC Trojans Football, Basketball, and Recruiting
+# Privacy Policy – WeAreSC
 
-Thank you for visiting Trojan Sports Publishing, LLC and WeAreSC.com ("WeAreSC"). WeAreSC wants to demonstrate its commitment to your privacy. As a result, WeAreSC provides the following Privacy Policy that explains how it protects your personally identifiable data. Our goal is to bring you current and up-to-date information about the football and men's basketball programs at USC that are tailored to your individual needs and, at the same time, protect your privacy.
+This privacy notice discloses the privacy practices for WeAreSC.com. This privacy notice applies solely to information collected by this website. It will notify you of the following: 
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOUR USE OF THIS WEBSITE AND/OR REGISTRATION WITH WEARESC WILL CONSTITUTE YOUR AGREEMENT WITH THIS PRIVACY POLICY. In addition to reviewing this Privacy Policy, please read our Terms of Use Agreement as your use of WeAreSC's website and/or service(s) constitutes agreement to the terms as explained in the Terms of Use Agreement as well.
+* What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
 
-This Privacy Policy does not cover information collected elsewhere, including without limitation, offline and online sites that are linked to and from WeAreSC's website.
+* What choices are available to you regarding the use of your data.
 
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page. Continued access of WeAreSC's website and/or service(s) by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+* The security procedures in place to protect the misuse of your information.
 
-## INFORMATION COLLECTION AND USE
+* How you can correct any inaccuracies in the information.
 
-WeAreSC generally collects personal information with your specific knowledge and consent. For instance, when you register for any portion of WeAreSC's services, make a purchase, subscribe to our publication(s), enter a sweepstakes or contest, or complete a survey, you are asked to provide, among other things, information like your e mail address, name, telephone number, fax number, credit card information, and information about interest in our services, products, and programs. Optional demographic information may also be requested. The more information you provide, the better we are able to customize our services to suit your needs and preferences.
+Information Collection, Use, and Sharing
 
-In addition, when you use WeAreSC's website and/or service(s), we may also automatically collect information about you or your computer, including without limitation, the internet address that you just came from, the internet address that you go to next, the internet address that referred you, the type of browser software you are using, the domain name of your Internet Service provider, and your Internet Protocol address. This information is collected and used in the aggregate and is used for, among other things, measuring site performance and use.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-## USE OF INFORMATION PROVIDED BY YOU
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
 
-WeAreSC uses the information you supply to provide you with the services that you request. For example, if you subscribe to any of our publications, we may use your e mail address to send you the publication. Similarly, if you enter one of our contests or sweepstakes, we will use the information provided to notify you if you win. We may also use the information supplied to communicate with you about new features, products or services, and/or to improve the services that we offer to you.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-WeAreSC may, as necessary, allow access to our database to third parties that provide us services, such as, the technical maintenance of our website. WeAreSC limits such access for the purposes of providing our website and/or services. If you choose to purchase items featured on our website or subscribe to WeAreSC.com, then we may forward your information to third parties for services such as credit card processing and order fulfillment.
+Your Access to and Control Over Information
 
-As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned by WeAreSC are sold, assigned, transferred or acquired, the information from and about WeAreSC's users may be among the transferred assets.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Our website uses cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). For example, if you register on any part of our website and select the option to save your username and password on your computer, then that information is stored on your computer. We also may use cookies to provide personalized functionality to our website. You have the option to reject cookies by changing your internet browser settings, but disabling this functionality may affect the optimal use of our website.
+* See what data we have about you, if any.
 
-## CHILDREN UNDER 13 YEARS OLD
+* Change/correct any data we have about you.
 
-WeAreSC' website and/or service(s) are not intended for use by children, especially those under age 13. We ask that children under age 13 not provide any personal information to WeAreSC or provide such information to third parties in our message boards or chat rooms. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases or registering with WeAreSC.
+* Have us delete any data we have about you.
 
-## PRIVACY POLICY COORDINATOR
+* Express any concern you have about our use of your data.
 
-If you have any questions or comments about any aspect of this Privacy Policy, then please feel free to contact us at the address below:
+Security
 
-Trojan Sports Publishing, LLC  
-3943 Irvine Blvd #109  
-Irvine, California 92602
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Questions about our privacy policy may be directed to:[garry@wearesc.com](mailto:garry@wearesc.com)
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for “https” at the beginning of the address of the Web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 949-275-0347 or via email at gpaskwietz@gmail.com.
