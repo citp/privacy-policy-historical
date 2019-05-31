@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826081947id_/https%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531190633id_/https%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Evans Cycles
 
 ### INTRODUCTION
 
-Welcome to the F.W. Evans Cycles (UK) Ltd privacy notice.
+Welcome to the Evans Cycles Limited (Evans Cycles) privacy notice.
 
 Evans Cycles respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or when you visit any of our stores and tell you about your privacy rights and how the law protects you.
 
@@ -20,7 +20,7 @@ This website is not intended for children and we do not knowingly collect data r
 
 **CONTROLLER**
 
-F.W Evans Cycles (UK) Ltd is the controller and responsible for your personal data (referred to as “Evans Cycles”, “we”, “us” or “our” in this privacy notice).
+Evans Cycles Limited is the controller and responsible for your personal data (referred to as “Evans Cycles”, “we”, “us” or “our” in this privacy notice).
 
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below.
 
@@ -30,12 +30,12 @@ You can contact our Data Privacy Manager at:
 
 Post:
 
-F.W. Evans Cycles (UK) Ltd  
+Evans Cycles Limited  
 Camino Park  
 James Watt Way  
 Crawley  
 West Sussex RH10 9TZ  
-FAO: Data Privacy Manager 
+FAO: Data Privacy Manager
 
 Email: [dataprivacymanager@evanscycles.com](mailto:dataprivacymanager@evanscycles.com)
 
@@ -43,7 +43,7 @@ You have the right to make a complaint at any time to the Information Commission
 
 **CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES**
 
-This version was last updated on 16/05/2018 and historic versions can be obtained by contacting us.
+This version was is applicable from 30/10/2018 and was last updated on 15/05/2019 and historic versions can be obtained by contacting us.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -73,6 +73,8 @@ We may collect, use, store and transfer different kinds of personal data about y
 
 **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
+**CCTV Images** in our premises, including our stores. We use CCTV to monitor and record images for the purposes of security and health and safety and store the images centrally. Sports Direct and Evans Cycles are joint controllers in respect to CCTV.
+
 We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this **privacy notice**.
 
 We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
@@ -96,9 +98,11 @@ Enter a competition, promotion or survey;
 Take part in a RIDE IT or other Evans Cycles’ event;  
 Become a customer of ours through your employer’s employee benefit schemes, including our Ride to Work program;  
 Submit a product review;  
-Speak to customer services.
+Communicate with the Contact Centre or Customer Relations team by Telephone, Email or Webchat.  
+Submitting a job application. (This process has a separate Privacy Policy process)  
+.
 
-**Automated technologies or interactions**. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our cookie policy [LINK] for further details. 
+**Automated technologies or interactions**. As you interact with our website and emails, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/help/cookie-policy) for further details.
 
 ### 4\. HOW WE USE YOUR PERSONAL DATA
 
@@ -120,54 +124,54 @@ Note that we may process your personal data for more than one lawful ground depe
 Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
 ---|---|---  
 To register you as a new customer | (a) Identity  
-(b) Contact  | Performance of a contract with you or your employer  
+(b) Contact | Performance of a contract with you or your employer  
 To process and deliver your order including:  
 (a) Manage payments, fees and charges  
-(b) Collect and recover money owed to us  | (a) Identity  
+(b) Collect and recover money owed to us | (a) Identity  
 (b) Contact  
 (c) Financial  
 (d) Transaction  
-(e) Marketing and Communications  | (a) Performance of a contract with you or your employer  
-(b) Necessary for our legitimate interests (to recover debts due to us)   
+(e) Marketing and Communications | (a) Performance of a contract with you or your employer  
+(b) Necessary for our legitimate interests (to recover debts due to us)  
 To book a test ride or book a bike service | (a) Identity  
 (b) Contact  
 (c) Financial  
 (d) Transaction  
-(e) Marketing and Communications  | (a) Performance of a contract with you  
-(b) Necessary for our legitimate interests (to develop our products/services and grow our business)   
+(e) Marketing and Communications | (a) Performance of a contract with you  
+(b) Necessary for our legitimate interests (to develop our products/services and grow our business)  
 To manage our relationship with you which will include:  
 (a) Notifying you about changes to our terms or privacy notice  
-(b) Asking you to leave a review or take a survey  | (a) Identity  
+(b) Asking you to leave a review or take a survey | (a) Identity  
 (b) Contact  
 (c) Profile  
-(d) Marketing and Communications  | (a) Performance of a contract with you  
+(d) Marketing and Communications | (a) Performance of a contract with you  
 (b) Necessary to comply with a legal obligation  
-(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)   
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
 To enable you to partake in a RIDE IT or other event, prize draw, competition or complete a survey | (a) Identity  
 (b) Contact  
 (c) Profile  
 (d) Usage  
-(e) Marketing and Communications  | (a) Performance of a contract with you  
+(e) Marketing and Communications | (a) Performance of a contract with you  
 (b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
-(c) Consent   
-To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)  | (a) Identity  
+(c) Consent  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity  
 (b) Contact  
-(c) Technical  | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)  
-(b) Necessary to comply with a legal obligation   
-To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you  | (a) Identity  
+(c) Technical | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)  
+(b) Necessary to comply with a legal obligation  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Identity  
 (b) Contact  
 (c) Profile  
 (d) Usage  
 (e) Marketing and Communications  
-(f) Technical  | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)   
-To use data analytics to improve our website, products/services, marketing, customer relationships and experiences  | (a) Technical  
-(b) Usage  | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)   
-To make suggestions and recommendations to you about goods or services that may be of interest to you  | (a) Identity  
+(f) Technical | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical  
+(b) Usage | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity  
 (b) Contact  
 (c) Technical  
 (d) Usage  
-(e) Profile  | (a) Necessary for our legitimate interests (to develop our products/services and grow our business); or  
-(b) Consent   
+(e) Profile | (a) Necessary for our legitimate interests (to develop our products/services and grow our business); or  
+(b) Consent  
   
 **PROMOTIONAL OFFERS FROM US**
 
@@ -230,6 +234,8 @@ To determine the appropriate retention period for personal data, we consider the
 
 By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes. We also keep this basic information about our customers for six years following your most recent purchase from us, to enable us to deal efficiently with any after-sales queries that you may have, or to assist in the Transfer 4 You process if you participate in our Ride to Work scheme. We keep customer profile information that you have indicated you are happy for us to have in order to keep you up to date regarding our products, services and events and will keep this information until such time as you indicate you no longer wish us to keep this data.
 
+We retain CCTV recordings centrally for up to 30 days, and for a longer period if they are relevant to an incident, complaint, investigation or legal proceedings.
+
 In some circumstances you can ask us to delete your data: see Request erasure below for further information.
 
 In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
@@ -268,7 +274,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 **EXTERNAL THIRD PARTIES**
 
-Service providers acting as processors based in the UK or EU who provide IT and system administration services.
+Service providers acting as processors based in the UK, EU or USA who provide IT, payment processing and system administration services
 
 Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the UK and EU who provide consultancy, banking, legal, insurance and accounting services.
 
@@ -290,7 +296,7 @@ You have the right to:
 
 **Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
 
-**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. In such circumstances we may reserve the right to delete your personal data rather than hold it but restrict processing, where our processes are not set up to enable a restriction. 
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. In such circumstances we may reserve the right to delete your personal data rather than hold it but restrict processing, where our processes are not set up to enable a restriction.
 
 **Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
 
