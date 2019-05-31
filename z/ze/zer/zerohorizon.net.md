@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerohorizon.net privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129005405id_/http%3A//zerohorizon.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerohorizon.net privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601014943id_/http%3A//zerohorizon.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ZeroHorizon Central Tips & Tricks
 
