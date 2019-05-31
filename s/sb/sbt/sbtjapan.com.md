@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717120320id_/https%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531125745id_/https%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Japanese Used Cars Exporter, Dealer, Trader, Auction | SBT JAPAN
+# политике конфиденциальности | Japanese Used Cars Exporter, Dealer, Trader, Auction | SBT JAPAN
 
-SBT Co., Ltd. (“SBT”) recognizes the importance of social responsibility that it truthfully work to meet the needs of its customers and to contribute to the society. The Personal Information obtained from its customers in the course of business activities are an important asset of the customers and of SBT as it leads to creation of new value. SBT protects Personal Information from information security threats with the following Basic Policy and meets its customer's expectations on its reliability As a company, SBT is committed to the responsible handling of Personal Information. 
+SBT CO., LTD. (“SBT”) recognizes the importance of social responsibility that it truthfully work to meet the needs of its customers and to contribute to the society. The Personal Information obtained from its customers in the course of business activities are an important asset of the customers and of SBT as it leads to creation of new value. SBT protects Personal Information from information security threats with the following Basic Policy and meets its customer's expectations on its reliability As a company, SBT is committed to the responsible handling of Personal Information. 
 
 (Personal Information Protection Policy) 
 
-1\. SBT observes the Act on the Protection of Personal Information, Act on the Use of Social Security and Tax Number System (also called Individual Number or “My Number”) in the Administrative Procedure and other relevant laws, rules, and guidelines established by the government and other regulations.  
+1\. SBT observes the Act on the Protection of Personal Information, Act on the Use of Social Security and Tax Number System (also called Individual Number or “My Number”) Numbers to Identify a Specific Individual in the Administrative Procedure and other relevant laws, rules, and guidelines established by the government and other regulations.  
 2\. SBT has established a management framework to protect Personal Information, and assigned a person to “Personal Information Protection Administrator” position and implemented the appropriate protection of it.  
 3\. SBT utilizes Personal Information within the scope of the intended use that is clearly communicated to customers, and takes measures not to be used beyond the scope. SBT does not disclose or provide Personal Information provided by customers to third parties except with the consent of the customer from whom the Personal Information was obtained or when there is a legitimate reason.  
 4\. SBT strives to prevent unauthorized access to Personal Information or the leakage, loss, or damage of Personal Information and continually enhances, remediates and manages information security.  
@@ -68,7 +68,7 @@ SBT will not be responsible for the acquisition of Personal Information by a thi
 
 ### 5\. Supervision of contractors
 
-SBT may consign all or part of our customer’s Personal Information handling operation. In such a case, SBT elects a contractor who is expected to properly handle Personal Information, appropriately specify matters concerning handling of Personal Information such as Security Management Measures, confidentiality, terms and conditions of reconsignment, return of Personal Information upon expiration or termination of contract agreement, and performs necessary and appropriate supervision.
+SBT may consign all or part of our customer’s Personal Information handling operation. In such a case, SBT elects a contractor who is expected to properly handle Personal Information, appropriately specify matters concerning handling of Personal Information such as Security Management Measures, confidentiality, terms of use of reconsignment, return of Personal Information upon expiration or termination of contract agreement, and performs necessary and appropriate supervision.
 
 ### 6\. Handling of Sensitive Information
 
@@ -83,9 +83,9 @@ We will not provide Specific Personal Information, etc. to a third party except 
 
 Customer requests for any notice of matters, disclosure, amendment, or suspension of use of Personal Information and Specific Personal Information, etc. held by SBT under the Privacy Act shall be directed to the "Contact Office" indicated in Clause 11 below. After confirming the customer as the requesting party, the customer is requested to complete a form designated by us. SBT will then follow the procedures and, in principle, provide a written response in a proper, timely manner. SBT will charge the prescribed fees for responding to a request for any disclosure. 
 
-### 9\. Use of Cookies, etc.
+### 9\. Use of Cookies
 
-SBT uses cookies, etc. to provide better services on its websites. 
+SBT uses cookies provide better services on its websites. Please see our [cookie policy](https://web.archive.org/cookiepolicy).
 
 ### 10\. Management of Personal Data and Specific Personal Information, etc.
 
@@ -97,9 +97,9 @@ SBT will appropriately and immediately respond to any complaint or consultation 
 If you have any inquiry or matter for consultation regarding the handling of Personal Information and Specific Personal Information, etc. by us, please contact the office indicated below. 
 
 Contact Office  
-SBT Co., Ltd.  
-TEL:03-5575-7550 FAX:03-5575-7551  
-E-mail:hr@sbtjapan.com  
+SBT CO., LTD.  
+TEL:+81-45-290-9480 FAX:+81-45-290-9481  
+E-mail:hrjp@sbtjapan.com  
 
 
 ### 12\. Review of Privacy Policy
