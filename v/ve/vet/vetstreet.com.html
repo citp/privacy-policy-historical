@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vetstreet.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228103124id_/http%3A//www.vetstreet.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vetstreet.com privacy policy that was archived on 2019-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190531110843id_/http%3A//www.vetstreet.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/Other"><!--<![endif]--><head>   
         <meta property="og:locale" content="en_US">
@@ -76,7 +76,7 @@
                 "email_body": " "
             };
 
-            var ip_address = "207.241.231.163";
+            var ip_address = "34.207.98.73";
 
             var user = null;
 
@@ -612,7 +612,55 @@ background-size: 60px auto !important;
 /*PHV-56 */
 /*#login-section{ margin-bottom: 1px;}*/
 /*PHV-58 */
-#main div.ad-module-container-leaderboard {margin-bottom: 2px;}</style>
+#main div.ad-module-container-leaderboard {margin-bottom: 2px;}
+
+/* GDPR Message */
+.CookieBanner[data-not-seen] {
+    display: block;
+}
+
+.CookieBanner {
+    background: rgba(255,255,255,.95);
+    bottom: 0;
+    box-shadow: 0 0 14px 0 rgba(0,0,0,.09);
+    box-sizing: border-box;
+    display: none;
+    left: 0;
+    padding: 60px 20px 30px 20px;
+    position: fixed;
+    width: 100vw;
+    z-index: 999999;
+}
+.CookieBanner-description {
+    -ms-flex-align: center;
+    align-items: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.CookieBanner-close {
+    color: #979797;
+    cursor: pointer;
+    position: absolute;
+    right: 25px;
+    top: 15px;
+    width: 25px;
+}
+.CookieBanner-button {
+    padding: 10px 50px;
+    margin-top: 17px;
+    background-color: #d51900;
+    border-radius: 24px;
+    border-width: 0;
+    color: #fff;
+    display: inline-block;
+    font-weight: 700;
+    cursor: pointer;
+}
+#main-share ul#controls li.google  {display:none}
+#main-share ul#controls li.pin-it a {text-indent: 21px;}
+</style>
     <script type="text/javascript">
         vsgoogle_dfp_gpt.loadScript('4975085');
     </script>
@@ -753,7 +801,7 @@ background-size: 60px auto !important;
 
                         <div class="global-header-nav-section global-header-copy ">
                             <p>© 
-                               2001-Fri Dec 28 05:31:24 EST 2018&nbsp;
+                               2001-Fri May 31 07:08:43 EDT 2019&nbsp;
                                Vetstreet. All rights reserved.  Powered by Brightspot.</p>
                            <p>
                                <span id="legal">Vetstreet does not provide medical advice, diagnosis, or treatment. <a href="http://www.vetstreet.com/additional-information" target="_blank">See Additional Information ›</a></span>
@@ -1060,7 +1108,6 @@ line-height: 2.5;}</style><h2>
                 <ul>
                     <li><a href="http://www.facebook.com/vetstreet" target="_blank">Facebook</a></li>
                         <li><a href="http://twitter.com/vetstreet" target="_blank">Twitter</a></li>
-                        <li><a href="https://plus.google.com/104531581418216055575/posts" target="_blank">Google+</a></li>
                         <li><a href="http://pinterest.com/vetstreet/" target="_blank">Pinterest</a></li>
                         <li><a href="https://www.instagram.com/vetstreet/" target="_blank">Instagram</a></li>
                         <li><a href="http://www.youtube.com/user/vetstreet" target="_blank">YouTube</a></li>
@@ -1071,7 +1118,7 @@ line-height: 2.5;}</style><h2>
 
     </div><!-- End footer-links -->
     <div id="copy">© 
-        2001-Fri Dec 28 05:31:24 EST 2018&nbsp;
+        2001-Fri May 31 07:08:43 EDT 2019&nbsp;
         Vetstreet. All rights reserved.  Powered by Brightspot.<span id="legal">Vetstreet does not provide medical advice, diagnosis, or treatment. <a href="http://www.vetstreet.com/additional-information" target="_blank">See Additional Information ›</a></span>
     </div>
 </div>
@@ -1146,7 +1193,7 @@ line-height: 2.5;}</style><h2>
 
     <div class="global-footer-nav-section global-footer-copy">
         <p>
-            © 2001-Fri Dec 28 05:31:24 EST 2018&nbsp;
+            © 2001-Fri May 31 07:08:43 EDT 2019&nbsp;
             Vetstreet. All rights reserved.  Powered by Brightspot.</p>
         <p>
             <span id="legal">Vetstreet does not provide medical advice, diagnosis, or treatment. <a href="http://www.vetstreet.com/additional-information" target="_blank">See Additional Information ›</a></span>
@@ -1409,6 +1456,59 @@ $(document).ready( function() {
 });
 //*********END  temp webtrends fix*****//
 
+
+
+//****** GDPR Messaging ******//
+
+
+$(document).ready( function() {
+function CookieBannerSetHasBeenSeen() {
+    window.localStorage.setItem('CookieBannerSeen', 'true')
+  }
+ 
+function CookieBannerHasBeenSeen() {
+    if (window.localStorage.getItem('CookieBannerSeen') === 'true') {
+    	console.log('has storage item = true');
+      return true
+    } else {
+    	console.log('false banner has not been seen');
+    	return false
+    }
+  }
+  
+function CookieBannerCloseBanner() {
+    $('#CookieBanner').remove();
+    console.log('closing banner');
+}
+
+function CookieBannerAddEvents() {
+    $('#CookieBanner').find('.CookieBanner-button').each((key, el) => {
+      $(el).on('click', () => {
+        CookieBannerSetHasBeenSeen();
+        CookieBannerCloseBanner();
+      })
+    })
+    $('#CookieBanner').find('.CookieBanner-close').each((key, el) => {
+      $(el).on('click', () => {
+        CookieBannerCloseBanner();
+      })
+    })
+}
+
+  
+function CookieBanner() {
+	if(CookieBannerHasBeenSeen() === false) {
+		console.log('here');
+		
+		var $cookieBanner = $('<form action="" class="CookieBanner" id="CookieBanner" data-cookie-banner="" data-not-seen="true"><div class="CookieBanner-description"><div class="CookieBanner-text">This site uses cookies as described in our <a class="Link" href="http://www.vetstreet.com/cookie-policy">Cookie Policy</a>.  Please click the "Accept" button or continue to use our site if you agree to our use of cookies.</div><button class="CookieBanner-button Button" type="button" data-cookie-banner-accept="">Accept</button></div><div class="CookieBanner-close"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve" ${attr_close}><rect x="19.5" y="-7.6" transform="matrix(0.7055 -0.7087 0.7087 0.7055 -8.1657 20.0404)" fill="currentColor" width="1" height="54.9" /><rect x="-7.1" y="19.3" transform="matrix(0.7052 -0.7091 0.7091 0.7052 -8.1127 20.18)" fill="currentColor" width="54.7" height="1" /></svg></div></form>');
+		$cookieBanner.appendTo('body');
+		CookieBannerAddEvents();
+		
+	}
+}
+
+ CookieBanner(); 
+});
 
 //*********  DMP Lotame Tag - added 2/5/18  VSCONSUMER-825 . *****//
 </script>
