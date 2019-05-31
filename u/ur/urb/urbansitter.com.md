@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116121402id_/https%3A//www.urbansitter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531094110id_/https%3A//www.urbansitter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UrbanSitter
 
@@ -100,7 +100,7 @@ We take security of your Personal Information seriously and take precautions to 
 
 ### 7\. Age Restrictions.
 
-The Site is not intended for individuals under the age of 16. We do not knowingly collect Personal Information from individuals under 16, and no part of the Site is designed to attract anyone under the age of 16. If you become aware that your child has provided us with Personal Information, please contact us. If we become aware that an individual under 16 has opened an account and provided us with Personal Information, we take steps to remove such information and terminate that person's account.
+The Site is not intended for individuals under the age of 18. We do not knowingly collect Personal Information from individuals under 18, and no part of the Site is designed to attract anyone under the age of 18. If you become aware that your child has provided us with Personal Information, please contact us. If we become aware that an individual under 18 has opened an account and provided us with Personal Information, we take steps to remove such information and terminate that person's account.
 
 ### 8\. Changes to Our Privacy Policy.
 
