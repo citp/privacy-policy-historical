@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130184307id_/https%3A//trimet.org/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531225537id_/https%3A//trimet.org/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+____TransitTracker by Text Message is available through a temporary number.
+
+### ____TransitTracker by Text Message is available through a temporary number.
+
+Updated: 12:17pm, Fri. May. 24, 2019
+
+TransitTracker by Text Message is now available through a new temporary number. For real-time arrival info text the stop ID to (971) 314-4882. 
 
 Effective Date: May 15, 2017
 
