@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoxx.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109133500id_/https%3A//hoxx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoxx.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531121919id_/https%3A//hoxx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hoxx Vpn
 
