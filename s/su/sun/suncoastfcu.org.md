@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncoastfcu.org privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603005102id_/https%3A//www.suncoastcreditunion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastfcu.org privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531131844id_/https%3A//www.suncoastcreditunion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Suncoast Credit Union
 
@@ -59,7 +59,7 @@ Your Credit Union is committed to protecting the privacy of its members. Members
 
 **KEEPING UP-TO-DATE WITH OUR PRIVACY POLICY**
 
-Suncoast Credit Union will provide notice of our privacy policy to all members annually. This policy may change from time to time, but you will always be able to view our current policy at our web site at [suncoastcreditunion.com](https://web.archive.org/-/media/files/120534_annualprivacynotice-pdf.ashx?la=en) or contact us for a copy at 1-800-999-5887.
+Suncoast Credit Union will provide notice of our privacy policy to all members. This policy may change from time to time, but you will always be able to view our current policy at our web site at [suncoastcreditunion.com](https://web.archive.org/-/media/files/privacynotice.ashx?la=en) or contact us for a copy at 1-800-999-5887.
 
 **REDUCING DIRECT MARKETING FROM OTHER COMPANIES**
 
@@ -92,13 +92,13 @@ Woodlyn, PA 19094
 
 INTERNET SECURITY
 
-Encryption - When you apply online for accounts or services, personal information obtained via applications is protected through a "secure session" established with industry standard technology - Secure Socket Layer (SSL) encryption. To find out more about SSL, [click here](https://www.suncoastcreditunion.com/personal/bank/online-banking-security#tabs).
+Encryption - When you apply online for accounts or services, personal information obtained via applications is protected through a "secure session" established with industry standard technology - Transport Layer Security (TLS). To find out more about TLS, [click here](https://www.suncoastcreditunion.com/personal/bank/online-banking-security#tabs).
 
-All inquiries and transactions done via our Internet home banking site, SunNet, are secured through SSL.
+All inquiries and transactions done via our Internet home banking site, SunNet, are secured through TLS.
 
 **Email** - Regular non-encrypted Internet email is not secure. Messages sent via the contact us link from our website are not secure and should never contain any personal or sensitive information such as account numbers, passwords or balance information. Our staff will never reply back to these email messages with confidential member information.
 
-Email messages initiated through our Internet home banking product - SunNet - are secured through SSL.
+Email messages initiated through our Internet home banking product - SunNet - are secured through TLS.
 
 **Cookies** - In order to make your use of our website more efficient and user friendly, "cookies" are used as a part of our interaction with your browser. A "cookie" is a small test file placed on your hard drive by our web server that helps our site to be much more intuitive when you request information.  **We do not use the information collected by these "cookies" for any other purposes.**
 
