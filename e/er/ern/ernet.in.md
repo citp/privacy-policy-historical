@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ernet.in privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204035921id_/http%3A//www.eis.ernet.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernet.in privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531063044id_/http%3A//www.eis.ernet.in/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Website of ERNET India Education & Research Network
 
