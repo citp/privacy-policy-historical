@@ -1,52 +1,71 @@
-> *The following text is extracted and transformed from the socialmediainn.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917043500id_/https%3A//socialmediainn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediainn.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531083439id_/https%3A//socialmediainn.com/privacy) for the most accurate reproduction.*
 
-# Socialmediainn - Easy Social Media Management Tool | Online Reputation Monitoring | Social Analytics | Social Media Marketing
+# Privacy policy | SocialMediaInn
 
   
 
 
-### What information do we collect?
+#### Data protection
 
-We collect information from you when you register on our site.
+Any information you provide will be held securely and in accordance with the Data Protection Act 1998. Your personal details will not be disclosed to third parties.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address or credit card information. You may, however, visit our site anonymously.
+This website is hosted by Jelastic Cloud using the very best and most secure infrastructure available.
 
-### What do we use your information for?
+We do not store customer credit card details on this site nor do we share customer details with any 3rd parties.
 
-Any of the information we collect from you may be used in one of the following ways:
+You have a right to request a copy of your personal details at any time to check the accuracy of the information held. If you want to ask whether we hold any personal data relating to you, please [contact us.](mailto:admin@socialmediainn.com)
 
-To process transactions.
+#### Information we collect from visitors
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We collect information from visitors relating to:
 
-### How do we protect your information?
+  * feedback submitted
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order.
+  * comments submitted to this website
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+  * email notifications
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  1. **Feedback.** If you provide feedback about the website through a contact form or via email we will only use this information for the purposes intended. You will not receive any subsequent unsolicited communication.
 
-### Delaware Online Privacy Protection Act Compliance
+  2. **Comments submitted.** If you choose to submit a public comment on this website, you will be asked to give your name and email address, and optionally a personal website address along with your comment. These details are stored by the website along with you comment. Your email address is never displayed publicly and is never passed on to a third party, but may be used to contact you if there is a problem with your comment. The IP address of the device you used to submit the comment is also stored.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the Delaware Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+  3. **Email notifications.** If you sign up to receive email notifications when follow-up comments are posted, we will use the information you give us to provide the service(s) you have requested only. If you inform us that you wish to cancel your details will be deleted from our records.
 
-### Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-### Online Privacy Policy Only
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+#### Site usage and third party tracking
 
-### Your Consent
+  * **_Cookies_**
 
-By using our site, you consent to our privacy policy.
+To make this site simpler, small data files are placed on your computer. These are known as cookies. Most big websites do this too.
 
-### Changes to our Privacy Policy
+They improve things by:
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. This policy was last modified on 1/14/2015.
+    * remembering settings, so you don’t have to keep re-entering them whenever you visit a new page
+    * remembering information you’ve given (e.g. forms you’ve submitted) so you don’t need to keep completing them
+    * measuring how you use the website so we can make sure it meets your needs
+
+Our cookies aren’t used to identify you personally. They’re just here to make the site work better for you. Indeed, you can manage and/or delete these small files as you wish.
+
+To learn more about cookies and how to manage them, visit  
+[AboutCookies.org ](http://www.aboutcookies.org/ "Information about cookies").
+
+  * **_First Party Cookies_**
+
+These are cookies that are set by this website directly.
+
+We use Google Analytics to collect information about how people use this site. We do this to make sure it’s meeting its users’ needs and to understand how we could do it better. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+
+  * **_Third Party Cookies_**
+
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Facebook, Twitter, Google and LinkedIn. 
+
+We also offer live chat and web form functionality to allow prospects and customers to talk to us directly. This involves the use of third party scripts.
+
+Log files allow us to record visitors’ use of the site. These logs are automatically generated from all our visitors, which we use to make improvements to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you.
+
+
+
