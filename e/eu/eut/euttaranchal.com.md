@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205083357id_/https%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euttaranchal.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531073923id_/https%3A//www.euttaranchal.com/about_us/privacy.php) for the most accurate reproduction.*
 
 # eUttaranchal - Privacy Policy
 
 The Privacy Policies laid down below are general and applicable throughout the website http://www.euttaranchal.com
-
-To read the specific _**[Privacy Policies for our Matrimonial Service](http://www.euttaranchal.com/matrimonials/register/privacy-policy.php)**_ , please [click here](http://www.euttaranchal.com/matrimonials/register/privacy-policy.php)
 
 **Information Collection and Use**
 
@@ -48,6 +46,6 @@ To read the specific _**[Privacy Policies for our Matrimonial Service](http://ww
 
 
 
-This website (http://www.euttaranchal.com) is the owned and operated by **DeeBee Web Services Pvt Ltd**. 
+This website (http://www.euttaranchal.com) is the owned and operated by **eUttaranchal Travel Network Pvt Ltd**. 
 
 Should you have further queries about our privacy policy, please contact our support team at [care@eutn.in](mailto:care@eutn.in)
