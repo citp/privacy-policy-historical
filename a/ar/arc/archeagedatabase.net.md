@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archeagedatabase.net privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530132152id_/http%3A//archeagedatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archeagedatabase.net privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531092347id_/http%3A//archeagedatabase.net/us/privacy) for the most accurate reproduction.*
 
-# Privacy Notice and Cookies -Archeage Database
+# Privacy Notice and Cookies - Archeage Database
 
 [_Translate_](https://translate.google.com/translate?u=http://archeagedatabase.net/us/privacy/ "Translate")
 
