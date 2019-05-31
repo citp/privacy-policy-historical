@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217170333id_/https%3A//www.physicsforums.com/help/member-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531135704id_/https%3A//www.physicsforums.com/help/member-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Physics Forums
-
-[__](https://web.archive.org/web/20181217170333id_/https://www.physicsforums.com/help/member-privacy-policy/misc/quick-navigation-menu "Open quick navigation")
-
-**Physics Forums | Science Articles, Homework Help, Discussion**
-
-[Forums](https://www.physicsforums.com/) [Help](https://www.physicsforums.com/help/) >
+# Privacy Policy | Physics Forums | Science Articles, Homework Help, Discussion
 
 **Mission Statement**
 
@@ -31,6 +25,8 @@ All passwords should be strong (8+ characters, some caps, some special character
 **Logging**
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of Physicsforums.com to use this information to keep track of legitimate users. These logs are used to produce the site statistics pages; the raw log data is not made public, and is normally discarded after about two weeks. Here's a sample of what's logged for one page view:
+
+Code (Text):
 
 Code (Text): 64.164.82.142 - - [21/Oct/2003:02:03:19 +0000] "GET /index.html" 200 18084 "[PLAIN]https://www.physicsforums.com/index.html"[/PLAIN] [Broken] "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"
 
@@ -87,13 +83,3 @@ For every change made to this PhysicsForums.com privacy policy we will require e
 **Questions?  
 **  
 [Contact us](https://www.physicsforums.com/misc/contact)
-
-[__](https://web.archive.org/web/20181217170333id_/https://www.physicsforums.com/help/member-privacy-policy/misc/quick-navigation-menu "Open quick navigation")
-
-**Physics Forums | Science Articles, Homework Help, Discussion**
-
-[Forums](https://www.physicsforums.com/) [Help](https://www.physicsforums.com/help/) >
-
-  * [ ](https://www.physicsforums.com/)
-
-
