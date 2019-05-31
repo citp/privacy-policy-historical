@@ -1,239 +1,244 @@
-> *The following text is extracted and transformed from the firstmet.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229172344id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmet.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531224941id_/http%3A//www.firstmet.com/privacy-policy) for the most accurate reproduction.*
 
-# SNAP Interactive Inc. | Privacy Policy
+# Privacy Policy – FirstMet Privacy
 
-#### Effective Date: May 2nd, 2017
+[](http://www.firstmet.com/)
 
-OUR PRIVACY POLICY HAS BEEN UPDATED.
+## Privacy Policy
 
-• We’ve clarified, consolidated and tried to simplify Privacy Policy
+**At FirstMet we care about your privacy.  
+Please take a second to review our updated privacy policy.**
 
-By continuing to use the Services you are agreeing to this privacy policy.
+Please read our privacy policy carefully as it explains what personal information we collect about our users and why we collect it, along with other important information such as what data protection rights you have if you are based in the European Union.
 
-### Privacy Policy Highlights
+**Effective February 14th, 2019**
 
-This privacy policy (“Privacy Policy”) describes how Snap Interactive, Inc. (“Snap”, “our”, “us” or “we”) collects, uses and shares customer information from our FirstMet® and 50more™ branded websites, mobile websites and mobile applications or on any services, sites and applications that link to this Privacy Policy. It also provides guidance on how you can manage the personal information that you provide to us. Also read our full Privacy Policy below for details. 
+[FirstMet](https://www.firstmet.com/) values our users privacy and protection of their data and we build our apps and operate our business with this in mind.
 
-#### **Snap Interactive Full Privacy Policy**
+FirstMet is a property of The Dating Company, LLC. Your services are provided by The Dating Company, LLC who also acts as a data controller for your information.
 
-#### **Effective Date: 2/2/2017**
+This privacy policy applies to all FirstMet services. We recommend that you read this Privacy Notice in full to ensure you are fully informed.
 
-Snap Interactive, Inc. has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on FirstMet®, and 50more™ branded websites, mobile websites, and mobile applications or on any other Snap services or tools that link to this policy (the “Services”). Any Snap owned services linked to other privacy policies are governed by that service’s privacy policy. Snap provides this Privacy Policy to help you make an informed decision about whether to use or continue to use the Services and the choices we offer for you to manage the information we collect related to the use of the Services. Our goal is to collect and use only that information that we believe is required for our legitimate business interests, to better understand your interests and to improve your experience using the Services.
+If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Notice under the heading “Contacting us is easy and we want to hear from you”
 
-Each time that you access or use the Services, you are agreeing to this Privacy Policy. This Privacy Policy is incorporated into by reference and subject to the Terms of Service found at [http://snap-interactive.com/terms-of-service/](http://www.snap-interactive.com/terms-of-service/) (“Terms”).
+As part of providing a great experience for you this sometimes requires us to collect personal information from you. We have done our best to give you control and access to your personal information where possible and we want you to be aware how that data is being used. This policy will cover:
 
-  
-**I. INFORMATION WE COLLECT**
-
-**_Account and Profile Information You Provide to Us_**. We will collect personal information from you when you sign up for our Services, interact with our Services, create or update your account or profile, interact with other users, use various features of our Services, or to communicate directly with us. For example, account information may include name, date of birth, email address, physical address, and mobile number. Profile information may include first name as the user name displayed to other users, gender, current city, interests, photos, ethnicity, age and any other information or photos you choose to provide in your profile. Profile information will be made available to other users. We will not disclose your account information to other users.
-
-For our 50more Service you may be asked to provide us with answers to a questionnaire which will be used to match you to other compatible users. Your answers may be included in your public profile.
-
-When you create an account, you may be asked to provide us with certain additional information such as username and password. In connection with signing up for a Premium Account, you may also provide payment information such as credit or debit card information, and name and billing address.
-
-**_Your Imported Profile from Social Networks_.** When using our Services and any applicable third party social networking services such as Facebook (a “Social Network”), you may have the option to consent to connecting your profile or activity on our Services with your Social Network information and activity. If you choose to use our Social Network populating feature to create an account, we may import information for your account or profile on our Services from a Social Network. We only import from the information you allow to be imported from the Social Network which is controlled by your privacy settings on that Social Network (“Permitted Social Network Content”). The authentication of your Social Network login credentials is conducted solely by the Social Network. If you use this feature we initially create your profile by displaying your first name as the user name displayed to other users, gender, current city, interests, about me, photos, and age (which is calculated from your birthdate). With your permission, we may also combine that information with your public social media profile (which may include your friend list, birthday, work history, interests, current city, photos, personal description and likes). Please review the Social Network’s privacy policy and choices for sharing information with our Services. By associating your Social Network account with our Services and authorizing us to have access to this information, you agree that we may collect, use, and store Permitted Social Network Content across all our Services and in accordance with this Privacy Policy.
-
-**_Surveys and Promotions_.** From time-to-time we may request information from you via surveys, contests or sweepstakes. Participation is completely voluntary. Information collected in any sweepstakes or contest may be used as set forth in this policy and as described in the official rules, such as to notify the winners, award prizes and file winners’ information, as required by law. Survey information will be used for the purposes of the survey.
-
-**_Information You Post_.** The Services are designed to enable you to communicate with other users through interactive forums, and any information or content you post when participating in the Services or Social Networks becomes public information, depending upon your privacy settings, and is subject to redistribution by Snap and other third parties. There is no expectation of privacy when posting a profile or otherwise participating in such Services and we have no control over how users may use the information you make public. Therefore, you should exercise caution and discretion when deciding to disclose your personal information.  Although we use precautions to avoid having your profile information made publicly available through internet search crawlers, it is possible that your profile information may become available; we therefore encourage you not to disclose any information that you may not want to make public.
-
-**_Mobile Information_.** We may collect additional information from you if you access Services through a mobile device, such as your unique device identifier, device’s operating system, mobile carrier, regional location or, with your permission, precise geo-location. Please note that the degree to which your location can be identified depends on the device you are using (e.g. laptop, smartphone, tablet) (“Device”) and how you are connected to the internet (e.g. via cable broadband connection, Wi-Fi, etc.).
-
-**_Information About Others/Inviting Friends._** You may have the option to choose to submit personal information about other people to invite them to join the Services. Inviting friends is optional and you should have prior permission to contact other people through the Services. Please be aware that if you use any send-to-a-friend functionality on the Services, your email address may be included in the communication sent to your friend.
-
-  
-**II. INFORMATION COLLECTED THROUGH TRACKING TECHNOLOGIES**
-
-We and our business partners may use a variety of tracking technologies that automatically (or passively) collect certain information from your Devices whenever you visit or interact with the Services or third party websites (“Tracking Technologies”). Certain features of our Services are only available or function through the use of Tracking Technologies.
-
-Tracking Technologies are used for a variety of purposes, including:
-
-  * **Operationally Necessary.**
+  * What information we may collect about you
+  * What we may do with the information we collect about you;
+  * Whether we share your information with anyone else
+  * How we use cookies on our site
+  * Where we store your information
+  * How we keep your information secure
+  * Your rights in relation to your information
 
 
 
-We may use Tracking Technologies for system administration, to prevent fraudulent activity, to improve security or to allow you to make use of our Services.
+At The Dating Company, LLC we take your privacy seriously. We operate on the principle that your personal information belongs to you and other than in the specific circumstances described below (under the heading ‘Who we share your personal information with’) only you can decide who you want to share it with and why. This is fundamental to the way we work and we’re committed to providing a secure environment for you to store your personal information and share it with others when you want to.
 
-  * **Performance Related.**
+**Information you voluntarily provide**
+
+To register and interact with members on the site, many times you will be prompted to share information with us to improve your experience while using the product.  Some of the information you may share with us includes:
+
+  * Email
+  * Name
+  * Birthday
+  * Location
+  * Gender
+  * Sexual Preference
+  * Ethnicity
+  * Height
+  * Smoking habits
+  * Drinking habits
+  * Dietary preferences
+  * Interests
+  * Religion
+  * Political beliefs
+  * Education
+  * Photos
 
 
 
-We may use Tracking Technologies to assess the performance of our Services, including as part of our analytic practices to improve content offered through the Services. For example, we may use these tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information. We may also use Tracking Technologies to tell us, whether you have visited the Services before or if you are a new visitor and to help us identify the features in which you may have the greatest interest. We may also collect information about the website you visited before you came to our Services and the website you visited after you leave our Services, if this information is supplied by your browser. We use Google to serve first party cookies (such as Google Analytics cookie) to report how our ad impressions, and interactions with these ad impressions and ad services are related to visits to the Services. To learn about Google Analytics opt-outs for the web or mobile, [click here.](https://tools.google.com/dlpage/gaoptout/) To learn more about our other analytics providers’ data collection practices, click here.
+**Information we collect automatically about you and your device**
 
-  * **Targeting Related.**
+When you use FirstMet and interact with our services, we may use technology to collect information about your activity. Some of the data that is collected while using the website and mobile/desktop clients may include:
 
-
-
-We may use Tracking Technologies to deliver content, including ads, relevant to your interests on the Services and third party sites based on how you interact with our advertisements or content, as well as to track the content you access.
-
-  * **Interest-based Advertising.**
-
-
-
-We or our advertising partners may use Tracking Technologies to collect Information about your visits over time and across the Services and other third-party web sites, as well as information received from other sources, in order to serve more targeted advertising to you. For example, we use Google interest based cookies to serve personalized ads to you. Our ad partners automatically receive your IP address or Device identifier when this happens. Their tools may also limit the number of times you see the same ad and help measure the effectiveness of our advertising campaigns. These third parties may also use information gathered from your use of the Services to serve targeted, interest based advertisements to you on third-party websites and applications.
-
-  * **Opt-out of Interest Based Advertising.**
+  * IP address
+  * Type of browser you use
+  * Number of sessions per browser/client on each device
+  * Type of device and operating system you use
+  * Referrer information
+  * Local language and your broad geographic location (e.g. country or city location)
+  * How you use our website including pages accessed and pages you click on
+  * Your device identifiers
 
 
 
-To opt-out of Google interest based cookies, click [here](https://www.google.com/settings/u/0/ads/authenticated) or click here to opt-out of some of our other advertising service providers interest based cookies.
+We use this information to help tailor your experience for your device/language, to better understand the visitors who come to our website, where they come from, and what content on our website is of interest to them. We also use this information for our internal analytics purposes and to improve the quality and relevance of our website for users, to help prevent fraud as well as identify service issues.
 
-The Digital Advertising Alliance (“DAA”) has made available for consumers tools on which you can register your choices not to be tracked by participating advertising networks or companies in the collection and use of your online activities.  These are (1) The DAA [Consumer Choice Page for Mobile Web](http://www.aboutadsd.info/choices/) (at <http://www.aboutads.info/choices/> ) and (2) DAA [AppChoices](http://www.aboutads.info/appchoices) (at <http://www.aboutads.info/appchoices>), which is a mobile app that allows you to opt out of the collection and use of cross-app data, other than for permitted uses, by listed third-party AppChoices participants.  You have the ability to opt out of mobile-app targeted advertising ads from any or all of the listed participating advertising networks.  You can download the free mobile app from an app store available on your mobile platform.  When you opt out with a particular participating advertising network, the mobile app adds your device identifier to that participant’s opt-out list.  The participant advertising network is then notified to block the device identifiers on the opt-out list.
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Cookies, Pixels and Local Storage” below.
+
+**Information that you provide voluntarily** ** **
+
+Certain parts of our FirstMet website may ask you to provide personal information voluntarily: for example, we may ask you to provide your contact details, information about your hobbies, likes and dislikes, gender, type of person you may wish to connect with, area you live in, payment information, photographs of yourself and if you wish to connect to FirstMet through other social media sites we may also access your page likes. The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+
+Some of the personal information that you provide may include sensitive personal information, such as race or ethnicity or sexual preferences (such as whether you are looking for a male or female to connect with).
+
+**THIS IS WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU**
+
+We primarily use personal information you provide to help other users find and connect with you and to help you connect with other users. If you want to update this information you can visit [your profile](https://www.firstmet.com/my-profile/) at any time to do so. If you specifically desire, we will use your social networking data to allow you to create an account with data you have on another site. Your payment information is used when you decide to purchase premium parts of the Service. Information shared with customer support will be used solely to address the issue(s) you have brought to our attention.
+
+We use the information you provide to us to:
+
+  * Enable us to provide the FirstMet services including to find people we think you will be interested in connecting with
+  * Ensure that our website is presented in an effective manner for you and for your device
+  * Provide you with marketing information about us and our services [[Opt out here](https://www.firstmet.com/email-preferences)]
+  * Notify you about changes to FirstMet
+  * Carry out our obligations arising out of the Terms of Service
+  * Defend our servers against malicious attacks
+  * Administer surveys and promotions (see more on this below)
+
+
+
+We try to be as careful as possible when using your data. Anywhere we take in personal data or perform actions we feel may be optional or objectionable to you, we will ask for your consent which can also be revoked at a later date. We are always looking to improve and as we identify data that falls into this category will continue to add new messaging to you so you are always aware of when we take in your data and how we process it.
+
+**SURVEYS AND PROMOTIONS**
+
+From time-to-time we may request information from you via surveys, contests or sweepstakes. Participation is completely voluntary. Information collected in any sweepstakes or contest may be used as set forth in this Policy and as described in the official rules, such as to notify the winners, award prizes and file winners’ information, as required by law. Survey information will be used for the purposes of the survey.
+
+**LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA FIRSTMET USERS)** ** **
+
+If you are a FirstMet service user from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you (i.e. to provide the FirstMet services), (ii) where the processing is in our legitimate interests and not overridden by your rights, (iii) where you have made the personal information public, or (iv) where we have your consent to do so. In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (e.g. if we become aware that an individual is contemplating self-harm or harm to others).
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicate with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the “Contacting us is easy and we want to hear from you” heading below.
+
+**OUR USE OF AGGREGATED AND ANONYMIZED INFORMATION**
+
+** ** We may share anonymized usage data which does not identify you specifically with third parties. We may combine your data with those of other users of The Dating Company, LLC and share this information in aggregated and anonymized form with third parties to help us improve the design and delivery of our software tools, increasing the effectiveness for all users.
+
+**THIS IS WHO WE SHARE YOUR PERSONAL INFORMATION WITH**
+
+We work with 3rd parties to help with many things including sharing information with you, helping us support you, preventing fraud, protecting our infrastructure, and providing a better experience for you.
+
+We are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or request.. This means we may on occasion need to share personal information about our users with law enforcement bodies, regulators, government agencies or courts. We may also on occasion disclose information to those third parties or other third parties to exercise, establish or defend our legal rights and/or to protect the safety of our other users.
+
+We may disclose your personal information to any actual or potential buyer (and its agents and advisers) in connection with an actual or proposed purchase, merger or acquisition of any part of our business. If the ownership of our business changes, we may transfer your information to the new owner so they can continue to operate FirstMet and provide services.
+
+Some of our advertising partners may deploy their own tracking or cookies not administered by The Dating Company, LLC. These technologies are subject to our advertisers’ Privacy Policies. You can learn more about this below under the Cookies, Pixels and Local Storage section.
+
+When processing payments third party processors receive the information needed to verify and authorize your credit card or other payment information and to process your order. In addition, we may disclose information to third parties to verify the authenticity of any financial transaction involving our company or to update your billing information.
+
+Below is a list of the key third parties we work with. We may work with third parties not listed below or stop working with the third parties listed below.
+
+  * Facebook
+  * Google
+  * Google Analytics
+  * Flurry
+  * Iovation
+  * Singular
+  * Apsalar
+  * VWO
+  * Sift Science
+  * PayPal
+  * Forensiq
+
+
+
+If you would like more information about third parties we work further details can be provided on request.
+
+**INTERNATIONAL DATA TRANSFERS**
+
+Your personal information may be transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country.
+
+Specifically, our website servers are located in the USA and our group companies and third party service providers and partners operate around the world. This means that when we collect your personal information we may process it in any of these countries.
+
+However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Notice.
+
+Our Standard Contractual Clauses can be provided on request. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
+
+**COOKIES, PIXELS, AND LOCAL STORAGE**
+
+Cookies are small pieces of data that are stored on your computer, mobile phone or other device. Pixels are small blocks of code on web pages that do things like allow another server to measure viewing of a web page and are often used in connection with cookies. HTML5 Local Storage is a small database located inside your browser which web pages can use to store data to speed up their processing. We may use all three technologies from time to time to help improve your browsing experience.
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience on FirstMet. Cookies make the interaction between you and FirstMet faster and easier. Cookies and other things like local storage also help us authenticate you to deliver personalized content to you.
+
+Please refer to your device’s help material to learn what controls you can use to remove or block cookies. **Please remember that if you do this, it may affect your ability to use FirstMet.** As you use your device, you will encounter third parties that make use of cookies and similar technologies.
+
+If you are a user from the European Economic Area you have the ability to manage your cookies [here](https://www.firstmet.com/account-settings).
+
+**KEEPING INFORMATION SECURE** ** **
+
+Information you provide to us is stored on servers owned and operated by Amazon Web Services, Inc. More information on this provider is available at [https://aws.amazon.com](https://aws.amazon.com/). We use many best practice security measures to keep this data safe including private networking, firewalling, role based access controls, authentication, backups and monitoring. When your data is moved off of our servers for any reason we leverage the best means available to us to make sure your data is secure in transit.
+
+**FOR USERS IN THE EUROPEAN ECONOMIC AREA, HERE ARE YOUR RIGHTS** ** **
+
+We think it is important that you are able to control your personal information.
+
+_For our users in the European Economic Area who are protected by the General Data Protection Regulation (or “GDPR”):_
+
+You have the right to ask us not to process your personal information for marketing purposes. You can exercise your right to prevent such processing at any time by contacting us at [here](https://app-eu.onetrust.com/app/#/webform/ce30a1ff-80a5-47fc-a691-c10d6eb31666).
+
+[View Data Subject Access Request Form](https://app-eu.onetrust.com/app/#/webform/ce30a1ff-80a5-47fc-a691-c10d6eb31666)
+
+The GDPR gives you the right to request a copy of the personal information we hold about you. We may request additional information about you to verify your identity before we do such. We will supply, correct or delete personal information about you on our files. In addition, you  can object to processing of your personal information, may request rectification, portability or erasure of personal information as well as the restriction of processing of your personal information. We will comply with your requests in accordance with the GDPR and applicable local law in Europe.
+
+If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+If you have a complaint about the processing of your personal information you have the right to complain to a data protection authority. However, if you do have a complaint, you can always contact us so we can try to resolve your complaint.
+
+**ARBITRATION FOR USERS OUTSIDE OF THE EUROPEAN ECONOMIC AREA**
+
+If you are a user who is not in the European Economic Area, any disputes under this Privacy Notice will be resolved in accordance with binding arbitration as outlined in the [Terms of Service](https://www.firstmet.com/terms-of-service/).
+
+**DATA RETENTION**
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+_For our users outside of the European Economic Area who are not covered under GDPR:_
+
+You may contact our support staff at [help@firstmet.com](mailto:help@firstmet.com) who will work with you to answer questions and take action to protect your privacy.
+
+**THIRD PARTY WEBSITES ACCESSED FROM FIRSTMET** ** **
+
+FirstMet may contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites will have their own privacy notices which will govern use of any personal information that they process. Please check these notices carefully before you click on any links and/or submit any personal information to these websites.
+
+**CHANGES TO OUR POLICY**
+
+Any changes we may make to this Privacy Notice will be posted on this page. Where it makes sense because the changes are material, we will notify you by e-mail or in another appropriate manner such as when you next interact with FirstMet.
+
+**TARGETING AND TRACKING**
+
+We may use Tracking Technologies to deliver content, including ads, relevant to your interests on the Services and third party sites based on how you interact with our advertisements or content, and to track the content you access.
+
+To better understand your purchasing preferences, we may also use third party vendors that provide tracking tools that recognize and collect usage and interest information across the sites you’ve visited from your various Devices. When you visit the Services on a specific Device, a unique ID is created for that Device which may be based on your hashed (de-identified) email address. This allows us and our third party vendors to deliver relevant product recommendations, personalized content and advertising to you based on your interests gathered across multiple sites. This data may be combined with the same information from another browser or Device if you use multiple browsers or Devices. Third party tracking tools might also obtain information about other applications that you have downloaded to your mobile Device, the websites you visit and other information about you or your Device in order to analyze and serve anonymous targeted advertising on the Services and elsewhere.
+
+**INTERNET ADVERTISING**
+
+We or our advertising partners may use Tracking Technologies to collect Information about your visits over time and across the Services and other third-party websites, and combine that information with other information received from other sources, in order to serve more targeted advertising to you. For example, we use Google interest based cookies to serve personalized ads to you. Our ad partners automatically receive your IP address or Device identifier when this happens. Their tools may also limit the number of times you see the same ad and help measure the effectiveness of our advertising campaigns. These third parties may also use information gathered from your use of the Services to serve targeted, interest based advertisements from other advertisers to you on third-party websites and applications.
+
+The Digital Advertising Alliance (“DAA”) has also made available for consumers tools on which you can register your choices not to be tracked by participating advertising networks or companies in the collection and use of your online activities. These are (1) The DAA [Consumer Choice Page for Mobile Web ](http://www.aboutads.info/choices/)(at [http://www.aboutads.info/choices/ ](http://www.aboutads.info/choices/)) and (2) DAA [AppChoices ](http://www.aboutads.info/appchoices)(at <http://www.aboutads.info/appchoices>), which is a mobile app that allows you to opt out of the collection and use of cross-app data, other than for permitted uses, by listed third-party AppChoices participants. You may opt out of mobile-app targeted advertising ads from any or all of the listed participating advertising networks. You can download the free mobile app from an app store available on your mobile platform. When you opt out with a particular participating advertising network, the mobile app adds your device identifier to that participant’s opt-out list. The participant advertising network is then notified to block the device identifiers on the opt-out list.
 
 You can also prevent your receipt of interest-based ads on websites by deleting and declining cookies in your browser(s). Note that your opt-out choice is applied only to the browser from which you make the choice.
 
-Some newer mobile device operating systems allow you to limit the use of information to deliver interest-based advertising in mobile applications. You can check the settings on your device for such options in your devices’ operating system. Alternatively, you may wish to download the TrustE mobile application and/or the Digital Alliance “App Choices” mobile application and follow the instructions provided.
-
-For those users in Europe, you may be able to opt-out via the IAB Europe’s industry opt-out at [www.youronlinechoices.com.eu](http://www.youronlinechoices.com.eu/).
+Some newer mobile device operating systems allow you to limit the use of information to deliver interest-based advertising in mobile applications, or your mobile web browser may provide a “Do Not Track” browser setting which will notify those ad servers and networks who recognize the signals to refrain from sending you interest based ads to your mobile device. You can check the settings on your device for such options in your device’s operating system. Alternatively, you may wish to download the TrustE mobile application and/or the Digital Alliance “App Choices” mobile application and follow the instructions provided.
 
 If you opt-out of receiving targeted ads on our Services, you may continue to receive advertising and promotional messages after you opt-out, but they will not be customized or personalized to you based on your use of our Services.
 
-**_Browser Do Not Track Signals_.** Some third party browsers provide “do not track” machine readable signals for websites and online services which are automatically applied by default and therefore do not necessarily reflect our users’ choice as to whether they wish to receive advertisements tailored to their interests. As such, we do not currently respond to these signals. Your mobile web browser may provide a “Do Not Track” browser setting which will notify those ad servers and networks who recognize the signals to refrain from sending you interest based ads.
+**CONTACTING US IS EASY AND WE WANT TO HEAR FROM YOU** ** **
 
-**_Location and Geo-location Functionality._ **Information gathered from your use of the Services may be combined with information from third-party sources to identify your location by state and region (“Regional Location”). If you enable location services for our Services, we may passively collect regional location data periodically as you use or leave open our Services. Certain of our mobile applications have search functionality that gathers aggregate location data about visitors and when visitors opt-in, allows us to collect information about their precise geographic location (“Geo-location”). We may use GPS, Wi-Fi, Bluetooth or cell tower proximity to determine Geo-location. If you agree to have your Geo-location collected, we may use and retain that precise location data to provide you with information about our Services or carry out marketing and other activities contemplated by our mobile applications and by this Policy. When you have Geo-location software running on your Device, we may only collect that information as controlled by your privacy settings on your Device. For most mobile Devices, you are able to withdraw your permission for us to acquire this information on your location through the Device settings. If you have questions about how to disable your mobile Device’s location services, we recommend you contact your mobile Device service provider or the Device manufacturer.
+We really do welcome any questions, comments and requests you may have regarding this Policy. You can contact us by email at [help@firstmet.com](mailto:help@firstmet.com).
 
-  
-**III. HOW WE USE AND SHARE YOUR INFORMATION**
+The Dating Company  
+334 Cornelia St, #104  
+Plattsburgh, NY 12901
 
-**_Use of Information You Provide to Us_.** We may use information that you provide to us: (1) to respond to your requests (2) provide customer service (e.g., to fulfill product orders made by you, to resolve disputes or problems with your account/profile or our Services), (3) administer a contest, sweepstakes or promotion, (4) to provide information to third parties at your request (5) to improve our Services and to customize your experience; (6) to give you information about your account or our Services; (7) for internal business purposes; (8) for purposes disclosed at the time you provide your information or (9) as otherwise set forth in this Privacy Policy.
+[Terms of Service](https://www.firstmet.com/terms-of-service)
 
-**_Feedback on Members_.** Some of our Services may allow you to provide your feedback on other members of that Service. If you provide feedback, that information is stored to match you with other members where there is mutual interest or otherwise to assess the activity level and popularity of members as they use the Services. Your feedback on members is not shared unless there is a mutual interest conveyed by both members, in which case the mutual interest is revealed to both members and then you are permitted to enter into a one on one conversation with that member.
-
-**_Other Snap Services._ ** With prior consent and an opportunity to opt out, Snap may register you with and display your profile on other online dating or social media services owned by Snap. For example, certain members of FirstMet may have the opportunity to automatically register for 50more.
-
-_**Co-branded Areas.** _Certain areas on our Services may be provided to you in association with third parties (“Co-Branded Areas”). Such Co-Branded Areas will identify the third party. If you interact with the products and/or services provided at these Co-Branded Areas, you either will be providing your personal information to both us and the third party or we might be providing your personal information directly to the third party in order for that third party to fulfill their products and services directly with you. Your personal information will be subject to this Privacy Policy as well as the privacy policy and practices of such third party. We are not responsible for the privacy practices of those third parties and suggest you review their respective privacy policies.
-
-**_Service Providers_. **We may disclose information to our third party service providers in order to monitor the activity of the Services, conduct surveys, administer contests or sweepstakes, send marketing communications, and provide other Services to you, such as customer service.
-
-_**Mobile Data.** _When you access the Services on a mobile Device, we may use the information collected for any purpose set forth in this Privacy Policy.
-
-**_Analyze and Aggregate Information_.** We use aggregate information about our users and non-personal information to analyze the Services and user behavior and prepare aggregated reports that we share with third parties.
-
-**_Promotional Messages_.** We may also use your email address or mobile phone number to send you updates and communications about our products and Services or other messages, such as newsletters, text messages (if you agree to opt-in), information about other users, changes to features of the Services, special offers or share your information with our marketing partners so they can send promotional offers to you.
-
-**_Push Notifications_.** Our Services may include a function that allows us to use push notifications to send you updates, communications, and other messages about the Service. We do not send promotional messages about other products or services through these push notifications.
-
-**_Information from Other Sources_.** The information we collect may be combined with information from outside records (e.g., demographic information, navigation information, additional contact information, or from other sources about your visits over time and across other third party websites in order to serve more targeted advertising to you on the Services), that we have acquired in accordance with the law. We may also combine that information with other information collected from the Devices you use to access our Services, such as your mobile device model, and system settings, as well as the language your system uses and the country and time zone of your Device and other demographics.
-
-**_Connecting with a Social Network_.** If you permit a connection between a Social Network and any of our Services, that Social Network may be able to identify you and to associate information received from the connection with information the Social Network already has about you. Please review the Social Network’s privacy policy and choices for sharing information of any Social Network connected to our Services. If you authorize a connection from our Services to a Social Network you permit us to share or publish information about your activity on our Services with that Social Network and its users, and to access Permitted Social Network Content. Information we may share with a Social Network may include, but is not limited to: technical information about your Services, activities and content, including videos, if any, which you access on our Services. Information we may access about you, subject to your privacy settings on the Social Network, may include your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network.
-
-**_Legal Matters; Safety_.** We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service, which we encourage you to read in conjunction with this Privacy Policy, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe may involve potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
-
-**_Sale or Transfer of Business or Assets_.** If Snap or an affiliated company is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, personal and non personally identifiable information of our users may be one of the assets sold or merged in connection with that transaction. Information about our users may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding.
-
-**_Transactional Communications._** We may send you notices from time to time relating to your account or your membership. These may include order confirmations, invoices or customer service notifications. We may also send you service-related announcements when it is necessary to do so; for instance, if our Services are temporarily suspended for maintenance, or the delivery of a product is delayed or there is some service issue with something you may have ordered.
-
-**_Process Payments._ **Information may be disclosed to process credit card transactions, which are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process your order. In addition, we may disclose information to third parties to verify the authenticity of any financial transaction involving our company or to update your billing information.
-
-**IV.  ACCESSING AND CHANGING YOUR PERSONAL INFORMATION**
-
-**_To Change Your Account or Profile Information._ **Members can review and edit profile information by accessing their accounts within the Service. To change your profile on our Service, go to Edit My Profile (or similar tab) on the applicable Service. From your account, you may edit your “about me” description or add additional photos to supplement or replace the photos originally imported. In order to change your friends or interests, you must first change them in the Social Network. You may deactivate your profile at any time by logging on to your account and going to the settings section of the Service and clicking “delete profile.” You may reactivate your account by logging onto the Services, except for The Grade which will require creating a new account.
-
-If you registered on the Service using Facebook, you may deactivate your account by going to <https://www.facebook.com/bookmarks/apps> and removing the app for the particular Service. Upon deactivation your profile and account information will be publicly removed from the Service. Facebook users can reactivate their accounts by clicking on the Facebook connect on the Service website or through Facebook.
-
-If your information is not correct and you cannot change it by accessing your account, contact us as described in Contact Us below. You should promptly update your personal information if it changes or becomes inaccurate.
-
-  
-**V. CHOICE AND OPT OUT**
-
-**_Transactional/Service-related Messages_.** You may not opt-out of transactional or service-related messages, including emails.
-
-**_Opting-out of Analytics Cookies_.** You may be able to opt-out of the collection and use of data by our third party analytics or service providers, by clicking here. You can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the features offered on our Services.
-
-**_Opting-out of Interest based Advertising._ **See Section 2 _Opt-out of Interest-based Advertising_.
-
-**_Opting-out of Promotional Messages._** You may choose not to receive our promotional communications by logging into your account and clicking the “Preferences” tabs. You may also click the unsubscribe link in the footer of any email or newsletter, or click “STOP” on a mobile text. You may also contact our privacy administrator at [privacy@snap-interactive.com](mailto:privacy@snap-interactive.com).
-
-**_Opting-out of Push Notifications._** You may not opt-out of receiving push notifications.
-
-**_Opt-out Timing and Third Parties_.** We will endeavor to comply with your requests as soon as reasonably possible but please note that changes requested of us may not be effective immediately. Unless required by law, we are not responsible for informing third parties with whom we have shared your information of any changes, or for removing or causing to be removed information from the databases or records of such entities.
-
-**_Deleting Personal Information_.** You may request that all user submitted personal information (other than your email address) is deleted from our database by emailing us at the email address noted in Section 6 Contacting Us.
-
-**VI. IMPORTANT DISCLOSURES**
-
-**_Links to Other Sites_**. You should be aware that hyperlinks you utilize to access external or third party sites or applications are not controlled by us and, therefore, are not subject to this Privacy Policy. We recommend that you check the privacy policies of those third party sites or applications to determine how your personal information will be utilized by the proprietors.
-
-**_Security_**. We implement security measures to protect against the loss, misuse and alteration of information under our control, including “Secure Socket Layers” or SSL to protect your data. SSL is encryption technology that helps safeguard your personally identifiable information against misuse by unauthorized individuals. However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personal information, and your use of the Services indicates that you are willing to assume this risk. The Federal Trade Commission’s site, [www.ftc.gov](http://www.ftc.gov/), also offers useful information about how to protect personally-identifiable information provided online or through mobile applications.
-
-**_Storage and Retention._** If your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. If any of your content, including your personal information, was previously accessed by others using the Service, we are unable to delete the information from their systems. When you deactivate your account or ask that we delete your content on a Service, we will retain logs and information about you along with an archival copy of your information, which is not accessible by you or third parties on the Service but which might be used by us to respond to your request to reactivate your account, for recordkeeping and internal purposes, including enforcing our Terms and demographic, reporting and research purposes.
-
-**_Jurisdiction and Cross-Border Issues_**. We do not represent or warrant that our Services are appropriate or available for use in any particular jurisdiction. Those who choose to access the Services do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit access to our Services to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By using our Services and submitting personal information, you consent to the transfer of personal information to other countries, such as the United States, which may provide a level of data security different from your country of residence. You are also consenting to the application of United States law in all matters concerning the Services.
-
-**_Children’s Privacy_**. The Services are directed to a general audience. We restrict the use of our Services to individuals age 18 and above. We do not knowingly collect personal information from individuals under 18 years of age and if we obtain actual knowledge that a user is under 18 years of age, we will take steps to remove that user’s personal information from our systems. If you become aware that anyone under 18 has provided us with personal information, please contact us in accordance with the “Contacting Us” section below.
-
-**_Changes to the Privacy Policy_**. We may change this Privacy Policy from time to time. You agree that we may notify you about material changes by placing a notice on the Services. The most recent version of the Privacy Policy will always be posted on the Services, with the “Effective Date” posted at the top of the Policy. You should check the Services frequently for updates. By accessing the Services after the Effective Date you are deemed to consent to our then-current privacy policy.
-
-_Disputes._ If you choose to visit the Services, any dispute over privacy is subject to this Privacy Policy and our Terms including arbitration, limitations on damages, resolution of disputes, and application of the laws of the United States and the state of New York.
-
-**_Contacting Us._** If you have any questions, comments or concerns about this Privacy Policy or our privacy practices, call customer service at:
-
-FirstMet: 1-888-762-7404
-
-50more: 1-844-505-4946
-
-or write to us at:
-
-Snap Interactive, Inc.
-
-c/o Customer Service
-
-122 E. 42nd Street,
-
-Suite 2600
-
-New, York, NY 10168
-
-You may also email us at:
-
-FirstMet: help@firstmet.com
-
-50more: help@50more.com
-
-When contacting us, please include your full name, address, phone number, and email address, and indicate the specific Service you’re using and the nature of your request.
-
-Copyright © 2017 Snap Interactive, Inc. All rights reserved.
-
-**THIRD PARTY PROVIDERS OF ANALYTICS TOOLS**
-
-This is a list of third parties we have hired to provide us information, reports and analysis about the usage and browsing patterns of users of the Services.
-
-Google                <http://www.google.com/intl/en/policies/privacy/>
-
-Google Analytics Opt-out  <https://tools.google.com/dlpage/gaoptout/>
-
-Facebook                <https://www.facebook.com/policy.php>
-
-Crittercism:  [https://www.crittercism.com/privacy-policy/  ](https://www.crittercism.com/privacy-policy/%C2%A0%C2%A0)
-
-Forensiq:  <https://forensiq.com/privacy-policy/>
-
-Apsalar:       [https://apsalar.com/privacy-policy/](https://apsalar.com/privacy-policy/)
-
-Intercom: [https://www.intercom.com/privacy/](https://www.intercom.com/privacy)
-
-Intercom Opt-out: <http://www.networkadvertising.org/choices/>
-
-Intercom EU Opt-out: <http://www.youronlinechoices.eu/>
-
-Splunk:        [https://www.splunk.com/en_us/legal/privacy/privacy-policy.html](https://www.splunk.com/en_us/privacy-policy.html)
-
-Cake:           <http://getcake.com/privacy-policy/>
-
-Flurry (for The Grade only) <https://dev.flurry.com/secure/optOut.do>
-
-**TRACKING TECHNOLOGIES**
-
-**_Cookies_**. A cookie is a data file placed on a Device when it is used to visit the Services. We use cookies to collect information for record keeping purposes, to make it easier to navigate the Services. Cookies are stored on users’ hard drives. We use both “session ID cookies” and “persistent cookies.” Session ID cookies are used to store information while a user is logged into the Services and expire when the user closes his/her browser. Persistent cookies are used to make tasks like logging into the Services easier for returning users by remembering a user’s login information. Persistent cookies stay on a user’s hard drive from one session to the next.
-
-**_HTML5_**. We use HTML5 in some of our applications, including in our mobile website for the iPhone or iPad. HTML5 has browser web storage that does not rely on traditional browser cookies. Like Flash cookies, HTML5 cookies are not stored in a browser “cookies” file and, like Flash cookies, can be used to track users across websites. To our knowledge there is currently no known way for a user of a mobile Device to remove HTML5 tracking and storage.
-
-**_Web Beacons/GIFS_**. Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or email can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to our Services, to monitor how users navigate the Services, to count how many emails that were sent were actually opened or to count how many particular articles or links were actually viewed.
-
-**_Embedded Scripts_**. An embedded script is programming code that is designed to collect information about your interactions with the Services such as the links you click on. The code is temporarily downloaded onto your Device used to access Services from our web server or a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
-
-**_e-tags/cache browsers/web logs_**. Like most standard website servers, we log IP addresses (a unique number assigned to every computer on the Internet) and Device identification in order to improve security, analyze trends and administer the Services. We may track your movement within the Services, the pages from which you were referred, access times and browser types. This information may include the browser you are using, the Internet address from which you linked to our Services, the operating system of your computer, the unique IP address of the computer or Device identification from the mobile device that you used to access our Services and usage and browsing habits. We use this information in the aggregate to gauge the effectiveness, usage, and popularity of our Services, track information for statistical purposes, help diagnose and troubleshoot server malfunctions, analyze trends, track user movement in the aggregate, and gather broad demographic information. We may also use individual information we collect through web logs to send you targeted offers and other communications.
-
-**_Device Fingerprinting_**. We may use Device fingerprinting in some of our Services, which allows us to collect information about a remote computing Device for the purpose of identification. It can be used to prevent fraud or collect information about you.
-
-**_IDFA_**. The IDFA is a Device identifier that is used by many software kit developers for various reasons including to measure user behavior in mobile apps. Additionally, the IDFA is the shared identifier between an ad network and an ad server to report which networks delivered a particular download. 
+[< Go back to FirstMet](https://www.firstmet.com/)
