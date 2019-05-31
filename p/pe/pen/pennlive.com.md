@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010220530id_/https%3A//www.pennlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531072321id_/https%3A//www.pennlive.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# 
+
+## PRIVACY POLICY 
 
 Last Revised: May 25, 2018
 
