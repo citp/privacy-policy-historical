@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the eatz.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709021240id_/http%3A//www.eatz.com/Venues/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatz.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601010500id_/https%3A//www.eatz.com/pages/content/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eatz
 
-eatz.com value the trust you place in [http://www.eatz.com](http://www.eatz.com/). This statement discloses the information practices for the eatz.com, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. 
+eatz.com value the trust you place in [https://www.eatz.com](https://www.eatz.com/). This statement discloses the information practices for the eatz.com, including what type of information is gathered and tracked, how the information is used and with whom the information is shared. 
 
 ### Collection of Personally Identifiable Information
 
 eatz.com collects your personal information for the purpose of site security and to ensure our service remains available to all users. The personal information we collect from you will include information you give us when you:
 
-  * Register to our site
-  * [Contact us](https://web.archive.org/Venues/content/contact)
+  * [Register to our site]()
+  * [Contact us](https://web.archive.org/web/20190601010500id_/https%3A//www.eatz.com/pages/content/contact-us.html)
   * Complete a transaction with us
 
 
