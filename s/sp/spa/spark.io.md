@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spark.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171805id_/https%3A//www.particle.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.io privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531224650id_/https%3A//www.particle.io/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Particle
+# Particle | Privacy Policy
 
 This privacy policy covers Particle’s collection and treatment of information and data collected when you visit Particle’s Websites or use Particle Services.
 
-#### Section 1. Definitions
+### Section 1. Definitions
 
 1.1 “Particle” means the entity Particle Industries, Inc.
 
@@ -18,7 +18,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 1.6 “Website(s)” means any web domains owned, operated, branded or co-branded by Spark Labs, Inc. dba Particle Websites include Particle’s “Project Share Website” and community forum.
 
-#### Section 2: How Particle Collects Data
+### Section 2: How Particle Collects Data
 
 2.1 Particle collects certain data from visitors to Particle Websites in order to continuously improve and enhance our customer’s experiences. This data is collected via the following methods:
 
@@ -44,7 +44,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 2.3.1 At times Particle may collect information from Third-Parties that use our Services or Products. They may provide us with Personal or Anonymous Data that we will use to continue to improve our Services and Products.
 
-#### Section 3: How is data used by Particle?
+### Section 3: How is data used by Particle?
 
 3.1 The data referenced in this Privacy Policy is primarily used by Particle to improve, troubleshoot and enhance Products, Websites and Services.
 
@@ -52,7 +52,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 3.3 Particle may collect and create anonymous data by excluding personally identifiable information. Particle reserves the right to use Anonymous Data for any purpose and disclose Anonymous Data to third parties at its sole discretion.
 
-#### Section 4: How is data kept secure?
+### Section 4: How is data kept secure?
 
 4.1 Particle uses Secure Socket Layer (SSL) encryption on the APIs (Application Programming Interface) and Websites operated by Particle.
 
@@ -60,7 +60,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 4.3 Data collected by Particle via its Websites and Services is stored on secure third-party servers.
 
-#### Section 5: When is data shared?
+### Section 5: When is data shared?
 
 5.1 Particle may at some point have a third-party process or analyze some of the data we have collected.
 
@@ -80,7 +80,7 @@ This privacy policy covers Particle’s collection and treatment of information 
 
 5.5 If another company acquires Particle or our assets via a merger, acquisition or sale, that company will possess the Personal Data collected by Particle and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. In this event Particle will give You prior notification via email or by putting a prominent notice on our site before Your personal data is transferred.
 
-#### Section 6: Additional Information
+### Section 6: Additional Information
 
 6.1 Third-Parties may on occasion offer products or services that interact with Particle. Particle will encourage these Third-Parties to follow a similar privacy policy as this one, but you acknowledge and agree that Particle is not responsible for the privacy policies of others.
 
