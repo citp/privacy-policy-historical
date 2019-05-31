@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lioden.com privacy policy that was archived on 2018-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181211051903id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lioden.com privacy policy that was archived on 2019-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190531203022id_/https%3A//www.lioden.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -10,7 +10,11 @@
 	<link rel="manifest" href="/manifest.json">
 	<link rel="shortcut icon" href="//static.lioden.com/images/favicon.ico" type="image/x-icon">
 
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript">
+	"function"!=typeof Object.assign&&Object.defineProperty(Object,"assign",{value:function(e,t){"use strict";if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var n=Object(e),r=1;r<arguments.length;r++){var o=arguments[r];if(null!=o)for(var c in o)Object.prototype.hasOwnProperty.call(o,c)&&(n[c]=o[c])}return n},writable:!0,configurable:!0});
+	"remove"in Element.prototype||(Element.prototype.remove=function(){this.parentNode&&this.parentNode.removeChild(this)});
+	</script>
+	<script type="text/javascript">
 	var ldCfg = (function() {
 		var options = {
 			url: 'http://www.lioden.com/'
@@ -22,36 +26,99 @@
 		}
 	}());
 	</script>
-	<script src="//static.lioden.com/inc/jquery.min.js"></script>
+	<script src="//static.lioden.com/inc/jquery.min.js?v=1.10.1"></script>
 	<script src="//static.lioden.com/inc/jquery.flexselect.js?v=3.0"></script>
 	<script src="//static.lioden.com/inc/liquidmetal.js?v=2.0"></script>
+	<script src="//static.lioden.com/js/timeago.min.js" type="text/javascript"></script>
+		<script>
+	var b_lsis=null;function localStorageIsSupported(){if(null!==b_lsis)return b_lsis;try{var o="__na8h4oak4g302kk__";return storage.setItem(o,o),storage.removeItem(o),b_lsis=!0}catch(o){return b_lsis=!1}}function setSetting(o,t){localStorageIsSupported()?localStorage.setItem(o,t):CK.create(o,t,365)}function getSetting(o){return localStorageIsSupported()?localStorage.getItem(o):CK.read(o)}
+	var CK={create:function(e,t,n){var r;if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),r="; expires="+i.toGMTString()}else r="";document.cookie=e+"="+t+r+"; path=/"},read:function(e){for(var t=e+"=",n=document.cookie.split(";"),r=0;r<n.length;r++){for(var i=n[r];" "===i.charAt(0);)i=i.substring(1,i.length);if(0===i.indexOf(t))return i.substring(t.length,i.length)}return null},erase:function(e){utils.createCookie(e,"",-1)}};
+
+	var LogError = (function() {
+		var throttle = 0;
+		var throttleMax = 3;
+		var uid = 0;
+
+		function captureError(err) {
+			var errName = '';
+			var errMsg = '';
+			if (typeof err.name !== 'undefined') {
+				errName = err.name;
+			}
+
+			if (typeof err.message !== 'undefined') {
+				errMsg = ': ' + err.message;
+			}
+
+			var report = {
+				"uid": uid,
+				"name": 'Uncaught ' + errName + errMsg,
+				"url": document.location.href,
+				"stack": err.stack.replace(/\n/g, '¶')
+			}
+
+			save(report);
+		}
+
+		function windowError(msg, url, lineNo, columnNo, error) {
+			var report = {
+				"uid": uid,
+				"name": msg,
+				"url": document.location.href,
+				"stack": error.stack.replace(/\n/g, '¶')
+			};
+
+			save(report);
+		}
+
+		function save(report) {
+			if (throttle > throttleMax) {
+				return false;
+			}
+
+			++throttle;
+
+			var bc = '?' + (new Date().getTime());
+			var request = new XMLHttpRequest();
+			request.open('POST', 'ajax_errors.php' + bc);
+			request.setRequestHeader('Content-type', 'application/json');
+			request.onload = function(e) {
+				if (request.status == 200) {
+					// Request is good
+				} else {
+					// Request not good
+				}
+			}
+			request.send(JSON.stringify(report));
+		}
+
+		return {
+			window: windowError,
+			capture: captureError
+		}
+	}());
+	(function() {
+		window.onerror = LogError.window;
+	}());
+	</script>
+		<!--
 	<script>
 	$(document).ready(function() {
 		$("#dialog").dialog();
-	  } );
+	 });
 	</script>
-		<!-- Google Analytics -->
-	<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-34281078-1', 'auto');
-	ga('send', 'pageview');
-	ga('create', 'UA-34281078-1', {'sampleRate': 10});
-	</script>
-	<!-- End Google Analytics -->
-
+	-->
+	
 	
 	<!-- Bootstrap -->
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
 	<link href="/css/flexselect.css" rel="stylesheet">
-	<link href="/css/common.css?v=1.4.1" rel="stylesheet">
+	<link href="/css/common.css?v=1.6.6" rel="stylesheet">
 	<link href="/css/fontoldstyle.css" rel="stylesheet">
 	<link href="/css/jquery-ui.css" rel="stylesheet">
 
-	<link href="/css/main.css?v=7.4.1" rel="stylesheet">
+	<link href="/css/main.css?v=8" rel="stylesheet">
+	
 	<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
 	<script type="text/javascript">
 		window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
@@ -60,8 +127,10 @@
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
 	
 	<!-- End Cookie Consent plugin -->
-        </head>
+</head>
 <body>
+	<script src="//static.lioden.com/js/mezr.min.js" type="text/javascript"></script>
+	<div id="fraCopyPlaceholder"></div>
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];
@@ -70,6 +139,7 @@
 	  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));</script>
+
 	<div class="container topbar">
 			</div>
 
@@ -123,7 +193,7 @@
 
 				<h1>Privacy Policy</h1>
 
-<p><i>Last updated March 30 2018</i>.
+<p><i>Last updated January 11 2019</i>.
 </p>
 
 <p>
@@ -168,11 +238,15 @@
 
 <h3>How we use cookies</h3>
 <p>
-	A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added. Cookies allow web applications to respond to you as an individual.</p>
+	A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added. Cookies allow web applications to respond to you as an individual.
+</p>
 
 <p>
-	We use cookies to identify when a user is returning to Lioden so that it can keep users logged into their accounts.  Cookies can be destroyed by logging out of your account.</p>
-
+	We use cookies to identify when a user is returning to Lioden so that it can keep users logged into their accounts.  These cookies can be destroyed by logging out of your account.
+</p>
+<p>
+	We also use cookies to store drafts of users' posts on the forums so that they can easily return to them in case of an accidental click or internet disruption.  These Cookies can be destroyed by clicking the "Reset" button on the post pages, or by submitting the post.
+</p>
 <p>
 	A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 </p>
@@ -239,11 +313,11 @@
 				<div class="panel panel-default">
 					<div class="panel-body small">
 						<div class="floatright right" style="width: 45px;">
-							<img src="//static.lioden.com/img/layout/icon-time-day.png" alt="day Time">
-							<img src="//static.lioden.com/img/layout/icon-season-wet.png" alt="wet Season">
+							<img src="//static.lioden.com/img/layout/icon-time-night.png" alt="night Time">
+							<img src="//static.lioden.com/img/layout/icon-season-dry.png" alt="dry Season">
 						</div>
-						10th December, 2018<br>10:19pm Lioden time<br>
-						<a href="/online.php">1369 members online</a><br>					</div>
+						31st May, 2019<br>1:30pm Lioden time<br>
+						<a href="/online.php">1817 members online</a><br>					</div>
 				</div>
 				
 							</div>
@@ -251,7 +325,7 @@
 	</div>
 	</div>
 	<div class="container footer center white visible-lg visible-md visible-sm">
-		Lioden Ltd © 2012-2018.  All rights reserved.<br>
+		Lioden Ltd © 2012-2019.  All rights reserved.<br>
 		Company number 09846917 registered in England &amp; Wales.  VAT number 234362915.
 		<ul class="bottomlinks row small auto" style="width: 740px;">
 			<li><a href="/terms.php">Terms of Service</a></li>
@@ -264,7 +338,7 @@
 		</ul>
 	</div>
 	<div class="center footer small white visible-xs">
-		Lioden Ltd © 2012-2018.  All rights reserved.<br>
+		Lioden Ltd © 2012-2019.  All rights reserved.<br>
 		Company number 09846917 registered in England &amp; Wales.  VAT number 234362915.<br>
 		<a href="/terms.php">Terms of Service</a> -
 		<a href="/code.php">Code of Conduct</a> -
@@ -273,11 +347,48 @@
 		<a href="/modbox.php">Modbox</a> -
 		<a href="/faq.php">FAQ</a> -
 		<a href="/conservation.php">Conservation Efforts</a>
-		
 	</div>
 
-
-    <script src="//static.lioden.com/js/bootstrap.min.js"></script>
+	<script src="//static.lioden.com/js/bootstrap.min.js"></script>
 	<script src="//static.lioden.com/inc/jquery-ui.min.js"></script>
-    <script src="//static.lioden.com/js/main.js?v=1.6.22"></script>  
+	<script src="//static.lioden.com/js/main.js?v=1.13"></script>
+	<script>$(document).ready(function() { $("#dialog").dialog(); });</script>
+	<script>
+		(function() {
+			var btnToggleSidebarChat = document.getElementById('btnToggleSidebarChat');
+			var fraSidebarChat = document.getElementById('fraSidebarChat');
+			var uiM = document.createElement('div');
+			uiM.setAttribute('id', 'uimid'); uiM.setAttribute('data-mid', mid);
+			document.body.appendChild(uiM);
+
+			if (fraSidebarChat) {
+				var fraSidebarContent = fraSidebarChat.querySelector('iframe');
+				if (btnToggleSidebarChat) {
+					btnToggleSidebarChat.addEventListener('click', function(e) {
+						e.preventDefault();
+						if (this.value == 'Hide') {
+							CK.create('chat_sidebar', 0, 365);
+							updateChatboxSetting(0);
+							this.value = 'Show';
+							fraSidebarChat.classList.add('hidden');
+						} else {
+							CK.create('chat_sidebar', 2, 365);
+							updateChatboxSetting(2);
+							this.value = 'Hide';
+							fraSidebarChat.classList.remove('hidden');
+							loadChat();
+						}
+					});
+				}
+
+				function loadChat() {
+					if (CK.read('chat_sidebar') != 0) {
+						fraSidebarContent.src = fraSidebarContent.getAttribute('data-src');
+					}
+				}
+
+							}
+		}());
+	</script>
+	
 </body></html>
