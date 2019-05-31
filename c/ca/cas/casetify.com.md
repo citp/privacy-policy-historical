@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casetify.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928001418id_/https%3A//www.casetify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casetify.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531114308id_/https%3A//www.casetify.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Casetify
+# 개인정보 보호정책 – CASETiFY
 
 This Privacy Policy is designed to notify you about how we collect, use, disclose, transfer, and otherwise process personally identifiable information that we collect on the site ('Personal Information'). This policy explains our privacy practices for casetify.com and its Apps ('Site') and other relevant services provided by the Site ('Services').
 
@@ -83,7 +83,7 @@ If we process your information based on our legitimate interests as explained ab
 
 **Contact Us.** If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  * [http://www.casetify.com](http://www.casetify.com/)
+  * [https://www.casetify.com](https://www.casetify.com/)
   * [hello@casetify.com](mailto:hello@casetify.com)
 
 
