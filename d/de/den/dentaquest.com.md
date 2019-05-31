@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129190942id_/http%3A//www.dentaquest.com/hipaa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentaquest.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531190154id_/http%3A//www.dentaquest.com/hipaa-privacy-policy) for the most accurate reproduction.*
 
-# DentaQuest - HIPAA Privacy Policy
+# HIPAA Privacy Policy - DentaQuest
 
 [Home](https://web.archive.org/) **»**
 
@@ -10,10 +10,10 @@ DentaQuest takes your privacy seriously. We want to tell you about our privacy p
 
 #### How do we use health information?
 
-**DentaQuest uses your health information to pay dentists and others who provide you with dental care or services, and to conduct normal business known as dental care operations. Examples of how we use your information include:**
+**DentaQuest uses your health information to pay providers  and others who provide you with health care or services, and to conduct normal business known as health care operations. Examples of how we use your information include:**
 
-  * Payment - We may pay claims submitted by dentists who treat you. We may also discuss your treatment plan with your dentist or provide prior authorization for certain services.
-  * Dental Care Operations - Health information is used for quality improvement and for customer service.
+  * Payment - We may pay claims submitted by providers who treat you. We may also discuss your treatment plan with your provider or provide prior authorization for certain services.
+  * Health Care Operations - Health information is used for quality improvement and for customer service.
 
 
 
@@ -77,7 +77,7 @@ Requests followed by an asterisk (*) must be in writing.
 
 **We do not give your financial information to any person or persons not affiliated with DentaQuest. It is important to us that you understand what financial information we gather and how we use it to administer your benefits and serve you better.**
 
-  * Financial Information - In order to provide your dental services, we may gather financial information about you from you, your employer, your plan sponsor, or your dentist with respect to claims, co-payments, and premium payments.
+  * Financial Information - In order to provide your health care services, we may gather financial information about you from you, your employer, your plan sponsor, or your provider with respect to claims, co-payments, and premium payments.
   * Security - In compliance with state and federal standards, electronic, procedural, and physical safeguards are in place to limit the collection and use of non-public information to the minimum necessary to provide you with quality products and services. Access to this information is limited to a "need to know" basis for our employees to perform their jobs. This applies to you whether you are a former or current member.
 
 
