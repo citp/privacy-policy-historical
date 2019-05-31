@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408034550id_/http%3A//www.shoecarnival.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531133655id_/https%3A//www.shoecarnival.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Shoe Carnival
+# Privacy Policy | Shoe Carnival | Shoe Carnival
 
 PRIVACY STATEMENT
 
@@ -16,7 +16,7 @@ TYPES OF INFORMATION COLLECTED
 
 As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site may not work without cookies.
 
-We may use and combine such passively collected anonymous information to provide better service to site visitors, tailor the site based on your preferences, compile and analyze statistics and trends, monitor website activity and performance and otherwise administer and improve the site for your use. However, such information is not combined with personally identifiable information collected. 
+We use marketing consultants to help us maintain and analyze our data and allow us to market more efficiently. They may use cookies or web beacons to collect information about you, in connection with providing you information via email, Internet ads or direct mail about products and services that might be of interest to you. You can choose not to have this information used by our trusted third party advertising partners by contacting us to opt out.
 
 2\. Personal Information You Provide
 
@@ -48,7 +48,7 @@ Shoe Carnival uses third parties to support our business and provide services su
 
 We may disclose the personally identifiable information that you have provided to us to third parties, but only:
 
-(i) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat your personal information in accordance with this Privacy Policy and use it for the same purposes;
+(i) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, affiliated partners and financial institutions), in which case we will require such third parties to agree to treat your personal information in accordance with this Privacy Policy and use it for the same purposes;
 
 (ii) in connection with the sale, assignment, merger or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat your personal information in accordance with this Privacy Policy and use it for the same purposes; or
 
