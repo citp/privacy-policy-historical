@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bniconnectglobal.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bniconnectglobal.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/privacy.html) for the most accurate reproduction.*
 
 # BNI Connect Privacy Policy | Effective date: May 25, 2018
 
 ** Click the drop down arrow () to select your language.**
 
-**[ CLICK HERE TO PRINT THE BNI® PRIVACY POLICY IN ENGLISH.](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_english.pdf)** [ ](https://get.adobe.com/reader/)
+**[ CLICK HERE TO PRINT THE BNI® PRIVACY POLICY IN ENGLISH.](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_english.pdf)** [ ](https://get.adobe.com/reader/)
 
 |  **TRANSLATIONS**  
 ---  
-[ ](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_deutsch.pdf) |  **[Deutsch](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_deutsch.pdf)** |  [ ](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_japanese.pdf) | ** [プライバシー規定](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_japanese.pdf)** | [ ](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_polska.pdf) | **[Polska](https://web.archive.org/web/20180627220914id_/http%3A//bnitos.com/pp_polska.pdf)**  
+[ ](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_deutsch.pdf) |  **[Deutsch](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_deutsch.pdf)** |  [ ](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_japanese.pdf) | ** [プライバシー規定](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_japanese.pdf)** | [ ](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_polska.pdf) | **[Polska](https://web.archive.org/web/20190531231454id_/http%3A//bnitos.com/pp_polska.pdf)**  
   
 **Effective/Last Updated: May 25, 2018**
 
