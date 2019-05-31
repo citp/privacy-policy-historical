@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shalusharma.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201061904id_/http%3A//www.shalusharma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shalusharma.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531220918id_/http%3A//www.shalusharma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Holiday and Travel Guide to India
 
@@ -81,5 +81,3 @@ You will find some affiliate links within posts particularly from Amazon affilia
 ### **Our contact information**
 
 info(at)shalusharma.com
-
-[](https://www.amazon.com/gp/product/1983540498/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1983540498&linkCode=as2&tag=youb0f-20&linkId=15281d419702d3c984d7dcaa74a4e61c)
