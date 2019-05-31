@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktive.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107224612id_/http%3A//www.paktive.com/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktive.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531053234id_/https%3A//www.paktive.com/common/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
