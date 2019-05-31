@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222154328id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildium.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531171000id_/https%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buildium
 
@@ -71,7 +71,7 @@ If you are located in the European Union, you may have the following legal right
 
 
 
-EU residents that would like to request that their data be securely removed from our systems please follow these steps outlined in our [Data Removal Process](http://www.buildium.com/wp-content/uploads/2018/08/Buildium-Data-Removal-Process.pdf). If you are unable to remove the data please send a request to [privacy@buildium.com](mailto:privacy@buildium.com) and Buildium will remove all relevant data, so long as that removal is technically feasible, does not impact the accounting or business practices of our customers, and does not violate other regulatory or legal standards with which Buildium must comply.
+EU residents that would like to request that their data be securely removed from our systems please follow these steps outlined in our [Data Removal Process](https://www.buildium.com/wp-content/uploads/2018/08/Buildium-Data-Removal-Process.pdf). If you are unable to remove the data please send a request to [privacy@buildium.com](mailto:privacy@buildium.com) and Buildium will remove all relevant data, so long as that removal is technically feasible, does not impact the accounting or business practices of our customers, and does not violate other regulatory or legal standards with which Buildium must comply.
 
 ## Data Protection Addendum
 
