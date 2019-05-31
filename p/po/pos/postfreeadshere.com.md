@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postfreeadshere.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117102515id_/http%3A//www.postfreeadshere.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postfreeadshere.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531052808id_/http%3A//www.postfreeadshere.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | US Ads Citi
 
