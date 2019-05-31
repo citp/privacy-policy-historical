@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904080703id_/https%3A//www.irvinecompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rental-living.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531220344id_/https%3A//www.irvinecompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Irvine Company
 
@@ -10,11 +10,11 @@ August 15, 2016
 
 This Privacy Policy describes how Irvine Company LLC and its affiliates (collectively, “Irvine”) treat data and information about you that Irvine collects and receives from you through applications that run on mobile devices and tablets (“Applications”), this website and other Irvine websites, and other online locations (collectively, the “Websites”), any Internet connectivity made available by Irvine, other aspects of Irvine’s business including offline, and third parties.
 
-The Websites include without limitation: IrvineCompany.com, Irvinecompanycareers.com, CoastalCollection.com, GoodPlanning.org, OnlyInIrvine.com, HamptonsCupertino.com, IrvineCompanyApartments.com, Rental-living.com, UTC-Irvine.com, OrangeCountyZest.com, ShopFashionIsland.com, ShopIrvineCompany.com, ShoptheIrvineCompany.com, ShopIrvineSpectrumCenter.com, ShoptheMarketPlace.com, IrvineCompanyOffice.com, OneLaJollaCenter.com, SantaClaraSquare.com, SpectrumSkyline.com, SantaClaraSquareOffice.com, 200Spectrum.com, 520NewportCenter.com, EastgateSummit.com, EastgateTerrace.com, TheVine.IrvineCompany.com, NextGenCampusOffice.com, DoKinetic.com, FashionIslandHotel.com, AquaLoungenb.com, OakGrillnb.com, PelicanHill.com, VillasatPelicanHill.com, PelicanHillMagazine.com, PelicanGrillnb.com, Coliseumnb.com, Andreanb.com, PelicanHillGolfClub.com, ShopPelicanHill.com, HotelIrvine.com, EatsKitchen.com, IrvineRedBar.com, OakCreekGolfClub.com, GreatSlips.com, Crystal-Cove.com, IrvinePacific.com, VillagesofIrvine.com, Irvine Company Residents mobile application, and Retail Therapy mobile application.
+The Websites include without limitation: IrvineCompany.com, Irvinecompanycareers.com, CoastalCollection.com, GoodPlanning.org, IrvineCompanyApartments.com, UTC-Irvine.com, OrangeCountyZest.com, FashionIsland.com, ShopIrvineCompany.com, ShoptheIrvineCompany.com, ShopIrvineSpectrumCenter.com, ShoptheMarketPlace.com, IrvineCompanyOffice.com, SantaClaraSquare.com, SantaClaraSquareOffice.com, FashionIslandHotel.com, AquaLoungenb.com, OakGrillnb.com, PelicanHill.com, VillasatPelicanHill.com, PelicanHillMagazine.com, PelicanGrillnb.com, Coliseumnb.com, Andreanb.com, PelicanHillGolfClub.com, ShopPelicanHill.com, HotelIrvine.com, EatsKitchen.com, RedBarandLounge.com, OakCreekGolfClub.com, GreatSlips.com, IrvinePacific.com, VillagesofIrvine.com, Irvine Company Residents mobile application, and Retail Therapy mobile application.
 
 Irvine’s affiliates include without limitation the entities operating the Websites and Applications listed above and other entities that may be affiliated with Irvine.
 
-If you have a question whether a site is a Website of Irvine, or if an entity is an affiliate of Irvine Company LLC, please check the information posted on the site or other material, or contact Irvine at [webmaster@irvinecompany.com](mailto:webmaster@irvinecompany.com) or 949-720-2000.
+If you have a question whether a site is a Website of Irvine, or if an entity is an affiliate of Irvine Company LLC, please check the information posted on the site or other material, or contact Irvine at [information@irvinecompany.com](mailto:information@irvinecompany.com) or 949-720-2000.
 
 #### 2\. ACCEPTANCE OF PRIVACY POLICY
 
@@ -108,9 +108,9 @@ Irvine cannot guarantee the security of the information on and sent from the Web
 
 #### 8\. NOTICE OF PRIVACY RIGHTS OF CALIFORNIA RESIDENTS
 
-Irvine has adopted a policy of not sharing your personally identifiable information with third parties for their direct marketing purposes if you request that we do not do so (“Opt-Out Policy”). You may make such a request by sending us an email at [webmaster@irvinecompany.com](mailto:webmaster@irvinecompany.com) or mailing your request to:
+Irvine has adopted a policy of not sharing your personally identifiable information with third parties for their direct marketing purposes if you request that we do not do so (“Opt-Out Policy”). You may make such a request by sending us an email at [information@irvinecompany.com](mailto:information@irvinecompany.com) or mailing your request to:
 
-Webmaster, Irvine Company  
+Information, Irvine Company  
 550 Newport Center Drive,  
 Post Office Box 6370  
 Newport Beach, California 92658-6370
@@ -119,12 +119,12 @@ When contacting us, please indicate your name, address, email address, which Web
 
 If you are a California resident and have provided personal information to a business with an Opt-Out Policy and such business is required to respond to such requests, you may be entitled by law to request certain information regarding disclosures of personally-identifiable information made by such business to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year (“Disclosure Request”). Such a business is not required to respond to more than one Disclosure Request per customer each year, or to respond to requests made by means other than through the contact information designated by the business for such purposes. However, please note that due to Irvine’s Opt-Out Policy described in the preceding paragraph, we are not obligated by law to provide you with the requested information.
 
-If you are still interested in making a Disclosure Request, please send us an email at [webmaster@irvinecompany.com](mailto:webmaster@irvinecompany.com). In the Disclosure Request, specify that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response, but note that Irvine is entitled by law to respond to your Disclosure Request by notifying you of your right to prevent the disclosure of personal information pursuant to our Opt-Out Policy and by providing you with a cost-free means to exercise that right.
+If you are still interested in making a Disclosure Request, please send us an email at [information@irvinecompany.com](mailto:information@irvinecompany.com). In the Disclosure Request, specify that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response, but note that Irvine is entitled by law to respond to your Disclosure Request by notifying you of your right to prevent the disclosure of personal information pursuant to our Opt-Out Policy and by providing you with a cost-free means to exercise that right.
 
 9\. CORRECTING OR REMOVING YOUR PERSONAL INFORMATION/OPT OUT  
-To review or change your personal information collected by Irvine, please send your request, including the Website or line of business to which your request pertains, to [webmaster@irvinecompany.com](mailto:webmaster@irvinecompany.com) or to:
+To review or change your personal information collected by Irvine, please send your request, including the Website or line of business to which your request pertains, to [information@irvinecompany.com](mailto:information@irvinecompany.com) or to:
 
-Webmaster, Irvine Company  
+Information, Irvine Company  
 550 Newport Center Drive,  
 Post Office Box 6370  
 Newport Beach, California 92658-6370
@@ -133,7 +133,7 @@ If you want to unsubscribe from an email list of Irvine, please let us know by f
 
 #### 10\. CHILDREN
 
-Irvine is committed to protecting the privacy of children. The Websites and Applications are directed to persons 18 years of age or older. Irvine, the Websites and the Applications do not knowingly collect information from children under age 18. If you under age 13, you are not permitted to use the Websites or Applications or to submit any personally identifiable information to the Websites or the Applications. If you provide information to Irvine through the Websites or Applications, you represent and warrant to Irvine that you are 18 years of age or older. If you are 13 – 17 years of age, you may visit, browse and use the information on the Websites or Applications, but you may not submit any personal information to the Websites or Applications, and you represent and warrant to Irvine that you have permission of your parent or guardian to use the Websites or Applications and any activities on the Websites or Applications, who agrees to this Privacy Policy and the Acceptable Use Policy governing use of the Internet connectivity made available by Irvine at Irvine locations, if applicable, on your behalf. If we become aware that a Website or Application user is under age 18 and has provided personal information, we will remove his or her personal information from our files. If you are a parent or guardian and believe Irvine may have inadvertently collected personal information from your child, please notify Irvine immediately by sending an email, including the Website or Application or line of business to which your request pertains, to webmaster@irvinecompany.com.
+Irvine is committed to protecting the privacy of children. The Websites and Applications are directed to persons 18 years of age or older. Irvine, the Websites and the Applications do not knowingly collect information from children under age 18. If you under age 13, you are not permitted to use the Websites or Applications or to submit any personally identifiable information to the Websites or the Applications. If you provide information to Irvine through the Websites or Applications, you represent and warrant to Irvine that you are 18 years of age or older. If you are 13 – 17 years of age, you may visit, browse and use the information on the Websites or Applications, but you may not submit any personal information to the Websites or Applications, and you represent and warrant to Irvine that you have permission of your parent or guardian to use the Websites or Applications and any activities on the Websites or Applications, who agrees to this Privacy Policy and the Acceptable Use Policy governing use of the Internet connectivity made available by Irvine at Irvine locations, if applicable, on your behalf. If we become aware that a Website or Application user is under age 18 and has provided personal information, we will remove his or her personal information from our files. If you are a parent or guardian and believe Irvine may have inadvertently collected personal information from your child, please notify Irvine immediately by sending an email, including the Website or Application or line of business to which your request pertains, to [information@irvinecompany.com](mailto:information@irvinecompany.com).
 
 #### 11\. LINKS
 
@@ -157,4 +157,4 @@ Personal information collected through the Websites or Applications and other as
 
 #### 15\. CONTACT US
 
-If you have any questions about this Policy or our Websites or Applications, please contact us at [webmaster@irvinecompany.com](mailto:webmaster@irvinecompany.com). Please note that email communications may not be secure. Accordingly, you should not include personal or other sensitive information in your email correspondence to the Website, Application or Irvine.
+If you have any questions about this Policy or our Websites or Applications, please contact us at [information@irvinecompany.com](mailto:information@irvinecompany.com). Please note that email communications may not be secure. Accordingly, you should not include personal or other sensitive information in your email correspondence to the Website, Application or Irvine.
