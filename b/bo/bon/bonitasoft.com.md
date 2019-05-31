@@ -1,41 +1,107 @@
-> *The following text is extracted and transformed from the bonitasoft.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724043947id_/https%3A//www.bonitasoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonitasoft.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531103606id_/https%3A//www.bonitasoft.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Bonitasoft | Open Source Workflow & BPM software
+# Bonitasoft privacy policy
 
-**Acceptance of Terms.**
+Our privacy statement explains our policies and practices regarding the use and disclosure of your personal information by Bonitasoft. This Privacy Policy can be reviewed at any time by Bonitasoft. In the event of changes, the Privacy Policy is the one in force on the date of use of the Site.  
+ 
 
-BonitaSoft, Inc. ("BonitaSoft" or "us" or "we") respects your privacy and is committed to protecting your personal information that you provide to us on bonitasoft.com, bonitaforge.com and related sub-domains (the "Website"). This statement explains our policies and practices regarding the use and disclosure of your personal information by BonitaSoft. Please note that BonitaSoft reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how BonitaSoft collects and uses personal information. By using our Website, you consent to the collection and use of your personal information by BonitaSoft as explained below.
+**Acceptance of Terms.** BonitaSoft, Inc. ("BonitaSoft" or "us" or "we") respects your privacy and is committed to protecting your personal information that you provide to us on bonitasoft.com and related sub-domains (the "Website"). This statement explains our policies and practices regarding the use and disclosure of your personal information by BonitaSoft. This Privacy Policy can be reviewed at any time by Bonitasoft. In the event of changes, the Privacy Policy is the one in force on the date of use of the Site. Any modification of the Privacy Policy shall be sent to the User one month before it enters into force. If the User does not agree with the modification, he/she cannot use the Site after the date such modification has entered into force.  
 
-Please also see our Terms of Service, which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the Website. If you have any questions regarding this Privacy Policy or our Terms of Service, please contact us at [marketing@bonitasoft.com](mailto:marketing@bonitasoft.com). For other general questions, please refer to our Contacts page.
+Please also see our [Terms of Use](https://web.archive.org/bonitasoft-website-legal-terms-use), which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the Website. If you have any questions regarding this Privacy Policy or our [Terms of Use](https://web.archive.org/bonitasoft-website-legal-terms-use), please contact us at [marketing@bonitasoft.com](mailto:marketing@bonitasoft.com). For other general questions, please refer to our Contacts page.
 
-**Personal Information.**
+**Personal Information.**  You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data ("User Information").
 
-You have complete control over your personal information. In general, you can use our Website without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Website or to assist us in providing support or services to you. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data ("User Information").
+If you do not provide us with this information, we will not have the necessary information to answer your questions and provide you with the requested support.  
+If you wish, you can also send us your data in order to receive our newsletters and be kept informed of the evolution of our service offerings ("Bonitasoft Offers").
 
-**Use of User Information.**
+**Disclosure of User Information.** Personal data are collected, stored and stored in accordance with the provisions of the General Data Protection Regulation and the French Data Protection Act of 1978, and the Community provisions applicable to the protection of personal data. When the User has communicated his data in order to receive the newsletters and be kept informed of the Bonitasoft Offers, the data are stored as long as the User has not asked to be unsubscribed.  
+When the User has subscribed to a Bonitasoft Offer, his / her data is kept as long as the Subscribed Offer is in force. The User Data can then be stored on a server with restricted access, and used exclusively in connection with a complaint or at the request of the judicial or administrative authorities, for a period corresponding to the five-year limitation period. Each User has a right to access, modify, rectify, erase and, where applicable, ask for the portability of his personal data, in accordance with the provisions in force on the date hereof.
 
-We intend to use User Information for purposes of supporting your relationship with BonitaSoft by providing a Website that is suitable to your needs and alerting you to products and service offerings ("BonitaSoft Offerings") as they become available. This User Information may be retained by BonitaSoft to verify compliance with the agreement between BonitaSoft and you, to keep track of the domains from which people visit us, to create a user profile to better serve you, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. Do not submit any User Information if you are less than 18 years of age.
+The right of access, modification, rectification and erasure provided for in the previous paragraph, is exercised by contacting the customer service at the following email address: [marketing@bonitasoft.com](mailto:marketing@bonitasoft.com). In case of difficulty related to the management of his personal data, the User has the right to register a complaint with the CNIL or with any competent supervisory authority.
 
-**Monitoring.**
+**Accuracy and Security.** The accuracy and security of User Information is important to BonitaSoft. You may review and request updates to your User Information retained by BonitaSoft. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. BonitaSoft is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures designed to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information.
 
-Although we are not obligated to do so, we may review your communications with respect to the Website to determine whether you comply with our Terms of Service. BonitaSoft will not have any liability or responsibility for the content of any communications you provide, or for any errors or violations of any laws or regulations by you.
+**External Links.** The Website may provide links to other third party web sites. Even if the third party is affiliated with BonitaSoft through a business partnership or otherwise, BonitaSoft is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
 
-**Disclosure of User Information.**
+**Cookies.** Cookies can be automatically installed on your browser or your device, when you access our site. A cookie is an element that does not identify a person but is used to record information about the navigation of it on the site Bonitasoft.
 
-BonitaSoft does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on BonitaSoft Offerings. We may share with third parties aggregated, non-personal information. Such information does not identify you individually. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order; you violate our Terms of Service or we otherwise suspect that you are engaged in fraudulent or illegal activities. You may separately agree to provide your personal information to third parties that provide content for BonitaSoft Offerings, in order to access or use their products or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
+_What are the cookies that can be installed when you visit our site?_
 
-**Accuracy and Security.**
+In our case, we use the different types of cookies described below:
 
-The accuracy and security of User Information is important to BonitaSoft. Currently, you may review and request updates to your User Information retained by BonitaSoft. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. BonitaSoft is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures designed to secure your personal User Information. We also continue to implement procedures to maintain accurate, complete and current User Information. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+_User session cookies_  
+User session cookies retain the information completed on the forms made available on the Site.
 
-**Usernames and Passwords.**
+  
+_User authentication cookies_  
+Authentication cookies allow access to accounts, thanks to the identifiers that were previously defined.
 
-Access to certain content on our Website may be allowed under a written agreement between you and BonitaSoft, and may require a username or password issued by BonitaSoft. In some cases, failure to provide personal information may prevent you from accessing certain BonitaSoft web site(s) containing certain confidential information or BonitaSoft Offerings. By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Service.
+  
+_Customization cookies_  
+Personalization cookies allow us to adapt the presentation of our Site to the display preferences of your device (language used, display resolution, operating system used, etc.) during visits to our Site, depending on the equipment and viewing or reading software that includes the terminal used.
 
-**Cookies.**
+  
+_Security cookies_  
+These cookies allow to implement security measures, for example when asked to connect to a site again after a certain period of time.
 
-We use "cookies". A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser to warn you before accepting cookies, or you can refuse all cookies by turning them off in your web browser. Please note that certain features of our Website may not be available once cookies are disabled
+_analytical cookies_  
+Analytical cookies make it possible to know the use and the performances of our Site and to improve the functioning of it. For this, they trace the routes in order to establish statistics of visits.
 
-**External Links.**
+_What is the Lifetime of cookies?_
 
-The Website may provide links to other third party web sites. Even if the third party is affiliated with BonitaSoft through a business partnership or otherwise, BonitaSoft is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
+There are two types of cookies: session cookies and persistent cookies. Session cookies are created temporarily in your browser's subfolder when you visit a website. Once you leave the site, the session cookie is deleted.
+
+Persistent cookie files remain in your browser's subfolder and are reactivated once you visit the website that created this specific cookie. A persistent cookie remains in the browser subfolder for the duration defined in the cookie file.
+
+In general, the validity period of a cookie is 13 months maximum.
+
+_Can I refuse to store cookies on my computer?_
+
+You do not have to accept the deposit of cookies on your device. However, we can not guarantee you the same user experience if you delete cookies. To learn how to control or delete cookies in the web browser, go to [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+  
+_How to set up and delete cookies?_  
+The main issuers of cookies we use are as follows.
+
+HasJS
+
+| 
+
+To check your Javascript capabilities  
+  
+---|---  
+  
+Cookie-agreed
+
+| 
+
+To record your cookie agreement  
+  
+Google analytics
+
+| 
+
+To record anonymous navigation data. You can choose to [opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout).  
+  
+Google tag Manager
+
+|   
+  
+Pardot
+
+| 
+
+Personal data submitted on this web site is used to send to you marketing communications relating to Bonitasoft business.  
+You can manage your preferences [here](https://go.bonitasoft.com/emailPreference/e/148721/135)  
+  
+Ref Url
+
+| 
+
+To record your navigation data  
+  
+fisrtpage Url
+
+| 
+
+To record your navigation data
