@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fiat-india.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129024734id_/http%3A//www.fiat-india.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat-india.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601004641id_/http%3A//www.fiat-india.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FIAT India
 
-**FCA India Automobiles Private Limited f.k.a Fiat Group Automobiles India Private Limited** is committed to protect and respect the privacy of the information providers, including the visitors of the website of the Company at [www.fiat-india.com](https://web.archive.org/web/20181129024734id_/http%3A//www.fiat-india.com/www.fiat-india.com) (“ ** _Website_** ”).
+**FCA India Automobiles Private Limited f.k.a Fiat Group Automobiles India Private Limited** is committed to protect and respect the privacy of the information providers, including the visitors of the website of the Company at [www.fiat-india.com](https://web.archive.org/web/20190601004641id_/http%3A//www.fiat-india.com/www.fiat-india.com) (“ ** _Website_** ”).
 
 1\. This Privacy Policy (“ ** _Privacy Policy_** ”) details the provisions concerning collection, storage, use and protection of any personal information or other data that may be collected by the Company, including from the visitors accessing the Website, or that the users/visitors may voluntarily provide to the Company.
 
