@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heilsound.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105212818id_/https%3A//heilsound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heilsound.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531161924id_/https%3A//heilsound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - - Heil Sound
 
@@ -18,7 +18,7 @@ This policy describes how Heil Sound Communications, Inc. collects, uses, and sh
 
 ### **Contact Information**
 
-### **Types Of Information We Collect**.
+### Types Of Information We Collect.
 
 The following provides examples of the type of information that we collect from you and how we use that information. 
 
@@ -137,7 +137,7 @@ We have a legitimate interest in making our website operate efficiently.
   
 In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.  For example, if you submit a job application, or become an employee, we may conduct a background check.
 
-### **Use And Processing Of Information.**
+### Use And Processing Of Information.
 
 In addition to the purposes and uses described above, we use information in the following ways: 
 
@@ -167,7 +167,7 @@ In addition to the specific situations discussed elsewhere in this policy, we di
 
 
 
-### **Your Choices.**
+### Your Choices.
 
 You can make the following choices regarding your personal information:
 
@@ -183,13 +183,13 @@ You can make the following choices regarding your personal information:
 
 
 
-### **How We Protect Personal Information**
+### How We Protect Personal Information
 
 No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal information. In the event that we are required by law to inform you of any unauthorized access to your personal information we may notify you electronically, in writing, or by telephone, if permitted to do so by law.
 
 Some of our websites permit you to create an account.  When you do you will be prompted to create a password.  You are responsible for maintaining the confidentiality of your password, and you are responsible for any access to or use of your account by someone else that has obtained your password, whether or not such access or use has been authorized by you.  You should notify us of any unauthorized use of your password or account.
 
-### **Miscellaneous**
+### Miscellaneous
 
 The following additional information relates to our privacy practices:
 
@@ -199,9 +199,9 @@ The following additional information relates to our privacy practices:
 
 
 
-### **Contact Information**
+### Contact Information
 
-  If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information. 
+  If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below.  We will attempt to respond to your requests and to provide you with additional privacy-related information.
 
 privacy@heilsound.com
 
