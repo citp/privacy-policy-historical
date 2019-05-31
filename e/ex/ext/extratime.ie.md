@@ -1,71 +1,47 @@
-> *The following text is extracted and transformed from the extratime.ie privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617050917id_/http%3A//www.extratime.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extratime.ie privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531223925id_/http%3A//www.extratime.ie/privacy) for the most accurate reproduction.*
 
-# Extratime.ie - Newsdesk - breaking news, features and reports
+# Extratime.ie - Privacy Policy - Airtricity League of Ireland | Women's National League | International | Europa League | Champions League | U17 | U19
 
-  
+If you require any more information or have questions about our privacy policy, please feel free to contact us by email to extratimelive@gmail.com. 
 
+At extratime.ie, we respect your right to privacy. This privacy policy outlines the type of personal information we receive and how it is used. 
 
-### EXTRATIME PRIVACY POLICY
+**Cookie Notice**
 
-1\. Introduction 
+This cookie policy relates to our privacy practices in connection with the Extratime.ie website. Extratime.ie is not responsible for the content or privacy practices of other websites. 
 
-We at ExtraTime.ie respect your right to privacy and comply with our obligations under the Data Protection Acts 1988 and 2002. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with this Website Privacy Policy you should not use this website.
+If you have any questions, comments or concerns about this section you should contact us by email to extratimelive@gmail.com
 
-By visiting this website, you are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites.
+**Collection and use of Personal Information**
 
-  
-2\. Types of Information Collected 
+Extratime.ie does not collect any personal data about you on this website, apart from information which you volunteer (for example by e-mailing us). Any information that you provide in this way is not made available to any third parties, and is used by us for the purpose for which you provided it. 
 
-We retain two types of information:
+It is the policy of Extratime.ie never to disclose technical information in respect of individual website visitors to any third party (apart from our internet service provider, which records such data on our behalf and which is bound by confidentiality provisions in this regard), unless obliged to disclose such information by law. 
 
-  * **"Personal Data"**
+Only Extratime.ie will use this technical information – and only for statistical purposes to help us to increase the usability and accessibility of our website. To make this website work properly, we sometimes place small data files called “cookies” on your device. 
 
-This is data that identifies you or can be used to identify or contact you and may include your FirstName, LastName, Email Address and your preferences. Such information is only collected from you if you voluntarily submit it to us.
+If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance. 
 
-  * **"Non-Personal Data"**
+If you have any queries to data on the site or wish to enquire about the amendment or removal of data from the site, you can contact us by email to extratimelive@gmail.com
 
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This Non-Personal Data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
+**First Party Cookies**
 
+We use Google Analytics, a web analytics service provided by Google (Alphabet Inc.) to gather statistics on our website so that we can improve web services for our visitors. Google Analytics uses cookies to identify user sessions, which allows for the collection of important data about how our visitors are using the site. 
 
-  
-3\. Purposes for which we hold your Information 
+Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to our website domain(s), and we will only use that cookie data for statistical analysis related to your browsing behaviour on our websites. If you choose, you can opt out by turning off cookies in the preferences settings in your browser. 
 
-  * Non-Personal Data:
+You can opt-out from being tracked by Google Analytics by downloading and installing Google Analytics Opt-out Browser Add-on (http://tools.google.com/dlpage/gaoptout?hl=en) for your current web browser. 
 
-We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
+**Third Party Cookies**
 
-  * Personal Data
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter and Facebook. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website. 
 
-We will process any Personal Data you provide to us for the following purposes: (a) to provide you with the goods or services you have ordered; (b) to contact you if required in connection with your order or to respond to any communications you might send to us; 
+**Google Adsense**
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.extratime.ie send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-  
-4\. Disclosure of Information to Third Parties 
+Extratime.ie has no access to or control over these cookies that are used by third-party advertisers. 
 
-We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Extratime.ie's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-We will not disclose your Personal Data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil your order (in such circumstances, the third party is bound by similar data protection requirements). We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
-
-  
-5\. Sale of Business 
-
-We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of the Website Privacy Policy and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
-
-  
-6\. Security 
-
-Your Personal Data is held on secure servers hosted by Rimuhosting. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet . No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your Personal Data.
-
-  
-7\. Updating, Verifying and Deleting Personal Data 
-
-You may inform us of any changes in your Personal Data, and in accordance with our obligations under the Data Protection Acts 1988 and 2002 we will update or delete your Personal Data accordingly. To find out what Personal Data we hold on you or to have your Personal Data updated, amended or removed from our database, please complete this form and email it to us at info [AT] extratimeie. Any such data subject requests may be subject to the prescribed fee.
-
-  
-8\. Changes to the Website Privacy Policy 
-
-Any changes to this Website Privacy Policy will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Policy, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.
-
-9 Copyright and Reproduction Notice 
-
-The information, content, graphics, text, sounds, images, buttons, trade marks, service marks, trade names and logos (the "Materials") contained in this website are protected by copyright, trade mark, database right, sui generis right and other intellectual property laws, under national laws and international treaties. You are granted a limited licence solely for your own personal, non-commercial use to refer to, bookmark or point to any page within this website, and to download the Materials contained on this website to a single personal computer, and to print a single hard copy of the Materials contained on this website for your own personal reference, provided however that all copyright, trade mark and other proprietary notices are left intact. The grant of this limited licence is conditional on your agreement to, and compliance with, all of these terms and conditions of use. Any other use of the Materials on this website, including any form of copying or reproduction (for any purposes other than those noted above) modification, distribution, re-publication, extraction, re-utilisation, incorporation or integration with other materials or works or re-delivery using framing technology, is strictly prohibited and is in violation of the proprietary rights of Extratime.ie, unless prior written permission of Extrtaime.ie has been obtained.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
