@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackcatsystems.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819015940id_/https%3A//www.blackcatsystems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackcatsystems.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024746id_/https%3A//www.blackcatsystems.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
