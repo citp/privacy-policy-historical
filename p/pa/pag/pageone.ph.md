@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927214025id_/http%3A//pageone.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531143353id_/http%3A//pageone.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PAGEONE
 
