@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030065952id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bi-lo.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531121707id_/https%3A//www.bi-lo.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Policies | BI-LO
+# 
 
 BI-LO is committed to protecting the privacy of its customers, and we pledge to protect the security and privacy of your personal information. By viewing this website ([www.bi-lo.com](https://web.archive.org/)), BI-LO’s mobile applications, BI-LO’s loyalty programs, or BI-LO’s social media (collectively, the “Digital Marketing Program”), you acknowledge our information collection, use, storage and disclosure practices (collectively, “Privacy Practices”) and consent to the terms of this Privacy Policy. For the purpose of this Privacy Policy, “BI-LO ”, “we”, “our”, or “us” refers to BI-LO, LLC, a Delaware limited liability company, and includes all of our Affiliates (as defined below).
 
@@ -67,5 +67,10 @@ The term “Affiliates” shall mean all current or future companies or entities
 ### Contact Us
 
 If you would like to communicate with BI-LO about this Privacy Policy, please feel free to [Contact Us](https://web.archive.org/about/contact).
+
+Customer Support 
+
+PO Box B  
+Jacksonville, FL 32203-0297 
 
 Copyright © BI-LO, LLC. All rights reserved.
