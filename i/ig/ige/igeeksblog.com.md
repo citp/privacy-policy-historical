@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igeeksblog.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021102442id_/https%3A//www.igeeksblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igeeksblog.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531044500id_/https%3A//www.igeeksblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for iGeeksBlog.com
 
@@ -18,8 +18,6 @@ As with most other websites, we collect and use the data contained in log files.
 
 iGeeksBlog.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-* * *
-
 ###  **DoubleClick DART Cookie**
 
   * Google, as a third-party vendor, uses cookies to serve ads on www.iGeeksBlog.com
@@ -38,7 +36,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
- **Content Policy**
+###  **Google Analytics Cookie**
+
+We use Google Analytics to get insights into consumer demography, psychography/consumer behavior, traffic sources, and other necessary information. However, we do not share the same for any commercial purpose.
+
+* * *
+
+###  **Content Policy**
 
   * All the articles/contents published on iGeeksblog.com have been uniquely written by respected authors. Based on information found on the internet from various sources like material, news, videos, etc., articles are written after thorough research. In some cases, the information mentioned in the contents may vary as they may have been published a long time back. Hence, we request you to drop an email at igeeksblogs@gmail.com to change/update the content.
   * We reserved right to change the content, delete the content, delete the pages and information on this website anytime.
@@ -57,11 +61,22 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 * * *
 
-###  **Commenting and inquiry form fill up Policy**
+We care about the personal information you share online. At some points, iGeeksBlog collects personal information so please read the policies to make sure you understand our practices fully.
 
-  * Make your contact details available to iGeeksBlog.com partners, you may be contacted by iGeeksBlog.com partners through email, telephone and SMS, if you do not wish to be contacted, you may click on unsubscribe link on the email.
-  * Receive promotional mails/special offers from iGeeksBlog.com or any of its partner websites.
+###  **Comment**
 
+Email addresses are required for commenting and they are not published along with a comment. We do not share them with any third-party commenting tools for any commercial use.
 
+###  **Newsletter Subscription**
+
+Email addresses are required to join our newsletter subscription. Only verified email addresses with your prior consent will receive future updates from iGeeksBlog.
+
+###  **Fill-Up Forms**
+
+Name and Email address are required to contact iGeeksBlog for any queries or business inquiries. We use that personal information to contact you back for your query or business inquiries. We do not use this information for any other promotional activities or share with other third-party tools.
+
+###  **Personal Information of Contest Participant**
+
+We may ask for Name and Email address of contest participant. We may also ask for a contact number, residential address or other required personal information from contest winner to contact him/her and to deliver the prize.
 
 Along with that iGeeksBlog.com is created for information purpose only. The information we have posted here is a best with our knowledge and collected from the web. The information might be wrong or out dated and Visitor will only responsible for his/her own decision.
