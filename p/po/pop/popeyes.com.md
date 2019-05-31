@@ -1,82 +1,186 @@
-> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105042035id_/http%3A//company.popeyes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popeyes.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024845id_/http%3A//company.popeyes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Popeyes Louisiana Kitchen
 
-Welcome to the Website of Popeyes Louisiana Kitchen, Inc. (hereinafter referred to as either, “PLK” “The Company”, “We”, “Us”, or “Our”) is committed to protecting the privacy of personal information you may provide us on this Website (“Site”). We believe it is important for you to know how the Company treats your personal information. We updated this Privacy Policy effective as of January 25, 2016. From time to time, it may be necessary for PLK to change this Privacy Policy. If we change our Policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site.
+Last revised October 31, 2018
 
-When you visit this Site, we recognize only your apparent network address (IP address). We will see your e-mail address only if you fill out a form or send us an e-mail message. If you provide information about yourself by registering on a page, by filling out a survey, or otherwise by voluntarily telling us about yourself or your activities, we will collect that information for our own use to improve our products and services and the content of this Site. We collect Site use information which includes information about your internet service provider, browser type, domain name, IP address, the web site that referred you to us, the web pages you request, the date and time of those requests, and entry and exit points. Collection of Site use information is described in more detail here. Our collection of Site use information may involve the use of cookies and pixel tags. A cookie is a small removable data file that is stored by your web browser on your computer.
+## Privacy Policy Highlights 
 
-We may also collect aggregated data, which is data from which the identity of an individual cannot be determined.
+The Restaurant Brands International, Inc. (RBI) Privacy Policy describes the information we collect and how it is used and shared. This policy applies to any information collected about you by RBI when you do any of the following (collectively, the “Services”): (i) visit a BURGER KING®, TIM HORTONS® or POPEYES® branded restaurant in the United States or in Canada, or (ii) use in the United States or in Canada any website, mobile or tablet application, digital in-restaurant kiosk, or other online service or platform of the BURGER KING® brand, the TIM HORTONS® brand, the POPEYES® brand, or any other RBI company that links or refers to this policy. This summary provides the highlights of our policy, but please click [here](https://www.bk.com/privacy#privacy-policy) to review the policy in full.
 
-## Mobile and Email Privacy policy
+## [Information We Collect](https://www.bk.com/privacy#info-we-collect)
 
-Popeyes Louisiana Kitchen, Inc. respects your privacy. We will only use the information you provide to send you mobile or email content pursuant to the program in which you have requested to participate. We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with a Popeyes program, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may prohibit you from further participation in the applicable program and pursue any appropriate legal remedies.
+We collect various types of information about our users in connection with the Services, including:
 
-## SMS/MMS Privacy Policy: Short Message Service (SMS) “Text Message” and Multimedia Messaging Service (MMS)
-
-By providing us your telephone number, requesting to be added to Popeyes database through the use of web forms, QR codes, or by texting a keyword to Popeyes, you expressly consent to Popeyes and its vendors and service providers, calling or sending messages to your phone using an automatic telephone dialing system and/or artificial or prerecorded voice for the purpose of answering your inquiry and offering other services and goods. You are not required to submit your information as a condition of purchasing any goods or services. In the case of text messages, standard message and data rates may apply. Text STOP to 50293 to cancel. Text HELP to 50293 for help.  
-By signing or acknowledging the agreement, you acknowledge that you are the primary owner of the phone number used to subscribe in marketing messages or that you are authorized to subscribe the phone number in marketing messages and to approve applicable charges from Popeyes and its vendors and service providers. 
-
-Participation in Popeyes mobile marketing program is free of charge but standard carrier text messaging charges apply. You may change your mind at any time by following the opt-out instructions in the messages you received, or by replying HELP or STOP to 50293.
-
-Your wireless carrier and other service providers may collect data about your SMS/MMS usage, and their practices are governed by their own privacy policies.
-
-You acknowledge and agree that the SMS/MMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS/MMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS/MMS Service.
-
-Our messaging service supports the following carriers: Alltel, Boost, CellularOne, Cingular/AT&T, Dobson, Nextel, Sprint, T-Mobile, US Cellular and Verizon and others.
-
-Below you will find answers to several questions regarding our Privacy Policy. 
-
-  * What information does the Company collect about me on this Site?
-  * What does the Company do with the information collected?
-  * How can I stop receiving notices about future offers?
-  * How does the Company protect the security of my Personal Information?
+  * Information you provide to us;
+  * Information we collect about your use of our Services; and
+  * Information we obtain from third-party sources.
 
 
 
-## 1\. What information does the Company collect about me on this Site?
+We also may collect information in ways that we describe to you at the point of collection or otherwise with your consent.
 
-The Company collects personally identifiable information that you may voluntarily provide on online forms, which may include: User registrations, sweepstakes registration, contact requests, guest comments, online surveys, emails, and other online activities. The personally identifiable information (“Personal Information”) collected on this Site can include some or all of the following: your name, address, telephone number, birth date, age range, and e-mail address.
+## [How We Use Information](https://www.bk.com/privacy#how-we-use-info)
 
-**Non-personal information.** Business contact information (e.g. office address, telephone number) is not considered personal information in certain jurisdictions. At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and we will alert you via e-mail to new features, special offers, updated information and new services.  
-At the time of registration, you will have the option to receive future offers and updates from the Company by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and we will alert you via e-mail to new features, special offers, updated information and new services.
+We use the information we collect to, among other things:
 
-In addition to the Personal Information identified above, our web servers automatically identify computers by their IP addresses. The Company may use IP addresses to analyze trends, administer the Site, track users’ movement and gather broad demographic information for aggregate use. To emphasize, IP addresses are not linked to Personal Information.
+  * Operate and manage our stored-value card program;
+  * Provide and manage the products and Services you request;
+  * Communicate with you about our products, services, and promotions;
+  * Deliver targeted advertising, promotions, and offers; and
+  * Understand our customers so that we can develop and improve our customer service, promotions, products, and Services.
 
-## 2\. What does the Company do with the information collected?
 
-The Company may use your Personal Information for any of the following purposes: 1) to understand the use of the Site and make improvements; 2) to fulfill prizes; 3) to register visitors for online activities such as sweepstakes, contests, surveys, comment forms, or other online activities; 4) to protect the security or integrity of the Site if necessary; 5) to send notices of special promotions, offers or solicitations; 6) to respond to inquiries; and 7) in general, to promote and market the Company’s business and various products.
 
-## 3\. With whom does the Company share information?
+We may otherwise use your information with your consent or at your direction.
 
-Aside from the ways mentioned above, we may use your personally identifiable information in other ways, including sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. (By “promotional materials,” we mean communications that directly promote the use of Web sites, or the purchase of products or services.). However, you may “opt-out” of certain uses of your personal information (see below). By providing your telephone number to us, you expressly consent to Popeyes or its vendors and affiliates to contact you about our services using an automatic telephone dialing system and/or an artificial or pre-recorded voice, regardless of whether your phone number is on any national or local Do-Not-Call registry.
+## [Sharing of Information](https://www.bk.com/privacy#sharing-info)
 
-The Company currently shares this information with certain of our vendors or subcontractors supporting the Site’s technical operation or executing a specific promotion or programs, including without limitation, Dr Pepper Snapple Group, Brand Movers, and Pinnacle Communications. The Company will not sell, rent, loan, transfer, or otherwise disclose any Personal Information to third parties except as set forth in this statement.
+We may share your information with:
 
-The Company may share Personal Information with third parties under the following circumstances: i) in connection with a court order, subpoena, government investigation, or when otherwise required by law: ii) in the event of a corporate sale, merger, acquisition, or similar event; or iii) working with third party companies to support the Site’s technical operation or to execute a specific promotion or program.
+  * Affiliates, including the BURGER KING®, TIM HORTONS® and POPEYES® brands;
+  * Franchisees, including local owners of BURGER KING®, TIM HORTONS® and POPEYES® restaurants;
+  * Business partners, service providers, and social media services;
+  * Companies that provide content, advertising, or functionality; and
+  * Other parties when required or permitted by law, as necessary to protect our users, or in connection with a corporate transaction.
 
-## 4\. How can I stop receiving notices about future offers?
 
-Users who initially opted–in to receive future offers or promotional materials may subsequently opt-out by clicking on the unsubscribe link which is clearly indicated on the Website.
 
-## 5\. How does the Company protect the security of my Personal Information?
+We may provide aggregated information, and data with personal identifiers removed, to third parties to describe how our customers are using the Services. We also may share information about you with third parties whenever you consent to or direct such sharing.
 
-All information is housed on servers in a secure, controlled environment with state of the art security. In the event of a security breach whereas your Personal Information is acquired by an unauthorized person, the Company will take appropriate steps to contain the breach and to notify you of the unauthorized acquisition.
+## [Online Advertising and Cookies](https://www.bk.com/privacy#online-advertising)
 
-## 6\. Is this Site Linked to Other Sites?
+We and other companies that provide advertising and other services on our Services may use [cookies](https://www.bk.com/privacy#cookies), [web beacons](https://www.bk.com/privacy#beacons), [do-not-track signals](https://www.bk.com/privacy#do-not-track), and [similar technologies](https://www.bk.com/privacy#local-storage-and-other-tracking) to improve and customize your advertisements and your experience using our Services. The [full RBI Privacy Policy](https://www.bk.com/privacy#privacy-policy) provides additional information about our collection of information through these technologies.
 
-We may offer links to sites that are not operated by PLK. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.
+## [Privacy and Access Choices Available To You](https://www.bk.com/privacy#privacy-and-access-choices)
 
-## THIRD PARTY SITES
+The [full RBI Privacy Policy](https://www.bk.com/privacy#privacy-policy) provides information about how to manage the privacy and access choices available to you. For example, you may block cookies and similar technologies, opt out of receiving certain targeting advertising, and opt out of receiving commercial communications. In some circumstances, you also may have a right to access, update, and correct inaccuracies in your personal data.
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+## [Data Security](https://www.bk.com/privacy#data-security) and [Other Important Information](https://www.bk.com/privacy#other-important-info)
 
-The Site may contain a link to third party e-commerce websites, including some e-commerce websites that are Popeyes branded if applicable. This Privacy Policy does not govern those third party e-commerce websites. Any Personal Information that you provide through a third-party e-commerce website will be subject to the privacy policy of the e-commerce site, and not this Privacy Policy. We have no control over, and shall not be responsible for, the use of information collected through a third-party site.
+  * We have in place certain procedures to protect your personal information in our custody and control, but cannot guarantee the security of our Services or our control over your information when it is transmitted over the Internet.
+  * The [full RBI Privacy Policy](https://www.bk.com/privacy#privacy-policy) provides additional important information about our data security practices, links to third party sites, children’s privacy, California privacy rights, and international transfers of information.
 
-We may provide you with access to third-party functionality that permits you to post content to your social media account(s). Any information that you provide through use of this functionality is governed by the applicable third party’s privacy policy, and not by this Privacy Policy. We have no control over, and shall not be responsible for, any third party’s use of information that you provide through use of this functionality if applicable.
 
-We are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
-PLK reserves the right to change or update this policy at any time.
+## Privacy Policy
 
-Last Revised: January 25, 2016 
+Restaurant Brands International, Inc. (RBI), the proud owner of the BURGER KING®, TIM HORTONS® and POPEYES® restaurant brands, knows that your privacy is important. This Privacy Policy sets out our privacy practices that apply when you visit BURGER KING®, TIM HORTONS®, or POPEYES® restaurants or use any website, mobile or tablet application, digital in-restaurant kiosk, or other online service or platform of BURGER KING®, TIM HORTONS®, POPEYES® or any other RBI company that links or refers to it (collectively, the “Services”), regardless of who owns or operates the Services or the restaurant you ultimately visit, as well as our interactions with you on third party platforms (such as social media). 
+
+## 1\. Information We Collect
+
+We collect personal information about our users in various ways. For example, we collect information that you provide to us, information that we collect through your use of the Services, and information that we collect from publicly available sources or third parties.
+
+**Information You Provide to Us**. We collect information you give us when you use the Services. For example, when you visit one of our restaurants, visit one of our websites or use one of our Services, create an account with us, buy a stored-value card in-restaurant or online, participate in a survey or promotion, or take advantage of our in-restaurant Wi-Fi service, we may ask for information such as your name, e-mail address, year of birth, gender, street address, or mobile phone number so that we can provide Services to you. We may collect payment information, such as your credit card number, security code and expiration date, to process a financial transaction you have requested. We also may collect information about the products you buy, including where and how frequently you buy them, your use of coupons and stored-value cards, and the rewards you earn through our loyalty programs so that we can learn more about your interests and better serve you. 
+
+**Information About Your Use of the Services**. In addition to the information you provide to us directly, we may collect information about your use of the Services. For example, we may collect:
+
+  * Device information — such as your hardware model, IP address, other unique device identifiers, operating system version, and settings of the device you use to access the Services. 
+  * Usage information — such as information about the Services you use, the time and duration of your use of the Services and other information about your interaction with content offered through a Service, and any information stored in cookies and similar technologies that we have set on your device. 
+  * Location information — such as your computer’s IP address, your mobile device’s GPS signal or information about nearby WiFi access points and cell towers that may be transmitted to us when you use the Services. 
+
+
+
+**Information From Third-Party Sources**. We may receive information about you from publicly and commercially available sources, as permitted by law, which we may combine with other information we receive from or about you. For example, we may receive information about you from a social media site if you connect to the Services through that site.
+
+**Other Information We Collect**. We also may collect other information about you, your device, or your use of the Services in ways that we describe to you at the point of collection or otherwise with your consent.
+
+**Personal Information Storage Time**. We will keep your personal information for as long as it is needed to fulfil the purposes for which it was collected and in order to comply with legal or regulatory requirements. This may mean that some information is held for longer than other information.
+
+## 2\. How We Use Information
+
+**When You Register or Create an Account**. If you choose to use certain features on the Services, you may need to register or create an account and provide personal information such as name, email address, location, year of birth and a user name and password that you choose. We use this information to identify you and provide the requested feature and Services.
+
+**To Facilitate Participation in Our Stored-Value Card Programs**. If you purchase a stored-value card, we may also use your information to operate and manage that program, which may include setting up automatic reloads and providing online or in-restaurant balance inquiries. We may also use this information to develop and improve our product and service offerings and provide you with tailored offers and information.
+
+**To Provide and Manage the Products and Services You Request**. We use information that we collect to process your purchases of products, enable you to participate in features provided by the Services and in-restaurant, provide you with tailored offers, and improve the Services that we provide to you. From time to time, we may offer you the ability to personalize our products and Services, such as by uploading a photo or other information. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms.
+
+**To Respond to You**. When you contact us, we may collect information that identifies you (such as your name, address and a phone number) along with additional information we need to help us promptly answer your question or respond to your comment. We retain this information to assist you in the future and to improve our customer service, products, Services, and promotions.
+
+**When you Make A Purchase**. You do not have to provide any personal information when you purchase merchandise with cash at a restaurant. If you use a credit or debit card for your purchase, your debit or credit card-related information will be collected to process and administer your payment. When you make purchases through the online Services, we may collect information such as your name, email address, billing address, the email or mailing address for delivery (if applicable), phone number, and payment card information. This information is used to process, fulfill and deliver your order.
+
+**To Contact You**. We may contact you with offers and information about the Services and our affiliates, including to inform you about our products, events, promotions, and special offers that may be tailored to your interests. You may opt out of receiving commercial messages (excluding transactional messages) from us by following the instructions contained in our electronic messages or by contacting us as set out below.
+
+**To Deliver Targeted Advertising**. We may use your information, including your location information, to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves, select business partners, and advertisers, on and off the Services. (See “Interest-Based Advertisements” section below.)
+
+**To Better Understand Our Customers and to Improve Our Services**. In the course of providing the Services, we may collect information on our users’ demographics, interests and behavior and analyze that data. We do this to better understand and serve our users, and to improve our products and Services.
+
+**When You Use a “Share with a Friend” or Similar Feature on the Services**. The Services may offer a “share with a friend” or other similar feature which permits you to electronically send content from the Services to others by providing us with their contact information. Except where permitted by law, we do not use the contact information you provide when using this feature for other unrelated purposes without your consent or the consent of the recipient, as applicable. Please ensure that you only submit contact information for individuals you know and who would want to receive the content you share with them.
+
+**Consent**. We may otherwise use your information with your consent or at your direction.
+
+## 3\. Sharing of Information
+
+The following provides information about entities with which we may share information. Our practices vary depending on the type of information and sharing.
+
+**Affiliates**. We may share information within our family of affiliated companies so that we may provide offers from those companies that may be relevant to you, better understand your preferences, and improve our Services.
+
+**Franchisees**. We may share information with local owners of BURGER KING®, TIM HORTONS®, and POPEYES® restaurants, particularly when they will work with us in delivering Services to you. For example, local restaurants will implement delivery and take-away services that you may request through the Services. We also may provide our franchisees with information so that a local restaurant may provide you with offers and promotions that might interest you.
+
+**Business Partners**. We may also share your information with business partners to provide you with Services that you request. For example, if you sign up for a promotion that runs on our Services but that is sponsored or co-sponsored by another company, your information may be shared with that sponsor. We are not responsible for the privacy practices of these entities and recommend you review their privacy policies carefully.
+
+**Service Providers**. We may share information with companies providing services on our behalf, such as delivery services, hosting vendors, advertising service providers, data analytics companies, marketing service companies, and list managers. We also may share your information, including your payment information, as appropriate to process your payments for the Services or complete a transaction. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other unrelated purposes.
+
+**Social Media Services**. If you connect a social media account with the Services or engage with our services through a social media platform, we may share your information with that social media platform, and it may share information about you with us. We may use this information to personalize your experience on the Services and on the third-party social media platforms, or to provide you with offers or other products or Services you may request. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with the Services.
+
+**Companies that Provide Content, Advertising, or Functionality**. Some of the content, advertising, and functionality on our Services may be provided by third parties, such as our advertisers. These companies may collect or receive certain information about your use of the Services, including through the use of cookies, beacons, and similar technologies, and this information may be combined with information collected across different websites and online services in order to deliver ads that are more relevant to you, both on and off our Services.
+
+**Other Parties When Required or Permitted by Law, or As Necessary to Protect Our Users and Services**. We and our service providers (including affiliates) may use and share your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, our employees or agents or users, to detect, suppress or prevent fraud or where otherwise required or permitted by applicable law or legal process, including responding to a search warrant or other legally valid requests from public and government authorities (which may include lawful access by U.S., Canadian, or other governmental authorities, courts or law enforcement agencies).
+
+**Other Parties in Connection With a Corporate Transaction**. We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.
+
+**Otherwise With Your Consent or at Your Direction**. In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
+
+**Aggregated Data**. We also may provide aggregated information, and data with personal identifiers removed, to third parties to describe how our customers are using the Services.
+
+## 4\. Online Advertising and Cookies
+
+We and other companies that provide advertising and other services on our Services may use cookies, web beacons, and similar technologies to facilitate administration and navigation, to better understand and improve our Services, to determine and improve the advertising shown to you here or elsewhere, and to provide you with a customized online experience.
+
+**Interest-Based Advertisements**. We may use third parties to serve advertisements on our Services and on other websites and digital platforms. These companies may use cookies, web beacons or other technologies to report certain information about your visits to our Services and other websites (such as web pages you visit and your response to ads) in order to measure the effectiveness of our marketing campaigns and to deliver ads that are more relevant to you, both on and off our Services. To learn more and to opt-out of having your information used by these companies for online behavioral advertising purposes, please see “Choices with Respect to Interest-Based Advertisements” below. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms. We may do this by providing a hashed version of your email address or other information to the platform provider.
+
+**Cookies**. “Cookies” are small files that are placed on your computer when you visit a website. Cookies may be used to store a unique identification number tied to your computer or device so that you can be recognized as the same user across one or more browsing sessions, and across one or more sites. Cookies serve many useful purposes. For example:
+
+  * Cookies can remember your sign-in credentials so you do not have to enter those credentials each time you visit a Service.
+  * Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.
+  * Cookies help us and third parties understand which ads you have seen so that you don’t receive the same ad each time you access a Service.
+
+
+
+Most browsers accept cookies automatically, but can be configured not to do so. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. If you disable cookies, it may interfere with the functioning of the Services.
+
+**Beacons**. We, along with third parties, also may use technologies called beacons (or “pixels”) that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you have viewed particular content or a particular email message, determine the time and date on which you viewed the beacon, and the IP address of your device. We and third parties use beacons for a variety of purposes, including to analyze the use of our Services and (in conjunction with cookies) to provide content and ads that are more relevant to you both on and off the Service.
+
+**Local Storage & Other Tracking Technologies**. We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, in connection with our Services. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+
+**Do-Not-Track Signals and Similar Mechanisms**. Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+## 5\. Privacy and Access Choices Available To You
+
+**Choices With Respect To Cookies and Similar Technologies**. You may block cookies and similar technologies in your browser or device settings, as and if permitted by such device.
+
+**Choices With Respect To Interest-Based Advertising**. You may opt out of receiving targeted advertising from participating ad networks, audience segment providers, ad serving vendors, and other service providers by visiting websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), [Digital Advertising Alliance](http://www.aboutads.info/) and [Digital Advertising Alliance of Canada](http://youradchoices.ca/choices/).
+
+**Manage Your Account**. You may access, modify or delete your account on the settings or profile page, or by contacting the Privacy Officer at privacy@rbi.com with such written request.
+
+**Data Access**. Subject to applicable law, you may also have a right to access, update, and correct inaccuracies in other personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in the personal information we have in our custody or control by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records.
+
+**Email Promotions**. You may opt out of receiving commercial email, text message, and other electronic messages from us (excluding transactional messages) by following the instructions contained in those messages.
+
+## 6\. Data Security
+
+We have in place physical, electronic and managerial procedures to protect personal information in our custody and control against loss, theft and unauthorized access, use, modification and disclosure. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our Services, nor can we guarantee that the information you provide will not be intercepted while being transmitted to us over the Internet.
+
+## 7\. Other Important Information
+
+**Children’s Privacy**. We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law. If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
+
+**Links to Third-Party Sites**. Our Services may link to third-party websites and services that we do not operate and are outside of our control. We are not responsible for the security or privacy of any information collected by other websites or other services. Please exercise caution and review the privacy statements applicable to the third-party websites and services you use.
+
+**Your California Privacy Rights**. California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
+
+**International Transfers**. The Services are headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to, maintained and processed in the United States or another country by us or our service providers for the purposes mentioned above in accordance with applicable law. The privacy laws of these countries may not always offer the same level of protection as in your country. By using the Services, you consent to the collection, international transfer, storage, and processing of your information.
+
+**Changes to Our Privacy Policy**. We may modify this Privacy Policy from time to time. We will notify you of changes by posting changes here, or by other appropriate means. Any changes to the Privacy Policy will become effective when the updated policy is posted on the Services. Your use of the Services or your provision of personal information to use the Services following such changes indicates your acceptance of the revised Privacy Policy.
+
+**Questions**. Please contact our Privacy Officer at privacy@rbi.com with any questions or concerns about this Privacy Policy or the manner in which we or our service providers treat your personal information.
