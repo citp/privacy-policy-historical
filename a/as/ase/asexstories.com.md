@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126062128id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531082004id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A Sex Stories
 
