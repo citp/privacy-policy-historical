@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104222612id_/https%3A//www.spencersonline.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spencersonline.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531180941id_/https%3A//www.spencersonline.com/content.jsp%3FpageName%3DSecPriv) for the most accurate reproduction.*
 
 # Company Information > About > Security & Privacy - Spencer's
 
@@ -20,7 +20,7 @@ Company Information: Security and Privacy
   * Spencer's collects personal information when you enter promotions and sweepstakes. Spencer's may combine information about you that we have with information we obtain from business partners or other companies.
   
 
-  * When you register for Spencer's website, mailing list, or promotions and sweepstakes; we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spirit and sign in to our services, you are not anonymous to us.
+  * When you register for Spencer's website, mailing list, or promotions and sweepstakes; we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Spencer's and sign in to our services, you are not anonymous to us.
   
 
   * Spencer's collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
@@ -29,19 +29,19 @@ Company Information: Security and Privacy
   * Spencer's uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
   
 
-  * Spencer's has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by Spencer's. When you submit a product review to Spencer's, you are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/privacy_policy_en_US.html> ). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both <http://www.buzzillions.com/> and our site.
+  * Spencer's has arranged with PowerReviews, Inc. to facilitate the collection of customer product reviews on products sold by Spencer's and purchased by guests. When you submit a product review to Spencer's, you are also subject to PowerReviews' terms of use and privacy policies (see: [ https://www.powerreviews.com/terms-of-submission-ugc/](https://www.powerreviews.com/terms-of-submission-ugc/) and <https://www.powerreviews.com/privacy-policy/>)
   
 
   * If you upload or provide data to Spencer's website and contribute with texts, pictures, logos, etc. ("Material"), you may only enter or upload Material to which you own the intellectual property rights or have a license to upload the Material. By uploading the Material, you grant Spencer's a license to use the Material on the website and to make requisite copies of the Material. In the event that the Material would include pictures of you, Spencer's will consider your uploading as your express consent to the use of your picture. In the event that pictures would include pictures of your friends or other third parties you must ensure that such persons have consented to the publishing of the picture.
   
 
-  * Mobile Messaging: Max 3 msgs/wk. Msg&Data rates may apply. For help, text Spencers HELP to 79708. Reply SPENCERS CANCEL to 79708 to cancel. Customer service 1-800-762-0419. Supported carriers, AT&T, Verizon Wireless, T-Mobile, Sprint, Nextel, U.S. Cellular and many other smaller/regional carriers in the USA.
+  * Mobile Messaging/SMS/Text: Messaging frequency is set to recurring. Message and data rates may apply. For help, please text HELP to 54459. Reply STOP to 54459 to cancel at any time. For other questions please contact customer service [1-800-762-0419](tel://1-800-762-0419). Supported carriers include AT&T, Verizon Wireless, T-Mobile, Sprint, Nextel, U.S. Cellular and many other smaller/regional carriers in the USA.
   
 
   * Because we use your personal information that we collect to conduct our business, our websites do not respond to "Do Not Track" requests, or other similar mechanisms
   
 **E-mail**
-  * To opt-out of promotional e-mail from Spencer's, click the unsubscribe link at the bottom of your e-mail or contact us here: Spencer's Online, 6826 Black Horse Pike, Egg Harbor Township, NJ 08234. 1-800-762-0419; GuestServices@spencergifts.com
+  * To opt-out of promotional e-mail from Spencer's, click the unsubscribe link at the bottom of your e-mail or contact us here: Spencer's Online, 6826 Black Horse Pike, Egg Harbor Township, NJ 08234.[1-800-762-0419](tel://1-800-762-0419) ; GuestServices@spencergifts.com
   
 
   * Please allow up to 10 business days for your request to be processed.
@@ -90,6 +90,6 @@ Company Information: Security and Privacy
 
 ## **Statement of Corporate Position**
 
-  * Since 1947, Spencer's has been committed to creating an exciting, entertaining and unique store experience for our guests. Spencer's is committed to maintaining an environment of trust appropriate for the millions of guests who patronize our stores nationwide. Spencer's will continue its sixty-year tradition as the authentic destination for fun, humor, and unique merchandise targeted to our guests, while always respecting the interests of each individual who visits our store. If you have any comments or concerns over any matter at Spencer's stores, please contact Kevin Mahoney, Spencer's General Counsel, at 609-645-5409.
+  * Since 1947, Spencer's has been committed to creating an exciting, entertaining and unique store experience for our guests. Spencer's is committed to maintaining an environment of trust appropriate for the millions of guests who patronize our stores nationwide. Spencer's will continue its sixty-year tradition as the authentic destination for fun, humor, and unique merchandise targeted to our guests, while always respecting the interests of each individual who visits our store. If you have any comments or concerns over any matter at Spencer's stores, please contact Kevin Mahoney, Spencer's General Counsel, at [609-645-5409.](tel://1-609-645-5409.)
 
 
