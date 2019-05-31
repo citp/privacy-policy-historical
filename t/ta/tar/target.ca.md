@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817225600id_/http%3A//intl.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531143550id_/https%3A//intl.target.com/c/target-privacy-policy/-/N-4sr7p) for the most accurate reproduction.*
 
 # Target Privacy Policy : Target
 
@@ -238,7 +238,7 @@ If you create a gift registry or shopping list, your information will be accessi
 Other Businesses Products/Services
     
 
-We allow other businesses to make their products or services available to our guests (e.g. Target Storefront Partners). You may purchase products or services from these other businesses through our website or mobile service. When you purchase such products or services we will share personal information related to your purchase with those businesses. Information received by those businesses in connection with a Target Storefront purchase will be subject to the Target Storefront Partner’s privacy policy.
+We allow other businesses to make their products or services available to our guests (e.g. Target Plus Partners). You may purchase products or services from these other businesses through our website or mobile service. When you purchase such products or services we will share personal information related to your purchase with those businesses. Information received by those businesses in connection with a Target Plus purchase will be subject to the Target Plus Partner’s privacy policy.
 
 Legal Requirements
     
