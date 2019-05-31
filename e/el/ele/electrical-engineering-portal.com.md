@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004121743id_/https%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrical-engineering-portal.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531201735id_/https%3A//electrical-engineering-portal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Electrical Engineering Portal PR (“us”, “we”, or “our”) operates the
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
- **We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.**
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.**
 
 Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://electrical-engineering-portal.com/
 
