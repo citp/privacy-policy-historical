@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130122328id_/https%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531195623id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -35,8 +35,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Macintosh IIcx](https://web.archive.org/1989/mac-iicx/), introduced 1989.03.07. The first compact modular Mac, essentially a 3-slot Mac IIx, was a big hit.
-* List of the Day: [iMac Group](http://lowendmac.com/imac/list.shtml) is the first and best group for iMac users, G3 through Intel.  
+* Mac of the Day: [Sawtooth Power Mac G4](https://web.archive.org/1999/power-mac-g4-sawtooth/), introduced 1999.08.31. Available in speeds from 350-500 MHz, Sawtooth introduced AGP video to the Mac.
+* List of the Day: [G-List](http://lowendmac.com/lists/g-list.shtml) is for Power Mac G3, G4, and G5 users.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
