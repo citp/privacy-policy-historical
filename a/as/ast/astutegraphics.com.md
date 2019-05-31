@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astutegraphics.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817003618id_/https%3A//astutegraphics.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astutegraphics.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531073715id_/https%3A//astutegraphics.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Astute Graphics
 
@@ -18,7 +18,7 @@ When purchasing our products, you will be asked to provide contact details for t
 
 When you use our website we collect information via cookies and other similar technologies which may include saving cookies to users' computers. We collect certain information related to your device such as your device's IP address, referring website, what pages your device visited, and the time that your device visited our website.
 
-For further information, please see our [Cookie Policy](https://web.archive.org/about-us/cookies-policy/).
+For further information, please see our [Cookie Policy](https://astutegraphics.com/about-us/cookie-policy/).
 
 ## How do we use the information?
 
@@ -43,7 +43,7 @@ We use the information we collect via our website:
 
 
 
-We may also use the information you send to us via our website to communicate with you electronically including via email regarding products, offers, promotions we think may be of interest to you or send you our newsletter. We use the provider MailChimp to carry out this service. You will always be able to opt-out of such communications at any time (see the "What choices do I have" section below).
+We may also use the information you send to us via our website to communicate with you electronically including via email regarding products, offers, promotions we think may be of interest to you or send you our newsletter. We use the provider [ActiveCampaign](https://www.activecampaign.com/privacy-policy) to carry out this service. You will always be able to opt-out of such communications at any time (see the "What choices do I have" section below).
 
 If you submit your comments to Astute Graphics using the Blog Comments form, you indicate your acceptance that Astute Graphics may post your comments – either in full, or in edited format – to its public website. In this instance, the comments will be attributed to you, and will be accompanied by the user name supplied by you at the time of your registration.
 
@@ -73,9 +73,13 @@ If you have any concerns you have the right to object to processing that is base
 
 We use appropriate technical, organisational and administrative security measures to protect any information we hold from loss, misuse, unauthorised access, disclosure, alteration and destruction. Unfortunately, no company or service can guarantee complete security. Unauthorised entry or use, hardware, or software failure, and other factors may compromise the security of user information at any time.
 
+## WARNING: Data in Transmission
+
+While we take reasonable steps to safeguard your personal information from unauthorized access, you should recognize that email and other electronic transmissions are insecure. Accordingly, neither Astute Graphics, nor its associates warrant, guarantee or undertake that any transmission will not be intercepted and/or read by an unauthorized person.
+
 ## What choices do I have?
 
-If you wish to update any of your personal details, you can do this by logging into your [customer account](https://web.archive.org/my-account/). Alternatively you can email us at [hello@astutegraphics.com](mailto:hello@astutegraphics.com) advising of the information you wish us to correct.
+If you wish to update any of your personal details, you can do this by logging into your [customer account](https://web.archive.org/my-account/). Alternatively you can email us at [hello@astutegraphics.com](mailto:hello@astutegraphics.com)  advising of the information you wish us to correct.
 
 If you want us to delete all personal or other information about you, which has been sent through this website and is held on an Astute Graphics server, please let us know by email, stating your details. You can also make a request by logging into your customer account and clicking on the link within the [Account Details tab](https://web.archive.org/my-account/edit-account/). Please note that requests to remove information relating to purchases and licenses will result in the removal of product services (e.g upgrades) and a termination of product licensing services. Astute Graphics will retain only essential information to comply with all UK legal requirements including accounting.
 
