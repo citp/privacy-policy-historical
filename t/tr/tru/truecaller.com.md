@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecaller.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825144637id_/https%3A//www.truecaller.com/privacy-policy%23row) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecaller.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531172627id_/https%3A//www.truecaller.com/privacy-policy%23row) for the most accurate reproduction.*
 
 # Privacy Policy - Truecaller
 
@@ -150,11 +150,11 @@ If you are resident in the EU, EEA and Switzerland please click here
 
 ## TRUECALLER PRIVACY POLICY
 
-Effective date: 19 July 2018
+Effective date: 25 May 2018
 
 Truecaller is firmly committed to the security and protection of personal information of our Users and their contacts. This Privacy Policy describes how Truecaller will collect, use, share and process personal information. Capitalized terms not defined in this Privacy Policy are defined in the Truecaller [Terms of Service](https://www.truecaller.com/terms-of-service#row).
 
-If you reside outside the European Union, European Economic Area and Switzerland (“Europe”), You are entering into the [Terms of Service](https://www.truecaller.com/terms-of-service#row) with Truecaller International LLP and the terms of this Privacy Policy apply to You. If you reside in Europe the applicable terms are available [here](https://privacy.truecaller.com/privacy-policy-eu).
+If you reside outside the European Union, European Economic Area and Switzerland (“Europe”), You are entering into the [Terms of Service](https://www.truecaller.com/terms-of-service#row) with True Software Services India LLP and the terms of this Privacy Policy apply to You. If you reside in Europe the applicable terms are available [here](https://privacy.truecaller.com/privacy-policy-eu).
 
 By accepting the Truecaller Privacy Policy and/or using the Services You consent to the collection, use, sharing and processing of personal information as described herein. If You provide us with personal information about someone else, You confirm that they are aware that You have provided their information and that they consent to our use of their information according to our Privacy Policy. You may opt-out at any time to prevent further use of the information shared via the Services.
 
@@ -260,6 +260,6 @@ As described in our [Cookie Policy](https://www.truecaller.com/cookie-policy), w
 
 If You have any additional questions about Truecaller’s Privacy Policy or want to make a request regarding certain personal information, You are encouraged to contact Truecaller. The contact information is:
 
-Truecaller International LLP, 1st Floor, Office Nos. - 01A105, 01A106, 01A107, 01A108, 01A109, Platina Tower, M.G Road, Near Sikandarpur Metro station, Sector 28, Gurugram, Haryana 122001.
+True Software Services India LLP, 1st Floor, Office Nos. - 01A105, 01A106, 01A107, 01A108, 01A109, Platina Tower, M.G Road, Near Sikandarpur Metro station, Sector 28, Gurugram, Haryana 122001.
 
 You can also send Your enquiries (including in relation to any grievances to our Grievances Officer) via email to [support@truecaller.com](mailto:support@truecaller.com).
