@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrealpage.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017025528id_/http%3A//myrealpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrealpage.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531092922id_/https%3A//myrealpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
