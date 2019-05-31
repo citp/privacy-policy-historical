@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ad-center.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606084955id_/https%3A//www.ad-center.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-center.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531200203id_/https%3A//www.ad-center.com/privacy) for the most accurate reproduction.*
 
 # Ad Center - Privacy
 
-Effective May 20, 2012
+This policy was last updated May 29th 2018
 
 This Privacy Policy covers [www.ad-center.com](https://www.ad-center.com/)
 
 Ad-Center.com is committed to maintaining the privacy of personal & business information that you provide to us when using our online affiliate services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by Ad-Center.
 
-Ad-Center.com has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.
-
 Ad-Center complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ad-Center has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+Ad-Center in it's best efforts complies with the EU-U.S. Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. Please [click here](https://www.ad-center.com/GDPR) for more information regarding Ad-Center's EU Privacy GDPR readiness program.
 
 Information Collection & Use
 
@@ -35,7 +35,7 @@ We may use information in the following ways:
 
 
 
-Except as specifically set forth in this Privacy Policy, we will not share, sell, rent, or trade your personally identifiable information with any entity outside of ad-center for promotional purposes. We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example, to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. 
+Except as specifically set forth in this Privacy Policy, we will not share, sell, rent, or trade your personally identifiable information with any entity outside of ad-center for promotional purposes. We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example, to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law may require us to do so. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. We may disclose your information in response to valid legal process (e.g. subpoenas, search warrants and court orders or to establish or exercise our legal rights or defend legal claims) without notice to you, if so prohibited by court order or law. 
 
 4\. Newsletters
 
@@ -71,4 +71,4 @@ We reserve the right to modify this Privacy Policy at any time, so please review
 
 11\. Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Affiliate Support Services ](https://www.ad-center.com/front/contact)
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by submitting your inquiry to our [Affiliate Support Services ](https://www.ad-center.com/contact)
