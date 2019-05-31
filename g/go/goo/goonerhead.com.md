@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the goonerhead.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130042830id_/http%3A//www.goonerhead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonerhead.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531231321id_/http%3A//www.goonerhead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Latest Arsenal News
+
+[   
+**Book your Super Bowl Hotels & Packages for your favorite sports events worldwide!**](http://championsfinalshotels.com/)
 
 This privacy policy sets out how goonerhead.com uses and protects any information that you give goonerhead.com when you use this website.
 
@@ -52,3 +55,6 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+[   
+**Book your UEFA CHAMPIONS LEAGUE FINAL MADRID LUXURY or budget Hotels & Packages LIVERPOOL vs TOTTENHAM June 1ST!**](http://championsfinalshotels.com/)
