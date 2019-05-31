@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226164447id_/https%3A//relix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531164404id_/https%3A//relix.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Relix Media
+# Privacy Policy
 
 _Last Modified May 25, 2018_
 
