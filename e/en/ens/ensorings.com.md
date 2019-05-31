@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911010113id_/https%3A//ensorings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensorings.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531081803id_/https%3A//ensorings.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Enso Rings
 
 This website is owned and operated by Enso Rings / EnsoRings.com **.**  We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -77,7 +77,6 @@ By consenting to the Terms and Conditions of the Site and hence the Privacy Poli
 If you have any questions or concerns regarding this Privacy Policy please contact:
 
 **Enso Rings  
-**247 S. Millpond Dr.  
-Suite 100  
-Lehi, UT 84043  
+**789 N. 1890 W. #6  
+Provo, UT 84601  
 contact@ensorings.com
