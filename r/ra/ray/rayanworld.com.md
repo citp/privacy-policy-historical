@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayanworld.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123933id_/http%3A//rayanworld.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayanworld.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531195431id_/https%3A//rayanworld.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Cookies are small files saved to the user's computer's hard drive that track, sa
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ https://www.google.com/privacy.html ].
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
@@ -40,4 +40,4 @@ The owners of this website cannot guarantee or verify the contents of any extern
 This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.  
 This Policy may be revised periodically without further notice to you.
 
-Please [contact us](http://rayanworld.com/page/contact/) if you have any question about our Privacy Policy.
+Please [contact us](https://rayanworld.com/page/contact/) if you have any question about our Privacy Policy.
