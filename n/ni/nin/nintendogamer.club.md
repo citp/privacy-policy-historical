@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nintendogamer.club privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128050959id_/http%3A//nintendogamer.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendogamer.club privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531081355id_/http%3A//nintendogamer.club/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NintendoGamer
 
 _Date: 21th May 2018_
 
