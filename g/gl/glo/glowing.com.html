@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glowing.com privacy policy that was archived on 2018-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181208022933id_/https%3A//glowing.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glowing.com privacy policy that was archived on 2019-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190531134527id_/https%3A//glowing.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -12,13 +12,13 @@
 
     <link rel="shortcut icon" href="/static/images/mix/favicon.ico?v=2.0">
     
-    <link rel="stylesheet" href="https://cdn.glowing.com/generated/css/base.474240e8485dbff13fd3652d24ef83bc.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.glowing.com/generated/css/base.8ced44fc82f63c687a04f6771476ac26.css" type="text/css" charset="utf-8">
     
-    <link rel="stylesheet" href="https://cdn.glowing.com/generated/css/privacy.249a8c797b9099b931010b6f2fc9ece9.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.glowing.com/generated/css/privacy.b65a48f364d23a721308afe01c421489.css" type="text/css" charset="utf-8">
     
     <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
         metadata = {"messages": []};
-        var csrf_token = "Ijg2MzhhZjQwMjAxZWIwZmI3ZGI0MjllNzZiNTVjYjQyNjIxMTE0Yzci.Duy-Dg.T9PN_bL7eg5TVaJUjEDObyPfvow";
+        var csrf_token = "IjE4YWZhNjZiMTc4ZTRmOTYzODU4NzhkZGIzZWRkY2JkY2NjZjEwM2Ei.D9LBdw.6R5W88kZpYBDzAwDrryIk_KrDlI";
     </script>
     
     <title>Glow - Privacy</title>
@@ -54,6 +54,43 @@
         
     </script>
 
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <script>
+    googletag.cmd.push(function() {
+        function defineSlot(adunit, desktopSizes, mobileSizes, div) {
+            var sizes = [];
+            desktopSizes = desktopSizes || [];
+            mobileSizes = mobileSizes || [];
+            sizes = sizes.concat(desktopSizes);
+            sizes = sizes.concat(mobileSizes);
+            var mapping = googletag.sizeMapping().
+                addSize([0, 0], mobileSizes).
+                addSize([768, 200], desktopSizes).
+                build();
+            googletag.defineSlot(adunit, sizes, div).
+                defineSizeMapping(mapping).
+                setCollapseEmptyDiv(true).
+                addService(googletag.pubads());
+        }
+
+        var appname = metadata.app_name || 'glow';
+        defineSlot('/21727080697/' + appname + '.n/mobileweb_320x50_community_atf', [], [[320, 50]], 'div-gpt-mobile-top');
+        defineSlot('/21727080697/' + appname + '.n/mobileweb_300x250_community_post', [], [[300, 250]], 'div-gpt-mobile-post');
+        defineSlot('/21727080697/' + appname + '.n/mobileweb_300x250_community_comments', [], [[300, 250]], 'div-gpt-mobile-comments');
+        defineSlot('/21727080697/' + appname + '.n/web_728x90_community_atf', [[728, 90]], [], 'div-gpt-desktop-top');
+        defineSlot('/21727080697/' + appname + '.n/web_300x250_community_sidebar', [[300, 250]], [], 'div-gpt-desktop-sidebar-short');
+        defineSlot('/21727080697/' + appname + '.n/web_300x600_community_sidebar', [[300, 600]], [], 'div-gpt-desktop-sidebar-tall');
+        defineSlot('/21727080697/' + appname + '.n/web_728x90_community_btf', [[728, 90]], [], 'div-gpt-desktop-post');
+
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    </script>
 </head>
 
 <body class="boxed-layout  ">
@@ -525,13 +562,12 @@
     
 
 
-<script src="https://cdn.glowing.com/generated/js/manifest.ca228ade98a4d9cf9fa0.js"></script>
-<script src="https://cdn.glowing.com/generated/js/vendor.b386cb2ed3322329fd46.js"></script>
+<script src="https://cdn.glowing.com/generated/js/manifest.f5f17ee22f43c22462ba.js"></script>
+<script src="https://cdn.glowing.com/generated/js/vendor.ae5ed1782bdad3babf37.js"></script>
 
-<script src="https://cdn.glowing.com/generated/js/base.a0dba31d6fd41b567a5e.js"></script>
+<script src="https://cdn.glowing.com/generated/js/base.ea2da424631b7ef16929.js"></script>
 
-<script src="https://cdn.glowing.com/generated/js/privacy.dfa3ab0e6681476468e5.js"></script>
-
+<script src="https://cdn.glowing.com/generated/js/privacy.b3c536db7dd0cd10af6b.js"></script>
 
 
 
@@ -602,7 +638,8 @@ src="https://www.facebook.com/tr?id=595991447206392&ev=PageView&noscript=1"
     query = parts[parts.length - 1];
     var kvs = query.split('&');
     var params = {};
-    for (var kv of kvs) {
+    for (var i = 0; i < params.length; i++){
+      var kv = kvs[i];
       var k = kv;
       var v = null;
       var idx = kv.indexOf('=');
