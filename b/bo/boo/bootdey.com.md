@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootdey.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511143345id_/http%3A//bootdey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootdey.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601004756id_/https%3A//www.bootdey.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bootstrap snippets | Bootdey
 
