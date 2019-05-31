@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116214832id_/https%3A//html.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlcodetutorial.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024859id_/https%3A//html.com/privacy) for the most accurate reproduction.*
 
 # The HTML.com Privacy and Cookie Policy »
 
@@ -6,7 +6,7 @@ This is the Privacy & Cookies Policy (the ‘Policy’) of Quality Nonsense Limi
 
 QNL may change this Policy at any time in which case we shall notify you of any changes to this Policy by noting this on the Website. The changes will apply to your use of the Website after we have given notice. If you do not wish to accept the new Policy you should not continue to use the Website. If you continue to use the Website after the date on which the change comes into effect, your use of the Website indicates your agreement to be bound by the new Policy.
 
-This Policy was last changed on 25 May 2018.
+This Policy was last changed on 17 Feb 2019.
 
 This Policy can be stored or printed using the buttons at the top of this page.
 
@@ -15,7 +15,7 @@ This Policy can be stored or printed using the buttons at the top of this page.
 
 
 
-a) any information which you enter into the Website when you sign-up to our newsletter (specifically your name and e-mail address), submit any user generated content (i.e., the information you submit to us when submitting such content), or participate in any chat session;
+a) any information which you enter into the Website when you sign-up to our newsletter (specifically your name and e-mail address), submit any user-generated content (i.e., the information you submit to us when submitting such content), or participate in any chat session;
 
 b) any technical information which we collect from you when you sign up to our newsletter, specifically the web browser that you are using, including its version number, as well as certain location data – namely your country, city, timezone and approximate latitude and longitude of your location;
 
@@ -31,7 +31,7 @@ e) certain data that we obtain via FullContact.com which compiles various public
 
 a) the information in 2(a) and (b) is used to provide the newsletter that you have requested to you or, in the case of any user-generated content, for us to display such user-generated content on the website together with e.g., your name showing you as the author of such review, or, in the case of the chat service, to answer you query made via such chat service;
 
-b) the information in 2(c) enables QNL to undertake administration tasks in relation to the management of the Website, to provide technical support and troubleshooting, and to tweak, tune and facilitate the improvement of the Website;
+b) the information in 2(c) enables QNL to undertake administrative tasks in relation to the management of the Website, to provide technical support and troubleshooting, and to tweak, tune and facilitate the improvement of the Website;
 
 c) the information in 2(d) and (e) enables QNL to compile a more comprehensive picture of the Website users and to be able to best serve users of the Website in doing so;
 
@@ -82,12 +82,16 @@ iii. data aggregators and platform providers as part of an analysis of user metr
 
 iv. law enforcement agencies in compliance with law enforcement.
 
-  6. Links to third party websites and third party adverts: QNL is not responsible for the privacy policies and practices of other sites even if you access them via the Website. You should check the policy of each site you visit and contact its owner or operator if you have any concerns or questions. In addition, if you link to your Account from a third party site or via a social network, QNL is not responsible for the privacy policies and practices of the owners or operators of that third party site and recommends that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
-  7. Security: QNL has implemented technology and policies to safeguard your privacy from unauthorised access and improper use. You may also change your account settings on your social networks to prevent both us and third parties seeing information in relation to you.
-  8. Storage and Data Retention: We retain your personal data as follows: (i) the information you submit to obtain a newsletter is suppressed as soon as you choose to unsubscribe to such newsletter; (ii) the information you submit as user generated content is deleted as soon as you object to such user generated content being continued to be used by us; (iii) the information you submit to participate in a chat is deleted once the purpose for you providing such information has completed and no later than 13 months after you have participated in such chat; and (iv) the other information in 2(b) to (e) will be retained indefinitely because it is not highly sensitive personal data and, in fact, much of the information is non-personally identifiable information and is required for historical reasons to improve the overall user experience. We store all of the information collected on our servers or those of third parties. Where we store your personal data outside the EEA we take steps to ensure that such transfers of your personal data are adequate in accordance with applicable data protection legislation.
-  9. Cookies:
+  6.     6. Links to third party websites and third party adverts: QNL is not responsible for the privacy policies and practices of other sites even if you access them via the Website. You should check the policy of each site you visit and contact its owner or operator if you have any concerns or questions. In addition, if you link to your Account from a third party site or via a social network, QNL is not responsible for the privacy policies and practices of the owners or operators of that third party site and recommends that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
+    7. Security: QNL has implemented technology and policies to safeguard your privacy from unauthorised access and improper use. You may also change your account settings on your social networks to prevent both us and third parties seeing information in relation to you.
+    8. Storage and Data Retention: We retain your personal data as follows: (i) the information you submit to obtain a newsletter is suppressed as soon as you choose to unsubscribe to such newsletter; (ii) the information you submit as user generated content is deleted as soon as you object to such user generated content being continued to be used by us; (iii) the information you submit to participate in a chat is deleted once the purpose for you providing such information has completed and no later than 13 months after you have participated in such chat; and (iv) the other information in 2(b) to (e) will be retained indefinitely because it is not highly sensitive personal data and, in fact, much of the information is non-personally identifiable information and is required for historical reasons to improve the overall user experience. We store all of the information collected on our servers or those of third parties. Where we store your personal data outside the EEA we take steps to ensure that such transfers of your personal data are adequate in accordance with applicable data protection legislation.
 
 
+  9.  **Cookies:**
+
+
+
+ **This site and its third-party tools use cookies to personalize ads, deliver content, and to analyze traffic.**
 
 a) What are Cookies? Cookies are small text files that are placed on your device when you use the Website. QNL’s use of cookies is detailed below. _Session cookies_ enable you to move from page to page within the Website and any information you enter will be remembered but is deleted when you close the Website or after a short time. _Persistent cookies_ allow us to remember your preferences and settings when you use the Website in the future.
 
@@ -99,11 +103,12 @@ d) More information: To find out more about how cookies work, how to manage and 
 
 QNL uses cookies in the following ways when you use the Website:
 
-C **ookie Type**|  **Purpose**|  **Opt-outs**  
+ **Cookie Type**|  **Purpose**|  **Opt-outs**  
 ---|---|---  
-Performance Cookies| QNL uses persistent cookies and session cookies to, for example, assist in the navigation around the Website, to enhance your use of the Website and to support graphic and video features;|   
+Performance Cookies| QNL uses persistent cookies and session cookies to, for example, assist in the navigation around the Website, to enhance your use of the Website and to support graphic and video features;| [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer) and/or [Safari](https://support.apple.com/kb/ph21411?locale=en_US)  
 Google Analytics| QNL uses Google Analytics to collect: (i) your web browser and version number; (ii) your IP address; (iii) information about your behaviour on our Website including which pages you visit and how long you spend on each page; (iv) your Operating System and version number; (v) your Platform (i.e., whether you are accessing our Website via desktop, mobile or tablet); (vi) your screen resolution; and (vii) any other datapoints as indicated by Google from time to time.| [Google Analytics](https://tools.google.com/dlpage/gaoptout/)  
-Analytics Cookies| QNL uses cookies to collect information about how you use the Website including information such as how long you are on particular sections of the Website, how often you use the Website, what you do, what you view and how difficult you find our App to use. Such cookies also help QNL to analyse and make predictions about its users as a whole – for example, what demographics they are from, what other interests they have.| 
+Google Ads| Google and its partners use cookies to personalize and serve ads to our users based info you've added to your Google Account, data from advertisers that partner with Google, and Google's estimation of your interests.| [Google Adsense](https://www.google.com/settings/ads)  
+Web Analytics| QNL uses cookies to collect information about how you use the Website including information such as how long you are on particular sections of the Website, how often you use the Website, what you do, what you view and how difficult you find our App to use. Such cookies also help QNL to analyse and make predictions about its users as a whole – for example, what demographics they are from, what other interests they have.| 
 
 [Hotjar](https://www.hotjar.com/legal/compliance/opt-out)
 
@@ -111,9 +116,13 @@ Analytics Cookies| QNL uses cookies to collect information about how you use the
 
 [OpenX](https://www.openx.com/legal/privacy-policy/)
 
-[Clicktale.net](https://www.clicktale.com/company/data-privacy/privacy-service/)  
+[Clicktale.net](https://www.clicktale.com/company/data-privacy/privacy-service/)
+
+[Convert.com](https://convert-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/Data-Subject-Access-Request-Procedure-DSAR.pdf)  
   
-  10. Exercising your rights: You can contact us using the details set out in Clause 11 below if you wish to: (i) access a copy of the personal data that we hold about you; (ii) correct any items of personal data that we hold about you; and/or (iii) have any items of personal data that we hold about you erased or object to our processing of such items of personal data. In relation to any user-generated content submitted, whilst QNL will actively moderate its reviews, if at any time you would like such content removed, please complete [this form](http://html.com/gdpr/).
-  11. QNL Details: If at any time you would like to contact QNL about your views on this Policy or any enquiry relating to your personal information, you can do so by completing [this form](http://html.com/gdpr/) or write to us at “Data Protection Query, Quality Nonsense Limited, 27 Mortimer Street, London W1T 3BL”. You may also submit a complaint to our supervisory authority at any time.
+Push Notifications| QNL uses Push Monkey to engage with our users through web push notifications and to optimize our service. Push Monkey uses cookies and other technologies to collect data (Subscription Identifier, device type, browser information, geographic location).| [Push Monkey](https://intercom.help/push-monkey/how-to-s/how-to-unsubscribe-from-web-push-notifications)  
+  
+  10. Exercising your rights: You can contact us using the details set out in Clause 11 below if you wish to: (i) access a copy of the personal data that we hold about you; (ii) correct any items of personal data that we hold about you; and/or (iii) have any items of personal data that we hold about you erased or object to our processing of such items of personal data.
+  11. QNL Details and GDPR: If at any time you would like to contact QNL about your views on this Policy or any inquiry relating to your personal information, you can do so by completing [this form](https://qualitynonsense.com/gdpr/) or write to us at “Data Protection Query, Quality Nonsense Limited, 27 Mortimer Street, London W1T 3BL”. You may also submit a complaint to our supervisory authority at any time.
 
 
