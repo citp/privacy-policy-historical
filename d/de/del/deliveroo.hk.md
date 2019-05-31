@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.hk privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021021933id_/https%3A//deliveroo.hk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.hk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531024652id_/https%3A//deliveroo.hk/en/privacy) for the most accurate reproduction.*
 
 # Deliveroo Privacy Policy - Deliveroo
 
@@ -18,7 +18,7 @@ Your personal data will enable us to provide you with access to the relevant par
 
 We may use your personal data to contact you for your views on our services and to notify you occasionally about important changes or developments to the Website or our services.
 
-Where you have indicated accordingly, you agree and consent that we may use [your personal data] to let you know about [our other products and services that may be of interest to you] including services that may be the subject of direct marketing and we may contact you to do so by post, telephone, mobile messaging (e.g. SMS, MMS etc.) as well as by e-mail.
+Where you have indicated accordingly, you agree and consent that we may use your personal data to let you know about our other products and services that may be of interest to you including services that may be the subject of direct marketing and we may contact you to do so by post, telephone, mobile messaging (e.g. SMS, MMS etc.) as well as by e-mail.
 
 Where you have indicated accordingly, you agree and consent that we may also share your personal data with third parties in the food, drink, leisure, transportation, payment services and advertising sectors to use your personal data in order to let you know about goods and services which may be of interest to you (by post, telephone, mobile messaging (e.g. SMS, MMS etc.) and/or e-mail). We may also share your personal data with marketing companies who help us analyse the personal data we collect so that we can administer, support, improve and develop our business and services to you.
 
