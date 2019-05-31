@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the croatiaairlines.com privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406053455id_/http%3A//www.croatiaairlines.com/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the croatiaairlines.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531112644id_/https%3A//www.croatiaairlines.com/Privacy-statement) for the most accurate reproduction.*
 
 # Croatia Airlines - Privacy statement
 
-Croatia Airlines is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Croatia Airlines Web site and governs data collection and usage. By using the Croatia Airlines website, you consent to the data practices described in this statement.
+Croatia Airlines is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Croatia Airlines Web site and governs data collection and usage. 
+
+Please read this text in its entirety in order to help us protect your privacy and to understand what information we collect from you and how we use it. You can send all your questions regarding data confidentiality to the email address below: [gdpr@croatiaairlines.hr](mailto:gdpr@croatiaairlines.hr)
 
 ## Collection of your Personal Information
 
@@ -35,6 +37,13 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 ## Security of your Personal Information
 
 Croatia Airlines secures your personal information from unauthorized access, use or disclosure. Croatia Airlines secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Your personal data is kept on the server which may be accessed only by authorised persons and service providers. 
+
+Other websites which may be accessed through our website have their own statements regarding privacy and data collection as well as website use and publishing, and Croatia Airlines d.d. shall not be held liable for third-party data collection and processing methods and terms and conditions.
+
+  
+
 
 ## Changes to this Statement
 
