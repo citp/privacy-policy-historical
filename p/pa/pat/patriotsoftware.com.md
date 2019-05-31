@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotsoftware.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229094826id_/https%3A//www.patriotsoftware.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotsoftware.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531152405id_/https%3A//www.patriotsoftware.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Patriot Software Privacy Policy
 
@@ -22,7 +22,7 @@ After we receive your information, we safeguard the data with both physical and 
 Patriot Software, LLC, does not collect information specific to children and does not target children as users. We believe that all children should have the consent of a parent or guardian prior to accessing Patriot Software’s Web Site. Inasmuch as we cannot control a child’s access to our site, we encourage parents to utilize Web filtering technology to help supervise a child’s use of this Web site and the Internet in general.
 
 **Cookies**  
-In order to optimize your experience, we utilize a common feature of your browser known as a “cookie.” Cookies are files stored on your computer’s hard drive that maintain information about your name, passwords, preferences, etc. The use of cookies allows us to provide you with a faster and better experience on this Web site. If you are uncomfortable with accepting this information from us, you may set your browser to reject cookies. Rejecting cookies, however, will have a negative impact on your experience at our site.
+In order to optimize your experience, we utilize a common feature of your browser known as a “cookie.” Cookies are files stored on your computer’s hard drive that maintain information about your name, login status, preferences, etc. The use of cookies allows us to provide you with a faster and better experience on this Web site. If you are uncomfortable with accepting this information from us, you may set your browser to reject cookies. Rejecting cookies, however, will have a negative impact on your experience at our site.
 
 **You are Responsible**  
 Ultimately, you are responsible for protecting your own privacy online. We endeavor to provide you with the tools necessary to successfully use our service and to protect your privacy. You are solely responsible for maintaining the secrecy of your passwords and your user account information. Please exercise care and caution whenever you are online.
