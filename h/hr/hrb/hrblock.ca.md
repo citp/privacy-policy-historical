@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702010046id_/https%3A//www.hrblock.ca/legal/terms-conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.ca privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531032328id_/https%3A//www.hrblock.ca/legal/terms-conditions/privacy) for the most accurate reproduction.*
 
-# Privacy - H&R Block
+# Privacy | H&R Block
 
-## Your privacy is important to us.
+### Your privacy is important to us.
 
 H&R Block was founded on principles of trust, integrity and the delivery of outstanding products and services. H&R Block is committed to customer satisfaction and maintaining our customer's privacy. This is accomplished by a range of business procedures and security safeguards to ensure that your personal information is kept confidential, safe and secure and is used only in accordance with the Privacy Policy or as otherwise consented to by you.
 
@@ -12,7 +12,7 @@ This Privacy Policy may be amended from time to time. The current version will a
 
 In this Privacy Policy, references to "H&R Block", "us", "we" or similar terms means H&R Block Canada, Inc. References to "H&R Block US" means our parent company, H&R Block, Inc.
 
-## Application of this policy.
+### Application of this policy.
 
 This Privacy Policy generally applies to any "personal information" collected, used or disclosed by H&R Block in any form. Consistent with applicable privacy legislation, "personal information" means any information about an identifiable individual. However, this Privacy Policy does not apply to the collection, use or disclosure of:
 
@@ -23,7 +23,7 @@ This Privacy Policy generally applies to any "personal information" collected, u
 
 
 
-## We collect personal information.
+### We collect personal information.
 
 We collect personal information about you, from you, either directly or through persons or entities acting on our behalf including:
 
@@ -37,7 +37,7 @@ We collect personal information about you, from you, either directly or through 
 
 H&R Block limits the collection of personal information to that which is necessary to fulfill the purposes identified at the time of collection. The personal information that we collect necessarily depends on the product or services that you have requested and on legal and regulatory requirements. Our products and services may change over time and we may introduce new features that may collect new or different types of information. Personal information will always be collected by fair and lawful means and will generally be collected directly from you.
 
-## How and why we use personal information.
+### How and why we use personal information.
 
 H&R Block collects personal information about you so that we can effectively provide the services and products to you that you have requested (including completing and filing your income tax return and/or providing you with Instant Cash Back), establish your identity, manage our operations, make our services more useful and intelligent, and comply with legal and regulatory requirements. And, if we need to use your personal information for any other purpose, we will identify that purpose to you.
 
@@ -47,7 +47,7 @@ We may also use your personal information to enable us to understand your needs 
 
 We may obtain your express consent in writing, through electronic means, or verbally. Your consent may also be implied by an action that you have taken. You can always refuse or withdraw your consent to the collection, use or disclosure of your personal information. Doing so may, in some cases, mean that we will be unable to provide you with the product or service that you have requested. Please see the “What you can do to manage your privacy and communications” section below.
 
-## Disclosure of personal information.
+### Disclosure of personal information.
 
 We do not disclose your personal information to third parties except as described in this Privacy Policy, with your consent, or as permitted or required by law. Your personal information may be disclosed:
 
@@ -63,7 +63,7 @@ Please note that personal information disclosed to H&R Block US will be securely
 
 In some cases, outside suppliers that we retain to perform services or functions on our behalf may be located outside Canada. Accordingly, personal information provided to these companies for storage or processing will be located outside Canada, and may therefore be subject to the laws of those countries.
 
-## Protecting personal information.
+### Protecting personal information.
 
 H&R Block protects personal information by security safeguards appropriate to the sensitivity of the information. We restrict internal physical and electronic access to personal information to those employees who need to access it in order to serve you. We also maintain policies and procedures designed to restrict access (by external parties) to your personal information in several ways. For both internal and external parties, access controls include programs and specifications for physical security, records retention and disposal, computer and communication security measures reflected in system design, password protection, data management practices, and other measures to restrict access to the information we hold in physical and electronic forms.
 
@@ -71,7 +71,7 @@ H&R Block only retains personal information only for as long as necessary or req
 
 H&R Block is responsible for personal information in its possession or control, and will take reasonable steps to protect personal information that has been transferred to a third party in accordance with this Privacy Policy and applicable law. H&R Block uses contractual and other means to ensure that third parties provide a comparable level of protection of your personal information to that provided by H&R Block.
 
-## What you can do to manage your privacy and communications.
+### What you can do to manage your privacy and communications.
 
 **Accuracy of Personal Information and Access.**
 
@@ -116,6 +116,6 @@ Our website may include third party-delivered advertisements or links to third-p
 
 You may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. You will still receive other types of advertising; however, it will not be based on your interests. Deleting browser cookies and web beacons can remove your opt-out preferences, so you should use these tools periodically to ensure that your preferences are up-to-date.
 
-## Accountability.
+### Accountability.
 
 H&R Block is accountable for our compliance with this Privacy Policy and applicable privacy legislation. We regularly monitor our security measures and procedures to ensure that they are effective and properly administered. Our Chief Privacy Officer is accountable for overseeing compliance with this Privacy Policy. If you have any questions about this Privacy Policy, our practices, our have a complaint or concern, please contact our Chief Privacy Officer. H&R Block will promptly investigate all complaints and if found justified, will take appropriate measures including amending its policies and practices.
