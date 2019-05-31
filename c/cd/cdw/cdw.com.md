@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626073810id_/https%3A//www.cdw.com/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531114444id_/https%3A//www.cdw.com/content/cdw/en/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
