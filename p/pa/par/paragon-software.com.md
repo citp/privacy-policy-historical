@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026040215id_/https%3A//www.paragon-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531063537id_/https%3A//www.paragon-software.com/privacy) for the most accurate reproduction.*
 
 # Data Protection Policy |Paragon Software Group
 
@@ -17,8 +17,12 @@ The legal bases of the processing of data is Article 6 (1)(1)(f) of the GDPR, le
 
 **b) When subscribing to our newsletter**
 
-After your expressly consent persuant to Article 6 (1)(1)(a) GDPR we will use your email address to provide you with our regular newsletter. An email address is sufficient to receive our newsletter. You may unsubscribe from the newsletter at any time by using the link at the end of each newsletter, or by telephone, by mail, or by email to dsba2018@paragon-software.com.
+After your expressly consent persuant to Article 6 (1)(a) GDPR we will use your email address to provide you with our regular newsletter. An email address is sufficient to receive our newsletter. You may unsubscribe from the newsletter at any time by using the link at the end of each newsletter, or by telephone, by mail, or by email to dsba2018@paragon-software.com.
 
 **c) When using our contact form**
 
 If you have any questions or concerns please contact us via our contact form on our website. Since we need to know from whom a request is coming and where to send an answer to, a valid email address is required. Further information is voluntary. When you contact us, we process your information, but only after your consent persuant to Article 6 (1)(1)(a) GDPR.
+
+**d) When using our product with a trial**
+
+Some of the products have an option of one-time free trial. In order to establish the proper trial work, such personal data as Google e-mail and/or Facebook data are required. The purpose of the data collection is to associate the device with the trial activation and to keep track of time for the trial mode.
