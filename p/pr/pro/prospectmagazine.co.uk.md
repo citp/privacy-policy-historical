@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectmagazine.co.uk privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116104805id_/https%3A//prospectmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectmagazine.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531201703id_/https%3A//www.prospectmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Prospect Privacy & Cookie Policy | Prospect Magazine
 
