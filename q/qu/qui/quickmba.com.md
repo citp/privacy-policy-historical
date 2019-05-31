@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228064252id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531190223id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
 
 # QuickMBA Privacy Policy
 
