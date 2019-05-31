@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125163447id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222334id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
 
-# Worldwide / Non-local city / Unspecified, Worldwide / Non-local region / Unspecified - India Free Classified Ads Online | Community Classifieds | Dewalist
+# Bangalore, India - India Free Classified Ads Online | Community Classifieds | Dewalist
 
 **Privacy Policy**
 
