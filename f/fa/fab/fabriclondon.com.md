@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927171307id_/https%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabriclondon.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602014600id_/https%3A//www.fabriclondon.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
