@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110200729id_/https%3A//www.uark.edu/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601145620id_/https%3A//www.uark.edu/privacy-policy/index.php) for the most accurate reproduction.*
 
 # Website Privacy Policy | University of Arkansas
 
