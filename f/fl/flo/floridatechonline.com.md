@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatechonline.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906005133id_/https%3A//www.floridatechonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatechonline.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602012728id_/https%3A//www.floridatechonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida Tech Online
 
