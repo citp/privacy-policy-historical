@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624201907id_/https%3A//dunked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunked.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601191421id_/https%3A//dunked.com/privacy) for the most accurate reproduction.*
 
 # Dunked: Privacy Policy
 
