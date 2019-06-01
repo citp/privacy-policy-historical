@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsbulletin.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925184016id_/http%3A//windowsbulletin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsbulletin.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601085520id_/http%3A//windowsbulletin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Windows Bulletin Tutorials
 
