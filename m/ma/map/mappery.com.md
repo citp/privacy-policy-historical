@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111094823id_/http%3A//www.mappery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601085106id_/http%3A//www.mappery.com/privacy.php) for the most accurate reproduction.*
 
 # real life map collection • mappery
 
