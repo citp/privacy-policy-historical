@@ -1,292 +1,243 @@
-> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217225254id_/https%3A//www.inxpo.com/privacy/InXpo_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxpo.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601170952id_/https%3A//www.west.com/legal-privacy) for the most accurate reproduction.*
 
-# INXPO Privacy Policy LAST UPDATED: November 27, 2017
+# Legal and Privacy Statement | West Corporation
 
-INXPO Privacy Policy
-LAST UPDATED: November 27, 2017
-INXPO, Inc. (either “INXPO,” “we,” or “us”) is committed to protecting and respecting your
-privacy. This Privacy Policy (“Policy”), together with our Terms of Use and any other document
-referred to therein, describes how INXPO treats personal data when you, the user, access the
-INXPO platform, mobile application or website located at www.inxpo.com (the “Website”), or if
-you otherwise communicate with us, for example by requesting information related to our
-services. In this Policy, the term “Personal Data” means information that relates to an identified
-or identifiable natural person.
-This Policy only applies to Personal Data collected by INXPO, and does not apply to any
-Personal Data collected by any third party. We encourage you to familiarize yourself with
-privacy policies applicable to any websites and services operated by third parties as we are not
-responsible for the privacy practices of any third parties.
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE
-WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND
-AGREE TO BE BOUND BY ALL OF THE TERMS OF THIS PRIVACY POLICY. IF YOU
-DO NOT AGREE TO THESE TERMS, DO NOT ACCESS OR USE THE WEBSITE.
-A. Introduction.
-INXPO collects, uses, discloses, transfers, and otherwise processes data, including Personal
-Data, in several ways, as described herein.
-B. Type of Information INXPO Collects.
-If you choose not to provide any requested Personal Data, you may be unable to access certain
-areas of the Website, register for or purchase our products or services, or receive
-communications from us regarding our products, services or the Website.
-    1. Registration Information. Certain areas of the Website may require you to input
-         Personal Data such as your name, email address and other business or contact
-         information in order to register, enter a password protected area or to receive further
-         information about INXPO products or services.
-    2. Account-Related Activity. Most events require you to register by creating an account in
-         order to attend or otherwise participate in the virtual event. To create a user account, you
-         will be required to provide INXPO and the Sponsor of the virtual event with Personal
-         Data such as an email address. Some virtual events may also ask you to create a user
-         profile containing additional Personal Data and a password. No transaction payment data
-         is collected or stored by INXPO.
-    3. Your Activities. INXPO may record information about your activities on and/or usage of
-         the Website automatically. Activity information may include which pages you visited,
-         what URL you came from or visit after you leave the Website, average time spent on the
-59271926.1
+**Privacy Statement**
 
+Effective April 4, 2019
 
-Website, previously shared information, your domain or IP address, etc. In addition, if
-you are logged into a password protected area, we may associate that information with
-your account. To accomplish this we may use the following:
-a. Web Beacons. Web Beacons are strings of code placed on a webpage in conjunction
-   with cookies. Web Beacons are able to track the number of users that visit a website
-   and, in conjunction with cookies, identify the IP address and personalize the website
-   experience. Web Beacons may also be used to collect anonymous and/or aggregate,
-   unidentifiable information such as how many users attended a virtual event.
-b. IP Address. The IP address is the numerical label associated with the location of
-   your computing device.
-c. Cookies. In some cases, INXPO may use HTTP cookies, Flash and Silverlight
-   Cookies, clear gifs, and log file information to: (a) store information so that you will
-   not have to reenter it during your visit or the next time you visit the event; (b) provide
-   customer, personalized content and information; or (c) monitor aggregate metrics
-   such as total number of visitors, pages, viewed, and similar information. A cookie is a
-   small amount of data, which often includes a unique identifier that is placed on your
-   computer or on your mobile phone/tablet (collectively referred to herein as a
-   “device”) browser from a website’s computer and is stored on your device’s hard
-   drive. There are two different types of cookies: session cookies and persistent
-   cookies. Session cookies are held temporarily and disappear when you close your
-   browser. Persistent cookies may be used by your browser on subsequent visits.
-   Cookies are widely used to provide certain features of website, to make websites
-   perform more efficiently, and to provide information to the owners of the website.
-   Each INXPO event and/or webcast can send its own cookie to your browser if your
-   browser’s preferences allow it. For events and webcasts, cookies record information
-   about your online preferences and allow us to present content to your interests. Users
-   have the opportunity to set their devices to accept all cookies, to notify them when a
-   cookie is issued or not to receive cookies at any time. If you do not opt in to receiving
-   cookies and/or set your device to not receive cookies, certain personalized features
-   cannot be provided to you, and accordingly you may not be able to take full
-   advantage of the Website’s features.
-d. Third-Party Cookies. You may be presented with cookies from third-party websites
-   and providers that are not related to INXPO. For example, when you view a webpage
-   with content embedded from a third-party provider, you may be presented with
-   cookies from such provider. INXPO does not control the dissemination of these
-   third-party cookies. In general, you should check the third-party websites for more
-   information. In addition, INXPO provides an optional single sign-on using social
-   networks including, but not limited to, Facebook, Twitter, LinkedIn, Google and
-   Microsoft LiveId. If you are logging into an INXPO event using a social network
-   credential, the applicable third party, and not INXPO, will set cookies. INXPO does
-   not control or have any access to the cookie information these social networks may
-   set.
-                                          2
+This Privacy Statement applies to West Corporation and its affiliates (“West”) unless the affiliate has a separately posted privacy statement. West values the privacy of our customers, users, and any individual who accesses or uses the West websites, products, and services (collectively, the “Services”). Your privacy is an important factor West considers in the development of each of our products and services. This Privacy Statement explains generally how we receive Personal Information about you, and what we do with that Personal Information once we have it.
+
+As West is a global provider, the provision of the Services to users may require Personal Information to be shared with other West companies around the world. All West companies are bound by privacy statements, confidentiality and data transfer agreements as appropriate.
+
+_**What do we mean by “Personal Information”?**_
+
+_**What type of Personal Information is collected?**_
+
+_**How do we receive Personal Information about you?**_
+
+_**What do we do with your Personal Information once we have it?**_
+
+_**How long will we retain Personal Information?**_
+
+_**When do we share your Personal Information with others?**_
+
+_**How do we protect your Personal Information?**_
+
+_**How can you protect your Personal Information?**_
+
+_**How do you keep my healthcare information private?**_
+
+_**What about cookies and other tracking technology?**_
+
+_**How do you handle my “Do Not Track” browser settings?**_
+
+_**Does West use any other tracking technology?**_
+
+_**How does West ensure compliance with legal obligations?**_
+
+_**Does West Participate in EU and Swiss Privacy Shield?**_
+
+_**How do you handle my Personal Information as part of the SchoolMessenger Solution products and services?**_
+
+_**China Users**_
+
+_**What choices do you have regarding your Personal Information?**_
+
+_**What if we change this Privacy Statement?**_
+
+_**How to Contact Us?**_
+
+**_What do we mean by “Personal Information”?_**
+
+For us, “Personal Information” means information or data that relates to an identified or identifiable individual. “Sensitive Personal Information” is a subset of Personal Information and is data about children, financial information, health information (including PHI as defined by the Health Insurance Portability and Accountability Act), Social Security or other national identification number, racial or ethnic origin, political opinions, religious beliefs, trade union membership, sex life, criminal convictions, and precise geolocation data.
+
+We also want you to be aware certain information related to your account (for example, accounts provided by West IP Communications) may be Customer Proprietary Network Information (“CPNI”). CPNI is information we obtain solely by providing telecommunications services or interconnected Voice over Internet Protocol (VoIP) services to you.  It includes the type, technical arrangement, quantity, destination, location, and amount of services you purchased and related billing information.  CPNI does not include your telephone number, name and address, or aggregate customer information or data not specific to you.  The protection of your information is important to us, and you have a right, and we have a duty, under U.S federal law, to protect the confidentiality of your CPNI.  We may use or disclose CPNI without your consent to (a) initiate, render, repair, maintain, bill, troubleshoot, and collect for our services; (b) protect our rights and property or to protect our subscribers or other carriers from the unlawful or fraudulent use of our services; (c) provide call location information required in connection with emergency services; (d) market services formerly known as adjunct-to-basic services; (e) market our services within the categories of services to which you already subscribe; and, (f) respond to a valid request from law enforcement, a court order, or other appropriate authority.  Absent your consent, we will not access, use or disclose your CPNI to market categories of telecommunications or VoIP products and services that you do not already subscribe to or share your CPNI with unrelated third parties for their own use.
+
+**_What type of Personal Information is collected?_**
+
+We may collect data, including Personal Information, about you as you use our websites, services and interact with us. This information may include name, address, email address, IP address, phone number, login information (user name, password), marketing preferences, or payment card number. If we link other data with your Personal Information, we will treat that linked data as Personal Information. We also collect Personal Information from trusted third-party sources and engage third parties to collect Personal Information to assist us.
+
+Please understand, in addition to collecting Personal Information, West may also gather information that does not personally identify you regarding your use of the West website (“Anonymous Information”). We may use the Anonymous Information we collect regarding your use of this website to measure the effectiveness of our marketing efforts, for improving the Services we offer to you, or to improve the West website. Generally, you will not be aware when we collect such Anonymous Information. It may be collected in various ways, such as through traffic data or direct surveys of our customers and may entail the use of, among other things, cookies, IP addresses, or other numeric codes used to identify the computer or other device used to access the West website.
+
+**_How do we receive Personal Information about you?_**
+
+We learn Personal Information about you when:
+
+  * you give it to us directly (e.g., when you choose to contact us, or register on the West website);
+  * we collect it automatically through our products and services (e.g., your use of West services);
+  * someone else tells us Personal Information about you (e.g., our client provides us your Personal Information in order for us to perform services for them); or
+  * when we try to understand more about you based on Personal Information you’ve given to us (e.g., when we use your IP address to customize language for some of our services).
 
 
-      e. Local Shared Objects (Flash Cookies). INXPO uses both the Adobe Flash Player
-          and Silverlight players to deliver certain video content services. To improve the user
-          experience, Local Shared Objects (otherwise known as Flash or Silverlight Cookies
-          or LSOs) are used to provide features such as auto-resume and for saving your
-          preferences. Flash and Silverlight Cookies are stored on a user’s device much the
-          same as cookies are, however it is not possible to manage them at browser level in the
-          same way. To disable or delete flash cookies, see
-          http://www.adobe.com/products/flashplayer/security for more information. To
-          disable or delete Silverlight cookies, see
-          http://www.ehow.com/how_5972751_remove-silverlight-cookies.html for more
-          information. Please be aware that removal or restricting the use of cookies may affect
-          the features available to you for applications from the Website, within INXPO events,
-          or for our products or services.
-      f. Local Storage. INXPO uses browser local storage on personal computers and mobile
-          devices to deliver its services.
-   4. Content. Any Personal Data or content that you voluntarily upload or otherwise disclose
-      while on the Website (such as, through use of an INXPO blog), including but not limited
-      to information disclosed on discussion boards, in messages and chat areas, within a
-      profile page, or images or any other content you provide (“Content”), becomes publicly
-      available and can be collected and used by others. In addition, if you are given the ability
-      to log into your account with any social networking website, or post Content on such site,
-      other third-party website, or through the Website, such Content may be made available to
-      other parties and associated with your Personal Data. Personal Data uploaded in
-      association with any INXPO event or webcast is only used for and shared with the
-      particular customer of INXPO for that event. Data that is in an aggregate form which is
-      no longer considered Personal Data may be used for purposes of research and analysis.
-C. Purposes for Which INXPO Collects Information.
-   1. Operation, Maintenance and Flagging. If you submit Personal Data through the
-      Website, INXPO may use it to operate, maintain, and provide you with the general and
-      personalized features and functionality of the Website, provide you with the INXPO
-      products and services you request or order, complete transactions, or communicate with
-      you. We may also use such Personal Data to process any flagging activity or
-      correspondence you send to us.
-   2. Messaging. Your account registration information may be displayed in password
-      protected areas to other users. If you choose to receive email from INXPO, we may use
-      clear GIFs (a.k.a. web beacons) in HTML-based emails sent to you to track which emails
-      are opened by recipients.
-   3. No Commercial Marketing. INXPO will not use your email address or other Personal
-      Data to send commercial or marketing messages for our benefit without your consent,
-      except as part of a specific program or feature or other business relationship for which
-      you opt in. We will not share your Personal Data with third-party marketers.
-                                                 3
+
+Unless we receive your information through your school, or otherwise as part of our SchoolMessenger services, if you are under 13, we don’t want your Personal Information, and you must not provide it to us. If you are a parent and believe your child who is under 13 has provided us with Personal Information without your express consent, please contact us to have your child’s information removed. For SchoolMessenger services specific information, please see below
+
+By providing your Personal Information, you opt-in and consent to its collection, use, disclosure, sharing, and transfer as described in this Privacy Statement.
+
+**_What do we do with your Personal Information once we have it?_**
+
+When you give us Personal Information, we will use it in the ways for which you’ve given us permission, or ways in which our clients who provided us the Personal Information instruct. Generally, we use your Personal Information to help us provide and improve our products and services for you and our clients with which you have a business relationship. We may also use the Personal Information you provide to contact you regarding additional or new services and features offered by West, or important information regarding West.
+
+We may use the Personal Information to enforce our agreements with you, prevent fraud and other prohibited or illegal activities, for other legally permissible purposes and generally to ensure that we comply with applicable laws and prevent or detect use or abuse of our services.
+
+**_Important Notice Regarding Unified Communications Services, Webcasting, and Virtual Event Services_**
+
+West processes Personal Information as part of delivering the above noted services on behalf of its customers.  The customer is the data controller of the information.  For these services, West only collects Personal Information necessary to fulfill our contractual obligations with the customer.  We may collect contact data such as name, e-mail address and company details you provide us during the registration process and during your use of the services.  We may also collect product usage data, such as the date on which you viewed a webcast, the duration of your viewing and the part of the webcast you viewed.
+
+West may also use your Personal Information to create anonymous data records or aggregations of data, to perform statistical analyses and for other purposes, by omitting or removing information that makes the data personally identifiable to you.
+
+If you have provided Personal Information to our customer, their respective privacy statement will also apply to the processing of your data. You should familiarize yourself with their statement.
+
+**_How long will we retain Personal Information?_**
+
+We will retain your Personal Information only as long as needed to fulfill the purposes for which it was collected or as required by law. Your information will be deleted, anonymized or pseudonymized once it is no longer needed to comply with our business requirements, legal obligations, resolve disputes, protect our assets, or enforce our agreements.
+
+**_When do we share your Personal Information with others?_**
+
+We will/may share your Personal Information with others:
+
+  * When we have asked and received your permission to share it.
+  * When we’re required to provide it to our client from whom we received your Personal Information, or with whom you have a business relationship.
+  * For processing or providing products and services to you, but only if those entities receiving your Personal Information are contractually obligated to handle the data in ways approved by West.
+  * To provide aggregate Personal Information to our business partners to make our products and services better, but when we do so, we will de-identify your Personal Information and try to disclose it in a way that minimizes the risk of you being re-identified.
+  * To provide your Personal Information to business partners in case you purchase services of third parties from West (“Third Party Services”). Third Party Services are not directly controlled operated or maintained by West and West’s Privacy Statement does not apply to such Third Party Services. For any Third Party Services you purchase from West, we recommend you consult the respective privacy policies of the Third Party Services providers to determine how they will handle your Personal Information.
+  * To follow the law whenever we receive requests about you from a government entity, or related to a lawsuit. We’ll notify you or our client from whom we received your Personal Information when we’re asked to hand over your Personal Information in this way unless we’re legally prohibited from doing so. When we receive requests like this, we’ll only release your Personal Information if we have a good faith belief the law requires us to do so. Nothing in this Statement is intended to limit any legal defenses or objections you may have to a third party’s request to disclose your Personal Information.
+  * If we have a good faith belief it is reasonably necessary to protect the rights, property or safety of you, our other users, West or the public.
+  * If our organizational structure or status changes (e.g., if we undergo a restructuring, are acquired, or go bankrupt), we may pass your Personal Information to a successor or affiliate.
 
 
-    4. Non-Marketing or Administrative Uses. INXPO may use your email address without
-        your consent for non-marketing or administrative purposes, such as notifying you for
-        customer service reasons.
-    5. Quality & Features. INXPO may use Personal Data and certain non-personally
-        identifiable information to improve the quality and design of the Website and to create
-        new features, promotions, functionality, and services by storing, tracking, analyzing, and
-        processing user preferences and trends, as well as user activity and communications, to
-        improve or personalize your experience, to improve or manage the Website or products
-        and services, to provide features available on the Website, to operate and improve our
-        products and services, for market research, to analyze the Website, and to ensure the
-        technical functionality and security of the Website.
-    6. URLs & IP Address. When you visit the Website through a referral, INXPO
-        automatically receives the URL of the site from which you came. We also receive the
-        Internet protocol (IP) address of your computer, your computer operating system and type
-        of web browser you are using, as well as the name of your ISP. This information may be
-        used to analyze overall trends, determine the domain from which you came, who visits
-        the Website, to understand the needs of Website visitors, or to help us improve the
-        INXPO service.
-D. Access to Your Information.
-You have a right to access the information we hold about you. If you would like to: (1) know
-what Personal Data we hold about you; (2) correct, amend, change and delete Personal Data
-about you; or (3) opt out of receiving electronic direct marketing communications from us,
-please contact us at privacy@inxpo.com.
-E. Sharing of Personal Data With Third Parties.
-We share Personal Data about you with third parties for the purposes detailed below. Please note
-that this Policy does not apply to third parties, INXPO is not responsible for the privacy practices
-of third parties, and that you should consult the respective privacy policies of third parties for
-more information on their practices.
-    1. To Conduct Our Business. INXPO shares Personal Data with consent or as necessary to
-        complete any transaction or provide any product or service requested or authorized.
-        INXPO also shares Personal Data with partners, suppliers, or third-party agents working
-        with INXPO or on INXPO’s behalf.
-    2. Law Enforcement. INXPO may disclose Personal Data about you, if we believe in good
-        faith that we are required to do so in order to comply with laws or regulations, a
-        subpoena, a search warrant, a court or regulatory order, or other valid legal process. We
-        may disclose Personal Data in special circumstances when we have reason to believe that
-        disclosing Personal Data is necessary to identify, contact or bring legal action against
-        someone who may be violating our Terms of Use or other user agreement, or to protect
-        the safety or security of our users, the Website or the general public.
-                                                   4
+
+**_How do we protect your Personal Information?_**
+
+We are committed to protecting your Personal Information once we have it. We implement industry standard physical, administrative and technical security measures. If, despite these efforts, we learn of a security breach involving your Personal Information, when required by law or contractual obligations, we’ll notify you or our client so appropriate protective steps can be taken. West is not responsible for unauthorized access to such Personal Information by hackers or others that obtain access through illegal measures in the absence of negligence on the part of West.
+
+You may have access to other sites through the West websites. These sites may have different security practices and you should familiarize yourself with those practices.
+
+**_How can you protect your Personal Information?_**
+
+Electronic communication (e.g., email, online chat or instant messaging, etc.) you send to us may not be secure unless we advise you in advance that security measures will be in place prior to you transmitting the information. For this reason, we ask you do not send Personal Information such as financial information, social security numbers or passwords to us through unsecured electronic communication. Users should also take care with how they handle and disclose their Personal Information. Please refer to the Federal Trade Commission’s Web site at _[www.consumer.ftc.gov/topics/identity-theft](https://www.consumer.ftc.gov/topics/identity-theft)_ for information about how to protect yourself against identity theft.
+
+The West website may contain hyperlinks that can take you to websites run by third parties (“Third-Party Websites”). Any hypertext or other links to Third-Party Websites from the West website are provided solely as a convenience to you. If you use these links, you will leave the West website. West has not reviewed all of these Third-Party Websites and does not control and is not responsible for any of these websites or their content or practices. Thus, West does not endorse or make any representations about them, or any information, software, or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the Third-Party Websites linked to the West website, you do this entirely at your own risk. Remember, this Privacy Statement only applies to West. When you are no longer on a West website, you may encounter different privacy and security practices and you should familiarize yourself with those practices each time you visit a new website.
+
+Please be aware any information you choose to share on any publicly available portion of the Services or with third parties, including without limitation your personal page, chat messages, forum posts, blogs, resumes, job applications, business cards, or any other information you provide may be collected and used by third parties or other attendees without restriction.
+
+**_How do you keep my healthcare information private?_**
+
+West is required by law to maintain the privacy of “protected health information.” Please follow this link to **__[West’s HIPAA Privacy Notice.](https://www.west.com/wp-content/uploads/2018/06/HIPAA-Privacy-Notice-Updated-December-2018.pdf)__**
+
+**_What about cookies and other tracking technology?_**
+
+A cookie is a small file, typically of letters and numbers, downloaded onto a device when the user accesses certain websites. Cookies can make the web more useful by storing information about your preferences for a particular website or a service. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer.
+
+Cookies are typically classified as either session Cookies or persistent Cookies depending on whether they expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) or they can be stored for longer.
+
+  * Session Cookies – allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes such as remembering what a user has put in their shopping basket as they browse around a site. They could also be used for security when a user is accessing internet banking or to facilitate use of webmail. These session Cookies expire after a browser session, so would not be stored longer term. For this reason, session Cookies may sometimes be considered less privacy intrusive than persistent Cookies.
+  * Persistent Cookies – are stored on a user’s device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent Cookies may be used for a variety of purposes including remembering users’ preferences and choices when using a site or to target advertising.
 
 
-    3. Sale of Business. We reserve the right to transfer Personal Data to a third-party in the
-         event of a sale, merger or other transfer of all or substantially all of our assets, provided
-         that the third-party agrees to adhere to the terms of this Privacy Policy.
-F. Security & Data Integrity.
-INXPO takes reasonable steps to prevent the loss, misuse and unauthorized access, disclosure,
-alteration and destruction of Personal Data about you. In addition, INXPO takes appropriate
-security measures to safeguard Personal Data about you once we have received it. Despite these
-efforts to store Personal Data collected on and through the Website and otherwise by us in a
-secure operating environment that is not available to the public, we cannot guarantee the security
-of Personal Data during its transmission or its storage on our systems. Further, while we attempt
-to ensure the integrity and security of Personal Data, we cannot guarantee that our security
-measures will prevent third-parties such as so-called hackers from illegally obtaining access to
-Personal Data. We do not warrant or represent that Personal Data about you will be protected
-against, loss, misuse, or alteration by third parties.
-G. Your California Privacy Rights.
-California Civil Code Section 1798.83 permits users that are residents of California to request
-certain information regarding INXPO’s disclosures of Personal Data to third parties for such
-third parties’ direct marketing purposes. If you are a California resident and would like to make
-such a request, please email INXPO at privacy@inxpo.com.
-The California Online Privacy Protection Act (“CalOPPA”) requires INXPO to disclose how it
-responds to Do Not Track Signals in your web browser. INXPO does not interpret or respond to
-Do Not Track Signals. You may set your web browser to not accept new cookies or web
-beacons or disable cookies altogether. Please note that doing so may hinder your experience on
-the Website. Please see the Help section of your browser for instructions on managing security
-preferences.
-H. Children’s Privacy.
-The Website is not directed to children younger than thirteen (13) years of age. We do not
-intend to collect Personal Data from children under 13. If you are under 13, please do not use
-the Website and do not send any information about yourself to us.
-I. International Transfers of Personal Data.
-Some elements of the Website and/or our products and services may be hosted on servers located
-in countries outside the United States. The laws applicable to the protection of Personal Data in
-such countries may be different from those applicable in your home country. In particular, if you
-are located within the European Union (the “EU”)/European Economic Area (the “EEA”) or
-Switzerland, please note that Personal Data collected by us may be transferred outside those
-countries. By using the Website or our products or services, you consent to Personal Data about
-you being transferred outside your own country and, where applicable, outside the EU, EEA or
-Switzerland.
-                                                    5
+
+West uses cookies or other similar tracking technologies to provide you with better Services.
+
+Most browsers are initially set to accept Cookies. You may configure your browser to accept all Cookies, reject all Cookies, or notify you when a Cookie is set. You can manage your own Cookies preferences by using your browser settings: each browser is different, so check the “Help” menu of your browser to learn how to change your Cookie preferences or delete them. If you prefer, you can set your browser to refuse Cookies. You block Cookies by activating the setting on your browser which allows you to refuse the setting of all or some Cookies.
+
+Please note you may browse some West websites without accepting Cookies from West; however, you may not be able to take full advantage of the functionality of the website or the Services if you do so. Other Services, particularly those which require a login and password, require Cookies and cannot be used when you have disabled Cookies in your browser. For more general information, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) .
+
+**_How do you handle my “Do Not Track” browser settings?_**
+
+West does not track the non-West website activity of any internet user with Do Not Track browser settings engaged.
+
+**_Does West use any other tracking technology?_**
+
+West employs a software technology called transparent images to help us better manage content on our site by informing us what content is effective.  We use extremely small, transparent images with a unique identifier, similar in function to cookies, used to track the online movements of Web users.  The main difference between the two is transparent images are invisible on the page and are very small, about the size of the period at the end of this sentence.  In some instances, transparent images are tied to users’ personally identifiable information.  In particular, we use transparent images in our HTML-based e-mails to let us know which e-mails have been opened by the recipients.  This allows us to gauge the effectiveness of certain communications.  Users may opt out of these e-mails by replying to the unsubscribe link at the end of the e-mail message.
+
+**_How does West ensure compliance with legal obligations? _**
+
+In connection with the Services, and if applicable, you and West shall at all times ensure compliance with any privacy and data protection laws including those in the United States (including but not limited to the Gramm-Leach-Bliley Financial Services Modernization Act, the Health Insurance Portability and Accountability Act and the Fair Credit Reporting Act), in the United Kingdom (including but not limited to the Data Protection Act), in the European Union (including but not limited to relevant EU member state legislation and the General Data Protection Regulation), in the Asia-Pacific Economic Cooperation (including but not limited to Australia’s Privacy Act along with the Australian Privacy Principles, Singapore’s Personal Data Protection Act, Japan’s Act on the Protection of Personal Information and Hong Kong’s Personal Data (Privacy) Ordinance) and anywhere around the world.
+
+We’re a global organization and our information systems are in several countries around the world. We also use service providers whose information systems may also be in various countries. This means your Personal Information might end up in one of those information systems in another country, and that country may have a different level of data protection regulation than yours. The whole or any part of your Personal Information in connection to the Services may be processed by West, its affiliates and subcontractors in the United States, United Kingdom, the European Union, Philippines, India, Canada, Mexico and the rest of the world, and may be transferred outside the country in which you provided the Personal Information. By giving us Personal Information, West may conduct such transfers of your Personal Information. No matter what country your Personal Information is in, we comply with applicable law and will also abide by the commitments we make in this Privacy Statement
+
+**_Does West participate in EU-U.S. and Swiss-U.S. Privacy Shield?_**
+
+West Corporation and entities which include West Unified Communications Services, Inc., West IP Communications, Inc., West LLC, West Telecom Services Holdings LLC, INXPO, Zferral, Inc. dba Ambassador and West Interactive Services Corporation (“West Privacy Shield Entities”) comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union and Switzerland, respectively, to the United States.  West Privacy Shield Entities have certified to the Department of Commerce they adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certifications, please visit **_[www.privacyshield.gov/](https://www.privacyshield.gov/)_**.  The West Privacy Shield Entities recognize the Federal Trade Commission has jurisdiction over their compliance with the Privacy Shield.
+
+Pursuant to the Privacy Shield Frameworks, EU and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to **_[privacy@west.com](mailto:privacy@west.com)_**. If requested to remove data, we will respond within a reasonable timeframe.
+
+West’s accountability for personal data that a West Privacy Shield Entity receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, the West Privacy Shield Entities remain responsible and liable under the Privacy Shield Principles if third-party agents it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless the West Privacy Shield Entities prove they are not responsible for the event giving rise to the damage.
+
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, West Privacy Shield Entities commit to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact West by email at **_[privacy@west.com](mailto:privacy@west.com)_** or by mail at the address below.
+
+The West Privacy Shield Entities have further committed to refer unresolved privacy complaints under the EU-U.S. and Swiss-U.S. Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit **_[bbb.org/EU-privacy-shield/for-eu-consumers/](https://bbb.org/EU-privacy-shield/for-eu-consumers/)_** for more information and to file a complaint.
+
+Under certain limited conditions, individuals may invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+
+**_How do you handle my Personal Information as part of the SchoolMessenger Solution products and services?_**
+
+Except as we describe in this section, we handle it as described above. This section is limited to West’s SchoolMessenger Solution products and services.
+
+In general, we do not knowingly collect Personal Information directly from students, including children under 13, but only as shared with us by our customer agency/institution. Exceptions are a student username, password and related account login credential information that we collect directly from the student if necessary when they login to our services as authorized by their school. By default, students cannot create an account – to enable our direct collection of their Personal Information – without the school’s consent. When we do collect student Personal Information directly from students, including children under the age of 13, we do so only on behalf of and under the direct control of our client, and the client is responsible for obtaining any necessary prior parental consents. Should we learn that we collected Personal Information from a child under 13 and our client does not provide proof of consent within a reasonable time, we will delete all such Personal Information. We do not enable or encourage students to make their Personal Information publicly available.
+
+When you use our school and other mobile applications, you may also be prompted to grant the app access to certain information and functions on your device, including your device ID, geolocation information, and calendar. We do not access this information, which remains on your device. This information is necessary for your device to enable the app to remain updated with the latest school information such as receiving push notifications, importing calendar events, and identifying nearby schools.
+
+We do not sell, trade, lease or loan the Personal Information we collect or maintain to any third party for any reason, including that we do not sell or otherwise share student Personal Information with direct marketers, advertisers, or data brokers.
+
+We do not share student Personal Information with third parties, though a few of our service providers may have limited access to such information within our data systems in the course of their providing us with data analytics, software programming and related services to support our service delivery, evaluation or improvement. In some instances, we store student Personal Information with a third party data hosting provider, though student Personal Information is secured through access controls and electronic protection methods meant to prevent unauthorized access. We have agreements in place with all third parties with access to student Personal Information to ensure they only use the information for purposes necessary to deliver the authorized service to us and to ensure they maintain the confidentiality and security of the information.
+
+  * If you are the administrator of an educational agency/institution customer account and have any questions about this statement or if you believe we are not handling your information in accordance with our privacy statement, please contact us at the applicable address above.
+  * If you are otherwise a user of one of our school services, we encourage you to first contact your educational agency/institution with any questions or concerns regarding this privacy statement or our handling of Personal Information.
 
 
-J. European Union and Swiss Data Transfer and Protection.
-INXPO complies with the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield
-Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and
-retention of Personal Data from the EU and/or Switzerland. INXPO has certified to the
-Department of Commerce that it adheres to the Privacy Shield Principles, including the
-Supplemental Principles (collectively, the “Principles”). A violation of our commitment to the
-EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield may be investigated by the Federal
-Trade Commission and/or the United States Department of Commerce. INXPO will only
-reference its compliance with the EU-U.S. Privacy Shield and/or the Swiss-U.S. Privacy Shield
-when it is in compliance with the Principles. INXPO confirms that it will process data from
-Switzerland in the same fashion as it processes data from the European Union. Therefore,
-INXPO has included Switzerland in the subsequent text of this privacy policy. If there is any
-conflict between the policies in this Policy and the Principles, the Principles shall govern. To
-learn more about the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield programs, and
-to view our certification page, to the extent available, please visit https://www.privacyshield.gov.
-This Privacy Shield Policy supplements, but does not replace, all other policies, practices, and
-procedures at INXPO, including any confidentiality agreements, privacy notices, or other
-agreements, as well as applicable laws. INXPO affirms that while it understands that
-certification to the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield is voluntary,
-effective compliance is compulsory. The Principles apply to INXPO immediately upon
-certification.
-INXPO remains responsible and liable under the Principles if third-party agents that it engages to
-process Personal Data on its behalf do so in a manner inconsistent with the Principles, unless
-INXPO proves that it is not responsible for the event giving rise to the damage.
-In compliance with the Principles, INXPO commits to resolve complaints about your privacy and
-our collection or use of Personal Data about you within 45 days. Persons from the EU and
-Switzerland who have inquiries or complaints regarding this Statement should first contact us via
-email at: privacy@inxpo.com.
-If an issue cannot be resolved by INXPO’s internal dispute resolution mechanism, INXPO has
-chosen JAMS to be its independent recourse mechanism for the EU-U.S. Privacy Shield and the
-Swiss-U.S. Privacy Shield. INXPO agrees to be bound by any decision of JAMS. Individuals
-may contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield to address complaints.
-More information about JAMS is available at http://www.jamsadr.com. In the event that INXPO
-or JAMS determines that INXPO did not comply with this Policy, INXPO will take appropriate
-steps to address any adverse effects and to promote future compliance. Under certain
-circumstances, individuals may invoke binding arbitration before the Privacy Shield Panel for
-residual claims not otherwise resolved. In the event INXPO becomes subject to an order for
-non-compliance with the Principles, INXPO shall make public any relevant sanctions or other
-findings.
-Any human resources data complaints can be addressed to the relevant EU data protection
-authorities (“DPAs”) directly. INXPO will cooperate and comply with any decision of a DPA.
-                                                  6
+
+**_China Users _**
+
+If you use our services in the People’s Republic of China, your personal data is collected, processed and/or stored by West, its affiliates and their third party suppliers in the People’s Republic of China, the United States of America and other locations in the rest of the world.  By using the services in the People’s Republic of China, you hereby consent that (a) your personal data may be transferred outside of the People’s Republic of China to the locations noted herein and (b) West and its affiliates and their third party suppliers may collect, process and or/store your personal data in order to provision the services.
+
+**_What choices do you have regarding your Personal Information?_**
+
+We are aware you have several rights in respect to how we process your Personal Information, which include but are not limited to, a right to access your Personal Information, be forgotten, restrict and/or object to processing in some circumstances and request your Personal Information be transferred to you or your nominated third party.
+
+You may choose to not have your information disclosed to a third party (unless West is legally required to share it).  You may also choose to not have your information used for a purpose materially different than the purpose for which it was originally collected or subsequently authorized by you.
+
+We will take reasonable steps to give you the opportunity to correct inaccuracies in the Personal Information we retain concerning you and delete Personal Information concerning you upon your request, unless the burden or expense of providing access would be disproportionate to the risks to your privacy or where the rights of persons other than you would be violated.
+
+You are entitled to know whether we hold personal data about you and, if we do, to have access to that personal data and require it to be corrected if it is inaccurate. In some circumstances, you may have the right to oppose the use or disclosure of your data or have your data deleted. You can do this by contacting us as directed in the “Contact Us” section below.
+
+To correct inaccuracies in your Personal Information, limit purpose of use and disclosure, delete your Personal Information, or for any other requests or questions, please contact us as directed in the “Contact Us” section below.
+
+**_What if we change this Privacy Statement?_**
+
+We may need to change this Statement and our notices. The updates will be posted online. If the changes are substantive, we will announce the update through West’s websites. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
+
+**_How to Contact Us?_**
+
+If you want to make a subject access request or a correction to your Personal Information, or you have any questions about our privacy statement, please contact the privacy team by emailing  ** _[privacy@west.com](mailto:privacy@west.com)_** , or by mail, we can be contacted at:
+
+**_US_**  
+Kristie Swanson, Regional Privacy Manager  
+Legal Department  
+11808 Miracle Hills Drive  
+Omaha, NE 68154
+
+**_INTERNATIONAL_**  
+Steven Taylor, DPO & Regional Privacy Counsel  
+Legal Department  
+60 Fenchurch Street  
+London EC3M 4BA  
+United Kingdom
+
+**Data Processing Agreements**
+
+West has prepared a Data Processing Agreement (“DPA”) that includes the EU Standard Contractual Clauses that promote GDPR compliance.  If your organization would like a written DPA with West, you may download a pre-signed DPA at the link below.  To complete the DPA, you must:
+
+  1. Download the DPA from the link below;
+  2. Complete all open data fields on the DPA;
+  3. Sign pages 3, 10 and 12 of the DPA; and
+  4. Send the signed copy to [legal@west.com](mailto:legal@west.com).
 
 
-Please contact INXPO (see contact information below) to be directed to the relevant DPA.
-Additionally, with respect to complaints concerning human resources data that is transferred
-from the EU to the United States, we have agreed to participate in the dispute resolution
-procedures of the DPAs. Contact details for the EU data protection authorities can be found at
-http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm. INXPO will
-cooperate with the appropriate DPAs during investigation and resolution of complaints
-concerning human resources data that is transferred from the EU to the United States under the
-Privacy Shield.
-These recourse mechanisms are available at no cost to you. Damages may be awarded in
-accordance with applicable law.
-Under certain conditions, if you are not satisfied with the above recourse mechanisms, you may
-be able to invoke binding arbitration.
-In cases of onward transfer to third parties of data of EU, EEA, or Swiss individuals received
-pursuant to the EU-U.S. Privacy Shield or Swiss-U.S. Privacy Shield, INXPO is potentially
-liable.
-K. Changes to the Policy.
-From time to time we may change this Policy with or without prior notice to you. You can tell
-when changes have been made to the Policy by referring to the “Last Updated” legend on top of
-this page. Please review this Policy regularly to ensure that you are aware of any changes. If we
-materially change the ways in which we use and disclose Personal Data, we will post a notice on
-the Website and send an e-mail to our registered users. Your continued use of the Website
-and/or our products and services following any changes to this Policy constitutes your
-acceptance of any such changes made.
-L. Contact Us.
-        INXPO, Inc.
-        770 N. Halsted Street
-        Suite 6S
-        Chicago, IL 60642
-        Phone: (312) 962-3708
-        privacy@inxpo.com
-We seek to promptly resolve any concerns you may have.
-                                                  7
+
+The DPA will become effective upon receipt by West.  To access the pre-signed DPA, please visit:
+
+<https://www.westuc.com/files/Data-Processing-Agreement.pdf>
