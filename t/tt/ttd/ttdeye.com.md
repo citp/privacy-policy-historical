@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ttdeye.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328140125id_/http%3A//ttdeye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttdeye.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601161450id_/https%3A//ttdeye.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TTDEYE Seeing Different – ttdeye
+
+PRIVACY STATEMENT
+
+\----
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -15,11 +19,17 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at: ttdeye@hotmail.com
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@ttdeye.com.
 
 SECTION 3 - DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+
+Payment:  
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
 
 SECTION 4 - THIRD-PARTY SERVICES
 
@@ -31,36 +41,22 @@ As an example, if you are located in Canada and your transaction is processed by
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 Links  
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
-Google analytics:  
-Our store uses Google Analytics to help us learn about who visits our site and what pages are being looked at
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 SECTION 5 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-SECTION 6 - COOKIES
-
-Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
-_secure_session_id, unique token, sessional  
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
-PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
-
-SECTION 7 - AGE OF CONSENT
+SECTION 6 - AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-SECTION 8 - CHANGES TO THIS PRIVACY POLICY
+SECTION 7 - CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at ttdeye@hotmail.com.  
-.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@ttdeye.com. 
