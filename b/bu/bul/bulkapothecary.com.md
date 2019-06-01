@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulkapothecary.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005031506id_/https%3A//www.bulkapothecary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkapothecary.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601190349id_/https%3A//www.bulkapothecary.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Bulk Apothecary Privacy Policy on Information Collection and Use
 
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
