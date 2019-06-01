@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008195522id_/https%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601215115id_/https%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TEMPTU
 
