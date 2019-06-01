@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the libraries.io privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111041620id_/https%3A//libraries.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraries.io privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601131352id_/https%3A//libraries.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Develop faster and manage open source risks with the Tidelift Subscription. **[ Learn more ](https://tidelift.com/subscription/accelerate-development?utm_source=libraries.io&utm_medium=referral&utm_campaign=prop3) **
 
 This Privacy Policy explains and governs how data gathered by, and submitted to, libraries.io is used and processed.
 
