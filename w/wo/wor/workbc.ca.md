@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbc.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231181609id_/http%3A//www2.gov.bc.ca/gov/content/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbc.ca privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602004728id_/http%3A//www2.gov.bc.ca/gov/content/home/privacy) for the most accurate reproduction.*
 
 # B.C. Government Website Privacy Statement - Province of British Columbia
 
