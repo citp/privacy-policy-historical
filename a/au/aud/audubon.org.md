@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231232247id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601130549id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Online, Offline and Electronic Use | Audubon
 
@@ -36,8 +36,8 @@ Audubon maintains presence on several social networking and blogging platforms, 
 _Mobile Text Messaging_  
 Audubon collects your mobile telephone number when you opt in to receive messages from us via your mobile device.  Every text message Audubon sends contains information on how to opt-out from receiving text messages.
 
-_Citizen Science Projects_  
-Audubon collects personal information of participants in citizen science and conservation activities such as the Christmas Bird Count, the Great Backyard Bird Count, Hummingbirds at Home or in our Important Bird Areas program.  Your participation in these programs becomes part of the historical record.  Participants’ names may be displayed publically in reports, on the Audubon website, or in summary articles.  Audubon collects your personal information if you submit a digital photo through our websites to any of the programs listed above, and displays your name in proximity to any image you submit.  Audubon also collects location specific data when you use mobile apps associated with our citizen science programs.  This information is stored in our database in proximity to your personal information and any scientific bird observations you submit.
+_Community Science Projects_  
+Audubon collects personal information of participants in community science and conservation activities such as the Christmas Bird Count, the Great Backyard Bird Count, Hummingbirds at Home or in our Important Bird Areas program.  Your participation in these programs becomes part of the historical record.  Participants’ names may be displayed publicly in reports, on the Audubon website, or in summary articles.  Audubon collects your personal information if you submit a digital photo through our websites to any of the programs listed above, and displays your name in proximity to any image you submit.  Audubon also collects location specific data when you use mobile apps associated with our community science programs.  This information is stored in our database in proximity to your personal information and any scientific bird observations you submit.
 
 The Great Backyard Bird Count (GBBC) is a collaboration of Audubon, Cornell Laboratory of Ornithology and Bird Studies Canada.  Any data submitted to the GBBC databases, including bird observations and photos, is governed by the GBBC privacy policy: <http://gbbc.birdcount.org/privacy-policy/>
 
