@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionfantasygame.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115010659id_/http%3A//www.fashionfantasygame.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfantasygame.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601052151id_/http%3A//www.fashionfantasygame.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Fashion Fantasy Game - Privacy Policy
 
