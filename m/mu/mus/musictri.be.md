@@ -1,41 +1,81 @@
-> *The following text is extracted and transformed from the musictri.be privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204013408id_/http%3A//www.musictri.be/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musictri.be privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601190129id_/https%3A//community.musictribe.com/t5/custom/page/page-id/PrivacyPolicy) for the most accurate reproduction.*
 
-# MUSIC Tribe
+# Privacy Policy - Music Tribe
 
-We respect the privacy of every individual who visits our Site. Furthermore, we take the confidentiality of your personal information seriously. This Privacy Policy sets forth our information gathering and dissemination practices. 
+We respect the privacy of every individual who visits our site and take the confidentiality of your personal information very seriously.
 
-#### 1\. What is personal information?
+This Privacy Policy explains how we gather and use information.
 
-Personal information is any information that is used to identify a particular person, such as a name, address, telephone number, email address and so on further data relating and referring directly or indirectly to an identified or identifiable natural person, such as location data, an online identifier or factors specific to the identity of that natural person;. We will only use such information when we are legally allowed to or when you give us your consent.
+  1. ##### What is Personal Information?
 
-#### 2\. Your Consent to This Privacy Policy
+Personal information is data that refers directly or indirectly to a person this includes but is not limited to:
 
-By accessing, browsing or using the Site or providing us with your personal information, including but not limited to your name, address, telephone number and e-mail address, you signify that you agree to the terms of our Privacy Policy as posted in the Site. If you do not agree with any term in this Privacy Policy, please do not access, browse or use the Site or provide us with your personal information.
+    * Name
+    * Address
+    * Telephone Number
+    * Email Address
 
-We may alter or remove this Privacy Policy at any time. Whenever we make any changes to this Privacy Policy, we will post the changes here. Therefore, please visit this page frequently to stay informed. When you access, browse or use the Site after the revision of this Privacy Policy, you signify that you agree to the revised Privacy Policy.
+We will only use such information when we are legally allowed to or when you give us consent.
 
-#### 3\. Collection of Personal Information
+  2. ##### Your Consent to This Privacy Policy
 
-While you are accessing, browsing or using the Site, you may be asked for your personal information to allow you to participate in prize competitions, answer our questionnaires or inquiries by e-mail or through the Site, register as a MUSIC Tribe user, monitor MUSIC Tribe products, receive e-mail news services concerning the MUSIC Tribe products, and so on.
+By accessing, browsing this site or providing us with your personal information, you agree to the terms of our Privacy Policy. If you do not agree with any of the terms here, please do not access this site or provide your personal information.
 
-We will not collect your personal information unless and until you provide such information to us voluntarily. When you provide us with your personal information, you authorize us to use such information in accordance with the terms set forth below. You may withdraw this authorization anytime by sending instructions through an email to service@music-group.com and we will immediately delete all your personal information. In this context, we do expressly refer to your rights to access information with respect to your privacy data that we do control; to your right to rectification, erasure, restriction and other rights provided by Chapter 3 of the EU-GDPR 2016/679. 
+This policy may be altered at any time. When this happens, any changes will be reflected on this page.
 
-#### 4\. How we use your information
+  3. ##### Collection of Personal Information
 
-When we collect your personal information, we shall specify the purpose of such collection.
+We will not collect your personal information unless you provide this to us voluntarily. You may withdraw this authorization at any time by emailing us at [help@musictribe.com](mailto:help@musictribe.com) and we will delete all your personal information on this site. 
 
-Any personal information that you provide will be used to meet your request such as forwarding brochures, magazines, etc. and offering certain services. We may also use your personal information to contact you regarding other products and services that may be of interest to you. You can send a request to [service@music-group.com](mailto:service@music-group.com) instructing us to limit our contact with you to a specific purpose.
+If you need more information, please refer to Chapter 3 of the EU-GDPR 2016/679
 
-#### 5\. Sharing of your information
+  4. ##### How we use your information
+
+When we collect your personal information, we will always specify the purpose for collecting.
+
+Any personal information you provide will be used with your permission to forward you brochures, magazines, etc. or to offer you certain products or services you may be interested in.
+
+If you want to stop or limit our contact with you send us a request at [help@musictribe.com](mailto:help@musictribe.com)
+
+  5. ##### Sharing of Your Information
 
 We may share your personal information with the following:
 
-  * Affiliates and contractors who help with our business operations and are bound to confidentiality. They shall only use your personal information for the sole purpose of assisting MUSIC Tribe in providing the services you applied for.
-  * Law enforcement, judicial authorities or other governmental officials for legal proceedings, fraud prevention, investigations into illegal activities or as otherwise required by law.
-  * Other business entities, should we plan to merge with, or be acquired by that business entity.
+    * Affiliates or contractors who help with our business and are bound to confidentiality
+    * Law enforcement, judicial or government authorities for legal proceedings, fraud prevention, investigations into legal activities or as otherwise required by law
+    * Other business entities we may plan to merge with
+  6. ##### Security
+
+We use technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss, alteration and unauthorized disclosure or access
+
+  7. ##### Google AdWords
+
+We use Google AdWords Remarketing to advertise Music Tribe across the internet.
+
+You may be shown ads based on what parts of the Music Tribe website you have visited by placing a cookie on your web browser. This cookie does not identify you or give access to your computer or mobile device.
+
+If you do not wish to see ads from Music Tribe, you can:
+
+    1. Opt out of Google’s use of cookies by visiting [Google’s Ads Settings.](https://www.google.com/settings/u/0/ads/authenticated)
+    2. Opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page. ](http://www.networkadvertising.org/choices/)
+
+Most browsers allow you to refuse or delete cookies. Find out how you can do this with your specific browser by clicking on any of the links below.
+
+    1. [https://support.google.com/chrome/answer/95647?hl=en (Chrome)](https://support.google.com/chrome/answer/95647?hl=en)
+    2. [ https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox)](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+    3. [ http://www.opera.com/help/tutorials/security/cookies/ (Opera)](http://www.opera.com/help/tutorials/security/cookies/)
+    4. [ https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer)](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+    5. [https://support.apple.com/kb/PH21411 (Safari)](https://support.apple.com/kb/PH21411)
+    6. [https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge)](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  8. ##### Our Details/Imprint
+
+This website is owned and operated by Music Tribe Services PH Corp.
+
+We are registered under registration number: CS201422110
+
+Our registered office and principal place of business is at: 26th Floor, Centuria Medical Makati, Century City Kalayaan Ave., Brgy. Poblacion, Makati City, Philippines 1210
+
+You can email us at [help@musictribe.com](mailto:help@musictribe.com)
 
 
 
-#### 6\. Security
-
-We use technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access.
