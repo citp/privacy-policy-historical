@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the hcplc.org privacy policy that was archived on 2018-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903060548id_/http%3A//www.hcplc.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hcplc.org privacy policy that was archived on 2019-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190602011057id_/https%3A//hcplc.org/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="js-no"><head>
+<!DOCTYPE html><html lang="en" class=""><head>
 <meta charset="utf-8">
 <title>Privacy Policy | HCPLC</title>
 <meta name="description" content="The official privacy statements regarding the site HCPLC.org and electronic correspondence with the library.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" media="all" href="/tech/css/hcplc_style.css?v=3.2.5">
+<link rel="stylesheet" media="all" href="/tech/css/hcplc_style.css?v=3.3.2">
 <!--[if IE]><script src="/tech/scripts/fixIE.js"></script><![endif]-->
-<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PBRFD8L"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/tech/scripts/hcplc_allpages.js" async=""></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PBRFD8L"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/tech/scripts/hcplc_allpages.js?v=2.0.3"></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
 <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="manifest" href="site.webmanifest">
+<link rel="manifest" href="/manifest.json">
 <link rel="shortcut icon" href="/images/favicon/favicon.ico">
 <!-- Google Analytics -->
 <script>
@@ -39,52 +39,57 @@
                 <img src="/images/hcplc_logo.svg" alt="Hillsborough County Public Library Cooperative" style="filter: contrast(1);">
             </a>
             <div class="utilities">
-                <a class="button1" href="https://catalog.hcplc.org/polaris/logon.aspx">My Account</a>
+                <a class="button1" href="https://hcplc.bibliocommons.com/user/login?destination=%2Fdashboard%2Fuser_dashboard">My Account</a>
                 <a class="button1" href="/account/get-a-card">Get a Card</a>
             </div>
         </div>
-        <nav>
-		<ul class="primary-nav">
-            <li><a href="/books"><span>Books &amp; More</span></a></li>
-            <li><a href="/research"><span>Learning &amp; Research</span></a></li>
-            <li><a href="/events"><span>Events &amp; Classes</span></a></li>
-            <li><a href="/services"><span>Services</span></a></li>
-            <li><a href="/locations"><span>Locations</span></a></li>
-            <li><a href="/about"><span>About the Library</span></a></li>
-        </ul>
+        <nav aria-label="Site navigation">
+			<ul class="primary-nav">
+				<li><a href="/books"><span>Books &amp; More</span></a></li>
+				<li><a href="/research"><span>Learning &amp; Research</span></a></li>
+				<li><a href="/events"><span>Events &amp; Classes</span></a></li>
+				<li><a href="/services"><span>Services</span></a></li>
+				<li><a href="/locations"><span>Locations</span></a></li>
+				<li><a href="/about"><span>About the Library</span></a></li>
+			</ul>
         </nav>
     </div>
     
-    <div id="multisrch" class="multisrch-container">
-	    <label for="showMultisrch-toggle" class="showMultisrch-label">
+    <div id="multisrch" class="multisrch-container" role="search">		
+	    <button for="showMultisrch-toggle" class="showSrch" id="showSrch">
 			<span class="icon-search icon-standalone" aria-hidden="true"></span>
 			<span class="glyph-text">Search</span>
-	    </label>
-		<input type="checkbox" id="showMultisrch-toggle" role="button">
+		</button>
 	    <div class="multisrch-form-container">
             <ul class="srchtabs" role="tablist">
-                <li class="active" role="tab" data-searchtype="catalog">Catalog</li>
-                <li role="tab" data-searchtype="ebsco">Research</li>
-                <li role="tab" data-searchtype="site">Website</li>
+				<li class="active" role="tab" data-searchtype="catalog" id="srchtab1" aria-selected="true" tabindex="0">
+					<label for="catalogInput">Catalog</label>
+				</li>
+				<li role="tab" data-searchtype="ebsco" id="srchtab2" aria-selected="false" tabindex="0">
+					<label for="ebscoInput">Research</label>
+				</li>
+				<li role="tab" data-searchtype="site" id="srchtab3" aria-selected="false" tabindex="0">
+					<label for="siteInput">Website</label>
+				</li>
             </ul>
-			<form class="multisrch-form active" id="catalogSearch" aria-hidden="false">
-				<fieldset class="srchinput">
+			<form class="multisrch-form active" id="catalogSearch" aria-hidden="false" role="tabpanel" aria-labelledby="srchtab1">
+				<div class="srchinput">
 					<input value="" id="catalogInput" type="text" name="catalogInput" placeholder="Books, movies, music &amp; more">
-					<div name="catalogSearchType" id="catalogSearchType" data-value="KW">
+					<div id="catalogSearchType" data-value="smart">
                     	<span>Keyword</span>
 					</div>
 					<button class="button1 srchsubmit" type="submit" id="catalogSubmit">
 						<span class="icon-search icon-standalone" aria-hidden="true"></span>
 						<span class="glyph-text">Search</span>
 					</button>
-				</fieldset>
+				</div>
                 <ul id="catalogSearchOptions">
-                	<li data-value="KW">Keyword</li>
-                    <li data-value="TI">Title</li>
-                    <li data-value="AU">Author</li>
-                </ul>
+                	<li data-value="smart">Keyword</li>
+                    <li data-value="title">Title</li>
+					<li data-value="author">Author</li>
+				</ul>
 			</form>
-			<form class="multisrch-form" id="ebscoSearch" action="https://search.ebscohost.com/login.aspx" method="get" aria-hidden="true">
+			<form class="multisrch-form" id="ebscoSearch" action="https://search.ebscohost.com/login.aspx" method="get" aria-hidden="true" role="tabpanel" aria-labelledby="srchtab2">
                 <input name="direct" value="true" type="hidden">
                 <input name="scope" value="site" type="hidden">
                 <input name="site" value="eds-live" type="hidden">
@@ -92,22 +97,22 @@
                 <input name="custid" value="s9045573" type="hidden">
                 <input name="groupid" value="main" type="hidden">
                 <input name="profile" value="eds" type="hidden">
-				<fieldset class="srchinput">
+				<div class="srchinput">
 					<input value="" id="ebscoInput" autocomplete="off" name="bquery" placeholder="Magazine, newspaper and journal articles" type="text">
 					<button class="button1 srchsubmit" type="submit" id="ebscoSubmit" name="bquery">
 						<span class="icon-search icon-standalone" aria-hidden="true"></span>
 						<span class="glyph-text">Search</span>
 	                </button>
-	           	</fieldset>
+	           	</div>
 			</form>
-			<form class="multisrch-form" id="siteSearch" action="/search" method="get" aria-hidden="true">
-				<fieldset class="srchinput">
+			<form class="multisrch-form" id="siteSearch" action="/search" method="get" aria-hidden="true" role="tabpanel" aria-labelledby="srchtab3">
+				<div class="srchinput">
 					<input value="" id="siteInput" name="addsearch" autocomplete="off" placeholder="Search the library website" type="text">
 					<button class="button1 srchsubmit" type="submit" id="siteSubmit">
 						<span class="icon-search icon-standalone" aria-hidden="true"></span>
 						<span class="glyph-text">Search</span>
 	                </button>
-	           	</fieldset>
+	           	</div>
 			</form>
 	    </div>
     </div>
@@ -119,63 +124,67 @@
 			cst = m.querySelector('#catalogSearchType'),
 			cso = m.querySelector('#catalogSearchOptions'),
 			li = cso.querySelectorAll('li'),
+			gg = m.querySelector('#showSrch'),
 			i;
 		function doSearch(e) {
 			e = e || window.event;
 			e.preventDefault();
 			var st = m.querySelector('li.active').getAttribute('data-searchtype') || "catalog",
-				kw = m.querySelector('#' +st + 'Input').value || "",
+				kw = m.querySelector('#' + st + 'Input').value || '',
 				URL = "";
 			if (kw.trim() == '') {
-				m.querySelector('#' +st + 'Input').focus();
+				m.querySelector('#' + st + 'Input').focus();
 				return false;
 			}
 			if (ga && ga.hasOwnProperty('loaded') && ga.loaded === true) {
-				var la = (st === 'catalog') ? '-' + (cst.getAttribute('data-value') || "KW") : '';
-            	ga('send', 'event', {eventCategory: 'search', eventAction: 'submit', eventLabel: st + la});
+				var la = (st === 'catalog') ? '-' + (cst.getAttribute('data-value') || 'KW') : '';
+            	ga('send', 'event', { eventCategory: 'search', eventAction: 'submit', eventLabel: st + la });
 			}
-			if (st==="ebsco") {
+			if (st === 'ebsco') {
 				document.getElementById('ebscoSearch').submit();
-			} else if (st==="site") {
+			} else if (st === 'site') {
 				document.getElementById('siteSearch').submit();
 			} else {//
 				kw = encodeURIComponent(kw);
-				var cp = cst.getAttribute('data-value') || "KW";
-				URL = "http://catalog.hcplc.org/polaris/Search/searchresults.aspx?type=Keyword&Page=0&Sort=Relevance&by=" + cp + "&term=" + kw;
+				var cp = cst.getAttribute('data-value') || 'smart';
+				URL = 'https://hcplc.bibliocommons.com/v2/search?searchType=' + cp + '&query=' + kw;
 				window.location = URL;
 			}
 			return false;
 		}
 		m.className = 'multisrch-container'; //removes hide-noscript
-		for (i=0; i<t.length; i++){
-			t[i].addEventListener("click", function(){
+		for (i = 0; i < t.length; i++){
+			t[i].addEventListener('click', function(){
 				var st = this.getAttribute('data-searchtype'),
 					tb = m.querySelectorAll('.srchtabs li'),
 					fm = m.querySelectorAll('form');
 				for (var j=0; j<tb.length; j++) {
 					tb[j].className = '';
+					tb[j].setAttribute('aria-selected', 'false');
 					fm[j].className = 'multisrch-form';
-					fm[j].setAttribute("aria-hidden","true");
+					fm[j].setAttribute('aria-hidden', 'true');
 				}
 				this.className = 'active';
+				this.setAttribute('aria-selected', 'true');
 				m.querySelector('#' + st + 'Search').className += ' active';
-				m.querySelector('#' + st + 'Search').setAttribute("aria-hidden","false");
+				m.querySelector('#' + st + 'Search').setAttribute('aria-hidden', 'false');
 				m.querySelector('#' + st + 'Input').focus();
 			})
 		}
-		for (i=0; i<f.length; i++){f[i].addEventListener("submit", doSearch)}
-		cst.addEventListener("click", function(){
-			cso.className = (cso.className.match(/cso-open/)) ? "" : "cso-open";
+		for (i=0; i<f.length; i++){f[i].addEventListener('submit', doSearch)}
+		cst.addEventListener('click', function(){
+			cso.className = (cso.className.match(/cso-open/)) ? '' : 'cso-open';
 		})
 		for (i=0; i<li.length; i++){
 			li[i].addEventListener("click", function() {
-				for (var j=0; j<li.length; j++) li[j].className="";
-				this.className = "active";
+				for (var j = 0; j < li.length; j++) li[j].className = '';
+				this.className = 'active';
 				cst.setAttribute('data-value', this.getAttribute('data-value'));
 				cst.innerHTML = '<span>' + this.innerHTML + '</span>';
-				cso.className="";
+				cso.className = '';
 			})
 		}
+		gg.addEventListener('click', function(){this.classList.toggle('showSrch-active')});
 	})()
 	</script>
 </header>
@@ -191,10 +200,10 @@
 </p>
 
 <div class="column-span12">
-    <h4>Privacy Statement</h4>
+    <h2>Privacy Statement</h2>
     <p>Any personal information requested or gathered via this site will be used only for purposes necessary to conduct library business with you. It will not be traded, sold, or given to any other party except as specifically allowed or required by law.</p>
     
-    <h4>Regarding e-mail</h4>
+    <h2>Regarding e-mail</h2>
     <p>Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.</p>
 </div>
 
@@ -203,11 +212,11 @@
 <footer>
 	<div class="wrapper">
 		<div class="column-span4"> 
-			<h3>Member Libraries</h3>
+			<h2>Member Libraries</h2>
 			<a href="/thpl">
 				<img class="logos" src="/images/logos/footer/hillsborough.png" alt="Hillsborough County logo">
 			</a> 
-			<a href="https://www.plantcitygov.com/544/Library">
+			<a href="https://www.plantcitygov.com/library">
 				<img class="logos" src="/images/logos/footer/plc.png" alt="City of Plant City logo">
 			</a>
 			<a href="https://templeterrace.com/154/Library">
@@ -215,7 +224,7 @@
 			</a>
 		</div>
 		<div class="column-span4"> 
-			<h3>Contact</h3>
+			<h2>Contact</h2>
 			<div class="vcard">
 				<span class="fn org">Hillsborough County Public Library Cooperative</span><br>
 					<!--<span class="street-address">102 E. 7th Ave.,</span>
@@ -225,7 +234,7 @@
 			</div>   
 		</div>
 		<div class="column-span4 connect">
-			<h3>Connect</h3>
+			<h2>Connect</h2>
 			<p>
 				<a href="https://www.facebook.com/TampaHillsLib/">
                 	<span class="icon-facebook-squared icon-font icon-standalone"></span>
@@ -247,7 +256,7 @@
                 	<span class="icon-pinterest-squared icon-font icon-standalone"></span>
                     <span class="glyph-text">Pinterest</span>
                 </a>
-				<a href="https://libraryaware.com/1585/Subscribers/Subscribe?optInPageId=a0d1243c-5a4a-4c15-a05c-4fa15260d56a">
+				<a href="https://libraryaware.com/1585/Subscribers/Subscribe?optInPageId=b69bc170-92ca-4094-b22b-a7d1c432111c">
                 	<span class="icon-mail icon-font icon-standalone"></span>
                     <span class="glyph-text">Newsletters</span>
                 </a>
@@ -261,7 +270,7 @@
                 </a>
 			</p>
 			<div id="google_translate_element"></div>
-			<script type="text/javascript">
+			<script>
 				function googleTranslateElementInit(){
 				  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 				}
@@ -272,7 +281,7 @@
     
     <div class="copyright">
         <div class="wrapper">   
-            <div class="copyright__legal">©2018 HCPLC</div>
+            <div class="copyright__legal">©2019 HCPLC</div>
             <div class="copyright__links">
                 <a href="/about/privacy">Privacy Policy</a>
                 <a href="/about/employment">Employment</a>
@@ -286,4 +295,4 @@
 </footer>
 </div><!--end container-->
 
-<a id="back-to-top" href="#"><svg version="1.1" id="btt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 240 240"><circle id="btt_button" cx="120" cy="120" r="100"></circle><polygon fill="#ffffff" id="btt_chevron" points="170,132 157.5,144 120,106 82.5,144 70,132 120,82"></polygon></svg></a></body></html>
+<a id="back-to-top" href="#"><span class="glyph-text">Back to top</span><svg version="1.1" id="btt" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 240 240"><circle id="btt_button" cx="120" cy="120" r="100"></circle><polygon fill="#ffffff" id="btt_chevron" points="170,132 157.5,144 120,106 82.5,144 70,132 120,82"></polygon></svg></a></body></html>
