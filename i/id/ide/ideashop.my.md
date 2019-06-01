@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideashop.my privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227092252id_/http%3A//www.ideashop.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideashop.my privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601183017id_/http%3A//www.ideashop.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
