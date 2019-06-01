@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the merrell.com privacy policy that was archived on 2018-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180823131502id_/https%3A//www.merrell.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the merrell.com privacy policy that was archived on 2019-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190601172739id_/https%3A//www.merrell.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class=" js"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -21,29 +21,30 @@
 <script type="text/javascript">
 
 
+
 document.getElementsByTagName('html')[0].className+=' js';
 </script>
 <script src="//cdn.optimizely.com/js/8343082563.js"></script>
-<link rel="stylesheet" media="print" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/css/print.css">
-<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/css/www_headerUI_global.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" media="print" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/css/print.css">
+<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/css/www_headerUI_global.css" rel="stylesheet" type="text/css">
 
-<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/css/www_htmlhead_global.css" type="text/css" rel="stylesheet">
+<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/css/www_htmlhead_global.css" rel="stylesheet" type="text/css">
 
 
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6273894/7298952/css/fonts.css">
-<link rel="stylesheet" type="text/css" href="/on/demandware.static/-/Library-Sites-FONTS/default/v1535028198740/merrell/webfonts.css">
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/-/Library-Sites-FONTS/default/v1559303850868/merrell/webfonts.css">
 <!--[if !IE]> -->
-<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/css/branding.min.css" type="text/css" rel="stylesheet">
+<link href="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/css/branding.min.css" rel="stylesheet" type="text/css">
 <!-- <![endif]-->
 <!--[if lte IE 9]> 
-<link rel="stylesheet" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/css/branding.generated.IE.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/css/branding.generated.IE.css" />
 <![endif]-->
-<link rel="stylesheet" href="/on/demandware.static/-/Sites-merrell_us-Library/default/v1535028198740/styles/overrides.css">
-<script src="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/js/www_htmlhead_UI_includes.js"></script>
+<link rel="stylesheet" href="/on/demandware.static/-/Sites-merrell_us-Library/default/v1559303850868/styles/merrell-content.css">
+<script type="text/javascript" src="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/js/www_htmlhead_UI_includes.js"></script>
 <script type="text/javascript">var app={};</script>
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/lib/html5.js"></script>
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/lib/json2.js"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/lib/json2.js"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -59,7 +60,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -105,6 +112,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -112,20 +146,23 @@ CQuotient.getCQUserId = function () {
 <style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-152x152-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-144x144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-120x120-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-76x76-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/images/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="/on/demandware.static/Sites-merrell_us-Site/-/default/dwafe2ad28/images/apple-touch-icon-52X52-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/images/apple-touch-icon-52X52-precomposed.png">
 
 <meta name="google-site-verification" content="J3xjCnqV_IZ5ZxbbRg-E47C6RNrk4yFq-vF9bYsQ8qs">
 <meta name="msvalidate.01" content="AEBAA6E09D7C8EE5F88B52B7469AA7DB">
-<script>
-LUX = window.LUX || {};
-LUX.samplerate = 22;
-</script>
+<script type="text/javascript">
+		LUX = window.LUX || {};
+		if("Customer Service" != "null"){
+			LUX.label = "Customer Service";
+		}
+		LUX.samplerate = Number("22.0");
+	</script>
 <script src="https://cdn.speedcurve.com/js/lux.js?id=104471260" async="" defer=""></script>
 <script type="text/javascript">
 	jQuery(document).ready(function() {
@@ -138,6 +175,7 @@ LUX.samplerate = 22;
 <body class="isDesktopEnvironment">
 <div id="wrapper" class="pt_customer-service">
 <div class="header-style-wrapper">
+<a href="#main" class="skip-nav">Skip to content</a>
 <div class="full-top-header-banner">
 </div>
 <div id="header" role="banner">
@@ -149,11 +187,10 @@ LUX.samplerate = 22;
 
 <div class="primary-logo" itemscope="" itemtype="//schema.org/Organization">
 <a itemprop="url" href="https://www.merrell.com/US/en/home" title="Merrell Home">
-<img itemprop="logo" src="/on/demandware.static/Sites-merrell_us-Site/-/default/dw63f32361/images/logo.png" alt="Merrell" role="presentation">
+<img itemprop="logo" src="/on/demandware.static/Sites-merrell_us-Site/-/default/dwa08b9d3b/images/logo.svg" alt="" role="presentation">
 <span>Merrell</span>
 </a>
 </div>
-<a href="#main" class="visually-hidden">Skip to content</a>
 
 <div class="country-box clearfix">
 <noscript>
@@ -209,7 +246,7 @@ Français
 </div>
 </li>
 <li role="menuitem">
-<a data-country="ch" class=" flag-ch" href="http://www.merrell.ch/CH/de" alt="Schweiz">
+<a data-country="ch" class=" flag-ch" href="https://merrell.ch" alt="Schweiz">
 <span class="flag-ch sprite-flag"></span>
 Schweiz
 </a>
@@ -236,6 +273,12 @@ Colombia
 <a data-country="de" class=" flag-de" href="https://www.merrell.com/DE/de_DE/home" alt="Deutschland">
 <span class="flag-de sprite-flag"></span>
 Deutschland
+</a>
+</li>
+<li role="menuitem">
+<a data-country="es" class=" flag-es" href="http://www.merrell.com/ES/es_ES/home" alt="España">
+<span class="flag-es sprite-flag"></span>
+España
 </a>
 </li>
 <li role="menuitem">
@@ -317,12 +360,6 @@ Portugal
 </a>
 </li>
 <li role="menuitem">
-<a data-country="es" class=" flag-es" href="http://merrell.es/" alt="España">
-<span class="flag-es sprite-flag"></span>
-España
-</a>
-</li>
-<li role="menuitem">
 <a data-country="se" class=" flag-se" href="http://www.merrell.com/SE/sv_SE/home" alt="Sverige">
 <span class="flag-se sprite-flag"></span>
 Sverige
@@ -350,6 +387,12 @@ United Kingdom
 <a data-country="us" class=" flag-us" href="https://www.merrell.com/US/en/home?#icid=test-value-here" alt="United States">
 <span class="flag-us sprite-flag"></span>
 United States
+</a>
+</li>
+<li role="menuitem">
+<a data-country="uy" class=" flag-uy" href="http://www.merrell.com.uy" alt="Uruguay">
+<span class="flag-uy sprite-flag"></span>
+Uruguay
 </a>
 </li>
 <li role="menuitem">
@@ -434,69 +477,69 @@ Account
 <div class="products-container">
 <div class="products">
 <div class="product-tile">
-<a href="/US/en/all-out-blaze-2-mid-waterproof/29437M.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLM-J12097-032117-S18-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
+<a href="/US/en/gridway-moc/35893W.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J97544-032318-S19-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
 </a>
 <div class="product-name">
-<a href="/US/en/all-out-blaze-2-mid-waterproof/29437M.html">Men's All Out Blaze 2 Mid Waterproof</a>
-</div>
-<div class="product-pricing">
-<span class="price-sales">$150.00</span>
-</div>
-</div>
-<div class="product-tile">
-<a href="/US/en/bare-access-flex/29190W.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J09652-032317-S17-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
-</a>
-<div class="product-name">
-<a href="/US/en/bare-access-flex/29190W.html">Women's Bare Access Flex</a>
-</div>
-<div class="product-pricing">
-<span class="price-sales">$90.00</span>
-</div>
-</div>
-<div class="product-tile">
-<a href="/US/en/sugarbush-waterproof/25449W.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J01840-102815-F16-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
-</a>
-<div class="product-name">
-<a href="/US/en/sugarbush-waterproof/25449W.html">Women's Sugarbush Waterproof</a>
-</div>
-<div class="product-pricing">
-<span class="price-sales">$225.00</span>
-</div>
-</div>
-<div class="product-tile">
-<a href="/US/en/jungle-moc/17703M.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLM-J71443-032615-S16-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
-</a>
-<div class="product-name">
-<a href="/US/en/jungle-moc/17703M.html">Men's Jungle Moc</a>
-</div>
-<div class="product-pricing">
-<span class="price-sales">$80.00</span>
-</div>
-</div>
-<div class="product-tile">
-<a href="/US/en/encore-q2-ice/29576W.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J00792-111016-F17-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
-</a>
-<div class="product-name">
-<a href="/US/en/encore-q2-ice/29576W.html">Women's Encore Q2 Ice</a>
+<a href="/US/en/gridway-moc/35893W.html?icid=search_suggested_products">Women's Gridway Moc</a>
 </div>
 <div class="product-pricing">
 <span class="price-sales">$120.00</span>
 </div>
 </div>
 <div class="product-tile">
-<a href="/US/en/chateau-mid-lace-waterproof/29560W.html">
-<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J45540-111016-F17-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image">
+<a href="/US/en/ontario-mid-waterproof/35911M.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLM-J84907-010819-F19-HERO031?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
 </a>
 <div class="product-name">
-<a href="/US/en/chateau-mid-lace-waterproof/29560W.html">Women's Chateau Mid Lace Waterproof</a>
+<a href="/US/en/ontario-mid-waterproof/35911M.html?icid=search_suggested_products">Men's Ontario Mid Waterproof</a>
 </div>
 <div class="product-pricing">
-<span class="price-sales">$175.00</span>
+<span class="price-sales">$170.00</span>
+</div>
+</div>
+<div class="product-tile">
+<a href="/US/en/range-ac/36383W.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J97778-011719-S19-032?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
+</a>
+<div class="product-name">
+<a href="/US/en/range-ac/36383W.html?icid=search_suggested_products">Women's Range AC+</a>
+</div>
+<div class="product-pricing">
+<span class="price-sales">$120.00</span>
+</div>
+</div>
+<div class="product-tile">
+<a href="/US/en/choprock/36123M.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLM-J48695-060118-S19-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
+</a>
+<div class="product-name">
+<a href="/US/en/choprock/36123M.html?icid=search_suggested_products">Men's Choprock</a>
+</div>
+<div class="product-pricing">
+<span class="price-sales">$120.00</span>
+</div>
+</div>
+<div class="product-tile">
+<a href="/US/en/trail-glove-5/36207M.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLM-J50261-082318-S19-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
+</a>
+<div class="product-name">
+<a href="/US/en/trail-glove-5/36207M.html?icid=search_suggested_products">Men's Trail Glove 5</a>
+</div>
+<div class="product-pricing">
+<span class="price-sales">$100.00</span>
+</div>
+</div>
+<div class="product-tile">
+<a href="/US/en/district-muri-wrap/36396W.html?icid=search_suggested_products">
+<img src="https://a248.e.akamai.net/f/248/9086/10h/wolverine-o.scene7.com/is/image/WolverineWorldWide/MRLW-J97264-050619-S19-HERO?wid=186&amp;hei=160&amp;qlt=70&amp;fmt=png-alpha&amp;resMode=sharp&amp;op_usm=0.5,1" class="image" alt="">
+</a>
+<div class="product-name">
+<a href="/US/en/district-muri-wrap/36396W.html?icid=search_suggested_products">Women's District Muri Wrap</a>
+</div>
+<div class="product-pricing">
+<span class="price-sales">$70.00</span>
 </div>
 </div>
 </div>
@@ -506,27 +549,26 @@ Account
 <li class="list-heading">
 Popular Categories
 </li>
-<li><a href="https://www.merrell.com/US/en/hiking-gear/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=Hiking-Gear">Hiking Gear</a></li>
-<li><a href="https://www.merrell.com/US/en/fitness/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=fitness">Training</a></li>
-<li><a href="https://www.merrell.com/US/en/trail-favorites/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=Trail-Favorites">Trail Running</a></li>
-<li><a href="https://www.merrell.com/US/en/boots/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=boots">Boots</a></li>
-<li><a href="https://www.merrell.com/US/en/casual/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=casual">Casual</a></li>
-<li><a href="https://www.merrell.com/US/en/merrell-work-boots/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=merrell-work-boots">Work</a></li>
-<li><a href="https://www.merrell.com/US/en/kids-old-landing/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=kids">Kids</a></li>
-<li><a href="https://www.merrell.com/US/en/clothing-view-all/" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=clothing-view-all">Outdoor Clothing</a></li>
+<li><a href="https://www.merrell.com/US/en/new-arrivals-footwear-clothing-1/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=new-arrivals">New Arrivals</a></li>
+<li><a href="https://www.merrell.com/US/en/best-selling-footwear-clothing/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=best-sellers">Best Sellers</a></li>
+<li><a href="https://www.merrell.com/US/en/hiking-gear/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=Hiking-Gear">Hiking Gear</a></li>
+<li><a href="https://www.merrell.com/US/en/training/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=training">Training</a></li>
+<li><a href="https://www.merrell.com/US/en/sandals-1/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=Sandals">Sandals</a></li>
+<li><a href="https://www.merrell.com/US/en/casual/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=casual">Casual</a></li>
+<li><a href="https://www.merrell.com/US/en/merrell-work-boots/?icid=search_top_category" data-productsurl="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products?cgid=merrell-work-boots">Work</a></li>
 </ul>
 </div>
 </div>
 </div>
 <div class="header-banner">
-<a href="https://www.merrell.com/US/en/content?caid=free-shipping-modal-20161028" class="dialogify">
+<a href="https://www.merrell.com/US/en/content?caid=free-shipping-modal-20190219" class="dialogify">
 <div class="flexslider_searchPromo">
 <ul class="slides_searchPromo">
 <li style="list-style:none !important;">
-FREE EXPRESS SHIPPING ON $49+ ORDERS.
+Free Shipping &amp; Returns
 </li>
 <li style="list-style:none !important; opacity:0;">
-EVERYDAY FREE RETURNS.
+Express Shipping on $120+
 </li>
 </ul>
 </div>
@@ -559,6 +601,7 @@ ul.slides_searchPromo li {
     -webkit-transition: all .2s;
     transition: all .2s;
     cursor: pointer;
+    text-transform: uppercase;
 }
 ul.slides_searchPromo li:hover {
     color: #f59955;
@@ -571,7 +614,7 @@ ul.slides_searchPromo li:hover {
 <nav class="inner">
 <div class="primary-logo" itemscope="" itemtype="//schema.org/Organization">
 <a itemprop="url" href="https://www.merrell.com/US/en/home" title="Merrell Home">
-<img itemprop="logo" src="/on/demandware.static/Sites-merrell_us-Site/-/default/dwbb753080/images/logo-persistent.png" alt="Merrell">
+<img itemprop="logo" src="/on/demandware.static/Sites-merrell_us-Site/-/default/dw7982fe8b/images/logo-persistent.svg" alt="Merrell">
 </a>
 </div>
 
@@ -582,10 +625,11 @@ ul.slides_searchPromo li:hover {
 Women
 </a>
 </span>
+
 <div class="level-2 menu-horizontal">
 <div class="menu-wrapper">
 
-<ul class="level-2" data-inmenucolumnnumber="1" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
 <li role="menuitem">
 <div class="catname-only" data-cat="women-featured">
 Featured
@@ -608,16 +652,6 @@ Exclusives
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-waterproof-clothing-footwear/" data-cat="women-featured-waterproof" onclick="s_objectID='women-featured-waterproof';">
-Waterproof
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-chameleon/" data-cat="women-chameleon" onclick="s_objectID='women-chameleon';">
-Chameleon 7
-</a>
-</li>
-<li role="menuitem">
 <a href="https://www.merrell.com/US/en/womens-moab/" data-cat="womens-moab" onclick="s_objectID='womens-moab';">
 Moab
 </a>
@@ -628,79 +662,8 @@ Jungle Moc
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-wide-width-boot-shoes/" data-cat="women-featured-wide-widths" onclick="s_objectID='women-featured-wide-widths';">
-Wide Widths
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/outlet-women/" data-cat="women-featured-sale" onclick="s_objectID='women-featured-sale';">
-Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-featured-gift-cards/" data-cat="women-featured-gift-cards" onclick="s_objectID='women-featured-gift-cards';">
-Gift Cards
-</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-footwear/" class="level-2 " data-cat="women-footwear" onclick="s_objectID='women-footwear';">
-Footwear
-</a>
-<div class="level-3">
-<ul class="level-3" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-hiking-boots-shoes/" data-cat="women-footwear-hiking" onclick="s_objectID='women-footwear-hiking';">
-Hiking
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-trail-running/" data-cat="womens-trail-running" onclick="s_objectID='womens-trail-running';">
-Trail Running
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-footwear-fitness/" data-cat="women-footwear-fitness" onclick="s_objectID='women-footwear-fitness';">
-Fitness
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-sandals/" data-cat="women-footwear-sandals" onclick="s_objectID='women-footwear-sandals';">
-Sandals
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-casual-shoes/" data-cat="women-footwear-casual" onclick="s_objectID='women-footwear-casual';">
-Casual
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-slip-on-shoes/" data-cat="women-footwear-slip-ons" onclick="s_objectID='women-footwear-slip-ons';">
-Slip-Ons
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-shoes/" data-cat="women-footwear-shoes" onclick="s_objectID='women-footwear-shoes';">
-Shoes
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-casual-boots/" data-cat="women-boots-casual" onclick="s_objectID='women-boots-casual';">
-Casual Boots
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-winter-boots/" data-cat="womens-winter-boots" onclick="s_objectID='womens-winter-boots';">
-Winter Boots
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-footwear/" data-cat="women-footwear-view-all" onclick="s_objectID='women-footwear-view-all';">
-View All
+<a href="https://www.merrell.com/US/en/siren/" data-cat="siren" onclick="s_objectID='siren';">
+Siren
 </a>
 </li>
 </ul>
@@ -709,14 +672,65 @@ View All
 </ul>
 <ul class="level-2" data-inmenucolumnnumber="3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-clothing/" class="level-2 " data-cat="women-clothing" onclick="s_objectID='women-clothing';">
-Clothing &amp; Accessories
+<a href="https://www.merrell.com/US/en/women-footwear/" class="level-2 " data-cat="women-footwear" onclick="s_objectID='women-footwear';">
+Footwear
 </a>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-footwear/" data-cat="women-footwear-view-all" onclick="s_objectID='women-footwear-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-shoes/" data-cat="women-footwear-shoes" onclick="s_objectID='women-footwear-shoes';">
+Shoes
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-boots/" data-cat="women-footwear-boots" onclick="s_objectID='women-footwear-boots';">
+Boots
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-sandals/" data-cat="women-footwear-sandals" onclick="s_objectID='women-footwear-sandals';">
+Sandals
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-slip-on-shoes/" data-cat="women-footwear-slip-ons" onclick="s_objectID='women-footwear-slip-ons';">
+Slip-Ons
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-wide-width-boot-shoes/" data-cat="women-featured-wide-widths" onclick="s_objectID='women-featured-wide-widths';">
+Wide Widths
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-discount-boots-shoes/" data-cat="women-footwear-sale" onclick="s_objectID='women-footwear-sale';">
+Sale
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="level-2" data-inmenucolumnnumber="4" role="menu">
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/women-clothing/" class="level-2 " data-cat="women-clothing" onclick="s_objectID='women-clothing';">
+Clothing
+</a>
+<div class="level-3">
+<ul class="level-3" role="menu">
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-clothing/" data-cat="women-clothing-view-all" onclick="s_objectID='women-clothing-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
 <a href="https://www.merrell.com/US/en/womens-jackets/" data-cat="women-clothing-outerwear" onclick="s_objectID='women-clothing-outerwear';">
-Jackets
+Jackets &amp; Vests
 </a>
 </li>
 <li role="menuitem">
@@ -731,22 +745,12 @@ Midlayers
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/womens-pants-shorts/" data-cat="women-clothing-bottoms" onclick="s_objectID='women-clothing-bottoms';">
-Dresses, Pants &amp; Shorts
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-clothing-accessories/" data-cat="women-clothing-accessories" onclick="s_objectID='women-clothing-accessories';">
-Accessories
+Bottoms
 </a>
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/women-clothing-sale/" data-cat="women-clothing-sale" onclick="s_objectID='women-clothing-sale';">
 Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-clothing/" data-cat="women-clothing-view-all" onclick="s_objectID='women-clothing-view-all';">
-View All
 </a>
 </li>
 </ul>
@@ -755,19 +759,80 @@ View All
 </ul>
 <ul class="level-2" data-inmenucolumnnumber="5" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-hiking-accessories/" class="level-2 " data-cat="women-bags--accessories" onclick="s_objectID='women-bags--accessories';">
+Accessories
+</a>
+<div class="level-3">
+<ul class="level-3" role="menu">
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-hiking-accessories/" data-cat="women-bags--accessories-view-all" onclick="s_objectID='women-bags--accessories-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-hiking-athletic-socks/" data-cat="women-bags--accessories-socks" onclick="s_objectID='women-bags--accessories-socks';">
+Socks
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-boot-shoe-laces/" data-cat="women-bags--accessories-laces" onclick="s_objectID='women-bags--accessories-laces';">
+Shoelaces
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-hats/" data-cat="women-bags--accessories-headwear" onclick="s_objectID='women-bags--accessories-headwear';">
+Hats &amp; Neckwear
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-backpacks-bags/" data-cat="women-bags--accessories-bags" onclick="s_objectID='women-bags--accessories-bags';">
+Bags
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-hiking-boot-insoles/" data-cat="women-bags--accessories-insoles" onclick="s_objectID='women-bags--accessories-insoles';">
+Insoles
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/women-bags--accessories-shoe-care/" data-cat="women-bags--accessories-shoe-care" onclick="s_objectID='women-bags--accessories-shoe-care';">
+Shoe Care
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="level-2" data-inmenucolumnnumber="6" role="menu">
+<li role="menuitem">
 <div class="catname-only" data-cat="Women-Activity">
 Activity
 </div>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/hike/" data-cat="women-activity-hiking" onclick="s_objectID='women-activity-hiking';">
+Hiking
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/women-water-shoes/" data-cat="women-water-shoes" onclick="s_objectID='women-water-shoes';">
+Hydro-Hike
+</a>
+</li>
+<li role="menuitem">
 <a href="https://www.merrell.com/US/en/womens-casual/" data-cat="women-activity-casual" onclick="s_objectID='women-activity-casual';">
 Casual
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-hiking-boots-shoes/" data-cat="women-activity-hiking" onclick="s_objectID='women-activity-hiking';">
-Hiking
+<a href="https://www.merrell.com/US/en/women-footwear-fitness/" data-cat="women-footwear-fitness" onclick="s_objectID='women-footwear-fitness';">
+Training
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/womens-trail-running/" data-cat="womens-trail-running" onclick="s_objectID='womens-trail-running';">
+Trail Running
 </a>
 </li>
 <li role="menuitem">
@@ -775,62 +840,68 @@ Hiking
 Work
 </a>
 </li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/tactical-boots-shoes/?icid=women-featured-tactical" data-cat="womens-tactical-boots" onclick="s_objectID='womens-tactical-boots';">
+Tactical
+</a>
+</li>
 </ul>
 </div>
 </li>
 </ul>
 <div class="custom defaultcontent">
-<style>
-div.level-2 .menu-wrapper {
-  min-width: 932px;
-}
-.mlcnt-nav-graphic.women {
-position: relative;
-}
-.mlcnt-nav-graphic-text {
-  top: 140px;
-}
-.mlcnt-nav-graphic-text h3 {
-    font-family: "GT-Pressura-Mono-Regular";
-    margin: 0;
-    font-size: 25px;
-    line-height: 30px;
-    color: #fff;
-    text-transform: uppercase;
-    -webkit-font-smoothing: antialiased;
-}
-
-.mlcnt-nav-graphic.women .cta {
-    display: inline-block;
-    position: absolute;
-    font-family: "Tungsten-Medium", sans-serif;
-    background: #dc4405;
-    color: white;
-    bottom: 17px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100px;
-    padding: 13px;
-    font-size: 21px;
-    -webkit-font-smoothing: antialiased;
-}
-.mlcnt-nav-graphic.women .cta:hover {
-background: #101820;
-}
-.mlcnt-nav-graphic-text {
-    top: 7%;
-    left: 0 !important;
-}
-</style>
-<div class="mlcnt-nav-graphic women" style="float:right; margin-left: 50px;">
-<div class="mlcnt-nav-graphic-text">
-<h3>From Trail<br>To Water</h3>
-</div>
-<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dwd13a92d7/content/seasonal-content/navigation/2018/08/merrell_desktop_navigation_womens_20180810.jpg" width="200" height="300" alt="" class="mlcnt-nav-graphic-bg" style="float:right;">
-<a href="https://www.merrell.com/US/en/womens-water-hiking-shoes/?icid=navigation-dropdown-marketing-women080818" class="cta" style="margin-top: 0; padding-bottom: 10px;">Shop Hydro Hike</a>
+<div class="html-slot-container content-slot" data-content-slot="category-menu-content-right">
 </div>
 </div>
 <div class="custom defaultcontent full-width">
+
+
+
+
+
+
+<div class="mrrl-full-width-menu" id="womens-nav-graphic-20190508">
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/mqm-ace-mid-waterproof/36290W.html?icid=nav-wdropdown-mqm032919&amp;dwvar_36290W_color=J48994">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw3149f334/content/seasonal-content/navigation/2019/02/MQM_Ace_Mid_W.jpg" alt="MQM Ace Mid">
+<p>
+MQM Ace Mid
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/ontario-mid/35914W.html?icid=nav-wdropdown-ontario032919&amp;dwvar_35914W_color=J50100">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw5d43d6a3/content/seasonal-content/navigation/2019/02/Ontario_W.jpg" alt="Ontario">
+<p>
+Ontario
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/choprock/36340W.html?dwvar_36340W_color=J49084&amp;icid=nav-wdropdown-choprock050819">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw56b2ccf0/content/seasonal-content/navigation/2019/03/Choprock_W.jpg" alt="Choprock">
+<p>
+Choprock
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/trail-glove-5/36369W.html?icid=nav-wdropdown-trailglove032919&amp;dwvar_36369W_color=J19998">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw6639aa35/content/seasonal-content/navigation/2019/02/Trail_Glove_W.jpg" alt="Trail Glove 5">
+<p>
+Trail Glove 5
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/range-ac/36383W.html?icid=nav-wdropdown-range032919&amp;dwvar_36383W_color=J97778">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw5bb3ebbb/content/seasonal-content/navigation/2019/02/Range_W.jpg" alt="Range">
+<p>
+Range
+</p>
+</a>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -841,10 +912,11 @@ background: #101820;
 Men
 </a>
 </span>
+
 <div class="level-2 menu-horizontal">
 <div class="menu-wrapper">
 
-<ul class="level-2" data-inmenucolumnnumber="1" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
 <li role="menuitem">
 <div class="catname-only" data-cat="men-featured">
 Featured
@@ -868,7 +940,7 @@ Exclusives
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/men-chameleon/" data-cat="men-chameleon" onclick="s_objectID='men-chameleon';">
-Chameleon 7
+Chameleon
 </a>
 </li>
 <li role="menuitem">
@@ -881,26 +953,12 @@ Moab
 Jungle Moc
 </a>
 </li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-wide-width-boot-shoes/" data-cat="men-featured-wide-widths" onclick="s_objectID='men-featured-wide-widths';">
-Wide Widths
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/outlet-men/" data-cat="men-sale-outlet" onclick="s_objectID='men-sale-outlet';">
-Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-featured-gift-cards/" data-cat="men-featured-gift-cards" onclick="s_objectID='men-featured-gift-cards';">
-Gift Cards
-</a>
-</li>
+
 </ul>
 </div>
 </li>
 </ul>
-<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="3" role="menu">
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/mens-footwear/" class="level-2 " data-cat="men-footwear" onclick="s_objectID='men-footwear';">
 Footwear
@@ -908,33 +966,8 @@ Footwear
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-hiking-boots-shoes/" data-cat="men-footwear-hiking" onclick="s_objectID='men-footwear-hiking';">
-Hiking
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-trail-running/" data-cat="mens-trail-running" onclick="s_objectID='mens-trail-running';">
-Trail Running
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-footwear-fitness/" data-cat="men-footwear-fitness" onclick="s_objectID='men-footwear-fitness';">
-Fitness
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-sandals/" data-cat="men-footwear-sandals" onclick="s_objectID='men-footwear-sandals';">
-Sandals
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-casual-shoes/" data-cat="men-footwear-casual" onclick="s_objectID='men-footwear-casual';">
-Casual
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-slip-on-shoes/" data-cat="men-footwear-slip-ons" onclick="s_objectID='men-footwear-slip-ons';">
-Slip-ons
+<a href="https://www.merrell.com/US/en/mens-footwear/" data-cat="men-footwear-view-all" onclick="s_objectID='men-footwear-view-all';">
+View All
 </a>
 </li>
 <li role="menuitem">
@@ -943,34 +976,49 @@ Shoes
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-casual-boots/" data-cat="mens-casual-boots" onclick="s_objectID='mens-casual-boots';">
-Casual Boots
+<a href="https://www.merrell.com/US/en/mens-boots/" data-cat="men-footwear-boots" onclick="s_objectID='men-footwear-boots';">
+Boots
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-winter-boots/" data-cat="mens-winter-boots" onclick="s_objectID='mens-winter-boots';">
-Winter Boots
+<a href="https://www.merrell.com/US/en/mens-sandals/" data-cat="men-footwear-sandals" onclick="s_objectID='men-footwear-sandals';">
+Sandals
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-footwear/" data-cat="men-footwear-view-all" onclick="s_objectID='men-footwear-view-all';">
-View All
+<a href="https://www.merrell.com/US/en/mens-slip-on-shoes/" data-cat="men-footwear-slip-ons" onclick="s_objectID='men-footwear-slip-ons';">
+Slip-Ons
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-wide-width-boot-shoes/" data-cat="men-featured-wide-widths" onclick="s_objectID='men-featured-wide-widths';">
+Wide Widths
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-discount-boots-shoes/" data-cat="men-footwear-sale" onclick="s_objectID='men-footwear-sale';">
+Sale
 </a>
 </li>
 </ul>
 </div>
 </li>
 </ul>
-<ul class="level-2" data-inmenucolumnnumber="3" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="4" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-clothing/" class="level-2 " data-cat="men-clothing" onclick="s_objectID='men-clothing';">
-Clothing &amp; Accessories
+<a href="https://www.merrell.com/US/en/men-clothing/" class="level-2 " data-cat="men-clothing" onclick="s_objectID='men-clothing';">
+Clothing
 </a>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-clothing/" data-cat="men-clothing-view-all" onclick="s_objectID='men-clothing-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
 <a href="https://www.merrell.com/US/en/mens-jackets/" data-cat="men-clothing-outerwear" onclick="s_objectID='men-clothing-outerwear';">
-Jackets
+Jackets &amp; Vests
 </a>
 </li>
 <li role="menuitem">
@@ -985,22 +1033,12 @@ Midlayers
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/mens-pants-shorts/" data-cat="men-clothing-bottoms" onclick="s_objectID='men-clothing-bottoms';">
-Pants &amp; Shorts
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-clothing-accessories/" data-cat="men-clothing-accessories" onclick="s_objectID='men-clothing-accessories';">
-Accessories
+Bottoms
 </a>
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/men-clothing-sale/" data-cat="men-clothing-sale" onclick="s_objectID='men-clothing-sale';">
 Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-clothing/" data-cat="men-clothing-view-all" onclick="s_objectID='men-clothing-view-all';">
-View All
 </a>
 </li>
 </ul>
@@ -1009,19 +1047,80 @@ View All
 </ul>
 <ul class="level-2" data-inmenucolumnnumber="5" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-hiking-accessories/" class="level-2 " data-cat="men-bags--accessories" onclick="s_objectID='men-bags--accessories';">
+Accessories
+</a>
+<div class="level-3">
+<ul class="level-3" role="menu">
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-hiking-accessories/" data-cat="men-bags--accessories-view-all" onclick="s_objectID='men-bags--accessories-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-hiking-athletic-socks/" data-cat="men-bags--accessories-socks" onclick="s_objectID='men-bags--accessories-socks';">
+Socks
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-boot-shoe-laces/" data-cat="men-bags--accessories-laces" onclick="s_objectID='men-bags--accessories-laces';">
+Shoelaces
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-hats/" data-cat="men-bags--accessories-hats" onclick="s_objectID='men-bags--accessories-hats';">
+Hats &amp; Neckwear
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-backpacks-bags/" data-cat="men-bags--accessories-bags" onclick="s_objectID='men-bags--accessories-bags';">
+Bags
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-hiking-boot-insoles/" data-cat="men-bags--accessories-insoles" onclick="s_objectID='men-bags--accessories-insoles';">
+Insoles
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/men-bags--accessories-shoe-care/" data-cat="men-bags--accessories-shoe-care" onclick="s_objectID='men-bags--accessories-shoe-care';">
+Shoe Care
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="level-2" data-inmenucolumnnumber="6" role="menu">
+<li role="menuitem">
 <div class="catname-only" data-cat="men-activity">
 Activity
 </div>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/hike/" data-cat="mens-hiking" onclick="s_objectID='mens-hiking';">
+Hiking
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/men-water-shoes/" data-cat="men-water-shoes" onclick="s_objectID='men-water-shoes';">
+Hydro-Hike
+</a>
+</li>
+<li role="menuitem">
 <a href="https://www.merrell.com/US/en/mens-casual/" data-cat="men-casual" onclick="s_objectID='men-casual';">
 Casual
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-hiking-boots-shoes/" data-cat="mens-hiking" onclick="s_objectID='mens-hiking';">
-Hiking
+<a href="https://www.merrell.com/US/en/men-footwear-fitness/" data-cat="men-footwear-fitness" onclick="s_objectID='men-footwear-fitness';">
+Training
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/mens-trail-running/" data-cat="mens-trail-running" onclick="s_objectID='mens-trail-running';">
+Trail Running
 </a>
 </li>
 <li role="menuitem">
@@ -1030,7 +1129,7 @@ Work
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/merrell-tactical/?icid=men-featured-tactical" data-cat="mens-tactical-boots" onclick="s_objectID='mens-tactical-boots';">
+<a href="https://www.merrell.com/US/en/tactical-boots-shoes/?icid=men-featured-tactical" data-cat="mens-tactical-boots" onclick="s_objectID='mens-tactical-boots';">
 Tactical
 </a>
 </li>
@@ -1039,57 +1138,66 @@ Tactical
 </li>
 </ul>
 <div class="custom defaultcontent">
-<style>
-div.level-2 .menu-wrapper {
-  min-width: 932px;
-}
-.mlcnt-nav-graphic.women {
-position: relative;
-}
-.mlcnt-nav-graphic-text {
-  top: 140px;
-}
-.mlcnt-nav-graphic-text h3 {
-    font-family: "GT-Pressura-Mono-Regular";
-    margin: 0;
-    font-size: 25px;
-    line-height: 30px;
-    color: #fff;
-    text-transform: uppercase;
-    -webkit-font-smoothing: antialiased;
-}
-
-.mlcnt-nav-graphic.women .cta {
-    display: inline-block;
-    position: absolute;
-    font-family: "Tungsten-Medium", sans-serif;
-    background: #dc4405;
-    color: white;
-    bottom: 17px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100px;
-    padding: 13px;
-    font-size: 21px;
-    -webkit-font-smoothing: antialiased;
-}
-.mlcnt-nav-graphic.women .cta:hover {
-background: #101820;
-}
-.mlcnt-nav-graphic-text {
-    top: 7%;
-    left: 0;
-}
-</style>
-<div class="mlcnt-nav-graphic women" style="float:right; margin-left: 50px;">
-<div class="mlcnt-nav-graphic-text">
-<h3>From Trail<br>To Water</h3>
+<div class="html-slot-container content-slot" data-content-slot="category-menu-content-right">
+<div class="mlcnt-nav-graphic women" id="nav-graphic-men" style="display: none;">
 </div>
-<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dwc3142590/content/seasonal-content/navigation/2018/08/merrell_desktop_navigation_mens_20180810.jpg" width="200" height="300" alt="" class="mlcnt-nav-graphic-bg" style="float:right;">
-<a href="https://www.merrell.com/US/en/mens-water-hiking-shoes/?icid=navigation-dropdown-marketing-men080818" class="cta" style="margin-top: 0; padding-bottom: 10px;">Shop Hydro Hike</a>
+<style>
+  div.level-2 .menu-wrapper {
+    min-width: 932px; /* TODO: this should be in a stylesheet */
+  }
+  #nav-graphic-men {
+    position: relative; /* TODO: this should be in a stylesheet */
+    width: 225px;
+    float: right;
+    margin-left: 50px;
+    padding: 20px;
+  }
+</style>
 </div>
 </div>
 <div class="custom defaultcontent full-width">
+
+
+
+
+
+
+<div class="mrrl-full-width-menu" id="mens-nav-graphic">
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/trail-glove-5/36207M.html?dwvar_36207M_color=J81221&amp;icid=nav-mdropdown-Trail-Glove-5">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw5008fcd1/content/seasonal-content/navigation/2019/05/menu-content-full-width-men-20190501-trail-glove-5.jpg" alt="">
+<p>
+Trail Glove 5
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/mqm-ace/36121M.html?icid=nav-mdropdown-MQM-Ace&amp;dwvar_36121M_color=J48759">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw94b3b902/content/seasonal-content/navigation/2019/05/menu-content-full-width-men-20190501-mqm-ace.jpg" alt="">
+<p>
+MQM Ace
+</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/jungle-moc-2.0/35726M.html?icid=nav-mdropdown-junglemoc021419&amp;dwvar_35726M_color=J94525">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw729730ef/content/seasonal-content/navigation/2019/02/Jungle_Moc_M.jpg" alt="Jungle Moc 2.0">
+<p>Jungle Moc 2.0</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/ontario-mid/35913M.html?icid=nav-mdropdown-ontario021419&amp;dwvar_35913M_color=J53221">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw02360b4d/content/seasonal-content/navigation/2019/02/Ontario_M.jpg" alt="Ontario">
+<p>Ontario</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/range-ac/36257M.html?icid=nav-mdropdown-range021419&amp;dwvar_36257M_color=J94487">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw9868b9cc/content/seasonal-content/navigation/2019/02/Range_M.jpg" alt="Range">
+<p>Range</p>
+</a>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -1100,10 +1208,11 @@ background: #101820;
 Kids
 </a>
 </span>
-<div class="level-2 ">
+
+<div class="level-2 menu-horizontal">
 <div class="menu-wrapper">
 
-<ul class="level-2" data-inmenucolumnnumber="1" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
 <li role="menuitem">
 <div class="catname-only" data-cat="kid-featured">
 Featured
@@ -1111,28 +1220,18 @@ Featured
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-footwear/" data-cat="kid-footwear-view-all" onclick="s_objectID='kid-footwear-view-all';">
+View All
+</a>
+</li>
+<li role="menuitem">
 <a href="https://www.merrell.com/US/en/kid-featured-best-sellers/" data-cat="kid-featured-best-sellers" onclick="s_objectID='kid-featured-best-sellers';">
 Best Sellers
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-featured-bare-steps-collection/" data-cat="kids-featured-bare-steps-collection" onclick="s_objectID='kids-featured-bare-steps-collection';">
-Toddler Shoes
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/kid-featured-sandals/" data-cat="kid-featured-sandals" onclick="s_objectID='kid-featured-sandals';">
-Sandals
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-water-shoes/" data-cat="kids-hydro" onclick="s_objectID='kids-hydro';">
-Water Shoes
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/kid-footwear-hiking/" data-cat="kid-footwear-hiking" onclick="s_objectID='kid-footwear-hiking';">
-Hiking
+<a href="https://www.merrell.com/US/en/kids-featured-mini-me/" data-cat="kids-featured-mini-me" onclick="s_objectID='kids-featured-mini-me';">
+Mini Me
 </a>
 </li>
 <li role="menuitem">
@@ -1141,54 +1240,56 @@ Wide Widths
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-featured-jungle-moc/" data-cat="kids-featured-jungle-moc" onclick="s_objectID='kids-featured-jungle-moc';">
-Jungle Moc
-</a>
-</li>
-<li role="menuitem">
 <a href="https://www.merrell.com/US/en/kids-footwear-waterproof/" data-cat="kids-footwear-waterproof" onclick="s_objectID='kids-footwear-waterproof';">
 Waterproof
 </a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-size-guide/" data-cat="kids-size-guide" onclick="s_objectID='kids-size-guide';">
+Sizing Help
+</a>
+<div class="sub-sub-naw">
+</div>
 </li>
 </ul>
 </div>
 </li>
 </ul>
-<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kid-footwear/" class="level-2 " data-cat="kid-footwear" onclick="s_objectID='kid-footwear';">
-Footwear
+<a href="https://www.merrell.com/US/en/kids-footwear-girls/" class="level-2 " data-cat="kids-footwear-girls" onclick="s_objectID='kids-footwear-girls';">
+Girls
 </a>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-footwear-boys/" data-cat="kids-footwear-boys" onclick="s_objectID='kids-footwear-boys';">
-Boys
+<a href="https://www.merrell.com/US/en/girls-big-kid/" data-cat="girls-big-kid" onclick="s_objectID='girls-big-kid';">
+Big Kids (10.5-7)
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-footwear-girls/" data-cat="kids-footwear-girls" onclick="s_objectID='kids-footwear-girls';">
-Girls
+<a href="https://www.merrell.com/US/en/girls-little-kid/" data-cat="girls-little-kid" onclick="s_objectID='girls-little-kid';">
+Little Kids (4-10)
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-footwear-little-kid/" data-cat="kids-footwear-little-kid" onclick="s_objectID='kids-footwear-little-kid';">
-Little Kid (4 – 10)
+<a href="https://www.merrell.com/US/en/kid-footwear-sandals-girls/" data-cat="kid-footwear-sandals-girls" onclick="s_objectID='kid-footwear-sandals-girls';">
+Sandals
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-footwear-big-kid/" data-cat="kids-footwear-big-kid" onclick="s_objectID='kids-footwear-big-kid';">
-Big Kid (10.5 &amp; Up)
+<a href="https://www.merrell.com/US/en/kid-footwear-slip-ons-girls/" data-cat="kid-footwear-slip-ons-girls" onclick="s_objectID='kid-footwear-slip-ons-girls';">
+Slip-Ons
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-footwear/" data-cat="kid-footwear-view-all" onclick="s_objectID='kid-footwear-view-all';">
+<a href="https://www.merrell.com/US/en/kid-footwear-sneakers-girls/" data-cat="kid-footwear-sneakers-girls" onclick="s_objectID='kid-footwear-sneakers-girls';">
+Sneakers
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-footwear-girls/" data-cat="girls-view-all" onclick="s_objectID='girls-view-all';">
 View All
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/kid-footwear-sale/" data-cat="kid-footwear-sale" onclick="s_objectID='kid-footwear-sale';">
-Sale
 </a>
 </li>
 </ul>
@@ -1197,14 +1298,70 @@ Sale
 </ul>
 <ul class="level-2" data-inmenucolumnnumber="4" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-size-guide/" class="level-2 " data-cat="kids-size-guide" onclick="s_objectID='kids-size-guide';">
-Get Sizing Help
+<a href="https://www.merrell.com/US/en/kids-footwear-boys/" class="level-2 " data-cat="kids-footwear-boys" onclick="s_objectID='kids-footwear-boys';">
+Boys
 </a>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/kids-sizing-learn-more/" data-cat="kids-sizing-learn-more" onclick="s_objectID='kids-sizing-learn-more';">
-Learn more
+<a href="https://www.merrell.com/US/en/boys-big-kid/" data-cat="boys-big-kid" onclick="s_objectID='boys-big-kid';">
+Big Kids (10.5-7)
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/boys-little-kid/" data-cat="boys-little-kid" onclick="s_objectID='boys-little-kid';">
+Little Kids (4-10)
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kid-footwear-sandals-boys/" data-cat="kid-footwear-sandals-boys" onclick="s_objectID='kid-footwear-sandals-boys';">
+Sandals
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kid-footwear-slip-ons-boys/" data-cat="kid-footwear-slip-ons-boys" onclick="s_objectID='kid-footwear-slip-ons-boys';">
+Slip-Ons
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kid-footwear-sneakers-boys/" data-cat="kid-footwear-sneakers-boys" onclick="s_objectID='kid-footwear-sneakers-boys';">
+Sneakers
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-footwear-boys/" data-cat="boys-view-all" onclick="s_objectID='boys-view-all';">
+View All
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="level-2" data-inmenucolumnnumber="5" role="menu">
+<li role="menuitem">
+<div class="catname-only" data-cat="kid-activity">
+Activity
+</div>
+<div class="level-3">
+<ul class="level-3" role="menu">
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kid-footwear-hiking/" data-cat="kid-footwear-hiking" onclick="s_objectID='kid-footwear-hiking';">
+Hiking
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-featured-water-shoes/" data-cat="kids-featured-water-shoes" onclick="s_objectID='kids-featured-water-shoes';">
+Hydro-Hike
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kid-footwear-casual/" data-cat="kid-footwear-casual" onclick="s_objectID='kid-footwear-casual';">
+Casual
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/kids-featured-sneakers/" data-cat="kids-featured-sneakers" onclick="s_objectID='kids-featured-sneakers';">
+Running
 </a>
 </li>
 </ul>
@@ -1214,6 +1371,44 @@ Learn more
 <div class="custom defaultcontent">
 </div>
 <div class="custom defaultcontent full-width">
+
+
+
+
+
+
+<div class="mrrl-full-width-menu" id="kids-nav-graphic-20190214">
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/bare-steps-sneaker/34559B.html?icid=nav-kdropdown-sneaker021419&amp;dwvar_34559B_color=ML159730">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dwb95e327d/content/seasonal-content/navigation/2019/02/Kids_Bare_Steps.jpg" alt="Bare Steps™ Sneaker">
+<p>Bare Steps™ Sneaker</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/range/38694K.html?dwvar_38694K_color=MK261255&amp;icid=nav-kdropdown-range021419">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw92359d01/content/seasonal-content/navigation/2019/02/Kids_Range.jpg" alt="Big Kid's Range">
+<p>Big Kid's Range</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/hydro-choprock-sandal/38790K.html?dwvar_38790K_color=MK261227K&amp;icid=nav-dropdown-choprock021419">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dwc6d2989d/content/seasonal-content/navigation/2019/02/Kids_Hydro_Choprock.jpg" alt="Hydro Choprock Sandal">
+<p>Hydro Choprock Sandal</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/moab-fst-low-waterproof/38774K.html?dwvar_38774K_color=MK260888&amp;icid=nav-kdropdown-moab021419">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw2f1e8909/content/seasonal-content/navigation/2019/02/Kids_Moab_FST.jpg" alt="Moab FST">
+<p>Moab FST</p>
+</a>
+</div>
+<div class="mrrl-full-width-menu-item">
+<a href="https://www.merrell.com/US/en/hydro-drift-sandal/28319K.html?icid=nav-kdropdown-drift041019&amp;dwvar_28319K_color=MY56494">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw75a016e8/content/seasonal-content/navigation/2019/04/Kids_Hydro_Drift.jpg" alt="Moab FST">
+<p>Hydro Drift Sandal</p>
+</a>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -1224,6 +1419,7 @@ Learn more
 Work
 </a>
 </span>
+
 <div class="level-2 ">
 <div class="menu-wrapper">
 
@@ -1240,13 +1436,13 @@ Work
 </div>
 <div class="work-nav-item">
 <img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw2b6a7fbd/content/seasonal-content/navigation/2018/02/MRL-20180209-desktop-nav-tactical.jpg" class="nav-img">
-<a href="https://www.merrell.com/US/en/merrell-tactical/?icid=navigation-dropdown-Tactical020918" class="bkgd-link"></a>
-<a href="https://www.merrell.com/US/en/merrell-tactical/?icid=navigation-dropdown-Tactical020918" class="nav-link">Shop Tactical</a>
+<a href="https://www.merrell.com/US/en/tactical-boots-shoes/?icid=navigation-dropdown-Tactical020918" class="bkgd-link"></a>
+<a href="https://www.merrell.com/US/en/tactical-boots-shoes/?icid=navigation-dropdown-Tactical020918" class="nav-link">Shop Tactical</a>
 </div>
 <div class="work-nav-item last-item">
-<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw361a3bcb/content/seasonal-content/navigation/2018/02/MRL-20180209-desktop-nav-pro.jpg" class="nav-img">
-<a href="https://www.merrell.com/US/en/merrell-pro/?icid=navigation-dropdown-Pro020918" class="bkgd-link"></a>
-<a href="https://www.merrell.com/US/en/merrell-pro/?icid=navigation-dropdown-Pro020918" class="nav-link">Shop Pro</a>
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw72b38263/content/seasonal-content/navigation/2018/10/nav-graphic-work-menu-content-right-20181004-PRO.jpg" class="nav-img">
+<a href="https://www.merrell.com/US/en/merrell-pro/?icid=navigation-dropdown-Pro100418" class="bkgd-link"></a>
+<a href="https://www.merrell.com/US/en/merrell-pro/?icid=navigation-dropdown-Pro100418" class="nav-link">Shop Pro</a>
 </div>
 </div>
 <style>
@@ -1315,79 +1511,24 @@ border-left: 1px solid #222;
 </li>
 <li class="persistent flyout-visible" role="menuitem">
 <span class="level-1 ">
-<a href="https://www.merrell.com/US/en/clothing-view-all/" class="level-1  ">
-Clothing
+<a href="https://www.merrell.com/US/en/outlet/?icid=navigation-header-sale" class="level-1 navigation-text-override ">
+Sale
 </a>
 </span>
-<div class="level-2 menu-horizontal">
+
+<div class="level-2 ">
 <div class="menu-wrapper">
 
-<ul class="level-2" data-inmenucolumnnumber="1" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
 <li role="menuitem">
-<div class="catname-only" data-cat="Clothing-Featured">
+<div class="catname-only" data-cat="sale-featured">
 Featured
 </div>
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/featured-sale-clothing/" data-cat="featured-sale-clothing" onclick="s_objectID='featured-sale-clothing';">
-Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/featured-new-arrivals-clothing/" data-cat="featured-new-arrivals-clothing" onclick="s_objectID='featured-new-arrivals-clothing';">
-New Arrivals
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/featured-best-sellers-clothing/" data-cat="featured-best-sellers-clothing" onclick="s_objectID='featured-best-sellers-clothing';">
-Best Sellers
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/featured-waterproof-clothing/" data-cat="featured-waterproof-clothing" onclick="s_objectID='featured-waterproof-clothing';">
-Waterproof
-</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-view-all/" class="level-2 " data-cat="clothing-women" onclick="s_objectID='clothing-women';">
-Women
-</a>
-<div class="level-3">
-<ul class="level-3" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-jackets/" data-cat="women-jackets" onclick="s_objectID='women-jackets';">
-Jackets
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-base-layers-shirts/" data-cat="women-shirts-tees" onclick="s_objectID='women-shirts-tees';">
-Shirts &amp; Tees
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-midlayers/" data-cat="women-midlayers" onclick="s_objectID='women-midlayers';">
-Midlayers
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-pants-shorts/" data-cat="women-pants-shorts" onclick="s_objectID='women-pants-shorts';">
-Dresses, Pants &amp; Shorts
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/womens-discount-clothing/" data-cat="clothing-women-sale" onclick="s_objectID='clothing-women-sale';">
-Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/women-view-all/" data-cat="women-view-all" onclick="s_objectID='women-view-all';">
-View All
+<a href="https://www.merrell.com/US/en/last-chance/" data-cat="last-chance" onclick="s_objectID='last-chance';">
+New Markdowns
 </a>
 </li>
 </ul>
@@ -1395,158 +1536,6 @@ View All
 </li>
 </ul>
 <ul class="level-2" data-inmenucolumnnumber="3" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-view-all/" class="level-2 " data-cat="Clothing-Men" onclick="s_objectID='Clothing-Men';">
-Men
-</a>
-<div class="level-3">
-<ul class="level-3" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-jackets/" data-cat="men-jackets" onclick="s_objectID='men-jackets';">
-Jackets
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-base-layers-shirts/" data-cat="men-shirts-tees" onclick="s_objectID='men-shirts-tees';">
-Shirts &amp; Tees
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-midlayers/" data-cat="men-midlayers" onclick="s_objectID='men-midlayers';">
-Midlayers
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-pants-shorts/" data-cat="men-pants-shorts" onclick="s_objectID='men-pants-shorts';">
-Pants &amp; Shorts
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/mens-discount-clothing/" data-cat="men-sale-clothing" onclick="s_objectID='men-sale-clothing';">
-Sale
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/men-view-all/" data-cat="men-view-all" onclick="s_objectID='men-view-all';">
-View All
-</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<ul class="level-2" data-inmenucolumnnumber="4" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-view-all/" class="level-2 " data-cat="clothing-accessories" onclick="s_objectID='clothing-accessories';">
-Accessories
-</a>
-<div class="level-3">
-<ul class="level-3" role="menu">
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-bags/" data-cat="accessories-bags" onclick="s_objectID='accessories-bags';">
-Bags
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-hats-gloves-scarves/" data-cat="accessories-hats-gloves-scarves" onclick="s_objectID='accessories-hats-gloves-scarves';">
-Hats, Gloves &amp; Scarves
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-socks/" data-cat="accessories-socks" onclick="s_objectID='accessories-socks';">
-Socks
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-shoe-care/" data-cat="accessories-shoe-care" onclick="s_objectID='accessories-shoe-care';">
-Shoe Care
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-insoles/" data-cat="accessories-insoles" onclick="s_objectID='accessories-insoles';">
-Insoles
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-laces/" data-cat="accessories-laces" onclick="s_objectID='accessories-laces';">
-Laces
-</a>
-</li>
-<li role="menuitem">
-<a href="https://www.merrell.com/US/en/accessories-view-all/" data-cat="accessories-view-all" onclick="s_objectID='accessories-view-all';">
-View All
-</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class="custom defaultcontent">
-<style>
-div.level-2 .menu-wrapper {
-  min-width: 932px;
-}
-.mlcnt-nav-graphic.clothing {
-position: relative;
-}
-.mlcnt-nav-graphic-text {
-  top: 140px;
-}
-.mlcnt-nav-graphic-text h3 {
-    font-family: "GT-Pressura-Mono-Regular";
-    margin: 0;
-    font-size: 25px;
-    line-height: 30px;
-    color: #fff;
-    text-transform: uppercase;
-    -webkit-font-smoothing: antialiased;
-}
-
-.mlcnt-nav-graphic.clothing .cta {
-    display: inline-block;
-    position: absolute;
-    font-family: "Tungsten-Medium", sans-serif;
-    background: #dc4405;
-    color: white;
-    bottom: 17px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100px;
-    padding: 13px;
-    font-size: 21px;
-    -webkit-font-smoothing: antialiased;
-}
-.mlcnt-nav-graphic.clothing .cta:hover {
-background: #101820;
-}
-.mlcnt-nav-graphic-text {
-    top: 7%;
-    left: 0;
-}
-</style>
-<div class="mlcnt-nav-graphic clothing" style="float:right; margin-left: 50px;">
-<div class="mlcnt-nav-graphic-text">
-<h3 style="color:#000;">Adventure<br>Awaits</h3>
-</div>
-<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw8a2f7bb6/content/seasonal-content/navigation/2018/08/merrell_desktop_navigation_clothing_20180810.jpg" width="200" height="300" alt="" class="mlcnt-nav-graphic-bg" style="float:right;">
-<a href="https://www.merrell.com/US/en/jackets/?icid=navigation-dropdown-marketing-clothing080818" class="cta" style="margin-top: 0; padding-bottom: 10px;">Shop Jackets</a>
-</div>
-</div>
-<div class="custom defaultcontent full-width">
-</div>
-</div>
-</div>
-</li>
-<li class="persistent flyout-visible" role="menuitem">
-<span class="level-1 ">
-<a href="https://www.merrell.com/US/en/outlet/?icid=navigation-header-sale" class="level-1 navigation-text-override ">
-Sale
-</a>
-</span>
-<div class="level-2 ">
-<div class="menu-wrapper">
-
-<ul class="level-2" data-inmenucolumnnumber="2" role="menu">
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/outlet-women/?icid=navigation-header-women-sale" class="level-2 " data-cat="sale-women-footwear-clothing" onclick="s_objectID='sale-women-footwear-clothing';">
 Women's Sale
@@ -1567,7 +1556,7 @@ Clothing
 </div>
 </li>
 </ul>
-<ul class="level-2" data-inmenucolumnnumber="3" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="4" role="menu">
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/outlet-men/?icid=navigation-header-men-sale" class="level-2 " data-cat="sale-men-footwear-clothing" onclick="s_objectID='sale-men-footwear-clothing';">
 Men's Sale
@@ -1588,7 +1577,7 @@ Clothing
 </div>
 </li>
 </ul>
-<ul class="level-2" data-inmenucolumnnumber="4" role="menu">
+<ul class="level-2" data-inmenucolumnnumber="5" role="menu">
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/kids-sale/" class="level-2 " data-cat="kids-sale" onclick="s_objectID='kids-sale';">
 Kid's Sale
@@ -1614,9 +1603,10 @@ View All
 <li class="persistent last flyout-visible" role="menuitem">
 <span class="level-1 ">
 <a href="#" class="level-1 disabled  ">
-Explore
+Inside Merrell
 </a>
 </span>
+
 <div class="level-2 menu-horizontal">
 <div class="menu-wrapper">
 
@@ -1628,11 +1618,19 @@ OUR BRAND
 <div class="level-3">
 <ul class="level-3" role="menu">
 <li role="menuitem">
-<a href="http://www.merrell.com/US/en/blog" data-cat="the-pack-home" onclick="s_objectID='the-pack-home';">
-Adventure Blog
+<a href="https://www.merrell.com/US/en/ss19-catalog/" data-cat="ss19-catalog" onclick="s_objectID='ss19-catalog';">
+Spring Catalog
 </a>
-<div class="sub-sub-naw">
-</div>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/peru/" data-cat="peru" onclick="s_objectID='peru';">
+Featuring Peru
+</a>
+</li>
+<li role="menuitem">
+<a href="https://www.merrell.com/US/en/peru-newspaper/" data-cat="peru-newspaper" onclick="s_objectID='peru-newspaper';">
+Peru Journal
+</a>
 </li>
 <li role="menuitem">
 <a href="https://www.merrell.com/US/en/about-us/" data-cat="Our Story" onclick="s_objectID='Our Story';">
@@ -1640,8 +1638,8 @@ Our Story
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/merrell-magic/" data-cat="merrell_magic" onclick="s_objectID='merrell_magic';">
-Merrell Magic
+<a href="https://www.merrell.com/US/en/sustainability-2/" data-cat="Sustainability" onclick="s_objectID='Sustainability';">
+Sustainability
 </a>
 </li>
 </ul>
@@ -1661,13 +1659,15 @@ Ambassadors
 </a>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/causes-we-support/" data-cat="causes-we-support" onclick="s_objectID='causes-we-support';">
-Causes We Support
+<a href="http://www.merrell.com/US/en/blog" data-cat="the-pack-home" onclick="s_objectID='the-pack-home';">
+Adventure Blog
 </a>
+<div class="sub-sub-naw">
+</div>
 </li>
 <li role="menuitem">
-<a href="https://www.merrell.com/US/en/tough-mudder/" data-cat="tough-mudder-about" onclick="s_objectID='tough-mudder-about';">
-Tough Mudder
+<a href="https://www.merrell.com/US/en/causes-we-support/" data-cat="causes-we-support" onclick="s_objectID='causes-we-support';">
+Causes We Support
 </a>
 </li>
 </ul>
@@ -1675,57 +1675,73 @@ Tough Mudder
 </li>
 </ul>
 <div class="custom defaultcontent">
-<div class="mlcnt-nav-graphic explore">
-<a style="padding:0!important;width:205px;height:296px;" href="https://www.merrell.com/US/en/trail-form?icid=navigation-header-trailform"><img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw8d1b332a/content/seasonal-content/navigation/2018/08/20180810_MRL_Trail_Grant_In_Nav_Banner.png" width="205" height="296" alt="Planning a Thru-Hike? Every trail has a story. | Share Yours">
-</a><a href="https://www.merrell.com/US/en/trail-form?icid=navigation-header-trailform" class="cta">Share Yours</a>
 
+
+
+<div class="mlcnt-nav-graphic inside" id="nav-graphic-inside">
+<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dwe9c1209e/content/seasonal-content/navigation/2019/02/campfire.jpg" class="mlcnt-nav-graphic-bg" alt="A man at a campfire at dusk.">
+<a href="https://www.merrell.com/US/en/ambassadors/?icid=navigation-dropdown-marketing-insidemerrell021419" class="mlcnt-full-link">
+<span class="heading">
+Many Paths<br>
+One Trail
+</span>
+<span class="cta fake-cta">
+Meet Our Ambassadors
+</span>
+</a>
 </div>
 <style>
-.mlcnt-nav-graphic.explore {
-position: relative;
-}
-.mlcnt-nav-graphic.explore .cta {
+  div.level-2 .menu-wrapper {
+    min-width: 932px; /* TODO: this should be in a stylesheet */
+  }
+  #nav-graphic-inside {
+    position: relative; /* TODO: this should be in a stylesheet */
+    float: right;
+    margin-left: 50px;
+  }
+
+  #nav-graphic-inside .mlcnt-full-link {
+    float: right;
+    padding: 0;
+    text-align: center;
+  }
+
+  #nav-graphic-inside .heading {
+    text-align: left;
+    position: absolute;
+    top: 16px;
+    left: 25px;
+    z-index: 5;
+    width: 100%;
+    font-family: "Tungsten-Medium", sans-serif;
+    color: #fff;
+    font-size: 55px;
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    white-space: nowrap;
+    letter-spacing: 0.05em;
+    line-height: 1;
+  }
+
+  #nav-graphic-inside .cta {
     display: inline-block;
     position: absolute;
-    font-family: "Tungsten-Medium", sans-serif;
-    background: #dc4405;
+    font-family: "GT-Pressura-Mono-Regular", sans-serif;
     color: white;
-    bottom: 17px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100px;
-    padding: 13px;
-    font-size: 23px;
+    text-decoration: underline;
+    text-transform: none;
+    bottom: 20px;
+    right: 25px;
+    font-size: 15px;
     -webkit-font-smoothing: antialiased;
-}
-.mlcnt-nav-graphic.explore .cta:hover {
-background: #101820;
-}
-div.level-2 .menu-wrapper {
-  max-width: 932px;
-}
-div.level-2.menu-horizontal .custom{
-  padding:0!important;
-}
-.mlcnt-nav-graphic-text {
-  top: 7%;
-  left: 4%;
-}
-.explore h2 {
-  font-weight: normal;
-  letter-spacing: .01em;
-  margin: 0;
-  color: #666;
-}
-.explore p {
-  color: #dc4405;
-  text-transform: uppercase;
-  font-family: "Knockout 50 A","Knockout 50 B",Arial,"Helvetica Neue",Helvetica,sans-serif;
-  line-height: 1.25em;
-  font-size: 12px;
-  width: 80%;
-  margin: 0 auto;
-}
+    transition: all 0.3s;
+    font-weight: normal;
+    z-index: 5;
+    white-space: nowrap;
+  }
+  #nav-graphic-inside .cta:hover {
+    color: #dc4405;
+  }
 </style>
 </div>
 <div class="custom defaultcontent full-width">
@@ -1734,13 +1750,15 @@ div.level-2.menu-horizontal .custom{
 </div>
 </li>
 </ul>
-<div id="mini-cart">
+<div class="right">
+
+<div id="mini-cart" aria-expanded="false">
 
 <div class="mini-cart-total">
 <span class="mini-cart-label">Cart</span><span class="mini-cart-empty">0</span>
 </div>
 </div>
-
+</div>
 </nav>
 </div>
 </div>
@@ -1774,73 +1792,81 @@ div.level-2.menu-horizontal .custom{
 
 
 
-<div class="content-asset">
 
-<h1>Privacy Policy</h1>
-
-<h2>EFFECTIVE DATE: APRIL 27, 2016</h2>
-
-<p>Merrell, a division of Wolverine World Wide, Inc. (referred to collectively with its affiliates as “Wolverine,” “we,” “us,” or “our”), collects information about you when you take advantage of our online services or visit or interact with any of our websites, including www.merrell.com (the “Site”). This privacy policy (the “Policy”) describes: (1) the types of information we may collect about you and your use of the Site; (2) how we may use and share that information; and (3) the choices you may make with respect to your personal information. This Policy does not apply to information you may provide or make available to us in other ways, such as when you shop in our stores or contact us by email or telephone.</p>
-<h2>PERSONAL INFORMATION WE COLLECT DIRECTLY FROM YOU</h2>
-<p>You provide us with your personal information when you communicate with us through the Site, including when you:</p>
+<div class="content-asset" data-content-asset="privacy-policy">
+<div class="legal component account">
+<h2>PRIVACY POLICY</h2>
+<br>
+<p><strong>Last Updated: &nbsp;October 12, 2018</strong> <br>
+Merrell, a division of Wolverine World Wide, Inc., referred to collectively with its affiliated entities and portfolio of brands, as “Wolverine,” “we,” “us,” or “our”, collects information about you when you take advantage of our online services or visit or interact with any of our websites, including www.merrell.com (the “Site”). This privacy policy (the “Policy”) describes: (1) the types of information we may collect about you, and your use of the Site; (2) how we may use and share that information; and (3) the choices you may make with respect to your personal information. </p>
+<p><strong><u>Personal Information We Collect Directly from You</u></strong> <br>
+You provide us with your personal information when you communicate with us through the Site, including when you:</p>
 <ul>
 <li>Purchase products on the Site;</li>
-<li>Subscribe to email newsletters or updates;</li>
+<li>Create or update an account on the Site;</li>
+<li>Subscribe to e-mail newsletters or updates;</li>
 <li>Submit product reviews;</li>
 <li>Complete, submit, or otherwise participate in surveys or questionnaires; or</li>
-<li>Participate in contests, sweepstakes, or other promotions.</li>
+<li>Participate in contests, sweepstakes, and other promotions.</li>
 </ul>
-<p>We collect non-public personal information you choose to provide, which may include your name, email address, gender, date of birth, billing and shipping addresses, telephone number, or credit card information. We also may maintain your responses to surveys and questionnaires that you may complete from time to time. Please do not submit information that you do not want us to have.</p>
-<h2>HOW WE MAY USE YOUR PERSONAL INFORMATION</h2>
-<p>We generally use your personal information to serve you, to improve our products and services, and to improve your consumer experience.</p>
-<p>For example, we use personal information to provide products and services to you, communicate with you about those products and services, and enhance your experience on the Site. Specifically, your personal information may be used to process transactions, respond to questions, maintain online accounts, send you information about products or services that may be of interest to you, analyze and monitor visitor activity on the Site, provide product recommendations and reviews, publish the results of contests, sweepstakes, or other promotions, comply with our legal obligations, and develop a knowledge base regarding users of the Site.</p>
-<p>In addition, we may combine your personal information with information that we receive from other sources, including from third party business partners. For example, we may use third party information to confirm contact information or to better understand your interests by associating demographic information with the information you have provided.</p>
-<p>We may use the personal information you provide us to send you emails to invite you to participate in various programs, like surveys or focus groups. We may also email promotions and coupons to you to thank you for your feedback or participation in programs.</p>
-<h2>HOW WE MAY SHARE PERSONAL INFORMATION</h2>
-<p>Wolverine may share your personal information with others for a number of different reasons. We may share your personal information to fulfill your requests, to provide you with information regarding products and services of ours or those of others, to comply with law, and to enforce our rights. We also may share personal information among our affiliated companies and to our successors or any of our brands or businesses.</p>
+<p>We collect personal information you choose to provide, which may include your name, email address, gender, date of birth, billing and shipping addresses, telephone number, geolocation data, and/or credit card information. We may also collect non-personal information including IP addresses if you access any of our Sites using electronic devices and may retain your responses to surveys and questionnaires that you may complete from time to time. Please do not submit information that you do not want us to have.</p>
+<p><strong><u>How We May Use Your Personal Information</u></strong> <br>
+We generally use your personal information to serve you, to improve our products, services, and other offerings, and to improve your consumer experience.</p>
+<p>For example, we use personal information to provide products and services to you, communicate with you about those products and services, and enhance your experience on the Site. Specifically, your personal information may be used to process transactions, respond to questions, maintain online accounts, send you information about products or services that may be of interest to you, analyze and monitor visitor activity on the Site, provide product recommendations and reviews, publish the results of contests, sweepstakes, or other promotions, comply with our legal obligations, and develop a knowledge base regarding users of the Site, including through data analytics.</p>
+<p>In addition, we may combine your personal information with, or match your personal information to, information that we receive from other sources, including from third party business partners. For example, we may use third party information to confirm contact information or to better understand your interests by associating demographic information with the information you have provided.</p>
+<p>We may use the personal information that you provide us to send you communications inviting you to participate in various programs, like surveys or focus groups. We may also send you promotional communications and other offerings to thank you for your feedback or participation in programs, or to share new product launches or sales events.</p>
+<p><strong><u>How We May Share Your Personal Information</u></strong> <br>
+Wolverine may share your personal information with others for a number of different reasons. We may share your personal information to fulfill your requests, to provide you with information regarding products and services of ours or those of others, to comply with law, and to enforce our rights. We also may share personal information among our affiliated companies, businesses, licensees, distributors, any of our brands, and with our successors and assigns.</p>
 <p>Examples of how we may share your personal information include:</p>
-<p><strong>With Service Providers, Business Partners, and Vendors:</strong> If you purchase goods through our Site, we will have to provide credit card information to our credit card processor for payment purposes. We will also have to provide your name and address to the company that ships our merchandise. Similarly, we may share personal information with designers, manufacturers, distributors, licensees, marketing and advertising partners, and parties that provide services for the Site. We also may retain other companies and individuals to perform services on our behalf, and we may collaborate with other companies and individuals with respect to particular products or services (collectively, “Providers”). Examples of Providers include data analysis firms, credit card processing companies, customer service and support providers, email and SMS vendors, web hosting and development companies, and fulfillment companies. Providers also include our co-promotion partners for products that we jointly develop and/or market with other companies. Some Providers also may collect information on our behalf from our Site. These third parties may be provided with access to personal information needed to perform their functions.</p>
-<p><strong>To Comply with Law or to Protect Our Rights:</strong> We may disclose your personal information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our customers, the public, or Wolverine.</p>
-<p><strong>To Members of the Corporate Family:</strong> Wolverine may disclose your personal information to our subsidiaries and affiliates, and their agents and employees.</p>
-<p><strong>In Connection with Business Transfers:</strong> If we sell or transfer a company business unit (such as a product line or one or more affiliated companies) to a third party, or enter into discussions regarding such a transaction, we may share your personal information with that party.</p>
-<h2>CHILDREN</h2>
-<p>The Site is not designed to collect personal information from children who are under 13 years of age, and we do not intend to or knowingly collect such information.</p>
-<h2>SECURITY</h2>
-<p>No security program is impenetrable, and criminals have proven adept at circumventing widely adopted security safeguards, so we cannot guarantee the security of personal information. Accordingly, you acknowledge that you provide personal information to us at your own risk.</p>
+<p><strong>With Service Providers, Business Partners, and Vendors:</strong>&nbsp;If you purchase goods through our Site, we will have to provide credit card information to our credit card processor for payment purposes. We will also have to provide your name and address to the company that ships our merchandise. Similarly, we may share personal information with designers, manufacturers, distributors, licensees, marketing and advertising partners, and parties that provide services for the Site in accordance with this Policy. We also may retain other companies and individuals to perform services on our behalf, and we may collaborate with other companies and individuals with respect to particular products or services (collectively, “Providers”). Examples of Providers include data analysis firms, credit card processing companies, customer service and support providers, email and SMS vendors, web hosting and development companies, and fulfillment companies. Providers also include our co-promotion partners for products that we jointly develop and/or market with other companies. Some Providers also may collect information on our behalf from our Site. These third parties may be provided with access to personal information needed to perform their functions.</p>
+<p><strong>To Comply with Law or to Protect Our Rights:</strong>&nbsp;We may disclose your personal information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our customers, the public, or Wolverine.</p>
+<p><strong>To Members of the Corporate Family:</strong>&nbsp;Wolverine may disclose your personal information to our brands, subsidiaries and affiliates, and their agents and employees.</p>
+<p><strong>In Connection with Business Transfers:</strong>&nbsp;If we license, sell, or transfer a company business unit (such as a product line or one or more affiliated companies) to a third party, or enter into discussions regarding such a transaction, we may share your personal information with that party in accordance with this Policy.</p>
+<p><strong><u>Children</u></strong> <br>
+The Site is not designed to collect personal information from children who are under 13 years of age, and we do not intend to or knowingly collect such information.&nbsp; If you are a parent who believes that we have collected information about a child under age 13, please contact us at <a href="mailto:consumerprivacy@wwwinc.com">consumerprivacy@wwwinc.com</a> with your child's name and address, and we will delete the information we have about your child from our records and provide confirmation in accordance with the Children's Online Privacy Protection Act.</p>
+<p><strong><u>Security</u></strong> <br>
+No security program is impenetrable, and criminals have proven adept at circumventing widely adopted security safeguards, so we cannot always guarantee the security of personal information. There are inherent risks in shopping online.</p>
 <p>Any user or third party accessing our website or services is responsible for its own use of the website and the services. We are not responsible for any third party’s actions or its security controls with respect to information that third parties may collect or process via the website, services, or otherwise.</p>
-<h2>COOKIES AND OTHER TOOLS THAT MAY COLLECT INFORMATION ABOUT YOU</h2>
-<p>In addition to personal information you may provide directly to us, Wolverine and its business partners may collect and store information about you and your use of the Site through cookies, tracking pixels, and other technologies (collectively, “Tools”). Cookies are small text files that are stored by your browser on your computer’s hard drive. We collect, use, and modify this information to better understand, customize, and improve your experience with the Site and other websites, services, and offerings as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us understand how visitors engage with and navigate our Site, e.g., how and when pages on the Site are visited and by how many visitors. We are also able to offer our visitors a more customized and relevant experience on the Site by delivering, through the use of these Tools, content and functionality based on your preferences and interests. If you have provided us with personal information, e.g., through a registration or a request for certain materials, we may associate that personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.</p>
-<h3>OPT-OUT.</h3>
-<p>Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp.</a></p>
-<h2>DO NOT TRACK DISCLOSURES</h2>
-<p>Do Not Track (“DNT”) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. At this time, we ignore these signals. We do not change our practices, described elsewhere in this Policy, in response to DNT browser settings or signals. In particular, even if you have turned on DNT, we and others will continue to collect information about you and your activity through the use of cookies, tracking pixels, and other Tools. For information about DNT, visit <a href="http://www.allaboutdnt.org">www.allaboutdnt.org</a>.</p>
-<h2>NOTICE TO CALIFORNIA RESIDENTS</h2>
-<p>Under California law, California residents may request a list of all third parties to whom we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and would like to receive such a list, please contact us at the address listed in the “Accessing Personal Information” section below. For any such request, include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. Please provide enough information for us to determine if this applies to you. You must also attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly or that do not have complete information.</p>
-<h2>OTHER WEBSITES</h2>
-<p>The Site may contain links to websites of third parties who: (1) are not affiliated with us; (2) are outside our control; or (3) are not covered by this Policy (“Third-Party Websites”). Links provided to Third-Party Websites on the Site are provided to you only as a convenience, and the inclusion of any link does not imply reliability or endorsement by us of the content of any such Third-Party Websites. We are not responsible for the privacy practices of Third-Party Websites, which may collect and use information from you in a manner different than how we do so; accordingly, the use of such Third-Party Websites is entirely at your own risk. For relevant information, you should review the privacy statements or policies of any Third-Party Websites before using them. Other parties may collect information about your online activities over time and across different websites when you use our Site or services.</p>
-<h2>ACCESSING PERSONAL INFORMATION</h2>
-<p>Please contact us if you have any questions or concerns about your personal information or require assistance in managing your choices.</p>
-<p>To access, change, or delete your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at <a href="mailto:consumerprivacy@wwwinc.com">consumerprivacy@wwwinc.com</a>; (4) call us at (616) 866-5500; or (5) write us at the following address with your message:</p>
-<p style="margin-left: 40px;">Wolverine World Wide, Inc.<br>
+<p><strong><u>Cookies and Other Tools That May Collect Information About You</u></strong> <br>
+In addition to personal information you may provide directly to us, Wolverine and its business partners may collect and store information about you and your use of the Site through cookies, tracking pixels, and other technologies (collectively, the “Tools”). Cookies are small text files that are stored by your browser on your computer’s hard drive. We collect, use, and modify this information to better understand, customize, and improve your experience with the Site and other websites, services, and offerings, as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us understand how visitors engage with and navigate our Site, e.g., how and when pages on the Site are visited and by how many visitors. We are also able to offer our visitors a more customized and relevant experience on the Site by delivering, through the use of these Tools, content and functionality based on your preferences and interests. If you have provided us with personal information, e.g., through a registration or a request for certain materials, we may associate that personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.</p>
+<p>To learn more about the use of cookies generally or other technologies to deliver more relevant advertising, and to better understand how to manage your personal information, including access to and use by certain service providers, please visit <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p><strong><u>Do Not Track Disclosures</u></strong> <br>
+Do Not Track (“DNT”) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they do not track the user. At this time, we ignore these signals. We do not change our practices, described elsewhere in this Policy, in response to DNT browser settings or signals. In particular, even if you have turned on DNT, we and others will continue to collect information about you and your activity through the use of cookies, tracking pixels, and other Tools. For information about DNT, visit <a href="http://www.allaboutdnt.org">www.allaboutdnt.org</a>.</p>
+<p><strong><u>Notice to California Residents</u></strong> <br>
+Under California law, California residents may request a list of all third parties to whom we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and would like to receive such a list, please contact us at the address listed in the “Accessing Personal Information” section below. For any such request, include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. Please provide enough information for us to determine if this applies to you. You must also attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly or that do not have complete information.</p>
+<p><strong><u>Other Websites</u></strong> <br>
+The Site may contain links to websites of third parties that: (1) are not affiliated with us; (2) are outside our control; or (3) are not covered by this Policy, including without limitation sites operated by our distributors and/or licensees in foreign countries which may not guarantee the same level of protection of personal information (“Third-Party Websites”). Links provided to Third-Party Websites on the Site are provided to you only as a convenience, and the inclusion of any link does not imply reliability or endorsement by us of the content of any such Third-Party Websites. We are not responsible for the privacy practices of Third-Party Websites, which may collect and use information from you in a manner different than how we do so; accordingly, once you leave the Wolverine platform, the use of such Third-Party Websites is entirely at your own risk. For relevant information, you should review the privacy statements or policies of any Third-Party Websites before using them. Other parties may collect information about your online activities over time and across different websites when you use our Site or services.</p>
+<p><strong><u>Accessing Personal Information</u></strong> <br>
+Please contact us if you have any questions or concerns about your personal information or require assistance in managing your choices.</p>
+<p>To access, update or modify your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at: <a href="mailto:consumerprivacy@wwwinc.com">consumerprivacy@wwwinc.com</a>; or (4) write us at the following address with your message:</p>
+<blockquote>
+<p>Wolverine World Wide, Inc.<br>
 Attn: Senior Director of Information Technology and Security<br>
 9341 Courtland Dr. NE<br>
 Rockford, MI 49351</p>
+</blockquote>
 <p>Please be sure to include in any email or postal mail your full name, email address, postal address, and any message. Please note that such requests may take up to thirty (30) days to become effective.</p>
-<h2>TRANSFER OF DATA TO OTHER COUNTRIES</h2>
-<p>Any information you provide to Wolverine through the use of the Site may be stored, processed, transferred among, and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the one in which you reside. However, Wolverine will handle your personal information in accordance with this Policy regardless of where your personal information is kept.</p>
-<p>We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view Wolverine’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit <a href="http://www.export.gov/safeharbor">www.export.gov/safeharbor</a>.</p>
-<h2>BE AWARE OF "PHISHING"</h2>
-<p>"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is us asking you for your personal information, do not reply to it. We will not request your password, user name, credit card information, or other personal information through email.</p>
-<h2>UPDATES TO OUR PRIVACY POLICY</h2>
-<p>From time to time, we may post updates to this Policy. Any changes will be effective upon the posting of the revised Policy. We may also make, without notice, minor changes to the Policy that will not significantly affect our use of personal information. We encourage you to periodically review this page for the latest information on our privacy practices. This Policy was updated as of the effective date listed above.</p>
-<h2>ADDITIONAL INFORMATION/QUESTIONS</h2>
-<p>If you have questions or concerns about our privacy policy or practices, please contact us at: </p>
-<p style="margin-left: 40px;">Wolverine World Wide, Inc.<br>
+<p><strong><u>Transfer of Data to Other Countries</u></strong> <br>
+Any information you provide to Wolverine through the use of the Site may be stored, processed, transferred among, and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the country in which you reside. However, Wolverine will handle your personal information in accordance with this Policy regardless of where your personal information is kept.</p>
+<p><strong><u>General Data Privacy Regulation (GDPR)</u></strong><br>
+The General Data Protection Regulation (“GDPR”) went into effect on May 25, 2018, and it is intended to protect personal information (as defined by GDPR) of European Union citizens. We do not actively market this site to the European Union or its citizens in any meaningful way. However, if the personal information that you provide to us while using this site, or while purchasing products or services from us is governed by GDPR, we will comply with all relevant provisions of the regulation. If you are a resident of the European Economic Area (EEA), or are accessing this site from within the EEA, you have certain rights under GDPR - <u>to exercise any of these rights, please contact us at: </u><a href="mailto:DataProtectionOfficer@wwwinc.com">DataProtectionOfficer@wwwinc.com</a>.<u> <strong></strong></u></p>
+<p><strong><u>Be Aware of “Phishing”</u></strong> <br>
+“Phishing” is a scam designed to steal your personal information. If you receive an email that looks like it is us asking you for your personal information, do not reply to it. We will not request your password, user name, credit card information, or other personal information through email.</p>
+<p><strong><u>Updates to Our Privacy Policy</u></strong><u> </u><br>
+From time to time, we may post updates to this Policy. Any changes will be effective upon the posting of the revised Policy. We may also make, without notice, minor changes to the Policy that will not significantly affect our use of personal information. We encourage you to periodically review this page for the latest information on our privacy practices. This Policy was updated as of the effective date listed above.</p>
+<p><strong><u>Additional Information/Questions</u></strong> <br>
+If you have questions or concerns about our privacy policy or practices, please contact us at:</p>
+<blockquote>
+<p>Wolverine World Wide, Inc.<br>
 Attn: Senior Director of Information Technology and Security<br>
 9341 Courtland Dr. NE<br>
-Rockford, MI 49351</p>
+Rockford, MI 49351<br>
+Email: <a href="mailto:ConsumerPrivacy@wwwinc.com">ConsumerPrivacy@wwwinc.com</a></p>
+</blockquote>
+<br clear="all">
+</div>
+</div>
 
-</div> 
 
 
 </section>
@@ -1852,13 +1878,9 @@ Rockford, MI 49351</p>
 <div class="secondary-navigation">
 <ul>
 <li>
-<a href="/US/en/contactus?caid=cs-contactus">Contact Us </a>
-</li>
-<li>
-<a href="content?caid=cs-youraccount">Account </a>
-</li>
-<li>
-<a href="/US/en/findorder?caid=cs-order-status">Order Status </a>
+<a href="/US/en/content?caid=cs-contact-us">
+Contact Us
+</a>
 </li>
 <li>
 <a href="/US/en/content?caid=cs-shipping-info">
@@ -1867,6 +1889,12 @@ Shipping Info
 </li>
 <li>
 <a href="/US/en/returns?caid=cs-returns-exchanges">Returns &amp; Exchanges </a>
+</li>
+<li>
+<a href="content?caid=cs-youraccount">Account </a>
+</li>
+<li>
+<a href="/US/en/findorder?caid=cs-order-status">Order Status </a>
 </li>
 <li>
 <a href="/US/en/content?caid=faq">
@@ -1890,10 +1918,10 @@ FAQ
 <div class="footer-decoration"></div>
 <footer class="inner">
 <div class="desktop-promotions promotions-wrapper bfx_hide">
-<div class="desktop-promotions-icon">
+<div class="desktop-promotions-icon" tabindex="0" aria-expanded="false">
 </div>
 <div class="desktop-promotions-scroll">
-<div class="desktop-promotions-close">
+<div class="desktop-promotions-close" tabindex="0">
 </div>
 <div class="desktop-promotions-title">
 Today's Offers
@@ -1907,117 +1935,198 @@ There are no promotions running at this time.
 </p>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="desktop-promotion promotion-item">
 <div class="content">
 <div class="info-details-poppup">
-<p>FREE SOCKS: Offer valid for one (1) free pair of beer socks (JSF25126-723) with your Cham 7 Slam Luna purchase at Merrell.com through 11:59PM EST on 8/31/18, or while supplies last. To redeem, enter code CHEERS at checkout. Offer only valid with purchase of Chameleon 7 Slam Luna. Excludes Prodeal purchases, prior purchases, purchases at retail stores or other websites, gift card and e-card purchases. Cannot be combined with any other coupon or discount.</p>
+<p></p>
 <p></p>
 </div>
-<div class="content-asset">
-
+<div class="content-asset" data-content-asset="promo-tab-20180907-email-signup">
+<div id="promo-subscribe" class="email-signup-wrap">
+<div class="form-wrapper">
+<h2>GET <span>10% OFF</span> YOUR FIRST FOOTWEAR PURCHASE*<br><span class="sub-header">when you join our email list.</span></h2>
+<p class="fineprint">*Excludes sale styles</p>
+<div class="signup-form">
+<form action="/on/demandware.store/Sites-merrell_us-Site/default/CID-PostOptStatus" class="promo-EmailAddress" id="promo-EmailAddress" method="post">
+<input type="hidden" name="OptStatus" value="I">
+<div class="email-wrapper" for="promo-email-address">
+<div id="promo-email-address-label" class="promo-email-address-label">
+<span generated="false">Email:</span>
+<span generated="true">Invalid email address</span>
+</div>
+<input type="email" name="EmailAddress" required="" placeholder="Name@Domain.com" id="promo-email-address" class="promo-email-address" autocomplete="off">
+</div>
+<div class="button-wrapper">
+<button class="button promo-email-btn" id="promo-email-btn" disabled="disabled">SUBMIT</button>
+</div>
+</form>
+</div>
+</div>
+</div>
 <style>
-    #promo-tab-20180815{
-    position:relative;
-    height:386px;
-    }
-    #promo-tab-20180815 img {
-      width:100%;
-      height:auto;
-    }
-    #mlcnt-full-link {
-        display:block;
-        height:100%;
-        width:100%;
-        position: absolute;
-        z-index: 3;
-        left: 0;
-        top: 0;
-       
-    }
-    /*#promo-tab-20180815 a{
-        display: block;
-        height: 138px;
-    }*/
-    #promo-tab-20180815 a.cta-orange2 {
-        color: #fff;
-        background: #dc4405;/*orange*/
-        font-family: "Knockout 47 A","Knockout 47 B",Arial,"Helvetica Neue",Helvetica,sans-serif;
-        font-size: 26px;
-        letter-spacing: .01em;
-        padding: .4em .8em!important;
-        margin-left: 0;
-        position: absolute;
-        top:85%;
-        left:30%;
-        z-index: 5;
-        transition: all .5s;
-        -webkit-font-smoothing: antialiased;
-    }
-
-    #promo-tab-20180815 a.cta-black:hover, a.cta-black2:hover, a.cta-orange:hover, a.cta-orange2:hover {
-        background: #555555 !important;
-        border:0!important;
-    }
-    @media screen and (max-width: 520px)  {
-        #promo-tab-20180815, #mlcnt-full-link {
-            height: 323px;
-        }
-        #promo-tab-20180815 #mlcnt-full-link {
-            height: 210px;
-        }
-        #promo-tab-20180815 a.cta-orange2 {
-            padding: .2em .6em!important;
-            top:85.5%;
-            left:29%;
-        }
-    }
+#promo-subscribe{background-image:url("/on/demandware.static/Sites-merrell_us-Site/-/default/v1534189874967/images/backgrounds/speckle.jpg");background-repeat:repeat;border-top:5px solid #1f1919;padding:25px 20px}.form-wrapper{padding:0 0;margin:0 0;text-align:center}.form-wrapper h2{font-size:28px;line-height:1.2;margin:0 0 5px 0;padding:0 0}.form-wrapper h2 span{color:#dd4506}.form-wrapper h2 span.sub-header{font-size:11px;font-family:GT-Pressura-Mono-Regular;letter-spacing:0.5px;position:relative;font-weight:bold;display:block;margin-top:2px;text-transform:lowercase}.form-wrapper p.fineprint{margin:0 0;padding:0 0;font-size:10px;color:#767676}.form-wrapper .success-alert{height:35px;overflow:hidden;line-height:36px;width:100%;margin-top:24px;background-color:#777777;color:#fff;text-align:center;font-family:"GT-Pressura", Arial, "Helvetica Neue", Helvetica, sans-serif;margin-bottom:10px;font-size:18px;font-weight:normal;letter-spacing:normal}.form-wrapper .alert-content{font-size:12px;line-height:1.3;font-family:GT-Pressura-Mono-Bold;letter-spacing:normal}.form-wrapper input{font-family:'GT-Pressura-Mono-Regular';height:35px;margin:0 0;padding:0 0;font-size:13px;letter-spacing:0}.form-wrapper input:hover{font-family:'GT-Pressura-Mono-Regular'}.form-wrapper .email-wrapper{position:relative;margin-top:5px}.form-wrapper .email-wrapper .promo-email-address-label{position:relative;z-index:4;font-size:11px;line-height:11px;text-align:left;margin:0 0;padding:7px 0}.form-wrapper .email-wrapper .promo-email-address-label span{background-image:url("/on/demandware.static/Sites-merrell_us-Site/-/default/v1534189874967/images/backgrounds/speckle.jpg");-webkit-transition:all 0.3s ease;transition:all 0.3s ease;margin:0 0;padding:0 0}.form-wrapper .email-wrapper .promo-email-address-label span[generated="false"]{color:#9a9899}.form-wrapper .email-wrapper .promo-email-address-label span[generated="true"]{display:none;color:#dd4506}.form-wrapper .email-wrapper .promo-email-address{background:transparent;background-image:url("/on/demandware.static/Sites-merrell_us-Site/-/default/v1534189874967/images/backgrounds/speckle.jpg");padding:5px;width:100%;border:2px solid #000;margin-bottom:15px;color:#9a9899;position:relative;z-index:5}.form-wrapper .email-wrapper .promo-email-address:focus,.form-wrapper .email-wrapper .promo-email-address.error-message,.form-wrapper .email-wrapper .promo-email-address.valid,.form-wrapper .email-wrapper .promo-email-address.invalid-email{color:#000000;border-color:#dd4506}.form-wrapper .email-wrapper .promo-email-address.valid-email{border-color:#000000;color:#000}.form-wrapper .email-wrapper.valid-email .promo-email-address-label span[generated="false"],.form-wrapper .email-wrapper.invalid-email .promo-email-address-label span[generated="false"]{display:block !important}.form-wrapper .email-wrapper.valid-email .promo-email-address-label span[generated="true"],.form-wrapper .email-wrapper.invalid-email .promo-email-address-label span[generated="true"]{display:none !important}.form-wrapper.invalid-submit .email-wrapper .promo-email-address-label span[generated="false"]{display:none !important}.form-wrapper.invalid-submit .email-wrapper .promo-email-address-label span[generated="true"]{display:block !important}.form-wrapper .button-wrapper .button{height:35px;overflow:hidden;line-height:35px;padding:0 20px;font-weight:normal;font-size:20px;letter-spacing:1px;background-color:#dd4506;-webkit-transition:all 0.3s ease;transition:all 0.3s ease;position:relative;background-image:url("//cdn.optimizely.com/img/8325480942/f18ff6e9e9c54fccbcde7494d17601a4.gif");background-size:17px 17px;background-position:right -25px top 9px;background-repeat:no-repeat}.form-wrapper .button-wrapper .button:disabled,.form-wrapper .button-wrapper .button.disabled{height:35px;overflow:hidden;line-height:35px;padding:0 20px;font-weight:normal;font-size:20px;letter-spacing:1px;background-color:#dd4506;-webkit-transition:all 0.3s ease;transition:all 0.3s ease;position:relative;background-image:url("//cdn.optimizely.com/img/8325480942/f18ff6e9e9c54fccbcde7494d17601a4.gif");background-size:17px 17px;background-position:right -25px top 9px;background-repeat:no-repeat}.form-wrapper .button-wrapper .button:focus,.form-wrapper .button-wrapper .button:active{background-color:#dd4506}.form-wrapper .button-wrapper .button:hover{background-color:#555555;letter-spacing:1px}.form-wrapper .button-wrapper .button:disabled{background-color:#dddddd;color:#fff;cursor:default !important}.form-wrapper .button-wrapper .disabled.button{background-color:#dddddd;color:#fff;cursor:default !important}.form-wrapper .button-wrapper .button.loading{padding-right:40px;background-color:#dd4506 !important;background-position:right 12px top 9px}.form-wrapper .button-wrapper .button.loading .loader{display:block}#promo-email-btn.promo-email-btn{margin:0 auto;float:none}
 
 </style>
-<div id="promo-tab-20180815">
-<a id="mlcnt-full-link" href="https://www.merrell.com/US/en/cham-7-slam/?icid=promo-tab-beersocks081518" target="_self">
-<picture>
-<source srcset="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw30d5b015/content/seasonal-content/promos/2018/08/2686_MRL_Cham_7_Slam_Tabs_Mobile.jpg" type="image/jpg" media="(max-width: 520px)">
-<img src="https://www.merrell.com/on/demandware.static/-/Sites-merrell_us-Library/default/dw4ca034d9/content/seasonal-content/promos/2018/08/2686_MRL_Cham_7_Slam_DT_Tabs.png" alt="Free Socks With purchase of Cham 7 Slam Luna | Use Code: CHEERS" class="background-image">
-</picture>
-</a><a href="https://www.merrell.com/US/en/cham-7-slam/?icid=promo-tab-beersocks081518" class="cta-orange2" target="_self">SHOP NOW</a>
+<script type="text/javascript">
+function add_cookie(name, value, days) {
+	var expires;
 
-</div>
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+		expires = "; expires=" + date.toGMTString();
+	} else {
+		expires = "";
+	}
+	document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+}
 
+function read_cookie(name) {
+	var nameEQ = encodeURIComponent(name) + "=";
+	var ca = document.cookie.split(';');
+	for (var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) === ' ') {
+			c = c.substring(1, c.length);
+		}
+		if (c.indexOf(nameEQ) === 0) {
+			return decodeURIComponent(c.substring(nameEQ.length, c.length));
+		}
+	}
+	return null;
+}
+
+function remove_cookie(name) {
+	add_cookie(name, "", -1);
+}
+
+function pollForAnalytics(callback) {
+	if (window.s && window.s.t && typeof window.s.t === 'function' && window.s.tl && typeof window.s.tl === 'function') {
+		var s = window.s;
+		callback(s);
+	} else {
+		return setTimeout(pollForAnalytics.bind(null, callback), 50);
+	}
+}
+
+function omniture_tracking(variable, value, name) {
+	var _this = this;
+	pollForAnalytics(function (s) {
+		s.linkTrackVars = variable;
+		s[variable] = value;
+		s.tl(_this, 'o', name);
+	});
+}
+
+var $valid = false,
+	$resetFormHTML = '<form action="/on/demandware.store/Sites-merrell_us-Site/default/CID-PostOptStatus" class="promo-EmailAddress" id="promo-EmailAddress" class="promo-EmailAddress" method="post"><input type="hidden" name="OptStatus" value="I" /><div class="email-wrapper" for="promo-email-address"><div id="promo-email-address-label" class="promo-email-address-label"><span generated="false">Email:</span><span generated="true">Invalid email address</span></div><input type="email" name="EmailAddress" required placeholder="Name@Domain.com" id="promo-email-address" class="promo-email-address" autocomplete="off" /></div><div class="button-wrapper"><button class="button promo-email-btn" id="promo-email-btn" disabled="disabled">SUBMIT</button></div></form>',
+	$successHTML = '<div class="success-alert">SUCCESS!</div><div class="alert-content">Thank you for signing up!<br> Look for your first message from us soon.</div>';
+
+$('body').on('input paste change', '.promo-email-address', function (e) {
+	var input = $(this),
+		$form = $(this).closest('.email-signup-wrap');
+	var re = /^[\w.%+\-]+@[\w.\-]+\.[\w]{2,6}$/;
+	var is_email = re.test(input.val());
+	$($form).find('.form-wrapper').removeClass('invalid-submit');
+	if (is_email) {
+		$valid = true;
+		input.removeClass("invalid-email").addClass("valid-email");
+		$($form).find('.promo-email-btn').removeAttr('disabled').removeClass('disabled');
+		$($form).find('.email-wrapper').addClass('valid-email').removeClass('invalid-email');
+	} else {
+		$valid = false;
+		input.removeClass("valid-email").addClass("invalid-email");
+		$($form).find('.promo-email-btn').removeAttr('disabled').addClass('disabled');
+		$($form).find('.email-wrapper').removeClass('valid-email').addClass('invalid-email');
+	}
+});
+
+$('body').on('click', '#promo-subscribe .promo-email-btn', function (e) {
+	//var $form = $(this).closest('.email-signup-wrap');
+	var $form = $('#promo-subscribe #promo-EmailAddress');
+	e.preventDefault();
+	e.stopImmediatePropagation();
+	if ($valid === true) {
+		$.ajax({
+			url: '/on/demandware.store/Sites-merrell_us-Site/default/CID-PostOptStatus',
+			type: 'POST',
+			data: $($form).serialize(),
+			beforeSend: function () {
+				$('#promo-subscribe .promo-email-btn').addClass('loading');
+			},
+			success: function (data, response) {
+				$('#promo-subscribe .promo-email-btn').removeClass('loading');
+				var reportEmail = window.app.omniture.report({
+					type: "evar",
+					number: 34,
+					value: $($form).find('.promo-email-address').val()
+				});
+				
+				var view_count = ':view:' + read_cookie('cro134-offer-view-count');
+				var page_type = app.remote.PAGETYPE;
+				omniture_tracking('eVar31', 'promo:' + page_type + view_count, 'Email Signup Original') ;
+
+				$('#promo-subscribe .signup-form').html($successHTML);
+
+				setTimeout(function () {
+					$('#promo-subscribe .signup-form').html($resetFormHTML);
+				}, 7000);
+			},
+			error: function (data, response) {
+				console.log('Error Response: ', response);
+			}
+		});
+	} else {
+		$('#promo-subscribe .form-wrapper').addClass('invalid-submit');
+	}
+	return false;
+});
+</script>
 </div>
 </div>
 <div class="info-bar clearfix">
-<div class="add-coupon clearfix">
-<div class="info-poppup"></div>
-<div class="info-icon "></div>
-<div class="info-code" style="text-transform: none">
-CHEERS
+No Code Necessary
 </div>
 </div>
-<div class="info-details">
-details
-</div>
-
-</div>
-</div>
-
-
 
 <div class="desktop-promotion promotion-item">
 <div class="content">
 <div class="info-details-poppup">
-<p></p>
+<p>Free Express Shipping on orders of $120+. Select the Express Shipping option at checkout.</p>
 <p></p>
 </div>
-<div class="content-asset">
+<div class="content-asset" data-content-asset="promotion-free-express-20181024">
+
 <div id="promotion-free-express">
 <h3><span>Free</span>Express Shipping</h3>
-<h4>on $49+ orders</h4>
+<h4>on $120+ orders</h4>
 <div class="delivery-message-banner">
 </div>
 </div>
 <style>
 
 #promotion-free-express {
+    background-color: rgb(238, 238, 238);
     text-align: center;
 }
 #promotion-free-express h3 {
@@ -2026,7 +2135,8 @@ details
     letter-spacing: 0px;
     font-weight: 500;
     line-height: 1em;
-    margin: 15px 0 0;
+    padding: 15px 0 0;
+    margin: 0;
 }
 #promotion-free-express h3 span {
     color: #dc4405;
@@ -2052,9 +2162,13 @@ details
 }
 </style>
 </div>
+
 </div>
 <div class="info-bar clearfix">
 No Code Necessary
+<div class="info-details">
+details
+</div>
 </div>
 </div>
 </div>
@@ -2062,25 +2176,30 @@ No Code Necessary
 <div class="footer-top-banner clearfix minimal-footer">
 <div>
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 <div class="mlcnt-social">
 <span itemscope="" itemtype="//schema.org/Organization">
 <link itemprop="url" href="//www.merrell.com/US/en/home">
-<a itemprop="sameAs" class="mlcnt-social-item mlcnt-social-facebook" href="https://www.facebook.com/merrell" target="_blank" title="Merrell Footwear on Facebook">
+<a itemprop="sameAs" class="mlcnt-social-item" href="https://www.facebook.com/merrell" target="_blank" title="Merrell Footwear on Facebook">
+<i class="fab fa-facebook-f"></i>
 <span class="mlcnt-sr">
 Merrell Footwear on Facebook
 </span>
 </a>
-<a itemprop="sameAs" class="mlcnt-social-item mlcnt-social-twitter" href="https://twitter.com/merrelloutside" target="_blank" title="Merrell Footwear on Twitter">
+<a itemprop="sameAs" class="mlcnt-social-item" href="https://twitter.com/merrelloutside" target="_blank" title="Merrell Footwear on Twitter">
+<i class="fab fa-twitter"></i>
 <span class="mlcnt-sr">
 Merrell Footwear on Twitter
 </span>
 </a>
-<a itemprop="sameAs" class="mlcnt-social-item mlcnt-social-instagram" href="//www.instagram.com/merrell/ " target="_blank" title="Merrell Footwear on Instagram">
+<a itemprop="sameAs" class="mlcnt-social-item" href="//www.instagram.com/merrell/ " target="_blank" title="Merrell Footwear on Instagram">
+<i class="fab fa-instagram"></i>
 <span class="mlcnt-sr">
 Merrell Footwear on Instagram
 </span>
 </a>
-<a itemprop="sameAs" class="mlcnt-social-item mlcnt-social-youtube" href="https://www.youtube.com/user/MerrellOutside" target="_blank" title="Merrell Footwear on Youtube">
+<a itemprop="sameAs" class="mlcnt-social-item" href="https://www.youtube.com/user/MerrellOutside" target="_blank" title="Merrell Footwear on Youtube">
+<i class="fab fa-youtube"></i>
 <span class="mlcnt-sr">
 Merrell Footwear on Youtube
 </span>
@@ -2097,7 +2216,7 @@ Merrell Footwear on Youtube
 //	function(){var l=jQuery(".lhnLiveChatLink");0==bLHNOnline?(l.addClass("hidden")):(l.removeClass("hidden"))}
 	(function(app, $) {
 	    "use strict";
-//	    Test for livechat status
+    // Test for livechat status
 		function liveChatState() {
 		    var elem = $('.side-tab_chat');
 
@@ -2106,10 +2225,30 @@ Merrell Footwear on Youtube
 			}
 		}
 
+    // Promo Count Icon
+    function showNumberOfPromotionsIcon() {
+          //console.log("test-promo-count");
+          var num = $(".desktop-promotions .promotion-item").not('.hide-promo').length;
+
+          //console.log(num);
+
+          if($('.promo-count').length < 1) {
+            var newElement = "<span class=\"promo-count\">" + num.toString() + "</span>";
+            var parentElement = $(".desktop-promotions-icon");
+            parentElement.prepend(newElement);
+          } else {
+            $('.promo-count').text(num);
+          }
+          $('.promo-count').css('opacity', '1');
+        }
+
 
         $(document).on('ready', function() {
-			// Show/hide liveChat tab based on chat operator availability;
+			      // Show/hide liveChat tab based on chat operator availability;
             liveChatState();
+
+            // Put correct promotion count in red dot (Not hidden promos for AB testing)
+            showNumberOfPromotionsIcon();
         });
 
     })(window.app = window.app || {}, jQuery);
@@ -2123,40 +2262,91 @@ display: inline-block;
 width: 100%;
 height: 100%;
 }
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+  font-size: 24px;
+  color: #fff;
+  background-color: #000;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+}
+.fab:hover {
+  transform: scale(1.1);
+  background-color: #dc4405;
+}
+
+.promo-count {
+  opacity: 0;
+  transition: opacity 0.3s linear;
+}
+@-webkit-keyframes pulseIcon {
+from {
+-webkit-transform: scale(1);
+transform: scale(1); }
+to {
+-webkit-transform: scale(1.1);
+transform: scale(1.1); } }
+
+@keyframes pulseIcon {
+from {
+-webkit-transform: scale(1);
+transform: scale(1); }
+to {
+-webkit-transform: scale(1.1);
+transform: scale(1.1); } }
+
+.isDesktopEnvironment .promotions-wrapper .desktop-promotions-icon .promo-count {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background: #cf001a;
+  color: #fff;
+  text-align: center;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: -11px;
+  top: -11px;
+  line-height: 20px;
+  border-radius: 50%;
+  font-size: 14px;
+  -webkit-animation: pulseIcon 0.65s ease infinite alternate;
+  animation: pulseIcon 0.65s ease infinite alternate;
+  border: 1px solid #cf001a;
+  /*box-shadow: -1px 1px 4px #000;*/
+}
+/*.isDesktopEnvironment .promotions-wrapper .desktop-promotions-icon .promo-count:hover {
+  background-color: #fff;
+}*/
+.isDesktopEnvironment .promotions-wrapper.open .desktop-promotions-icon .promo-count {
+  display: none;
+}
 </style>
 </div>
 </div>
 <div class="footer-content clearfix minimal-footer">
-
-<div class="email-signup-box">
-
-<div id="foot_subscribe" class="email-signup-inner wwwAjaxSubmit_wrapper">
-<h3>GET AHEAD OF THE PACK</h3>
-<p>Sign up to be the first to hear about new arrivals, exclusive events, and promotions.</p>
-<form action="https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/CID-PostOptStatus" class="footer-EmailAddress">
-<input type="email" name="EmailAddress" required="" placeholder="Your Email" style="height:30px;width:140px; line-height: 2;">
-<input type="hidden" name="OptStatus" value="I">
-<input class="button" type="submit" name="signup" value="Sign Up" style="float:left;">
-</form>
-</div>
-</div>
-
 <div class="footer-items-box clearfix">
 <div class="footer-bottom-banner">
 </div>
 <div class="row">
 <div class="footer-item" data-ds="false">
-<h3>Customer Service</h3>
+<h3>
+Customer Service
+</h3>
 <ul>
-<li>(800) 288-3124</li>
 <li>
-<a href="/US/en/contactus">Contact Us</a>
+(800) 288-3124
 </li>
 <li>
-<a href="/US/en/content?caid=cs-shipping-info">Shipping Information</a>
+<a href="/US/en/content?caid=cs-contact-us">Contact Us</a>
 </li>
 <li>
-<a href="/US/en/returns">Returns &amp; Exchanges</a>
+<a href="/US/en/content?caid=cs-shipping-info">Shipping</a>
+</li>
+<li>
+<a href="/US/en/returns">Returns</a>
 </li>
 <li>
 <a href="/US/en/content?caid=faq">FAQ</a>
@@ -2164,7 +2354,9 @@ height: 100%;
 </ul>
 </div>
 <div class="footer-item" data-ds="false">
-<h3>My Account</h3>
+<h3>
+My Account
+</h3>
 <ul>
 <li>
 <a href="https://www.merrell.com/US/en/account">Sign In</a>
@@ -2181,8 +2373,13 @@ height: 100%;
 </ul>
 </div>
 <div class="footer-item" data-ds="false">
-<h3>Resources</h3>
+<h3>
+Resources
+</h3>
 <ul>
+<li>
+<a href="/US/en/promotions-coupons/">Promotions</a>
+</li>
 <li>
 <a href="/US/en/content?caid=locally">Find A Store</a>
 </li>
@@ -2190,15 +2387,20 @@ height: 100%;
 <a href="/US/en/merrell-gift-card/18854Z.html">Gift Cards</a>
 </li>
 <li>
-<a href="/on/demandware.store/Sites-merrell_us-Site/default/CID-CatalogSignUp#catalogsignup" class="catalogsignup">Sign up for Catalog</a>
+<a href="/on/demandware.store/Sites-merrell_us-Site/default/CID-CatalogSignUp#catalogsignup" class="catalogsignup">Request Catalog</a>
 </li>
 <li>
 <a href="//www.wolverineworldwide.com/careers/" target="_blank">Careers</a>
 </li>
+<li>
+<a href="//newsroom.merrell.com/index.cfm" target="_blank">Newsroom</a>
+</li>
 </ul>
 </div>
 <div class="footer-item" data-ds="false">
-<h3>Popular Links</h3>
+<h3>
+Popular Links
+</h3>
 <ul>
 <li>
 <a href="/US/en/hiking-shoes-boots/">Hiking</a>
@@ -2224,7 +2426,7 @@ height: 100%;
 </ul>
 </div>
 <ul class="ab_outlet ab_outlet_footer ab_lastChance">
-<div class="html-slot-container">
+<div class="html-slot-container content-slot" data-content-slot="lastchance-outlet">
 <script type="text/javascript">
 // Creates an error message to be displayed at the top of the page
 function displayBrowserErrorMessage() {
@@ -2286,10 +2488,67 @@ if( !isBrowserErrorDisplayed ) {
 </div>
 </div>
 
+
+<div class="email-signup-box">
+
+<div id="foot_subscribe" class="email-signup-inner wwwAjaxSubmit_wrapper">
+<h3>Newsletter Signup</h3>
+<p>
+Sign up to be the first to hear about new arrivals, exclusive events, and promotions.
+</p>
+<form action="https://www.merrell.com/US/en/emailpreferences" class="footer-EmailAddress">
+<input type="hidden" name="OptStatus" value="I">
+<fieldset>
+<input type="email" name="EmailAddress" required="" placeholder="Your Email">
+<input class="button" type="submit" name="signup" value="Sign Up">
+</fieldset>
+</form>
+</div>
+<style>
+  #foot_subscribe .footer-EmailAddress fieldset {
+  }
+    #foot_subscribe .footer-EmailAddress label {
+      display: block;
+      width: 100%;
+      font-size: 0.8em;
+      line-height: 1;
+    }
+    #foot_subscribe .footer-EmailAddress input {
+      height: 30px;
+    }
+    #foot_subscribe .footer-EmailAddress input[type="email"] {
+      float: left;
+      width: calc(100% - 60px);
+      line-height: 2;
+    }
+    #foot_subscribe .footer-EmailAddress input[type="submit"] {
+      display: block;
+      text-indent: 0;
+      position: initial;
+      left: initial;
+      top: initial;
+      float: left;
+      width: 60px;
+      padding: 0;
+      line-height: 1;
+      text-align: center;
+      background: #dc4405 none;
+      border: solid 2px rgba(0,0,0,0.25);
+      border-left: none;
+      transition: all .5s;
+    }
+    #foot_subscribe .footer-EmailAddress input[type="submit"]:hover {
+      background: #555555 !important;
+      /*color: #fff !important;*/
+    }
+</style>
+</div>
+
 </div>
 
 <div class="thin-footer-rule"></div>
 <div class="footer-bottom-box clearfix minimal-footer">
+
 <div class="footer-country-selector">
 <div class="footer-country-selected">
 <p>You are viewing the United States site</p>
@@ -2350,7 +2609,7 @@ Français
 </div>
 </li>
 <li role="menuitem">
-<a data-country="ch" class=" flag-ch" href="http://www.merrell.ch/CH/de" alt="Schweiz">
+<a data-country="ch" class=" flag-ch" href="https://merrell.ch" alt="Schweiz">
 <span class="flag-ch sprite-flag"></span>
 Schweiz
 </a>
@@ -2377,6 +2636,12 @@ Colombia
 <a data-country="de" class=" flag-de" href="https://www.merrell.com/DE/de_DE/home" alt="Deutschland">
 <span class="flag-de sprite-flag"></span>
 Deutschland
+</a>
+</li>
+<li role="menuitem">
+<a data-country="es" class=" flag-es" href="http://www.merrell.com/ES/es_ES/home" alt="España">
+<span class="flag-es sprite-flag"></span>
+España
 </a>
 </li>
 <li role="menuitem">
@@ -2458,12 +2723,6 @@ Portugal
 </a>
 </li>
 <li role="menuitem">
-<a data-country="es" class=" flag-es" href="http://merrell.es/" alt="España">
-<span class="flag-es sprite-flag"></span>
-España
-</a>
-</li>
-<li role="menuitem">
 <a data-country="se" class=" flag-se" href="http://www.merrell.com/SE/sv_SE/home" alt="Sverige">
 <span class="flag-se sprite-flag"></span>
 Sverige
@@ -2494,6 +2753,12 @@ United States
 </a>
 </li>
 <li role="menuitem">
+<a data-country="uy" class=" flag-uy" href="http://www.merrell.com.uy" alt="Uruguay">
+<span class="flag-uy sprite-flag"></span>
+Uruguay
+</a>
+</li>
+<li role="menuitem">
 <a data-country="za" class=" flag-za" href="http://www.merrell.co.za" alt="South Africa">
 <span class="flag-za sprite-flag"></span>
 South Africa
@@ -2505,15 +2770,24 @@ South Africa
 </div>
 
 <div class="footer-links">
-<div class="content-asset">
-<span class="copyright">© 2018 Merrell All rights reserved</span>
+
+<div class="content-asset" data-content-asset="footer-privacy-policy">
+<div style="margin-top:-36px">
+<span class="copyright">© 2020 Merrell All rights reserved</span>
 <ul>
 <li><a href="https://www.merrell.com/US/en/sitemap">Site Map</a></li>
 <li><a href="https://www.merrell.com/US/en/content?caid=accessibility-policy">Accessibility Policy</a></li>
 <li><a href="https://www.merrell.com/US/en/content?caid=privacy-policy">Privacy Policy</a></li>
 <li><a href="https://www.merrell.com/US/en/content?caid=terms">Terms of Use</a></li>
+<li><a href="https://www.merrell.com/US/en/content?caid=ca-supply-chain-transparency">CA Supply Chain Transparency</a></li>
 </ul>
-</div> 
+</div>
+<script>
+var year = new Date();
+document.querySelector(".copyright").innerHTML = "&copy; " + year.getFullYear() + " Merrell All rights reserved";
+</script>
+</div>
+
 </div>
 
 
@@ -2525,16 +2799,13 @@ South Africa
 
 <div class="header-promotion">
 </div>
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/lib/jquery/ui/jquery-ui-1.9.2.custom.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/lib/jquery/ui/jquery-ui-1.9.2.custom.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(app){
-app.isMobileUserAgent = false;
-app.isProDeal = false;
-app.zoomViewerEnabled = true;
-app.constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE"};
-app.resources = {"MOBILE_GPS_ENABLED":true,"LOCALE":"default","CURRENT_COUNTRY":"US","ADDCART_ERRORCOLOR":"Please select a <strong>color</strong> before adding to the cart.","ADDCART_ERRORSIZE":"Please select a <strong>size</strong> before adding to the cart.","ADDCART_ERRORWIDTH":"Please select a <strong>width</strong> before adding to the cart.","ADDCART_ERRORSIZEWIDTH":"Please select a <strong>size</strong> and a <strong>width</strong> before adding to the cart.","ADDCART_ERRORWAIST":"Please select a <strong>waist</strong> before adding to the cart.","ADDCART_ERRORLENGTH":"Please select a <strong>length</strong> before adding to the cart.","ADDCART_ERRORLENGTHWAIST":"Please select a <strong>length</strong> and a <strong>waist</strong> before adding to the cart.","ADDCART_ERRORSIZECUPSIZE":"Please select a <strong>size</strong> and a <strong>cup size</strong> before adding to the cart.","ADDCART_ERRORCUPSIZE":"Please select a <strong>cup size</strong> before adding to the cart.","ADDCART_ERRORSIZELENGTH":"Please select a <strong>size</strong> and a <strong>length</strong> before adding to the cart.","ADDCART_GCVALUEERROR":"Please select a <strong>value</strong> for the gift card before adding to cart.","ADDCART_GCTYPEERROR":"Please select a <strong>type</strong> for the gift card before adding to cart.","ADDCART_GCTYPEVALUEERROR":"Please select a <strong>type</strong> and <strong>value</strong> for the gift card before adding to cart.","ADDCART_PREORDER":"Pre-Order Now","ADDCART_MOBILEREDIRECT":true,"REDIRECT_MOBILE_USER_TO_CART":false,"ADDSCHOOLCODE_ERROR":"There was an error looking up this School Code","NOT_AVAILABLE":"This item is currently not available.","QTY_NOT_AVAILABLE":"This quantity is not available.","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCTS_MODALTITLE":"Select your free gift below","BONUS_PRODUCTS":"Free Gift(s)","SELECT_BONUS_PRODUCTS":"Select {0} Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of free gifts have been selected.  Please remove one in order to add additional free gifts.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","FIRST_NAME":"Please enter a valid first name","LAST_NAME":"Please enter a valid last name","INVALID_EMAIL":"The email address is invalid.","SUGGESTED_EMAIL_CORRECTION":"Did you mean {0}?","INVALID_CUSTOMER_NAME":"The name you entered is invalid.","INVALID_CUSTOMER_CITY":"The city you entered is invalid.","INVALID_GIFT_CERT_PIN":"Please enter a valid Gift Certificate PIN","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","COMPARE_ADD_MORE":"Add More Products to Compare","COMPARE_PRODUCTS":"Compare These Products","QV_LABEL":"Quick Look","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","POSTCODE_EXCLUDED_COUNTRIES":"FR","GIFT_CERT_INVALID":"Invalid Gift Card Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of $5 and maximum of $5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","LABEL_ZIPCODE":"Zip Code","LABEL_POSTALCODE":"Postal Code","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected ship date is {0}.","INIFINITESCROLL":"Show All","TITLE_SHAREORDER":"Share Your Order","TITLE_CARDDECLINED":"Your credit card was declined","SEPARATOR_VARIATION_TITLE":"and","BUTTON_VARIATION_TITLE":"Please select","BUTTON_VARIATION_SIZE":"Size","BUTTON_VARIATION_WIDTH":"Width","BUTTON_VARIATION_COLOR":"Color","BUTTON_VARIATION_DESIGN":"Design","STORE_ID":"merrell_us","ACCOUNT_AGREE_TO_TERMS":"*You must agree to the terms and conditions","ACCOUNT_AGREE_TO_AGE":"*You must agree with age condition","ADD_REMEMBERED_ITEM":"Wishlist","REMOVE_REMEMBERED_ITEM":"Wishlist","UPDATE_REMEMBERED_ITEM":"Update Wishlist Item","ADD_REMEMBERED_GRID_ITEM":"Wishlist","ADD_REMEMBERED_MOBILE_ITEM":"Wishlist","WISHLIST_FACEBOOK_SHAREMSG":"Check out my favorite Merrell products!","TWITTER_SHARE_DESCRIPTION":"Check out this great Merrell product!","PINTEREST_SHARE_DESCRIPTION":"Check out this cool Merrell product","EMAIL_SHARE_SUBJECT":"Check out the Merrell","EMAIL_SHARE_BODY":"I thought you might like this style from Merrell:","EMPLOYEEAUTH":"You are not logged in","EMPLOYEESUCCESS":"Success!","EMPLOYEENORESULTS":"No employee found","EMPLOYEEPROMOTIONSTACKING":"Sorry, discounts cannot be combined.","EMPPROMOCODE":["WWWEMPLOYEE","PLGEMPLOYEE"],"CURRENT_USERNAME":"","CURRENT_USERFIRSTNAME":"","CURRENT_USERLASTNAME":"","DISPLAY_TAX":true,"OMNITURE_ENABLED":true,"IS_IN_STORE":false,"COUNTRY_COOKIE_SUFFIX":"","PRO_DEAL_FILE_SIZE_MSG":"File exceedes maximum allowed size (5 Mb)","PRO_DEAL_FILE_MISSING":"No file selected","LOGIN_TITLE":"Login","PROMOTIONAL_DIALOG_TITLE":"Promotional","REGISTER_ERROR_PW_RANGE":"Incorrect password range","REGISTER_ERROR_PW_MATCH":"Passwords do not match","REGISTER_ERROR_PW_FORMAT":"Password Must contain 3 Of The Following: Uppercase, Lowercase, Numeric, Special Character","REQUIREMENT_TITLE":"Why is this information required?","USER_DEVICE":"desktop","REMEMBERED":"Wishlist","REMEMBERED_PL":"Remembered","PRODUCT_DESCRIPTION_DISPLAY_TYPE":"firstFourLines","READ_MORE_LINK_TEXT":"Read More","READ_LESS_LINK_TEXT":"Read Less","PRODUCT_EXPAND_DESCRIPTION":"...More","PRODUCT_COLLAPSE_DESCRIPTION":"Less","BV_REVIEWS_ENABLED":false,"CQL_REVIEWS_ENABLED":true,"AMAZON_INVALID_SHIPPING_ADDRESS":"The currently selected address is not a valid or supported shipping destination.","AMAZON_INVALID_ADDRESS_LENGTH":"The currently selected address has exceeded the limit for Address1 field.","AMAZON_ALLOWED_SHIPPING_COUNTRIES":"US","CONFIGURATOR_HOWITWORKS_1":"Customize your <product> with these tabs","CONFIGURATOR_HOWITWORKS_2":"Click on parts of the product to select and customize them","CONFIGURATOR_HOWITWORKS_3":"Temporarily save each of your designs to test out several options","CONFIGURATOR_HOWITWORKS_4":"Buy your custom <product> or save them for later","CONFIGURATOR_HOWITWORKS_5":"Share your design to show it off or get feedback from your friends","CONFIGURATOR_HOWITWORKS_6":"Show off your design on our site so others can see your genius","CONFIGURATOR_HOWITWORKS_MOBILE":"Customize your <br /> <product> <br /> with these tabs","CONFIGURATOR_SHIP_TIME":"","CONFIGURATOR_REVIEWS_ENABLED":null,"CONFIGURATOR_CONFIGURE":"Customize","LEAVING_SITE_NOTIFICATION_ENABLED":false,"BLOG_REPLY":"Reply","BLOG_CANCEL":"Cancel","MOBILE_MINI_CART":true,"MOBILE_ADDED_TO_CART_POPUP":false,"MOBILE_ADDED_TO_CART_SLIDE":true,"TRUE_TO_SIZE_MESSAGE":"% of reviewers say this item runs true to size","CREDITCARD_MISMATCH":"Please check your card type and card number","PROMOTION_ADDED":"offer added","PROMOTION_REMOVED":"offer removed","COUPON_CODE_ALREADY_IN_BASKET":"This coupon has already been added elsewhere.","NO_COUPON":"This coupon has already been removed elsewhere.","IS_FORM_VALID":true,"REGISTERED_CUSTOMER":false,"AUTHENTICATED_CUSTOMER":false,"IMPROVED_SITE_SEARCH_ENABLED":true,"SUGGESTED_TERMS_HEADER":"Do you mean?","SUGGESTED_CATEGORIES_HEADER":"Popular Categories","NAVIGATION_SUBMENU_SHIFT_LEFT":false,"DELIVERY_MESSAGING":{"hoursAbbr":"hrs","minutesAbbr":"min","getItByText":"Get it by","orderWithinText":"Order within","receiveByText":"to receive by","taglineText":null},"SITE_SEARCH":{"enabled":true,"navBack":"Back to Main Menu"},"EMAILPREFERENCES_SRCTOFILTER":"","EMAILPREFERENCES_INCOMINGSRC":"","QUICKVIEW_ENABLED":false,"GTM_ENABLED":true,"GTM_CONTAINER_ID":"GTM-NZVWQ87","GTM_ENVIRONMENT_QUERY_STRING":null,"TAGMAN_CLIENT_ID":"merrell","IN_STOCK":"In Stock","QTY_IN_STOCK":"There are only {0} items left in stock.","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","REMAIN_NOT_AVAILABLE":"Your shopping cart can currently not be ordered, since one or more of the products in your cart have an invalid price or are not available in the requested quantity. If you have any questions, please contact customer service."};
-app.urls = {"appResources":"/on/demandware.store/Sites-merrell_us-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-merrell_us-Site/default/Page-Include","continueUrl":"https://www.merrell.com/US/en/content?dwcont=C1095939714","staticPath":"/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/","addGiftCert":"/on/demandware.store/Sites-merrell_us-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-merrell_us-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddProduct","addConfiguratorProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddConfiguratorProduct","minicart":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-MiniAddProduct","cartShow":"/US/en/cart","changeSiteWarning":"","distributorSiteWarning":"/US/en/content?caid=change-distributorsite-warning-modal","miniCartShow":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-MiniCart","giftRegAdd":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.merrell.com/US/en/wallet","addressesList":"https://www.merrell.com/US/en/addressbook","wishlistAddress":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-merrell_us-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Show","getVariantProductJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetVariantProductJSON","getBonusProducts":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetSetItem","rememberedItemsApi":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-Api","rememberedItemsGetProducts":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-GetProducts","rememberedItemsShow":"/US/en/remembereditems","addNotifyItem":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-AddNotifyItem","setSessionListObject":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-SetSessionListObject","productDetail":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetAvailability","getConfigureAvailability":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetConfigureAvailability","removeImg":"/on/demandware.static/Sites-merrell_us-Site/-/default/dw578e848d/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-merrell_us-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Productnav","quickCheckoutStart":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COQuickCheckout-Start","summaryRefreshURL":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-ResetPaymentForms","calendarImage":"/on/demandware.static/Sites-merrell_us-Site/-/default/dwea5102aa/images/calendar_icon.png","compareShow":"https://www.merrell.com/US/en/compare","compareAdd":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Compare-AddProduct","compareRemove":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-merrell_us-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddCoupon","updatePromoDisplay":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdatePromoContent","removeCoupon":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-RemoveCoupon","jsChannelIFrame":"https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/dwcc309c1c/lib/jschannel/jschannel.html","catalogsignup":"https://www.merrell.com/US/en/home","revieworder":"https://www.merrell.com/US/en/revieworder","shareorder":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COSummary-ShareOrder","carddeclined":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COSummary-DeclinedModal","checkoutlogindialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-IframeCheckoutLogin","recommendationsBaseUrl":"https://rec.wolvapps.com","recommendationsCallbackUrl":"/on/demandware.store/Sites-merrell_us-Site/default/WWWRecommendations-Tiles","emailsignupdialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-EmailSignupModal","emailPreferenceEnabled":false,"disableAjaxFormRendering":false,"emailPreferenceUrl":"/on/demandware.store/Sites-merrell_us-Site/default/CID-PostOptStatus","emailSignupPostUrl":{},"accountDialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-IframeLogin","getAddressDetails":"/on/demandware.store/Sites-merrell_us-Site/default/Address-GetJSONDetails","resetPasswordDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Account-PasswordResetDialog","termsAndConditionsDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Account-TermsAndConditions","isEmployee":"/on/demandware.store/Sites-merrell_us-Site/default/Account-IsEmployeeAjax","threesixtyplugin":"/on/demandware.store/Sites-merrell_us-Site/default/Product-ThreeSixtyPlugin","accountRegistration":"/US/en/register","updatePayment":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-RefreshPaymentMethods","updateGCPayment":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-AdjustGiftCertificates?format=ajax","blogSearch":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-Search?s=&suggest=","blogPostComment":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-Posted","blogEmailSignup":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-EmailSignup","blogSignupThankyou":"/US/en/content?caid=email-signup-thanks","billingSaveEmail":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-StartBillingSaveEmailAddress","updateBasketTotals":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateBasketTotals","updateBasketCoupons":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateBasketCoupons","countryChangeWarning":"/on/demandware.store/Sites-merrell_us-Site/default/CountryGateway-Warning","getNumberOfItemsJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-GetNumberOfItemsJSON","getCategoryLinksJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Category-CategoryLinksJSON","getInStoreDefaultEmail":"/on/demandware.store/Sites-merrell_us-Site/default/COShipping-GetInStoreEmail","proDealIFrameUrl":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/ProDeal-IFrameInput","accountShow":"https://www.merrell.com/US/en/account","promotionalPopupDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Promotion-Popup","addSchoolCode":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddSchoolCode","addCQLReviews":"/on/demandware.store/Sites-merrell_us-Site/default/CQLReviews-AddReviews","getOrderReferenceDetails":"/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-GetOrderReferenceDetails","setOrderReferenceID":"/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-SetOrderReferenceID","bvWriteReviewUrl":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Product-AddProductReview","updateEstimatedShipping":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateEstimatedShipping","emailCartDialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-IframeEmailCart","customerSoftLogout":"/on/demandware.store/Sites-merrell_us-Site/default/Login-Logout?softlogout=true","getSearchSuggestions":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Suggest","getSearchProducts":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products","getSearchDefaults":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Defaults","reportBluecoreRemembered":"/on/demandware.store/Sites-merrell_us-Site/default/BlueCore-ReportBlueCoreAddRememberedItem","borderFreeStubOrder":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Borderfree-NewBFOrder","reportBluecoreRemoveMiniCart":"/on/demandware.store/Sites-merrell_us-Site/default/BlueCore-ReportBlueCoreRemoveMiniCartItem","getCouponLines":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-GetCouponLines","gtmDataLayerUpdate":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/GTMDataLayerUpdate-Start"};
+app.constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE","PRODUCTION_ENVIRONMENT":2};
+app.resources = {"MOBILE_GPS_ENABLED":true,"CURRENT_COUNTRY":"US","ADDCART_ERRORCOLOR":"Please select a <strong>color</strong> before adding to the cart.","ADDCART_ERRORSIZE":"Please select a <strong>size</strong> before adding to the cart.","ADDCART_ERRORWIDTH":"Please select a <strong>width</strong> before adding to the cart.","ADDCART_ERRORSIZEWIDTH":"Please select a <strong>size</strong> and a <strong>width</strong> before adding to the cart.","ADDCART_ERRORWAIST":"Please select a <strong>waist</strong> before adding to the cart.","ADDCART_ERRORLENGTH":"Please select a <strong>length</strong> before adding to the cart.","ADDCART_ERRORLENGTHWAIST":"Please select a <strong>length</strong> and a <strong>waist</strong> before adding to the cart.","ADDCART_ERRORSIZECUPSIZE":"Please select a <strong>size</strong> and a <strong>cup size</strong> before adding to the cart.","ADDCART_ERRORCUPSIZE":"Please select a <strong>cup size</strong> before adding to the cart.","ADDCART_ERRORSIZELENGTH":"Please select a <strong>size</strong> and a <strong>length</strong> before adding to the cart.","ADDCART_GCVALUEERROR":"Please select a <strong>value</strong> for the gift card before adding to cart.","ADDCART_GCTYPEERROR":"Please select a <strong>type</strong> for the gift card before adding to cart.","ADDCART_GCTYPEVALUEERROR":"Please select a <strong>type</strong> and <strong>value</strong> for the gift card before adding to cart.","ADDCART_PREORDER":"Pre-Order Now","ADDCART_MOBILEREDIRECT":true,"REDIRECT_MOBILE_USER_TO_CART":false,"ADDSCHOOLCODE_ERROR":"There was an error looking up this School Code","NOT_AVAILABLE":"This item is currently not available.","QTY_NOT_AVAILABLE":"This quantity is not available.","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCTS_MODALTITLE":"Select your free gift below","BONUS_PRODUCTS":"Free Gift(s)","SELECT_BONUS_PRODUCTS":"Select {0} Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","BONUS_PRODUCT_MAX":"The maximum number of free gifts have been selected.  Please remove one in order to add additional free gifts.","SIMPLE_SEARCH":"Search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_PHONE":"Please specify a valid phone number.","FIRST_NAME":"Please enter a valid first name","LAST_NAME":"Please enter a valid last name","INVALID_EMAIL":"The email address is invalid.","SUGGESTED_EMAIL_CORRECTION":"Did you mean {0}?","INVALID_CUSTOMER_NAME":"The name you entered is invalid.","INVALID_CUSTOMER_CITY":"The city you entered is invalid.","INVALID_GIFT_CERT_PIN":"Please enter a valid Gift Certificate PIN","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","COMPARE_ADD_MORE":"Add More Products to Compare","COMPARE_PRODUCTS":"Compare These Products","QV_LABEL":"Quick Look","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","POSTCODE_EXCLUDED_COUNTRIES":"FR","GIFT_CERT_INVALID":"Invalid Gift Card Code","GIFT_CERT_BALANCE":"Your current gift certificate balance is ","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of $5 and maximum of $5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","COUPON_CODE_MISSING":"Please Enter a Coupon Code","COOKIES_DISABLED":"Your browser currently is not set to accept cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","LABEL_ZIPCODE":"Zip Code","LABEL_POSTALCODE":"Postal Code","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected ship date is {0}.","INIFINITESCROLL":"Show All","TITLE_SHAREORDER":"Share Your Order","TITLE_CARDDECLINED":"Your credit card was declined","SEPARATOR_VARIATION_TITLE":"and","BUTTON_VARIATION_TITLE":"Please select","BUTTON_VARIATION_SIZE":"Size","BUTTON_VARIATION_WIDTH":"Width","BUTTON_VARIATION_COLOR":"Color","BUTTON_VARIATION_DESIGN":"Design","STORE_ID":"merrell_us","ACCOUNT_AGREE_TO_TERMS":"*You must agree to the terms and conditions","ACCOUNT_AGREE_TO_AGE":"*You must agree with age condition","ADD_REMEMBERED_ITEM":"Wishlist","REMOVE_REMEMBERED_ITEM":"Wishlist","UPDATE_REMEMBERED_ITEM":"Update Wishlist Item","ADD_REMEMBERED_GRID_ITEM":"Wishlist","ADD_REMEMBERED_MOBILE_ITEM":"Wishlist","WISHLIST_FACEBOOK_SHAREMSG":"Check out my favorite Merrell products!","TWITTER_SHARE_DESCRIPTION":"Check out this great Merrell product!","PINTEREST_SHARE_DESCRIPTION":"Check out this cool Merrell product","EMAIL_SHARE_SUBJECT":"Check out the Merrell","EMAIL_SHARE_BODY":"I thought you might like this style from Merrell:","EMPLOYEEAUTH":"You are not logged in","EMPLOYEESUCCESS":"Success!","EMPLOYEENORESULTS":"No employee found","EMPLOYEEPROMOTIONSTACKING":"Sorry, discounts cannot be combined.","EMPPROMOCODE":["WWWEMPLOYEE"],"DISPLAY_TAX":true,"OMNITURE_ENABLED":true,"IS_IN_STORE":false,"COUNTRY_COOKIE_SUFFIX":"","PRO_DEAL_FILE_SIZE_MSG":"File exceedes maximum allowed size (5 Mb)","PRO_DEAL_FILE_MISSING":"No file selected","LOGIN_TITLE":"Login","PROMOTIONAL_DIALOG_TITLE":"Promotional","REGISTER_ERROR_PW_RANGE":"Incorrect password range","REGISTER_ERROR_PW_MATCH":"Passwords do not match","REGISTER_ERROR_PW_FORMAT":"Password Must contain 3 Of The Following: Uppercase, Lowercase, Numeric, Special Character","REQUIREMENT_TITLE":"Why is this information required?","REMEMBERED":"Wishlist","REMEMBERED_PL":"Remembered","PRODUCT_DESCRIPTION_DISPLAY_TYPE":"firstFourLines","READ_MORE_LINK_TEXT":"Read More","READ_LESS_LINK_TEXT":"Read Less","PRODUCT_EXPAND_DESCRIPTION":"...More","PRODUCT_COLLAPSE_DESCRIPTION":"Less","BV_REVIEWS_ENABLED":false,"CQL_REVIEWS_ENABLED":true,"AMAZON_INVALID_SHIPPING_ADDRESS":"The currently selected address is not a valid or supported shipping destination.","AMAZON_INVALID_ADDRESS_LENGTH":"The currently selected address has exceeded the limit for Address1 field.","AMAZON_ALLOWED_SHIPPING_COUNTRIES":"US","CONFIGURATOR_HOWITWORKS_1":"Customize your <product> with these tabs","CONFIGURATOR_HOWITWORKS_2":"Click on parts of the product to select and customize them","CONFIGURATOR_HOWITWORKS_3":"Temporarily save each of your designs to test out several options","CONFIGURATOR_HOWITWORKS_4":"Buy your custom <product> or save them for later","CONFIGURATOR_HOWITWORKS_5":"Share your design to show it off or get feedback from your friends","CONFIGURATOR_HOWITWORKS_6":"Show off your design on our site so others can see your genius","CONFIGURATOR_HOWITWORKS_MOBILE":"Customize your <br /> <product> <br /> with these tabs","CONFIGURATOR_SHIP_TIME":"","CONFIGURATOR_REVIEWS_ENABLED":null,"CONFIGURATOR_CONFIGURE":"Customize","LEAVING_SITE_NOTIFICATION_ENABLED":false,"BLOG_REPLY":"Reply","BLOG_CANCEL":"Cancel","ENABLE_CHECKOUT_SHIPPING_DROP_LOCATIONS":false,"UPS_DROP_LOCATION_SEARCH_URL":null,"MOBILE_MINI_CART":true,"MOBILE_ADDED_TO_CART_POPUP":false,"MOBILE_ADDED_TO_CART_SLIDE":true,"TRUE_TO_SIZE_MESSAGE":"% of reviewers say this item runs true to size","CREDITCARD_MISMATCH":"Please check your card type and card number","PROMOTION_ADDED":"offer added","PROMOTION_REMOVED":"offer removed","COUPON_CODE_ALREADY_IN_BASKET":"This coupon has already been added elsewhere.","NO_COUPON":"This coupon has already been removed elsewhere.","IMPROVED_SITE_SEARCH_ENABLED":true,"SUGGESTED_TERMS_HEADER":"Do you mean?","SUGGESTED_CATEGORIES_HEADER":"Popular Categories","NAVIGATION_SUBMENU_SHIFT_LEFT":true,"DELIVERY_MESSAGING":{"hoursAbbr":"hrs","minutesAbbr":"min","getItByText":"Get it by","orderWithinText":"Order within","receiveByText":"to receive by","taglineText":null},"SITE_SEARCH":{"enabled":true,"navBack":"Back to Main Menu"},"EMAILPREFERENCES_SRCTOFILTER":"","EMAILPREFERENCES_INCOMINGSRC":"","QUICKVIEW_ENABLED":false,"GTM_ENABLED":true,"GTM_CONTAINER_ID":"GTM-NZVWQ87","GTM_ENVIRONMENT_QUERY_STRING":null,"TAGMAN_CLIENT_ID":"merrell","STICKY_HEADER_BOX":true,"GENERIC_REQUIRED_FIELD_ERROR":"Please enter a value","CURRENT_ENVIRONMENT":2,"IN_STOCK":"In Stock","QTY_IN_STOCK":"There are only {0} items left in stock.","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","REMAIN_NOT_AVAILABLE":"Your shopping cart can currently not be ordered, since one or more of the products in your cart have an invalid price or are not available in the requested quantity. If you have any questions, please contact customer service."};
+app.urls = {"appResources":"/on/demandware.store/Sites-merrell_us-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-merrell_us-Site/default/Page-Include","continueUrl":"https://www.merrell.com/US/en/content?dwcont=C623960956","staticPath":"/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/","addGiftCert":"/on/demandware.store/Sites-merrell_us-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-merrell_us-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddProduct","productVariations":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Product-Variation","addConfiguratorProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddConfiguratorProduct","minicart":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-MiniAddProduct","cartShow":"/US/en/cart","changeSiteWarning":"","distributorSiteWarning":"/US/en/content?caid=change-distributorsite-warning-modal","miniCartShow":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-MiniCart","giftRegAdd":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.merrell.com/US/en/wallet","addressesList":"https://www.merrell.com/US/en/addressbook","wishlistAddress":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-merrell_us-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Show","getVariantProductJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetVariantProductJSON","getBonusProducts":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetSetItem","rememberedItemsApi":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-Api","rememberedItemsGetProducts":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-GetProducts","rememberedItemsShow":"/US/en/remembereditems","addNotifyItem":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-AddNotifyItem","setSessionListObject":"/on/demandware.store/Sites-merrell_us-Site/default/RememberedItems-SetSessionListObject","productDetail":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetAvailability","getConfigureAvailability":"/on/demandware.store/Sites-merrell_us-Site/default/Product-GetConfigureAvailability","removeImg":"/on/demandware.static/Sites-merrell_us-Site/-/default/dw578e848d/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-merrell_us-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-merrell_us-Site/default/Product-Productnav","quickCheckoutStart":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COQuickCheckout-Start","summaryRefreshURL":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-ResetPaymentForms","calendarImage":"/on/demandware.static/Sites-merrell_us-Site/-/default/dwea5102aa/images/calendar_icon.png","compareShow":"https://www.merrell.com/US/en/compare","compareAdd":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Compare-AddProduct","compareRemove":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-merrell_us-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddCoupon","updatePromoDisplay":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdatePromoContent","removeCoupon":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-RemoveCoupon","jsChannelIFrame":"https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/dw84359521/lib/jschannel/jschannel.html","catalogsignup":"https://www.merrell.com/US/en/home","revieworder":"https://www.merrell.com/US/en/revieworder","shareorder":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COSummary-ShareOrder","carddeclined":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/COSummary-DeclinedModal","checkoutlogindialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-IframeCheckoutLogin","recommendationsBaseUrl":"https://rec.wolvapps.com","recommendationsCallbackUrl":"/on/demandware.store/Sites-merrell_us-Site/default/WWWRecommendations-Tiles","emailsignupdialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-EmailSignupModal","emailPreferenceEnabled":true,"disableAjaxFormRendering":false,"emailPreferenceUrl":"/US/en/emailpreferences","emailSignupPostUrl":{},"accountDialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Account-IframeLogin","getAddressDetails":"/on/demandware.store/Sites-merrell_us-Site/default/Address-GetJSONDetails","resetPasswordDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Account-PasswordResetDialog","termsAndConditionsDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Account-TermsAndConditions","isEmployee":"/on/demandware.store/Sites-merrell_us-Site/default/Account-IsEmployeeAjax","threesixtyplugin":"/on/demandware.store/Sites-merrell_us-Site/default/Product-ThreeSixtyPlugin","accountRegistration":"/US/en/register","updatePayment":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-RefreshPaymentMethods","updateGCPayment":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-AdjustGiftCertificates?format=ajax","blogSearch":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-Search?s=&suggest=","blogPostComment":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-Posted","blogEmailSignup":"/on/demandware.store/Sites-merrell_us-Site/default/Blog-EmailSignup","blogSignupThankyou":"/US/en/content?caid=email-signup-thanks","billingSaveEmail":"/on/demandware.store/Sites-merrell_us-Site/default/COBilling-StartBillingSaveEmailAddress","updateBasketTotals":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateBasketTotals","updateBasketCoupons":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateBasketCoupons","countryChangeWarning":"/on/demandware.store/Sites-merrell_us-Site/default/CountryGateway-Warning","getNumberOfItemsJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-GetNumberOfItemsJSON","getCategoryLinksJSON":"/on/demandware.store/Sites-merrell_us-Site/default/Category-CategoryLinksJSON","getInStoreDefaultEmail":"/on/demandware.store/Sites-merrell_us-Site/default/COShipping-GetInStoreEmail","proDealIFrameUrl":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/ProDeal-IFrameInput","accountShow":"https://www.merrell.com/US/en/account","promotionalPopupDialog":"/on/demandware.store/Sites-merrell_us-Site/default/Promotion-Popup","addSchoolCode":"/on/demandware.store/Sites-merrell_us-Site/default/Cart-AddSchoolCode","addCQLReviews":"/on/demandware.store/Sites-merrell_us-Site/default/CQLReviews-AddReviews","getOrderReferenceDetails":"/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-GetOrderReferenceDetails","setOrderReferenceID":"/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-SetOrderReferenceID","bvWriteReviewUrl":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Product-AddProductReview","updateEstimatedShipping":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-UpdateEstimatedShipping","emailCartDialog":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-IframeEmailCart","customerSoftLogout":"/on/demandware.store/Sites-merrell_us-Site/default/Login-Logout?softlogout=true","getSearchSuggestions":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Suggest","getSearchProducts":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Products","getSearchDefaults":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/SiteSearch-Defaults","reportBluecoreRemembered":"/on/demandware.store/Sites-merrell_us-Site/default/BlueCore-ReportBlueCoreAddRememberedItem","borderFreeStubOrder":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Borderfree-NewBFOrder","reportBluecoreRemoveMiniCart":"/on/demandware.store/Sites-merrell_us-Site/default/BlueCore-ReportBlueCoreRemoveMiniCartItem","getCouponLines":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/Cart-GetCouponLines","gtmDataLayerUpdate":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/GTMDataLayerUpdate-Start","upsDropLocationReturn":"https://www.merrell.com/US/en/shipping?isUps=true&"};
 app.clientcache = app.clientcache || {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true};
 app.amazonSitePreferences = {"AMAZON_MERCHANT_ID":"AT7MQ1UTDUW9G","AMAZON_LOGIN_BUTTON_TYPE":"LwA","AMAZON_LOGIN_BUTTON_COLOR":"Gold","AMAZON_LOGIN_BUTTON_SIZE":"small","AMAZON_LOGIN_REDIRECT_URL":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-LoginButtonRedirect","AMAZON_PAY_REDIRECT_URL":"https://www.merrell.com/on/demandware.store/Sites-merrell_us-Site/default/AmazonPayments-PayButtonRedirect","AMAZON_SCOPE":"profile postal_code payments:widget payments:shipping_address","AMAZON_PAY_BUTTON_TYPE":"Pay","AMAZON_PAY_BUTTON_COLOR":"LightGray","AMAZON_PAY_BUTTON_SIZE":"x-large","MOBILE_AMAZON_PAY_BUTTON_SIZE":"large","MOBILE_AMAZON_PAY_BUTTON_TYPE":"Pay"};
 app.amazonOrder = {"orderReferenceID":""};
@@ -2543,7 +2814,22 @@ app.amazonOrder = {"orderReferenceID":""};
 <script type="text/javascript">
 
 (function(app){
-app.remote = {"PAGETYPE":"content","PAGE_ELIGIBLE_FOR_PROMO_POPUP":false,"PROMO_POPUP_RESET_INFO":{"Domain":"merrell.com","CookieTimeout":365,"ResetDate":{"y":2018,"m":5,"d":27}},"EMAIL_SIGNUP_SLIDER":false,"IS_PROMO_POPUP_COOKIE_EXPIRED":true,"DELIVERY_MESSAGING":{"date":"8/28","day":"Tuesday","hours":14,"minutes":44}};
+app.isProDeal = false;
+app.isMobileUserAgent = false;
+app.zoomViewerEnabled = true;
+app.remote = {"PAGETYPE":"content","PAGE_ELIGIBLE_FOR_PROMO_POPUP":false,"PROMO_POPUP_RESET_INFO":{"Domain":"merrell.com","CookieTimeout":365,"ResetDate":{"y":2018,"m":5,"d":27}},"EMAIL_SIGNUP_SLIDER":false,"BASKET_ID":"","IS_PROMO_POPUP_COOKIE_EXPIRED":true,"LOCALE":"default","REDIRECT_MOBILE_USER_TO_CART":false,"CURRENCY_SYMBOL":"$","CURRENT_USERNAME":"","CURRENT_USERFIRSTNAME":"","CURRENT_USERLASTNAME":"","USER_DEVICE":"desktop","IS_FORM_VALID":true,"REGISTERED_CUSTOMER":false,"AUTHENTICATED_CUSTOMER":false,"DELIVERY_MESSAGING":{"date":"6/5","day":"Wed","hours":10,"minutes":32}};
+// These 9 resources were moved from the cached resource file to here so they have to be stuffed into the app.resources file
+// Calling these 9 out by hand and not looping over the remote object to try to avoid continuing this practice in the future.
+app.resources.LOCALE = app.remote.LOCALE;
+app.resources.CURRENCY_SYMBOL = app.remote.CURRENCY_SYMBOL;
+app.resources.CURRENT_USERNAME = app.remote.CURRENT_USERNAME;
+app.resources.CURRENT_USERFIRSTNAME = app.remote.CURRENT_USERFIRSTNAME;
+app.resources.CURRENT_USERLASTNAME = app.remote.CURRENT_USERLASTNAME;
+app.resources.REDIRECT_MOBILE_USER_TO_CART = app.remote.REDIRECT_MOBILE_USER_TO_CART;
+app.resources.USER_DEVICE = app.remote.USER_DEVICE
+app.resources.IS_FORM_VALID = app.remote.IS_FORM_VALID;
+app.resources.REGISTERED_CUSTOMER = app.remote.REGISTERED_CUSTOMER;
+app.resources.AUTHENTICATED_CUSTOMER = app.remote.AUTHENTICATED_CUSTOMER;
 }(window.app = window.app || {}));
 </script>
 <script type="text/javascript">
@@ -2551,15 +2837,7 @@ app.remote = {"PAGETYPE":"content","PAGE_ELIGIBLE_FOR_PROMO_POPUP":false,"PROMO_
 []
 </script>
 <script src="//assets.pinterest.com/js/pinit.js" data-pin-build="parsePinBtns" data-pin-zero="1"></script>
-<script src="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/js/www_footerUI_global.js"></script>
-<script type="text/javascript">
-    window.onAmazonLoginReady = function() {
-      amazon.Login.setClientId("amzn1.application-oa2-client.f6dd1458357c488fb9ac312ddb7e5392");
-    };
-</script>
-<script type="text/javascript" src="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js?sellerId=AT7MQ1UTDUW9G">
-    </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/js/amazonPayments.js"></script>
+<script type="text/javascript" src="https://www.merrell.com/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/js/www_footerUI_global.js"></script>
 <script>
 	app.page.setContext({"title":"Customer Service","type":"customerservice","ns":"account"});    
 </script>
@@ -2569,7 +2847,7 @@ app.remote = {"PAGETYPE":"content","PAGE_ELIGIBLE_FOR_PROMO_POPUP":false,"PROMO_
 </script>
 
 <script language="JavaScript" type="text/javascript">var s_account = "wwwmerrellcom";</script>
-<script language="JavaScript" type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/js/omniture.js"></script>
+<script language="JavaScript" type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/js/omniture.js"></script>
 <script language="javascript" type="text/javascript">
 var omniture_reportPage = function(initialReporting) {
 if (!initialReporting) { s.clearVars(); }
@@ -2591,10 +2869,10 @@ omnTimePartingTzOffset = -4.0;
 if (initialReporting) { var s_code=s.t();if (s_code)document.write(s_code); } else { void(s.t()); }
 };omniture_reportPage(true);
 		</script>
-<noscript style="display:none"><img src="https://wolverineworldwide.112.2o7.net/b/ss/wwwmerrellcom/1/G.5--NS/6547465328?currencyCode=USD&gn=customer%20service%3A%20privacy%20and%20security&v40=US&v41=en&v15=D%3Dg&c40=US&c41=en&c13=merrell_us&c42=USD&c21=D%3Dg&currencyCode=USD" alt="" /></noscript>
+<noscript style="display:none"><img src="https://wolverineworldwide.112.2o7.net/b/ss/wwwmerrellcom/1/G.5--NS/2518256223?currencyCode=USD&gn=customer%20service%3A%20privacy%20and%20security&v40=US&v41=en&v15=D%3Dg&c40=US&c41=en&c13=merrell_us&c42=USD&c21=D%3Dg&currencyCode=USD" alt="" /></noscript>
 
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/lib/onlineopinionV5/oo_engine.min.js"></script>
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/lib/onlineopinionV5/oo_conf_inline.js"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/lib/onlineopinionV5/oo_engine.min.js"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/lib/onlineopinionV5/oo_conf_inline.js"></script>
 <script type="text/javascript">
 (function(app) {
 app.recommendationEvents = app.recommendationEvents || [];
@@ -2612,7 +2890,7 @@ app.recommendationEvents = app.recommendationEvents.concat([]);
 </script>
 <script type="text/javascript">
 var p_t = window.app.page.type
-dataLayer.push({'page_type': p_t.toLowerCase()});dataLayer.push({"session_id":"ZzdCdbMGr44pek_eKjIbeiFZnfH_X_UsbG0="});
+dataLayer.push({'page_type': p_t.toLowerCase()});dataLayer.push({"session_id":"jrfFjYowTue3aSCYEmuc9ZqPewwAVoZs8l4="});
 </script>
 </div>
 
@@ -2632,9 +2910,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -2644,7 +2922,7 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.merrell.com\/on\/demandware.sto
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1535028198740/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-merrell_us-Site/-/default/v1559303850868/internal/jscript/applepay.js" async="true"></script>
 
 
 </body></html>
