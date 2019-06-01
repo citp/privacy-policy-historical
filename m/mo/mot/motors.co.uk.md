@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208153202id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601040419id_/https%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+**Privacy Policy**
 
 We respect your privacy and we are committed to protecting it and to complying with applicable data protection and privacy laws. We have provided this Policy statement to help you understand how we collect, use and protect your personal information when you visit Motors.co.uk.
 
 Please note that this Policy may change from time to time and, if it does, the latest version will always be available on the Site.
 
-**1\. Who we are**
+  1. **Who we are**
+
+
 
 Motors.co.uk Ltd is the data controller in respect of any personal information to which this privacy policy applies. You can contact us at:
 
@@ -22,59 +26,41 @@ Oxfordshire
 
 OX14 4SA
 
-Or via email: [privacy@motors.co.uk](mailto:privacy@motors.co.uk)
+Or via email: [privacy@motors.co.uk](mailto:privacy@motors.co.uk)
 
-Motors.co.uk Ltd is part of the Cox Automotive UK group of companies. The Cox Automotive UK Group consists of the companies listed below. References in this privacy policy to the ‘Cox Automotive Group’ should be taken to include all of these companies:
+References in this privacy policy to the Motors.co.uk Network should be taken as referring to the following partner websites. This list may change from time to time but the most up to date list will be displayed here:
 
-  * Cox Automotive UK Ltd
-  * Cox Automotive Retail Solutions Ltd
-  * Manheim UK Ltd
-  * Nextgear Capital Ltd
-  * co.uk Ltd
-  * Dealer Auction Ltd
-  * com Ltd
-  * com Ltd
-  * Movex Logistics Ltd
-  * Kingfisher Systems Ltd
-  * RMS Automotive
-  * Modix UK Ltd
-  * Incadea
-
-
-
-References in this privacy policy to the ‘Motors.co.uk Network’ should be taken as referring to the following partner websites. This list may change from time to time but the most up to date list will be displayed here:
-
-  * Parkers.co.uk
-  * Honestjohn.co.uk
-  * Carsite.co.uk
-  * Confused.com
-  * Autovillage.co.uk
-  * Desperateseller.co.uk
-  * Scottishmotors.com
-  * Carmony.co.uk
-  * Petrolprices.com
-  * Vansa2z.com
-  * Raccars.co.uk
-  * Drive24.co.uk
-  * Autoexpress.co.uk
-  * Usedcarexpert.co.uk
-  * Preloved.co.uk
   * Autoclubsinternational.com
+  * Autoexpress.co.uk
+  * Autovillage.co.uk
   * Carmagazine.co.uk
-  * Motoring.co.uk
+  * Carmony.co.uk
   * Carmoney.co.uk
-  * Motorway.co.uk
+  * Carsite.co.uk
+  * Carsource.co.uk
   * Cheapmotors.co.uk
+  * Confused.com
+  * Desperateseller.co.uk
+  * Drive24.co.uk
+  * Honestjohn.co.uk
+  * Motoring.co.uk
+  * Motorway.co.uk
+  * Scottishmotors.com
+  * Parkers.co.uk
+  * Petrolprices.com
+  * Preloved.co.uk
+  * Raccars.co.uk
+  * Usedcarexpert.co.uk
+  * Vansa2z.com
 
 
+  2. **What we do with your personal information**
 
-If you wish to contact our Head of Privacy & Data Protection, you can do so by emailing [dataprotection@manheim.co.uk](mailto:dataprotection@manheim.co.uk).
 
-**2.  What we do with your personal information**
 
 Motors.co.uk Ltd collects the following personal information about you and uses it for the following purposes:
 
-1) When you sign up for a My Garage account or otherwise want to buy or sell a vehicle using the Motors.co.uk website, we collect your email address, name, post code and mobile number. We use this information for the purposes of setting up and administering your account on Motors.co.uk. We also use your mobile number as a means of verification when you sell cars using the motors.co.uk website
+1) When you sign up for a My Garage account or otherwise want to buy or sell a vehicle using the Motors.co.uk website, we collect your email address, name, postcode and mobile number. We use this information for the purposes of setting up and administering your account on Motors.co.uk. We also use your mobile number as a means of verification when you sell cars using the motors.co.uk website
 
 2) If you are a dealer, whether a sole trader or other form of company, we also collect amongst other things postal addresses, VAT Number, Company Number, names of directors, owners or partners of the business and driver license number. We collect this information to set up and administer your Motors.co.uk account.
 
@@ -82,67 +68,59 @@ Motors.co.uk Ltd collects the following personal information about you and uses 
 
 4) We use IP addresses for three reasons:
 
-a. To determine whether activity on our domains has been carried out by ‘human’ activity as opposed to bot or crawler activity.
+  1. To determine whether activity on our domains has been carried out by human activity as opposed to bot or crawler activity.
+  2. For research purposes in order to help us understand consumer activity and search trends on our network.
+  3. To help determine your location to make searching for vehicles more effective.
 
-b. For research purposes in order to help us understand consumer activity and search trends on our network.
 
-c. To help determine your location to make searching for vehicles more effective.
 
-5) We use cookies on our domains to collect information about how and what you browse our domains and use this data to create audiences for marketing purposes. We may share this data with the Cox Automotive Group in order to market you with products and services offered by other Cox Automotive UK Group members. We may also share this information with the Cox Automotive UK Group in order to provide us with an insight into your activities with companies across the group. For more information about cookies, how we use them, and how to opt out please refer to our Cookies section (5).
+5) We use cookies on our domains to collect information about how and what you browse our domains and use this data to create audiences for marketing purposes. For more information about cookies, how we use them, and how to opt out please refer to our Cookies section (5).
 
-6) We may also share your name and contact details with other members of the Cox Automotive Group for the purpose of sending you direct marketing communications.
+6) We retain a log of your correspondence with us including emails, online chat sessions and telephone calls. We retain any personal data contained within these communications for the purposes of providing an audit trail of your interactions with us. We also provide access to this information to our dealers for quality control and monitoring purposes. Recordings of telephone calls are retained for 90 days and recordings of emails are retained for 2 years.
 
-7) We retain a log of your correspondence with us including emails, online chat sessions and telephone calls. We retain any personal data contained within these communications for the purposes of providing an audit trail of your interactions with us. We also provide access to this information to our dealers for quality control and monitoring purposes. Recordings of telephone calls are retained for 90 days and recordings of emails are retained for 2 years.
+7) Where you inquire about or purchase a vehicle from a dealer, we may provide additional information to that dealer. We provide details of the postcode you supply and details of the vehicle searches and results to the dealer. This is provided to allow dealers to monitor through traffic from Motors.co.uk and the Motors.co.uk Network and monitor how many sales are generated using the Motors.co.uk website and Motors.co.uk Network.
 
-8) Where you enquire about or purchase a vehicle from a dealer, we may provide additional information to that dealer. We provide details of the post code you supply and details of the vehicle searches and results to the dealer. This is provided to allow dealers to monitor through traffic from Motors.co.uk and the Motors.co.uk Network and monitor how many sales are generated using the Motors.co.uk website and Motors.co.uk Network.
-
-**2.1 Grounds on which we process your personal data** ** **
+**2.1 Grounds on which we process your personal data**
 
 Motors.co.uk Ltd processes your personal information on the following grounds:
 
-1) **Performance of a contract**
+1)  **Performance of a contract**
 
 Motors.co.uk provides a service where we connect buyers and sellers of vehicles. Where you use motors.co.uk to buy or sell a vehicle whether as a dealer or private individual, you are entering into a contract with Motors.co.uk Ltd in relation to the use of our service. We process the personal data collected during the transaction process in order to provide this service by storing and exchanging this data with the buyer and seller.
 
- 2)  **Consent**
+2)  **Consent**
 
-Where we process your personal data for direct marketing purposes, whether for the purpose of sending such communications or sharing with the Cox Automotive Group for such purposes, is based on us having contained valid opt in consent from you to do so.
+Where we process your personal data for direct marketing purposes is based on us having contained valid opt in consent from you to do so.
 
-You have the right to withdraw your consent at any time though this does not affect the lawfulness of the processing of your personal information prior to that withdrawal. You can withdraw your consent by contacting us at [privacy@motors.co.uk](mailto:privacy@motors.co.uk).
+You have the right to withdraw your consent at any time though this does not affect the lawfulness of the processing of your personal information prior to that withdrawal. You can withdraw your consent by contacting us at [privacy@motors.co.uk](mailto:privacy@motors.co.uk).
 
- 3)  **Legitimate Interests**
+3)  **Legitimate Interests**
 
 Where it is not necessary for us to process personal data for the performance of our contract with you, such as the correspondence logs, then this personal data is processed on the basis of Motors.co.uk or the third party to whom we provide the data pursuing legitimate business interests.
 
 It is in our legitimate interest to maintain audit logs of communications between Motors.co.uk and buyers and sellers of vehicles via Motors.co.uk. This is to assist in dispute resolution, for quality monitoring purposes and in order for us to demonstrate the value of our service to our clients.
 
-Processing undertaken for any other purpose set out in section 2 above which has not otherwise been specifically dealt with here is processed on the basis of legitimate interests. It is in the legitimate interests of both Motors.co.uk and the Cox Automotive Group to understand the activities of those who use our products and services, including websites, to ensure that activity is being undertaken is legitimate, i.e.it is being undertaken by natural persons instead of bots.
+Processing undertaken for any other purpose set out in section 2 above which has not otherwise been specifically dealt with here is processed on the basis of legitimate interests. It is in the legitimate interests of Motors.co.uk to understand the activities of those who use our products and services, including websites, to ensure that activity is being undertaken is legitimate, i.e.it is being undertaken by natural persons instead of bots.
 
-**3\. Disclosures and Transfers**
+  3. **Disclosures and Transfers**
+
+
 
 Motors.co.uk Ltd will or may pass your personal information on to the following recipients or categories of recipients:
 
   * Staff of Motors.co.uk Ltd or staff members of those who process personal data on behalf of Motors.co.uk Ltd as set out in this section.
-
-
-  * Other members of the Cox Automotive Group.
-
-
   * We may occasionally use data processors (as set out below) who are located outside of the European Union.
-
-
   * We share dealer contact information contained within advertisements listed on our website with the Motors.co.uk network.
-
-
   * Dealers from whom you wish to buy a vehicle.
 
 
+  4. **Your rights in relation to your personal information**
 
-**4\. Your rights in relation to your personal information**
+
 
 You have the following rights in relation to the personal information Motors.co.uk Ltd processes relating to you. Where you exercise these rights, Motors.co.uk Ltd will provide information to you as to what action has been taken, if any, within 30 calendar days of receipt of your request. Where no action has been taken, Motors.co.uk Ltd will explain our reasons why.
 
-Taking into account the complexity and number of requests, it may take Motors.co.uk Ltd up to 90 calendar days to respond to your request. Where Motors.co.uk Ltd intend to extend the deadline for responding, you will be informed within 30 calendar days of receipt of your request.
+Taking into account the complexity and number of requests, it may take Motors.co.uk Ltd up to 90 calendar days to respond to your request. Where Motors.co.uk Ltd intends to extend the deadline for responding, you will be informed within 30 calendar days of receipt of your request.
 
 **4.1 Right of Access**
 
@@ -158,7 +136,7 @@ In certain limited circumstances, you have the right to request that Motors.co.u
 
   * Where Motors.co.uk Ltd no longer require the personal information for the purpose(s) for which it was obtained or otherwise used.
   * Where the processing is based on your consent, that consent has been withdrawn and there is no other legal ground for processing.
-  * Where you have exercised your right to object to the processing and there is no overriding legitimate grounds for the processing.
+  * Where you have exercised your right to object to the processing and there are no overriding legitimate grounds for the processing.
   * Where you have exercised your right to object to the use of your personal information for direct marketing purposes.
   * Where the personal information has been unlawfully processed.
   * Where Motors.co.uk Ltd are required to erase the personal information in order to comply with a legal obligation.
@@ -172,7 +150,7 @@ The right does not apply where the processing of your personal information is ne
 
 
 
-**  4.4 Right to restriction of processing**
+**4.4 Right to restriction of processing**
 
 You have the right to request that Motors.co.uk Ltd restrict the processing of your personal information in the following circumstances:
 
@@ -224,7 +202,7 @@ You have the right to object to the processing of your personal information at a
 
 
 
-**4.6.2 Right  to object to processing for the purposes of direct marketing**
+**4.6.2 Right to object to processing for the purposes of direct marketing**
 
 You have the right to object specifically to the processing of your personal information for the purposes of direct marketing. If you object to the processing of your personal information in this way, then Motors.co.uk Ltd will no longer process it for that purpose.
 
@@ -238,29 +216,26 @@ You have the right not to be subjected to a decision based solely on automated p
 
 
 
-**4.8 Right to complain to the Information Commissioner’s Office**
+**4.8 Right to complain to the Information Commissioner's Office**
 
 Where you believe that Motors.co.uk Ltd has failed to properly comply with its obligations in respect of your personal information, including your rights as set out in section 3.1-3.7 above, you can complain to the Information Commissioner.
 
-The Information Commissioner’s Office’s address is:
+The Information Commissioner's Office address is:
 
-The Information Commissioner’s Office
-
-Wycliffe House
-
-Water Lane
-
-Wilmslow
-
-Cheshire
-
+The Information Commissioner's Office   
+Wycliffe House   
+Water Lane   
+Wilmslow   
+Cheshire   
 SK9 5AF
 
-You can find more information about their role and how to submit a complaint on their website: [www.ico.org.uk](http://www.ico.org.uk/).
+You can find more information about their role and how to submit a complaint on their website: [www.ico.org.uk](http://www.ico.org.uk/).
 
-**5.**   **Cookies**
+  5. **Cookies**
 
-As set out in section 2 above, a cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device (“ **your device** ”).
+
+
+As set out in section 2 above, a cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device.
 
 A cookie cannot:
 
@@ -467,11 +442,11 @@ motNigOwlDat
 
 | 
 
-Allows us to pre-populate Night Owl email form on car details pages
+Persistent, 1 Day
 
 | 
 
-Persistent, 1 Day  
+Allows us to pre-populate Night Owl email form on car details pages  
   
 ASP.NET_SessionId
 
@@ -553,6 +528,16 @@ Persistent, 30 days
 
 Enabling the site to remember the last viewed vehicle  
   
+motVehDetNav
+
+| 
+
+Persistent, 1 day
+
+| 
+
+Contains vehicleId in order to enable the vehicle details navigation slider  
+  
 superchargerDisplayState
 
 | 
@@ -562,6 +547,36 @@ Persistent, 3 Days
 | 
 
 Records user preference for displaying our Supercharger search results  
+  
+motDev
+
+| 
+
+Persistent, 365 Days
+
+| 
+
+This is the device id which gives the device that the user is using a unique id so that we can if required understand activity from a device.  
+  
+motDevFirstAccess
+
+| 
+
+Persistent, 365 Days
+
+| 
+
+The date at which a device first accessed the site.  
+  
+motFeatureVersion
+
+| 
+
+Session
+
+| 
+
+Stores the version of a feature on the site.  
   
 Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set.
 
@@ -646,6 +661,22 @@ Session & 30 mins
 | 
 
 Used to measure length of visit  
+  
+Conductrics
+
+| 
+
+Depends on the length of the experiment but typically no more than 30 days.
+
+| 
+
+Used to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in.  
+  
+Wisepops
+
+|  | 
+
+Used to show Motors.co.uk offers and products.  
   
 _utmz
 
@@ -753,8 +784,10 @@ Used to serve adverts based on your previous browsing behaviour
 
 <https://support.google.com/dfp_premium/answer/2839090?hl=en>  
   
-**OpenX**  
-  
+**OpenX**
+
+| 
+
 Technology which allows advertisers to serve targeted adverts to you based on your browser behaviour  
   
 **Opt out**
@@ -765,7 +798,7 @@ Technology which allows advertisers to serve targeted adverts to you based on yo
   
 **5.6 Retargeting & Audience Cookies**
 
-We use various technologies to collect and target users based on cookies. Cookies collect information on user engagement. Various engagements are added together to build audience lists which are then used to show targeted ads to users on third party sites. These audiences are used by us on the behalf of ourselves (Motors.co.uk), Cox Automotive UK businesses, and customers (e.g. car dealers and car finance providers).
+We use various technologies to collect and target users based on cookies. Cookies collect information on user engagement. Various engagements are added together to build audience lists which are then used to show targeted ads to users on third party sites. These audiences are used by us on the behalf of ourselves (Motors.co.uk) and customers (e.g. car dealers and car finance providers).
 
 The platforms, and cookies used for this are listed below with links to opt out pages:
 
@@ -869,25 +902,25 @@ Adwords Remarketing
 
 Motors.co.uk uses audiences created using Google Adwords cookie data to buy ad inventory through Google DoubleClick  
   
-Opt out
+**Opt out**
 
 | 
 
 <https://www.google.com/settings/u/0/ads/>  
   
-**Facebook**  
-  
-Tracking pixel (var _fbq and var fbds) and cookies
+**Facebook**
 
 | 
 
 Motors.co.uk uses Facebook to buy ads to target users based on browsing behaviour on Motors.co.uk  
   
-**Opt out**  
+**Opt out**
+
+| 
+
+<https://www.facebook.com/help/568137493302217>  
   
-**Speedshift Media**  
-  
-Tracking pixel and cookies
+**Speedshift Media**
 
 | 
 
@@ -899,9 +932,57 @@ Motors.co.uk uses SSM to build dynamic vehicle ads based on user behaviour on Mo
 
 <http://www.speedshiftmedia.com/about/user-choices>  
   
+**Captify**
+
+| 
+
+Captify collects ANONYMOUS audience data from Motors.co.uk to sell to 3rd party advertisers  
+  
+**Opt out**
+
+| 
+
+<http://www.captify.co.uk/privacy-policy/>  
+  
+**Sirdata**
+
+| 
+
+Sirdata collects ANONYMOUS audience data from Motors.co.uk to sell to 3rd party advertisers  
+  
+**Opt out**
+
+| 
+
+<https://www.sirdata.com/optout/>  
+  
+**RTB**
+
+| 
+
+Tracking pixel Criteo use a tracking pixel as well as multiple cookies. These cookies keep information such as which pages you viewed and certain other parameters in order to provide more relevant advertisements to our users.  
+  
+**Opt out**
+
+| 
+
+<https://www.rtbhouse.com/optout-page/>  
+  
+**ROKT**
+
+| 
+
+ROKT use cookies to show offers to our users.  
+  
+**Opt out**
+
+| 
+
+To opt out of this please follow the link within the email that you receive from them.  
+  
 **5.7 Set 3rd Party Cookie Preference**
 
-Using the opt out links in the tables above, you can set preferences for each provider, additionally you can use the Your Online Choices or Network Advertising Initiative website to set your preferences for cookies that may be found for these and other sites.
+We ask for your consent to set cookies when you first visit the site. You can set preferences for each provider using the opt out links in the tables above, or to update your choices at any time [click here](http://content.wordpress.motors.co.uk/). Additionally you can use the [Your Online Choices](http://www.youronlinechoices.com/) or [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/) website to set your preferences for cookies that may be found for these and other sites.
 
 **5.8 How Google products use cookies**
 
@@ -919,8 +1000,14 @@ A Flash Cookie is a type of cookie which is collected via Adobe Flash Player, an
 
 If you have any questions about our use of cookies, please contact us either via the email address or by post at the address set out in clause 3.1.
 
-**6.  Use of Your Personal Information Submitted to Other Websites**
+  6. **Use of Your Personal Information Submitted to Other Websites**
 
-**6.1** We cannot be responsible for the privacy policies and practices of other third party websites even if you accessed the third party website using links from the Site or you linked to the Site from a third party website.
 
-**6.2** We recommend that you check the policy of each website you visit and contact the owner or operator of such website if you have any concerns or questions.
+
+**6.1**  We cannot be responsible for the privacy policies and practices of other third party websites even if you accessed the third party website using links from the Site or you linked to the Site from a third party website.
+
+**6.2**  We recommend that you check the policy of each website you visit and contact the owner or operator of such website if you have any concerns or questions.
+
+**_December 2017_**
+
+F1
