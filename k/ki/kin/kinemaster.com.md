@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the kinemaster.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829071705id_/https%3A//support.kinemaster.com/hc/en/articles/206103142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinemaster.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601022222id_/https%3A//support.kinemaster.com/hc/en-us/articles/206103142) for the most accurate reproduction.*
 
-# Privacy Policy – HELP CENTER
+# Privacy Policy (Android) – HELP CENTER
+
+_**Privacy Policy (iOS)** is separately provided [here](https://support.kinemaster.com/hc/en-us/articles/115000079081)._
 
 _This English translation is provided for your reference purposes only, and is not legally binding. Only a Korean version of the Privacy Policy of KineMaster is legally binding._
 
-NexStreaming Corp. (the "Company") makes much account of personal information of his customers using the services operated by the Company. The Company’s privacy policy (“Policy”) is set forth below.
+KineMaster Corporation (the "Company") makes much account of personal information of his customers using the services operated by the Company. The Company’s privacy policy (“Policy”) is set forth below.
 
 By providing any Personal Information to the Company, you fully understand and consent to the collection, use, and transfer of Personal Information on the terms and conditions outlined in the Policy. If you don’t agree to the Policy, please choose not to provide Personal Information to the Company.
 
@@ -180,7 +182,7 @@ Jaewon CHUNG
 
 | 
 
-privacy@nexstreaming.com  
+privacy@kinemaster.com  
   
 **11\. Changes in Personal Information Management Policies**
 
