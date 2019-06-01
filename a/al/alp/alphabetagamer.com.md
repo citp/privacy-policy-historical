@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphabetagamer.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228222208id_/https%3A//www.alphabetagamer.com/cookie-consent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphabetagamer.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602013222id_/https%3A//www.alphabetagamer.com/cookie-consent) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Consent | Alpha Beta Gamer
 
