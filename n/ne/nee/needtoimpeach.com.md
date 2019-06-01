@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the needtoimpeach.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109094711id_/https%3A//www.needtoimpeach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needtoimpeach.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601192858id_/https%3A//www.needtoimpeach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Need to Impeach
-
-## Privacy Policy
 
 Needtoimpeach.com is committed to protecting the privacy of each visitor using its interactive services. The purpose of this Privacy Policy is to inform you, as a visitor of Needtoimpeach.com, what types of information we may gather about you when you visit Needtoimpeach.com (the “Web Site”), how we may use that information, and whether we disclose it to anyone. This privacy policy applies only to information collected from you online, not offline. This privacy policy applies only to the Web Site, its subsidiaries and affiliates, but not to other companies’ or organizations’ websites.
 
