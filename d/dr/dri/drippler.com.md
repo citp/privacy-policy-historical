@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230015218id_/http%3A//drippler.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601021606id_/http%3A//drippler.com/about/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drippler
 
