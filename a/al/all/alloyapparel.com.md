@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226091346id_/http%3A//alloyapparel.com/about-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloyapparel.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601173348id_/http%3A//www.alloyapparel.com/about-us/privacy-and-security) for the most accurate reproduction.*
 
 # Alloy :: Privacy Policy
 
