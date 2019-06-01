@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quoddy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184832id_/https%3A//www.quoddy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quoddy.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601054510id_/https%3A//www.quoddy.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Quoddy.com
 
-SAVE 15% SITEWIDE THROUGH TUESDAY WITH CODE JUNE15 ♦ GET ON THE QUODDY EMAIL LIST TO HEAR NEWS FIRST 
+selection of bestselling mens shoes now in-stock for fast delivery ♦  Subscribe To Our Email List  ♦ 
 
 PRIVACY STATEMENT- Quoddy
 
@@ -154,12 +154,6 @@ Let's keep in touch.
 
 **Sign Up Now** to receive exclusive Quoddy promotions and news from Maine.
 
-Of course we all want this to work. But, if you decide you don't love your shoes, return them within 30 days of delivery for a refund. No questions asked. Just contact customer service to arrange it. 
+Looks like you're browsing the Quoddy website from the EU. 
 
-A note about sizing for our current customers 
-
-If you like your first pair of shoes but the fit is just a bit too tight, our shoemakers can adjust them so there is more room in the front. Contact us by email, chat or phone to arrange this complimentary service. 
-
-Need help ordering shoes online? 
-
-We’re here Monday to Friday 8:30 A.M - 5:00 P.M. E.T 
+Please check out our European website for a more personalized experience with faster and cheaper shipping. 
