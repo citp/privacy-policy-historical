@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvd-photo-slideshow.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130010925id_/http%3A//www.dvd-photo-slideshow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd-photo-slideshow.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601142704id_/http%3A//www.dvd-photo-slideshow.com/privacy.html) for the most accurate reproduction.*
 
 # Photo to DVD Slideshow Software - Slideshow DVD, Photo to DVD, DVD Slide Show
 
