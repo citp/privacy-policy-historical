@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129102243id_/http%3A//tradereader.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601210347id_/http%3A//www.tradereader.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Live Tender, Tender, Tender Bids, Municipal Corporation Tender, Fresh Tenders, Tenders Online
 
