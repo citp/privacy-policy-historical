@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201205942id_/https%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601182051id_/https%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
 
 # WeatherForYou.com Privacy Statement
 
@@ -107,7 +107,7 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google's
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
 
 **Opting out:**  
-Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/ads). Alternatively, you can opt out by visiting the [Network Advertising Initiative Opt Out page](http://optout.networkadvertising.org/), by visiting [www.aboutads.info](https://web.archive.org/web/20181201205942id_/https%3A//www.weatherforyou.com/by%20visiting%20www.aboutads.info) or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout).
+Users can set preferences for how Google advertises to you using the [Google Ad Settings page](https://www.google.com/settings/ads). Alternatively, you can opt out by visiting the [Network Advertising Initiative Opt Out page](http://optout.networkadvertising.org/), by visiting [www.aboutads.info](https://web.archive.org/web/20190601182051id_/https%3A//www.weatherforyou.com/by%20visiting%20www.aboutads.info) or by using the [Google Analytics Opt Out Browser add on](https://tools.google.com/dlpage/gaoptout).
 
 **California Online Privacy Protection Act**
 
