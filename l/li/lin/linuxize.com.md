@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxize.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120110100id_/https%3A//linuxize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxize.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601093225id_/https%3A//linuxize.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Linuxize
 
@@ -35,4 +35,4 @@ We may periodically update this policy.
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Any questions about this Privacy Policy should be addressed to [[email protected]](https://linuxize.com/cdn-cgi/l/email-protection)
