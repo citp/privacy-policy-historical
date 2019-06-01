@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathofexilegems.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218092103id_/http%3A//pathofexilegems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathofexilegems.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601081242id_/https%3A//pathofexilegems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Path of Exile Gems
 
