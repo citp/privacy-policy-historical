@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplatter.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225062459id_/http%3A//www.uplatter.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplatter.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601082507id_/http%3A//www.uplatter.com//privacy) for the most accurate reproduction.*
 
 # uPlatter
 
