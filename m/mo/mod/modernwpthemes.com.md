@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the modernwpthemes.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630213337id_/http%3A//modernwpthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernwpthemes.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601175800id_/http%3A//modernwpthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern WP Themes
 
 This Privacy Policy governs the manner in which Modern WP Themes collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://modernwpthemes.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Modern WP Themes.
 
 **Personal identification information**  
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**  
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
