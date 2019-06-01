@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817103608id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allears.net privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601224713id_/http%3A//allears.net/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - AllEars.Net
 
 AllEarsNet LLC, (AllEarsNet) owns and operates **AllEars.net®** , which comprises **the Unofficial Walt Disney World Information Guide** , the **ALL EARS®** weekly newsletter and its companion promotional newsletter **Ears the Deal™**.
 
@@ -16,7 +16,7 @@ This Privacy Policy applies only to **AllEars.net** **®**. This privacy policy 
 
 When you browse through any web site, certain personal information about you can be collected. Like most standard web site servers we use log files. We automatically collect and temporarily store information about your visit. We use this information for statistical purposes and to help us make our site more useful to visitors. The data collected may include Internet protocol (IP) addresses, domain name, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This data is used to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. Your IP number is visible to most of the websites that you visit. **AllEars.net** **®** may use IP numbers to help diagnose problems with our servers and to administer our Web site. 
 
-**AllEars.net®** utilizes **a number of outside vendors to operate portions of the website and/or newsletter. For instance,[campaigner.com](http://campaigner.com/)** is used for newsletter ( **ALL EARS®** and **Ears the Deal** ™) distribution, and **[adspeed.com](http://adspeed.com/)** for banner ad programs. Please see those sites for their privacy information.
+**AllEars.net®** utilizes **a number of outside vendors to operate portions of the website and/or newsletter. For instance,[campaigner.com](http://campaigner.com/)**, drip.com and InfusionSoft are used for newsletter ( **ALL EARS®** and **Ears the Deal** ™) distribution, and **[adspeed.com](http://adspeed.com/)** for banner ad programs. Please see those sites for their privacy information.
 
 ### PERSONALLY PROVIDED INFORMATION
 
@@ -34,7 +34,7 @@ We reserve the right to perform statistical analysis of user behavior and charac
 
 ### COOKIES
 
-A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not require cookies of its visitors.** However, our banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information. We use Google to track website usage, visitors, what pages are viewed, and obtain aggregate demographics. We can not see your personal information. 
+A cookie is a mechanism that allows a website to record your comings and goings, usually without your knowledge or consent. **ALL EARS® does not require cookies of its visitors.** However, our banner rotation program is administered by a third party and may contain cookies. We do not have access to this cookie information. We use Google Analytics to track website usage, visitors, what pages are viewed, and obtain aggregate demographics. We can not see your personal information. 
 
 If you do not want to accept cookies from **AllEars.net** **®** or other sites, you must set your browser software to not accept cookies. Look in the Preferences (Netscape) or Internet Options (Microsoft Internet Explorer) feature to disable cookies. 
 
@@ -100,6 +100,6 @@ At any time, you can change choices you have previously made as to the use of yo
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, contact:
 
-[**admin@allears.net**](mailto:admin@allears.net)
+[**admin@allears.net**](mailto:admin@/)
 
-This Privacy Policy was last updated on July 10, 2018.
+This Privacy Policy was last updated on December 12, 2018.
