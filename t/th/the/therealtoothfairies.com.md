@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225075103id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601095247id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
 
 # The Real Tooth Fairies® - Guest Services - Privacy Policy
 
@@ -55,7 +55,7 @@ For the free child registration which occurs separately from the content of our 
 3\. How can parents view, change or delete personally identifiable information about their child?**
 
   
-By identifying yourself appropriately, parents may review their child’s personal information that we have collected at the website TheRealToothFairies.com. Parents can, at any time, refuse to permit the site and app to collect further personal information and can request that any personal information collected be deleted by providing the parent email and child member name by contacting Guest Services by email at [help@therealtoothfairies.com](mailto:help@therealtoothfairies.com) or call 910-509-0565. Or a parent may go to the “For Parents” page, scroll to the bottom above the Official Seal and click the line that says: “to cancel a child’s participation on this site or a parent member account, [click here](http://trf-content.s3.amazonaws.com/printable_pdfs/parents/parental_review.pdf).” 
+By identifying yourself appropriately, parents may review their child’s personal information that we have collected at the website TheRealToothFairies.com. Parents can, at any time, refuse to permit the site and app to collect further personal information and can request that any personal information collected be deleted by providing the parent email and child member name by contacting Guest Services by email at [help@therealtoothfairies.com](mailto:help@therealtoothfairies.com). Or a parent may go to the “For Parents” page, scroll to the bottom above the Official Seal and click the line that says: “to cancel a child’s participation on this site or a parent member account, [click here](http://trf-content.s3.amazonaws.com/printable_pdfs/parents/parental_review.pdf).” 
 
   
 The RCRF site and app offer communication with parents about their child’s activities so parents have the option to choose if they want to be involved directly with the girl’s online or app activities with her Real Tooth Fairy. Many parents choose to be helpers to their daughter’s Real Tooth Fairy to create special family moments by going to the Parent’s Only Zone, but this is not required for children to participate in site or app activities.
@@ -155,7 +155,5 @@ Royal Council of the Real Fairyland, LLC
 1319 CC Military Cutoff Road #101 
 
 Wilmington, NC 28405 USA 
-
-910-509-0565
 
 Email: _[help@therealtoothfairies.com](mailto:help@therealtoothfairies.com)_
