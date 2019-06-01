@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227060530id_/https%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601183106id_/https%3A//www.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Alternet.org
+
+December 25, 2018April 18, 2019
 
 **Privacy Policy**
 
