@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230223944id_/https%3A//www.fantasysharks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysharks.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601153228id_/https%3A//www.fantasysharks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FantasySharks.com
 
