@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228021011id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesnetwork.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601034302id_/http%3A//web.yesnetwork.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ Your Website account preferences are password protected for your privacy and sec
 
 ### How You Can Review Your Personal Information
 
-If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) [click here to log in](https://secure.yesnetwork.com/enterworkflow.do?flowId=registration.messageboard&forwardUrl=http://www.myyesnetwork.com/), and then click on the applicable menu option on the left side of the page, or (2) contact YESNetwork.com Customer Service at [info@yesnetwork.com](mailto:info@yesnetwork.com). If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact YESNetwork.com Customer Service at [info@yesnetwork.com](mailto:info@yesnetwork.com).
+If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) [click here to log in](https://secure.yesnetwork.com/enterworkflow.do?flowId=registration.profile), and then click on the applicable menu option on the left side of the page, or (2) contact YESNetwork.com Customer Service at [info@yesnetwork.com](mailto:info@yesnetwork.com). If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact YESNetwork.com Customer Service at [info@yesnetwork.com](mailto:info@yesnetwork.com).
 
 ### Choice
 
