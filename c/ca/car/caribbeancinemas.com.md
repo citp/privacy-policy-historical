@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817141522id_/http%3A//caribbeancinemas.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601180646id_/https%3A//caribbeancinemas.com/privacy-statement) for the most accurate reproduction.*
 
 # Caribbean Cinemas
 
@@ -28,7 +28,7 @@ CHOICE/OPT-OUT
 
 Our site provides users the opportunity to opt-out of receiving communications from Caribbeancinemas.com. You have the following options for removing your information from our database to not receive future communications or to no longer receive our service.
 
-1\. You can send an email to info@caribbeancinemas.com  
+1\. You can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 2\. You can send mail to the following postal address:
 
 Caribbean Cinemas  
