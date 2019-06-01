@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201014450id_/http%3A//www.texturemediainc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601054435id_/http%3A//www.texturemediainc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-TextureMedia, LLC. (“TextureMedia,“ "we," “us,” or "our") respects the privacy rights of online visitors to its network of websites and services (the "TextureMedia Network"), and is committed to providing you with a secure online environment. We have created this Privacy Policy ("Privacy Policy") to let you know how we collect, store, and use the information you provide us online. This Privacy Policy covers websites in the TextureMedia Network including [NaturallyCurly.com](http://www.naturallycurly.com/), [SHOP NaturallyCurly](http://shop.naturallycurly.com/), and [CurlyNikki.com](http://www.curlynikki.com/). Please read it carefully. This Privacy Policy will also instruct you on how you can verify the accuracy, and control certain uses, of the information you provide to us on the TextureMedia Network. By accessing the TextureMedia Network, you agree to be bound by the Privacy Policy.
+Last modified as of May 24, 2018
+
+TextureMedia, LLC. (“TextureMedia,“ "we," “us,” or "our") respects the privacy rights of online visitors to its network of websites and services (the "TextureMedia Network"), and is committed to providing you with a secure online environment. We have created this Privacy Policy ("Privacy Policy") to let you know how we collect, store, and use the information you provide us online. This Privacy Policy covers websites in the TextureMedia Network including [NaturallyCurly.com](http://www.naturallycurly.com/?__hstc=162943075.30f1e2c2865281682e767acf471d699c.1580466509146.1580466509146.1580466509146.1&__hssc=162943075.1.1580466509147&__hsfp=3924935683), and [SHOP NaturallyCurly](http://shop.naturallycurly.com/?__hstc=162943075.30f1e2c2865281682e767acf471d699c.1580466509146.1580466509146.1580466509146.1&__hssc=162943075.1.1580466509147&__hsfp=3924935683). Please read it carefully. This Privacy Policy will also instruct you on how you can verify the accuracy, and control certain uses, of the information you provide to us on the TextureMedia Network. By accessing the TextureMedia Network, you agree to be bound by the Privacy Policy.
 
 This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this Policy (which appears at the bottom of this Policy) and review any changes since the last version. If at any time you do not agree to the terms of this Privacy Policy, please do not use the TextureMedia Network. Your continued use of the TextureMedia Network constitutes your agreement to this Privacy Policy. Please remember that this Privacy Policy applies only to information collected by the TextureMedia Network. We are not responsible for the privacy of any information you reveal or post in any public forum (e.g., message board, blog, etc.) or for the privacy practices of websites that are operated or owned by third parties. Canadian residents, please note: Since our offices are located in the State of Texas, United States of America, personal information that you provide to us will be stored on servers in the U.S. You agree that by providing us with your personal information, your personal information may be subject to access requests from, and may be disclosed to, governments, courts or law enforcement in the U.S. in complying with U.S. laws, regulations and court orders. 
 
@@ -16,7 +18,7 @@ Personally identifiable information is information that identifies you or can be
 
 When you visit the TextureMedia Network, you may be asked to provide certain Personally Identifiable Information about yourself on a voluntary basis such as when you: (i) register with us, (ii) shop at SHOP NaturallyCurly online store, (iii) participate as a Curl Ambassador or in contests, events or promotions, (iv) sign up via e-mail for our newsletters or to communicate with us, or (v) fill out online surveys. The requested information may include personal information such as your name, e-mail address, telephone number, and home address. For some activities, we may also ask you to create a password and to provide demographic information such as your birth date, zip code, and hair type. If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. This allows us to tailor the notices we send you and the content we provide you according to your preferences and interests.
 
-We want to reiterate that you do not have to provide us with any Personally Identifiable Information to visit the TextureMedia Network. However, if you choose to withhold requested information, you may not be able to use all of the capabilities in the Network, such as purchasing goods and services through [SHOP NaturallyCurly](http://shop.naturallycurly.com/) or posting a user blog or product review on the Network. 
+We want to reiterate that you do not have to provide us with any Personally Identifiable Information to visit the TextureMedia Network. However, if you choose to withhold requested information, you may not be able to use all of the capabilities in the Network, such as purchasing goods and services through [SHOP NaturallyCurly](http://shop.naturallycurly.com/?__hstc=162943075.30f1e2c2865281682e767acf471d699c.1580466509146.1580466509146.1580466509146.1&__hssc=162943075.1.1580466509147&__hsfp=3924935683) or posting a user blog or product review on the Network. 
 
 ### Registration
 
@@ -92,7 +94,7 @@ Please note that “welcome” and service e-mail communications are not promoti
 
 ### PUBLIC FORUMS
 
-From time to time you may be able to participate in certain activities on the TextureMedia Network, such as chat rooms or bulletin boards, which will allow you the opportunity to communicate with TextureMedia or other users of theTextureMedia Network. Unless otherwise noted, these activities are generally accessible to all users of theTextureMedia Network and any information that you post or otherwise make available through these forums will be non-confidential and known to all other users. Accordingly, please exercise discretion when using these forums and when publishing any Personally Identifiable Information in these forums. You acknowledge and agree thatTextureMedia does not review, censor, or in any manner control the content of these forums and consequentlyTextureMedia has no liability or responsibility whatsoever for information made available through these forums and that you will be liable to TextureMedia for any liability that we incur as a result of any statement made by you in these forums. Your use of these forums is also subject to TextureMedia’s [Terms of Use](https://web.archive.org/terms-of-use) and to our [Ground Rules](https://web.archive.org/community-policy).
+From time to time you may be able to participate in certain activities on the TextureMedia Network, such as chat rooms or bulletin boards, which will allow you the opportunity to communicate with TextureMedia or other users of theTextureMedia Network. Unless otherwise noted, these activities are generally accessible to all users of theTextureMedia Network and any information that you post or otherwise make available through these forums will be non-confidential and known to all other users. Accordingly, please exercise discretion when using these forums and when publishing any Personally Identifiable Information in these forums. You acknowledge and agree thatTextureMedia does not review, censor, or in any manner control the content of these forums and consequentlyTextureMedia has no liability or responsibility whatsoever for information made available through these forums and that you will be liable to TextureMedia for any liability that we incur as a result of any statement made by you in these forums. Your use of these forums is also subject to TextureMedia’s [Terms of Use](https://web.archive.org/terms-of-use?hsLang=en-us) and to our [Ground Rules](https://web.archive.org/community-policy?hsLang=en-us).
 
 ### SAFEGUARDING YOUR PERSONAL INFORMATION
 
@@ -104,11 +106,11 @@ No method of transmission over the Internet, or method of electronic storage, is
 
 ### CHILDREN
 
-TextureMedia is concerned about the safety of children when they use the Internet. However, the TextureMedia Network are neither directed nor targeted to children under 13 years old. Consistent with the Children's Online Privacy Protection Act of 1998, TextureMedia has no intention to knowingly collect any Personally Identifiable Information from individuals under the age of 13 years. If TextureMedia learns that a child under the age of 13 years has provided Personally Identifiable Information to the TextureMedia Network without verifiable parental consent, TextureMedia will use commercially reasonable efforts to delete such information from its databases. If you believe your child, who is under 13, has submitted Personally Identifiable Information to the TextureMedia Network, please contact us via one of the methods described on our [Contact Us](https://web.archive.org/contact-us) page. We strongly encourage parents to monitor their children's use of the Web.
+TextureMedia is concerned about the safety of children when they use the Internet. However, the TextureMedia Network are neither directed nor targeted to children under 13 years old. Consistent with the Children's Online Privacy Protection Act of 1998, TextureMedia has no intention to knowingly collect any Personally Identifiable Information from individuals under the age of 13 years. If TextureMedia learns that a child under the age of 13 years has provided Personally Identifiable Information to the TextureMedia Network without verifiable parental consent, TextureMedia will use commercially reasonable efforts to delete such information from its databases. If you believe your child, who is under 13, has submitted Personally Identifiable Information to the TextureMedia Network, please contact us via one of the methods described on our [Contact Us](https://web.archive.org/contact-us?hsLang=en-us) page. We strongly encourage parents to monitor their children's use of the Web.
 
 ### REVIEW, UPDATE AND REMOVAL OF PERSONAL INFORMATION
 
-If you have registered with the Site, you may at any time review and update the contact information we have for you or inform us that you want us to remove your information from our database by either visiting the online profile section of one of our sites or contacting us by [clicking here](https://web.archive.org/contact-us). Your account can be deleted or deactivated, but doing so will result in your not being able to access member services.
+If you have registered with the Site, you may at any time review and update the contact information we have for you or inform us that you want us to remove your information from our database by either visiting the online profile section of one of our sites or contacting us by [clicking here](https://web.archive.org/contact-us?hsLang=en-us). Your account can be deleted or deactivated, but doing so will result in your not being able to access member services.
 
 ### AMENDMENTS TO THIS PRIVACY POLICY
 
@@ -116,6 +118,42 @@ PLEASE NOTE THAT WE MAY CHANGE OUR PRIVACY POLICY FROM TIME TO TIME TO CONFORM T
 
 ### INQUIRIES
 
-TextureMedia welcomes your feedback, questions, comments and concerns regarding your use of the TextureMedia Network and any third party websites linked to the TextureMedia Network. Inquiries regarding the TextureMedia Network may be made by contacting us via one of the methods described on our [Contact Us](https://web.archive.org/contact-us) page, or send a letter to TextureMedia, LLC., 3636 Executive Center Dr. Suite 100, Austin, TX. 78731. You can also send us your feedback on any third party sites linked to the TextureMedia Network.
+TextureMedia welcomes your feedback, questions, comments and concerns regarding your use of the TextureMedia Network and any third party websites linked to the TextureMedia Network. Inquiries regarding the TextureMedia Network may be made by contacting us via one of the methods described on our [Contact Us](https://web.archive.org/contact-us?hsLang=en-us) page, or send a letter to TextureMedia, LLC., 3636 Executive Center Dr. Suite 100, Austin, TX. 78731. You can also send us your feedback on any third party sites linked to the TextureMedia Network.
 
-Last modified as of May 18, 2017
+**_EU Citizens Only:   Our Compliance with the General Data Protection Regulation _**
+
+We respect and safeguard the data privacy rights of all of our website visitors and customers.  The European Union (“EU”) has enacted the General Data Protection Regulation (“GDPR”), which requires additional protections for the Personal Information of EU citizens.  The definition of Personal Information for EU citizens is broader than the definition set forth in this Privacy Policy – it can also include IP addresses, responses to surveys, social media identifiers and photographs posted to social media.  EU citizens also enjoy additional protections under the GDPR.  For this reason, we have amended our Privacy Policy as it applies to EU citizens, effective May 25, 2018.  Below we set forth how we are satisfying the GDPR requirements for our EU citizen users.
+
+  1. _Rights of EU Citizens under GDPR_
+
+
+
+Under the GDPR, EU citizens have the right to request the following information from us:
+
+-What Personal Information we hold about you, and for what purpose. 
+
+-Access to the Personal Information we hold about you.
+
+-The right to correct Personal Information we hold about you.
+
+-The right to withdraw consent for any use of your Personal Information by us.
+
+-The right to object to any use of your Personal Information by us.
+
+-The right to have your Personal Information deleted from our database.
+
+-The right to ask for Personal Information to be transferred either back to you or to another data controller. 
+
+**Any GDPR request must be made sending an email to customerservice@naturallycurly.com.   **
+
+  2. _Transparency of Personal Information_
+
+
+
+We only share your Personal Information with our business partners for the lawful purpose of digital marketing, and we ensure any third parties receiving your Personal Information comply with the requirements of the GDPR.  If you provide us with social media details, we may obtain publicly available information about you from these social media platforms.  We will obtain consent from you for any uses of your Personal Information that fall outside the purpose described in this Privacy Policy.  We do not collect sensitive information about you.  
+
+  3. _Retention_ _of Personal Information_
+
+
+
+Your Personal Information will be retained by us for no longer than is necessary to fulfill the purpose for which it was collected, or as if required by law.  When your Personal Information is deleted, it shall be deleted across all of our platforms and no longer shared with our business partners.
