@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallenvelop.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230515id_/https%3A//smallenvelop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallenvelop.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601080034id_/https%3A//smallenvelop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmallEnvelop
 
