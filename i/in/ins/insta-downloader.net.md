@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insta-downloader.net privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211052831id_/http%3A//insta-downloader.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insta-downloader.net privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601030701id_/http%3A//insta-downloader.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insta-downloader.net
 
@@ -7,7 +7,7 @@
 
 * * *
 
-This Privacy Policy governs the manner in which Insta-downloader.net collects, uses, maintains and discloses information collected from users (each, a "User") of the http://insta-downloader.net website ("Site").
+This Privacy Policy governs the manner in which Insta-downloader.net collects, uses, maintains and discloses information collected from users (each, a "User") of the https://insta-downloader.net website ("Site").
 
 ### Non-personal identification information
 
