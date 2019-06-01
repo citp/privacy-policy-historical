@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tubedupe.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606150225id_/http%3A//tubedupe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubedupe.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601045100id_/https%3A//tubedupe.com/privacy) for the most accurate reproduction.*
 
-# ▶ Privacy Policy @ TubeDupe
+# ▶ Privacy Policy / Porno Movies, Watch Porn Online, Free Sex Videos
 
 ## __PRIVACY POLICY
 
-Effective Year:2017   
+Effective Year:2019   
 Last Modified: 16 December, 2011   
 Sites Covered: tubedupe.com 
 
