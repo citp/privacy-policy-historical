@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128191505id_/http%3A//www.bankratecreditcards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601131155id_/http%3A//bankratecreditcards.com/privacy.html) for the most accurate reproduction.*
 
 # Bankrate Credit Cards
 
@@ -14,7 +14,7 @@ For purposes of this Privacy Policy, "Your Information" means information about 
 
 
 
-In addition to this Privacy Policy, our Services are also governed by our  [Terms of Use](https://web.archive.org/web/20181128191505id_/http%3A//www.bankratecreditcards.com/terms.html) and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
+In addition to this Privacy Policy, our Services are also governed by our  [Terms of Use](https://web.archive.org/web/20190601131155id_/http%3A//bankratecreditcards.com/terms.html) and any other documents referred to in this Privacy Policy and our Terms of Use. These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the Terms of Use carefully.
 
 ### Information We Collect and Receive About You
 
