@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basedmovie.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130172121id_/http%3A//www.basedmovie.com/%3Fpage_id%3D1420) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basedmovie.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602005854id_/http%3A//www.basedmovie.com/%3Fpage_id%3D1420) for the most accurate reproduction.*
 
 # Privacy Policy – Movie News, Reviews & DVD Releases | basedmovie.com
 
