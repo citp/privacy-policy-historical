@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lloydstsbbusiness.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709154645id_/http%3A//www.lloydsbank.com/business/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsbbusiness.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601194850id_/http%3A//www.lloydsbank.com/business/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement | Business Banking | Lloyds Bank
+# : Privacy Statement | Business Banking | Lloyds Bank
 
 Last updated in May 2018
 
