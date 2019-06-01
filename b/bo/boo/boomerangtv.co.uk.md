@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209122623id_/http%3A//www.boomerangtv.co.uk/%23cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601071400id_/https%3A//www.boomerangtv.co.uk/%23cookies-policy) for the most accurate reproduction.*
 
 # Boomerang | Kids Cartoons, Shows, Games & Videos
 
@@ -80,7 +80,7 @@ We share your Information:
 
 **6\. COOKIES AND SIMILARTECHNOLOGIES.**
 
-We use cookies and other similar technologies to help provide Service and to analyse how you and authorised users use our Service. We also allow authorised third parties to use these technologies for similar purposes. Please see our [Cookie Policy](http://www.boomerangtv.co.uk/#cookies-policy) for more information. 
+We use cookies and other similar technologies to help provide Service and to analyse how you and authorised users use our Service. We also allow authorised third parties to use these technologies for similar purposes. Please see our [Cookie Policy](https://www.boomerangtv.co.uk/#cookies-policy) for more information. 
 
 **7\. OTHER IMPORTANT INFORMATION ABOUT YOUR PRIVACY**
 
@@ -127,15 +127,13 @@ These rights may be limited, for example if fulfilling your request would reveal
 
 You can withdraw your consent in respect of any processing of personal data which is based upon a consent which you have previously provided. You can also opt out of receiving email newsletters and other marketing communications by following the opt-out instructions provided to you in those emails.
 
-To exercise any of these rights, you can get in touch with our Privacy Office using the details set out below in Section 9. Please include your registration information, where we offer registration, such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes.
+To exercise any of these rights, you can get in touch with our Privacy Office as set out below in Section 9. Please include your registration information, where we offer registration, such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes.
 
 You also have a right to complain to a supervisory authority for data protection in the country where you live, where you work, or where you consider that a breach of data protection has occurred, although we hope that we can assist with any queries or concerns you may have about our use of your Information.
 
 **9\. HOW TO CONTACT US**
 
-The primary point of contact for all issues arising from this Privacy Policy, including requests to exercise data subject rights, is our privacy office. The privacy office can be contacted in the following ways:
-
-[EMEA.privacy@turner.com](mailto:EMEA.privacy@turner.com)
+The primary point of contact for all issues arising from this Privacy Policy, including requests to exercise data subject rights, is our privacy office.  The privacy office can be contacted by using our [request form](https://app-eu.onetrust.com/app/#/webform/d62e1d05-1f6b-4a4e-bd4b-92acabefee71) or by writing to:
 
 Privacy Office
 
