@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toponlineshopping.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126181842id_/http%3A//toponlineshopping.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponlineshopping.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601033619id_/http%3A//toponlineshopping.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TopOnlineShopping
+# Privacy Policy - Toponlineshopping.com
 
 ## Privacy Policy for TopOnlineShopping.Com
 
