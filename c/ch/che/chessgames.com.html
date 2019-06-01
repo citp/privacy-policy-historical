@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chessgames.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221232041id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chessgames.com privacy policy that was archived on 2019-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190602004522id_/http%3A//www.chessgames.com/chessprivacy.html) for the most accurate reproduction.-->
 
 <html><!--beginheader--><head>
 <meta name="keywords" content="chess, chess games, ajedrez, scacchi, schach, PGN">
@@ -19,10 +19,17 @@
 	}
 
 	.fixedText { width:344px; padding:1px; border-style:solid; border-color:#996633; border-width:1px; background-color:#FFFFDD; font-family:Verdana,Arial,Helvetica,sans-serif; font-size: 9px}
+/* Hide the Google reCAPTCHA badge, but note this requires a link to the Google T&C's to be added 
+to contact forms. See https://developers.google.com/recaptcha/docs/faq for details. */
+ .grecaptcha-badge { display: none; }
+ .custom-recaptcha3-terms { font-size:12px; }
 </style>
 
+<!-- Google reCAPTCHA integration -->
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.google.com/recaptcha/api.js?render=6LcPzqQUAAAAAKp0xQoWaR1mMZqtQ00O-Z6uAzQJ"></script>
+
 <!-- Facebook Pixel Code -->
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+<script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -48,9 +55,34 @@ src="https://www.facebook.com/tr?id=292563634274827&ev=PageView&noscript=1"
                         }
                 }
 		</script>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "content": {
+    "href": "http://www.chessgames.com/chessprivacy.html"
+  }
+})});
+</script>
+
+
 </head>
 
 <body bgcolor="#FFFFFF" vlink="#9900FF" link="#0000FF">
+
 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
 <tbody><tr>
 <td valign="top" align="left" background="/chessimages/header_stripes.gif"><a href="/index.html"><img src="/chessimages/chessgameslogo.gif" width="431" height="60" border="0" alt="chessgames.com"></a></td>
@@ -63,9 +95,12 @@ src="https://www.facebook.com/tr?id=292563634274827&ev=PageView&noscript=1"
 <area shape="rect" coords="121,21,174,40" href="/perl/chessuser">
 <area shape="rect" coords="177,21,230,40" href="/chesshelp.html">
 </map>
-<!--beginmenu--><table border="0" cellpadding="1" cellspacing="0" width="100%"><tbody><tr><td bgcolor="#000000">
-<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr>
-<td align="CENTER" bgcolor="#FFFFEE"><font face="verdana,arial,helvetica" size="-2">
+<!--beginmenu--><table border="0" cellpadding="1" cellspacing="0" width="100%">
+<tbody><tr>
+<td bgcolor="#000000">
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="center" bgcolor="#FFFFEE"><font face="verdana,arial,helvetica" size="-2">
 
 <a href="/perl/chessmembers">Members</a> <b>·</b>
 <a href="/perl/chessprofile.pl">Prefs</a> <b>·</b>
@@ -83,9 +118,14 @@ src="https://www.facebook.com/tr?id=292563634274827&ev=PageView&noscript=1"
 <a href="#kibitzing"><img src="/chessimages/arrow_down.gif" width="7" height="8" border="0">Kibitzing</a>
 
 </font>
-</td></tr></tbody></table>
-</td></tr></tbody></table>
-<img src="/spacer.gif" width="4" height="4"><br><!--endmenu-->
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<img src="/spacer.gif" width="4" height="4"><br>
+<!--endmenu-->
 <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -249,14 +289,14 @@ and we will be happy to address whatever concerns you have.
 </font>
 <hr noshade="" size="1">
 <font face="verdana,arial,helvetica" size="-2">
-Copyright 2001-2018, Chessgames Services LLC<br>
+Copyright 2001-2019, Chessgames Services LLC<br>
 </font>
 <p>
-
 </p></center>
 <pre>
 
 </pre>
+
 
 <!--endfooter-->
 
