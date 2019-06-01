@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219130226id_/https%3A//www.kentucky.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601171808id_/https%3A//www.kentucky.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Lexington Herald Leader
 
