@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofjohancruyff.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819123223id_/https%3A//www.worldofjohancruyff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofjohancruyff.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601164750id_/https%3A//www.worldofjohancruyff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The World of Johan Cruyff
 
