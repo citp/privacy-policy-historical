@@ -1,135 +1,68 @@
-> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205224914id_/https%3A//www.globalsecurity.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601154439id_/https%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
 
-# globalsecurity.org | Privacy Policy
+# GlobalSecurity.org - Privacy Policy
 
-**What information do we collect?**
+The GlobalSecurity.org privacy policy is clear: We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+Web servers serving GlobalSecurity.org automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name (e.g., earthlink.net) of visitors. This information is used for various purposes including internal review and for traffic audits. We also provide this information about our users on an aggregated, anonymous basis to our advertisers.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.
 
- **DoubleClick DART Cookie**
-
-.:: Google, as a third party vendor, uses cookies to serve ads on globalsecurity.org.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to globalsecurity.org and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+  * The type of browser and operating system used to access our site;
+  * The date and time you access our site;
+  * The pages you visit; and
+  * If you linked to the GlobalSecurity.org website from another website, the address of that website.
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on globalsecurity.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+We use this information to help us make our site more useful to visitors-to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
-globalsecurity.org has no access to or control over these cookies that are used by third-party advertisers. 
+Third Party Advertising
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. globalsecurity.org's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here ](http://www.networkadvertising.org/optout_nonppii.asp)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+Third Party Cookies
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
-**What do we use your information for?**
+We send to your web browser many of the advertisements you see when you use our network of Web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+This web site participates in Six Apart Media, a comprehensive advertising program provided by Six Apart Ltd. for publishers all across the Web. This section of our privacy policy describes how Six Apart Ltd. and the third party advertising networks and advertisers that display advertisements through Six Apart Media (collectively, "Advertisers") collect, use, store and disclose data from visitors to this Web site.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+A "cookie" is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site's computers and stored on your computer's hard drive. Cookies can be used to target advertisements relevant to your interests, based on your visits to different Web sites, to provide traffic measurement and other analytics and to conduct research. 
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+A "Web beacon" is an electronic file on a Web page that allows a Web site to count users who have visited that page, to access certain cookies and to provide auditing, research and reporting for advertisers. 
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+When your browser requests a page that displays advertising from one of the Advertisers, the Advertiser may view, edit or set its own cookie through your browser. In addition, the Advertiser may place its own Web beacon in the page, which may be triggered by your browser's request.
 
-\- To process transactions
+Advertiser Privacy Policies
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+If you would like to contact the Advertisers to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection and use, please follow these links to their Web sites:
 
-\- To administer a contest, promotion, survey or other site feature
+Six Apart Ltd. 
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+http://www.sixapart.com/privacy
 
-\- To send periodic emails
+Six Apart Media third party advertising networks and advertisers 
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Legitimate Interest
 
- **How do we protect your information?**
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review [their privacy policy ](http://exponential.com/privacy/)or contact their data protection officer via privacy@exponential.com.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+Piano Software, Inc., New York, US processes your personal data for the product improvement, maintenance and testing purposes based on the legitimate interest pursuant to the Article 6(1)(f) of the GDPR and for the statistical purposes pursuant to the Article 89 GDPR as a data controller. The legitimate interest pursued by Piano Software, Inc. is the ability to improve and develop its own software solutions. Recipients of your personal data include staff of Piano group entities located in the EU, the US and Russia and employees staff of other sub-contractors (mainly hosting and cloud providers for Piano software) located in the EU and the US. Such transfer to third countries is based on model clauses adopted between Piano and the above parties. Piano is also EU-US Privacy Shield certified. Such processing will only occur as long as you continue to use our services. As a data controller, Piano does not process any special categories of personal data, does not monetize personal data and does not perform automated individual decision-making. If you have any question about Piano’s processing of personal data, please visit www.piano.io/privacy or contact Piano directly at privacy@piano.io. Please note we are not entitled to handle your request if your request is related to purposes pursued by Piano as a data controller. You may also lodge a complaint at the Office of Personal Data Protection in Slovakia, where the EU establishment of Piano is located (https://dataprotection.gov.sk/uoou/en). Nothing prevents you to lodge compliant elsewhere. For clarity, we use Piano as a data processor to support our services we provide to you. When selecting Piano as a data processor, we have accessed the guarantees provided by Piano to comply with the GDPR. This information is required because Piano legitimately process your personal data for their own above-mentioned purposes of processing as well. 
 
-**Do we use cookies?**
+Opting Out of Third-Party Ad Servers
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, you must visit each ad network's Web site individually and opt out (if they offer this capability). 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Some of these third party advertising networks are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+The [Network Advertising Initiative Opt-out Tool](http://networkadvertising.org/managing/opt_out.asp) was developed in conjunction with member advertising networks with the express purpose of allowing consumers to "opt out" of the targeted advertising delivered by these networks. Using this tool, you can examine your computer to see which ad networks have placed a cookie file on your PC. You may also review each NAI member's privacy policy. To opt out of an NAI member advertising program, simply check the box that corresponds to the company from which you wish to opt out and then press the "Submit" button at the bottom of the page. The tool will automatically replace the specified cookie(s) and verify your opt out status. 
 
- **Do we disclose any information to outside parties?**
+Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. The NAI Opt-out Tool is cookie-based. In order for the tool to work on your computer, your browser must be set to accept 3rd party cookies. If you buy a new computer, change Web browsers or delete this cookie, you will need to perform the opt-out task again. Apple presets the Safari browser to block cookies from sites other than those you visit directly. As a result, the NAI opt out tool, which uses third party cookies, will not work for browsers left in this default setting. 
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-globalsecurity.org 
-
-Email:  
-contact@globalsecurity.org  
-
+* * *
