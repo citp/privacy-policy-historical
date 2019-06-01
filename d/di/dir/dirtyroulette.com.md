@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824054520id_/https%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601024658id_/https%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
 
-# Dirtyroulette - Privacy Policy
+# Dirtyroulette Live Sex Chat Privacy Policy
 
 This privacy policy (the “Privacy Policy”) applies to the Dirtyroulette Services as provided by Bridgestone International Group, Inc., all User data collected, processed, or otherwise used by Dirtyroulette is for the legitimate purposes of delivering the Services to which you have agreed upon acceptance of our Terms of Service. We would like you to know a few things about our Privacy Practices.
 
