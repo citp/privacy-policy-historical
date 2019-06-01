@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wynnlasvegas.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201170951id_/https%3A//www.wynnlasvegas.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wynnlasvegas.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601170904id_/https%3A//www.wynnlasvegas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wynn Las Vegas & Encore Resort
 
