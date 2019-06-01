@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226122735id_/http%3A//www.etcconnect.com/Privacy-Policy-Terms-of-Use-and-Acceptable-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601194421id_/http%3A//www.etcconnect.com/Privacy-Policy-Terms-of-Use-and-Acceptable-Use.aspx) for the most accurate reproduction.*
 
 # Electronic Theatre Controls’ Privacy, Terms of Use, and Acceptable Use Policies
 
-#### Last Updated: October 12, 2018
+#### Last Updated: March 6, 2019
 
 ##### __
 
@@ -38,7 +38,7 @@ Although we use reasonable security measures to help protect against the loss, m
 
 
 
-Electronic Theatre Controls, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Electronic Theatre Controls, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Program, and to view our certification page, please visit <https://www.privacyshield.gov/> (<https://www.privacyshield.gov/>).
+Electronic Theatre Controls, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and the United Kingdom to the United States in reliance on Privacy Shield. Electronic Theatre Controls, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles in respect to such information, including the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Program, and to view our certification page, please visit <https://www.privacyshield.gov/> (<https://www.privacyshield.gov/>).
 
 In compliance with the EU-US Privacy Shield Principles, Electronic Theatre Controls, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Electronic Theatre Controls, Inc. at:
 
@@ -49,11 +49,25 @@ USA
 
 Email: [privacy@etcconnect.com](mailto:privacy@etcconnect.com) ([mailto:privacy@etcconnect.com](mailto:privacy@etcconnect.com))
 
-Electronic Theatre Controls, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) (<http://www.bbb.org/EU-privacy-shield/for-eu-consumers/>) for more information and to file a complaint.
+Electronic Theatre Controls, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) (<http://www.bbb.org/EU-privacy-shield/for-eu-consumers/>) for more information and to file a complaint.  
+
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
 Electronic Theatre Controls, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+  *  **Information about Electronic Theatre Controls GmbH’s Data Protection Officer  
+**  
+
+Pursuant to Section 38 of the German Data Protection Amendment Act, Electronic Theatre Controls GmbH has appointed the following Data Protection Officer:  
+
+                Dr. Sebastian Kraska  
+                Marienplatz 2  
+                80331 Munich  
+                Germany  
+                Email: [dpo-contact@iitr.de](mailto:dpo-contact@iitr.de)
+
+  
 
   *  **Information We Collect**
 
@@ -83,7 +97,7 @@ Industry  |  Marketing  |  Consent
   
 *Required to set up MyETC account
 
- **Use of PII for Marketing**. Marketing emails are sent via a third party, BlueHornet.  If you do not wish to receive promotional materials, marketing materials email offers or newsletters from us, you can opt-out of receiving such information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on the Site) by using the unsubscribe process at the bottom of the email, by checking the relevant box located on the form on which we collect your data, adjusting your user preferences in your MyETC account profile, if applicable, or by sending us an email stating your request to [webmaster@etcconnect.com](mailto:webmaster@etcconnect.com) ([mailto:webmaster@etcconnect.com](mailto:webmaster@etcconnect.com)). 
+ ** **Use of PII for Marketing**. Marketing emails are sent via a third party, Robly Digital Marketing LLC (Robly).  If you do not wish to receive promotional materials, marketing materials email offers or newsletters from us, you can opt-out of receiving such information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on the Site) by using the unsubscribe process at the bottom of the email, by checking the relevant box located on the form on which we collect your data, adjusting your user preferences in your MyETC account profile, if applicable, or by sending us an email stating your request to [webmaster@etcconnect.com](mailto:webmaster@etcconnect.com) ([mailto:webmaster@etcconnect.com](mailto:webmaster@etcconnect.com)). **
 
   * **Product Registration**.  If you have opened a MyETC account, you will have the choice to register any of our products you or your organization have purchased.  Registration of these products is not required.  If you choose to register a product, we will collect the following PII from you, for the purpose(s) listed in the chart below:
 
@@ -144,7 +158,7 @@ Payment Information*  |  Registration for technical training  |  Performance of 
   
 *Required to register for technical training
 
-Marketing emails are sent via a third party, BlueHornet.
+Marketing emails are sent via a third party, Robly.
 
   *  **Conferences Registration.**   You may register for ETC conferences through the Site.  If you choose to register for an ETC conference, we will collect the following PII from you through third party processor Cvent, for the purpose(s) listed in the chart below:
 
@@ -160,9 +174,11 @@ Payment Information*  |  Registration for conference  |  Performance of a contra
   
 *Required to register for conference
 
-Marketing emails are sent via a third party, BlueHornet.
+Marketing emails are sent via a third party, Robly.
 
-  *  ** _Other Information_**
+Support.etcconnect.com.  ETC offers support.etcconnect.com as an additional support tool for our end users.  If you choose to access this support site while logged into your MyETC account, the support site will keep track of the pages you view for thirty days.  ETC may use this information to tailor the support site’s content in order to better serve our end users.  If you do not want your navigation of the support site to be tracked, please sign out of your MyETC account before navigating the support site.  Please note, some content on the support site will not be available to you if you are not logged into your MyETC account. 
+
+  * **_Other Information_**
 
 
 
@@ -245,11 +261,13 @@ The Site is not directed at children under 16 years of age.  You must be at lea
 
 This Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States please be aware that Collected Information will be transferred to, stored, and processed in the United States.  If you open a MyETC Account or post to the Forum, you acknowledge that your data will be processed in the United States.
 
-  *  **Right to Access Correct and Delete Your PII:**
+  *  **Right to Access Correct and Delete, Withdraw Consent, Restrict, and Object to, Processing Your PII:**
 
 
 
-If you have created a MyETC account through this Site, then you have the right to access, review, and update your PII by logging into this Site, visiting your account profile page and making changes, including submitting a request to delete your account information by sending us an email stating your request to webmaster@etcconnect.com  (mailto:webmaster@etcconnect.com).  You also have the right to email this address to access details of any PII which we hold about you.
+If you have created a MyETC account through this Site, then you have the right to access, review, and update your PII by logging into this Site, visiting your account profile page and making changes, including submitting a request to delete your account information by sending us an email stating your request to webmaster@etcconnect.com  (mailto:webmaster@etcconnect.com).  You also have the right to email this address to access details of any PII which we hold about you, and to restrict or object to our processing of your PII.
+
+Where you have given us consent to process your PII, you may withdraw this consent at any time by sending us an email stating your request to webmaster@etcconnect.com  (mailto:webmaster@etcconnect.com).
 
 If you have questions or concerns about our privacy practices or this Privacy Policy or wish to make a request regarding your PII, please contact us at any of the following:
 
@@ -272,9 +290,9 @@ BigCommerce, Inc.
 Austin, TX 78726  
 Attention: General Counsel
 
-BlueHornet  
-2355 Northside Drive, Suite B250  
-San Diego, CA 92108
+Robly Digital Marketing LLC  
+(855-557-6259)  
+http://support.robly.com/contact-form/
 
 Web Courseworks, Ltd.  
 7617 Mineral Point Road #301  
