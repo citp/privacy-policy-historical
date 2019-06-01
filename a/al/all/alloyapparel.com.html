@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alloyapparel.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226091346id_/http%3A//alloyapparel.com/about-us/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alloyapparel.com privacy policy that was archived on 2019-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190601173348id_/http%3A//www.alloyapparel.com/about-us/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" data-ua=""><!--<![endif]--><head profile="http://www.w3.org/2006/03/hcard">
 <meta charset="utf-8">
@@ -312,6 +312,21 @@ var PR_BUYNOW_CART_ENABLED = 'false';
 <script type="text/javascript" src="http://www.alloyapparel.com/store/skin/frontend/base/default/js/shoprunner/edutl.js"></script>
 <script type="text/javascript" src="http://www.alloyapparel.com/store/skin/frontend/base/default/js/shoprunner/store_sredid.js"></script>
 
+<!-- Universal Variable Start -->
+<script type="text/javascript">
+  window.universal_variable = window.universal_variable || {};
+  window.universal_variable.version         = "1.1.1";
+  window.universal_variable.page            = {"category":"content"};
+  window.universal_variable.user            = {"returning":false,"language":"en_US"};
+         
+  </script>
+<!-- Universal Variable End -->
+
+<!-- QuBit OpenTag Start -->
+<script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-73170-alloyproduction.js" async="" defer=""></script>
+<!-- QuBit OpenTag End -->
+
+
 <!-- Criteo OneTag Start -->
      <!-- Concrete 5 Home page tag -->
     <script>(function(d,s){var js=d.getElementsByTagName(s)[0];var r=d.createElement(s);r.async=true;r.src=("https:"==location.protocol?"https:":"http:")+"//static.criteo.net/js/ld/ld.js";js.parentNode.insertBefore(r,js)})(document,"script")</script>    <script type="text/javascript">
@@ -355,7 +370,7 @@ var PR_BUYNOW_CART_ENABLED = 'false';
 
         var hiddenFields = {
             "product": productId,
-            "form_key": "BQ8oOtSBVLQymUCx"
+            "form_key": "Z8j4Yg4mc1vYLZHZ"
         };
 
         for (var key in hiddenFields) {
@@ -390,20 +405,104 @@ var PR_BUYNOW_CART_ENABLED = 'false';
 
 </script>
 
-<!-- Universal Variable Start -->
-<script type="text/javascript">
-  window.universal_variable = window.universal_variable || {};
-  window.universal_variable.version         = "1.1.1";
-  window.universal_variable.page            = {"category":"content"};
-  window.universal_variable.user            = {"returning":false,"language":"en_US"};
-         
-  </script>
-<!-- Universal Variable End -->
+	<script type="text/javascript">
+		//<![CDATA[
+		var AN = AN || {};
 
-<!-- QuBit OpenTag Start -->
-<script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-73170-alloyproduction.js" async="" defer=""></script>
-<!-- QuBit OpenTag End -->
+		/**
+		 * @param cname name of the cookie
+		 * @param cvalue value assigned to cookie
+		 * @param exdays duration of the cookie in days
+		 */
+		AN.setCookie = function(cname, cvalue, exdays)
+		{
+			console.log(cname);
 
+			var milliseconds_in_days = 1000 * 60 * 60 * 24;
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays * milliseconds_in_days));
+			var expires = "expires="+d.toUTCString();
+			document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/";
+		}
+
+		/**
+		 * @param cname name of the cookie
+		 * @returns object | null object with the field and value or null if not found
+		 */
+		AN.getCookie = function(cname)
+		{
+			var cookies = document.cookie.split(';');
+			for (var i = 0; i < cookies.length; i++) {
+				var keyPair = cookies[i].split('=');
+				if (keyPair.length < 2)
+					continue;
+				var field = keyPair[0].trim();
+				var value = keyPair[1].trim();
+
+				if (field === cname) {
+					return {field: value};
+				}
+			}
+
+			return null;
+		}
+
+		/**
+		 * @param query query string  minus the '?'
+		 * @param field query string field to search for
+		 * @returns string | null value of the query string field or null if the field isn't there
+		 */
+		AN.findAffiliateField = function(query, field)
+		{
+			if (!query) {
+				return null;
+			}
+
+			var fields = query.split("&");
+			for (var i = 0; i < fields.length; i++) {
+				var keyPair = fields[i].split("=");
+				if (
+					keyPair.length == 2 &&
+					keyPair[0] === field
+				) {
+					return keyPair[1];
+				}
+			}
+
+			return null;
+		}
+
+		AN.manageCookie = function (window, document, duration_in_days, key_name, cookie_name) {
+			var query = location.search.substring(1);
+			var source = AN.findAffiliateField(query, key_name);
+			var cookie = AN.getCookie(cookie_name);
+
+			if (source) {
+				// set or update the cookie with the value from the current query string
+				AN.setCookie(cookie_name, source, duration_in_days);
+			}
+		}
+
+		AN.manageCookieArray = function (window, document, duration_in_days, key_name, cookie_name) {
+			var query = location.search.substring(1),
+				source = AN.findAffiliateField(query, key_name),
+				cookie = AN.getCookie(cookie_name),
+				cookieContents = {};
+			if(cookie && cookie.hasOwnProperty('field')) {
+				cookieContents = JSON.parse(cookie.field);
+			}
+			if (source) {
+				cookieContents[source] = Math.round((new Date()).getTime() / 1000);
+				AN.setCookie(cookie_name, JSON.stringify(cookieContents), duration_in_days);
+			}
+		};
+
+		AN.manageCookie(window, document, 365, "source", "pepperjam_network_source");
+		AN.manageCookieArray(window, document, 365, "click", "pepperjam_network_click");
+		AN.manageCookie(window, document, 365, "publisher", "pepperjam_network_publisher");
+		AN.manageCookie(window, document, 365, "", "");
+		//]]>
+	</script>
 <script type="text/javascript">
 (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/1NCzOjmJfPmDX6r4QaTbBugOkr5VgQQ8M7WRiioq/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
 </script>
@@ -593,7 +692,7 @@ width: 100%;
 (function($){
     $(document).ready(function(){
 
-/*$('div.price-box').after('<div style="color: red;font-size: 15px;">Get 40% Off Sitewide with Code Gift40</div>');*/
+/*$('div.price-box').after('<div style="color: red;font-size: 15px;">Take an additional 30% off use code ENJOY30</div>');*/
 
         if($('body').hasClass('checkout-cart-index')) {
              $('.cart-left-column').after($('.cart-right-column'));
@@ -745,12 +844,12 @@ width: 30%;
 <header class="site-header header-container">
 
 	<div class="super-promo">
-		<div class="container"><div style="display:none" class="zblock zblock-zblock_super_promo" data-start-timestamp="1545724800" data-end-timestamp=" 1546328700"><style>
+		<div class="container"><div style="display:none" class="zblock zblock-zblock_super_promo" data-start-timestamp="1555484400" data-end-timestamp=" 1561532400"><style>
 .super-promo {
-background: #F31EB0;
+background: #EE4994;
 }
 </style>
-<p><span style="color: #fff; font-size: 16px; font-family: helvetica;">The End Of Year Sale! Take 50% Sitewide With Code: NEWYEAR | <a style="color: #fff;" href="/store/whats-new">SHOP NOW</a></span></p></div><script>zblocks.checkBlocks('zblock-zblock_super_promo')</script></div>
+<p><span style="color: #fff; font-size: 16px; font-family: helvetica;"> Shop What's New and Back in Stock ... <a style="color: #fff;" href="/store/whats-new">SHOP NOW</a></span></p></div><script>zblocks.checkBlocks('zblock-zblock_super_promo')</script></div>
 	</div>
 
 	<div class="mobile-top">
@@ -806,7 +905,7 @@ background: #F31EB0;
 						<form id="search_mini_form" action="http://www.alloyapparel.com/store/catalogsearch/result/" method="get">
     <div class="form-search">
         <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" class="input-text">
+        <input id="search" type="text" name="q" value="" class="input-text" aria-label="search">
         <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
         <div id="search_autocomplete" class="search-autocomplete"></div>
         <script type="text/javascript">
@@ -874,7 +973,7 @@ background: #F31EB0;
 </a>
 </li><li class="level1 nav-1-3">
 <a href="http://www.alloyapparel.com/store/whats-new/sweatpants" class="category_limit">
-<span>Sweatpants</span>
+<span>Sweatpants &amp; Leggings</span>
 </a>
 </li><li class="level1 nav-1-4">
 <a href="http://www.alloyapparel.com/store/whats-new/tops-and-sweaters" class="category_limit">
@@ -886,7 +985,7 @@ background: #F31EB0;
 </a>
 </li><li class="level1 nav-1-6 last">
 <a href="http://www.alloyapparel.com/store/whats-new/tall-plus-size" class="category_limit">
-<span>Tall Plus Size</span>
+<span>Tall Sizes 14 to 25 &amp; XL to 3XL</span>
 </a>
 </li>
 </ul></li><li class="level nav-2 dropdown parent">
@@ -911,11 +1010,11 @@ background: #F31EB0;
 </a>
 </li><li class="level1 nav-2-5">
 <a href="http://www.alloyapparel.com/store/pants/trouser-pants" class="category_limit">
-<span>Trouser</span>
+<span>Trousers &amp; Jumpsuits</span>
 </a>
 </li><li class="level1 nav-2-6 last">
 <a href="http://www.alloyapparel.com/store/pants/tall-plus-size-pants" class="category_limit">
-<span>Tall Plus Size Pants</span>
+<span>Tall Sizes 14 to 25 &amp; XL to 3XL</span>
 </a>
 </li>
 </ul></li><li class="level nav-3 dropdown parent">
@@ -923,136 +1022,115 @@ background: #F31EB0;
 <span>Tall Jeans</span>
 </a>
 <ul class="dropdown-menu level"><li class="level1 nav-3-1 first">
+<a href="http://www.alloyapparel.com/store/jeans/denim-special-offers" class="category_limit">
+<span>Denim Sale</span>
+</a>
+</li><li class="level1 nav-3-2">
 <a href="http://www.alloyapparel.com/store/jeans/denim-shop" class="category_limit">
 <span>Denim Shop</span>
 </a>
-</li><li class="level1 nav-3-2">
+</li><li class="level1 nav-3-3">
 <a href="http://www.alloyapparel.com/store/jeans/powerstretch-jeans" class="category_limit">
 <span>Powerstretch Jeans</span>
 </a>
-</li><li class="level1 nav-3-3">
+</li><li class="level1 nav-3-4">
 <a href="http://www.alloyapparel.com/store/jeans/fashion-denim" class="category_limit">
 <span>Fashion Denim</span>
 </a>
-</li><li class="level1 nav-3-4">
+</li><li class="level1 nav-3-5">
 <a href="http://www.alloyapparel.com/store/jeans/skinny-jeans" class="category_limit">
 <span>Skinny</span>
 </a>
-</li><li class="level1 nav-3-5">
+</li><li class="level1 nav-3-6">
 <a href="http://www.alloyapparel.com/store/jeans/bootcut-jeans" class="category_limit">
 <span>Bootcut Jeans &amp; Flared</span>
 </a>
-</li><li class="level1 nav-3-6">
+</li><li class="level1 nav-3-7">
 <a href="http://www.alloyapparel.com/store/jeans/high-waist-jeans" class="category_limit">
 <span>High Waist</span>
 </a>
-</li><li class="level1 nav-3-7">
+</li><li class="level1 nav-3-8">
 <a href="http://www.alloyapparel.com/store/jeans/booty-enhancing-jeans" class="category_limit">
 <span>Booty Enhancer</span>
 </a>
-</li><li class="level1 nav-3-8 last">
+</li><li class="level1 nav-3-9 last">
 <a href="http://www.alloyapparel.com/store/jeans/tall-plus-size-jeans" class="category_limit">
-<span>Tall Plus Size Jeans</span>
+<span>Tall Sizes 14 to 25</span>
 </a>
 </li>
 </ul></li><li class="level nav-4 dropdown parent">
 <a href="http://www.alloyapparel.com/store/sweatpants" class="category_limit dropdown-toggle" data-toggle="dropdown">
-<span>Tall Sweatpants</span>
+<span>Tall Sweatpants and Leggings</span>
 </a>
 <ul class="dropdown-menu level"><li class="level1 nav-4-1 first">
+<a href="http://www.alloyapparel.com/store/sweatpants/french-terry-collection" class="category_limit">
+<span>Sweatpants and Jumpsuits</span>
+</a>
+</li><li class="level1 nav-4-2">
 <a href="http://www.alloyapparel.com/store/sweatpants/leggings" class="category_limit">
 <span>Leggings</span>
 </a>
-</li><li class="level1 nav-4-2 last">
+</li><li class="level1 nav-4-3">
 <a href="http://www.alloyapparel.com/store/sweatpants/joggers" class="category_limit">
 <span>Joggers</span>
 </a>
+</li><li class="level1 nav-4-4 last">
+<a href="http://www.alloyapparel.com/store/sweatpants/tall-plus-size-sweatpants-and-leggings" class="category_limit">
+<span>Tall Plus Size Sweatpants and Leggings</span>
+</a>
 </li>
 </ul></li><li class="level nav-5 dropdown parent">
-<a href="http://www.alloyapparel.com/store/tall-activewear" class="category_limit dropdown-toggle" data-toggle="dropdown">
-<span>Tall Activewear</span>
-</a>
-<ul class="dropdown-menu level"><li class="level1 nav-5-1 first">
-<a href="http://www.alloyapparel.com/store/tall-activewear/active-guide" class="category_limit">
-<span>Active Guide</span>
-</a>
-</li><li class="level1 nav-5-2 last">
-<a href="http://www.alloyapparel.com/store/tall-activewear/shop-activewear" class="category_limit">
-<span>Shop Activewear</span>
-</a>
-</li>
-</ul></li><li class="level nav-6 dropdown parent">
 <a href="http://www.alloyapparel.com/store/tops-and-dresses" class="category_limit dropdown-toggle" data-toggle="dropdown">
 <span>Tall Tops and Dresses </span>
 </a>
-<ul class="dropdown-menu level"><li class="level1 nav-6-1 first">
-<a href="http://www.alloyapparel.com/store/tops-and-dresses/sweater-sale" class="category_limit">
-<span>Sweater Sale</span>
-</a>
-</li><li class="level1 nav-6-2">
+<ul class="dropdown-menu level"><li class="level1 nav-5-1 first">
 <a href="http://www.alloyapparel.com/store/tops-and-dresses/shirts-and-blouses" class="category_limit">
 <span>Tops</span>
 </a>
-</li><li class="level1 nav-6-3">
+</li><li class="level1 nav-5-2">
 <a href="http://www.alloyapparel.com/store/tops-and-dresses/sweaters-and-outwear" class="category_limit">
 <span>Sweaters and Outerwear</span>
 </a>
-</li><li class="level1 nav-6-4 last">
+</li><li class="level1 nav-5-3 last">
 <a href="http://www.alloyapparel.com/store/tops-and-dresses/dresses" class="category_limit">
-<span>Dresses</span>
+<span>Dresses and Jumpsuits</span>
 </a>
 </li>
-</ul></li><li class="level nav-7 dropdown parent">
-<a href="http://www.alloyapparel.com/store/5-8-under" class="category_limit dropdown-toggle" data-toggle="dropdown">
-<span>5'8" and Under</span>
+</ul></li><li class="level nav-6">
+<a href="http://www.alloyapparel.com/store/tall-style-guide" class="category_limit">
+<span>Tall Style Guide</span>
 </a>
-<ul class="dropdown-menu level"><li class="level1 nav-7-1 first">
-<a href="http://www.alloyapparel.com/store/5-8-under/5-8-under-curvy" class="category_limit">
-<span>Curvy Jeans and Sweatpants</span>
-</a>
-</li><li class="level1 nav-7-2 last">
-<a href="http://www.alloyapparel.com/store/5-8-under/5-8-under-contemporary" class="category_limit">
-<span>Contemporary Jeans and Sweatpants</span>
-</a>
-</li>
-</ul></li><li class="level nav-8 dropdown parent">
+</li><li class="level nav-7 dropdown parent">
 <a href="http://www.alloyapparel.com/store/sale" class="category_limit dropdown-toggle" data-toggle="dropdown">
 <span>Sale</span>
 </a>
-<ul class="dropdown-menu level"><li class="level1 nav-8-1 first">
+<ul class="dropdown-menu level"><li class="level1 nav-7-1 first">
+<a href="http://www.alloyapparel.com/store/sale/new-markdowns-1" class="category_limit">
+<span>New Markdowns</span>
+</a>
+</li><li class="level1 nav-7-2">
 <a href="http://www.alloyapparel.com/store/sale/jeans" class="category_limit">
 <span>Jeans</span>
 </a>
-</li><li class="level1 nav-8-2">
+</li><li class="level1 nav-7-3">
 <a href="http://www.alloyapparel.com/store/sale/pants" class="category_limit">
 <span>Pants</span>
 </a>
-</li><li class="level1 nav-8-3">
+</li><li class="level1 nav-7-4">
 <a href="http://www.alloyapparel.com/store/sale/sweatpants" class="category_limit">
-<span>Sweatpants</span>
+<span>Sweatpants &amp; Leggings</span>
 </a>
-</li><li class="level1 nav-8-4">
-<a href="http://www.alloyapparel.com/store/sale/dresses" class="category_limit">
-<span>Dresses &amp; Skirts</span>
+</li><li class="level1 nav-7-5 dropdown last parent dropdown-submenu">
+<a href="http://www.alloyapparel.com/store/sale/29-99-and-less" class="category_limit dropdown-toggle" data-toggle="dropdown">
+<span>60% OFF &amp; OVER - FINAL SALE</span>
 </a>
-</li><li class="level1 nav-8-5">
-<a href="http://www.alloyapparel.com/store/sale/tops" class="category_limit">
-<span>Tops</span>
-</a>
-</li><li class="level1 nav-8-6">
-<a href="http://www.alloyapparel.com/store/sale/sweaters" class="category_limit">
-<span>Sweaters</span>
-</a>
-</li><li class="level1 nav-8-7">
-<a href="http://www.alloyapparel.com/store/sale/outerwear-jackets" class="category_limit">
-<span>Outerwear &amp; Jackets</span>
-</a>
-</li><li class="level1 nav-8-8 last">
-<a href="http://www.alloyapparel.com/store/sale/jumpsuits-and-rompers" class="category_limit">
+<ul class="dropdown-menu level1"><li class="level2 nav-7-5-1 first last">
+<a href="http://www.alloyapparel.com/store/sale/29-99-and-less/jumpsuits-and-rompers" class="category_limit">
 <span>Jumpsuits and Rompers</span>
 </a>
 </li>
-</ul></li><li class="level nav-9 last">
+</ul></li>
+</ul></li><li class="level nav-8 last">
 <a href="http://www.alloyapparel.com/store/tall-squad" class="category_limit">
 <span>Tall Squad</span>
 </a>
@@ -1073,7 +1151,7 @@ background: #F31EB0;
 					</div>
 
 					<div class="mobile cs-nav">
-						<ul class="footer-links nav"><li class="nav-first parent level0 level-top"><span class="nav-first parent level0 level-top"><span>Shop</span></span><ul><li class="nav-first level1"><a href="/store/digital-gift-card.html" target="_self" class="nav-first level1"><span>Gift Cards</span></a></li><li class="level1"><a href="/shop/size-guide/" target="_self" class="level1"><span>Size Guide</span></a></li><li class="nav-last level1"><a href="/shop/coupons/" target="_self" class="nav-last level1"><span>Alloy Promos and Coupon Codes</span></a></li></ul></li><li class="parent level0 level-top"><span class="parent level0 level-top"><span>Customer Care</span></span><ul><li class="nav-first level1"><a href="/store/support" target="_self" class="nav-first level1"><span>Contact Us</span></a></li><li class="level1"><a href="/customer-care/ordering-and-payments/" target="_self" class="level1"><span>Ordering &amp; Payments</span></a></li><li class="level1"><a href="/customer-care/shipping/" target="_self" class="level1"><span>Shipping</span></a></li><li class="level1"><a href="/customer-care/returns-and-exchanges/" target="_self" class="level1"><span>Returns</span></a></li><li class="nav-last level1"><a href="/customer-care/faqs/" target="_self" class="nav-last level1"><span>FAQs</span></a></li></ul></li><li class="nav-last parent level0 level-top"><span class="nav-last parent level0 level-top"><span>About Us</span></span><ul><li class="nav-first level1"><a href="/about-us/company-bio/" target="_self" class="nav-first level1"><span>Company Bio</span></a></li><li class="level1"><a href="http://blog.alloyapparel.com/" target="_blank" class="level1"><span>Blog</span></a></li><li class="level1"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level1"><span>Affiliates</span></a></li><li class="level1"><a href="/about-us/privacy-and-security/" target="_self" class="level1"><span>Privacy Policy</span></a></li><li class="level1"><a href="/about-us/eu-privacy-policy/" target="_self" class="level1"><span>EU Privacy Policy</span></a></li><li class="nav-last level1"><a href="/about-us/terms/" target="_self" class="nav-last level1"><span>Terms &amp; Conditions</span></a></li></ul></li></ul>					</div>
+						<ul class="footer-links nav"><li class="nav-first parent level0 level-top"><span class="nav-first parent level0 level-top"><span>Shop</span></span><ul><li class="nav-first level1"><a href="/store/digital-gift-card.html" target="_self" class="nav-first level1"><span>Gift Cards</span></a></li><li class="level1"><a href="/shop/size-guide/" target="_self" class="level1"><span>Size Guide</span></a></li><li class="nav-last level1"><a href="/shop/coupons/" target="_self" class="nav-last level1"><span>Alloy Promos and Coupon Codes</span></a></li></ul></li><li class="parent level0 level-top"><span class="parent level0 level-top"><span>Customer Care</span></span><ul><li class="nav-first level1"><a href="/customer-care/contact-us/" target="_self" class="nav-first level1"><span>Contact Us</span></a></li><li class="level1"><a href="/customer-care/ordering-and-payments/" target="_self" class="level1"><span>Ordering &amp; Payments</span></a></li><li class="level1"><a href="/customer-care/shipping/" target="_self" class="level1"><span>Shipping</span></a></li><li class="level1"><a href="/customer-care/returns-and-exchanges/" target="_self" class="level1"><span>Returns</span></a></li><li class="nav-last level1"><a href="/customer-care/faqs/" target="_self" class="nav-last level1"><span>FAQs</span></a></li></ul></li><li class="nav-last parent level0 level-top"><span class="nav-last parent level0 level-top"><span>About Us</span></span><ul><li class="nav-first level1"><a href="/about-us/company-bio/" target="_self" class="nav-first level1"><span>Company Bio</span></a></li><li class="level1"><a href="http://blog.alloyapparel.com/" target="_blank" class="level1"><span>Blog</span></a></li><li class="level1"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level1"><span>Affiliates</span></a></li><li class="level1"><a href="/about-us/privacy-and-security/" target="_self" class="level1"><span>Privacy Policy</span></a></li><li class="level1"><a href="/about-us/eu-privacy-policy/" target="_self" class="level1"><span>EU Privacy Policy</span></a></li><li class="nav-last level1"><a href="/about-us/terms/" target="_self" class="nav-last level1"><span>Terms &amp; Conditions</span></a></li></ul></li></ul>					</div>
 				</nav>
 			</div>
 		</div>
@@ -1088,7 +1166,7 @@ background: #F31EB0;
 
             <div class="col-left sidebar grid12-3 grid-col2-sidebar in-sidebar">
                 <div class="customer-service-menu mobile-dropdown"><strong><span>Customer Service Menu</span></strong></div>
-            	                        <ul id="leftnav" class="block"><li class="level-0 block-content"><a href="/shop/" target="_self" class="level-0 block-content">Shop</a><ul><li class="level-1 block-content"><a href="/store/digital-gift-card.html" target="_self" class="level-1 block-content">Gift Cards</a></li><li class="level-1 block-content"><a href="/shop/size-guide/" target="_self" class="level-1 block-content">Size Guide</a></li><li class="level-1 block-content"><a href="/shop/coupons/" target="_self" class="level-1 block-content">Alloy Promos and Coupon Codes</a></li></ul></li><li class="level-0 block-content"><a href="/customer-care/" target="_self" class="level-0 block-content">Customer Care</a><ul><li class="level-1 block-content"><a href="/store/support" target="_self" class="level-1 block-content">Contact Us</a></li><li class="level-1 block-content"><a href="/customer-care/ordering-and-payments/" target="_self" class="level-1 block-content">Ordering &amp; Payments</a></li><li class="level-1 block-content"><a href="/customer-care/shipping/" target="_self" class="level-1 block-content">Shipping</a></li></ul></li><li class="nav-path-selected level-0 block-content"><a href="/about-us/" target="_self" class="nav-path-selected level-0 block-content">About Us</a><ul><li class="level-1 block-content"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level-1 block-content">Affiliates</a></li><li class="nav-selected nav-path-selected level-1 block-content"><a href="/about-us/privacy-and-security/" target="_self" class="nav-selected nav-path-selected level-1 block-content">Privacy Policy</a></li><li class="level-1 block-content"><a href="/about-us/eu-privacy-policy/" target="_self" class="level-1 block-content">EU Privacy Policy</a></li><li class="level-1 block-content"><a href="/about-us/terms/" target="_self" class="level-1 block-content">Terms &amp; Conditions</a></li></ul></li><li class="level-0 block-content"><a href="/alloy-events/" target="_self" class="level-0 block-content">Alloy Events</a></li></ul>						
+            	                        <ul id="leftnav" class="block"><li class="level-0 block-content"><a href="/shop/" target="_self" class="level-0 block-content">Shop</a><ul><li class="level-1 block-content"><a href="/store/digital-gift-card.html" target="_self" class="level-1 block-content">Gift Cards</a></li><li class="level-1 block-content"><a href="/shop/size-guide/" target="_self" class="level-1 block-content">Size Guide</a></li><li class="level-1 block-content"><a href="/shop/coupons/" target="_self" class="level-1 block-content">Alloy Promos and Coupon Codes</a></li></ul></li><li class="level-0 block-content"><a href="/customer-care/" target="_self" class="level-0 block-content">Customer Care</a><ul><li class="level-1 block-content"><a href="/customer-care/contact-us/" target="_self" class="level-1 block-content">Contact Us</a></li><li class="level-1 block-content"><a href="/customer-care/ordering-and-payments/" target="_self" class="level-1 block-content">Ordering &amp; Payments</a></li><li class="level-1 block-content"><a href="/customer-care/shipping/" target="_self" class="level-1 block-content">Shipping</a></li></ul></li><li class="nav-path-selected level-0 block-content"><a href="/about-us/" target="_self" class="nav-path-selected level-0 block-content">About Us</a><ul><li class="level-1 block-content"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level-1 block-content">Affiliates</a></li><li class="nav-selected nav-path-selected level-1 block-content"><a href="/about-us/privacy-and-security/" target="_self" class="nav-selected nav-path-selected level-1 block-content">Privacy Policy</a></li><li class="level-1 block-content"><a href="/about-us/eu-privacy-policy/" target="_self" class="level-1 block-content">EU Privacy Policy</a></li><li class="level-1 block-content"><a href="/about-us/terms/" target="_self" class="level-1 block-content">Terms &amp; Conditions</a></li></ul></li><li class="level-0 block-content"><a href="/alloy-events/" target="_self" class="level-0 block-content">Alloy Events</a></li></ul>						
 						            </div><!-- /.col-left -->
             <div class="col-main grid12-9 grid-col2-main in-col2">
                 <div class="std">
@@ -1232,7 +1310,7 @@ USA
     <div class="footer-main">
     	<div class="container">
             <div class="pull-left">
-                <ul class="footer-links nav"><li class="nav-first parent level0 level-top"><span class="nav-first parent level0 level-top"><span>Shop</span></span><ul><li class="nav-first level1"><a href="/store/digital-gift-card.html" target="_self" class="nav-first level1"><span>Gift Cards</span></a></li><li class="level1"><a href="/shop/size-guide/" target="_self" class="level1"><span>Size Guide</span></a></li><li class="nav-last level1"><a href="/shop/coupons/" target="_self" class="nav-last level1"><span>Alloy Promos and Coupon Codes</span></a></li></ul></li><li class="parent level0 level-top"><span class="parent level0 level-top"><span>Customer Care</span></span><ul><li class="nav-first level1"><a href="/store/support" target="_self" class="nav-first level1"><span>Contact Us</span></a></li><li class="level1"><a href="/customer-care/ordering-and-payments/" target="_self" class="level1"><span>Ordering &amp; Payments</span></a></li><li class="level1"><a href="/customer-care/shipping/" target="_self" class="level1"><span>Shipping</span></a></li><li class="level1"><a href="/customer-care/returns-and-exchanges/" target="_self" class="level1"><span>Returns</span></a></li><li class="nav-last level1"><a href="/customer-care/faqs/" target="_self" class="nav-last level1"><span>FAQs</span></a></li></ul></li><li class="nav-last parent level0 level-top"><span class="nav-last parent level0 level-top"><span>About Us</span></span><ul><li class="nav-first level1"><a href="/about-us/company-bio/" target="_self" class="nav-first level1"><span>Company Bio</span></a></li><li class="level1"><a href="http://blog.alloyapparel.com/" target="_blank" class="level1"><span>Blog</span></a></li><li class="level1"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level1"><span>Affiliates</span></a></li><li class="level1"><a href="/about-us/privacy-and-security/" target="_self" class="level1"><span>Privacy Policy</span></a></li><li class="level1"><a href="/about-us/eu-privacy-policy/" target="_self" class="level1"><span>EU Privacy Policy</span></a></li><li class="nav-last level1"><a href="/about-us/terms/" target="_self" class="nav-last level1"><span>Terms &amp; Conditions</span></a></li></ul></li></ul>            </div>
+                <ul class="footer-links nav"><li class="nav-first parent level0 level-top"><span class="nav-first parent level0 level-top"><span>Shop</span></span><ul><li class="nav-first level1"><a href="/store/digital-gift-card.html" target="_self" class="nav-first level1"><span>Gift Cards</span></a></li><li class="level1"><a href="/shop/size-guide/" target="_self" class="level1"><span>Size Guide</span></a></li><li class="nav-last level1"><a href="/shop/coupons/" target="_self" class="nav-last level1"><span>Alloy Promos and Coupon Codes</span></a></li></ul></li><li class="parent level0 level-top"><span class="parent level0 level-top"><span>Customer Care</span></span><ul><li class="nav-first level1"><a href="/customer-care/contact-us/" target="_self" class="nav-first level1"><span>Contact Us</span></a></li><li class="level1"><a href="/customer-care/ordering-and-payments/" target="_self" class="level1"><span>Ordering &amp; Payments</span></a></li><li class="level1"><a href="/customer-care/shipping/" target="_self" class="level1"><span>Shipping</span></a></li><li class="level1"><a href="/customer-care/returns-and-exchanges/" target="_self" class="level1"><span>Returns</span></a></li><li class="nav-last level1"><a href="/customer-care/faqs/" target="_self" class="nav-last level1"><span>FAQs</span></a></li></ul></li><li class="nav-last parent level0 level-top"><span class="nav-last parent level0 level-top"><span>About Us</span></span><ul><li class="nav-first level1"><a href="/about-us/company-bio/" target="_self" class="nav-first level1"><span>Company Bio</span></a></li><li class="level1"><a href="http://blog.alloyapparel.com/" target="_blank" class="level1"><span>Blog</span></a></li><li class="level1"><a href="https://www.pepperjamnetwork.com/affiliate/registration.php?refid=147598" target="_blank" class="level1"><span>Affiliates</span></a></li><li class="level1"><a href="/about-us/privacy-and-security/" target="_self" class="level1"><span>Privacy Policy</span></a></li><li class="level1"><a href="/about-us/eu-privacy-policy/" target="_self" class="level1"><span>EU Privacy Policy</span></a></li><li class="nav-last level1"><a href="/about-us/terms/" target="_self" class="nav-last level1"><span>Terms &amp; Conditions</span></a></li></ul></li></ul>            </div>
 
             <div class="pull-right">
 
@@ -1272,7 +1350,13 @@ Please enter a valid email address.
             <div class="copyright-links">
                             </div>  
             
-            <address>Copyright © 2018 Alloy. All Rights Reserved</address>
+            <address>Copyright © 2019 Alloy. All Rights Reserved
+
+
+
+
+
+</address>
         </div>
 
     </div>  
