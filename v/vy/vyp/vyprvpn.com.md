@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vyprvpn.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223104203id_/https%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyprvpn.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601061349id_/https%3A//www.goldenfrog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Frog
 
 _Last Updated November 26, 2018_
 
-Golden Frog, GmbH ("us", "we", or "our") operates the [www.goldenfrog.com](https://www.goldenfrog.com/) website and VyprVPN (the "Services").
+Golden Frog, GmbH ("us", "we", or "our") operates the [www.goldenfrog.com](https://web.archive.org/) website and VyprVPN (the "Services").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
 
-By using the Services, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible from [www.goldenfrog.com](https://www.goldenfrog.com/).
+By using the Services, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, accessible from [www.goldenfrog.com](https://web.archive.org/).
 
 ## Information Collection, Use and Retention
 
@@ -16,7 +16,7 @@ By using the Services, you agree to the collection and use of information in acc
 
 VyprVPN is a zero log VPN Service. We do not record or retain any data when you use the VyprVPN Service.
 
-We engaged a respected security firm to audit our zero-log policy so users have third party validation of our logging policies. You can view the full report here at: [VyprVPN Letter of Attestation and No Log Assessment by Leviathan](https://web.archive.org/vyprvpn/audit.pdf)
+We engaged a respected security firm to audit our zero-log policy so users have third party validation of our logging policies. You can view the full report here at: [VyprVPN Letter of Attestation and No Log Assessment by Leviathan](https://www.vyprvpn.com/audit.pdf)
 
 This means:
 
@@ -39,7 +39,7 @@ While using our Services, we may ask you to provide us with certain Personal Dat
 
 Golden Frog uses the collected Personal Data to provide and maintain our Services and provide customer support for our Services. Golden Frog will also use your Personal Data to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.
 
-### What Golden Frog Collects From [www.goldenfrog.com](https://www.goldenfrog.com/):
+### What Golden Frog Collects From [www.goldenfrog.com](https://web.archive.org/):
 
 Golden Frog collects Personal Data only through web form submissions, primarily for the purpose of enabling the purchase of services and engaging in support and other conversation. Golden Frog also collects anonymous information about how visitors use our web site; for example, Golden Frog utilizes web analytics software to track, in aggregate, the number of unique views received by the pages of the web site, the domains from which users originate along with many other analytical data points. Through the use of web analytics software, the Golden Frog website may use "cookies" to assist the tracking of how users engage our website. A cookie is a piece of data that the web server stores on the browser's PC which the web browser will then send back to the web server on any future requests, to facilitate identification of the user should they visit the web site again. While much of the information that we collect from users in this manner is not personally identifiable, it may be associated with personally identifiable information that users voluntarily provide to us through our web site.
 
