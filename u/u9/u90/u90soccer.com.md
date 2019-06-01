@@ -1,20 +1,75 @@
-> *The following text is extracted and transformed from the u90soccer.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928132152id_/https%3A//u90soccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u90soccer.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601234359id_/https%3A//u90soccer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Information Collection and Use
+Upper 90 LLC is the sole owner of information collected on this site.   
+We do not sell, share or rent this information to any outside parties, except as outlined in this policy.
 
-Upper 90 LLC is the sole owner of information collected on this site. We will not sell, share or rent this information to any outside parties, except as outlined in this policy.
+### Information that we may request and collect
 
-Upper 90 collects information from our website's users to process orders and provide related information, such as order confirmation and order status updates. Collected information includes name, shipping and billing address, telephone number, email address and payment information.
+You may be asked to provide certain types of personal information.   
+This might happen through our website, applications, online forms, chat system, telephone or in-store.
 
-Users who want to access and use "My account" section of the website are also required to submit a password. The password to your account section should remain confidential and should not be shared with others.
+### We may request, collect or process the following types of information
 
-If you choose to receive newsletter and special promotions from Upper 90, then the contact information provided will be used to deliver these items.
+  * Account Details - email address, password
+  * Contact Details - email address, phone number
+  * Location Details - physical address, billing address
+  * Identity Details - full name, birth date
+  * Player Details for Teamwear purchases - club name, team name, player number 
+  * Financial Information - credit card details, payment processor details (e.g. paypal)
+  * Device and Browser Information - device type, operating system, browser type
+
+
+
+### Information we collect as you use our service
+
+  * Metadata - IP address, computer and connection information, referring web page, language settings, timezone, etc.
+  * Location - IP based geo location
+  * Actions - pages viewed on our website, links clicked, time spent viewing, search keywords, etc.
+
+
+
+### How we use personal information
+
+The information we request, collect, and process is primarily used to provide users with the product or service they have requested. More specifically, we may use your personal information for the following purposes:
+
+  * to provide the service or product you have requested;
+  * to provide technical or other support to you;
+  * to answer enquiries about our services, or to respond to a complaint;
+  * to promote our other programs, products or services which may be of interest to you;
+  * to allow for debugging, testing and otherwise operate our website and related applications;
+  * to conduct data analysis, research and otherwise build and improve our platforms;
+  * to comply with legal and regulatory obligations;
+  * if otherwise permitted or required by law;
+
+
+
+### How we share information
+
+The personal information of users may be held or processed on our behalf by our third party service providers. We may employ third party companies to perform specific functions on our behalf, including fulfillment, package delivery, marketing assistance, IT assistance, analytics, postal and e-mail delivery, customer service, data analysis, and credit card processing.
+
+### Our third party providers include:
+
+  * Package delivery companies
+  * Payment and banking providers
+  * Marketing and analytics providers
+  * Email service providers
+  * Cloud hosting, storage, networking and IT service providers
+  * Online ratings sites
+  * Security providers
+
+
+
+The third parties employed by Upper 90 LLC have limited access to your personal information and may not use it for any other purposes.
+
+### Advertising
+
+Based on the cookies and other tracking tools, we may work with advertising companies to display ads that may be of interest to you.
 
 ### Registration
 
-To be able to process your order placed on Upper 90 website, you may be asked to complete the registration form. During registration, you will be asked to provide your contact information, including your name, e-mail address, phone number and street address - the information will be used to provide you with services such as order status updates via e-mail.
+To be able to process your order placed on Upper 90 website, you may be asked to complete the registration form. During registration, you will be asked to provide your contact information, including your name, e-mail address, phone number and street address - the information will be used to provide you with services such as order status updates via e-mail. You may also be asked for providing your date of birth (optional), in order to receive a loyalty reward on your birthday, if you choose to sign up for our Top Corner loyalty program.
 
 ### Orders
 
@@ -26,19 +81,7 @@ Content of the Upper 90 store may be customized for your browser based on cookie
 
 ### Log Files
 
-Our sever logs can be used to administer the website, track how users move through the website and improve their experience, gather demographic information for aggregate use or for security reasons. We do not distribute or share IP information with third parties.
-
-### Information Sharing
-
-Upper 90 may employ third party companies to perform functions on our behalf, including fulfillment, package delivery, marketing assistance, IT assistance, analytics, postal and e-mail delivery, customer service, data analysis, and credit card processing.
-
-These third parties employed by Upper 90 LLC have limited access to your personal information and may not use it for any other purposes.
-
-Upper 90 also shares basic information about orders and shipments with Google, as required by Google Trusted Stores program, to allow Google to monitor on-time shipping, issue resolution and to ensure superior online shopping experience.
-
-As Upper 90 continues to grow and evolve, we may acquire or sell business subsidiaries or units. In such cases customer information can be transferred in these types of transactions. In such a situation, your personally identifiable information would only be used in a way consistent with the pre-existing Privacy Policies.
-
-Please note that Upper 90 reserves the right to disclose your personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights and / or comply with a judicial proceeding, court order or legal processes.
+Our sever logs can be used to administer the website, track how users move through the website in order to improve user experience or also for security reasons. We do not distribute or share IP information with third parties.
 
 ### Children
 
@@ -76,13 +119,25 @@ Customers who previously granted permission can opt out at any time from receivi
 
 Customers may review and change their stored account information such as street address or email address through our website, by visiting our "My Account" section. You must login with your username and password in order to access "My Account" section. If you forget both your username and password, please contact our customer service department for assistance.
 
+### Legal basis for processing personal information
+
+For individuals in the EEA, UPPER 90' legal basis for collecting and using your personal information will depend on the personal information collected and the specific context in which we collect it. 
+
+UPPER 90 will process personal information from you where, 
+
+1) we have your consent to do so,   
+2) where processing is necessary for UPPER 90 to perform services pursuant to an agreement, or   
+3) where processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information, or may otherwise need the personal information to protect your vital interests or those of another person. 
+
+At any time, you have the right to withdraw or decline consent. If you do not provide the requested information, UPPER 90 will not be able to perform services for you. Also, you have the right to object where we rely on our legitimate interests to process your personal information.
+
 ### Notification of Changes
 
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement and other places we consider appropriate. We reserve the right to modify this privacy statement at any time. You may e-mail us at contact@u90soccer.com to ask our customer service department about changes and updates.
 
 ### Last Update
 
-The latest Privacy Policy contained herein became officially effective December 5, 2014.
+The latest Privacy Policy contained herein became officially effective May 24, 2018.
 
 ### Address
 
