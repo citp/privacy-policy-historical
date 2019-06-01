@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209070426id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602004622id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Read our Privacy policy | Cirque du Soleil
 
 _Last update:_ 2018-08-07
 
