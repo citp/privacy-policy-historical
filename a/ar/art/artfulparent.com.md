@@ -1,100 +1,149 @@
-> *The following text is extracted and transformed from the artfulparent.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfulparent.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601082124id_/https%3A//artfulparent.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Disclosure and Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## Disclosure and Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+####  _Effective May 29, 2018_
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Hi. I’m Jean Van’t Hul, the owner of The Artful Parent. I understand that your privacy is of critical importance. This Privacy Policy describes what information is collected from you at The Artful Parent and how that information is used and disclosed.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Who we are
 
-**Information Collection and Use**
+The Artful Parent website address is: [https://artfulparent.com](https://artfulparent.com/)
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Disclosure Statement
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+The Artful Parent blog is owned by Artful Media LLC.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+The Artful Parent blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The compensation received may occasionally influence the content selected to publish and the timing of that post. That content, advertising space or post will be identified as such within the guidelines of the FTC disclosure rules.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The views and opinions expressed on The Artful Parent are purely those of me, Jean Van’t Hul, chief blogger and children’s art enabler. Even though The Artful Parent blog receives compensation for some posts and advertisements, I always give my honest opinion, findings, beliefs, and experiences on those topics or products. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+I only work with companies and organizations I believe in and share products that I love and think that you will love, too.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If you have any questions, please feel free to e-mail The Artful Parent team at hello@artfulparent.com
 
-**Security**
+## What personal data we collect and why we collect it
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Comments
 
-**Updating Your Information**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The [Gravatar service privacy policy is available here](https://automattic.com/privacy/). After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### IP Address
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Our web service may automatically collect the standard details of your browser and operating system, the website from which you visit our website, the pages that you browse on our website, and the date of your visit. For security reasons (to identify attacks on our website) the Internet protocol (IP) address that is assigned to you by your internet service is also collected when you load The Artful Parent site.
 
-      iii.      You may call us at: (480) 505-8800
+### Cookies
 
-       iv.      You may fax us at: (480) 505-8844
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**Sending Emails**
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+At The Artful Parent, we also use cookies to help us display advertisements that will be relevant to you and to help us to analyze the use and performance of our website and services.
 
-**Compliance with Laws and Law Enforcement**
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Opera](https://www.opera.com/help/tutorials/security/cookies/)
+  * [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Safari](https://support.apple.com/kb/PH21411)
+  * [Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
 
-**Third Party Service Providers**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Please note that blocking cookies may have a negative impact on the functions of many websites, including The Artful Parent. Some features of the The Artful Parent may cease to be available to you.
 
-**Supplementation of Information**
+### Analytics
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. [Google’s privacy policy is available here](https://www.google.com/policies/privacy/).
 
-**Contests/Surveys**
+### Embedded content from other websites
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.) Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**Tell-A-Friend**
+##  **Interest-Based Advertising**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Advertising Privacy Statement
 
-**What Happens to my Personal Information if I Opt Out?**
+The Artful Parent is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+By using The Artful Parent, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-**Transfer of Data Abroad**
+### For European Economic Area Residents
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-**Changes in Our Practices**
+## Who we share your data with
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### Email
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We only collect your email if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter or opt-in to a free printable or e-course.  We will use your email address for the purposes for which you provided it to us and also from time to time to send you emails regarding the The Artful Parent.  You may opt out of such email communications at any time by clicking the “unsubscribe” button on the bottom of every email.
 
-**Contacting Our Site**
+We collect this data through two separate platforms, LeadPages and ConvertKit. You can read the [LeadPages privacy policy here](https://www.leadpages.net/privacy) (applicable section is under “Customer Data”) and the [ConvertKit privacy policy here](https://www.leadpages.net/privacy) (section 6).
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We will not share your email address with any third parties.
 
-* * *
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ **Registration or Account Data**
+
+We may collect other information from you when you register with our Site in order to use various features.  Such information could include your name and email address.
+
+We may use third parties to provide the functionality to allow you to register for the Site, in which case the third party will also have access to your information. Otherwise, we will not provide any personally-identifying information about you to third parties, except if required by law.
+
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for The Artful Parent, diagnosing and troubleshooting malfunctions on The Artful Parent, better understanding how The Artful Parent is used, and making personalized recommendations to you.
+
+ **Additional Rights of EEA (European Economic Area) Residents**
+
+If you are a resident of a country in the EEA, you have the rights, among others, to:
+
+(i)  access your personal data
+
+(ii)  ensure the accuracy of your personal data
+
+(iii) the right to have us delete your personal data
+
+(iv)  the right to restrict further processing of your personal data, and
+
+(v)  the right to complain to a supervisory authority in your country of residence in the event that data is misused
+
+If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
+
+You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
+
+ **Jean Van’t Hul  
+PO Box 18204  
+Asheville, NC 28814  
+hello@artfulparent.com**
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if you have purchased something from The Artful Parent store, for example), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Questions? Contact The Artful Parent
+
+You can always direct any data or privacy questions to The Artful Parent team at hello@artfulparent.com
+
+##  **Changes to the Privacy Policy**
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on The Artful Parent, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
