@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819000732id_/https%3A//www.2gbhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601100243id_/http%3A//2gbhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy India
 
