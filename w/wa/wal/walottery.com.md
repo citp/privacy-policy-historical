@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123133846id_/http%3A//www.walottery.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601114036id_/https%3A//www.walottery.com/Privacy) for the most accurate reproduction.*
 
 # Washington's Lottery
 
@@ -73,7 +73,7 @@ My Lottery membership is open only to persons of the state's legal gambling age,
 
 #### My Lottery Email And Push Notification Practices
 
-By joining My Lottery, users acknowledge and accept that Washington’s Lottery may send them e-mails and mobile push notifications that include information we believe they may be interested in as a member. As part of My Lottery membership, users may opt-in various e-mail and push notification subscriptions (including, but not limited to, Winning Numbers/Jackpot Amounts, Lottery News, Promotions and Surveys) to receive regular e-mails and/or mobile push notifications with specific content as described in the My Lottery sign-up form. Washington’s Lottery will be tracking the open rate for these messages to assure good customer service and timely delivery. To discontinue receiving such messages, users may opt-out by clicking the unsubscribe link at the bottom of our emails, or by disabling push notifications in the My Lottery section of the Washington's Lottery mobile app. Or [click here](https://web.archive.org/web/20161123133846id_/http://walottery.com/MyLottery/), log in and unsubscribe. Opting out of these messages will NOT cancel their My Lottery membership.
+By joining My Lottery, users acknowledge and accept that Washington’s Lottery may send them e-mails and mobile push notifications that include information we believe they may be interested in as a member. As part of My Lottery membership, users may opt-in various e-mail and push notification subscriptions (including, but not limited to, Winning Numbers/Jackpot Amounts, Lottery News, Promotions and Surveys) to receive regular e-mails and/or mobile push notifications with specific content as described in the My Lottery sign-up form. Washington’s Lottery will be tracking the open rate for these messages to assure good customer service and timely delivery. To discontinue receiving such messages, users may opt-out by clicking the unsubscribe link at the bottom of our emails, or by disabling push notifications in the My Lottery section of the Washington's Lottery mobile app. Or [click here](https://web.archive.org/web/20190601114036id_/https://www.walottery.com/MyLottery/), log in and unsubscribe. Opting out of these messages will NOT cancel their My Lottery membership.
 
 #### Cookies (and Applets)
 
@@ -119,4 +119,4 @@ TDD Users
 (360) 586-0933
 
 Email  
-[director's_office@walottery.com](mailto:director's_office@walottery.com)
+[director@walottery.com](mailto:director@walottery.com)
