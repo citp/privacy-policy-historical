@@ -1,0 +1,660 @@
+<!--The following is the downloaded HTML source of the getelevar.com privacy policy that was archived on 2019-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190601100943id_/http%3A//www.getelevar.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" async-hide"><head>
+  <!-- Google Optimize Page Flicker -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/nS7DzxzlOy3EDAlfEoQODY4CpUPlHk5W/analytics.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NRTVJJC"></script><script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+  h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+  (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+  })(window,document.documentElement,'async-hide','dataLayer',4000,
+  {'GTM-NRTVJJC':true});</script>
+  <!-- End Google Optimize Page Flicker -->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NRTVJJC');</script>
+  <!-- End Google Tag Manager -->
+	<script>
+  !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+  analytics.load("nS7DzxzlOy3EDAlfEoQODY4CpUPlHk5W");
+  analytics.page();
+  }}();
+</script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="shortcut icon" href="http://www.getelevar.com/wp-content/themes/elevar/img/elevar-favicon.png" type="image/x-icon">
+  <title>Privacy Policies | Elevar</title>
+
+	<style>
+		.wpcf7-submit{
+			display:none;
+		}
+		.recaptcha-btn{
+			display:block;
+		}
+		.grecaptcha-badge { margin: 10px 0; }
+	</style>
+	<script type="text/javascript">
+		var contactform = [];
+		var checkIfCalled = true;
+		var renderGoogleInvisibleRecaptchaFront = function() {
+			// prevent form submit from enter key
+			jQuery("input[name=_wpcf7]").attr("class","formid");
+				jQuery('.wpcf7-form').on('keyup keypress', "input", function(e) {
+				  var keyCode = e.keyCode || e.which;
+				  if (keyCode === 13) {
+					e.preventDefault();
+					return false;
+				  }
+				});
+
+			jQuery('.wpcf7-submit').each(function(index){
+
+				var checkexclude = 0;
+				var form = jQuery(this).closest('.wpcf7-form');
+				var value = jQuery(form).find(".formid").val();
+				// check form exclude from invisible recaptcha
+								if(checkexclude == 0){
+					// Hide the form orig submit button
+					form.find('.wpcf7-submit').hide();
+
+					// Fetch class and value of orig submit button
+					btnClasses = form.find('.wpcf7-submit').attr('class');
+					btnValue = form.find('.wpcf7-submit').attr('value');
+
+					// Add custom button and recaptcha holder
+
+					form.find('.wpcf7-submit').after('<input type="button" id="wpcf-custom-btn-'+index+'" class="'+btnClasses+' captcha recaptcha-btn recaptcha-btn-type-css" value="'+btnValue+'" title="'+btnValue+'" >');
+					form.append('<div class="recaptcha-holder" id="recaptcha-holder-'+index+'"></div>');
+					// Recaptcha rendenr from here
+					var holderId = grecaptcha.render('recaptcha-holder-'+index,{
+								'sitekey':'6LcDsJ0UAAAAAKCO4h5YfKx1wiVLSlxnkXy6Z0G9',
+								'size': 'invisible',
+								'badge' : 'inline', // possible values: bottomright, bottomleft, inline
+								'callback' : function (recaptchaToken) {
+									//console.log(recaptchaToken);
+									var response=jQuery('#recaptcha-holder-'+index).find('.g-recaptcha-response').val();
+									//console.log(response);
+									//Remove old response and store new respone
+									jQuery('#recaptcha-holder-'+index).parent().find(".respose_post").remove();
+									jQuery('#recaptcha-holder-'+index).after('<input type="hidden" name="g-recaptcha-response"  value="'+response+'" class="respose_post">')
+									grecaptcha.reset(holderId);
+
+									if(typeof customCF7Validator !== 'undefined'){
+										if(!customCF7Validator(form)){
+											return;
+										}
+									}
+									// Call default Validator function
+									else if(contactFormDefaultValidator(form)){
+										return;
+									}
+									else{
+										// hide the custom button and show orig submit button again and submit the form
+										jQuery('#wpcf-custom-btn-'+index).hide();
+										form.find('input[type=submit]').show();
+										form.find("input[type=submit]").click();
+										form.find('input[type=submit]').hide();
+										jQuery('#wpcf-custom-btn-'+index).attr('style','');
+									}
+								}
+						},false);
+
+					// action call when click on custom button
+					jQuery('#wpcf-custom-btn-'+index).click(function(event){
+						event.preventDefault();
+						// Call custom validator function
+						if(typeof customCF7Validator == 'function'){
+							if(!customCF7Validator(form)){
+								return false;
+							}
+						}
+						// Call default Validator function
+						else if(contactFormDefaultValidator(form)){
+							return false;
+						}
+						else if(grecaptcha.getResponse(holderId) != ''){
+							grecaptcha.reset(holderId);
+						}
+						else{
+							// execute the recaptcha challenge
+							grecaptcha.execute(holderId);
+						}
+					});
+				}
+			});
+		}
+	</script><script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptchaFront&amp;render=explicit" async="" defer=""></script>
+<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.2.2 -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+</script>
+<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+
+<!-- This site is optimized with the Yoast SEO plugin v10.1.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="View our privacy policy details.">
+<link rel="canonical" href="http://www.getelevar.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policies | Elevar">
+<meta property="og:description" content="View our privacy policy details.">
+<meta property="og:url" content="http://www.getelevar.com/privacy/">
+<meta property="og:site_name" content="Elevar">
+<meta property="article:publisher" content="https://www.facebook.com/getelevar">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="View our privacy policy details.">
+<meta name="twitter:title" content="Privacy Policies | Elevar">
+<meta name="twitter:site" content="@getelevar">
+<meta name="twitter:creator" content="@getelevar">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"http://www.getelevar.com/","sameAs":["https://www.facebook.com/getelevar","https://www.instagram.com/getelevar/","https://www.linkedin.com/company/15215553/","https://www.youtube.com/channel/UCsmm8h3Mu__aqjzN1wM0Mnw","https://twitter.com/getelevar"],"@id":"http://www.getelevar.com/#organization","name":"Elevar","logo":"http://www.getelevar.com/wp-content/uploads/2017/08/Elevar_Logo_Horizontal.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//js.hs-scripts.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.getelevar.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.getelevar.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="http://www.getelevar.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.getelevar.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpfront-notification-bar-css" href="http://www.getelevar.com/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css?ver=1.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="elevar-style-css" href="http://www.getelevar.com/wp-content/themes/elevar/style.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://www.getelevar.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.2" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="http://www.getelevar.com/wp-content/themes/elevar/css/magnific-popup.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="http://www.getelevar.com/wp-content/themes/elevar/css/slick.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="http://www.getelevar.com/wp-content/themes/elevar/css/main.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_custom_css-css" href="//www.getelevar.com/wp-content/uploads/js_composer/custom.css?ver=5.2" type="text/css" media="all">
+<script type="text/javascript" src="http://www.getelevar.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/plugins/cf7-invisible-recaptcha/js/cf7_invisible_recaptcha.js?ver=1.2.3"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js?ver=1.4.0"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/libraries/modernizr.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/libraries/bootstrap.min.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/plugins/slick.min.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/plugins/magnific-popup.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/plugins/jquery.matchHeight.js?ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/main.js?ver=1559383783"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var elevar_object = {"ajax_url":"http:\/\/www.getelevar.com\/wp-admin\/admin-ajax.php","template_url":"http:\/\/www.getelevar.com\/wp-content\/themes\/elevar"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/themes/elevar/js/ajax.js?ver=5.2.1"></script>
+<link rel="https://api.w.org/" href="http://www.getelevar.com/wp-json/">
+<link rel="shortlink" href="http://www.getelevar.com/?p=844">
+<link rel="alternate" type="application/json+oembed" href="http://www.getelevar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.getelevar.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.getelevar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.getelevar.com%2Fprivacy%2F&amp;format=xml">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.getelevar.com/?wordfence_lh=1&hid=51299481412F7CF5FABD45BC2394284E');
+</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.getelevar.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <!--[if lt IE 9]>
+      <script src="http://www.getelevar.com/wp-content/themes/elevar/js/ie/html5shiv.js"></script>
+      <script src="http://www.getelevar.com/wp-content/themes/elevar/js/ie/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body class="page-template-default page page-id-844 wpb-js-composer js-comp-ver-5.2 vc_responsive">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRTVJJC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page">
+  <div class="overlay" id="overlay">
+    <nav class="overlay-menu">
+      <ul id="menu-main-menu" class="nolist"><li id="menu-item-430" class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="http://www.getelevar.com/features/">Features</a></li>
+<li id="menu-item-435" class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://www.getelevar.com/services/">Services</a></li>
+<li id="menu-item-4405" class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-4405"><a href="http://www.getelevar.com/pricing-plans/">Pricing</a></li>
+<li id="menu-item-432" class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-432"><a href="http://www.getelevar.com/resources/">Learn</a>
+<ul class="sub-menu">
+<li class="megamenu">
+	                          <div class="text-wrapper hidden-xs">
+	                            <h3 class="main-heading">Resources</h3>
+	                          </div>
+	<ul class="sub-menu">
+<li class="">
+                        <a href="http://www.getelevar.com/resources/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/07/icon-eye.svg" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Blog</h3>
+                            <p>Our tips &amp; how-to’s</p>
+                          </div>
+                        </a></li><li class="">
+                        <a href="http://www.getelevar.com/learn/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/07/icon-cart.svg" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Learning Center</h3>
+                            <p>More structured guides</p>
+                          </div>
+                        </a></li>	</ul>
+</li><li class="megamenu">
+	                          <div class="text-wrapper hidden-xs">
+	                            <h3 class="main-heading">Featured</h3>
+	                          </div>
+	<ul class="sub-menu">
+<li class="">
+                        <a href="http://www.getelevar.com/learn/shopify/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/08/shopify-e1539611727646.png" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Shopify Analytics</h3>
+                            <p>Optimize your website</p>
+                          </div>
+                        </a></li><li class="">
+                        <a href="http://www.getelevar.com/learn/google-tag-manager/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/08/gtm-icon.png" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">GTM Recipes</h3>
+                            <p>Pre-built containers</p>
+                          </div>
+                        </a></li>	</ul>
+</li></ul>
+</li>
+<li id="menu-item-2202" class="megamenu-main menu-item menu-item-type-custom menu-item-object-custom menu-item-2202"><a href="https://app.getelevar.com/signin">Log In</a></li>
+<li id="menu-item-1184" class="extra menu-item menu-item-type-custom menu-item-object-custom menu-item-1184"><a href="https://app.getelevar.com/signup">Sign Up Free</a></li>
+</ul>    </nav>
+  </div>
+  <header class="header header-color">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-5 logo">
+          <a href="http://www.getelevar.com">
+            <svg class="logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1232.87 260"><title>elevar-logo</title><path d="M132,0V.07A93.26,93.26,0,0,0,40.35,76a120,120,0,0,0-1.61,22.33v81.2c0,6.81.08,13.6-.94,20.36-2.12,14.05-8.12,28.43-19.38,37.59A35.39,35.39,0,0,1,2,245.06c-.33.05-1.74,0-1.93.27s0,.47,0,.57A29.46,29.46,0,0,0,0,249v11a92.71,92.71,0,0,0,45.63-12.22c13.86-7.91,25.65-19.59,32.66-34a71.76,71.76,0,0,0,7-27.24,93.48,93.48,0,0,1-27.12-4,93.29,93.29,0,0,0,56-35.22A90.79,90.79,0,0,0,132,93.07q0-12.41,0-24.82V26.41H262.22L274.18,0ZM85.36,142.21A10.19,10.19,0,1,1,95.54,132,10.19,10.19,0,0,1,85.36,142.21Z"></path><polygon points="802.17 27.33 771.59 27.33 831.41 159.35 838.32 159.35 862 159.35 869.04 159.35 928.87 27.33 898.14 27.33 850.16 133.23 802.17 27.33"></polygon><polygon points="501.62 132.95 501.62 159.35 609.56 159.35 609.56 132.95 528.02 132.95 528.02 27.33 501.62 27.33 501.62 132.95"></polygon><polygon points="462.01 132.95 379.81 132.95 379.81 106.55 462.01 106.55 462.01 80.14 379.81 80.14 379.81 53.73 462.01 53.73 462.01 27.33 353.4 27.33 353.4 53.73 353.4 80.14 353.4 106.55 353.4 132.95 353.4 159.35 462.01 159.35 462.01 132.95"></polygon><path d="M1001,53.45,1025,106.55H976.93Zm18-26.12H982.95l-59.82,132H953L965,133h72l12,26.4h29.88Z"></path><polygon points="636.58 27.33 636.58 159.35 636.58 159.35 745.19 159.35 745.19 132.95 662.98 132.95 662.98 106.55 745.19 106.55 745.19 80.14 662.98 80.14 662.98 53.73 745.19 53.73 745.19 27.33 636.58 27.33"></polygon><path d="M1193.26,53.74h-61V80.14h61a13.2,13.2,0,1,0,0-26.41m0-26.41a39.59,39.59,0,0,1,14.43,76.46l25.18,55.56H1203l-23.93-52.81h-46.8v52.81h-26.41v-132h87.4"></path><path d="M138.16,158.43A87.92,87.92,0,0,1,93.65,184.8l0,0h67.83a45,45,0,0,0,41-26.41Z"></path><path d="M158.12,105.62A87.5,87.5,0,0,1,152,132h62.31l12-26.41Z"></path><polygon points="158.38 52.81 158.38 79.22 238.29 79.22 250.26 52.81 158.38 52.81"></polygon></svg>
+          </a>
+        </div><!-- .logo -->
+        <div class="col-md-9 hidden-sm hidden-xs menutop text-right">
+          <nav><ul id="menu-main-menu-1" class="nolist"><li class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="http://www.getelevar.com/features/">Features</a></li>
+<li class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://www.getelevar.com/services/">Services</a></li>
+<li class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-4405"><a href="http://www.getelevar.com/pricing-plans/">Pricing</a></li>
+<li class="megamenu-main menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-432"><a href="http://www.getelevar.com/resources/">Learn</a>
+<ul class="sub-menu">
+<li class="megamenu">
+	                          <div class="text-wrapper hidden-xs">
+	                            <h3 class="main-heading">Resources</h3>
+	                          </div>
+	<ul class="sub-menu">
+<li class="">
+                        <a href="http://www.getelevar.com/resources/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/07/icon-eye.svg" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Blog</h3>
+                            <p>Our tips &amp; how-to’s</p>
+                          </div>
+                        </a></li><li class="">
+                        <a href="http://www.getelevar.com/learn/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/07/icon-cart.svg" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Learning Center</h3>
+                            <p>More structured guides</p>
+                          </div>
+                        </a></li>	</ul>
+</li><li class="megamenu">
+	                          <div class="text-wrapper hidden-xs">
+	                            <h3 class="main-heading">Featured</h3>
+	                          </div>
+	<ul class="sub-menu">
+<li class="">
+                        <a href="http://www.getelevar.com/learn/shopify/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/08/shopify-e1539611727646.png" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">Shopify Analytics</h3>
+                            <p>Optimize your website</p>
+                          </div>
+                        </a></li><li class="">
+                        <a href="http://www.getelevar.com/learn/google-tag-manager/">
+                          <div class="icon-wrapper">
+                            <img src="http://www.getelevar.com/wp-content/uploads/2018/08/gtm-icon.png" alt="" class="img-responsive">
+                          </div>
+                          <div class="text-wrapper">
+                            <h3 class="main-heading">GTM Recipes</h3>
+                            <p>Pre-built containers</p>
+                          </div>
+                        </a></li>	</ul>
+</li></ul>
+</li>
+<li class="megamenu-main menu-item menu-item-type-custom menu-item-object-custom menu-item-2202"><a href="https://app.getelevar.com/signin">Log In</a></li>
+<li class="extra menu-item menu-item-type-custom menu-item-object-custom menu-item-1184"><a href="https://app.getelevar.com/signup">Sign Up Free</a></li>
+</ul></nav>
+        </div>
+        <div class="col-sm-6 col-xs-7 text-right hidden-lg hidden-md">
+          <a href="#" id="toggle">
+            <span class="top"></span>
+            <span class="middle"></span>
+            <span class="bottom"></span>
+          </a>
+        </div>
+      </div><!-- .row -->
+    </div><!-- .container -->
+  </header><div class="post">
+	<div class="container">
+		<div class="row">
+							<article class="blog-txt col-xs-12">
+					<h1>Privacy</h1>
+					<p data-v-628d2924=""><strong>Last Update: May 25th, 2018</strong></p>
+<p data-v-628d2924="">(“Elevar”) is strongly committed to protecting and respecting your privacy rights. This privacy policy (the “Privacy Policy”) sets out the basis on which Elevar collects and uses personal data from visitors to our website located at www.getelevar.com (the “Site”) as well as all related websites including our subdomains https://app.getelevar.com and subscribers to our newsletter and applications, and other services provided by us (collectively, together with the Site, our “Service”) available through the Site.</p>
+<p data-v-628d2924="">This Privacy Policy also tells you about your rights and choices with respect to your Personal Information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices.</p>
+<p data-v-628d2924="">Registration with, use of, and access to the Service is subject to this Privacy Policy and our Terms of Use located at http://www.getelevar.com/terms. All terms not defined in this Privacy Policy will have the meanings set forth in the Elevar Terms of Use.</p>
+<h3>1. What Personally Identifiable Information is collected?</h3>
+<p>For the purpose of this Privacy Policy, “Personal Information” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources described below.</p>
+<p>Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so. If you do not provide Personal Information when requested, you may not be able to benefit from our Service if that information is necessary to provide you with the service or if we are legally required to collect it.</p>
+<h3>2. Personal Information provided by you</h3>
+<p><strong>Registration</strong>. If you desire to have access to certain restricted sections of the Site or request to receive marketing materials, you may be required to become a registered user, and to submit the following types of Personal Information to Elevar: your name, email address, phone number, full user name, password, and time zone.</p>
+<p><strong>Customer Support</strong>. We may collect information through your communications with our customer support team and services or other communications that you may send us and their contents.</p>
+<p><strong>Making a Purchase</strong>. When you make payments through the Service, you will need to provide Personal Information such as your credit card number and billing address.</p>
+<p><strong>Data Sources</strong>. In order to authenticate your data sources (like Google Analytics), we may ask you to provide your username, account ids, and email address. You are given the option to select the data sources which you would like the Service to authenticate.</p>
+<p><strong>Other.</strong>&nbsp;We may also collect your contact details when you provide them in the context of our customer, vendor, and partner relationships.</p>
+<h3>3. Are Cookies and Log files used?</h3>
+<p><strong>Log Data.</strong>&nbsp;When you use our Service, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click.</p>
+<p><strong>Cookies</strong>&nbsp;<strong>and Similar Technologies.</strong>&nbsp;Like many websites, we also use “cookie” technology to collect additional website usage data and to improve the Site and our Service. A cookie is a small data file that we transfer to your computer’s hard disk. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. Elevar may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Service.</p>
+<p>We may also automatically record certain information from your device by using various types of technology, including “clear gifs” or “web beacons.” This automatically collected information may include your IP address or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after you use the Service, the pages or other content you view or otherwise interact with on the Service, and the dates and times that you visit, access, or use the Service. We also may use these technologies to collect information regarding your interaction with email messages, such as whether you opened, clicked on, or forwarded a message, to the extent permitted under applicable law.</p>
+<p>You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please note that if you delete, or choose not to accept, cookies from the Service, you may not be able to utilize the features of the Service to their fullest potential.</p>
+<p data-v-628d2924=""><strong>Links to Other Websites</strong><br>
+Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. Other sites follow different rules regarding the use or disclosure of the Personal Information you submit to them. We are not responsible for the content, privacy and security practices, and policies of third-party sites or services to which links or access are provided through the Service. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+<h3>4. Uses made of Personally Identifiable Information</h3>
+<p data-v-628d2924="">Elevar may use information collected from you for the following purposes:</p>
+<ul data-v-628d2924="">
+<li data-v-628d2924="">For direct marketing campaigns, as permitted by law; Elevar will give you the option to opt out of each commercial email communication that it sends to you;</li>
+<li data-v-628d2924="">To provide you with information and services that you request from Elevar or which Elevar feels may interest you, where you have consented for such purposes;</li>
+<li data-v-628d2924="">To customize the Service to your preferences;</li>
+<li data-v-628d2924="">To provide you with services available through the Service, for which you register;</li>
+<li data-v-628d2924="">To develop new features of the Service and services available through the Service, and for testing and other development purposes that do not involve disclosure to third parties;</li>
+<li data-v-628d2924="">To carry out Elevar’s obligations under any contracts with you;</li>
+<li data-v-628d2924="">To allow you to participate in interactive features of the Service, when you choose to do so;</li>
+<li data-v-628d2924="">To notify you about the changes to the Service or any services available through the Service, including new product announcements, and;</li>
+<li data-v-628d2924="">To conduct internal administration of Elevar’s business</li>
+<li data-v-628d2924="">To comply with applicable legal requirements, industry standards, and our polices</li>
+</ul>
+<p>If you are located in the European Economic Area, we may process your Personal Information for the above purposes when:</p>
+<ul>
+<li>you have consented to the use of your Personal Information, For example, we may seek to obtain your consent for our uses of cookies or similar technologies, or to send you marketing communications.</li>
+<li>we need your Personal Information to provide you with services and products requested by you, or to respond to your inquiries,</li>
+<li>we have a legal obligation to use your Personal Information, or</li>
+<li>we have a legitimate interest in using your Personal Information. In particular, we have a legitimate interest in using your Personal Information to ensure and improve the safety, security, and performance of our Service, to anonymize Personal Information and carry out data analyses.</li>
+</ul>
+<h3>5. Does Elevar disclose Personally Identifiable Information to Third Parties?</h3>
+<p>We may disclose the Personal Information we collect about you as described below or otherwise disclosed to you at the time the data is collected, including with:</p>
+<p><strong>Service Providers</strong><br>
+We engage certain trusted third parties to perform functions and provide services to us, including hosting and maintenance, error monitoring, debugging, performance monitoring, billing, customer relationship, database storage and management, and direct marketing campaigns. We may share your Personal Information with these third parties, but only to the extent necessary to perform these functions and provide such services. We also require these third parties to maintain the privacy and security of the Personal Information they process on our behalf.</p>
+<p><strong>Other Third Parties</strong><br>
+We may share Personal Information with our headquarters and affiliates, and business partners to whom it is reasonably necessary or desirable for us to disclose your data for the purposes described in this Privacy Policy. We may also make certain non-Personal Information available to third parties for various purposes, including for business or marketing purposes or to assist third parties in understanding our users’ interest, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and functionality available through the Service.</p>
+<p data-v-628d2924="">In addition, Elevar may disclose your personal data to third parties under the following circumstances:</p>
+<ul data-v-628d2924="">
+<li data-v-628d2924="">In the event that Elevar sells or buys any business or assets, in which case Elevar may disclose your Personally Identifiable Information to the prospective seller or buyer of such business or assets;</li>
+<li data-v-628d2924="">If Elevar or substantially all of its assets are acquired by a third party, in which case Personally Identifiable Information held by it about its customers will be one of the transferred assets;</li>
+<li data-v-628d2924="">If Elevar is under a duty to disclose or share your personal data in order to comply with any legal obligation;</li>
+<li data-v-628d2924="">To protect the rights, property or safety of Elevar or its customers, which includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.</li>
+</ul>
+<h3 class="subheading">6. Data analytics and benchmarking</h3>
+<p>We may use information generated and stored during your use of our services for our legitimate business interests to enable us to give you the best service and/or solutions and the best experience. These purposes include to:</p>
+<ul>
+<li>Deliver advertising, marketing (including in-product messaging) or information to you which may be useful to you, based on your use of Service</li>
+<li>Deliver advertising, marketing (including in-product messaging) or information to you which may be useful to you, based on your use of Service</li>
+<li>Carry out research and development to improve our services, products and applications</li>
+<li>Develop and provide new and existing functionality and services (including statistical analysis, benchmarking and forecasting services)</li>
+<li>Provide you with location based services (for example location relevant content) where we collect geo-location data to provide a relevant experience.</li>
+</ul>
+<p>Whenever we use your information for our legitimate interests, we will ensure that your information is processed and displayed at aggregated levels, which will not be linked back to you or to any living individual.</p>
+<p>You have the right to object to processing based on our legitimate interests, and if you wish to do so, please contact us at help@getelevar.com. If you object, this may affect our ability to provide certain services and/or solutions for your benefit.</p>
+<h3>7. Securing your personal data</h3>
+<p data-v-628d2924="">Elevar is very concerned about safeguarding the confidentiality of your Personal Information. Elevar takes reasonable steps to protect your Personally Identifiable Information as you transmit such information from your computer to the Service, and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration or destruction. You should keep in mind, however, that no internet transmission is 100% secure or error-free. In particular, e-mail sent to or from the Service may not be secure, and you should therefore take special care in deciding what information you send to the Service via e-mail or other electronic means. Where Elevar has given you a username and/or password which enables you to access certain parts of the Service, you are responsible for keeping such username and/or password confidential.</p>
+<p>We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Information to you via email or conspicuous posting on our Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system , and any other disclosures that may be required under applicable law.</p>
+<p>We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations.</p>
+<h3>8. Can I change my information?</h3>
+<p data-v-628d2924="">To keep your Personally Identifiable Information accurate, current and complete, please contact us via the email address on the About Us page. Elevar shall use commercially reasonable efforts to respond to your data access request within 30 days of receiving your request. If Elevar is unable to respond to your request within such period Elevar shall use commercially reasonable efforts to notify you of the reason why Elevar is so unable. Should you choose to unsubscribe from any mailing lists for which you registered, you may do so by following the instructions on how to unsubscribe provided in all Elevar communications.</p>
+<h3>9. Analytics Technologies Used</h3>
+<p data-v-628d2924=""><strong>Google Analytics</strong></p>
+<p data-v-628d2924="">Google Analytics uses “cookies”, to help the website analyse how users use the websites, applications or services. The information generated by the cookie about your use of the websites, applications or services (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the websites, applications or services compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser or within the application, however please note that if you do this you may not be able to use the full functionality of this website. By using our websites, applications or services you consent to the processing of data about you by Google in the manner and for the purposes set out above. To find out more, see “How Google uses data when you use our partners’ sites or apps”, (located at www.google.com/policies/privacy/partners/, or any other URL Google may provide from time to time). To opt out of being tracked by Google Analytics across all websites visit:&nbsp;<a href="http://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">http://tools.google.com/dlpage/gaoptout</a>.</p>
+<h3>10. Data transfers &amp; European Economic Area</h3>
+<p>Elevar is based in the United States. Personal Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the European Economic Area (“EEA”) and Switzerland, including the United States. By submitting your personal data, you agree to such transfers. Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Policy.</p>
+<p><strong>European Economic Area</strong></p>
+<p>Personal information in the European Union is protected by data protection laws but other countries do not necessarily protect your personal information in the same way.</p>
+<p>We take steps to ensure that where your information is transferred outside of the EEA by our service providers and hosting providers, appropriate measures and controls in place to protect that information in accordance with applicable data protection laws and regulations.&nbsp; In each case, such transfers are made in accordance with the requirements of Regulations (EU) 2016/679 (the General Data Protection Regulations or “GDPR”) and may be based on the use of the European Commission’s Standard Model Clauses for transfers of personal data outside the EEA.</p>
+<p>By using our website, products or services or by interacting with us in the ways described in this Privacy Notice, you consent to the transfer of your information outside the EEA in the circumstances set out in this Privacy Notice. If you do not want your information to be transferred outside the EEA you should not use our website, applications or services.</p>
+<h3>11. Children’s privacy</h3>
+<p data-v-628d2924="">We not knowingly collect information from children under the age of 16 through the Service. If you are under the age of 16, please do not provide any information through the Service. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide any information on this Site or any other web site without their permission. If you have reason to believe that a child under the age of 16 has provided information to the Service, please email us at help@getelevar.com, and we will endeavor to delete that information from our databases.</p>
+<h3>12. Changes to this Privacy Policy</h3>
+<p data-v-628d2924="">We reserve the right to amend this Privacy Policy at any time and from time to time. You should check this Privacy Policy each time you use the Service to determine if any changes have been made.</p>
+<p data-v-628d2924="">We will notify you of any modifications to our Privacy Policy by posting the new Privacy Policy on our Site and indicating the date of the latest revision. You are advised to consult this Privacy Policy regularly for any changes.</p>
+<p data-v-628d2924="">In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. Your continued use of the Service after the revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of this Privacy Policy.</p>
+<h3>14. California privacy rights</h3>
+<p>Residents of California have the right to request a disclosure describing what types of personal information we have shared with third parties for their direct marketing purposes, and with whom we have shared it, during the preceding year. You may request a copy of that disclosure by contacting us at help@getelevar.com</p>
+<h3>15. How to contact us</h3>
+<p>Elevar, LLC is the entity responsible for the processing of your Personal Information. If you have any questions or comments regarding this Privacy Policy, or if you would like to exercise your rights to your Personal Information, you may contact us by emailing us at help@getelevar.com or by writing to us at:</p>
+<p>Elevar, LLC, 1350 Seaside Plantation, Charleston, SC 29412</p>
+<p>This Privacy Policy is effective as of May 25, 2018.</p>
+				</article>
+					</div><!--.row-->
+	</div><!--.container-->
+</div>
+  <footer class="bottom-footer">
+		<div class="container">
+      		<div class="row">
+            <div class="col-md-4 col-xs-12">
+              <img src="http://www.getelevar.com/wp-content/themes/elevar/img/logo-footer.svg" alt="" class="img-responsive">
+              <p>Elevar automates the repetitive part<br>
+of data analysis so you can focus<br>
+on strategies to grow your business.</p>
+              <ul class="nolist social clearfix">
+                <li><a href="https://facebook.com/getelevar" target="_blank"><i class="fa fa-facebook-official"></i></a></li>                <li><a href="https://twitter.com/getelevar" target="_blank"><i class="fa fa-twitter"></i></a></li>                <li><a href="https://www.linkedin.com/company/elevar---intelligent-ecommerce-insights" target="_blank"><i class="fa fa-linkedin"></i></a></li>                <li><a href="" target="_blank"><i class="fa fa-youtube"></i></a></li>              </ul>
+            
+            </div>
+      			<div class="col-md-2 col-xs-6 footer-col">
+      				<h5>Product</h5>
+      				<ul id="menu-features" class="nolist"><li id="menu-item-2950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2950"><a href="http://www.getelevar.com/features/google-analytics-automated-insights/">Automated Insights</a></li>
+<li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="http://www.getelevar.com/features/google-analytics-forecasting/">KPI Forecasting</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-592"><a href="http://www.getelevar.com/features/ecommerce-insights/">eCommerce Insights</a></li>
+<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="http://www.getelevar.com/features/marketing-analytics/">Marketing Analytics</a></li>
+<li id="menu-item-3455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3455"><a href="http://www.getelevar.com/shopify/meet-our-new-shopifiy-app-google-tag-manager-suite/">Shopify GTM App</a></li>
+</ul>      			</div>
+      			<div class="col-md-2 col-xs-6 footer-col">
+      				<h5>Company</h5>
+      				<ul id="menu-educate" class="nolist"><li id="menu-item-4989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4989"><a href="http://www.getelevar.com/about/">About</a></li>
+<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="http://www.getelevar.com/resources/">Blog</a></li>
+<li id="menu-item-4988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4988"><a href="http://www.getelevar.com/contact/">Contact Us</a></li>
+<li id="menu-item-4404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4404"><a href="http://www.getelevar.com/pricing-plans/">Pricing</a></li>
+<li id="menu-item-4990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4990"><a href="http://www.getelevar.com/careers/">Careers</a></li>
+<li id="menu-item-4991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4991"><a href="http://www.getelevar.com/services/">Hire Us – Services</a></li>
+</ul>      			</div>
+      			<div class="col-md-2 col-xs-6 footer-col footer-col-three">
+      				<h5>Support</h5>
+      				<ul id="menu-company" class="nolist"><li id="menu-item-4987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4987"><a href="http://www.getelevar.com/contact/">Contact Us</a></li>
+<li id="menu-item-4994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4994"><a href="http://www.getelevar.com/contact-us/">General Questions</a></li>
+<li id="menu-item-4992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4992"><a href="https://knowledge.getelevar.com/">Help Docs</a></li>
+<li id="menu-item-4995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4995"><a href="https://knowledge.getelevar.com/elevar-application">Analytics App Help</a></li>
+<li id="menu-item-4993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4993"><a href="https://knowledge.getelevar.com/shopify-google-tag-manager-suite-app">GTM Suite Help</a></li>
+</ul>      			</div>
+            <div class="col-md-2 col-xs-6 footer-col">
+              <h5>Shopify Tools</h5>
+              <ul id="menu-shopify-tools" class="nolist"><li id="menu-item-4933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4933"><a href="https://apps.shopify.com/gtm-datalayer-by-elevar">GTM Suite App</a></li>
+<li id="menu-item-4934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4934"><a href="#">Subscription Analytics (soon!)</a></li>
+</ul>            </div>
+      			
+      		</div><!-- .row -->
+      	</div><!-- .container -->
+      	<div class="copyright clearBoth">
+      		<div class="container">
+      			<div class="row">
+      				<div class="col-lg-3 col-md-5 col-sm-6 col-xs-12">
+      					<p>© 2019 All Right Reserved.</p>
+      				</div>
+      				<div class="col-lg-9 col-md-7 col-sm-6 col-xs-12 text-right">
+      					<ul id="menu-footer-5" class="nolist"><li id="menu-item-4887" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-844 current_page_item menu-item-4887"><a href="http://www.getelevar.com/privacy/" aria-current="page">Privacy</a></li>
+<li id="menu-item-4886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4886"><a href="http://www.getelevar.com/terms/">Terms</a></li>
+</ul>      				</div>
+      			</div><!-- .row -->
+      		</div><!-- .container -->
+      	</div>
+	</footer>
+	</div><!-- #page -->
+    	
+<style type="text/css">
+    #wpfront-notification-bar 
+    {
+        background: #32325d;
+        background: -moz-linear-gradient(top, #32325d 0%, #32325d 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#32325d), color-stop(100%,#32325d));
+        background: -webkit-linear-gradient(top, #32325d 0%,#32325d 100%);
+        background: -o-linear-gradient(top, #32325d 0%,#32325d 100%);
+        background: -ms-linear-gradient(top, #32325d 0%,#32325d 100%);
+        background: linear-gradient(to bottom, #32325d 0%, #32325d 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#32325d', endColorstr='#32325d',GradientType=0 );
+    }
+
+    #wpfront-notification-bar div.wpfront-message
+    {
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar a.wpfront-button
+    {
+        background: #6354eb;
+        background: -moz-linear-gradient(top, #6354eb 0%, #6354eb 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6354eb), color-stop(100%,#6354eb));
+        background: -webkit-linear-gradient(top, #6354eb 0%,#6354eb 100%);
+        background: -o-linear-gradient(top, #6354eb 0%,#6354eb 100%);
+        background: -ms-linear-gradient(top, #6354eb 0%,#6354eb 100%);
+        background: linear-gradient(to bottom, #6354eb 0%, #6354eb 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6354eb', endColorstr='#6354eb',GradientType=0 );
+
+        color: #ffffff;
+    }
+
+    #wpfront-notification-bar-open-button
+    {
+        background-color: #6354eb;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close 
+    {
+        border: 1px solid #ffffff;
+        background-color: #ffffff;
+        color: #000000;
+    }
+
+    #wpfront-notification-bar  div.wpfront-close:hover 
+    {
+        border: 1px solid #ffffff;
+        background-color: #ffffff;
+    }
+</style>
+
+
+<div id="wpfront-notification-bar-spacer" style="display: none;">
+    <div id="wpfront-notification-bar-open-button" class="top wpfront-bottom-shadow"></div>
+    <div id="wpfront-notification-bar" class="wpfront-fixed ">
+                <table border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td>
+                    <div class="wpfront-message">
+                        Complete GTM &amp; Data Layer Setup for Shopify                    </div>
+                    <div>
+                                                                                            <a class="wpfront-button" href="https://apps.shopify.com/gtm-datalayer-by-elevar" target="_blank">Learn More</a>
+                                                                                                            </div>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+
+<style type="text/css">
+.header {top: 30px;}
+
+#wpfront-notification-bar {
+    padding: 0px 30px;
+}
+
+@media only screen and (max-width: 627px){
+.wpfront-button {
+    margin-top: 7px;
+}
+.header {top: 70px;}
+.site {
+    padding-top: 116px;
+}
+}
+@media only screen and (max-width: 487px){
+.block-header {top: 85px;}
+.site {
+    padding-top: 133px;
+}
+}</style>
+<script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":1,"height":0,"fixed_position":"on","animate_delay":0,"close_button":false,"button_action_close_bar":false,"auto_close_after":0,"display_after":0,"is_admin_bar_showing":false,"display_open_button":false,"keep_closed":false,"keep_closed_for":0,"position_offset":0,"display_scroll":false,"display_scroll_offset":100});</script><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.getelevar.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"7.2.2"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="" defer="" src="//js.hs-scripts.com/4789123.js?integration=wordpress&amp;ver=5.2.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1"></script>
+<script type="text/javascript" src="http://www.getelevar.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
+
+</body></html>
