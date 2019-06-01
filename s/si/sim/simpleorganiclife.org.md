@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleorganiclife.org privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201100942id_/http%3A//www.simpleorganiclife.org/st/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleorganiclife.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601162007id_/http%3A//simpleorganiclife.org/st/privacy_policy) for the most accurate reproduction.*
 
 # Simple Organic Life
 
