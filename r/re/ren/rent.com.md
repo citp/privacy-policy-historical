@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115000526id_/https%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601064605id_/https%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy - Rent.com®
 
