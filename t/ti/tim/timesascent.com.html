@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timesascent.com privacy policy that was archived on 2018-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181226122457id_/http%3A//www.timesascent.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timesascent.com privacy policy that was archived on 2019-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190601213556id_/http%3A//www.timesascent.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -65,7 +65,8 @@
 <script type="text/javascript" src="/resources/timesascent/js/jquery.query-object.-mymin.js"></script>
 <script type="text/javascript" src="/resources/js/jquery-ui.-mymin.js"></script>
 <script type="text/javascript" src="/resources/timesascent/js/jquery.bootpag.min.-mymin.js"></script>
-
+<script type="text/javascript" src="/resources/timesascent/js/modelo.js"></script>
+<link rel="stylesheet" href="/resources/timesascent/css/modelo.css">
 <script type="text/javascript">
 rotate = 1;
 function hide_preloader() { //DOM
@@ -78,6 +79,20 @@ $(document).ready(function(){
 	var preloader_ht = 10;
 	var padding =(screen_ht/3)-preloader_ht;
 	$("#preloader").css("padding-top",padding+"px");
+	// Display Cookie Policy Popup
+	if ($.cookie('cookiePolicy') == null) {
+		  var currentDate = new Date();
+			midnight = new Date(currentDate.getFullYear()+10, currentDate.getMonth(), currentDate.getDate()+1, 0, 0, 0);
+		    $.cookie('cookiePolicy', 'on', {
+		        expires: midnight,
+		        path: '/'
+		    });
+	  
+	  		setTimeout(function() {
+     			$("#open-modal").trigger('click');
+	  		},10);
+		}
+   	$('#modal-1').modelo();
 });
 </script>
 <!--  Google Analytics -->
@@ -123,8 +138,10 @@ $(document).ready(function(){
 				<li class="walkinsActive"><a href="/walkinJobs" onclick="ga('send', 'event', 'Header', 'Click On Link','Walkins');">Walkins</a></li>
 			
 			<li class="govtJobActive"><a href="/govtJobs" onclick="ga('send', 'event', 'Header', 'Click On Link','Job Fairs');">Govt. Jobs</a></li>
-			<li class="internationalJobActive"><a href="/internationalJobs" onclick="ga('send', 'event', 'Head', 'Click on Link', 'International Jobs');">Global Jobs</a>
-		</li></ul>
+			<li class="internationalJobActive"><a href="/internationalJobs" onclick="ga('send', 'event', 'Head', 'Click on Link', 'International Jobs');">Global Jobs</a></li>
+			<li class="contactUsActive"><a href="/contactUs">Contact Us</a></li>
+			<li class="blogActive"><a href="http://blog.timesascent.com/" target="_blank">Blog</a></li>
+		</ul>
 	</nav>
 	<!-- nav -->
 	<div class="login pull-right">
@@ -729,5 +746,26 @@ $(document).scroll(function () {
 	<!-- TODO: check why this javascript is needed -->
 	<!-- <script type="text/javascript" src="http://tags.crwdcntrl.net/c/4140/cc.js?ns=_cc4140" id="LOTCC_4140"></script>
 	<script type="text/javascript" language="javascript">_cc4140.bcp();</script> -->
+	<button role="button" class="btn" aria-label="open-modal" data-modal="open-modal" style="display:none;" id="open-modal">Open Modal</button>
+<!-- ****************************************************************************  -->
+<div class="modal" id="modal-1" role="dialog" aria-hidden="true" data-modal="hidden" style="top: 60px; max-width: 486px;">
+    <div class="modal-content" style="max-width: 416px;">
+      <div class="modal-header">
+        <button role="button" class="icon-close" aria-label="close-modal" data-modal="close-modal">X</button>
+      </div>
+      <div class="modal-body">
+      	<img src="/resources/timesascent/images/cookie.png" alt="cookie" title="cookie" border="0">
+      	<h2>Cookie Policy</h2>
+        <p>This website uses cookies to improve your
+			user experience. By using our website you 
+			consent to all the cookies in accordance 
+			with our cookie policy... <a href="/termsOfUse">Learn more</a> </p>
+      </div>
+      <div class="modal-footer">
+        <button role="button" class="btn-close" aria-label="close-modal" data-modal="close-modal">alright</button>
+      </div>
+    </div>
+  </div>
+<!-- **************************************************************************** -->
 
 </body></html>
