@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722235723id_/https%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601222939id_/https%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Solve Your Tech
 
-SolveYourTech found at http://www.solveyourtech.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+SolveYourTech found at https://www.solveyourtech.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -89,13 +89,13 @@ On the Website, you may subscribe to our newsletter, which may be used for adver
 
 ## RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
-Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [our contact page](http://www.solveyourtech.com/contact-article-question/) to be removed from our mailing list.
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [our contact page](https://www.solveyourtech.com/contact-article-question/) to be removed from our mailing list.
 
-Access – You may access the personal information we have about you by submitting a request through [our contact page](http://www.solveyourtech.com/contact-article-question/).
+Access – You may access the personal information we have about you by submitting a request through [our contact page](https://www.solveyourtech.com/contact-article-question/).
 
-Amend – You may contact us through [our contact page](http://www.solveyourtech.com/contact-article-question/) to amend or update your personal information.
+Amend – You may contact us through [our contact page](https://www.solveyourtech.com/contact-article-question/) to amend or update your personal information.
 
-Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request through [our contact page](http://www.solveyourtech.com/contact-article-question/).
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request through [our contact page](https://www.solveyourtech.com/contact-article-question/).
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
@@ -105,15 +105,15 @@ At no time should you submit sensitive personal information to the Website. This
 
 ## CHILDREN’S INFORMATION
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 13 in its database, please contact us immediately through [our contact page](http://www.solveyourtech.com/contact-article-question/) and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 13 in its database, please contact us immediately through [our contact page](https://www.solveyourtech.com/contact-article-question/) and we will use our best efforts to promptly remove such information from our records.
 
 ## CONTACT INFORMATION
 
-At any time, please contact us through [our contact page](http://www.solveyourtech.com/contact-article-question/) for questions related to this Privacy Policy.
+At any time, please contact us through [our contact page](https://www.solveyourtech.com/contact-article-question/) for questions related to this Privacy Policy.
 
 Last updated: May 24, 2018.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us [here.](http://www.solveyourtech.com/contact)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [here.](https://www.solveyourtech.com/contact)
 
 At www.solveyourtech.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.solveyourtech.com and how we use it. 
 
