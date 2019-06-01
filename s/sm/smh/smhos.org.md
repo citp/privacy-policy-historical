@@ -1,55 +1,71 @@
-> *The following text is extracted and transformed from the smhos.org privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505105729id_/http%3A//smhos.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smhos.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601175148id_/https%3A//smhos.org/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy | Salvation Ministries
 
-**Privacy Policy**
+**Privacy, Shipping, Billing, Return Policy, Terms of Use, and Contact**
 
-Salvation Ministries is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to Salvation Ministries Web site and governs data collection and usage. By using Salvation Ministries website, you consent to the data practices described in this statement
+Salvation Ministries is committed to maintaining your trust and confidence. The following online privacy policy is intended to protect and secure the personally identifiable information (any information by which you can be identified) you provide to us online.
 
-**Information Collection and use**
+In addition, Salvation Ministries will not send you e-mail that you have not agreed to receive. We may periodically send you e-mail announcing news and event information. If you choose to supply your postal address in an online form, you may receive mailings from us as well.
 
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personal identifiable information may include, but is not limited to your name, email, telephone number, etc (“Personal Information”).
+**No Sharing of Personal Information**
 
-Any of the information we collect from you may be used in one of the following ways:
+Salvation Ministries never sells, rents, leases or exchanges your personal information with other organizations. Salvation Ministries assures you that the identity of all who contact us through this Web site will be kept confidential. Salvation Ministries may occasionally send mailings on behalf of other organizations or ministries when their interests align with Salvation Ministries.
 
-  1. To personalize your experience (your information helps us to better respond to your individual needs)
+**Security**
 
+Salvation Ministries is committed to ensuring the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the proper use of information, we have established and implemented appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Salvation Ministries uses Internet Encryption Software, Secure Socket Layer (SSL) Protocol when collecting or transferring sensitive data. Any information you enter is encrypted at your browser, sent over the public Internet in encrypted form, and then de-encrypted at our server. Once we receive your information, it is accessible only to a small number of trusted Salvation Ministries employees who have been specially trained in processing this information.
 
-  2. To improve our website (we continually strive to improve our website features based on the information and feedback we receive from you)
+**Cookies**
 
+From time to time, we may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a Web server and stored on your computer’s hard drive. A cookie can’t read data off your hard drive or read cookie files created by other sites. Cookies do not damage your system. We use cookies to recognize you when you return to our sites, or to identify which areas of our network of Web sites you have visited (i.e. e-commerce sites, etc.). We may use this information to better personalize the content you see on our sites.
 
-  3. To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+Many Web sites place cookies on your hard drive. You can choose whether to accept cookies by changing the settings of your browser. Your browser can refuse all cookies, or show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
+**Managing cookies**
 
-  4. To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
+(a)    <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
 
-  5. To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+(b)    <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
+(c)    <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
+(d)    <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-**Log Date**
+(e)    <https://support.apple.com/kb/PH21411> (Safari); and
 
-Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
+(f)     <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
-This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, domain names, access times, referring Web site addresses and other Statistic. We use this information for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Salvation Ministries Web site.
+Blocking all cookies will have a negative impact upon the usability of many websites.
 
-In addition we may use third party services that collect, monitor and analyze this data.
+If you block cookies, you will not be able to use all the features on our website.
 
-**Use of Cookies**
+Financial transactions relating to our website and services are OR may be handled by our payment services providers, PayU, Paypal, Kindrid, Ravepay, GTPay. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at their respective websites.
 
-Salvation Ministries Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+In addition to the specific disclosures of personal data mentioned earlier, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Salvation Ministries pages, or register with Salvation Ministries services, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Salvation Ministries Web site, the information you previously provided can be retrieved, so you can easily use the features that you customized.
+**Amendments**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can manually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Salvation Ministries services.
+We may update this policy from time to time by publishing a new version on our website.
 
-**Changes to this Statement**
+You should check this page occasionally to ensure you are happy with any changes to this policy.
 
-Salvation Ministries will occasionally update this Statement of Privacy to reflect the Church, members and customer feedback. Salvation Ministries encourages you to periodically review this Statement to be informed of how Salvation Ministries Web Site is protecting your information.
+We may notify you of significant changes to this policy by email or through our website.
 
-**Contact Information**
+**Contacting Us**
 
-Salvation Ministries welcomes your comments regarding this Statement of Privacy. If you believe that we has not adhered to this Statement, please contact us at [privacy@smhos.org](mailto:privacy@smhos.org) _._ We will use commercially reasonable efforts to promptly determine and remedy any problem.
+If you have comments or questions about any of our policies or our website, please contact us. For information and enquires please contact us at (+234) 815 -0190040. 
 
-_Last updated: 18 th February 2016_
+Salvation Ministries, International Headquarters – Plot 17 Birabi Street, GRA, Phase 1, Port Harcourt, Rivers State, Nigeria
+
+You can contact us:
+
+(a)    by post, to the postal address given above;
+
+(b)    using our website contact form;
+
+(c)    by telephone, on the contact number published on our website from time to time
+
+(d)    by email, using the email address published on our website from time to time.
