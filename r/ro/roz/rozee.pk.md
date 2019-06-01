@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2018-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180524105027id_/https%3A//www.rozee.pk/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rozee.pk privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601232055id_/https%3A//www.rozee.pk/site/privacyPolicy) for the most accurate reproduction.*
 
-# 隐私条款-DEFAULT_COUNTRY_NAME的工作，DEFAULT_COUNTRY_NAME的职业，工作，就业，职业|ROZEE.PK
+# Privacy Policy - Jobs in DEFAULT_COUNTRY_NAME, Careers in DEFAULT_COUNTRY_NAME, Jobs, Employment, Careers | ROZEE.PK
 
 ROZEE.PK takes the privacy of its users very seriously. We strive to provide a safe, secure user experience. This Privacy Policy details the online data collection and usage policies and practices that apply to the ROZEE.PK web site and does not apply to information we collect in any other form.   
 The ROZEE.PK site contains links to other web sites over which we have no control. We are not responsible for the privacy policies or practices of other web sites to which you choose to link from our site. We encourage you to review the privacy policies of those sites so you can understand how they collect, use and share your information.
@@ -59,7 +59,7 @@ You may have the ability to accept or decline cookies. Most Web browsers automat
 
 #### Modification of Your Information
 
-You may review, correct, update or change your ROZEE.PK account profile at any time on your 'My Settings' page or by emailing our webmaster at'support@rozee.pk' or by calling customer support at ‎0800-76933 (ROZEE). These points of contact also allow you to edit your subscription to our newsletters and promotional emails.
+You may review, correct, update or change your ROZEE.PK account profile at any time on your 'My Settings' page or by emailing our webmaster at'[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)' or by calling customer support at ‎0800-76933 (ROZEE). These points of contact also allow you to edit your subscription to our newsletters and promotional emails.
 
 If you opted to receive job postings, commercial e-mails or other communications from ROZEE.PK or third parties at the time you created a ROZEE.PK account, but subsequently change your mind, you may opt-out by editing your ROZEE.PK Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing your ROZEE.PK Account Profile as well.
 
@@ -85,9 +85,9 @@ If at any time, you have questions or concerns about this Privacy Policy or beli
 
 #### Contact Information
 
-ROZEE.PK is the name under which Naseeb Networks, Inc., a Silicon Valley corporation with its principal place of business at 1299 Del Mar Avenue, Suite 260 , San Jose , CA 95128 and certain of its affiliated companies worldwide, do business. [Naseeb Networks, Inc](http://www.naseebnetworks.com/). is the legal entity which determines the purposes and means of processing the information gathered at www.rozee.pk. You can also contact us at support@rozee.pk.
+ROZEE.PK is the name under which Naseeb Networks, Inc., a Silicon Valley corporation with its principal place of business at 1299 Del Mar Avenue, Suite 260 , San Jose , CA 95128 and certain of its affiliated companies worldwide, do business. [Naseeb Networks, Inc](http://www.naseebnetworks.com/). is the legal entity which determines the purposes and means of processing the information gathered at www.rozee.pk. You can also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 #### Refund Policy
 
-All sales are final. Refunds are solely at the discretion of ROZEE.PK . For further details email refunds@rozee.pk  
+All sales are final. Refunds are solely at the discretion of ROZEE.PK . For further details email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Thank you for using ROZEE.PK.
