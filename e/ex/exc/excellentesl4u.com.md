@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excellentesl4u.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511125907id_/http%3A//www.excellentesl4u.com/privacy_policy_and_disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellentesl4u.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602145242id_/https%3A//www.excellentesl4u.com/privacy_policy_and_disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
@@ -73,4 +73,4 @@ This website and its contents are provided "AS IS" without warranty of any kind,
 
 Reproduction, distribution, republication, and/or retransmission of material contained within this website is prohibited unless the prior written permission of Excellent ESL 4U has been obtained.
 
-[ ESL 4u home](http://www.excellentesl4u.com/) › Privacy 
+[ ESL 4u home](https://www.excellentesl4u.com/) › Privacy 
