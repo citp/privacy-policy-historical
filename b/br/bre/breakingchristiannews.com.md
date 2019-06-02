@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the breakingchristiannews.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125155151id_/http%3A//breakingchristiannews.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingchristiannews.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602101350id_/http%3A//breakingchristiannews.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Breaking Christian News
+
+To Order by Phone Call: 1-866-354-5245 (1-541-926-3250 outside the U.S.)
 
 ### **What information do we collect?**
 
@@ -92,3 +94,28 @@ This online privacy policy applies only to information collected through our web
 ### **Your consent**
 
 By using our site, you consent to our privacy policy.
+
+| 
+
+  
+
+
+  
+Steve Shultz, Managing Editor  
+Founder and Owner 
+
+  
+Aimee Herd, Editor
+
+  
+Teresa Neumann, Reporter
+
+[](https://www.breakingchristiannews.com/subscription/subscribe.html)  
+  
+All articles on this site and emails from BCN are copyrighted property of Breaking Christian News. Permission is given to link to, or share a BCN story if proper attribution is given to both the original writer and summarizer of the story. Breaking Christian News 2005-2017. All Rights Reserved.
+
+Breaking Christian News is a division of Elijah List Publications, Inc. All Rights Reserved
+
+**Disclaimer:** Articles and links, as well as the source articles linked to; do not necessarily reflect the opinion of Breaking Christian News. 
+
+**541-924-3906**
