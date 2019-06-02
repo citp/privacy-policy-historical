@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324120153id_/http%3A//fonolive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonolive.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221553id_/https%3A//fonolive.com/privacy) for the most accurate reproduction.*
 
 # Privacy, search jobs, events, local business directory, connect and meet locally
 
