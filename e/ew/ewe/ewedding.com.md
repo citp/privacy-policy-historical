@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201061807id_/http%3A//www.ewedding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602121315id_/https%3A//www.ewedding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eWedding
 
@@ -134,7 +134,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email or contact us directly at http://www.ewedding.com/contact-us .
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email or contact us directly at https://www.ewedding.com/contact-us .
 
 ### Contact us
 
