@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217101745id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602063448id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for codesdope
 
