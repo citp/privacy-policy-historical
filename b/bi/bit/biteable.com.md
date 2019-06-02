@@ -1,97 +1,189 @@
-> *The following text is extracted and transformed from the biteable.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208141122id_/http%3A//biteable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biteable.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602045910id_/https%3A//biteable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biteable
 
-Biteable LIMITED (“We”) are committed to protecting and respecting your privacy.
+**Updated 12 November 2018**
 
-This policy (together with our terms of use http://Biteable.com/terms-of-use/ and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Your privacy is important to us, which is why we’ve created this Privacy Policy. Our Privacy Policy (together with our Terms of Use available at <https://biteable.com/terms-of-use/> and any other documents incorporated by reference) sets out what information we collect about you, how we use the information we collect, how we share the information we collect, how we transfer your information internationally and how you can access and control your information. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it.
 
-INFORMATION WE MAY COLLECT FROM YOU
+## Definitions
 
-We may collect and process the following data about you:
+In this Privacy Policy, the following definitions apply:
 
-Information that you provide by filling in forms on our site Biteable.com (“our site”). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * any reference to “ **Biteable** ”, “ **us** ”, “ **we** ” or “ **our** ” means Biteable Pty Ltd ACN 167 644 591;
+  * **GDPR** means the General Data Protection Regulation;
+  * **Personal Information** means any information relating to an identified or identifiable natural person and includes information that you provide to us directly, information that we collect from third parties and information that we collect from your device;
+  * **Site** means a site operated by us and includes each of [](https://biteable.com/)[https://biteable.com](https://biteable.com/), [](https://app.biteable.com/)[https://app.biteable.com](https://app.biteable.com/) and any other domain that we may use from time to time.
 
-If you contact us, we may keep a record of that correspondence.
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-Details of transactions you carry out through our site and of the fulfilment of your orders.
+## How do we collect non-Personal Information?
 
-Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+When you visit our Site, we collect non-Personal Information from you including, without limitation, which sections of the Site are most frequently visited, how often and for how long. This data is always used as aggregated, non-Personal Information. We may analyse this non-Personal Information and release it to third parties in an aggregated form.
 
-IP ADDRESSES AND COOKIES
+## What Personal Information do we collect?
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+We collect the following types of information about you:
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+### Information that you provide to us directly
 
-To estimate our audience size and usage pattern.
+**(A) Signing up to our service**
 
-To store information about your preferences, and so allow us to customise our site according to your individual interests.
+When you sign up to our service and set up an account, we collect the following information (which includes Personal Information) from you:
 
-To speed up your searches.
+  * name; and
+  * email address.
 
-To recognise you when you return to our site.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-[Please note that our advertisers may also use cookies, over which we have no control.]
+**(B) Making a purchase**
 
-WHERE WE STORE YOUR PERSONAL DATA
+When you make a purchase or attempt to make a purchase through the Site, we collect the following information (which includes Personal Information) from you:
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  * name;
+  * email address; and
+  * credit card information (we don’t have access to your entire credit card number, CVC or billing address as this is handled by our payment gateway).
 
-[All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology].] Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-USES MADE OF THE INFORMATION
+**(C) Making a video**
 
-We use information held about you in the following ways:
+When you use our services to create a video (“ **Video Content** ”), we collect the following information (which includes Personal Information) from you:
 
-To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * any photos, videos, audio and text content provided by you when creating Video Content.
 
-To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
-To carry out our obligations arising from any contracts entered into between you and us.
 
-To allow you to participate in interactive features of our service, when you choose to do so.
+**(D) Additional information that we may ask for (optional)**
 
-To notify you about changes to our service.
+When you use our services, we may ask you to provide us with additional information. This additional information may include:
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by [post or telephone].
+  * links to your social media accounts (including Facebook, Instagram, Twitter and YouTube); and
+  * information about your industry and the type of organisation you work for.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-DISCLOSURE OF YOUR INFORMATION
+### Information that we receive from third parties
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+We may receive information about you (including Personal Information) from third parties.If you access our Site through a third-party connection or log-in, for example, through Facebook or Google, that third party may pass certain information about your use of its service to us. This information could include, but is not limited to, the user ID associated with your account, an access token necessary to access that third party service, any information that you have permitted the third party to share with us, and any information that you have made public in connection with that third party service. If you’d like to unlink your third party account from our Site, you can adjust your settings in the third party service and we will no longer receive information collected about you in connection with that service.
 
-We may disclose your personal information to third parties:
+### Device information
 
-In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+Like many websites, when you visit our Site, we automatically collect certain information through the use of “cookies”, web beacons, device identifiers, pixels and other technologies including information about your web browser, IP address and time zone. Some of this information may be classified as Personal Information. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site and information about how you interact with the Site. We refer to this automatically-collected information as “ **Device Information** ”.
 
-If Biteable Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+We collect Device Information using the following technologies:
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions and other agreements; or to protect the rights, property, or safety of Biteable Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.]
+  * “cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier;
+  * “log files” track actions occurring on the Site, and collect data including your IP address, browser type, referring/exit pages, and date/time stamps; and
+  * “web beacons”, “tags” and “pixels” are electronic files used to record information about how you browse the Site.
 
-YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at admin@Biteable.com.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+You can control or reset your cookies through you web browser and, if you choose to, you can refuse all cookies However, some of the features of our Site may not function properly if you disable the ability to accept cookies.
 
-ACCESS TO INFORMATION
+## How do we use your Personal Information?
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+We use the information we collect about you for the following purposes:
 
-CHANGES TO OUR PRIVACY POLICY
+  * Providing our products and services: We use the information that you provide to us to provide our products and services. This includes allowing you to create a Biteable account and to log in to your account, giving you access to your videos, recognising you across different services and devices and billing you for transactions that you make via our Site.
+  * Communicating with you: We use your contact information to send communications to you about important changes or updates to our products and services. When in line with the preferences you have shared with us, we also provide you with information or advertising relating to our products and services.
+  * Performing data analytics: We use the information about you to help us improve our products and services, including by generating analytics about how our customers browse and interact with the Site and to assess the success of our marketing and advertising campaigns.
+  * Customising our products and services for you: We use information about you to make sure that the Site and our products and services are customised to your needs.
+  * Keeping our Site secure: We use information about you to screen for potential risk and fraud, and to identify violations of this Privacy Policy or our Terms of Use.
+  * Where required by law: We will use or disclose your information where we reasonably believe that such action is necessary to: (a) comply with the law and the reasonable requests of law enforcement or a government authority; (b) to enforce our Terms of Use or to protect the security and integrity of our Site; and (c) to exercise or protect the rights, property or personal safety of Biteable, our customers or others.
+  * Where you have given your consent: We may seek your consent to use your information for a particular purpose. Where you give your consent for us to do this, we will use your information in accordance with that purpose. You can withdraw your consent to these uses at any time.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@Biteable.com.
+For Personal Information subject to the GDPR, we rely on the following legal bases to process this information:
+
+  * where you have given your consent for us to use your information;
+  * where the processing is necessary to perform a contract that we have with you, for example when you purchase our products or services;
+  * ur legitimate business interests, such as improving and developing our products and services and marketing new features or products (but only where our legitimate interest isn’t overridden by your interest in protecting your Personal Information); and
+  * where it is necessary for compliance with our legal obligations.
+
+
+
+You may at any time refuse to provide the Personal Information that we request. However, this may limit or prohibit our ability to provide our products and services to you. You may withdraw your consent for us to process your Personal Information at any time by contacting us in accordance with our “Contact us” section below.
+
+## Who do we disclose Personal Information to?
+
+Outside of authorised personnel employed by us, we only share your Personal Information with third parties that meet the data privacy conditions described in this Privacy Policy. These third parties help us use your Personal Information, as described above, and include:
+
+  * marketing platforms, communications platforms and contractors who we engage to help process Personal Information and other data;
+  * government third parties, including government agencies, regulatory bodies and law enforcement agencies as required, authorised or permitted by law; and
+  * a third party that acquires or intends to acquire Biteable or its assets.
+
+
+
+## International transfers of Personal Information
+
+Your Personal Information will be transferred to third parties including to persons and businesses outside Australia including in the United States of America and other countries where the privacy laws may not be as protective. These transfers are made in order to assist us to provide you with the products and services and/or to improve the products and services we offer you. When we transfer information to countries other than your own, we take reasonable steps to ensure that the recipients of such information do not breach the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) in relation to that information by entering into contractual arrangements with such third parties.
+
+## International transfers of Personal Information (for users in the EEA)
+
+For our customers in the European Economic Area (EEA), where we transfer your Personal Information to a third party provider that is not located in the EEA and is not subject to an adequacy decision by the EU Commission, we will require those third party providers to enter into an agreement that provides appropriate safeguards for your information. From time to time we may also seek your consent to transfer your Personal Information to a third country outside the EEA.
+
+## Changing or deleting your Personal Information
+
+You may update certain account information such as your name and email address by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us at any time by clicking on the “unsubscribe link” in the relevant communication.
+
+You may also access, review, update, rectify or delete your Personal Information by contacting us. We will respond to all requests within 30 days. Please note that deleting your Personal Information may limit our ability to provide the service to you
+
+We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case question, where the rights of other persons would be violated or as required by law or governance purposes.
+
+If you need further assistance regarding your access and control of your Personal Information, please contact us.
+
+## Security
+
+We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it (including encryption and password protection). Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs.
+
+However, no method of transmission over the Internet using industry standard technology is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
+
+## Data Retention
+
+When you place an order through the Site, we will maintain your Personal Information, and other personal information you have provided, for our records because we need this information to operate the accounts you have with us, to deliver our products and services to you and for the other purposes set out in the “What Personal Information do we collect?” section. We will retain this information unless and until you ask us to delete this information.
+
+## Minors
+
+We do not knowingly advertise or collect Personal Information from any individual under the age of 13 and our services and content are not directed at children under the age of 13. For all users that are under the age of 16, we require the consent of a parent or legal guardian before that user can use our services. Our Terms of Use (available at [](https://biteable.com/terms-of-use/)<https://biteable.com/terms-of-use/>) has further details on this consent. If we later find out that we have collected Personal Information from any individual under the age of 16 without parental consent, we suspend and remove this Personal Information immediately.
+
+## Links to other websites and services
+
+Our Site may allow access to third party content and services. We are not responsible for the practices employed by websites or services accessible from the Site, including the information or content contained within these websites or services. When you use a link to go from our Site to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service that has a link or advertisement on our Site is subject to that third party’s own policies.
+
+## Changes to our Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. If we make material changes to this Privacy Policy you will be notified via email (if we have your contact information) or otherwise in some manner through our services that we deem reasonably likely to reach you.
+
+Any modifications to this Privacy Policy will be effective upon our publication of the new terms and/or upon implementation of the new changes to our services (or as otherwise indicated at the time of publication). In all cases, your continued use of our services or Site after the publication of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+## Additional rights for EEA customers
+
+If you are a resident of the European Union for the purposes of the GDPR, then in addition to what is set out above, the following applies to you.
+
+Biteable is a data controller and processor for the purposes of the GDPR and by your consenting to this Privacy Policy Biteable is able to process your Personal Information in accordance with this Privacy Policy.
+
+In providing our products and services to you, we may make use of a number of automated processes using your Personal Information and your activity on our Site as tracked by us, in order to provide optimised services to you.
+
+In addition to your rights set out above, you may:
+
+  * update or rectify any of the Personal Information we hold about you, in the manner described in the “Changing or Deleting your Personal Information” section above;
+  * withdraw your consent to our use of our Personal Information as described in this Privacy Policy. This can be done by contacting us directly, using the details set out in the “Contact us” section;
+  * request that we provide you with a copy of the Personal Information we hold about you in a portable and machine readable form or share your Personal Information with a nominated third party. This can be done by contacting us directly, using the details set out in the “Contact us” section.
+
+
+
+If you are unhappy with our data practices, you also have a right to lodge a complaint with your local supervisory authority.
+
+## Contact us
+
+Thank you for taking the time to read this. Please don’t hesitate to get in touch if you have any queries about the use of your private information — email us at legal@biteable.com or write to us at:
+
+Biteable Pty Ltd
+
+Level 2 162 Macquarie St
+
+Hobart TAS 7000
+
+AUSTRALIA
