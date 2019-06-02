@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222175206id_/https%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602191022id_/https%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Tokyo Reporter Privacy Policy
 
