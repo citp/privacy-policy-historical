@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904011904id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602124330id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sync
 
@@ -98,6 +98,8 @@ Sync protects the personal information in our possession and control by using se
 
 YOU MUST SAFEGUARD YOUR PASSWORD AND KEYS. Your password and keys are not stored on the Sync system. Consequently, should you lose or forget these, we cannot provide these to you or reset your password. Should you lose your device or should your device become inoperative, you may log in to your account management portal on the internet and deselect the affected device(s). For further information, please go to www.sync.com/help.
 
+We will maintain a record of every breach of security safeguards involving personal information under our control. We will notify you of any breach of our security safeguards involving your personal information if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to you.
+
 ### Principle 8 – Openness
 
 This Privacy Policy is an overview of information about our policies and practices relating to the management of personal information. Should we change any of our privacy practices, we will post such change in this Privacy Policy for 30 days before it goes into effect. We will not retroactively change the practices associated with your personal information without your consent. The intention of this Privacy Policy is to answer your questions about our privacy policies and practices. Should you be interested in more detailed information about our procedures and practices, please contact our Privacy Officer at privacyofficer@sync.com. When you email Sync a request or concern, the Privacy Officer or somebody designated on the Officer's behalf, will review your email and will respond within a reasonable period of time.
@@ -116,4 +118,4 @@ We appreciate hearing any comments, questions or concerns that you may have abou
 
 * * *
 
-This file was last modified on May 16, 2018. 
+This file was last modified on October 30, 2018. 
