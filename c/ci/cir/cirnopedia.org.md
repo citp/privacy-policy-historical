@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cirnopedia.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183937id_/http%3A//fate-go.cirnopedia.org/privacy.php%23nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirnopedia.org privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602100109id_/http%3A//fate-go.cirnopedia.org/privacy.php%23nav) for the most accurate reproduction.*
 
 # Privacy Policy ~ FGO Cirnopedia
 
 Last Updated: 05/21/2018
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbd8d2c9d5d4cbd4d7c2fbd8d2c9d5d4cbdedfd2da95d4c9dc).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#36555f44585946595a4f76555f4458594653525f5718594451).
 
 At Cirnopedia we consider the privacy of our visitors to be extremely important.  
 This privacy policy document describes in detail the types of personal information is collected and recorded by Cirnopedia and how we use it.
