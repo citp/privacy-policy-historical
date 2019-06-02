@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201062041id_/http%3A//flyclear.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602145931id_/http%3A//flyclear.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for flyclear.com
 
@@ -7,6 +7,10 @@ This privacy policy for flyclear.com has been compiled to better serve those who
 What personal information does FlyClear collect from the people that visit flyclear.com?
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
+
+When does flyclear.com collect information?
+
+flyclear.com collects information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
 
 How does flyclear.com use your information?
 
@@ -32,13 +36,15 @@ flyclear.com does not sell, trade, or otherwise transfer to outside parties your
 
 COPPA (Children Online Privacy Protection Act)
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
 flyclear.com does not specifically market to children under 13.
 
 Fair Information Practices
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices flyclear.com will take the following responsive action, should a data breach occur:
+
+flyclear.com will notify the users via email within 7 business days.
 
 flyclear.com also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law.
 
