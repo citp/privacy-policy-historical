@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202111311id_/https%3A//www.victoriamilan.com/en/static/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602124111id_/https%3A//www.victoriamilan.com/en/static/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement for VictoriaMilan: Married &amp; Attached Dating
 
