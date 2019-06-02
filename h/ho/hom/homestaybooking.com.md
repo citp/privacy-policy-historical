@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestaybooking.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206071904id_/https%3A//www.homestay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestaybooking.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602183818id_/https%3A//www.homestay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -46,7 +46,7 @@ You may choose to provide us with additional personal information to enhance you
 
   * **Preferences** : such as: Preferred language(s), a personal description, reason for travel, guest preference. This information will form part of your profile page, and will be publicly visible to others.
   * **Contacts** : You may choose to import contacts from your address book or enter your contacts’ information manually to invite your contacts to become users and join the Website.
-  * **Video/Voice Call** : The Website uses a third party provider TokBox to facilitate the use of video / voice call for both hosts and guests. We will not disclose any user data derived from any user’s usage of the Video Call service (including without limitation, chat logs, contact information or IP addresses) other than in compliance with our Website privacy statement.
+  * **Video/Voice Message** : The Website uses a third party provider TokBox to facilitate the use of video / voice call for both hosts and guests. We will not disclose any user data derived from any user’s usage of the Video Message service (including without limitation, chat logs, contact information or IP addresses) other than in compliance with our Website privacy statement.
   * **Additional Information** : You may choose to provide us with additional information when you fill in a form, conduct a search, update or add information to your user account, respond to surveys, post to blogs, social media posts, participate in promotions, or use other features of the Website.
 
 
