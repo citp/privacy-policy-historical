@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextdayflyers.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008191816id_/https%3A//www.nextdayflyers.com/secure/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextdayflyers.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602164935id_/https%3A//www.nextdayflyers.com/secure/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
