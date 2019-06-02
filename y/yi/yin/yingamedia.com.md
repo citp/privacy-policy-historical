@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yingamedia.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825232046id_/https%3A//yingamedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yingamedia.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602154039id_/https%3A//yingamedia.com/privacy) for the most accurate reproduction.*
 
 # YINGA BOY MEDIA
 
