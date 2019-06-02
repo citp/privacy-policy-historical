@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005194316id_/https%3A//www.adameve.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamevetoys.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221633id_/https%3A//www.adameve.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Adam & Eve | Privacy & Security
 
@@ -308,7 +308,16 @@ If PHE, Inc. has processed or is processing your personal data, you may be entit
 
 PHE, Inc. takes their clients’ (and the customers of their clients) data protection seriously, and has appointed DPR Group as their Data Protection Representative in the European Union so that you can contact them directly in your home country. DPR Group has locations in each of the 28 EU countries, so that PHE, Inc.’s customers can always raise the questions they want with them.
 
-If you are a citizen of the EU and want to raise a question to PHE, Inc., or otherwise exercise your rights in respect of your personal data, you may do so using one of these three methods:
+**If you are not a citizen of the European Union** , it is faster to contact PHE, Inc. directly using one of these methods:
+
+  * email [custserv@pheinc.com](mailto:custserv@pheinc.com) with <UNSUBSCRIBE> in the subject line to stop receiving emails
+  * email [gdpr@pheinc.com](mailto:gdpr@pheinc.com) with <GDPR: DATA REMOVAL> in the subject line to delete your personal information from our database
+  * submit your email opt-out request through the [Contact Us page](https://www.adameve.com/contactus.aspx)
+  * follow the [Opting Out directions in our Privacy Policy](https://www.adameve.com/t-privacy.aspx#optout) to stop receiving emails
+
+
+
+**If you are a citizen of the European Union** and want to raise a question to PHE, Inc., or otherwise exercise your rights in respect of your personal data, you may do so using one of these three methods:
 
   * sending an email to DPR Group at [adameve@dpr.eu.com](mailto:adameve@dpr.eu.com?subject=Inquiry%20in%20respect%20of%20personal%20data%20-%20PHE,%20Inc%20\(trading%20as%20Adam%20&%20Eve\)) quoting <PHE, Inc.> in the subject line
   * contacting us on our online webform at <https://www.dpr.eu.com/adameve>
