@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osu.edu privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202075712id_/https%3A//www.osu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osu.edu privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602112754id_/https%3A//www.osu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for The Ohio State University osu.edu websites
 
@@ -36,7 +36,7 @@ Ohio State collects website visitor information to: Best serve audiences by opti
 
 **Is the information secure?**
 
-For data collected from website visitors, Ohio State follows the guidelines prescribed in the university’s [Information Security Standard (ISS)](https://go.osu.edu/infosec-iss "The Information Security Standard \(ISS\) defines risk management objectives and specifies security controls that support Ohio State’s Information Technology Security Policy \(ITSP\).") policy: <https://ocio.osu.edu/policy/standards/security>
+For data collected from website visitors, Ohio State follows the guidelines prescribed in the university’s [Information Security Standard (ISS)](https://cybersecurity.osu.edu/cybersecurity-osu/internal-policies-compliance/security-framework/information-security-standard "The Information Security Standard \(ISS\) defines risk management objectives and specifies security controls that support Ohio State’s Information Technology Security Policy \(ITSP\).") policy: <https://ocio.osu.edu/policy/standards/security>
 
 **Third Parties**
 
