@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnkeyinternet.net privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215125811id_/https%3A//turnkeyinternet.net/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnkeyinternet.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602214541id_/https%3A//turnkeyinternet.net/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,23 +7,15 @@
   
 
 
-**Tuesday December 11, 2018:  
-[How Colocation Can Benefit Your Business...](https://blog.turnkeyinternet.net/colocation/colocation-can-benefit-business/ "How Colocation Can Benefit Your Business")**  
-
-
-Modern office workers find it increasingly difficult to imagine the era that existed before computers began to invade almost every business function, but  
-
-
-  
-
-
-  * **_Pssst..._** Did you know we're **[SSAE-18 SOC 2](https://web.archive.org/datacenters/certified-hosting/ "TurnKey Internet SSAE18")** certified?
+  * **_Pssst..._** Start making money with the cloud today with our **[Cloud Reseller](https://web.archive.org/cloud-reseller/ "TurnKey Cloud Reseller")** platform.
   *  __[Home](https://web.archive.org/)/
   * [Policies](https://web.archive.org/policies/)/
   *  **Privacy**
   * / __
 
 
+
+[ ](https://turnkeyinternet.net/special-offers/ "Limited Time Offer")
 
 Turnkey Internet's online privacy policy governs personal information gathered on our Internet and [affiliates](https://web.archive.org/about/affiliate-entities/) sites. 
 
@@ -82,7 +74,7 @@ TurnKey Internet
 Latham, N.Y. 12110  
 
 
-TurnKey Internet has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+TurnKey Internet has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you. TurnKey Internet complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 #### GDPR Readiness
 
@@ -94,7 +86,7 @@ If you contact us, and feel we have not addressed your privacy questions or conc
 
 Individuals have access to personal information about them that an organization holds and be able to correct, amend, or delete that information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated. This information can be reviewed and corrected within your client area.
 
-Your information will not be supplied to any third parties without your consent or as otherwise outlined in our terms of services. 
+Your personal information will not be supplied to any third parties.
 
 You will be notified of any changes to this policy via the email address on file in our billing system.
 
