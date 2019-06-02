@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualping.io privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919120947id_/https%3A//visualping.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualping.io privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602131839id_/https%3A//visualping.io/privacy) for the most accurate reproduction.*
 
 # Visualping: #1 Website change detection, monitoring and alerts
 
