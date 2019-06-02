@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625230330id_/http%3A//static.tallahassee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602102534id_/https%3A//cm.tallahassee.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | Tallahassee Democrat
+# static.tallahassee.com
 
 Last Updated: May 14, 2018
 
