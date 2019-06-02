@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frixo.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616090546id_/http%3A//www.frixo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frixo.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602211357id_/https%3A//www.frixo.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Frixo](http://www.frixo.com/) » Privacy Policy
+[Frixo](https://web.archive.org/) » Privacy Policy
 
 At Frixo we do not collect any personal information from you while you browse through our site. we will never pass on personal data to 3rd parties, such as data collected from emails. 
 
@@ -22,4 +22,4 @@ We take email privacy very seriously with users of our website. Any Email addres
 
 ## Contact
 
-If you have any queries regarding our privacy policy, please [contact us](https://web.archive.org/web/20170616090546id_/http%3A//www.frixo.com/support.aspx) and we'll be happy to answer any of your questions. 
+If you have any queries regarding our privacy policy, please [contact us](https://web.archive.org/web/20190602211357id_/https%3A//www.frixo.com/support.aspx) and we'll be happy to answer any of your questions. 
