@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spy-phone-app.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023053518id_/https%3A//www.spy-phone-app.com/terms_of_service%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spy-phone-app.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602222618id_/https%3A//www.spy-phone-app.com/terms_of_service%23privacy_policy) for the most accurate reproduction.*
 
 # Spy phone app Terms of Service
 
