@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904112858id_/https%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602065809id_/https%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkshire Hathaway HomeServices
 
@@ -30,7 +30,7 @@ We primarily use the identification information you voluntarily share with us to
 
 Please note that we will retain the information we collect from you for as long as needed to provide the services you request and to comply with our legal obligations, resolve disputes and enforce our agreements. 
 
-Whenever you are online or on our applications, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our [_Terms of Use_](https://web.archive.org/pages/termsofuse/). 
+Whenever you are online or on our applications, you run the risk that the information you give out will fall into the wrong hands. Although we implement and maintain commercially reasonable security procedures and practices to safeguard your privacy, we cannot guarantee the security of any information you provide to us. We accept no responsibility or liability for the activities of third parties. By using our consumer applications and applications, you agree to our [_Terms of Use_](https://web.archive.org/pages/terms/). 
 
 ### Your Rights Regarding Your Personal Information
 
@@ -80,7 +80,3 @@ To request the above information please contact us by writing to customer servic
 ### International Users
 
 Our consumer applications are hosted by servers in the United States. If you are located outside of the United States, your personal information will be transferred to the United States for storage, processing and use. By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use in the United States in accordance with this Privacy Policy.
-
-### Continue to new location
-
-is not covered by . By selecting continue, your previous locations will be removed. Only  will be included in your search. 
