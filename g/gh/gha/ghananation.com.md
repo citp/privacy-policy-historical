@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625033747id_/https%3A//www.ghanagrio.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602194747id_/https%3A//www.ghanagrio.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Ghanagrio.com - Privacy Policy
 
