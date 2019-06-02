@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625085522id_/https%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602081643id_/https%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
