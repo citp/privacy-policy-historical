@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921203938id_/https%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602215530id_/https%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ Twitchmetrics has further committed to refer unresolved privacy complaints under
 
 ##### Contact Us
 
-We welcome your questions and feedback on our Privacy Policy. To contact us, [email us](mailto:support@twitchmetrics.net).
+We welcome your questions and feedback on our Privacy Policy. To contact us, [email us](https://web.archive.org/cdn-cgi/l/email-protection#f98a8c8989968b8db98d8e908d9a91949c8d8b909a8ad7979c8d).
