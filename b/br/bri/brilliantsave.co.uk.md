@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantsave.co.uk privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130153215id_/http%3A//brilliantsave.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantsave.co.uk privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602083001id_/http%3A//www.brilliantsave.co.uk/privacy) for the most accurate reproduction.*
 
 # brilliantsave.co.uk
 
