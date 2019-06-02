@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artio.net privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130142132id_/http%3A//www.artio.net/terms-of-service/personal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artio.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602054335id_/http%3A//www.artio.net/terms-of-service/personal-privacy) for the most accurate reproduction.*
 
 # Personal Privacy Policy - ARTIO
 
