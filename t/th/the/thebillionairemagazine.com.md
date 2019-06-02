@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebillionairemagazine.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203023205id_/http%3A//thebillionairemagazine.com/privacy-policy/4594320807) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebillionairemagazine.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602164145id_/http%3A//thebillionairemagazine.com/privacy-policy/4594320807) for the most accurate reproduction.*
 
 # Privacy Policy - Billionaire Magazine
 
