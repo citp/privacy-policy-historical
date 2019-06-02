@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanbanize.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227171950id_/https%3A//kanbanize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanbanize.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603014837id_/https%3A//kanbanize.com/privacy-policy) for the most accurate reproduction.*
 
 # Kanbanize Privacy Policy
 
@@ -69,17 +69,19 @@ BMAP uses as Subprocessors and User personal data may be transferred to the prov
   4. Hosting services (Amazon Web Services)
   5. Billing software services (Freshbooks)
   6. Cloud-based integration platform (Zapier)
-  7. Communications software (Intercom) -- **Will not be used after Dec 31 2018**
-  8. Webinar hosting and automation platform (BigMarker) - personal data is entered voluntarily by the users willing to attend an event
-  9. Embedded integration platform (Cyclr) - personal or business data is transferred to Cyclr only after explicit consent given by the user inside the software
-  10. Digital signing software (Docusign) - personal data for a given person (email) is transferred only after prior communication between Kanbanize and that person
-  11. Marketing automation software (Mailchimp) - personal data (email) is transferred upon explicit request by the user to receive notifications about new blog content
+  7. Webinar hosting and automation platform (BigMarker) - personal data is entered voluntarily by the users willing to attend an event
+  8. Embedded integration platform (Cyclr) - personal or business data is transferred to Cyclr only after explicit consent given by the user inside the software
+  9. Digital signing software (Docusign) - personal data for a given person (email) is transferred only after prior communication between Kanbanize and that person
+  10. Marketing automation software (Mailchimp) - personal data (email) is transferred upon explicit request by the user to receive notifications about new blog content
+  11. Marketing automation software (EmailOctopus) - personal data (email) is transferred following a double opt-in process (contacts will receive an extra confirmation email in order to verify their email address).
 
 
 
 BMAP may replace its Subprocessors from time to time following above rules of strict selection. Updated information about the list of current Subprocessors may be found at all times here on our website and we may inform you about such updates via our monthly newsletters. 
 
 All our Subprocessors do not have any right to use the personal information we share with them beyond what is necessary to assist us in making our services possible. When we cooperate with third parties and they process your personal data on our behalf, we make sure your personal data will be handled with the same integrity and security as we do. 
+
+You should keep in mind that our website is integrated with and uses Google Analytics. Google platform uses tools to acquire information when you have visited our site. Within these tools, we do not have the ability to recognize the individuals whose data is generated. However, this information can be personalized by Google and affect the content Google shows you. For more information and deactivation of certain features, you should use the settings of the Google platform, as we have no control over it and we can not block its functionalities. Through the control panels of your accounts on the platform, you can also make the appropriate privacy and privacy management settings, including the data management and information Google receives from us, since after the data is transmitted we cannot exercise full control over data processing, including data deletion. 
 
 If you need an extensive overview of our trusted partners, please, contact us at: dpo (@) kanbanize.com 
 
