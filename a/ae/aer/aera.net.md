@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126123140id_/http%3A//www.aera.net%3FTabID%3D10642) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602102851id_/https%3A//www.aera.net%3FTabID%3D10642) for the most accurate reproduction.*
 
 # AERA Privacy Policy
 
