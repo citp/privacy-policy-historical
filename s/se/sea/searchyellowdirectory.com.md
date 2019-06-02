@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004232138id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602083300id_/https%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SearchYellowDirectory.com
 
