@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pressbanner.com privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603104009id_/http%3A//www.goldenstatenewspapers.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressbanner.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603001446id_/http%3A//www.goldenstatenewspapers.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Golden State Newspapers: Site
-
-Posted: Friday, July 18, 2014 2:55 pm | _ Updated: Friday, May 25, 2018 10:55 am. _
+# Privacy Policy | Site | goldenstatenewspapers.com
 
 We consider your privacy important. We do not sell or rent your personal information to third parties without your explicit consent. Please read this Privacy Policy that you may understand how we use and protect your personal information.
 
