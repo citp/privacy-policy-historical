@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625022907id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602084440id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
@@ -84,9 +84,6 @@ Information you enter on this website will be transmitted to and may be stored o
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.ispyconnect.com  
-PO Box 2307  
-Margaret River, WA 6285  
-Australia  
 sean[ @ ]ispyconnect.com
 
 This policy was last modified on 6/5/2013 
