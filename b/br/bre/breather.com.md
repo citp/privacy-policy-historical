@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breather.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701092358id_/https%3A//breather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breather.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602090536id_/https%3A//breather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breather
 
@@ -106,7 +106,7 @@ When you interact with the Applications, we try to make that experience simple a
 
 Some of the cookies used by the Applications are set by us, and some are set by third parties who are delivering services on our behalf.
 
-Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser or mobile device. Please note, however, that by blocking or deleting cookies used on the Applications, you may not be able to take full advantage of the Applications.
+Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser or mobile device. Please note, however, that by blocking or deleting cookies used on the Applications, you may not be able to take full advantage of the Applications.
 
 The Applications use cookies and similar technologies to cookies to collect information about your access and use of the Applications. You can also update your privacy settings on your device by setting the ‘Limit Ad Tracking’ and Diagnostics and Usage setting property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through apps that are available in the Play Store. You can also stop information collection by uninstalling the Applications on your device and you can use the standard uninstall process available as part of your device for this purpose.
 
