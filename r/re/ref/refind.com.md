@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refind.com privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923085644id_/https%3A//refind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refind.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602190824id_/https%3A//refind.com/privacy) for the most accurate reproduction.*
 
 # Privacy – Refind
 
@@ -10,13 +10,7 @@ We offer optional browser extensions for Chrome, Safari, and Firefox—Refind is
 
 Our browser button allows you to save links to Refind. You can choose to save a link privately or publicly. [Learn more](https://refind.com/about/button)
 
-## Chrome Toolbar
-
-We offer an optional toolbar (opt-in) for Chrome which shows information about a page you visit, such as who of your friends saved it publicly. [Learn more](https://refind.com/about/toolbar)
-
-If you have it enabled (opt-in), the extension sends a request to our servers for all non-blacklisted domains, and our servers respond with the information shown in the toolbar, e.g., number of saves. We do **not** track or store these requests. You can disable the toolbar, or blacklist certain domains, in which case no request is sent to our servers.
-
-## Google search
+## Google Search
 
 Refind offers an optional integration with Google search. If you have it enabled, it highlights links you or your friends saved when you search on Google. [Learn more](https://refind.com/about/google-search)
 
@@ -70,7 +64,7 @@ When you create your Refind account, and authenticate via a third-party service 
 
 ## Email from Refind
 
-Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests—you can opt out of all or individual emails on the [email settings page](https://refind.com/settings/notifications/email).
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as digests—you can opt out of all or individual emails on the [email settings page](https://refind.com/settings/notifications/email).
 
 We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
 
