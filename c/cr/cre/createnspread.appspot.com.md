@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createnspread.appspot.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221002641id_/http%3A//createnspread.appspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createnspread.appspot.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602152333id_/http%3A//createnspread.appspot.com/privacy) for the most accurate reproduction.*
 
 # Create and Spread Facebook Applications!
 
