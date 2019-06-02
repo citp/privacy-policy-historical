@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolwallpapers.org privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129035008id_/http%3A//www.coolwallpapers.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolwallpapers.org privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602043831id_/http%3A//coolwallpapers.org/privacy) for the most accurate reproduction.*
 
 # CoolWallpapers
 
