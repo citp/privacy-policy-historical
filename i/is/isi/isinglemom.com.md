@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the isinglemom.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227133630id_/http%3A//isinglemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isinglemom.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602020443id_/http%3A//www.isinglemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Is Single Mom
 
-Last updated: May,2018
+Last updated: March, 2019
 
-iSingleMom LTD (“us”, “we”, or “our”) operates the [http://www.iSingleMom.com](http://www.omgstudios.com/) website (the “Service”).  
+iSingleMom LTD (“us”, “we”, or “our”) operates the http://www.iSingleMom.com website (the “Service”).  
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.  
 We will not use or share your information with anyone except as described in this Privacy Policy.  
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www](http://www/).iSingleMom.com
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.iSingleMom.com
 
 **Information Collection And Use**
 
