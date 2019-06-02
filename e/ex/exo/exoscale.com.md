@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703144503id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602224610id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
 
 # Privacy License Agreement | Exoscale European Cloud
 
@@ -38,9 +38,9 @@ We use the personal information we collect from you for the following purposes:
   * To provide you with technical support
   * To improve our website’s performance and efficiency in assisting you with the use of our products
   * For intrusion and misuse detection and securing access to our systems as well as enforcing our Terms of Service
-  * To improve our efficiency with customer service, content and functionnality of our offering, to better understand our users’s needs and for general business management.
+  * To improve our efficiency with customer service, content and functionality of our offering, to better understand our users’s needs and for general business management.
   * To send important email notifications related to your use of the service.
-  * When you have allowed us to do so, to send occasional newsletter and marketing campaings about our services. You can unsubscribe from these at any time using the link provided in the message.
+  * When you have allowed us to do so, to send occasional newsletter and marketing campaigns about our services. You can unsubscribe from these at any time using the link provided in the message.
 
 
 
@@ -58,22 +58,19 @@ We use cookies and affiliated technologies such as `localStorage` to keep you lo
 
 Our web analytics provider(s) also use cookies as a tracking mechanism. We only enable analytics on our public properties and within our customer onboarding process to improve our performance in these areas.
 
-Cookie name | Website | Purpose  
----|---|---  
-`session` | portal.exoscale.com | Storage of your session information  
-`cookieconsent_status` | exoscale.com | Store that you’ve given us your consent with our cookie policy  
-`guest_id` | portal.exoscale.com | This cookie is set by Twitter  
-`personalization_id` | portal.exoscale.com | This cookie is set by Twitter  
-`zabUserId` | exoscale.com, portal.exoscale.com | This cookie is set by Zoho PageSense  
-`zabVisitId` | exoscale.com | This cookie is set by Zoho PageSense  
-`zfccn` | exoscale.com | This cookie is set by Zoho PageSense  
-`zab_*` | exoscale.com | These cookies are set by Zoho PageSense  
-(opaque token) | exoscale.com | This cookie is set by Zoho PageSense  
-localStorage item | Website | Purpose  
----|---|---  
-`postpaid_request_records | portal.exoscale.com | Remember if you already requested postpaid billing  
-`runstatus_token_:account_name` | API access token |   
+The following third parties are instead used to set cookies and tracking on `exoscale.com` websites upon consent:
+
+3rd Party | Purpose  
+---|---  
+Facebook | Advertising optimization  
+Google | Analytics, Advertising optimization  
+Linkedin | Advertising optimization  
+Twitter | Content offering, Advertising optimization  
+Zoho PageSense | Heatmaps, A/B testing  
+Beamer | Changelog notifications, Analytics  
   
+No 3rd party tracking or analytics cookie is allowed on `portal.exoscale.com`, granting you privacy protection during the use of the application.
+
 ## Data processors
 
 Exoscale may rely on third-party subprocessor(s) to carry out specific processing activities on behalf of the Client throughout its providing of the Services. A list of subprocessors is available in the following table:
@@ -95,9 +92,10 @@ Aduno | Credit card processor | Switzerland
 Google Analytics | Web analytics | United States  
 Twitter | Web analytics | United States  
 Zoho | A/B testing | India  
-Mailchimp | Newsletters and marketing campaings | United States  
+Mailchimp | Newsletters and marketing campaigns | United States  
 A1 Digital International | Business intelligence | Austria  
 Amazon Web Services | Data archival | United States  
+Joincube (aka. Beamer) | Changelog user notifications | United States  
   
 ## Children under 16
 
