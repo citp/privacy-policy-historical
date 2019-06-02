@@ -1,73 +1,88 @@
-> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226110726id_/http%3A//www.convergys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convergys.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603005413id_/https%3A//www.concentrix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Legal Statement | Convergys
+# Privacy Policy | Concentrix
 
-Convergys intends to give you as much control as possible over your personal information. We are committed to protecting your personal privacy. We provide this privacy policy to explain the type of information we collect on our Web site, www.convergys.com. This policy also explains the choices you can make about the way your information is collected and used.
+### **1\. Introduction**
 
-### The Information We Collect
+ ** ** As a globally integrated company, Concentrix’s business processes increasingly go beyond the borders of one country. This globalization demands not only the availability of communication and information systems across the Concentrix group of companies, but also the world-wide processing, sharing and use of multiple types of information including information about an individual whose identity is apparent (either directly and indirectly), or can be reasonably be ascertained from the information available or likely to be available (Personal Information).
 
-This policy applies to all information submitted on this Web site. In general, you can visit convergys.com without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you (such as your name and address) to be able to provide you with the information, service or product you have requested. We do keep track of the domains from which people visit our site. We analyze this data for trends and statistics about site traffic. We also may use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may be used to help identify you and to gather broad demographic information.
+This Policy letter sets forth the general principles which underlie Concentrix’s specific practices for collecting, using, disclosing, storing, retaining, disposing, accessing, transferring or otherwise processing Personal Information.
 
-We, or one of our business partners, may from time to time also ask for other personal information via the Internet. We may use this information to correspond with you to process an order or to provide you with a subscription to an online newsletter, for example. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Users may choose to opt-out of receiving future e-mail or mailings by following the [unsubscribe procedures](https://web.archive.org/privacy/#unsubscribe) below.
+###  **2\. Applicability**
 
-### The Way We Use Information
+This Policy applies to all Concentrix personnel, operating units, and wholly owned subsidiaries worldwide and (as transferred and agreed) with suppliers/business partners who must act consistently with the principles contained in the policy. Country and industry-specific laws and regulations shall take precedence over this policy, to the extent applicable. The application of these principles is more particularly described in the applicable Concentrix Corporate Instructions (and any accompanying implementation Guidelines) relating to processing Personal Information. Please read this policy along with the company guidelines for use and processing of Personal Information to understand how Concentrix plans to achieve the set principles.
 
-Convergys.com provides you with the opportunity to register on the site through our [Request for Information form](https://web.archive.org/about/contact-us). When you register with our Web site, you can elect to receive information and updates on our products and services.
+###  **3\. Privacy Policy Statement**
 
-We use return e-mail addresses to answer the e-mail that we receive, and we may use return e-mail to send you other information.
+Concentrix remains committed to protecting the privacy and confidentiality of Personal Information of its Employees (including prospects and contractors), Clients, Client Customers, Business Partners and other identifiable individuals that it may receive, use, access, process, transfer or store as part of its business. Uniform practices for collecting, using, disclosing, storing, retaining, disposing, accessing, transferring or otherwise processing such information assists Concentrix to process Personal Information fairly and appropriately.
 
-We use information that you provide (individual and aggregate) to better design our Web site and to enhance our marketing strategy and our products. One method through which this Web site collects aggregate information is the collection of IP addresses. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from this Web site, our servers log your IP address. We do not link IP addresses to anything personally identifiable, so although your session will be logged, you will remain anonymous to us. To the extent such information is shared with third parties, please see "[Our Privacy Practices With Third Parties](https://web.archive.org/privacy/#third)," below.
+Concentrix may collect personal information from various persons as part of the services it may render to them, or in the course of its business. Based on the information being collected and nature of services or requirement, Concentrix will apply suitable mechanisms to ensure that Concentrix has a lawful basis for receiving, accessing, using, processing, transferring, storing and/or disposing such personal information.
 
-Occasionally, you may have the opportunity to forward pages or information on our Web site to friends or colleagues. The information you provide to facilitate this e-mail communication is collected by Convergys to correspond with you to process an order, to process a request for information, or to provide you with other forms of information, such as an online newsletter.
+###  **4\. General Privacy Principles**
 
-### Convergys Unsubscribe Policy
+These general principles apply to the processing of Personal Information world-wide by Concentrix.
 
-By registering on the Convergys Web site, visitors allow Convergys to use their personal identifiable information in accordance with the terms of Convergys’ privacy policy and legal statement.
+ **A. Accountability:**
 
-Convergys provides site visitors with the opportunity to opt-out of receiving updates on Convergys products and services, newsletters and other promotional materials. You may choose not to be contacted in the future if you do not wish to receive any information with respect to Convergys and our products and services. Visitors may unsubscribe at any time, by sending an e-mail to [marketing@convergys.com ](mailto:marketing@convergys.com)or by calling 1-800-344-3000 and stating the request. Convergys' mailing address may be found on our [Contact Us Web page](https://web.archive.org/about/contact-us). Visitors should provide Convergys with their name, address, other relevant information (e.g., phone number, e-mail address) and the name of the programs from which they wish to be removed.
+Concentrix understands its accountability and responsibility for any Personal Information that it may receive, use, process, store as part of its business.  Accordingly, it will:
 
-Convergys will use reasonable efforts to honor opt-out requests as soon as possible. If after a reasonable time a visitor is still receiving e-mail from Convergys, the visitor should contact [corporate.compliance@convergys.com](mailto:corporate.compliance@convergys.com).
+I. have appropriate corporate instructions, guidelines and other measures to be able to demonstrate that Personal Information is used/ stored / processed / retained / disposed / transferred in compliance with applicable law and other applicable guidelines;
 
-### Use of Cookies
+II. designate an individual or individuals who are accountable for the organization’s compliance with the Privacy principles; and
 
-Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a Web site. We use cookies to better tailor our site and our products/services to your interests and needs. Cookies may also be used to help speed up your future activities or to improve your user experience by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you (i.e., during membership registration or a contest entry). The use of cookies is an industry standard and you will find them at most Web sites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence.
+III. ensure the availability of required policies, procedures and contacts for management of personal information; these being reviewed at a minimum annually or as and when there is a change warranted.
 
-### Our Privacy Practices with Third Parties
+ **B. Fairness and Purpose:**
 
-One of our business partners may from time to time also ask for other personal information via the Internet. They may use this information to correspond with you to process an order or to provide you with a subscription to an online newsletter, for example. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Users may choose to opt-out of receiving future e-mail or mailings by e-mailing us at web.services@convergys.com.
+Concentrix will collect adequate, relevant and necessary Personal Information, and will process such information fairly and lawfully for the purpose it is collected. The purpose of collection will be specified not later than at the time of data collection, or on each occasion of change of purpose.
 
-Occasionally, we may share aggregate, non-personally identifiable information about our users with our business and alliance partners. Other than our business and alliance partners, we do not provide personal identifiable information to any third party for any purpose whatsoever.
+ **C. Accuracy:**
 
-### Links to Other Sites
+Concentrix will keep Personal Information as accurate, complete and up-to- date as is necessary for the purpose for which it is processed; and provide appropriate channels for the same.
 
-Users should be aware that when you are on this Web site you could be directed to other sites that are beyond our control. There may be links to other sites that take you outside our service; for example, links to business/alliance partners and trade show companies. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. If the Convergys Web site links you to any third-party Web site, we make no representation as to the existence, sufficiency, accuracy or completeness of their Privacy Policy.
+ **D. Disclosure and Data Sharing:**
 
-### Our Commitment to Data Security
+Concentrix will make Personal Information available inside or outside Concentrix under appropriate circumstances for business purpose only or as authorized by law. This may require Concentrix to transfer personal information to countries other than Concentrix operation’s country of business (including transfer to other entities or third parties).
 
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+Concentrix will implement privacy principles for the use / processing/ transfer / storing/ disposal of personal information as may be prescribed under applicable laws.
 
-### Restrictions on Use of Site
+ **E. Cross-Border Data Flows:**
 
-Convergys authorizes you to copy the materials published on our Web site (the "Materials") exclusively for non-commercial use by you personally or within your organization. The design and layout of the site are specifically excluded from the Materials. No other use of the Materials is authorized. In consideration of this authorization, you agree that any copy of the Materials (or any portion of the Materials) that you make shall retain all copyright and other proprietary notices contained herein or therein.
+When conducting business, working on Company projects, or implementing new processes or systems, an operation may require the transfer of personal information to other entities or third parties that are located outside of the Concentrix operation’s country of business. While permissible data transfer mechanisms are defined by applicable law or regulation, examples include:
 
-### Property Rights
+i. a data transfer agreement with the party who will access or obtain the personal information; or
 
-The products, technology, and/or processes described in this site may be the subject of intellectual property rights reserved by Convergys or other third parties. Nothing contained herein shall be construed as conferring to you in any manner, whether by implication, estoppel or otherwise, any license, title, or ownership of or to any intellectual property right of Convergys or any third party.
+ii. notice to and/or approval from a country’s local data protection authority; or
 
-### General Disclaimer
+iii. notice to and/or consent from the individual whose data is to be transferred.
 
-The Materials have been compiled by Convergys from internal and external sources. However, while we have attempted to provide accurate information on convergys.com, no representation is made or warranty given as to the completeness or accuracy of the Materials. In particular, you should be aware that the Materials may be incomplete, may contain errors, or may have become out of date. You should therefore verify information obtained from this Web site before you take any action upon it.
+ **F. Security:**
 
-### Stream Global Services, Inc. US-EU Safe Harbor Participation
+Concentrix will implement reasonable technical and organizational measures to safeguard Personal Information and instruct third parties processing Personal Information on behalf of Concentrix to process and manage it in a manner which is consistent with Concentrix standards (for Concentrix owned information) or Concentrix Client standards (for Client information), as may be applicable.
 
-Convergys has acquired Stream Global Services, Inc., a company that participates in the US-EU Safe Harbor Privacy Arrangement ("Safe Harbor"). To review the Stream Global Services Safe Harbor Privacy Policy, please click here: <http://www.stream.com/privacypolicy.html>. For any questions about Stream's Safe Harbor privacy practices, please contact us at [corporate.compliance@convergys.com](mailto:corporate.compliance@convergys.com).
+ **G. Access:**
 
-### Disclosure: Forward-Looking Statements
+Upon request, Concentrix will, within a reasonable time, manner, and in a readily intelligible form provide individuals appropriate access to Personal Information retained by Concentrix. Concentrix has the right to deny the request; however, the reasons of denial will be provided. Concentrix will erase, rectify, complete, or amend the data pursuant to a justified request.
 
-Some of the Materials may contain projections or other forward-looking statements regarding future events or the future financial or technical performance of Convergys. We wish to caution you that these statements are only projections and that actual events or results may differ materially. The Material are subject to and qualified by the documents we file from time to time with the Securities and Exchange Commission. These documents contain and identify important factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements including, among others, substantial capital requirements; development of effective internal processes and systems; the ability to attract and retain high quality employees; changes in the overall economy; technology; the number and size of competitors in its markets; law and regulatory policy; and the mix of products and services offered in the company's target markets and circumstances of force majeure, including acts of war or acts of terrorism. We have no current intention of updating any projections or forward-looking statements that may be contained in the Materials.
+ **H. Retention and Disposal:**
 
-### Copyright Policy
+Concentrix will retain Personal information in a form that permits identification for no longer than as necessary for the fulfillment of the stated purpose, and should be disposed thereafter.
 
-Under US law, Convergys, the Convergys logo and Outthinking Outdoing are service marks of Convergys, Atlys, Catalys, Infinys and the Wizard are registered trademarks, and Geneva is a trademark of Convergys Corporation. Convergys refers to Convergys Corporation and its wholly owned subsidiaries. All other trademarks and names are the property of their respective owners. The contents of the Convergys Web site are protected by applicable copyright laws. No permission is granted to copy, distribute, modify, post or frame any text, graphics, video, audio, software code, or user interface design or logos. ALL INFORMATION AND CONTENT ON OUR WEB SITE ARE SUBJECT TO APPLICABLE STATUTES AND REGULATIONS, FURNISHED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+ **I. Transparency:**
 
-© 2015 Convergys Corporation. All rights reserved.
+Concentrix will be transparent, and make readily available to individuals, specific information related to management of Personal Information.
+
+ **J. Custodianship:**
+
+Concentrix will follow appropriate policies and practices agreed with its clients for the safe handling of Personal Information that it processes on behalf of its clients.
+
+###  **5\. Enforcement and Redressal**
+
+Concentrix will provide appropriate robust mechanisms for assuring compliance with the Principles, and address grievance and / or provide recourse for individuals who are affected by non-compliance with the Principles.
+
+### More Information on GDPR:
+
+  * [GDPR](https://web.archive.org/gdpr/)
+  * [GDPR FAQ](https://web.archive.org/gdpr-faq/)
+
+
