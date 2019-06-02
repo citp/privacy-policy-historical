@@ -1,234 +1,143 @@
-> *The following text is extracted and transformed from the f45training.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626130937id_/http%3A//f45training.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f45training.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221309id_/https%3A//f45training.com/privacy) for the most accurate reproduction.*
 
-# F45 : Functional Training - Personal Trainer, Group Fitness Training US, franchise Personal Training
+# Privacy - F45 Training - Team Training, Life Changing
 
-F45 Training Pty Ltd ACN 162 731 900 and its Related Bodies Corporate (as defined in the _Corporations Act 2001_ (Cth)) (“ **F45** ” or “ **we** ”, “ **us** ” or “ **our** ”) recognise the importance of protecting personal information. This privacy policy (“ **Policy** ”) explains how F45 protects the privacy of individuals and summarises how the company collects, uses and discloses personal information about individuals. “ _Personal Information_ ” is information that identifies you, or information by which your identity can reasonably be ascertained. 
+In this Privacy Policy, 'us' 'we' or 'our' means F45 Training Pty Ltd, its affiliates, and member studios. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
 
-F45 is bound to comply with the _Privacy Act 1988_ and the Australian Privacy Principles (“ **APPs** ”) that regulate the handling of personal information about individuals. 
+F45 Training is a franchised business and all member studios are independently owned and operated. To the extent that a member studio processes personal data in ways that are not described below, that member studio is individually responsible for informing you about this.
 
-**1\. Management of Personal Information**
+Please read this Privacy Policy carefully. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy. We will notify you of any modifications to this Privacy Policy that might materially affect the way we use or disclose your personal information prior to the change becoming effective.
 
-**(a) Information F45 collects**
+Personal information includes information or an opinion about an individual that is reasonably identifiable. For example, this may include your name, age, gender, postcode and contact details. It may also include financial information, including your credit card information.
 
-From time to time F45 will collect personal information from website users, franchisees, members of franchisees, customers, suppliers, recruitment agencies, employees, contractors and other individuals (for example business contacts and potential new franchisees). The type of personal information that may be collected will depend on F45’s relationship with the person, and the circumstances of collection. Information collected from individuals may include the following:
+If you are visiting this site from the European Economic Area (“EEA”), see below under heading “Users from the European Union and Switzerland”.
 
-  * name, date of birth and place of birth;
-  * residential address, email address, facsimile number and contact telephone numbers; 
-  * financial information, including bank account details and credit / debit card details so we can make and receive payments; 
-  * employment and contractor information such as resumes, third party references, superannuation details, tax file numbers, emergency contact details and employee or contractor records; and
-  * details about website users through the use of cookies. 
+#### What personal information do we collect?
 
+We may collect the following types of personal information: 
 
+  * Name;
+  * mailing or street address;
+  * email address;
+  * telephone number and other contact details;
+  * age or date of birth;
+  * credit card information;
+  * your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information; 
+  * with your consent, limited health information (such as the information measured by your F45 LionHeart heart rate monitor, if you have registered one); 
+  * details of the products and services we have provided to you or that you have enquired about, including any additional information necessary to deliver those products and services and respond to your enquiries; 
+  * any additional information relating to you that you provide to us directly through our website or app or indirectly through your use of our website or app or online presence or through other websites or accounts from which you permit us to collect information; 
+  * information you provide to us through customer surveys; or
+  * any other personal information that may be required in order to facilitate your dealings with us. 
 
-We may also collect copies of identification documents from individuals, for example driver licences, birth certificates and/or passports. 
 
-**(b) How F45 collects information**
 
-How we collect personal information will largely depend on whose information we are collecting. If it is reasonable and practical to do so, we collect personal information directly from you. 
+We may collect these types of personal information either directly from you, or from third parties. We may collect this information when you: 
 
-  
-We may collect information about you when you:
+  * register on our website or app;
+  * communicate with us through correspondence, chats, email, or when you share information with us from other social applications, services or websites; 
+  * interact with our sites, services, content and advertising; or
+  * invest in our business or enquire as to a potential purchase in our business. 
 
-  * become a franchisee;
-  * engage F45 for the provision of services; 
-  * request information from us;
-  * interact or conduct business with F45;
-  * telephone, email or write to us; 
-  * contact us through our website; 
-  * register to receive newsletters and other information from us;
-  * register for special events or promotions;
-  * enter contests or respond to surveys;
-  * apply for employment with F45; or
-  * have a face to face meeting with a representative of F45.
 
 
+In addition, when you apply for a job or position with us we may collect certain information from you (including your name, contact details, working history and relevant records checks) from any recruitment consultant, your previous employers and others who may be able to provide information to us to assist in our decision on whether or not to make you an offer of employment or engage you under a contract. This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees, which are exempt from the Privacy Act in Australia.
 
-As well as collecting information directly from an individual, there may be occasions when F45 collects information from a third party, which will supplement the information held by F45. 
+#### Why do we collect, use and disclose personal information?
 
-We may collect personal information from: 
+We may collect, hold, use and disclose your personal information for the following purposes: 
 
-  * entities that are Related Bodies Corporate (as defined in the _Corporations Act 2001_ (Cth)) of F45; 
-  * franchisees; and
-  * independent sources.
+  * to enable you to access and use our services and app (whether that means becoming a member at one of our studios, booking a class, joining the F45 Challenge, or using your F45 LionHeart heart rate monitor); 
+  * to operate, protect, improve and optimise our services and app, business and our users’ experience, such as to perform analytics, conduct research and for advertising and marketing; 
+  * to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you; 
+  * to send you marketing and promotional messages and other information that may be of interest to you, including information sent by, or on behalf of, our business partners that we think you may find interesting; 
+  * to administer rewards, surveys, contests, or other promotional activities or events sponsored or managed by us or our business partners; 
+  * to comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties; and 
+  * to consider your employment application.
 
 
 
-We will however only collect information from third parties where it is not reasonable and practical to collect the information from you directly.
+We may also disclose your personal information to a trusted third party who also holds other information about you. This third party may combine that information in order to enable it and us to develop anonymised consumer insights so that we can better understand your preferences and interests, personalise your experience and enhance the products and services that you receive.
 
-**(c) Gathering and combining personal information**
+#### Do we use your personal information for direct marketing?
 
-  
-Improvements in technology enable organisations to collect and use personal information to get a more integrated view of individuals, and to allow them to provide better products and services to individuals. 
+With your consent where required by law, we and/or our carefully selected business partners may send you direct marketing communications and information about our services and products. This may take the form of emails, SMS, mail or other forms of communication, in accordance with the Spam Act and the Privacy Act, or relevant law in your jurisdiction. You may opt-out of receiving marketing materials from us by contacting us using the details set out below or by using the opt-out facilities provided (eg an unsubscribe link).
 
-We may combine information made available from a variety of sources. This enables us to analyse the data in order to gain useful insights, which can be used for the purposes mentioned in Section 1(f) of this Policy. 
+#### To whom do we disclose your personal information?
 
-**(d) Unsolicited Information**
+We may disclose personal information for the purposes described in this privacy policy to: 
 
-  
-Sometimes we may be provided with your personal information without having sought it through our normal means of collection.  We refer to this as “unsolicited information”.  Where we collect unsolicited information we will only hold, use and / or disclose that information if we could otherwise do so had we collected it by normal means. If that unsolicited information could not have been collected by normal means then we will destroy, permanently delete or de-identify the information as appropriate.
+  * our employees and related bodies corporate;
+  * third party suppliers and service providers (including providers for the operation of our websites and/or our business or in connection with providing our products and services to you); 
+  * professional advisers, dealers and agents;
+  * payment systems operators (eg merchants receiving card payments); 
+  * our existing or potential agents, business partners or partners; 
+  * our sponsors or promoters of any competition that we conduct via our services; 
+  * anyone to whom our assets or businesses (or any part of them) are transferred; 
+  * specific third parties authorised by you to receive information held by us; and/or 
+  * other persons, including government agencies, regulatory bodies and law enforcement agencies, or as required, authorised or permitted by law. 
 
-**(e) How F45 stores information**
 
-Personal information is stored and held in a combination of hard copy and electronic files maintained by F45. 
 
-Personal information is only accessible by officers and employees of F45 (on a need to know basis), unless it is disclosed to another party in accordance with this Policy. 
+#### Disclosure of personal information outside Australia
 
-F45 takes all reasonable steps to protect personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure by using industry standard software protection programs. 
+We may disclose personal information outside of Australia to F45 Australia Pty Ltd, their affiliates and related body corporates and cloud service providers.
 
-**(f) How is personal information used?**
+When you provide your personal information to us, you consent to the disclosure of your information outside of Australia and acknowledge that we are not required to ensure that overseas recipients handle that personal information in compliance with Australian Privacy Law. We will, however, take reasonable steps to ensure that any overseas recipient will deal with such personal information in a way that is consistent with the Australian Privacy Principles.
 
-Personal information is used by F45 for the purpose of conducting our business.
+#### Using our app and cookies
 
-Our uses of personal information include, but are not limited to:
+We may collect personal information about you when you use and access our app.
 
-  * establishing your identity;
-  * managing our relationship with you;
-  * assessing suitability of a potential franchisee;
-  * creating a personal customer profile;
-  * providing you with updates in relation to you promotions, product launches, special events, contests and other activities;
-  * engaging with franchisees and customers;
-  * conducting and improving our business and services;
+While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer.
 
+We may also use 'cookies' or other similar tracking technologies on our website that help us track your website usage and remember your preferences. Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can disable cookies through your internet browser but our websites may not work as intended for you if you do so.
 
-  * in the case of employees:
-    * to pay your wages and employee entitlements; and
-    * to manage your employment relationship with us; 
+We may also use cookies to enable us to collect data that may include personal information. For example, where a cookie is linked to your account, it will be considered personal information under the Privacy Act. We will handle any personal information collected by cookies in the same way that we handle all other personal information as described in this Privacy Policy.
 
+#### Security
 
-  * in the case of contractors:
-    * to pay your contractors fee; and
-    * to manage your contractor relationship with us,
+We may hold your personal information in either electronic or hard copy form. We take reasonable steps to protect your personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure and we use a number of physical, administrative, personnel and technical measures to protect your personal information. However, we cannot guarantee the security of your personal information.
 
+#### Accessing or correcting your personal information
 
-  * complying with our legal obligations, and assisting government and law enforcement agencies and/or regulators;
-  * identifying products, services and events that we think may be of interest to you; and
-  * communicating with you about the products and services that we offer.
+You can access the personal information we hold about you by contacting us using the information below. Sometimes, we may not be able to provide you with access to all of your personal information and, where this is the case, we will tell you why. We may also need to verify your identity when you request your personal information.
 
+If you think that any personal information we hold about you is inaccurate, please contact us and we will take reasonable steps to ensure that it is corrected.
 
+#### Making a complaint
 
-We may also need to collect personal and sensitive information in order to comply with our legal obligations, such as the Anti-Money Laundering and Counter-Terrorism Financing laws, under the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ (Cth).
+If you think we have breached the Privacy Act, or you wish to make a complaint about the way we have handled your personal information, you can contact us using the details set out below. Please include your name, email address and/or telephone number and clearly describe your complaint. We will acknowledge your complaint and respond to you regarding your complaint within a reasonable period of time. If you think that we have failed to resolve the complaint satisfactorily, we will provide you with information about the further steps you can take.
 
-**(g) Direct Marketing**
+#### Users from the European Union and Switzerland
 
-We may use your personal information to engage in direct marketing activities such as distribution of newsletters, promotional information and advising you about special events and contests. If you do not want to receive emails and/or other communications from us, you can tell us by contacting us as detailed in this Privacy Policy or as detailed in any direct marketing communication that you receive. 
+This section of the Privacy Policy applies only if you use our website or services covered by this Privacy Policy from a country that is a Member State of the European Union or Switzerland, and supplements the information in this Privacy Policy.
 
-**(h) Sensitive Information**  
+_Controller of Personal Information_
 
+To the extent that we are subject to the laws of the European Union and Switzerland when processing personal data (“Personal Data”), [F45 Training Pty Ltd] and the member studio with which you have a relationship are both controllers with respect to your Personal Data. That means that we may both determine how and why your personal data is used.
 
-We only collect sensitive information reasonably necessary for one or more of the uses specified in Section 1(f) of this Policy if we have the consent of the individuals to whom the sensitive information relates, or if the collection is necessary to lessen or prevent a serious threat to life, health or safety or another permitted general situation (as defined in Section 16A of the _Privacy Act 1988_ (Cth)).
+_Legal Basis for Data Processing_
 
-**(i) Disclosure of information**
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process Personal Data includes processing that is: necessary for the performance of the contract between you and the F45 studio with which you are member (for example, to register you as a member of one of our studios or to resolve billing or customer service inquiries related to your membership or products you have purchased); necessary to comply with legal requirements (for example, to comply with applicable accounting rules or to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you and to improve the website and our services); and, where legally required and we have no other valid legal basis to process Personal Data, we will use consent by our customers (for example, to provide you with marketing information or share information with third parties as described above), which may subsequently be withdrawn at any time (by contacting us as set out in the “Contact Us” section below) without affecting the lawfulness of processing based on consent before its withdrawal.
 
-Personal information may be disclosed to employees and agents of F45, to enable them to provide services to franchisees, customers and others.
+In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our website.
 
-It may be necessary for us to disclose your personal information to certain third parties in order to assist us with one or more of our functions or activities, or where permitted or required by law. Third parties may include:
+_International Transfers of Personal Data_
 
-  * entities that are Related Bodies Corporate (as defined in the _Corporations Act 2001_ (Cth)) to F45;
-  * those to whom we outsource certain functions, for example information technology support;
-  * auditors and insurers;
-  * government and law enforcement agencies and regulators; and
-  * entities established to help identify illegal activities and prevent fraud.
+Personal Data we collect will be transferred to Australia, the Philippines, and the United States. Also, our employees and some of the third-parties to whom we disclose Personal Data (as set out above) may be located in Australia, the United States, and other countries outside of the European Union or Switzerland, some of which may not provide the same level of data protection as your home country. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and we implement measures to ensure that any transferred Personal Data remains protected and secure.
 
+_Data Retention_
 
+We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-We may disclose your personal information from time to time, only if one or more of the following apply:
+To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-  * you have consented;
-  * you would reasonably expect us to use or disclose your personal information in this way;
-  * we are authorised or required to do so by law;
-  * disclosure will lessen or prevent a serious threat to the life, health or safety of an individual or to public safety;
-  * we are permitted pursuant to Section 16A of the _Privacy Act 1988_ (Cth); or
-  * disclosure is reasonably necessary for a law enforcement related activity.
+_Your Rights_
 
+You may be entitled, in accordance with applicable law, to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Requests should be submitted by contacting us as set out in the “Contact Us” section below. We will only share your information with third parties for marketing purposes where you have given your consent to do so, and you can opt-out of such sharing at any time. You may need to separately opt-out of receiving marketing from the third party.
 
+If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data violates applicable law.
 
-**(j) Cross-border disclosure of personal information**
+#### Contact Us
 
-F45 does not generally send any personal information to overseas entities. 
-
-We may only transfer personal information to a foreign recipient (including when an overseas entity accesses the information in Australia), if: 
-
-  * we reasonably believe that:
-    * the recipient is subject to law, or a binding scheme, that has the effect of protecting the information in a way that, overall, is at least substantially similar to the APP’s; and
-    * there are mechanisms that the individual can access to take action to enforce that protection of the law or binding scheme; or
-
-
-  * the disclosure is required or authorised by or under an Australian law or a court/tribunal order; or
-  * the transfer is necessary for the performance of a contract with the individual (from which the information was collected); or
-  * the transfer is for the benefit of the individual (and the other APP requirements are met); or
-  * if the individual consents to the transfer.
-
-
-
-Where disclosure is to be made to a known overseas entity, we will take reasonable steps to assess the privacy laws of the country where information will be disclosed to determine whether the overseas recipient is required to comply with privacy laws that are at least as stringent as the APP requirements in relation to information. We may enter into a written contract with the overseas recipient to enable us to enforce protection of the personal information that we provide to the overseas recipient, and ensure that the overseas entity does breach the APPs.
-
-**(k) Social Media**
-
-There may also be occasions when we collect personal information (to the extent it is available) from publicly available sources, including social media platforms such as Facebook or Twitter. Sometimes, we may provide content and services on a range of platforms (including social media networks) with interactive features to which you may contribute. If you post your personal information in publicly accessible places or social media platforms, your personal information will become publicly available (subject to, where applicable, any privacy settings you have in place in social media platforms). We will not be responsible for the protection of personal information you choose to publish this way.
-
-**(l) Security of information**
-
-F45 will take reasonable steps to protect the personal information F45 holds from any misuse, loss, modification, disclosure or unauthorised access. For example, personal information is retained in secure hard copy and electronic files, and is only accessible by staff on a need to know basis. 
-
-Some of the security measures implemented by us to secure personal information include using firewalls, standard software protection programs, pass word access protections, secure servers and encryption of credit card transactions.
-
-However, since no system is 100% secure or error-free, we cannot guarantee that your personal information is totally protected, for example, from hackers or misappropriation. You acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
-
-**(m) Links to other websites**
-
-Our website may contain links to other websites. You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties to whom we are permitted to disclose your personal information in accordance with this Policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies.
-
-If you suspect any misuse or loss of, or unauthorised access to, your personal information, please contact us immediately using the contact details set out below.
-
-**(n) Information that is no longer required**
-
-If F45 no longer needs the personal information for any purpose for which it may use or disclose the information, and the information does not need to be retained under an Australian law, or court order, F45 will take reasonable steps to destroy or permanently de-identify the information. 
-
-**2\. Who can I contact for further information, to gain access to my personal information or to make a complaint?**
-
-**(a) Contact Details**
-
-Individuals are able to contact F45 and request further information about this Policy, request access to their personal information or make a request that personal information be corrected and/or updated. Individuals are also able to make a complaint about any aspect of this Policy, and/or any aspect regarding the collection or use of information by F45, including the following: 
-
-  * the kind of information collected by F45; 
-  * the collection process;
-  * the purpose for which information is collected;
-  * how information is held; or
-  * use or disclosure of information by F45.
-
-
-
-Further information can be requested, access to information can be requested and complaints can be made using the contact details set out below. 
-
-**F45 Training Pty Ltd**
-
-Address: 30 Alma Street 
-
-Paddington NSW 2024, Australia
-
-Telephone: +1 310 299 8699
-
-Email: info@f45training.com.au
-
-**(b) Request for correction of information**
-
-If an individual requests F45 to correct personal information held in respect to that individual, F45 will take such steps (if any) as are reasonable in the circumstances to correct that information to ensure that, having regarding to the purpose for which it is held, the information is accurate, up to date, complete, relevant and not misleading.
-
-F45 will respond to a request for correction of personal information within a reasonable period after the request is made. If F45 refuses to correct the personal information as requested by an individual, F45 will provide the individual with a written notice that sets out:
-
-  * the reasons for the refusal, except to the extent that it would be unreasonable to do so; and
-  * the mechanisms available to complain about the refusal.
-
-
-
-If F45 refuses to correct the personal information, it will keep with the record an indication that the person has requested that the information be corrected.
-
-**(c) Complaints**
-
-Complaints in relation to this Policy or the collection of personal information will be investigated by F45 within a reasonable period after the complaint is received. Following an investigation, a response will be provided by F45 to the individual. 
-
-If a person is not satisfied with the way in which F45 handles an enquiry or complaint, they can call the Office of the Australian Information Commissioner on 1300 363 992.
-
-**3\. Update of Privacy Policy**
-
-F45 may vary this Policy as business requirements or the law changes. F45 will review this Policy on a regular basis and update the Policy as required.
+For further information about our Privacy Policy or practices, or to exercise control over your personal information, or make a complaint, please contact us via support@f45training.com, or contact your local studio. If you have questions about how your local studio processes your information in particular, contact your local studio (your studio’s contact information can be found using the “Find a Studio” link on https://f45training.com).
