@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactionstudios.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225164720id_/http%3A//www.interactionstudios.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactionstudios.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602033933id_/http%3A//www.interactionstudios.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | InterAction studios
 
@@ -45,4 +45,4 @@
 
 
 
-©2002-2018 Konstantinos Prouskas and InterAction studios. All rights reserved. [Terms of use](https://web.archive.org/web/20181225164720id_/http%3A//www.interactionstudios.com/termsofuse.php). [Privacy Policy](https://web.archive.org/web/20181225164720id_/http%3A//www.interactionstudios.com/privacypolicy.php). 
+©2002-2019 Konstantinos Prouskas and InterAction studios. All rights reserved. [Terms of use](https://web.archive.org/web/20190602033933id_/http%3A//www.interactionstudios.com/termsofuse.php). [Privacy Policy](https://web.archive.org/web/20190602033933id_/http%3A//www.interactionstudios.com/privacypolicy.php). 
