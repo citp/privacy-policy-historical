@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019200936id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602143515id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Jurys Inn | Privacy & Security Policy
 
@@ -488,7 +488,7 @@ The cookies used by the Site can be grouped into categories.
 
  **Disabling and Enabling Cookies**
 
-Most browsers allow you to refuse to accept cookies. Your browser may have a Help section or some other form of instructions which should explain how to do this. If you are using a smartphone, then the manufacturer should have instructions on its website explaining how to do this. Useful guidelines on how to do this for a number of popular computer browsers can be found on the [ICO website](http://www.ico.org.uk/for_the_public/topic_specific_guides/online/cookies).   
+Most browsers allow you to refuse to accept cookies. Your browser may have a Help section or some other form of instructions which should explain how to do this. If you are using a smartphone, then the manufacturer should have instructions on its website explaining how to do this. Useful guidelines on how to do this for a number of popular computer browsers can be found on the [ICO website](https://ico.org.uk/your-data-matters/online/cookies/).   
 
 
 Please note that if you do disable any cookies, this will have a negative impact upon the usability of many websites, including this one.
