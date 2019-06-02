@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2018-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180919120947id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visualping.io privacy policy that was archived on 2019-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190602131839id_/https%3A//visualping.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,14 +11,14 @@
         <meta name="keywords" content="website checker visual tracking competitors content compare page monitor availability screenshot track website change alert website change detection">
         <meta property="og:title" content="Visualping: #1 Website change detection, monitoring and alerts">
         <meta property="og:url" content="https://visualping.io">
-        <meta property="og:image" content="https://visualping.io/assets/img/preview-small.png">
+        <meta property="og:image" content="https://visualping.io/assets/img/vp-preview.jpg">
 
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@site_username">
         <meta name="twitter:title" content="Website checker, website change detection, monitoring and alerts">
         <meta name="twitter:description" content="With more than 1 million users and a 100% free plan, Visualping is the easiest to use website checker, webpage change monitoring, website change detector and web page change alert software. Contrary to other website change monitoring services like ChangeDetector, Versionista and Wachete, we track changes visual and alert you via email.">
         <meta name="twitter:creator" content="@creator_username">
-        <meta name="twitter:image:src" content="https://visualping.io/assets/img/chrome-app-anim.gif">
+        <meta name="twitter:image:src" content="https://visualping.io/assets/img/vp-preview.jpg">
         <meta name="twitter:domain" content="visualping.io">
 
         <link rel="shortcut icon" href="favicon.ico">
@@ -28,18 +28,20 @@
         <link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 
         
-                    <link rel="stylesheet" href="https://cdn.visualping.io/app.css?v=b3c71b86" type="text/css">
+                    <link rel="stylesheet" href="https://cdn.visualping.io/app.css?v=9f2e5eef" type="text/css">
         
 
         <meta name="viewport" content="width=device-width,initial-scale=1">
 
         <!-- was before : <meta name="viewport" content="width=768">-->
 
-        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TZLWHVD"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MD6Q9L"></script><script src="https://one.progmxs.com/seg?add=17386919&amp;t=1" type="text/javascript"></script>
+        
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-TZLWHVD');</script>
+        })(window,document,'script','dataLayer','GTM-MD6Q9L');</script>
 
     </head>
 <body>
@@ -55,7 +57,7 @@
 
 </div>            <div class="mod mod-navigation">
 <span class="navigation">
-<!--<a href="/chrome-app" class="button bordered">Download App</a>--><a class="login-btn btn bordered" href="/jobs">Login</a></span>
+<a class="login-btn btn bordered" href="/jobs">Login</a></span>
 
 </div>            
         </div>
@@ -611,10 +613,12 @@
 
 </script><script id="mod-block-advancedsettings-tab-falsealarms-doublecheck" type="text/x-dot-template">
 <p class="title">Double check</p>
-<label class="input-multicheck input-checkbox"><input type="checkbox" class="js-fld-multicheck"{{?it.multicheck_enabled}}checked{{?}} >&nbsp&nbspTake a second snapshot before sending me an alert</input></label>
+<label class="input-multicheck input-checkbox"><input type="checkbox" class="js-fld-multicheck"{{?it.multicheck_enabled}}checked{{?}} >&nbsp&nbsp<span>Take a second snapshot</span> before sending me an alert</input></label>
 </script><script id="mod-block-advancedsettings-tab-falsealarms-proxy" type="text/x-dot-template">
 <p class="title">Connection</p>
-<label class="input-checkbox"><input type="checkbox" class="js-fld-proxy" {{? it.use_proxy}}checked{{?}}>&nbsp&nbspuse a US location Proxy Server</input></label></script><script id="mod-block-advancedsettings-tab-falsealarms-waittime" type="text/x-dot-template">
+<div><label class="input-checkbox"><input type="checkbox" class="js-fld-proxy" {{? it.use_proxy}}checked{{?}}>&nbsp&nbspRandom proxy servers</input></label></div>
+<div><label class="input-checkbox"><input type="checkbox" class="js-fld-fixed" {{? it.fixed_ip}}checked{{?}}>&nbsp&nbspuse Fixed server for white list purposes (IP 52.35.50.68)</input></label></div>
+</script><script id="mod-block-advancedsettings-tab-falsealarms-waittime" type="text/x-dot-template">
 
 {{ var text = '';
 if(it.wait_time == 1) {
@@ -645,14 +649,21 @@ if(it.wait_time == 1) {
     </ul>
 </div></script><script id="mod-block-advancedsettings-tab-falsealarms" type="text/x-dot-template">
 <div class="item item-wrapper clearfix">
-    <div class="config mode-chooser" data-mode="visual">
-        <label for="toggle-visual">Compare Mode <a href="/faq#webcompare" target="_blank" class="info-btn">i</a></label>
-        <div class="mode-chooser__wrapper mode-chooser__wrapper--small">
+    <div class="col-interval">
+        <label for="">Compare Mode <a href="/faq#webcompare" target="_blank" class="info-btn">i</a></label>
+
+        <select class="select-dropdown-job-mode select-input" data-mode="VISUAL">
+            <option value="VISUAL" selected="selected">Visual compare</option>
+            <option value="WEB">Web compare</option>
+            <option value="TEXT">Text compare</option>
+        </select>
+
+        <!--<div class="mode-chooser__wrapper mode-chooser__wrapper--small">
             <label for="toggle-visual" class="mode-chooser__label-visual">Web</label>
             <input type="checkbox" name="toggle" id="toggle" class="mode-chooser__input">
             <label for="toggle" class="mode-chooser__label js-mode-chooser__label-visual"></label>
             <label for="toggle-web" class="mode-chooser__label-web">Visual</label>
-        </div>
+        </div>-->
     </div>
 
     <div class="col-interval">
@@ -688,8 +699,11 @@ if(it.wait_time == 1) {
 </div>
 <div class="item item-wrapper item-first">{{= it.tpl.render('mod-block-advancedsettings-tab-falsealarms-doublecheck', it)}}</div>
 <div class="item item-wrapper">{{= it.tpl.render('mod-block-advancedsettings-tab-falsealarms-proxy', it)}}</div>
-
-    <div class="item item-wrapper col-wait">{{= it.tpl.render('mod-block-advancedsettings-tab-falsealarms-waittime', it)}}</div>
+<div class="col-reduce">
+    <p class="title">REDUCE FALSE ALERTS</p>
+    <label class="input-reduce input-checkbox"><input type="checkbox" class="js-fld-reduce"{{? it.reduce_enabled}}checked{{?}} >&nbsp&nbspDisregard small changes (dates, numbers, tweet counts changes)</input></label>
+</div>
+<div class="item item-wrapper col-wait">{{= it.tpl.render('mod-block-advancedsettings-tab-falsealarms-waittime', it)}}</div>
 </script><script id="mod-block-advancedsettings-tab-notifications" type="text/x-dot-template">
 
 <p class="title">Get change notifications sent directly to your team chat</p>
@@ -702,7 +716,11 @@ if(it.wait_time == 1) {
     <a href="{{=it.rss_path}}" target="_blank"><li class="rss"><i class="fa fa-rss"></i>RSS</li></a>
 
 </ul>
-<p class="foot-description">Choose your service. Please let us know which services you want to see here!</p>
+<p class="foot-description">
+    <label for="email-alerts-checkbox" class="input-checkbox">
+        <input type="checkbox" id="email-alerts-checkbox" name="email_alerts">&nbsp;&nbsp;Do not send email alerts</input>
+    </label>
+</p>
 
 <div class="service-flowdock"></div>
 <div class="service-hipchat"></div>
@@ -740,7 +758,7 @@ data-key="{{=it.data.key}}"
 <script type="text/javascript" src="/assets/js/slick.min.js"></script>
 
 
-  <script src="https://cdn.visualping.io/app.js?v=b3c71b86"></script>
+  <script src="https://cdn.visualping.io/app.js?v=9f2e5eef"></script>
 <script>
 (function($) {
     $(document).ready(function() {
