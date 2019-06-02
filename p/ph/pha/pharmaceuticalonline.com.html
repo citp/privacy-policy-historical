@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmaceuticalonline.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230161331id_/https%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmaceuticalonline.com privacy policy that was archived on 2019-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603003437id_/https%3A//www.pharmaceuticalonline.com/static/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -38,28 +38,59 @@
     ga('linker:autoLink', ['cart.lifesciencetraininginstitute.com', 'www.lifesciencetraininginstitute.com']);
 
     
-    ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N&vm_ts=636817652118784433');
+    ga('send', 'pageview', '/static/Privacy?documenttype=&hascompany=N&hasauthor=N');
 </script>
 <!-- End Google Analytics -->
 
-    <link href="/wwwroot/css/lib.min.css?v=21528" rel="stylesheet">
+    <link href="/wwwroot/css/lib.min.css?v=15292" rel="stylesheet">
 
-    <link href="/wwwroot/css/accents/lifesciences/pharmaceuticalonline.min.css?v=21528" rel="stylesheet">
+    <link href="/wwwroot/css/accents/lifesciences/pharmaceuticalonline.min.css?v=15292" rel="stylesheet">
 
 
     <!--[if lt IE 9]>
-        <script src ="/wwwroot/js/ie/ie.min.js?v=21528"></script>
+        <script src ="/wwwroot/js/ie/ie.min.js?v=15292"></script>
 
     <![endif]-->
 
     <script type="text/javascript">
         var __reCaptchaKey__ = '6LdPmBETAAAAACfMULcKXmx7QCKc9C-vMqqsK0Qb';
         var __vertVids = [];
+
+        var events = (function(){
+            var topics = {};
+            var hOP = topics.hasOwnProperty;
+
+            return {
+                subscribe: function(topic, listener) {
+                    // Create the topic's object if not yet created
+                    if(!hOP.call(topics, topic)) topics[topic] = [];
+
+                    // Add the listener to queue
+                    var index = topics[topic].push(listener) -1;
+
+                    // Provide handle back for removal of topic
+                    return {
+                        remove: function() {
+                            delete topics[topic][index];
+                        }
+                    };
+                },
+                publish: function(topic, info) {
+                    // If the topic doesn't exist, or there's no listeners in queue, just leave
+                    if(!hOP.call(topics, topic)) return;
+
+                    // Cycle through topics queue, fire!
+                    topics[topic].forEach(function(item) {
+                        item(info != undefined ? info : {});
+                    });
+                }
+            };
+        })();
     </script>
 
     <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
     <!--[if !IE 8]><!-->
-    <script src="https://www.google.com/recaptcha/api.js?onload=myCallBack&amp;render=explicit"></script><!--<![endif]-->
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&amp;render=explicit"></script><!--<![endif]-->
     <script>
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
@@ -68,11 +99,12 @@
     <script>
         // there is multiple captchas on sites pages 
         // this will interate from all of them and create a call back function
-        var myCallBack = function () {
+        var recaptchaCallback = function () {
             var captchas = document.getElementsByClassName("g-recaptcha");
             for (var i = 0; i < captchas.length; i++) {
                 grecaptcha.render(captchas[i], { 'sitekey': __reCaptchaKey__ });
             }
+            events.publish("recaptchaCallbackComplete");
         };
     </script>
         <script>
@@ -125,7 +157,7 @@
 <div class="site-header">
     <div class="container">
         <div class="site-header-inner ir">
-            <a href="/"><img alt="www.pharmaceuticalonline.com" src="https://vertassets.blob.core.windows.net/sites/logos/pharm.png" border="0"></a>
+            <a href="/"><img alt="www.pharmaceuticalonline.com" title="www.pharmaceuticalonline.com" src="https://vertassets.blob.core.windows.net/sites/logos/pharm.png" border="0"></a>
             <div class="right-hand-information">
                 
                 <div class="user-login-indicator noprint" data-action="/user/LoginInfo"></div>
@@ -262,31 +294,31 @@
         <div class="ad-white-canvas">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [728,90], '24fe5ea4-6e5a-415f-8d6f-8ae793352e45').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [728,90], '3016a25e-ea72-4d18-bf43-29a4d754578e').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="24fe5ea4-6e5a-415f-8d6f-8ae793352e45" class="ad ">
+<div id="3016a25e-ea72-4d18-bf43-29a4d754578e" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("24fe5ea4-6e5a-415f-8d6f-8ae793352e45"); });
+        googletag.cmd.push(function () { googletag.display("3016a25e-ea72-4d18-bf43-29a4d754578e"); });
     </script>
 </div></div>
         <div class="ad-white-canvas earpiece">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-earpiece', [230,90], '4c75509f-d9d9-4695-b862-38de62834a87').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-earpiece', [230,90], 'b57d6c08-c4af-444f-bdb0-102733b02bab').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="4c75509f-d9d9-4695-b862-38de62834a87" class="ad ">
+<div id="b57d6c08-c4af-444f-bdb0-102733b02bab" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("4c75509f-d9d9-4695-b862-38de62834a87"); });
+        googletag.cmd.push(function () { googletag.display("b57d6c08-c4af-444f-bdb0-102733b02bab"); });
     </script>
 </div></div>
     </div>
@@ -294,16 +326,16 @@
         
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [320,50], '690e45ae-e0b5-49cc-bec1-72b26b17211b').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [320,50], '30a35052-6b4d-474e-9e5d-b6ad5aed1bb7').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="690e45ae-e0b5-49cc-bec1-72b26b17211b" class="ad desktop-hide">
+<div id="30a35052-6b4d-474e-9e5d-b6ad5aed1bb7" class="ad desktop-hide">
     <script>
-        googletag.cmd.push(function () { googletag.display("690e45ae-e0b5-49cc-bec1-72b26b17211b"); });
+        googletag.cmd.push(function () { googletag.display("30a35052-6b4d-474e-9e5d-b6ad5aed1bb7"); });
     </script>
 </div>
     </div>
@@ -475,8 +507,8 @@ If we decide to change our privacy policy, we will post those changes here so ou
             <li>
                                 <span>Events</span>
                     <ul class="no-bullets">
-                            <li> <a href="http://www.clinicalleaderforum.com" target="_blank">Clinical Leader Forum</a> </li>
                             <li> <a href="http://www.cmoleadershipawards.com" target="_blank">CMO Leadership Awards</a> </li>
+                            <li> <a href="https://www.croleadershipawards.com/" target="_blank">CRO Leadership Awards</a> </li>
                             <li> <a href="http://www.outsourcedpharmaevents.com" target="_blank">Outsourced Pharma Events</a> </li>
                     </ul>
             </li>
@@ -504,31 +536,31 @@ If we decide to change our privacy policy, we will post those changes here so ou
             <div class="bottom-ad">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [728,90], 'ab33e8f9-3d7f-49d8-a12f-49726c7b7fea').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [728,90], '9cea1529-7f04-463b-9701-aa1f88a0ca1c').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="ab33e8f9-3d7f-49d8-a12f-49726c7b7fea" class="ad ">
+<div id="9cea1529-7f04-463b-9701-aa1f88a0ca1c" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("ab33e8f9-3d7f-49d8-a12f-49726c7b7fea"); });
+        googletag.cmd.push(function () { googletag.display("9cea1529-7f04-463b-9701-aa1f88a0ca1c"); });
     </script>
 </div></div>
             <div class="bottom-ad earpiece">
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-earpiece', [230,90], '2c047b44-634e-450f-9f5f-07f9c56b5625').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-earpiece', [230,90], '5a31d66c-952b-4638-930c-988d7cf6e4b8').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="2c047b44-634e-450f-9f5f-07f9c56b5625" class="ad ">
+<div id="5a31d66c-952b-4638-930c-988d7cf6e4b8" class="ad ">
     <script>
-        googletag.cmd.push(function () { googletag.display("2c047b44-634e-450f-9f5f-07f9c56b5625"); });
+        googletag.cmd.push(function () { googletag.display("5a31d66c-952b-4638-930c-988d7cf6e4b8"); });
     </script>
 </div></div>
 
@@ -536,22 +568,22 @@ If we decide to change our privacy policy, we will post those changes here so ou
                 
 <script>
     googletag.cmd.push(function () {
-        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [320,50], '311c093e-3710-41cb-94e4-fb598582bd2e').addService(googletag.pubads());
+        googletag.defineSlot('/52748101/pharmaceuticalonline/pharm-leaderboard', [320,50], 'c3c026de-6379-44c6-a63d-e6a4e4a954ae').addService(googletag.pubads());
         googletag.pubads().enableSingleRequest();
         googletag.pubads().collapseEmptyDivs();
         googletag.enableServices();
     });
 </script>
 
-<div id="311c093e-3710-41cb-94e4-fb598582bd2e" class="ad desktop-hide">
+<div id="c3c026de-6379-44c6-a63d-e6a4e4a954ae" class="ad desktop-hide">
     <script>
-        googletag.cmd.push(function () { googletag.display("311c093e-3710-41cb-94e4-fb598582bd2e"); });
+        googletag.cmd.push(function () { googletag.display("c3c026de-6379-44c6-a63d-e6a4e4a954ae"); });
     </script>
 </div>
             </div>
         </div>
         <div class="vert-copyright">
-            <a href="/static/Copyright">Copyright</a> © 1996-2018 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>. <a href="/user-request">Subscriber Request Form</a>. 
+            <a href="/static/Copyright">Copyright</a> © 1996-2019 <a href="http://www.vertmarkets.com">VertMarkets, Inc.</a> All Rights Reserved.  <a href="/static/Legal">Terms of Use</a>.  <a href="/static/Privacy">Privacy Statement</a>. <a href="/user-request">Subscriber Request Form</a>. 
         </div>
 </div>
 
@@ -561,9 +593,9 @@ If we decide to change our privacy policy, we will post those changes here so ou
 <div id="acceptCookiesNav" data-action="/Cookie/GetCookiePartial?cookieName=vm_accept_coockies"></div>
 
 
-    <script src="/wwwroot/js/core/core.min.js?v=21528"></script>
+    <script src="/wwwroot/js/core/core.min.js?v=15292"></script>
 
-    <script src="/wwwroot/js/cookies/cookies.min.js?v=21528"></script>
+    <script src="/wwwroot/js/cookies/cookies.min.js?v=15292"></script>
 
     
 
