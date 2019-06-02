@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halomaps.org privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129215741id_/http%3A//hce.halomaps.org/index.cfm%3Fpg%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halomaps.org privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602033003id_/http%3A//hce.halomaps.org/index.cfm%3Fpg%3D12) for the most accurate reproduction.*
 
 # Halo Custom Edition - Maps, Tags, Tutorials and Assets for t
 
