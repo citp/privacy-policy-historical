@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumpr.net privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110101736id_/https%3A//picjoke.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumpr.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602121329id_/https%3A//picjoke.org/privacy.php) for the most accurate reproduction.*
 
 # Funny photo effects & free photo frames online. Photofunia. Funny pictures. Photo funny.
 
