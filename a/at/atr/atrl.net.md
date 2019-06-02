@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210100006id_/https%3A//atrl.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602102742id_/https%3A//atrl.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATRL
 
@@ -35,6 +35,10 @@ Check this page periodically for updates. If you have any questions about this p
  _Privacy Statement last updated: May 4, 2017._
 
 ### Third Parties
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
 
 **Invisible reCAPTCHA**
 
