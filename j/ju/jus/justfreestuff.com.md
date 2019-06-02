@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608192521id_/http%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfreestuff.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602163309id_/https%3A//www.justfreestuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,4 +52,4 @@ Webmaster/Administrator
 Just Free Stuff  
 4740 N. Cumberland Ave. #379  
 Chicago, Illinois. 60656  
-[JustFreeStuff.com](http://www.justfreestuff.com/)
+[JustFreeStuff.com](https://www.justfreestuff.com/)
