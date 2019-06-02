@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suntrustmortgage.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220173906id_/https%3A//www.suntrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntrustmortgage.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602213647id_/https%3A//www.suntrust.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Financial Information Protection from SunTrust
 
@@ -8,7 +8,7 @@ SunTrust understands that financial information protection is important to you, 
 
 **There are Four things to know about financial information protection at SunTrust:**
 
-  1. Because trust is critical to a solid financial relationship, SunTrust outlines exactly how and when your personal information is used in our [**SunTrust Privacy Policy**.](https://web.archive.org/content/dam/suntrust/us/en/fraud-security/2017/documents/suntrust-privacy-policy.pdf) (Note: Adobe Reader is required to view the privacy policy documentation.  [Click here](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Adobe Reader") if you need to download Adobe Reader.)
+  1. Because trust is critical to a solid financial relationship, SunTrust outlines exactly how and when your personal information is used in our [**SunTrust Privacy Policy**.](https://web.archive.org/content/dam/suntrust/us/en/fraud-security/2017/documents/suntrust-privacy-policy.pdf) (Note: Adobe Reader is required to view the privacy policy documentation.  [Click here](https://web.archive.org/dotcom/external?clickedUrl=https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html "Adobe Reader") if you need to download Adobe Reader.)
   2. You may have different ideas and expectations about privacy, which is why our [consumer privacy preferences ](https://web.archive.org/privacy/consumer-privacy-preferences "Consumer Privacy Preferences")make it easy to further limit how your information is shared.
   3. Privacy and security are a must when banking online. Our [online privacy practices ](https://web.archive.org/privacy/online-privacy-practices "Online Privacy Practices")explain exactly how SunTrust collects, uses and protects information about your online activity.
   4. The most effective privacy protection is the precautions you take to guard your account and personal information.  Review our [privacy resources](https://web.archive.org/privacy/privacy-resources "Privacy Resources") to learn how to protect your information.
@@ -28,6 +28,8 @@ See It?
 
 
 
+Data Collection 
+
 **What information does SunTrust collect?**
 
   * If you apply for a loan or new account, we ask for your Social Security number, as well as financial information, such as employment, income and assets.
@@ -35,6 +37,8 @@ See It?
   * If you apply for insurance, we may seek information relevant to the product. This information is not used for any purpose beyond underwriting and servicing that product.
 
 
+
+Who CanSee It?
 
 **Who has access to your information?**
 
@@ -45,11 +49,15 @@ See It?
 
 
 
+Protection 
+
 **How does SunTrust protect your online privacy**?
 
 There may be instances where SunTrust needs to treat your information differently when doing business with you online. In these cases, we will provide you with a clear disclosure and obtain your authorization before proceeding. By clicking on a disclosure, replying to an e-mail or enrolling in specialized online services you may be giving such authorization.
 
 For details on SunTrust’s online information practices, read our [online privacy practices](https://web.archive.org/privacy/online-privacy-practices "Online Privacy Practices").
+
+Making Choices 
 
 **How can you opt out of information sharing?**
 
