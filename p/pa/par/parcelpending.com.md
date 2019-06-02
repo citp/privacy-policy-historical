@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parcelpending.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915000656id_/http%3A//parcelpending.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelpending.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602075428id_/https%3A//www.parcelpending.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Parcel Pending
+# Privacy Policy - We Care About Your Privacy - Parcel Pending
 
-June 6, 2017
+###### 
 
-This Privacy Policy describes how Parcel Pending, LLC and its affiliates (collectively “Parcel Pending”) treat personal information that Parcel Pending collects and receives from you through this Website and other aspects of Parcel Pending’s business including offline.
+This Privacy Policy describes how Parcel Pending, Inc. and its affiliates (collectively “Parcel Pending”) treat personal information that Parcel Pending collects and receives from you through this Website and other aspects of Parcel Pending’s business including offline.
 
 Parcel Pending’s affiliates include without limitation the entities operating this Website.  
 If you have a question whether a site is a Website of Parcel Pending, or if an entity is an affiliate of Parcel Pending, please check the information posted on the site. For other material, contact Parcel Pending at help@parcelpending.com or 855-316-4756.
@@ -19,7 +19,20 @@ COLLECTION OF PERSONAL INFORMATION
 
 The personal information that Parcel Pending collects about you may include without limitation your first and last name, home address, email address, home telephone number, password, credit or debit card number or other payment method, billing and shipping information, order history, preferences for products, shopping and entertainment that is not otherwise publicly available, or other data that can be used to identify or contact a single person.
 
-Parcel Pending collects personal information about you whenever you transact business with Parcel Pending, use Parcel Pending’s products or services, request information or materials, enter sweepstakes, contests or drawings offered by Parcel Pending, create or update a profile, place orders or make purchases, communicate with us about orders or other questions, or visit the Website. The collection of this information enables Parcel Pending to provide first class services, to keep you apprised of information and developments that you may find of interest, and to allow Parcel Pending to better understand your needs.
+Parcel Pending collects personal information about you whenever you:
+
+  * Transact business with Parcel Pending
+  * Use Parcel Pending’s products or services
+  * Request information or materials
+  * Enter sweepstakes, contests or drawings offered by Parcel Pending
+  * Create or update a profile
+  * Place orders or make purchases
+  * Communicate with us about orders or other questions
+  * Visit the Website
+
+
+
+The collection of this information enables Parcel Pending to provide first class services, to keep you apprised of information and developments that you may find of interest, and to allow Parcel Pending to better understand your needs.
 
 When you register to request information on a Website or make purchases on a Website, for example, you submit personal information that allows us to provide information about Parcel Pending that may be of interest to you. Once you register to use these features of the Website, you are not anonymous to us.
 
@@ -36,23 +49,29 @@ Parcel Pending’s Use of Your Personal Information Parcel Pending limits access
 
 Parcel Pending affiliates may share your personal information freely with other Parcel Pending affiliates.
 
-Disclosures To Third Parties Parcel Pending may provide your personal information to trusted operators who work on behalf of or with Parcel Pending under confidentiality or similar agreements including service providers, shippers, vendors, payment processors, advertisers, consultants and affiliates. These companies may use your personal information to help Parcel Pending administer its business or the Website, including but not limited to assistance in administering and processing payments, fulfilling orders, shipping and confirming orders, or communicating with you about offers or other information relevant to Parcel Pending. Consistent with this Privacy Policy, Parcel Pending may share questions or requests that you send to Parcel Pending, including those that contain personal information, with third-party so that these third parties can contact you to address your inquiries.
+DISCLOSURES TO THIRD PARTIES
 
-Except for your credit or debit card number or other payment method, Parcel Pending may also provide your personal information to selected third-party entities, including without limitation multi-family apartment communities and other businesses. Your personal information will only be shared by Parcel Pending to these strategic third-party entities to provide or improve our products, services and advertising. Parcel Pending will not share your personal information with third parties for their own marketing purposes, and Parcel Pending will not sell your personal information to third-parties. Parcel Pending is not responsible for the collection or maintenance of information, including with respect to your information, or other practices of any third parties.
+Parcel Pending may provide your personal information to trusted operators who work on behalf of or with Parcel Pending under confidentiality or similar agreements including service providers, shippers, vendors, payment processors, advertisers, consultants and affiliates. These companies may use your personal information to help Parcel Pending administer its business or the Website, including but not limited to assistance in administering and processing payments, fulfilling orders, shipping and confirming orders, or communicating with you about offers or other information relevant to Parcel Pending. Consistent with this Privacy Policy, Parcel Pending may share questions or requests that you send to Parcel Pending, including those that contain personal information, with third-party so that these third parties can contact you to address your inquiries.
 
-Disclosures Under Special Circumstances Parcel Pending may provide information about you in response to or cooperate with law enforcement, government requests, subpoenas, court orders or legal process; to respond to your requests for customer service or other information; to enforce the Terms of Use; to establish or exercise our legal rights or defend against legal claims; or to protect the safety or property of Parcel Pending or others. Parcel Pending also may provide information about you if Parcel Pending believes it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law.
+Except for your credit or debit card number or other payment method, Parcel Pending may also provide your personal information to selected third-party entities, including without limitation multi-family apartment communities and other businesses. Your personal information will only be shared by Parcel Pending to these strategic third-party entities to provide or improve our products and services. Parcel Pending will not share your personal information with third parties for their own marketing purposes, and Parcel Pending will not sell your personal information to third-parties. Parcel Pending is not responsible for the collection or maintenance of information, including with respect to your information, or other practices of any third parties.
 
-Major Transactions Parcel Pending reserves the right to transfer any and all information, including without limitation personal information, to another Parcel Pending affiliate or to a third party or successor in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of our business or operations (including without limitation in connection with bankruptcy or any similar proceedings).
+DISCLOSURES UNDER SPECIAL CIRCUMSTANCES
+
+Parcel Pending may provide information about you in response to or cooperate with law enforcement, government requests, subpoenas, court orders or legal process; to respond to your requests for customer service or other information; to enforce the Terms of Use; to establish or exercise our legal rights or defend against legal claims; or to protect the safety or property of Parcel Pending or others. Parcel Pending also may provide information about you if Parcel Pending believes it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law.
+
+MAJOR TRANSACTIONS
+
+Parcel Pending reserves the right to transfer any and all information, including without limitation personal information, to another Parcel Pending affiliate or to a third party or successor in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of our business or operations (including without limitation in connection with bankruptcy or any similar proceedings).
 
 NOTICE OF PRIVACY RIGHTS OF CALIFORNIA RESIDENTS
 
-If you are a California resident and have provided personal information to Parcel Pending, you are entitled by law to request certain information regarding any disclosure by Parcel Pending to third parties of personal information for their direct marketing purposes. To make such a request, send an email to info@parcelpending.com, specifying that you seek your “California Customer Choice Privacy Notice.” Include the website or line of business to which your request pertains. Please allow thirty (30) days for a response. Parcel Pending is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.
+If you are a California resident and have provided personal information to Parcel Pending, you are entitled by law to request certain information regarding any disclosure by Parcel Pending to third parties of personal information for their direct marketing purposes. To make such a request, send an email to help@parcelpending.com, specifying that you seek your “California Customer Choice Privacy Notice.” Include the website or line of business to which your request pertains. Please allow thirty (30) days for a response. Parcel Pending is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address.
 
-We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email at help@parcelpending.com or mailing your request to 1 Vanderbuilt, Irvine, CA 92618.
+We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so. You may make such a request by sending us an email at help@parcelpending.com or mailing your request to 1 Vanderbilt, Irvine, CA 92618.
 
 When contacting us, please indicate your name, address, email address, which website or line of business to which your request pertains, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request.
 
-Use of Non-Personal Information
+USE OF NON-PERSONAL INFORMATION
 
 Parcel Pending may share and disclose information that is not reasonably linked to you or your devices with third parties to show or analyze site usage, improve our services, improve our user experience, or for similar purposes. In addition, we may use your IP address to analyze trends, administer the Website and gather broad demographic information for aggregate use in order to improve the Website.
 
@@ -66,7 +85,7 @@ Parcel Pending cannot guarantee the security of the information on and sent from
 
 CORRECTING OR REMOVING YOUR PERSONAL INFORMATION / OPT OUT
 
-To review or change your personal information, please send your request, including the website or line of business to which your request pertains, to info@parcelpending.com, or to 1 Vanderbilt, Irvine, CA 92618.
+To review or change your personal information, please send your request, including the website or line of business to which your request pertains, to help@parcelpending.com, or to 1 Vanderbilt, Irvine, CA 92618.
 
 If you want to unsubscribe from an email list of Parcel Pending, please let us know by following the “Unsubscribe” instructions that are included in each promotional email from Parcel Pending. Please note that such requests may take up to ten (10) days to become effective. You may not opt out of receiving communications regarding your purchases, your dealings with the Website, or technical information about the Website.
 
@@ -74,8 +93,9 @@ We respect your privacy. If you’d like to suppress your personal information f
 
 CHILDREN
 
-Parcel Pending is committed to protecting the privacy of children. The Website is directed to persons 18 years of age or older. Parcel Pending and the Website do not knowingly collect information from children under age 18. If you are under age 13, you are not permitted to use the Website or to submit any personally identifiable information to the Website. If you provide information to Parcel Pending through the Website, you represent and warrant to Parcel Pending that you are 18 years of age or older. If you are 13 – 17 years of age, you may visit, browse and use the information on the Website, but you may not submit any personal information to the Website, and you represent and warrant to Parcel Pending that you have permission of your parent or guardian to use the Website and any activities on the Website, who agree to these Terms on your behalf. If we become aware that a Website user is under age 18 and has provided personal information, we will remove his or her personal information from our files. If you are a parent or guardian and believe Parcel Pending may have inadvertently collected personal information from your child, please notify us immediately by sending an email, including the website or line of business to which your request pertains, to help@parcelpending.com.  
-Links
+Parcel Pending is committed to protecting the privacy of children. The Website is directed to persons 18 years of age or older. Parcel Pending and the Website do not knowingly collect information from children under age 18. If you are under age 13, you are not permitted to use the Website or to submit any personally identifiable information to the Website. If you provide information to Parcel Pending through the Website, you represent and warrant to Parcel Pending that you are 18 years of age or older. If you are 13 – 17 years of age, you may visit, browse and use the information on the Website, but you may not submit any personal information to the Website, and you represent and warrant to Parcel Pending that you have permission of your parent or guardian to use the Website and any activities on the Website, who agree to these Terms on your behalf. If we become aware that a Website user is under age 18 and has provided personal information, we will remove his or her personal information from our files. If you are a parent or guardian and believe Parcel Pending may have inadvertently collected personal information from your child, please notify us immediately by sending an email, including the website or line of business to which your request pertains, to help@parcelpending.com.
+
+LINKS TO OTHER WEBSITES
 
 On our Website, you may have the opportunity to follow a link to other sites that may be of interest to you. Parcel Pending endeavors to only link to reputable organizations related to your areas of interest. Because these other sites may not be hosted or controlled by Parcel Pending, however, we are not responsible for the privacy practices of those sites or the content provided thereon. Therefore, the privacy policies with respect to these areas may differ from those applicable to the Website and we encourage you to review the privacy policies of each of those other sites. This Privacy Policy only applies to information collected and maintained by Parcel Pending.
 
@@ -94,5 +114,3 @@ Personal information collected through the Website and other aspects of Parcel P
 CONTACT US
 
 If you have any questions about this Policy or our Website, please contact us at help@parcelpending.com. Please note that email communications may not be secure. Accordingly, you should not include personal or other sensitive information in your email correspondence to the Website or Parcel Pending.
-
-Copyright 2017 - All Rights Reserved
