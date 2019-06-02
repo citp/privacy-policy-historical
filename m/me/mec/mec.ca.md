@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231035543id_/https%3A//www.mec.ca/en/explore/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602080059id_/https%3A//www.mec.ca/en/explore/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mountain Equipment Co-op
+# Privacy Policy - Mountain Equipment Co-op | MEC
 
 This statement discloses the privacy practices and policies for Mountain Equipment Co-operative’s (MEC’s) website. If you have any questions about these practices and policies, please contact us at:
 
@@ -16,7 +16,7 @@ MEC respects your personal privacy. We believe ensuring the security of your per
 
 To learn more about MEC’s policies, please view the following pages:
 
-  * Read the website [terms of use](https://web.archive.org/web/20181231035543id_/https%3A//www.mec.ca/en/explore/terms-of-use)
+  * Read the website [terms of use](https://web.archive.org/web/20190602080059id_/https%3A//www.mec.ca/en/explore/terms-of-use)
   * [Read the MEC privacy code](http://meccms.wpengine.com/wp-content/uploads/2016/05/2016-MEC-Privacy-Code_EN.pdf) (pdf)
 
 
@@ -111,7 +111,7 @@ We collect aggregate information regarding open rates, page views, and generated
 
 ### Online gear swap and events listings
 
-Visitors choosing to use our free Online Gear Swap or events listings are bound by the user-provided content guidelines set out in our [Terms of use](https://web.archive.org/web/20181231035543id_/https%3A//www.mec.ca/en/explore/terms-of-use). Online gear swap posting data is stored for a maximum 15 days. Events Listings data is stored from the time the posting is made until the user-defined expiration date.
+Visitors choosing to use our free Online Gear Swap or events listings are bound by the user-provided content guidelines set out in our [Terms of use](https://web.archive.org/web/20190602080059id_/https%3A//www.mec.ca/en/explore/terms-of-use). Online gear swap posting data is stored for a maximum 15 days. Events Listings data is stored from the time the posting is made until the user-defined expiration date.
 
 ## Fraud prevention
 
