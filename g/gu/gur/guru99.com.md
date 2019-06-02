@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guru99.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215093523id_/https%3A//www.guru99.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru99.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602032213id_/https%3A//www.guru99.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -163,7 +163,13 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
- **Contacting Us**
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>. To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
+
+ **Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/managing/opt_out.asp\))
+
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 
@@ -172,6 +178,6 @@ Guru99 Tech Pvt Ltd
 F 1012 Titanium City Center  
 Ahmedabad, Gujarat 380015   
 India  
-support at the rate guru99 dot com
+help at the rate guru99 dot com
 
-Last Edited on 2016-04-13
+Last Edited on 2019-03-27
