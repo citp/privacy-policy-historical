@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tofler.in privacy policy that was archived on 2018-01-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180131130144id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tofler.in privacy policy that was archived on 2019-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190602073132id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -29,9 +29,8 @@
 
 <link rel="icon" type="image/png" href="/favicon.ico">
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,100,100italic,300,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="//d1mgel6vch4ba4.cloudfront.net/assets/tofler.newapp.prod.1.0.49.css">
-<!-- <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css" rel="stylesheet"> -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//d1mgel6vch4ba4.cloudfront.net/assets/tofler.newapp.prod.2.0.38.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 <!--[if lt IE 9]>
@@ -89,7 +88,7 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
                 <span class="fa fa-bars fa-2x hamburger-icon"></span>
             </a>
             <ul class="left hide-on-med-and-down">
-                <li id="home" class="logo-wrapper"><a href="/"><img src="/images/logo.png" style="width: 130px;vertical-align: middle"></a></li>
+                <li id="home" class="logo-wrapper"><a href="/"><img src="/images/logo.png" style="width: 130px;vertical-align: middle" alt="Tofler Logo"></a></li>
 
 
 <li><a href="/blog?utm_source=website&amp;utm_medium=website&amp;utm_content=navbar" target="new">Blog</a>
@@ -112,7 +111,7 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
             </ul>
             <ul class="right hide-on-large-only">
                 <li class="logo-wrapper">
-                    <a href="/"><img src="/images/logo.png"></a>
+                    <a href="/"><img src="/images/logo.png" alt="Tofler Logo"></a>
                 </li>
             </ul>
         </div>
@@ -124,30 +123,7 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
 
 
 
-<!--div class="searcharea-wrapper">
-    <div class="row">
-        <div class="col s12 l10 offset-l1">
-            <form action="/search" method="get">
-                <div class="input-field col s12 m3 l2 hidden">
-                    <select name="cat">
-                        <option value="company" selected>COMPANY</option>
-                        <option value="trademark" >TRADEMARK</option>
-                    </select>
-                </div>
-                <input type="hidden" name="cin" id="newcinfield">
-                <div class="input-field col s12 ">
-                    <input type="text" name="q" id="searchbox" >
-                    
-                        <label for="searchbox">Search for another Company</label>
-                    
-                </div>
-                
-            </form>  
-        </div>
-    </div>
-</div-->
-
-<div class="searcharea-wrapper">
+<!-- <div class="searcharea-wrapper">
     <div class="row" style="background-color: #feffe0">
         <div class="col s12 l10 offset-l1">
             <form action="/search" method="get">
@@ -158,6 +134,141 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
             </form>  
         </div>
     </div>
+</div> -->
+<!-- <div class="searcharea-wrapper">
+    <div class="row" style="background-color: #F5F5F5">
+        <div class="col s12 l10 offset-l1" style="margin-top: 0.7rem;margin-bottom: 0.7rem;">
+            <form action="/search" method="get">
+                <input type="hidden" name="cin" id="newcinfield">
+                <div>
+                    <div class="col s11" style="padding-right: 0 !important;">
+                        <div class="input-field col s12 search-input-wrapper" style="margin: 0px !important;background: white;border: 1px solid #CECECE;">
+                            <input type="text" name="q" id="searchbox" placeholder="Search for a company" style="height: 2.2rem;padding-left: 1.4rem">
+                        </div>
+                    </div>
+                    <div class="col s1" style="padding: 0 !important;">
+                        <input type="submit" value="SEARCH" style="background: #37474F;color: white;height: 2.2rem;border: 1px solid #37474F;font-size: 0.9rem;width: 100%;">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div> -->
+<style>
+.autocomplete1 {
+  position: relative;
+  display: inline-block;
+}
+
+.ui-autocomplete li{
+  padding: 0 1rem;
+  cursor: pointer;
+  background-color: #fff;
+  color:#676767; /*5F5F5F*/
+}
+
+.ui-autocomplete li div{
+  padding: 5px 10px;
+}
+
+/*when hovering an item:*/
+.ui-autocomplete li :hover {
+  /* padding: 0.5rem 2rem 0 2rem; */
+  cursor: pointer;
+  background-color: #37474F;
+  border-radius:5px;
+  color: white;
+}
+
+.ui-autocomplete li .ui-state-focus, .ui-autocomplete li:hover {
+    background: none;
+    color: #676767;
+}
+
+.ui-autocomplete li .ui-state-focus{
+    background-color: #37474F;
+    border-radius:5px;
+    color: white;
+}
+
+.ui-autocomplete li > a{
+    padding:0px !important;
+}
+
+.ui-autocomplete li > a:hover {
+    color: #676767;
+}
+.ui-autocomplete{
+    z-index:1000 !important;
+}
+.outer-div{
+    width:70%;
+    margin:auto;
+    padding:0.7rem 0;
+}
+.outer-div .autocomplete1{
+    width:86.5%;
+}
+
+.outer-div .autocomplete1 #searchbox{
+    width:102.3%;
+}
+.search-btn{
+	position: relative;
+    width: 10%;
+    float: right;
+    height: 1.9rem;
+    color: #F8F9F9;
+    background: #37474F;
+    border: 1px solid #37474F;
+}
+
+@media only screen and (max-width: 992px) {
+	.outer-div {
+		width: 80%;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+    .outer-div{
+        width:98%;
+        margin:auto;
+        padding:0.7rem 0;
+    }
+    .outer-div .autocomplete1{
+        width:79.5%;
+    }
+    .search-btn{		
+        width: 17%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+	.outer-div .autocomplete1{
+        width:78.5%;
+    }
+	
+	.search-btn{
+		font-size: 0.9em;
+    }
+}
+
+</style>
+<div class="searcharea-wrapper">
+<div style="background:#F5F5F5">
+  <div class="outer-div">
+     <form action="/search" method="get">
+        <input type="hidden" name="cin" id="newcinfield">
+        <div class="autocomplete1">
+            <span style="position: absolute;margin-left: .75rem;margin-top: .5rem;">
+                <i class="fa fa-search fa-rotate-90"></i>
+            </span>
+            <input id="searchbox" type="text" name="q" placeholder="Search for a company, CIN or DIN" style="padding-left:2rem;margin: 0 !important;border: 1px solid #D1D1D1 !important;background:white;height: 2.2rem !important;font-size: 0.9rem !important;box-sizing: border-box !important;">
+        </div>
+        <input type="submit" value="SEARCH" class="search-btn">
+     </form>
+  </div>
+</div>
 </div>
 	
 	<main>
@@ -240,7 +351,8 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
 	</div>
 </footer>
 	
-	<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
 	<div style="display: none">
 <!-- Google Analytics -->
@@ -253,43 +365,11 @@ ooooooooooooo   .oooooo.   oooooooooooo ooooo        oooooooooooo ooooooooo.
   ga('require', 'displayfeatures');
   ga('send', 'pageview');
 </script>
-<!-- Facebook tag -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '1577885092476362']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1577885092476362&amp;ev=PixelInitialized" /></noscript>
-<!-- Google Adwords tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 961203461;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961203461/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-</div>
-<!--<script src="/js/logger.js"></script>-->
+
+
 	<script type="text/javascript" src="//d1mgel6vch4ba4.cloudfront.net/js/materialize.js"></script>
-	<script type="text/javascript" src="//d1mgel6vch4ba4.cloudfront.net/assets/bundle.newapp.prod.1.0.49.js"></script>
+	<script type="text/javascript" src="//d1mgel6vch4ba4.cloudfront.net/assets/bundle.newapp.prod.2.0.38.js"></script>
 
 
 
-</body></html>
+</div></body></html>
