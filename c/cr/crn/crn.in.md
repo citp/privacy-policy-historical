@@ -1,132 +1,158 @@
-> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131216id_/http%3A//www.thechannelco.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.in privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602093252id_/https%3A//www.crn.in/privacy-policy) for the most accurate reproduction.*
 
-# The Channel Company Privacy Policy | The Channel Company
+# Privacy Policy - CRN - India
 
-[Home](https://web.archive.org/) / The Channel Company Privacy Policy
+**CRN (www.crn.in) Privacy Policy**
 
-(Revised May 4, 2017)
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**Scope**
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-For purposes of this Privacy Policy (the "Policy"), "The Channel Company" shall refer to both The Channel Company LLC, a Massachusetts limited liability company, and its subsidiary Partner Demand LLC, also a Massachusetts limited liability company.  The Policy covers personal information which you share with The Channel Company as you register for or attend our face-to-face events around the world, visit or participate in any of our websites or online venues which are hosted on servers located in the United States (notably [www.crn.com](http://www.crn.com/); [www.itbestofbreed.com](http://www.itbestofbreed.com/); [wotc.crn.com](http://wotc.crn.com/); [www.thechannelco.com](http://www.thechannelco.com/); [www.partnerdemand.com](http://www.partnerdemand.com/) and [www.iotconnex.com](http://www.iotconnex.com/)), subscribe to any of our print publications, and volunteer or post information, whether through social media or otherwise. We will attempt to post or display a link to this Policy on all forms and online pages to which it applies.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, Company & Professional Details or other details to help you with your experience.
 
-Many of our websites allow you to publish or share content, including personal information which identifies you and/or your company. This Policy will govern how The Channel Company uses the information you provide and what choices you have about its publication.
+**When do we collect information?**
 
-Each of The Channel Company's lines of business aims to be at the heart of the commercial or professional communities it serves. Our business includes creating opportunities for you to access other companies' information and resources. When we work with other companies to build co-branded web sites, virtual events, sponsored webinars, or in any way that allows you to connect directly with that other company, we will include a link to this Policy and, to the extent it is readily available, to the other company's Privacy Policy as well. Our Policy will govern our collection and use of information about you. We recommend that you read the partner's Policy as well, if applicable, to learn how that company will treat the information you provide.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, register for an event or fill out a form or enter information on our site.
 
-**Information That Identifies You**
+**How do we use your information?**
 
-We rely on the information you provide to us – as you register, contact us, participate in surveys, post comments to public areas of and interact with our web sites, respond to our email campaigns, complete applications for award and recognition lists, and participate in webinars or online events. This ordinarily consists of basic contact information – name, company, title, address, telephone number, and email address – but may include other information such as business preferences and affiliations.  We will add information about how you interact with our offerings – your subscriptions, the events you attend, and the like.  We may also supplement with additional data from external sources.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We may work to expand our communities by acquiring names and contact details from other sources that have compiled contact information. This information might be public information or data you provided with necessary permissions. We may also invite you to join our communities via third party social and professional networking sites.
-
-If you download the CRN® Tech News app, The Channel Company uses a third party vendor to collect information about your device.  This data is used only in aggregate for reporting purposes.
-
-**Automatic Data Collection Technologies**
-
-We may also use cookies and common data collection technologies, including web beacons and clear GIFs associated with cookies, on our web pages, in newsletters, and in our email campaigns to collect information both on an aggregate and individual basis.
-
-Some of our web sites use Adobe Flash to provide video content, and the Adobe Flash Player has the ability to separately store information about that particular Flash application. We do not associate this Adobe Flash stored information with you as an individual. Please see the Adobe Flash Player Help page for additional information about controlling the settings of the Adobe Flash Player on your computer.
-
-We gather date, time, certain information about a user's browser and system or device configuration and capabilities, navigation history and IP address for all visitors to our web sites. We use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences and their geographic locations.
-
-Please see More Information About Cookies (below) for additional details about how we use cookies that identify you, which third party advertisers and advertising networks we allow to serve third party advertising displayed on our sites or to display our ads to you once you have left our web pages, and how to control cookies or their use for serving targeted advertising.
-
-**How We Use Information That Identifies You**
-
-We may use information about you:
-
-  * to provide the services, publications, and information you request -- and to manage your account with us. 
-  * to deliver or display content that matches your professional interests and responsibilities. 
-  * to contact you with information about and invitations for products and services – ours and other companies' – directed to your professional interests and responsibilities. 
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
-  * for another purpose that we tell you about when you give us the information. 
-
-**EU-U.S. Privacy Shield Compliance**
-
-The Channel Company complies with the EU-U.S. Privacy Shield Framework (the "Privacy Shield") as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The Channel Company has certified that it adheres to the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability.  The Channel Company is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
-
-To the extent that your data is transferred, The Channel Company exclusively uses third parties that are Privacy Shield-compliant to ensure the integrity and privacy of your data.  In these instances of "onward transfer" of your data, The Channel Company remains potentially liable for subsequent violations of the Privacy Shield.  We shall not be responsible, however, for the compliance of our customers or licensees with Privacy Shield, or their compliance with data privacy laws and regulations of the European Union or any other country.
-
-**Your Choices**
-
-In keeping with one of the Privacy Shield's core principles, Choice, you always have a choice about whether to opt in or opt out, and you maintain control over your data in the following ways:
-
-Deletion of your data, or corrections. Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.  Upon request you are entitled to access a copy of your personal data to correct it, or you may instruct us to delete it from our systems.
-
-Connecting directly with other companies for marketing purposes. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company. We may put you in direct contact with another company or companies when you choose to:
-
-  * Register for certain registration-only, or "gated" communities. Access to technical resources provided or sponsored by another company is contingent on your agreement that your contact details may be shared with the other company. We may track your interest in that company's content or our own content over time and disclose your interest to that company. 
-  * Register for a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. 
-  * Register to attend one of our virtual events. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
-  * Attend one of our face-to-face events. Exhibitors may receive an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your RFID-enabled badge to be read by a particular exhibitor – the badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data may also be tracked and disclosed to that exhibitor or sponsor. 
-  * Submit an application for a published CRN award or recognition list.  To remain eligible for certain awards or lists, you may be required to disclose certain personal data and/or company information. By submitting information requested in an application, you give your permission for this information to be published by The Channel Company on CRN-related media properties and otherwise shared with relevant companies in the IT industry, unless otherwise specified in the award/list application. 
-
-**Making information you provide public**.
-
-We offer websites that allow you to publish content. Many of these blog sites require that you register if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-
-Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices.
-
-In addition, we may create online membership communities that allow you to create and publish your profile and other information. These communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
-
-  **Receiving email marketing messages from us**.
-
-You may opt out of our email marketing lists by following the instructions near the footer of our promotional emails. Please note that we have a number of brands and products, and therefore often allow you to opt out selectively. To remove a specific email address from all email marketing from The Channel Company, you may send a request to [privacyrequests@thechannelcompany.com](mailto:privacyrequests@thechannelcompany.com).
-
-**More Information about Cookies**
-
-You also have certain choices about cookies:
-
-We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
-
-  * to recognize you automatically when you return to a gated community. 
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites. 
-  * to control access to gated online events including webinars and virtual events. 
-  * to make an automated record of your interests within a virtual event. 
-  * to manage and follow up on email campaigns. 
-
-You may use the tools in your browser to decline, disable, or delete any cookies. You will still be able to log on to a gated community if you decline or delete our persistent cookie that enables automatic recognition. If you disable the session cookie for our gated sites you may remain on the site but you will not be able to access (download) any gated content. You must accept the session cookie used to manage access to registration-only online events for the duration of your participation in the event.
-
-Third party advertising cookies. We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
-
-The Channel Company currently allows the following third party ad servers to serve ads on our web pages: TRUSTe and Google AdSense. Some companies offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices.
-
-Many of the third party ad serving companies that serve ads to our web sites are members of the Network Advertising Initiative and/or the Digital Advertising Alliance. The NAI offers useful information about ad networks and a single place to turn off targeted ad serving from any of its member companies: <http://www.networkadvertising.org/choices/>.
-
-The Channel Company further adheres to the data privacy principles set forth in the Interactive Advertising Bureau/American Association of Advertising Agencies' Standard Terms and Conditions version 3.0.
-
-We may amend or modify the list of Third Party Advertisers from time to time without changing the effective date of the Policy itself. We urge you to check this section regularly for any modifications.
-
-**Disclosure of Information about You**
-
-We reserve the right to disclose information about you to third parties in certain circumstances: to vendors that work on our behalf, to entities that present valid legal process, to protect human safety or our networks or property, or as part of a corporate merger or sale of our business assets.
-
-Please note that we may be required to disclose an individual's personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
-
-**Data Security**
-
-We collect and process information on servers around the world. We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
-
-This Privacy Policy covers how we use information you provide. We cannot control how others may use information you may make public on our sites, for example, on professional networking sites or sites inviting user-generated content, in forums, at virtual events, or user-generated blogs.
-
-Please note that virtual events may automatically display certain information about you to other participants in the event. We cannot control how other participants use that displayed information, so please take a moment to make sure you understand how a particular virtual event works and what information you are choosing to share within that particular environment.
-
-**Changes**
-
-We will post and date any changes to this Privacy Policy. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your consent to the practices in place at the time of your use.
-
-**Dispute Resolution**
-
-In compliance with the EU-U.S. Privacy Shield, The Channel Company commits to resolve complaints free of charge about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Adam Gusman, Senior Corporate Counsel, at: [privacyrequests@thechannelcompany.com](mailto:privacyrequests@thechannelcompany.com)   Tel. +00 (508) 416-1142; Fax +00 (508) 861-0116.  Or by mail to:  The Channel Company, One Research Drive, Suite 400B, Attn: Corporate Counsel, Westborough, MA 01581, USA.
-
-The Channel Company has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
-
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To ask for ratings and reviews of services or products
+  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
 
 
+**How do we protect your information?**
 
-  * [](https://web.archive.org/print/content/the-channel-company-privacy-policy "Display a printer-friendly version of this page.")
+We do not use vulnerability scanning and/or scanning to PCI standards.  
+We only provide articles and information. We never ask for credit card numbers.  
+We use regular Malware Scanning.
 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use ‘cookies’?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We use cookies to:  
+• Understand and save user’s preferences for future visits.  
+• Keep track of advertisements.  
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since the browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly. It won’t affect the user’s experience that makes your site experience more efficient and may not function properly.
+
+**Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+We have implemented the following:  
+• Remarketing with Google AdSense  
+• Google Display Network Impression Reporting  
+• Demographics and Interests Reporting  
+• DoubleClick Platform Integration
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt-Out page or by using the Google Analytics Opt-Out Browser Add-on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA, we agree to the following:  
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:  
+• On our Privacy Policy Page
+
+You Can change your personal information:  
+• By emailing us  
+• By calling us  
+• By logging in to your account
+
+**How does our site handle Do Not Track signals?**  
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**  
+It’s also important to note that we allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.  
+Do we let third-parties, including ad networks or plug-ins, collect PII from children under 13?
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify you via email  
+• Within 7 business days  
+We will notify the users via in-site notification  
+• Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:  
+• Send information, respond to inquiries, and/or other requests or questions  
+• Process orders and to send information and updates pertaining to orders.  
+• Send you additional information related to your product and/or service  
+• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+To be in accordance with CAN-SPAM, we agree to the following:  
+• Not use false or misleading subjects or email addresses.  
+• Identify the message as an advertisement in some reasonable way.  
+• Include the physical address of our business or site headquarters.  
+• Monitor third-party email marketing services for compliance, if one is used.  
+• Honor opt-out/unsubscribe requests quickly.  
+• Allow users to unsubscribe by using the link at the bottom of each email.
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at  
+• Follow the instructions at the bottom of each email.  
+and we will promptly remove you from ALL correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+CRN India (www.crn.in)  
+The Indian Express Pvt Ltd  
+1st Floor, Express Towers, Nariman Point  
+Mumbai, Maharashtra 400021, India  
+info@crn.in
+
+Last Edited on 05-Dec-2018
