@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livenewschat.eu privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229072423id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenewschat.eu privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602231113id_/http%3A//www.livenewschat.eu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LNC – Live Stream News Chat ⛅️
+# Privacy Policy | 🌤️ LNC - Live News Stream & Chat
 
 Last Update: 08.10.2012
 
@@ -63,4 +63,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using email below. 
 
-mail(at)livenewschat(dot)tv
+security(at)livenewschat(dot)eu
