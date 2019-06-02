@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027220404id_/https%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602145131id_/https%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youngisthan.in
 
