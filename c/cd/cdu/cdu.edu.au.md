@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103230037id_/http%3A//www.cdu.edu.au/governance/doclibrary/pol-032.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602040842id_/http%3A//www.cdu.edu.au/governance/doclibrary/pol-032.pdf) for the most accurate reproduction.*
 
 # Privacy and Confidentiality Policy
 
@@ -40,12 +40,12 @@ policies, procedures, guidelines, rules, codes and the Enterprise Agreement;
 
 
 Information Privacy Principles (IPPs) means the rules for the collection, handling, access and correcting of
-personal information (including sensitive information) as contained in Schedule 2 of the Information Act ;
+personal information (including sensitive information) as contained in Schedule 2 of the Information Act;
 Information and Communication Technologies (ICT) means communications, computers, enterprise
 software, middleware, storage, and audio-visual systems which enable users to access, store, transmit, and
 manipulate information;
 Notifiable Data Breach Scheme means established requirements for entities to notify individuals and the
-Australian Information Commissioner of eligible data breaches, as per the Privacy Act 1988 .
+Australian Information Commissioner of eligible data breaches, as per the Privacy Act 1988.
 Person means an individual and includes a deceased individual within the first five (5) years after death;
 Personal information means information prescribed in section 4A of the Information Act that is government
 information that discloses a person's identity or from which a person's identity is reasonably ascertainable,
