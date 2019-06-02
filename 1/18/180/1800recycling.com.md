@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624135330id_/https%3A//recyclenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221856id_/https%3A//recyclenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecycleNation
 
