@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228081450id_/https%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602145335id_/https%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -21,6 +21,10 @@ Registered users may choose to receive the notifications or receive other mailin
 You can review and change your Personally Identifiable Information at any time on the My Profile in the My Account section. 
 
 Like many web sites, ConsumerComplaints.in uses a standard technology called "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use ConsumerComplaints.in. Cookies also help us understand how our users use the Site, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code. 
+
+You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website though your access to some functionality and areas of our website may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+
+In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit [optout.networkadvertising.org](http://optout.networkadvertising.org/) or [optout.aboutads.info.](http://optout.aboutads.info/)
 
 In addition to Personally Identifiable Information you provide at registration or by using the service, we collect the following information: 
 
