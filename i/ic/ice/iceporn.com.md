@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceporn.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302090017id_/http%3A//iceporn.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceporn.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602140256id_/https%3A//www.iceporn.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IcePorn.com
 
