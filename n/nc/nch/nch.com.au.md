@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227144215id_/https%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602192437id_/https%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Software Privacy Statement
 
