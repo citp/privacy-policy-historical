@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224203123id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602113830id_/https%3A//taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy for TaxSlayer.com Tax Software
+# TaxSlayer Privacy Policy | TaxSlayer
 
   
 
@@ -12,6 +12,8 @@ At TaxSlayer.com (collectively 'We', 'Us', 'Our' or 'TaxSlayer'), we are committ
 ##  PRIVACY POLICY 
 
 Protecting your privacy is important to TaxSlayer. We want you to understand what information we may gather and how we may share it. This Privacy Policy explains TaxSlayer’s collection, use, retention and security of information about you. It also describes your choices regarding use, access and correction of your personal information. 
+
+TaxSlayer is a U.S. based company offering products related to the preparation of U.S. federal and state tax returns. TaxSlayer does not market to nor target subjects of the European Union. Though GDPR does not apply, TaxSlayer meets and exceeds all rules and regulations relating to data protection and security promulgated by the Internal Revenue Service and its Security Summit (<https://www.irs.gov/pivacy-disclosure/security-summit> for more information) 
 
 ###  How We Collect Information 
 
@@ -59,7 +61,7 @@ Your information may be disclosed in connection with a proposed or actual sale, 
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for the referral’s name and email address. We will automatically send the referral an electronic invitation to visit our site. TaxSlayer.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at <https://www.taxslayer.com/optout.aspx> to request that we remove this information from our database. 
 
-When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at 3003 TaxSlayer Drive Evans, GA 30809. 
+When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. If you believe that one of your contacts has provided us with your personal information and you would like to request that it be removed from our database, please contact us at 945 Broad St, Augusta, GA 30901. 
 
 ###  Newsletters 
 
@@ -106,14 +108,14 @@ If you have questions or concerns regarding this policy, you should first contac
 You can also write us at: 
 
 TaxSlayer.com Privacy   
-3003 TaxSlayer Drive  
-Evans, GA 30809 
+945 Broad St  
+Augusta, GA 30901Evans, GA 30809 
 
 ###  Changes in this Privacy Policy 
 
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any substantive changes to our policy will be immediately posted and made available to consumers at our website. We may also email users with this information. If we make any material changes we will notify you by email or by means of a notice on the Website prior to the change becoming effective. Any examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-Approved and Effective 1/3/18 
+Approved and Effective 1/3/19 
 
   
 
