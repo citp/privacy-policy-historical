@@ -1,70 +1,133 @@
-> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204101957id_/http%3A//studiosystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiosystem.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603150115id_/http%3A//studiosystem.com/privacy) for the most accurate reproduction.*
 
-# Studio System | Privacy Policy | Entertainment Data • Hollywood Contacts • Box Office • Films in Development • TV Pilots in Development
+# Studio System | Privacy Statement | Entertainment Data • Hollywood Contacts • Box Office • Films in Development • TV Pilots in Development
 
-Baseline, LLC. (dba BaselineFT, Baseline/FilmTracker, baseline.filmtracker.com, filmtracker.com and baseline.hollywood.com, Studio Systems, Inc., Baseline StudioSystems, Inc. and Baseline, Inc.) (“Baseline”) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, The Studio System: In the event of a conflict between these Terms and any written agreement between Baseline and you, the terms of that written agreement shall govern. 
+**Last Revised:** September 14, 2018 
 
-### Baseline
+Gracenote, a Nielsen Company (“ **Gracenote** ,” “ **we** ,” or “ **us** ”), is committed to protecting your privacy and handling your information in an open and transparent manner. This Privacy Statement explains how we use, share, and protect the information we gather about you via studiosystem.com and any other website where this Privacy Statement is posted or linked (collectively, “ **this Website** ”), Studio System Mobile (the “ **Mobile App** ”), and when we perform any activities that form part of the operation of this Website and/or the Mobile App and related services (e.g., when we send you marketing-related communications). This Privacy Statement also describes your choices and legal rights in relation to such information. 
 
-We use your IP address to help diagnose problems with our server and to administer our website and services. Through customer surveys, subscriptions, and newsletter registration, our site may request users to give us contact information. The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site uses a contract for customers to subscribe to our for-pay services. We may collect contact information and financial information. Contact information from customer contracts is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. We will never share personal financial information with any other parties. Information collected during Baseline subscriber registration is used for in-house statistics, marketing target information, and advising clients of Baseline news and information. This site contains links to other sites. Baseline is not responsible for the privacy practices or the content of such websites. 
+Please note that this Privacy Statement applies only to information collected by Gracenote through your interaction with this Website and the Mobile App as well as through our performance of other activities that form part of the operation of this Website and the Mobile App and related services. Other websites and mobile apps, including websites and mobile apps provided by Nielsen’s group of companies and websites that may be accessible from this Website or the Mobile App, are governed by their own privacy statements. We encourage you to review all website and mobile app privacy statements before disclosing any information. To learn more about Nielsen’s group of companies, please click [here](http://www.nielsen.com/eu/en/privacy-policy/gdpr-operating-entities.html). 
 
-Baseline is committed to protecting your privacy online. Please read this privacy policy to fully understand how we will make use of the personal information you share with us. Baseline collects certain personal information in order to provide you with customized services, content, and advertisements. Some personal information is gathered when you register to receive certain Baseline products or services. We may disclose to third parties certain aggregate information contained in your registration data or related data, provided that, such information will NOT include personally indentifying information, except as specifically authorized by you or in the good faith belief that such action is reasonably necessary to comply with the law, legal process, or to enforce the terms of service. Baseline will also use your personal information for the purposes of providing you with any services to which you subscribe, and any service-related activities such as collecting subscription fees from you for those services, and notifying you or contacting you regarding any problem with, or the expiration of, such services. In this regard, it may be necessary for Baseline to disclose your personal information to one or more agents and contractors of Baseline and their subcontractors, but such agents, contractors, and subcontractors will be required to agree to use the information obtained from Baseline only for these purposes. Do not divulge your password to anyone. Baseline will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Baseline account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Baseline cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Baseline reserves the right to change this statement at any time by posting revisions on the Baseline web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party. 
+###  **Collection of Your Information**
 
-Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information. The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We collect or otherwise obtain information relating to you in a variety of ways. Such information may include personal information (i.e., information that alone or in combination with other information identifies you as an individual, such as your name, email address, phone number, and other data that can be reasonably linked to you as an individual). Additional details about the information we may gather about you can be found below. 
 
-We may run contests on our site in which we ask visitors for contact information and demographic information. The user’s contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: 
+When you register or create an account on this Website or the Mobile App, submit a question or request (e.g., to learn more about our data and services), sign up for an event that we are hosting, or provide us with feedback, we will collect the information that you voluntarily provide, such as your name, email address, phone number, employment details, and geographical location. When you update/complete your profile, you will have the opportunity to provide us with additional information, such as your gender and additional contact details, including your physical address. 
 
-  1. We host solely and all information that is collected stays in-house.
-  2. We may share address information with third party for shipping purposes. 
-  3. In some rare instances, a third party may host the contest and all information is then shared. In our contest registration, we give our users the opportunity to sign up for the Baseline newsletter. However, users may opt-out of receiving future mailings by selecting the “unsubscribe” link at the bottom of the newsletter. 
+This Website may host various blogs, message boards, forums, or other services (including social media services) that allow you to share information and content with other visitors. Any personal information or other information that you voluntarily post can be read, collected, and used by other visitors to this Website, and we have little or no control over how they may use such information. You should keep this in mind when sharing any personal information or other information on this Website. 
+
+As is true of most websites and mobile apps, when you visit and browse this Website and/or use the Mobile App, we also gather certain information automatically, including log usage data (e.g., when you view or click on content) and information from your device and network, including your IP address, browser operating system and version, device identifier and features, access times, and referring website addresses. 
+
+We use cookies (i.e., small text files placed on your device) and similar technologies (e.g., web beacons, pixels, and ad tags) to enable certain features and functionality and collect additional information that helps us to improve this Website and the Mobile App and better deliver our services to you. In particular, we may use cookies (session cookies and persistent cookies) to identify your browser or device, display information more effectively, provide you with tailored content, and gather statistical information about how you use this Website and the Mobile App. We may also use such technologies for security purposes and to detect and defend against fraud and other risks in order to protect other visitors and users. If you do not wish to have information collected from your device by cookies, most browsers allow you to control and decline the use of cookies through the browser settings. Please note, however, that if you decline the use of cookies or limit our ability to set cookies, some features may not work properly. To learn more about cookies, including how to see what cookies have been set and how to manage and delete them, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+We also use Google Analytics, a web analytics tool that may set cookies, in order to help us understand how visitors and users engage with this Website and the Mobile App. To learn more about Google Analytics’ data practices, please visit <https://support.google.com/analytics/answer/6004245?hl=en>. For opt-out options specific to Google Analytics, please visit <https://tools.google.com/dlpage/gaoptout>. 
+
+We generally do not seek sensitive personal information (e.g., information relating to an individual’s racial or ethnic origin, political opinions or other similar beliefs, health or medical conditions, criminal background, or trade union membership) about our visitors and users. If you voluntarily provide sensitive personal information for any reason or we are required to collect such information as a result of legal requirements imposed on us, we will, where necessary, obtain your explicit consent and use such information in accordance with this Privacy Statement and applicable law. 
+
+###  **Use of Your Information**
+
+We use your information for the purpose(s) for which it was collected or provided to us (as stated at the point of collection) or as otherwise obvious from the context of collection. We may also use your information to: 
+
+  * administer and manage this Website and the Mobile App, communicate with you about this Website and the Mobile App, and respond to your inquiries and requests; 
+  * customize or personalize your user experience and the content we deliver to you; 
+  * conduct research and analytics about how you use and interact with this Website and the Mobile App; 
+  * protect the rights, safety, property, or operations of Gracenote or our affiliates, you, or others; and 
+  * respond to requests and communications from law enforcement authorities or other government officials. 
 
 
 
-You represent, warrant and covenant that:
+We may also use your information for marketing purposes or to send you promotional materials or other communications about Gracenote’s business, products/services, and events that may be of interest to you. You may unsubscribe from our mailing list at any time by contacting us at [contact@gracenote.com](mailto:contact@gracenote.com) or through the unsubscribe link in any of our communications to you. After you unsubscribe, we will not send you further promotional materials or communications, but we may continue to contact you to the extent necessary for the purposes of any services you have requested. 
 
-  1. you have the power and authority to enter into this agreement;
-  2. you are at least eighteen (18) years old or if you are younger, your parents or legal guardian has approved your use of the service as evidence by sending an email here 
-  3. you shall not use any rights granted hereunder for any unlawful purpose; and 
-  4. you shall use the Service only as set forth in the Privacy Policy.
+###  **Legal Basis for the Processing of Your Personal Information**
+
+Applicable law in your country of residence may require us to set out in this Privacy Statement the legal basis upon which we rely in order to process your personal information. 
+
+If you are based in the European Union (“ **EU** ”)/European Economic Area (“ **EEA** ”), we will process your personal information for the purposes outlined in this Privacy Statement based on: (a) the consent that you provide us at the point of collection of your personal information to use such information for certain specific purposes; or (b) our legitimate interests, provided that such interests are not overridden by your interests, fundamental rights, or freedoms. In particular, we may process your personal information in reliance on a legitimate interest in the effective and lawful operation of this Website, the Mobile App, and our business as well as the effective delivery of information and services to you. We may have other legitimate interests and, if so, we will make clear what those interests are at the relevant point in time. To the extent that we process any sensitive personal information relating to you, we will do so because either: (a) you have given us your explicit consent to process the information; (b) the processing is necessary for the establishment, exercise, or defense of legal claims; or (c) you have made the information manifestly public. 
+
+If you have any questions or concerns about the legal basis upon which we collect and use your personal information, please contact us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com). 
+
+###  **Disclosures of Your Information**
+
+In connection with one or more of the purposes outlined above, we may disclose your information to: 
+
+  * other members of the [Nielsen group of companies](http://www.nielsen.com/eu/en/privacy-policy/gdpr-operating-entities.html); 
+  * third parties that provide services to us, such as system hosting, management, and support; data analysis; data backup; and security and storage services; 
+  * relevant third parties as part of a corporate transaction, such as a reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with a bankruptcy or similar proceeding); 
+  * competent governmental and public authorities, in each case to comply with legal or regulatory obligations or requests; and 
+  * other third parties as we believe necessary or appropriate for legal purposes. 
 
 
 
-Ads appearing on this web site are delivered to you by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type, the type of computer operating system you use and whether or not you responded to the ad delivered, is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+All of these disclosures may result in the transfer of your information to countries or regions with data protection laws that differ from those in your country of residence. By providing us with your information and using this Website and/or the Mobile App, you are acknowledging that your information may be transferred to countries outside of your country of residence. 
 
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use SSH VPN sessions to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site by using commercial SSL 128-bit encryption certificates. 
+In cases where your information is transferred outside of your country of residence, we will ensure that there are adequate safeguards in place to protect your personal information. If you are based in the EU/EEA, such safeguards might include a data transfer agreement with the information recipient based on standard contractual clauses approved by the European Commission for transfers of personal information to third countries. For further details relating to the transfers described above and the adequate safeguards used with respect to such transfers, please contact us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com). 
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+###  **Minors**
 
-Users have the following options to remove their information from our database to not receive future communications or to no longer receive our service: 
+Gracenote understands the importance of protecting the privacy of minors, especially in the online environment. This Website and the Mobile App are not designed for or intentionally targeted at minors under the age of 18. It is our policy to never knowingly collect or maintain personal information about anyone under the age of 18. If we become aware that we have collected personal information relating to a minor, we will take reasonable steps to delete it. 
 
-Users can email [contact@studiosystem.com](mailto:contact@studiosystem.com)  
-Users can send mail to the following postal address: 
+###  **Information Security**
 
-6255 Sunset Blvd.  
-Los Angeles, CA 90028 
+We have in place reasonable organizational, technical, and administrative measures that are designed to protect your information from loss, misuse, and unauthorized access, disclosure, alteration, destruction, and other forms of unlawful processing while it is under our control. However, please be aware that the storage and transfer of information cannot always be one-hundred percent secure. 
 
-Users can also call the following number: 323-817-3505
+###  **Information Retention**
 
-**Correct/Update**  
-Users have the following options for changing and modifying information previously provided: 
+We will retain your information as long as necessary for the fulfillment of the purposes set out in this Privacy Statement, unless applicable law or professional obligations requires a longer retention period. 
 
-Users can email [contact@studiosystem.com](mailto:contact@studiosystem.com)  
-Users can send mail to the following postal address: 
+###  **Your Choices and Legal Rights**
 
-6255 Sunset Blvd.  
-Los Angeles, CA 90028 
+You have choices about how your personal information is handled, and we are committed to providing you with reasonable access to your personal information and the ability to review and limit the use of such information in accordance with applicable law. 
 
-Users can also call the following number: 323-817-3505
+Depending on your country of residence, you may have the right to: 
 
-This policy may change from time to time so please check back periodically.
+  * request confirmation that we are processing your personal information; 
+  * request a copy of the personal information we hold about you; 
+  * request that we update the personal information we hold about you or correct such information that is inaccurate or incomplete; 
+  * restrict the way in which we use your personal information (e.g., if we have no legal right to keep using it) or limit our use of your personal information (e.g., if your personal information is inaccurate or unlawfully held); 
+  * object to our processing of your personal information; 
+  * withdraw the consent that you have given us to process your personal information (where we process your personal information on the basis of your consent); 
+  * request that your personal information be transferred to another organization in a structured, commonly used, and machine-readable format (to the extent applicable); 
+  * request that we delete the personal information we hold about you; and 
+  * lodge a complaint with the data protection or privacy authority in your country of residence regarding our processing of your personal information. 
 
-**Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
 
-Gracenote, Inc.  
-6255 Sunset Blvd.  
-Los Angeles, CA 90028 
 
-or email us [contact@studiosystem.com](mailto:contact@studiosystem.com)
+If you are interested in exercising one or more of the rights described above, please contact us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com). Please note that we may require proof of your identity before we can give effect to these rights. 
+
+###  _Additional information for EU/EEA residents_
+
+If you have any questions or concerns about our collection or use of your personal information, you can contact our EU Data Protection Officer at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com). 
+
+If you are unsatisfied with the way in which we have handled your personal information or any privacy query or request that you have raised to us, you have a right to complain to the appropriate National Data Protection Authority (“ **DPA** ”). To find the contact details of the DPA in your country of residence, please visit <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>. 
+
+###  **Special Notice to California Residents**
+
+If you are a resident of the state of California, you are entitled to request information regarding the disclosure of your personal information to third parties for direct marketing purposes. Please note that we do not share your personal information with non-affiliated third parties for such purposes. 
+
+###  **Honoring Do-Not-Track Browser Signals**
+
+“Do Not Track” (“ **DNT** ”) is a preference you can set in your web browser to let the websites you visit know that you do not want them collecting information about you. At this time, this Website does not respond to DNT or similar signals. 
+
+###  **Updates to this Privacy Statement**
+
+We may update and make changes to this Privacy Statement from time to time in light of, for example, changing business or personal data processing practices, technology, or legal requirements. When we make changes to this Privacy Statement, we will amend the “Last Revised” date at the top of this page. The most current version of this Privacy Statement will always be available here. We encourage you to review this Privacy Statement periodically to remain informed about how we are using and protecting your information. 
+
+###  **Contact Us**
+
+If you have any questions or concerns about this Privacy Statement or Gracenote’s information handling practices, please email us at [privacy.department@nielsen.com](mailto:privacy.department@nielsen.com) or write us at: 
+
+_For EU/EEA residents:_   
+Nielsen   
+Nielsen House   
+Oxford Business Park South   
+John Smith Drive   
+Oxford OX4 2WB   
+UK   
+Attn.: Legal Dept. 
+
+_For residents in all other countries:_   
+Nielsen   
+85 Broad Street   
+New York, NY 10004   
+USA   
+Attn.: Legal Dept. 
